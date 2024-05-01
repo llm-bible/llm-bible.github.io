@@ -1,8 +1,8 @@
-# Awesome Large Language Models!
+# The Large Language Model Bible!
 
-### A living literature review for the Large Language Model field
+### A living literature review for everything Large Language Models!
 
-This is the repository for the living literature review of the field of Large Language Models [https://llm-papers.github.io/](https://llm-papers.github.io/). 
+This is the repository for the living literature review of Large Language Modelling [https://llm-papers.github.io/](https://llm-papers.github.io/). 
 
 LMMs have taken the world by storm, providing a step change in the capabilities of AI's understanding of natural language, images and audio and other data modalities. Please 
 look at the website for more information and how to contribute your work or taxonomy to the website. 
