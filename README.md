@@ -1,4 +1,4 @@
-# The Large Language Model Bible!
+# The Large Language Model Bible
 
 ### A living literature review for everything Large Language Models!
 
