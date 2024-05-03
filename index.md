@@ -37,7 +37,7 @@ Anyone can add a paper to this web site, by completing a simple [web form](contr
 
 The core survey and the original taxonomy was created by
 
-* [Sean Moran](https://sjmoran.github.io) JP Morgan Chase, London, UK
+* [Sean Moran](https://sjmoran.github.io)
 
 #### Contributors to the website
 This website accepts external [contributions](/contributing.html).
