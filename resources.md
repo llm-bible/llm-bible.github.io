@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resources on Machine Learning for Big Code and Naturalness
+title: Resources on Large Language Models
 ---
 
 ### Presentations and Relevant Introductory Material
