@@ -8,7 +8,7 @@ baseurl:             ''
 collections:
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path/ 
 
 plugins_dir:
   - jekyll-sitemap
