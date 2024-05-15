@@ -8,6 +8,15 @@ Large Language Models (LLMs) represent a groundbreaking leap in artificial intel
 
 This website is dedicated to exploring the fascinating world of LLMs. Here, you will find a curated collection of research papers, Colab Notebooks, and educational materials to learn about LLMs. 
 
+#### 🏷 Browse Papers by Tag
+{% assign rawtags = Array.new %}
+{% for publication in site.publications %}
+  {% assign ttags = publication.tags  %}  
+  {% assign rawtags = rawtags | concat: ttags %}  
+{% endfor %}
+{% assign rawtags = rawtags | uniq | sort_natural %}
+{% for tag in rawtags %}<tag><a href="/tags.html#{{ tag }}">{{ tag }}</a></tag> {% endfor %}
+
 ### Exploring the LLM Architecture
 
 With the field moving so fast it is hard to understand where to begin. A good first step to fully leveraging Large Language Models (LLMs), is building up a solid understanding of the seminal Transformer architecture and the mechansisms by which this architecture ingests text (tokenization), processes the text to build an understanding of the context (attention) and predicts the best next token (text synthesis). 
@@ -22,15 +31,6 @@ With the field moving so fast it is hard to understand where to begin. A good fi
 Some useful links:
 
 * [MinBPE by Andrej Karpathy](https://github.com/karpathy/minbpe): Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
-  
-#### 🏷 Browse Papers by Tag
-{% assign rawtags = Array.new %}
-{% for publication in site.publications %}
-  {% assign ttags = publication.tags  %}  
-  {% assign rawtags = rawtags | concat: ttags %}  
-{% endfor %}
-{% assign rawtags = rawtags | uniq | sort_natural %}
-{% for tag in rawtags %}<tag><a href="/tags.html#{{ tag }}">{{ tag }}</a></tag> {% endfor %}
 
 ### About This Site
 
