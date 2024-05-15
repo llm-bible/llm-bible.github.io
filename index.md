@@ -19,7 +19,7 @@ This website is dedicated to exploring the fascinating world of LLMs. Here, you 
 
 ### Exploring the LLM Architecture
 
-With the field moving so fast it is hard to understand where to begin! The sidepanel on the right has links to advanced topics such as *Fine-Tuning*, *Prompt Engineering*, *Agents* and *Quantisation*. Before this, a good first step to fully leveraging Large Language Models (LLMs) is building up a solid understanding of the Transformer architecture and the mechansisms by which this architecture ingests text (tokenization), processes the text to build an understanding of the context (attention) and predicts the best next token (text synthesis). 
+With the field moving so fast it is hard to understand where to begin! The side panel on the right has links to advanced topics such as *Fine-Tuning*, *Prompt Engineering*, *Agents* and *Quantisation*. Before this, a good first step to fully leveraging Large Language Models (LLMs) is building up a solid understanding of the underlying Transformer architecture and how it ingests text (tokenization), processes the text to build an understanding of the context (attention) and predicts the best next token (text synthesis). 
 
 * **Tokenization Process**: Understand the method of transforming raw text into tokens, enabling the model to interpret and process the information.
 * **Transformer Fundamentals**: The Transformer architecture is the building block of many contemporary LLMs. The encoder-decoder and decoder-only variants of this architecture underpin many use-cases. 
