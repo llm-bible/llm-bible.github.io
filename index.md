@@ -29,16 +29,6 @@ you explore, [search and navigate]({% link papers.html %}) the literature in thi
 This research area is evolving so fast that a static review cannot keep up.
 But a website can! We hope to make this site a living document.
 Anyone can add a paper to this web site, by completing a simple [web form](contributing.html).
-
-### Contributors
-
-The core survey and the original taxonomy was created by
-
-* [Sean Moran](https://sjmoran.github.io)
-
-#### Contributors to the website
-This website accepts external [contributions](/contributing.html).
-Please, feel free to add your name below, once you contribute to this
 website. A comprehensive list can be found [here](https://github.com/ml4code/ml4code.github.io/graphs/contributors).
 
 Copyright © Sean Moran 2024. All opinions are my own.
