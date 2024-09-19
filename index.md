@@ -6,9 +6,9 @@ title: A Comprehensive Overview of Large Language Models (LLMs) with Papers, Res
 
 Large Language Models (LLMs) represent a groundbreaking leap in artificial intelligence, enabling machines to interpret, generate, and engage with human language in ways that are both profound and transformative. These models, trained on diverse datasets containing trillions of words, have become the backbone of numerous applications that influence how we gather information, make decisions, and interact with technology.
 
-This website is dedicated to exploring the fascinating world of LLMs. Here, you will find a curated collection of research papers, Colab Notebooks, and educational materials to learn about LLMs. 
-
 ![Emergent capabilities of LLMs with growing parameter count](llm-tree.gif)
+
+This website is dedicated to exploring the fascinating world of LLMs. Here, you will find a curated collection of research papers, Colab Notebooks, and educational materials to learn about LLMs. 
 
 #### 🏷 Browse Papers by Tag
 {% assign rawtags = Array.new %}
