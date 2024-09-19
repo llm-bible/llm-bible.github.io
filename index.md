@@ -8,6 +8,8 @@ Large Language Models (LLMs) represent a groundbreaking leap in artificial intel
 
 This website is dedicated to exploring the fascinating world of LLMs. Here, you will find a curated collection of research papers, Colab Notebooks, and educational materials to learn about LLMs. 
 
+![Emergent capabilities of LLMs with growing parameter count](llm-tree.gif)
+
 #### 🏷 Browse Papers by Tag
 {% assign rawtags = Array.new %}
 {% for publication in site.publications %}
