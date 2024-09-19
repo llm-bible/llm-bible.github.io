@@ -4,55 +4,46 @@ title: Resources on Large Language Models
 ---
 
 ### Presentations and Relevant Introductory Material
-
-* [Tutorial: An Introduction to Learning from Programs](http://vmcaischool19.tecnico.ulisboa.pt/) by Marc Brockschmidt in VMCAI Winter School 2019 [[slides](http://vmcaischool19.tecnico.ulisboa.pt/~vmcaischool19.daemon/wp/wordpress/wp-content/uploads/2019/01/Learning_from_Programs.pptx)]. 
-* [Tutorial: Modelling Natural Language, Programs, and their Intersection](http://naacl2018.org/tutorial.html) in NAACL HLT 2018, 1 June 2018, New Orleans, LA, USA [[slides](https://github.com/neubig/naacl18tutorial)] [[video](https://vimeo.com/channels/naacl2018/279154278)]
+TBA
 
 ### Datasets
-Some resources about Big Code and Naturalness can be found at [learnbigcode.github.io](http://learnbigcode.github.io).
-A list of datasets used in this area can be found at the appendix of the
-[survey](https://arxiv.org/abs/1709.06182) and at [learnbigcode.github.io](http://learnbigcode.github.io/datasets/).
+TBA
 
 ### Courses
-A few university courses are been taught covering aspects of machine learning for code, big code or naturalness of code. Below there are a few that have publicly available material.
-* [Analyzing Software using Deep Learning](http://software-lab.org/teaching/summer2020/asdl/) in University of Stuttgart [[videos](https://www.youtube.com/playlist?list=PLBmY8PAxzwIHIKq4tYLws25KqGvUM4iFD)]
-* [Seminars on Applications of Deep Learning in Software Engineering and Programming Languages](https://sites.google.com/view/mlplse-sp18/) in U.C. Berkeley
-* [Machine learning for programming](https://www.cl.cam.ac.uk/teaching/1920/P252/) in the University of Cambridge, UK
-* [Deep Learning for Symbolic Reasoning](http://tiarkrompf.github.io/cs590/2018/) in Purdue University
-* [Machine Learning for Software Engineering](http://gousios.org/courses/ml4se/) in TU Delft
 
-Please, feel free to submit a pull request to adding more links in this page.
+Below is a collection of university courses that offer a deep dive into the concepts, tools, and applications of Large Language Models (LLMs). These courses range from theoretical foundations to practical applications in business and data science.
+
+### 1. [Stanford University - TECH 16: Large Language Models for Business with Python](https://continuingstudies.stanford.edu/courses/professional-and-personal-development/large-language-models-for-business-with-python/20232_TECH-16)
+This course covers the use of LLMs in business applications, with a focus on practical programming with Python. Students learn how to integrate LLMs into business processes to drive innovation and efficiency.
+
+### 2. [Princeton University - COS 597G: Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
+A comprehensive course that dives into the mechanisms of LLMs, their ethical implications, and future directions. It explores safety, interpretability, and the societal impact of these models.
+
+### 3. [ETH Zürich - 263-5354-00L: Large Language Models](https://rycolab.io/classes/llm-s23/)
+Focused on the theoretical underpinnings and current developments of LLMs, this course covers a broad range of topics from model training to application.
+
+### 4. [University of Waterloo - Foundations of Large Language Models: Tools, Techniques, and Applications](https://watspeed.uwaterloo.ca/programs-and-courses/course-foundations-of-llms.html?id=1025128)
+This course introduces students to the fundamental concepts and tools required to build, train, and optimize LLMs, with an emphasis on their practical applications across industries.
+
+### 5. [Johns Hopkins University - 705.651.8VL: Large Language Models: Theory and Practice](https://apps.ep.jhu.edu/syllabus/fall-2023/705.651.8VL)
+This course delves into the theory and practical use of LLMs in various professional and academic settings. It is designed to give students both the theoretical framework and practical know-how.
+
+### 6. [University of Toronto - COMP790-101: Large Language Models](https://github.com/craffel/llm-seminar)
+This seminar-style course at the University of Toronto reviews the latest research on LLMs, covering both foundational knowledge and emerging trends in their development.
+
+### 7. [Stanford University - CS25: Transformers United V4](https://web.stanford.edu/class/cs25/)
+An advanced course on transformers, the backbone of LLMs, where students explore state-of-the-art research in transformers and how they relate to language processing tasks.
+
+### 8. [Carnegie Mellon University - 11-667: Large Language Models Methods and Applications](https://cmu-llms.org)
+This course covers the various applications of LLMs across fields like natural language processing, robotics, and AI safety, with hands-on projects to build practical experience.
 
 ### Workshops and Other Academic Events
-The last few years a few workshops have been organized in this area. Please, feel free to add any missing or future workshops here.
-
-* [Deep Learning for Code](https://dl4c.github.io) April 29 2022, ICLR 2022, virtual
-* [NLP4Prog Workshop](https://nlp4prog.github.io/2021/) 6 August 2021, ACL 2021, virtual
-* [Workshop on Computer-Assisted Programming](https://capworkshop.github.io/) 12 December 2020, NeurIPS 2020, virtual 
-* [ML on Code devroom at FOSDEM19](https://fosdem.org/2019/schedule/track/ml_on_code/) 2-3 February 2019, Brussels, EU [[videos](https://video.fosdem.org/2019/H.2213/)]
-* [Machine Learning for Programming](http://ml4p.org/) 18–19 July 2018, Oxford, UK [[videos](https://www.youtube.com/watch?v=dQaAp9wdFtQ&list=PLMPy362FkW9pd96bwh0BuCGMo6fdMQ2aw)]
-* [International Workshop on Machine Learning techniques for Programming Languages](https://conf.researchr.org/track/ecoop-issta-2018/ML4PL-2018-papers) 16 - 21 July 2018 Amsterdam, Netherlands
-* [Workshop on Machine Learning and Programming Languages](https://pldi18.sigplan.org/track/mapl-2018-papers) in PLDI 18 - 22 June 2018, Philadelphia, PA, USA
-* [Workshop on NLP for Software Engineering](https://nl4se.github.io/) 4 February 2018, New Orleans, LA, USA
-* [The 55th CREST Open Workshop - Bimodal Program Analysis](http://crest.cs.ucl.ac.uk/cow/55/) 30-31 October 2017, London, UK
-* [Workshop on NLP for Software Engineering](https://nlse-fse.github.io/) 13 November 2016, Seattle, WA, USA
-* [Programming with "Big Code"](http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=15472) 15-18 November 2015, Dagstuhl, Germany
-
-### Courses on Important Relevant Background
-
-* [Sofware Analysis](http://rightingcode.org/) at Univ. of Pennsylvania. It is a great introduction to Program Analysis [[videos](https://www.youtube.com/playlist?list=PLF3-CvSRq2SaApl3Lnu6Tu_ecsBr94543)]
-* [Program Analysis](https://software-lab.org/teaching/winter2020/pa/) at University of Stuttgart [[videos](https://www.youtube.com/playlist?list=PLBmY8PAxzwIEGtnJiucyGAnwWpxACE633)]
-* [Applications of Data Science for Software Engineering 2020](https://www.youtube.com/watch?v=34hcH7Js41I&list=PLmAXH4O57P5_0IflYjLIg8l0IupZPbdlY) at Eindhoven University of Technology.
+TBA
 
 ### Competitions
-* [nlc2cmd](http://nlc2cmd.us-east.mybluemix.net/#/) in NeurIPS 2020 by Project CLAI. Starts July 2020.
-* [CodeSearchNet Challenge: Evaluating the State of Semantic Code Search](https://github.com/github/CodeSearchNet) by Github. Starts Sep 2019.
-* [CodRep 2019: Machine Learning on Source Code Competition](https://github.com/KTH/codrep-2019) by KTH. Starts on April 25th 2019.
-* [CodRep 2018: Machine Learning on Source Code Competition](https://github.com/KTH/CodRep-competition) by KTH. Starts on April 14th 2018.
+TBA
 
 ### Other Collections of Related Work
-* [source{d}](https://sourced.tech/) has collected a set of links and
-papers in the area. You can access the list [here](https://github.com/src-d/awesome-machine-learning-on-source-code).
-* [Autormated Program Repair](https://www.monperrus.net/martin/automatic-software-repair)
-has a curated list of pointers for helping newcomers to understan the field,
-maintained by [Martin Monperrus](https://www.monperrus.net/martin/).
+TBA
+
+Please, feel free to submit a pull request to adding more links in this page.
