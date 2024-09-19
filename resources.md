@@ -6,8 +6,23 @@ title: Resources on Large Language Models
 ### Presentations and Relevant Introductory Material
 TBA
 
-### Datasets
-TBA
+### Blog Posts
+
+- [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
+  - A deep dive into how large language models are powering the next generation of autonomous agents, enabling systems to perform complex tasks with minimal human input.
+
+- [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
+  - Leaked internal Google document discussing the competitive landscape of AI and arguing that neither Google nor OpenAI have sustainable competitive advantages in the long term.
+
+- [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
+  - An introduction to prompt engineering techniques, providing guidelines on how to effectively interact with large language models to obtain the best results.
+
+- [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
+  - This article investigates how GPT models acquire their emergent abilities, tracing them back to the training data and architectures used.
+
+- [Why did all of the public reproduction of GPT-3 fail?](https://jingfengyang.github.io/gpt)
+  - This post explores the difficulties and challenges researchers faced when attempting to reproduce the capabilities of GPT-3, offering insights into why these efforts largely fell short.
+
 
 ### Courses
 
