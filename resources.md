@@ -45,6 +45,8 @@ TBA
 TBA
 
 ### Other Collections of Related Work
-TBA
+
+1. [Awesome-LLM: a curated list of Large Language Mode](https://github.com/Hannibal046/Awesome-LLM): A comprehensive and well-maintained repository that curates resources, papers, tools, and frameworks related to Large Language Models (LLMs). It covers a wide range of topics including model architectures, training techniques, and applications.
+
 
 Please, feel free to submit a pull request to adding more links in this page.
