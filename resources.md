@@ -3,7 +3,7 @@ layout: default
 title: Resources on Large Language Models
 ---
 
-## Blog Posts
+## Blog Posts & Useful Links
 
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/): A deep dive into how large language models are powering the next generation of autonomous agents, enabling systems to perform complex tasks with minimal human input.
 
