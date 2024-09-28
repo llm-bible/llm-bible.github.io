@@ -7,6 +7,6 @@ year: 2024
 bibkey: li2024q
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03856"}
-tags: ['ARXIV', 'Fine Tuning', 'LLM', 'Pretraining Methods', 'Reinforcement Learning', 'Supervised']
+tags: ['ARXIV', 'Agentic', 'Fine Tuning', 'LLM', 'Reinforcement Learning', 'Responsible AI', 'Training Techniques']
 ---
 We consider the problem of adapting Large Language Models (LLMs) pre-trained with Reinforcement Learning from Human Feedback (RLHF) to downstream preference data. Naive approaches to achieve this could be supervised fine-tuning on preferred responses or reinforcement learning with a learned reward model. However the LLM runs the risk of forgetting its initial knowledge as the fine-tuning progresses. To customize the LLM while preserving its existing capabilities this paper proposes a novel method named as Q-Adapter. We start by formalizing LLM adaptation as a problem of maximizing the linear combination of two rewards one of which corresponds to the reward optimized by the pre-trained LLM and the other to the downstream preference data. Although both rewards are unknown we show that this can be solved by directly learning a new module from the preference data that approximates the . We consider this module to be an adapter because the original pre-trained LLM together with it can form the optimal customised LLM. Empirically experiments on a range of domain-specific tasks and safety alignment tasks illustrate the superiority of Q-Adapter in both anti-forgetting and learning from new preferences.

@@ -7,6 +7,6 @@ year: 2024
 bibkey: botev2024recurrentgemma
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.07839"}
-tags: ['ARXIV', 'Model Architecture', 'Transformer']
+tags: ['ARXIV', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning', 'Transformer']
 ---
 We introduce RecurrentGemma a family of open language models which uses Googles novel Griffin architecture. Griffin combines linear recurrences with local attention to achieve excellent performance on language. It has a fixed-sized state which reduces memory use and enables efficient inference on long sequences. We provide two sizes of models containing 2B and 9B parameters and provide pre-trained and instruction tuned variants for both. Our models achieve comparable performance to similarly-sized Gemma baselines despite being trained on fewer tokens.

@@ -7,6 +7,6 @@ year: 2020
 bibkey: gupta2020gmat
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2006.03274"}
-tags: ['ARXIV', 'Language Modeling', 'Masked Language Model', 'Pretraining Methods', 'Transformer']
+tags: ['ARXIV', 'Attention Mechanism', 'Language Modeling', 'Model Architecture', 'Transformer']
 ---
 Transformer-based models have become ubiquitous in natural language processing thanks to their large capacity innate parallelism and high performance. The contextualizing component of a Transformer block is the attention that has a large Omega(L^2) memory requirement for length L sequences limiting its ability to process long documents. This has been the subject of substantial interest recently where multiple approximations were proposed to reduce the quadratic memory requirement using sparse attention matrices. In this work we propose to augment sparse Transformer blocks with a dense attention-based of length M (ll L) which provides an aggregate global view of the entire input sequence to each position. Our augmentation has a manageable O(Mcdot(L+M)) memory overhead and can be seamlessly integrated with prior sparse solutions. Moreover global memory can also be used for sequence compression by representing a long input sequence with the memory representations only. We empirically show that our method leads to substantial improvement on a range of tasks including (a) synthetic tasks that require global reasoning (b) masked language modeling and (c) reading comprehension.

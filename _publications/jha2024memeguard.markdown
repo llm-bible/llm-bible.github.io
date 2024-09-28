@@ -7,6 +7,6 @@ year: 2024
 bibkey: jha2024memeguard
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.05344"}
-tags: ['ARXIV', 'LLM', 'Multimodal Models', 'Tools']
+tags: ['ARXIV', 'LLM', 'Multimodal Models', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 In the digital world memes present a unique challenge for content moderation due to their potential to spread harmful content. Although detection methods have improved proactive solutions such as intervention are still limited with current research focusing mostly on text-based content neglecting the widespread influence of multimodal content like memes. Addressing this gap we present a comprehensive framework leveraging Large Language Models (LLMs) and Visual Language Models (VLMs) for meme intervention. harnesses a specially fine-tuned VLM for meme interpretation and a multimodal knowledge selection and ranking mechanism () for distilling relevant knowledge. This knowledge is then employed by a general-purpose LLM to generate contextually appropriate interventions. Another key contribution of this work is the ntervening yberbullying in ultimodal emes (ICMM) dataset a high-quality labeled dataset featuring toxic memes and their corresponding human-annotated interventions. We leverage to test demonstrating its proficiency in generating relevant and effective responses to toxic memes.

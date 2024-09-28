@@ -7,6 +7,6 @@ year: 2022
 bibkey: hu2022planet
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.09100"}
-tags: ['ARXIV', 'Attention Mechanism', 'Pretraining Methods', 'Tools', 'Transformer']
+tags: ['ARXIV', 'Attention Mechanism', 'Language Modeling', 'Model Architecture', 'RAG', 'Tools', 'Transformer']
 ---
 Despite recent progress of pre-trained language models on generating fluent text existing methods still suffer from incoherence problems in long-form text generation tasks that require proper content control and planning to form a coherent high-level logical flow. In this work we propose PLANET a novel generation framework leveraging autoregressive self-attention mechanism to conduct content planning and surface realization dynamically. To guide the generation of output sentences our framework enriches the Transformer decoder with latent representations to maintain sentence-level semantic plans grounded by bag-of-words. Moreover we introduce a new coherence-based contrastive learning objective to further improve the coherence of output. Extensive experiments are conducted on two challenging long-form text generation tasks including counterargument generation and opinion article generation. Both automatic and human evaluations show that our method significantly outperforms strong baselines and generates more coherent texts with richer contents.

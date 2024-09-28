@@ -7,6 +7,6 @@ year: 2024
 bibkey: ghanim2024jailbreaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.18725"}
-tags: ['ARXIV', 'GPT', 'Pretraining Methods', 'Prompt', 'Tools']
+tags: ['ARXIV', 'GPT', 'LLM', 'Prompt', 'Responsible AI', 'Security', 'Tools', 'Training Techniques']
 ---
 This study identifies the potential vulnerabilities of Large Language Models (LLMs) to jailbreak attacks specifically focusing on the Arabic language and its various forms. While most research has concentrated on English-based prompt manipulation our investigation broadens the scope to investigate the Arabic language. We initially tested the AdvBench benchmark in Standardized Arabic finding that even with prompt manipulation techniques like prefix injection it was insufficient to provoke LLMs into generating unsafe content. However when using Arabic transliteration and chatspeak (or arabizi) we found that unsafe content could be produced on platforms like OpenAI GPT-4 and Anthropic Claude 3 Sonnet. Our findings suggest that using Arabic and its various forms could expose information that might remain hidden potentially increasing the risk of jailbreak attacks. We hypothesize that this exposure could be due to the models learned connection to specific words highlighting the need for more comprehensive safety training across all language forms.

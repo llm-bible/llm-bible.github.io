@@ -7,6 +7,6 @@ year: 2024
 bibkey: qu2024mupt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.06393"}
-tags: ['ARXIV', 'Model Architecture', 'Transformer']
+tags: ['ARXIV', 'LLM', 'PRE Training', 'Training Techniques', 'Transformer']
 ---
 In this paper we explore the application of Large Language Models (LLMs) to the pre-training of music. While the prevalent use of MIDI in music modeling is well-established our findings suggest that LLMs are inherently more compatible with ABC Notation which aligns more closely with their design and strengths thereby enhancing the models performance in musical composition. To address the challenges associated with misaligned measures from different tracks during generation we propose the development of a Synchronized Multi-Track ABC Notation (SMT-ABC Notation) which aims to preserve coherence across multiple musical tracks. Our contributions include a series of models capable of handling up to 8192 tokens covering 90 of the symbolic music data in our training set. Furthermore we explore the implications of the Symbolic Music Scaling Law (SMS Law) on model performance. The results indicate a promising direction for future research in music generation offering extensive resources for community-led research through our open-source contributions.

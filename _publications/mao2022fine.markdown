@@ -7,6 +7,6 @@ year: 2022
 bibkey: mao2022fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.04243"}
-tags: ['ARXIV', 'Attention Mechanism', 'Fine Tuning', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['ARXIV', 'Attention Mechanism', 'Fine Tuning', 'GPT', 'Model Architecture', 'Transformer']
 ---
 Autoregressive Transformers are strong language models but incur O(T) complexity during per-token generation due to the self-attention mechanism. Recent work proposes kernel-based methods to approximate causal self-attention by replacing it with recurrent formulations with various update rules and feature maps to achieve O(1) time and memory complexity. We explore these approaches and find that they are unnecessarily complex and propose a simple alternative - decaying fast weights - that runs fast on GPU outperforms prior methods and retains 99 of attentions performance for GPT-2. We also show competitive performance on WikiText-103 against more complex attention substitutes.

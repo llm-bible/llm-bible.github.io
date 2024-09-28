@@ -7,6 +7,6 @@ year: 2024
 bibkey: hedderich2024piece
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17456"}
-tags: ['ARXIV', 'LLM', 'Pretraining Methods', 'Prompt', 'Tools']
+tags: ['ARXIV', 'LLM', 'Pretraining Methods', 'Prompt', 'Reinforcement Learning', 'Tools']
 ---
 Cyberbullying harms teenagers mental health and teaching them upstanding intervention is crucial. Wizard-of-Oz studies show chatbots can scale up personalized and interactive cyberbullying education but implementing such chatbots is a challenging and delicate task. We created a no-code chatbot design tool for K-12 teachers. Using large language models and prompt chaining our tool allows teachers to prototype bespoke dialogue flows and chatbot utterances. In offering this tool we explore teachers distinctive needs when designing chatbots to assist their teaching and how chatbot design tools might better support them. Our findings reveal that teachers welcome the tool enthusiastically. Moreover they see themselves as playwrights guiding both the students and the chatbots behaviors while allowing for some improvisation. Their goal is to enable students to rehearse both desirable and undesirable reactions to cyberbullying in a safe environment. We discuss the design opportunities LLM-Chains offer for empowering teachers and the research opportunities this work opens up.

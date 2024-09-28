@@ -7,6 +7,6 @@ year: 2024
 bibkey: zhou2024unibias
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.20612"}
-tags: ['ARXIV', 'Ethics And Bias', 'In Context Learning', 'LLM', 'Prompt']
+tags: ['ARXIV', 'Attention Mechanism', 'In Context Learning', 'LLM', 'Model Architecture', 'NLP', 'Prompt', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated impressive capabilities in various tasks using the in-context learning (ICL) paradigm. However their effectiveness is often compromised by inherent bias leading to prompt brittleness i.e. sensitivity to design settings such as example selection order and prompt formatting. Previous studies have addressed LLM bias through external adjustment of model outputs but the internal mechanisms that lead to such bias remain unexplored. Our work delves into these mechanisms particularly investigating how feedforward neural networks (FFNs) and attention heads result in the bias of LLMs. By Interpreting the contribution of individual FFN vectors and attention heads we identify the biased LLM components that skew LLMs prediction toward specific labels. To mitigate these biases we introduce UniBias an inference-only method that effectively identifies and eliminates biased FFN vectors and attention heads. Extensive experiments across 12 NLP datasets demonstrate that UniBias significantly enhances ICL performance and alleviates prompt brittleness of LLMs.

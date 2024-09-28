@@ -7,6 +7,6 @@ year: 2024
 bibkey: lyu2024dempt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.15200"}
-tags: ['ARXIV', 'Applications', 'Prompt']
+tags: ['ARXIV', 'Applications', 'LLM', 'Prompt']
 ---
 Generally the decoder-only large language models (LLMs) are adapted to context-aware neural machine translation (NMT) in a concatenating way where LLMs take the concatenation of the source sentence (i.e. intra-sentence context) and the inter-sentence context as the input and then to generate the target tokens sequentially. This adaptation strategy i.e. concatenation mode considers intra-sentence and inter-sentence contexts with the same priority despite an apparent difference between the two kinds of contexts. In this paper we propose an alternative adaptation approach named Decoding-enhanced Multi-phase Prompt Tuning (DeMPT) to make LLMs discriminately model and utilize the inter- and intra-sentence context and more effectively adapt LLMs to context-aware NMT. First DeMPT divides the context-aware NMT process into three separate phases. During each phase different continuous prompts are introduced to make LLMs discriminately model various information. Second DeMPT employs a heuristic way to further discriminately enhance the utilization of the source-side inter- and intra-sentence information at the final decoding phase. Experiments show that our approach significantly outperforms the concatenation method and further improves the performance of LLMs in discourse modeling.
