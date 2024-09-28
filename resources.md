@@ -3,7 +3,7 @@ layout: default
 title: Resources on Large Language Models
 ---
 
-### Blog Posts
+## Blog Posts
 
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/): A deep dive into how large language models are powering the next generation of autonomous agents, enabling systems to perform complex tasks with minimal human input.
 
@@ -37,8 +37,29 @@ Below is a collection of university and online courses that offer a deep dive in
 
 4. [DeepLearning.AI - Generative AI with Large Language Models](https://www.deeplearning.ai/courses/generative-ai-with-llms/): This course from DeepLearning.AI covers the key concepts of generative AI, with a particular focus on LLMs. It includes hands-on practice in fine-tuning LLMs, prompt engineering, and applying these models to real-world use cases.
   
-### Toola & Packages
+## Tools & Packages
 
+- [LangChain](https://python.langchain.com/docs/get_started/introduction): A framework for building LLM-powered applications with modular integrations, memory, and chaining prompts.
+
+- [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/): Connects LLMs with external data like documents and databases, ideal for knowledge-augmented applications.
+
+- [Dyson](https://github.com/turing-technologies/dyson): Enables dynamic instruction tuning and fine-tuning of LLMs with custom prompts and instructions.
+
+- [LangGraph](https://github.com/langchain-ai/langgraph): Integrates LLMs with graph-based data, enhancing structured data querying and reasoning.
+
+- [DeepSpeed](https://www.deepspeed.ai/): Optimizes large model training with techniques like ZeRO, quantization, and memory efficiency.
+
+- [Hugging Face Transformers](https://huggingface.co/docs/transformers): Provides tools for using, fine-tuning, and deploying transformer models like GPT and BERT.
+
+- [OpenRouter](https://openrouter.ai/): An open-source alternative for routing prompts through multiple LLM APIs like GPT-4 and Claude.
+
+- [Guidance](https://github.com/guidance-ai/guidance): A library to guide and structure LLM outputs programmatically for complex tasks.
+
+- [Haystack](https://haystack.deepset.ai/overview/intro): A framework for building scalable LLM-powered search and retrieval systems, including RAG pipelines.
+
+- [FastRAG](https://github.com/IntelLabs/fastRAG): Efficient framework for low-latency, scalable Retrieval-Augmented Generation (RAG) pipelines.
+
+- [DSPy](https://github.com/stanfordnlp/dspy): A library that allows you to optimize prompts and LLM outputs through programmatic evaluation.
 
 ### Books
 
