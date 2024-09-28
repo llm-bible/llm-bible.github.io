@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Ada-LEval Evaluating long-context LLMs with length-adaptable benchmarks
+authors: Wang Chonghua, Duan Haodong, Zhang Songyang, Lin Dahua, Chen Kai
+conference: "Arxiv"
+year: 2024
+bibkey: wang2024ada
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2404.06480"}
+  - {name: "Code", url: "https://github.com/open-compass/Ada-LEval"}
+tags: ['Model Architecture', 'Arxiv', 'LLM', 'Has Code']
+---
+Recently the large language model (LLM) community has shown increasing interest in enhancing LLMs capability to handle extremely long documents. As various long-text techniques and model architectures emerge the precise and detailed evaluation of models long-text capabilities has become increasingly important. Existing long-text evaluation benchmarks such as L-Eval and LongBench construct long-text test sets based on open-source datasets focusing mainly on QA and summarization tasks. These datasets include test samples of varying lengths (from 2k to 32k+) entangled together making it challenging to assess model capabilities across different length ranges. Moreover they do not cover the ultralong settings (100k+ tokens) that the latest LLMs claim to achieve. In this paper we introduce Ada-LEval a length-adaptable benchmark for evaluating the long-context understanding of LLMs. Ada-LEval includes two challenging subsets TSort and BestAnswer which enable a more reliable evaluation of LLMs long context capabilities. These benchmarks support intricate manipulation of the length of test cases and can easily produce text samples up to 128k tokens. We evaluate 4 state-of-the-art closed-source API models and 6 open-source models with Ada-LEval. The evaluation results demonstrate the limitations of current LLMs especially in ultra-long-context settings. Our code is available at https://github.com/open-compass/Ada-LEval.

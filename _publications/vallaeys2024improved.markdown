@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Improved Baselines for Data-efficient Perceptual Augmentation of LLMs
+authors: Vallaeys Théophane, Shukor Mustafa, Cord Matthieu, Verbeek Jakob
+conference: "Arxiv"
+year: 2024
+bibkey: vallaeys2024improved
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2403.13499"}
+tags: ['Vision-Language', 'Applications', 'Arxiv']
+---
+The abilities of large language models (LLMs) have recently progressed to unprecedented levels paving the way to novel applications in a wide variety of areas. In computer vision LLMs can be used to prime vision-language tasks such image captioning and visual question answering when coupled with pre-trained vision backbones. While different approaches have been explored to interface LLMs with perceptual backbones that process e.g. visual or audio data they are often explored for different tasks different datasets and using different perceptual backbones and language models hindering direct comparison of the interfacing mechanisms. To remedy this lack of comparability between methods we present an extensive experimental evaluation of different interfacing mechanisms across multiple tasks (including image video and audio captioning as well as visual question answering) datasets and backbones paying special attention to low-data settings. We find improved performance using existing mechanisms over state-of-the-art results and identify a new interfacing mechanism that yields (near) optimal results across different tasks while obtaining a 4x reduction in training time.

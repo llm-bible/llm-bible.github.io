@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Cheaply Evaluating Inference Efficiency Metrics for Autoregressive Transformer APIs
+authors: Narayanan Deepak, Santhanam Keshav, Henderson Peter, Bommasani Rishi, Lee Tony, Liang Percy
+conference: "Arxiv"
+year: 2023
+bibkey: narayanan2023cheaply
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2305.02440"}
+tags: ['Pretraining Methods', 'Transformer', 'Arxiv']
+---
+Large language models (LLMs) power many state-of-the-art systems in natural language processing. However these models are extremely computationally expensive even at inference time raising the natural question when is the extra cost of deploying a larger model worth the anticipated boost in capabilities Better understanding this tradeoff fundamentally could benefit from an inference efficiency metric that is both (i) easily comparable across models from different providers and (ii) representative of the true cost of running queries in an isolated performance environment. Unfortunately access to LLMs today is largely restricted to black-box text generation APIs and raw runtimes measured through this interface do not satisfy these desiderata model providers can apply various software and hardware optimizations orthogonal to the model and models served on shared infrastructure are susceptible to performance contention. To circumvent these problems we propose a new metric for comparing inference efficiency across models. This metric puts models on equal footing as though they were served (i) on uniform hardware and software and (ii) without performance contention. We call this metric the and we propose a methodology to efficiently estimate this metric for autoregressive Transformer models. We also propose cost-aware variants that incorporate the number of accelerators needed to serve the model. Using these metrics we compare ten state-of-the-art LLMs to provide the first analysis of inference efficiency-capability tradeoffs; we make several observations from this analysis including the fact that the superior inference runtime performance of certain APIs is often a byproduct of optimizations within the API rather than the underlying model. Our methodology also facilitates the efficient comparison of different software and hardware stacks.

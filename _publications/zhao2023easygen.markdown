@@ -1,0 +1,13 @@
+---
+layout: publication
+title: EasyGen Easing Multimodal Generation with BiDiffuser and LLMs
+authors: Zhao Xiangyu, Liu Bo, Liu Qijiong, Shi Guangyuan, Wu Xiao-ming
+conference: "Arxiv"
+year: 2023
+bibkey: zhao2023easygen
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.08949"}
+  - {name: "Code", url: "https://github.com/zxy556677/EasyGen"}
+tags: ['Has Code', 'Multimodal Models', 'Arxiv']
+---
+We present EasyGen an efficient model designed to enhance multimodal understanding and generation by harnessing the capabilities of diffusion models and large language models (LLMs) Unlike existing multimodal models that predominately depend on encoders like CLIP or ImageBind and need ample amounts of training data to bridge modalitiesEasyGen leverages BiDiffusera bidirectional conditional diffusion model to foster more efficient modality interactions. Easygen achieves text generation by training a projection layer linking BiDiffuser and an LLM and facilities image generation by training an adapter to align the LLMs text space with the BiDiffusers image space Comprehensive quantitative and qualitative experiments show that EasyGen excels in data-efficient training high-quality image generation and extendibility effectively addressing the challenges in multimodal generation. The source code is available at https://github.com/zxy556677/EasyGen.

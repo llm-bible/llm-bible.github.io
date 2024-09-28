@@ -1,0 +1,12 @@
+---
+layout: publication
+title: DeepSeek LLM Scaling Open-Source Language Models with Longtermism
+authors: Deepseek-ai, :, Bi Xiao, Chen Deli, Chen Guanting, Chen Shanhuang, Dai Damai, Deng Chengqi, Ding Honghui, Dong Kai, Du Qiushi, Fu Zhe, Gao Huazuo, Gao Kaige, Gao Wenjun, Ge Ruiqi, Guan Kang, Guo Daya, Guo Jianzhong, Hao Guangbo, Hao Zhewen, He Ying, Hu Wenjie, Huang Panpan, Li Erhang, Li Guowei, Li Jiashi, Li Yao, Li Y. K., Liang Wenfeng, Lin Fangyun, Liu A. X., Liu Bo, Liu Wen, Liu Xiaodong, Liu Xin, Liu Yiyuan, Lu Haoyu, Lu Shanghao, Luo Fuli, Ma Shirong, Nie Xiaotao, Pei Tian, Piao Yishi, Qiu Junjie, Qu Hui, Ren Tongzheng, Ren Zehui, Ruan Chong, Sha Zhangli, Shao Zhihong, Song Junxiao, Su Xuecheng, Sun Jingxiang, Sun Yaofeng, Tang Minghui, Wang Bingxuan, Wang Peiyi, Wang Shiyu, Wang Yaohui, Wang Yongji, Wu Tong, Wu Y., Xie Xin, Xie Zhenda, Xie Ziwei, Xiong Yiliang, Xu Hanwei, Xu R. X., Xu Yanhong, Yang Dejian, You Yuxiang, Yu Shuiping, Yu Xingkai, Zhang B., Zhang Haowei, Zhang Lecong, Zhang Liyue, Zhang Mingchuan, Zhang Minghua, Zhang Wentao, Zhang Yichao, Zhao Chenggang, Zhao Yao, Zhou Shangyan, Zhou Shunfeng, Zhu Qihao, Zou Yuheng
+conference: "Arxiv"
+year: 2024
+bibkey: deepseekai2024deepseek
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2401.02954"}
+tags: ['Arxiv', 'LLM', 'GPT', 'Scaling Laws', 'Supervised', 'Pretraining Methods']
+---
+The rapid development of open-source large language models (LLMs) has been truly remarkable. However the scaling law described in previous literature presents varying conclusions which casts a dark cloud over scaling LLMs. We delve into the study of scaling laws and present our distinctive findings that facilitate scaling of large scale models in two commonly used open-source configurations 7B and 67B. Guided by the scaling laws we introduce DeepSeek LLM a project dedicated to advancing open-source language models with a long-term perspective. To support the pre-training phase we have developed a dataset that currently consists of 2 trillion tokens and is continuously expanding. We further conduct supervised fine-tuning (SFT) and Direct Preference Optimization (DPO) on DeepSeek LLM Base models resulting in the creation of DeepSeek Chat models. Our evaluation results demonstrate that DeepSeek LLM 67B surpasses LLaMA-2 70B on various benchmarks particularly in the domains of code mathematics and reasoning. Furthermore open-ended evaluations reveal that DeepSeek LLM 67B Chat exhibits superior performance compared to GPT-3.5.

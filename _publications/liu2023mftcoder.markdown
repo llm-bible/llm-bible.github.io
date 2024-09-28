@@ -1,0 +1,13 @@
+---
+layout: publication
+title: MFTCoder Boosting Code LLMs with Multitask Fine-Tuning
+authors: Liu Bingchang, Chen Chaoyu, Liao Cong, Gong Zi, Wang Huan, Lei Zhichao, Liang Ming, Chen Dajun, Shen Min, Zhou Hailian, Yu Hang, Li Jianguo
+conference: "Arxiv"
+year: 2023
+bibkey: liu2023mftcoder
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2311.02303"}
+  - {name: "Code", url: "https://github.com/codefuse-ai/MFTCOder}"}
+tags: ['GPT', 'Pretraining Methods', 'Has Code', 'Arxiv']
+---
+Code LLMs have emerged as a specialized research field with remarkable studies dedicated to enhancing models coding capabilities through fine-tuning on pre-trained models. Previous fine-tuning approaches were typically tailored to specific downstream tasks or scenarios which meant separate fine-tuning for each task requiring extensive training resources and posing challenges in terms of deployment and maintenance. Furthermore these approaches failed to leverage the inherent interconnectedness among different code-related tasks. To overcome these limitations we present a multi-task fine-tuning framework MFTcoder that enables simultaneous and parallel fine-tuning on multiple tasks. By incorporating various loss functions we effectively address common challenges in multi-task learning such as data imbalance varying difficulty levels and inconsistent convergence speeds. Extensive experiments have conclusively demonstrated that our multi-task fine-tuning approach outperforms both individual fine-tuning on single tasks and fine-tuning on a mixed ensemble of tasks. Moreover MFTcoder offers efficient training capabilities including efficient data tokenization modes and PEFT fine-tuning resulting in significantly improved speed compared to traditional fine-tuning methods. MFTcoder seamlessly integrates with several mainstream open-source LLMs such as CodeLLama and Qwen. Leveraging the CodeLLama foundation our MFTcoder fine-tuned model achieves an impressive pass@1 score of 74.4 on the HumaneEval benchmark surpassing GPT-4 performance (67 zero-shot). MFTCoder is open-sourced at urlhttps://github.com/codefuse-ai/MFTCOder}

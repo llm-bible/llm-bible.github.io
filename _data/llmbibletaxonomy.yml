@@ -1,96 +1,2242 @@
-# In multiple categories
-- {bibkey: allamanis2015bimodal, categories: [generative, representational], type: Multimodal, representation: Syntax, input_rep: Natural language, modeled_target: Language Model, intermediate_rep: Distributed, model: Grammar (NN-LBL), application: Code Search/Synthesis}
-- {bibkey: dam2016deep, categories: [generative, representational], type: Language Model, representation: Token , input_rep: Token Context, modeled_target: LM (Tokens), intermediate_rep: Distributed, model: NN (LSTM), application: ---}
-- {bibkey: maddison2014structured, categories: [generative, representational], type: Language Model, representation: Syntax with scope , input_rep: LM AST Context, modeled_target: Language Model, intermediate_rep: Distributed, model: NN , application: --- }
-- {bibkey: rabinovich2017abstract, categories: [generative, representational], type: Multimodal, representation: Syntax , input_rep: LM AST context, modeled_target: LM (Syntax), intermediate_rep: Distributed, model: NN (LSTM-based), application: Code Synthesis}
-- {bibkey: white2015toward, categories: [generative, representational], type: Language Model, representation: Token , input_rep: Tokens, modeled_target: Language Model, model: NN (RNN) , intermediate_rep: Distributed, application: ---}
-- {bibkey: white2016deep, categories: [representational, pattern], representation: Token + Syntax , pattern_type: Distributed, input_rep: Token + AST, intermediate_rep: Distributed, application: Clone Detection }
-
-# Generative Models
-- {bibkey: aggarwal2015using, categories: [generative], type: Transducer, representation: Token , model: Phrase , application: Migration}
-- {bibkey: allamanis2013mining, categories: [generative], type: Language Model, representation: Token , model: n-gram , application: Idiom Mining }
-- {bibkey: allamanis2014learning, categories: [generative], type: Language Model, representation: Token + Location, model: n-gram, application: Coding Conventions}
-- {bibkey: allamanis2014mining, categories: [generative, pattern], type: Language Model, pattern_type: Graphical Model, representation: Syntax , model: Grammar (pTSG) , application: ---}
-- {bibkey: amodio2017neural, categories: [generative], type: Language Model, representation: Syntax+Constraints , model: RNN , application: ---}
-- {bibkey: barone2017parallel, categories: [generative], type: Multimodal, representation: Token , model: Neural MT , application: Documentation}
-- {bibkey: beltramelli2017pix2code, categories: [generative], type: Multimodal, representation: Token , model: NN (Encoder-Decoder) , application: GUI Code Synthesis}
-- {bibkey: bhatia2016automated, categories: [generative], type: Language Model, representation: Token , model: RNN (LSTM) , application: Syntax Error Correction}
-- {bibkey: bhoopchand2016learning, categories: [generative], type: Language Model, representation: Token , model: NN (Pointer Net) , application: Code Completion }
-- {bibkey: bielik2016phog, categories: [generative], type: Language Model, representation: Syntax , model: PCFG + annotations , application: Code Completion}
-- {bibkey: campbell2014syntax, categories: [generative], type: Language Model, representation: Token , model: n-gram , application: Syntax Error Detection }
-- {bibkey: cerulo2015irish, categories: [generative], type: Language Model, representation: Token , model: Graphical Model (HMM) , application: Information Extraction}
-- {bibkey: cummins2017synthesizing, categories: [generative], type: Language Model, representation: Character , model: NN (LSTM) , application: Benchmark Synthesis}
-- {bibkey: gulwani2014nlyze, categories: [generative], type: Multimodal, representation: Syntax , model: Phrase Model , application: Text-to-Code }
-- {bibkey: gvero2015synthesizing, categories: [generative], type: Language Model, representation: Syntax , model: PCFG + Search , application: Code Synthesis}
-- {bibkey: hellendoorn2015will, categories: [generative], type: Language Model, representation: Token , model: n-gram , application: Code Review}
-- {bibkey: hellendoorn2017deep, categories: [generative], type: Language Model, representation: token , model: n-gram (cache) , application: --  }
-- {bibkey: hindle2012naturalness, categories: [generative], type: Language Model, representation: Token , model: n-gram , application: Code Completion}
-- {bibkey: hsiao2014using, categories: [generative], type: Language Model, representation: PDG , model: n-gram , application: Program Analysis}
-- {bibkey: lin2017program, categories: [generative], type: Multimodal, representation: Tokens , model: NN (Seq2seq) , application: Synthesis}
-- {bibkey: ling2016latent, categories: [generative], type: Multimodal, representation: Token , model: RNN + Attention , application: Code Synthesis}
-- {bibkey: liu2016towards, categories: [generative], type: Language Model, representation: Token , model: n-gram , application: Obfuscation}
-- {bibkey: karaivanov2014phrase, categories: [generative], type: Transducer, representation: Token , model: Phrase , application: Migration}
-- {bibkey: karpathy2015visualizing, categories: [generative], type: Language Model, representation: Characters , model: RNN (LSTM), application: ---}
-- {bibkey: kushman2013using, categories: [generative], type: Multimodal, representation: Token , model: Grammar (CCG) , application: Code Synthesis}
-- {bibkey: menon2013machine, categories: [generative], type: Multimodal, representation: Syntax , model: PCFG + annotations , application: Code Synthesis}
-- {bibkey: nguyen2013lexical, categories: [generative], type: Transducer, representation: Token , model: Phrase , application: Migration}
-- {bibkey: nguyen2013statistical, categories: [generative], type: Language Model, representation: Token + parse info , model: n-gram , application: Code Completion}
-- {bibkey: nguyen2015divide, categories: [generative], type: Transducer, representation: Token + parse info , model: Phrase SMT , application: Migration}
-- {bibkey: nguyen2015graph, categories: [generative], type: Language Model, representation: Partial PDG , model: n-gram , application: Code Completion}
-- {bibkey: oda2015learning, categories: [generative], type: Transducer, representation: Syntax + Token , model: Tree-to-String + Phrase , application: Pseudocode Generation}
-- {bibkey: patra2016learning, categories: [generative], type: Language Model, representation: Syntax , model: Annotated PCFG , application: Fuzz Testing}
-- {bibkey: pham2016learning, categories: [generative], type: Language Model, representation: Bytecode , model: Graphical Model (HMM) , application: Code Completion}
-- {bibkey: pu2016skp, categories: [generative], type: Transducer, representation: Token , model: NN (Seq2seq) , application: Code Fixing}
-- {bibkey: raychev2014code, categories: [generative], type: Language Model, representation: Token + Constraints , model: n-gram/ RNN , application: Code Completion}
-- {bibkey: ray2015naturalness, categories: [generative], type: Language Model, representation: Token , model: n-gram (cache) , application: Bug Detection}
-- {bibkey: raychev2016learning, categories: [generative], type: Language Model, representation: Syntax , model: PCFG + annotations , application: Code Completion}
-- {bibkey: saraiva2015products, categories: [generative], type: Language Model, representation: Token , model: n-gram , application: ---}
-- {bibkey: sharma2015nirmal, categories: [generative], type: Language Model, representation: Token , model: n-gram , application: Information Extraction}
-- {bibkey: tu2014localness, categories: [generative], type: Language Model, representation: Token , model: n-gram (cache) , application: Code Completion}
-- {bibkey: vasilescu2017recovering, categories: [generative], type: Transducer, representation: Token , model:  , application: Deobfuscation}
-- {bibkey: wang2016neural, categories: [generative], type: Language Model, representation: Syntax , model: NN (LSTM), application: Code Completion }
-- {bibkey: yadid2016extracting, categories: [generative], type: Language Model, representation: Token , model: n-gram , application: Information Extraction}
-- {bibkey: yin2017syntactic, categories: [generative], type: Multimodal, representation: Syntax , model: NN (Seq2seq) , application: Synthesis}
-
-# Representational Models
-- {bibkey: allamanis2015suggesting, categories: [representational], input_rep: Token Context , modeled_target: Identifier Name , intermediate_rep: Distributed , application: Naming  }
-- {bibkey: allamanis2016convolutional, categories: [representational], input_rep: Tokens , modeled_target: Method Name , intermediate_rep: Distributed , application: Naming }
-- {bibkey: allamanis2017smartpaste, categories: [representational], input_rep: Data Flow , modeled_target: Variable Allocation , intermediate_rep: Distributed , application: Contextualization }
-- {bibkey: bichsel2016statistical, categories: [representational], input_rep: Dependency Net , modeled_target: Identifier Name , intermediate_rep: CRF (GM) , application: Deobfuscation  }
-- {bibkey: bruch2009learning, categories: [representational], input_rep: Partial Object Use , modeled_target: Invoked Method , intermediate_rep: Localized , application: Code Completion }
-- {bibkey: chae2016automatically, categories: [representational], input_rep: Data Flow Graph , modeled_target: Static Analysis , intermediate_rep: Localized , application: Program Analysis }
-- {bibkey: corley2015exploring, categories: [representational], input_rep: Tokens , modeled_target: Feature Location , intermediate_rep: Distributed , application: Feature Location }
-- {bibkey: cummins2017end, categories: [representational], input_rep: Tokens , modeled_target: Optimization Flags , intermediate_rep: Distributed , application: Optimization Heuristics }
-- {bibkey: gu2016deep, categories: [representational], input_rep: Natural Language , modeled_target: API Calls , intermediate_rep: Distributed , application: API Search }
-- {bibkey: guo2017semantically, categories: [representational], input_rep: Tokens , modeled_target: Traceability link , intermediate_rep: Distributed , application: Traceability }
-- {bibkey: gupta2017deepfix, categories: [representational], input_rep: Tokens , modeled_target: Code Fix , intermediate_rep: Distributed , application: Code Fixing }
-- {bibkey: hu2017codesum, categories: [representational], input_rep: Linearized AST , modeled_target: Natural Language , intermediate_rep: Distributed , application: Summarization }
-- {bibkey: iyer2016summarizing, categories: [representational], input_rep: Tokens , modeled_target: Natural Language , intermediate_rep: Distributed , application: Summarization }
-- {bibkey: jiang2017automatically, categories: [representational], input_rep: Tokens (Diff) , modeled_target: Natural Language , intermediate_rep: Distributed , application: Commit Message }
-- {bibkey: koc2017learning, categories: [representational], input_rep: Bytecode , modeled_target: False Positives , intermediate_rep: Distributed , application: Program Analysis }
-- {bibkey: kremenek2007factor, categories: [representational], input_rep: Partial PDG , modeled_target: Ownership , intermediate_rep: Factor (GM) , application: Pointer Ownership }
-- {bibkey: levy2017learning, categories: [representational], input_rep: Statements, modeled_target: Alignment , intermediate_rep: Distributed , application: Decompiling }
-- {bibkey: li2015gated, categories: [representational], input_rep: Memory Heap , modeled_target: Separation Logic , intermediate_rep: Distributed , application: Verification }
-- {bibkey: loyola2017neural, categories: [representational], input_rep: Tokens (Diff) , modeled_target: Natural Language , intermediate_rep: Distributed , application: Explain code changes }
-- {bibkey: mangal2015user, categories: [representational], input_rep: Logic + Feedback , modeled_target: Prob. Analysis , intermediate_rep: MaxSAT , application: Program Analysis }
-- {bibkey: movshovitz2013natural, categories: [representational], input_rep: Tokens , modeled_target: Code Comments , intermediate_rep: Directed GM , application: Comment Prediction }
-- {bibkey: mou2016convolutional, categories: [representational], input_rep: Syntax , modeled_target: Classification , intermediate_rep: Distributed , application: Task Classification }
-- {bibkey: nguyen2016mapping, categories: [representational], input_rep: API Calls , modeled_target: API Calls , intermediate_rep: Distributed , application: Migration }
-- {bibkey: omar2013structured, categories: [representational], input_rep: Syntactic Context , modeled_target: Expressions , intermediate_rep: Directed GM , application: Code Completion }
-- {bibkey: oh2015learning, categories: [representational], input_rep: Features , modeled_target: Analysis Params , intermediate_rep: Static Analysis , application: Program Analysis }
-- {bibkey: piech2015learning, categories: [representational], input_rep: Syntax + State , modeled_target: Student Feedback , intermediate_rep: Distributed , application: Student Feedback }
-- {bibkey: proksch2015intelligent, categories: [representational], input_rep: Inc. Object Usage , modeled_target: Object Usage , intermediate_rep: Directed GM , application: Code Completion }
-- {bibkey: raychev2015predicting, categories: [representational], input_rep: Dependency Net , modeled_target: Types + Names , intermediate_rep: CRF (GM) , application: Types + Names }
-- {bibkey: wang2016bugram, categories: [representational], input_rep: Tokens , modeled_target: Defects , intermediate_rep: LM (\ngram) , application: Bug Detection }
-- {bibkey: zaremba2014learning, categories: [representational], input_rep: Characters , modeled_target: Execution Trace , intermediate_rep: Distributed , application: --- }
-- {bibkey: alon2018general, categories: [representational], input_rep: AST Paths , modeled_target: General-Purpose , intermediate_rep: Localized+Distributed , application: General-Purpose}
-
-# Pattern Models
-- {bibkey: allamanis2017mining, categories: [pattern], representation: Abstracted AST , pattern_type: Graphical Model , application: Semantic Idiom Mining }
-- {bibkey: fowkes2016parameter, categories: [pattern], representation: API Call Sequences , pattern_type: Graphical Model , application: API Mining }
-- {bibkey: murali2017bayesian, categories: [pattern], representation: Sketch Synthesis , pattern_type: Graphical Model , application: Sketch Mining }
-- {bibkey: murali2017finding, categories: [pattern], representation: API Usage Errors , pattern_type: Graphical Model , application: Defect Prediction }
-- {bibkey: movshovitz2015kb, categories: [pattern], representation: Tokens , pattern_type: Graphical Model , application: Knowledge-Base Mining }
-- {bibkey: nguyen2017exploring, categories: [pattern], representation: API Usage , pattern_type: Distributed , application: API Mining }
-- {bibkey: fowkes2017autofolding, categories: [pattern], representation: Tokens , pattern_type: Graphical Model , application: Code Summarization }
-- {bibkey: wang2016automatically, categories: [pattern], representation: Serialized ASTs , pattern_type: Distributed , application: Defect Prediction }
+# Model Architecture
+- {bibkey: ahmed2017weighted, categories: ['Model Architecture']}
+- {bibkey: popel2018training, categories: ['Model Architecture']}
+- {bibkey: junczysdowmunt2018ms, categories: ['Model Architecture']}
+- {bibkey: devlin2018bert, categories: ['Model Architecture']}
+- {bibkey: so2019evolved, categories: ['Model Architecture']}
+- {bibkey: chiang2019learning, categories: ['Model Architecture']}
+- {bibkey: wang2019language, categories: ['Model Architecture']}
+- {bibkey: sukhbaatar2019adaptive, categories: ['Model Architecture']}
+- {bibkey: hoang2019efficient, categories: ['Model Architecture']}
+- {bibkey: alikaniotis2019unreasonable, categories: ['Model Architecture']}
+- {bibkey: xiao2019sharing, categories: ['Model Architecture']}
+- {bibkey: li2019incremental, categories: ['Model Architecture']}
+- {bibkey: libovický2019probing, categories: ['Model Architecture']}
+- {bibkey: keskar2019ctrl, categories: ['Model Architecture']}
+- {bibkey: hoover2019exbert, categories: ['Model Architecture']}
+- {bibkey: parisotto2019stabilizing, categories: ['Model Architecture']}
+- {bibkey: huang2019inset, categories: ['Model Architecture']}
+- {bibkey: hu2019iterative, categories: ['Model Architecture']}
+- {bibkey: li2020bridging, categories: ['Model Architecture']}
+- {bibkey: yang2020iart, categories: ['Model Architecture']}
+- {bibkey: clark2020transformers, categories: ['Model Architecture']}
+- {bibkey: fan2020addressing, categories: ['Model Architecture']}
+- {bibkey: shalyminov2020hybrid, categories: ['Model Architecture']}
+- {bibkey: zandie2020emptransfo, categories: ['Model Architecture']}
+- {bibkey: huang2020trans, categories: ['Model Architecture']}
+- {bibkey: desai2020calibration, categories: ['Model Architecture']}
+- {bibkey: kim2020code, categories: ['Model Architecture']}
+- {bibkey: li2020transformers, categories: ['Model Architecture']}
+- {bibkey: sajjad2020effect, categories: ['Model Architecture']}
+- {bibkey: vanbiljon2020optimal, categories: ['Model Architecture']}
+- {bibkey: beltagy2020longformer, categories: ['Model Architecture']}
+- {bibkey: liu2020understanding, categories: ['Model Architecture']}
+- {bibkey: wu2020lite, categories: ['Model Architecture']}
+- {bibkey: fan2020augmenting, categories: ['Model Architecture']}
+- {bibkey: subramanian2020multi, categories: ['Model Architecture']}
+- {bibkey: tay2020synthesizer, categories: ['Model Architecture']}
+- {bibkey: lopez2020simplifying, categories: ['Model Architecture']}
+- {bibkey: lei2020mart, categories: ['Model Architecture']}
+- {bibkey: bhargava2020adaptive, categories: ['Model Architecture']}
+- {bibkey: svyatkovskiy2020intellicode, categories: ['Model Architecture']}
+- {bibkey: wang2020hat, categories: ['Model Architecture']}
+- {bibkey: lauriola2020context, categories: ['Model Architecture']}
+- {bibkey: hashemi2020guided, categories: ['Model Architecture']}
+- {bibkey: yan2020off, categories: ['Model Architecture']}
+- {bibkey: gemmell2020relevance, categories: ['Model Architecture']}
+- {bibkey: agafonova2020paranoid, categories: ['Model Architecture']}
+- {bibkey: zaheer2020big, categories: ['Model Architecture']}
+- {bibkey: mehta2020delight, categories: ['Model Architecture']}
+- {bibkey: liu2020very, categories: ['Model Architecture']}
+- {bibkey: li2020transformer, categories: ['Model Architecture']}
+- {bibkey: pietruszka2020sparsifying, categories: ['Model Architecture']}
+- {bibkey: ye2020contrastive, categories: ['Model Architecture']}
+- {bibkey: roh2020hierarchical, categories: ['Model Architecture']}
+- {bibkey: gontier2020measuring, categories: ['Model Architecture']}
+- {bibkey: gabriel2020paragraph, categories: ['Model Architecture']}
+- {bibkey: hua2020pair, categories: ['Model Architecture']}
+- {bibkey: yang2020sub, categories: ['Model Architecture']}
+- {bibkey: narayan2020stepwise, categories: ['Model Architecture']}
+- {bibkey: clement2020pymt5, categories: ['Model Architecture']}
+- {bibkey: nagarajan2020axformer, categories: ['Model Architecture']}
+- {bibkey: yu2020assessing, categories: ['Model Architecture']}
+- {bibkey: parthasarathi2020task, categories: ['Model Architecture']}
+- {bibkey: kar2020meta, categories: ['Model Architecture']}
+- {bibkey: gou2020contextualize, categories: ['Model Architecture']}
+- {bibkey: wrzalik2020cort, categories: ['Model Architecture']}
+- {bibkey: yan2020multi, categories: ['Model Architecture']}
+- {bibkey: sachan2020stronger, categories: ['Model Architecture']}
+- {bibkey: xue2020mt5, categories: ['Model Architecture']}
+- {bibkey: lin2020readonce, categories: ['Model Architecture']}
+- {bibkey: wang2020lightseq, categories: ['Model Architecture']}
+- {bibkey: bebensee2020co, categories: ['Model Architecture']}
+- {bibkey: araabi2020optimizing, categories: ['Model Architecture']}
+- {bibkey: wang2020rethinking, categories: ['Model Architecture']}
+- {bibkey: santra2020hierarchical, categories: ['Model Architecture']}
+- {bibkey: chen2020exploring, categories: ['Model Architecture']}
+- {bibkey: wang2020encoding, categories: ['Model Architecture']}
+- {bibkey: zhang2020future, categories: ['Model Architecture']}
+- {bibkey: ferreira2021open, categories: ['Model Architecture']}
+- {bibkey: topal2021exploring, categories: ['Model Architecture']}
+- {bibkey: nogueira2021investigating, categories: ['Model Architecture']}
+- {bibkey: plepi2021context, categories: ['Model Architecture']}
+- {bibkey: huertastato2021silt, categories: ['Model Architecture']}
+- {bibkey: wang2021dodrio, categories: ['Model Architecture']}
+- {bibkey: chefer2021generic, categories: ['Model Architecture']}
+- {bibkey: jaunet2021visqa, categories: ['Model Architecture']}
+- {bibkey: mittal2021distantly, categories: ['Model Architecture']}
+- {bibkey: wu2021not, categories: ['Model Architecture']}
+- {bibkey: nagoudi2021indt5, categories: ['Model Architecture']}
+- {bibkey: liu2021augmenting, categories: ['Model Architecture']}
+- {bibkey: gritta2021xeroalign, categories: ['Model Architecture']}
+- {bibkey: basafa2021nlp, categories: ['Model Architecture']}
+- {bibkey: kovaleva2021bert, categories: ['Model Architecture']}
+- {bibkey: phan2021cotext, categories: ['Model Architecture']}
+- {bibkey: li2021personalized, categories: ['Model Architecture']}
+- {bibkey: desai2021diagnosing, categories: ['Model Architecture']}
+- {bibkey: jiang2021enriching, categories: ['Model Architecture']}
+- {bibkey: su2021ernie, categories: ['Model Architecture']}
+- {bibkey: gao2021scalable, categories: ['Model Architecture']}
+- {bibkey: hazarika2021zero, categories: ['Model Architecture']}
+- {bibkey: laverghetta2021can, categories: ['Model Architecture']}
+- {bibkey: oconnor2021what, categories: ['Model Architecture']}
+- {bibkey: lin2021domain, categories: ['Model Architecture']}
+- {bibkey: voropaev2021transformers, categories: ['Model Architecture']}
+- {bibkey: matsumori2021unified, categories: ['Model Architecture']}
+- {bibkey: kim2021learned, categories: ['Model Architecture']}
+- {bibkey: chaabouni2021can, categories: ['Model Architecture']}
+- {bibkey: laban2021can, categories: ['Model Architecture']}
+- {bibkey: rothermel2021dont, categories: ['Model Architecture']}
+- {bibkey: qian2021structural, categories: ['Model Architecture']}
+- {bibkey: clement2021distilling, categories: ['Model Architecture']}
+- {bibkey: suglia2021embodied, categories: ['Model Architecture']}
+- {bibkey: aguilera2021regularizing, categories: ['Model Architecture']}
+- {bibkey: martins2021infty, categories: ['Model Architecture']}
+- {bibkey: kim2021what, categories: ['Model Architecture']}
+- {bibkey: ferrando2021attention, categories: ['Model Architecture']}
+- {bibkey: kahardipraja2021towards, categories: ['Model Architecture']}
+- {bibkey: chen2021multimodal, categories: ['Model Architecture']}
+- {bibkey: so2021primer, categories: ['Model Architecture']}
+- {bibkey: nagoudi2021arat5, categories: ['Model Architecture']}
+- {bibkey: jiang2021inducing, categories: ['Model Architecture']}
+- {bibkey: friedrich2021interactively, categories: ['Model Architecture']}
+- {bibkey: chilkuri2021language, categories: ['Model Architecture']}
+- {bibkey: shim2021layer, categories: ['Model Architecture']}
+- {bibkey: zuo2021taming, categories: ['Model Architecture']}
+- {bibkey: ji2021discodvt, categories: ['Model Architecture']}
+- {bibkey: dejong2021mention, categories: ['Model Architecture']}
+- {bibkey: bhojanapalli2021leveraging, categories: ['Model Architecture']}
+- {bibkey: shah2021audio, categories: ['Model Architecture']}
+- {bibkey: nguyen2021improving, categories: ['Model Architecture']}
+- {bibkey: huang2021unifying, categories: ['Model Architecture']}
+- {bibkey: nawrot2021hierarchical, categories: ['Model Architecture']}
+- {bibkey: dou2021empirical, categories: ['Model Architecture']}
+- {bibkey: masum2021transformer, categories: ['Model Architecture']}
+- {bibkey: lin2021multimodal, categories: ['Model Architecture']}
+- {bibkey: zhang2021towards, categories: ['Model Architecture']}
+- {bibkey: guo2021longt5, categories: ['Model Architecture']}
+- {bibkey: jayanthi2021evaluating, categories: ['Model Architecture']}
+- {bibkey: guan2021block, categories: ['Model Architecture']}
+- {bibkey: gui2021kat, categories: ['Model Architecture']}
+- {bibkey: biten2021latr, categories: ['Model Architecture']}
+- {bibkey: nguyen2021materialized, categories: ['Model Architecture']}
+- {bibkey: gontier2022does, categories: ['Model Architecture']}
+- {bibkey: sikarwar2022efficacy, categories: ['Model Architecture']}
+- {bibkey: li2022clinical, categories: ['Model Architecture']}
+- {bibkey: kusupati2022natural, categories: ['Model Architecture']}
+- {bibkey: tan2022acort, categories: ['Model Architecture']}
+- {bibkey: wang2022lilt, categories: ['Model Architecture']}
+- {bibkey: yang2022tableformer, categories: ['Model Architecture']}
+- {bibkey: sartran2022transformer, categories: ['Model Architecture']}
+- {bibkey: he2022hyperprompt, categories: ['Model Architecture']}
+- {bibkey: wu2022memorizing, categories: ['Model Architecture']}
+- {bibkey: yu2022bilaterally, categories: ['Model Architecture']}
+- {bibkey: misra2022minicons, categories: ['Model Architecture']}
+- {bibkey: haviv2022transformer, categories: ['Model Architecture']}
+- {bibkey: zhu2022syntax, categories: ['Model Architecture']}
+- {bibkey: barkan2022grad, categories: ['Model Architecture']}
+- {bibkey: ding2022cogview2, categories: ['Model Architecture']}
+- {bibkey: chen2022utc, categories: ['Model Architecture']}
+- {bibkey: zhang2022opt, categories: ['Model Architecture']}
+- {bibkey: feng2022learn, categories: ['Model Architecture']}
+- {bibkey: white2022mixed, categories: ['Model Architecture']}
+- {bibkey: pfeiffer2022lifting, categories: ['Model Architecture']}
+- {bibkey: guan2022transkimmer, categories: ['Model Architecture']}
+- {bibkey: liu2022transformer, categories: ['Model Architecture']}
+- {bibkey: diliello2022pre, categories: ['Model Architecture']}
+- {bibkey: puccetti2022outliers, categories: ['Model Architecture']}
+- {bibkey: ferrando2022towards, categories: ['Model Architecture']}
+- {bibkey: wu2022extreme, categories: ['Model Architecture']}
+- {bibkey: yao2022zeroquant, categories: ['Model Architecture']}
+- {bibkey: ahmed2022few, categories: ['Model Architecture']}
+- {bibkey: wang2022s, categories: ['Model Architecture']}
+- {bibkey: green2022massively, categories: ['Model Architecture']}
+- {bibkey: du2022contrastive, categories: ['Model Architecture']}
+- {bibkey: dettmers2022llmint8, categories: ['Model Architecture']}
+- {bibkey: chochlakis2022vault, categories: ['Model Architecture']}
+- {bibkey: lin2022gentus, categories: ['Model Architecture']}
+- {bibkey: corbeil2022building, categories: ['Model Architecture']}
+- {bibkey: fu2022empirical, categories: ['Model Architecture']}
+- {bibkey: piergiovanni2022pre, categories: ['Model Architecture']}
+- {bibkey: wu2022stateful, categories: ['Model Architecture']}
+- {bibkey: haviv2022understanding, categories: ['Model Architecture']}
+- {bibkey: sha2022bird, categories: ['Model Architecture']}
+- {bibkey: held2022shapley, categories: ['Model Architecture']}
+- {bibkey: loedeman2022prompt, categories: ['Model Architecture']}
+- {bibkey: meng2022mass, categories: ['Model Architecture']}
+- {bibkey: friedrich2022revision, categories: ['Model Architecture']}
+- {bibkey: luo2022biogpt, categories: ['Model Architecture']}
+- {bibkey: lee2022littlebird, categories: ['Model Architecture']}
+- {bibkey: condevaux2022lsg, categories: ['Model Architecture']}
+- {bibkey: wu2022efficient, categories: ['Model Architecture']}
+- {bibkey: frantar2022gptq, categories: ['Model Architecture']}
+- {bibkey: hassid2022how, categories: ['Model Architecture']}
+- {bibkey: yeong2022alzheimers, categories: ['Model Architecture']}
+- {bibkey: richardson2022breakpoint, categories: ['Model Architecture']}
+- {bibkey: ma2022torchscale, categories: ['Model Architecture']}
+- {bibkey: park2022relation, categories: ['Model Architecture']}
+- {bibkey: han2022luna, categories: ['Model Architecture']}
+- {bibkey: mehta2022dsi, categories: ['Model Architecture']}
+- {bibkey: sun2022length, categories: ['Model Architecture']}
+- {bibkey: dai2022why, categories: ['Model Architecture']}
+- {bibkey: gozalobrizuela2023chatgpt, categories: ['Model Architecture']}
+- {bibkey: li2023graphix, categories: ['Model Architecture']}
+- {bibkey: baykal2023alternating, categories: ['Model Architecture']}
+- {bibkey: zhang2023history, categories: ['Model Architecture']}
+- {bibkey: peng2023efficient, categories: ['Model Architecture']}
+- {bibkey: hacker2023regulating, categories: ['Model Architecture']}
+- {bibkey: dehghani2023scaling, categories: ['Model Architecture']}
+- {bibkey: hendy2023how, categories: ['Model Architecture']}
+- {bibkey: liang2023homodistil, categories: ['Model Architecture']}
+- {bibkey: kocoń2023chatgpt, categories: ['Model Architecture']}
+- {bibkey: ding2023fluid, categories: ['Model Architecture']}
+- {bibkey: shahriar2023lets, categories: ['Model Architecture']}
+- {bibkey: wang2023learning, categories: ['Model Architecture']}
+- {bibkey: wu2023visual, categories: ['Model Architecture']}
+- {bibkey: savelka2023large, categories: ['Model Architecture']}
+- {bibkey: ruscio2023attention, categories: ['Model Architecture']}
+- {bibkey: openai2023gpt, categories: ['Model Architecture']}
+- {bibkey: din2023jump, categories: ['Model Architecture']}
+- {bibkey: chen2023generate, categories: ['Model Architecture']}
+- {bibkey: lund2023chatgpt, categories: ['Model Architecture']}
+- {bibkey: jojic2023gpt, categories: ['Model Architecture']}
+- {bibkey: hariri2023unlocking, categories: ['Model Architecture']}
+- {bibkey: huang2023chatgpt, categories: ['Model Architecture']}
+- {bibkey: lai2023chatgpt, categories: ['Model Architecture']}
+- {bibkey: bahrini2023chatgpt, categories: ['Model Architecture']}
+- {bibkey: bulatov2023scaling, categories: ['Model Architecture']}
+- {bibkey: martínezcruz2023chatgpt, categories: ['Model Architecture']}
+- {bibkey: he2023multimodal, categories: ['Model Architecture']}
+- {bibkey: baktash2023gpt, categories: ['Model Architecture']}
+- {bibkey: chi2023transformer, categories: ['Model Architecture']}
+- {bibkey: savelka2023unlocking, categories: ['Model Architecture']}
+- {bibkey: ferrando2023explaining, categories: ['Model Architecture']}
+- {bibkey: mao2023unitrec, categories: ['Model Architecture']}
+- {bibkey: sridhara2023chatgpt, categories: ['Model Architecture']}
+- {bibkey: ruoss2023randomized, categories: ['Model Architecture']}
+- {bibkey: shi2023crossget, categories: ['Model Architecture']}
+- {bibkey: kobayashi2023transformer, categories: ['Model Architecture']}
+- {bibkey: liu2023blockwise, categories: ['Model Architecture']}
+- {bibkey: kazemnejad2023impact, categories: ['Model Architecture']}
+- {bibkey: milbauer2023lait, categories: ['Model Architecture']}
+- {bibkey: bui2023codetf, categories: ['Model Architecture']}
+- {bibkey: bietti2023birth, categories: ['Model Architecture']}
+- {bibkey: yang2023quantization, categories: ['Model Architecture']}
+- {bibkey: chekalina2023efficient, categories: ['Model Architecture']}
+- {bibkey: gill2023transformative, categories: ['Model Architecture']}
+- {bibkey: pei2023gpt, categories: ['Model Architecture']}
+- {bibkey: jablonka202314, categories: ['Model Architecture']}
+- {bibkey: bebensee2023span, categories: ['Model Architecture']}
+- {bibkey: wang2023decodingtrust, categories: ['Model Architecture']}
+- {bibkey: rubin2023retrieval, categories: ['Model Architecture']}
+- {bibkey: roy2023knowledge, categories: ['Model Architecture']}
+- {bibkey: savelka2023can, categories: ['Model Architecture']}
+- {bibkey: sridhar2023harnessing, categories: ['Model Architecture']}
+- {bibkey: jin2023medcpt, categories: ['Model Architecture']}
+- {bibkey: ding2023longnet, categories: ['Model Architecture']}
+- {bibkey: sakib2023extending, categories: ['Model Architecture']}
+- {bibkey: sun2023retentive, categories: ['Model Architecture']}
+- {bibkey: cacciamani2023development, categories: ['Model Architecture']}
+- {bibkey: pahune2023several, categories: ['Model Architecture']}
+- {bibkey: sohail2023decoding, categories: ['Model Architecture']}
+- {bibkey: arndt2023ai, categories: ['Model Architecture']}
+- {bibkey: tran2023bartphobeit, categories: ['Model Architecture']}
+- {bibkey: lysandrou2023comparative, categories: ['Model Architecture']}
+- {bibkey: xu2023it, categories: ['Model Architecture']}
+- {bibkey: hasan2023zero, categories: ['Model Architecture']}
+- {bibkey: pal2023giraffe, categories: ['Model Architecture']}
+- {bibkey: rahimi2023exploring, categories: ['Model Architecture']}
+- {bibkey: gao2023examining, categories: ['Model Architecture']}
+- {bibkey: kwan2023jotr, categories: ['Model Architecture']}
+- {bibkey: wang2023evaluating, categories: ['Model Architecture']}
+- {bibkey: biancotti2023loquacity, categories: ['Model Architecture']}
+- {bibkey: cifarelli2023safurai, categories: ['Model Architecture']}
+- {bibkey: zhang2023controllable, categories: ['Model Architecture']}
+- {bibkey: hu2023augmenting, categories: ['Model Architecture']}
+- {bibkey: wu2023from, categories: ['Model Architecture']}
+- {bibkey: carreira2023revolutionizing, categories: ['Model Architecture']}
+- {bibkey: yao2023llm, categories: ['Model Architecture']}
+- {bibkey: dusell2023stack, categories: ['Model Architecture']}
+- {bibkey: liu2023ring, categories: ['Model Architecture']}
+- {bibkey: li2023distflashattn, categories: ['Model Architecture']}
+- {bibkey: rahman2023quantized, categories: ['Model Architecture']}
+- {bibkey: du2023lauragpt, categories: ['Model Architecture']}
+- {bibkey: zhou2023advancing, categories: ['Model Architecture']}
+- {bibkey: hazineh2023linear, categories: ['Model Architecture']}
+- {bibkey: ren2023context, categories: ['Model Architecture']}
+- {bibkey: shen2023do, categories: ['Model Architecture']}
+- {bibkey: basyal2023text, categories: ['Model Architecture']}
+- {bibkey: zhang2023efficient, categories: ['Model Architecture']}
+- {bibkey: pang2023frozen, categories: ['Model Architecture']}
+- {bibkey: ryu2023plausibility, categories: ['Model Architecture']}
+- {bibkey: vo2023generative, categories: ['Model Architecture']}
+- {bibkey: antoniak2023mixture, categories: ['Model Architecture']}
+- {bibkey: liu2023deja, categories: ['Model Architecture']}
+- {bibkey: wu2023tlm, categories: ['Model Architecture']}
+- {bibkey: roy2023from, categories: ['Model Architecture']}
+- {bibkey: chen2023unlearn, categories: ['Model Architecture']}
+- {bibkey: shen2023efficient, categories: ['Model Architecture']}
+- {bibkey: kamali2023syntax, categories: ['Model Architecture']}
+- {bibkey: gui2023hiformer, categories: ['Model Architecture']}
+- {bibkey: hireche2023newsgpt, categories: ['Model Architecture']}
+- {bibkey: kaneda2023dialmat, categories: ['Model Architecture']}
+- {bibkey: pan2023finding, categories: ['Model Architecture']}
+- {bibkey: poulis2023transformers, categories: ['Model Architecture']}
+- {bibkey: parmar2023longbox, categories: ['Model Architecture']}
+- {bibkey: lee2023partially, categories: ['Model Architecture']}
+- {bibkey: huang2023advancing, categories: ['Model Architecture']}
+- {bibkey: chen2023confidant, categories: ['Model Architecture']}
+- {bibkey: brown2023efficient, categories: ['Model Architecture']}
+- {bibkey: ramesh2023mabvit, categories: ['Model Architecture']}
+- {bibkey: chafekar2023exploring, categories: ['Model Architecture']}
+- {bibkey: liao2023gpt, categories: ['Model Architecture']}
+- {bibkey: huang2023towards, categories: ['Model Architecture']}
+- {bibkey: zhu2023vl, categories: ['Model Architecture']}
+- {bibkey: campbell2023can, categories: ['Model Architecture']}
+- {bibkey: zhang2023cached, categories: ['Model Architecture']}
+- {bibkey: golden2023generative, categories: ['Model Architecture']}
+- {bibkey: vanderouderaa2023llm, categories: ['Model Architecture']}
+- {bibkey: wu2023efficient, categories: ['Model Architecture']}
+- {bibkey: oli2023automated, categories: ['Model Architecture']}
+- {bibkey: oren2024transformers, categories: ['Model Architecture']}
+- {bibkey: xu2024survey, categories: ['Model Architecture']}
+- {bibkey: jin2024hidden, categories: ['Model Architecture']}
+- {bibkey: puerto2024code, categories: ['Model Architecture']}
+- {bibkey: tabak2024freely, categories: ['Model Architecture']}
+- {bibkey: zhao2024revolutionizing, categories: ['Model Architecture']}
+- {bibkey: wang2024p2dt, categories: ['Model Architecture']}
+- {bibkey: chen2024ompgpt, categories: ['Model Architecture']}
+- {bibkey: ralambomihanta2024scavenging, categories: ['Model Architecture']}
+- {bibkey: xing2024theoretical, categories: ['Model Architecture']}
+- {bibkey: zhu2024apt, categories: ['Model Architecture']}
+- {bibkey: jin2024read, categories: ['Model Architecture']}
+- {bibkey: yin2024stablemask, categories: ['Model Architecture']}
+- {bibkey: shen2024rapid, categories: ['Model Architecture']}
+- {bibkey: ganz2024question, categories: ['Model Architecture']}
+- {bibkey: achtibat2024attnlrp, categories: ['Model Architecture']}
+- {bibkey: thomm2024limits, categories: ['Model Architecture']}
+- {bibkey: wendler2024do, categories: ['Model Architecture']}
+- {bibkey: yoshida2024tree, categories: ['Model Architecture']}
+- {bibkey: li2024llms, categories: ['Model Architecture']}
+- {bibkey: li2024understanding, categories: ['Model Architecture']}
+- {bibkey: neo2024interpreting, categories: ['Model Architecture']}
+- {bibkey: basu2024api, categories: ['Model Architecture']}
+- {bibkey: petruzzellis2024benchmarking, categories: ['Model Architecture']}
+- {bibkey: dolga2024latent, categories: ['Model Architecture']}
+- {bibkey: ma2024era, categories: ['Model Architecture']}
+- {bibkey: raaijmakers2024memory, categories: ['Model Architecture']}
+- {bibkey: lankford2024transformers, categories: ['Model Architecture']}
+- {bibkey: cao2024madtp, categories: ['Model Architecture']}
+- {bibkey: chen2024pixart, categories: ['Model Architecture']}
+- {bibkey: tan2024tuning, categories: ['Model Architecture']}
+- {bibkey: hu2024generative, categories: ['Model Architecture']}
+- {bibkey: athiwaratkun2024bifurcated, categories: ['Model Architecture']}
+- {bibkey: nawrot2024dynamic, categories: ['Model Architecture']}
+- {bibkey: rizvi2024simulating, categories: ['Model Architecture']}
+- {bibkey: enström2024reasoning, categories: ['Model Architecture']}
+- {bibkey: yang2024gpt, categories: ['Model Architecture']}
+- {bibkey: laskaridis2024melting, categories: ['Model Architecture']}
+- {bibkey: lu2024efficient, categories: ['Model Architecture']}
+- {bibkey: zhang2024mathverse, categories: ['Model Architecture']}
+- {bibkey: haque2024exploring, categories: ['Model Architecture']}
+- {bibkey: debuenaga2024application, categories: ['Model Architecture']}
+- {bibkey: chen2024can, categories: ['Model Architecture']}
+- {bibkey: dong2024prompt, categories: ['Model Architecture']}
+- {bibkey: park2024pre, categories: ['Model Architecture']}
+- {bibkey: li2024rat, categories: ['Model Architecture']}
+- {bibkey: nahar2024fakes, categories: ['Model Architecture']}
+- {bibkey: song2024moma, categories: ['Model Architecture']}
+- {bibkey: qu2024mupt, categories: ['Model Architecture']}
+- {bibkey: mehta2024metacheckgpt, categories: ['Model Architecture']}
+- {bibkey: tufanov2024lm, categories: ['Model Architecture']}
+- {bibkey: munkhdalai2024leave, categories: ['Model Architecture']}
+- {bibkey: botev2024recurrentgemma, categories: ['Model Architecture']}
+- {bibkey: grindrod2024transformers, categories: ['Model Architecture']}
+- {bibkey: song2024hierarchical, categories: ['Model Architecture']}
+- {bibkey: wang2024length, categories: ['Model Architecture']}
+- {bibkey: rogoz2024unibucllm, categories: ['Model Architecture']}
+- {bibkey: suresh2024towards, categories: ['Model Architecture']}
+- {bibkey: monteiro2024xc, categories: ['Model Architecture']}
+- {bibkey: adelani2024comparing, categories: ['Model Architecture']}
+- {bibkey: michaelov2024revenge, categories: ['Model Architecture']}
+- {bibkey: he2024transferring, categories: ['Model Architecture']}
+- {bibkey: li2024calrec, categories: ['Model Architecture']}
+- {bibkey: faria2024unraveling, categories: ['Model Architecture']}
+- {bibkey: shakil2024evaluating, categories: ['Model Architecture']}
+- {bibkey: li2024transformer, categories: ['Model Architecture']}
+- {bibkey: gao2024lumina, categories: ['Model Architecture']}
+- {bibkey: he2024hmt, categories: ['Model Architecture']}
+- {bibkey: mo2024large, categories: ['Model Architecture']}
+- {bibkey: li2024hunyuan, categories: ['Model Architecture']}
+- {bibkey: zhang2024distilling, categories: ['Model Architecture']}
+- {bibkey: sanovar2024lean, categories: ['Model Architecture']}
+- {bibkey: li2024tutorly, categories: ['Model Architecture']}
+- {bibkey: hassanin2024comprehensive, categories: ['Model Architecture']}
+- {bibkey: jian2024linking, categories: ['Model Architecture']}
+- {bibkey: wang2024grokked, categories: ['Model Architecture']}
+- {bibkey: du2024stacking, categories: ['Model Architecture']}
+- {bibkey: cheng2024emergence, categories: ['Model Architecture']}
+- {bibkey: csordás2024moeut, categories: ['Model Architecture']}
+- {bibkey: li2024do, categories: ['Model Architecture']}
+- {bibkey: liu2024more, categories: ['Model Architecture']}
+- {bibkey: hu2024matryoshka, categories: ['Model Architecture']}
+- {bibkey: sun2024diversifying, categories: ['Model Architecture']}
+- {bibkey: zhu2024generative, categories: ['Model Architecture']}
+- {bibkey: abeysinghe2024challenges, categories: ['Model Architecture']}
+- {bibkey: lee2024matter, categories: ['Model Architecture']}
+- {bibkey: besta2024multi, categories: ['Model Architecture']}
+- {bibkey: huang2024recurrent, categories: ['Model Architecture']}
+- {bibkey: yang2024parallelizing, categories: ['Model Architecture']}
+- {bibkey: trinh2024discrete, categories: ['Model Architecture']}
+- {bibkey: yu2024effectively, categories: ['Model Architecture']}
+- {bibkey: zuhri2024mlkv, categories: ['Model Architecture']}
+- {bibkey: bounsi2024transformers, categories: ['Model Architecture']}
+- {bibkey: kuratov2024babilong, categories: ['Model Architecture']}
+- {bibkey: du2024towards, categories: ['Model Architecture']}
+- {bibkey: lu2024insights, categories: ['Model Architecture']}
+- {bibkey: he2024what, categories: ['Model Architecture']}
+- {bibkey: li2024uio, categories: ['Model Architecture']}
+- {bibkey: jiang2024do, categories: ['Model Architecture']}
+- {bibkey: yugeswardeenoo2024question, categories: ['Model Architecture']}
+- {bibkey: rathinasamy2024narrow, categories: ['Model Architecture']}
+- {bibkey: li2024power, categories: ['Model Architecture']}
+- {bibkey: xu2024empowering, categories: ['Model Architecture']}
+- {bibkey: aubry2024transformer, categories: ['Model Architecture']}
+- {bibkey: li2024look, categories: ['Model Architecture']}
+- {bibkey: friedman2024representing, categories: ['Model Architecture']}
+- {bibkey: zhao2024efficiently, categories: ['Model Architecture']}
+- {bibkey: kim2024initializing, categories: ['Model Architecture']}
+- {bibkey: wiegreffe2024answer, categories: ['Model Architecture']}
+- {bibkey: xu2024vtensor, categories: ['Model Architecture']}
+- {bibkey: qiu2024dissecting, categories: ['Model Architecture']}
+- {bibkey: luo2024mini, categories: ['Model Architecture']}
+- {bibkey: shi2024keep, categories: ['Model Architecture']}
+- {bibkey: jo2024a2sf, categories: ['Model Architecture']}
+- {bibkey: nguyen2024advancing, categories: ['Model Architecture']}
+- {bibkey: jung2024pmoe, categories: ['Model Architecture']}
+- {bibkey: zhou2024misinforming, categories: ['Model Architecture']}
+- {bibkey: yang2024pre, categories: ['Model Architecture']}
+- {bibkey: azimi2024accuracy, categories: ['Model Architecture']}
+- {bibkey: cho2024transformer, categories: ['Model Architecture']}
+- {bibkey: park2024llms, categories: ['Model Architecture']}
+- {bibkey: ebrahimi2024your, categories: ['Model Architecture']}
+- {bibkey: kim2024mhgpt, categories: ['Model Architecture']}
+- {bibkey: li2024focusllm, categories: ['Model Architecture']}
+- {bibkey: deng2024can, categories: ['Model Architecture']}
+- {bibkey: yao2024training, categories: ['Model Architecture']}
+- {bibkey: zhang2024laser, categories: ['Model Architecture']}
+- {bibkey: wang2024longllava, categories: ['Model Architecture']}
+- {bibkey: pantazopoulos2024shaking, categories: ['Model Architecture']}
+# Pretraining Methods
+- {bibkey: stern2019insertion, categories: ['Pretraining Methods']}
+- {bibkey: khandelwal2019sample, categories: ['Pretraining Methods']}
+- {bibkey: akoury2019syntactically, categories: ['Pretraining Methods']}
+- {bibkey: lee2019patent, categories: ['Pretraining Methods']}
+- {bibkey: tan2019lxmert, categories: ['Pretraining Methods']}
+- {bibkey: vondavier2019training, categories: ['Pretraining Methods']}
+- {bibkey: vanaken2019how, categories: ['Pretraining Methods']}
+- {bibkey: wang2019tree, categories: ['Pretraining Methods']}
+- {bibkey: wolf2019huggingfaces, categories: ['Pretraining Methods']}
+- {bibkey: lee2019what, categories: ['Pretraining Methods']}
+- {bibkey: henderson2019convert, categories: ['Pretraining Methods']}
+- {bibkey: garg2019tanda, categories: ['Pretraining Methods']}
+- {bibkey: sundararaman2019syntax, categories: ['Pretraining Methods']}
+- {bibkey: wang2019improving, categories: ['Pretraining Methods']}
+- {bibkey: wang2020minilm, categories: ['Pretraining Methods']}
+- {bibkey: li2020train, categories: ['Pretraining Methods']}
+- {bibkey: li2020empirical, categories: ['Pretraining Methods']}
+- {bibkey: lin2020variational, categories: ['Pretraining Methods']}
+- {bibkey: hendrycks2020pretrained, categories: ['Pretraining Methods']}
+- {bibkey: wang2020vd, categories: ['Pretraining Methods']}
+- {bibkey: hardalov2020enriched, categories: ['Pretraining Methods']}
+- {bibkey: bai2020segatron, categories: ['Pretraining Methods']}
+- {bibkey: lauscher2020from, categories: ['Pretraining Methods']}
+- {bibkey: chada2020simultaneous, categories: ['Pretraining Methods']}
+- {bibkey: lauscher2020common, categories: ['Pretraining Methods']}
+- {bibkey: deng2020cascaded, categories: ['Pretraining Methods']}
+- {bibkey: gupta2020gmat, categories: ['Pretraining Methods']}
+- {bibkey: burtsev2020memory, categories: ['Pretraining Methods']}
+- {bibkey: pfeiffer2020adapterhub, categories: ['Pretraining Methods']}
+- {bibkey: noever2020chess, categories: ['Pretraining Methods']}
+- {bibkey: yoshida2020adding, categories: ['Pretraining Methods']}
+- {bibkey: cho2020x, categories: ['Pretraining Methods']}
+- {bibkey: gomezperez2020isaaq, categories: ['Pretraining Methods']}
+- {bibkey: bird2020chatbot, categories: ['Pretraining Methods']}
+- {bibkey: xu2020editor, categories: ['Pretraining Methods']}
+- {bibkey: laskar2020utilizing, categories: ['Pretraining Methods']}
+- {bibkey: zhou2020pre, categories: ['Pretraining Methods']}
+- {bibkey: zhu2020modifying, categories: ['Pretraining Methods']}
+- {bibkey: ding2020ernie, categories: ['Pretraining Methods']}
+- {bibkey: liu2021enriching, categories: ['Pretraining Methods']}
+- {bibkey: lu2021pretrained, categories: ['Pretraining Methods']}
+- {bibkey: zandie2021topical, categories: ['Pretraining Methods']}
+- {bibkey: hsieh2021enconter, categories: ['Pretraining Methods']}
+- {bibkey: liu2021gpt, categories: ['Pretraining Methods']}
+- {bibkey: kasai2021finetuning, categories: ['Pretraining Methods']}
+- {bibkey: hadifar2021million, categories: ['Pretraining Methods']}
+- {bibkey: chi2021mt6, categories: ['Pretraining Methods']}
+- {bibkey: dai2021knowledge, categories: ['Pretraining Methods']}
+- {bibkey: gheini2021cross, categories: ['Pretraining Methods']}
+- {bibkey: pandit2021probing, categories: ['Pretraining Methods']}
+- {bibkey: goyal2021larger, categories: ['Pretraining Methods']}
+- {bibkey: pashevich2021episodic, categories: ['Pretraining Methods']}
+- {bibkey: ding2021cogview, categories: ['Pretraining Methods']}
+- {bibkey: yu2021interplay, categories: ['Pretraining Methods']}
+- {bibkey: gupta2021memory, categories: ['Pretraining Methods']}
+- {bibkey: kohler2021whats, categories: ['Pretraining Methods']}
+- {bibkey: dou2021is, categories: ['Pretraining Methods']}
+- {bibkey: li2021stability, categories: ['Pretraining Methods']}
+- {bibkey: puranik2021attentive, categories: ['Pretraining Methods']}
+- {bibkey: moradi2021gpt, categories: ['Pretraining Methods']}
+- {bibkey: liu2021variational, categories: ['Pretraining Methods']}
+- {bibkey: steitz2021txt, categories: ['Pretraining Methods']}
+- {bibkey: frank2021vision, categories: ['Pretraining Methods']}
+- {bibkey: shao2021cpt, categories: ['Pretraining Methods']}
+- {bibkey: tokarchuk2021towards, categories: ['Pretraining Methods']}
+- {bibkey: bao2021s2s, categories: ['Pretraining Methods']}
+- {bibkey: shrivastava2021exploring, categories: ['Pretraining Methods']}
+- {bibkey: zhang2021dsgpt, categories: ['Pretraining Methods']}
+- {bibkey: kachuee2022latency, categories: ['Pretraining Methods']}
+- {bibkey: madaan2022memory, categories: ['Pretraining Methods']}
+- {bibkey: qin2022nlp, categories: ['Pretraining Methods']}
+- {bibkey: muennighoff2022sgpt, categories: ['Pretraining Methods']}
+- {bibkey: hua2022transformer, categories: ['Pretraining Methods']}
+- {bibkey: shen2022staged, categories: ['Pretraining Methods']}
+- {bibkey: gutiérrez2022thinking, categories: ['Pretraining Methods']}
+- {bibkey: hu2022planet, categories: ['Pretraining Methods']}
+- {bibkey: jedema2022dp, categories: ['Pretraining Methods']}
+- {bibkey: aflalo2022vl, categories: ['Pretraining Methods']}
+- {bibkey: feng2022ceres, categories: ['Pretraining Methods']}
+- {bibkey: phan2022vit5, categories: ['Pretraining Methods']}
+- {bibkey: yang2022what, categories: ['Pretraining Methods']}
+- {bibkey: balkus2022improving, categories: ['Pretraining Methods']}
+- {bibkey: borchers2022looking, categories: ['Pretraining Methods']}
+- {bibkey: hong2022cogvideo, categories: ['Pretraining Methods']}
+- {bibkey: zhang2022unveiling, categories: ['Pretraining Methods']}
+- {bibkey: binz2022using, categories: ['Pretraining Methods']}
+- {bibkey: holmes2022compressing, categories: ['Pretraining Methods']}
+- {bibkey: liu2022fl, categories: ['Pretraining Methods']}
+- {bibkey: dai2022neural, categories: ['Pretraining Methods']}
+- {bibkey: phang2022investigating, categories: ['Pretraining Methods']}
+- {bibkey: lohrenz2022relaxed, categories: ['Pretraining Methods']}
+- {bibkey: goyal2022news, categories: ['Pretraining Methods']}
+- {bibkey: miotto2022who, categories: ['Pretraining Methods']}
+- {bibkey: mao2022fine, categories: ['Pretraining Methods']}
+- {bibkey: nouriborji2022minialbert, categories: ['Pretraining Methods']}
+- {bibkey: nikolaus2022do, categories: ['Pretraining Methods']}
+- {bibkey: liu2022instruction, categories: ['Pretraining Methods']}
+- {bibkey: ruis2022goldilocks, categories: ['Pretraining Methods']}
+- {bibkey: srivastava2022towards, categories: ['Pretraining Methods']}
+- {bibkey: wang2022two, categories: ['Pretraining Methods']}
+- {bibkey: villalobos2022will, categories: ['Pretraining Methods']}
+- {bibkey: lin2022contextual, categories: ['Pretraining Methods']}
+- {bibkey: takagi2022effect, categories: ['Pretraining Methods']}
+- {bibkey: yao2022random, categories: ['Pretraining Methods']}
+- {bibkey: leviathan2022fast, categories: ['Pretraining Methods']}
+- {bibkey: adel2022global, categories: ['Pretraining Methods']}
+- {bibkey: ayupov2022parameter, categories: ['Pretraining Methods']}
+- {bibkey: zuo2022efficient, categories: ['Pretraining Methods']}
+- {bibkey: qian2022diffusion, categories: ['Pretraining Methods']}
+- {bibkey: ding2022is, categories: ['Pretraining Methods']}
+- {bibkey: chen2022transformers, categories: ['Pretraining Methods']}
+- {bibkey: nagoudi2022jasmine, categories: ['Pretraining Methods']}
+- {bibkey: chang2023muse, categories: ['Pretraining Methods']}
+- {bibkey: lassance2023experimental, categories: ['Pretraining Methods']}
+- {bibkey: tu2023causal, categories: ['Pretraining Methods']}
+- {bibkey: tufano2023automating, categories: ['Pretraining Methods']}
+- {bibkey: kang2023exploiting, categories: ['Pretraining Methods']}
+- {bibkey: qin2023is, categories: ['Pretraining Methods']}
+- {bibkey: kocaballi2023conversational, categories: ['Pretraining Methods']}
+- {bibkey: dai2023auggpt, categories: ['Pretraining Methods']}
+- {bibkey: west2023ai, categories: ['Pretraining Methods']}
+- {bibkey: michail2023uzh_clyp, categories: ['Pretraining Methods']}
+- {bibkey: haensch2023seeing, categories: ['Pretraining Methods']}
+- {bibkey: jang2023consistency, categories: ['Pretraining Methods']}
+- {bibkey: lyu2023translating, categories: ['Pretraining Methods']}
+- {bibkey: kim2023magvlt, categories: ['Pretraining Methods']}
+- {bibkey: bubeck2023sparks, categories: ['Pretraining Methods']}
+- {bibkey: aiyappa2023can, categories: ['Pretraining Methods']}
+- {bibkey: agrawal2023are, categories: ['Pretraining Methods']}
+- {bibkey: nori2023capabilities, categories: ['Pretraining Methods']}
+- {bibkey: bian2023chatgpt, categories: ['Pretraining Methods']}
+- {bibkey: nunes2023evaluating, categories: ['Pretraining Methods']}
+- {bibkey: west2023advances, categories: ['Pretraining Methods']}
+- {bibkey: koralus2023humans, categories: ['Pretraining Methods']}
+- {bibkey: kasai2023evaluating, categories: ['Pretraining Methods']}
+- {bibkey: chen2023evaluation, categories: ['Pretraining Methods']}
+- {bibkey: chen2023when, categories: ['Pretraining Methods']}
+- {bibkey: peng2023instruction, categories: ['Pretraining Methods']}
+- {bibkey: rangapur2023chatgpt, categories: ['Pretraining Methods']}
+- {bibkey: liu2023evaluating, categories: ['Pretraining Methods']}
+- {bibkey: pan2023preliminary, categories: ['Pretraining Methods']}
+- {bibkey: xie2023wall, categories: ['Pretraining Methods']}
+- {bibkey: yao2023nanolm, categories: ['Pretraining Methods']}
+- {bibkey: li2023api, categories: ['Pretraining Methods']}
+- {bibkey: henrique2023stochastic, categories: ['Pretraining Methods']}
+- {bibkey: zhao2023is, categories: ['Pretraining Methods']}
+- {bibkey: seenivasan2023surgicalgpt, categories: ['Pretraining Methods']}
+- {bibkey: xiao2023supporting, categories: ['Pretraining Methods']}
+- {bibkey: zhong2023chatabl, categories: ['Pretraining Methods']}
+- {bibkey: huang2023directed, categories: ['Pretraining Methods']}
+- {bibkey: zhang2023generation, categories: ['Pretraining Methods']}
+- {bibkey: chalkidis2023chatgpt, categories: ['Pretraining Methods']}
+- {bibkey: shi2023badgpt, categories: ['Pretraining Methods']}
+- {bibkey: ghosal2023text, categories: ['Pretraining Methods']}
+- {bibkey: ubani2023zeroshotdataaug, categories: ['Pretraining Methods']}
+- {bibkey: chan2023chatgpt, categories: ['Pretraining Methods']}
+- {bibkey: fraiwan2023review, categories: ['Pretraining Methods']}
+- {bibkey: nijkamp2023codegen2, categories: ['Pretraining Methods']}
+- {bibkey: narayanan2023cheaply, categories: ['Pretraining Methods']}
+- {bibkey: goli2023can, categories: ['Pretraining Methods']}
+- {bibkey: jiao2023panda, categories: ['Pretraining Methods']}
+- {bibkey: yan2023refining, categories: ['Pretraining Methods']}
+- {bibkey: lin2023sparks, categories: ['Pretraining Methods']}
+- {bibkey: lee2023prompted, categories: ['Pretraining Methods']}
+- {bibkey: li2023mot, categories: ['Pretraining Methods']}
+- {bibkey: zhang2023towards, categories: ['Pretraining Methods']}
+- {bibkey: kang2023do, categories: ['Pretraining Methods']}
+- {bibkey: yu2023megabyte, categories: ['Pretraining Methods']}
+- {bibkey: yang2023palr, categories: ['Pretraining Methods']}
+- {bibkey: fan2023uncovering, categories: ['Pretraining Methods']}
+- {bibkey: uthus2023mlongt5, categories: ['Pretraining Methods']}
+- {bibkey: chang2023how, categories: ['Pretraining Methods']}
+- {bibkey: han2023pive, categories: ['Pretraining Methods']}
+- {bibkey: espejel2023gpt, categories: ['Pretraining Methods']}
+- {bibkey: gong2023model, categories: ['Pretraining Methods']}
+- {bibkey: hung2023tada, categories: ['Pretraining Methods']}
+- {bibkey: li2023distilling, categories: ['Pretraining Methods']}
+- {bibkey: wang2023can, categories: ['Pretraining Methods']}
+- {bibkey: nafar2023teaching, categories: ['Pretraining Methods']}
+- {bibkey: xue2023repeat, categories: ['Pretraining Methods']}
+- {bibkey: mousi2023can, categories: ['Pretraining Methods']}
+- {bibkey: he2023can, categories: ['Pretraining Methods']}
+- {bibkey: chi2023latent, categories: ['Pretraining Methods']}
+- {bibkey: liu2023jailbreaking, categories: ['Pretraining Methods']}
+- {bibkey: liu2023goat, categories: ['Pretraining Methods']}
+- {bibkey: chen2023two, categories: ['Pretraining Methods']}
+- {bibkey: labruna2023unraveling, categories: ['Pretraining Methods']}
+- {bibkey: guo2023meta, categories: ['Pretraining Methods']}
+- {bibkey: basmov2023simple, categories: ['Pretraining Methods']}
+- {bibkey: jha2023just, categories: ['Pretraining Methods']}
+- {bibkey: choi2023do, categories: ['Pretraining Methods']}
+- {bibkey: gupta2023editing, categories: ['Pretraining Methods']}
+- {bibkey: khondaker2023gptaraeval, categories: ['Pretraining Methods']}
+- {bibkey: yang2023refgpt, categories: ['Pretraining Methods']}
+- {bibkey: arora2023have, categories: ['Pretraining Methods']}
+- {bibkey: wang2023read, categories: ['Pretraining Methods']}
+- {bibkey: diliello2023context, categories: ['Pretraining Methods']}
+- {bibkey: gudibande2023false, categories: ['Pretraining Methods']}
+- {bibkey: anagnostidis2023dynamic, categories: ['Pretraining Methods']}
+- {bibkey: mohtashami2023landmark, categories: ['Pretraining Methods']}
+- {bibkey: xie2023olagpt, categories: ['Pretraining Methods']}
+- {bibkey: zhang2023dont, categories: ['Pretraining Methods']}
+- {bibkey: shah2023zero, categories: ['Pretraining Methods']}
+- {bibkey: inaba2023multitool, categories: ['Pretraining Methods']}
+- {bibkey: wang2023evaluating, categories: ['Pretraining Methods']}
+- {bibkey: loem2023exploring, categories: ['Pretraining Methods']}
+- {bibkey: dziri2023faith, categories: ['Pretraining Methods']}
+- {bibkey: ahmed2023better, categories: ['Pretraining Methods']}
+- {bibkey: ganesan2023systematic, categories: ['Pretraining Methods']}
+- {bibkey: heck2023chatgpt, categories: ['Pretraining Methods']}
+- {bibkey: dettmers2023spqr, categories: ['Pretraining Methods']}
+- {bibkey: sanyal2023early, categories: ['Pretraining Methods']}
+- {bibkey: mukherjee2023medium, categories: ['Pretraining Methods']}
+- {bibkey: jentzsch2023chatgpt, categories: ['Pretraining Methods']}
+- {bibkey: wang2023pandalm, categories: ['Pretraining Methods']}
+- {bibkey: feldman2023trapping, categories: ['Pretraining Methods']}
+- {bibkey: kirk2023improving, categories: ['Pretraining Methods']}
+- {bibkey: bhatia2023tart, categories: ['Pretraining Methods']}
+- {bibkey: dao2023can, categories: ['Pretraining Methods']}
+- {bibkey: nguyen2023democratizing, categories: ['Pretraining Methods']}
+- {bibkey: chang2023learning, categories: ['Pretraining Methods']}
+- {bibkey: xiong2023can, categories: ['Pretraining Methods']}
+- {bibkey: bano2023exploring, categories: ['Pretraining Methods']}
+- {bibkey: ateia2023is, categories: ['Pretraining Methods']}
+- {bibkey: alyafeai2023taqyim, categories: ['Pretraining Methods']}
+- {bibkey: caramancion2023news, categories: ['Pretraining Methods']}
+- {bibkey: li2023batgpt, categories: ['Pretraining Methods']}
+- {bibkey: xu2023tensorgpt, categories: ['Pretraining Methods']}
+- {bibkey: panigrahi2023trainable, categories: ['Pretraining Methods']}
+- {bibkey: hirunyasiri2023comparative, categories: ['Pretraining Methods']}
+- {bibkey: zhao2023recommender, categories: ['Pretraining Methods']}
+- {bibkey: dao2023performance, categories: ['Pretraining Methods']}
+- {bibkey: bucur2023utilizing, categories: ['Pretraining Methods']}
+- {bibkey: wei2023jailbroken, categories: ['Pretraining Methods']}
+- {bibkey: hariri2023analyzing, categories: ['Pretraining Methods']}
+- {bibkey: delcorro2023skipdecode, categories: ['Pretraining Methods']}
+- {bibkey: tworkowski2023focused, categories: ['Pretraining Methods']}
+- {bibkey: fields2023vision, categories: ['Pretraining Methods']}
+- {bibkey: lee2023teaching, categories: ['Pretraining Methods']}
+- {bibkey: mohamadi2023chatgpt, categories: ['Pretraining Methods']}
+- {bibkey: liesenfeld2023opening, categories: ['Pretraining Methods']}
+- {bibkey: syriani2023assessing, categories: ['Pretraining Methods']}
+- {bibkey: orenstrakh2023detecting, categories: ['Pretraining Methods']}
+- {bibkey: lakkaraju2023can, categories: ['Pretraining Methods']}
+- {bibkey: lei2023creating, categories: ['Pretraining Methods']}
+- {bibkey: zhang2023potential, categories: ['Pretraining Methods']}
+- {bibkey: dao2023chatgpt, categories: ['Pretraining Methods']}
+- {bibkey: baek2023promptcrafter, categories: ['Pretraining Methods']}
+- {bibkey: pareschi2023abductive, categories: ['Pretraining Methods']}
+- {bibkey: lamprinidis2023llm, categories: ['Pretraining Methods']}
+- {bibkey: depadua2023gpt, categories: ['Pretraining Methods']}
+- {bibkey: carlini2023llm, categories: ['Pretraining Methods']}
+- {bibkey: sun2023does, categories: ['Pretraining Methods']}
+- {bibkey: gladkoff2023mtuncertainty, categories: ['Pretraining Methods']}
+- {bibkey: singla2023evaluating, categories: ['Pretraining Methods']}
+- {bibkey: hackl2023is, categories: ['Pretraining Methods']}
+- {bibkey: xu2023gentopia, categories: ['Pretraining Methods']}
+- {bibkey: li2023fine, categories: ['Pretraining Methods']}
+- {bibkey: zhu20233d, categories: ['Pretraining Methods']}
+- {bibkey: wu2023comparative, categories: ['Pretraining Methods']}
+- {bibkey: qu2023layoutllm, categories: ['Pretraining Methods']}
+- {bibkey: davis2023testing, categories: ['Pretraining Methods']}
+- {bibkey: rogers2023position, categories: ['Pretraining Methods']}
+- {bibkey: phute2023llm, categories: ['Pretraining Methods']}
+- {bibkey: lee2023platypus, categories: ['Pretraining Methods']}
+- {bibkey: zhou2023solving, categories: ['Pretraining Methods']}
+- {bibkey: lu2023memochat, categories: ['Pretraining Methods']}
+- {bibkey: sun2023test, categories: ['Pretraining Methods']}
+- {bibkey: luo2023biomedgpt, categories: ['Pretraining Methods']}
+- {bibkey: kim2023finequant, categories: ['Pretraining Methods']}
+- {bibkey: zhao2023expel, categories: ['Pretraining Methods']}
+- {bibkey: lai2023enhancing, categories: ['Pretraining Methods']}
+- {bibkey: zheng2023building, categories: ['Pretraining Methods']}
+- {bibkey: li2023from, categories: ['Pretraining Methods']}
+- {bibkey: tirumala2023d4, categories: ['Pretraining Methods']}
+- {bibkey: fang2023chatgpt, categories: ['Pretraining Methods']}
+- {bibkey: addlesee2023multi, categories: ['Pretraining Methods']}
+- {bibkey: agrawal2023sarathi, categories: ['Pretraining Methods']}
+- {bibkey: wang2023dialog, categories: ['Pretraining Methods']}
+- {bibkey: huschens2023do, categories: ['Pretraining Methods']}
+- {bibkey: kumar2023certifying, categories: ['Pretraining Methods']}
+- {bibkey: marion2023when, categories: ['Pretraining Methods']}
+- {bibkey: jin2023unified, categories: ['Pretraining Methods']}
+- {bibkey: safrai2023performance, categories: ['Pretraining Methods']}
+- {bibkey: zhu2023coca, categories: ['Pretraining Methods']}
+- {bibkey: kortemeyer2023performance, categories: ['Pretraining Methods']}
+- {bibkey: lin2023few, categories: ['Pretraining Methods']}
+- {bibkey: yang2023kobigbird, categories: ['Pretraining Methods']}
+- {bibkey: zhu2023pose, categories: ['Pretraining Methods']}
+- {bibkey: birch2023model, categories: ['Pretraining Methods']}
+- {bibkey: wang2023mint, categories: ['Pretraining Methods']}
+- {bibkey: zmitrovich2023family, categories: ['Pretraining Methods']}
+- {bibkey: zheng2023lmsys, categories: ['Pretraining Methods']}
+- {bibkey: samuel2023can, categories: ['Pretraining Methods']}
+- {bibkey: chen2023reconcile, categories: ['Pretraining Methods']}
+- {bibkey: cao2023defending, categories: ['Pretraining Methods']}
+- {bibkey: pacchiardi2023how, categories: ['Pretraining Methods']}
+- {bibkey: andriopoulos2023augmenting, categories: ['Pretraining Methods']}
+- {bibkey: zheng2023gpt, categories: ['Pretraining Methods']}
+- {bibkey: liu2023reason, categories: ['Pretraining Methods']}
+- {bibkey: jin2023growlength, categories: ['Pretraining Methods']}
+- {bibkey: sarkar2023testing, categories: ['Pretraining Methods']}
+- {bibkey: hoang2023do, categories: ['Pretraining Methods']}
+- {bibkey: huang2023who, categories: ['Pretraining Methods']}
+- {bibkey: wang2023adapting, categories: ['Pretraining Methods']}
+- {bibkey: zhang2023probing, categories: ['Pretraining Methods']}
+- {bibkey: wu2023smartplay, categories: ['Pretraining Methods']}
+- {bibkey: ge2023model, categories: ['Pretraining Methods']}
+- {bibkey: chen2023driving, categories: ['Pretraining Methods']}
+- {bibkey: srivastava2023instances, categories: ['Pretraining Methods']}
+- {bibkey: eldan2023whos, categories: ['Pretraining Methods']}
+- {bibkey: zhang2023ecoassistant, categories: ['Pretraining Methods']}
+- {bibkey: sodhi2023step, categories: ['Pretraining Methods']}
+- {bibkey: wang2023mathcoder, categories: ['Pretraining Methods']}
+- {bibkey: phung2023automating, categories: ['Pretraining Methods']}
+- {bibkey: huang2023chat, categories: ['Pretraining Methods']}
+- {bibkey: zhang2023balancing, categories: ['Pretraining Methods']}
+- {bibkey: zhang2023revisiting, categories: ['Pretraining Methods']}
+- {bibkey: pandya2023automating, categories: ['Pretraining Methods']}
+- {bibkey: sun2023reinforcement, categories: ['Pretraining Methods']}
+- {bibkey: depaoli2023improved, categories: ['Pretraining Methods']}
+- {bibkey: dong2023revisit, categories: ['Pretraining Methods']}
+- {bibkey: naik2023diversity, categories: ['Pretraining Methods']}
+- {bibkey: li2023qft, categories: ['Pretraining Methods']}
+- {bibkey: shashidhar2023democratizing, categories: ['Pretraining Methods']}
+- {bibkey: wang2023llm4vis, categories: ['Pretraining Methods']}
+- {bibkey: packer2023memgpt, categories: ['Pretraining Methods']}
+- {bibkey: ali2023tokenizer, categories: ['Pretraining Methods']}
+- {bibkey: li2023table, categories: ['Pretraining Methods']}
+- {bibkey: xu2023penetrative, categories: ['Pretraining Methods']}
+- {bibkey: latif2023fine, categories: ['Pretraining Methods']}
+- {bibkey: song2023large, categories: ['Pretraining Methods']}
+- {bibkey: sun2023battle, categories: ['Pretraining Methods']}
+- {bibkey: zhou2023multi, categories: ['Pretraining Methods']}
+- {bibkey: li2023watermarking, categories: ['Pretraining Methods']}
+- {bibkey: li2023reflection, categories: ['Pretraining Methods']}
+- {bibkey: kalyan2023survey, categories: ['Pretraining Methods']}
+- {bibkey: tong2023eliminating, categories: ['Pretraining Methods']}
+- {bibkey: stechly2023gpt, categories: ['Pretraining Methods']}
+- {bibkey: wang2023primacy, categories: ['Pretraining Methods']}
+- {bibkey: xu2023llm, categories: ['Pretraining Methods']}
+- {bibkey: duan2023botchat, categories: ['Pretraining Methods']}
+- {bibkey: kumar2023impact, categories: ['Pretraining Methods']}
+- {bibkey: hu2023evoke, categories: ['Pretraining Methods']}
+- {bibkey: zhang2023skipped, categories: ['Pretraining Methods']}
+- {bibkey: wang2023large, categories: ['Pretraining Methods']}
+- {bibkey: boughorbel2023analyzing, categories: ['Pretraining Methods']}
+- {bibkey: ma2023non, categories: ['Pretraining Methods']}
+- {bibkey: lucas2023fighting, categories: ['Pretraining Methods']}
+- {bibkey: pan2023stelocoder, categories: ['Pretraining Methods']}
+- {bibkey: yang2023can, categories: ['Pretraining Methods']}
+- {bibkey: khaokaew2023zzzgpt, categories: ['Pretraining Methods']}
+- {bibkey: tan2023is, categories: ['Pretraining Methods']}
+- {bibkey: zhao2023knowing, categories: ['Pretraining Methods']}
+- {bibkey: welleck2023llmstep, categories: ['Pretraining Methods']}
+- {bibkey: starace2023probing, categories: ['Pretraining Methods']}
+- {bibkey: petty2023impact, categories: ['Pretraining Methods']}
+- {bibkey: an2023learning, categories: ['Pretraining Methods']}
+- {bibkey: liu2023chipnemo, categories: ['Pretraining Methods']}
+- {bibkey: chi2023attention, categories: ['Pretraining Methods']}
+- {bibkey: yadlowsky2023pretraining, categories: ['Pretraining Methods']}
+- {bibkey: ngoc2023multi, categories: ['Pretraining Methods']}
+- {bibkey: zhou2023dont, categories: ['Pretraining Methods']}
+- {bibkey: zhang2023tell, categories: ['Pretraining Methods']}
+- {bibkey: liu2023mftcoder, categories: ['Pretraining Methods']}
+- {bibkey: gan2023ziya2, categories: ['Pretraining Methods']}
+- {bibkey: roush2023llm, categories: ['Pretraining Methods']}
+- {bibkey: zhang2023bridging, categories: ['Pretraining Methods']}
+- {bibkey: melz2023enhancing, categories: ['Pretraining Methods']}
+- {bibkey: mu2023can, categories: ['Pretraining Methods']}
+- {bibkey: bhardwaj2023pre, categories: ['Pretraining Methods']}
+- {bibkey: zhan2023removing, categories: ['Pretraining Methods']}
+- {bibkey: thakur2023leveraging, categories: ['Pretraining Methods']}
+- {bibkey: li2023exploring, categories: ['Pretraining Methods']}
+- {bibkey: dodgson2023establishing, categories: ['Pretraining Methods']}
+- {bibkey: wang2023fake, categories: ['Pretraining Methods']}
+- {bibkey: zhou2023llms, categories: ['Pretraining Methods']}
+- {bibkey: su2023are, categories: ['Pretraining Methods']}
+- {bibkey: ge2023mart, categories: ['Pretraining Methods']}
+- {bibkey: shridhar2023art, categories: ['Pretraining Methods']}
+- {bibkey: loem2023saie, categories: ['Pretraining Methods']}
+- {bibkey: laban2023are, categories: ['Pretraining Methods']}
+- {bibkey: yang2023calibration, categories: ['Pretraining Methods']}
+- {bibkey: wang2023rescue, categories: ['Pretraining Methods']}
+- {bibkey: shu2023fusion, categories: ['Pretraining Methods']}
+- {bibkey: mo2023how, categories: ['Pretraining Methods']}
+- {bibkey: liu2023examining, categories: ['Pretraining Methods']}
+- {bibkey: chen2023huatuogpt, categories: ['Pretraining Methods']}
+- {bibkey: chen2023enhancing, categories: ['Pretraining Methods']}
+- {bibkey: upadhayay2023taco, categories: ['Pretraining Methods']}
+- {bibkey: ma2023why, categories: ['Pretraining Methods']}
+- {bibkey: hu2023deploying, categories: ['Pretraining Methods']}
+- {bibkey: han2023llms, categories: ['Pretraining Methods']}
+- {bibkey: jang2023dag, categories: ['Pretraining Methods']}
+- {bibkey: singh2023exploiting, categories: ['Pretraining Methods']}
+- {bibkey: galatolo2023cerbero, categories: ['Pretraining Methods']}
+- {bibkey: smit2023should, categories: ['Pretraining Methods']}
+- {bibkey: lin2023taiwan, categories: ['Pretraining Methods']}
+- {bibkey: chi2023m2chat, categories: ['Pretraining Methods']}
+- {bibkey: wenyi2023hyperpolyglot, categories: ['Pretraining Methods']}
+- {bibkey: aw2023instruction, categories: ['Pretraining Methods']}
+- {bibkey: lin2023unlocking, categories: ['Pretraining Methods']}
+- {bibkey: huang2023competition, categories: ['Pretraining Methods']}
+- {bibkey: rateike2023weakly, categories: ['Pretraining Methods']}
+- {bibkey: lee2023explore, categories: ['Pretraining Methods']}
+- {bibkey: doughty2023comparative, categories: ['Pretraining Methods']}
+- {bibkey: garridomerchán2023real, categories: ['Pretraining Methods']}
+- {bibkey: bhandari2023survey, categories: ['Pretraining Methods']}
+- {bibkey: collu2023dr, categories: ['Pretraining Methods']}
+- {bibkey: zhang2023prompt, categories: ['Pretraining Methods']}
+- {bibkey: gupta2023testing, categories: ['Pretraining Methods']}
+- {bibkey: ribar2023sparq, categories: ['Pretraining Methods']}
+- {bibkey: wu2023exploring, categories: ['Pretraining Methods']}
+- {bibkey: ovadia2023fine, categories: ['Pretraining Methods']}
+- {bibkey: liu2023llm360, categories: ['Pretraining Methods']}
+- {bibkey: yoshida2023from, categories: ['Pretraining Methods']}
+- {bibkey: zhang2023can, categories: ['Pretraining Methods']}
+- {bibkey: strachan2023finetuning, categories: ['Pretraining Methods']}
+- {bibkey: chen2023tigerbot, categories: ['Pretraining Methods']}
+- {bibkey: huang2023fewer, categories: ['Pretraining Methods']}
+- {bibkey: mullappilly2023arabic, categories: ['Pretraining Methods']}
+- {bibkey: bojic2023gpt, categories: ['Pretraining Methods']}
+- {bibkey: deng2023early, categories: ['Pretraining Methods']}
+- {bibkey: zhao2023tuning, categories: ['Pretraining Methods']}
+- {bibkey: chen2023cascade, categories: ['Pretraining Methods']}
+- {bibkey: ghosh2023clipsyntel, categories: ['Pretraining Methods']}
+- {bibkey: biswas2023can, categories: ['Pretraining Methods']}
+- {bibkey: kohli2023building, categories: ['Pretraining Methods']}
+- {bibkey: kew2023turning, categories: ['Pretraining Methods']}
+- {bibkey: tseng2023chatgpt, categories: ['Pretraining Methods']}
+- {bibkey: pelrine2023exploiting, categories: ['Pretraining Methods']}
+- {bibkey: tomanek2023parameter, categories: ['Pretraining Methods']}
+- {bibkey: zayed2023fairness, categories: ['Pretraining Methods']}
+- {bibkey: verma2023reducing, categories: ['Pretraining Methods']}
+- {bibkey: xiao2023how, categories: ['Pretraining Methods']}
+- {bibkey: staniszewski2023structured, categories: ['Pretraining Methods']}
+- {bibkey: loya2023exploring, categories: ['Pretraining Methods']}
+- {bibkey: chiu2024computational, categories: ['Pretraining Methods']}
+- {bibkey: jin2024llm, categories: ['Pretraining Methods']}
+- {bibkey: liu2024understanding, categories: ['Pretraining Methods']}
+- {bibkey: zheng2024ice, categories: ['Pretraining Methods']}
+- {bibkey: mousavi2024are, categories: ['Pretraining Methods']}
+- {bibkey: liu2024from, categories: ['Pretraining Methods']}
+- {bibkey: deepseekai2024deepseek, categories: ['Pretraining Methods']}
+- {bibkey: zhang2024soaring, categories: ['Pretraining Methods']}
+- {bibkey: pan2024pomp, categories: ['Pretraining Methods']}
+- {bibkey: mao2024tuning, categories: ['Pretraining Methods']}
+- {bibkey: chen2024xtrimopglm, categories: ['Pretraining Methods']}
+- {bibkey: tong2024eyes, categories: ['Pretraining Methods']}
+- {bibkey: xu2024misconfidence, categories: ['Pretraining Methods']}
+- {bibkey: zhang2024intention, categories: ['Pretraining Methods']}
+- {bibkey: zhang2024extending, categories: ['Pretraining Methods']}
+- {bibkey: sravanthi2024pub, categories: ['Pretraining Methods']}
+- {bibkey: gan2024application, categories: ['Pretraining Methods']}
+- {bibkey: xu2024contrastive, categories: ['Pretraining Methods']}
+- {bibkey: li2024llms, categories: ['Pretraining Methods']}
+- {bibkey: cai2024medusa, categories: ['Pretraining Methods']}
+- {bibkey: hasan2024pruning, categories: ['Pretraining Methods']}
+- {bibkey: xu2024superclue, categories: ['Pretraining Methods']}
+- {bibkey: ye2024benchmarking, categories: ['Pretraining Methods']}
+- {bibkey: shen2024language, categories: ['Pretraining Methods']}
+- {bibkey: gala2024airavata, categories: ['Pretraining Methods']}
+- {bibkey: liang2024learning, categories: ['Pretraining Methods']}
+- {bibkey: sarkar2024llms, categories: ['Pretraining Methods']}
+- {bibkey: chern2024can, categories: ['Pretraining Methods']}
+- {bibkey: hicke2024lions, categories: ['Pretraining Methods']}
+- {bibkey: xu2024hr, categories: ['Pretraining Methods']}
+- {bibkey: wang2024executable, categories: ['Pretraining Methods']}
+- {bibkey: wang2024llm, categories: ['Pretraining Methods']}
+- {bibkey: boz2024improving, categories: ['Pretraining Methods']}
+- {bibkey: kowsher2023l, categories: ['Pretraining Methods']}
+- {bibkey: t2024performance, categories: ['Pretraining Methods']}
+- {bibkey: sorokovikova2024llms, categories: ['Pretraining Methods']}
+- {bibkey: kambhampati2024llms, categories: ['Pretraining Methods']}
+- {bibkey: runwal2024from, categories: ['Pretraining Methods']}
+- {bibkey: khandelwal2024do, categories: ['Pretraining Methods']}
+- {bibkey: mittal2024puzzlebench, categories: ['Pretraining Methods']}
+- {bibkey: frisch2024llm, categories: ['Pretraining Methods']}
+- {bibkey: sun2024beyond, categories: ['Pretraining Methods']}
+- {bibkey: tang2024prioritizing, categories: ['Pretraining Methods']}
+- {bibkey: xiao2024infllm, categories: ['Pretraining Methods']}
+- {bibkey: freire2024conversational, categories: ['Pretraining Methods']}
+- {bibkey: shen2024tag, categories: ['Pretraining Methods']}
+- {bibkey: zhang2024pushing, categories: ['Pretraining Methods']}
+- {bibkey: schoenegger2024ai, categories: ['Pretraining Methods']}
+- {bibkey: wasti2024large, categories: ['Pretraining Methods']}
+- {bibkey: chucarroll2024beyond, categories: ['Pretraining Methods']}
+- {bibkey: schimanski2024towards, categories: ['Pretraining Methods']}
+- {bibkey: zheng2024can, categories: ['Pretraining Methods']}
+- {bibkey: s2024tandem, categories: ['Pretraining Methods']}
+- {bibkey: allamanis2024unsupervised, categories: ['Pretraining Methods']}
+- {bibkey: dasilva2024chatgpt, categories: ['Pretraining Methods']}
+- {bibkey: schwinn2024soft, categories: ['Pretraining Methods']}
+- {bibkey: zhang2024instruction, categories: ['Pretraining Methods']}
+- {bibkey: dong2024attacks, categories: ['Pretraining Methods']}
+- {bibkey: yang2024aqa, categories: ['Pretraining Methods']}
+- {bibkey: tan2024fine, categories: ['Pretraining Methods']}
+- {bibkey: li2024selective, categories: ['Pretraining Methods']}
+- {bibkey: wei2024measuring, categories: ['Pretraining Methods']}
+- {bibkey: hu2024quantifying, categories: ['Pretraining Methods']}
+- {bibkey: havrilla2024glore, categories: ['Pretraining Methods']}
+- {bibkey: bhatia2024fintral, categories: ['Pretraining Methods']}
+- {bibkey: li2024when, categories: ['Pretraining Methods']}
+- {bibkey: bhendawade2024speculative, categories: ['Pretraining Methods']}
+- {bibkey: yang2024moral, categories: ['Pretraining Methods']}
+- {bibkey: li2024dissecting, categories: ['Pretraining Methods']}
+- {bibkey: wang2024benchmark, categories: ['Pretraining Methods']}
+- {bibkey: ni2024when, categories: ['Pretraining Methods']}
+- {bibkey: wang2024aint, categories: ['Pretraining Methods']}
+- {bibkey: shao2024extensible, categories: ['Pretraining Methods']}
+- {bibkey: wang2024llm, categories: ['Pretraining Methods']}
+- {bibkey: lissak2024colorful, categories: ['Pretraining Methods']}
+- {bibkey: jiang2024learning, categories: ['Pretraining Methods']}
+- {bibkey: liu2024enabling, categories: ['Pretraining Methods']}
+- {bibkey: setty2024surprising, categories: ['Pretraining Methods']}
+- {bibkey: jin2024bider, categories: ['Pretraining Methods']}
+- {bibkey: liu2024panda, categories: ['Pretraining Methods']}
+- {bibkey: song2024code, categories: ['Pretraining Methods']}
+- {bibkey: ren2024healthcare, categories: ['Pretraining Methods']}
+- {bibkey: xie2024gradsafe, categories: ['Pretraining Methods']}
+- {bibkey: ning2024user, categories: ['Pretraining Methods']}
+- {bibkey: ding2024longrope, categories: ['Pretraining Methods']}
+- {bibkey: geiping2024coercing, categories: ['Pretraining Methods']}
+- {bibkey: chen2024take, categories: ['Pretraining Methods']}
+- {bibkey: gu2024middleware, categories: ['Pretraining Methods']}
+- {bibkey: petrov2024prompting, categories: ['Pretraining Methods']}
+- {bibkey: lin2024criticbench, categories: ['Pretraining Methods']}
+- {bibkey: yu2024llm, categories: ['Pretraining Methods']}
+- {bibkey: santu2024prompting, categories: ['Pretraining Methods']}
+- {bibkey: sun2024leveraging, categories: ['Pretraining Methods']}
+- {bibkey: bao2024llms, categories: ['Pretraining Methods']}
+- {bibkey: uluoglakci2024hypotermqa, categories: ['Pretraining Methods']}
+- {bibkey: lu2024mathgenie, categories: ['Pretraining Methods']}
+- {bibkey: verma2024cross, categories: ['Pretraining Methods']}
+- {bibkey: kim2024re, categories: ['Pretraining Methods']}
+- {bibkey: zhang2024when, categories: ['Pretraining Methods']}
+- {bibkey: wang2024beyond, categories: ['Pretraining Methods']}
+- {bibkey: hedderich2024piece, categories: ['Pretraining Methods']}
+- {bibkey: liu2024are, categories: ['Pretraining Methods']}
+- {bibkey: hu2024case, categories: ['Pretraining Methods']}
+- {bibkey: wang2024jmlr, categories: ['Pretraining Methods']}
+- {bibkey: gupta2024llm, categories: ['Pretraining Methods']}
+- {bibkey: chen2024beyond, categories: ['Pretraining Methods']}
+- {bibkey: lyu2024keeping, categories: ['Pretraining Methods']}
+- {bibkey: li2024gsm, categories: ['Pretraining Methods']}
+- {bibkey: he2024prompting, categories: ['Pretraining Methods']}
+- {bibkey: chen2024empirical, categories: ['Pretraining Methods']}
+- {bibkey: goel2024direct, categories: ['Pretraining Methods']}
+- {bibkey: zhang2024distilling, categories: ['Pretraining Methods']}
+- {bibkey: nguyen2024balancing, categories: ['Pretraining Methods']}
+- {bibkey: zhang2024nomad, categories: ['Pretraining Methods']}
+- {bibkey: turker2024vbart, categories: ['Pretraining Methods']}
+- {bibkey: liu2024fantastic, categories: ['Pretraining Methods']}
+- {bibkey: cui2024rethinking, categories: ['Pretraining Methods']}
+- {bibkey: lankford2024adaptmllm, categories: ['Pretraining Methods']}
+- {bibkey: zheng2024balancing, categories: ['Pretraining Methods']}
+- {bibkey: zhang2024should, categories: ['Pretraining Methods']}
+- {bibkey: thaker2024guardrail, categories: ['Pretraining Methods']}
+- {bibkey: zhao2024galore, categories: ['Pretraining Methods']}
+- {bibkey: chiang2024chatbot, categories: ['Pretraining Methods']}
+- {bibkey: lukasik2024metric, categories: ['Pretraining Methods']}
+- {bibkey: ngweta2024aligners, categories: ['Pretraining Methods']}
+- {bibkey: azaiz2024feedback, categories: ['Pretraining Methods']}
+- {bibkey: kassem2024alpaca, categories: ['Pretraining Methods']}
+- {bibkey: gong2024evaluation, categories: ['Pretraining Methods']}
+- {bibkey: hu2024ella, categories: ['Pretraining Methods']}
+- {bibkey: beurerkellner2024guiding, categories: ['Pretraining Methods']}
+- {bibkey: gu2024teams, categories: ['Pretraining Methods']}
+- {bibkey: mckinzie2024mm1, categories: ['Pretraining Methods']}
+- {bibkey: karanjai2024teaching, categories: ['Pretraining Methods']}
+- {bibkey: li2024enhancing, categories: ['Pretraining Methods']}
+- {bibkey: zala2024envgen, categories: ['Pretraining Methods']}
+- {bibkey: sadallah2024are, categories: ['Pretraining Methods']}
+- {bibkey: chalkidis2024llama, categories: ['Pretraining Methods']}
+- {bibkey: lee2024reinforcement, categories: ['Pretraining Methods']}
+- {bibkey: zan2024building, categories: ['Pretraining Methods']}
+- {bibkey: alipour2024chatgpt, categories: ['Pretraining Methods']}
+- {bibkey: bolton2024rambla, categories: ['Pretraining Methods']}
+- {bibkey: liao2024extending, categories: ['Pretraining Methods']}
+- {bibkey: saha2024zero, categories: ['Pretraining Methods']}
+- {bibkey: lee2024llm2llm, categories: ['Pretraining Methods']}
+- {bibkey: zhang2024event, categories: ['Pretraining Methods']}
+- {bibkey: faizullah2024limgen, categories: ['Pretraining Methods']}
+- {bibkey: chen2024reasoning, categories: ['Pretraining Methods']}
+- {bibkey: junhua2024lara, categories: ['Pretraining Methods']}
+- {bibkey: cahyawijaya2024llms, categories: ['Pretraining Methods']}
+- {bibkey: balasubramanian2024cygent, categories: ['Pretraining Methods']}
+- {bibkey: lippmann2024exploring, categories: ['Pretraining Methods']}
+- {bibkey: tao2024chatgpt, categories: ['Pretraining Methods']}
+- {bibkey: hoscilowicz2024non, categories: ['Pretraining Methods']}
+- {bibkey: yao2024learning, categories: ['Pretraining Methods']}
+- {bibkey: abbasiantaeb2024generate, categories: ['Pretraining Methods']}
+- {bibkey: liu2024are, categories: ['Pretraining Methods']}
+- {bibkey: zhou2024enhancing, categories: ['Pretraining Methods']}
+- {bibkey: tong2024can, categories: ['Pretraining Methods']}
+- {bibkey: namikoshi2024using, categories: ['Pretraining Methods']}
+- {bibkey: sayin2024can, categories: ['Pretraining Methods']}
+- {bibkey: liu2024gpta, categories: ['Pretraining Methods']}
+- {bibkey: bi2024is, categories: ['Pretraining Methods']}
+- {bibkey: satpute2024can, categories: ['Pretraining Methods']}
+- {bibkey: gema2024edinburgh, categories: ['Pretraining Methods']}
+- {bibkey: nepal2024contextual, categories: ['Pretraining Methods']}
+- {bibkey: zeng2024divtod, categories: ['Pretraining Methods']}
+- {bibkey: panagiotopoulos2024ails, categories: ['Pretraining Methods']}
+- {bibkey: seegmiller2024do, categories: ['Pretraining Methods']}
+- {bibkey: zhang2024position, categories: ['Pretraining Methods']}
+- {bibkey: yuan2024advancing, categories: ['Pretraining Methods']}
+- {bibkey: kholodna2024llms, categories: ['Pretraining Methods']}
+- {bibkey: abaskohi2024benchmarking, categories: ['Pretraining Methods']}
+- {bibkey: sadeghi2024utebc, categories: ['Pretraining Methods']}
+- {bibkey: choi2024cross, categories: ['Pretraining Methods']}
+- {bibkey: zhang2024personalized, categories: ['Pretraining Methods']}
+- {bibkey: choi2024can, categories: ['Pretraining Methods']}
+- {bibkey: du2024chinese, categories: ['Pretraining Methods']}
+- {bibkey: kumar2024fine, categories: ['Pretraining Methods']}
+- {bibkey: anschütz2024simpler, categories: ['Pretraining Methods']}
+- {bibkey: upadhayay2024sandwich, categories: ['Pretraining Methods']}
+- {bibkey: pham2024can, categories: ['Pretraining Methods']}
+- {bibkey: huang2024wese, categories: ['Pretraining Methods']}
+- {bibkey: liu2024training, categories: ['Pretraining Methods']}
+- {bibkey: park2024leveraging, categories: ['Pretraining Methods']}
+- {bibkey: faisal2024data, categories: ['Pretraining Methods']}
+- {bibkey: qiu2024efficient, categories: ['Pretraining Methods']}
+- {bibkey: cvetanović2024synthetic, categories: ['Pretraining Methods']}
+- {bibkey: li2024effects, categories: ['Pretraining Methods']}
+- {bibkey: zhang2024recgpt, categories: ['Pretraining Methods']}
+- {bibkey: ma2024megalodon, categories: ['Pretraining Methods']}
+- {bibkey: machlab2024llm, categories: ['Pretraining Methods']}
+- {bibkey: qi2024is, categories: ['Pretraining Methods']}
+- {bibkey: yang2024confidence, categories: ['Pretraining Methods']}
+- {bibkey: huang2024towards, categories: ['Pretraining Methods']}
+- {bibkey: cheng2024self, categories: ['Pretraining Methods']}
+- {bibkey: xu2024is, categories: ['Pretraining Methods']}
+- {bibkey: kim2024llmem, categories: ['Pretraining Methods']}
+- {bibkey: mavromatis2024pack, categories: ['Pretraining Methods']}
+- {bibkey: modarressi2024memllm, categories: ['Pretraining Methods']}
+- {bibkey: tian2024toward, categories: ['Pretraining Methods']}
+- {bibkey: choi2024when, categories: ['Pretraining Methods']}
+- {bibkey: guo2024sample, categories: ['Pretraining Methods']}
+- {bibkey: panickssery2024llm, categories: ['Pretraining Methods']}
+- {bibkey: kim2024sure, categories: ['Pretraining Methods']}
+- {bibkey: li2024snapkv, categories: ['Pretraining Methods']}
+- {bibkey: pelofske2024automated, categories: ['Pretraining Methods']}
+- {bibkey: schwarzschild2024rethinking, categories: ['Pretraining Methods']}
+- {bibkey: fierro2024does, categories: ['Pretraining Methods']}
+- {bibkey: gao2024aligning, categories: ['Pretraining Methods']}
+- {bibkey: huotala2024promise, categories: ['Pretraining Methods']}
+- {bibkey: fore2024geckopt, categories: ['Pretraining Methods']}
+- {bibkey: stahl2024exploring, categories: ['Pretraining Methods']}
+- {bibkey: yuan2024towards, categories: ['Pretraining Methods']}
+- {bibkey: liu2024mmgrec, categories: ['Pretraining Methods']}
+- {bibkey: paulus2024advprompter, categories: ['Pretraining Methods']}
+- {bibkey: ailem2024examining, categories: ['Pretraining Methods']}
+- {bibkey: zhang2024reinforcement, categories: ['Pretraining Methods']}
+- {bibkey: tao2024when, categories: ['Pretraining Methods']}
+- {bibkey: ge2024worldgpt, categories: ['Pretraining Methods']}
+- {bibkey: radmehr2024towards, categories: ['Pretraining Methods']}
+- {bibkey: wertheimer2024accelerating, categories: ['Pretraining Methods']}
+- {bibkey: kishore2024evaluating, categories: ['Pretraining Methods']}
+- {bibkey: lin2024how, categories: ['Pretraining Methods']}
+- {bibkey: verma2024dfki, categories: ['Pretraining Methods']}
+- {bibkey: zhao2024lora, categories: ['Pretraining Methods']}
+- {bibkey: singh2024llava, categories: ['Pretraining Methods']}
+- {bibkey: lin2024how, categories: ['Pretraining Methods']}
+- {bibkey: zhao2024wildchat, categories: ['Pretraining Methods']}
+- {bibkey: chu2024improve, categories: ['Pretraining Methods']}
+- {bibkey: henkel2024can, categories: ['Pretraining Methods']}
+- {bibkey: dotzel2024learning, categories: ['Pretraining Methods']}
+- {bibkey: chen2024lifelong, categories: ['Pretraining Methods']}
+- {bibkey: gunal2024conversational, categories: ['Pretraining Methods']}
+- {bibkey: gekhman2024does, categories: ['Pretraining Methods']}
+- {bibkey: renze2024self, categories: ['Pretraining Methods']}
+- {bibkey: jiang2024llms, categories: ['Pretraining Methods']}
+- {bibkey: xu2024aios, categories: ['Pretraining Methods']}
+- {bibkey: masala2024openllm, categories: ['Pretraining Methods']}
+- {bibkey: raffel2024simultaneous, categories: ['Pretraining Methods']}
+- {bibkey: li2024rethinking, categories: ['Pretraining Methods']}
+- {bibkey: taneja2024jill, categories: ['Pretraining Methods']}
+- {bibkey: ostapenko2024towards, categories: ['Pretraining Methods']}
+- {bibkey: sinha2024maml, categories: ['Pretraining Methods']}
+- {bibkey: bi2024decoding, categories: ['Pretraining Methods']}
+- {bibkey: abukhalaf2024pathocl, categories: ['Pretraining Methods']}
+- {bibkey: yao2024sirllm, categories: ['Pretraining Methods']}
+- {bibkey: liu2024tiny, categories: ['Pretraining Methods']}
+- {bibkey: brandon2024reducing, categories: ['Pretraining Methods']}
+- {bibkey: castagna2024can, categories: ['Pretraining Methods']}
+- {bibkey: agostinelli2024leapformer, categories: ['Pretraining Methods']}
+- {bibkey: leconte2024reallm, categories: ['Pretraining Methods']}
+- {bibkey: srinivasan2024comparative, categories: ['Pretraining Methods']}
+- {bibkey: yang2024equipping, categories: ['Pretraining Methods']}
+- {bibkey: zhang2024extracting, categories: ['Pretraining Methods']}
+- {bibkey: zhao2024let, categories: ['Pretraining Methods']}
+- {bibkey: rahman2024v, categories: ['Pretraining Methods']}
+- {bibkey: chen2024automanual, categories: ['Pretraining Methods']}
+- {bibkey: kang2024mindstar, categories: ['Pretraining Methods']}
+- {bibkey: quan2024automatically, categories: ['Pretraining Methods']}
+- {bibkey: yan2024exploring, categories: ['Pretraining Methods']}
+- {bibkey: hanlin2024vision, categories: ['Pretraining Methods']}
+- {bibkey: lee2024nv, categories: ['Pretraining Methods']}
+- {bibkey: ishida2024facilitating, categories: ['Pretraining Methods']}
+- {bibkey: rangapur2024battle, categories: ['Pretraining Methods']}
+- {bibkey: kumar2024bridging, categories: ['Pretraining Methods']}
+- {bibkey: li2024owlore, categories: ['Pretraining Methods']}
+- {bibkey: das2024low, categories: ['Pretraining Methods']}
+- {bibkey: chen2024hardware, categories: ['Pretraining Methods']}
+- {bibkey: street2024llms, categories: ['Pretraining Methods']}
+- {bibkey: li2024perteval, categories: ['Pretraining Methods']}
+- {bibkey: stap2024fine, categories: ['Pretraining Methods']}
+- {bibkey: xiong2024defensive, categories: ['Pretraining Methods']}
+- {bibkey: ni2024xwin, categories: ['Pretraining Methods']}
+- {bibkey: beyer2024clembench, categories: ['Pretraining Methods']}
+- {bibkey: xu2024sayself, categories: ['Pretraining Methods']}
+- {bibkey: wang2024adaptive, categories: ['Pretraining Methods']}
+- {bibkey: yang2024aligning, categories: ['Pretraining Methods']}
+- {bibkey: xu2024conveyor, categories: ['Pretraining Methods']}
+- {bibkey: lam2024closer, categories: ['Pretraining Methods']}
+- {bibkey: ji2024llms, categories: ['Pretraining Methods']}
+- {bibkey: abdelnabi2024are, categories: ['Pretraining Methods']}
+- {bibkey: tseng2024two, categories: ['Pretraining Methods']}
+- {bibkey: kamoi2024when, categories: ['Pretraining Methods']}
+- {bibkey: yin2024lofit, categories: ['Pretraining Methods']}
+- {bibkey: lai2024llms, categories: ['Pretraining Methods']}
+- {bibkey: khatun2024trutheval, categories: ['Pretraining Methods']}
+- {bibkey: klett2024extended, categories: ['Pretraining Methods']}
+- {bibkey: liu2024intrinsic, categories: ['Pretraining Methods']}
+- {bibkey: cai2024self, categories: ['Pretraining Methods']}
+- {bibkey: liu2024llmembed, categories: ['Pretraining Methods']}
+- {bibkey: qin2024empirical, categories: ['Pretraining Methods']}
+- {bibkey: zhang2024rest, categories: ['Pretraining Methods']}
+- {bibkey: kabongo2024exploring, categories: ['Pretraining Methods']}
+- {bibkey: davoodi2024llms, categories: ['Pretraining Methods']}
+- {bibkey: senel2024generative, categories: ['Pretraining Methods']}
+- {bibkey: ko2024growover, categories: ['Pretraining Methods']}
+- {bibkey: zhou2024how, categories: ['Pretraining Methods']}
+- {bibkey: yu2024flow, categories: ['Pretraining Methods']}
+- {bibkey: you2024shiftaddllm, categories: ['Pretraining Methods']}
+- {bibkey: zhang2024self, categories: ['Pretraining Methods']}
+- {bibkey: bondarenko2024low, categories: ['Pretraining Methods']}
+- {bibkey: alghisi2024should, categories: ['Pretraining Methods']}
+- {bibkey: dedampierre2024towards, categories: ['Pretraining Methods']}
+- {bibkey: costarelli2024gamebench, categories: ['Pretraining Methods']}
+- {bibkey: liu2024adversarial, categories: ['Pretraining Methods']}
+- {bibkey: pordanesh2024exploring, categories: ['Pretraining Methods']}
+- {bibkey: cabessa2024learning, categories: ['Pretraining Methods']}
+- {bibkey: singh2024llm, categories: ['Pretraining Methods']}
+- {bibkey: bang2024crayon, categories: ['Pretraining Methods']}
+- {bibkey: neplenbroek2024mbbq, categories: ['Pretraining Methods']}
+- {bibkey: sharami2024guiding, categories: ['Pretraining Methods']}
+- {bibkey: li2024is, categories: ['Pretraining Methods']}
+- {bibkey: xu2024magpie, categories: ['Pretraining Methods']}
+- {bibkey: huang2024improving, categories: ['Pretraining Methods']}
+- {bibkey: vyborov2024exploring, categories: ['Pretraining Methods']}
+- {bibkey: bucher2024fine, categories: ['Pretraining Methods']}
+- {bibkey: zhang2024chain, categories: ['Pretraining Methods']}
+- {bibkey: rahman2024defan, categories: ['Pretraining Methods']}
+- {bibkey: fatemi2024test, categories: ['Pretraining Methods']}
+- {bibkey: xiang2024guardagent, categories: ['Pretraining Methods']}
+- {bibkey: xu2024bag, categories: ['Pretraining Methods']}
+- {bibkey: ong2024gpt, categories: ['Pretraining Methods']}
+- {bibkey: hans2024be, categories: ['Pretraining Methods']}
+- {bibkey: singh2024exposing, categories: ['Pretraining Methods']}
+- {bibkey: han2024torchopera, categories: ['Pretraining Methods']}
+- {bibkey: lin2024can, categories: ['Pretraining Methods']}
+- {bibkey: qiu2024grammaticality, categories: ['Pretraining Methods']}
+- {bibkey: xiong2024watch, categories: ['Pretraining Methods']}
+- {bibkey: li2024self, categories: ['Pretraining Methods']}
+- {bibkey: michel2024realistic, categories: ['Pretraining Methods']}
+- {bibkey: deng2024cram, categories: ['Pretraining Methods']}
+- {bibkey: moore2024base, categories: ['Pretraining Methods']}
+- {bibkey: dong2024can, categories: ['Pretraining Methods']}
+- {bibkey: aghzal2024look, categories: ['Pretraining Methods']}
+- {bibkey: borazjanizadeh2024navigating, categories: ['Pretraining Methods']}
+- {bibkey: zhao2024aqulia, categories: ['Pretraining Methods']}
+- {bibkey: ma2024moyu, categories: ['Pretraining Methods']}
+- {bibkey: li2024amphista, categories: ['Pretraining Methods']}
+- {bibkey: wang2024probing, categories: ['Pretraining Methods']}
+- {bibkey: druart2024investigating, categories: ['Pretraining Methods']}
+- {bibkey: zhong2024understanding, categories: ['Pretraining Methods']}
+- {bibkey: koshkin2024llms, categories: ['Pretraining Methods']}
+- {bibkey: yang2024can, categories: ['Pretraining Methods']}
+- {bibkey: hou2024wikicontradict, categories: ['Pretraining Methods']}
+- {bibkey: wang2024q, categories: ['Pretraining Methods']}
+- {bibkey: ning2024can, categories: ['Pretraining Methods']}
+- {bibkey: tejaswi2024exploring, categories: ['Pretraining Methods']}
+- {bibkey: pi2024dissecting, categories: ['Pretraining Methods']}
+- {bibkey: zhou2024llm, categories: ['Pretraining Methods']}
+- {bibkey: kharchenko2024how, categories: ['Pretraining Methods']}
+- {bibkey: lee2024bug, categories: ['Pretraining Methods']}
+- {bibkey: li2024gradient, categories: ['Pretraining Methods']}
+- {bibkey: anantheswaran2024investigating, categories: ['Pretraining Methods']}
+- {bibkey: yoo2024csrt, categories: ['Pretraining Methods']}
+- {bibkey: li2024ruler, categories: ['Pretraining Methods']}
+- {bibkey: sun2024effectiveness, categories: ['Pretraining Methods']}
+- {bibkey: zhang2024can, categories: ['Pretraining Methods']}
+- {bibkey: tan2024evalalign, categories: ['Pretraining Methods']}
+- {bibkey: lou2024sparser, categories: ['Pretraining Methods']}
+- {bibkey: koneru2024blending, categories: ['Pretraining Methods']}
+- {bibkey: panda2024lottery, categories: ['Pretraining Methods']}
+- {bibkey: singh2024three, categories: ['Pretraining Methods']}
+- {bibkey: gavin2024longins, categories: ['Pretraining Methods']}
+- {bibkey: li2024banishing, categories: ['Pretraining Methods']}
+- {bibkey: yang2024crafting, categories: ['Pretraining Methods']}
+- {bibkey: huang2024selective, categories: ['Pretraining Methods']}
+- {bibkey: masala2024vorbeti, categories: ['Pretraining Methods']}
+- {bibkey: shi2024ircan, categories: ['Pretraining Methods']}
+- {bibkey: han2024wildguard, categories: ['Pretraining Methods']}
+- {bibkey: ong2024routellm, categories: ['Pretraining Methods']}
+- {bibkey: dong2024understand, categories: ['Pretraining Methods']}
+- {bibkey: kim2024few, categories: ['Pretraining Methods']}
+- {bibkey: kim2024learning, categories: ['Pretraining Methods']}
+- {bibkey: ghanim2024jailbreaking, categories: ['Pretraining Methods']}
+- {bibkey: vadlapati2024autopuredata, categories: ['Pretraining Methods']}
+- {bibkey: lad2024remarkable, categories: ['Pretraining Methods']}
+- {bibkey: lin2024mixture, categories: ['Pretraining Methods']}
+- {bibkey: chen2024bestow, categories: ['Pretraining Methods']}
+- {bibkey: halawi2024covert, categories: ['Pretraining Methods']}
+- {bibkey: mcaleese2024llm, categories: ['Pretraining Methods']}
+- {bibkey: fayyaz2024evaluating, categories: ['Pretraining Methods']}
+- {bibkey: mahfuz2024too, categories: ['Pretraining Methods']}
+- {bibkey: qian2024mia, categories: ['Pretraining Methods']}
+- {bibkey: chouikhi2024gemmar, categories: ['Pretraining Methods']}
+- {bibkey: yu2024rankrag, categories: ['Pretraining Methods']}
+- {bibkey: jiang2024minference, categories: ['Pretraining Methods']}
+- {bibkey: yan2024gpt, categories: ['Pretraining Methods']}
+- {bibkey: sathe2024improving, categories: ['Pretraining Methods']}
+- {bibkey: mendonça2024benchmarking, categories: ['Pretraining Methods']}
+- {bibkey: li2024q, categories: ['Pretraining Methods']}
+- {bibkey: tamoyan2024llm, categories: ['Pretraining Methods']}
+- {bibkey: an2024funaudiollm, categories: ['Pretraining Methods']}
+- {bibkey: zhou2024orchestrating, categories: ['Pretraining Methods']}
+- {bibkey: bartl2024from, categories: ['Pretraining Methods']}
+- {bibkey: he2024achieving, categories: ['Pretraining Methods']}
+- {bibkey: tsai2024code, categories: ['Pretraining Methods']}
+- {bibkey: wu2024inversecoder, categories: ['Pretraining Methods']}
+- {bibkey: kim2024is, categories: ['Pretraining Methods']}
+- {bibkey: lu2024llamax, categories: ['Pretraining Methods']}
+- {bibkey: ma2024fbi, categories: ['Pretraining Methods']}
+- {bibkey: topsakal2024evaluating, categories: ['Pretraining Methods']}
+- {bibkey: huang2024rolora, categories: ['Pretraining Methods']}
+- {bibkey: fang2024llm, categories: ['Pretraining Methods']}
+- {bibkey: liu2024universal, categories: ['Pretraining Methods']}
+- {bibkey: gao2024self, categories: ['Pretraining Methods']}
+- {bibkey: singh2024robustness, categories: ['Pretraining Methods']}
+- {bibkey: kong2024self, categories: ['Pretraining Methods']}
+- {bibkey: bui2024two, categories: ['Pretraining Methods']}
+- {bibkey: makridis2024fairylandai, categories: ['Pretraining Methods']}
+- {bibkey: wenyi2024how, categories: ['Pretraining Methods']}
+- {bibkey: parida2024building, categories: ['Pretraining Methods']}
+- {bibkey: nie2024gpt, categories: ['Pretraining Methods']}
+- {bibkey: chen2024all, categories: ['Pretraining Methods']}
+- {bibkey: priyanshu2024silent, categories: ['Pretraining Methods']}
+- {bibkey: song2024good, categories: ['Pretraining Methods']}
+- {bibkey: luo2024arena, categories: ['Pretraining Methods']}
+- {bibkey: tigges2024llm, categories: ['Pretraining Methods']}
+- {bibkey: tan2024dlo, categories: ['Pretraining Methods']}
+- {bibkey: chitsaz2024exploring, categories: ['Pretraining Methods']}
+- {bibkey: li2024needlebench, categories: ['Pretraining Methods']}
+- {bibkey: andriushchenko2024does, categories: ['Pretraining Methods']}
+- {bibkey: wu2024itertl, categories: ['Pretraining Methods']}
+- {bibkey: li2024llm, categories: ['Pretraining Methods']}
+- {bibkey: dogan2024evaluating, categories: ['Pretraining Methods']}
+- {bibkey: kwon2024zero, categories: ['Pretraining Methods']}
+- {bibkey: liao2024beyond, categories: ['Pretraining Methods']}
+- {bibkey: rozen2024do, categories: ['Pretraining Methods']}
+- {bibkey: ateia2024can, categories: ['Pretraining Methods']}
+- {bibkey: fu2024lazyllm, categories: ['Pretraining Methods']}
+- {bibkey: tyukin2024attention, categories: ['Pretraining Methods']}
+- {bibkey: sheshadri2024latent, categories: ['Pretraining Methods']}
+- {bibkey: huang2024accelerating, categories: ['Pretraining Methods']}
+- {bibkey: wang2024comprehensive, categories: ['Pretraining Methods']}
+- {bibkey: sun2024lawluo, categories: ['Pretraining Methods']}
+- {bibkey: liu2024educating, categories: ['Pretraining Methods']}
+- {bibkey: zhang2024pybench, categories: ['Pretraining Methods']}
+- {bibkey: zhong2024cultural, categories: ['Pretraining Methods']}
+- {bibkey: lin2024efficient, categories: ['Pretraining Methods']}
+- {bibkey: howe2024exploring, categories: ['Pretraining Methods']}
+- {bibkey: gao2024autovcoder, categories: ['Pretraining Methods']}
+- {bibkey: speicher2024understanding, categories: ['Pretraining Methods']}
+- {bibkey: feng2024from, categories: ['Pretraining Methods']}
+- {bibkey: chen2024mofo, categories: ['Pretraining Methods']}
+- {bibkey: hou2024course, categories: ['Pretraining Methods']}
+- {bibkey: tsai2024leveraging, categories: ['Pretraining Methods']}
+- {bibkey: anjum2024tensor, categories: ['Pretraining Methods']}
+- {bibkey: zhu2024fanno, categories: ['Pretraining Methods']}
+- {bibkey: su2024mission, categories: ['Pretraining Methods']}
+- {bibkey: urlana2024no, categories: ['Pretraining Methods']}
+- {bibkey: lv2024codeact, categories: ['Pretraining Methods']}
+- {bibkey: fleischer2024rag, categories: ['Pretraining Methods']}
+- {bibkey: aponte2024framework, categories: ['Pretraining Methods']}
+- {bibkey: yang2024synthesizing, categories: ['Pretraining Methods']}
+- {bibkey: snell2024scaling, categories: ['Pretraining Methods']}
+- {bibkey: paige2024training, categories: ['Pretraining Methods']}
+- {bibkey: meyer2024comparison, categories: ['Pretraining Methods']}
+- {bibkey: kahl2024evaluating, categories: ['Pretraining Methods']}
+- {bibkey: lu2024toolsandbox, categories: ['Pretraining Methods']}
+- {bibkey: kakolyris2024slo, categories: ['Pretraining Methods']}
+- {bibkey: yang2024p3, categories: ['Pretraining Methods']}
+- {bibkey: qi2024mutual, categories: ['Pretraining Methods']}
+- {bibkey: chen2024can, categories: ['Pretraining Methods']}
+- {bibkey: cheng2024social, categories: ['Pretraining Methods']}
+- {bibkey: ebrahimi2024crome, categories: ['Pretraining Methods']}
+- {bibkey: cho2024pragmatic, categories: ['Pretraining Methods']}
+- {bibkey: wang2024re, categories: ['Pretraining Methods']}
+- {bibkey: bai2024longwriter, categories: ['Pretraining Methods']}
+- {bibkey: wang2024using, categories: ['Pretraining Methods']}
+- {bibkey: zhang2024koala, categories: ['Pretraining Methods']}
+- {bibkey: long2024llms, categories: ['Pretraining Methods']}
+- {bibkey: chen2024see, categories: ['Pretraining Methods']}
+- {bibkey: wu2024cognitive, categories: ['Pretraining Methods']}
+- {bibkey: song2024out, categories: ['Pretraining Methods']}
+- {bibkey: shermis2024using, categories: ['Pretraining Methods']}
+- {bibkey: li2024bridging, categories: ['Pretraining Methods']}
+- {bibkey: yuan2024rhyme, categories: ['Pretraining Methods']}
+- {bibkey: mendonça2024soda, categories: ['Pretraining Methods']}
+- {bibkey: vo2024redwhale, categories: ['Pretraining Methods']}
+- {bibkey: cao2024nothing, categories: ['Pretraining Methods']}
+- {bibkey: liao2024ikun, categories: ['Pretraining Methods']}
+- {bibkey: hu2024mixed, categories: ['Pretraining Methods']}
+- {bibkey: chan2024prompto, categories: ['Pretraining Methods']}
+- {bibkey: xie2024show, categories: ['Pretraining Methods']}
+- {bibkey: palenmichel2024investigating, categories: ['Pretraining Methods']}
+- {bibkey: parthasarathy2024ultimate, categories: ['Pretraining Methods']}
+- {bibkey: banerjee2024llms, categories: ['Pretraining Methods']}
+- {bibkey: fawi2024curlora, categories: ['Pretraining Methods']}
+- {bibkey: kaur2024instruct, categories: ['Pretraining Methods']}
+- {bibkey: li2024llm, categories: ['Pretraining Methods']}
+- {bibkey: li2024scilitllm, categories: ['Pretraining Methods']}
+- {bibkey: yoshida2024making, categories: ['Pretraining Methods']}
+- {bibkey: wan2024dynamic, categories: ['Pretraining Methods']}
+- {bibkey: méloux2024novel, categories: ['Pretraining Methods']}
+- {bibkey: cui2024can, categories: ['Pretraining Methods']}
+- {bibkey: wang2024learning, categories: ['Pretraining Methods']}
+- {bibkey: liu2024toolace, categories: ['Pretraining Methods']}
+- {bibkey: horiguchi2024evolution, categories: ['Pretraining Methods']}
+- {bibkey: li2024self, categories: ['Pretraining Methods']}
+- {bibkey: sato2024implementation, categories: ['Pretraining Methods']}
+- {bibkey: wang2024deconfounded, categories: ['Pretraining Methods']}
+- {bibkey: park2024understanding, categories: ['Pretraining Methods']}
+- {bibkey: basu2024nestful, categories: ['Pretraining Methods']}
+- {bibkey: nafar2024learning, categories: ['Pretraining Methods']}
+- {bibkey: pan2024instinfer, categories: ['Pretraining Methods']}
+- {bibkey: zhang2024onegen, categories: ['Pretraining Methods']}
+- {bibkey: just2024dipt, categories: ['Pretraining Methods']}
+- {bibkey: pochinkov2024extracting, categories: ['Pretraining Methods']}
+- {bibkey: zhao2024enhancing, categories: ['Pretraining Methods']}
+- {bibkey: weber2024large, categories: ['Pretraining Methods']}
+# Applications
+- {bibkey: liu2021what, categories: ['Applications']}
+- {bibkey: tack2022ai, categories: ['Applications']}
+- {bibkey: krol2022towards, categories: ['Applications']}
+- {bibkey: yuan2022selecting, categories: ['Applications']}
+- {bibkey: albrecht2022despite, categories: ['Applications']}
+- {bibkey: pereira2022visconde, categories: ['Applications']}
+- {bibkey: jiao2023is, categories: ['Applications']}
+- {bibkey: zhuo2023red, categories: ['Applications']}
+- {bibkey: zhong2023can, categories: ['Applications']}
+- {bibkey: zuccon2023dr, categories: ['Applications']}
+- {bibkey: kuzman2023chatgpt, categories: ['Applications']}
+- {bibkey: wang2023is, categories: ['Applications']}
+- {bibkey: tan2023can, categories: ['Applications']}
+- {bibkey: peng2023towards, categories: ['Applications']}
+- {bibkey: gu2023linguistically, categories: ['Applications']}
+- {bibkey: luo2023chatgpt, categories: ['Applications']}
+- {bibkey: liu2023g, categories: ['Applications']}
+- {bibkey: navarreteparra2023aligning, categories: ['Applications']}
+- {bibkey: gao2023how, categories: ['Applications']}
+- {bibkey: ogundare2023comparative, categories: ['Applications']}
+- {bibkey: khademi2023can, categories: ['Applications']}
+- {bibkey: shen2023chatgpt, categories: ['Applications']}
+- {bibkey: zheng2023why, categories: ['Applications']}
+- {bibkey: tian2023is, categories: ['Applications']}
+- {bibkey: li2023unlocking, categories: ['Applications']}
+- {bibkey: zhang2023empirical, categories: ['Applications']}
+- {bibkey: poldrack2023ai, categories: ['Applications']}
+- {bibkey: lai2023multidimensional, categories: ['Applications']}
+- {bibkey: joshi2023chatgpt, categories: ['Applications']}
+- {bibkey: qiu2023smile, categories: ['Applications']}
+- {bibkey: liu2023is, categories: ['Applications']}
+- {bibkey: roy2023generating, categories: ['Applications']}
+- {bibkey: joublin2023glimpse, categories: ['Applications']}
+- {bibkey: huang2023not, categories: ['Applications']}
+- {bibkey: zhang2023sgp, categories: ['Applications']}
+- {bibkey: lawley2023interactive, categories: ['Applications']}
+- {bibkey: ghosh2023chatgpt, categories: ['Applications']}
+- {bibkey: kokaia2023writing, categories: ['Applications']}
+- {bibkey: wang2023cue, categories: ['Applications']}
+- {bibkey: aggarwal2023lets, categories: ['Applications']}
+- {bibkey: cegin2023chatgpt, categories: ['Applications']}
+- {bibkey: hassan2023chatgpt, categories: ['Applications']}
+- {bibkey: xu2023fine, categories: ['Applications']}
+- {bibkey: liang2023let, categories: ['Applications']}
+- {bibkey: hu2023decipherpref, categories: ['Applications']}
+- {bibkey: raunak2023leveraging, categories: ['Applications']}
+- {bibkey: zhao2023investigating, categories: ['Applications']}
+- {bibkey: lin2023towards, categories: ['Applications']}
+- {bibkey: koziolek2023chatgpt, categories: ['Applications']}
+- {bibkey: nambi2023breaking, categories: ['Applications']}
+- {bibkey: laskar2023systematic, categories: ['Applications']}
+- {bibkey: cabello2023pokemonchat, categories: ['Applications']}
+- {bibkey: karn2023shs, categories: ['Applications']}
+- {bibkey: pu2023chatgpt, categories: ['Applications']}
+- {bibkey: sun2023pushing, categories: ['Applications']}
+- {bibkey: chen2023prompt, categories: ['Applications']}
+- {bibkey: zhuang2023toolqa, categories: ['Applications']}
+- {bibkey: huo2023retrieving, categories: ['Applications']}
+- {bibkey: hwang2023large, categories: ['Applications']}
+- {bibkey: phung2023generative, categories: ['Applications']}
+- {bibkey: varshney2023stitch, categories: ['Applications']}
+- {bibkey: palagin2023ontochatgpt, categories: ['Applications']}
+- {bibkey: yang2023neural, categories: ['Applications']}
+- {bibkey: du2023classeval, categories: ['Applications']}
+- {bibkey: devunuri2023chatgpt, categories: ['Applications']}
+- {bibkey: kadaoui2023tarjamat, categories: ['Applications']}
+- {bibkey: liu2023agentbench, categories: ['Applications']}
+- {bibkey: lenat2023getting, categories: ['Applications']}
+- {bibkey: buscemi2023comparative, categories: ['Applications']}
+- {bibkey: kwon2023chatgpt, categories: ['Applications']}
+- {bibkey: spector2023accelerating, categories: ['Applications']}
+- {bibkey: li2023teach, categories: ['Applications']}
+- {bibkey: cassano2023knowledge, categories: ['Applications']}
+- {bibkey: qiao2023gameeval, categories: ['Applications']}
+- {bibkey: liu2023modeling, categories: ['Applications']}
+- {bibkey: wang2023knowledge, categories: ['Applications']}
+- {bibkey: zafar2023building, categories: ['Applications']}
+- {bibkey: mendonça2023simple, categories: ['Applications']}
+- {bibkey: arefeen2023leancontext, categories: ['Applications']}
+- {bibkey: motlagh2023impact, categories: ['Applications']}
+- {bibkey: wang2023augmenting, categories: ['Applications']}
+- {bibkey: su2023hc3, categories: ['Applications']}
+- {bibkey: chowdhury2023generative, categories: ['Applications']}
+- {bibkey: gatto2023text, categories: ['Applications']}
+- {bibkey: robinson2023chatgpt, categories: ['Applications']}
+- {bibkey: bhat2023investigating, categories: ['Applications']}
+- {bibkey: liu2023are, categories: ['Applications']}
+- {bibkey: lozić2023chatgpt, categories: ['Applications']}
+- {bibkey: arawjo2023chainforge, categories: ['Applications']}
+- {bibkey: wu2023retrieve, categories: ['Applications']}
+- {bibkey: sodani2023llm, categories: ['Applications']}
+- {bibkey: huang2023free, categories: ['Applications']}
+- {bibkey: frenkel2023chatgpt, categories: ['Applications']}
+- {bibkey: ma2023which, categories: ['Applications']}
+- {bibkey: ying2023intuitive, categories: ['Applications']}
+- {bibkey: li2023spell, categories: ['Applications']}
+- {bibkey: yong2023low, categories: ['Applications']}
+- {bibkey: kroeger2023explainers, categories: ['Applications']}
+- {bibkey: silva2023gpt, categories: ['Applications']}
+- {bibkey: chen2023forgetful, categories: ['Applications']}
+- {bibkey: huang2023catastrophic, categories: ['Applications']}
+- {bibkey: yang2023beyond, categories: ['Applications']}
+- {bibkey: xie2023empirical, categories: ['Applications']}
+- {bibkey: gani2023llm, categories: ['Applications']}
+- {bibkey: ding2023harnessing, categories: ['Applications']}
+- {bibkey: kasahara2023exploring, categories: ['Applications']}
+- {bibkey: chen2023adaptation, categories: ['Applications']}
+- {bibkey: shu2023posqa, categories: ['Applications']}
+- {bibkey: sottana2023evaluation, categories: ['Applications']}
+- {bibkey: liu2023exploring, categories: ['Applications']}
+- {bibkey: zhou2023can, categories: ['Applications']}
+- {bibkey: friel2023chainpoll, categories: ['Applications']}
+- {bibkey: henkel2023can, categories: ['Applications']}
+- {bibkey: feng2023improving, categories: ['Applications']}
+- {bibkey: hari2023herd, categories: ['Applications']}
+- {bibkey: zhao2023divknowqa, categories: ['Applications']}
+- {bibkey: wang2023chatcoder, categories: ['Applications']}
+- {bibkey: dong2023probing, categories: ['Applications']}
+- {bibkey: kotonya2023little, categories: ['Applications']}
+- {bibkey: ou2023dialogbench, categories: ['Applications']}
+- {bibkey: khan2023assessing, categories: ['Applications']}
+- {bibkey: xie2023tencentllmeval, categories: ['Applications']}
+- {bibkey: chakraborty2023empirical, categories: ['Applications']}
+- {bibkey: murr2023testing, categories: ['Applications']}
+- {bibkey: rasool2023evaluating, categories: ['Applications']}
+- {bibkey: bruno2023insights, categories: ['Applications']}
+- {bibkey: liu2023recall, categories: ['Applications']}
+- {bibkey: yan2023codescope, categories: ['Applications']}
+- {bibkey: chen2023xplainllm, categories: ['Applications']}
+- {bibkey: nan2023evaluating, categories: ['Applications']}
+- {bibkey: liu2023llms, categories: ['Applications']}
+- {bibkey: mishra2023llm, categories: ['Applications']}
+- {bibkey: ghodratnama2023adapting, categories: ['Applications']}
+- {bibkey: yu2023finmem, categories: ['Applications']}
+- {bibkey: si2023knowledge, categories: ['Applications']}
+- {bibkey: hussain2023towards, categories: ['Applications']}
+- {bibkey: yao2023survey, categories: ['Applications']}
+- {bibkey: abbasiantaeb2023let, categories: ['Applications']}
+- {bibkey: woźniak2023from, categories: ['Applications']}
+- {bibkey: wang2023lifelongmemory, categories: ['Applications']}
+- {bibkey: bahak2023evaluating, categories: ['Applications']}
+- {bibkey: sallou2023breaking, categories: ['Applications']}
+- {bibkey: kwon2023beyond, categories: ['Applications']}
+- {bibkey: schonholtz2023review, categories: ['Applications']}
+- {bibkey: rahdari2023logic, categories: ['Applications']}
+- {bibkey: oketunji2023large, categories: ['Applications']}
+- {bibkey: si2023exploring, categories: ['Applications']}
+- {bibkey: jiang2023hykge, categories: ['Applications']}
+- {bibkey: zhang2023simple, categories: ['Applications']}
+- {bibkey: wang2023chated, categories: ['Applications']}
+- {bibkey: wang2023keqing, categories: ['Applications']}
+- {bibkey: yang2024if, categories: ['Applications']}
+- {bibkey: ke2024exploring, categories: ['Applications']}
+- {bibkey: stanić2024towards, categories: ['Applications']}
+- {bibkey: bansal2024llm, categories: ['Applications']}
+- {bibkey: yadav2024pythonsaga, categories: ['Applications']}
+- {bibkey: meng2024dcr, categories: ['Applications']}
+- {bibkey: ke2024bridging, categories: ['Applications']}
+- {bibkey: maity2024novel, categories: ['Applications']}
+- {bibkey: shen2024small, categories: ['Applications']}
+- {bibkey: rasool2024llms, categories: ['Applications']}
+- {bibkey: holmes2024deepspeed, categories: ['Applications']}
+- {bibkey: hong2024evaluating, categories: ['Applications']}
+- {bibkey: jiao2024gradable, categories: ['Applications']}
+- {bibkey: kasner2024beyond, categories: ['Applications']}
+- {bibkey: liu2024chatqa, categories: ['Applications']}
+- {bibkey: chitale2024empirical, categories: ['Applications']}
+- {bibkey: ye2024dataframe, categories: ['Applications']}
+- {bibkey: aynetdinov2024semscore, categories: ['Applications']}
+- {bibkey: abdullin2024synthetic, categories: ['Applications']}
+- {bibkey: ryan2024code, categories: ['Applications']}
+- {bibkey: podo2024vieva, categories: ['Applications']}
+- {bibkey: li2024improving, categories: ['Applications']}
+- {bibkey: lynch2024gpt, categories: ['Applications']}
+- {bibkey: ferraretto2024exaranker, categories: ['Applications']}
+- {bibkey: kim2024can, categories: ['Applications']}
+- {bibkey: wang2024absinstruct, categories: ['Applications']}
+- {bibkey: bronnec2024exploring, categories: ['Applications']}
+- {bibkey: yin2024relative, categories: ['Applications']}
+- {bibkey: srivastava2024evaluating, categories: ['Applications']}
+- {bibkey: wang2024llm, categories: ['Applications']}
+- {bibkey: xu2024pride, categories: ['Applications']}
+- {bibkey: askari2024self, categories: ['Applications']}
+- {bibkey: jin2024can, categories: ['Applications']}
+- {bibkey: bakman2024mars, categories: ['Applications']}
+- {bibkey: wu2024evaluating, categories: ['Applications']}
+- {bibkey: tan2024small, categories: ['Applications']}
+- {bibkey: tang2024modelgpt, categories: ['Applications']}
+- {bibkey: deng2024tables, categories: ['Applications']}
+- {bibkey: balepur2024artifacts, categories: ['Applications']}
+- {bibkey: zheng2024trustscore, categories: ['Applications']}
+- {bibkey: yang2024advancing, categories: ['Applications']}
+- {bibkey: wei2024opdai, categories: ['Applications']}
+- {bibkey: tang2024tofueval, categories: ['Applications']}
+- {bibkey: pieri2024bimedix, categories: ['Applications']}
+- {bibkey: kwon2024are, categories: ['Applications']}
+- {bibkey: diandaru2024could, categories: ['Applications']}
+- {bibkey: gobara2024do, categories: ['Applications']}
+- {bibkey: urlana2024llms, categories: ['Applications']}
+- {bibkey: li2024humaneval, categories: ['Applications']}
+- {bibkey: shaer2024ai, categories: ['Applications']}
+- {bibkey: lyu2024dempt, categories: ['Applications']}
+- {bibkey: banerjee2024how, categories: ['Applications']}
+- {bibkey: liu2024agentlite, categories: ['Applications']}
+- {bibkey: yuan2024chatmusician, categories: ['Applications']}
+- {bibkey: wang2024defending, categories: ['Applications']}
+- {bibkey: putri2024can, categories: ['Applications']}
+- {bibkey: maharana2024evaluating, categories: ['Applications']}
+- {bibkey: xia2024fofo, categories: ['Applications']}
+- {bibkey: ugare2024syncode, categories: ['Applications']}
+- {bibkey: li2024eliciting, categories: ['Applications']}
+- {bibkey: gramopadhye2024few, categories: ['Applications']}
+- {bibkey: liu2024chatasu, categories: ['Applications']}
+- {bibkey: cheng2024call, categories: ['Applications']}
+- {bibkey: yuan2024continued, categories: ['Applications']}
+- {bibkey: mikami2024natural, categories: ['Applications']}
+- {bibkey: ma2024enhancing, categories: ['Applications']}
+- {bibkey: zhang2024llms, categories: ['Applications']}
+- {bibkey: li2024synthesize, categories: ['Applications']}
+- {bibkey: li2024can, categories: ['Applications']}
+- {bibkey: zhang2024luq, categories: ['Applications']}
+- {bibkey: hassid2024larger, categories: ['Applications']}
+- {bibkey: kishore2024unveiling, categories: ['Applications']}
+- {bibkey: jiang2024self, categories: ['Applications']}
+- {bibkey: wiratunga2024cbr, categories: ['Applications']}
+- {bibkey: mandal2024iitk, categories: ['Applications']}
+- {bibkey: merx2024low, categories: ['Applications']}
+- {bibkey: wang2024adapting, categories: ['Applications']}
+- {bibkey: hao2024llm, categories: ['Applications']}
+- {bibkey: basmov2024llms, categories: ['Applications']}
+- {bibkey: wang2024ada, categories: ['Applications']}
+- {bibkey: pan2024not, categories: ['Applications']}
+- {bibkey: patil2024goex, categories: ['Applications']}
+- {bibkey: xu2024bridging, categories: ['Applications']}
+- {bibkey: simhi2024constructing, categories: ['Applications']}
+- {bibkey: wu2024clasheval, categories: ['Applications']}
+- {bibkey: tang2024minicheck, categories: ['Applications']}
+- {bibkey: han2024llm, categories: ['Applications']}
+- {bibkey: xu2024generate, categories: ['Applications']}
+- {bibkey: khojah2024beyond, categories: ['Applications']}
+- {bibkey: ataei2024elicitron, categories: ['Applications']}
+- {bibkey: chen2024online, categories: ['Applications']}
+- {bibkey: an2024make, categories: ['Applications']}
+- {bibkey: singh2024indicgenbench, categories: ['Applications']}
+- {bibkey: fujii2024continual, categories: ['Applications']}
+- {bibkey: he2024efficient, categories: ['Applications']}
+- {bibkey: labruna2024when, categories: ['Applications']}
+- {bibkey: tian2024codehalu, categories: ['Applications']}
+- {bibkey: yadkori2024mitigating, categories: ['Applications']}
+- {bibkey: cohn2024towards, categories: ['Applications']}
+- {bibkey: azov2024self, categories: ['Applications']}
+- {bibkey: zhutian2024sketch, categories: ['Applications']}
+- {bibkey: li2024dalk, categories: ['Applications']}
+- {bibkey: cho2024kv, categories: ['Applications']}
+- {bibkey: jauhiainen2024evaluating, categories: ['Applications']}
+- {bibkey: fan2024survey, categories: ['Applications']}
+- {bibkey: zhu2024quite, categories: ['Applications']}
+- {bibkey: yerukola2024is, categories: ['Applications']}
+- {bibkey: piché2024llms, categories: ['Applications']}
+- {bibkey: chen2024intelligent, categories: ['Applications']}
+- {bibkey: zhang2024wordgame, categories: ['Applications']}
+- {bibkey: zheng2024ali, categories: ['Applications']}
+- {bibkey: feng2024agile, categories: ['Applications']}
+- {bibkey: fu2024cross, categories: ['Applications']}
+- {bibkey: sun2024decoding, categories: ['Applications']}
+- {bibkey: benara2024crafting, categories: ['Applications']}
+- {bibkey: iga2024assessing, categories: ['Applications']}
+- {bibkey: yang2024arithmetic, categories: ['Applications']}
+- {bibkey: vatsal2024can, categories: ['Applications']}
+- {bibkey: li2024nearest, categories: ['Applications']}
+- {bibkey: bacciu2024generating, categories: ['Applications']}
+- {bibkey: li2024mediq, categories: ['Applications']}
+- {bibkey: shiri2024decompose, categories: ['Applications']}
+- {bibkey: bambhaniya2024demystifying, categories: ['Applications']}
+- {bibkey: goloviznina2024ive, categories: ['Applications']}
+- {bibkey: cao2024retaining, categories: ['Applications']}
+- {bibkey: besta2024checkembed, categories: ['Applications']}
+- {bibkey: chen2024llm, categories: ['Applications']}
+- {bibkey: malik2024from, categories: ['Applications']}
+- {bibkey: sun2024towards, categories: ['Applications']}
+- {bibkey: wang2024what, categories: ['Applications']}
+- {bibkey: ramprasad2024analyzing, categories: ['Applications']}
+- {bibkey: wu2024knowledge, categories: ['Applications']}
+- {bibkey: tang2024b, categories: ['Applications']}
+- {bibkey: askari2024assessing, categories: ['Applications']}
+- {bibkey: zhou2024evaluating, categories: ['Applications']}
+- {bibkey: zeng2024improving, categories: ['Applications']}
+- {bibkey: varshney2024investigating, categories: ['Applications']}
+- {bibkey: amirizaniani2024do, categories: ['Applications']}
+- {bibkey: shi2024ask, categories: ['Applications']}
+- {bibkey: zheng2024mistral, categories: ['Applications']}
+- {bibkey: chen2024rl, categories: ['Applications']}
+- {bibkey: chu2024better, categories: ['Applications']}
+- {bibkey: li2024know, categories: ['Applications']}
+- {bibkey: yang2024regularizing, categories: ['Applications']}
+- {bibkey: zhang2024iterative, categories: ['Applications']}
+- {bibkey: b2024evaluating, categories: ['Applications']}
+- {bibkey: monteiro2024repliqa, categories: ['Applications']}
+- {bibkey: beigi2024internalinspector, categories: ['Applications']}
+- {bibkey: mohsin2024can, categories: ['Applications']}
+- {bibkey: huang2024generating, categories: ['Applications']}
+- {bibkey: liu2024shield, categories: ['Applications']}
+- {bibkey: doddapaneni2024finding, categories: ['Applications']}
+- {bibkey: lu2024every, categories: ['Applications']}
+- {bibkey: kim2024augmenting, categories: ['Applications']}
+- {bibkey: lee2024do, categories: ['Applications']}
+- {bibkey: cuconasu2024tale, categories: ['Applications']}
+- {bibkey: lyu2024retrieve, categories: ['Applications']}
+- {bibkey: chartier2024evaluation, categories: ['Applications']}
+- {bibkey: maity2024how, categories: ['Applications']}
+- {bibkey: jiang2024longrag, categories: ['Applications']}
+- {bibkey: court2024shortcomings, categories: ['Applications']}
+- {bibkey: chhikara2024lamsum, categories: ['Applications']}
+- {bibkey: kossen2024semantic, categories: ['Applications']}
+- {bibkey: feng2024teaching, categories: ['Applications']}
+- {bibkey: prabhu2024dexter, categories: ['Applications']}
+- {bibkey: wang2024leave, categories: ['Applications']}
+- {bibkey: kalyanpur2024llm, categories: ['Applications']}
+- {bibkey: wang2024poisoned, categories: ['Applications']}
+- {bibkey: shang2024ai, categories: ['Applications']}
+- {bibkey: leiter2024prexme, categories: ['Applications']}
+- {bibkey: fletberliac2024contrastive, categories: ['Applications']}
+- {bibkey: xiong2024from, categories: ['Applications']}
+- {bibkey: treviso2024xtower, categories: ['Applications']}
+- {bibkey: shen2024beyond, categories: ['Applications']}
+- {bibkey: chen2024nlperturbator, categories: ['Applications']}
+- {bibkey: dutta2024applying, categories: ['Applications']}
+- {bibkey: he2024let, categories: ['Applications']}
+- {bibkey: ji2024llm, categories: ['Applications']}
+- {bibkey: uddin2024unseentimeqa, categories: ['Applications']}
+- {bibkey: tsvilodub2024cognitive, categories: ['Applications']}
+- {bibkey: şahinuç2024systematic, categories: ['Applications']}
+- {bibkey: wang2024enhancing, categories: ['Applications']}
+- {bibkey: song2024integrating, categories: ['Applications']}
+- {bibkey: zhu2024kg, categories: ['Applications']}
+- {bibkey: harasta2024it, categories: ['Applications']}
+- {bibkey: shmidman2024adapting, categories: ['Applications']}
+- {bibkey: fan2024biasalert, categories: ['Applications']}
+- {bibkey: zhao2024codev, categories: ['Applications']}
+- {bibkey: sansford2024grapheval, categories: ['Applications']}
+- {bibkey: goldstein2024does, categories: ['Applications']}
+- {bibkey: mukhopadhyay2024unraveling, categories: ['Applications']}
+- {bibkey: kirstein2024whats, categories: ['Applications']}
+- {bibkey: singh2024indic, categories: ['Applications']}
+- {bibkey: mahapatra2024impact, categories: ['Applications']}
+- {bibkey: xu2024chatqa, categories: ['Applications']}
+- {bibkey: lin2024syncpkl, categories: ['Applications']}
+- {bibkey: deng2024enhancing, categories: ['Applications']}
+- {bibkey: madhusudhan2024do, categories: ['Applications']}
+- {bibkey: liu2024enhancing, categories: ['Applications']}
+- {bibkey: zhou2024shared, categories: ['Applications']}
+- {bibkey: li2024retrieval, categories: ['Applications']}
+- {bibkey: sant2024power, categories: ['Applications']}
+- {bibkey: saba2024llms, categories: ['Applications']}
+- {bibkey: nayab2024concise, categories: ['Applications']}
+- {bibkey: abdali2024can, categories: ['Applications']}
+- {bibkey: valentin2024cost, categories: ['Applications']}
+- {bibkey: zhou2024can, categories: ['Applications']}
+- {bibkey: brazier2024conditioning, categories: ['Applications']}
+- {bibkey: oshika2024simplifying, categories: ['Applications']}
+- {bibkey: xiao2024videoqa, categories: ['Applications']}
+- {bibkey: sakib2024risks, categories: ['Applications']}
+- {bibkey: lu2024revisiting, categories: ['Applications']}
+- {bibkey: elsheikh2024creating, categories: ['Applications']}
+- {bibkey: das2024synthetic, categories: ['Applications']}
+- {bibkey: liang2024i, categories: ['Applications']}
+- {bibkey: chen2024putting, categories: ['Applications']}
+- {bibkey: ifergan2024beneath, categories: ['Applications']}
+- {bibkey: pinckney2024revisiting, categories: ['Applications']}
+- {bibkey: anagnostidis2024how, categories: ['Applications']}
+- {bibkey: ong2024large, categories: ['Applications']}
+- {bibkey: wei2024systematic, categories: ['Applications']}
+- {bibkey: wang2024dhp, categories: ['Applications']}
+- {bibkey: miyaoka2024cbf, categories: ['Applications']}
+- {bibkey: anwar2024evaluating, categories: ['Applications']}
+- {bibkey: lu2024datasculpt, categories: ['Applications']}
+- {bibkey: wu2024longgenbench, categories: ['Applications']}
+- {bibkey: zhang2024longcite, categories: ['Applications']}
+- {bibkey: qin2024enhancing, categories: ['Applications']}
+- {bibkey: wang2024strategic, categories: ['Applications']}
+- {bibkey: wang2024planning, categories: ['Applications']}
+- {bibkey: zhou2024sirius, categories: ['Applications']}
+- {bibkey: mayer2024can, categories: ['Applications']}
+- {bibkey: wu2024rlpf, categories: ['Applications']}
+- {bibkey: banerjee2024llms, categories: ['Applications']}
+- {bibkey: wang2024improving, categories: ['Applications']}
+- {bibkey: kanithi2024medic, categories: ['Applications']}
+- {bibkey: chu2024think, categories: ['Applications']}
+# Multimodal Models
+- {bibkey: yang2021empirical, categories: ['Multimodal Models']}
+- {bibkey: bang2023multitask, categories: ['Multimodal Models']}
+- {bibkey: zhang2023vpgtrans, categories: ['Multimodal Models']}
+- {bibkey: chen2023shikra, categories: ['Multimodal Models']}
+- {bibkey: zhao2023chatspot, categories: ['Multimodal Models']}
+- {bibkey: bagdasaryan2023abusing, categories: ['Multimodal Models']}
+- {bibkey: maniparambil2023enhancing, categories: ['Multimodal Models']}
+- {bibkey: li2023seed, categories: ['Multimodal Models']}
+- {bibkey: tai2023link, categories: ['Multimodal Models']}
+- {bibkey: hu2023bliva, categories: ['Multimodal Models']}
+- {bibkey: li2023flm, categories: ['Multimodal Models']}
+- {bibkey: wu2023next, categories: ['Multimodal Models']}
+- {bibkey: yuan2023craft, categories: ['Multimodal Models']}
+- {bibkey: xuan2023pink, categories: ['Multimodal Models']}
+- {bibkey: zhao2023easygen, categories: ['Multimodal Models']}
+- {bibkey: chen2023challenges, categories: ['Multimodal Models']}
+- {bibkey: zhang2023towards, categories: ['Multimodal Models']}
+- {bibkey: yan2023multimodal, categories: ['Multimodal Models']}
+- {bibkey: hou2023more, categories: ['Multimodal Models']}
+- {bibkey: fathullah2023audiochatllama, categories: ['Multimodal Models']}
+- {bibkey: mitchell2023comparing, categories: ['Multimodal Models']}
+- {bibkey: ge2023mllm, categories: ['Multimodal Models']}
+- {bibkey: li2023towards, categories: ['Multimodal Models']}
+- {bibkey: tu2023how, categories: ['Multimodal Models']}
+- {bibkey: han2023chartllama, categories: ['Multimodal Models']}
+- {bibkey: huang2023vtimellm, categories: ['Multimodal Models']}
+- {bibkey: panagopoulou2023x, categories: ['Multimodal Models']}
+- {bibkey: yu2023merlinempowering, categories: ['Multimodal Models']}
+- {bibkey: shu2023audio, categories: ['Multimodal Models']}
+- {bibkey: huang2023modality, categories: ['Multimodal Models']}
+- {bibkey: do2023do, categories: ['Multimodal Models']}
+- {bibkey: ma2024aligned, categories: ['Multimodal Models']}
+- {bibkey: fenogenova2024mera, categories: ['Multimodal Models']}
+- {bibkey: wang2024modaverse, categories: ['Multimodal Models']}
+- {bibkey: yang2024mastering, categories: ['Multimodal Models']}
+- {bibkey: lu2024from, categories: ['Multimodal Models']}
+- {bibkey: kagaya2024rap, categories: ['Multimodal Models']}
+- {bibkey: shenoy2024lumos, categories: ['Multimodal Models']}
+- {bibkey: zhang2024geoeval, categories: ['Multimodal Models']}
+- {bibkey: zhan2024anygpt, categories: ['Multimodal Models']}
+- {bibkey: qian2024how, categories: ['Multimodal Models']}
+- {bibkey: wang2024stop, categories: ['Multimodal Models']}
+- {bibkey: cao2024genception, categories: ['Multimodal Models']}
+- {bibkey: wu2024surprising, categories: ['Multimodal Models']}
+- {bibkey: cai2024sciassess, categories: ['Multimodal Models']}
+- {bibkey: he2024multi, categories: ['Multimodal Models']}
+- {bibkey: qiu2024snapntell, categories: ['Multimodal Models']}
+- {bibkey: zhuo2024protllm, categories: ['Multimodal Models']}
+- {bibkey: gou2024eyes, categories: ['Multimodal Models']}
+- {bibkey: sterner2024few, categories: ['Multimodal Models']}
+- {bibkey: carbune2024chart, categories: ['Multimodal Models']}
+- {bibkey: vallaeys2024improved, categories: ['Multimodal Models']}
+- {bibkey: li2024fmm, categories: ['Multimodal Models']}
+- {bibkey: gomez2024transforming, categories: ['Multimodal Models']}
+- {bibkey: ataallah2024minigpt4, categories: ['Multimodal Models']}
+- {bibkey: wu2024minds, categories: ['Multimodal Models']}
+- {bibkey: you2024ferret, categories: ['Multimodal Models']}
+- {bibkey: liu2024visualwebbench, categories: ['Multimodal Models']}
+- {bibkey: wen2024characterizing, categories: ['Multimodal Models']}
+- {bibkey: caffagni2024wiki, categories: ['Multimodal Models']}
+- {bibkey: zou2024implicitave, categories: ['Multimodal Models']}
+- {bibkey: yan2024list, categories: ['Multimodal Models']}
+- {bibkey: pan2024auto, categories: ['Multimodal Models']}
+- {bibkey: pantazopoulos2024learning, categories: ['Multimodal Models']}
+- {bibkey: li2024cumo, categories: ['Multimodal Models']}
+- {bibkey: sreeram2024probing, categories: ['Multimodal Models']}
+- {bibkey: li2024uni, categories: ['Multimodal Models']}
+- {bibkey: zhang2024multiple, categories: ['Multimodal Models']}
+- {bibkey: he2024pitvqa, categories: ['Multimodal Models']}
+- {bibkey: gkoumas2024feedback, categories: ['Multimodal Models']}
+- {bibkey: shukor2024implicit, categories: ['Multimodal Models']}
+- {bibkey: xu2024reverse, categories: ['Multimodal Models']}
+- {bibkey: he2024llms, categories: ['Multimodal Models']}
+- {bibkey: zhang2024wings, categories: ['Multimodal Models']}
+- {bibkey: jha2024memeguard, categories: ['Multimodal Models']}
+- {bibkey: bandyopadhyay2024enhancing, categories: ['Multimodal Models']}
+- {bibkey: seide2024speech, categories: ['Multimodal Models']}
+- {bibkey: cao2024what, categories: ['Multimodal Models']}
+- {bibkey: sohn2024from, categories: ['Multimodal Models']}
+- {bibkey: wang2024exploring, categories: ['Multimodal Models']}
+- {bibkey: wu2024avatar, categories: ['Multimodal Models']}
+- {bibkey: mitsui2024pslm, categories: ['Multimodal Models']}
+- {bibkey: rajabi2024gsr, categories: ['Multimodal Models']}
+- {bibkey: wang2024from, categories: ['Multimodal Models']}
+- {bibkey: ye2024mm, categories: ['Multimodal Models']}
+- {bibkey: su2024sk, categories: ['Multimodal Models']}
+- {bibkey: li2024mmro, categories: ['Multimodal Models']}
+- {bibkey: yun2024web2code, categories: ['Multimodal Models']}
+- {bibkey: liu2024llm4gen, categories: ['Multimodal Models']}
+- {bibkey: li2024tokenpacker, categories: ['Multimodal Models']}
+- {bibkey: amirloo2024understanding, categories: ['Multimodal Models']}
+- {bibkey: nong2024mobileflow, categories: ['Multimodal Models']}
+- {bibkey: kenton2024scalable, categories: ['Multimodal Models']}
+- {bibkey: xiao2024logicvista, categories: ['Multimodal Models']}
+- {bibkey: wang2024genartist, categories: ['Multimodal Models']}
+- {bibkey: hu2024multimodal, categories: ['Multimodal Models']}
+- {bibkey: jiang2024prior, categories: ['Multimodal Models']}
+- {bibkey: zhang2024text, categories: ['Multimodal Models']}
+- {bibkey: cheng2024towards, categories: ['Multimodal Models']}
+- {bibkey: hua2024talk, categories: ['Multimodal Models']}
+- {bibkey: feng2024optimus, categories: ['Multimodal Models']}
+- {bibkey: anagnostopoulou2024enhancing, categories: ['Multimodal Models']}
+- {bibkey: wang2024instruction, categories: ['Multimodal Models']}
+- {bibkey: xu2024general, categories: ['Multimodal Models']}
+- {bibkey: jain2024llm, categories: ['Multimodal Models']}
+- {bibkey: zhang2024mme, categories: ['Multimodal Models']}
+- {bibkey: sundaram2024llavaolmobitnet1b, categories: ['Multimodal Models']}
+- {bibkey: shi2024eagle, categories: ['Multimodal Models']}
+# Ethics and Bias
+- {bibkey: amin2022disability, categories: ['Ethics and Bias']}
+- {bibkey: collier2022reality, categories: ['Ethics and Bias']}
+- {bibkey: si2022prompting, categories: ['Ethics and Bias']}
+- {bibkey: zong2022survey, categories: ['Ethics and Bias']}
+- {bibkey: susnjak2022chatgpt, categories: ['Ethics and Bias']}
+- {bibkey: jeblick2022chatgpt, categories: ['Ethics and Bias']}
+- {bibkey: krügel2023moral, categories: ['Ethics and Bias']}
+- {bibkey: borji2023categorical, categories: ['Ethics and Bias']}
+- {bibkey: wang2023robustness, categories: ['Ethics and Bias']}
+- {bibkey: leiter2023chatgpt, categories: ['Ethics and Bias']}
+- {bibkey: rao2023can, categories: ['Ethics and Bias']}
+- {bibkey: datta2023whos, categories: ['Ethics and Bias']}
+- {bibkey: ye2023comprehensive, categories: ['Ethics and Bias']}
+- {bibkey: zhou2023chinese, categories: ['Ethics and Bias']}
+- {bibkey: zhou2023unleashing, categories: ['Ethics and Bias']}
+- {bibkey: liang2023gpt, categories: ['Ethics and Bias']}
+- {bibkey: ferrara2023should, categories: ['Ethics and Bias']}
+- {bibkey: deshpande2023toxicity, categories: ['Ethics and Bias']}
+- {bibkey: hudeček2023are, categories: ['Ethics and Bias']}
+- {bibkey: khoury2023how, categories: ['Ethics and Bias']}
+- {bibkey: rastogi2023supporting, categories: ['Ethics and Bias']}
+- {bibkey: yang2023harnessing, categories: ['Ethics and Bias']}
+- {bibkey: garridomerchán2023simulating, categories: ['Ethics and Bias']}
+- {bibkey: tanwar2023multilingual, categories: ['Ethics and Bias']}
+- {bibkey: ye2023assessing, categories: ['Ethics and Bias']}
+- {bibkey: zhou2023ethical, categories: ['Ethics and Bias']}
+- {bibkey: santu2023teler, categories: ['Ethics and Bias']}
+- {bibkey: rao2023tricking, categories: ['Ethics and Bias']}
+- {bibkey: pournaras2023science, categories: ['Ethics and Bias']}
+- {bibkey: gabashvili2023impact, categories: ['Ethics and Bias']}
+- {bibkey: xu2023llms, categories: ['Ethics and Bias']}
+- {bibkey: wu2023mathchat, categories: ['Ethics and Bias']}
+- {bibkey: liao2023ai, categories: ['Ethics and Bias']}
+- {bibkey: ayaz2023taught, categories: ['Ethics and Bias']}
+- {bibkey: mukherjee2023orca, categories: ['Ethics and Bias']}
+- {bibkey: hagendorff2023human, categories: ['Ethics and Bias']}
+- {bibkey: wang2023speech, categories: ['Ethics and Bias']}
+- {bibkey: koyuturk2023developing, categories: ['Ethics and Bias']}
+- {bibkey: zhan2023deceptive, categories: ['Ethics and Bias']}
+- {bibkey: sharma2023performance, categories: ['Ethics and Bias']}
+- {bibkey: woo2023cases, categories: ['Ethics and Bias']}
+- {bibkey: liusie2023llm, categories: ['Ethics and Bias']}
+- {bibkey: nam2023using, categories: ['Ethics and Bias']}
+- {bibkey: mai2023enhancing, categories: ['Ethics and Bias']}
+- {bibkey: deldjoo2023fairness, categories: ['Ethics and Bias']}
+- {bibkey: wu2023unveiling, categories: ['Ethics and Bias']}
+- {bibkey: arkoudas2023gpt, categories: ['Ethics and Bias']}
+- {bibkey: banerjee2023benchmarking, categories: ['Ethics and Bias']}
+- {bibkey: dalvi2023llmebench, categories: ['Ethics and Bias']}
+- {bibkey: liu2023trustworthy, categories: ['Ethics and Bias']}
+- {bibkey: huang2023lateval, categories: ['Ethics and Bias']}
+- {bibkey: mao2023gpteval, categories: ['Ethics and Bias']}
+- {bibkey: yang2023gpt, categories: ['Ethics and Bias']}
+- {bibkey: dipalma2023evaluating, categories: ['Ethics and Bias']}
+- {bibkey: haller2023opiniongpt, categories: ['Ethics and Bias']}
+- {bibkey: tu2023sight, categories: ['Ethics and Bias']}
+- {bibkey: zhou2023gpt, categories: ['Ethics and Bias']}
+- {bibkey: zuccon2023chatgpt, categories: ['Ethics and Bias']}
+- {bibkey: rawte2023exploring, categories: ['Ethics and Bias']}
+- {bibkey: lawley2023val, categories: ['Ethics and Bias']}
+- {bibkey: urchs2023how, categories: ['Ethics and Bias']}
+- {bibkey: jiang2023longllmlingua, categories: ['Ethics and Bias']}
+- {bibkey: moskal2023llms, categories: ['Ethics and Bias']}
+- {bibkey: jiang2023prompt, categories: ['Ethics and Bias']}
+- {bibkey: rebedea2023nemo, categories: ['Ethics and Bias']}
+- {bibkey: jacob2023emergent, categories: ['Ethics and Bias']}
+- {bibkey: fang2023large, categories: ['Ethics and Bias']}
+- {bibkey: zeng2023agenttuning, categories: ['Ethics and Bias']}
+- {bibkey: zhuang2023beyond, categories: ['Ethics and Bias']}
+- {bibkey: boubdir2023which, categories: ['Ethics and Bias']}
+- {bibkey: chen2023bianque, categories: ['Ethics and Bias']}
+- {bibkey: levy2023guiding, categories: ['Ethics and Bias']}
+- {bibkey: fang2023using, categories: ['Ethics and Bias']}
+- {bibkey: bai2023constituency, categories: ['Ethics and Bias']}
+- {bibkey: jones2023does, categories: ['Ethics and Bias']}
+- {bibkey: wang2023is, categories: ['Ethics and Bias']}
+- {bibkey: ahmad2023creating, categories: ['Ethics and Bias']}
+- {bibkey: tikhonov2023post, categories: ['Ethics and Bias']}
+- {bibkey: tjuatja2023do, categories: ['Ethics and Bias']}
+- {bibkey: gupta2023bias, categories: ['Ethics and Bias']}
+- {bibkey: badyal2023intentional, categories: ['Ethics and Bias']}
+- {bibkey: liu2023think, categories: ['Ethics and Bias']}
+- {bibkey: cho2023evaluating, categories: ['Ethics and Bias']}
+- {bibkey: yao2023more, categories: ['Ethics and Bias']}
+- {bibkey: yang2023surpassing, categories: ['Ethics and Bias']}
+- {bibkey: zhang2023comprehensive, categories: ['Ethics and Bias']}
+- {bibkey: alsmadi2023chatgpt, categories: ['Ethics and Bias']}
+- {bibkey: schulhoff2023ignore, categories: ['Ethics and Bias']}
+- {bibkey: cao2023unnatural, categories: ['Ethics and Bias']}
+- {bibkey: sheng2023can, categories: ['Ethics and Bias']}
+- {bibkey: derner2023can, categories: ['Ethics and Bias']}
+- {bibkey: mizrahi2023state, categories: ['Ethics and Bias']}
+- {bibkey: lu2024blending, categories: ['Ethics and Bias']}
+- {bibkey: spurlock2024chatgpt, categories: ['Ethics and Bias']}
+- {bibkey: zeng2024how, categories: ['Ethics and Bias']}
+- {bibkey: liu2024when, categories: ['Ethics and Bias']}
+- {bibkey: barj2024reinforcement, categories: ['Ethics and Bias']}
+- {bibkey: yuan2024r, categories: ['Ethics and Bias']}
+- {bibkey: bombieri2024do, categories: ['Ethics and Bias']}
+- {bibkey: shapira2024can, categories: ['Ethics and Bias']}
+- {bibkey: chun2024informed, categories: ['Ethics and Bias']}
+- {bibkey: berberette2024redefining, categories: ['Ethics and Bias']}
+- {bibkey: agrawal2024can, categories: ['Ethics and Bias']}
+- {bibkey: ning2024pico, categories: ['Ethics and Bias']}
+- {bibkey: cheong2024ai, categories: ['Ethics and Bias']}
+- {bibkey: khan2024debating, categories: ['Ethics and Bias']}
+- {bibkey: zhang2024dolares, categories: ['Ethics and Bias']}
+- {bibkey: radivojevic2024llms, categories: ['Ethics and Bias']}
+- {bibkey: duan2024do, categories: ['Ethics and Bias']}
+- {bibkey: tripathi2024insaaf, categories: ['Ethics and Bias']}
+- {bibkey: li2024can, categories: ['Ethics and Bias']}
+- {bibkey: dougrezlewis2024assessing, categories: ['Ethics and Bias']}
+- {bibkey: doostmohammadi2024how, categories: ['Ethics and Bias']}
+- {bibkey: sivaprasad2024exploring, categories: ['Ethics and Bias']}
+- {bibkey: dong2024disclosure, categories: ['Ethics and Bias']}
+- {bibkey: wang2024can, categories: ['Ethics and Bias']}
+- {bibkey: han2024chatgpt, categories: ['Ethics and Bias']}
+- {bibkey: pimpalkhute2024softqe, categories: ['Ethics and Bias']}
+- {bibkey: fu2024hint, categories: ['Ethics and Bias']}
+- {bibkey: polo2024tinybenchmarks, categories: ['Ethics and Bias']}
+- {bibkey: lynch2024eight, categories: ['Ethics and Bias']}
+- {bibkey: zhao2024consistency, categories: ['Ethics and Bias']}
+- {bibkey: kelious2024abdelhak, categories: ['Ethics and Bias']}
+- {bibkey: echterhoff2024cognitive, categories: ['Ethics and Bias']}
+- {bibkey: goyal2024llmguard, categories: ['Ethics and Bias']}
+- {bibkey: borra2024malto, categories: ['Ethics and Bias']}
+- {bibkey: intrator2024breaking, categories: ['Ethics and Bias']}
+- {bibkey: dewynter2024will, categories: ['Ethics and Bias']}
+- {bibkey: li2024steering, categories: ['Ethics and Bias']}
+- {bibkey: rhue2024evaluating, categories: ['Ethics and Bias']}
+- {bibkey: yizhen2024exploring, categories: ['Ethics and Bias']}
+- {bibkey: li2024stylechat, categories: ['Ethics and Bias']}
+- {bibkey: liu2024openeval, categories: ['Ethics and Bias']}
+- {bibkey: cohn2024chain, categories: ['Ethics and Bias']}
+- {bibkey: wang2024bioinformatics, categories: ['Ethics and Bias']}
+- {bibkey: conde2024open, categories: ['Ethics and Bias']}
+- {bibkey: tanzil2024chatgpt, categories: ['Ethics and Bias']}
+- {bibkey: chai2024expert, categories: ['Ethics and Bias']}
+- {bibkey: huang2024chatgpt, categories: ['Ethics and Bias']}
+- {bibkey: xu2024rejection, categories: ['Ethics and Bias']}
+- {bibkey: yang2024emphasising, categories: ['Ethics and Bias']}
+- {bibkey: zhang2024llm, categories: ['Ethics and Bias']}
+- {bibkey: wang2024will, categories: ['Ethics and Bias']}
+- {bibkey: schumacher2024team, categories: ['Ethics and Bias']}
+- {bibkey: li2024long, categories: ['Ethics and Bias']}
+- {bibkey: gautam2024robust, categories: ['Ethics and Bias']}
+- {bibkey: duan2024prompting, categories: ['Ethics and Bias']}
+- {bibkey: gioacchini2024agentquest, categories: ['Ethics and Bias']}
+- {bibkey: schlicht2024pitfalls, categories: ['Ethics and Bias']}
+- {bibkey: li2024distilling, categories: ['Ethics and Bias']}
+- {bibkey: evkaya2024decoding, categories: ['Ethics and Bias']}
+- {bibkey: nadeau2024benchmarking, categories: ['Ethics and Bias']}
+- {bibkey: qin2024relevant, categories: ['Ethics and Bias']}
+- {bibkey: zhang2024treacle, categories: ['Ethics and Bias']}
+- {bibkey: wallace2024instruction, categories: ['Ethics and Bias']}
+- {bibkey: bhattacharya2024understanding, categories: ['Ethics and Bias']}
+- {bibkey: ng2024how, categories: ['Ethics and Bias']}
+- {bibkey: liu2024protecting, categories: ['Ethics and Bias']}
+- {bibkey: dewynter2024rtp, categories: ['Ethics and Bias']}
+- {bibkey: zhou2024dont, categories: ['Ethics and Bias']}
+- {bibkey: agarwal2024ethical, categories: ['Ethics and Bias']}
+- {bibkey: verga2024replacing, categories: ['Ethics and Bias']}
+- {bibkey: thagard2024can, categories: ['Ethics and Bias']}
+- {bibkey: sheng2024repeval, categories: ['Ethics and Bias']}
+- {bibkey: nguyen2024llms, categories: ['Ethics and Bias']}
+- {bibkey: pavlovic2024effectiveness, categories: ['Ethics and Bias']}
+- {bibkey: reif2024beyond, categories: ['Ethics and Bias']}
+- {bibkey: rony2024exploring, categories: ['Ethics and Bias']}
+- {bibkey: koutcheme2024open, categories: ['Ethics and Bias']}
+- {bibkey: zytek2024llms, categories: ['Ethics and Bias']}
+- {bibkey: lu2024llm, categories: ['Ethics and Bias']}
+- {bibkey: cheng2024potential, categories: ['Ethics and Bias']}
+- {bibkey: patel2024automating, categories: ['Ethics and Bias']}
+- {bibkey: zhu2024is, categories: ['Ethics and Bias']}
+- {bibkey: gkoumas2024almol, categories: ['Ethics and Bias']}
+- {bibkey: xu2024can, categories: ['Ethics and Bias']}
+- {bibkey: huang2024mindmerger, categories: ['Ethics and Bias']}
+- {bibkey: williams2024easy, categories: ['Ethics and Bias']}
+- {bibkey: zhou2024unibias, categories: ['Ethics and Bias']}
+- {bibkey: gao2024dory, categories: ['Ethics and Bias']}
+- {bibkey: ochieng2024beyond, categories: ['Ethics and Bias']}
+- {bibkey: brown2024enhancing, categories: ['Ethics and Bias']}
+- {bibkey: lin2024wildbench, categories: ['Ethics and Bias']}
+- {bibkey: ni2024mixeval, categories: ['Ethics and Bias']}
+- {bibkey: wang2024subllm, categories: ['Ethics and Bias']}
+- {bibkey: myrzakhan2024open, categories: ['Ethics and Bias']}
+- {bibkey: shi2024judging, categories: ['Ethics and Bias']}
+- {bibkey: yang2024protrain, categories: ['Ethics and Bias']}
+- {bibkey: cheung2024reality, categories: ['Ethics and Bias']}
+- {bibkey: zawistowski2024unused, categories: ['Ethics and Bias']}
+- {bibkey: song2024can, categories: ['Ethics and Bias']}
+- {bibkey: iourovitski2024grade, categories: ['Ethics and Bias']}
+- {bibkey: rai2024investigation, categories: ['Ethics and Bias']}
+- {bibkey: ayyamperumal2024current, categories: ['Ethics and Bias']}
+- {bibkey: jiang2024chatbug, categories: ['Ethics and Bias']}
+- {bibkey: chang2024when, categories: ['Ethics and Bias']}
+- {bibkey: rouzegar2024generative, categories: ['Ethics and Bias']}
+- {bibkey: treutlein2024connecting, categories: ['Ethics and Bias']}
+- {bibkey: lehr2024chatgpt, categories: ['Ethics and Bias']}
+- {bibkey: yi2024towards, categories: ['Ethics and Bias']}
+- {bibkey: jia2024leveraging, categories: ['Ethics and Bias']}
+- {bibkey: mercorio2024disce, categories: ['Ethics and Bias']}
+- {bibkey: pooledayan2024llm, categories: ['Ethics and Bias']}
+- {bibkey: bavaresco2024llms, categories: ['Ethics and Bias']}
+- {bibkey: li2024is, categories: ['Ethics and Bias']}
+- {bibkey: jiao2024navigating, categories: ['Ethics and Bias']}
+- {bibkey: deiseroth2024t, categories: ['Ethics and Bias']}
+- {bibkey: marchisio2024understanding, categories: ['Ethics and Bias']}
+- {bibkey: mcclure2024leveraging, categories: ['Ethics and Bias']}
+- {bibkey: nakka2024pii, categories: ['Ethics and Bias']}
+- {bibkey: lin2024single, categories: ['Ethics and Bias']}
+- {bibkey: hu2024psycollm, categories: ['Ethics and Bias']}
+- {bibkey: afzal2024towards, categories: ['Ethics and Bias']}
+- {bibkey: bako2024evaluating, categories: ['Ethics and Bias']}
+- {bibkey: agrawal2024etalon, categories: ['Ethics and Bias']}
+- {bibkey: song2024multilingual, categories: ['Ethics and Bias']}
+- {bibkey: chalkidis2024investigating, categories: ['Ethics and Bias']}
+- {bibkey: yuan2024refuse, categories: ['Ethics and Bias']}
+- {bibkey: arroyo2024open, categories: ['Ethics and Bias']}
+- {bibkey: akpan2024have, categories: ['Ethics and Bias']}
+- {bibkey: dornburg2024what, categories: ['Ethics and Bias']}
+- {bibkey: yao2024clave, categories: ['Ethics and Bias']}
+- {bibkey: ahn2024direct, categories: ['Ethics and Bias']}
+- {bibkey: madge2024llm, categories: ['Ethics and Bias']}
+- {bibkey: sharma2024patched, categories: ['Ethics and Bias']}
+- {bibkey: zhao2024wildhallucinations, categories: ['Ethics and Bias']}
+- {bibkey: jung2024trust, categories: ['Ethics and Bias']}
+- {bibkey: zhang2024cfbench, categories: ['Ethics and Bias']}
+- {bibkey: hosseini2024efficient, categories: ['Ethics and Bias']}
+- {bibkey: chen2024nacl, categories: ['Ethics and Bias']}
+- {bibkey: talukdar2024improving, categories: ['Ethics and Bias']}
+- {bibkey: ryazanov2024how, categories: ['Ethics and Bias']}
+- {bibkey: christophe2024med42, categories: ['Ethics and Bias']}
+- {bibkey: young2024improving, categories: ['Ethics and Bias']}
+- {bibkey: romero2024do, categories: ['Ethics and Bias']}
+- {bibkey: murugadoss2024evaluating, categories: ['Ethics and Bias']}
+- {bibkey: chen2024benchmarking, categories: ['Ethics and Bias']}
+- {bibkey: hu2024slm, categories: ['Ethics and Bias']}
+- {bibkey: gupta2024aavenue, categories: ['Ethics and Bias']}
+- {bibkey: shi2024wildfeedback, categories: ['Ethics and Bias']}
+- {bibkey: niu2024from, categories: ['Ethics and Bias']}
+- {bibkey: soares2024chatting, categories: ['Ethics and Bias']}
+- {bibkey: oh2024does, categories: ['Ethics and Bias']}
+- {bibkey: dekoninck2024polyrating, categories: ['Ethics and Bias']}
+- {bibkey: taghanaki2024mmlu, categories: ['Ethics and Bias']}
+- {bibkey: gameiro2024llm, categories: ['Ethics and Bias']}
+- {bibkey: jiang2024sketch, categories: ['Ethics and Bias']}
+# Interpretability
+- {bibkey: singh2022augmenting, categories: ['Interpretability']}
+- {bibkey: huang2023is, categories: ['Interpretability']}
+- {bibkey: liu2023is, categories: ['Interpretability']}
+- {bibkey: beguš2023large, categories: ['Interpretability']}
+- {bibkey: lei2023hint, categories: ['Interpretability']}
+- {bibkey: wang2023can, categories: ['Interpretability']}
+- {bibkey: lu2023ui, categories: ['Interpretability']}
+- {bibkey: tan2023sparsity, categories: ['Interpretability']}
+- {bibkey: ma2024agentboard, categories: ['Interpretability']}
+- {bibkey: zhang2024shieldlm, categories: ['Interpretability']}
+- {bibkey: shultz2024gpt, categories: ['Interpretability']}
+- {bibkey: khan2024reinforcement, categories: ['Interpretability']}
+- {bibkey: kersting2024harmonic, categories: ['Interpretability']}
+- {bibkey: heyen2024effect, categories: ['Interpretability']}
+- {bibkey: yee2024dissociation, categories: ['Interpretability']}
+- {bibkey: meier2024towards, categories: ['Interpretability']}
+- {bibkey: palacio2024towards, categories: ['Interpretability']}
+- {bibkey: cambria2024xai, categories: ['Interpretability']}
+- {bibkey: calderon2024behalf, categories: ['Interpretability']}
+- {bibkey: tekkesinoglu2024from, categories: ['Interpretability']}
+- {bibkey: sun2024chain, categories: ['Interpretability']}
+- {bibkey: swamy2024from, categories: ['Interpretability']}
+# Efficiency and Optimization
+- {bibkey: sun2023is, categories: ['Efficiency and Optimization']}
+- {bibkey: xu2023compress, categories: ['Efficiency and Optimization']}
+- {bibkey: zheng2023response, categories: ['Efficiency and Optimization']}
+- {bibkey: dettmers2023qlora, categories: ['Efficiency and Optimization']}
+- {bibkey: li2023overprompt, categories: ['Efficiency and Optimization']}
+- {bibkey: liu2023scissorhands, categories: ['Efficiency and Optimization']}
+- {bibkey: lin2023awq, categories: ['Efficiency and Optimization']}
+- {bibkey: zhao2023ca, categories: ['Efficiency and Optimization']}
+- {bibkey: kong2023platolm, categories: ['Efficiency and Optimization']}
+- {bibkey: su2023distilled, categories: ['Efficiency and Optimization']}
+- {bibkey: yang2023effective, categories: ['Efficiency and Optimization']}
+- {bibkey: farooq2023chatgpt, categories: ['Efficiency and Optimization']}
+- {bibkey: yin2023modulora, categories: ['Efficiency and Optimization']}
+- {bibkey: dun2023sweeping, categories: ['Efficiency and Optimization']}
+- {bibkey: chen2023personalised, categories: ['Efficiency and Optimization']}
+- {bibkey: deiseroth2023divergent, categories: ['Efficiency and Optimization']}
+- {bibkey: pelucchi2023chatgpt, categories: ['Efficiency and Optimization']}
+- {bibkey: gu2023digital, categories: ['Efficiency and Optimization']}
+- {bibkey: abuhaifa2023comparative, categories: ['Efficiency and Optimization']}
+- {bibkey: pan2023smoothquant, categories: ['Efficiency and Optimization']}
+- {bibkey: aksitov2023rest, categories: ['Efficiency and Optimization']}
+- {bibkey: alizadeh2023llm, categories: ['Efficiency and Optimization']}
+- {bibkey: li2023turning, categories: ['Efficiency and Optimization']}
+- {bibkey: tarasov2024distilling, categories: ['Efficiency and Optimization']}
+- {bibkey: huang2024billm, categories: ['Efficiency and Optimization']}
+- {bibkey: shi2024thorough, categories: ['Efficiency and Optimization']}
+- {bibkey: park2024any, categories: ['Efficiency and Optimization']}
+- {bibkey: du2024bitdistiller, categories: ['Efficiency and Optimization']}
+- {bibkey: boizard2024towards, categories: ['Efficiency and Optimization']}
+- {bibkey: phan2024distillation, categories: ['Efficiency and Optimization']}
+- {bibkey: liu2024unraveling, categories: ['Efficiency and Optimization']}
+- {bibkey: dong2024qaq, categories: ['Efficiency and Optimization']}
+- {bibkey: wu2024agentkit, categories: ['Efficiency and Optimization']}
+- {bibkey: enis2024from, categories: ['Efficiency and Optimization']}
+- {bibkey: huang2024empirical, categories: ['Efficiency and Optimization']}
+- {bibkey: guo2024dependency, categories: ['Efficiency and Optimization']}
+- {bibkey: badshah2024quantifying, categories: ['Efficiency and Optimization']}
+- {bibkey: lin2024qserve, categories: ['Efficiency and Optimization']}
+- {bibkey: sharify2024combining, categories: ['Efficiency and Optimization']}
+- {bibkey: munawar2024chatgpt, categories: ['Efficiency and Optimization']}
+- {bibkey: yang2024pyramidinfer, categories: ['Efficiency and Optimization']}
+- {bibkey: rorseth2024rage, categories: ['Efficiency and Optimization']}
+- {bibkey: feng2024keypoint, categories: ['Efficiency and Optimization']}
+- {bibkey: paglieri2024outliers, categories: ['Efficiency and Optimization']}
+- {bibkey: svirschevski2024specexec, categories: ['Efficiency and Optimization']}
+- {bibkey: liu2024speculative, categories: ['Efficiency and Optimization']}
+- {bibkey: leidinger2024are, categories: ['Efficiency and Optimization']}
+- {bibkey: yazan2024impact, categories: ['Efficiency and Optimization']}
+- {bibkey: li2024intermediate, categories: ['Efficiency and Optimization']}
+- {bibkey: jeong2024sdq, categories: ['Efficiency and Optimization']}
+- {bibkey: marchisio2024how, categories: ['Efficiency and Optimization']}
+- {bibkey: xu2024beyond, categories: ['Efficiency and Optimization']}
+- {bibkey: sahu2024mixsumm, categories: ['Efficiency and Optimization']}
+- {bibkey: zhang2024cibench, categories: ['Efficiency and Optimization']}
+- {bibkey: malekar2024matmul, categories: ['Efficiency and Optimization']}
+- {bibkey: bansal2024smaller, categories: ['Efficiency and Optimization']}
+- {bibkey: safavinaini2024vision, categories: ['Efficiency and Optimization']}
+- {bibkey: liskavets2024prompt, categories: ['Efficiency and Optimization']}
+- {bibkey: upadhayayaya2024efficient, categories: ['Efficiency and Optimization']}
+- {bibkey: liu2024store, categories: ['Efficiency and Optimization']}
+# Training Techniques
+- {bibkey: zheng2023can, categories: ['Training Techniques']}
+- {bibkey: zhang2023automl, categories: ['Training Techniques']}
+- {bibkey: sordoni2023joint, categories: ['Training Techniques']}
+- {bibkey: tan2023redcoast, categories: ['Training Techniques']}
+- {bibkey: zhang2024self, categories: ['Training Techniques']}
+- {bibkey: wang2024langgpt, categories: ['Training Techniques']}
+- {bibkey: sun2024benchmarking, categories: ['Training Techniques']}
+- {bibkey: jia2024soul, categories: ['Training Techniques']}
+- {bibkey: rita2024countering, categories: ['Training Techniques']}
+- {bibkey: zhang2024revisiting, categories: ['Training Techniques']}
+- {bibkey: du2024revisiting, categories: ['Training Techniques']}
+- {bibkey: zhan2024unveiling, categories: ['Training Techniques']}
+- {bibkey: liu2024iterative, categories: ['Training Techniques']}
+- {bibkey: mazzaccara2024learning, categories: ['Training Techniques']}
+- {bibkey: chang2024benchmarking, categories: ['Training Techniques']}

@@ -1,0 +1,12 @@
+---
+layout: publication
+title: LLM Blueprint Enabling Text-to-Image Generation with Complex and Detailed Prompts
+authors: Gani Hanan, Bhat Shariq Farooq, Naseer Muzammal, Khan Salman, Wonka Peter
+conference: "Arxiv"
+year: 2023
+bibkey: gani2023llm
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.10640"}
+tags: ['Applications', 'Arxiv']
+---
+Diffusion-based generative models have significantly advanced text-to-image generation but encounter challenges when processing lengthy and intricate text prompts describing complex scenes with multiple objects. While excelling in generating images from short single-object descriptions these models often struggle to faithfully capture all the nuanced details within longer and more elaborate textual inputs. In response we present a novel approach leveraging Large Language Models (LLMs) to extract critical components from text prompts including bounding box coordinates for foreground objects detailed textual descriptions for individual objects and a succinct background context. These components form the foundation of our layout-to-image generation model which operates in two phases. The initial Global Scene Generation utilizes object layouts and background context to create an initial scene but often falls short in faithfully representing object characteristics as specified in the prompts. To address this limitation we introduce an Iterative Refinement Scheme that iteratively evaluates and refines box-level content to align them with their textual descriptions recomposing objects as needed to ensure consistency. Our evaluation on complex prompts featuring multiple objects demonstrates a substantial improvement in recall compared to baseline diffusion models. This is further validated by a user study underscoring the efficacy of our approach in generating coherent and detailed scenes from intricate textual inputs.
