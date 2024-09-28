@@ -7,9 +7,18 @@ description: A tSNE visualization of all the Large Language Model Papers
 <h2>2D Map of Papers</h2>
 <p>Each dot represents one paper in this survey. Hover your mouse over each point to look
 at the details. Click on a point to go to the paper information page.</p>
-<div style="text-align: right;"><label>Search </label><input type="text" spellcheck="false" id="filtermap"/></div>
+<div style="text-align: right;">
+  <label>Search </label><input type="text" spellcheck="false" id="filtermap"/>
+</div>
 
-<!-- Added controls for panning and zooming -->
+<!-- Added time slider for temporal animation -->
+<div id="time-slider" style="margin-bottom: 10px;">
+  <label for="yearRange">Year: </label>
+  <input type="range" id="yearRange" min="2000" max="2023" value="2023" step="1" />
+  <span id="yearLabel">2023</span>
+</div>
+
+<!-- Existing controls for panning and zooming -->
 <div id="controls" style="margin-bottom: 10px;">
   <button id="zoom_in">Zoom In</button>
   <button id="zoom_out">Zoom Out</button>
@@ -59,8 +68,27 @@ var currentTransform = d3.zoomIdentity;
 // Apply zoom behavior to the SVG
 svg.call(zoom);
 
+// Variables to store data and filtered data
+var allData = [];
+var filteredData = [];
+
 // Read the data
 d3.json('https://raw.githubusercontent.com/llm-bible/llm-bible.github.io/refs/heads/master/tsne.json').then(function(data) {
+  allData = data;
+
+  // Extract years from data
+  var years = data.map(d => d.year);
+  var minYear = d3.min(years);
+  var maxYear = d3.max(years);
+
+  // Update the time slider attributes
+  d3.select("#yearRange")
+    .attr("min", minYear)
+    .attr("max", maxYear)
+    .attr("value", maxYear);
+
+  d3.select("#yearLabel").text(maxYear);
+
   // Add X axis
   var x = d3.scaleLinear()
     .domain([-25, 25])  // Adjust the domain to zoom out
@@ -92,35 +120,32 @@ d3.json('https://raw.githubusercontent.com/llm-bible/llm-bible.github.io/refs/he
 
   var mousemove = function(event, d) {
     var tags = d.tags.map(tag => `<tag>${tag}</tag>&nbsp;`).join("");
-    var boundingRect = document.getElementById("paperviz").getBoundingClientRect();
-    var x = event.pageX + 20;
-    var y = event.pageY + 30;
+    var xPosition = event.pageX + 20;
+    var yPosition = event.pageY + 30;
 
     tooltip
       .html(`<p>${d.title} ${tags}</p>`)
-      .style("left", x + "px")
-      .style("top", y + "px");
+      .style("left", xPosition + "px")
+      .style("top", yPosition + "px");
+  };
+
+  var mouseleave = function(event, d) {
+    tooltip.style("opacity", 0);
   };
 
   var click_link = function(event, d) {
     window.location.href = "/publications/" + d.key + "/";
   };
 
-  // Add dots
-  zoomLayer.append('g')
-    .selectAll("dot")
-    .data(data)
-    .enter()
-    .append("circle")
-      .attr("cx", function(d) { return x(d.tsne_embedding[0]); })
-      .attr("cy", function(d) { return y(d.tsne_embedding[1]); })
-      .attr("r", 8)
-      .style("fill", "#69b3a2")
-      .style("opacity", 0.4)
-      .style("stroke", "white")
-      .on("mouseover", mouseover)
-      .on("mousemove", mousemove)
-      .on("click", click_link);
+  // Initial visualization
+  updateVisualization();
+
+  // Event listener for the time slider
+  d3.select("#yearRange").on("input", function() {
+    var selectedYear = +this.value;
+    d3.select("#yearLabel").text(selectedYear);
+    updateVisualization();
+  });
 
   // Search functionality
   var isMatch = function(d, searchTerm) {
@@ -129,38 +154,83 @@ d3.json('https://raw.githubusercontent.com/llm-bible/llm-bible.github.io/refs/he
     return allText.indexOf(searchTerm) !== -1;
   };
 
-  $("#filtermap").keyup(function(e) {
-    var searchTerm = $("#filtermap").val().toLocaleLowerCase();
-    var allPoints = d3.selectAll("circle");
+  d3.select("#filtermap").on("keyup", function(e) {
+    var searchTerm = d3.select("#filtermap").property("value").toLocaleLowerCase();
+    var allPoints = zoomLayer.selectAll("circle");
     allPoints.filter(dd => !isMatch(dd, searchTerm)).style("fill", "#69b3a2");
     allPoints.filter(dd => isMatch(dd, searchTerm)).style("fill", "#aa0000");
   });
-});
 
-// Pan and Zoom Controls
-var panAmount = 50; // Amount of pixels to pan by
+  // Pan and Zoom Controls
+  var panAmount = 50; // Amount of pixels to pan by
 
-d3.select("#zoom_in").on("click", function() {
-  svg.transition().call(zoom.scaleBy, 1.2);
-});
+  d3.select("#zoom_in").on("click", function() {
+    svg.transition().call(zoom.scaleBy, 1.2);
+  });
 
-d3.select("#zoom_out").on("click", function() {
-  svg.transition().call(zoom.scaleBy, 0.8);
-});
+  d3.select("#zoom_out").on("click", function() {
+    svg.transition().call(zoom.scaleBy, 0.8);
+  });
 
-d3.select("#pan_left").on("click", function() {
-  svg.transition().call(zoom.translateBy, panAmount / currentTransform.k, 0);
-});
+  d3.select("#pan_left").on("click", function() {
+    svg.transition().call(zoom.translateBy, panAmount / currentTransform.k, 0);
+  });
 
-d3.select("#pan_right").on("click", function() {
-  svg.transition().call(zoom.translateBy, -panAmount / currentTransform.k, 0);
-});
+  d3.select("#pan_right").on("click", function() {
+    svg.transition().call(zoom.translateBy, -panAmount / currentTransform.k, 0);
+  });
 
-d3.select("#pan_up").on("click", function() {
-  svg.transition().call(zoom.translateBy, 0, panAmount / currentTransform.k);
-});
+  d3.select("#pan_up").on("click", function() {
+    svg.transition().call(zoom.translateBy, 0, panAmount / currentTransform.k);
+  });
 
-d3.select("#pan_down").on("click", function() {
-  svg.transition().call(zoom.translateBy, 0, -panAmount / currentTransform.k);
+  d3.select("#pan_down").on("click", function() {
+    svg.transition().call(zoom.translateBy, 0, -panAmount / currentTransform.k);
+  });
+
+  // Update visualization function
+  function updateVisualization() {
+    var selectedYear = +d3.select("#yearRange").property("value");
+    var searchTerm = d3.select("#filtermap").property("value").toLocaleLowerCase();
+
+    // Filter data based on selected year
+    filteredData = allData.filter(d => d.year <= selectedYear);
+
+    // Update scales if necessary
+    // x.domain(d3.extent(filteredData, d => d.tsne_embedding[0]));
+    // y.domain(d3.extent(filteredData, d => d.tsne_embedding[1]));
+
+    // Bind data
+    var circles = zoomLayer.selectAll("circle")
+      .data(filteredData, d => d.key); // Use d.key as the identifier
+
+    // Exit
+    circles.exit().remove();
+
+    // Update existing points
+    circles
+      .attr("cx", function(d) { return x(d.tsne_embedding[0]); })
+      .attr("cy", function(d) { return y(d.tsne_embedding[1]); })
+      .on("mouseover", mouseover)
+      .on("mousemove", mousemove)
+      .on("mouseleave", mouseleave)
+      .on("click", click_link);
+
+    // Enter new points
+    circles.enter()
+      .append("circle")
+        .attr("cx", function(d) { return x(d.tsne_embedding[0]); })
+        .attr("cy", function(d) { return y(d.tsne_embedding[1]); })
+        .attr("r", 8)
+        .style("fill", function(d) {
+          return isMatch(d, searchTerm) ? "#aa0000" : "#69b3a2";
+        })
+        .style("opacity", 0.4)
+        .style("stroke", "white")
+        .on("mouseover", mouseover)
+        .on("mousemove", mousemove)
+        .on("mouseleave", mouseleave)
+        .on("click", click_link);
+  }
 });
 </script>
