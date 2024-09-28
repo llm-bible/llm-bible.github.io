@@ -15,6 +15,28 @@ title: Resources on Large Language Models
 
 - [Why did all of the public reproduction of GPT-3 fail?](https://jingfengyang.github.io/gpt): This post explores the difficulties and challenges researchers faced when attempting to reproduce the capabilities of GPT-3, offering insights into why these efforts largely fell short.
 
+- [Alpaca: Synthetic Data for LLMs](https://crfm.stanford.edu/2023/03/13/alpaca.html): Stanford's approach to generating synthetic data for fine-tuning large language models using OpenAI's API.
+
+- [Evol-Instruct: Improving Dataset Quality](https://arxiv.org/abs/2304.12244): Techniques for enhancing instruction datasets with evolved synthetic data.
+
+- [Orca: High-Quality Data Generation](https://arxiv.org/abs/2306.02707): Orca paper explaining how to generate better synthetic data through instruction following and feedback models.
+
+- [Scaling Laws for LLMs](https://arxiv.org/pdf/2001.08361.pdf): A study on scaling laws, which predict LLM performance based on model and dataset size.
+
+- [Chinchilla's Wild Implications](https://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications): Insights into how the scaling laws affect LLMs' computational efficiency.
+
+- [TinyLlama](https://github.com/jzhang38/TinyLlama): A project focused on training a Llama model from scratch, providing insights into pre-training LLMs.
+
+- [BigBench: LLM Benchmarking](https://github.com/google/BIG-bench): A large-scale benchmark for evaluating LLM capabilities across various tasks.
+
+- [Training a Causal Language Model from Scratch](https://huggingface.co/learn/nlp-course/chapter7/6?fw=pt): Hugging Face tutorial on pre-training GPT-2 from scratch using the transformers library.
+
+- [LLMDataHub: Curated Datasets for LLMs](https://github.com/Zjh-819/LLMDataHub): Collection of datasets for pre-training, fine-tuning, and RLHF of large language models.
+
+- [Perplexity in LLMs](https://huggingface.co/docs/transformers/perplexity): Hugging Face guide on measuring model perplexity for text generation tasks.
+
+- [Karpathy's Zero to Hero: GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY): A 2-hour course by Andrej Karpathy on building a GPT model from scratch, focusing on tokenization and transformer fundamentals.
+
 ## Courses on Large Language Models (LLMs)
 
 Below is a collection of university and online courses that offer a deep dive into the concepts, tools, and applications of Large Language Models (LLMs). These courses range from theoretical foundations to practical applications in business and data science.
