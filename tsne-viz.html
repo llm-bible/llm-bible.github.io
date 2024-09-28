@@ -1,5 +1,40 @@
-<!-- ... (Previous HTML code remains the same) ... -->
+---
+layout: default
+title: Visualization of Publications on Large Language Models
+description: A tSNE visualization of all the Large Language Model Papers with Clustering
+---
 
+<h2>2D Map of Papers</h2>
+<p>Each dot represents one paper in this survey. Hover your mouse over each point to look
+at the details. Click on a point to go to the paper information page.</p>
+<div style="text-align: right;">
+  <label>Search </label><input type="text" spellcheck="false" id="filtermap"/>
+</div>
+
+<!-- Added time slider for temporal animation -->
+<div id="time-slider" style="margin-bottom: 10px;">
+  <label for="yearRange">Year: </label>
+  <input type="range" id="yearRange" min="2000" max="2023" value="2023" step="1" />
+  <span id="yearLabel">2023</span>
+</div>
+
+<!-- Existing controls for panning and zooming -->
+<div id="controls" style="margin-bottom: 10px;">
+  <button id="zoom_in">Zoom In</button>
+  <button id="zoom_out">Zoom Out</button>
+  <button id="pan_left">Pan Left</button>
+  <button id="pan_right">Pan Right</button>
+  <button id="pan_up">Pan Up</button>
+  <button id="pan_down">Pan Down</button>
+</div>
+
+<div id="paperviz"></div>
+
+Please consider <a href="/contributing.html">contributing</a> by updating
+the information of existing papers or adding new work.
+
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.4.0/dist/umd/popper.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy.umd.min.js"></script>
 <script src="https://d3js.org/d3.v6.js"></script>
 
 <script>
@@ -22,7 +57,23 @@ var zoomLayer = svg.append("g");
 // Define color scale for clusters
 var color = d3.scaleOrdinal(d3.schemeCategory10);
 
-// ... (Rest of the code remains mostly the same) ...
+// Add zoom behavior
+var zoom = d3.zoom()
+  .scaleExtent([0.5, 20])  // Allow zooming out and zooming in
+  .on("zoom", function(event) {
+    currentTransform = event.transform;
+    zoomLayer.attr("transform", event.transform);
+  });
+
+// Initialize the current transform
+var currentTransform = d3.zoomIdentity;
+
+// Apply zoom behavior to the SVG
+svg.call(zoom);
+
+// Variables to store data and filtered data
+var allData = [];
+var filteredData = [];
 
 // Read the data
 d3.json('path/to/tsne_clustered.json').then(function(data) {
@@ -55,12 +106,94 @@ d3.json('path/to/tsne_clustered.json').then(function(data) {
     .domain([-25, 25])
     .range([height, 0]);
 
-  // ... (Tooltip setup remains the same) ...
+  // Add tooltip div
+  var tooltip = d3.select("#paperviz")
+    .append("div")
+    .style("opacity", 0)
+    .attr("class", "tooltip")
+    .style("background-color", "rgb(81, 81, 81)")
+    .style("width", "450px")
+    .style("height", "120px")
+    .style("color", "white")
+    .style("border-width", "0px")
+    .style("border-radius", "10px")
+    .style("padding", "10px")
+    .style("position", "absolute");
+
+  // Tooltip behavior
+  var mouseover = function(event, d) {
+    tooltip.style("opacity", 1);
+  };
+
+  var mousemove = function(event, d) {
+    var tags = d.tags.map(tag => `<tag>${tag}</tag>&nbsp;`).join("");
+    var xPosition = event.pageX + 20;
+    var yPosition = event.pageY + 30;
+
+    tooltip
+      .html(`<p>${d.title} ${tags}</p>`)
+      .style("left", xPosition + "px")
+      .style("top", yPosition + "px");
+  };
+
+  var mouseleave = function(event, d) {
+    tooltip.style("opacity", 0);
+  };
+
+  var click_link = function(event, d) {
+    window.location.href = "/publications/" + d.key + "/";
+  };
 
   // Initial visualization
   updateVisualization();
 
-  // ... (Event listeners and functions remain the same) ...
+  // Event listener for the time slider
+  d3.select("#yearRange").on("input", function() {
+    var selectedYear = +this.value;
+    d3.select("#yearLabel").text(selectedYear);
+    updateVisualization();
+  });
+
+  // Search functionality
+  var isMatch = function(d, searchTerm) {
+    if (searchTerm.length < 3) return false;
+    var allText = (d.title + " " + d.abstract + " " + d.tags.join(" ")).toLocaleLowerCase();
+    return allText.indexOf(searchTerm) !== -1;
+  };
+
+  d3.select("#filtermap").on("keyup", function(e) {
+    var searchTerm = d3.select("#filtermap").property("value").toLocaleLowerCase();
+    var allPoints = zoomLayer.selectAll("circle");
+    allPoints.filter(dd => !isMatch(dd, searchTerm)).style("fill", function(d) { return color(d.cluster); });
+    allPoints.filter(dd => isMatch(dd, searchTerm)).style("fill", "#aa0000");
+  });
+
+  // Pan and Zoom Controls
+  var panAmount = 50; // Amount of pixels to pan by
+
+  d3.select("#zoom_in").on("click", function() {
+    svg.transition().call(zoom.scaleBy, 1.2);
+  });
+
+  d3.select("#zoom_out").on("click", function() {
+    svg.transition().call(zoom.scaleBy, 0.8);
+  });
+
+  d3.select("#pan_left").on("click", function() {
+    svg.transition().call(zoom.translateBy, panAmount / currentTransform.k, 0);
+  });
+
+  d3.select("#pan_right").on("click", function() {
+    svg.transition().call(zoom.translateBy, -panAmount / currentTransform.k, 0);
+  });
+
+  d3.select("#pan_up").on("click", function() {
+    svg.transition().call(zoom.translateBy, 0, panAmount / currentTransform.k);
+  });
+
+  d3.select("#pan_down").on("click", function() {
+    svg.transition().call(zoom.translateBy, 0, -panAmount / currentTransform.k);
+  });
 
   // Update visualization function
   function updateVisualization() {
@@ -72,7 +205,7 @@ d3.json('path/to/tsne_clustered.json').then(function(data) {
 
     // Bind data
     var circles = zoomLayer.selectAll("circle")
-      .data(filteredData, d => d.key);
+      .data(filteredData, d => d.key); // Use d.key as the identifier
 
     // Exit
     circles.exit().remove();
