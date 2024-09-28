@@ -3,9 +3,6 @@ layout: default
 title: Resources on Large Language Models
 ---
 
-### Presentations and Relevant Introductory Material
-TBA
-
 ### Blog Posts
 
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/): A deep dive into how large language models are powering the next generation of autonomous agents, enabling systems to perform complex tasks with minimal human input.
@@ -32,11 +29,14 @@ Below is a collection of university and online courses that offer a deep dive in
 
 ### Online Courses
 
-4. [Coursera - Natural Language Processing with Transformers](https://www.coursera.org/learn/transformers): This course introduces transformers, which are the foundation of modern LLMs. It focuses on using transformers for various NLP tasks such as text classification, summarization, and translation.
+1. [Coursera - Natural Language Processing with Transformers](https://www.coursera.org/learn/transformers): This course introduces transformers, which are the foundation of modern LLMs. It focuses on using transformers for various NLP tasks such as text classification, summarization, and translation.
 
-5. [DataCamp - Transformer Models for NLP](https://www.datacamp.com/courses/transformer-models-for-nlp): Learn how to leverage transformer models to perform advanced natural language processing tasks with hands-on coding exercises in Python.
+2. [DataCamp - Transformer Models for NLP](https://www.datacamp.com/courses/transformer-models-for-nlp): Learn how to leverage transformer models to perform advanced natural language processing tasks with hands-on coding exercises in Python.
 
-6. [Udemy - GPT-3 and OpenAI API: A Guide for Building LLM-Powered Applications](https://www.udemy.com/course/gpt3-openai-api/): This course provides practical insights into using GPT-3 and OpenAI’s API to build applications that utilize LLMs, with a focus on creating conversational agents and content generation.
+3. [Udemy - GPT-3 and OpenAI API: A Guide for Building LLM-Powered Applications](https://www.udemy.com/course/gpt3-openai-api/): This course provides practical insights into using GPT-3 and OpenAI’s API to build applications that utilize LLMs, with a focus on creating conversational agents and content generation.
+
+4. [DeepLearning.AI - Generative AI with Large Language Models](https://www.deeplearning.ai/courses/generative-ai-with-llms/): This course from DeepLearning.AI covers the key concepts of generative AI, with a particular focus on LLMs. It includes hands-on practice in fine-tuning LLMs, prompt engineering, and applying these models to real-world use cases.
+
   
 ### Workshops and Other Academic Events
 TBA
@@ -44,9 +44,22 @@ TBA
 ### Competitions
 TBA
 
+### Books
+
+1. [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville: A foundational book that covers the principles of deep learning. It provides theoretical insights and practical applications, making it essential for understanding the building blocks of LLMs.
+
+2. [Natural Language Processing with Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/) by Lewis Tunstall, Leandro von Werra, and Thomas Wolf: This book offers a practical guide to using transformer models for NLP tasks, with a focus on tools like Hugging Face's libraries. It’s a great resource for anyone working with modern LLMs.
+
+3. [Transformers for Natural Language Processing](https://www.packtpub.com/en-us/product/transformers-for-natural-language-processing-9781800565791?srsltid=AfmBOooDVYPilamoz-i2YbaiP8K2QrslJGiP-QAy37HSb-iR0WdbsSdy) by Denis Rothman: This book provides an in-depth look at transformer models, from BERT to GPT-3, and explains how to implement them for a variety of NLP tasks.
+
+4. [GPT-3: Building Innovative NLP Products Using Large Language Models](https://www.amazon.co.uk/Gpt-3-Building-Innovative-Products-Language/dp/1098113624) by Sandra Kublik, Shubham Saboo, and Dhaval Pattani: A hands-on guide for building applications using GPT-3, covering everything from prompt engineering to integrating GPT-3 into real-world products.
+
+5. [Neural Networks and Deep Learning][(http://neuralnetworksanddeeplearning.com/) by Michael Nielsen: A classic introduction to neural networks and deep learning, providing a step-by-step guide to building and understanding deep models, which serve as the foundation for LLMs.
+
+6. [Hands-On Large Language Models: Language Understanding and Generation ](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/): provides practical tools for using LLMs in tasks like copywriting, summarization, and semantic search. It covers transformer architecture, generative models, and fine-tuning techniques to optimize LLMs for specific applications.
+
 ### Other Collections of Related Work
 
 1. [Awesome-LLM: a curated list of Large Language Mode](https://github.com/Hannibal046/Awesome-LLM): A comprehensive and well-maintained repository that curates resources, papers, tools, and frameworks related to Large Language Models (LLMs). It covers a wide range of topics including model architectures, training techniques, and applications.
 
-
-Please, feel free to submit a pull request to adding more links in this page.
+Please, feel free to submit a [contribution](Contributions.html) to adding more links in this page.
