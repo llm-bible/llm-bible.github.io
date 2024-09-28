@@ -36,13 +36,9 @@ Below is a collection of university and online courses that offer a deep dive in
 3. [Udemy - GPT-3 and OpenAI API: A Guide for Building LLM-Powered Applications](https://www.udemy.com/course/gpt3-openai-api/): This course provides practical insights into using GPT-3 and OpenAI’s API to build applications that utilize LLMs, with a focus on creating conversational agents and content generation.
 
 4. [DeepLearning.AI - Generative AI with Large Language Models](https://www.deeplearning.ai/courses/generative-ai-with-llms/): This course from DeepLearning.AI covers the key concepts of generative AI, with a particular focus on LLMs. It includes hands-on practice in fine-tuning LLMs, prompt engineering, and applying these models to real-world use cases.
-
   
-### Workshops and Other Academic Events
-TBA
+### Toola & Packages
 
-### Competitions
-TBA
 
 ### Books
 
