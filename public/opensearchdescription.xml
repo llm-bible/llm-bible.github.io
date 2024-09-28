@@ -1,10 +1,10 @@
 <OpenSearchDescription>
-<ShortName>ML4Code</ShortName>
-<LongName>ML4Code Survey</LongName>
+<ShortName>LLM-Bible</ShortName>
+<LongName>Large Language Model Papers</LongName>
 <Description></Description>
 <Contact/>
-<Url type="text/html" method="get" template="https://ml4code.github.io/papers.html#{searchTerms}"> </Url>
-<Image height="16" width="16" type="image/svg+xml">https://ml4code.github.io/public/favicon.svg</Image>
+<Url type="text/html" method="get" template="https://llm-bible.github.io/papers.html#{searchTerms}"> </Url>
+<Image height="16" width="16" type="image/svg+xml">https://llm-bible.github.io/public/favicon.svg</Image>
 <SyndicationRight>open</SyndicationRight>
 <AdultContent>false</AdultContent>
 <Language>en-us</Language>
