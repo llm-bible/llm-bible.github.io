@@ -37,6 +37,22 @@ title: Resources on Large Language Models
 
 - [Karpathy's Zero to Hero: GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY): A 2-hour course by Andrej Karpathy on building a GPT model from scratch, focusing on tokenization and transformer fundamentals.
 
+- [Karpathy's Intro to Tokenization](https://www.youtube.com/watch?v=jV0GMp8mb5g): A detailed introduction to tokenization for LLMs, explaining how text is processed into tokens for transformer models.
+
+## Podcasts with Deep Learning Superstars
+
+- [**The AI Alignment Podcast**](https://futureoflife.org/ai-alignment-podcast/): Conversations with leading AI researchers and thinkers like Stuart Russell, Yoshua Bengio, and more, covering cutting-edge research in AI alignment and deep learning.
+
+- [**Lex Fridman Podcast**](https://lexfridman.com/podcast/): Features interviews with AI pioneers like Yann LeCun, Geoffrey Hinton, Demis Hassabis, and Andrej Karpathy, discussing AI, deep learning, and the future of technology.
+
+- [**Machine Learning Street Talk**](https://www.youtube.com/c/MachineLearningStreetTalk): In-depth discussions with AI researchers such as Yannic Kilcher and Connor Leahy, tackling topics in AI ethics, deep learning, and more.
+
+- [**The Gradient Podcast**](https://thegradient.pub/category/podcast/): Interviews with researchers and practitioners in AI, deep learning, and NLP, including guests like Fei-Fei Li and Sebastian Ruder.
+
+- [**TWIML AI Podcast**](https://twimlai.com/tag/podcast/): Host Sam Charrington interviews top minds in AI and machine learning, such as Andrew Ng and Ian Goodfellow, diving deep into industry trends and research breakthroughs.
+
+- [**Data Skeptic**](https://dataskeptic.com/podcast): A podcast covering data science, machine learning, and AI, featuring leading experts from academia and industry, like Charles Isbell and Dario Amodei.
+  
 ## Courses on Large Language Models (LLMs)
 
 Below is a collection of university and online courses that offer a deep dive into the concepts, tools, and applications of Large Language Models (LLMs). These courses range from theoretical foundations to practical applications in business and data science.
