@@ -23,25 +23,39 @@ var margin = {top: 10, right: 30, bottom: 30, left: 60},
     width = 600 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
 
+// Add svg to the paperviz div
 var svg = d3.select("#paperviz")
   .append("svg")
     .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom);
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+// Create a group for zooming and panning
+var zoomLayer = svg.append("g");
+
+// Add zoom behavior
+var zoom = d3.zoom()
+  .scaleExtent([0.5, 20])  // Allow zooming out and zooming in
+  .on("zoom", function() {
+    zoomLayer.attr("transform", d3.event.transform);
+  });
+
+svg.call(zoom);
 
 //Read the data
 d3.json('https://raw.githubusercontent.com/llm-bible/llm-bible.github.io/refs/heads/master/tsne.json', function(data) {
   // Add X axis
- var x = d3.scaleLinear()
-    .domain([-25, 25])  // Increase the domain range to zoom out
-    .range([ 0, width ]);
+  var x = d3.scaleLinear()
+    .domain([-25, 25])  // Adjust the domain to zoom out
+    .range([0, width]);
 
-  // Add Y axisB
+  // Add Y axis
   var y = d3.scaleLinear()
-    .domain([-25, 25])  // Increase the domain range to zoom out
+    .domain([-25, 25])  // Adjust the domain to zoom out
     .range([height, 0]);
 
-  // Add a tooltip div. Here I define the general feature of the tooltip: stuff that do not depend on the data point.
-  // Its opacity is set to 0: we don't see it by default.
+  // Add tooltip div
   var tooltip = d3.select("#paperviz")
     .append("div")
     .style("opacity", 0)
@@ -55,63 +69,56 @@ d3.json('https://raw.githubusercontent.com/llm-bible/llm-bible.github.io/refs/he
     .style("padding", "10px")
     .style("position", "absolute");
 
-  // A function that change this tooltip when the user hover a point.
-  // Its opacity is set to 1: we can now see it. Plus it set the text and position of tooltip depending on the datapoint (d)
+  // Tooltip behavior
   var mouseover = function(d) {
-    tooltip
-      .style("opacity", 1)
-  }
+    tooltip.style("opacity", 1);
+  };
 
   var mousemove = function(d) {
-    tags = ""
-    for (i=0; i<d.tags.length; i++) {
-        tags += "<tag>" + d.tags[i] + "</tag>&nbsp;"
-    }
-
+    var tags = d.tags.map(tag => `<tag>${tag}</tag>&nbsp;`).join("");
     var boundingRect = document.getElementById("paperviz").getBoundingClientRect();
     var mousePos = d3.mouse(this);
     var x = mousePos[0] + boundingRect.x + 20;
     var y = mousePos[1] + boundingRect.y + 30;
 
     tooltip
-      .html("<p>" + d.title + " " + tags + "</p>")
+      .html(`<p>${d.title} ${tags}</p>`)
       .style("left", x + "px")
       .style("top", y + "px");
-  }
+  };
 
   var click_link = function(d) {
-      window.location.href = "/publications/" + d.key + "/";
-  }
+    window.location.href = "/publications/" + d.key + "/";
+  };
 
   // Add dots
-  svg.append('g')
+  zoomLayer.append('g')
     .selectAll("dot")
-    .data(data) 
+    .data(data)
     .enter()
     .append("circle")
-      .attr("cx", function (d) { return x(d.tsne_embedding[0]); } )
-      .attr("cy", function (d) { return y(d.tsne_embedding[1]); } )
+      .attr("cx", function(d) { return x(d.tsne_embedding[0]); })
+      .attr("cy", function(d) { return y(d.tsne_embedding[1]); })
       .attr("r", 8)
       .style("fill", "#69b3a2")
       .style("opacity", 0.4)
       .style("stroke", "white")
-    .on("mouseover", mouseover)
-    .on("mousemove", mousemove)
-    .on("click", click_link);
+      .on("mouseover", mouseover)
+      .on("mousemove", mousemove)
+      .on("click", click_link);
 
+  // Search functionality
   var isMatch = function(d, searchTerm) {
     if (searchTerm.length < 3) return false;
     var allText = (d.title + " " + d.abstract + " " + d.tags.join(" ")).toLocaleLowerCase();
-    return allText.indexOf(searchTerm) != -1;
-  }
+    return allText.indexOf(searchTerm) !== -1;
+  };
 
-  $("#filtermap").keyup(function (e) {
+  $("#filtermap").keyup(function(e) {
     var searchTerm = $("#filtermap").val().toLocaleLowerCase();
     var allPoints = d3.selectAll("circle");
-    // TODO: This seems quite inefficient...
     allPoints.filter(dd => !isMatch(dd, searchTerm)).style("fill", "#69b3a2");
     allPoints.filter(dd => isMatch(dd, searchTerm)).style("fill", "#aa0000");
   });
-
 });
 </script>
