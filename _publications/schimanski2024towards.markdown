@@ -7,6 +7,6 @@ year: 2024
 bibkey: schimanski2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.08277"}
-tags: ['ARXIV', 'LLM', 'Pretraining Methods']
+tags: ['ARXIV', 'Fine Tuning', 'LLM', 'Pretraining Methods', 'Tools']
 ---
 Advances towards more faithful and traceable answers of Large Language Models (LLMs) are crucial for various research and practical endeavors. One avenue in reaching this goal is basing the answers on reliable sources. However this Evidence-Based QA has proven to work insufficiently with LLMs in terms of citing the correct sources (source quality) and truthfully representing the information within sources (answer attributability). In this work we systematically investigate how to robustly fine-tune LLMs for better source quality and answer attributability. Specifically we introduce a data generation pipeline with automated data quality filters which can synthesize diversified high-quality training and testing data at scale. We further introduce four test sets to benchmark the robustness of fine-tuned specialist models. Extensive evaluation shows that fine-tuning on synthetic data improves performance on both in- and out-of-distribution. Furthermore we show that data quality which can be drastically improved by proposed quality filters matters more than quantity in improving Evidence-Based QA.
