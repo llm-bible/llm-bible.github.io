@@ -29,7 +29,7 @@ var svg = d3.select("#paperviz")
     .attr("height", height + margin.top + margin.bottom);
 
 //Read the data
-d3.json("./tsne.json", function(data) {
+d3.json('https://raw.githubusercontent.com/llm-bible/llm-bible.github.io/refs/heads/master/topics.json', function(data) {
   // Add X axis
  var x = d3.scaleLinear()
     .domain([-25, 25])  // Increase the domain range to zoom out
