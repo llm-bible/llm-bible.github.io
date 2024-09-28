@@ -8,6 +8,17 @@ description: A tSNE visualization of all the Large Language Model Papers
 <p>Each dot represents one paper in this survey. Hover your mouse over each point to look
 at the details. Click on a point to go to the paper information page.</p>
 <div style="text-align: right;"><label>Search </label><input type="text" spellcheck="false" id="filtermap"/></div>
+
+<!-- Added controls for panning and zooming -->
+<div id="controls" style="margin-bottom: 10px;">
+  <button id="zoom_in">Zoom In</button>
+  <button id="zoom_out">Zoom Out</button>
+  <button id="pan_left">Pan Left</button>
+  <button id="pan_right">Pan Right</button>
+  <button id="pan_up">Pan Up</button>
+  <button id="pan_down">Pan Down</button>
+</div>
+
 <div id="paperviz"></div>
 
 Please consider <a href="/contributing.html">contributing</a> by updating
@@ -38,12 +49,17 @@ var zoomLayer = svg.append("g");
 var zoom = d3.zoom()
   .scaleExtent([0.5, 20])  // Allow zooming out and zooming in
   .on("zoom", function(event) {
+    currentTransform = event.transform;
     zoomLayer.attr("transform", event.transform);
   });
 
+// Initialize the current transform
+var currentTransform = d3.zoomIdentity;
+
+// Apply zoom behavior to the SVG
 svg.call(zoom);
 
-//Read the data
+// Read the data
 d3.json('https://raw.githubusercontent.com/llm-bible/llm-bible.github.io/refs/heads/master/tsne.json').then(function(data) {
   // Add X axis
   var x = d3.scaleLinear()
@@ -119,5 +135,32 @@ d3.json('https://raw.githubusercontent.com/llm-bible/llm-bible.github.io/refs/he
     allPoints.filter(dd => !isMatch(dd, searchTerm)).style("fill", "#69b3a2");
     allPoints.filter(dd => isMatch(dd, searchTerm)).style("fill", "#aa0000");
   });
+});
+
+// Pan and Zoom Controls
+var panAmount = 50; // Amount of pixels to pan by
+
+d3.select("#zoom_in").on("click", function() {
+  svg.transition().call(zoom.scaleBy, 1.2);
+});
+
+d3.select("#zoom_out").on("click", function() {
+  svg.transition().call(zoom.scaleBy, 0.8);
+});
+
+d3.select("#pan_left").on("click", function() {
+  svg.transition().call(zoom.translateBy, panAmount / currentTransform.k, 0);
+});
+
+d3.select("#pan_right").on("click", function() {
+  svg.transition().call(zoom.translateBy, -panAmount / currentTransform.k, 0);
+});
+
+d3.select("#pan_up").on("click", function() {
+  svg.transition().call(zoom.translateBy, 0, panAmount / currentTransform.k);
+});
+
+d3.select("#pan_down").on("click", function() {
+  svg.transition().call(zoom.translateBy, 0, -panAmount / currentTransform.k);
 });
 </script>
