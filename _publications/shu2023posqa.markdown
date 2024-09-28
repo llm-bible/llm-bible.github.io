@@ -7,6 +7,6 @@ year: 2023
 bibkey: shu2023posqa
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.13394"}
-tags: ['ARXIV', 'Ethics And Bias', 'LLM', 'Merging', 'Prompt', 'Reinforcement Learning']
+tags: ['ARXIV', 'Applications', 'Ethics And Bias', 'LLM', 'Merging', 'Reinforcement Learning']
 ---
 Embodied language comprehension emphasizes that language understanding is not solely a matter of mental processing in the brain but also involves interactions with the physical and social environment. With the explosive growth of Large Language Models (LLMs) and their already ubiquitous presence in our daily lives it is becoming increasingly necessary to verify their real-world understanding. Inspired by cognitive theories we propose POSQA a Physical Object Size Question Answering dataset with simple size comparison questions to examine the extremity and analyze the potential mechanisms of the embodied comprehension of the latest LLMs. We show that even the largest LLMs today perform poorly under the zero-shot setting. We then push their limits with advanced prompting techniques and external knowledge augmentation. Furthermore we investigate whether their real-world comprehension primarily derives from contextual information or internal weights and analyse the impact of prompt formats and report bias of different objects. Our results show that real-world understanding that LLMs shaped from textual data can be vulnerable to deception and confusion by the surface form of prompts which makes it less aligned with human behaviours.
