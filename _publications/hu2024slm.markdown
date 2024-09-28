@@ -7,6 +7,6 @@ year: 2024
 bibkey: hu2024slm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.12748"}
-tags: ['ARXIV', 'Explainability', 'Interpretability', 'LLM', 'Pretraining Methods', 'RAG', 'Tools']
+tags: ['ARXIV', 'Applications', 'Interpretability And Interpretability', 'LLM', 'Pretraining Methods', 'Prompting', 'RAG', 'Tools']
 ---
 Large language models (LLMs) are highly capable but face latency challenges in real-time applications such as conducting online hallucination detection. To overcome this issue we propose a novel framework that leverages a small language model (SLM) classifier for initial detection followed by a LLM as constrained reasoner to generate detailed explanations for detected hallucinated content. This study optimizes the real-time interpretable hallucination detection by introducing effective prompting techniques that align LLM-generated explanations with SLM decisions. Empirical experiment results demonstrate its effectiveness thereby enhancing the overall user experience.
