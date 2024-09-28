@@ -7,6 +7,6 @@ year: 2023
 bibkey: starace2023probing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.18696"}
-tags: ['ARXIV', 'Interpretability', 'Interpretability And Interpretability', 'LLM', 'NLP', 'Pretraining Methods', 'Tools', 'Training Techniques']
+tags: ['ARXIV', 'Interpretability', 'Interpretability And Explainability', 'LLM', 'NLP', 'Pretraining Methods', 'Tools', 'Training Techniques']
 ---
 Large Language Models (LLMs) exhibit impressive performance on a range of NLP tasks due to the general-purpose linguistic knowledge acquired during pretraining. Existing model interpretability research (Tenney et al. 2019) suggests that a linguistic hierarchy emerges in the LLM layers with lower layers better suited to solving syntactic tasks and higher layers employed for semantic processing. Yet little is known about how encodings of different linguistic phenomena interact within the models and to what extent processing of linguistically-related categories relies on the same shared model representations. In this paper we propose a framework for testing the joint encoding of linguistic categories in LLMs. Focusing on syntax we find evidence of joint encoding both at the same (related part-of-speech (POS) classes) and different (POS classes and related syntactic dependency relations) levels of linguistic hierarchy. Our cross-lingual experiments show that the same patterns hold across languages in multilingual LLMs.
