@@ -7,6 +7,6 @@ year: 2024
 bibkey: upadhayayaya2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.01930"}
-tags: ['Arxiv', 'Efficiency and Optimization', 'LLM', 'Distillation']
+tags: ['ARXIV', 'Distillation', 'Efficiency And Optimization', 'LLM']
 ---
 This paper specifically investigates context distillation a method that extends the utility of task-specific examples by internalizing them thus augmenting the example set accessible for model inference.

@@ -7,6 +7,6 @@ year: 2024
 bibkey: li2024retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.16833"}
-tags: ['Arxiv', 'GPT', 'Applications', 'A']
+tags: ['ARXIV', 'Applications', 'GPT']
 ---
 Retrieval Augmented Generation (RAG) has been a powerful tool for Large Language Models (LLMs) to efficiently process overly lengthy contexts. However recent LLMs like Gemini-1.5 and GPT-4 show exceptional capabilities to understand long contexts directly. We conduct a comprehensive comparison between RAG and long-context (LC) LLMs aiming to leverage the strengths of both. We benchmark RAG and LC across various public datasets using three latest LLMs. Results reveal that when resourced sufficiently LC consistently outperforms RAG in terms of average performance. However RAGs significantly lower cost remains a distinct advantage. Based on this observation we propose Self-Route a simple yet effective method that routes queries to RAG or LC based on model self-reflection. Self-Route significantly reduces the computation cost while maintaining a comparable performance to LC. Our findings provide a guideline for long-context applications of LLMs using RAG and LC.

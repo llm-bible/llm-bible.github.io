@@ -7,6 +7,6 @@ year: 2020
 bibkey: deng2020cascaded
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2006.01112"}
-tags: ['Pretraining Methods', 'Transformer', 'Arxiv']
+tags: ['ARXIV', 'Pretraining Methods', 'Transformer']
 ---
 The two dominant approaches to neural text generation are fully autoregressive models using serial beam search decoding and non-autoregressive models using parallel decoding with no output dependencies. This work proposes an autoregressive model with sub-linear parallel time generation. Noting that conditional random fields with bounded context can be decoded in parallel we propose an efficient cascaded decoding approach for generating high-quality output. To parameterize this cascade we introduce a Markov transformer a variant of the popular fully autoregressive model that allows us to simultaneously decode with specific autoregressive context cutoffs. This approach requires only a small modification from standard autoregressive training while showing competitive accuracy/speed tradeoff compared to existing methods on five machine translation datasets.

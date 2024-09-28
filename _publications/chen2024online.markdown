@@ -7,6 +7,6 @@ year: 2024
 bibkey: chen2024online
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.16115"}
-tags: ['Applications', 'LLM', 'Arxiv']
+tags: ['ARXIV', 'Applications', 'LLM']
 ---
 The advent of personalized content generation by LLMs presents a novel challenge how to efficiently adapt text to meet individual preferences without the unsustainable demand of creating a unique model for each user. This study introduces an innovative online method that employs neural bandit algorithms to dynamically optimize soft instruction embeddings based on user feedback enhancing the personalization of open-ended text generation by white-box LLMs. Through rigorous experimentation on various tasks we demonstrate significant performance improvements over baseline strategies. NeuralTS in particular leads to substantial enhancements in personalized news headline generation achieving up to a 62.9 improvement in terms of best ROUGE scores and up to 2.76 increase in LLM-agent evaluation against the baseline.

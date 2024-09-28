@@ -8,6 +8,6 @@ bibkey: wolf2019huggingfaces
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.03771"}
   - {name: "Code", url: "https://github.com/huggingface/transformers}"}
-tags: ['Model Architecture', 'Transformer', 'Has Code', 'Arxiv']
+tags: ['ARXIV', 'Has Code', 'Model Architecture', 'Transformer']
 ---
 Recent progress in natural language processing has been driven by advances in both model architecture and model pretraining. Transformer architectures have facilitated building higher-capacity models and pretraining has made it possible to effectively utilize this capacity for a wide variety of tasks. is an open-source library with the goal of opening up these advances to the wider machine learning community. The library consists of carefully engineered state-of-the art Transformer architectures under a unified API. Backing this library is a curated collection of pretrained models made by and available for the community. is designed to be extensible by researchers simple for practitioners and fast and robust in industrial deployments. The library is available at urlhttps://github.com/huggingface/transformers}.
