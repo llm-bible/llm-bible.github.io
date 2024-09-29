@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Large Language Models as Hyper-Heuristics for Combinatorial Optimization
+authors: Ye Haoran, Wang Jiarui, Cao Zhiguang, Berto Federico, Hua Chuanbo, Kim Haeyeon, Park Jinkyoo, Song Guojie
+conference: "Arxiv"
+year: 2024
+bibkey: ye2024large
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2402.01145"}
+  - {name: "Code", url: "https://github.com/ai4co/LLM-as-HH"}
+tags: ['Efficiency And Optimization', 'Has Code', 'Merging', 'RAG']
+---
+The omnipresence of NP-hard combinatorial optimization problems (COPs) compels domain experts to engage in trial-and-error heuristic design. The long-standing endeavor of design automation has gained new momentum with the rise of large language models (LLMs). This paper introduces Language Hyper-Heuristics (LHHs) an emerging variant of Hyper-Heuristics that leverages LLMs for heuristic generation featuring minimal manual intervention and open-ended heuristic spaces. To empower LHHs we present Reflective Evolution (ReEvo) a novel integration of evolutionary search for efficiently exploring the heuristic space and LLM reflections to provide verbal gradients within the space. Across five heterogeneous algorithmic types six different COPs and both white-box and black-box views of COPs ReEvo yields state-of-the-art and competitive meta-heuristics evolutionary algorithms heuristics and neural solvers while being more sample-efficient than prior LHHs. Our code is available https://github.com/ai4co/LLM-as-HH.

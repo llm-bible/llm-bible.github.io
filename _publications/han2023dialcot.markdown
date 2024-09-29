@@ -1,0 +1,12 @@
+---
+layout: publication
+title: DialCoT Meets PPO Decomposing and Exploring Reasoning Paths in Smaller Language Models
+authors: Han Chengcheng, Du Xiaowei, Zhang Che, Lian Yixin, Li Xiang, Gao Ming, Wang Baoyuan
+conference: "Arxiv"
+year: 2023
+bibkey: han2023dialcot
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.05074"}
+tags: ['Efficiency And Optimization', 'Prompting', 'Reinforcement Learning']
+---
+Chain-of-Thought (CoT) prompting has proven to be effective in enhancing the reasoning capabilities of Large Language Models (LLMs) with at least 100 billion parameters. However it is ineffective or even detrimental when applied to reasoning tasks in Smaller Language Models (SLMs) with less than 10 billion parameters. To address this limitation we introduce Dialogue-guided Chain-of-Thought (DialCoT) which employs a dialogue format to generate intermediate reasoning steps guiding the model toward the final answer. Additionally we optimize the models reasoning path selection using the Proximal Policy Optimization (PPO) algorithm further enhancing its reasoning capabilities. Our method offers several advantages compared to previous approaches. Firstly we transform the process of solving complex reasoning questions by breaking them down into a series of simpler sub-questions significantly reducing the task difficulty and making it more suitable for SLMs. Secondly we optimize the models reasoning path selection through the PPO algorithm. We conduct comprehensive experiments on four arithmetic reasoning datasets demonstrating that our method achieves significant performance improvements compared to state-of-the-art competitors.

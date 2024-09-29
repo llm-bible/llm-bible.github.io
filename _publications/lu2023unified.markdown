@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Unified-IO 2 Scaling Autoregressive Multimodal Models with Vision Language Audio and Action
+authors: Lu Jiasen, Clark Christopher, Lee Sangho, Zhang Zichen, Khosla Savya, Marten Ryan, Hoiem Derek, Kembhavi Aniruddha
+conference: "Arxiv"
+year: 2023
+bibkey: lu2023unified
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2312.17172"}
+tags: ['Applications', 'GPT', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods', 'Prompting', 'Training Techniques', 'Transformer']
+---
+We present Unified-IO 2 the first autoregressive multimodal model that is capable of understanding and generating image text audio and action. To unify different modalities we tokenize inputs and outputs -- images text audio action bounding boxes etc. into a shared semantic space and then process them with a single encoder-decoder transformer model. Since training with such diverse modalities is challenging we propose various architectural improvements to stabilize model training. We train our model from scratch on a large multimodal pre-training corpus from diverse sources with a multimodal mixture of denoisers objective. To learn an expansive set of skills such as following multimodal instructions we construct and finetune on an ensemble of 120 datasets with prompts and augmentations. With a single unified model Unified-IO 2 achieves state-of-the-art performance on the GRIT benchmark and strong results in more than 35 benchmarks including image generation and understanding natural language understanding video and audio understanding and robotic manipulation. We release all our models to the research community.

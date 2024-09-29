@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Harnessing Large Language Models as Post-hoc Correctors
+authors: Zhong Zhiqiang, Zhou Kuangyu, Mottin Davide
+conference: "Arxiv"
+year: 2024
+bibkey: zhong2024harnessing
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2402.13414"}
+tags: ['Fine Tuning', 'In Context Learning', 'Pretraining Methods', 'Prompting', 'RAG', 'Tools', 'Training Techniques']
+---
+As Machine Learning (ML) models grow in size and demand higher-quality training data the expenses associated with re-training and fine-tuning these models are escalating rapidly. Inspired by recent impressive achievements of Large Language Models (LLMs) in different fields this paper delves into the question can LLMs efficiently improve an MLs performance at a minimal cost We show that through our proposed training-free framework LlmCorr an LLM can work as a post-hoc corrector to propose corrections for the predictions of an arbitrary ML model. In particular we form a contextual knowledge database by incorporating the datasets label information and the ML models predictions on the validation dataset. Leveraging the in-context learning capability of LLMs we ask the LLM to summarise the instances in which the ML model makes mistakes and the correlation between primary predictions and true labels. Following this the LLM can transfer its acquired knowledge to suggest corrections for the ML models predictions. Our experimental results on text analysis and the challenging molecular predictions show that model improves the performance of a number of models by up to 39.

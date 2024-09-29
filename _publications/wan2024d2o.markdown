@@ -1,0 +1,12 @@
+---
+layout: publication
+title: D2O Dynamic Discriminative Operations for Efficient Generative Inference of Large Language Models
+authors: Wan Zhongwei, Wu Xinjian, Zhang Yu, Xin Yi, Tao Chaofan, Zhu Zhihong, Wang Xin, Luo Siqi, Xiong Jing, Zhang Mi
+conference: "Arxiv"
+year: 2024
+bibkey: wan2024d2o
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.13035"}
+tags: ['Applications', 'Attention Mechanism', 'Fine Tuning', 'Language Modeling', 'Model Architecture', 'Pretraining Methods', 'Training Techniques']
+---
+Efficient inference in Large Language Models (LLMs) is impeded by the growing memory demands of key-value (KV) caching especially for longer sequences. Traditional KV cache eviction strategies which prioritize less critical KV-pairs based on attention scores often degrade generation quality leading to issues such as context loss or hallucinations. To address this we introduce Dynamic Discriminative Operations (D2O) a novel method that utilizes two-level discriminative strategies to optimize KV cache size without fine-tuning while preserving essential context. Initially by observing varying densities of attention weights between shallow and deep layers we use this insight to determine which layers should avoid excessive eviction to minimize information loss. Subsequently for the eviction strategy in each layer D2O innovatively incorporates a compensation mechanism that maintains a similarity threshold to re-discriminate the importance of previously discarded tokens determining whether they should be recalled and merged with similar tokens. Our approach not only achieves significant memory savings and enhances inference throughput by more than 3 times but also maintains high-quality long-text generation. Extensive experiments across various benchmarks and LLM architectures have demonstrated that D2O significantly enhances performance with a constrained KV cache budget.

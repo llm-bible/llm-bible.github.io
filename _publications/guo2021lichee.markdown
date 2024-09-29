@@ -1,0 +1,12 @@
+---
+layout: publication
+title: LICHEE Improving Language Model Pre-training with Multi-grained Tokenization
+authors: Guo Weidong, Zhao Mingjun, Zhang Lusheng, Niu Di, Luo Jinwen, Liu Zhenhua, Li Zhenyang, Tang Jianbo
+conference: "Arxiv"
+year: 2021
+bibkey: guo2021lichee
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2108.00801"}
+tags: ['Applications', 'BERT', 'Model Architecture', 'TOKENIZATION', 'Training Techniques']
+---
+Language model pre-training based on large corpora has achieved tremendous success in terms of constructing enriched contextual representations and has led to significant performance gains on a diverse range of Natural Language Understanding (NLU) tasks. Despite the success most current pre-trained language models such as BERT are trained based on single-grained tokenization usually with fine-grained characters or sub-words making it hard for them to learn the precise meaning of coarse-grained words and phrases. In this paper we propose a simple yet effective pre-training method named LICHEE to efficiently incorporate multi-grained information of input text. Our method can be applied to various pre-trained language models and improve their representation capability. Extensive experiments conducted on CLUE and SuperGLUE demonstrate that our method achieves comprehensive improvements on a wide variety of NLU tasks in both Chinese and English with little extra inference cost incurred and that our best ensemble model achieves the state-of-the-art performance on CLUE benchmark competition.

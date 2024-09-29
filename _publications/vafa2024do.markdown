@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Do Large Language Models Perform the Way People Expect Measuring the Human Generalization Function
+authors: Vafa Keyon, Rambachan Ashesh, Mullainathan Sendhil
+conference: "Arxiv"
+year: 2024
+bibkey: vafa2024do
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.01382"}
+tags: ['GPT', 'Model Architecture', 'Pretraining Methods']
+---
+What makes large language models (LLMs) impressive is also what makes them hard to evaluate their diversity of uses. To evaluate these models we must understand the purposes they will be used for. We consider a setting where these deployment decisions are made by people and in particular peoples beliefs about where an LLM will perform well. We model such beliefs as the consequence of a human generalization function having seen what an LLM gets right or wrong people generalize to where else it might succeed. We collect a dataset of 19K examples of how humans make generalizations across 79 tasks from the MMLU and BIG-Bench benchmarks. We show that the human generalization function can be predicted using NLP methods people have consistent structured ways to generalize. We then evaluate LLM alignment with the human generalization function. Our results show that -- especially for cases where the cost of mistakes is high -- more capable models (e.g. GPT-4) can do worse on the instances people choose to use them for exactly because they are not aligned with the human generalization function.

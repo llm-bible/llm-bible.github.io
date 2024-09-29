@@ -1,0 +1,13 @@
+---
+layout: publication
+title: XRICL Cross-lingual Retrieval-Augmented In-Context Learning for Cross-lingual Text-to-SQL Semantic Parsing
+authors: Shi Peng, Zhang Rui, Bai He, Lin Jimmy
+conference: "Arxiv"
+year: 2022
+bibkey: shi2022xricl
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2210.13693"}
+  - {name: "Code", url: "https://github.com/Impavidity/XRICL"}
+tags: ['Fine Tuning', 'GPT', 'Has Code', 'In Context Learning', 'Model Architecture', 'Prompting', 'RAG', 'Tools']
+---
+In-context learning using large language models has recently shown surprising results for semantic parsing tasks such as Text-to-SQL translation. Prompting GPT-3 or Codex using several examples of question-SQL pairs can produce excellent results comparable to state-of-the-art finetuning-based models. However existing work primarily focuses on English datasets and it is unknown whether large language models can serve as competitive semantic parsers for other languages. To bridge this gap our work focuses on cross-lingual Text-to-SQL semantic parsing for translating non-English utterances into SQL queries based on an English schema. We consider a zero-shot transfer learning setting with the assumption that we do not have any labeled examples in the target language (but have annotated examples in English). This work introduces the XRICL framework which learns to retrieve relevant English exemplars for a given query to construct prompts. We also include global translation exemplars for a target language to facilitate the translation process for large language models. To systematically evaluate our model we construct two new benchmark datasets XSpider and XKaggle-dbqa which include questions in Chinese Vietnamese Farsi and Hindi. Our experiments show that XRICL effectively leverages large pre-trained language models to outperform existing baselines. Data and code are publicly available at https://github.com/Impavidity/XRICL.

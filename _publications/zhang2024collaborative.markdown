@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Collaborative Performance Prediction for Large Language Models
+authors: Zhang Qiyuan, Lyu Fuyuan, Liu Xue, Ma Chen
+conference: "Arxiv"
+year: 2024
+bibkey: zhang2024collaborative
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2407.01300"}
+tags: ['Efficiency And Optimization', 'Large Scale Training', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Scaling Laws', 'Tools']
+---
+Comprehensively understanding and accurately predicting the performance of large language models across diverse downstream tasks has emerged as a pivotal challenge in NLP research. The pioneering scaling law on downstream works demonstrated intrinsic similarities within model families and utilized such similarities for performance prediction. However they tend to overlook the similarities between model families and only consider design factors listed in the original scaling law. To overcome these limitations we introduce a novel framework Collaborative Performance Prediction (CPP) which significantly enhances prediction accuracy by leveraging the historical performance of various models on downstream tasks and other design factors for both model and task. We also collect a collaborative data sourced from online platforms containing both historical performance and additional design factors. With the support of the collaborative data CPP not only surpasses traditional scaling laws in predicting the performance of scaled LLMs but also facilitates a detailed analysis of factor importance an area previously overlooked.

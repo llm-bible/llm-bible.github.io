@@ -1,0 +1,12 @@
+---
+layout: publication
+title: AutoCAP Towards Automatic Cross-lingual Alignment Planning for Zero-shot Chain-of-Thought
+authors: Zhang Yongheng, Chen Qiguang, Li Min, Che Wanxiang, Qin Libo
+conference: "Arxiv"
+year: 2024
+bibkey: zhang2024autocap
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.13940"}
+tags: ['Attention Mechanism', 'Model Architecture', 'Multimodal Models', 'Prompting']
+---
+Cross-lingual chain-of-thought can effectively complete reasoning tasks across languages which gains increasing attention. Recently dominant approaches in the literature improve cross-lingual alignment capabilities by integrating reasoning knowledge from different languages. Despite achieving excellent performance current methods still have two main challenges (1) Manual language specification They still highly rely on manually selecting the languages to integrate severely affecting their generalizability; (2) Static weight allocation Current methods simply integrate all languages equally. In fact different language reasoning paths should have different weights to achieve better complementation and integration. Motivated by this we introduce an Automatic Cross-lingual Alignment Planning (AutoCAP) for zero-shot chain-of-thought to address the above challenges. The core of AutoCAP consists of two components (1) Automatic Language Selection Prompting to guide LLMs to select appropriate languages and (2) Automatic Weight Allocation Prompting to automatically allocate alignment weight scores to each reasoning path. Extensive experiments on several benchmarks reveal that AutoCAP achieves state-of-the-art performance surpassing previous methods that required manual effort.

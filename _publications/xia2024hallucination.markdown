@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Hallucination Diversity-Aware Active Learning for Text Summarization
+authors: Xia Yu, Liu Xu, Yu Tong, Kim Sungchul, Rossi Ryan A., Rao Anup, Mai Tung, Li Shuai
+conference: "Arxiv"
+year: 2024
+bibkey: xia2024hallucination
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2404.01588"}
+tags: ['Applications', 'Reinforcement Learning', 'Tools']
+---
+Large Language Models (LLMs) have shown propensity to generate hallucinated outputs i.e. texts that are factually incorrect or unsupported. Existing methods for alleviating hallucinations typically require costly human annotations to identify and correct hallucinations in LLM outputs. Moreover most of these methods focus on a specific type of hallucination e.g. entity or token errors which limits their effectiveness in addressing various types of hallucinations exhibited in LLM outputs. To our best knowledge in this paper we propose the first active learning framework to alleviate LLM hallucinations reducing costly human annotations of hallucination needed. By measuring fine-grained hallucinations from errors in semantic frame discourse and content verifiability in text summarization we propose HAllucination Diversity-Aware Sampling (HADAS) to select diverse hallucinations for annotations in active learning for LLM finetuning. Extensive experiments on three datasets and different backbone models demonstrate advantages of our method in effectively and efficiently mitigating LLM hallucinations.

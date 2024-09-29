@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Cascade Speculative Drafting for Even Faster LLM Inference
+authors: Chen Ziyi, Yang Xiaocong, Lin Jiacheng, Sun Chenkai, Chang Kevin Chen-chuan, Huang Jie
+conference: "Arxiv"
+year: 2023
+bibkey: chen2023cascade
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2312.11462"}
+  - {name: "Code", url: "https://github.com/lfsszd/CS-Drafting"}
+tags: ['Efficiency And Optimization', 'GPT', 'Has Code', 'Pretraining Methods']
+---
+Introduced to enhance the efficiency of large language model (LLM) inference speculative decoding operates by having a smaller model generate a draft. A larger target model then reviews this draft to align with its output and any acceptance by the target model results in a reduction of the number of the target model runs ultimately improving efficiency. However the drafting process in speculative decoding includes slow autoregressive generation and allocates equal time to generating tokens irrespective of their importance. These inefficiencies collectively contribute to the suboptimal performance of speculative decoding. To further improve LLM inference we introduce Cascade Speculative Drafting (CS Drafting) a speculative execution algorithm that incorporates two types of cascades. The Vertical Cascade eliminates autoregressive generation from neural models while the Horizontal Cascade optimizes time allocation in drafting for improved efficiency. Combining both cascades CS Drafting achieves up to an 81 percent additional speedup over speculative decoding in our experiments while maintaining the same output distribution as the target model. Our code is publicly available at https://github.com/lfsszd/CS-Drafting.

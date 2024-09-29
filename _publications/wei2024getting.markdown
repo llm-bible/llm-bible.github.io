@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Getting Inspiration for Feature Elicitation App Store- vs. LLM-based Approach
+authors: Wei Jialiang, Courbis Anne-lise, Lambolais Thomas, Xu Binbin, Bernard Pierre Louis, Dray Gérard, Maalej Walid
+conference: "Arxiv"
+year: 2024
+bibkey: wei2024getting
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2408.17404"}
+tags: ['Pretraining Methods', 'Reinforcement Learning']
+---
+Over the past decade app store (AppStore)-inspired requirements elicitation has proven to be highly beneficial. Developers often explore competitors apps to gather inspiration for new features. With the advance of Generative AI recent studies have demonstrated the potential of large language model (LLM)-inspired requirements elicitation. LLMs can assist in this process by providing inspiration for new feature ideas. While both approaches are gaining popularity in practice there is a lack of insight into their differences. We report on a comparative study between AppStore- and LLM-based approaches for refining features into sub-features. By manually analyzing 1200 sub-features recommended from both approaches we identified their benefits challenges and key differences. While both approaches recommend highly relevant sub-features with clear descriptions LLMs seem more powerful particularly concerning novel unseen app scopes. Moreover some recommended features are imaginary with unclear feasibility which suggests the importance of a human-analyst in the elicitation loop.

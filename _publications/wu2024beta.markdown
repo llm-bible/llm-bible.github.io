@@ -1,0 +1,13 @@
+---
+layout: publication
+title: beta-DPO Direct Preference Optimization with Dynamic beta
+authors: Wu Junkang, Xie Yuexiang, Yang Zhengyi, Wu Jiancan, Gao Jinyang, Ding Bolin, Wang Xiang, He Xiangnan
+conference: "Arxiv"
+year: 2024
+bibkey: wu2024beta
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2407.08639"}
+  - {name: "Code", url: "https://github.com/junkangwu/beta-DPO"}
+tags: ['Efficiency And Optimization', 'Fine Tuning', 'Has Code', 'Pretraining Methods', 'Reinforcement Learning', 'Tools', 'Training Techniques']
+---
+Direct Preference Optimization (DPO) has emerged as a compelling approach for training Large Language Models (LLMs) to adhere to human preferences. However the performance of DPO is sensitive to the fine-tuning of its trade-off parameter beta as well as to the quality of the preference data. We analyze the impact of beta and data quality on DPO uncovering that optimal beta values vary with the informativeness of pairwise data. Addressing the limitations of static beta values we introduce a novel framework that dynamically calibrates beta at the batch level informed by data quality considerations. Additionally our method incorporates beta-guided data filtering to safeguard against the influence of outliers. Through empirical evaluation we demonstrate that our dynamic beta adjustment technique significantly improves DPOs performance across a range of models and datasets offering a more robust and adaptable training paradigm for aligning LLMs with human feedback. The code is available at url https://github.com/junkangwu/beta-DPO.

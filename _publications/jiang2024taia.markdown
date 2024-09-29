@@ -1,0 +1,12 @@
+---
+layout: publication
+title: TAIA Large Language Models are Out-of-Distribution Data Learners
+authors: Jiang Shuyang, Liao Yusheng, Zhang Ya, Wang Yu, Wang Yanfeng
+conference: "Arxiv"
+year: 2024
+bibkey: jiang2024taia
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2405.20192"}
+tags: ['Attention Mechanism', 'Fine Tuning', 'Model Architecture', 'Pretraining Methods', 'Reinforcement Learning', 'Training Techniques', 'Transformer']
+---
+Fine-tuning on task-specific question-answer pairs is a predominant method for enhancing the performance of instruction-tuned large language models (LLMs) on downstream tasks. However in certain specialized domains such as healthcare or harmless content generation it is nearly impossible to obtain a large volume of high-quality data that matches the downstream distribution. To improve the performance of LLMs in data-scarce domains with domain-mismatched data we re-evaluated the Transformer architecture and discovered that not all parameter updates during fine-tuning contribute positively to downstream performance. Our analysis reveals that within the self-attention and feed-forward networks only the fine-tuned attention parameters are particularly beneficial when the training sets distribution does not fully align with the test set. Based on this insight we propose an effective inference-time intervention method Training All parameters but Inferring with only Attention (trainallInfAttn). We empirically validate trainallInfAttn using two general instruction-tuning datasets and evaluate it on seven downstream tasks involving math reasoning and knowledge understanding across LLMs of different parameter sizes and fine-tuning techniques. Our comprehensive experiments demonstrate that trainallInfAttn achieves superior improvements compared to both the fully fine-tuned model and the base model in most scenarios with significant performance gains. The high tolerance of trainallInfAttn to data mismatches makes it resistant to jailbreaking tuning and enhances specialized tasks using general data.

@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Leveraging Passage Embeddings for Efficient Listwise Reranking with Large Language Models
+authors: Liu Qi, Wang Bo, Wang Nan, Mao Jiaxin
+conference: "Arxiv"
+year: 2024
+bibkey: liu2024leveraging
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.14848"}
+  - {name: "Code", url: "https://github.com/liuqi6777/pe_rank"}
+tags: ['Efficiency And Optimization', 'GPT', 'Has Code', 'Model Architecture', 'Pretraining Methods', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+---
+Recent studies have demonstrated the effectiveness of using large language language models (LLMs) in passage ranking. The listwise approaches such as RankGPT have become new state-of-the-art in this task. However the efficiency of RankGPT models is limited by the maximum context length and relatively high latency of LLM inference. To address these issues in this paper we propose PE-Rank leveraging the single passage embedding as a good context compression for efficient listwise passage reranking. By treating each passage as a special token we can directly input passage embeddings into LLMs thereby reducing input length. Additionally we introduce an inference method that dynamically constrains the decoding space to these special tokens accelerating the decoding process. For adapting the model to reranking we employ listwise learning to rank loss for training. Evaluation results on multiple benchmarks demonstrate that PE-Rank significantly improves efficiency in both prefilling and decoding while maintaining competitive ranking effectiveness. The Code is available at url https://github.com/liuqi6777/pe_rank.

@@ -1,0 +1,12 @@
+---
+layout: publication
+title: MBR and QE Finetuning Training-time Distillation of the Best and Most Expensive Decoding Methods
+authors: Finkelstein Mara, Naskar Subhajit, Mirzazadeh Mehdi, Shah Apurva, Freitag Markus
+conference: "Arxiv"
+year: 2023
+bibkey: finkelstein2023mbr
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2309.10966"}
+tags: ['Applications', 'Distillation', 'Efficiency And Optimization', 'RAG', 'Training Techniques']
+---
+Recent research in decoding methods for Natural Language Generation (NLG) tasks has shown that MAP decoding is not optimal because model probabilities do not always align with human preferences. Stronger decoding methods including Quality Estimation (QE) reranking and Minimum Bayes Risk (MBR) decoding have since been proposed to mitigate the model-perplexity-vs-quality mismatch. While these decoding methods achieve state-of-the-art performance they are prohibitively expensive to compute. In this work we propose MBR finetuning and QE finetuning which distill the quality gains from these decoding methods at training time while using an efficient decoding algorithm at inference time. Using the canonical NLG task of Neural Machine Translation (NMT) we show that even with self-training these finetuning methods significantly outperform the base model. Moreover when using an external LLM as a teacher model these finetuning methods outperform finetuning on human-generated references. These findings suggest new ways to leverage monolingual data to achieve improvements in model quality that are on par with or even exceed improvements from human-curated data while maintaining maximum efficiency during decoding.

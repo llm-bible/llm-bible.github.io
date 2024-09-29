@@ -1,0 +1,12 @@
+---
+layout: publication
+title: CESAR Automatic Induction of Compositional Instructions for Multi-turn Dialogs
+authors: Aksu Taha, Hazarika Devamanyu, Mehri Shikib, Kim Seokhwan, Hakkani-tür Dilek, Liu Yang, Namazifar Mahdi
+conference: "Arxiv"
+year: 2023
+bibkey: aksu2023cesar
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2311.17376"}
+tags: ['Applications', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'Tools']
+---
+Instruction-based multitasking has played a critical role in the success of large language models (LLMs) in multi-turn dialog applications. While publicly available LLMs have shown promising performance when exposed to complex instructions with multiple constraints they lag against state-of-the-art models like ChatGPT. In this work we hypothesize that the availability of large-scale complex demonstrations is crucial in bridging this gap. Focusing on dialog applications we propose a novel framework CESAR that unifies a large number of dialog tasks in the same format and allows programmatic induction of complex instructions without any manual effort. We apply CESAR on InstructDial a benchmark for instruction-based dialog tasks. We further enhance InstructDial with new datasets and tasks and utilize CESAR to induce complex tasks with compositional instructions. This results in a new benchmark called InstructDial++ which includes 63 datasets with 86 basic tasks and 68 composite tasks. Through rigorous experiments we demonstrate the scalability of CESAR in providing rich instructions. Models trained on InstructDial++ can follow compositional prompts such as prompts that ask for multiple stylistic constraints.

@@ -1,0 +1,12 @@
+---
+layout: publication
+title: GenTranslate Large Language Models are Generative Multilingual Speech and Machine Translators
+authors: Hu Yuchen, Chen Chen, Yang Chao-han Huck, Li Ruizhe, Zhang Dong, Chen Zhehuai, Chng Eng Siong
+conference: "Arxiv"
+year: 2024
+bibkey: hu2024gentranslate
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2402.06894"}
+tags: ['Applications', 'RAG', 'Reinforcement Learning']
+---
+Recent advances in large language models (LLMs) have stepped forward the development of multilingual speech and machine translation by its reduced representation errors and incorporated external knowledge. However both translation tasks typically utilize beam search decoding and top-1 hypothesis selection for inference. These techniques struggle to fully exploit the rich information in the diverse N-best hypotheses making them less optimal for translation tasks that require a single high-quality output sequence. In this paper we propose a new generative paradigm for translation tasks namely GenTranslate which builds upon LLMs to generate better results from the diverse translation versions in N-best list. Leveraging the rich linguistic knowledge and strong reasoning abilities of LLMs our new paradigm can integrate the rich information in N-best candidates to generate a higher-quality translation result. Furthermore to support LLM finetuning we build and release a HypoTranslate dataset that contains over 592K hypotheses-translation pairs in 11 languages. Experiments on various speech and machine translation benchmarks (e.g. FLEURS CoVoST-2 WMT) demonstrate that our GenTranslate significantly outperforms the state-of-the-art model.

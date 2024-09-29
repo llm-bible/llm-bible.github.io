@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Unnatural Error Correction GPT-4 Can Almost Perfectly Handle Unnatural Scrambled Text
+authors: Cao Qi, Kojima Takeshi, Matsuo Yutaka, Iwasawa Yusuke
+conference: "Arxiv"
+year: 2023
+bibkey: cao2023unnatural
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2311.18805"}
+tags: ['Ethics And Bias', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'TOKENIZATION']
+---
+While Large Language Models (LLMs) have achieved remarkable performance in many tasks much about their inner workings remains unclear. In this study we present novel experimental insights into the resilience of LLMs particularly GPT-4 when subjected to extensive character-level permutations. To investigate this we first propose the Scrambled Bench a suite designed to measure the capacity of LLMs to handle scrambled input in terms of both recovering scrambled sentences and answering questions given scrambled context. The experimental results indicate that most powerful LLMs demonstrate the capability akin to typoglycemia a phenomenon where humans can understand the meaning of words even when the letters within those words are scrambled as long as the first and last letters remain in place. More surprisingly we found that only GPT-4 nearly flawlessly processes inputs with unnatural errors even under the extreme condition a task that poses significant challenges for other LLMs and often even for humans. Specifically GPT-4 can almost perfectly reconstruct the original sentences from scrambled ones decreasing the edit distance by 95 even when all letters within each word are entirely scrambled. It is counter-intuitive that LLMs can exhibit such resilience despite severe disruption to input tokenization caused by scrambled text.

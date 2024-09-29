@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Evaluating Mathematical Reasoning of Large Language Models A Focus on Error Identification and Correction
+authors: Li Xiaoyuan, Wang Wenjie, Li Moxin, Guo Junrong, Zhang Yang, Feng Fuli
+conference: "Arxiv"
+year: 2024
+bibkey: li2024evaluating
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.00755"}
+  - {name: "Code", url: "https://github.com/LittleCirc1e/EIC"}
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools']
+---
+The rapid advancement of Large Language Models (LLMs) in the realm of mathematical reasoning necessitates comprehensive evaluations to gauge progress and inspire future directions. Existing assessments predominantly focus on problem-solving from the examinee perspective overlooking a dual perspective of examiner regarding error identification and correction. From the examiner perspective we define four evaluation tasks for error identification and correction along with a new dataset with annotated error types and steps. We also design diverse prompts to thoroughly evaluate eleven representative LLMs. Our principal findings indicate that GPT-4 outperforms all models while open-source model LLaMA-2-7B demonstrates comparable abilities to closed-source models GPT-3.5 and Gemini Pro. Notably calculation error proves the most challenging error type. Moreover prompting LLMs with the error types can improve the average correction accuracy by 47.9. These results reveal potential directions for developing the mathematical reasoning abilities of LLMs. Our code and dataset is available on https://github.com/LittleCirc1e/EIC.

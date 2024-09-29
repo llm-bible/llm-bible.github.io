@@ -1,0 +1,13 @@
+---
+layout: publication
+title: CRaSh Clustering Removing and Sharing Enhance Fine-tuning without Full Large Language Model
+authors: Zhang Kaiyan, Ding Ning, Qi Biqing, Zhu Xuekai, Long Xinwei, Zhou Bowen
+conference: "Arxiv"
+year: 2023
+bibkey: zhang2023crash
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.15477"}
+  - {name: "Code", url: "https://github.com/TsinghuaC3I/CRaSh"}
+tags: ['Fine Tuning', 'Has Code', 'Model Architecture', 'Pretraining Methods', 'Reinforcement Learning', 'Training Techniques', 'Transformer']
+---
+Instruction tuning has recently been recognized as an effective way of aligning Large Language Models (LLMs) to enhance their generalization ability across various tasks. However when tuning publicly accessible centralized LLMs with private instruction data privacy concerns are inevitable. While direct transfer of parameterized modules between models is a plausible approach to address this its implications and effectiveness need further exploration. This paper focuses on Offsite-Tuning (OFT) a representative technique that transfers transformer blocks between centralized LLMs and downstream emulators. Given the limited understanding of the underlying mechanism of OFT we perform an empirical analysis on LLMs from the perspectives of representation and functional similarity. Interestingly our findings reveal a unique modular structure within the layers of LLMs that appears to emerge as the model size expands. Simultaneously we note subtle but potentially significant changes in representation and intermediate predictions across the layers. Inspired by these observations we propose CRaSh involving Clustering Removing and Sharing a training-free strategy to derive improved emulators from LLMs. CRaSh significantly boosts performance of OFT with billions of parameters. Furthermore we investigate the optimal solutions yielded by fine-tuning with and without full model through the lens of loss landscape. Our findings demonstrate a linear connectivity among these optima falling over the same basin thereby highlighting the effectiveness of CRaSh and OFT. The source code is publicly available at https://github.com/TsinghuaC3I/CRaSh.

@@ -1,0 +1,13 @@
+---
+layout: publication
+title: TurkishMMLU Measuring Massive Multitask Language Understanding in Turkish
+authors: Yüksel Arda, Köksal Abdullatif, Şenel Lütfi Kerem, Korhonen Anna, Schütze Hinrich
+conference: "Arxiv"
+year: 2024
+bibkey: yüksel2024turkishmmlu
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2407.12402"}
+  - {name: "Code", url: "https://github.com/ArdaYueksel/TurkishMMLU"}
+tags: ['Applications', 'Ethics And Bias', 'Few Shot', 'GPT', 'Has Code', 'Model Architecture']
+---
+Multiple choice question answering tasks evaluate the reasoning comprehension and mathematical abilities of Large Language Models (LLMs). While existing benchmarks employ automatic translation for multilingual evaluation this approach is error-prone and potentially introduces culturally biased questions especially in social sciences. We introduce the first multitask multiple-choice Turkish QA benchmark TurkishMMLU to evaluate LLMs understanding of the Turkish language. TurkishMMLU includes over 10000 questions covering 9 different subjects from Turkish high-school education curricula. These questions are written by curriculum experts suitable for the high-school curricula in Turkey covering subjects ranging from natural sciences and math questions to more culturally representative topics such as Turkish Literature and the history of the Turkish Republic. We evaluate over 20 LLMs including multilingual open-source (e.g. Gemma Llama MT5) closed-source (GPT 4o Claude Gemini) and Turkish-adapted (e.g. Trendyol) models. We provide an extensive evaluation including zero-shot and few-shot evaluation of LLMs chain-of-thought reasoning and question difficulty analysis along with model performance. We provide an in-depth analysis of the Turkish capabilities and limitations of current LLMs to provide insights for future LLMs for the Turkish language. We publicly release our code for the dataset and evaluation https://github.com/ArdaYueksel/TurkishMMLU.

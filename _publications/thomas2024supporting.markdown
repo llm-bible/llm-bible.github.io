@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Supporting Human Raters with the Detection of Harmful Content using Large Language Models
+authors: Thomas Kurt, Kelley Patrick Gage, Tao David, Meiklejohn Sarah, Vallis Owen, Tan Shunwen, Bratanič Blaž, Ferreira Felipe Tiengo, Eranti Vijay Kumar, Bursztein Elie
+conference: "Arxiv"
+year: 2024
+bibkey: thomas2024supporting
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.12800"}
+tags: ['Pretraining Methods', 'Prompting', 'RAG', 'Reinforcement Learning', 'Survey Paper']
+---
+In this paper we explore the feasibility of leveraging large language models (LLMs) to automate or otherwise assist human raters with identifying harmful content including hate speech harassment violent extremism and election misinformation. Using a dataset of 50000 comments we demonstrate that LLMs can achieve 90 accuracy when compared to human verdicts. We explore how to best leverage these capabilities proposing five design patterns that integrate LLMs with human rating such as pre-filtering non-violative content detecting potential errors in human rating or surfacing critical context to support human rating. We outline how to support all of these design patterns using a single optimized prompt. Beyond these synthetic experiments we share how piloting our proposed techniques in a real-world review queue yielded a 41.5 improvement in optimizing available human rater capacity and a 9--11 increase (absolute) in precision and recall for detecting violative content.

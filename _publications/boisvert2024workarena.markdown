@@ -1,0 +1,13 @@
+---
+layout: publication
+title: WorkArena++ Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks
+authors: Boisvert Léo, Thakkar Megh, Gasse Maxime, Caccia Massimo, De Chezelles Thibault Le Sellier, Cappart Quentin, Chapados Nicolas, Lacoste Alexandre, Drouin Alexandre
+conference: "Arxiv"
+year: 2024
+bibkey: boisvert2024workarena
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2407.05291"}
+  - {name: "Code", url: "https://github.com/ServiceNow/WorkArena/tree/workarena-plus-plus"}
+tags: ['Agent', 'Agentic', 'Fine Tuning', 'Has Code', 'Multimodal Models', 'Pretraining Methods', 'Tools', 'Training Techniques']
+---
+The ability of large language models (LLMs) to mimic human-like intelligence has led to a surge in LLM-based autonomous agents. Though recent LLMs seem capable of planning and reasoning given user instructions their effectiveness in applying these capabilities for autonomous task solving remains underexplored. This is especially true in enterprise settings where automated agents hold the promise of a high impact. To fill this gap we propose WorkArena++ a novel benchmark consisting of 682 tasks corresponding to realistic workflows routinely performed by knowledge workers. WorkArena++ is designed to evaluate the planning problem-solving logical/arithmetic reasoning retrieval and contextual understanding abilities of web agents. Our empirical studies across state-of-the-art LLMs and vision-language models (VLMs) as well as human workers reveal several challenges for such models to serve as useful assistants in the workplace. In addition to the benchmark we provide a mechanism to effortlessly generate thousands of ground-truth observation/action traces which can be used for fine-tuning existing models. Overall we expect this work to serve as a useful resource to help the community progress toward capable autonomous agents. The benchmark can be found at https://github.com/ServiceNow/WorkArena/tree/workarena-plus-plus.

@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Train-Attention Meta-Learning Where to Focus in Continual Knowledge Learning
+authors: Seo Yeongbin, Lee Dongha, Yeo Jinyoung
+conference: "Arxiv"
+year: 2024
+bibkey: seo2024train
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2407.16920"}
+tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Training Techniques']
+---
+Previous studies on continual knowledge learning (CKL) in large language models (LLMs) have predominantly focused on approaches such as regularization architectural modifications and rehearsal techniques to mitigate catastrophic forgetting. However these methods naively inherit the inefficiencies of standard training procedures indiscriminately applying uniform weight across all tokens which can lead to unnecessary parameter updates and increased forgetting. To address these shortcomings we propose a novel CKL approach termed Train-Attention-Augmented Language Model (TAALM) which enhances learning efficiency by dynamically predicting and applying weights to tokens based on their usefulness. This method employs a meta-learning framework that optimizes token importance predictions facilitating targeted knowledge updates and minimizing forgetting. Also we observe that existing benchmarks do not clearly exhibit the trade-off between learning and retaining therefore we propose a new benchmark textscLAMA-ckl to address this issue. Through experiments conducted on both newly introduced and established CKL benchmarks TAALM proves the state-of-the-art performance upon the baselines and also shows synergistic compatibility when integrated with previous CKL approaches.

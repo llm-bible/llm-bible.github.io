@@ -1,0 +1,13 @@
+---
+layout: publication
+title: InternLM-XComposer2-4KHD A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD
+authors: Dong Xiaoyi, Zhang Pan, Zang Yuhang, Cao Yuhang, Wang Bin, Ouyang Linke, Zhang Songyang, Duan Haodong, Zhang Wenwei, Li Yining, Yan Hang, Gao Yang, Chen Zhe, Zhang Xinyue, Li Wei, Li Jingwen, Wang Wenhai, Chen Kai, He Conghui, Zhang Xingcheng, Dai Jifeng, Qiao Yu, Lin Dahua, Wang Jiaqi
+conference: "Arxiv"
+year: 2024
+bibkey: dong2024internlm
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2404.06512"}
+  - {name: "Code", url: "https://github.com/InternLM/InternLM-XComposer"}
+tags: ['Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods', 'Reinforcement Learning', 'Training Techniques', 'Transformer']
+---
+The Large Vision-Language Model (LVLM) field has seen significant advancements yet its progression has been hindered by challenges in comprehending fine-grained visual content due to limited resolution. Recent efforts have aimed to enhance the high-resolution understanding capabilities of LVLMs yet they remain capped at approximately 1500 x 1500 pixels and constrained to a relatively narrow resolution range. This paper represents InternLM-XComposer2-4KHD a groundbreaking exploration into elevating LVLM resolution capabilities up to 4K HD (3840 x 1600) and beyond. Concurrently considering the ultra-high resolution may not be necessary in all scenarios it supports a wide range of diverse resolutions from 336 pixels to 4K standard significantly broadening its scope of applicability. Specifically this research advances the patch division paradigm by introducing a novel extension dynamic resolution with automatic patch configuration. It maintains the training image aspect ratios while automatically varying patch counts and configuring layouts based on a pre-trained Vision Transformer (ViT) (336 x 336) leading to dynamic training resolution from 336 pixels to 4K standard. Our research demonstrates that scaling training resolution up to 4K HD leads to consistent performance enhancements without hitting the ceiling of potential improvements. InternLM-XComposer2-4KHD shows superb capability that matches or even surpasses GPT-4V and Gemini Pro in 10 of the 16 benchmarks. The InternLM-XComposer2-4KHD model series with 7B parameters are publicly available at https://github.com/InternLM/InternLM-XComposer.

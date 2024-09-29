@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Hyacinth6B A large language model for Traditional Chinese
+authors: Song Chih-wei, Tsai Yin-te
+conference: "Arxiv"
+year: 2024
+bibkey: song2024hyacinth6b
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2403.13334"}
+tags: ['Fine Tuning', 'Pretraining Methods', 'RAG', 'Training Techniques']
+---
+This researchs primary motivation of this study is to address the high hardware and computational demands typically associated with LLMs.Thereforeour goal is to find a balance between model lightness and performancestriving to maximize performance while using a comparatively lightweight model. Hyacinth6B was developed with this objective in mindaiming to fully leverage the core capabilities of LLMs without incurring substantial resource costs effectively pushing the boundaries of smaller models performance. The training approach involves parameter efficient finetuning using the LoRA method.

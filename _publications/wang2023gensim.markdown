@@ -1,0 +1,13 @@
+---
+layout: publication
+title: GenSim Generating Robotic Simulation Tasks via Large Language Models
+authors: Wang Lirui, Ling Yiyang, Yuan Zhecheng, Shridhar Mohit, Bao Chen, Qin Yuzhe, Wang Bailin, Xu Huazhe, Wang Xiaolong
+conference: "International Conference on Learning Representations"
+year: 2023
+bibkey: wang2023gensim
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.01361"}
+  - {name: "Code", url: "https://liruiw.github.io/gensim)"}
+tags: ['Applications', 'Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+---
+Collecting large amounts of real-world interaction data to train general robotic policies is often prohibitively expensive thus motivating the use of simulation data. However existing methods for data generation have generally focused on scene-level diversity (e.g. object instances and poses) rather than task-level diversity due to the human effort required to come up with and verify novel tasks. This has made it challenging for policies trained on simulation data to demonstrate significant task-level generalization. In this paper we propose to automatically generate rich simulation environments and expert demonstrations by exploiting a large language models (LLM) grounding and coding ability. Our approach dubbed GenSim has two modes goal-directed generation wherein a target task is given to the LLM and the LLM proposes a task curriculum to solve the target task and exploratory generation wherein the LLM bootstraps from previous tasks and iteratively proposes novel tasks that would be helpful in solving more complex tasks. We use GPT4 to expand the existing benchmark by ten times to over 100 tasks on which we conduct supervised finetuning and evaluate several LLMs including finetuned GPTs and Code Llama on code generation for robotic simulation tasks. Furthermore we observe that LLMs-generated simulation programs can enhance task-level generalization significantly when used for multitask policy training. We further find that with minimal sim-to-real adaptation the multitask policies pretrained on GPT4-generated simulation tasks exhibit stronger transfer to unseen long-horizon tasks in the real world and outperform baselines by 25. See the project website ( https://liruiw.github.io/gensim) for code demos and videos.

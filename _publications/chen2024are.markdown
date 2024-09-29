@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Are We on the Right Way for Evaluating Large Vision-Language Models
+authors: Chen Lin, Li Jinsong, Dong Xiaoyi, Zhang Pan, Zang Yuhang, Chen Zehui, Duan Haodong, Wang Jiaqi, Qiao Yu, Lin Dahua, Zhao Feng
+conference: "Arxiv"
+year: 2024
+bibkey: chen2024are
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2403.20330"}
+tags: ['Large Scale Training', 'Multimodal Models', 'RAG', 'Reinforcement Learning', 'Survey Paper', 'Tools', 'Training Techniques']
+---
+Large vision-language models (LVLMs) have recently achieved rapid progress sparking numerous studies to evaluate their multi-modal capabilities. However we dig into current evaluation works and identify two primary issues 1) Visual content is unnecessary for many samples. The answers can be directly inferred from the questions and options or the world knowledge embedded in LLMs. This phenomenon is prevalent across current benchmarks. For instance GeminiPro achieves 42.9 on the MMMU benchmark without any visual input and outperforms the random choice baseline across six benchmarks over 24 on average. 2) Unintentional data leakage exists in LLM and LVLM training. LLM and LVLM could still answer some visual-necessary questions without visual content indicating the memorizing of these samples within large-scale training data. For example Sphinx-X-MoE gets 43.6 on MMMU without accessing images surpassing its LLM backbone with 17.9. Both problems lead to misjudgments of actual multi-modal gains and potentially misguide the study of LVLM. To this end we present MMStar an elite vision-indispensable multi-modal benchmark comprising 1500 samples meticulously selected by humans. MMStar benchmarks 6 core capabilities and 18 detailed axes aiming to evaluate LVLMs multi-modal capacities with carefully balanced and purified samples. These samples are first roughly selected from current benchmarks with an automated pipeline human review is then involved to ensure each curated sample exhibits visual dependency minimal data leakage and requires advanced multi-modal capabilities. Moreover two metrics are developed to measure data leakage and actual performance gain in multi-modal training. We evaluate 16 leading LVLMs on MMStar to assess their multi-modal capabilities and on 7 benchmarks with the proposed metrics to investigate their data leakage and actual multi-modal gain.

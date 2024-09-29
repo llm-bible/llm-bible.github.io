@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Mastering Symbolic Operations Augmenting Language Models with Compiled Neural Networks
+authors: Weng Yixuan, Zhu Minjun, Xia Fei, Li Bin, He Shizhu, Liu Kang, Zhao Jun
+conference: "Arxiv"
+year: 2023
+bibkey: weng2023mastering
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2304.01665"}
+tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Interpretability And Explainability', 'Model Architecture', 'Pretraining Methods', 'Tools', 'Transformer']
+---
+Language models (LMs) proficiency in handling deterministic symbolic reasoning and rule-based tasks remains limited due to their dependency implicit learning on textual data. To endow LMs with genuine rule comprehension abilities we propose Neural Comprehension - a framework that synergistically integrates compiled neural networks (CoNNs) into the standard transformer architecture. CoNNs are neural modules designed to explicitly encode rules through artificially generated attention weights. By incorporating CoNN modules the Neural Comprehension framework enables LMs to accurately and robustly execute rule-intensive symbolic tasks. Extensive experiments demonstrate the superiority of our approach over existing techniques in terms of length generalization efficiency and interpretability for symbolic operations. Furthermore it can be applied to LMs across different model scales outperforming tool-calling methods in arithmetic reasoning tasks while maintaining superior inference efficiency. Our work highlights the potential of seamlessly unifying explicit rule learning via CoNNs and implicit pattern learning in LMs paving the way for true symbolic comprehension capabilities.

@@ -1,0 +1,12 @@
+---
+layout: publication
+title: In-Context Sharpness as Alerts An Inner Representation Perspective for Hallucination Mitigation
+authors: Chen Shiqi, Xiong Miao, Liu Junteng, Wu Zhengxuan, Xiao Teng, Gao Siyang, He Junxian
+conference: "Arxiv"
+year: 2024
+bibkey: chen2024sharpness
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2403.01548"}
+tags: ['Applications', 'RAG', 'Reinforcement Learning']
+---
+Large language models (LLMs) frequently hallucinate and produce factual errors yet our understanding of why they make these errors remains limited. In this study we delve into the underlying mechanisms of LLM hallucinations from the perspective of inner representations and discover a salient pattern associated with hallucinations correct generations tend to have sharper context activations in the hidden states of the in-context tokens compared to the incorrect ones. Leveraging this insight we propose an entropy-based metric to quantify the sharpness among the in-context hidden states and incorporate it into the decoding process to formulate a constrained decoding approach. Experiments on various knowledge-seeking and hallucination benchmarks demonstrate our approachs consistent effectiveness for example achieving up to an 8.6 point improvement on TruthfulQA. We believe this study can improve our understanding of hallucinations and serve as a practical solution for hallucination mitigation.

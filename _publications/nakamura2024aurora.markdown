@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Aurora-M The First Open Source Multilingual Language Model Red-teamed according to the U.S. Executive Order
+authors: Nakamura Taishi, Mishra Mayank, Tedeschi Simone, Chai Yekun, Stillerman Jason T, Friedrich Felix, Yadav Prateek, Laud Tanmay, Chien Vu Minh, Zhuo Terry Yue, Misra Diganta, Bogin Ben, Vu Xuan-son, Karpinska Marzena, Dantuluri Arnav Varma, Kusa Wojciech, Furlanello Tommaso, Yokota Rio, Muennighoff Niklas, Pai Suhas, Adewumi Tosin, Laippala Veronika, Yao Xiaozhe, Junior Adalberto, Ariyak Alpay, Drozd Aleksandr, Clive Jordan, Gupta Kshitij, Chen Liangyu, Sun Qi, Tsui Ken, Persaud Noah, Fahmy Nour, Chen Tianlong, Bansal Mohit, Monti Nicolo, Dang Tai, Luo Ziyang, Bui Tien-tung, Navigli Roberto, Mehta Virendra, Blumberg Matthew, May Victor, Nguyen Huu, Pyysalo Sampo
+conference: "Arxiv"
+year: 2024
+bibkey: nakamura2024aurora
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2404.00399"}
+  - {name: "Code", url: "https://huggingface.co/collections/aurora-m/aurora-m-models-65fdfdff62471e09812f5407"}
+tags: ['Applications', 'Has Code', 'Pretraining Methods', 'Reinforcement Learning', 'Responsible AI', 'Security', 'Training Techniques']
+---
+Pretrained language models underpin several AI applications but their high computational cost for training limits accessibility. Initiatives such as BLOOM and StarCoder aim to democratize access to pretrained models for collaborative community development. However such existing models face challenges limited multilingual capabilities continual pretraining causing catastrophic forgetting whereas pretraining from scratch is computationally expensive and compliance with AI safety and development laws. This paper presents Aurora-M a 15B parameter multilingual open-source model trained on English Finnish Hindi Japanese Vietnamese and code. Continually pretrained from StarCoderPlus on 435 billion additional tokens Aurora-M surpasses 2 trillion tokens in total training token count. It is the first open-source multilingual model fine-tuned on human-reviewed safety instructions thus aligning its development not only with conventional red-teaming considerations but also with the specific concerns articulated in the Biden-Harris Executive Order on the Safe Secure and Trustworthy Development and Use of Artificial Intelligence. Aurora-M is rigorously evaluated across various tasks and languages demonstrating robustness against catastrophic forgetting and outperforming alternatives in multilingual settings particularly in safety evaluations. To promote responsible open-source LLM development Aurora-M and its variants are released at https://huggingface.co/collections/aurora-m/aurora-m-models-65fdfdff62471e09812f5407 .
