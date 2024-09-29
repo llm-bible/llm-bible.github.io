@@ -28,7 +28,7 @@ you explore, [search and navigate]({% link papers.html %}) the literature in thi
 
 This research area is evolving so fast that a static review cannot keep up.
 But a website can! We hope to make this site a living document.
-Anyone can add a paper to this web site, by completing a simple [web form](contributing.html).
-website. A comprehensive list can be found [here](https://github.com/ml4code/ml4code.github.io/graphs/contributors).
+Anyone can add a paper to this web site, by completing a [web form](contributing.html).
+website. 
 
 Copyright © Sean Moran 2024. All opinions are my own.
