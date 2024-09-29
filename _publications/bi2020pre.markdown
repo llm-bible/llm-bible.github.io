@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PALM Pre-training An Autoencodingamp;autoregressive Language Model For Context-conditioned Generation
+title: PALM Pre-training An Autoencodingautoregressive Language Model For Context-conditioned Generation
 authors: Bi Bin, Li Chenliang, Wu Chen, Yan Ming, Wang Wei, Huang Songfang, Huang Fei, Si Luo
 conference: "Arxiv"
 year: 2020

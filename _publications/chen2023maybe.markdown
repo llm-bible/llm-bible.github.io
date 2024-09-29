@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Maybe Only 0.537; Data Is Needed A Preliminary Exploration Of Low Training Data Instruction Tuning
+title: Maybe Only 0.5 Data Is Needed A Preliminary Exploration Of Low Training Data Instruction Tuning
 authors: Chen Hao, Zhang Yiming, Zhang Qi, Yang Hantao, Hu Xiaomeng, Ma Xuetao, Yanggong Yifan, Zhao Junbo
 conference: "Arxiv"
 year: 2023

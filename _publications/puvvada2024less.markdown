@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Less Is More Accurate Speech Recognition amp; Translation Without Web-scale Data
+title: Less Is More Accurate Speech Recognition Translation Without Web-scale Data
 authors: Puvvada Krishna C., Żelasko Piotr, Huang He, Hrinchuk Oleksii, Koluguri Nithin Rao, Dhawan Kunal, Majumdar Somshubra, Rastorgueva Elena, Chen Zhehuai, Lavrukhin Vitaly, Balam Jagadeesh, Ginsburg Boris
 conference: "Arxiv"
 year: 2024

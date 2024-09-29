@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatgpt amp; Mechanical Engineering Examining Performance On The FE Mechanical Engineering And Undergraduate Exams
+title: Chatgpt Mechanical Engineering Examining Performance On The FE Mechanical Engineering And Undergraduate Exams
 authors: Frenkel Matthew, Emara Hebah
 conference: "Arxiv"
 year: 2023

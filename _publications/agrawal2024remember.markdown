@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cant Remember Details In Long Documents You Need Some Ramp;r
+title: Cant Remember Details In Long Documents You Need Some RR
 authors: Agrawal Devanshu, Gao Shang, Gajek Martin
 conference: "Arxiv"
 year: 2024

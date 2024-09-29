@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ruffleamp;riley Towards The Automated Induction Of Conversational Tutoring Systems
+title: Ruffleriley Towards The Automated Induction Of Conversational Tutoring Systems
 authors: Schmucker Robin, Xia Meng, Azaria Amos, Mitchell Tom
 conference: "Arxiv"
 year: 2023

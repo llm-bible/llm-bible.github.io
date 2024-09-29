@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: vorbe(c)sti Rom^ane(c)ste A Recipe To Train Powerful Romanian Llms With English Instructions
+title: vorbe()ti Rom^ane()te A Recipe To Train Powerful Romanian Llms With English Instructions
 authors: Masala Mihai, Ilie-ablachim Denis C., Dima Alexandru, Corlatescu Dragos, Zavelca Miruna, Olaru Ovio, Terian Simina, Terian Andrei, Leordeanu Marius, Velicu Horia, Popescu Marius, Dascalu Mihai, Rebedea Traian
 conference: "Arxiv"
 year: 2024

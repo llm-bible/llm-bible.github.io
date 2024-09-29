@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Will It Blend Mixing Training Paradigms amp; Prompting For Argument Quality Prediction
+title: Will It Blend Mixing Training Paradigms Prompting For Argument Quality Prediction
 authors: Van Der Meer Michiel, Reuver Myrthe, Khurana Urja, Krause Lea, Santamaría Selene Báez
 conference: "Arxiv"
 year: 2022

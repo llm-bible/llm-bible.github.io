@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Softmax Probabilities (mostly) Predict Large Language Model Correctness On Multiple-choice Qamp;a
+title: Softmax Probabilities (mostly) Predict Large Language Model Correctness On Multiple-choice QA
 authors: Plaut Benjamin, Nguyen Khanh, Trinh Tu
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: (mathbb)vd-(mathbb)gr Boosting (mathbb)visual (mathbb)dialog With Cascaded Spatial-temporal Multi-modal (mathbb)graphs
+title: ()-() Boosting ()isual ()ialog With Cascaded Spatial-temporal Multi-modal ()aphs
 authors: Abdessaied Adnen, Shi Lei, Bulling Andreas
 conference: "Arxiv"
 year: 2023

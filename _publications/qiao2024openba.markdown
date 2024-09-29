@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Openba-v2 Reaching 77.337; High Compression Ratio With Fast Multi-stage Pruning
+title: Openba-v2 Reaching 77.3 High Compression Ratio With Fast Multi-stage Pruning
 authors: Qiao Dan, Su Yi, Wang Pinzheng, Ye Jing, Xie Wenjing, Zhou Yuechi, Ding Yuyang, Tang Zecheng, Wang Jikai, Ji Yixin, Wang Yue, Guo Pei, Sun Zechen, Zhang Zikang, Li Juntao, Chao Pingfu, Chen Wenliang, Fu Guohong, Zhou Guodong, Zhu Qiaoming, Zhang Min
 conference: "Arxiv"
 year: 2024

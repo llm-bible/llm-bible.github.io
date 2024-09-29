@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aalap AI Assistant For Legal amp; Paralegal Functions In India
+title: Aalap AI Assistant For Legal Paralegal Functions In India
 authors: Tiwari Aman, Kalamkar Prathamesh, Banerjee Atreyo, Karn Saurabh, Hemachandran Varun, Gupta Smita
 conference: "Arxiv"
 year: 2024

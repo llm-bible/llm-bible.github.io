@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Vision amp; Language Decoders Use Images And Text Equally How Self-consistent Are Their Explanations
+title: Do Vision Language Decoders Use Images And Text Equally How Self-consistent Are Their Explanations
 authors: Parcalabescu Letitia, Frank Anette
 conference: "Arxiv"
 year: 2024

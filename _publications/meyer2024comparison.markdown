@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Comparison Of LLM Finetuning Methods amp; Evaluation Metrics With Travel Chatbot Use Case
+title: A Comparison Of LLM Finetuning Methods Evaluation Metrics With Travel Chatbot Use Case
 authors: Meyer Sonia, Singh Shreya, Tam Bertha, Ton Christopher, Ren Angel
 conference: "Arxiv"
 year: 2024

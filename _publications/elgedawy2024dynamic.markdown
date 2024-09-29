@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dynamic Qamp;a Of Clinical Documents With Large Language Models
+title: Dynamic QA Of Clinical Documents With Large Language Models
 authors: Elgedawy Ran, Danciu Ioana, Mahbub Maria, Srinivasan Sudarshan
 conference: "Arxiv"
 year: 2024
