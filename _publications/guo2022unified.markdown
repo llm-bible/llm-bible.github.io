@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unixcoder: Unified Cross-modal Pre-training For Code Representation"
+title: Unixcoder: Unified Cross-modal Pre-training For Code Representation
 authors: Guo Daya, Lu Shuai, Duan Nan, Wang Yanlin, Zhou Ming, Yin Jian
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Verifiable By Design: Aligning Language Models To Quote From Pre-training Data"
+title: Verifiable By Design: Aligning Language Models To Quote From Pre-training Data
 authors: Zhang Jingyu, Marone Marc, Li Tianjian, Van Durme Benjamin, Khashabi Daniel
 conference: "Arxiv"
 year: 2024

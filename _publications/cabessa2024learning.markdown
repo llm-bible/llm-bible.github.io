@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "In-context Learning And Fine-tuning GPT For Argument Mining"
+title: In-context Learning And Fine-tuning GPT For Argument Mining
 authors: Cabessa Jérémie, Hernault Hugo, Mushtaq Umer
 conference: "Arxiv"
 year: 2024

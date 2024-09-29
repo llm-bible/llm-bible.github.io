@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Automatically Generating Numerous Context-driven SFT Data For Llms Across Diverse Granularity"
+title: Automatically Generating Numerous Context-driven SFT Data For Llms Across Diverse Granularity
 authors: Quan Shanghaoran
 conference: "Arxiv"
 year: 2024

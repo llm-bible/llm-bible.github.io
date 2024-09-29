@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Sketch: A Toolkit For Streamlining LLM Operations"
+title: Sketch: A Toolkit For Streamlining LLM Operations
 authors: Jiang Xin, Li Xiang, Ma Wenjia, Fang Xuezhi, Yao Yiqun, Yu Naitong, Meng Xuying, Han Peng, Li Jing, Sun Aixin, Wang Yequan
 conference: "Arxiv"
 year: 2024

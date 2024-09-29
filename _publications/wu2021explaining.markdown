@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On Explaining Your Explanations Of BERT: An Empirical Study With Sequence Classification"
+title: On Explaining Your Explanations Of BERT: An Empirical Study With Sequence Classification
 authors: Wu Zhengxuan, Ong Desmond C.
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bt-adapter: Video Conversation Is Feasible Without Video Instruction Tuning"
+title: Bt-adapter: Video Conversation Is Feasible Without Video Instruction Tuning
 authors: Liu Ruyang, Li Chen, Ge Yixiao, Shan Ying, Li Thomas H., Li Ge
 conference: "Arxiv"
 year: 2023

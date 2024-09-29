@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Building Better AI Agents: A Provocation On The Utilisation Of Persona In Llm-based Conversational Agents"
+title: Building Better AI Agents: A Provocation On The Utilisation Of Persona In Llm-based Conversational Agents
 authors: Sun Guangzhi, Zhan Xiao, Such Jose
 conference: "Arxiv"
 year: 2024

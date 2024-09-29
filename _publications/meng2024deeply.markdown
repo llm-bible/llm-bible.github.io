@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Deepstack: Deeply Stacking Visual Tokens Is Surprisingly Simple And Effective For Lmms"
+title: Deepstack: Deeply Stacking Visual Tokens Is Surprisingly Simple And Effective For Lmms
 authors: Meng Lingchen, Yang Jianwei, Tian Rui, Dai Xiyang, Wu Zuxuan, Gao Jianfeng, Jiang Yu-gang
 conference: "Arxiv"
 year: 2024

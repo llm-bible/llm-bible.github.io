@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Relational Memory Augmented Language Models"
+title: Relational Memory Augmented Language Models
 authors: Liu Qi, Yogatama Dani, Blunsom Phil
 conference: "Arxiv"
 year: 2022

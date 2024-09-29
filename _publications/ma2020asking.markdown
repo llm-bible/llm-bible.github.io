@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Asking Complex Questions With Multi-hop Answer-focused Reasoning"
+title: Asking Complex Questions With Multi-hop Answer-focused Reasoning
 authors: Ma Xiyao, Zhu Qile, Zhou Yanlin, Li Xiaolin, Wu Dapeng
 conference: "Arxiv"
 year: 2020

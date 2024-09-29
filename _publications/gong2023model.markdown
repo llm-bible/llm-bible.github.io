@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Model-generated Pretraining Signals Improves Zero-shot Generalization Of Text-to-text Transformers"
+title: Model-generated Pretraining Signals Improves Zero-shot Generalization Of Text-to-text Transformers
 authors: Gong Linyuan, Xiong Chenyan, Liu Xiaodong, Bajaj Payal, Xie Yiqing, Cheung Alvin, Gao Jianfeng, Song Xia
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Perturbation-restrained Sequential Model Editing"
+title: Perturbation-restrained Sequential Model Editing
 authors: Ma Jun-yu, Wang Hong, Xu Hao-xiang, Ling Zhen-hua, Gu Jia-chen
 conference: "Arxiv"
 year: 2024

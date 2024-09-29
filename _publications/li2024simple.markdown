@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Simple But Effective Approach To Improve Structured Language Model Output For Information Extraction"
+title: A Simple But Effective Approach To Improve Structured Language Model Output For Information Extraction
 authors: Li Yinghao, Ramprasad Rampi, Zhang Chao
 conference: "Arxiv"
 year: 2024

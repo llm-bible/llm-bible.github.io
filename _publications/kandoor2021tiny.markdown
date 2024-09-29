@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tiny Neural Models For Seq2seq"
+title: Tiny Neural Models For Seq2seq
 authors: Kandoor Arun
 conference: "Arxiv"
 year: 2021

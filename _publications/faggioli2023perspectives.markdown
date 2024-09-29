@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Perspectives On Large Language Models For Relevance Judgment"
+title: Perspectives On Large Language Models For Relevance Judgment
 authors: Faggioli Guglielmo, Dietz Laura, Clarke Charles, Demartini Gianluca, Hagen Matthias, Hauff Claudia, Kando Noriko, Kanoulas Evangelos, Potthast Martin, Stein Benno, Wachsmuth Henning
 conference: "Arxiv"
 year: 2023

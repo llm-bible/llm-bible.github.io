@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Preference-driven Paradigm For Enhanced Translation With Large Language Models"
+title: A Preference-driven Paradigm For Enhanced Translation With Large Language Models
 authors: Zhu Dawei, Trenous Sony, Shen Xiaoyu, Klakow Dietrich, Byrne Bill, Hasler Eva
 conference: "Arxiv"
 year: 2024

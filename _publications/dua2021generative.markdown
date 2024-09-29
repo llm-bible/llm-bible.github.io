@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Generative Context Pair Selection For Multi-hop Question Answering"
+title: Generative Context Pair Selection For Multi-hop Question Answering
 authors: Dua Dheeru, Santos Cicero Nogueira Dos, Ng Patrick, Athiwaratkun Ben, Xiang Bing, Gardner Matt, Singh Sameer
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Resilience Of Large Language Models For Noisy Instructions"
+title: Resilience Of Large Language Models For Noisy Instructions
 authors: Wang Bin, Wei Chengwei, Liu Zhengyuan, Lin Geyu, Chen Nancy F.
 conference: "Arxiv"
 year: 2024

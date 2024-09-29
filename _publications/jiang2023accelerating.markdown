@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Longllmlingua: Accelerating And Enhancing Llms In Long Context Scenarios Via Prompt Compression"
+title: Longllmlingua: Accelerating And Enhancing Llms In Long Context Scenarios Via Prompt Compression
 authors: Jiang Huiqiang, Wu Qianhui, Luo Xufang, Li Dongsheng, Lin Chin-yew, Yang Yuqing, Qiu Lili
 conference: "Arxiv"
 year: 2023

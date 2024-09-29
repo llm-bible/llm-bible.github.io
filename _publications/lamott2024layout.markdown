@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Lapdoc: Layout-aware Prompting For Documents"
+title: Lapdoc: Layout-aware Prompting For Documents
 authors: Lamott Marcel, Weweler Yves-noel, Ulges Adrian, Shafait Faisal, Krechel Dirk, Obradovic Darko
 conference: "Arxiv"
 year: 2024

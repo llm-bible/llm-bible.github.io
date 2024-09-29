@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The ICL Consistency Test"
+title: The ICL Consistency Test
 authors: Weber Lucas, Bruni Elia, Hupkes Dieuwke
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Toward Adversarial Training On Contextualized Language Representation"
+title: Toward Adversarial Training On Contextualized Language Representation
 authors: Wu Hongqiu, Liu Yongxiang, Shi Hanwen, Zhao Hai, Zhang Min
 conference: "Arxiv"
 year: 2023

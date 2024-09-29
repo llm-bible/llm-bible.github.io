@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Learning Ui-to-code Reverse Generator Using Visual Critic Without Rendering"
+title: Learning Ui-to-code Reverse Generator Using Visual Critic Without Rendering
 authors: Soselia Davit, Saifullah Khalid, Zhou Tianyi
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Pre-trained Language Models Contain Human-like Biases Of What Is Right And Wrong To Do"
+title: Large Pre-trained Language Models Contain Human-like Biases Of What Is Right And Wrong To Do
 authors: Schramowski Patrick, Turan Cigdem, Andersen Nico, Rothkopf Constantin A., Kersting Kristian
 conference: "Arxiv"
 year: 2021

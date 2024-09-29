@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Lareqa: Language-agnostic Answer Retrieval From A Multilingual Pool"
+title: Lareqa: Language-agnostic Answer Retrieval From A Multilingual Pool
 authors: Roy Uma, Constant Noah, Al-rfou Rami, Barua Aditya, Phillips Aaron, Yang Yinfei
 conference: "Arxiv"
 year: 2020

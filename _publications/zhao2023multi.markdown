@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multi-modal In-context Learning Makes An Ego-evolving Scene Text Recognizer"
+title: Multi-modal In-context Learning Makes An Ego-evolving Scene Text Recognizer
 authors: Zhao Zhen, Tang Jingqun, Lin Chunhui, Wu Binghong, Huang Can, Liu Hao, Tan Xin, Zhang Zhizhong, Xie Yuan
 conference: "Arxiv"
 year: 2023

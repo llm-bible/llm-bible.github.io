@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Visual Instruction Tuning With Polite Flamingo"
+title: Visual Instruction Tuning With Polite Flamingo
 authors: Chen Delong, Liu Jianfeng, Dai Wenliang, Wang Baoyuan
 conference: "Arxiv"
 year: 2023

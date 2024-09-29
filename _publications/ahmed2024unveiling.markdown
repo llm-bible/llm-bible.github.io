@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "LM4OPT: Unveiling The Potential Of Large Language Models In Formulating Mathematical Optimization Problems"
+title: LM4OPT: Unveiling The Potential Of Large Language Models In Formulating Mathematical Optimization Problems
 authors: Ahmed Tasnim, Choudhury Salimur
 conference: "Arxiv"
 year: 2024

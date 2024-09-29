@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mini-model Adaptation: Efficiently Extending Pretrained Models To New Languages Via Aligned Shallow Training"
+title: Mini-model Adaptation: Efficiently Extending Pretrained Models To New Languages Via Aligned Shallow Training
 authors: Marchisio Kelly, Lewis Patrick, Chen Yihong, Artetxe Mikel
 conference: "Arxiv"
 year: 2022

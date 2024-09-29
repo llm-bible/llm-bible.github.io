@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving BERT Fine-tuning Via Self-ensemble And Self-distillation"
+title: Improving BERT Fine-tuning Via Self-ensemble And Self-distillation
 authors: Xu Yige, Qiu Xipeng, Zhou Ligao, Huang Xuanjing
 conference: "Arxiv"
 year: 2020

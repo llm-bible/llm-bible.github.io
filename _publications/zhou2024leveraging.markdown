@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Leveraging Web-crawled Data For High-quality Fine-tuning"
+title: Leveraging Web-crawled Data For High-quality Fine-tuning
 authors: Zhou Jing, Jiang Chenglin, Shen Wei, Zhou Xiao, He Xiaonan
 conference: "Arxiv"
 year: 2024

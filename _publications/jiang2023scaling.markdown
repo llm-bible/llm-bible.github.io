@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Scaling Sentence Embeddings With Large Language Models"
+title: Scaling Sentence Embeddings With Large Language Models
 authors: Jiang Ting, Huang Shaohan, Luan Zhongzhi, Wang Deqing, Zhuang Fuzhen
 conference: "Arxiv"
 year: 2023

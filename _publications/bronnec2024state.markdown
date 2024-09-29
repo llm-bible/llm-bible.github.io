@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "LOCOST: State-space Models For Long Document Abstractive Summarization"
+title: LOCOST: State-space Models For Long Document Abstractive Summarization
 authors: Bronnec Florian Le, Duong Song, Ravaut Mathieu, Allauzen Alexandre, Chen Nancy F., Guigue Vincent, Lumbreras Alberto, Soulier Laure, Gallinari Patrick
 conference: "Arxiv"
 year: 2024

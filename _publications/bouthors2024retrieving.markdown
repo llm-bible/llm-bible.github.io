@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Retrieving Examples From Memory For Retrieval Augmented Neural Machine Translation: A Systematic Comparison"
+title: Retrieving Examples From Memory For Retrieval Augmented Neural Machine Translation: A Systematic Comparison
 authors: Bouthors Maxime, Crego Josep, Yvon Francois
 conference: "Arxiv"
 year: 2024

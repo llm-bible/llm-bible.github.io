@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "FIRST: Teach A Reliable Large Language Model Through Efficient Trustworthy Distillation"
+title: FIRST: Teach A Reliable Large Language Model Through Efficient Trustworthy Distillation
 authors: Shum Kashun, Xu Minrui, Zhang Jianshu, Chen Zixin, Diao Shizhe, Dong Hanze, Zhang Jipeng, Raza Muhammad Omer
 conference: "Arxiv"
 year: 2024

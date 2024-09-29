@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Data Contamination Can Cross Language Barriers"
+title: Data Contamination Can Cross Language Barriers
 authors: Yao Feng, Zhuang Yufan, Sun Zihao, Xu Sunan, Kumar Animesh, Shang Jingbo
 conference: "Arxiv"
 year: 2024

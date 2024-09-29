@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Jetmoe: Reaching Llama2 Performance With 0.1M Dollars"
+title: Jetmoe: Reaching Llama2 Performance With 0.1M Dollars
 authors: Shen Yikang, Guo Zhen, Cai Tianle, Qin Zengyi
 conference: "Arxiv"
 year: 2024

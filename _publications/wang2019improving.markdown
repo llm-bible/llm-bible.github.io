@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving Knowledge-aware Dialogue Generation Via Knowledge Base Question Answering"
+title: Improving Knowledge-aware Dialogue Generation Via Knowledge Base Question Answering
 authors: Wang Jian, Liu Junhao, Bi Wei, Liu Xiaojiang, He Kejing, Xu Ruifeng, Yang Min
 conference: "Arxiv"
 year: 2019

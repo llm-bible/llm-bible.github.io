@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Making The Most Of Multilingual Pretraining For Zero-shot Neural Machine Translation"
+title: Towards Making The Most Of Multilingual Pretraining For Zero-shot Neural Machine Translation
 authors: Chen Guanhua, Ma Shuming, Chen Yun, Zhang Dongdong, Pan Jia, Wang Wenping, Wei Furu
 conference: "Arxiv"
 year: 2021

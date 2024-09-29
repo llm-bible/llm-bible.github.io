@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Crosslingual Retrieval Augmented In-context Learning For Bangla"
+title: Crosslingual Retrieval Augmented In-context Learning For Bangla
 authors: Li Xiaoqian, Nie Ercong, Liang Sheng
 conference: "Arxiv"
 year: 2023

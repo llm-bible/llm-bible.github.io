@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can AI Assistants Know What They Don't Know?"
+title: Can AI Assistants Know What They Don't Know?
 authors: Cheng Qinyuan, Sun Tianxiang, Liu Xiangyang, Zhang Wenwei, Yin Zhangyue, Li Shimin, Li Linyang, He Zhengfu, Chen Kai, Qiu Xipeng
 conference: "Arxiv"
 year: 2024

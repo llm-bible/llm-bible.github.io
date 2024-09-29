@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Small Batch Sizes Improve Training Of Low-resource Neural MT"
+title: Small Batch Sizes Improve Training Of Low-resource Neural MT
 authors: Atrio Àlex R., Popescu-belis Andrei
 conference: "Arxiv"
 year: 2022

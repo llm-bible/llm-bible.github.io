@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Boosting Large Language Models With Socratic Method For Conversational Mathematics Teaching"
+title: Boosting Large Language Models With Socratic Method For Conversational Mathematics Teaching
 authors: Ding Yuyang, Hu Hanglei, Zhou Jie, Chen Qin, Jiang Bo, He Liang
 conference: "Arxiv"
 year: 2024

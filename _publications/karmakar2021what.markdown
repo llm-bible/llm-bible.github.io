@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "What Do Pre-trained Code Models Know About Code?"
+title: What Do Pre-trained Code Models Know About Code?
 authors: Karmakar Anjan, Robbes Romain
 conference: "Arxiv"
 year: 2021

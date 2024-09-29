@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Retrieval-pretrained Transformer: Long-range Language Modeling With Self-retrieval"
+title: Retrieval-pretrained Transformer: Long-range Language Modeling With Self-retrieval
 authors: Rubin Ohad, Berant Jonathan
 conference: "Arxiv"
 year: 2023

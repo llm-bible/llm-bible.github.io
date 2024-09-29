@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Shifting Attention To Relevance: Towards The Predictive Uncertainty Quantification Of Free-form Large Language Models"
+title: Shifting Attention To Relevance: Towards The Predictive Uncertainty Quantification Of Free-form Large Language Models
 authors: Duan Jinhao, Cheng Hao, Wang Shiqi, Zavalny Alex, Wang Chenan, Xu Renjing, Kailkhura Bhavya, Xu Kaidi
 conference: "Arxiv"
 year: 2023

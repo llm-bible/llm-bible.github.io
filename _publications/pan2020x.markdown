@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "X-linear Attention Networks For Image Captioning"
+title: X-linear Attention Networks For Image Captioning
 authors: Pan Yingwei, Yao Ting, Li Yehao, Mei Tao
 conference: "Arxiv"
 year: 2020

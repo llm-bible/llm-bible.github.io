@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fundamental Limitations Of Alignment In Large Language Models"
+title: Fundamental Limitations Of Alignment In Large Language Models
 authors: Yotam Wolf, Noam Wies, Oshri Avnery, Yoav Levine, Amnon Shashua
 conference: "Arxiv"
 year: 2023

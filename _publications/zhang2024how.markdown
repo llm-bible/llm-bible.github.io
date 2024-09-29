@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "How Far Are We From Intelligent Visual Deductive Reasoning?"
+title: How Far Are We From Intelligent Visual Deductive Reasoning?
 authors: Zhang Yizhe, Bai He, Zhang Ruixiang, Gu Jiatao, Zhai Shuangfei, Susskind Josh, Jaitly Navdeep
 conference: "Arxiv"
 year: 2024

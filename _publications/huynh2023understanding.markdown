@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Understanding The Effectiveness Of Very Large Language Models On Dialog Evaluation"
+title: Understanding The Effectiveness Of Very Large Language Models On Dialog Evaluation
 authors: Huynh Jessica, Jiao Cathy, Gupta Prakhar, Mehri Shikib, Bajaj Payal, Chaudhary Vishrav, Eskenazi Maxine
 conference: "Arxiv"
 year: 2023

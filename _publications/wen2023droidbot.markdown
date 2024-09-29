@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Droidbot-gpt: Gpt-powered UI Automation For Android"
+title: Droidbot-gpt: Gpt-powered UI Automation For Android
 authors: Wen Hao, Wang Hongming, Liu Jiaxuan, Li Yuanchun
 conference: "Arxiv"
 year: 2023

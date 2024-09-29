@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Teaching Machines To Code: Neural Markup Generation With Visual Attention"
+title: Teaching Machines To Code: Neural Markup Generation With Visual Attention
 authors: Singh Sumeet S.
 conference: "Arxiv"
 year: 2018

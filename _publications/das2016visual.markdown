@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Visual Dialog"
+title: Visual Dialog
 authors: Das Abhishek, Kottur Satwik, Gupta Khushi, Singh Avi, Yadav Deshraj, Moura José M. F., Parikh Devi, Batra Dhruv
 conference: "Arxiv"
 year: 2016

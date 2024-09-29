@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tender: Accelerating Large Language Models Via Tensor Decomposition And Runtime Requantization"
+title: Tender: Accelerating Large Language Models Via Tensor Decomposition And Runtime Requantization
 authors: Lee Jungi, Lee Wonbeom, Sim Jaewoong
 conference: "Arxiv"
 year: 2024

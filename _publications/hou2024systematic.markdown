@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Systematic Evaluation Of Large Language Models For Generating Programming Code"
+title: A Systematic Evaluation Of Large Language Models For Generating Programming Code
 authors: Hou Wenpin, Ji Zhicheng
 conference: "Arxiv"
 year: 2024

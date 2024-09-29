@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "F-eval: Assessing Fundamental Abilities With Refined Evaluation Methods"
+title: F-eval: Assessing Fundamental Abilities With Refined Evaluation Methods
 authors: Sun Yu, Chen Keyu, Wang Shujie, Li Peiji, Guo Qipeng, Yan Hang, Qiu Xipeng, Huang Xuanjing, Lin Dahua
 conference: "Arxiv"
 year: 2024

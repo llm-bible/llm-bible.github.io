@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Hallucination Detection: Robustly Discerning Reliable Answers In Large Language Models"
+title: Hallucination Detection: Robustly Discerning Reliable Answers In Large Language Models
 authors: Chen Yuyan, Fu Qiang, Yuan Yichen, Wen Zhihao, Fan Ge, Liu Dayiheng, Zhang Dongmei, Li Zhixu, Xiao Yanghua
 conference: "Arxiv"
 year: 2024

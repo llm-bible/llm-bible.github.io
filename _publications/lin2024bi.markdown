@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bita: Bi-directional Tuning For Lossless Acceleration In Large Language Models"
+title: Bita: Bi-directional Tuning For Lossless Acceleration In Large Language Models
 authors: Lin Feng, Yi Hanling, Li Hongbin, Yang Yifan, Yu Xiaotian, Lu Guangming, Xiao Rong
 conference: "Arxiv"
 year: 2024

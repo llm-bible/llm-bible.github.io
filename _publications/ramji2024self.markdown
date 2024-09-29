@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Self-refinement Of Language Models From External Proxy Metrics Feedback"
+title: Self-refinement Of Language Models From External Proxy Metrics Feedback
 authors: Ramji Keshav, Lee Young-suk, Astudillo Ramón Fernandez, Sultan Md Arafat, Naseem Tahira, Munawar Asim, Florian Radu, Roukos Salim
 conference: "Arxiv"
 year: 2024

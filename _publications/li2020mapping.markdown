@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mapping Natural Language Instructions To Mobile UI Action Sequences"
+title: Mapping Natural Language Instructions To Mobile UI Action Sequences
 authors: Li Yang, He Jiacong, Zhou Xin, Zhang Yuan, Baldridge Jason
 conference: "Arxiv"
 year: 2020

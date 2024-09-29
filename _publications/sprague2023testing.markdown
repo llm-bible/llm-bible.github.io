@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Musr: Testing The Limits Of Chain-of-thought With Multistep Soft Reasoning"
+title: Musr: Testing The Limits Of Chain-of-thought With Multistep Soft Reasoning
 authors: Sprague Zayne, Ye Xi, Bostrom Kaj, Chaudhuri Swarat, Durrett Greg
 conference: "ICLR"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Training Llms To Recognize Hedges In Spontaneous Narratives"
+title: Training Llms To Recognize Hedges In Spontaneous Narratives
 authors: Paige Amie J., Soubki Adil, Murzaku John, Rambow Owen, Brennan Susan E.
 conference: "SIGDIAL"
 year: 2024

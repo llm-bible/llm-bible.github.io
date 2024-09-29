@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Grading Conversational Responses Of Chatbots"
+title: Grading Conversational Responses Of Chatbots
 authors: Rosario Grant, Noever David
 conference: "Arxiv"
 year: 2023

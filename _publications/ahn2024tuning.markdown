@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tuning Large Multimodal Models For Videos Using Reinforcement Learning From AI Feedback"
+title: Tuning Large Multimodal Models For Videos Using Reinforcement Learning From AI Feedback
 authors: Ahn Daechul, Choi Yura, Yu Youngjae, Kang Dongyeop, Choi Jonghyun
 conference: "Arxiv"
 year: 2024

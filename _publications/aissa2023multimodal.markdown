@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multimodal Representations For Teacher-guided Compositional Visual Reasoning"
+title: Multimodal Representations For Teacher-guided Compositional Visual Reasoning
 authors: Aissa Wafa Cedric - Vertigo, Ferecatu Marin Cedric - Vertigo, Crucianu Michel Cedric - Vertigo
 conference: "Advanced Concepts for Intelligent Vision Systems"
 year: 2023

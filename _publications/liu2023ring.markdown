@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Ring Attention With Blockwise Transformers For Near-infinite Context"
+title: Ring Attention With Blockwise Transformers For Near-infinite Context
 authors: Liu Hao, Zaharia Matei, Abbeel Pieter
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Internlm2 Technical Report"
+title: Internlm2 Technical Report
 authors: Cai Zheng, Cao Maosong, Chen Haojiong, Chen Kai, Chen Keyu, Chen Xin, Chen Xun, Chen Zehui, Chen Zhi, Chu Pei, Dong Xiaoyi, Duan Haodong, Fan Qi, Fei Zhaoye, Gao Yang, Ge Jiaye, Gu Chenya, Gu Yuzhe, Gui Tao, Guo Aijia, Guo Qipeng, He Conghui, Hu Yingfan, Huang Ting, Jiang Tao, Jiao Penglong, Jin Zhenjiang, Lei Zhikai, Li Jiaxing, Li Jingwen, Li Linyang, Li Shuaibin, Li Wei, Li Yining, Liu Hongwei, Liu Jiangning, Hong Jiawei, Liu Kaiwen, Liu Kuikun, Liu Xiaoran, Lv Chengqi, Lv Haijun, Lv Kai, Ma Li, Ma Runyuan, Ma Zerun, Ning Wenchang, Ouyang Linke, Qiu Jiantao, Qu Yuan, Shang Fukai, Shao Yunfan, Song Demin, Song Zifan, Sui Zhihao, Sun Peng, Sun Yu, Tang Huanze, Wang Bin, Wang Guoteng, Wang Jiaqi, Wang Jiayu, Wang Rui, Wang Yudong, Wang Ziyi, Wei Xingjian, Weng Qizhen, Wu Fan, Xiong Yingtong, Xu Chao, Xu Ruiliang, Yan Hang, Yan Yirong, Yang Xiaogui, Ye Haochen, Ying Huaiyuan, Yu Jia, Yu Jing, Zang Yuhang, Zhang Chuyu, Zhang Li, Zhang Pan, Zhang Peng, Zhang Ruijie, Zhang Shuo, Zhang Songyang, Zhang Wenjian, Zhang Wenwei, Zhang Xingcheng, Zhang Xinyue, Zhao Hui, Zhao Qian, Zhao Xiaomeng, Zhou Fengzhe, Zhou Zaida, Zhuo Jingming, Zou Yicheng, Qiu Xipeng, Qiao Yu, Lin Dahua
 conference: "Arxiv"
 year: 2024

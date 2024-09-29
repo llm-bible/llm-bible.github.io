@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Hijacking Large Language Models Via Adversarial In-context Learning"
+title: Hijacking Large Language Models Via Adversarial In-context Learning
 authors: Qiang Yao, Zhou Xiangyu, Zhu Dongxiao
 conference: "Arxiv"
 year: 2023

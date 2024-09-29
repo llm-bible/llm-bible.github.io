@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Whole Is Better Than The Sum: Using Aggregated Demonstrations In In-context Learning For Sequential Recommendation"
+title: The Whole Is Better Than The Sum: Using Aggregated Demonstrations In In-context Learning For Sequential Recommendation
 authors: Wang Lei, Lim Ee-peng
 conference: "Arxiv"
 year: 2024

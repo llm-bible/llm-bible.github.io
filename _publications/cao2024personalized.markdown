@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Personalized Steering Of Large Language Models: Versatile Steering Vectors Through Bi-directional Preference Optimization"
+title: Personalized Steering Of Large Language Models: Versatile Steering Vectors Through Bi-directional Preference Optimization
 authors: Cao Yuanpu, Zhang Tianrong, Cao Bochuan, Yin Ziyi, Lin Lu, Ma Fenglong, Chen Jinghui
 conference: "Arxiv"
 year: 2024

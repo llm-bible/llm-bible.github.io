@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Synthesizing Text-to-sql Data From Weak And Strong Llms"
+title: Synthesizing Text-to-sql Data From Weak And Strong Llms
 authors: Yang Jiaxi, Hui Binyuan, Yang Min, Yang Jian, Lin Junyang, Zhou Chang
 conference: "Arxiv"
 year: 2024

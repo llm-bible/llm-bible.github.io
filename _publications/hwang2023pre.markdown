@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pre-gated Moe: An Algorithm-system Co-design For Fast And Scalable Mixture-of-expert Inference"
+title: Pre-gated Moe: An Algorithm-system Co-design For Fast And Scalable Mixture-of-expert Inference
 authors: Hwang Ranggi, Wei Jianyu, Cao Shijie, Hwang Changho, Tang Xiaohu, Cao Ting, Yang Mao
 conference: "Arxiv"
 year: 2023

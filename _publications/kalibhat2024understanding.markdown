@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Understanding The Effect Of Using Semantically Meaningful Tokens For Visual Representation Learning"
+title: Understanding The Effect Of Using Semantically Meaningful Tokens For Visual Representation Learning
 authors: Kalibhat Neha, Kattakinda Priyatham, Zarei Arman, Seleznev Nikita, Sharpe Samuel, Kumar Senthil, Feizi Soheil
 conference: "Arxiv"
 year: 2024

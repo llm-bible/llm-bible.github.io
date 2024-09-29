@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On The Calibration Of Large Language Models And Alignment"
+title: On The Calibration Of Large Language Models And Alignment
 authors: Zhu Chiwei, Xu Benfeng, Wang Quan, Zhang Yongdong, Mao Zhendong
 conference: "Arxiv"
 year: 2023

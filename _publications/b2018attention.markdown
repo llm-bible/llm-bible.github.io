@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Attention Based Natural Language Grounding By Navigating Virtual Environment"
+title: Attention Based Natural Language Grounding By Navigating Virtual Environment
 authors: B Akilesh, Sinha Abhishek, Sarkar Mausoom, Krishnamurthy Balaji
 conference: "Arxiv"
 year: 2018

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dynamic Fusion With Intra- And Inter- Modality Attention Flow For Visual Question Answering"
+title: Dynamic Fusion With Intra- And Inter- Modality Attention Flow For Visual Question Answering
 authors: Peng Gao, Jiang Zhengkai, You Haoxuan, Lu Pan, Hoi Steven, Wang Xiaogang, Li Hongsheng
 conference: "Arxiv"
 year: 2018

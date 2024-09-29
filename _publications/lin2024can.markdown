@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Llms Understand The Implication Of Emphasized Sentences In Dialogue?"
+title: Can Llms Understand The Implication Of Emphasized Sentences In Dialogue?
 authors: Lin Guan-ting, Lee Hung-yi
 conference: "Arxiv"
 year: 2024

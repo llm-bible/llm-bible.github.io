@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Are Small Language Models Ready To Compete With Large Language Models For Practical Applications?"
+title: Are Small Language Models Ready To Compete With Large Language Models For Practical Applications?
 authors: Sinha Neelabh, Jain Vinija, Chadha Aman
 conference: "Arxiv"
 year: 2024

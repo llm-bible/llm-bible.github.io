@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Using Chatgpt To Score Essays And Short-form Constructed Responses"
+title: Using Chatgpt To Score Essays And Short-form Constructed Responses
 authors: Shermis Mark D.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Open-domain Implicit Format Control For Large Language Model Generation"
+title: Open-domain Implicit Format Control For Large Language Model Generation
 authors: Yao Yiqun, Ma Wenjia, Fang Xuezhi, Jiang Xin, Li Xiang, Meng Xuying, Han Peng, Li Jing, Sun Aixin, Wang Yequan
 conference: "Arxiv"
 year: 2024

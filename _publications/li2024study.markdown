@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Study On Training And Developing Large Language Models For Behavior Tree Generation"
+title: A Study On Training And Developing Large Language Models For Behavior Tree Generation
 authors: Li Fu, Wang Xueying, Li Bin, Wu Yunlong, Wang Yanzhen, Yi Xiaodong
 conference: "Arxiv"
 year: 2024

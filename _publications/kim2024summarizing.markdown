@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Sure: Summarizing Retrievals Using Answer Candidates For Open-domain QA Of Llms"
+title: Sure: Summarizing Retrievals Using Answer Candidates For Open-domain QA Of Llms
 authors: Kim Jaehyung, Nam Jaehyun, Mo Sangwoo, Park Jongjin, Lee Sang-woo, Seo Minjoon, Ha Jung-woo, Shin Jinwoo
 conference: "Arxiv"
 year: 2024

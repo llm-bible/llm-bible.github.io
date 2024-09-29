@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "An Empirical Study On Self-correcting Large Language Models For Data Science Code Generation"
+title: An Empirical Study On Self-correcting Large Language Models For Data Science Code Generation
 authors: Quoc Thai Tang, Minh Duc Ha, Thanh Tho Quan, Nguyen-duc Anh
 conference: "Arxiv"
 year: 2024

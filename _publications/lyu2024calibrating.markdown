@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Calibrating Large Language Models With Sample Consistency"
+title: Calibrating Large Language Models With Sample Consistency
 authors: Lyu Qing, Shridhar Kumar, Malaviya Chaitanya, Zhang Li, Elazar Yanai, Tandon Niket, Apidianaki Marianna, Sachan Mrinmaya, Callison-burch Chris
 conference: "Arxiv"
 year: 2024

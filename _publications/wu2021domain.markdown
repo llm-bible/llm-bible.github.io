@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Domain-adaptive Pretraining Methods For Dialogue Understanding"
+title: Domain-adaptive Pretraining Methods For Dialogue Understanding
 authors: Wu Han, Xu Kun, Song Linfeng, Jin Lifeng, Zhang Haisong, Song Linqi
 conference: "Arxiv"
 year: 2021

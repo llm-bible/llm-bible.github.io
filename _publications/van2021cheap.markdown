@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cheap And Good? Simple And Effective Data Augmentation For Low Resource Machine Reading"
+title: Cheap And Good? Simple And Effective Data Augmentation For Low Resource Machine Reading
 authors: Van Hoang, Yadav Vikas, Surdeanu Mihai
 conference: "Arxiv"
 year: 2021

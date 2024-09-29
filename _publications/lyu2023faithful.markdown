@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Faithful Chain-of-thought Reasoning"
+title: Faithful Chain-of-thought Reasoning
 authors: Qing Lyu, Shreya Havaldar, Adam Stein, Li Zhang, Delip Rao, Eric Wong, Marianna Apidianaki, Chris Callison-burch
 conference: "Arxiv"
 year: 2023

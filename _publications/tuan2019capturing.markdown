@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Capturing Greater Context For Question Generation"
+title: Capturing Greater Context For Question Generation
 authors: Tuan Luu Anh, Shah Darsh J, Barzilay Regina
 conference: "Arxiv"
 year: 2019

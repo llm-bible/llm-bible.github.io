@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Unified Query-based Generative Model For Question Generation And Question Answering"
+title: A Unified Query-based Generative Model For Question Generation And Question Answering
 authors: Song Linfeng, Wang Zhiguo, Hamza Wael
 conference: "Arxiv"
 year: 2017

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Conpet: Continual Parameter-efficient Tuning For Large Language Models"
+title: Conpet: Continual Parameter-efficient Tuning For Large Language Models
 authors: Song Chenyang, Han Xu, Zeng Zheni, Li Kuai, Chen Chen, Liu Zhiyuan, Sun Maosong, Yang Tao
 conference: "Arxiv"
 year: 2023

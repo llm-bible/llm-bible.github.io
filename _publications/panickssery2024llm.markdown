@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "LLM Evaluators Recognize And Favor Their Own Generations"
+title: LLM Evaluators Recognize And Favor Their Own Generations
 authors: Panickssery Arjun, Bowman Samuel R., Feng Shi
 conference: "Arxiv"
 year: 2024

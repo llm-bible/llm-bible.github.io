@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "ATTEMPT: Parameter-efficient Multi-task Tuning Via Attentional Mixtures Of Soft Prompts"
+title: ATTEMPT: Parameter-efficient Multi-task Tuning Via Attentional Mixtures Of Soft Prompts
 authors: Asai Akari, Salehi Mohammadreza, Peters Matthew E., Hajishirzi Hannaneh
 conference: "Arxiv"
 year: 2022

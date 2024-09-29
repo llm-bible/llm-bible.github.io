@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Focused Transformer: Contrastive Training For Context Scaling"
+title: Focused Transformer: Contrastive Training For Context Scaling
 authors: Tworkowski Szymon, Staniszewski Konrad, Pacek Mikołaj, Wu Yuhuai, Michalewski Henryk, Miłoś Piotr
 conference: "Arxiv"
 year: 2023

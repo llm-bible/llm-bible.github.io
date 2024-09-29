@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "STEER: Assessing The Economic Rationality Of Large Language Models"
+title: STEER: Assessing The Economic Rationality Of Large Language Models
 authors: Raman Narun, Lundy Taylor, Amouyal Samuel, Levine Yoav, Leyton-brown Kevin, Tennenholtz Moshe
 conference: "Arxiv"
 year: 2024

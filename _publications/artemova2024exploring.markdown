@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring The Robustness Of Task-oriented Dialogue Systems For Colloquial German Varieties"
+title: Exploring The Robustness Of Task-oriented Dialogue Systems For Colloquial German Varieties
 authors: Artemova Ekaterina, Blaschke Verena, Plank Barbara
 conference: "Arxiv"
 year: 2024

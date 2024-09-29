@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating Language Models For Mathematics Through Interactions"
+title: Evaluating Language Models For Mathematics Through Interactions
 authors: Collins Katherine M., Jiang Albert Q., Frieder Simon, Wong Lionel, Zilka Miri, Bhatt Umang, Lukasiewicz Thomas, Wu Yuhuai, Tenenbaum Joshua B., Hart William, Gowers Timothy, Li Wenda, Weller Adrian, Jamnik Mateja
 conference: "Arxiv"
 year: 2023

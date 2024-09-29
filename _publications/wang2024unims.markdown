@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unims-rag: A Unified Multi-source Retrieval-augmented Generation For Personalized Dialogue Systems"
+title: Unims-rag: A Unified Multi-source Retrieval-augmented Generation For Personalized Dialogue Systems
 authors: Wang Hongru, Huang Wenyu, Deng Yang, Wang Rui, Wang Zezhong, Wang Yufei, Mi Fei, Pan Jeff Z., Wong Kam-fai
 conference: "Arxiv"
 year: 2024

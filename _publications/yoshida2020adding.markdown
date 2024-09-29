@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Adding Recurrence To Pretrained Transformers For Improved Efficiency And Context Size"
+title: Adding Recurrence To Pretrained Transformers For Improved Efficiency And Context Size
 authors: Yoshida Davis, Ettinger Allyson, Gimpel Kevin
 conference: "Arxiv"
 year: 2020

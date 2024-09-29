@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Owlore: Outlier-weighed Layerwise Sampled Low-rank Projection For Memory-efficient LLM Fine-tuning"
+title: Owlore: Outlier-weighed Layerwise Sampled Low-rank Projection For Memory-efficient LLM Fine-tuning
 authors: Li Pengxiang, Yin Lu, Gao Xiaowei, Liu Shiwei
 conference: "Arxiv"
 year: 2024

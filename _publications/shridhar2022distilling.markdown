@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Distilling Reasoning Capabilities Into Smaller Language Models"
+title: Distilling Reasoning Capabilities Into Smaller Language Models
 authors: Shridhar Kumar, Stolfo Alessandro, Sachan Mrinmaya
 conference: "Arxiv"
 year: 2022

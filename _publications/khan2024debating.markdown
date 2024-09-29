@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Debating With More Persuasive Llms Leads To More Truthful Answers"
+title: Debating With More Persuasive Llms Leads To More Truthful Answers
 authors: Khan Akbir, Hughes John, Valentine Dan, Ruis Laura, Sachan Kshitij, Radhakrishnan Ansh, Grefenstette Edward, Bowman Samuel R., Rocktäschel Tim, Perez Ethan
 conference: "Arxiv"
 year: 2024

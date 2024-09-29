@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Semantic Compression With Large Language Models"
+title: Semantic Compression With Large Language Models
 authors: Gilbert Henry, Sandborn Michael, Schmidt Douglas C., Spencer-smith Jesse, White Jules
 conference: "Arxiv"
 year: 2023

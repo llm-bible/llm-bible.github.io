@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Prevent The Language Model From Being Overconfident In Neural Machine Translation"
+title: Prevent The Language Model From Being Overconfident In Neural Machine Translation
 authors: Miao Mengqi, Meng Fandong, Liu Yijin, Zhou Xiao-hua, Zhou Jie
 conference: "Arxiv"
 year: 2021

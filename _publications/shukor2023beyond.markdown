@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Beyond Task Performance: Evaluating And Reducing The Flaws Of Large Multimodal Models With In-context Learning"
+title: Beyond Task Performance: Evaluating And Reducing The Flaws Of Large Multimodal Models With In-context Learning
 authors: Shukor Mustafa, Rame Alexandre, Dancette Corentin, Cord Matthieu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Biogpt: Generative Pre-trained Transformer For Biomedical Text Generation And Mining"
+title: Biogpt: Generative Pre-trained Transformer For Biomedical Text Generation And Mining
 authors: Luo Renqian, Sun Liai, Xia Yingce, Qin Tao, Zhang Sheng, Poon Hoifung, Liu Tie-yan
 conference: "Briefings in Bioinformatics"
 year: 2022

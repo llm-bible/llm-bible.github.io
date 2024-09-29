@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "How Do Large Language Models Handle Multilingualism?"
+title: How Do Large Language Models Handle Multilingualism?
 authors: Zhao Yiran, Zhang Wenxuan, Chen Guizhen, Kawaguchi Kenji, Bing Lidong
 conference: "Arxiv"
 year: 2024

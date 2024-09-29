@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating Parameter Efficient Learning For Generation"
+title: Evaluating Parameter Efficient Learning For Generation
 authors: Xu Peng, Patwary Mostofa, Prabhumoye Shrimai, Adams Virginia, Prenger Ryan J., Ping Wei, Lee Nayeon, Shoeybi Mohammad, Catanzaro Bryan
 conference: "Arxiv"
 year: 2022

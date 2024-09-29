@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Topicrefine: Joint Topic Prediction And Dialogue Response Generation For Multi-turn End-to-end Dialogue System"
+title: Topicrefine: Joint Topic Prediction And Dialogue Response Generation For Multi-turn End-to-end Dialogue System
 authors: Wang Hongru, Cui Mingyu, Zhou Zimo, Fung Gabriel Pui Cheong, Wong Kam-fai
 conference: "Arxiv"
 year: 2021

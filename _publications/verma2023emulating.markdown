@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Emulating Human Cognitive Processes For Expert-level Medical Question-answering With Large Language Models"
+title: Emulating Human Cognitive Processes For Expert-level Medical Question-answering With Large Language Models
 authors: Verma Khushboo, Moore Marina, Wottrich Stephanie, López Karla Robles, Aggarwal Nishant, Bhatt Zeel, Singh Aagamjit, Unroe Bradford, Basheer Salah, Sachdeva Nitish, Arora Prinka, Kaur Harmanjeet, Kaur Tanupreet, Hood Tevon, Marquez Anahi, Varshney Tushar, Deng Nanfu, Ramani Azaan, Ishwara Pawanraj, Saeed Maimoona, Peña Tatiana López Velarde, Barksdale Bryan, Guha Sushovan, Kumar Satwant
 conference: "Arxiv"
 year: 2023

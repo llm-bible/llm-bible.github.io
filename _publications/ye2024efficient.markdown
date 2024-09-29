@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Efficient Vision-and-language Pre-training With Text-relevant Image Patch Selection"
+title: Efficient Vision-and-language Pre-training With Text-relevant Image Patch Selection
 authors: Ye Wei, Jiang Chaoya, Xu Haiyang, Ye Chenhao, Li Chenliang, Yan Ming, Zhang Shikun, Huang Songhang, Huang Fei
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Alarm: Align Language Models Via Hierarchical Rewards Modeling"
+title: Alarm: Align Language Models Via Hierarchical Rewards Modeling
 authors: Lai Yuhang, Wang Siyuan, Liu Shujun, Huang Xuanjing, Wei Zhongyu
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Non-autoregressive Sequence-to-sequence Vision-language Models"
+title: Non-autoregressive Sequence-to-sequence Vision-language Models
 authors: Shi Kunyu, Dong Qi, Goncalves Luis, Tu Zhuowen, Soatto Stefano
 conference: "Arxiv"
 year: 2024

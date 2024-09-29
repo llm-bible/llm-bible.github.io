@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Ensuring Safe And High-quality Outputs: A Guideline Library Approach For Language Models"
+title: Ensuring Safe And High-quality Outputs: A Guideline Library Approach For Language Models
 authors: Luo Yi, Lin Zhenghao, Zhang Yuhao, Sun Jiashuo, Lin Chen, Xu Chengjin, Su Xiangdong, Shen Yelong, Guo Jian, Gong Yeyun
 conference: "Arxiv"
 year: 2024

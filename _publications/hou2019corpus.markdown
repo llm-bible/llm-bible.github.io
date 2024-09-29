@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Corpus-free State2seq User Simulator For Task-oriented Dialogue"
+title: A Corpus-free State2seq User Simulator For Task-oriented Dialogue
 authors: Hou Yutai, Fang Meng, Che Wanxiang, Liu Ting
 conference: "Arxiv"
 year: 2019

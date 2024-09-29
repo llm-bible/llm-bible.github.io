@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Revenge Of The Fallen? Recurrent Models Match Transformers At Predicting Human Language Comprehension Metrics"
+title: Revenge Of The Fallen? Recurrent Models Match Transformers At Predicting Human Language Comprehension Metrics
 authors: Michaelov James A., Arnett Catherine, Bergen Benjamin K.
 conference: "Arxiv"
 year: 2024

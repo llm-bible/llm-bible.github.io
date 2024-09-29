@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Re-task: Revisiting LLM Tasks From Capability, Skill, And Knowledge Perspectives"
+title: Re-task: Revisiting LLM Tasks From Capability, Skill, And Knowledge Perspectives
 authors: Wang Zhihu, Zhao Shiwan, Wang Yu, Huang Heyuan, Shi Jiaxin, Xie Sitao, Wang Zhixing, Zhang Yubo, Li Hongyan, Yan Junchi
 conference: "Arxiv"
 year: 2024

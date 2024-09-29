@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "M3dbench: Let's Instruct Large Models With Multi-modal 3D Prompts"
+title: M3dbench: Let's Instruct Large Models With Multi-modal 3D Prompts
 authors: Li Mingsheng, Chen Xin, Zhang Chi, Chen Sijin, Zhu Hongyuan, Yin Fukun, Yu Gang, Chen Tao
 conference: "Arxiv"
 year: 2023

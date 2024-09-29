@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Moviechat+: Question-aware Sparse Memory For Long Video Question Answering"
+title: Moviechat+: Question-aware Sparse Memory For Long Video Question Answering
 authors: Song Enxin, Chai Wenhao, Ye Tian, Hwang Jenq-neng, Li Xi, Wang Gaoang
 conference: "Arxiv"
 year: 2024

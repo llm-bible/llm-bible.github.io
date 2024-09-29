@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Automatic Prompt Augmentation And Selection With Chain-of-thought From Labeled Data"
+title: Automatic Prompt Augmentation And Selection With Chain-of-thought From Labeled Data
 authors: Shum Kashun, Diao Shizhe, Zhang Tong
 conference: "Arxiv"
 year: 2023

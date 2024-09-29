@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Benchmarking Large Language Models For Persian: A Preliminary Study Focusing On Chatgpt"
+title: Benchmarking Large Language Models For Persian: A Preliminary Study Focusing On Chatgpt
 authors: Abaskohi Amirhossein, Baruni Sara, Masoudi Mostafa, Abbasi Nesa, Babalou Mohammad Hadi, Edalat Ali, Kamahi Sepehr, Sani Samin Mahdizadeh, Naghavian Nikoo, Namazifard Danial, Sadeghi Pouya, Yaghoobzadeh Yadollah
 conference: "Arxiv"
 year: 2024

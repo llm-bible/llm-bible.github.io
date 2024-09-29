@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "AMMUS : A Survey Of Transformer-based Pretrained Models In Natural Language Processing"
+title: AMMUS : A Survey Of Transformer-based Pretrained Models In Natural Language Processing
 authors: Kalyan Katikapalli Subramanyam, Rajasekharan Ajit, Sangeetha Sivanesan
 conference: "Arxiv"
 year: 2021

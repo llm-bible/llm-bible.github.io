@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Temporal Attention Model For Neural Machine Translation"
+title: Temporal Attention Model For Neural Machine Translation
 authors: Sankaran Baskaran, Mi Haitao, Al-onaizan Yaser, Ittycheriah Abe
 conference: "Arxiv"
 year: 2016

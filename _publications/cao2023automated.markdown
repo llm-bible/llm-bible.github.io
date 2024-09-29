@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Autohall: Automated Hallucination Dataset Generation For Large Language Models"
+title: Autohall: Automated Hallucination Dataset Generation For Large Language Models
 authors: Cao Zouying, Yang Yifei, Zhao Hai
 conference: "Arxiv"
 year: 2023

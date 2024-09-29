@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Context Matters: An Empirical Study Of The Impact Of Contextual Information In Temporal Question Answering Systems"
+title: Context Matters: An Empirical Study Of The Impact Of Contextual Information In Temporal Question Answering Systems
 authors: Schumacher Dan, Haji Fatemeh, Grey Tara, Bandlamudi Niharika, Karnik Nupoor, Kumar Gagana Uday, Chiang Jason Cho-yu, Rad Paul, Vishwamitra Nishant, Rios Anthony
 conference: "Arxiv"
 year: 2024

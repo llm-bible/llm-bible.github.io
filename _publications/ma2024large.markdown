@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models Are Unconscious Of Unreasonability In Math Problems"
+title: Large Language Models Are Unconscious Of Unreasonability In Math Problems
 authors: Ma Jingyuan, Dai Damai, Sha Lei, Sui Zhifang
 conference: "Arxiv"
 year: 2024

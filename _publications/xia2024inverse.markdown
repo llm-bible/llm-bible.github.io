@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Inverse-q*: Token Level Reinforcement Learning For Aligning Large Language Models Without Preference Data"
+title: Inverse-q*: Token Level Reinforcement Learning For Aligning Large Language Models Without Preference Data
 authors: Xia Han, Gao Songyang, Ge Qiming, Xi Zhiheng, Zhang Qi, Huang Xuanjing
 conference: "Arxiv"
 year: 2024

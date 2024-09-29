@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "H2o-danube-1.8b Technical Report"
+title: H2o-danube-1.8b Technical Report
 authors: Singer Philipp, Pfeiffer Pascal, Babakhin Yauhen, Jeblick Maximilian, Dhankhar Nischay, Fodor Gabor, Ambati Sri Satish
 conference: "Arxiv"
 year: 2024

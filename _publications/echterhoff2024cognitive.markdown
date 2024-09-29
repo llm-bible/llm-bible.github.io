@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cognitive Bias In High-stakes Decision-making With Llms"
+title: Cognitive Bias In High-stakes Decision-making With Llms
 authors: Echterhoff Jessica, Liu Yao, Alessa Abeer, Mcauley Julian, He Zexue
 conference: "Arxiv"
 year: 2024

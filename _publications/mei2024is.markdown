@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ""not Aligned" Is Not "malicious": Being Careful About Hallucinations Of Large Language Models' Jailbreak"
+title: "not Aligned" Is Not "malicious": Being Careful About Hallucinations Of Large Language Models' Jailbreak
 authors: Mei Lingrui, Liu Shenghua, Wang Yiwei, Bi Baolong, Mao Jiayi, Cheng Xueqi
 conference: "Arxiv"
 year: 2024

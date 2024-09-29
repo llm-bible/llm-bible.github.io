@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Benchmarking And Improving Generator-validator Consistency Of Language Models"
+title: Benchmarking And Improving Generator-validator Consistency Of Language Models
 authors: Li Xiang Lisa, Shrivastava Vaishnavi, Li Siyan, Hashimoto Tatsunori, Liang Percy
 conference: "Arxiv"
 year: 2023

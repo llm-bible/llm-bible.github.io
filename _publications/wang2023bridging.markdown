@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bridging The Novice-expert Gap Via Models Of Decision-making: A Case Study On Remediating Math Mistakes"
+title: Bridging The Novice-expert Gap Via Models Of Decision-making: A Case Study On Remediating Math Mistakes
 authors: Wang Rose E., Zhang Qingyang, Robinson Carly, Loeb Susanna, Demszky Dorottya
 conference: "Arxiv"
 year: 2023

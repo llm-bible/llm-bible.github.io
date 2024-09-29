@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Latxa: An Open Language Model And Evaluation Suite For Basque"
+title: Latxa: An Open Language Model And Evaluation Suite For Basque
 authors: Etxaniz Julen, Sainz Oscar, Perez Naiara, Aldabe Itziar, Rigau German, Agirre Eneko, Ormazabal Aitor, Artetxe Mikel, Soroa Aitor
 conference: "Arxiv"
 year: 2024

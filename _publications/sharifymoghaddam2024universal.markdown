@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unirag: Universal Retrieval Augmentation For Multi-modal Large Language Models"
+title: Unirag: Universal Retrieval Augmentation For Multi-modal Large Language Models
 authors: Sharifymoghaddam Sahel, Upadhyay Shivani, Chen Wenhu, Lin Jimmy
 conference: "Arxiv"
 year: 2024

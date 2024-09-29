@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Offline Reinforcement Learning Help Natural Language Understanding?"
+title: Can Offline Reinforcement Learning Help Natural Language Understanding?
 authors: Zhang Ziqi, Wang Yile, Zhang Yue, Wang Donglin
 conference: "Arxiv"
 year: 2022

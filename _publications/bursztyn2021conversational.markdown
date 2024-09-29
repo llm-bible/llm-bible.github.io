@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Gaud\'i: Conversational Interactions With Deep Representations To Generate Image Collections"
+title: Gaud\'i: Conversational Interactions With Deep Representations To Generate Image Collections
 authors: Bursztyn Victor S., Healey Jennifer, Vinay Vishwa
 conference: "Arxiv"
 year: 2021

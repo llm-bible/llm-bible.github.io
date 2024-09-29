@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Step-back Profiling: Distilling User History For Personalized Scientific Writing"
+title: Step-back Profiling: Distilling User History For Personalized Scientific Writing
 authors: Tang Xiangru, Zhang Xingyao, Shao Yanjun, Wu Jie, Zhao Yilun, Cohan Arman, Gong Ming, Zhang Dongmei, Gerstein Mark
 conference: "Arxiv"
 year: 2024

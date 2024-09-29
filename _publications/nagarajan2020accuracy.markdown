@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Axformer: Accuracy-driven Approximation Of Transformers For Faster, Smaller And More Accurate NLP Models"
+title: Axformer: Accuracy-driven Approximation Of Transformers For Faster, Smaller And More Accurate NLP Models
 authors: Nagarajan Amrit, Sen Sanchari, Stevens Jacob R., Raghunathan Anand
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Needle In The Haystack For Memory Based Large Language Models"
+title: Needle In The Haystack For Memory Based Large Language Models
 authors: Nelson Elliot, Kollias Georgios, Das Payel, Chaudhury Subhajit, Dan Soham
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Future Of Large Language Model Pre-training Is Federated"
+title: The Future Of Large Language Model Pre-training Is Federated
 authors: Sani Lorenzo, Iacob Alex, Cao Zeyu, Marino Bill, Gao Yan, Paulik Tomas, Zhao Wanru, Shen William F., Aleksandrov Preslav, Qiu Xinchi, Lane Nicholas D.
 conference: "Arxiv"
 year: 2024

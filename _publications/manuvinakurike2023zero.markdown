@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Zero-shot Conversational Summarization Evaluations With Small Large Language Models"
+title: Zero-shot Conversational Summarization Evaluations With Small Large Language Models
 authors: Manuvinakurike Ramesh, Sahay Saurav, Manepalli Sangeeta, Nachman Lama
 conference: "Arxiv"
 year: 2023

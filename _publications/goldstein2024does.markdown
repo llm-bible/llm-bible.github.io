@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Does Chatgpt Have A Mind?"
+title: Does Chatgpt Have A Mind?
 authors: Goldstein Simon, Levinstein Benjamin A.
 conference: "Arxiv"
 year: 2024

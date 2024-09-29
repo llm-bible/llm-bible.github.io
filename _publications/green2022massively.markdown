@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Massively Multilingual Lexical Specialization Of Multilingual Transformers"
+title: Massively Multilingual Lexical Specialization Of Multilingual Transformers
 authors: Green Tommaso, Ponzetto Simone Paolo, Glavaš Goran
 conference: "Arxiv"
 year: 2022

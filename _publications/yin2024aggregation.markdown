@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Aggregation Of Reasoning: A Hierarchical Framework For Enhancing Answer Selection In Large Language Models"
+title: Aggregation Of Reasoning: A Hierarchical Framework For Enhancing Answer Selection In Large Language Models
 authors: Yin Zhangyue, Sun Qiushi, Guo Qipeng, Zeng Zhiyuan, Li Xiaonan, Sun Tianxiang, Chang Cheng, Cheng Qinyuan, Wang Ding, Mou Xiaofeng, Qiu Xipeng, Huang Xuanjing
 conference: "Arxiv"
 year: 2024

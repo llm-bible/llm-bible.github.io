@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "SRQA: Synthetic Reader For Factoid Question Answering"
+title: SRQA: Synthetic Reader For Factoid Question Answering
 authors: Wang Jiuniu, Xu Wenjia, Fu Xingyu, Wei Yang, Jin Li, Chen Ziyan, Xu Guangluan, Wu Yirong
 conference: "Knowledge-Based Systems Volume"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Logical Closed Loop: Uncovering Object Hallucinations In Large Vision-language Models"
+title: Logical Closed Loop: Uncovering Object Hallucinations In Large Vision-language Models
 authors: Junfei Wu, Qiang Liu, Ding Wang, Jinghao Zhang, Shu Wu, Liang Wang, Tieniu Tan
 conference: "Arxiv"
 year: 2024

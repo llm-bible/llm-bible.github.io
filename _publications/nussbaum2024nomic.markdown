@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Nomic Embed: Training A Reproducible Long Context Text Embedder"
+title: Nomic Embed: Training A Reproducible Long Context Text Embedder
 authors: Nussbaum Zach, Morris John X., Duderstadt Brandon, Mulyar Andriy
 conference: "Arxiv"
 year: 2024

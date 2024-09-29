@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mixture Of Tokens: Efficient Llms Through Cross-example Aggregation"
+title: Mixture Of Tokens: Efficient Llms Through Cross-example Aggregation
 authors: Antoniak Szymon, Jaszczur Sebastian, Krutul Michał, Pióro Maciej, Krajewski Jakub, Ludziejewski Jan, Odrzygóźdź Tomasz, Cygan Marek
 conference: "Arxiv"
 year: 2023

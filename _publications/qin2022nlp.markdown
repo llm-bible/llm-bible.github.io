@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The NLP Task Effectiveness Of Long-range Transformers"
+title: The NLP Task Effectiveness Of Long-range Transformers
 authors: Qin Guanghui, Feng Yukun, Van Durme Benjamin
 conference: "EACL"
 year: 2022

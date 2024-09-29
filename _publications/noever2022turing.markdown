@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Turing Deception"
+title: The Turing Deception
 authors: Noever David, Ciolino Matt
 conference: "Arxiv"
 year: 2022

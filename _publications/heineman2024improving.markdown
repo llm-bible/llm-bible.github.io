@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving Minimum Bayes Risk Decoding With Multi-prompt"
+title: Improving Minimum Bayes Risk Decoding With Multi-prompt
 authors: Heineman David, Dou Yao, Xu Wei
 conference: "Arxiv"
 year: 2024

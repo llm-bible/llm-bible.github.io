@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "ERNIE 3.0: Large-scale Knowledge Enhanced Pre-training For Language Understanding And Generation"
+title: ERNIE 3.0: Large-scale Knowledge Enhanced Pre-training For Language Understanding And Generation
 authors: Sun Yu, Wang Shuohuan, Feng Shikun, Ding Siyu, Pang Chao, Shang Junyuan, Liu Jiaxiang, Chen Xuyi, Zhao Yanbin, Lu Yuxiang, Liu Weixin, Wu Zhihua, Gong Weibao, Liang Jianzhong, Shang Zhizhou, Sun Peng, Liu Wei, Ouyang Xuan, Yu Dianhai, Tian Hao, Wu Hua, Wang Haifeng
 conference: "Arxiv"
 year: 2021

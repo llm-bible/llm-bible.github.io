@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Are Emergent Abilities Of Large Language Models A Mirage?"
+title: Are Emergent Abilities Of Large Language Models A Mirage?
 authors: Rylan Schaeffer, Brando Miranda, Sanmi Koyejo
 conference: "Arxiv"
 year: 2023

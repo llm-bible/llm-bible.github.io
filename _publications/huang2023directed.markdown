@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Directed Acyclic Transformer Pre-training For High-quality Non-autoregressive Text Generation"
+title: Directed Acyclic Transformer Pre-training For High-quality Non-autoregressive Text Generation
 authors: Huang Fei, Ke Pei, Huang Minlie
 conference: "Arxiv"
 year: 2023

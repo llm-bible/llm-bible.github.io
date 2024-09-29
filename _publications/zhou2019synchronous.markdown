@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Synchronous Bidirectional Neural Machine Translation"
+title: Synchronous Bidirectional Neural Machine Translation
 authors: Zhou Long, Zhang Jiajun, Zong Chengqing
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Controlmllm: Training-free Visual Prompt Learning For Multimodal Large Language Models"
+title: Controlmllm: Training-free Visual Prompt Learning For Multimodal Large Language Models
 authors: Wu Mingrui, Cai Xinyue, Ji Jiayi, Li Jiale, Huang Oucheng, Luo Gen, Fei Hao, Sun Xiaoshuai, Ji Rongrong
 conference: "Arxiv"
 year: 2024

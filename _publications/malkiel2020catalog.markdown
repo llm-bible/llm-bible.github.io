@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Recobert: A Catalog Language Model For Text-based Recommendations"
+title: Recobert: A Catalog Language Model For Text-based Recommendations
 authors: Malkiel Itzik, Barkan Oren, Caciularu Avi, Razin Noam, Katz Ori, Koenigstein Noam
 conference: "Arxiv"
 year: 2020

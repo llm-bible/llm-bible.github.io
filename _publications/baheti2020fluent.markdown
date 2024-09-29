@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fluent Response Generation For Conversational Question Answering"
+title: Fluent Response Generation For Conversational Question Answering
 authors: Baheti Ashutosh, Ritter Alan, Small Kevin
 conference: "Arxiv"
 year: 2020

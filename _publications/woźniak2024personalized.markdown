@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Personalized Large Language Models"
+title: Personalized Large Language Models
 authors: Woźniak Stanisław, Koptyra Bartłomiej, Janz Arkadiusz, Kazienko Przemysław, Kocoń Jan
 conference: "Arxiv"
 year: 2024

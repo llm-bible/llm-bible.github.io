@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "XAI Meets Llms: A Survey Of The Relation Between Explainable AI And Large Language Models"
+title: XAI Meets Llms: A Survey Of The Relation Between Explainable AI And Large Language Models
 authors: Cambria Erik, Malandri Lorenzo, Mercorio Fabio, Nobani Navid, Seveso Andrea
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Follow-up Attention: An Empirical Study Of Developer And Neural Model Code Exploration"
+title: Follow-up Attention: An Empirical Study Of Developer And Neural Model Code Exploration
 authors: Paltenghi Matteo, Pandita Rahul, Henley Austin Z., Ziegler Albert
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Play To Your Strengths: Collaborative Intelligence Of Conventional Recommender Models And Large Language Models"
+title: Play To Your Strengths: Collaborative Intelligence Of Conventional Recommender Models And Large Language Models
 authors: Xi Yunjia, Liu Weiwen, Lin Jianghao, Wu Chuhan, Chen Bo, Tang Ruiming, Zhang Weinan, Yu Yong
 conference: "Arxiv"
 year: 2024

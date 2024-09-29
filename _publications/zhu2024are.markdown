@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Are Large Language Models Good Statisticians?"
+title: Are Large Language Models Good Statisticians?
 authors: Zhu Yizhang, Du Shiyin, Li Boyan, Luo Yuyu, Tang Nan
 conference: "Arxiv"
 year: 2024

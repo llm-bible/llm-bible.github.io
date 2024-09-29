@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Approximating Online Human Evaluation Of Social Chatbots With Prompting"
+title: Approximating Online Human Evaluation Of Social Chatbots With Prompting
 authors: Svikhnushina Ekaterina, Pu Pearl
 conference: "Arxiv"
 year: 2023

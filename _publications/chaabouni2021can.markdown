@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Transformers Jump Around Right In Natural Language? Assessing Performance Transfer From SCAN"
+title: Can Transformers Jump Around Right In Natural Language? Assessing Performance Transfer From SCAN
 authors: Chaabouni Rahma, Dessì Roberto, Kharitonov Eugene
 conference: "Arxiv"
 year: 2021

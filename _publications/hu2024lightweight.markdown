@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Lightweight Modality Adaptation To Sequential Recommendation Via Correlation Supervision"
+title: Lightweight Modality Adaptation To Sequential Recommendation Via Correlation Supervision
 authors: Hu Hengchang, Liu Qijiong, Li Chuang, Kan Min-yen
 conference: "Arxiv"
 year: 2024

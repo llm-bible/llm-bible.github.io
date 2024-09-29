@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "X-instructblip: A Framework For Aligning X-modal Instruction-aware Representations To Llms And Emergent Cross-modal Reasoning"
+title: X-instructblip: A Framework For Aligning X-modal Instruction-aware Representations To Llms And Emergent Cross-modal Reasoning
 authors: Panagopoulou Artemis, Xue Le, Yu Ning, Li Junnan, Li Dongxu, Joty Shafiq, Xu Ran, Savarese Silvio, Xiong Caiming, Niebles Juan Carlos
 conference: "Arxiv"
 year: 2023

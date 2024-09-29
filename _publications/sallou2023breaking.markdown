@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Breaking The Silence: The Threats Of Using Llms In Software Engineering"
+title: Breaking The Silence: The Threats Of Using Llms In Software Engineering
 authors: Sallou June, Durieux Thomas, Panichella Annibale
 conference: "Arxiv"
 year: 2023

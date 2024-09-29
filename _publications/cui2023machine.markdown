@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Machine Mindset: An MBTI Exploration Of Large Language Models"
+title: Machine Mindset: An MBTI Exploration Of Large Language Models
 authors: Cui Jiaxi, Lv Liuzhenghao, Wen Jing, Wang Rongsheng, Tang Jing, Tian Yonghong, Yuan Li
 conference: "Arxiv"
 year: 2023

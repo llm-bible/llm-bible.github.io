@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Just Tell Me: Prompt Engineering In Business Process Management"
+title: Just Tell Me: Prompt Engineering In Business Process Management
 authors: Busch Kiran, Rochlitzer Alexander, Sola Diana, Leopold Henrik
 conference: "Arxiv"
 year: 2023

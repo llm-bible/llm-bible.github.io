@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multihop-rag: Benchmarking Retrieval-augmented Generation For Multi-hop Queries"
+title: Multihop-rag: Benchmarking Retrieval-augmented Generation For Multi-hop Queries
 authors: Tang Yixuan, Yang Yi
 conference: "Arxiv"
 year: 2024

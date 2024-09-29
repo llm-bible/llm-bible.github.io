@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Vision Language Transformers: A Survey"
+title: Vision Language Transformers: A Survey
 authors: Fields Clayton, Kennington Casey
 conference: "Arxiv"
 year: 2023

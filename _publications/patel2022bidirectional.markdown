@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bidirectional Language Models Are Also Few-shot Learners"
+title: Bidirectional Language Models Are Also Few-shot Learners
 authors: Patel Ajay, Li Bryan, Rasooli Mohammad Sadegh, Constant Noah, Raffel Colin, Callison-burch Chris
 conference: "Arxiv"
 year: 2022

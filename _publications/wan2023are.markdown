@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Are Personalized Stochastic Parrots More Dangerous? Evaluating Persona Biases In Dialogue Systems"
+title: Are Personalized Stochastic Parrots More Dangerous? Evaluating Persona Biases In Dialogue Systems
 authors: Wan Yixin, Zhao Jieyu, Chadha Aman, Peng Nanyun, Chang Kai-wei
 conference: "Arxiv"
 year: 2023

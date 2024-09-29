@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Inference To The Best Explanation In Large Language Models"
+title: Inference To The Best Explanation In Large Language Models
 authors: Dalal Dhairya, Valentino Marco, Freitas André, Buitelaar Paul
 conference: "Arxiv"
 year: 2024

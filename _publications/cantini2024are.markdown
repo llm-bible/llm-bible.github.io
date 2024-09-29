@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Are Large Language Models Really Bias-free? Jailbreak Prompts For Assessing Adversarial Robustness To Bias Elicitation"
+title: Are Large Language Models Really Bias-free? Jailbreak Prompts For Assessing Adversarial Robustness To Bias Elicitation
 authors: Cantini Riccardo, Cosenza Giada, Orsino Alessio, Talia Domenico
 conference: "Arxiv"
 year: 2024

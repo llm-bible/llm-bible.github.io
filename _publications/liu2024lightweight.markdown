@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Agentlite: A Lightweight Library For Building And Advancing Task-oriented LLM Agent System"
+title: Agentlite: A Lightweight Library For Building And Advancing Task-oriented LLM Agent System
 authors: Liu Zhiwei, Yao Weiran, Zhang Jianguo, Yang Liangwei, Liu Zuxin, Tan Juntao, Choubey Prafulla K., Lan Tian, Wu Jason, Wang Huan, Heinecke Shelby, Xiong Caiming, Savarese Silvio
 conference: "Arxiv"
 year: 2024

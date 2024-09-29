@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "What Large Language Models Bring To Text-rich VQA?"
+title: What Large Language Models Bring To Text-rich VQA?
 authors: Liu Xuejing, Tang Wei, Ni Xinzhe, Lu Jinghui, Zhao Rui, Li Zechao, Tan Fei
 conference: "Arxiv"
 year: 2023

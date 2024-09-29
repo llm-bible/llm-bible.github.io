@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Grounding Large Language Models In Interactive Environments With Online Reinforcement Learning"
+title: Grounding Large Language Models In Interactive Environments With Online Reinforcement Learning
 authors: Carta Thomas, Romac Clément, Wolf Thomas, Lamprier Sylvain, Sigaud Olivier, Oudeyer Pierre-yves
 conference: "PMLR"
 year: 2023

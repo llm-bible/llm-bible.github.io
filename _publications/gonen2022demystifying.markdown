@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Demystifying Prompts In Language Models Via Perplexity Estimation"
+title: Demystifying Prompts In Language Models Via Perplexity Estimation
 authors: Hila Gonen, Srini Iyer, Terra Blevins, Noah A. Smith, Luke Zettlemoyer
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Friend Or Foe? Exploring The Implications Of Large Language Models On The Science System"
+title: Friend Or Foe? Exploring The Implications Of Large Language Models On The Science System
 authors: Fecher Benedikt, Hebing Marcel, Laufer Melissa, Pohle Jörg, Sofsky Fabian
 conference: "Arxiv"
 year: 2023

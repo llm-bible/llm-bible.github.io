@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unraveling The Dilemma Of AI Errors: Exploring The Effectiveness Of Human And Machine Explanations For Large Language Models"
+title: Unraveling The Dilemma Of AI Errors: Exploring The Effectiveness Of Human And Machine Explanations For Large Language Models
 authors: Pafla Marvin, Larson Kate, Hancock Mark
 conference: "Arxiv"
 year: 2024

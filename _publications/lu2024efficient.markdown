@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Efficient Encoder-decoder Transformer Decoding For Decomposable Tasks"
+title: Efficient Encoder-decoder Transformer Decoding For Decomposable Tasks
 authors: Lu Bo-ru, Haduong Nikita, Lin Chien-yu, Cheng Hao, Smith Noah A., Ostendorf Mari
 conference: "Arxiv"
 year: 2024

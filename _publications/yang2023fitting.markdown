@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "PRCA: Fitting Black-box Large Language Models For Retrieval Question Answering Via Pluggable Reward-driven Contextual Adapter"
+title: PRCA: Fitting Black-box Large Language Models For Retrieval Question Answering Via Pluggable Reward-driven Contextual Adapter
 authors: Yang Haoyan, Li Zhitao, Zhang Yong, Wang Jianzong, Cheng Ning, Li Ming, Xiao Jing
 conference: "Arxiv"
 year: 2023

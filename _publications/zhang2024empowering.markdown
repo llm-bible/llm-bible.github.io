@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Shieldlm: Empowering Llms As Aligned, Customizable And Explainable Safety Detectors"
+title: Shieldlm: Empowering Llms As Aligned, Customizable And Explainable Safety Detectors
 authors: Zhang Zhexin, Lu Yida, Ma Jingyuan, Zhang Di, Li Rui, Ke Pei, Sun Hao, Sha Lei, Sui Zhifang, Wang Hongning, Huang Minlie
 conference: "Arxiv"
 year: 2024

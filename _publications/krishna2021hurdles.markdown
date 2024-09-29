@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Hurdles To Progress In Long-form Question Answering"
+title: Hurdles To Progress In Long-form Question Answering
 authors: Krishna Kalpesh, Roy Aurko, Iyyer Mohit
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Memory And Knowledge Augmented Language Models For Inferring Salience In Long-form Stories"
+title: Memory And Knowledge Augmented Language Models For Inferring Salience In Long-form Stories
 authors: Wilmot David, Keller Frank
 conference: "Arxiv"
 year: 2021

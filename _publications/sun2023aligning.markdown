@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Aligning Large Multimodal Models With Factually Augmented RLHF"
+title: Aligning Large Multimodal Models With Factually Augmented RLHF
 authors: Zhiqing Sun, Sheng Shen, Shengcao Cao, Haotian Liu, Chunyuan Li, Yikang Shen, Chuang Gan, Liang-yan Gui, Yu-xiong Wang, Yiming Yang, Kurt Keutzer, Trevor Darrell
 conference: "Arxiv"
 year: 2023

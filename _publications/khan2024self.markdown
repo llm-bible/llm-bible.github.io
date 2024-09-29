@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Self-training Large Language Models For Improved Visual Program Synthesis With Visual Reinforcement"
+title: Self-training Large Language Models For Improved Visual Program Synthesis With Visual Reinforcement
 authors: Khan Zaid, Bg Vijay Kumar, Schulter Samuel, Fu Yun, Chandraker Manmohan
 conference: "Arxiv"
 year: 2024

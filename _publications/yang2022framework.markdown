@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Testaug: A Framework For Augmenting Capability-based NLP Tests"
+title: Testaug: A Framework For Augmenting Capability-based NLP Tests
 authors: Yang Guanqun, Haque Mirazul, Song Qiaochu, Yang Wei, Liu Xueqing
 conference: "Arxiv"
 year: 2022

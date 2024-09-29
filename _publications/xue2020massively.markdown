@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mt5: A Massively Multilingual Pre-trained Text-to-text Transformer"
+title: Mt5: A Massively Multilingual Pre-trained Text-to-text Transformer
 authors: Linting Xue, Noah Constant, Adam Roberts, Mihir Kale, Rami Al-rfou, Aditya Siddhant, Aditya Barua, Colin Raffel
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mobilequant: Mobile-friendly Quantization For On-device Language Models"
+title: Mobilequant: Mobile-friendly Quantization For On-device Language Models
 authors: Tan Fuwen, Lee Royson, Dudziak Łukasz, Hu Shell Xu, Bhattacharya Sourav, Hospedales Timothy, Tzimiropoulos Georgios, Martinez Brais
 conference: "Arxiv"
 year: 2024

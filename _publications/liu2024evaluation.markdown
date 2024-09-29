@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "SHIELD: Evaluation And Defense Strategies For Copyright Compliance In LLM Text Generation"
+title: SHIELD: Evaluation And Defense Strategies For Copyright Compliance In LLM Text Generation
 authors: Liu Xiaoze, Sun Ting, Xu Tianyang, Wu Feijie, Wang Cunxiang, Wang Xiaoqian, Gao Jing
 conference: "Arxiv"
 year: 2024

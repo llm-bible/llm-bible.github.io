@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Simple Recurrent Units For Highly Parallelizable Recurrence"
+title: Simple Recurrent Units For Highly Parallelizable Recurrence
 authors: Lei Tao, Zhang Yu, Wang Sida I., Dai Hui, Artzi Yoav
 conference: "Arxiv"
 year: 2017

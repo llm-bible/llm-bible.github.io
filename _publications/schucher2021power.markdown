@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Power Of Prompt Tuning For Low-resource Semantic Parsing"
+title: The Power Of Prompt Tuning For Low-resource Semantic Parsing
 authors: Schucher Nathan, Reddy Siva, De Vries Harm
 conference: "Arxiv"
 year: 2021

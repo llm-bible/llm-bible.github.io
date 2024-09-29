@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Transformer Language Models Handle Word Frequency In Prediction Head"
+title: Transformer Language Models Handle Word Frequency In Prediction Head
 authors: Kobayashi Goro, Kuribayashi Tatsuki, Yokoi Sho, Inui Kentaro
 conference: "Arxiv"
 year: 2023

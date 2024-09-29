@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Investigating Data Contamination In Modern Benchmarks For Large Language Models"
+title: Investigating Data Contamination In Modern Benchmarks For Large Language Models
 authors: Deng Chunyuan, Zhao Yilun, Tang Xiangru, Gerstein Mark, Cohan Arman
 conference: "Arxiv"
 year: 2023

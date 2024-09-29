@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chatgpt-3.5, Chatgpt-4, Google Bard, And Microsoft Bing To Improve Health Literacy And Communication In Pediatric Populations And Beyond"
+title: Chatgpt-3.5, Chatgpt-4, Google Bard, And Microsoft Bing To Improve Health Literacy And Communication In Pediatric Populations And Beyond
 authors: Amin Kanhai S., Mayes Linda, Khosla Pavan, Doshi Rushabh
 conference: "Arxiv"
 year: 2023

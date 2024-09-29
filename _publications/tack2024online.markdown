@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Online Adaptation Of Language Models With A Memory Of Amortized Contexts"
+title: Online Adaptation Of Language Models With A Memory Of Amortized Contexts
 authors: Tack Jihoon, Kim Jaehyung, Mitchell Eric, Shin Jinwoo, Teh Yee Whye, Schwarz Jonathan Richard
 conference: "Arxiv"
 year: 2024

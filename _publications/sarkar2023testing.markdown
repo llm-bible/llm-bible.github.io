@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Testing The Limits Of Unified Sequence To Sequence LLM Pretraining On Diverse Table Data Tasks"
+title: Testing The Limits Of Unified Sequence To Sequence LLM Pretraining On Diverse Table Data Tasks
 authors: Sarkar Soumajyoti, Lausen Leonard
 conference: "Arxiv"
 year: 2023

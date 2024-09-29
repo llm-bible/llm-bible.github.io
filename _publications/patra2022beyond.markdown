@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Beyond English-centric Bitexts For Better Multilingual Language Representation Learning"
+title: Beyond English-centric Bitexts For Better Multilingual Language Representation Learning
 authors: Patra Barun, Singhal Saksham, Huang Shaohan, Chi Zewen, Dong Li, Wei Furu, Chaudhary Vishrav, Song Xia
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Sequential Monte Carlo Steering Of Large Language Models Using Probabilistic Programs"
+title: Sequential Monte Carlo Steering Of Large Language Models Using Probabilistic Programs
 authors: Lew Alexander K., Zhi-xuan Tan, Grand Gabriel, Mansinghka Vikash K.
 conference: "Arxiv"
 year: 2023

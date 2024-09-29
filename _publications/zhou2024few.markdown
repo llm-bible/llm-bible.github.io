@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Few-shot Adversarial Prompt Learning On Vision-language Models"
+title: Few-shot Adversarial Prompt Learning On Vision-language Models
 authors: Zhou Yiwei, Xia Xiaobo, Lin Zhiwei, Han Bo, Liu Tongliang
 conference: "Arxiv"
 year: 2024

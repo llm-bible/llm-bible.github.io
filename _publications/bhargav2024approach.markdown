@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "An Approach To Build Zero-shot Slot-filling System For Industry-grade Conversational Assistants"
+title: An Approach To Build Zero-shot Slot-filling System For Industry-grade Conversational Assistants
 authors: Bhargav G P Shrivatsa, Neelam Sumit, Sharma Udit, Ikbal Shajith, Sreedhar Dheeraj, Karanam Hima, Joshi Sachindra, Dhoolia Pankaj, Garg Dinesh, Croutwater Kyle, Qi Haode, Wayne Eric, Murdock J William
 conference: "Arxiv"
 year: 2024

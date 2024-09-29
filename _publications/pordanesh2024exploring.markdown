@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring The Efficacy Of Large Language Models (GPT-4) In Binary Reverse Engineering"
+title: Exploring The Efficacy Of Large Language Models (GPT-4) In Binary Reverse Engineering
 authors: Pordanesh Saman, Tan Benjamin
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Probing Emergent Semantics In Predictive Agents Via Question Answering"
+title: Probing Emergent Semantics In Predictive Agents Via Question Answering
 authors: Das Abhishek, Carnevale Federico, Merzic Hamza, Rimell Laura, Schneider Rosalia, Abramson Josh, Hung Alden, Ahuja Arun, Clark Stephen, Wayne Gregory, Hill Felix
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Olympicarena: Benchmarking Multi-discipline Cognitive Reasoning For Superintelligent AI"
+title: Olympicarena: Benchmarking Multi-discipline Cognitive Reasoning For Superintelligent AI
 authors: Huang Zhen, Wang Zengzhi, Xia Shijie, Li Xuefeng, Zou Haoyang, Xu Ruijie, Fan Run-ze, Ye Lyumanshan, Chern Ethan, Ye Yixin, Zhang Yikai, Yang Yuqing, Wu Ting, Wang Binjie, Sun Shichao, Xiao Yang, Li Yiyuan, Zhou Fan, Chern Steffi, Qin Yiwei, Ma Yan, Su Jiadi, Liu Yixiu, Zheng Yuxiang, Zhang Shaoting, Lin Dahua, Qiao Yu, Liu Pengfei
 conference: "Arxiv"
 year: 2024

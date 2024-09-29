@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "VURF: A General-purpose Reasoning And Self-refinement Framework For Video Understanding"
+title: VURF: A General-purpose Reasoning And Self-refinement Framework For Video Understanding
 authors: Mahmood Ahmad, Vayani Ashmal, Naseer Muzammal, Khan Salman, Khan Fahad Shahbaz
 conference: "Arxiv"
 year: 2024

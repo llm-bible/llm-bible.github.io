@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Are Bigger Encoders Always Better In Vision Large Models?"
+title: Are Bigger Encoders Always Better In Vision Large Models?
 authors: Li Bozhou, Liang Hao, Meng Zimo, Zhang Wentao
 conference: "Arxiv"
 year: 2024

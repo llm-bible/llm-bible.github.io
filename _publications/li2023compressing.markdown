@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Compressing Context To Enhance Inference Efficiency Of Large Language Models"
+title: Compressing Context To Enhance Inference Efficiency Of Large Language Models
 authors: Li Yucheng, Dong Bo, Lin Chenghua, Guerin Frank
 conference: "Arxiv"
 year: 2023

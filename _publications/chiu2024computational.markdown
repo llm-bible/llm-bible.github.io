@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Computational Framework For Behavioral Assessment Of LLM Therapists"
+title: A Computational Framework For Behavioral Assessment Of LLM Therapists
 authors: Chiu Yu Ying, Sharma Ashish, Lin Inna Wanyin, Althoff Tim
 conference: "Arxiv"
 year: 2024

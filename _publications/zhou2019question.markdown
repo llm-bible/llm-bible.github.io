@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Question-type Driven Question Generation"
+title: Question-type Driven Question Generation
 authors: Zhou Wenjie, Zhang Minghua, Wu Yunfang
 conference: "Arxiv"
 year: 2019

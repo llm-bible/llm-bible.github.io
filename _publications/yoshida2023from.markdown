@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "From Text To Motion: Grounding GPT-4 In A Humanoid Robot "alter3""
+title: From Text To Motion: Grounding GPT-4 In A Humanoid Robot "alter3"
 authors: Yoshida Takahide, Masumori Atsushi, Ikegami Takashi
 conference: "Arxiv"
 year: 2023

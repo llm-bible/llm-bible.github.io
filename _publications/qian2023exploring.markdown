@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ""merge Conflicts!" Exploring The Impacts Of External Distractors To Parametric Knowledge Graphs"
+title: "merge Conflicts!" Exploring The Impacts Of External Distractors To Parametric Knowledge Graphs
 authors: Qian Cheng, Zhao Xinran, Wu Sherry Tongshuang
 conference: "Arxiv"
 year: 2023

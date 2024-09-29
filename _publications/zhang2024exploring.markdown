@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring The Best Practices Of Query Expansion With Large Language Models"
+title: Exploring The Best Practices Of Query Expansion With Large Language Models
 authors: Zhang Le, Wu Yihong, Yang Qian, Nie Jian-yun
 conference: "Arxiv"
 year: 2024

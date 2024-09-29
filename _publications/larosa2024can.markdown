@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Github Issues Be Solved With Tree Of Thoughts?"
+title: Can Github Issues Be Solved With Tree Of Thoughts?
 authors: La Rosa Ricardo, Hulse Corey, Liu Bangdi
 conference: "Arxiv"
 year: 2024

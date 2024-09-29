@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "NVIDIA Nemo Neural Machine Translation Systems For English-german And English-russian News And Biomedical Tasks At WMT21"
+title: NVIDIA Nemo Neural Machine Translation Systems For English-german And English-russian News And Biomedical Tasks At WMT21
 authors: Subramanian Sandeep, Hrinchuk Oleksii, Adams Virginia, Kuchaiev Oleksii
 conference: "Arxiv"
 year: 2021

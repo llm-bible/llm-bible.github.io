@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Aligning Large Language Models With Self-generated Preference Data"
+title: Aligning Large Language Models With Self-generated Preference Data
 authors: Kim Dongyoung, Lee Kimin, Shin Jinwoo, Kim Jaehyung
 conference: "Arxiv"
 year: 2024

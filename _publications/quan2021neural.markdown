@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Vinmt: Neural Machine Translation Toolkit"
+title: Vinmt: Neural Machine Translation Toolkit
 authors: Quan Nguyen Hoang, Dat Nguyen Thanh, Cong Nguyen Hoang Minh, Van Vinh Nguyen, Vinh Ngo Thi, Thai Nguyen Phuong, Viet Tran Hong
 conference: "Arxiv"
 year: 2021

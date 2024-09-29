@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Gpt3mix: Leveraging Large-scale Language Models For Text Augmentation"
+title: Gpt3mix: Leveraging Large-scale Language Models For Text Augmentation
 authors: Yoo Kang Min, Park Dongju, Kang Jaewook, Lee Sang-woo, Park Woomyeong
 conference: "Arxiv"
 year: 2021

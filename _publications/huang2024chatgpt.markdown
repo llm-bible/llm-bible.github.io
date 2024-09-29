@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chatgpt Rates Natural Language Explanation Quality Like Humans: But On Which Scales?"
+title: Chatgpt Rates Natural Language Explanation Quality Like Humans: But On Which Scales?
 authors: Huang Fan, Kwak Haewoon, Park Kunwoo, An Jisun
 conference: "Arxiv"
 year: 2024

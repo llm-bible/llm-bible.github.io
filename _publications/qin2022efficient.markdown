@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "ELLE: Efficient Lifelong Pre-training For Emerging Data"
+title: ELLE: Efficient Lifelong Pre-training For Emerging Data
 authors: Qin Yujia, Zhang Jiajie, Lin Yankai, Liu Zhiyuan, Li Peng, Sun Maosong, Zhou Jie
 conference: "Arxiv"
 year: 2022

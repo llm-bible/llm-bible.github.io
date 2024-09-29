@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Assessing Translation Capabilities Of Large Language Models Involving English And Indian Languages"
+title: Assessing Translation Capabilities Of Large Language Models Involving English And Indian Languages
 authors: Mujadia Vandan, Urlana Ashok, Bhaskar Yash, Pavani Penumalla Aditya, Shravya Kukkapalli, Krishnamurthy Parameswari, Sharma Dipti Misra
 conference: "Arxiv"
 year: 2023

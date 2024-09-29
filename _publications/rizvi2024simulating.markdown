@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Simulating Weighted Automata Over Sequences And Trees With Transformers"
+title: Simulating Weighted Automata Over Sequences And Trees With Transformers
 authors: Rizvi Michael, Lizaire Maude, Lacroce Clara, Rabusseau Guillaume
 conference: "Arxiv"
 year: 2024

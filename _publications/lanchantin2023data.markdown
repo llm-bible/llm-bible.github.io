@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Data Source For Reasoning Embodied Agents"
+title: A Data Source For Reasoning Embodied Agents
 authors: Lanchantin Jack, Sukhbaatar Sainbayar, Synnaeve Gabriel, Sun Yuxuan, Srinet Kavya, Szlam Arthur
 conference: "Arxiv"
 year: 2023

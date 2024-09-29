@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Audiogpt: Understanding And Generating Speech, Music, Sound, And Talking Head"
+title: Audiogpt: Understanding And Generating Speech, Music, Sound, And Talking Head
 authors: Rongjie Huang, Mingze Li, Dongchao Yang, Jiatong Shi, Xuankai Chang, Zhenhui Ye, Yuning Wu, Zhiqing Hong, Jiawei Huang, Jinglin Liu, Yi Ren, Zhou Zhao, Shinji Watanabe
 conference: "Arxiv"
 year: 2023

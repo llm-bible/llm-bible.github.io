@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Distilling Efficient Language-specific Models For Cross-lingual Transfer"
+title: Distilling Efficient Language-specific Models For Cross-lingual Transfer
 authors: Ansell Alan, Ponti Edoardo Maria, Korhonen Anna, Vulić Ivan
 conference: "Arxiv"
 year: 2023

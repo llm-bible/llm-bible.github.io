@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Diversifying The Expert Knowledge For Task-agnostic Pruning In Sparse Mixture-of-experts"
+title: Diversifying The Expert Knowledge For Task-agnostic Pruning In Sparse Mixture-of-experts
 authors: Zhang Zeliang, Liu Xiaodong, Cheng Hao, Xu Chenliang, Gao Jianfeng
 conference: "Arxiv"
 year: 2024

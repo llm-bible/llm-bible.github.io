@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Taxonomy-based Checklist For Large Language Model Evaluation"
+title: Taxonomy-based Checklist For Large Language Model Evaluation
 authors: Zhang Damin
 conference: "Arxiv"
 year: 2023

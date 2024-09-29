@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Lamemo: Language Modeling With Look-ahead Memory"
+title: Lamemo: Language Modeling With Look-ahead Memory
 authors: Ji Haozhe, Zhang Rongsheng, Yang Zhenyu, Hu Zhipeng, Huang Minlie
 conference: "Arxiv"
 year: 2022

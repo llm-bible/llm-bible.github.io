@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "How Well Do Large Language Models Truly Ground?"
+title: How Well Do Large Language Models Truly Ground?
 authors: Lee Hyunji, Joo Sejune, Kim Chaeeun, Jang Joel, Kim Doyoung, On Kyoung-woon, Seo Minjoon
 conference: "Arxiv"
 year: 2023

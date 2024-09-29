@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Not All Attention Is Needed: Parameter And Computation Efficient Transfer Learning For Multi-modal Large Language Models"
+title: Not All Attention Is Needed: Parameter And Computation Efficient Transfer Learning For Multi-modal Large Language Models
 authors: Wu Qiong, Ye Weihao, Zhou Yiyi, Sun Xiaoshuai, Ji Rongrong
 conference: "Arxiv"
 year: 2024

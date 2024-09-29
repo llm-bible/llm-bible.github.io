@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models For Education: A Survey"
+title: Large Language Models For Education: A Survey
 authors: Xu Hanyi, Gan Wensheng, Qi Zhenlian, Wu Jiayang, Yu Philip S.
 conference: "Arxiv"
 year: 2024

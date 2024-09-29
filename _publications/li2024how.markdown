@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Scilitllm: How To Adapt Llms For Scientific Literature Understanding"
+title: Scilitllm: How To Adapt Llms For Scientific Literature Understanding
 authors: Li Sihang, Huang Jin, Zhuang Jiaxi, Shi Yaorui, Cai Xiaochen, Xu Mingjun, Wang Xiang, Zhang Linfeng, Ke Guolin, Cai Hengxing
 conference: "Arxiv"
 year: 2024

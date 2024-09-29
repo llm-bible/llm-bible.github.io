@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Schema-guided Paradigm For Zero-shot Dialog"
+title: Schema-guided Paradigm For Zero-shot Dialog
 authors: Mehri Shikib, Eskenazi Maxine
 conference: "Arxiv"
 year: 2021

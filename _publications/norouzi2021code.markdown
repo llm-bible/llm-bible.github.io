@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Code Generation From Natural Language With Less Prior And More Monolingual Data"
+title: Code Generation From Natural Language With Less Prior And More Monolingual Data
 authors: Norouzi Sajad, Tang Keyi, Cao Yanshuai
 conference: "Arxiv"
 year: 2021

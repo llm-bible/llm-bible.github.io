@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Compound Text-guided Prompt Tuning Via Image-adaptive Cues"
+title: Compound Text-guided Prompt Tuning Via Image-adaptive Cues
 authors: Tan Hao, Li Jun, Zhou Yizhuang, Wan Jun, Lei Zhen, Zhang Xiangyu
 conference: "Arxiv"
 year: 2023

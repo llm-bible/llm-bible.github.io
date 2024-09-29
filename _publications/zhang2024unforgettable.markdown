@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unforgettable Generalization In Language Models"
+title: Unforgettable Generalization In Language Models
 authors: Zhang Eric, Chosen Leshem, Andreas Jacob
 conference: "First Conference on Language Modeling"
 year: 2024

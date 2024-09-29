@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unveiling And Harnessing Hidden Attention Sinks: Enhancing Large Language Models Without Training Through Attention Calibration"
+title: Unveiling And Harnessing Hidden Attention Sinks: Enhancing Large Language Models Without Training Through Attention Calibration
 authors: Yu Zhongzhi, Wang Zheng, Fu Yonggan, Shi Huihong, Shaikh Khalid, Lin Yingyan Celine
 conference: "Arxiv"
 year: 2024

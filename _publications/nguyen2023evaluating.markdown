@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating The Symbol Binding Ability Of Large Language Models For Multiple-choice Questions In Vietnamese General Education"
+title: Evaluating The Symbol Binding Ability Of Large Language Models For Multiple-choice Questions In Vietnamese General Education
 authors: Nguyen Duc-vu, Nguyen Quoc-nam
 conference: "Arxiv"
 year: 2023

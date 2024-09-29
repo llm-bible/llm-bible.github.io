@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Distilling Large Language Models For Text-attributed Graph Learning"
+title: Distilling Large Language Models For Text-attributed Graph Learning
 authors: Pan Bo, Zhang Zheng, Zhang Yifei, Hu Yuntong, Zhao Liang
 conference: "Arxiv"
 year: 2024

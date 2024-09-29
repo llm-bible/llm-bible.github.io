@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Small Language Models Be Good Reasoners For Sequential Recommendation?"
+title: Can Small Language Models Be Good Reasoners For Sequential Recommendation?
 authors: Yuling Wang, Changxin Tian, Binbin Hu, Yanhua Yu, Ziqi Liu, Zhiqiang Zhang, Jun Zhou, Liang Pang, Xiao Wang
 conference: "Arxiv"
 year: 2024

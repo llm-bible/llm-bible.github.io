@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Investigating Pre-trained Language Models On Cross-domain Datasets, A Step Closer To General AI"
+title: Investigating Pre-trained Language Models On Cross-domain Datasets, A Step Closer To General AI
 authors: Ballout Mohamad, Krumnack Ulf, Heidemann Gunther, Kühnberger Kai-uwe
 conference: "Arxiv"
 year: 2023

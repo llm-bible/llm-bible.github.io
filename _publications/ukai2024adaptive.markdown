@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Adacoder: Adaptive Prompt Compression For Programmatic Visual Question Answering"
+title: Adacoder: Adaptive Prompt Compression For Programmatic Visual Question Answering
 authors: Ukai Mahiro, Kurita Shuhei, Hashimoto Atsushi, Ushiku Yoshitaka, Inoue Nakamasa
 conference: "Arxiv"
 year: 2024

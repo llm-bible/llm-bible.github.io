@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Spectral Editing Of Activations For Large Language Model Alignment"
+title: Spectral Editing Of Activations For Large Language Model Alignment
 authors: Qiu Yifu, Zhao Zheng, Ziser Yftah, Korhonen Anna, Ponti Edoardo M., Cohen Shay B.
 conference: "Arxiv"
 year: 2024

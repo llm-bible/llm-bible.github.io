@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Phaseevo: Towards Unified In-context Prompt Optimization For Large Language Models"
+title: Phaseevo: Towards Unified In-context Prompt Optimization For Large Language Models
 authors: Cui Wendi, Zhang Jiaxin, Li Zhuohang, Sun Hao, Lopez Damien, Das Kamalika, Malin Bradley, Kumar Sricharan
 conference: "Arxiv"
 year: 2024

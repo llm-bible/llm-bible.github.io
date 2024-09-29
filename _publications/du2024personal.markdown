@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Perltqa: A Personal Long-term Memory Dataset For Memory Classification, Retrieval, And Synthesis In Question Answering"
+title: Perltqa: A Personal Long-term Memory Dataset For Memory Classification, Retrieval, And Synthesis In Question Answering
 authors: Du Yiming, Wang Hongru, Zhao Zhengyi, Liang Bin, Wang Baojun, Zhong Wanjun, Wang Zezhong, Wong Kam-fai
 conference: "Arxiv"
 year: 2024

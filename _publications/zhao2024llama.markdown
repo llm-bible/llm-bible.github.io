@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Llama Beyond English: An Empirical Study On Language Capability Transfer"
+title: Llama Beyond English: An Empirical Study On Language Capability Transfer
 authors: Zhao Jun, Zhang Zhihao, Gao Luhui, Zhang Qi, Gui Tao, Huang Xuanjing
 conference: "Arxiv"
 year: 2024

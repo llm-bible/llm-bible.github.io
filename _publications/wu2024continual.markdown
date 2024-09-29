@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Continual Learning For Large Language Models: A Survey"
+title: Continual Learning For Large Language Models: A Survey
 authors: Wu Tongtong, Luo Linhao, Li Yuan-fang, Pan Shirui, Vu Thuy-trang, Haffari Gholamreza
 conference: "Arxiv"
 year: 2024

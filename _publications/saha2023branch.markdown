@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Branch-solve-merge Improves Large Language Model Evaluation And Generation"
+title: Branch-solve-merge Improves Large Language Model Evaluation And Generation
 authors: Saha Swarnadeep, Levy Omer, Celikyilmaz Asli, Bansal Mohit, Weston Jason, Li Xian
 conference: "Arxiv"
 year: 2023

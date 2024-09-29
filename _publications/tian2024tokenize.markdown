@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tokenize The World Into Object-level Knowledge To Address Long-tail Events In Autonomous Driving"
+title: Tokenize The World Into Object-level Knowledge To Address Long-tail Events In Autonomous Driving
 authors: Tian Ran, Li Boyi, Weng Xinshuo, Chen Yuxiao, Schmerling Edward, Wang Yue, Ivanovic Boris, Pavone Marco
 conference: "Arxiv"
 year: 2024

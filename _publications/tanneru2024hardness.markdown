@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On The Hardness Of Faithful Chain-of-thought Reasoning In Large Language Models"
+title: On The Hardness Of Faithful Chain-of-thought Reasoning In Large Language Models
 authors: Tanneru Sree Harsha, Ley Dan, Agarwal Chirag, Lakkaraju Himabindu
 conference: "Arxiv"
 year: 2024

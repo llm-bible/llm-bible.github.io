@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Web Can Be Your Oyster For Improving Large Language Models"
+title: The Web Can Be Your Oyster For Improving Large Language Models
 authors: Li Junyi, Tang Tianyi, Zhao Wayne Xin, Wang Jingyuan, Nie Jian-yun, Wen Ji-rong
 conference: "Arxiv"
 year: 2023

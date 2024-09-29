@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Lossless Acceleration Of Large Language Model Via Adaptive N-gram Parallel Decoding"
+title: Lossless Acceleration Of Large Language Model Via Adaptive N-gram Parallel Decoding
 authors: Ou Jie, Chen Yueming, Tian Wenhong
 conference: "Arxiv"
 year: 2024

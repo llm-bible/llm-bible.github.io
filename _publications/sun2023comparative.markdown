@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Comparative Study Between Full-parameter And Lora-based Fine-tuning On Chinese Instruction Data For Instruction Following Large Language Model"
+title: A Comparative Study Between Full-parameter And Lora-based Fine-tuning On Chinese Instruction Data For Instruction Following Large Language Model
 authors: Sun Xianghui, Ji Yunjie, Ma Baochang, Li Xiangang
 conference: "Arxiv"
 year: 2023

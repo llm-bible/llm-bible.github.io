@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Ruffle&riley: Towards The Automated Induction Of Conversational Tutoring Systems"
+title: Ruffle&riley: Towards The Automated Induction Of Conversational Tutoring Systems
 authors: Schmucker Robin, Xia Meng, Azaria Amos, Mitchell Tom
 conference: "Arxiv"
 year: 2023

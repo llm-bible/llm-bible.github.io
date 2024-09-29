@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Healthcare Copilot: Eliciting The Power Of General Llms For Medical Consultation"
+title: Healthcare Copilot: Eliciting The Power Of General Llms For Medical Consultation
 authors: Ren Zhiyao, Zhan Yibing, Yu Baosheng, Ding Liang, Tao Dacheng
 conference: "Arxiv"
 year: 2024

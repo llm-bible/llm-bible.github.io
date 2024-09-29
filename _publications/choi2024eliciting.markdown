@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Picle: Eliciting Diverse Behaviors From Large Language Models With Persona In-context Learning"
+title: Picle: Eliciting Diverse Behaviors From Large Language Models With Persona In-context Learning
 authors: Choi Hyeong Kyu, Li Yixuan
 conference: "Arxiv"
 year: 2024

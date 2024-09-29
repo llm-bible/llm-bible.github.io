@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Automatic Jailbreaking Of The Text-to-image Generative AI Systems"
+title: Automatic Jailbreaking Of The Text-to-image Generative AI Systems
 authors: Kim Minseon, Lee Hyomin, Gong Boqing, Zhang Huishuai, Hwang Sung Ju
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Enhancing Event Reasoning In Large Language Models Through Instruction Fine-tuning With Semantic Causal Graphs"
+title: Enhancing Event Reasoning In Large Language Models Through Instruction Fine-tuning With Semantic Causal Graphs
 authors: Bethany Mazal, Bethany Emet, Wherry Brandon, Chiang Cho-yu, Vishwamitra Nishant, Rios Anthony, Najafirad Peyman
 conference: "Arxiv"
 year: 2024

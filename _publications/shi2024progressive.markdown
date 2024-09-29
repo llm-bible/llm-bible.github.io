@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Profuser: Progressive Fusion Of Large Language Models"
+title: Profuser: Progressive Fusion Of Large Language Models
 authors: Shi Tianyuan, Wan Fanqi, Huang Canbin, Quan Xiaojun, Li Chenliang, Yan Ming, Zhang Ji
 conference: "Arxiv"
 year: 2024

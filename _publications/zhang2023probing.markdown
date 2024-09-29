@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Probing The Multi-turn Planning Capabilities Of Llms Via 20 Question Games"
+title: Probing The Multi-turn Planning Capabilities Of Llms Via 20 Question Games
 authors: Zhang Yizhe, Lu Jiarui, Jaitly Navdeep
 conference: "Arxiv"
 year: 2023

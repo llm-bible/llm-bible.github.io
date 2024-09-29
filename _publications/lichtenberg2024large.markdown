@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models As Recommender Systems: A Study Of Popularity Bias"
+title: Large Language Models As Recommender Systems: A Study Of Popularity Bias
 authors: Lichtenberg Jan Malte, Buchholz Alexander, Schwöbel Pola
 conference: "Arxiv"
 year: 2024

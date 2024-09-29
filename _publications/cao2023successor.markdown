@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Successor Features For Efficient Multisubject Controlled Text Generation"
+title: Successor Features For Efficient Multisubject Controlled Text Generation
 authors: Cao Meng, Fatemi Mehdi, Cheung Jackie Chi Kit, Shabanian Samira
 conference: "Arxiv"
 year: 2023

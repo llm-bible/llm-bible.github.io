@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Climategpt: Towards AI Synthesizing Interdisciplinary Research On Climate Change"
+title: Climategpt: Towards AI Synthesizing Interdisciplinary Research On Climate Change
 authors: Thulke David, Gao Yingbo, Pelser Petrus, Brune Rein, Jalota Rricha, Fok Floris, Ramos Michael, Van Wyk Ian, Nasir Abdallah, Goldstein Hayden, Tragemann Taylor, Nguyen Katie, Fowler Ariana, Stanco Andrew, Gabriel Jon, Taylor Jordan, Moro Dean, Tsymbalov Evgenii, De Waal Juliette, Matusov Evgeny, Yaghi Mudar, Shihadah Mohammad, Ney Hermann, Dugast Christian, Dotan Jonathan, Erasmus Daniel
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models With Controllable Working Memory"
+title: Large Language Models With Controllable Working Memory
 authors: Li Daliang, Rawat Ankit Singh, Zaheer Manzil, Wang Xin, Lukasik Michal, Veit Andreas, Yu Felix, Kumar Sanjiv
 conference: "Arxiv"
 year: 2022

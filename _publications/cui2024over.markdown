@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Or-bench: An Over-refusal Benchmark For Large Language Models"
+title: Or-bench: An Over-refusal Benchmark For Large Language Models
 authors: Cui Justin, Chiang Wei-lin, Stoica Ion, Hsieh Cho-jui
 conference: "Arxiv"
 year: 2024

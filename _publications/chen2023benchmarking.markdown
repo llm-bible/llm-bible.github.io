@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Benchmarking Large Language Models In Retrieval-augmented Generation"
+title: Benchmarking Large Language Models In Retrieval-augmented Generation
 authors: Chen Jiawei, Lin Hongyu, Han Xianpei, Sun Le
 conference: "Arxiv"
 year: 2023

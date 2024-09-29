@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bridging Text And Video: A Universal Multimodal Transformer For Video-audio Scene-aware Dialog"
+title: Bridging Text And Video: A Universal Multimodal Transformer For Video-audio Scene-aware Dialog
 authors: Li Zekang, Li Zongjia, Zhang Jinchao, Feng Yang, Niu Cheng, Zhou Jie
 conference: "Arxiv"
 year: 2020

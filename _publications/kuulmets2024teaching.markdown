@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Teaching Llama A New Language Through Cross-lingual Knowledge Transfer"
+title: Teaching Llama A New Language Through Cross-lingual Knowledge Transfer
 authors: Kuulmets Hele-andra, Purason Taido, Luhtaru Agnes, Fishel Mark
 conference: "Findings of the Association for Computational Linguistics NAACL"
 year: 2024

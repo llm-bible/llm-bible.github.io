@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Are Human Conversations Special? A Large Language Model Perspective"
+title: Are Human Conversations Special? A Large Language Model Perspective
 authors: Jawale Toshish, Animesh Chaitanya, Vallath Sekhar, Talamadupula Kartik, Heck Larry
 conference: "Arxiv"
 year: 2024

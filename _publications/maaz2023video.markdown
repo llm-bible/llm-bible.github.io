@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Video-chatgpt: Towards Detailed Video Understanding Via Large Vision And Language Models"
+title: Video-chatgpt: Towards Detailed Video Understanding Via Large Vision And Language Models
 authors: Maaz Muhammad, Rasheed Hanoona, Khan Salman, Khan Fahad Shahbaz
 conference: "Arxiv"
 year: 2023

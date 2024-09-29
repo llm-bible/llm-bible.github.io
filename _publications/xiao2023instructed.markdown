@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Instructed Language Models With Retrievers Are Powerful Entity Linkers"
+title: Instructed Language Models With Retrievers Are Powerful Entity Linkers
 authors: Xiao Zilin, Gong Ming, Wu Jie, Zhang Xingyao, Shou Linjun, Pei Jian, Jiang Daxin
 conference: "Arxiv"
 year: 2023

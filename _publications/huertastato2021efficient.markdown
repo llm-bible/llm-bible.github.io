@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "SILT: Efficient Transformer Training For Inter-lingual Inference"
+title: SILT: Efficient Transformer Training For Inter-lingual Inference
 authors: Huertas-tato Javier, Martín Alejandro, Camacho David
 conference: "Arxiv"
 year: 2021

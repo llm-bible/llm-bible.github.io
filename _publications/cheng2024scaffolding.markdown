@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "BISCUIT: Scaffolding Llm-generated Code With Ephemeral Uis In Computational Notebooks"
+title: BISCUIT: Scaffolding Llm-generated Code With Ephemeral Uis In Computational Notebooks
 authors: Cheng Ruijia, Barik Titus, Leung Alan, Hohman Fred, Nichols Jeffrey
 conference: "Arxiv"
 year: 2024

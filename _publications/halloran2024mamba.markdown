@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mamba State-space Models Can Be Strong Downstream Learners"
+title: Mamba State-space Models Can Be Strong Downstream Learners
 authors: Halloran John T., Gulati Manbir, Roysdon Paul F.
 conference: "Arxiv"
 year: 2024

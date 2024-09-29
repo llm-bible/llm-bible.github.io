@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Memory In Humans And Deep Language Models: Linking Hypotheses For Model Augmentation"
+title: Memory In Humans And Deep Language Models: Linking Hypotheses For Model Augmentation
 authors: Raccah Omri, Chen Phoebe, Willke Ted L., Poeppel David, Vo Vy A.
 conference: "Arxiv"
 year: 2022

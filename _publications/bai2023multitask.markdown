@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Longbench: A Bilingual, Multitask Benchmark For Long Context Understanding"
+title: Longbench: A Bilingual, Multitask Benchmark For Long Context Understanding
 authors: Bai Yushi, Lv Xin, Zhang Jiajie, Lyu Hongchang, Tang Jiankai, Huang Zhidian, Du Zhengxiao, Liu Xiao, Zeng Aohan, Hou Lei, Dong Yuxiao, Tang Jie, Li Juanzi
 conference: "Arxiv"
 year: 2023

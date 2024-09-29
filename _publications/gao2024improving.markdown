@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving Language Understanding From Screenshots"
+title: Improving Language Understanding From Screenshots
 authors: Gao Tianyu, Wang Zirui, Bhaskar Adithya, Chen Danqi
 conference: "Arxiv"
 year: 2024

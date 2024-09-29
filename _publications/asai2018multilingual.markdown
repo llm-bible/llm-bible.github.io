@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multilingual Extractive Reading Comprehension By Runtime Machine Translation"
+title: Multilingual Extractive Reading Comprehension By Runtime Machine Translation
 authors: Asai Akari, Eriguchi Akiko, Hashimoto Kazuma, Tsuruoka Yoshimasa
 conference: "Arxiv"
 year: 2018

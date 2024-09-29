@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Augmenting Query And Passage For Retrieval-augmented Generation Using Llms For Open-domain Question Answering"
+title: Augmenting Query And Passage For Retrieval-augmented Generation Using Llms For Open-domain Question Answering
 authors: Kim Minsang, Park Cheoneum, Baek Seungjun
 conference: "Arxiv"
 year: 2024

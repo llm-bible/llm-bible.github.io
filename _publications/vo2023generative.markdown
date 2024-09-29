@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Generative Pre-trained Transformer For Vietnamese Community-based COVID-19 Question Answering"
+title: Generative Pre-trained Transformer For Vietnamese Community-based COVID-19 Question Answering
 authors: Vo Tam Minh, Tran Khiem Vinh
 conference: "Arxiv"
 year: 2023

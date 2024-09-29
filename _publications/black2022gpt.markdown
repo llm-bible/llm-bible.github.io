@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Gpt-neox-20b: An Open-source Autoregressive Language Model"
+title: Gpt-neox-20b: An Open-source Autoregressive Language Model
 authors: Sid Black, Stella Biderman, Eric Hallahan, Quentin Anthony, Leo Gao, Laurence Golding, Horace He, Connor Leahy, Kyle Mcdonell, Jason Phang, Michael Pieler, Usvsn Sai Prashanth, Shivanshu Purohit, Laria Reynolds, Jonathan Tow, Ben Wang, Samuel Weinbach
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pareto Optimal Learning For Estimating Large Language Model Errors"
+title: Pareto Optimal Learning For Estimating Large Language Model Errors
 authors: Zhao Theodore, Wei Mu, Preston J. Samuel, Poon Hoifung
 conference: "Arxiv"
 year: 2023

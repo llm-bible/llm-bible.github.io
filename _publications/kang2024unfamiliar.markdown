@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unfamiliar Finetuning Examples Control How Language Models Hallucinate"
+title: Unfamiliar Finetuning Examples Control How Language Models Hallucinate
 authors: Kang Katie, Wallace Eric, Tomlin Claire, Kumar Aviral, Levine Sergey
 conference: "Arxiv"
 year: 2024

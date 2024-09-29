@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Guiding Large Language Models Via Directional Stimulus Prompting"
+title: Guiding Large Language Models Via Directional Stimulus Prompting
 authors: Li Zekun, Peng Baolin, He Pengcheng, Galley Michel, Gao Jianfeng, Yan Xifeng
 conference: "Arxiv"
 year: 2023

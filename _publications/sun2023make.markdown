@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Make Prompt-based Black-box Tuning Colorful: Boosting Model Generalization From Three Orthogonal Perspectives"
+title: Make Prompt-based Black-box Tuning Colorful: Boosting Model Generalization From Three Orthogonal Perspectives
 authors: Sun Qiushi, Han Chengcheng, Chen Nuo, Zhu Renyu, Gong Jingyang, Li Xiang, Gao Ming
 conference: "Arxiv"
 year: 2023

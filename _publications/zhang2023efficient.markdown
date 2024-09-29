@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Efficient Toxic Content Detection By Bootstrapping And Distilling Large Language Models"
+title: Efficient Toxic Content Detection By Bootstrapping And Distilling Large Language Models
 authors: Zhang Jiang, Wu Qiong, Xu Yiming, Cao Cheng, Du Zheng, Psounis Konstantinos
 conference: "Arxiv"
 year: 2023

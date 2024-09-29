@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "KMMLU: Measuring Massive Multitask Language Understanding In Korean"
+title: KMMLU: Measuring Massive Multitask Language Understanding In Korean
 authors: Son Guijin, Lee Hanwool, Kim Sungdong, Kim Seungone, Muennighoff Niklas, Choi Taekyoon, Park Cheonbok, Yoo Kang Min, Biderman Stella
 conference: "Arxiv"
 year: 2024

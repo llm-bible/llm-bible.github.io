@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Efficient LLM Inference On Cpus"
+title: Efficient LLM Inference On Cpus
 authors: Shen Haihao, Chang Hanwen, Dong Bo, Luo Yu, Meng Hengyu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Survey Of Vision-language Pre-trained Models"
+title: A Survey Of Vision-language Pre-trained Models
 authors: Du Yifan, Liu Zikang, Li Junyi, Zhao Wayne Xin
 conference: "Arxiv"
 year: 2022

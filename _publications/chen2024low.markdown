@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Livemind: Low-latency Large Language Models With Simultaneous Inference"
+title: Livemind: Low-latency Large Language Models With Simultaneous Inference
 authors: Chen Chuangtao, Zhang Grace Li, Yin Xunzhao, Zhuo Cheng, Schlichtmann Ulf, Li Bing
 conference: "Arxiv"
 year: 2024

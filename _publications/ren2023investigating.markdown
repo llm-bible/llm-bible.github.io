@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Investigating The Factual Knowledge Boundary Of Large Language Models With Retrieval Augmentation"
+title: Investigating The Factual Knowledge Boundary Of Large Language Models With Retrieval Augmentation
 authors: Ren Ruiyang, Wang Yuhao, Qu Yingqi, Zhao Wayne Xin, Liu Jing, Tian Hao, Wu Hua, Wen Ji-rong, Wang Haifeng
 conference: "Arxiv"
 year: 2023

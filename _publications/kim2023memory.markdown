@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Memory-efficient Fine-tuning Of Compressed Large Language Models Via Sub-4-bit Integer Quantization"
+title: Memory-efficient Fine-tuning Of Compressed Large Language Models Via Sub-4-bit Integer Quantization
 authors: Kim Jeonghoon, Lee Jung Hyun, Kim Sungdong, Park Joonsuk, Yoo Kang Min, Kwon Se Jung, Lee Dongsoo
 conference: "Arxiv"
 year: 2023

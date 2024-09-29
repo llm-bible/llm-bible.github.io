@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Learn From Model Beyond Fine-tuning: A Survey"
+title: Learn From Model Beyond Fine-tuning: A Survey
 authors: Zheng Hongling, Shen Li, Tang Anke, Luo Yong, Hu Han, Du Bo, Tao Dacheng
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Characterizing Verbatim Short-term Memory In Neural Language Models"
+title: Characterizing Verbatim Short-term Memory In Neural Language Models
 authors: Armeni Kristijan, Honey Christopher, Linzen Tal
 conference: "Arxiv"
 year: 2022

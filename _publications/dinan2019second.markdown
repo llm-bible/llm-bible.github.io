@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Second Conversational Intelligence Challenge (convai2)"
+title: The Second Conversational Intelligence Challenge (convai2)
 authors: Dinan Emily, Logacheva Varvara, Malykh Valentin, Miller Alexander, Shuster Kurt, Urbanek Jack, Kiela Douwe, Szlam Arthur, Serban Iulian, Lowe Ryan, Prabhumoye Shrimai, Black Alan W, Rudnicky Alexander, Williams Jason, Pineau Joelle, Burtsev Mikhail, Weston Jason
 conference: "Arxiv"
 year: 2019

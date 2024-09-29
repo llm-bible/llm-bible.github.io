@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving Zero-shot Visual Question Answering Via Large Language Models With Reasoning Question Prompts"
+title: Improving Zero-shot Visual Question Answering Via Large Language Models With Reasoning Question Prompts
 authors: Lan Yunshi, Li Xiang, Liu Xin, Li Yang, Qin Wei, Qian Weining
 conference: "Arxiv"
 year: 2023

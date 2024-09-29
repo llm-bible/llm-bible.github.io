@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Let Me Speak Freely? A Study On The Impact Of Format Restrictions On Performance Of Large Language Models"
+title: Let Me Speak Freely? A Study On The Impact Of Format Restrictions On Performance Of Large Language Models
 authors: Tam Zhi Rui, Wu Cheng-kuang, Tsai Yi-lin, Lin Chieh-yen, Lee Hung-yi, Chen Yun-nung
 conference: "Arxiv"
 year: 2024

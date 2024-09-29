@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Keeping Users Engaged During Repeated Administration Of The Same Questionnaire: Using Large Language Models To Reliably Diversify Questions"
+title: Keeping Users Engaged During Repeated Administration Of The Same Questionnaire: Using Large Language Models To Reliably Diversify Questions
 authors: Yun Hye Sun, Arjmand Mehdi, Sherlock Phillip, Paasche-orlow Michael K., Griffith James W., Bickmore Timothy
 conference: "Arxiv"
 year: 2023

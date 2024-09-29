@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Novel Nuanced Conversation Evaluation Framework For Large Language Models In Mental Health"
+title: A Novel Nuanced Conversation Evaluation Framework For Large Language Models In Mental Health
 authors: Marrapese Alexander, Suleiman Basem, Ullah Imdad, Kim Juno
 conference: "Arxiv"
 year: 2024

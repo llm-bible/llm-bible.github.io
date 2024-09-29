@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Retrieving Supporting Evidence For Generative Question Answering"
+title: Retrieving Supporting Evidence For Generative Question Answering
 authors: Huo Siqing, Arabzadeh Negar, Clarke Charles L. A.
 conference: "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region"
 year: 2023

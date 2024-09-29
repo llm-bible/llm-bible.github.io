@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Disentangling Length From Quality In Direct Preference Optimization"
+title: Disentangling Length From Quality In Direct Preference Optimization
 authors: Park Ryan, Rafailov Rafael, Ermon Stefano, Finn Chelsea
 conference: "Arxiv"
 year: 2024

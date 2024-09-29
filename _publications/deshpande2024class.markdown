@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Class-level Code Generation From Natural Language Using Iterative, Tool-enhanced Reasoning Over Repository"
+title: Class-level Code Generation From Natural Language Using Iterative, Tool-enhanced Reasoning Over Repository
 authors: Deshpande Ajinkya, Agarwal Anmol, Shet Shashank, Iyer Arun, Kanade Aditya, Bairi Ramakrishna, Parthasarathy Suresh
 conference: "Arxiv"
 year: 2024

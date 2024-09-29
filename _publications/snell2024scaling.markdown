@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Scaling LLM Test-time Compute Optimally Can Be More Effective Than Scaling Model Parameters"
+title: Scaling LLM Test-time Compute Optimally Can Be More Effective Than Scaling Model Parameters
 authors: Snell Charlie, Lee Jaehoon, Xu Kelvin, Kumar Aviral
 conference: "Arxiv"
 year: 2024

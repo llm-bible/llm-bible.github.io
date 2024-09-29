@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chatgpt Beyond English: Towards A Comprehensive Evaluation Of Large Language Models In Multilingual Learning"
+title: Chatgpt Beyond English: Towards A Comprehensive Evaluation Of Large Language Models In Multilingual Learning
 authors: Lai Viet Dac, Ngo Nghia Trung, Veyseh Amir Pouran Ben, Man Hieu, Dernoncourt Franck, Bui Trung, Nguyen Thien Huu
 conference: "Arxiv"
 year: 2023

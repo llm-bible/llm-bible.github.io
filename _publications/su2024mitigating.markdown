@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mitigating Entity-level Hallucination In Large Language Models"
+title: Mitigating Entity-level Hallucination In Large Language Models
 authors: Su Weihang, Tang Yichen, Ai Qingyao, Wang Changyue, Wu Zhijing, Liu Yiqun
 conference: "Arxiv"
 year: 2024

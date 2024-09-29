@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Probing Conceptual Understanding Of Large Visual-language Models"
+title: Probing Conceptual Understanding Of Large Visual-language Models
 authors: Schiappa Madeline, Abdullah Raiyaan, Azad Shehreen, Claypoole Jared, Cogswell Michael, Divakaran Ajay, Rawat Yogesh
 conference: "Arxiv"
 year: 2023

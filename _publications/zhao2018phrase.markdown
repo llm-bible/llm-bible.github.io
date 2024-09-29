@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Phrase Table As Recommendation Memory For Neural Machine Translation"
+title: Phrase Table As Recommendation Memory For Neural Machine Translation
 authors: Zhao Yang, Wang Yining, Zhang Jiajun, Zong Chengqing
 conference: "Arxiv"
 year: 2018

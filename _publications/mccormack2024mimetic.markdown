@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mimetic Poet"
+title: Mimetic Poet
 authors: Mccormack Jon, Wilson Elliott, Rajcic Nina, Llano Maria Teresa
 conference: "Arxiv"
 year: 2024

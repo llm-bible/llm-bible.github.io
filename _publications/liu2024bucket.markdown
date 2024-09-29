@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bucket Pre-training Is All You Need"
+title: Bucket Pre-training Is All You Need
 authors: Liu Hongtao, Peng Qiyao, Yang Qing, Liu Kai, Xu Hongyan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Red Teaming Chatgpt Via Jailbreaking: Bias, Robustness, Reliability And Toxicity"
+title: Red Teaming Chatgpt Via Jailbreaking: Bias, Robustness, Reliability And Toxicity
 authors: Zhuo Terry Yue, Huang Yujin, Chen Chunyang, Xing Zhenchang
 conference: "Arxiv"
 year: 2023

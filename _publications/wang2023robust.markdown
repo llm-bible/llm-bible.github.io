@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Robust Natural Language Understanding With Residual Attention Debiasing"
+title: Robust Natural Language Understanding With Residual Attention Debiasing
 authors: Wang Fei, Huang James Y., Yan Tianyi, Zhou Wenxuan, Chen Muhao
 conference: "Arxiv"
 year: 2023

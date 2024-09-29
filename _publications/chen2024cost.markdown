@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cost-effective Instruction Learning For Pathology Vision And Language Analysis"
+title: Cost-effective Instruction Learning For Pathology Vision And Language Analysis
 authors: Chen Kaitao, Liu Mianxin, Yan Fang, Ma Lei, Shi Xiaoming, Wang Lilong, Wang Xiaosong, Zhu Lifeng, Wang Zhe, Zhou Mu, Zhang Shaoting
 conference: "Arxiv"
 year: 2024

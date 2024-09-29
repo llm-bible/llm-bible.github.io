@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "TRIGO: Benchmarking Formal Mathematical Proof Reduction For Generative Language Models"
+title: TRIGO: Benchmarking Formal Mathematical Proof Reduction For Generative Language Models
 authors: Xiong Jing, Shen Jianhao, Yuan Ye, Wang Haiming, Yin Yichun, Liu Zhengying, Li Lin, Guo Zhijiang, Cao Qingxing, Huang Yinya, Zheng Chuanyang, Liang Xiaodan, Zhang Ming, Liu Qun
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Corrective Retrieval Augmented Generation"
+title: Corrective Retrieval Augmented Generation
 authors: Yan Shi-qi, Gu Jia-chen, Zhu Yun, Ling Zhen-hua
 conference: "Arxiv"
 year: 2024

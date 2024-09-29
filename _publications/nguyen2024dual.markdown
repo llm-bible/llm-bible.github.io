@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dude: Dual Distribution-aware Context Prompt Learning For Large Vision-language Model"
+title: Dude: Dual Distribution-aware Context Prompt Learning For Large Vision-language Model
 authors: Nguyen Duy M. H., Le An T., Nguyen Trung Q., Diep Nghiem T., Nguyen Tai, Duong-tran Duy, Peters Jan, Shen Li, Niepert Mathias, Sonntag Daniel
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Open-world Recommendation With Knowledge Augmentation From Large Language Models"
+title: Towards Open-world Recommendation With Knowledge Augmentation From Large Language Models
 authors: Xi Yunjia, Liu Weiwen, Lin Jianghao, Cai Xiaoling, Zhu Hong, Zhu Jieming, Chen Bo, Tang Ruiming, Zhang Weinan, Zhang Rui, Yu Yong
 conference: "Arxiv"
 year: 2023

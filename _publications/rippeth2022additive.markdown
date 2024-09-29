@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Additive Interventions Yield Robust Multi-domain Machine Translation Models"
+title: Additive Interventions Yield Robust Multi-domain Machine Translation Models
 authors: Rippeth Elijah, Post Matt
 conference: "Arxiv"
 year: 2022

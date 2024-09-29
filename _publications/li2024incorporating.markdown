@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Incorporating External Knowledge And Goal Guidance For Llm-based Conversational Recommender Systems"
+title: Incorporating External Knowledge And Goal Guidance For Llm-based Conversational Recommender Systems
 authors: Li Chuang, Deng Yang, Hu Hengchang, Kan Min-yen, Li Haizhou
 conference: "Arxiv"
 year: 2024

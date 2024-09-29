@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Quantized Transformer Language Model Implementations On Edge Devices"
+title: Quantized Transformer Language Model Implementations On Edge Devices
 authors: Rahman Mohammad Wali Ur, Abrar Murad Mehrab, Copening Hunter Gibbons, Hariri Salim, Shao Sicong, Satam Pratik, Salehi Soheil
 conference: "Arxiv"
 year: 2023

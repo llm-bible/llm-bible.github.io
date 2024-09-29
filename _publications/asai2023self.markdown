@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Self-rag: Learning To Retrieve, Generate, And Critique Through Self-reflection"
+title: Self-rag: Learning To Retrieve, Generate, And Critique Through Self-reflection
 authors: Asai Akari, Wu Zeqiu, Wang Yizhong, Sil Avirup, Hajishirzi Hannaneh
 conference: "Arxiv"
 year: 2023

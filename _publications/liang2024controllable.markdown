@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Controllable Text Generation For Large Language Models: A Survey"
+title: Controllable Text Generation For Large Language Models: A Survey
 authors: Liang Xun, Wang Hanyu, Wang Yezhaohui, Song Shichao, Yang Jiawei, Niu Simin, Hu Jie, Liu Dan, Yao Shunyu, Xiong Feiyu, Li Zhiyu
 conference: "Arxiv"
 year: 2024

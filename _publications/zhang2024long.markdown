@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "LUQ: Long-text Uncertainty Quantification For Llms"
+title: LUQ: Long-text Uncertainty Quantification For Llms
 authors: Zhang Caiqi, Liu Fangyu, Basaldella Marco, Collier Nigel
 conference: "Arxiv"
 year: 2024

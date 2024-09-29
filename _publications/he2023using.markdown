@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Using Natural Language Explanations To Improve Robustness Of In-context Learning"
+title: Using Natural Language Explanations To Improve Robustness Of In-context Learning
 authors: He Xuanli, Wu Yuxiang, Camburu Oana-maria, Minervini Pasquale, Stenetorp Pontus
 conference: "Arxiv"
 year: 2023

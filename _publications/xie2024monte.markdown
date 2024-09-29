@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Monte Carlo Tree Search Boosts Reasoning Via Iterative Preference Learning"
+title: Monte Carlo Tree Search Boosts Reasoning Via Iterative Preference Learning
 authors: Xie Yuxi, Goyal Anirudh, Zheng Wenyue, Kan Min-yen, Lillicrap Timothy P., Kawaguchi Kenji, Shieh Michael
 conference: "Arxiv"
 year: 2024

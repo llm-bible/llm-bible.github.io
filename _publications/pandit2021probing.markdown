@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Probing For Bridging Inference In Transformer Language Models"
+title: Probing For Bridging Inference In Transformer Language Models
 authors: Pandit Onkar, Hou Yufang
 conference: "Arxiv"
 year: 2021

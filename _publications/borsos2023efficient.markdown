@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Soundstorm: Efficient Parallel Audio Generation"
+title: Soundstorm: Efficient Parallel Audio Generation
 authors: Borsos Zalán, Sharifi Matt, Vincent Damien, Kharitonov Eugene, Zeghidour Neil, Tagliasacchi Marco
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "What GPT Knows About Who Is Who"
+title: What GPT Knows About Who Is Who
 authors: Yang Xiaohan, Peynetti Eduardo, Meerman Vasco, Tanner Chris
 conference: "Arxiv"
 year: 2022

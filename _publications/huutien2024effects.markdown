@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On Effects Of Steering Latent Representation For Large Language Model Unlearning"
+title: On Effects Of Steering Latent Representation For Large Language Model Unlearning
 authors: Huu-tien Dang, Pham Trung-tin, Thanh-tung Hoang, Inoue Naoya
 conference: "Arxiv"
 year: 2024

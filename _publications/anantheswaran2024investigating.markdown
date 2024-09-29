@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Investigating The Robustness Of Llms On Math Word Problems"
+title: Investigating The Robustness Of Llms On Math Word Problems
 authors: Anantheswaran Ujjwala, Gupta Himanshu, Scaria Kevin, Verma Shreyas, Baral Chitta, Mishra Swaroop
 conference: "Arxiv"
 year: 2024

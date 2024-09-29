@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Structsum Generation For Faster Text Comprehension"
+title: Structsum Generation For Faster Text Comprehension
 authors: Jain Parag, Marzoca Andreea, Piccinno Francesco
 conference: "Arxiv"
 year: 2024

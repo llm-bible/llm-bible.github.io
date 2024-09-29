@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chatgpt Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions"
+title: Chatgpt Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions
 authors: Deyao Zhu, Jun Chen, Kilichbek Haydarov, Xiaoqian Shen, Wenxuan Zhang, Mohamed Elhoseiny
 conference: "Arxiv"
 year: 2023

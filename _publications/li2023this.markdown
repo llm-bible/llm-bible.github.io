@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "This Land Is {your, My} Land: Evaluating Geopolitical Biases In Language Models"
+title: This Land Is {your, My} Land: Evaluating Geopolitical Biases In Language Models
 authors: Li Bryan, Haider Samar, Callison-burch Chris
 conference: "Arxiv"
 year: 2023

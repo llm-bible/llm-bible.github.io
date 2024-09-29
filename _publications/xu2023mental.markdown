@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mental-llm: Leveraging Large Language Models For Mental Health Prediction Via Online Text Data"
+title: Mental-llm: Leveraging Large Language Models For Mental Health Prediction Via Online Text Data
 authors: Xu Xuhai, Yao Bingsheng, Dong Yuanzhe, Gabriel Saadia, Yu Hong, Hendler James, Ghassemi Marzyeh, Dey Anind K., Wang Dakuo
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Simple LLM Framework For Long-range Video Question-answering"
+title: A Simple LLM Framework For Long-range Video Question-answering
 authors: Zhang Ce, Lu Taixi, Islam Md Mohaiminul, Wang Ziyang, Yu Shoubin, Bansal Mohit, Bertasius Gedas
 conference: "Arxiv"
 year: 2023

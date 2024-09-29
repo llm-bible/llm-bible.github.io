@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pangu-coder2: Boosting Large Language Models For Code With Ranking Feedback"
+title: Pangu-coder2: Boosting Large Language Models For Code With Ranking Feedback
 authors: Shen Bo, Zhang Jiaxin, Chen Taihong, Zan Daoguang, Geng Bing, Fu An, Zeng Muhan, Yu Ailun, Ji Jichuan, Zhao Jingyang, Guo Yuenan, Wang Qianxiang
 conference: "Arxiv"
 year: 2023

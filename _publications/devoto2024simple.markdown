@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Simple And Effective $L_2$ Norm-based Strategy For KV Cache Compression"
+title: A Simple And Effective $L_2$ Norm-based Strategy For KV Cache Compression
 authors: Devoto Alessio, Zhao Yu, Scardapane Simone, Minervini Pasquale
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Teenytinyllama: Open-source Tiny Language Models Trained In Brazilian Portuguese"
+title: Teenytinyllama: Open-source Tiny Language Models Trained In Brazilian Portuguese
 authors: Corrêa Nicholas Kluge, Falk Sophia, Fatimah Shiza, Sen Aniket, De Oliveira Nythamar
 conference: "Machine Learning With Applications"
 year: 2024

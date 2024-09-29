@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "How Much Can CLIP Benefit Vision-and-language Tasks?"
+title: How Much Can CLIP Benefit Vision-and-language Tasks?
 authors: Shen Sheng, Li Liunian Harold, Tan Hao, Bansal Mohit, Rohrbach Anna, Chang Kai-wei, Yao Zhewei, Keutzer Kurt
 conference: "Arxiv"
 year: 2021

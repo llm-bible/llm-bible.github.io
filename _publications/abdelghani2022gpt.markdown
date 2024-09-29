@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Gpt-3-driven Pedagogical Agents For Training Children's Curious Question-asking Skills"
+title: Gpt-3-driven Pedagogical Agents For Training Children's Curious Question-asking Skills
 authors: Abdelghani Rania, Wang Yen-hsiang, Yuan Xingdi, Wang Tong, Lucas Pauline, Sauzéon Hélène, Oudeyer Pierre-yves
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "MC-BERT: Efficient Language Pre-training Via A Meta Controller"
+title: MC-BERT: Efficient Language Pre-training Via A Meta Controller
 authors: Xu Zhenhui, Gong Linyuan, Ke Guolin, He Di, Zheng Shuxin, Wang Liwei, Bian Jiang, Liu Tie-yan
 conference: "Arxiv"
 year: 2020

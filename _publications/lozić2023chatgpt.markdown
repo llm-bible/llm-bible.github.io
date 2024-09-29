@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chatgpt V Bard V Bing V Claude 2 V Aria V Human-expert. How Good Are AI Chatbots At Scientific Writing?"
+title: Chatgpt V Bard V Bing V Claude 2 V Aria V Human-expert. How Good Are AI Chatbots At Scientific Writing?
 authors: Lozić Edisa, Štular Benjamin
 conference: "Arxiv"
 year: 2023

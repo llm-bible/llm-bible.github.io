@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Narrativexl: A Large-scale Dataset For Long-term Memory Models"
+title: Narrativexl: A Large-scale Dataset For Long-term Memory Models
 authors: Moskvichev Arseny, Mai Ky-vinh
 conference: "Arxiv"
 year: 2023

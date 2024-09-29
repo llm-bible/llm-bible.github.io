@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "CLOVA: A Closed-loop Visual Assistant With Tool Usage And Update"
+title: CLOVA: A Closed-loop Visual Assistant With Tool Usage And Update
 authors: Gao Zhi, Du Yuntao, Zhang Xintong, Ma Xiaojian, Han Wenjuan, Zhu Song-chun, Li Qing
 conference: "Arxiv"
 year: 2023

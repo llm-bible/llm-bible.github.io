@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multi-task End-to-end Training Improves Conversational Recommendation"
+title: Multi-task End-to-end Training Improves Conversational Recommendation
 authors: Ram Naveen, Kuzmin Dima, Chio Ellie Ka In, Alzantot Moustafa Farid, Ontanon Santiago, Jash Ambarish, Li Judith Yue
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multilingual Jailbreak Challenges In Large Language Models"
+title: Multilingual Jailbreak Challenges In Large Language Models
 authors: Deng Yue, Zhang Wenxuan, Pan Sinno Jialin, Bing Lidong
 conference: "Arxiv"
 year: 2023

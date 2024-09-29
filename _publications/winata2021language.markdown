@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Language Models Are Few-shot Multilingual Learners"
+title: Language Models Are Few-shot Multilingual Learners
 authors: Winata Genta Indra, Madotto Andrea, Lin Zhaojiang, Liu Rosanne, Yosinski Jason, Fung Pascale
 conference: "Arxiv"
 year: 2021

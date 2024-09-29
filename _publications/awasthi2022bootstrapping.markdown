@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bootstrapping Multilingual Semantic Parsers Using Large Language Models"
+title: Bootstrapping Multilingual Semantic Parsers Using Large Language Models
 authors: Awasthi Abhijeet, Gupta Nitish, Samanta Bidisha, Dave Shachi, Sarawagi Sunita, Talukdar Partha
 conference: "Arxiv"
 year: 2022

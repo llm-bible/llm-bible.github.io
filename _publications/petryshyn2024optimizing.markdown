@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Optimizing Large Language Models For Openapi Code Completion"
+title: Optimizing Large Language Models For Openapi Code Completion
 authors: Petryshyn Bohdan, Lukoševičius Mantas
 conference: "Arxiv"
 year: 2024

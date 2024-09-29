@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Efficientqat: Efficient Quantization-aware Training For Large Language Models"
+title: Efficientqat: Efficient Quantization-aware Training For Large Language Models
 authors: Chen Mengzhao, Shao Wenqi, Xu Peng, Wang Jiahao, Gao Peng, Zhang Kaipeng, Qiao Yu, Luo Ping
 conference: "Arxiv"
 year: 2024

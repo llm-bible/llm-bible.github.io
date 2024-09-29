@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Xwin-lm: Strong And Scalable Alignment Practice For Llms"
+title: Xwin-lm: Strong And Scalable Alignment Practice For Llms
 authors: Ni Bolin, Hu Jingcheng, Wei Yixuan, Peng Houwen, Zhang Zheng, Meng Gaofeng, Hu Han
 conference: "Arxiv"
 year: 2024

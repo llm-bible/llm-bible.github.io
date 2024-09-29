@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Democratizing Multilingual Large Language Models For Medicine Through A Two-stage Instruction Fine-tuning Approach"
+title: Towards Democratizing Multilingual Large Language Models For Medicine Through A Two-stage Instruction Fine-tuning Approach
 authors: Zhou Meng, Parmar Surajsinh, Bhatti Anubhav
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Using Large Language Models For Interpreting Autonomous Robots Behaviors"
+title: Using Large Language Models For Interpreting Autonomous Robots Behaviors
 authors: González-santamarta Miguel A., Fernández-becerra Laura, Sobrín-hidalgo David, Guerrero-higueras Ángel Manuel, González Irene, Lera Francisco J. Rodríguez
 conference: "Arxiv"
 year: 2023

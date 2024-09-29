@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Views Are My Own, But Also Yours: Benchmarking Theory Of Mind Using Common Ground"
+title: Views Are My Own, But Also Yours: Benchmarking Theory Of Mind Using Common Ground
 authors: Soubki Adil, Murzaku John, Jordehi Arash Yousefi, Zeng Peter, Markowska Magdalena, Mirroshandel Seyed Abolghasem, Rambow Owen
 conference: "ACL"
 year: 2024

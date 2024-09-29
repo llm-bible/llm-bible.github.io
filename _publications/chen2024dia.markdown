@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dia-llama: Towards Large Language Model-driven CT Report Generation"
+title: Dia-llama: Towards Large Language Model-driven CT Report Generation
 authors: Chen Zhixuan, Luo Luyang, Bie Yequan, Chen Hao
 conference: "Arxiv"
 year: 2024

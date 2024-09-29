@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Text Encoders Lack Knowledge: Leveraging Generative Llms For Domain-specific Semantic Textual Similarity"
+title: Text Encoders Lack Knowledge: Leveraging Generative Llms For Domain-specific Semantic Textual Similarity
 authors: Gatto Joseph, Sharif Omar, Seegmiller Parker, Bohlman Philip, Preum Sarah Masud
 conference: "Arxiv"
 year: 2023

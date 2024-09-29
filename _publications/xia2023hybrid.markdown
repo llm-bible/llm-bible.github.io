@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Hybrid Retrieval-augmented Generation For Real-time Composition Assistance"
+title: Hybrid Retrieval-augmented Generation For Real-time Composition Assistance
 authors: Xia Menglin, Zhang Xuchao, Couturier Camille, Zheng Guoqing, Rajmohan Saravan, Ruhle Victor
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On Learning To Summarize With Large Language Models As References"
+title: On Learning To Summarize With Large Language Models As References
 authors: Liu Yixin, Shi Kejian, He Katherine S, Ye Longtian, Fabbri Alexander R., Liu Pengfei, Radev Dragomir, Cohan Arman
 conference: "Arxiv"
 year: 2023

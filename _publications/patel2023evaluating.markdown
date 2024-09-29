@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating In-context Learning Of Libraries For Code Generation"
+title: Evaluating In-context Learning Of Libraries For Code Generation
 authors: Patel Arkil, Reddy Siva, Bahdanau Dzmitry, Dasigi Pradeep
 conference: "Arxiv"
 year: 2023

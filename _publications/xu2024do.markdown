@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Do Large Language Models Have Compositional Ability? An Investigation Into Limitations And Scalability"
+title: Do Large Language Models Have Compositional Ability? An Investigation Into Limitations And Scalability
 authors: Xu Zhuoyan, Shi Zhenmei, Liang Yingyu
 conference: "Arxiv"
 year: 2024

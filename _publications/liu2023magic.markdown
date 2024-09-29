@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Magic Of IF: Investigating Causal Reasoning Abilities In Large Language Models Of Code"
+title: The Magic Of IF: Investigating Causal Reasoning Abilities In Large Language Models Of Code
 authors: Liu Xiao, Yin Da, Zhang Chen, Feng Yansong, Zhao Dongyan
 conference: "Arxiv"
 year: 2023

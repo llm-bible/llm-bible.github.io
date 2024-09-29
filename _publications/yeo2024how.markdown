@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "How Interpretable Are Reasoning Explanations From Prompting Large Language Models?"
+title: How Interpretable Are Reasoning Explanations From Prompting Large Language Models?
 authors: Yeo Wei Jie, Satapathy Ranjan, Goh Rick Siow Mong, Cambria Erik
 conference: "Arxiv"
 year: 2024

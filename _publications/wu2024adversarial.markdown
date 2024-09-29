@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Adversarial Databases Improve Success In Retrieval-based Large Language Models"
+title: Adversarial Databases Improve Success In Retrieval-based Large Language Models
 authors: Wu Sean, Koo Michael, Kao Li Yo, Black Andy, Blum Lesley, Scalzo Fabien, Kurtz Ira
 conference: "Arxiv"
 year: 2024

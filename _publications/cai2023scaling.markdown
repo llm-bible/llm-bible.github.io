@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Scaling In-context Demonstrations With Structured Attention"
+title: Scaling In-context Demonstrations With Structured Attention
 authors: Cai Tianle, Huang Kaixuan, Lee Jason D., Wang Mengdi
 conference: "Arxiv"
 year: 2023

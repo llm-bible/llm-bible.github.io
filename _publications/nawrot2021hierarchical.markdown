@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Hierarchical Transformers Are More Efficient Language Models"
+title: Hierarchical Transformers Are More Efficient Language Models
 authors: Nawrot Piotr, Tworkowski Szymon, Tyrolski Michał, Kaiser Łukasz, Wu Yuhuai, Szegedy Christian, Michalewski Henryk
 conference: "Arxiv"
 year: 2021

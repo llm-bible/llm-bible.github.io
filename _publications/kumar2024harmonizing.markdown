@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Harmonizing Code-mixed Conversations: Personality-assisted Code-mixed Response Generation In Dialogues"
+title: Harmonizing Code-mixed Conversations: Personality-assisted Code-mixed Response Generation In Dialogues
 authors: Kumar Shivani, Chakraborty Tanmoy
 conference: "Arxiv"
 year: 2024

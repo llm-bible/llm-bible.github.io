@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Training A Vision Language Model As Smartphone Assistant"
+title: Training A Vision Language Model As Smartphone Assistant
 authors: Dorka Nicolai, Marecki Janusz, Anwar Ammar
 conference: "Arxiv"
 year: 2024

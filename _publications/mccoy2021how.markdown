@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "How Much Do Language Models Copy From Their Training Data? Evaluating Linguistic Novelty In Text Generation Using RAVEN"
+title: How Much Do Language Models Copy From Their Training Data? Evaluating Linguistic Novelty In Text Generation Using RAVEN
 authors: Mccoy R. Thomas, Smolensky Paul, Linzen Tal, Gao Jianfeng, Celikyilmaz Asli
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Investigating Multi-hop Factual Shortcuts In Knowledge Editing Of Large Language Models"
+title: Investigating Multi-hop Factual Shortcuts In Knowledge Editing Of Large Language Models
 authors: Ju Tianjie, Chen Yijin, Yuan Xinwei, Zhang Zhuosheng, Du Wei, Zheng Yubin, Liu Gongshen
 conference: "Arxiv"
 year: 2024

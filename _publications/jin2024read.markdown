@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Read To Play (r2-play): Decision Transformer With Multimodal Game Instruction"
+title: Read To Play (r2-play): Decision Transformer With Multimodal Game Instruction
 authors: Jin Yonggang, Zhang Ge, Zhao Hao, Zheng Tianyu, Guo Jarvi, Xiang Liuyu, Yue Shawn, Huang Stephen W., He Zhaofeng, Fu Jie
 conference: "Arxiv"
 year: 2024

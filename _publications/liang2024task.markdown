@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Task Oriented In-domain Data Augmentation"
+title: Task Oriented In-domain Data Augmentation
 authors: Liang Xiao, Hu Xinyu, Zuo Simiao, Gong Yeyun, Lou Qiang, Liu Yi, Huang Shao-lun, Jiao Jian
 conference: "Arxiv"
 year: 2024

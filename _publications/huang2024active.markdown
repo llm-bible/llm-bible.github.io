@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Active Testing Of Large Language Model Via Multi-stage Sampling"
+title: Active Testing Of Large Language Model Via Multi-stage Sampling
 authors: Huang Yuheng, Song Jiayang, Hu Qiang, Juefei-xu Felix, Ma Lei
 conference: "Arxiv"
 year: 2024

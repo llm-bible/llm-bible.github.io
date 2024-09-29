@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "From Distributional To Overton Pluralism: Investigating Large Language Model Alignment"
+title: From Distributional To Overton Pluralism: Investigating Large Language Model Alignment
 authors: Lake Thom, Choi Eunsol, Durrett Greg
 conference: "Arxiv"
 year: 2024

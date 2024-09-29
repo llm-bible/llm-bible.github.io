@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "An Exploratory Study On Long Dialogue Summarization: What Works And What's Next"
+title: An Exploratory Study On Long Dialogue Summarization: What Works And What's Next
 authors: Zhang Yusen, Ni Ansong, Yu Tao, Zhang Rui, Zhu Chenguang, Deb Budhaditya, Celikyilmaz Asli, Awadallah Ahmed Hassan, Radev Dragomir
 conference: "Arxiv"
 year: 2021

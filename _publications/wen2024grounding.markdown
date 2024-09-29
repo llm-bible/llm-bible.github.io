@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Grounding Data Science Code Generation With Input-output Specifications"
+title: Grounding Data Science Code Generation With Input-output Specifications
 authors: Wen Yeming, Yin Pengcheng, Shi Kensen, Michalewski Henryk, Chaudhuri Swarat, Polozov Alex
 conference: "Arxiv"
 year: 2024

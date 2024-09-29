@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "MUSE: Parallel Multi-scale Attention For Sequence To Sequence Learning"
+title: MUSE: Parallel Multi-scale Attention For Sequence To Sequence Learning
 authors: Zhao Guangxiang, Sun Xu, Xu Jingjing, Zhang Zhiyuan, Luo Liangchen
 conference: "Arxiv"
 year: 2019

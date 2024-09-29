@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models Fail On Trivial Alterations To Theory-of-mind Tasks"
+title: Large Language Models Fail On Trivial Alterations To Theory-of-mind Tasks
 authors: Ullman Tomer
 conference: "Arxiv"
 year: 2023

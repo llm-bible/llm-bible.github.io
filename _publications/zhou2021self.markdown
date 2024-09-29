@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Self-guided Curriculum Learning For Neural Machine Translation"
+title: Self-guided Curriculum Learning For Neural Machine Translation
 authors: Zhou Lei, Ding Liang, Duh Kevin, Watanabe Shinji, Sasano Ryohei, Takeda Koichi
 conference: "Arxiv"
 year: 2021

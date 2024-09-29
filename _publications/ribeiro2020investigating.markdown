@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Investigating Pretrained Language Models For Graph-to-text Generation"
+title: Investigating Pretrained Language Models For Graph-to-text Generation
 authors: Ribeiro Leonardo F. R., Schmitt Martin, Schütze Hinrich, Gurevych Iryna
 conference: "Arxiv"
 year: 2020

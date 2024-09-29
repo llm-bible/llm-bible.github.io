@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Autopuredata: Automated Filtering Of Web Data For LLM Fine-tuning"
+title: Autopuredata: Automated Filtering Of Web Data For LLM Fine-tuning
 authors: Vadlapati Praneeth
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Reverse That Number! Decoding Order Matters In Arithmetic Learning"
+title: Reverse That Number! Decoding Order Matters In Arithmetic Learning
 authors: Zhang-li Daniel, Lin Nianyi, Yu Jifan, Zhang Zheyuan, Yao Zijun, Zhang Xiaokang, Hou Lei, Zhang Jing, Li Juanzi
 conference: "Arxiv"
 year: 2024

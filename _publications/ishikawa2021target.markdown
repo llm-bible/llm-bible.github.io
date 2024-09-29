@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Target-dependent UNITER: A Transformer-based Multimodal Language Comprehension Model For Domestic Service Robots"
+title: Target-dependent UNITER: A Transformer-based Multimodal Language Comprehension Model For Domestic Service Robots
 authors: Ishikawa Shintaro, Sugiura Komei
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "An Empirical Study Of Retrieval Augmented Generation With Chain-of-thought"
+title: An Empirical Study Of Retrieval Augmented Generation With Chain-of-thought
 authors: Zhao Yuetong, Cao Hongyu, Zhao Xianyu, Ou Zhijian
 conference: "Arxiv"
 year: 2024

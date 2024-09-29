@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "An Ecosage Assistant: Towards Building A Multimodal Plant Care Dialogue Assistant"
+title: An Ecosage Assistant: Towards Building A Multimodal Plant Care Dialogue Assistant
 authors: Tomar Mohit, Tiwari Abhisek, Saha Tulika, Jha Prince, Saha Sriparna
 conference: "Arxiv"
 year: 2024

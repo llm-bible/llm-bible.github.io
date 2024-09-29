@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "What Does BERT Know About Books, Movies And Music? Probing BERT For Conversational Recommendation"
+title: What Does BERT Know About Books, Movies And Music? Probing BERT For Conversational Recommendation
 authors: Penha Gustavo, Hauff Claudia
 conference: "Arxiv"
 year: 2020

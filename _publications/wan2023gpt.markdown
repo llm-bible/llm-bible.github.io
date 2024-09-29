@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "GPT-RE: In-context Learning For Relation Extraction Using Large Language Models"
+title: GPT-RE: In-context Learning For Relation Extraction Using Large Language Models
 authors: Wan Zhen, Cheng Fei, Mao Zhuoyuan, Liu Qianying, Song Haiyue, Li Jiwei, Kurohashi Sadao
 conference: "Arxiv"
 year: 2023

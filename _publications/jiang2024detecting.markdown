@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Detecting Scams Using Large Language Models"
+title: Detecting Scams Using Large Language Models
 authors: Jiang Liming
 conference: "Arxiv"
 year: 2024

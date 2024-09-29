@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "RTP-LX: Can Llms Evaluate Toxicity In Multilingual Scenarios?"
+title: RTP-LX: Can Llms Evaluate Toxicity In Multilingual Scenarios?
 authors: De Wynter Adrian, Watts Ishaan, Altıntoprak Nektar Ege, Wongsangaroonsri Tua, Zhang Minghui, Farra Noura, Baur Lena, Claudet Samantha, Gajdusek Pavel, Gören Can, Gu Qilong, Kaminska Anna, Kaminski Tomasz, Kuo Ruby, Kyuba Akiko, Lee Jongho, Mathur Kartik, Merok Petter, Milovanović Ivana, Paananen Nani, Paananen Vesa-matti, Pavlenko Anna, Vidal Bruno Pereira, Strika Luciano, Tsao Yueh, Turcato Davide, Vakhno Oleksandr, Velcsov Judit, Vickers Anna, Visser Stéphanie, Widarmanto Herdyan, Zaikin Andrey, Chen Si-qing
 conference: "Arxiv"
 year: 2024

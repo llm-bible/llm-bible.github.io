@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Augmenting Interpretable Models With Llms During Training"
+title: Augmenting Interpretable Models With Llms During Training
 authors: Singh Chandan, Askari Armin, Caruana Rich, Gao Jianfeng
 conference: "Nature Communications"
 year: 2022

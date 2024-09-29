@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Recent Advances Of Foundation Language Models-based Continual Learning: A Survey"
+title: Recent Advances Of Foundation Language Models-based Continual Learning: A Survey
 authors: Yang Yutao, Zhou Jie, Ding Xuanwen, Huai Tianyu, Liu Shunyu, Chen Qin, He Liang, Xie Yuan
 conference: "Arxiv"
 year: 2024

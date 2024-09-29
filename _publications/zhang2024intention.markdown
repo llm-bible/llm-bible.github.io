@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Intention Analysis Makes Llms A Good Jailbreak Defender"
+title: Intention Analysis Makes Llms A Good Jailbreak Defender
 authors: Zhang Yuqi, Ding Liang, Zhang Lefei, Tao Dacheng
 conference: "Arxiv"
 year: 2024

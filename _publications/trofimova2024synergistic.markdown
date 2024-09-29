@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Linguacodus: A Synergistic Framework For Transformative Code Generation In Machine Learning Pipelines"
+title: Linguacodus: A Synergistic Framework For Transformative Code Generation In Machine Learning Pipelines
 authors: Trofimova Ekaterina, Sataev Emil, Ustyuzhanin Andrey E.
 conference: "Arxiv"
 year: 2024

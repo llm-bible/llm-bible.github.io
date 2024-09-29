@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multiple-question Multiple-answer Text-vqa"
+title: Multiple-question Multiple-answer Text-vqa
 authors: Tang Peng, Appalaraju Srikar, Manmatha R., Xie Yusheng, Mahadevan Vijay
 conference: "Arxiv"
 year: 2023

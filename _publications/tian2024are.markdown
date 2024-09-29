@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Are Large Language Models Capable Of Generating Human-level Narratives?"
+title: Are Large Language Models Capable Of Generating Human-level Narratives?
 authors: Tian Yufei, Huang Tenghao, Liu Miri, Jiang Derek, Spangher Alexander, Chen Muhao, May Jonathan, Peng Nanyun
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Teaching Models To Express Their Uncertainty In Words"
+title: Teaching Models To Express Their Uncertainty In Words
 authors: Lin Stephanie, Hilton Jacob, Evans Owain
 conference: "Arxiv"
 year: 2022

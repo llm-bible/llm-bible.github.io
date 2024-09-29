@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Building Open-ended Embodied Agent Via Language-policy Bidirectional Adaptation"
+title: Building Open-ended Embodied Agent Via Language-policy Bidirectional Adaptation
 authors: Zhai Shaopeng, Wang Jie, Zhang Tianyi, Huang Fuxian, Zhang Qi, Zhou Ming, Hou Jing, Qiao Yu, Liu Yu
 conference: "Arxiv"
 year: 2023

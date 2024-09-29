@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Open Llama2 Model For The Lithuanian Language"
+title: Open Llama2 Model For The Lithuanian Language
 authors: Nakvosas Artūras, Daniušis Povilas, Mulevičius Vytas
 conference: "Arxiv"
 year: 2024

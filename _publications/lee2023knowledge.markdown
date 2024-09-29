@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Knowledge Corpus Error In Question Answering"
+title: Knowledge Corpus Error In Question Answering
 authors: Lee Yejoon, Oh Philhoon, Thorne James
 conference: "Arxiv"
 year: 2023

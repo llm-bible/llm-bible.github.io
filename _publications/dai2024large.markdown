@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models Can Better Understand Knowledge Graphs Than We Thought"
+title: Large Language Models Can Better Understand Knowledge Graphs Than We Thought
 authors: Dai Xinbang, Hua Yuncheng, Wu Tongtong, Sheng Yang, Ji Qiu, Qi Guilin
 conference: "Arxiv"
 year: 2024

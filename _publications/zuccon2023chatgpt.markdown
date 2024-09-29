@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chatgpt Hallucinates When Attributing Answers"
+title: Chatgpt Hallucinates When Attributing Answers
 authors: Zuccon Guido, Koopman Bevan, Shaik Razia
 conference: "Arxiv"
 year: 2023

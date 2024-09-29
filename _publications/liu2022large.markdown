@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Commitbart: A Large Pre-trained Model For Github Commits"
+title: Commitbart: A Large Pre-trained Model For Github Commits
 authors: Liu Shangqing, Li Yanzhou, Xie Xiaofei, Liu Yang
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Video-lavit: Unified Video-language Pre-training With Decoupled Visual-motional Tokenization"
+title: Video-lavit: Unified Video-language Pre-training With Decoupled Visual-motional Tokenization
 authors: Jin Yang, Sun Zhicheng, Xu Kun, Xu Kun, Chen Liwei, Jiang Hao, Huang Quzhe, Song Chengru, Liu Yuliang, Zhang Di, Song Yang, Gai Kun, Mu Yadong
 conference: "Arxiv"
 year: 2024

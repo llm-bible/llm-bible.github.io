@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Disce Aut Deficere: Evaluating Llms Proficiency On The INVALSI Italian Benchmark"
+title: Disce Aut Deficere: Evaluating Llms Proficiency On The INVALSI Italian Benchmark
 authors: Mercorio Fabio, Mezzanzanica Mario, Potertì Daniele, Serino Antonio, Seveso Andrea
 conference: "Arxiv"
 year: 2024

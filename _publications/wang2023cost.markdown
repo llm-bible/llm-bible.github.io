@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cost-effective Hyperparameter Optimization For Large Language Model Generation Inference"
+title: Cost-effective Hyperparameter Optimization For Large Language Model Generation Inference
 authors: Wang Chi, Liu Susan Xueqing, Awadallah Ahmed H.
 conference: "Arxiv"
 year: 2023

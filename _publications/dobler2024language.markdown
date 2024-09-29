@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Language Adaptation On A Tight Academic Compute Budget: Tokenizer Swapping Works And Pure Bfloat16 Is Enough"
+title: Language Adaptation On A Tight Academic Compute Budget: Tokenizer Swapping Works And Pure Bfloat16 Is Enough
 authors: Dobler Konstantin, De Melo Gerard
 conference: "Arxiv"
 year: 2024

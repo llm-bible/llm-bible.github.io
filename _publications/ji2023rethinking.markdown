@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Rethinking Large Language Models In Mental Health Applications"
+title: Rethinking Large Language Models In Mental Health Applications
 authors: Ji Shaoxiong, Zhang Tianlin, Yang Kailai, Ananiadou Sophia, Cambria Erik
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Aligning Large Language Models For Controllable Recommendations"
+title: Aligning Large Language Models For Controllable Recommendations
 authors: Wensheng Lu, Jianxun Lian, Wei Zhang, Guanghua Li, Mingyang Zhou, Hao Liao, Xing Xie
 conference: "Arxiv"
 year: 2024

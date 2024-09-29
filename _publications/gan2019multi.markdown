@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multi-step Reasoning Via Recurrent Dual Attention For Visual Dialog"
+title: Multi-step Reasoning Via Recurrent Dual Attention For Visual Dialog
 authors: Gan Zhe, Cheng Yu, Kholy Ahmed El, Li Linjie, Liu Jingjing, Gao Jianfeng
 conference: "Arxiv"
 year: 2019

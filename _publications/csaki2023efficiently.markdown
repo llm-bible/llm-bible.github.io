@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Efficiently Adapting Pretrained Language Models To New Languages"
+title: Efficiently Adapting Pretrained Language Models To New Languages
 authors: Csaki Zoltan, Pawakapan Pian, Thakker Urmish, Xu Qiantong
 conference: "Arxiv"
 year: 2023

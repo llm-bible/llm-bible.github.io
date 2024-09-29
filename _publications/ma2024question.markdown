@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Gerea: Question-aware Prompt Captions For Knowledge-based Visual Question Answering"
+title: Gerea: Question-aware Prompt Captions For Knowledge-based Visual Question Answering
 authors: Ma Ziyu, Li Shutao, Sun Bin, Cai Jianfei, Long Zuxiang, Ma Fuyan
 conference: "Arxiv"
 year: 2024

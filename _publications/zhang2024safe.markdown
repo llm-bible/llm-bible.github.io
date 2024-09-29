@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Safe Unlearning: A Surprisingly Effective And Generalizable Solution To Defend Against Jailbreak Attacks"
+title: Safe Unlearning: A Surprisingly Effective And Generalizable Solution To Defend Against Jailbreak Attacks
 authors: Zhang Zhexin, Yang Junxiao, Ke Pei, Cui Shiyao, Zheng Chujie, Wang Hongning, Huang Minlie
 conference: "Arxiv"
 year: 2024

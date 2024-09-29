@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Finding Challenging Metaphors That Confuse Pretrained Language Models"
+title: Finding Challenging Metaphors That Confuse Pretrained Language Models
 authors: Li Yucheng, Guerin Frank, Lin Chenghua
 conference: "Arxiv"
 year: 2024

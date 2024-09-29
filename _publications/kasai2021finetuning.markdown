@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Finetuning Pretrained Transformers Into Rnns"
+title: Finetuning Pretrained Transformers Into Rnns
 authors: Kasai Jungo, Peng Hao, Zhang Yizhe, Yogatama Dani, Ilharco Gabriel, Pappas Nikolaos, Mao Yi, Chen Weizhu, Smith Noah A.
 conference: "Arxiv"
 year: 2021

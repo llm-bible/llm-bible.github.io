@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Online Personalizing White-box Llms Generation With Neural Bandits"
+title: Online Personalizing White-box Llms Generation With Neural Bandits
 authors: Chen Zekai, Daniel Weeden, Chen Po-yu, Buet-golfouse Francois
 conference: "Arxiv"
 year: 2024

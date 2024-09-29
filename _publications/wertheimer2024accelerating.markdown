@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Accelerating Production Llms With Combined Token/embedding Speculators"
+title: Accelerating Production Llms With Combined Token/embedding Speculators
 authors: Wertheimer Davis, Rosenkranz Joshua, Parnell Thomas, Suneja Sahil, Ranganathan Pavithra, Ganti Raghu, Srivatsa Mudhakar
 conference: "Arxiv"
 year: 2024

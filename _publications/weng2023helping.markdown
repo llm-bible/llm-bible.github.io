@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Helping Language Models Learn More: Multi-dimensional Task Prompt For Few-shot Tuning"
+title: Helping Language Models Learn More: Multi-dimensional Task Prompt For Few-shot Tuning
 authors: Weng Jinta, Zhang Jiarui, Hu Yue, Fa Daidong, Xuand Xiaofeng, Huang Heyan
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Harnessing Llms In Curricular Design: Using GPT-4 To Support Authoring Of Learning Objectives"
+title: Harnessing Llms In Curricular Design: Using GPT-4 To Support Authoring Of Learning Objectives
 authors: Sridhar Pragnya, Doyle Aidan, Agarwal Arav, Bogart Christopher, Savelka Jaromir, Sakr Majd
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Make Large Language Model A Better Ranker"
+title: Make Large Language Model A Better Ranker
 authors: Chao Wenshuo, Zheng Zhi, Zhu Hengshu, Liu Hao
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A General-purpose Device For Interaction With Llms"
+title: A General-purpose Device For Interaction With Llms
 authors: Xu Jiajun, Wang Qun, Cao Yuhang, Zeng Baitao, Liu Sicheng
 conference: "Arxiv"
 year: 2024

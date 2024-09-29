@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Frustratingly Easy Natural Question Answering"
+title: Frustratingly Easy Natural Question Answering
 authors: Pan Lin, Chakravarti Rishav, Ferritto Anthony, Glass Michael, Gliozzo Alfio, Roukos Salim, Florian Radu, Sil Avirup
 conference: "Arxiv"
 year: 2019

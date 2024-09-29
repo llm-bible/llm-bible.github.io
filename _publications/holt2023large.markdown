@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "L2MAC: Large Language Model Automatic Computer For Extensive Code Generation"
+title: L2MAC: Large Language Model Automatic Computer For Extensive Code Generation
 authors: Holt Samuel, Luyten Max Ruiz, Van Der Schaar Mihaela
 conference: "Arxiv"
 year: 2023

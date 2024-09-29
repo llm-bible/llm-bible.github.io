@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "When Less Is More: Investigating Data Pruning For Pretraining Llms At Scale"
+title: When Less Is More: Investigating Data Pruning For Pretraining Llms At Scale
 authors: Marion Max, Üstün Ahmet, Pozzobon Luiza, Wang Alex, Fadaee Marzieh, Hooker Sara
 conference: "Arxiv"
 year: 2023

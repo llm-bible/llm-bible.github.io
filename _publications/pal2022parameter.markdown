@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Parameter-efficient Abstractive Question Answering Over Tables Or Text"
+title: Parameter-efficient Abstractive Question Answering Over Tables Or Text
 authors: Pal Vaishali, Kanoulas Evangelos, De Rijke Maarten
 conference: "Arxiv"
 year: 2022

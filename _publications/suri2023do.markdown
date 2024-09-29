@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Do Large Language Models Show Decision Heuristics Similar To Humans? A Case Study Using GPT-3.5"
+title: Do Large Language Models Show Decision Heuristics Similar To Humans? A Case Study Using GPT-3.5
 authors: Suri Gaurav, Slater Lily R., Ziaee Ali, Nguyen Morgan
 conference: "Arxiv"
 year: 2023

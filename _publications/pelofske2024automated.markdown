@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Automated Multi-language To English Machine Translation Using Generative Pre-trained Transformers"
+title: Automated Multi-language To English Machine Translation Using Generative Pre-trained Transformers
 authors: Pelofske Elijah, Urias Vincent, Liebrock Lorie M.
 conference: "Arxiv"
 year: 2024

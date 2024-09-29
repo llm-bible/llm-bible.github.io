@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Model Editing Harms General Abilities Of Large Language Models: Regularization To The Rescue"
+title: Model Editing Harms General Abilities Of Large Language Models: Regularization To The Rescue
 authors: Gu Jia-chen, Xu Hao-xiang, Ma Jun-yu, Lu Pan, Ling Zhen-hua, Chang Kai-wei, Peng Nanyun
 conference: "Arxiv"
 year: 2024

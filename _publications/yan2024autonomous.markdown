@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "FIHA: Autonomous Hallucination Evaluation In Vision-language Models With Davidson Scene Graphs"
+title: FIHA: Autonomous Hallucination Evaluation In Vision-language Models With Davidson Scene Graphs
 authors: Bowen Yan, Zhengsong Zhang, Liqiang Jing, Eftekhar Hossain, Xinya Du
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Defending Large Language Models Against Jailbreak Attacks Via Semantic Smoothing"
+title: Defending Large Language Models Against Jailbreak Attacks Via Semantic Smoothing
 authors: Ji Jiabao, Hou Bairu, Robey Alexander, Pappas George J., Hassani Hamed, Zhang Yang, Wong Eric, Chang Shiyu
 conference: "Arxiv"
 year: 2024

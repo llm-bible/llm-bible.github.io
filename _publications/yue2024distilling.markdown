@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Distilling Instruction-following Abilities Of Large Language Models With Task-aware Curriculum Planning"
+title: Distilling Instruction-following Abilities Of Large Language Models With Task-aware Curriculum Planning
 authors: Yue Yuanhao, Wang Chengyu, Huang Jun, Wang Peng
 conference: "Arxiv"
 year: 2024

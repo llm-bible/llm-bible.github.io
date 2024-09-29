@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Contextual Object Detection With Multimodal Large Language Models"
+title: Contextual Object Detection With Multimodal Large Language Models
 authors: Yuhang Zang, Wei Li, Jun Han, Kaiyang Zhou, Chen Change Loy
 conference: "Arxiv"
 year: 2023

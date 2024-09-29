@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Larger The Better? Improved LLM Code-generation Via Budget Reallocation"
+title: The Larger The Better? Improved LLM Code-generation Via Budget Reallocation
 authors: Hassid Michael, Remez Tal, Gehring Jonas, Schwartz Roy, Adi Yossi
 conference: "Arxiv"
 year: 2024

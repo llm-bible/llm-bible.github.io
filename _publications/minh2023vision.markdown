@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "PRE: Vision-language Prompt Learning With Reparameterization Encoder"
+title: PRE: Vision-language Prompt Learning With Reparameterization Encoder
 authors: Minh Anh Pham Thi, Nguyen An Duc, Tzimiropoulos Georgios
 conference: "Arxiv"
 year: 2023

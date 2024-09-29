@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Compositional Semantic Parsing With Large Language Models"
+title: Compositional Semantic Parsing With Large Language Models
 authors: Andrew Drozdov, Nathanael Schärli, Ekin Akyürek, Nathan Scales, Xinying Song, Xinyun Chen, Olivier Bousquet, Denny Zhou
 conference: "Arxiv"
 year: 2022

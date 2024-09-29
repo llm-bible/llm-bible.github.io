@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Paralinguistics-enhanced Large Language Modeling Of Spoken Dialogue"
+title: Paralinguistics-enhanced Large Language Modeling Of Spoken Dialogue
 authors: Lin Guan-ting, Shivakumar Prashanth Gurunath, Gandhe Ankur, Yang Chao-han Huck, Gu Yile, Ghosh Shalini, Stolcke Andreas, Lee Hung-yi, Bulyko Ivan
 conference: "Arxiv"
 year: 2023

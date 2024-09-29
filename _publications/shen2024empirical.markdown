@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "An Empirical Study On Context Length For Open-domain Dialog Generation"
+title: An Empirical Study On Context Length For Open-domain Dialog Generation
 authors: Shen Xinyi, Lin Zuoquan
 conference: "Arxiv"
 year: 2024

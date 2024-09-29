@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Calmqa: Exploring Culturally Specific Long-form Question Answering Across 23 Languages"
+title: Calmqa: Exploring Culturally Specific Long-form Question Answering Across 23 Languages
 authors: Arora Shane, Karpinska Marzena, Chen Hung-ting, Bhattacharjee Ipsita, Iyyer Mohit, Choi Eunsol
 conference: "Arxiv"
 year: 2024

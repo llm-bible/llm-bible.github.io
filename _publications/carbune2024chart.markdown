@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chart-based Reasoning: Transferring Capabilities From Llms To Vlms"
+title: Chart-based Reasoning: Transferring Capabilities From Llms To Vlms
 authors: Carbune Victor, Mansoor Hassan, Liu Fangyu, Aralikatte Rahul, Baechler Gilles, Chen Jindong, Sharma Abhanshu
 conference: "Arxiv"
 year: 2024

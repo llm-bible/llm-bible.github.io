@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Perteval: Unveiling Real Knowledge Capacity Of Llms With Knowledge-invariant Perturbations"
+title: Perteval: Unveiling Real Knowledge Capacity Of Llms With Knowledge-invariant Perturbations
 authors: Li Jiatong, Hu Renjun, Huang Kunzhe, Zhuang Yan, Liu Qi, Zhu Mengxiao, Shi Xing, Lin Wei
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Large Language Models Be Trusted For Evaluation? Scalable Meta-evaluation Of Llms As Evaluators Via Agent Debate"
+title: Can Large Language Models Be Trusted For Evaluation? Scalable Meta-evaluation Of Llms As Evaluators Via Agent Debate
 authors: Chern Steffi, Chern Ethan, Neubig Graham, Liu Pengfei
 conference: "Arxiv"
 year: 2024

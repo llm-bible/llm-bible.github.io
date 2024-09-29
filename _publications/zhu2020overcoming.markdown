@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Overcoming Language Priors With Self-supervised Learning For Visual Question Answering"
+title: Overcoming Language Priors With Self-supervised Learning For Visual Question Answering
 authors: Zhu Xi, Mao Zhendong, Liu Chunxiao, Zhang Peng, Wang Bin, Zhang Yongdong
 conference: "Arxiv"
 year: 2020

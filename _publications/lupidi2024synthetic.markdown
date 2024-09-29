@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Source2synth: Synthetic Data Generation And Curation Grounded In Real Data Sources"
+title: Source2synth: Synthetic Data Generation And Curation Grounded In Real Data Sources
 authors: Lupidi Alisia, Gemmell Carlos, Cancedda Nicola, Dwivedi-yu Jane, Weston Jason, Foerster Jakob, Raileanu Roberta, Lomeli Maria
 conference: "Arxiv"
 year: 2024

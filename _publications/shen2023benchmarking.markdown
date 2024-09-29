@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Taskbench: Benchmarking Large Language Models For Task Automation"
+title: Taskbench: Benchmarking Large Language Models For Task Automation
 authors: Shen Yongliang, Song Kaitao, Tan Xu, Zhang Wenqi, Ren Kan, Yuan Siyu, Lu Weiming, Li Dongsheng, Zhuang Yueting
 conference: "Arxiv"
 year: 2023

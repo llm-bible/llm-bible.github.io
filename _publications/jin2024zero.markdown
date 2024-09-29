@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Zero-shot Chain-of-thought Reasoning Guided By Evolutionary Algorithms In Large Language Models"
+title: Zero-shot Chain-of-thought Reasoning Guided By Evolutionary Algorithms In Large Language Models
 authors: Jin Feihu, Liu Yifan, Tan Ying
 conference: "Arxiv"
 year: 2024

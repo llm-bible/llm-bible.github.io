@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fairpy: A Toolkit For Evaluation Of Social Biases And Their Mitigation In Large Language Models"
+title: Fairpy: A Toolkit For Evaluation Of Social Biases And Their Mitigation In Large Language Models
 authors: Viswanath Hrishikesh, Zhang Tianyi
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Terapipe: Token-level Pipeline Parallelism For Training Large-scale Language Models"
+title: Terapipe: Token-level Pipeline Parallelism For Training Large-scale Language Models
 authors: Li Zhuohan, Zhuang Siyuan, Guo Shiyuan, Zhuo Danyang, Zhang Hao, Song Dawn, Stoica Ion
 conference: "Arxiv"
 year: 2021

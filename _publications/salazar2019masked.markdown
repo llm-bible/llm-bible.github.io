@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Masked Language Model Scoring"
+title: Masked Language Model Scoring
 authors: Salazar Julian, Liang Davis, Nguyen Toan Q., Kirchhoff Katrin
 conference: "Proceedings of the"
 year: 2019

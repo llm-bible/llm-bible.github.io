@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Videodirectorgpt: Consistent Multi-scene Video Generation Via Llm-guided Planning"
+title: Videodirectorgpt: Consistent Multi-scene Video Generation Via Llm-guided Planning
 authors: Lin Han, Zala Abhay, Cho Jaemin, Bansal Mohit
 conference: "Arxiv"
 year: 2023

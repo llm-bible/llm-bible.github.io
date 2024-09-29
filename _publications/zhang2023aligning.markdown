@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Aligning Instruction Tasks Unlocks Large Language Models As Zero-shot Relation Extractors"
+title: Aligning Instruction Tasks Unlocks Large Language Models As Zero-shot Relation Extractors
 authors: Zhang Kai, Gutiérrez Bernal Jiménez, Su Yu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Torchopera: A Compound AI System For LLM Safety"
+title: Torchopera: A Compound AI System For LLM Safety
 authors: Han Shanshan, Yao Yuhang, Hu Zijian, Stripelis Dimitris, Xu Zhaozhuo, He Chaoyang
 conference: "Arxiv"
 year: 2024

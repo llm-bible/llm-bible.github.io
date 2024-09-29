@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Toward Conversational Agents With Context And Time Sensitive Long-term Memory"
+title: Toward Conversational Agents With Context And Time Sensitive Long-term Memory
 authors: Alonso Nick, Figliolia Tomás, Ndirango Anthony, Millidge Beren
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Leveraging Natural Supervision For Language Representation Learning And Generation"
+title: Leveraging Natural Supervision For Language Representation Learning And Generation
 authors: Chen Mingda
 conference: "Arxiv"
 year: 2022

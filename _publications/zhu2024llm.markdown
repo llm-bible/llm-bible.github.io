@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Llm-based Controllable, Scalable, Human-involved User Simulator Framework For Conversational Recommender Systems"
+title: A Llm-based Controllable, Scalable, Human-involved User Simulator Framework For Conversational Recommender Systems
 authors: Zhu Lixi, Huang Xiaowen, Sang Jitao
 conference: "Arxiv"
 year: 2024

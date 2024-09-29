@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Alphazero-like Tree-search Can Guide Large Language Model Decoding And Training"
+title: Alphazero-like Tree-search Can Guide Large Language Model Decoding And Training
 authors: Feng Xidong, Wan Ziyu, Wen Muning, Mcaleer Stephen Marcus, Wen Ying, Zhang Weinan, Wang Jun
 conference: "Arxiv"
 year: 2023

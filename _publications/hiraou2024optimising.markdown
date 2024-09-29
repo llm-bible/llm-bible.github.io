@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Optimising Hard Prompts With Few-shot Meta-prompting"
+title: Optimising Hard Prompts With Few-shot Meta-prompting
 authors: Hiraou Sayash Raaj
 conference: "Arxiv"
 year: 2024

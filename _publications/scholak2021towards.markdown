@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Neural Functional Program Evaluation"
+title: Towards Neural Functional Program Evaluation
 authors: Scholak Torsten, Pilault Jonathan, Velez-ginorio Joey
 conference: "Arxiv"
 year: 2021

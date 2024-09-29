@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Marinegpt: Unlocking Secrets Of Ocean To The Public"
+title: Marinegpt: Unlocking Secrets Of Ocean To The Public
 authors: Zheng Ziqiang, Zhang Jipeng, Vu Tuan-anh, Diao Shizhe, Tim Yue Him Wong, Yeung Sai-kit
 conference: "Arxiv"
 year: 2023

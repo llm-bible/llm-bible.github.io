@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Automated Evaluation Of Personalized Text Generation Using Large Language Models"
+title: Automated Evaluation Of Personalized Text Generation Using Large Language Models
 authors: Wang Yaqing, Jiang Jiepu, Zhang Mingyang, Li Cheng, Liang Yi, Mei Qiaozhu, Bendersky Michael
 conference: "Arxiv"
 year: 2023

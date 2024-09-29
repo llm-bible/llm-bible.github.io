@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Efficient GPT Model Pre-training Using Tensor Train Matrix Representation"
+title: Efficient GPT Model Pre-training Using Tensor Train Matrix Representation
 authors: Chekalina Viktoriia, Novikov Georgii, Gusak Julia, Oseledets Ivan, Panchenko Alexander
 conference: "Arxiv"
 year: 2023

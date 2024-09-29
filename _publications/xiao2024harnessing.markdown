@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Healme: Harnessing Cognitive Reframing In Large Language Models For Psychotherapy"
+title: Healme: Harnessing Cognitive Reframing In Large Language Models For Psychotherapy
 authors: Xiao Mengxi, Xie Qianqian, Kuang Ziyan, Liu Zhicheng, Yang Kailai, Peng Min, Han Weiguang, Huang Jimin
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Revolutionizing Undergraduate Learning: Coursegpt And Its Generative AI Advancements"
+title: Revolutionizing Undergraduate Learning: Coursegpt And Its Generative AI Advancements
 authors: Nazar Ahmad M., Selim Mohamed Y., Gaffar Ashraf, Ahmed Shakil
 conference: "Arxiv"
 year: 2024

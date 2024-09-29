@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Automated Generation Of Multiple-choice Cloze Questions For Assessing English Vocabulary Using Gpt-turbo 3.5"
+title: Automated Generation Of Multiple-choice Cloze Questions For Assessing English Vocabulary Using Gpt-turbo 3.5
 authors: Wang Qiao, Rose Ralph, Orita Naho, Sugawara Ayaka
 conference: "Mika Hamalainen Emily Ohman Flammie Pirinen Khalid Alnajjar So Miyagawa Yuri Bizzoni Niko Partanen and Jack Rueter."
 year: 2024

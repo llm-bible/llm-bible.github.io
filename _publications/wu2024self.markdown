@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Self-directed Turing Test For Large Language Models"
+title: Self-directed Turing Test For Large Language Models
 authors: Wu Weiqi, Wu Hongqiu, Zhao Hai
 conference: "Arxiv"
 year: 2024

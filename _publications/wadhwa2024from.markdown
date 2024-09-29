@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "From Rags To Rich Parameters: Probing How Language Models Utilize External Knowledge Over Parametric Information For Factual Queries"
+title: From Rags To Rich Parameters: Probing How Language Models Utilize External Knowledge Over Parametric Information For Factual Queries
 authors: Wadhwa Hitesh, Seetharaman Rahul, Aggarwal Somyaa, Ghosh Reshmi, Basu Samyadeep, Srinivasan Soundararajan, Zhao Wenlong, Chaudhari Shreyas, Aghazadeh Ehsan
 conference: "Arxiv"
 year: 2024

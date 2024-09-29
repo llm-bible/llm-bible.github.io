@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Blockwise Compression Of Transformer-based Models Without Retraining"
+title: Blockwise Compression Of Transformer-based Models Without Retraining
 authors: Dong Gaochen, Chen Wei
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Modaverse: Efficiently Transforming Modalities With Llms"
+title: Modaverse: Efficiently Transforming Modalities With Llms
 authors: Wang Xinyu, Zhuang Bohan, Wu Qi
 conference: "Arxiv"
 year: 2024

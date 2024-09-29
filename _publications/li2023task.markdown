@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Task Contamination: Language Models May Not Be Few-shot Anymore"
+title: Task Contamination: Language Models May Not Be Few-shot Anymore
 authors: Li Changmao, Flanigan Jeffrey
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Making The Most Of BERT In Neural Machine Translation"
+title: Towards Making The Most Of BERT In Neural Machine Translation
 authors: Yang Jiacheng, Wang Mingxuan, Zhou Hao, Zhao Chengqi, Yu Yong, Zhang Weinan, Li Lei
 conference: "Arxiv"
 year: 2019

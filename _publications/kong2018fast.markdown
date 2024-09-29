@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fast And Simple Mixture Of Softmaxes With BPE And Hybrid-lightrnn For Language Generation"
+title: Fast And Simple Mixture Of Softmaxes With BPE And Hybrid-lightrnn For Language Generation
 authors: Kong Xiang, Xie Qizhe, Dai Zihang, Hovy Eduard
 conference: "Arxiv"
 year: 2018

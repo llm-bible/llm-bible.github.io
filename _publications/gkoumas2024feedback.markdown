@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Feedback-aligned Mixed Llms For Machine Language-molecule Translation"
+title: Feedback-aligned Mixed Llms For Machine Language-molecule Translation
 authors: Gkoumas Dimitris, Liakata Maria
 conference: "Arxiv"
 year: 2024

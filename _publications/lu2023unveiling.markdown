@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Llmscore: Unveiling The Power Of Large Language Models In Text-to-image Synthesis Evaluation"
+title: Llmscore: Unveiling The Power Of Large Language Models In Text-to-image Synthesis Evaluation
 authors: Lu Yujie, Yang Xianjun, Li Xiujun, Wang Xin Eric, Wang William Yang
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Using Large Language Models To Enrich The Documentation Of Datasets For Machine Learning"
+title: Using Large Language Models To Enrich The Documentation Of Datasets For Machine Learning
 authors: Giner-miguelez Joan, Gómez Abel, Cabot Jordi
 conference: "Arxiv"
 year: 2024

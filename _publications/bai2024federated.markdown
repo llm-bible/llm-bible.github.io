@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Federated Fine-tuning Of Large Language Models Under Heterogeneous Tasks And Client Resources"
+title: Federated Fine-tuning Of Large Language Models Under Heterogeneous Tasks And Client Resources
 authors: Bai Jiamu, Chen Daoyuan, Qian Bingchen, Yao Liuyi, Li Yaliang
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cases Of EFL Secondary Students' Prompt Engineering Pathways To Complete A Writing Task With Chatgpt"
+title: Cases Of EFL Secondary Students' Prompt Engineering Pathways To Complete A Writing Task With Chatgpt
 authors: Woo David James, Guo Kai, Susanto Hengky
 conference: "Arxiv"
 year: 2023

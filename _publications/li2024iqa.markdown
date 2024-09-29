@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "IQA-EVAL: Automatic Evaluation Of Human-model Interactive Question Answering"
+title: IQA-EVAL: Automatic Evaluation Of Human-model Interactive Question Answering
 authors: Li Ruosen, Wang Barry, Li Ruochen, Du Xinya
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Speak It Out: Solving Symbol-related Problems With Symbol-to-language Conversion For Language Models"
+title: Speak It Out: Solving Symbol-related Problems With Symbol-to-language Conversion For Language Models
 authors: Wang Yile, Cheng Sijie, Sun Zixin, Li Peng, Liu Yang
 conference: "Arxiv"
 year: 2024

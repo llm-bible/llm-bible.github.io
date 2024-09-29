@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Openassistant Conversations -- Democratizing Large Language Model Alignment"
+title: Openassistant Conversations -- Democratizing Large Language Model Alignment
 authors: Köpf Andreas, Kilcher Yannic, Von Rütte Dimitri, Anagnostidis Sotiris, Tam Zhi-rui, Stevens Keith, Barhoum Abdullah, Duc Nguyen Minh, Stanley Oliver, Nagyfi Richárd, Es Shahul, Suri Sameer, Glushkov David, Dantuluri Arnav, Maguire Andrew, Schuhmann Christoph, Nguyen Huu, Mattick Alexander
 conference: "Arxiv"
 year: 2023

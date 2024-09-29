@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Do Llms Understand User Preferences? Evaluating Llms On User Rating Prediction"
+title: Do Llms Understand User Preferences? Evaluating Llms On User Rating Prediction
 authors: Wang-cheng Kang, Jianmo Ni, Nikhil Mehta, Maheswaran Sathiamoorthy, Lichan Hong, Ed Chi, Derek Zhiyuan Cheng
 conference: "Arxiv"
 year: 2023

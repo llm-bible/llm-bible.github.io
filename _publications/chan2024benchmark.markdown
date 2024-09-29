@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Negotiationtom: A Benchmark For Stress-testing Machine Theory Of Mind On Negotiation Surrounding"
+title: Negotiationtom: A Benchmark For Stress-testing Machine Theory Of Mind On Negotiation Surrounding
 authors: Chan Chunkit, Jiayang Cheng, Yim Yauwai, Deng Zheye, Fan Wei, Li Haoran, Liu Xin, Zhang Hongming, Wang Weiqi, Song Yangqiu
 conference: "Arxiv"
 year: 2024

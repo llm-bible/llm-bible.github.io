@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Effective Cross-task Transfer Learning For Explainable Natural Language Inference With T5"
+title: Effective Cross-task Transfer Learning For Explainable Natural Language Inference With T5
 authors: Bigoulaeva Irina, Sachdeva Rachneet, Madabushi Harish Tayyar, Villavicencio Aline, Gurevych Iryna
 conference: "Arxiv"
 year: 2022

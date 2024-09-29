@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring The Factual Consistency In Dialogue Comprehension Of Large Language Models"
+title: Exploring The Factual Consistency In Dialogue Comprehension Of Large Language Models
 authors: She Shuaijie, Huang Shujian, Wang Xingyun, Zhou Yanke, Chen Jiajun
 conference: "Arxiv"
 year: 2023

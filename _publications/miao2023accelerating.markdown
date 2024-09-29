@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Specinfer: Accelerating Generative Large Language Model Serving With Tree-based Speculative Inference And Verification"
+title: Specinfer: Accelerating Generative Large Language Model Serving With Tree-based Speculative Inference And Verification
 authors: Miao Xupeng, Oliaro Gabriele, Zhang Zhihao, Cheng Xinhao, Wang Zeyu, Zhang Zhengxin, Wong Rae Ying Yee, Zhu Alan, Yang Lijie, Shi Xiaoxiang, Shi Chunan, Chen Zhuoming, Arfeen Daiyaan, Abhyankar Reyna, Jia Zhihao
 conference: "Arxiv"
 year: 2023

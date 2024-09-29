@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Speech-to-text Adapter And Speech-to-entity Retriever Augmented Llms For Speech Understanding"
+title: Speech-to-text Adapter And Speech-to-entity Retriever Augmented Llms For Speech Understanding
 authors: Wang Mingqiu, Shafran Izhak, Soltau Hagen, Han Wei, Cao Yuan, Yu Dian, Shafey Laurent El
 conference: "Arxiv"
 year: 2023

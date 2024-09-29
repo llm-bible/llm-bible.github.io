@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Automated Data Curation For Robust Language Model Fine-tuning"
+title: Automated Data Curation For Robust Language Model Fine-tuning
 authors: Chen Jiuhai, Mueller Jonas
 conference: "Arxiv"
 year: 2024

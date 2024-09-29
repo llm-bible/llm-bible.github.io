@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Semantic Composition In Visually Grounded Language Models"
+title: Semantic Composition In Visually Grounded Language Models
 authors: Pandey Rohan
 conference: "Arxiv"
 year: 2023

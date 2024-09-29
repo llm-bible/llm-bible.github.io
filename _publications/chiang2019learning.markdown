@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Learning Multi-level Information For Dialogue Response Selection By Highway Recurrent Transformer"
+title: Learning Multi-level Information For Dialogue Response Selection By Highway Recurrent Transformer
 authors: Chiang Ting-rui, Huang Chao-wei, Su Shang-yu, Chen Yun-nung
 conference: "Arxiv"
 year: 2019

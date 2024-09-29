@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Llava-prumerge: Adaptive Token Reduction For Efficient Large Multimodal Models"
+title: Llava-prumerge: Adaptive Token Reduction For Efficient Large Multimodal Models
 authors: Shang Yuzhang, Cai Mu, Xu Bingxin, Lee Yong Jae, Yan Yan
 conference: "Arxiv"
 year: 2024

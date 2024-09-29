@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On-policy Fine-grained Knowledge Feedback For Hallucination Mitigation"
+title: On-policy Fine-grained Knowledge Feedback For Hallucination Mitigation
 authors: Wen Xueru, Lu Xinyu, Guan Xinyan, Lu Yaojie, Lin Hongyu, He Ben, Han Xianpei, Sun Le
 conference: "Arxiv"
 year: 2024

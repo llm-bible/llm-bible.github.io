@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Understanding The Impact Of Long-term Memory On Self-disclosure With Large Language Model-driven Chatbots For Public Health Intervention"
+title: Understanding The Impact Of Long-term Memory On Self-disclosure With Large Language Model-driven Chatbots For Public Health Intervention
 authors: Jo Eunkyung, Jeong Yuin, Park Sohyun, Epstein Daniel A., Kim Young-ho
 conference: "In Proceedings of the CHI Conference on Human Factors in Computing Systems"
 year: 2024

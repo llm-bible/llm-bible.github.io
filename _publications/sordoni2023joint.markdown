@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Joint Prompt Optimization Of Stacked Llms Using Variational Inference"
+title: Joint Prompt Optimization Of Stacked Llms Using Variational Inference
 authors: Sordoni Alessandro, Yuan Xingdi, Côté Marc-alexandre, Pereira Matheus, Trischler Adam, Xiao Ziang, Hosseini Arian, Niedtner Friederike, Roux Nicolas Le
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "BEAF: Observing Before-after Changes To Evaluate Hallucination In Vision-language Models"
+title: BEAF: Observing Before-after Changes To Evaluate Hallucination In Vision-language Models
 authors: Ye-bin Moon, Hyeon-woo Nam, Choi Wonseok, Oh Tae-hyun
 conference: "Arxiv"
 year: 2024

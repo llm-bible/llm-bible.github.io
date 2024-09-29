@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "From Yes-men To Truth-tellers: Addressing Sycophancy In Large Language Models With Pinpoint Tuning"
+title: From Yes-men To Truth-tellers: Addressing Sycophancy In Large Language Models With Pinpoint Tuning
 authors: Chen Wei, Huang Zhen, Xie Liang, Lin Binbin, Li Houqiang, Lu Le, Tian Xinmei, Cai Deng, Zhang Yonggang, Wan Wenxiao, Shen Xu, Ye Jieping
 conference: "Arxiv"
 year: 2024

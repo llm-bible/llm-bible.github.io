@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "MEGABYTE: Predicting Million-byte Sequences With Multiscale Transformers"
+title: MEGABYTE: Predicting Million-byte Sequences With Multiscale Transformers
 authors: Yu Lili, Simig Dániel, Flaherty Colin, Aghajanyan Armen, Zettlemoyer Luke, Lewis Mike
 conference: "Arxiv"
 year: 2023

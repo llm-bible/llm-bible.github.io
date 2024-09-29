@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "ICL-D3IE: In-context Learning With Diverse Demonstrations Updating For Document Information Extraction"
+title: ICL-D3IE: In-context Learning With Diverse Demonstrations Updating For Document Information Extraction
 authors: He Jiabang, Wang Lei, Hu Yi, Liu Ning, Liu Hui, Xu Xing, Shen Heng Tao
 conference: "Arxiv"
 year: 2023

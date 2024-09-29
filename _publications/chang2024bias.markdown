@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bias-aware Low-rank Adaptation: Mitigating Catastrophic Inheritance Of Large Language Models"
+title: Bias-aware Low-rank Adaptation: Mitigating Catastrophic Inheritance Of Large Language Models
 authors: Chang Yupeng, Chang Yi, Wu Yuan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Temporal Blind Spots In Large Language Models"
+title: Temporal Blind Spots In Large Language Models
 authors: Wallat Jonas, Jatowt Adam, Anand Avishek
 conference: "Arxiv"
 year: 2024

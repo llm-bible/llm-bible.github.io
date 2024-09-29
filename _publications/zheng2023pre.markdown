@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Codegeex: A Pre-trained Model For Code Generation With Multilingual Benchmarking On Humaneval-x"
+title: Codegeex: A Pre-trained Model For Code Generation With Multilingual Benchmarking On Humaneval-x
 authors: Qinkai Zheng, Xiao Xia, Xu Zou, Yuxiao Dong, Shan Wang, Yufei Xue, Zihan Wang, Lei Shen, Andi Wang, Yang Li, Teng Su, Zhilin Yang, Jie Tang
 conference: "Arxiv"
 year: 2023

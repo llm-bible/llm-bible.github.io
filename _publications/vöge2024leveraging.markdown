@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Leveraging Zero-shot Prompting For Efficient Language Model Distillation"
+title: Leveraging Zero-shot Prompting For Efficient Language Model Distillation
 authors: Vöge Lukas, Gurgul Vincent, Lessmann Stefan
 conference: "Arxiv"
 year: 2024

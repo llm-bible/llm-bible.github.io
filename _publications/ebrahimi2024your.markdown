@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Your Context Is Not An Array: Unveiling Random Access Limitations In Transformers"
+title: Your Context Is Not An Array: Unveiling Random Access Limitations In Transformers
 authors: Ebrahimi Mohammadreza, Panchal Sunny, Memisevic Roland
 conference: "Arxiv"
 year: 2024

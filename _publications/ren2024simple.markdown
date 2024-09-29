@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Samba: Simple Hybrid State Space Models For Efficient Unlimited Context Language Modeling"
+title: Samba: Simple Hybrid State Space Models For Efficient Unlimited Context Language Modeling
 authors: Ren Liliang, Liu Yang, Lu Yadong, Shen Yelong, Liang Chen, Chen Weizhu
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Vision-flan: Scaling Human-labeled Tasks In Visual Instruction Tuning"
+title: Vision-flan: Scaling Human-labeled Tasks In Visual Instruction Tuning
 authors: Xu Zhiyang, Feng Chao, Shao Rulin, Ashby Trevor, Shen Ying, Jin Di, Cheng Yu, Wang Qifan, Huang Lifu
 conference: "Arxiv"
 year: 2024

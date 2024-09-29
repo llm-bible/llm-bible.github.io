@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Imagenetvc: Zero- And Few-shot Visual Commonsense Evaluation On 1000 Imagenet Categories"
+title: Imagenetvc: Zero- And Few-shot Visual Commonsense Evaluation On 1000 Imagenet Categories
 authors: Xia Heming, Dong Qingxiu, Li Lei, Xu Jingjing, Liu Tianyu, Qin Ziwei, Sui Zhifang
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Stepcoder: Improve Code Generation With Reinforcement Learning From Compiler Feedback"
+title: Stepcoder: Improve Code Generation With Reinforcement Learning From Compiler Feedback
 authors: Dou Shihan, Liu Yan, Jia Haoxiang, Xiong Limao, Zhou Enyu, Shen Wei, Shan Junjie, Huang Caishuang, Wang Xiao, Fan Xiaoran, Xi Zhiheng, Zhou Yuhao, Ji Tao, Zheng Rui, Zhang Qi, Huang Xuanjing, Gui Tao
 conference: "Arxiv"
 year: 2024

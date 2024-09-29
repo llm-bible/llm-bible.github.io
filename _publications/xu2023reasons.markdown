@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Reasons To Reject? Aligning Language Models With Judgments"
+title: Reasons To Reject? Aligning Language Models With Judgments
 authors: Xu Weiwen, Cai Deng, Zhang Zhisong, Lam Wai, Shi Shuming
 conference: "Arxiv"
 year: 2023

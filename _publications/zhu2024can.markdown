@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Large Language Models Understand Context?"
+title: Can Large Language Models Understand Context?
 authors: Zhu Yilun, Moniz Joel Ruben Antony, Bhargava Shruti, Lu Jiarui, Piraviperumal Dhivya, Li Site, Zhang Yuan, Yu Hong, Tseng Bo-hsiang
 conference: "Arxiv"
 year: 2024

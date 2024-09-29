@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models Vote: Prompting For Rare Disease Identification"
+title: Large Language Models Vote: Prompting For Rare Disease Identification
 authors: Oniani David, Hilsman Jordan, Dong Hang, Gao Fengyi, Verma Shiven, Wang Yanshan
 conference: "Arxiv"
 year: 2023

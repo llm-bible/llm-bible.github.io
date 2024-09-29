@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mamba: Linear-time Sequence Modeling With Selective State Spaces"
+title: Mamba: Linear-time Sequence Modeling With Selective State Spaces
 authors: Albert Gu, Tri Dao
 conference: "Arxiv"
 year: 2023

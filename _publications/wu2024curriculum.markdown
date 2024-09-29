@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Curriculum Learning With Quality-driven Data Selection"
+title: Curriculum Learning With Quality-driven Data Selection
 authors: Wu Biao, Meng Fang, Chen Ling
 conference: "Arxiv"
 year: 2024

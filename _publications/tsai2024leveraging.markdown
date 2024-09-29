@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Leveraging LLM Reasoning Enhances Personalized Recommender Systems"
+title: Leveraging LLM Reasoning Enhances Personalized Recommender Systems
 authors: Tsai Alicia Y., Kraft Adam, Jin Long, Cai Chenwei, Hosseini Anahita, Xu Taibai, Zhang Zemin, Hong Lichan, Chi Ed H., Yi Xinyang
 conference: "Arxiv"
 year: 2024

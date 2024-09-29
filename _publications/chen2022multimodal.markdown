@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Murag: Multimodal Retrieval-augmented Generator For Open Question Answering Over Images And Text"
+title: Murag: Multimodal Retrieval-augmented Generator For Open Question Answering Over Images And Text
 authors: Chen Wenhu, Hu Hexiang, Chen Xi, Verga Pat, Cohen William W.
 conference: "Arxiv"
 year: 2022

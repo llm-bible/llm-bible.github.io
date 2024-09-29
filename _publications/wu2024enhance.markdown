@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Enhance Reasoning For Large Language Models In The Game Werewolf"
+title: Enhance Reasoning For Large Language Models In The Game Werewolf
 authors: Wu Shuang, Zhu Liwen, Yang Tao, Xu Shiwei, Fu Qiang, Wei Yang, Fu Haobo
 conference: "Arxiv"
 year: 2024

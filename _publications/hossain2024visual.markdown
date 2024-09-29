@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Visual Prompting For Generalized Few-shot Segmentation: A Multi-scale Approach"
+title: Visual Prompting For Generalized Few-shot Segmentation: A Multi-scale Approach
 authors: Hossain Mir Rayat Imtiaz, Siam Mennatullah, Sigal Leonid, Little James J.
 conference: "Arxiv"
 year: 2024

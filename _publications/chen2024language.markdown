@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Octopus: On-device Language Model For Function Calling Of Software Apis"
+title: Octopus: On-device Language Model For Function Calling Of Software Apis
 authors: Chen Wei, Li Zhiyuan, Ma Mingyuan
 conference: "Arxiv"
 year: 2024

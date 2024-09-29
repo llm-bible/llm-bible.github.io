@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Prompting Llms To Compose Meta-review Drafts From Peer-review Narratives Of Scholarly Manuscripts"
+title: Prompting Llms To Compose Meta-review Drafts From Peer-review Narratives Of Scholarly Manuscripts
 authors: Santu Shubhra Kanti Karmaker, Sinha Sanjeev Kumar, Bansal Naman, Knipper Alex, Sarkar Souvika, Salvador John, Mahajan Yash, Guttikonda Sri, Akter Mousumi, Freestone Matthew, Williams Matthew C. Jr
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Self-seeding And Multi-intent Self-instructing Llms For Generating Intent-aware Information-seeking Dialogs"
+title: Self-seeding And Multi-intent Self-instructing Llms For Generating Intent-aware Information-seeking Dialogs
 authors: Askari Arian, Petcu Roxana, Meng Chuan, Aliannejadi Mohammad, Abolghasemi Amin, Kanoulas Evangelos, Verberne Suzan
 conference: "Arxiv"
 year: 2024

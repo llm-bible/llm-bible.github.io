@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cognitively Inspired Components For Social Conversational Agents"
+title: Cognitively Inspired Components For Social Conversational Agents
 authors: Clay Alex, Alonso Eduardo, Mondragón Esther
 conference: "Arxiv"
 year: 2023

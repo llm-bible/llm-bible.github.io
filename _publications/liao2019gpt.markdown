@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Gpt-based Generation For Classical Chinese Poetry"
+title: Gpt-based Generation For Classical Chinese Poetry
 authors: Liao Yi, Wang Yasheng, Liu Qun, Jiang Xin
 conference: "Arxiv"
 year: 2019

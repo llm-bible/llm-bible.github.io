@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Understanding (un)intended Memorization In Text-to-image Generative Models"
+title: Understanding (un)intended Memorization In Text-to-image Generative Models
 authors: Naseh Ali, Roh Jaechul, Houmansadr Amir
 conference: "Arxiv"
 year: 2023

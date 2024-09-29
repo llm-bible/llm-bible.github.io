@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating Text-to-visual Generation With Image-to-text Generation"
+title: Evaluating Text-to-visual Generation With Image-to-text Generation
 authors: Lin Zhiqiu, Pathak Deepak, Li Baiqi, Li Jiayao, Xia Xide, Neubig Graham, Zhang Pengchuan, Ramanan Deva
 conference: "Arxiv"
 year: 2024

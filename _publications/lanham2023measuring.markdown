@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Measuring Faithfulness In Chain-of-thought Reasoning"
+title: Measuring Faithfulness In Chain-of-thought Reasoning
 authors: Lanham Tamera, Chen Anna, Radhakrishnan Ansh, Steiner Benoit, Denison Carson, Hernandez Danny, Li Dustin, Durmus Esin, Hubinger Evan, Kernion Jackson, Lukošiūtė Kamilė, Nguyen Karina, Cheng Newton, Joseph Nicholas, Schiefer Nicholas, Rausch Oliver, Larson Robin, Mccandlish Sam, Kundu Sandipan, Kadavath Saurav, Yang Shannon, Henighan Thomas, Maxwell Timothy, Telleen-lawton Timothy, Hume Tristan, Hatfield-dodds Zac, Kaplan Jared, Brauner Jan, Bowman Samuel R., Perez Ethan
 conference: "Arxiv"
 year: 2023

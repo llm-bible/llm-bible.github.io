@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Convosense: Overcoming Monotonous Commonsense Inferences For Conversational AI"
+title: Convosense: Overcoming Monotonous Commonsense Inferences For Conversational AI
 authors: Finch Sarah E., Choi Jinho D.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "CODE: Contrasting Self-generated Description To Combat Hallucination In Large Multi-modal Models"
+title: CODE: Contrasting Self-generated Description To Combat Hallucination In Large Multi-modal Models
 authors: Junho Kim, Hyunjun Kim, Yeonju Kim, Yong Man Ro
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Matryoshka Query Transformer For Large Vision-language Models"
+title: Matryoshka Query Transformer For Large Vision-language Models
 authors: Hu Wenbo, Dou Zi-yi, Li Liunian Harold, Kamath Amita, Peng Nanyun, Chang Kai-wei
 conference: "Arxiv"
 year: 2024

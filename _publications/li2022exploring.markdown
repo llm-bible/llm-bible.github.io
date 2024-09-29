@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring Visual Interpretability For Contrastive Language-image Pre-training"
+title: Exploring Visual Interpretability For Contrastive Language-image Pre-training
 authors: Li Yi, Wang Hualiang, Duan Yiqun, Xu Hang, Li Xiaomeng
 conference: "Arxiv"
 year: 2022

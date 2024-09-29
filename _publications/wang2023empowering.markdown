@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Empowering Few-shot Recommender Systems With Large Language Models -- Enhanced Representations"
+title: Empowering Few-shot Recommender Systems With Large Language Models -- Enhanced Representations
 authors: Wang Zhoumeng
 conference: "Arxiv"
 year: 2023

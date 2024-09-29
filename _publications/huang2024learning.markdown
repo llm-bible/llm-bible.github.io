@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Learning Fine-grained Grounded Citations For Attributed Large Language Models"
+title: Learning Fine-grained Grounded Citations For Attributed Large Language Models
 authors: Huang Lei, Feng Xiaocheng, Ma Weitao, Gu Yuxuan, Zhong Weihong, Feng Xiachong, Yu Weijiang, Peng Weihua, Tang Duyu, Tu Dandan, Qin Bing
 conference: "Arxiv"
 year: 2024

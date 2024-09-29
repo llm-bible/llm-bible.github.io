@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Task-specific Pre-training And Prompt Decomposition For Knowledge Graph Population With Language Models"
+title: Task-specific Pre-training And Prompt Decomposition For Knowledge Graph Population With Language Models
 authors: Li Tianyi, Huang Wenyu, Papasarantopoulos Nikos, Vougiouklis Pavlos, Pan Jeff Z.
 conference: "Arxiv"
 year: 2022

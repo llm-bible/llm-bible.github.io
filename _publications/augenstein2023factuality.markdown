@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Factuality Challenges In The Era Of Large Language Models"
+title: Factuality Challenges In The Era Of Large Language Models
 authors: Augenstein Isabelle, Baldwin Timothy, Cha Meeyoung, Chakraborty Tanmoy, Ciampaglia Giovanni Luca, Corney David, Diresta Renee, Ferrara Emilio, Hale Scott, Halevy Alon, Hovy Eduard, Ji Heng, Menczer Filippo, Miguez Ruben, Nakov Preslav, Scheufele Dietram, Sharma Shivam, Zagni Giovanni
 conference: "Arxiv"
 year: 2023

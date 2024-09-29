@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bert-hlstms: BERT And Hierarchical Lstms For Visual Storytelling"
+title: Bert-hlstms: BERT And Hierarchical Lstms For Visual Storytelling
 authors: Su Jing, Dai Qingyun, Guerin Frank, Zhou Mian
 conference: "Arxiv"
 year: 2020

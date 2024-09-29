@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Optimizing Language Models For Human Preferences Is A Causal Inference Problem"
+title: Optimizing Language Models For Human Preferences Is A Causal Inference Problem
 authors: Lin Victoria, Ben-michael Eli, Morency Louis-philippe
 conference: "Arxiv"
 year: 2024

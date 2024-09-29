@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Learning And Evaluating Contextual Embedding Of Source Code"
+title: Learning And Evaluating Contextual Embedding Of Source Code
 authors: Kanade Aditya, Maniatis Petros, Balakrishnan Gogul, Shi Kensen
 conference: "Arxiv"
 year: 2019

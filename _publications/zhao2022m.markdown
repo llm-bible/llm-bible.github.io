@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "M-adapter: Modality Adaptation For End-to-end Speech-to-text Translation"
+title: M-adapter: Modality Adaptation For End-to-end Speech-to-text Translation
 authors: Zhao Jinming, Yang Hao, Shareghi Ehsan, Haffari Gholamreza
 conference: "Arxiv"
 year: 2022

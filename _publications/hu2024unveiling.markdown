@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Minicpm: Unveiling The Potential Of Small Language Models With Scalable Training Strategies"
+title: Minicpm: Unveiling The Potential Of Small Language Models With Scalable Training Strategies
 authors: Hu Shengding, Tu Yuge, Han Xu, He Chaoqun, Cui Ganqu, Long Xiang, Zheng Zhi, Fang Yewei, Huang Yuxiang, Zhao Weilin, Zhang Xinrong, Thai Zheng Leng, Zhang Kaihuo, Wang Chongyi, Yao Yuan, Zhao Chenyang, Zhou Jie, Cai Jie, Zhai Zhongwu, Ding Ning, Jia Chao, Zeng Guoyang, Li Dahai, Liu Zhiyuan, Sun Maosong
 conference: "Arxiv"
 year: 2024

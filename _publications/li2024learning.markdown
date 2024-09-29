@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Stylechat: Learning Recitation-augmented Memory In Llms For Stylized Dialogue Generation"
+title: Stylechat: Learning Recitation-augmented Memory In Llms For Stylized Dialogue Generation
 authors: Li Jinpeng, Zhang Zekai, Tu Quan, Cheng Xin, Zhao Dongyan, Yan Rui
 conference: "Arxiv"
 year: 2024

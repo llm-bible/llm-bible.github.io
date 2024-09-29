@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Plad: Preference-based Large Language Model Distillation With Pseudo-preference Pairs"
+title: Plad: Preference-based Large Language Model Distillation With Pseudo-preference Pairs
 authors: Zhang Rongzhi, Shen Jiaming, Liu Tianqi, Wang Haorui, Qin Zhen, Han Feng, Liu Jialu, Baumgartner Simon, Bendersky Michael, Zhang Chao
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Voicebox: Text-guided Multilingual Universal Speech Generation At Scale"
+title: Voicebox: Text-guided Multilingual Universal Speech Generation At Scale
 authors: Le Matthew, Vyas Apoorv, Shi Bowen, Karrer Brian, Sari Leda, Moritz Rashel, Williamson Mary, Manohar Vimal, Adi Yossi, Mahadeokar Jay, Hsu Wei-ning
 conference: "Arxiv"
 year: 2023

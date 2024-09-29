@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Medaide: Leveraging Large Language Models For On-premise Medical Assistance On Edge Devices"
+title: Medaide: Leveraging Large Language Models For On-premise Medical Assistance On Edge Devices
 authors: Basit Abdul, Hussain Khizar, Hanif Muhammad Abdullah, Shafique Muhammad
 conference: "Arxiv"
 year: 2024

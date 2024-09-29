@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On Early Detection Of Hallucinations In Factual Question Answering"
+title: On Early Detection Of Hallucinations In Factual Question Answering
 authors: Snyder Ben, Moisescu Marius, Zafar Muhammad Bilal
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "LEMMA: Towards Lvlm-enhanced Multimodal Misinformation Detection With External Knowledge Augmentation"
+title: LEMMA: Towards Lvlm-enhanced Multimodal Misinformation Detection With External Knowledge Augmentation
 authors: Xuan Keyang, Yi Li, Yang Fan, Wu Ruochen, Fung Yi R., Ji Heng
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Benchmarking And Defending Against Indirect Prompt Injection Attacks On Large Language Models"
+title: Benchmarking And Defending Against Indirect Prompt Injection Attacks On Large Language Models
 authors: Yi Jingwei, Xie Yueqi, Zhu Bin, Kiciman Emre, Sun Guangzhong, Xie Xing, Wu Fangzhao
 conference: "Arxiv"
 year: 2023

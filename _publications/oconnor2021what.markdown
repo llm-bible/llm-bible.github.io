@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "What Context Features Can Transformer Language Models Use?"
+title: What Context Features Can Transformer Language Models Use?
 authors: O'connor Joe, Andreas Jacob
 conference: "Arxiv"
 year: 2021

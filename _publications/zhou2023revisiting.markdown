@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Revisiting Automated Prompting: Are We Actually Doing Better?"
+title: Revisiting Automated Prompting: Are We Actually Doing Better?
 authors: Zhou Yulin, Zhao Yiren, Shumailov Ilia, Mullins Robert, Gal Yarin
 conference: "Arxiv"
 year: 2023

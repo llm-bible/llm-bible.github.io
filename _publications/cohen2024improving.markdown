@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving Token-based World Models With Parallel Observation Prediction"
+title: Improving Token-based World Models With Parallel Observation Prediction
 authors: Cohen Lior, Wang Kaixin, Kang Bingyi, Mannor Shie
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Knowledgeable Agents By Offline Reinforcement Learning From Large Language Model Rollouts"
+title: Knowledgeable Agents By Offline Reinforcement Learning From Large Language Model Rollouts
 authors: Pang Jing-cheng, Yang Si-hang, Li Kaiyuan, Zhang Jiaji, Chen Xiong-hui, Tang Nan, Yu Yang
 conference: "Arxiv"
 year: 2024

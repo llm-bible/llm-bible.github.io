@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Uncertainty Aware Learning For Language Model Alignment"
+title: Uncertainty Aware Learning For Language Model Alignment
 authors: Wang Yikun, Zheng Rui, Ding Liang, Zhang Qi, Lin Dahua, Tao Dacheng
 conference: "Arxiv"
 year: 2024

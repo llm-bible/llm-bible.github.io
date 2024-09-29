@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Rarely A Problem? Language Models Exhibit Inverse Scaling In Their Predictions Following Few-type Quantifiers"
+title: Rarely A Problem? Language Models Exhibit Inverse Scaling In Their Predictions Following Few-type Quantifiers
 authors: Michaelov James A., Bergen Benjamin K.
 conference: "Arxiv"
 year: 2022

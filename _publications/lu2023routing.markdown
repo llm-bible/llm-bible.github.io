@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Routing To The Expert: Efficient Reward-guided Ensemble Of Large Language Models"
+title: Routing To The Expert: Efficient Reward-guided Ensemble Of Large Language Models
 authors: Lu Keming, Yuan Hongyi, Lin Runji, Lin Junyang, Yuan Zheng, Zhou Chang, Zhou Jingren
 conference: "Arxiv"
 year: 2023

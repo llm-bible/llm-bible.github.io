@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Simulating Field Experiments With Large Language Models"
+title: Simulating Field Experiments With Large Language Models
 authors: Chen Yaoyu, Hu Yuheng, Lu Yingda
 conference: "Arxiv"
 year: 2024

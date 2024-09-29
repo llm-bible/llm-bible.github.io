@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Balancing Enhancement, Harmlessness, And General Capabilities: Enhancing Conversational Llms With Direct RLHF"
+title: Balancing Enhancement, Harmlessness, And General Capabilities: Enhancing Conversational Llms With Direct RLHF
 authors: Zheng Chen, Sun Ke, Wu Hang, Xi Chenguang, Zhou Xun
 conference: "Arxiv"
 year: 2024

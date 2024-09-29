@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Explorations Of Self-repair In Language Models"
+title: Explorations Of Self-repair In Language Models
 authors: Rushing Cody, Nanda Neel
 conference: "Arxiv"
 year: 2024

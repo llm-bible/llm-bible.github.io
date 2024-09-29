@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Gpt-4v(ision) As A Generalist Evaluator For Vision-language Tasks"
+title: Gpt-4v(ision) As A Generalist Evaluator For Vision-language Tasks
 authors: Zhang Xinlu, Lu Yujie, Wang Weizhi, Yan An, Yan Jun, Qin Lianke, Wang Heng, Yan Xifeng, Wang William Yang, Petzold Linda Ruth
 conference: "Arxiv"
 year: 2023

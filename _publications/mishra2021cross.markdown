@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cross-task Generalization Via Natural Language Crowdsourcing Instructions"
+title: Cross-task Generalization Via Natural Language Crowdsourcing Instructions
 authors: Swaroop Mishra, Daniel Khashabi, Chitta Baral, Hannaneh Hajishirzi
 conference: "Arxiv"
 year: 2021

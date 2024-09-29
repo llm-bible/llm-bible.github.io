@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Do Large Language Models And Humans Have Similar Behaviors In Causal Inference With Script Knowledge?"
+title: Do Large Language Models And Humans Have Similar Behaviors In Causal Inference With Script Knowledge?
 authors: Hong Xudong, Ryzhova Margarita, Biondi Daniel Adrian, Demberg Vera
 conference: "Arxiv"
 year: 2023

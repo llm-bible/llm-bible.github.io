@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Are Human-generated Demonstrations Necessary For In-context Learning?"
+title: Are Human-generated Demonstrations Necessary For In-context Learning?
 authors: Li Rui, Wang Guoyin, Li Jiwei
 conference: "Arxiv"
 year: 2023

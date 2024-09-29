@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving Diversity Of Commonsense Generation By Large Language Models Via In-context Learning"
+title: Improving Diversity Of Commonsense Generation By Large Language Models Via In-context Learning
 authors: Zhang Tianhui, Peng Bei, Bollegala Danushka
 conference: "Arxiv"
 year: 2024

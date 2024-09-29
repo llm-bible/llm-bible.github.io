@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Language Model Behavior: A Comprehensive Survey"
+title: Language Model Behavior: A Comprehensive Survey
 authors: Chang Tyler A., Bergen Benjamin K.
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Omniact: A Dataset And Benchmark For Enabling Multimodal Generalist Autonomous Agents For Desktop And Web"
+title: Omniact: A Dataset And Benchmark For Enabling Multimodal Generalist Autonomous Agents For Desktop And Web
 authors: Kapoor Raghav, Butala Yash Parag, Russak Melisa, Koh Jing Yu, Kamble Kiran, Alshikh Waseem, Salakhutdinov Ruslan
 conference: "Arxiv"
 year: 2024

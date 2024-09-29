@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tomchallenges: A Principle-guided Dataset And Diverse Evaluation Tasks For Exploring Theory Of Mind"
+title: Tomchallenges: A Principle-guided Dataset And Diverse Evaluation Tasks For Exploring Theory Of Mind
 authors: Ma Xiaomeng, Gao Lingyu, Xu Qihui
 conference: "Arxiv"
 year: 2023

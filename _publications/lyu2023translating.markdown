@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Translating Radiology Reports Into Plain Language Using Chatgpt And GPT-4 With Prompt Learning: Promising Results, Limitations, And Potential"
+title: Translating Radiology Reports Into Plain Language Using Chatgpt And GPT-4 With Prompt Learning: Promising Results, Limitations, And Potential
 authors: Lyu Qing, Tan Josh, Zapadka Michael E., Ponnatapura Janardhana, Niu Chuang, Myers Kyle J., Wang Ge, Whitlow Christopher T.
 conference: "Arxiv"
 year: 2023

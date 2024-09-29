@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Retrieval-based Conversational Recommendation"
+title: Towards Retrieval-based Conversational Recommendation
 authors: Manzoor Ahtsham, Jannach Dietmar
 conference: "Information Systems Volume"
 year: 2021

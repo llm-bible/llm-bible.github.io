@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "BLSP-KD: Bootstrapping Language-speech Pre-training Via Knowledge Distillation"
+title: BLSP-KD: Bootstrapping Language-speech Pre-training Via Knowledge Distillation
 authors: Wang Chen, Liao Minpeng, Huang Zhongqiang, Zhang Jiajun
 conference: "Arxiv"
 year: 2024

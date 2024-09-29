@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Model (LLM) Bias Index -- LLMBI"
+title: Large Language Model (LLM) Bias Index -- LLMBI
 authors: Oketunji Abiodun Finbarrs, Anas Muhammad, Saina Deepthi
 conference: "Arxiv"
 year: 2023

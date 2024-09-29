@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Enabling High-sparsity Foundational Llama Models With Efficient Pretraining And Deployment"
+title: Enabling High-sparsity Foundational Llama Models With Efficient Pretraining And Deployment
 authors: Agarwalla Abhinav, Gupta Abhay, Marques Alexandre, Pandit Shubhra, Goin Michael, Kurtic Eldar, Leong Kevin, Nguyen Tuan, Salem Mahmoud, Alistarh Dan, Lie Sean, Kurtz Mark
 conference: "Arxiv"
 year: 2024

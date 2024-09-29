@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "RAVEN: Multitask Retrieval Augmented Vision-language Learning"
+title: RAVEN: Multitask Retrieval Augmented Vision-language Learning
 authors: Rao Varun Nagaraj, Choudhary Siddharth, Deshpande Aditya, Satzoda Ravi Kumar, Appalaraju Srikar
 conference: "Arxiv"
 year: 2024

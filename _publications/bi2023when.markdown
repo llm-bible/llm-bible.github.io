@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "When Do Program-of-thoughts Work For Reasoning?"
+title: When Do Program-of-thoughts Work For Reasoning?
 authors: Bi Zhen, Zhang Ningyu, Jiang Yinuo, Deng Shumin, Zheng Guozhou, Chen Huajun
 conference: "Arxiv"
 year: 2023

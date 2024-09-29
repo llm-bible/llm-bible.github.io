@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Scheduled Sampling In Vision-language Pretraining With Decoupled Encoder-decoder Network"
+title: Scheduled Sampling In Vision-language Pretraining With Decoupled Encoder-decoder Network
 authors: Li Yehao, Pan Yingwei, Yao Ting, Chen Jingwen, Mei Tao
 conference: "Arxiv"
 year: 2021

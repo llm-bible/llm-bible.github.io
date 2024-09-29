@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Efficient Language Adaptive Pre-training: Extending State-of-the-art Large Language Models For Polish"
+title: Efficient Language Adaptive Pre-training: Extending State-of-the-art Large Language Models For Polish
 authors: Ruciński Szymon
 conference: "Arxiv"
 year: 2024

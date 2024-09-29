@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "An Empirical Study Of Training End-to-end Vision-and-language Transformers"
+title: An Empirical Study Of Training End-to-end Vision-and-language Transformers
 authors: Dou Zi-yi, Xu Yichong, Gan Zhe, Wang Jianfeng, Wang Shuohang, Wang Lijuan, Zhu Chenguang, Zhang Pengchuan, Yuan Lu, Peng Nanyun, Liu Zicheng, Zeng Michael
 conference: "Arxiv"
 year: 2021

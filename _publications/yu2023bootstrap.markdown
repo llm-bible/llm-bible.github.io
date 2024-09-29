@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Metamath: Bootstrap Your Own Mathematical Questions For Large Language Models"
+title: Metamath: Bootstrap Your Own Mathematical Questions For Large Language Models
 authors: Yu Longhui, Jiang Weisen, Shi Han, Yu Jincheng, Liu Zhengying, Zhang Yu, Kwok James T., Li Zhenguo, Weller Adrian, Liu Weiyang
 conference: "Arxiv"
 year: 2023

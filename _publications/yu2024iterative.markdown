@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Iterative Graph Alignment"
+title: Iterative Graph Alignment
 authors: Yu Fangyuan, Arora Hardeep Singh, Johnson Matt
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Syntax-driven Iterative Expansion Language Models For Controllable Text Generation"
+title: Syntax-driven Iterative Expansion Language Models For Controllable Text Generation
 authors: Casas Noe, Fonollosa José A. R., Costa-jussà Marta R.
 conference: "Arxiv"
 year: 2020

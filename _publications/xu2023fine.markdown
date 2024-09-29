@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fine-tuned Llms Know More, Hallucinate Less With Few-shot Sequence-to-sequence Semantic Parsing Over Wikidata"
+title: Fine-tuned Llms Know More, Hallucinate Less With Few-shot Sequence-to-sequence Semantic Parsing Over Wikidata
 authors: Xu Silei, Liu Shicheng, Culhane Theo, Pertseva Elizaveta, Wu Meng-hsi, Semnani Sina J., Lam Monica S.
 conference: "Arxiv"
 year: 2023

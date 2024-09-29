@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Large Language Models Reason? A Characterization Via 3-SAT"
+title: Can Large Language Models Reason? A Characterization Via 3-SAT
 authors: Hazra Rishi, Venturato Gabriele, Martires Pedro Zuidberg Dos, De Raedt Luc
 conference: "Arxiv"
 year: 2024

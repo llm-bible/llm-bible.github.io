@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Iterative Vision-and-language Navigation"
+title: Iterative Vision-and-language Navigation
 authors: Krantz Jacob, Banerjee Shurjo, Zhu Wang, Corso Jason, Anderson Peter, Lee Stefan, Thomason Jesse
 conference: "Arxiv"
 year: 2022

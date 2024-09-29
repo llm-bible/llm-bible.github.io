@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Qilin-med: Multi-stage Knowledge Injection Advanced Medical Large Language Model"
+title: Qilin-med: Multi-stage Knowledge Injection Advanced Medical Large Language Model
 authors: Ye Qichen, Liu Junling, Chong Dading, Zhou Peilin, Hua Yining, Liu Fenglin, Cao Meng, Wang Ziming, Cheng Xuxin, Lei Zhu, Guo Zhenhua
 conference: "Arxiv"
 year: 2023

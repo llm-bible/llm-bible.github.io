@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Latent Topic Conversational Models"
+title: Latent Topic Conversational Models
 authors: Wen Tsung-hsien, Luong Minh-thang
 conference: "Arxiv"
 year: 2018

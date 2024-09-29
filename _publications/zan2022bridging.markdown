@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bridging Cross-lingual Gaps During Leveraging The Multilingual Sequence-to-sequence Pretraining For Text Generation And Understanding"
+title: Bridging Cross-lingual Gaps During Leveraging The Multilingual Sequence-to-sequence Pretraining For Text Generation And Understanding
 authors: Zan Changtong, Ding Liang, Shen Li, Cao Yu, Liu Weifeng, Tao Dacheng
 conference: "Arxiv"
 year: 2022

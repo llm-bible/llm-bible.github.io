@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Transformers Learn Sequential Function Classes In Context?"
+title: Can Transformers Learn Sequential Function Classes In Context?
 authors: Campbell Ryan, Guo Emma, Hu Evan, Vir Reya, Hsiao Ethan
 conference: "Arxiv"
 year: 2023

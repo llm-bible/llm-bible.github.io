@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unveiling And Manipulating Prompt Influence In Large Language Models"
+title: Unveiling And Manipulating Prompt Influence In Large Language Models
 authors: Feng Zijian, Zhou Hanzhang, Zhu Zixiao, Qian Junlang, Mao Kezhi
 conference: "Arxiv"
 year: 2024

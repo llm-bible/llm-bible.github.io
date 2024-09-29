@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Probing Llms For Joint Encoding Of Linguistic Categories"
+title: Probing Llms For Joint Encoding Of Linguistic Categories
 authors: Starace Giulio, Papakostas Konstantinos, Choenni Rochelle, Panagiotopoulos Apostolos, Rosati Matteo, Leidinger Alina, Shutova Ekaterina
 conference: "Arxiv"
 year: 2023

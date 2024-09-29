@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On Zero-shot Counterspeech Generation By Llms"
+title: On Zero-shot Counterspeech Generation By Llms
 authors: Saha Punyajoy, Agrawal Aalok, Jana Abhik, Biemann Chris, Mukherjee Animesh
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Toursynbio: A Multi-modal Large Model And Agent Framework To Bridge Text And Protein Sequences For Protein Engineering"
+title: Toursynbio: A Multi-modal Large Model And Agent Framework To Bridge Text And Protein Sequences For Protein Engineering
 authors: Shen Yiqing, Chen Zan, Mamalakis Michail, Liu Yungeng, Li Tianbin, Su Yanzhou, He Junjun, Liò Pietro, Wang Yu Guang
 conference: "Arxiv"
 year: 2024

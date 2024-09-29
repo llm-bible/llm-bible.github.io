@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Impact Of Non-standard Unicode Characters On Security And Comprehension In Large Language Models"
+title: Impact Of Non-standard Unicode Characters On Security And Comprehension In Large Language Models
 authors: Daniel Johan S, Pal Anand
 conference: "Arxiv"
 year: 2024

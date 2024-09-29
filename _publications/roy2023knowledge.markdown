@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Knowledge-infused Self Attention Transformers"
+title: Knowledge-infused Self Attention Transformers
 authors: Roy Kaushik, Zi Yuxin, Narayanan Vignesh, Gaur Manas, Sheth Amit
 conference: "Arxiv"
 year: 2023

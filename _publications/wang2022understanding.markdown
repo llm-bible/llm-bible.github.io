@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Understanding And Improving Sequence-to-sequence Pretraining For Neural Machine Translation"
+title: Understanding And Improving Sequence-to-sequence Pretraining For Neural Machine Translation
 authors: Wang Wenxuan, Jiao Wenxiang, Hao Yongchang, Wang Xing, Shi Shuming, Tu Zhaopeng, Lyu Michael
 conference: "Arxiv"
 year: 2022

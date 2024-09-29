@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Multi-expert Large Language Model Architecture For Verilog Code Generation"
+title: A Multi-expert Large Language Model Architecture For Verilog Code Generation
 authors: Nadimi Bardia, Zheng Hao
 conference: "Arxiv"
 year: 2024

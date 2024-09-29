@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "GUI-WORLD: A Dataset For Gui-oriented Multimodal Llm-based Agents"
+title: GUI-WORLD: A Dataset For Gui-oriented Multimodal Llm-based Agents
 authors: Chen Dongping, Huang Yue, Wu Siyuan, Tang Jingyu, Chen Liuyi, Bai Yilin, He Zhigang, Wang Chenlong, Zhou Huichi, Li Yiqiang, Zhou Tianshuo, Yu Yue, Gao Chujie, Zhang Qihui, Gui Yi, Li Zhen, Wan Yao, Zhou Pan, Gao Jianfeng, Sun Lichao
 conference: "Arxiv"
 year: 2024

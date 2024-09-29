@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Practical Unlearning For Large Language Models"
+title: Practical Unlearning For Large Language Models
 authors: Gao Chongyang, Wang Lixu, Weng Chenkai, Wang Xiao, Zhu Qi
 conference: "Arxiv"
 year: 2024

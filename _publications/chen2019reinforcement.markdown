@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Reinforcement Learning Based Graph-to-sequence Model For Natural Question Generation"
+title: Reinforcement Learning Based Graph-to-sequence Model For Natural Question Generation
 authors: Chen Yu, Wu Lingfei, Zaki Mohammed J.
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models For Compiler Optimization"
+title: Large Language Models For Compiler Optimization
 authors: Cummins Chris, Seeker Volker, Grubisic Dejan, Elhoushi Mostafa, Liang Youwei, Roziere Baptiste, Gehring Jonas, Gloeckle Fabian, Hazelwood Kim, Synnaeve Gabriel, Leather Hugh
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Extensive Self-contrast Enables Feedback-free Language Model Alignment"
+title: Extensive Self-contrast Enables Feedback-free Language Model Alignment
 authors: Liu Xiao, Song Xixuan, Dong Yuxiao, Tang Jie
 conference: "Arxiv"
 year: 2024

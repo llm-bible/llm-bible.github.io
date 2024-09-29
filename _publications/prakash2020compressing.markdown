@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Compressing Transformer-based Semantic Parsing Models Using Compositional Code Embeddings"
+title: Compressing Transformer-based Semantic Parsing Models Using Compositional Code Embeddings
 authors: Prakash Prafull, Shashidhar Saurabh Kumar, Zhao Wenlong, Rongali Subendhu, Khan Haidar, Kayser Michael
 conference: "Arxiv"
 year: 2020

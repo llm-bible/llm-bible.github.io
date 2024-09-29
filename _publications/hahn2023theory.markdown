@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Theory Of Emergent In-context Learning As Implicit Structure Induction"
+title: A Theory Of Emergent In-context Learning As Implicit Structure Induction
 authors: Hahn Michael, Goyal Navin
 conference: "Arxiv"
 year: 2023

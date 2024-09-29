@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Interpreting Pretrained Language Models Via Concept Bottlenecks"
+title: Interpreting Pretrained Language Models Via Concept Bottlenecks
 authors: Tan Zhen, Cheng Lu, Wang Song, Bo Yuan, Li Jundong, Liu Huan
 conference: "Arxiv"
 year: 2023

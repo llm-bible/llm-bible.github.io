@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Hierarchical In-context Reinforcement Learning With Hindsight Modular Reflections For Planning"
+title: Hierarchical In-context Reinforcement Learning With Hindsight Modular Reflections For Planning
 authors: Sun Chuanneng, Huang Songjun, Pompili Dario
 conference: "Arxiv"
 year: 2024

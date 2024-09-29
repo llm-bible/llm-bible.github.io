@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Loma: Lossless Compressed Memory Attention"
+title: Loma: Lossless Compressed Memory Attention
 authors: Wang Yumeng, Xiao Zhenyang
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chatgpt As A Factual Inconsistency Evaluator For Text Summarization"
+title: Chatgpt As A Factual Inconsistency Evaluator For Text Summarization
 authors: Luo Zheheng, Xie Qianqian, Ananiadou Sophia
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring The Boundaries Of GPT-4 In Radiology"
+title: Exploring The Boundaries Of GPT-4 In Radiology
 authors: Liu Qianchu, Hyland Stephanie, Bannur Shruthi, Bouzid Kenza, Castro Daniel C., Wetscherek Maria Teodora, Tinn Robert, Sharma Harshita, Pérez-garcía Fernando, Schwaighofer Anton, Rajpurkar Pranav, Khanna Sameer Tajdin, Poon Hoifung, Usuyama Naoto, Thieme Anja, Nori Aditya V., Lungren Matthew P., Oktay Ozan, Alvarez-valle Javier
 conference: "Arxiv"
 year: 2023

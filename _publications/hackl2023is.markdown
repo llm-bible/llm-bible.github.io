@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Is GPT-4 A Reliable Rater? Evaluating Consistency In GPT-4 Text Ratings"
+title: Is GPT-4 A Reliable Rater? Evaluating Consistency In GPT-4 Text Ratings
 authors: Hackl Veronika, Müller Alexandra Elena, Granitzer Michael, Sailer Maximilian
 conference: "Arxiv"
 year: 2023

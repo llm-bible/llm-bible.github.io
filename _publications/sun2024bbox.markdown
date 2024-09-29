@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bbox-adapter: Lightweight Adapting For Black-box Large Language Models"
+title: Bbox-adapter: Lightweight Adapting For Black-box Large Language Models
 authors: Sun Haotian, Zhuang Yuchen, Wei Wei, Zhang Chao, Dai Bo
 conference: "Arxiv"
 year: 2024

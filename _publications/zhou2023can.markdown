@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can GPT Models Follow Human Summarization Guidelines? Evaluating Chatgpt And GPT-4 For Dialogue Summarization"
+title: Can GPT Models Follow Human Summarization Guidelines? Evaluating Chatgpt And GPT-4 For Dialogue Summarization
 authors: Zhou Yongxin, Ringeval Fabien, Portet François
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "I Have An Attention Bridge To Sell You: Generalization Capabilities Of Modular Translation Architectures"
+title: I Have An Attention Bridge To Sell You: Generalization Capabilities Of Modular Translation Architectures
 authors: Mickus Timothee, Vázquez Raúl, Attieh Joseph
 conference: "Arxiv"
 year: 2024

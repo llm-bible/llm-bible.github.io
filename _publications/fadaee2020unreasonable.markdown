@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Unreasonable Volatility Of Neural Machine Translation Models"
+title: The Unreasonable Volatility Of Neural Machine Translation Models
 authors: Fadaee Marzieh, Monz Christof
 conference: "Arxiv"
 year: 2020

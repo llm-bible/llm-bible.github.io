@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Hijacking Context In Large Multi-modal Models"
+title: Hijacking Context In Large Multi-modal Models
 authors: Jeong Joonhyun
 conference: "ICLR"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Comprehensive Vietnamese Retrieval-augmented Generation And Large Language Models"
+title: Towards Comprehensive Vietnamese Retrieval-augmented Generation And Large Language Models
 authors: Duc Nguyen Quang, Son Le Hai, Nhan Nguyen Duc, Minh Nguyen Dich Nhat, Huong Le Thanh, Sang Dinh Viet
 conference: "Arxiv"
 year: 2024

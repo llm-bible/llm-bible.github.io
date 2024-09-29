@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Causal Attention For Vision-language Tasks"
+title: Causal Attention For Vision-language Tasks
 authors: Yang Xu, Zhang Hanwang, Qi Guojun, Cai Jianfei
 conference: "Arxiv"
 year: 2021

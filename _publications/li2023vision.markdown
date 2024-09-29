@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Vision-language Instruction Tuning: A Review And Analysis"
+title: Vision-language Instruction Tuning: A Review And Analysis
 authors: Li Chen, Ge Yixiao, Li Dian, Shan Ying
 conference: "Arxiv"
 year: 2023

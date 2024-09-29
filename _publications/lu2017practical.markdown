@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Practical Approach To Dialogue Response Generation In Closed Domains"
+title: A Practical Approach To Dialogue Response Generation In Closed Domains
 authors: Lu Yichao, Keung Phillip, Zhang Shaonan, Sun Jason, Bhardwaj Vikas
 conference: "Arxiv"
 year: 2017

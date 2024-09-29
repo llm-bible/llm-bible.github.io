@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Reflection-tuning: Data Recycling Improves LLM Instruction-tuning"
+title: Reflection-tuning: Data Recycling Improves LLM Instruction-tuning
 authors: Li Ming, Chen Lichang, Chen Jiuhai, He Shwai, Huang Heng, Gu Jiuxiang, Zhou Tianyi
 conference: "Arxiv"
 year: 2023

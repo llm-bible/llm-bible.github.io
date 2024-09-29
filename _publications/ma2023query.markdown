@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Query Rewriting For Retrieval-augmented Large Language Models"
+title: Query Rewriting For Retrieval-augmented Large Language Models
 authors: Ma Xinbei, Gong Yeyun, He Pengcheng, Zhao Hai, Duan Nan
 conference: "Arxiv"
 year: 2023

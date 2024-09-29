@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Mechanistic Interpretation Of Syllogistic Reasoning In Auto-regressive Language Models"
+title: A Mechanistic Interpretation Of Syllogistic Reasoning In Auto-regressive Language Models
 authors: Kim Geonhee, Valentino Marco, Freitas André
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Generating Diverse Translation By Manipulating Multi-head Attention"
+title: Generating Diverse Translation By Manipulating Multi-head Attention
 authors: Sun Zewei, Huang Shujian, Wei Hao-ran, Dai Xin-yu, Chen Jiajun
 conference: "Arxiv"
 year: 2019

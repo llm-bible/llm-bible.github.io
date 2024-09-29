@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fractured-sorry-bench: Framework For Revealing Attacks In Conversational Turns Undermining Refusal Efficacy And Defenses Over Sorry-bench"
+title: Fractured-sorry-bench: Framework For Revealing Attacks In Conversational Turns Undermining Refusal Efficacy And Defenses Over Sorry-bench
 authors: Priyanshu Aman, Vijay Supriti
 conference: "Arxiv"
 year: 2024

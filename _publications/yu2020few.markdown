@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Few-shot Generative Conversational Query Rewriting"
+title: Few-shot Generative Conversational Query Rewriting
 authors: Yu Shi, Liu Jiahua, Yang Jingqin, Xiong Chenyan, Bennett Paul, Gao Jianfeng, Liu Zhiyuan
 conference: "Arxiv"
 year: 2020

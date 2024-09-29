@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "ABC: Attention With Bounded-memory Control"
+title: ABC: Attention With Bounded-memory Control
 authors: Peng Hao, Kasai Jungo, Pappas Nikolaos, Yogatama Dani, Wu Zhaofeng, Kong Lingpeng, Schwartz Roy, Smith Noah A.
 conference: "Arxiv"
 year: 2021

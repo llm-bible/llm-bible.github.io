@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Zhongjing: Enhancing The Chinese Medical Capabilities Of Large Language Model Through Expert Feedback And Real-world Multi-turn Dialogue"
+title: Zhongjing: Enhancing The Chinese Medical Capabilities Of Large Language Model Through Expert Feedback And Real-world Multi-turn Dialogue
 authors: Yang Songhua, Zhao Hanjie, Zhu Senbin, Zhou Guangyu, Xu Hongfei, Jia Yuxiang, Zan Hongying
 conference: "Arxiv"
 year: 2023

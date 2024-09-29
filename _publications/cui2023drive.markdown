@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Receive, Reason, And React: Drive As You Say With Large Language Models In Autonomous Vehicles"
+title: Receive, Reason, And React: Drive As You Say With Large Language Models In Autonomous Vehicles
 authors: Cui Can, Ma Yunsheng, Cao Xu, Ye Wenqian, Wang Ziran
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models Are Not Strong Abstract Reasoners"
+title: Large Language Models Are Not Strong Abstract Reasoners
 authors: Gendron Gaël, Bao Qiming, Witbrock Michael, Dobbie Gillian
 conference: "Arxiv"
 year: 2023

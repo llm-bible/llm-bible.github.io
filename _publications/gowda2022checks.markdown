@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Checks And Strategies For Enabling Code-switched Machine Translation"
+title: Checks And Strategies For Enabling Code-switched Machine Translation
 authors: Gowda Thamme, Gheini Mozhdeh, May Jonathan
 conference: "Arxiv"
 year: 2022

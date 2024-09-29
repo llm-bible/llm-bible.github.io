@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Generative Pre-trained Speech Language Model With Efficient Hierarchical Transformer"
+title: Generative Pre-trained Speech Language Model With Efficient Hierarchical Transformer
 authors: Zhu Yongxin, Su Dan, He Liqiang, Xu Linli, Yu Dong
 conference: "Arxiv"
 year: 2024

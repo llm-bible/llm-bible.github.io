@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Efficient And Effective Unlearning Of Large Language Models For Recommendation"
+title: Towards Efficient And Effective Unlearning Of Large Language Models For Recommendation
 authors: Wang Hangyu, Lin Jianghao, Chen Bo, Yang Yang, Tang Ruiming, Zhang Weinan, Yu Yong
 conference: "Arxiv"
 year: 2024

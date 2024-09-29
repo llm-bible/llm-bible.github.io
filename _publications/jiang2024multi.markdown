@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "MC$^2$: Multi-concept Guidance For Customized Multi-concept Generation"
+title: MC$^2$: Multi-concept Guidance For Customized Multi-concept Generation
 authors: Jiang Jiaxiu, Zhang Yabo, Feng Kailai, Wu Xiaohe, Zuo Wangmeng
 conference: "Arxiv"
 year: 2024

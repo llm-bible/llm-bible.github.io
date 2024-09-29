@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Spectrum: Targeted Training On Signal To Noise Ratio"
+title: Spectrum: Targeted Training On Signal To Noise Ratio
 authors: Hartford Eric, Atkins Lucas, Neto Fernando Fernandes, Golchinfar David
 conference: "Arxiv"
 year: 2024

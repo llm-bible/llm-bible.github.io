@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Role-specific Guided Large Language Model For Ophthalmic Consultation Based On Stylistic Differentiation"
+title: A Role-specific Guided Large Language Model For Ophthalmic Consultation Based On Stylistic Differentiation
 authors: Fu Laiyi, Fan Binbin, Du Hongkai, Feng Yanxiang, Li Chunhua, Song Huping
 conference: "Arxiv"
 year: 2024

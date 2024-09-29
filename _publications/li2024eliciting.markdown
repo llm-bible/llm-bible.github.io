@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Eliciting Better Multilingual Structured Reasoning From Llms Through Code"
+title: Eliciting Better Multilingual Structured Reasoning From Llms Through Code
 authors: Li Bryan, Alkhouli Tamer, Bonadiman Daniele, Pappas Nikolaos, Mansour Saab
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Llms With Chain-of-thought Are Non-causal Reasoners"
+title: Llms With Chain-of-thought Are Non-causal Reasoners
 authors: Bao Guangsheng, Zhang Hongbo, Yang Linyi, Wang Cunxiang, Zhang Yue
 conference: "Arxiv"
 year: 2024

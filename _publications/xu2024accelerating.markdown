@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Accelerating Large Language Model Training With Hybrid Gpu-based Compression"
+title: Accelerating Large Language Model Training With Hybrid Gpu-based Compression
 authors: Xu Lang, Anthony Quentin, Zhou Qinghua, Alnaasan Nawras, Gulhane Radha R., Shafi Aamir, Subramoni Hari, Panda Dhabaleswar K.
 conference: "Arxiv"
 year: 2024

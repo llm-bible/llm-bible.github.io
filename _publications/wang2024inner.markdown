@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "IAA: Inner-adaptor Architecture Empowers Frozen Large Language Model With Multimodal Capabilities"
+title: IAA: Inner-adaptor Architecture Empowers Frozen Large Language Model With Multimodal Capabilities
 authors: Wang Bin, Xie Chunyu, Leng Dawei, Yin Yuhui
 conference: "Arxiv"
 year: 2024

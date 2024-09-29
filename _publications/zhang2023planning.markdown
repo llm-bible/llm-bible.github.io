@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Planning With Large Language Models For Code Generation"
+title: Planning With Large Language Models For Code Generation
 authors: Zhang Shun, Chen Zhenfang, Shen Yikang, Ding Mingyu, Tenenbaum Joshua B., Gan Chuang
 conference: "Arxiv"
 year: 2023

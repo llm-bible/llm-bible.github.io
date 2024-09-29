@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring Safety-utility Trade-offs In Personalized Language Models"
+title: Exploring Safety-utility Trade-offs In Personalized Language Models
 authors: Vijjini Anvesh Rao, Chowdhury Somnath Basu Roy, Chaturvedi Snigdha
 conference: "Arxiv"
 year: 2024

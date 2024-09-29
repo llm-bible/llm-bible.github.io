@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Learn To Explain: Multimodal Reasoning Via Thought Chains For Science Question Answering"
+title: Learn To Explain: Multimodal Reasoning Via Thought Chains For Science Question Answering
 authors: Lu Pan, Mishra Swaroop, Xia Tony, Qiu Liang, Chang Kai-wei, Zhu Song-chun, Tafjord Oyvind, Clark Peter, Kalyan Ashwin
 conference: "Arxiv"
 year: 2022

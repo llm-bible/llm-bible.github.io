@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Getting From Generative AI To Trustworthy AI: What Llms Might Learn From Cyc"
+title: Getting From Generative AI To Trustworthy AI: What Llms Might Learn From Cyc
 authors: Lenat Doug, Marcus Gary
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "XATU: A Fine-grained Instruction-based Benchmark For Explainable Text Updates"
+title: XATU: A Fine-grained Instruction-based Benchmark For Explainable Text Updates
 authors: Zhang Haopeng, Iso Hayate, Gurajada Sairam, Bhutani Nikita
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Head-wise Shareable Attention For Large Language Models"
+title: Head-wise Shareable Attention For Large Language Models
 authors: Cao Zouying, Yang Yifei, Zhao Hai
 conference: "Arxiv"
 year: 2024

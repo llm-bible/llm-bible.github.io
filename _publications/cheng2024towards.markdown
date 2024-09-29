@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Achieving Human Parity On End-to-end Simultaneous Speech Translation Via LLM Agent"
+title: Towards Achieving Human Parity On End-to-end Simultaneous Speech Translation Via LLM Agent
 authors: Cheng Shanbo, Huang Zhichao, Ko Tom, Li Hang, Peng Ningxin, Xu Lu, Zhang Qini
 conference: "Arxiv"
 year: 2024

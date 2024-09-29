@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Seq2seq And Multi-task Learning For Joint Intent And Content Extraction For Domain Specific Interpreters"
+title: Seq2seq And Multi-task Learning For Joint Intent And Content Extraction For Domain Specific Interpreters
 authors: Velay Marc, Daniel Fabrice
 conference: "Arxiv"
 year: 2018

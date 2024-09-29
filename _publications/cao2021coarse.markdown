@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Coarse-grained Decomposition And Fine-grained Interaction For Multi-hop Question Answering"
+title: Coarse-grained Decomposition And Fine-grained Interaction For Multi-hop Question Answering
 authors: Cao Xing, Liu Yun
 conference: "Arxiv"
 year: 2021

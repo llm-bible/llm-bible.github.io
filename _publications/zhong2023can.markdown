@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Chatgpt Understand Too? A Comparative Study On Chatgpt And Fine-tuned BERT"
+title: Can Chatgpt Understand Too? A Comparative Study On Chatgpt And Fine-tuned BERT
 authors: Zhong Qihuang, Ding Liang, Liu Juhua, Du Bo, Tao Dacheng
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Llms As On-demand Customizable Service"
+title: Llms As On-demand Customizable Service
 authors: Sarkar Souvika Santu, Babar Mohammad Fakhruddin Santu, Hasan Monowar Santu, Karmaker Shubhra Kanti Santu
 conference: "Arxiv"
 year: 2024

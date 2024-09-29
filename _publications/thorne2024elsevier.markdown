@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Elsevier Arena: Human Evaluation Of Chemistry/biology/health Foundational Large Language Models"
+title: Elsevier Arena: Human Evaluation Of Chemistry/biology/health Foundational Large Language Models
 authors: Thorne Camilo, Druckenbrodt Christian, Szarkowska Kinga, Goyal Deepika, Marajan Pranita, Somanath Vijay, Harper Corey, Yan Mao, Scerri Tony
 conference: "Arxiv"
 year: 2024

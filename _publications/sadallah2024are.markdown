@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Are Llms Good Cryptic Crossword Solvers?"
+title: Are Llms Good Cryptic Crossword Solvers?
 authors: Sadallah Abdelrahman "boda", Kotova Daria, Kochmar Ekaterina
 conference: "Arxiv"
 year: 2024

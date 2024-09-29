@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "RE-GAINS & Enchant: Intelligent Tool Manipulation Systems For Enhanced Query Responses"
+title: RE-GAINS & Enchant: Intelligent Tool Manipulation Systems For Enhanced Query Responses
 authors: Girhepuje Sahil, Sajeev Siva Sankar, Jain Purvam, Sikder Arya, Varma Adithya Rama, George Ryan, Srinivasan Akshay Govind, Kurup Mahendra, Sinha Ashmit, Mondal Sudip
 conference: "Arxiv"
 year: 2024

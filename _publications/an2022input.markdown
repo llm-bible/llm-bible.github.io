@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Input-tuning: Adapting Unfamiliar Inputs To Frozen Pretrained Models"
+title: Input-tuning: Adapting Unfamiliar Inputs To Frozen Pretrained Models
 authors: An Shengnan, Li Yifei, Lin Zeqi, Liu Qian, Chen Bei, Fu Qiang, Chen Weizhu, Zheng Nanning, Lou Jian-guang
 conference: "Arxiv"
 year: 2022

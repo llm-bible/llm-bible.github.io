@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Boosting Llms-driven Relevance Modeling With Progressive Retrieved Behavior-augmented Prompting"
+title: Towards Boosting Llms-driven Relevance Modeling With Progressive Retrieved Behavior-augmented Prompting
 authors: Chen Zeyuan, Wu Haiyan, Wu Kaixin, Chen Wei, Zhong Mingjie, Xu Jia, Liu Zhongyi, Zhang Wei
 conference: "Arxiv"
 year: 2024

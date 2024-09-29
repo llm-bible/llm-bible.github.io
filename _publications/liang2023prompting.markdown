@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Prompting Large Language Models With Chain-of-thought For Few-shot Knowledge Base Question Generation"
+title: Prompting Large Language Models With Chain-of-thought For Few-shot Knowledge Base Question Generation
 authors: Liang Yuanyuan, Wang Jianing, Zhu Hanlun, Wang Lei, Qian Weining, Lan Yunshi
 conference: "Arxiv"
 year: 2023

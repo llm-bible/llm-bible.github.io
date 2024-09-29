@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Llm4vis: Explainable Visualization Recommendation Using Chatgpt"
+title: Llm4vis: Explainable Visualization Recommendation Using Chatgpt
 authors: Lei Wang, Songheng Zhang, Yun Wang, Ee-peng Lim, Yong Wang
 conference: "Arxiv"
 year: 2023

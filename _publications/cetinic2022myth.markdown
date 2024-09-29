@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Myth Of Culturally Agnostic AI Models"
+title: The Myth Of Culturally Agnostic AI Models
 authors: Cetinic Eva
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "RL-JACK: Reinforcement Learning-powered Black-box Jailbreaking Attack Against Llms"
+title: RL-JACK: Reinforcement Learning-powered Black-box Jailbreaking Attack Against Llms
 authors: Chen Xuan, Nie Yuzhou, Yan Lu, Mao Yunshu, Guo Wenbo, Zhang Xiangyu
 conference: "Arxiv"
 year: 2024

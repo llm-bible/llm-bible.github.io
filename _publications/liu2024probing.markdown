@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Probing Language Models For Pre-training Data Detection"
+title: Probing Language Models For Pre-training Data Detection
 authors: Liu Zhenhua, Zhu Tong, Tan Chuanyuan, Lu Haonan, Liu Bing, Chen Wenliang
 conference: "Arxiv"
 year: 2024

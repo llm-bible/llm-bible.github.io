@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving Retrieval-augmented Generation In Medicine With Iterative Follow-up Questions"
+title: Improving Retrieval-augmented Generation In Medicine With Iterative Follow-up Questions
 authors: Xiong Guangzhi, Jin Qiao, Wang Xiao, Zhang Minjia, Lu Zhiyong, Zhang Aidong
 conference: "Arxiv"
 year: 2024

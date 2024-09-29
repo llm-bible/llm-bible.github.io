@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Reasoning On Graphs: Faithful And Interpretable Large Language Model Reasoning"
+title: Reasoning On Graphs: Faithful And Interpretable Large Language Model Reasoning
 authors: Luo Linhao, Li Yuan-fang, Haffari Gholamreza, Pan Shirui
 conference: "Arxiv"
 year: 2023

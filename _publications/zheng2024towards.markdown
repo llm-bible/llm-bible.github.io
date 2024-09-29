@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Lifelong Learning Of Large Language Models: A Survey"
+title: Towards Lifelong Learning Of Large Language Models: A Survey
 authors: Zheng Junhao, Qiu Shengjie, Shi Chengming, Ma Qianli
 conference: "Arxiv"
 year: 2024

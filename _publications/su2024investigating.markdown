@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Investigating Video Reasoning Capability Of Large Language Models With Tropes In Movies"
+title: Investigating Video Reasoning Capability Of Large Language Models With Tropes In Movies
 authors: Su Hung-ting, Chao Chun-tong, Hsu Ya-ching, Lin Xudong, Niu Yulei, Lee Hung-yi, Hsu Winston H.
 conference: "Arxiv"
 year: 2024

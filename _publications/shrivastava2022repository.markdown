@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Repository-level Prompt Generation For Large Language Models Of Code"
+title: Repository-level Prompt Generation For Large Language Models Of Code
 authors: Shrivastava Disha, Larochelle Hugo, Tarlow Daniel
 conference: "ICML"
 year: 2022

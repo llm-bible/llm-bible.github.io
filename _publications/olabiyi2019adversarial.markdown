@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Adversarial Bootstrapping For Dialogue Model Training"
+title: Adversarial Bootstrapping For Dialogue Model Training
 authors: Olabiyi Oluwatobi, Mueller Erik T., Larson Christopher, Lahlou Tarek
 conference: "Arxiv"
 year: 2019

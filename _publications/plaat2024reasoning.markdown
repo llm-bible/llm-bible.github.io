@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Reasoning With Large Language Models, A Survey"
+title: Reasoning With Large Language Models, A Survey
 authors: Plaat Aske, Wong Annie, Verberne Suzan, Broekens Joost, Van Stein Niki, Back Thomas
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Vaccine: Perturbation-aware Alignment For Large Language Models Against Harmful Fine-tuning"
+title: Vaccine: Perturbation-aware Alignment For Large Language Models Against Harmful Fine-tuning
 authors: Huang Tiansheng, Hu Sihao, Liu Ling
 conference: "Arxiv"
 year: 2024

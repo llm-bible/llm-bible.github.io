@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating Very Long-term Conversational Memory Of LLM Agents"
+title: Evaluating Very Long-term Conversational Memory Of LLM Agents
 authors: Maharana Adyasha, Lee Dong-ho, Tulyakov Sergey, Bansal Mohit, Barbieri Francesco, Fang Yuwei
 conference: "Arxiv"
 year: 2024

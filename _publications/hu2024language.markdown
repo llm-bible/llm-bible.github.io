@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Language Models Align With Human Judgments On Key Grammatical Constructions"
+title: Language Models Align With Human Judgments On Key Grammatical Constructions
 authors: Hu Jennifer, Mahowald Kyle, Lupyan Gary, Ivanova Anna, Levy Roger
 conference: "Proceedings of the National Academy of Sciences"
 year: 2024

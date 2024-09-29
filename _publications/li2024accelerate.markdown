@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Amphista: Accelerate LLM Inference With Bi-directional Multiple Drafting Heads In A Non-autoregressive Style"
+title: Amphista: Accelerate LLM Inference With Bi-directional Multiple Drafting Heads In A Non-autoregressive Style
 authors: Li Zeping, Yang Xinlong, Gao Ziheng, Liu Ji, Liu Zhuang, Li Dong, Peng Jinzhang, Tian Lu, Barsoum Emad
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Focus On Your Question! Interpreting And Mitigating Toxic Cot Problems In Commonsense Reasoning"
+title: Focus On Your Question! Interpreting And Mitigating Toxic Cot Problems In Commonsense Reasoning
 authors: Li Jiachun, Cao Pengfei, Wang Chenhao, Jin Zhuoran, Chen Yubo, Zeng Daojian, Liu Kang, Zhao Jun
 conference: "Arxiv"
 year: 2024

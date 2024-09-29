@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Hallucinations In Large Multilingual Translation Models"
+title: Hallucinations In Large Multilingual Translation Models
 authors: Guerreiro Nuno M., Alves Duarte, Waldendorf Jonas, Haddow Barry, Birch Alexandra, Colombo Pierre, Martins André F. T.
 conference: "Arxiv"
 year: 2023

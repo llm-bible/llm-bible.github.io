@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Llms' Understanding Of Natural Language Revealed"
+title: Llms' Understanding Of Natural Language Revealed
 authors: Saba Walid S.
 conference: "Arxiv"
 year: 2024

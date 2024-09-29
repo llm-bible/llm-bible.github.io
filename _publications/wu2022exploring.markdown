@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring The Efficacy Of Pre-trained Checkpoints In Text-to-music Generation Task"
+title: Exploring The Efficacy Of Pre-trained Checkpoints In Text-to-music Generation Task
 authors: Wu Shangda, Sun Maosong
 conference: "Arxiv"
 year: 2022

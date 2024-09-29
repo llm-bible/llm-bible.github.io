@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Attention Is Indeed All You Need: Semantically Attention-guided Decoding For Data-to-text NLG"
+title: Attention Is Indeed All You Need: Semantically Attention-guided Decoding For Data-to-text NLG
 authors: Juraska Juraj, Walker Marilyn
 conference: "Arxiv"
 year: 2021

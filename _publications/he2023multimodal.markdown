@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multimodal Graph Transformer For Multimodal Question Answering"
+title: Multimodal Graph Transformer For Multimodal Question Answering
 authors: He Xuehai, Wang Xin Eric
 conference: "Arxiv"
 year: 2023

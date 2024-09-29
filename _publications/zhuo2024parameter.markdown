@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Astraios: Parameter-efficient Instruction Tuning Code Large Language Models"
+title: Astraios: Parameter-efficient Instruction Tuning Code Large Language Models
 authors: Zhuo Terry Yue, Zebaze Armel, Suppattarachai Nitchakarn, Von Werra Leandro, De Vries Harm, Liu Qian, Muennighoff Niklas
 conference: "Arxiv"
 year: 2024

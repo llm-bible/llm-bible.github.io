@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Efficient RLHF: Reducing The Memory Usage Of PPO"
+title: Efficient RLHF: Reducing The Memory Usage Of PPO
 authors: Santacroce Michael, Lu Yadong, Yu Han, Li Yuanzhi, Shen Yelong
 conference: "Arxiv"
 year: 2023

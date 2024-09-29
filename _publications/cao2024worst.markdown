@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On The Worst Prompt Performance Of Large Language Models"
+title: On The Worst Prompt Performance Of Large Language Models
 authors: Cao Bowen, Cai Deng, Zhang Zhisong, Zou Yuexian, Lam Wai
 conference: "Arxiv"
 year: 2024

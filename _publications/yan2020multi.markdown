@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multi-unit Transformers For Neural Machine Translation"
+title: Multi-unit Transformers For Neural Machine Translation
 authors: Yan Jianhao, Meng Fandong, Zhou Jie
 conference: "Arxiv"
 year: 2020

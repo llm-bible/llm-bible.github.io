@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Generating Coherent Narratives By Learning Dynamic And Discrete Entity States With A Contrastive Framework"
+title: Generating Coherent Narratives By Learning Dynamic And Discrete Entity States With A Contrastive Framework
 authors: Guan Jian, Yang Zhenyu, Zhang Rongsheng, Hu Zhipeng, Huang Minlie
 conference: "Arxiv"
 year: 2022

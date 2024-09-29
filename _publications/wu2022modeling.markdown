@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Modeling Context With Linear Attention For Scalable Document-level Translation"
+title: Modeling Context With Linear Attention For Scalable Document-level Translation
 authors: Wu Zhaofeng, Peng Hao, Pappas Nikolaos, Smith Noah A.
 conference: "Arxiv"
 year: 2022

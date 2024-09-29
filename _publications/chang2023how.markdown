@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chipgpt: How Far Are We From Natural Language Hardware Design"
+title: Chipgpt: How Far Are We From Natural Language Hardware Design
 authors: Chang Kaiyan, Wang Ying, Ren Haimeng, Wang Mengdi, Liang Shengwen, Han Yinhe, Li Huawei, Li Xiaowei
 conference: "Arxiv"
 year: 2023

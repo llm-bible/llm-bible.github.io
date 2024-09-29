@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Phased Instruction Fine-tuning For Large Language Models"
+title: Phased Instruction Fine-tuning For Large Language Models
 authors: Pang Wei, Zhou Chuan, Zhou Xiao-hua, Wang Xiaojie
 conference: "Arxiv"
 year: 2024

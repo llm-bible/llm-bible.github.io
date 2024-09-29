@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Question Suggestion For Conversational Shopping Assistants Using Product Metadata"
+title: Question Suggestion For Conversational Shopping Assistants Using Product Metadata
 authors: Vedula Nikhita, Rokhlenko Oleg, Malmasi Shervin
 conference: "Arxiv"
 year: 2024

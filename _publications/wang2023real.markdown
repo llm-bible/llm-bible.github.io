@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Interviewbot: Real-time End-to-end Dialogue System To Interview Students For College Admission"
+title: Interviewbot: Real-time End-to-end Dialogue System To Interview Students For College Admission
 authors: Wang Zihao, Keyes Nathan, Crawford Terry, Choi Jinho D.
 conference: "Information"
 year: 2023

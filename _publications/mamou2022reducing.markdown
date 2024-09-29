@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tangobert: Reducing Inference Cost By Using Cascaded Architecture"
+title: Tangobert: Reducing Inference Cost By Using Cascaded Architecture
 authors: Mamou Jonathan, Pereg Oren, Wasserblat Moshe, Schwartz Roy
 conference: "Arxiv"
 year: 2022

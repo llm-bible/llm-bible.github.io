@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dspy: Compiling Declarative Language Model Calls Into Self-improving Pipelines"
+title: Dspy: Compiling Declarative Language Model Calls Into Self-improving Pipelines
 authors: Khattab Omar, Singhvi Arnav, Maheshwari Paridhi, Zhang Zhiyuan, Santhanam Keshav, Vardhamanan Sri, Haq Saiful, Sharma Ashutosh, Joshi Thomas T., Moazam Hanna, Miller Heather, Zaharia Matei, Potts Christopher
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Cross-language Investigation Into Jailbreak Attacks In Large Language Models"
+title: A Cross-language Investigation Into Jailbreak Attacks In Large Language Models
 authors: Li Jie, Liu Yi, Liu Chongyang, Shi Ling, Ren Xiaoning, Zheng Yaowen, Liu Yang, Xue Yinxing
 conference: "Arxiv"
 year: 2024

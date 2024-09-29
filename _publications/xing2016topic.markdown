@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Topic Aware Neural Response Generation"
+title: Topic Aware Neural Response Generation
 authors: Xing Chen, Wu Wei, Wu Yu, Liu Jie, Huang Yalou, Zhou Ming, Ma Wei-ying
 conference: "Arxiv"
 year: 2016

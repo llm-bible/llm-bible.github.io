@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Disentangling Logic: The Role Of Context In Large Language Model Reasoning Capabilities"
+title: Disentangling Logic: The Role Of Context In Large Language Model Reasoning Capabilities
 authors: Hua Wenyue, Zhu Kaijie, Li Lingyao, Fan Lizhou, Lin Shuhang, Jin Mingyu, Xue Haochen, Li Zelong, Wang Jindong, Zhang Yongfeng
 conference: "Arxiv"
 year: 2024

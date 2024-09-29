@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Instruction Tuning-free Visual Token Complement For Multimodal Llms"
+title: Instruction Tuning-free Visual Token Complement For Multimodal Llms
 authors: Wang Dongsheng, Cui Jiequan, Li Miaoge, Lin Wang, Chen Bo, Zhang Hanwang
 conference: "Arxiv"
 year: 2024

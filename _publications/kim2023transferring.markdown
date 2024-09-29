@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Transferring Pre-trained Multimodal Representations With Cross-modal Similarity Matching"
+title: Transferring Pre-trained Multimodal Representations With Cross-modal Similarity Matching
 authors: Kim Byoungjip, Choi Sungik, Hwang Dasol, Lee Moontae, Lee Honglak
 conference: "Arxiv"
 year: 2023

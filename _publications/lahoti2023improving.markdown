@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving Diversity Of Demographic Representation In Large Language Models Via Collective-critiques And Self-voting"
+title: Improving Diversity Of Demographic Representation In Large Language Models Via Collective-critiques And Self-voting
 authors: Lahoti Preethi, Blumm Nicholas, Ma Xiao, Kotikalapudi Raghavendra, Potluri Sahitya, Tan Qijun, Srinivasan Hansa, Packer Ben, Beirami Ahmad, Beutel Alex, Chen Jilin
 conference: "Arxiv"
 year: 2023

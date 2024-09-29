@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "ARES: Alternating Reinforcement Learning And Supervised Fine-tuning For Enhanced Multi-modal Chain-of-thought Reasoning Through Diverse AI Feedback"
+title: ARES: Alternating Reinforcement Learning And Supervised Fine-tuning For Enhanced Multi-modal Chain-of-thought Reasoning Through Diverse AI Feedback
 authors: Byun Ju-seung, Chun Jiyun, Kil Jihyung, Perrault Andrew
 conference: "Arxiv"
 year: 2024

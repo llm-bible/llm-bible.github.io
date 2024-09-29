@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bird-eye Transformers For Text Generation Models"
+title: Bird-eye Transformers For Text Generation Models
 authors: Sha Lei, Song Yuhang, Yordanov Yordan, Salvatori Tommaso, Lukasiewicz Thomas
 conference: "Arxiv"
 year: 2022

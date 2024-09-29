@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Latr: Layout-aware Transformer For Scene-text VQA"
+title: Latr: Layout-aware Transformer For Scene-text VQA
 authors: Biten Ali Furkan, Litman Ron, Xie Yusheng, Appalaraju Srikar, Manmatha R.
 conference: "Arxiv"
 year: 2021

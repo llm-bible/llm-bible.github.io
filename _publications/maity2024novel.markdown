@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Novel Multi-stage Prompting Approach For Language Agnostic MCQ Generation Using GPT"
+title: A Novel Multi-stage Prompting Approach For Language Agnostic MCQ Generation Using GPT
 authors: Maity Subhankar, Deroy Aniket, Sarkar Sudeshna
 conference: "Arxiv"
 year: 2024

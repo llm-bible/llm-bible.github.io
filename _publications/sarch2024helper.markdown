@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "HELPER-X: A Unified Instructable Embodied Agent To Tackle Four Interactive Vision-language Domains With Memory-augmented Language Models"
+title: HELPER-X: A Unified Instructable Embodied Agent To Tackle Four Interactive Vision-language Domains With Memory-augmented Language Models
 authors: Sarch Gabriel, Somani Sahil, Kapoor Raghav, Tarr Michael J., Fragkiadaki Katerina
 conference: "Arxiv"
 year: 2024

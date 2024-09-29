@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Language-conditioned Offline RL For Multi-robot Navigation"
+title: Language-conditioned Offline RL For Multi-robot Navigation
 authors: Morad Steven, Shankar Ajay, Blumenkamp Jan, Prorok Amanda
 conference: "Arxiv"
 year: 2024

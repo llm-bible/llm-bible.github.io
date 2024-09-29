@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Prompt-based Bias Calibration For Better Zero/few-shot Learning Of Language Models"
+title: Prompt-based Bias Calibration For Better Zero/few-shot Learning Of Language Models
 authors: He Kang, Long Yinghan, Roy Kaushik
 conference: "Arxiv"
 year: 2024

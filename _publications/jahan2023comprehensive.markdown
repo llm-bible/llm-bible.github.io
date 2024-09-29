@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Comprehensive Evaluation Of Large Language Models On Benchmark Biomedical Text Processing Tasks"
+title: A Comprehensive Evaluation Of Large Language Models On Benchmark Biomedical Text Processing Tasks
 authors: Jahan Israt, Laskar Md Tahmid Rahman, Peng Chun, Huang Jimmy
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Analyzing And Mitigating Object Hallucination In Large Vision-language Models"
+title: Analyzing And Mitigating Object Hallucination In Large Vision-language Models
 authors: Yiyang Zhou, Chenhang Cui, Jaehong Yoon, Linjun Zhang, Zhun Deng, Chelsea Finn, Mohit Bansal, Huaxiu Yao
 conference: "Arxiv"
 year: 2023

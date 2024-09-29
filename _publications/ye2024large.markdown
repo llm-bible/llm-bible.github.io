@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models As Hyper-heuristics For Combinatorial Optimization"
+title: Large Language Models As Hyper-heuristics For Combinatorial Optimization
 authors: Ye Haoran, Wang Jiarui, Cao Zhiguang, Berto Federico, Hua Chuanbo, Kim Haeyeon, Park Jinkyoo, Song Guojie
 conference: "Arxiv"
 year: 2024

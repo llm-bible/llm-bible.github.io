@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Scaling Laws For Linear Complexity Language Models"
+title: Scaling Laws For Linear Complexity Language Models
 authors: Shen Xuyang, Li Dong, Leng Ruitao, Qin Zhen, Sun Weigao, Zhong Yiran
 conference: "Arxiv"
 year: 2024

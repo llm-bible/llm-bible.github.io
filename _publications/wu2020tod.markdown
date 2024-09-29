@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "TOD-BERT: Pre-trained Natural Language Understanding For Task-oriented Dialogue"
+title: TOD-BERT: Pre-trained Natural Language Understanding For Task-oriented Dialogue
 authors: Wu Chien-sheng, Hoi Steven, Socher Richard, Xiong Caiming
 conference: "Arxiv"
 year: 2020

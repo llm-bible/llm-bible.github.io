@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards More Unified In-context Visual Understanding"
+title: Towards More Unified In-context Visual Understanding
 authors: Sheng Dianmo, Chen Dongdong, Tan Zhentao, Liu Qiankun, Chu Qi, Bao Jianmin, Gong Tao, Liu Bin, Xu Shengwei, Yu Nenghai
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "SPARQL Generation: An Analysis On Fine-tuning Openllama For Question Answering Over A Life Science Knowledge Graph"
+title: SPARQL Generation: An Analysis On Fine-tuning Openllama For Question Answering Over A Life Science Knowledge Graph
 authors: Rangel Julio C., De Farias Tarcisio Mendes, Sima Ana Claudia, Kobayashi Norio
 conference: "Arxiv"
 year: 2024

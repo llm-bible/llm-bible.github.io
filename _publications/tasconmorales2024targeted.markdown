@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Targeted Visual Prompting For Medical Visual Question Answering"
+title: Targeted Visual Prompting For Medical Visual Question Answering
 authors: Tascon-morales Sergio, Márquez-neila Pablo, Sznitman Raphael
 conference: "Arxiv"
 year: 2024

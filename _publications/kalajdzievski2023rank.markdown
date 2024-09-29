@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Rank Stabilization Scaling Factor For Fine-tuning With Lora"
+title: A Rank Stabilization Scaling Factor For Fine-tuning With Lora
 authors: Kalajdzievski Damjan
 conference: "Arxiv"
 year: 2023

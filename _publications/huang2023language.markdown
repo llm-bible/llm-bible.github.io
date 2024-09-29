@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Language Is Not All You Need: Aligning Perception With Language Models"
+title: Language Is Not All You Need: Aligning Perception With Language Models
 authors: Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra, Qiang Liu, Kriti Aggarwal, Zewen Chi, Johan Bjorck, Vishrav Chaudhary, Subhojit Som, Xia Song, Furu Wei
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Analyzing The Performance Of Chatgpt In Cardiology And Vascular Pathologies"
+title: Analyzing The Performance Of Chatgpt In Cardiology And Vascular Pathologies
 authors: Hariri Walid
 conference: "Arxiv"
 year: 2023

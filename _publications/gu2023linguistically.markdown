@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Linguistically Informed Chatgpt Prompts To Enhance Japanese-chinese Machine Translation: A Case Study On Attributive Clauses"
+title: Linguistically Informed Chatgpt Prompts To Enhance Japanese-chinese Machine Translation: A Case Study On Attributive Clauses
 authors: Gu Wenshi
 conference: "Arxiv"
 year: 2023

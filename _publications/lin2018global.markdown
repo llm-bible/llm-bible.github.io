@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Global Encoding For Abstractive Summarization"
+title: Global Encoding For Abstractive Summarization
 authors: Lin Junyang, Sun Xu, Ma Shuming, Su Qi
 conference: "Arxiv"
 year: 2018

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Simple LLM Prompting Is State-of-the-art For Robust And Multilingual Dialogue Evaluation"
+title: Simple LLM Prompting Is State-of-the-art For Robust And Multilingual Dialogue Evaluation
 authors: Mendonça John, Pereira Patrícia, Moniz Helena, Carvalho João Paulo, Lavie Alon, Trancoso Isabel
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Transaction: ICL-SJTU Submission To Epic-kitchens Action Anticipation Challenge 2021"
+title: Transaction: ICL-SJTU Submission To Epic-kitchens Action Anticipation Challenge 2021
 authors: Gu Xiao, Qiu Jianing, Guo Yao, Lo Benny, Yang Guang-zhong
 conference: "Arxiv"
 year: 2021

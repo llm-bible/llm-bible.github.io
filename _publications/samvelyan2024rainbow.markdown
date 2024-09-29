@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Rainbow Teaming: Open-ended Generation Of Diverse Adversarial Prompts"
+title: Rainbow Teaming: Open-ended Generation Of Diverse Adversarial Prompts
 authors: Samvelyan Mikayel, Raparthy Sharath Chandra, Lupu Andrei, Hambro Eric, Markosyan Aram H., Bhatt Manish, Mao Yuning, Jiang Minqi, Parker-holder Jack, Foerster Jakob, Rocktäschel Tim, Raileanu Roberta
 conference: "Arxiv"
 year: 2024

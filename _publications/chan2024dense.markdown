@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dense Reward For Free In Reinforcement Learning From Human Feedback"
+title: Dense Reward For Free In Reinforcement Learning From Human Feedback
 authors: Chan Alex J., Sun Hao, Holt Samuel, Van Der Schaar Mihaela
 conference: "Arxiv"
 year: 2024

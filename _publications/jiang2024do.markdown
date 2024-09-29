@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Do Llms Dream Of Elephants (when Told Not To)? Latent Concept Association And Associative Memory In Transformers"
+title: Do Llms Dream Of Elephants (when Told Not To)? Latent Concept Association And Associative Memory In Transformers
 authors: Jiang Yibo, Rajendran Goutham, Ravikumar Pradeep, Aragam Bryon
 conference: "Arxiv"
 year: 2024

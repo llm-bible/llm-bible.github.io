@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Structured Chain-of-thought Prompting For Few-shot Generation Of Content-grounded QA Conversations"
+title: Structured Chain-of-thought Prompting For Few-shot Generation Of Content-grounded QA Conversations
 authors: Sultan Md Arafat, Ganhotra Jatin, Astudillo Ramón Fernandez
 conference: "Arxiv"
 year: 2024

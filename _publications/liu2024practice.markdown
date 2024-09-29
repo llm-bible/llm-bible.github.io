@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Practice-friendly Two-stage Llm-enhanced Paradigm In Sequential Recommendation"
+title: A Practice-friendly Two-stage Llm-enhanced Paradigm In Sequential Recommendation
 authors: Liu Dugang, Xian Shenxian, Lin Xiaolin, Zhang Xiaolian, Zhu Hong, Fang Yuan, Chen Zhen, Ming Zhong
 conference: "Arxiv"
 year: 2024

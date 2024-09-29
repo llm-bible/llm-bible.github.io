@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "LLMCRIT: Teaching Large Language Models To Use Criteria"
+title: LLMCRIT: Teaching Large Language Models To Use Criteria
 authors: Yuan Weizhe, Liu Pengfei, Gallé Matthias
 conference: "Arxiv"
 year: 2024

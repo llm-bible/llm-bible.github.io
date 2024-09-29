@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can It Edit? Evaluating The Ability Of Large Language Models To Follow Code Editing Instructions"
+title: Can It Edit? Evaluating The Ability Of Large Language Models To Follow Code Editing Instructions
 authors: Cassano Federico, Li Luisa, Sethi Akul, Shinn Noah, Brennan-jones Abby, Ginesin Jacob, Berman Edward, Chakhnashvili George, Lozhkov Anton, Anderson Carolyn Jane, Guha Arjun
 conference: "Arxiv"
 year: 2023

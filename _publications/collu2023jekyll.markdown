@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dr. Jekyll And Mr. Hyde: Two Faces Of Llms"
+title: Dr. Jekyll And Mr. Hyde: Two Faces Of Llms
 authors: Collu Matteo Gioele, Janssen-groesbeek Tom, Koffas Stefanos, Conti Mauro, Picek Stjepan
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Does GPT-4 Pass The Turing Test?"
+title: Does GPT-4 Pass The Turing Test?
 authors: Jones Cameron R., Bergen Benjamin K.
 conference: "Arxiv"
 year: 2023

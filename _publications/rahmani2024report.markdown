@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Report On The 1st Workshop On Large Language Model For Evaluation In Information Retrieval (llm4eval 2024) At SIGIR 2024"
+title: Report On The 1st Workshop On Large Language Model For Evaluation In Information Retrieval (llm4eval 2024) At SIGIR 2024
 authors: Rahmani Hossein A., Siro Clemencia, Aliannejadi Mohammad, Craswell Nick, Clarke Charles L. A., Faggioli Guglielmo, Mitra Bhaskar, Thomas Paul, Yilmaz Emine
 conference: "Arxiv"
 year: 2024

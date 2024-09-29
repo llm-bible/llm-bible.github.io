@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Finetuned Language Models Are Zero-shot Learners"
+title: Finetuned Language Models Are Zero-shot Learners
 authors: Jason Wei, Maarten Bosma, Vincent Y. Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai, Quoc V. Le
 conference: "Arxiv"
 year: 2021

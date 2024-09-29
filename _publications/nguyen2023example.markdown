@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "In-context Example Selection With Influences"
+title: In-context Example Selection With Influences
 authors: Nguyen Tai, Wong Eric
 conference: "Arxiv"
 year: 2023

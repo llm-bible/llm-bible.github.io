@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Predicting The Big Five Personality Traits In Chinese Counselling Dialogues Using Large Language Models"
+title: Predicting The Big Five Personality Traits In Chinese Counselling Dialogues Using Large Language Models
 authors: Yan Yang, Ma Lizhi, Li Anqi, Ma Jingsong, Lan Zhenzhong
 conference: "Arxiv"
 year: 2024

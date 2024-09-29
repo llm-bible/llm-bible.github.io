@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Integrating AI Tutors In A Programming Course"
+title: Integrating AI Tutors In A Programming Course
 authors: Ma Iris, Martins Alberto Krone, Lopes Cristina Videira
 conference: "Arxiv"
 year: 2024

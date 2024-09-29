@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unified Discrete Diffusion For Simultaneous Vision-language Generation"
+title: Unified Discrete Diffusion For Simultaneous Vision-language Generation
 authors: Hu Minghui, Zheng Chuanxia, Zheng Heliang, Cham Tat-jen, Wang Chaoyue, Yang Zuopeng, Tao Dacheng, Suganthan Ponnuthurai N.
 conference: "Arxiv"
 year: 2022

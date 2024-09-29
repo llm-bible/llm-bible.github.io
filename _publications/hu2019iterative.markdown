@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Iterative Answer Prediction With Pointer-augmented Multimodal Transformers For Textvqa"
+title: Iterative Answer Prediction With Pointer-augmented Multimodal Transformers For Textvqa
 authors: Hu Ronghang, Singh Amanpreet, Darrell Trevor, Rohrbach Marcus
 conference: "Arxiv"
 year: 2019

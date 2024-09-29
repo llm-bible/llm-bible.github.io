@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving Reinforcement Learning From Human Feedback Using Contrastive Rewards"
+title: Improving Reinforcement Learning From Human Feedback Using Contrastive Rewards
 authors: Shen Wei, Zhang Xiaoying, Yao Yuanshun, Zheng Rui, Guo Hongyi, Liu Yang
 conference: "Arxiv"
 year: 2024

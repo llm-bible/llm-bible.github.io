@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models For In-context Student Modeling: Synthesizing Student's Behavior In Visual Programming"
+title: Large Language Models For In-context Student Modeling: Synthesizing Student's Behavior In Visual Programming
 authors: Nguyen Manh Hung, Tschiatschek Sebastian, Singla Adish
 conference: "Arxiv"
 year: 2023

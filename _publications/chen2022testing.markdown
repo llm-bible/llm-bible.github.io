@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Testing Occupational Gender Bias In Language Models: Towards Robust Measurement And Zero-shot Debiasing"
+title: Testing Occupational Gender Bias In Language Models: Towards Robust Measurement And Zero-shot Debiasing
 authors: Chen Yuen, Raghuram Vethavikashini Chithrra, Mattern Justus, Sachan Mrinmaya, Mihalcea Rada, Schölkopf Bernhard, Jin Zhijing
 conference: "Arxiv"
 year: 2022

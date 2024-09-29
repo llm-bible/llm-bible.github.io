@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Arithmetic Reasoning With LLM: Prolog Generation & Permutation"
+title: Arithmetic Reasoning With LLM: Prolog Generation & Permutation
 authors: Yang Xiaocheng, Chen Bingsen, Tam Yik-cheung
 conference: "Arxiv"
 year: 2024

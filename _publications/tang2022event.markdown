@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Etrica: Event-triggered Context-aware Story Generation Augmented By Cross Attention"
+title: Etrica: Event-triggered Context-aware Story Generation Augmented By Cross Attention
 authors: Tang Chen, Lin Chenghua, Huang Henglin, Guerin Frank, Zhang Zhihao
 conference: "EMNLP"
 year: 2022

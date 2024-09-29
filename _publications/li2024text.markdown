@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Text-to-model: Text-conditioned Neural Network Diffusion For Train-once-for-all Personalization"
+title: Text-to-model: Text-conditioned Neural Network Diffusion For Train-once-for-all Personalization
 authors: Li Zexi, Gao Lingzhi, Wu Chao
 conference: "Arxiv"
 year: 2024

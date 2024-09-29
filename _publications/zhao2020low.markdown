@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Low-resource Knowledge-grounded Dialogue Generation"
+title: Low-resource Knowledge-grounded Dialogue Generation
 authors: Zhao Xueliang, Wu Wei, Tao Chongyang, Xu Can, Zhao Dongyan, Yan Rui
 conference: "Arxiv"
 year: 2020

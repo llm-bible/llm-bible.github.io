@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unveiling Transformers With LEGO: A Synthetic Reasoning Task"
+title: Unveiling Transformers With LEGO: A Synthetic Reasoning Task
 authors: Zhang Yi, Backurs Arturs, Bubeck Sébastien, Eldan Ronen, Gunasekar Suriya, Wagner Tal
 conference: "Arxiv"
 year: 2022

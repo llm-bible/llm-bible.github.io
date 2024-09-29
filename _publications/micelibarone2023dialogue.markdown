@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dialogue-based Generation Of Self-driving Simulation Scenarios Using Large Language Models"
+title: Dialogue-based Generation Of Self-driving Simulation Scenarios Using Large Language Models
 authors: Miceli-barone Antonio Valerio, Lascarides Alex, Innes Craig
 conference: "Arxiv"
 year: 2023

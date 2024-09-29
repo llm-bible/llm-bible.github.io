@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "How Do You Know That? Teaching Generative Language Models To Reference Answers To Biomedical Questions"
+title: How Do You Know That? Teaching Generative Language Models To Reference Answers To Biomedical Questions
 authors: Bašaragin Bojana, Ljajić Adela, Medvecki Darija, Cassano Lorenzo, Košprdić Miloš, Milošević Nikola
 conference: "Arxiv"
 year: 2024

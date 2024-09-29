@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unveiling The Generalization Power Of Fine-tuned Large Language Models"
+title: Unveiling The Generalization Power Of Fine-tuned Large Language Models
 authors: Yang Haoran, Zhang Yumeng, Xu Jiaqi, Lu Hongyuan, Heng Pheng Ann, Lam Wai
 conference: "Arxiv"
 year: 2024

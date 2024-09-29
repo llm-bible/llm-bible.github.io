@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Harnessing Large Language Models' Empathetic Response Generation Capabilities For Online Mental Health Counselling Support"
+title: Harnessing Large Language Models' Empathetic Response Generation Capabilities For Online Mental Health Counselling Support
 authors: Loh Siyuan Brandon, Raamkumar Aravind Sesagiri
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Length-extrapolatable Transformer"
+title: A Length-extrapolatable Transformer
 authors: Sun Yutao, Dong Li, Patra Barun, Ma Shuming, Huang Shaohan, Benhaim Alon, Chaudhary Vishrav, Song Xia, Wei Furu
 conference: "Arxiv"
 year: 2022

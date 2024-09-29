@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Contrastive Perplexity For Controlled Generation: An Application In Detoxifying Large Language Models"
+title: Contrastive Perplexity For Controlled Generation: An Application In Detoxifying Large Language Models
 authors: Klein Tassilo, Nabi Moin
 conference: "Arxiv"
 year: 2024

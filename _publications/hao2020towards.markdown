@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Learning A Generic Agent For Vision-and-language Navigation Via Pre-training"
+title: Towards Learning A Generic Agent For Vision-and-language Navigation Via Pre-training
 authors: Hao Weituo, Li Chunyuan, Li Xiujun, Carin Lawrence, Gao Jianfeng
 conference: "Arxiv"
 year: 2020

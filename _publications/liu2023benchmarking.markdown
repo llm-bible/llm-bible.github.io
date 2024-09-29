@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Alignbench: Benchmarking Chinese Alignment Of Large Language Models"
+title: Alignbench: Benchmarking Chinese Alignment Of Large Language Models
 authors: Liu Xiao, Lei Xuanyu, Wang Shengyuan, Huang Yue, Feng Zhuoer, Wen Bosi, Cheng Jiale, Ke Pei, Xu Yifan, Tam Weng Lam, Zhang Xiaohan, Sun Lichao, Gu Xiaotao, Wang Hongning, Zhang Jing, Huang Minlie, Dong Yuxiao, Tang Jie
 conference: "Arxiv"
 year: 2023

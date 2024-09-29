@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Relevant Or Random: Can Llms Truly Perform Analogical Reasoning?"
+title: Relevant Or Random: Can Llms Truly Perform Analogical Reasoning?
 authors: Qin Chengwei, Xia Wenhan, Wang Tan, Jiao Fangkai, Hu Yuchen, Ding Bosheng, Chen Ruirui, Joty Shafiq
 conference: "Arxiv"
 year: 2024

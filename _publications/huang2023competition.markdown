@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Competition-level Problems Are Effective LLM Evaluators"
+title: Competition-level Problems Are Effective LLM Evaluators
 authors: Huang Yiming, Lin Zhenghao, Liu Xiao, Gong Yeyun, Lu Shuai, Lei Fangyu, Liang Yaobo, Shen Yelong, Lin Chen, Duan Nan, Chen Weizhu
 conference: "Arxiv"
 year: 2023

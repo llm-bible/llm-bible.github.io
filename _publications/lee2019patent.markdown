@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Patent Claim Generation By Fine-tuning Openai GPT-2"
+title: Patent Claim Generation By Fine-tuning Openai GPT-2
 authors: Lee Jieh-sheng, Hsiang Jieh
 conference: "Arxiv"
 year: 2019

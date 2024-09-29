@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Delucionqa: Detecting Hallucinations In Domain-specific Question Answering"
+title: Delucionqa: Detecting Hallucinations In Domain-specific Question Answering
 authors: Sadat Mobashir, Zhou Zhengyu, Lange Lukas, Araki Jun, Gundroo Arsalan, Wang Bingqing, Menon Rakesh R, Parvez Md Rizwan, Feng Zhe
 conference: "Arxiv"
 year: 2023

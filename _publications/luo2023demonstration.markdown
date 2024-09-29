@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dr.icl: Demonstration-retrieved In-context Learning"
+title: Dr.icl: Demonstration-retrieved In-context Learning
 authors: Luo Man, Xu Xin, Dai Zhuyun, Pasupat Panupong, Kazemi Mehran, Baral Chitta, Imbrasaite Vaiva, Zhao Vincent Y
 conference: "Arxiv"
 year: 2023

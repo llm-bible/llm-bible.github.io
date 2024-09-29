@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Faculty Perspectives On The Potential Of RAG In Computer Science Higher Education"
+title: Faculty Perspectives On The Potential Of RAG In Computer Science Higher Education
 authors: Dakshit Sagnik
 conference: "Arxiv"
 year: 2024

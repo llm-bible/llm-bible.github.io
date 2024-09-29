@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "RAG And RAU: A Survey On Retrieval-augmented Language Model In Natural Language Processing"
+title: RAG And RAU: A Survey On Retrieval-augmented Language Model In Natural Language Processing
 authors: Hu Yucheng, Lu Yuxing
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Self-repetition In Abstractive Neural Summarizers"
+title: Self-repetition In Abstractive Neural Summarizers
 authors: Salkar Nikita, Trikalinos Thomas, Wallace Byron C., Nenkova Ani
 conference: "Arxiv"
 year: 2022

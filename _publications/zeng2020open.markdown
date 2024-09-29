@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Open-domain Dialogue Generation Based On Pre-trained Language Models"
+title: Open-domain Dialogue Generation Based On Pre-trained Language Models
 authors: Zeng Yan, Nie Jian-yun
 conference: "Arxiv"
 year: 2020

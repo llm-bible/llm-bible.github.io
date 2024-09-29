@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Xgen-7b Technical Report"
+title: Xgen-7b Technical Report
 authors: Nijkamp Erik, Xie Tian, Hayashi Hiroaki, Pang Bo, Xia Congying, Xing Chen, Vig Jesse, Yavuz Semih, Laban Philippe, Krause Ben, Purushwalkam Senthil, Niu Tong, Kryściński Wojciech, Murakhovs'ka Lidiya, Choubey Prafulla Kumar, Fabbri Alex, Liu Ye, Meng Rui, Tu Lifu, Bhat Meghana, Wu Chien-sheng, Savarese Silvio, Zhou Yingbo, Joty Shafiq, Xiong Caiming
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Rethinking LLM Language Adaptation: A Case Study On Chinese Mixtral"
+title: Rethinking LLM Language Adaptation: A Case Study On Chinese Mixtral
 authors: Cui Yiming, Yao Xin
 conference: "Arxiv"
 year: 2024

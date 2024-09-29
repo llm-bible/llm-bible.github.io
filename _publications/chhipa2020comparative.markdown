@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Comparative Study Of Language Models On Cross-domain Data With Model Agnostic Explainability"
+title: Comparative Study Of Language Models On Cross-domain Data With Model Agnostic Explainability
 authors: Chhipa Mayank, Vazurkar Hrushikesh Mahesh, Kumar Abhijeet, Mishra Mridul
 conference: "Arxiv"
 year: 2020

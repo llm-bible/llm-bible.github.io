@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "CRAG -- Comprehensive RAG Benchmark"
+title: CRAG -- Comprehensive RAG Benchmark
 authors: Yang Xiao, Sun Kai, Xin Hao, Sun Yushi, Bhalla Nikita, Chen Xiangsen, Choudhary Sajal, Gui Rongze Daniel, Jiang Ziran Will, Jiang Ziyu, Kong Lingkun, Moran Brian, Wang Jiaqi, Xu Yifan Ethan, Yan An, Yang Chenyu, Yuan Eting, Zha Hanwen, Tang Nan, Chen Lei, Scheffer Nicolas, Liu Yue, Shah Nirav, Wanga Rakesh, Kumar Anuj, Yih Wen-tau, Dong Xin Luna
 conference: "Arxiv"
 year: 2024

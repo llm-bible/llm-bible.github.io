@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Connecting Large Language Models With Evolutionary Algorithms Yields Powerful Prompt Optimizers"
+title: Connecting Large Language Models With Evolutionary Algorithms Yields Powerful Prompt Optimizers
 authors: Guo Qingyan, Wang Rui, Guo Junliang, Li Bei, Song Kaitao, Tan Xu, Liu Guoqing, Bian Jiang, Yang Yujiu
 conference: "Arxiv"
 year: 2023

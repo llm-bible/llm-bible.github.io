@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Simple Entity-centric Questions Challenge Dense Retrievers"
+title: Simple Entity-centric Questions Challenge Dense Retrievers
 authors: Sciavolino Christopher, Zhong Zexuan, Lee Jinhyuk, Chen Danqi
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "LLMC: Benchmarking Large Language Model Quantization With A Versatile Compression Toolkit"
+title: LLMC: Benchmarking Large Language Model Quantization With A Versatile Compression Toolkit
 authors: Gong Ruihao, Yong Yang, Gu Shiqiao, Huang Yushi, Lv Chentao, Zhang Yunchen, Liu Xianglong, Tao Dacheng
 conference: "Arxiv"
 year: 2024

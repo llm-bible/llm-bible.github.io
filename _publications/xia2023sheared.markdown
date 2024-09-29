@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Sheared Llama: Accelerating Language Model Pre-training Via Structured Pruning"
+title: Sheared Llama: Accelerating Language Model Pre-training Via Structured Pruning
 authors: Xia Mengzhou, Gao Tianyu, Zeng Zhiyuan, Chen Danqi
 conference: "Arxiv"
 year: 2023

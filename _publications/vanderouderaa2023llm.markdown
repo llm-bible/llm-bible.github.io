@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The LLM Surgeon"
+title: The LLM Surgeon
 authors: Van Der Ouderaa Tycho F. A., Nagel Markus, Van Baalen Mart, Asano Yuki M., Blankevoort Tijmen
 conference: "Arxiv"
 year: 2023

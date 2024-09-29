@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring The Adversarial Capabilities Of Large Language Models"
+title: Exploring The Adversarial Capabilities Of Large Language Models
 authors: Struppek Lukas, Le Minh Hieu, Hintersdorf Dominik, Kersting Kristian
 conference: "Arxiv"
 year: 2024

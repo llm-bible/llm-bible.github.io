@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Simplemtod: A Simple Language Model For Multimodal Task-oriented Dialogue With Symbolic Scene Representation"
+title: Simplemtod: A Simple Language Model For Multimodal Task-oriented Dialogue With Symbolic Scene Representation
 authors: Hemanthage Bhathiya, Dondrup Christian, Bartie Phil, Lemon Oliver
 conference: "Arxiv"
 year: 2023

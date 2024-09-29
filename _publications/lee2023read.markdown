@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Read-only Prompt Optimization For Vision-language Few-shot Learning"
+title: Read-only Prompt Optimization For Vision-language Few-shot Learning
 authors: Lee Dongjun, Song Seokwon, Suh Jihee, Choi Joonmyung, Lee Sanghyeok, Kim Hyunwoo J.
 conference: "Arxiv"
 year: 2023

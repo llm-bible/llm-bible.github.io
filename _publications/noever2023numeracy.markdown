@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Numeracy From Literacy: Data Science As An Emergent Skill From Large Language Models"
+title: Numeracy From Literacy: Data Science As An Emergent Skill From Large Language Models
 authors: Noever David, Mckee Forrest
 conference: "Arxiv"
 year: 2023

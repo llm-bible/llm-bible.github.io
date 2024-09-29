@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Don't Make Your LLM An Evaluation Benchmark Cheater"
+title: Don't Make Your LLM An Evaluation Benchmark Cheater
 authors: Zhou Kun, Zhu Yutao, Chen Zhipeng, Chen Wentong, Zhao Wayne Xin, Chen Xu, Lin Yankai, Wen Ji-rong, Han Jiawei
 conference: "Arxiv"
 year: 2023

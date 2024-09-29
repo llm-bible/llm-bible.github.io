@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Metaphorical User Simulators For Evaluating Task-oriented Dialogue Systems"
+title: Metaphorical User Simulators For Evaluating Task-oriented Dialogue Systems
 authors: Sun Weiwei, Guo Shuyu, Zhang Shuo, Ren Pengjie, Chen Zhumin, De Rijke Maarten, Ren Zhaochun
 conference: "Arxiv"
 year: 2022

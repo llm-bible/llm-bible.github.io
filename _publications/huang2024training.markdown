@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Training Language Models To Generate Text With Citations Via Fine-grained Rewards"
+title: Training Language Models To Generate Text With Citations Via Fine-grained Rewards
 authors: Huang Chengyu, Wu Zeqiu, Hu Yushi, Wang Wenya
 conference: "Arxiv"
 year: 2024

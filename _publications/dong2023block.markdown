@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Block-wise Bit-compression Of Transformer-based Models"
+title: Block-wise Bit-compression Of Transformer-based Models
 authors: Dong Gaochen, Chen Wei
 conference: "Arxiv"
 year: 2023

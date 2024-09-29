@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Introspective Tips: Large Language Model For In-context Decision Making"
+title: Introspective Tips: Large Language Model For In-context Decision Making
 authors: Chen Liting, Wang Lu, Dong Hang, Du Yali, Yan Jie, Yang Fangkai, Li Shuang, Zhao Pu, Qin Si, Rajmohan Saravan, Lin Qingwei, Zhang Dongmei
 conference: "Arxiv"
 year: 2023

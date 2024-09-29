@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Optimizing Language Augmentation For Multilingual Large Language Models: A Case Study On Korean"
+title: Optimizing Language Augmentation For Multilingual Large Language Models: A Case Study On Korean
 authors: Choi Changsu, Jeong Yongbin, Park Seoyoon, Won Inho, Lim Hyeonseok, Kim Sangmin, Kang Yejee, Yoon Chanhyuk, Park Jaewan, Lee Yiseul, Lee Hyejin, Hahm Younggyun, Kim Hansaem, Lim Kyungtae
 conference: "Arxiv"
 year: 2024

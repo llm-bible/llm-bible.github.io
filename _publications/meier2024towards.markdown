@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Human Understanding Of Paraphrase Types In Chatgpt"
+title: Towards Human Understanding Of Paraphrase Types In Chatgpt
 authors: Meier Dominik, Wahle Jan Philip, Ruas Terry, Gipp Bela
 conference: "Arxiv"
 year: 2024

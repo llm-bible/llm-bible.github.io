@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Text-to-image Generation For Abstract Concepts"
+title: Text-to-image Generation For Abstract Concepts
 authors: Liao Jiayi, Chen Xu, Fu Qiang, Du Lun, He Xiangnan, Wang Xiang, Han Shi, Zhang Dongmei
 conference: "Arxiv"
 year: 2023

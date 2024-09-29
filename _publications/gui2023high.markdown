@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Hifi: High-information Attention Heads Hold For Parameter-efficient Model Adaptation"
+title: Hifi: High-information Attention Heads Hold For Parameter-efficient Model Adaptation
 authors: Gui Anchun, Xiao Han
 conference: "Arxiv"
 year: 2023

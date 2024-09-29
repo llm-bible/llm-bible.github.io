@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cascaded Text Generation With Markov Transformers"
+title: Cascaded Text Generation With Markov Transformers
 authors: Deng Yuntian, Rush Alexander M.
 conference: "Arxiv"
 year: 2020

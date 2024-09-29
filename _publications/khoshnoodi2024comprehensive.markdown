@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Comprehensive Survey Of Accelerated Generation Techniques In Large Language Models"
+title: A Comprehensive Survey Of Accelerated Generation Techniques In Large Language Models
 authors: Khoshnoodi Mahsa, Jain Vinija, Gao Mingye, Srikanth Malavika, Chadha Aman
 conference: "Arxiv"
 year: 2024

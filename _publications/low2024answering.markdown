@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Answering Real-world Clinical Questions Using Large Language Model Based Systems"
+title: Answering Real-world Clinical Questions Using Large Language Model Based Systems
 authors: Low Yen Sia 1 And 2, Jackson Michael L. 1 And 2, Hyde Rebecca J. 1 And 2, Brown Robert E. 1 And 2, Sanghavi Neil M. 1 And 2, Baldwin Julian D. 1 And 2, Pike C. William 1 And 2, Muralidharan Jananee 1 And 2, Hui Gavin 1 And 2, Alexander Natasha 1 And 7, Hassan Hadeel 1 And 7, Nene Rahul V. 1 And 7, Pike Morgan 1 And 7, Pokrzywa Courtney J. 1 And 7, Vedak Shivam 1 And 7, Yan Adam Paul 1 And 7, Yao Dong-han 1 And 7, Zipursky Amy R. 1 And 7, Dinh Christina 1 And 7, Ballentine Philip 1 And 7, Derieg Dan C. 1 And 7, Polony Vladimir 1 And 7, Chawdry Rehan N. 1 And 7, Davies Jordan 1 And 7, Hyde Brigham B. 1 And 7, Shah Nigam H. 1 And 7, Gombar Saurabh 1 And 8
 conference: "Arxiv"
 year: 2024

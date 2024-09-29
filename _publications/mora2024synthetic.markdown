@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Synthetic Programming Elicitation And Repair For Text-to-code In Very Low-resource Programming Languages"
+title: Synthetic Programming Elicitation And Repair For Text-to-code In Very Low-resource Programming Languages
 authors: Mora Federico, Wong Justin, Lepe Haley, Bhatia Sahil, Elmaaroufi Karim, Varghese George, Gonzalez Joseph E., Polgreen Elizabeth, Seshia Sanjit A.
 conference: "Arxiv"
 year: 2024

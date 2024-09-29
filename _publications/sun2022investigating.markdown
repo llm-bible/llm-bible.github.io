@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Investigating Explainability Of Generative AI For Code Through Scenario-based Design"
+title: Investigating Explainability Of Generative AI For Code Through Scenario-based Design
 authors: Sun Jiao, Liao Q. Vera, Muller Michael, Agarwal Mayank, Houde Stephanie, Talamadupula Kartik, Weisz Justin D.
 conference: "Arxiv"
 year: 2022

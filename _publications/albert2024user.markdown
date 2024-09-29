@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "User Preferences For Large Language Model Versus Template-based Explanations Of Movie Recommendations: A Pilot Study"
+title: User Preferences For Large Language Model Versus Template-based Explanations Of Movie Recommendations: A Pilot Study
 authors: Albert Julien, Balfroid Martin, Doh Miriam, Bogaert Jeremie, La Fisca Luca, De Vos Liesbet, Renard Bryan, Stragier Vincent, Jean Emmanuel
 conference: "Arxiv"
 year: 2024

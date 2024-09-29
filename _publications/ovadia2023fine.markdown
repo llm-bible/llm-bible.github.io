@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fine-tuning Or Retrieval? Comparing Knowledge Injection In Llms"
+title: Fine-tuning Or Retrieval? Comparing Knowledge Injection In Llms
 authors: Ovadia Oded, Brief Menachem, Mishaeli Moshik, Elisha Oren
 conference: "Arxiv"
 year: 2023

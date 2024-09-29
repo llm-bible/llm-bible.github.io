@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bitune: Bidirectional Instruction-tuning"
+title: Bitune: Bidirectional Instruction-tuning
 authors: Kopiczko Dawid J., Blankevoort Tijmen, Asano Yuki M.
 conference: "Arxiv"
 year: 2024

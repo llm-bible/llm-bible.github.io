@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Conversational Question Reformulation Via Sequence-to-sequence Architectures And Pretrained Language Models"
+title: Conversational Question Reformulation Via Sequence-to-sequence Architectures And Pretrained Language Models
 authors: Lin Sheng-chieh, Yang Jheng-hong, Nogueira Rodrigo, Tsai Ming-feng, Wang Chuan-ju, Lin Jimmy
 conference: "Arxiv"
 year: 2020

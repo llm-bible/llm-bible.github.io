@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Do Large Language Models Solve ARC Visual Analogies Like People Do?"
+title: Do Large Language Models Solve ARC Visual Analogies Like People Do?
 authors: Opiełka Gustaw, Rosenbusch Hannes, Vijverberg Veerle, Stevenson Claire E.
 conference: "Arxiv"
 year: 2024

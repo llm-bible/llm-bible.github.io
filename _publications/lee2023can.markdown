@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Large Language Models Capture Dissenting Human Voices?"
+title: Can Large Language Models Capture Dissenting Human Voices?
 authors: Lee Noah, An Na Min, Thorne James
 conference: "Arxiv"
 year: 2023

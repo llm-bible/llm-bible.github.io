@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Serial Position Effects Of Large Language Models"
+title: Serial Position Effects Of Large Language Models
 authors: Guo Xiaobo, Vosoughi Soroush
 conference: "Arxiv"
 year: 2024

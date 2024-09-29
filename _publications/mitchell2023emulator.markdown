@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "An Emulator For Fine-tuning Large Language Models Using Small Language Models"
+title: An Emulator For Fine-tuning Large Language Models Using Small Language Models
 authors: Mitchell Eric, Rafailov Rafael, Sharma Archit, Finn Chelsea, Manning Christopher D.
 conference: "Arxiv"
 year: 2023

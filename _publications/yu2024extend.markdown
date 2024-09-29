@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Extend Model Merging From Fine-tuned To Pre-trained Large Language Models Via Weight Disentanglement"
+title: Extend Model Merging From Fine-tuned To Pre-trained Large Language Models Via Weight Disentanglement
 authors: Yu Le, Yu Bowen, Yu Haiyang, Huang Fei, Li Yongbin
 conference: "Arxiv"
 year: 2024

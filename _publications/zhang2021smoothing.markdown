@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Smoothing Dialogue States For Open Conversational Machine Reading"
+title: Smoothing Dialogue States For Open Conversational Machine Reading
 authors: Zhang Zhuosheng, Ouyang Siru, Zhao Hai, Utiyama Masao, Sumita Eiichiro
 conference: "Arxiv"
 year: 2021

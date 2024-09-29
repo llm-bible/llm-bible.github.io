@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can I Trust Your Answer? Visually Grounded Video Question Answering"
+title: Can I Trust Your Answer? Visually Grounded Video Question Answering
 authors: Xiao Junbin, Yao Angela, Li Yicong, Chua Tat Seng
 conference: "Arxiv"
 year: 2023

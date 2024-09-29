@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Leveraging Vision-language Models For Improving Domain Generalization In Image Classification"
+title: Leveraging Vision-language Models For Improving Domain Generalization In Image Classification
 authors: Addepalli Sravanti, Asokan Ashish Ramayee, Sharma Lakshay, Babu R. Venkatesh
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Self-control Of LLM Behaviors By Compressing Suffix Gradient Into Prefix Controller"
+title: Self-control Of LLM Behaviors By Compressing Suffix Gradient Into Prefix Controller
 authors: Cai Min, Zhang Yuchen, Zhang Shichang, Yin Fan, Zou Difan, Yue Yisong, Hu Ziniu
 conference: "Arxiv"
 year: 2024

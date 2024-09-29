@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Quantifying Contamination In Evaluating Code Generation Capabilities Of Language Models"
+title: Quantifying Contamination In Evaluating Code Generation Capabilities Of Language Models
 authors: Riddell Martin, Ni Ansong, Cohan Arman
 conference: "Arxiv"
 year: 2024

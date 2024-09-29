@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "RECALL: A Benchmark For Llms Robustness Against External Counterfactual Knowledge"
+title: RECALL: A Benchmark For Llms Robustness Against External Counterfactual Knowledge
 authors: Liu Yi, Huang Lianzhe, Li Shicheng, Chen Sishuo, Zhou Hao, Meng Fandong, Zhou Jie, Sun Xu
 conference: "Arxiv"
 year: 2023

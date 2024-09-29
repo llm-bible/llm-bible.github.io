@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Probing Large Language Models For Scalar Adjective Lexical Semantics And Scalar Diversity Pragmatics"
+title: Probing Large Language Models For Scalar Adjective Lexical Semantics And Scalar Diversity Pragmatics
 authors: Lin Fangru, Altshuler Daniel, Pierrehumbert Janet B.
 conference: "Arxiv"
 year: 2024

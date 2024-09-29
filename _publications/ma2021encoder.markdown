@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Deltalm: Encoder-decoder Pre-training For Language Generation And Translation By Augmenting Pretrained Multilingual Encoders"
+title: Deltalm: Encoder-decoder Pre-training For Language Generation And Translation By Augmenting Pretrained Multilingual Encoders
 authors: Ma Shuming, Dong Li, Huang Shaohan, Zhang Dongdong, Muzio Alexandre, Singhal Saksham, Awadalla Hany Hassan, Song Xia, Wei Furu
 conference: "Arxiv"
 year: 2021

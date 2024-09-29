@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dr Chatgpt, Tell Me What I Want To Hear: How Prompt Knowledge Impacts Health Answer Correctness"
+title: Dr Chatgpt, Tell Me What I Want To Hear: How Prompt Knowledge Impacts Health Answer Correctness
 authors: Zuccon Guido, Koopman Bevan
 conference: "Arxiv"
 year: 2023

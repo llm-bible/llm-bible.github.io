@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dr3: Ask Large Language Models Not To Give Off-topic Answers In Open Domain Multi-hop Question Answering"
+title: Dr3: Ask Large Language Models Not To Give Off-topic Answers In Open Domain Multi-hop Question Answering
 authors: Gao Yuan, Zhu Yiheng, Cao Yuanbin, Zhou Yinzhi, Wu Zhen, Chen Yujie, Wu Shenglan, Hu Haoyuan, Dai Xinyu
 conference: "Arxiv"
 year: 2024

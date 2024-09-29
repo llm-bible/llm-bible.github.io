@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models Are Parallel Multilingual Learners"
+title: Large Language Models Are Parallel Multilingual Learners
 authors: Mu Yongyu, Feng Peinan, Cao Zhiquan, Wu Yuzhang, Li Bei, Wang Chenglong, Xiao Tong, Song Kai, Liu Tongran, Zhang Chunliang, Zhu Jingbo
 conference: "Arxiv"
 year: 2024

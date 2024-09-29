@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Preact: Predicting Future In React Enhances Agent's Planning Ability"
+title: Preact: Predicting Future In React Enhances Agent's Planning Ability
 authors: Fu Dayuan, Huang Jianzhao, Lu Siyuan, Dong Guanting, Wang Yejie, He Keqing, Xu Weiran
 conference: "Arxiv"
 year: 2024

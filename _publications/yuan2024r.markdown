@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "R-judge: Benchmarking Safety Risk Awareness For LLM Agents"
+title: R-judge: Benchmarking Safety Risk Awareness For LLM Agents
 authors: Yuan Tongxin, He Zhiwei, Dong Lingzhong, Wang Yiming, Zhao Ruijie, Xia Tian, Xu Lizhen, Zhou Binglin, Li Fangqi, Zhang Zhuosheng, Wang Rui, Liu Gongshen
 conference: "Arxiv"
 year: 2024

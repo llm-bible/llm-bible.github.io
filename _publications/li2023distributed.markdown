@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "DISTFLASHATTN: Distributed Memory-efficient Attention For Long-context Llms Training"
+title: DISTFLASHATTN: Distributed Memory-efficient Attention For Long-context Llms Training
 authors: Li Dacheng, Shao Rulin, Xie Anze, Xing Eric P., Ma Xuezhe, Stoica Ion, Gonzalez Joseph E., Zhang Hao
 conference: "Arxiv"
 year: 2023

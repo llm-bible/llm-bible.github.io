@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Long-form Video-language Pre-training With Multimodal Temporal Contrastive Learning"
+title: Long-form Video-language Pre-training With Multimodal Temporal Contrastive Learning
 authors: Sun Yuchong, Xue Hongwei, Song Ruihua, Liu Bei, Yang Huan, Fu Jianlong
 conference: "Arxiv"
 year: 2022

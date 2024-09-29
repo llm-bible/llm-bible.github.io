@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Layerwise Recurrent Router For Mixture-of-experts"
+title: Layerwise Recurrent Router For Mixture-of-experts
 authors: Qiu Zihan, Huang Zeyu, Cheng Shuang, Zhou Yizhi, Wang Zili, Titov Ivan, Fu Jie
 conference: "Arxiv"
 year: 2024

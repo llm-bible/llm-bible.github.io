@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Learning To Prompt With Text Only Supervision For Vision-language Models"
+title: Learning To Prompt With Text Only Supervision For Vision-language Models
 authors: Khattak Muhammad Uzair, Naeem Muhammad Ferjad, Naseer Muzammal, Van Gool Luc, Tombari Federico
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Billm: Pushing The Limit Of Post-training Quantization For Llms"
+title: Billm: Pushing The Limit Of Post-training Quantization For Llms
 authors: Huang Wei, Liu Yangdong, Qin Haotong, Li Ying, Zhang Shiming, Liu Xianglong, Magno Michele, Qi Xiaojuan
 conference: "Arxiv"
 year: 2024

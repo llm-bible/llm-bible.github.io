@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Modeling Learner Performance With Large Language Models"
+title: Towards Modeling Learner Performance With Large Language Models
 authors: Neshaei Seyed Parsa, Davis Richard Lee, Hazimeh Adam, Lazarevski Bojan, Dillenbourg Pierre, Käser Tanja
 conference: "Arxiv"
 year: 2024

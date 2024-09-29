@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "In-context Explainers: Harnessing Llms For Explaining Black Box Models"
+title: In-context Explainers: Harnessing Llms For Explaining Black Box Models
 authors: Kroeger Nicholas, Ley Dan, Krishna Satyapriya, Agarwal Chirag, Lakkaraju Himabindu
 conference: "Arxiv"
 year: 2023

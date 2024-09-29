@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Patentgpt: A Large Language Model For Intellectual Property"
+title: Patentgpt: A Large Language Model For Intellectual Property
 authors: Bai Zilong, Zhang Ruiji, Chen Linqing, Cai Qijun, Zhong Yuan, Wang Cong, Fang Yan, Fang Jie, Sun Jing, Wang Weikuan, Zhou Lizhi, Hua Haoran, Qiu Tian, Wang Chaochao, Sun Cheng, Lu Jianping, Wang Yixin, Xia Yubin, Hu Meng, Liu Haowen, Xu Peng, Xu Licong, Bian Fu, Gu Xiaolong, Zhang Lisha, Wang Weilei, Tu Changyang
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "LARG, Language-based Automatic Reward And Goal Generation"
+title: LARG, Language-based Automatic Reward And Goal Generation
 authors: Perez Julien, Proux Denys, Roux Claude, Niemaz Michael
 conference: "Arxiv"
 year: 2023

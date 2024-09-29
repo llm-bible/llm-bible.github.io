@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Lidar-llm: Exploring The Potential Of Large Language Models For 3D Lidar Understanding"
+title: Lidar-llm: Exploring The Potential Of Large Language Models For 3D Lidar Understanding
 authors: Yang Senqiao, Liu Jiaming, Zhang Ray, Pan Mingjie, Guo Zoey, Li Xiaoqi, Chen Zehui, Gao Peng, Guo Yandong, Zhang Shanghang
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Llms-as-instructors: Learning From Errors Toward Automating Model Improvement"
+title: Llms-as-instructors: Learning From Errors Toward Automating Model Improvement
 authors: Ying Jiahao, Lin Mingbao, Cao Yixin, Tang Wei, Wang Bo, Sun Qianru, Huang Xuanjing, Yan Shuicheng
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "HMT: Hierarchical Memory Transformer For Long Context Language Processing"
+title: HMT: Hierarchical Memory Transformer For Long Context Language Processing
 authors: He Zifan, Qin Zongyue, Prakriya Neha, Sun Yizhou, Cong Jason
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Byt5: Towards A Token-free Future With Pre-trained Byte-to-byte Models"
+title: Byt5: Towards A Token-free Future With Pre-trained Byte-to-byte Models
 authors: Xue Linting, Barua Aditya, Constant Noah, Al-rfou Rami, Narang Sharan, Kale Mihir, Roberts Adam, Raffel Colin
 conference: "Arxiv"
 year: 2021

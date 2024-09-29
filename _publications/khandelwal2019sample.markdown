@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Sample Efficient Text Summarization Using A Single Pre-trained Transformer"
+title: Sample Efficient Text Summarization Using A Single Pre-trained Transformer
 authors: Khandelwal Urvashi, Clark Kevin, Jurafsky Dan, Kaiser Lukasz
 conference: "Arxiv"
 year: 2019

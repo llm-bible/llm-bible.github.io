@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "GPTFUZZER: Red Teaming Large Language Models With Auto-generated Jailbreak Prompts"
+title: GPTFUZZER: Red Teaming Large Language Models With Auto-generated Jailbreak Prompts
 authors: Yu Jiahao, Lin Xingwei, Yu Zheng, Xing Xinyu
 conference: "Arxiv"
 year: 2023

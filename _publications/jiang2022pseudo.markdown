@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pseudo-q: Generating Pseudo Language Queries For Visual Grounding"
+title: Pseudo-q: Generating Pseudo Language Queries For Visual Grounding
 authors: Jiang Haojun, Lin Yuanze, Han Dongchen, Song Shiji, Huang Gao
 conference: "Arxiv"
 year: 2022

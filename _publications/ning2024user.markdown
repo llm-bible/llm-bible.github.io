@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "User-llm: Efficient LLM Contextualization With User Embeddings"
+title: User-llm: Efficient LLM Contextualization With User Embeddings
 authors: Ning Lin, Liu Luyang, Wu Jiaxing, Wu Neo, Berlowitz Devora, Prakash Sushant, Green Bradley, O'banion Shawn, Xie Jun
 conference: "Arxiv"
 year: 2024

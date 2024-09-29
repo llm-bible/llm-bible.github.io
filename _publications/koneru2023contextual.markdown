@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Contextual Refinement Of Translations: Large Language Models For Sentence And Document-level Post-editing"
+title: Contextual Refinement Of Translations: Large Language Models For Sentence And Document-level Post-editing
 authors: Koneru Sai, Exel Miriam, Huck Matthias, Niehues Jan
 conference: "Arxiv"
 year: 2023

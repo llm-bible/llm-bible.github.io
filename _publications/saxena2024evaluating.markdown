@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating Consistency And Reasoning Capabilities Of Large Language Models"
+title: Evaluating Consistency And Reasoning Capabilities Of Large Language Models
 authors: Saxena Yash, Chopra Sarthak, Tripathi Arunendra Mani
 conference: "Arxiv"
 year: 2024

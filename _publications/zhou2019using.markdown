@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Using Interlinear Glosses As Pivot In Low-resource Multilingual Machine Translation"
+title: Using Interlinear Glosses As Pivot In Low-resource Multilingual Machine Translation
 authors: Zhou Zhong, Levin Lori, Mortensen David R., Waibel Alex
 conference: "Arxiv"
 year: 2019

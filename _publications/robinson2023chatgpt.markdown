@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chatgpt MT: Competitive For High- (but Not Low-) Resource Languages"
+title: Chatgpt MT: Competitive For High- (but Not Low-) Resource Languages
 authors: Robinson Nathaniel R., Ogayo Perez, Mortensen David R., Neubig Graham
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Equipping Language Models With Tool Use Capability For Tabular Data Analysis In Finance"
+title: Equipping Language Models With Tool Use Capability For Tabular Data Analysis In Finance
 authors: Theuma Adrian, Shareghi Ehsan
 conference: "Arxiv"
 year: 2024

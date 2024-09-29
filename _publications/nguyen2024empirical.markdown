@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "An Empirical Study On Capability Of Large Language Models In Understanding Code Semantics"
+title: An Empirical Study On Capability Of Large Language Models In Understanding Code Semantics
 authors: Nguyen Thu-trang, Vu Thanh Trong, Vo Hieu Dinh, Nguyen Son
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards A Holistic Evaluation Of Llms On Factual Knowledge Recall"
+title: Towards A Holistic Evaluation Of Llms On Factual Knowledge Recall
 authors: Yuan Jiaqing, Pan Lin, Hang Chung-wei, Guo Jiang, Jiang Jiarong, Min Bonan, Ng Patrick, Wang Zhiguo
 conference: "Arxiv"
 year: 2024

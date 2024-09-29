@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Concept-aware Large Language Models"
+title: Towards Concept-aware Large Language Models
 authors: Shani Chen, Vreeken Jilles, Shahaf Dafna
 conference: "Arxiv"
 year: 2023

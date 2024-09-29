@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Guiding Language Model Reasoning With Planning Tokens"
+title: Guiding Language Model Reasoning With Planning Tokens
 authors: Wang Xinyi, Caccia Lucas, Ostapenko Oleksiy, Yuan Xingdi, Wang William Yang, Sordoni Alessandro
 conference: "Arxiv"
 year: 2023

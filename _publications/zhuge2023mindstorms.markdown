@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mindstorms In Natural Language-based Societies Of Mind"
+title: Mindstorms In Natural Language-based Societies Of Mind
 authors: Mingchen Zhuge, Haozhe Liu, Francesco Faccio, Dylan R. Ashley, Róbert Csordás, Anand Gopalakrishnan, Abdullah Hamdi, Hasan Abed Al Kader Hammoud, Vincent Herrmann, Kazuki Irie, Louis Kirsch, Bing Li, Guohao Li, Shuming Liu, Jinjie Mai, Piotr Piękos, Aditya Ramesh, Imanol Schlag, Weimin Shi, Aleksandar Stanić, Wenyi Wang, Yuhui Wang, Mengmeng Xu, Deng-ping Fan, Bernard Ghanem, Jürgen Schmidhuber
 conference: "Arxiv"
 year: 2023

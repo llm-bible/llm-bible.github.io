@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multilingual BERT Post-pretraining Alignment"
+title: Multilingual BERT Post-pretraining Alignment
 authors: Pan Lin, Hang Chung-wei, Qi Haode, Shah Abhishek, Potdar Saloni, Yu Mo
 conference: "Arxiv"
 year: 2020

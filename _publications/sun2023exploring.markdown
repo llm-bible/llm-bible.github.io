@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring The Impact Of Low-rank Adaptation On The Performance, Efficiency, And Regularization Of RLHF"
+title: Exploring The Impact Of Low-rank Adaptation On The Performance, Efficiency, And Regularization Of RLHF
 authors: Sun Simeng, Gupta Dhawal, Iyyer Mohit
 conference: "Arxiv"
 year: 2023

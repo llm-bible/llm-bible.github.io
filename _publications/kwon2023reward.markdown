@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Reward Design With Language Models"
+title: Reward Design With Language Models
 authors: Kwon Minae, Xie Sang Michael, Bullard Kalesha, Sadigh Dorsa
 conference: "Arxiv"
 year: 2023

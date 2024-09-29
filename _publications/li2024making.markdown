@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Making Long-context Language Models Better Multi-hop Reasoners"
+title: Making Long-context Language Models Better Multi-hop Reasoners
 authors: Li Yanyang, Liang Shuo, Lyu Michael R., Wang Liwei
 conference: "Arxiv"
 year: 2024

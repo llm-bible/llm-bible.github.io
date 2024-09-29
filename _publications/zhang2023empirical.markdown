@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Empirical Evaluation Of Chatgpt On Requirements Information Retrieval Under Zero-shot Setting"
+title: Empirical Evaluation Of Chatgpt On Requirements Information Retrieval Under Zero-shot Setting
 authors: Zhang Jianzhang, Chen Yiyang, Niu Nan, Wang Yinglin, Liu Chuang
 conference: "Arxiv"
 year: 2023

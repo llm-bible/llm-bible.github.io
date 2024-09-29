@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Structural Analysis Of An All-purpose Question Answering Model"
+title: Structural Analysis Of An All-purpose Question Answering Model
 authors: Micheli Vincent, Heinrich Quentin, Fleuret François, Belblidia Wacim
 conference: "Arxiv"
 year: 2021

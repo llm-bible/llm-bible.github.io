@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Diversigate: A Comprehensive Framework For Reliable Large Language Models"
+title: Diversigate: A Comprehensive Framework For Reliable Large Language Models
 authors: Imani Shima, Beyram Ali, Shrivastava Harsh
 conference: "Arxiv"
 year: 2023

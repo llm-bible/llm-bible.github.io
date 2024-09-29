@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Flora: Federated Fine-tuning Large Language Models With Heterogeneous Low-rank Adaptations"
+title: Flora: Federated Fine-tuning Large Language Models With Heterogeneous Low-rank Adaptations
 authors: Wang Ziyao, Shen Zheyu, He Yexiao, Sun Guoheng, Wang Hongyi, Lyu Lingjuan, Li Ang
 conference: "Arxiv"
 year: 2024

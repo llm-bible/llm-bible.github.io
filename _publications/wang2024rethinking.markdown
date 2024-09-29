@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Rethinking Large Language Model Architectures For Sequential Recommendations"
+title: Rethinking Large Language Model Architectures For Sequential Recommendations
 authors: Hanbing Wang, Xiaorui Liu, Wenqi Fan, Xiangyu Zhao, Venkataramana Kini, Devendra Yadav, Fei Wang, Zhen Wen, Jiliang Tang, Hui Liu
 conference: "Arxiv"
 year: 2024

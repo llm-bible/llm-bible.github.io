@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Parameter-efficient Tuning Helps Language Model Alignment"
+title: Parameter-efficient Tuning Helps Language Model Alignment
 authors: Xue Tianci, Wang Ziqi, Ji Heng
 conference: "Arxiv"
 year: 2023

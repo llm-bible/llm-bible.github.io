@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Information-theoretic Distillation For Reference-less Summarization"
+title: Information-theoretic Distillation For Reference-less Summarization
 authors: Jung Jaehun, Lu Ximing, Jiang Liwei, Brahman Faeze, West Peter, Koh Pang Wei, Choi Yejin
 conference: "Arxiv"
 year: 2024

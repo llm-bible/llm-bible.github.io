@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "AUTODIAL: Efficient Asynchronous Task-oriented Dialogue Model"
+title: AUTODIAL: Efficient Asynchronous Task-oriented Dialogue Model
 authors: Bhargava Prajjwal, Amini Pooyan, Shayandeh Shahin, Sankar Chinnadhurai
 conference: "Arxiv"
 year: 2023

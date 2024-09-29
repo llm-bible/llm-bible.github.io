@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Catastrophic Jailbreak Of Open-source Llms Via Exploiting Generation"
+title: Catastrophic Jailbreak Of Open-source Llms Via Exploiting Generation
 authors: Huang Yangsibo, Gupta Samyak, Xia Mengzhou, Li Kai, Chen Danqi
 conference: "Arxiv"
 year: 2023

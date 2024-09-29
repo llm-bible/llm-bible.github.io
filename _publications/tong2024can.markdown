@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Llms Learn From Previous Mistakes? Investigating Llms' Errors To Boost For Reasoning"
+title: Can Llms Learn From Previous Mistakes? Investigating Llms' Errors To Boost For Reasoning
 authors: Tong Yongqi, Li Dawei, Wang Sizhe, Wang Yujia, Teng Fei, Shang Jingbo
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Turning English-centric Llms Into Polyglots: How Much Multilinguality Is Needed?"
+title: Turning English-centric Llms Into Polyglots: How Much Multilinguality Is Needed?
 authors: Kew Tannon, Schottmann Florian, Sennrich Rico
 conference: "Arxiv"
 year: 2023

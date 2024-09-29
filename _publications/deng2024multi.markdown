@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On The Multi-turn Instruction Following For Conversational Web Agents"
+title: On The Multi-turn Instruction Following For Conversational Web Agents
 authors: Deng Yang, Zhang Xuan, Zhang Wenxuan, Yuan Yifei, Ng See-kiong, Chua Tat-seng
 conference: "Arxiv"
 year: 2024

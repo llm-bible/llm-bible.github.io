@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Instruction-following Evaluation For Large Language Models"
+title: Instruction-following Evaluation For Large Language Models
 authors: Zhou Jeffrey, Lu Tianjian, Mishra Swaroop, Brahma Siddhartha, Basu Sujoy, Luan Yi, Zhou Denny, Hou Le
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Transforming Llms Into Cross-modal And Cross-lingual Retrieval Systems"
+title: Transforming Llms Into Cross-modal And Cross-lingual Retrieval Systems
 authors: Gomez Frank Palma, Sanabria Ramon, Sung Yun-hsuan, Cer Daniel, Dalmia Siddharth, Abrego Gustavo Hernandez
 conference: "Arxiv"
 year: 2024

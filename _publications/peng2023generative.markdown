@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Generative Large Language Models Are All-purpose Text Analytics Engines: Text-to-text Learning Is All Your Need"
+title: Generative Large Language Models Are All-purpose Text Analytics Engines: Text-to-text Learning Is All Your Need
 authors: Peng Cheng, Yang Xi, Chen Aokun, Yu Zehao, Smith Kaleb E, Costa Anthony B, Flores Mona G, Bian Jiang, Wu Yonghui
 conference: "Arxiv"
 year: 2023

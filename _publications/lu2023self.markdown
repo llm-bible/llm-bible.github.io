@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "SELF: Self-evolution With Language Feedback"
+title: SELF: Self-evolution With Language Feedback
 authors: Lu Jianqiao, Zhong Wanjun, Huang Wenyong, Wang Yufei, Zhu Qi, Mi Fei, Wang Baojun, Wang Weichao, Zeng Xingshan, Shang Lifeng, Jiang Xin, Liu Qun
 conference: "Arxiv"
 year: 2023

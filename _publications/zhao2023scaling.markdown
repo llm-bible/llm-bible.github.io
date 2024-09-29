@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "SVIT: Scaling Up Visual Instruction Tuning"
+title: SVIT: Scaling Up Visual Instruction Tuning
 authors: Zhao Bo, Wu Boya, He Muyang, Huang Tiejun
 conference: "Arxiv"
 year: 2023

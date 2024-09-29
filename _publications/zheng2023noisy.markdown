@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Noisy Exemplars Make Large Language Models More Robust: A Domain-agnostic Behavioral Analysis"
+title: Noisy Exemplars Make Large Language Models More Robust: A Domain-agnostic Behavioral Analysis
 authors: Zheng Hongyi, Saparov Abulhair
 conference: "Arxiv"
 year: 2023

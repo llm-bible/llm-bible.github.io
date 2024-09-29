@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "What Happens To BERT Embeddings During Fine-tuning?"
+title: What Happens To BERT Embeddings During Fine-tuning?
 authors: Merchant Amil, Rahimtoroghi Elahe, Pavlick Ellie, Tenney Ian
 conference: "Arxiv"
 year: 2020

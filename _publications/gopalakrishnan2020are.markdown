@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Are Neural Open-domain Dialog Systems Robust To Speech Recognition Errors In The Dialog History? An Empirical Study"
+title: Are Neural Open-domain Dialog Systems Robust To Speech Recognition Errors In The Dialog History? An Empirical Study
 authors: Gopalakrishnan Karthik, Hedayatnia Behnam, Wang Longshaokan, Liu Yang, Hakkani-tur Dilek
 conference: "Arxiv"
 year: 2020

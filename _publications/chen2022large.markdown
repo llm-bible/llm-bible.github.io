@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models Are Few(1)-shot Table Reasoners"
+title: Large Language Models Are Few(1)-shot Table Reasoners
 authors: Wenhu Chen
 conference: "Arxiv"
 year: 2022

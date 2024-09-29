@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cascade Reward Sampling For Efficient Decoding-time Alignment"
+title: Cascade Reward Sampling For Efficient Decoding-time Alignment
 authors: Li Bolian, Wang Yifan, Grama Ananth, Zhang Ruqi
 conference: "Arxiv"
 year: 2024

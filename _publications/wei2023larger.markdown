@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Larger Language Models Do In-context Learning Differently"
+title: Larger Language Models Do In-context Learning Differently
 authors: Wei Jerry, Wei Jason, Tay Yi, Tran Dustin, Webson Albert, Lu Yifeng, Chen Xinyun, Liu Hanxiao, Huang Da, Zhou Denny, Ma Tengyu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Selenite: Scaffolding Online Sensemaking With Comprehensive Overviews Elicited From Large Language Models"
+title: Selenite: Scaffolding Online Sensemaking With Comprehensive Overviews Elicited From Large Language Models
 authors: Liu Michael Xieyang, Wu Tongshuang, Chen Tianying, Li Franklin Mingzhe, Kittur Aniket, Myers Brad A.
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Survey On Human Preference Learning For Large Language Models"
+title: A Survey On Human Preference Learning For Large Language Models
 authors: Jiang Ruili, Chen Kehai, Bai Xuefeng, He Zhixuan, Li Juntao, Yang Muyun, Zhao Tiejun, Nie Liqiang, Zhang Min
 conference: "Arxiv"
 year: 2024

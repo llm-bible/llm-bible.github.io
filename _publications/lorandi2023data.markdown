@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Data-to-text Generation For Severely Under-resourced Languages With GPT-3.5: A Bit Of Help Needed From Google Translate"
+title: Data-to-text Generation For Severely Under-resourced Languages With GPT-3.5: A Bit Of Help Needed From Google Translate
 authors: Lorandi Michela, Belz Anya
 conference: "Arxiv"
 year: 2023

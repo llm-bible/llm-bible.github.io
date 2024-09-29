@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "NEO-BENCH: Evaluating Robustness Of Large Language Models With Neologisms"
+title: NEO-BENCH: Evaluating Robustness Of Large Language Models With Neologisms
 authors: Zheng Jonathan, Ritter Alan, Xu Wei
 conference: "Arxiv"
 year: 2024

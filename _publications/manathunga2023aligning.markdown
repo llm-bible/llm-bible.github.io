@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Aligning Large Language Models For Clinical Tasks"
+title: Aligning Large Language Models For Clinical Tasks
 authors: Manathunga Supun, Hettigoda Isuru
 conference: "Arxiv"
 year: 2023

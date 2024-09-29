@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Llms Correct Physicians, Yet? Investigating Effective Interaction Methods In The Medical Domain"
+title: Can Llms Correct Physicians, Yet? Investigating Effective Interaction Methods In The Medical Domain
 authors: Sayin Burcu, Minervini Pasquale, Staiano Jacopo, Passerini Andrea
 conference: "Arxiv"
 year: 2024

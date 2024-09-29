@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Decoder Tuning: Efficient Language Understanding As Decoding"
+title: Decoder Tuning: Efficient Language Understanding As Decoding
 authors: Cui Ganqu, Li Wentao, Ding Ning, Huang Longtao, Liu Zhiyuan, Sun Maosong
 conference: "Arxiv"
 year: 2022

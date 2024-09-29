@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Super-prompting: Utilizing Model-independent Contextual Data To Reduce Data Annotation Required In Visual Commonsense Tasks"
+title: Super-prompting: Utilizing Model-independent Contextual Data To Reduce Data Annotation Required In Visual Commonsense Tasks
 authors: Rezaei Navid, Reformat Marek Z.
 conference: "Arxiv"
 year: 2022

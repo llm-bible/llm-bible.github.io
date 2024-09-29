@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Probing Contact Center Large Language Models"
+title: Towards Probing Contact Center Large Language Models
 authors: Nathan Varun, Kumar Ayush, Ingle Digvijay, Vepa Jithendra
 conference: "Arxiv"
 year: 2023

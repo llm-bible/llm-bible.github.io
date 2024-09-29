@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Comparison Of Pre-trained Vision-and-language Models For Multimodal Representation Learning Across Medical Images And Reports"
+title: A Comparison Of Pre-trained Vision-and-language Models For Multimodal Representation Learning Across Medical Images And Reports
 authors: Li Yikuan, Wang Hanyin, Luo Yuan
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Explore, Select, Derive, And Recall: Augmenting LLM With Human-like Memory For Mobile Task Automation"
+title: Explore, Select, Derive, And Recall: Augmenting LLM With Human-like Memory For Mobile Task Automation
 authors: Lee Sunjae, Choi Junyoung, Lee Jungjae, Wasi Munim Hasan, Choi Hojun, Ko Steven Y., Oh Sangeun, Shin Insik
 conference: "Arxiv"
 year: 2023

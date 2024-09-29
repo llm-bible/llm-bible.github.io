@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Concept-aware Training Improves In-context Learning Ability Of Language Models"
+title: Concept-aware Training Improves In-context Learning Ability Of Language Models
 authors: Štefánik Michal, Kadlčík Marek
 conference: "Arxiv"
 year: 2023

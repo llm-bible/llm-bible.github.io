@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Generative Deep Neural Networks For Dialogue: A Short Review"
+title: Generative Deep Neural Networks For Dialogue: A Short Review
 authors: Serban Iulian Vlad, Lowe Ryan, Charlin Laurent, Pineau Joelle
 conference: "Arxiv"
 year: 2016

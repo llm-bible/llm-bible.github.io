@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mixed-effects Transformers For Hierarchical Adaptation"
+title: Mixed-effects Transformers For Hierarchical Adaptation
 authors: White Julia, Goodman Noah, Hawkins Robert
 conference: "Arxiv"
 year: 2022

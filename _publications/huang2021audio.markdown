@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Audio-oriented Multimodal Machine Comprehension: Task, Dataset And Model"
+title: Audio-oriented Multimodal Machine Comprehension: Task, Dataset And Model
 authors: Huang Zhiqi, Liu Fenglin, Wu Xian, Ge Shen, Wang Helin, Fan Wei, Zou Yuexian
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dynosaur: A Dynamic Growth Paradigm For Instruction-tuning Data Curation"
+title: Dynosaur: A Dynamic Growth Paradigm For Instruction-tuning Data Curation
 authors: Yin Da, Liu Xiao, Yin Fan, Zhong Ming, Bansal Hritik, Han Jiawei, Chang Kai-wei
 conference: "Arxiv"
 year: 2023

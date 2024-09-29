@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tailoring Self-rationalizers With Multi-reward Distillation"
+title: Tailoring Self-rationalizers With Multi-reward Distillation
 authors: Ramnath Sahana, Joshi Brihi, Hallinan Skyler, Lu Ximing, Li Liunian Harold, Chan Aaron, Hessel Jack, Choi Yejin, Ren Xiang
 conference: "The Twelfth International Conference on Learning Representations"
 year: 2023

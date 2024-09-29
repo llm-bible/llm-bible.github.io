@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Moral Authority Of Chatgpt"
+title: The Moral Authority Of Chatgpt
 authors: Krügel Sebastian, Ostermaier Andreas, Uhl Matthias
 conference: "Arxiv"
 year: 2023

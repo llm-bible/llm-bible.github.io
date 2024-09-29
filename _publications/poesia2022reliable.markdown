@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Synchromesh: Reliable Code Generation From Pre-trained Language Models"
+title: Synchromesh: Reliable Code Generation From Pre-trained Language Models
 authors: Poesia Gabriel, Polozov Oleksandr, Le Vu, Tiwari Ashish, Soares Gustavo, Meek Christopher, Gulwani Sumit
 conference: "Arxiv"
 year: 2022

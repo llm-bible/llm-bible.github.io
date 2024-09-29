@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "E^2-LLM: Efficient And Extreme Length Extension Of Large Language Models"
+title: E^2-LLM: Efficient And Extreme Length Extension Of Large Language Models
 authors: Liu Jiaheng, Bai Zhiqi, Zhang Yuanxing, Zhang Chenchen, Zhang Yu, Zhang Ge, Wang Jiakai, Que Haoran, Chen Yukang, Su Wenbo, Ge Tiezheng, Fu Jie, Chen Wenhu, Zheng Bo
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "How To Build An AI Tutor That Can Adapt To Any Course And Provide Accurate Answers Using Large Language Model And Retrieval-augmented Generation"
+title: How To Build An AI Tutor That Can Adapt To Any Course And Provide Accurate Answers Using Large Language Model And Retrieval-augmented Generation
 authors: Dong Chenxi
 conference: "Arxiv"
 year: 2023

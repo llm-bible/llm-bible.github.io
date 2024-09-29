@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Nphardeval4v: A Dynamic Reasoning Benchmark Of Multimodal Large Language Models"
+title: Nphardeval4v: A Dynamic Reasoning Benchmark Of Multimodal Large Language Models
 authors: Fan Lizhou, Hua Wenyue, Li Xiang, Zhu Kaijie, Jin Mingyu, Li Lingyao, Ling Haoyang, Chi Jinkui, Wang Jindong, Ma Xin, Zhang Yongfeng
 conference: "Arxiv"
 year: 2024

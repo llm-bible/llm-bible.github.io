@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Gptscore: Evaluate As You Desire"
+title: Gptscore: Evaluate As You Desire
 authors: Fu Jinlan, Ng See-kiong, Jiang Zhengbao, Liu Pengfei
 conference: "Arxiv"
 year: 2023

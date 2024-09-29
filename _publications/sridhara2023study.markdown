@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chatgpt: A Study On Its Utility For Ubiquitous Software Engineering Tasks"
+title: Chatgpt: A Study On Its Utility For Ubiquitous Software Engineering Tasks
 authors: Sridhara Giriprasad, G. Ranjani H., Mazumdar Sourav
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "From Text To Transformation: A Comprehensive Review Of Large Language Models' Versatility"
+title: From Text To Transformation: A Comprehensive Review Of Large Language Models' Versatility
 authors: Kaur Pravneet, Kashyap Gautam Siddharth, Kumar Ankit, Nafis Md Tabrez, Kumar Sandeep, Shokeen Vikrant
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mechanistic Interpretability Of Large Language Models With Applications To The Financial Services Industry"
+title: Mechanistic Interpretability Of Large Language Models With Applications To The Financial Services Industry
 authors: Golgoon Ashkan, Filom Khashayar, Kannan Arjun Ravi
 conference: "Arxiv"
 year: 2024

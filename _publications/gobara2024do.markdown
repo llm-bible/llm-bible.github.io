@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Do Llms Implicitly Determine The Suitable Text Difficulty For Users?"
+title: Do Llms Implicitly Determine The Suitable Text Difficulty For Users?
 authors: Gobara Seiji, Kamigaito Hidetaka, Watanabe Taro
 conference: "Arxiv"
 year: 2024

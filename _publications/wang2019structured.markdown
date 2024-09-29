@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Structured Pruning Of Large Language Models"
+title: Structured Pruning Of Large Language Models
 authors: Wang Ziheng, Wohlwend Jeremy, Lei Tao
 conference: "Arxiv"
 year: 2019

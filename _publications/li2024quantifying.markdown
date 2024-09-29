@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Quantifying Multilingual Performance Of Large Language Models Across Languages"
+title: Quantifying Multilingual Performance Of Large Language Models Across Languages
 authors: Li Zihao, Shi Yucheng, Liu Zirui, Yang Fan, Payani Ali, Liu Ninghao, Du Mengnan
 conference: "Arxiv"
 year: 2024

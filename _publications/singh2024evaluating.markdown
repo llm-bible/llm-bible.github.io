@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating Zero-shot GPT-4V Performance On 3D Visual Question Answering Benchmarks"
+title: Evaluating Zero-shot GPT-4V Performance On 3D Visual Question Answering Benchmarks
 authors: Singh Simranjit, Pavlakos Georgios, Stamoulis Dimitrios
 conference: "Arxiv"
 year: 2024

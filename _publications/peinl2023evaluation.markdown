@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluation Of Medium-large Language Models At Zero-shot Closed Book Generative Question Answering"
+title: Evaluation Of Medium-large Language Models At Zero-shot Closed Book Generative Question Answering
 authors: Peinl René, Wirth Johannes
 conference: "Under review in ARIA"
 year: 2023

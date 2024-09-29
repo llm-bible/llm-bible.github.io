@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Sentence Representation Learning With Generative Objective Rather Than Contrastive Objective"
+title: Sentence Representation Learning With Generative Objective Rather Than Contrastive Objective
 authors: Wu Bohong, Zhao Hai
 conference: "Arxiv"
 year: 2022

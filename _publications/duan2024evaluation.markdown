@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On The Evaluation Consistency Of Attribution-based Explanations"
+title: On The Evaluation Consistency Of Attribution-based Explanations
 authors: Duan Jiarui, Li Haoling, Zhang Haofei, Jiang Hao, Xue Mengqi, Sun Li, Song Mingli, Song Jie
 conference: "Arxiv"
 year: 2024

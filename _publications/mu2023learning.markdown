@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Learning To Compress Prompts With Gist Tokens"
+title: Learning To Compress Prompts With Gist Tokens
 authors: Mu Jesse, Li Xiang Lisa, Goodman Noah
 conference: "Arxiv"
 year: 2023

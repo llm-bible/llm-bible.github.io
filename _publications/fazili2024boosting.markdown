@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Boosting Zero-shot Crosslingual Performance Using Llm-based Augmentations With Effective Data Selection"
+title: Boosting Zero-shot Crosslingual Performance Using Llm-based Augmentations With Effective Data Selection
 authors: Fazili Barah, Agrawal Ashish Sunil, Jyothi Preethi
 conference: "Arxiv"
 year: 2024

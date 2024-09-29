@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "An Exploration Of Neural Sequence-to-sequence Architectures For Automatic Post-editing"
+title: An Exploration Of Neural Sequence-to-sequence Architectures For Automatic Post-editing
 authors: Junczys-dowmunt Marcin, Grundkiewicz Roman
 conference: "Arxiv"
 year: 2017

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Taming Sparsely Activated Transformer With Stochastic Experts"
+title: Taming Sparsely Activated Transformer With Stochastic Experts
 authors: Zuo Simiao, Liu Xiaodong, Jiao Jian, Kim Young Jin, Hassan Hany, Zhang Ruofei, Zhao Tuo, Gao Jianfeng
 conference: "Arxiv"
 year: 2021

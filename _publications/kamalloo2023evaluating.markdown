@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating Open-domain Question Answering In The Era Of Large Language Models"
+title: Evaluating Open-domain Question Answering In The Era Of Large Language Models
 authors: Kamalloo Ehsan, Dziri Nouha, Clarke Charles L. A., Rafiei Davood
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Codefuse-13b: A Pretrained Multi-lingual Code Large Language Model"
+title: Codefuse-13b: A Pretrained Multi-lingual Code Large Language Model
 authors: Di Peng, Li Jianguo, Yu Hang, Jiang Wei, Cai Wenting, Cao Yang, Chen Chaoyu, Chen Dajun, Chen Hongwei, Chen Liang, Fan Gang, Gong Jie, Gong Zi, Hu Wen, Guo Tingting, Lei Zhichao, Li Ting, Li Zheng, Liang Ming, Liao Cong, Liu Bingchang, Liu Jiachen, Liu Zhiwei, Lu Shaojun, Shen Min, Wang Guangpei, Wang Huan, Wang Zhi, Xu Zhaogui, Yang Jiawei, Ye Qing, Zhang Gehao, Zhang Yu, Zhao Zelin, Zheng Xunjin, Zhou Hailian, Zhu Lifu, Zhu Xianying
 conference: "Arxiv"
 year: 2023

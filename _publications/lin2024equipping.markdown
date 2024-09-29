@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dogerm: Equipping Reward Models With Domain Knowledge Through Model Merging"
+title: Dogerm: Equipping Reward Models With Domain Knowledge Through Model Merging
 authors: Lin Tzu-han, Li Chen-an, Lee Hung-yi, Chen Yun-nung
 conference: "Arxiv"
 year: 2024

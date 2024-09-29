@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Automating Code Adaptation For Mlops -- A Benchmarking Study On Llms"
+title: Automating Code Adaptation For Mlops -- A Benchmarking Study On Llms
 authors: Patel Harsh, Ramanan Buvaneswari A., Khan Manzoor A., Williams Thomas, Friedman Brian, Drabeck Lawrence
 conference: "Arxiv"
 year: 2024

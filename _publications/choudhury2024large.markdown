@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models And User Trust: Consequence Of Self-referential Learning Loop And The Deskilling Of Healthcare Professionals"
+title: Large Language Models And User Trust: Consequence Of Self-referential Learning Loop And The Deskilling Of Healthcare Professionals
 authors: Choudhury Avishek, Chaudhry Zaria
 conference: "Arxiv"
 year: 2024

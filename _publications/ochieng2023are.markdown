@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Are Large Language Models Fit For Guided Reading?"
+title: Are Large Language Models Fit For Guided Reading?
 authors: Ochieng Peter
 conference: "Arxiv"
 year: 2023

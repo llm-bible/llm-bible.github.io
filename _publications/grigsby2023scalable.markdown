@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "AMAGO: Scalable In-context Reinforcement Learning For Adaptive Agents"
+title: AMAGO: Scalable In-context Reinforcement Learning For Adaptive Agents
 authors: Grigsby Jake, Fan Linxi, Zhu Yuke
 conference: "Arxiv"
 year: 2023

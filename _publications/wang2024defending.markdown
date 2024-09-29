@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Defending Llms Against Jailbreaking Attacks Via Backtranslation"
+title: Defending Llms Against Jailbreaking Attacks Via Backtranslation
 authors: Wang Yihan, Shi Zhouxing, Bai Andrew, Hsieh Cho-jui
 conference: "Arxiv"
 year: 2024

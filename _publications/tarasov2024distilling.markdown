@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Distilling Llms' Decomposition Abilities Into Compact Language Models"
+title: Distilling Llms' Decomposition Abilities Into Compact Language Models
 authors: Tarasov Denis, Shridhar Kumar
 conference: "Arxiv"
 year: 2024

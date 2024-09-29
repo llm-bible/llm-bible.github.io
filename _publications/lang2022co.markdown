@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Co-training Improves Prompt-based Learning For Large Language Models"
+title: Co-training Improves Prompt-based Learning For Large Language Models
 authors: Lang Hunter, Agrawal Monica, Kim Yoon, Sontag David
 conference: "Arxiv"
 year: 2022

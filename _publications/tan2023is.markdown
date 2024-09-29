@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Is Chatgpt A Good Multi-party Conversation Solver?"
+title: Is Chatgpt A Good Multi-party Conversation Solver?
 authors: Tan Chao-hong, Gu Jia-chen, Ling Zhen-hua
 conference: "Arxiv"
 year: 2023

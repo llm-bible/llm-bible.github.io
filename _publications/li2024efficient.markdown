@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tokenpacker: Efficient Visual Projector For Multimodal LLM"
+title: Tokenpacker: Efficient Visual Projector For Multimodal LLM
 authors: Li Wentong, Yuan Yuqian, Liu Jian, Tang Dongqi, Wang Song, Qin Jie, Zhu Jianke, Zhang Lei
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Recai: Leveraging Large Language Models For Next-generation Recommender Systems"
+title: Recai: Leveraging Large Language Models For Next-generation Recommender Systems
 authors: Lian Jianxun, Lei Yuxuan, Huang Xu, Yao Jing, Xu Wei, Xie Xing
 conference: "Arxiv"
 year: 2024

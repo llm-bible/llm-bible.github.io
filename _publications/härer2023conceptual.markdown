@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Conceptual Model Interpreter For Large Language Models"
+title: Conceptual Model Interpreter For Large Language Models
 authors: Härer Felix
 conference: "Arxiv"
 year: 2023

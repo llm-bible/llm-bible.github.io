@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Premise Order Matters In Reasoning With Large Language Models"
+title: Premise Order Matters In Reasoning With Large Language Models
 authors: Chen Xinyun, Chi Ryan A., Wang Xuezhi, Zhou Denny
 conference: "Arxiv"
 year: 2024

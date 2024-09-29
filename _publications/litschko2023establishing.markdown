@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Establishing Trustworthiness: Rethinking Tasks And Model Evaluation"
+title: Establishing Trustworthiness: Rethinking Tasks And Model Evaluation
 authors: Litschko Robert, Müller-eberstein Max, Van Der Goot Rob, Weber Leon, Plank Barbara
 conference: "Arxiv"
 year: 2023

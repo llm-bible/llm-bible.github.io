@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Context Embeddings For Efficient Answer Generation In RAG"
+title: Context Embeddings For Efficient Answer Generation In RAG
 authors: Rau David, Wang Shuai, Déjean Hervé, Clinchant Stéphane
 conference: "Arxiv"
 year: 2024

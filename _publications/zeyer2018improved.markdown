@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improved Training Of End-to-end Attention Models For Speech Recognition"
+title: Improved Training Of End-to-end Attention Models For Speech Recognition
 authors: Zeyer Albert, Irie Kazuki, Schlüter Ralf, Ney Hermann
 conference: "Arxiv"
 year: 2018

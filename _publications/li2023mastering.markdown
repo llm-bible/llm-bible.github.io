@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mastering Robot Manipulation With Multimodal Prompts Through Pretraining And Multi-task Fine-tuning"
+title: Mastering Robot Manipulation With Multimodal Prompts Through Pretraining And Multi-task Fine-tuning
 authors: Li Jiachen, Gao Qiaozi, Johnston Michael, Gao Xiaofeng, He Xuehai, Shakiah Suhaila, Shi Hangjie, Ghanadan Reza, Wang William Yang
 conference: "Arxiv"
 year: 2023

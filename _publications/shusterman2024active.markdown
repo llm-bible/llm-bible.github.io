@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "An Active Inference Strategy For Prompting Reliable Responses From Large Language Models In Medical Practice"
+title: An Active Inference Strategy For Prompting Reliable Responses From Large Language Models In Medical Practice
 authors: Shusterman Roma, Waters Allison C., O`neill Shannon, Luu Phan, Tucker Don M.
 conference: "Arxiv"
 year: 2024

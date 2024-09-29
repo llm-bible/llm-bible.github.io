@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Continual Pre-training Mitigates Forgetting In Language And Vision"
+title: Continual Pre-training Mitigates Forgetting In Language And Vision
 authors: Cossu Andrea, Tuytelaars Tinne, Carta Antonio, Passaro Lucia, Lomonaco Vincenzo, Bacciu Davide
 conference: "Arxiv"
 year: 2022

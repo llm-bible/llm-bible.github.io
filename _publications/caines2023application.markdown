@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On The Application Of Large Language Models For Language Teaching And Assessment Technology"
+title: On The Application Of Large Language Models For Language Teaching And Assessment Technology
 authors: Caines Andrew, Benedetto Luca, Taslimipoor Shiva, Davis Christopher, Gao Yuan, Andersen Oeistein, Yuan Zheng, Elliott Mark, Moore Russell, Bryant Christopher, Rei Marek, Yannakoudakis Helen, Mullooly Andrew, Nicholls Diane, Buttery Paula
 conference: "Arxiv"
 year: 2023

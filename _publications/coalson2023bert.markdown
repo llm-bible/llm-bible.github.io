@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "BERT Lost Patience Won't Be Robust To Adversarial Slowdown"
+title: BERT Lost Patience Won't Be Robust To Adversarial Slowdown
 authors: Coalson Zachary, Ritter Gabriel, Bobba Rakesh, Hong Sanghyun
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Leveraging Llms For Conditional QA"
+title: Towards Leveraging Llms For Conditional QA
 authors: Hussain Syed-amad, Dakle Parag Pravin, Rallabandi Saikrishna, Raghavan Preethi
 conference: "Arxiv"
 year: 2023

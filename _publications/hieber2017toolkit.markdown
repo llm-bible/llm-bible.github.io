@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Sockeye: A Toolkit For Neural Machine Translation"
+title: Sockeye: A Toolkit For Neural Machine Translation
 authors: Hieber Felix, Domhan Tobias, Denkowski Michael, Vilar David, Sokolov Artem, Clifton Ann, Post Matt
 conference: "Arxiv"
 year: 2017

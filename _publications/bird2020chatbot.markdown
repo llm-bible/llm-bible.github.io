@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chatbot Interaction With Artificial Intelligence: Human Data Augmentation With T5 And Language Transformer Ensemble For Text Classification"
+title: Chatbot Interaction With Artificial Intelligence: Human Data Augmentation With T5 And Language Transformer Ensemble For Text Classification
 authors: Bird Jordan J., Ekárt Anikó, Faria Diego R.
 conference: "Arxiv"
 year: 2020

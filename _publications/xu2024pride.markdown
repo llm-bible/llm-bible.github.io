@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pride And Prejudice: LLM Amplifies Self-bias In Self-refinement"
+title: Pride And Prejudice: LLM Amplifies Self-bias In Self-refinement
 authors: Xu Wenda, Zhu Guanglei, Zhao Xuandong, Pan Liangming, Li Lei, Wang William Yang
 conference: "Arxiv"
 year: 2024

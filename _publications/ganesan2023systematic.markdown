@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Systematic Evaluation Of GPT-3 For Zero-shot Personality Estimation"
+title: Systematic Evaluation Of GPT-3 For Zero-shot Personality Estimation
 authors: Ganesan Adithya V, Lal Yash Kumar, Nilsson August Håkan, Schwartz H. Andrew
 conference: "Arxiv"
 year: 2023

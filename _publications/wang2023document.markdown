@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Document-level Machine Translation With Large Language Models"
+title: Document-level Machine Translation With Large Language Models
 authors: Wang Longyue, Lyu Chenyang, Ji Tianbo, Zhang Zhirui, Yu Dian, Shi Shuming, Tu Zhaopeng
 conference: "Arxiv"
 year: 2023

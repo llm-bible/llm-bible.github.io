@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Customized Retrieval Augmented Generation And Benchmarking For EDA Tool Documentation QA"
+title: Customized Retrieval Augmented Generation And Benchmarking For EDA Tool Documentation QA
 authors: Pu Yuan, He Zhuolun, Qiu Tairu, Wu Haoyuan, Yu Bei
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Probing Pretrained Language Models For Lexical Semantics"
+title: Probing Pretrained Language Models For Lexical Semantics
 authors: Ivan Vulić, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš, Anna Korhonen
 conference: "Arxiv"
 year: 2020

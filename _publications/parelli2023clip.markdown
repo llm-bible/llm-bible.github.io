@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Clip-guided Vision-language Pre-training For Question Answering In 3D Scenes"
+title: Clip-guided Vision-language Pre-training For Question Answering In 3D Scenes
 authors: Parelli Maria, Delitzas Alexandros, Hars Nikolas, Vlassis Georgios, Anagnostidis Sotirios, Bachmann Gregor, Hofmann Thomas
 conference: "Arxiv"
 year: 2023

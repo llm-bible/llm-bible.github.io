@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fighting Fire With Fire: The Dual Role Of Llms In Crafting And Detecting Elusive Disinformation"
+title: Fighting Fire With Fire: The Dual Role Of Llms In Crafting And Detecting Elusive Disinformation
 authors: Lucas Jason, Uchendu Adaku, Yamashita Michiharu, Lee Jooyoung, Rohatgi Shaurya, Lee Dongwon
 conference: "Arxiv"
 year: 2023

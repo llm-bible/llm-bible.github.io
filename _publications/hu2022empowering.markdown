@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Empowering Language Models With Knowledge Graph Reasoning For Question Answering"
+title: Empowering Language Models With Knowledge Graph Reasoning For Question Answering
 authors: Hu Ziniu, Xu Yichong, Yu Wenhao, Wang Shuohang, Yang Ziyi, Zhu Chenguang, Chang Kai-wei, Sun Yizhou
 conference: "Arxiv"
 year: 2022

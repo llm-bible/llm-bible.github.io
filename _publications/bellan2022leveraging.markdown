@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Leveraging Pre-trained Language Models For Conversational Information Seeking From Text"
+title: Leveraging Pre-trained Language Models For Conversational Information Seeking From Text
 authors: Bellan Patrizio, Dragoni Mauro, Ghidini Chiara
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Instruction Position Matters In Sequence Generation With Large Language Models"
+title: Instruction Position Matters In Sequence Generation With Large Language Models
 authors: Liu Yijin, Zeng Xianfeng, Meng Fandong, Zhou Jie
 conference: "Arxiv"
 year: 2023

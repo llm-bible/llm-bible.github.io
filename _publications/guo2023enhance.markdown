@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Arthmodel: Enhance Arithmetic Skills To Large Language Model"
+title: Arthmodel: Enhance Arithmetic Skills To Large Language Model
 authors: Guo Yingdi
 conference: "Arxiv"
 year: 2023

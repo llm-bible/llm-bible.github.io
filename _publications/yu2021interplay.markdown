@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On The Interplay Between Fine-tuning And Composition In Transformers"
+title: On The Interplay Between Fine-tuning And Composition In Transformers
 authors: Yu Lang, Ettinger Allyson
 conference: "Arxiv"
 year: 2021

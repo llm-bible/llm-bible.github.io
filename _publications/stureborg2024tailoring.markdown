@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tailoring Vaccine Messaging With Common-ground Opinions"
+title: Tailoring Vaccine Messaging With Common-ground Opinions
 authors: Stureborg Rickard, Chen Sanxing, Xie Ruoyu, Patel Aayushi, Li Christopher, Zhu Chloe Qinyu, Hu Tingnan, Yang Jun, Dhingra Bhuwan
 conference: "Arxiv"
 year: 2024

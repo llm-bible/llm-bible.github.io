@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Openeval: Benchmarking Chinese Llms Across Capability, Alignment And Safety"
+title: Openeval: Benchmarking Chinese Llms Across Capability, Alignment And Safety
 authors: Liu Chuang, Yu Linhao, Li Jiaxuan, Jin Renren, Huang Yufei, Shi Ling, Zhang Junhui, Ji Xinmeng, Cui Tingting, Liu Tao, Song Jinwang, Zan Hongying, Li Sun, Xiong Deyi
 conference: "Arxiv"
 year: 2024

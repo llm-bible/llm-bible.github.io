@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Data Engineering For Scaling Language Models To 128K Context"
+title: Data Engineering For Scaling Language Models To 128K Context
 authors: Fu Yao, Panda Rameswar, Niu Xinyao, Yue Xiang, Hajishirzi Hannaneh, Kim Yoon, Peng Hao
 conference: "Arxiv"
 year: 2024

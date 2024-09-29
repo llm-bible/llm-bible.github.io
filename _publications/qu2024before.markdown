@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Before Generation, Align It! A Novel And Effective Strategy For Mitigating Hallucinations In Text-to-sql Generation"
+title: Before Generation, Align It! A Novel And Effective Strategy For Mitigating Hallucinations In Text-to-sql Generation
 authors: Qu Ge, Li Jinyang, Li Bowen, Qin Bowen, Huo Nan, Ma Chenhao, Cheng Reynold
 conference: "Arxiv"
 year: 2024

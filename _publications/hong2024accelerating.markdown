@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Accelerating Multilingual Language Model For Excessively Tokenized Languages"
+title: Accelerating Multilingual Language Model For Excessively Tokenized Languages
 authors: Hong Jimin, Lee Gibbeum, Cho Jaewoong
 conference: "Arxiv"
 year: 2024

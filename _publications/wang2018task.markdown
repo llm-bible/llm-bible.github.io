@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Task In A Suit And A Tie: Paraphrase Generation With Semantic Augmentation"
+title: A Task In A Suit And A Tie: Paraphrase Generation With Semantic Augmentation
 authors: Wang Su, Gupta Rahul, Chang Nancy, Baldridge Jason
 conference: "Association for the Advancement of Artificial Intelligence"
 year: 2018

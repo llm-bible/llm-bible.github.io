@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Large Language Models Truly Understand Prompts? A Case Study With Negated Prompts"
+title: Can Large Language Models Truly Understand Prompts? A Case Study With Negated Prompts
 authors: Jang Joel, Ye Seonghyeon, Seo Minjoon
 conference: "Arxiv"
 year: 2022

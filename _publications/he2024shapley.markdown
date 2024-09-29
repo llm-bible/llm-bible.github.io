@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "SHED: Shapley-based Automated Dataset Refinement For Instruction Fine-tuning"
+title: SHED: Shapley-based Automated Dataset Refinement For Instruction Fine-tuning
 authors: He Yexiao, Wang Ziyao, Shen Zheyu, Sun Guoheng, Dai Yucong, Wu Yongkai, Wang Hongyi, Li Ang
 conference: "Arxiv"
 year: 2024

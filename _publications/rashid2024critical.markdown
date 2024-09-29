@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Critical Look At Tokenwise Reward-guided Text Generation"
+title: A Critical Look At Tokenwise Reward-guided Text Generation
 authors: Rashid Ahmad, Wu Ruotian, Grosse Julia, Kristiadi Agustinus, Poupart Pascal
 conference: "Arxiv"
 year: 2024

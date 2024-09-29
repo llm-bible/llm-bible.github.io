@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mental Modeling Of Reinforcement Learning Agents By Language Models"
+title: Mental Modeling Of Reinforcement Learning Agents By Language Models
 authors: Lu Wenhao, Zhao Xufeng, Spisak Josua, Lee Jae Hee, Wermter Stefan
 conference: "Arxiv"
 year: 2024

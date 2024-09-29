@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Is Self-repair A Silver Bullet For Code Generation?"
+title: Is Self-repair A Silver Bullet For Code Generation?
 authors: Olausson Theo X., Inala Jeevana Priya, Wang Chenglong, Gao Jianfeng, Solar-lezama Armando
 conference: "Arxiv"
 year: 2023

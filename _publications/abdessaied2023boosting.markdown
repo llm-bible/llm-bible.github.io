@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "$\(\mathbb{vd}\)$-$\(\mathbb{gr}\)$: Boosting $\(\mathbb{v}\)$isual $\(\mathbb{d}\)$ialog With Cascaded Spatial-temporal Multi-modal $\(\mathbb{gr}\)$aphs"
+title: $\(\mathbb{vd}\)$-$\(\mathbb{gr}\)$: Boosting $\(\mathbb{v}\)$isual $\(\mathbb{d}\)$ialog With Cascaded Spatial-temporal Multi-modal $\(\mathbb{gr}\)$aphs
 authors: Abdessaied Adnen, Shi Lei, Bulling Andreas
 conference: "Arxiv"
 year: 2023

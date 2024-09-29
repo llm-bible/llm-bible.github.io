@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multi-modal Understanding And Generation For Medical Images And Text Via Vision-language Pre-training"
+title: Multi-modal Understanding And Generation For Medical Images And Text Via Vision-language Pre-training
 authors: Moon Jong Hak, Lee Hyungyung, Shin Woncheol, Kim Young-hak, Choi Edward
 conference: "IEEE Journal of Biomedical and Health Informatics"
 year: 2021

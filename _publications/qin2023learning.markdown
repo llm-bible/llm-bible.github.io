@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "In-context Learning With Iterative Demonstration Selection"
+title: In-context Learning With Iterative Demonstration Selection
 authors: Qin Chengwei, Zhang Aston, Chen Chen, Dagar Anirudh, Ye Wenming
 conference: "Arxiv"
 year: 2023

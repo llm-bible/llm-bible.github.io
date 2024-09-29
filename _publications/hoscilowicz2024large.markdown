@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models For Expansion Of Spoken Language Understanding Systems To New Languages"
+title: Large Language Models For Expansion Of Spoken Language Understanding Systems To New Languages
 authors: Hoscilowicz Jakub, Pawlowski Pawel, Skorupa Marcin, Sowański Marcin, Janicki Artur
 conference: "Arxiv"
 year: 2024

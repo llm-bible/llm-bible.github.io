@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Strong And Efficient Baselines For Open Domain Conversational Question Answering"
+title: Strong And Efficient Baselines For Open Domain Conversational Question Answering
 authors: Coman Andrei C., Barlacchi Gianni, De Gispert Adrià
 conference: "Arxiv"
 year: 2023

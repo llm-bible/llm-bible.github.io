@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Ensemble ALBERT On Squad 2.0"
+title: Ensemble ALBERT On Squad 2.0
 authors: Li Shilun, Li Renee, Peng Veronica
 conference: "Arxiv"
 year: 2021

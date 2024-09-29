@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Text-to-sql Empowered By Large Language Models: A Benchmark Evaluation"
+title: Text-to-sql Empowered By Large Language Models: A Benchmark Evaluation
 authors: Gao Dawei, Wang Haibin, Li Yaliang, Sun Xiuyu, Qian Yichen, Ding Bolin, Zhou Jingren
 conference: "Arxiv"
 year: 2023

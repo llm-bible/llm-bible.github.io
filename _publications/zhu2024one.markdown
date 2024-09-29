@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "One Token Can Help! Learning Scalable And Pluggable Virtual Tokens For Retrieval-augmented Large Language Models"
+title: One Token Can Help! Learning Scalable And Pluggable Virtual Tokens For Retrieval-augmented Large Language Models
 authors: Zhu Yutao, Huang Zhaoheng, Dou Zhicheng, Wen Ji-rong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Efficient Large Language Models: A Survey"
+title: Efficient Large Language Models: A Survey
 authors: Wan Zhongwei, Wang Xin, Liu Che, Alam Samiul, Zheng Yu, Liu Jiachen, Qu Zhongnan, Yan Shen, Zhu Yi, Zhang Quanlu, Chowdhury Mosharaf, Zhang Mi
 conference: "Arxiv"
 year: 2023

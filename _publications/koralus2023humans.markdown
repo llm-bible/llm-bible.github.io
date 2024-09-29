@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Humans In Humans Out: On GPT Converging Toward Common Sense In Both Success And Failure"
+title: Humans In Humans Out: On GPT Converging Toward Common Sense In Both Success And Failure
 authors: Koralus Philipp, Wang-maścianica Vincent
 conference: "Arxiv"
 year: 2023

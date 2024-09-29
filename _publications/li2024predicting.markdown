@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Predicting Vs. Acting: A Trade-off Between World Modeling & Agent Modeling"
+title: Predicting Vs. Acting: A Trade-off Between World Modeling & Agent Modeling
 authors: Li Margaret, Shi Weijia, Pagnoni Artidoro, West Peter, Holtzman Ari
 conference: "Arxiv"
 year: 2024

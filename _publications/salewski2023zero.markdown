@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Zero-shot Translation Of Attention Patterns In VQA Models To Natural Language"
+title: Zero-shot Translation Of Attention Patterns In VQA Models To Natural Language
 authors: Salewski Leonard, Koepke A. Sophia, Lensch Hendrik P. A., Akata Zeynep
 conference: "Arxiv"
 year: 2023

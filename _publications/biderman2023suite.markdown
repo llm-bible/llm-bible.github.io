@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pythia: A Suite For Analyzing Large Language Models Across Training And Scaling"
+title: Pythia: A Suite For Analyzing Large Language Models Across Training And Scaling
 authors: Stella Biderman, Hailey Schoelkopf, Quentin Anthony, Herbie Bradley, Kyle O'brien, Eric Hallahan, Mohammad Aflah Khan, Shivanshu Purohit, Usvsn Sai Prashanth, Edward Raff, Aviya Skowron, Lintang Sutawika, Oskar Van Der Wal
 conference: "Arxiv"
 year: 2023

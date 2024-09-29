@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Crafting Efficient Fine-tuning Strategies For Large Language Models"
+title: Crafting Efficient Fine-tuning Strategies For Large Language Models
 authors: Oliver Michael, Wang Guan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Short Survey Of Viewing Large Language Models In Legal Aspect"
+title: A Short Survey Of Viewing Large Language Models In Legal Aspect
 authors: Sun Zhongxiang
 conference: "Arxiv"
 year: 2023

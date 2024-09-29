@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bridging The Preference Gap Between Retrievers And Llms"
+title: Bridging The Preference Gap Between Retrievers And Llms
 authors: Ke Zixuan, Kong Weize, Li Cheng, Zhang Mingyang, Mei Qiaozhu, Bendersky Michael
 conference: "Arxiv"
 year: 2024

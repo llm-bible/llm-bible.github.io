@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Leveraging Machine-generated Rationales To Facilitate Social Meaning Detection In Conversations"
+title: Leveraging Machine-generated Rationales To Facilitate Social Meaning Detection In Conversations
 authors: Dutt Ritam, Wu Zhen, Shi Kelly, Sheth Divyanshu, Gupta Prakhar, Rose Carolyn Penstein
 conference: "Arxiv"
 year: 2024

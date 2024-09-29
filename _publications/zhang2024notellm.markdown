@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Notellm-2: Multimodal Large Representation Models For Recommendation"
+title: Notellm-2: Multimodal Large Representation Models For Recommendation
 authors: Zhang Chao, Zhang Haoxin, Wu Shiwei, Wu Di, Xu Tong, Gao Yan, Hu Yao, Chen Enhong
 conference: "Arxiv"
 year: 2024

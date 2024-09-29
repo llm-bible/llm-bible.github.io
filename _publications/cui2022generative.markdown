@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "M6-rec: Generative Pretrained Language Models Are Open-ended Recommender Systems"
+title: M6-rec: Generative Pretrained Language Models Are Open-ended Recommender Systems
 authors: Cui Zeyu, Ma Jianxin, Zhou Chang, Zhou Jingren, Yang Hongxia
 conference: "Arxiv"
 year: 2022

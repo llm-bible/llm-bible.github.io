@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Changing Answer Order Can Decrease MMLU Accuracy"
+title: Changing Answer Order Can Decrease MMLU Accuracy
 authors: Gupta Vipul, Pantoja David, Ross Candace, Williams Adina, Ung Megan
 conference: "Arxiv"
 year: 2024

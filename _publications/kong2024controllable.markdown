@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Controllable Navigation Instruction Generation With Chain Of Thought Prompting"
+title: Controllable Navigation Instruction Generation With Chain Of Thought Prompting
 authors: Kong Xianghao, Chen Jinyu, Wang Wenguan, Su Hang, Hu Xiaolin, Yang Yi, Liu Si
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Human Language Modeling"
+title: Human Language Modeling
 authors: Soni Nikita, Matero Matthew, Balasubramanian Niranjan, Schwartz H. Andrew
 conference: "Arxiv"
 year: 2022

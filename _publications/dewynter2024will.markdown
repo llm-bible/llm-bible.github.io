@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Will GPT-4 Run DOOM?"
+title: Will GPT-4 Run DOOM?
 authors: De Wynter Adrian
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dialoguellm: Context And Emotion Knowledge-tuned Large Language Models For Emotion Recognition In Conversations"
+title: Dialoguellm: Context And Emotion Knowledge-tuned Large Language Models For Emotion Recognition In Conversations
 authors: Zhang Yazhou, Wang Mengyao, Wu Youxi, Tiwari Prayag, Li Qiuchi, Wang Benyou, Qin Jing
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chainforge: A Visual Toolkit For Prompt Engineering And LLM Hypothesis Testing"
+title: Chainforge: A Visual Toolkit For Prompt Engineering And LLM Hypothesis Testing
 authors: Arawjo Ian, Swoopes Chelse, Vaithilingam Priyan, Wattenberg Martin, Glassman Elena
 conference: "Arxiv"
 year: 2023

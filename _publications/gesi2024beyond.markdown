@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Beyond Self-learned Attention: Mitigating Attention Bias In Transformer-based Models Using Attention Guidance"
+title: Beyond Self-learned Attention: Mitigating Attention Bias In Transformer-based Models Using Attention Guidance
 authors: Gesi Jiri, Ahmed Iftekhar
 conference: "Arxiv"
 year: 2024

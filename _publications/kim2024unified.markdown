@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evalverse: Unified And Accessible Library For Large Language Model Evaluation"
+title: Evalverse: Unified And Accessible Library For Large Language Model Evaluation
 authors: Kim Jihoo, Song Wonho, Kim Dahyun, Kim Yunsu, Kim Yungi, Park Chanjun
 conference: "Arxiv"
 year: 2024

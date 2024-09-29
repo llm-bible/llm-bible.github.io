@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "When Parts Are Greater Than Sums: Individual LLM Components Can Outperform Full Models"
+title: When Parts Are Greater Than Sums: Individual LLM Components Can Outperform Full Models
 authors: Chang Ting-yun, Thomason Jesse, Jia Robin
 conference: "Arxiv"
 year: 2024

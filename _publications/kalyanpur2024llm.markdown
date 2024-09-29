@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "LLM-ARC: Enhancing Llms With An Automated Reasoning Critic"
+title: LLM-ARC: Enhancing Llms With An Automated Reasoning Critic
 authors: Kalyanpur Aditya, Saravanakumar Kailash Karthik, Barres Victor, Chu-carroll Jennifer, Melville David, Ferrucci David
 conference: "Arxiv"
 year: 2024

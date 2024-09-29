@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chatgpt Outperforms Crowd-workers For Text-annotation Tasks"
+title: Chatgpt Outperforms Crowd-workers For Text-annotation Tasks
 authors: Fabrizio Gilardi, Meysam Alizadeh, Maël Kubli
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "LAIT: Efficient Multi-segment Encoding In Transformers With Layer-adjustable Interaction"
+title: LAIT: Efficient Multi-segment Encoding In Transformers With Layer-adjustable Interaction
 authors: Milbauer Jeremiah, Louis Annie, Hosseini Mohammad Javad, Fabrikant Alex, Metzler Donald, Schuster Tal
 conference: "Arxiv"
 year: 2023

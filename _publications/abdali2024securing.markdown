@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Securing Large Language Models: Threats, Vulnerabilities And Responsible Practices"
+title: Securing Large Language Models: Threats, Vulnerabilities And Responsible Practices
 authors: Abdali Sara, Anarfi Richard, Barberan Cj, He Jia
 conference: "Arxiv"
 year: 2024

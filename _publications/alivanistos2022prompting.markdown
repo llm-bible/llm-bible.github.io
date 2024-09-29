@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Prompting As Probing: Using Language Models For Knowledge Base Construction"
+title: Prompting As Probing: Using Language Models For Knowledge Base Construction
 authors: Alivanistos Dimitrios, Santamaría Selene Báez, Cochez Michael, Kalo Jan-christoph, Van Krieken Emile, Thanapalasingam Thiviyan
 conference: "Arxiv"
 year: 2022

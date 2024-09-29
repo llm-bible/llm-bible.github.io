@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "MARS: Meaning-aware Response Scoring For Uncertainty Estimation In Generative Llms"
+title: MARS: Meaning-aware Response Scoring For Uncertainty Estimation In Generative Llms
 authors: Bakman Yavuz Faruk, Yaldiz Duygu Nur, Buyukates Baturalp, Tao Chenyang, Dimitriadis Dimitrios, Avestimehr Salman
 conference: "Arxiv"
 year: 2024

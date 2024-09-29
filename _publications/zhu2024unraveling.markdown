@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pollmgraph: Unraveling Hallucinations In Large Language Models Via State Transition Dynamics"
+title: Pollmgraph: Unraveling Hallucinations In Large Language Models Via State Transition Dynamics
 authors: Zhu Derui, Chen Dingfan, Li Qing, Chen Zongxiong, Ma Lei, Grossklags Jens, Fritz Mario
 conference: "Arxiv"
 year: 2024

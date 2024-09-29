@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fie: Building A Global Probability Space By Leveraging Early Fusion In Encoder For Open-domain Question Answering"
+title: Fie: Building A Global Probability Space By Leveraging Early Fusion In Encoder For Open-domain Question Answering
 authors: Kedia Akhil, Zaidi Mohd Abbas, Lee Haejun
 conference: "Arxiv"
 year: 2022

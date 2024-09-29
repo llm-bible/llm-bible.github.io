@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tokenshap: Interpreting Large Language Models With Monte Carlo Shapley Value Estimation"
+title: Tokenshap: Interpreting Large Language Models With Monte Carlo Shapley Value Estimation
 authors: Goldshmidt Roni, Horovicz Miriam
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exposing Limitations Of Language Model Agents In Sequential-task Compositions On The Web"
+title: Exposing Limitations Of Language Model Agents In Sequential-task Compositions On The Web
 authors: Furuta Hiroki, Matsuo Yutaka, Faust Aleksandra, Gur Izzeddin
 conference: "Arxiv"
 year: 2023

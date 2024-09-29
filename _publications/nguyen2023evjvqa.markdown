@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "EVJVQA Challenge: Multilingual Visual Question Answering"
+title: EVJVQA Challenge: Multilingual Visual Question Answering
 authors: Nguyen Ngan Luu-thuy, Nguyen Nghia Hieu, Vo Duong T. D, Tran Khanh Quoc, Van Nguyen Kiet
 conference: "Arxiv"
 year: 2023

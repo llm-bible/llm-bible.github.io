@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Re2llm: Reflective Reinforcement Large Language Model For Session-based Recommendation"
+title: Re2llm: Reflective Reinforcement Large Language Model For Session-based Recommendation
 authors: Wang Ziyan, Du Yingpeng, Sun Zhu, Chua Haoyan, Feng Kaidong, Wang Wenya, Zhang Jie
 conference: "Arxiv"
 year: 2024

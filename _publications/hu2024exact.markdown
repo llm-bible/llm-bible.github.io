@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exact And Efficient Unlearning For Large Language Model-based Recommendation"
+title: Exact And Efficient Unlearning For Large Language Model-based Recommendation
 authors: Hu Zhiyu, Zhang Yang, Xiao Minghao, Wang Wenjie, Feng Fuli, He Xiangnan
 conference: "Arxiv"
 year: 2024

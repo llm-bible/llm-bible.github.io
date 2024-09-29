@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models Are Temporal And Causal Reasoners For Video Question Answering"
+title: Large Language Models Are Temporal And Causal Reasoners For Video Question Answering
 authors: Ko Dohwan, Lee Ji Soo, Kang Wooyoung, Roh Byungseok, Kim Hyunwoo J.
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Hiqa: A Hierarchical Contextual Augmentation RAG For Massive Documents QA"
+title: Hiqa: A Hierarchical Contextual Augmentation RAG For Massive Documents QA
 authors: Chen Xinyue, Gao Pengyu, Song Jiangjiang, Tan Xiaoyang
 conference: "Arxiv"
 year: 2024

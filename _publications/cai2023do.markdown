@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Do Large Language Models Resemble Humans In Language Use?"
+title: Do Large Language Models Resemble Humans In Language Use?
 authors: Cai Zhenguang G., Duan Xufeng, Haslett David A., Wang Shuqi, Pickering Martin J.
 conference: "Arxiv"
 year: 2023

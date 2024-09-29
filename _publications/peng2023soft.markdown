@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Soft Prompt Tuning For Augmenting Dense Retrieval With Large Language Models"
+title: Soft Prompt Tuning For Augmenting Dense Retrieval With Large Language Models
 authors: Peng Zhiyuan, Wu Xuyang, Wang Qifan, Fang Yi
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tabula: Harnessing Language Models For Tabular Data Synthesis"
+title: Tabula: Harnessing Language Models For Tabular Data Synthesis
 authors: Zhao Zilong, Birke Robert, Chen Lydia
 conference: "Arxiv"
 year: 2023

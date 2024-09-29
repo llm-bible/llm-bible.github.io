@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Data Augmentation For Intent Classification With Off-the-shelf Large Language Models"
+title: Data Augmentation For Intent Classification With Off-the-shelf Large Language Models
 authors: Sahu Gaurav, Rodriguez Pau, Laradji Issam H., Atighehchian Parmida, Vazquez David, Bahdanau Dzmitry
 conference: "Arxiv"
 year: 2022

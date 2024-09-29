@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Winodict: Probing Language Models For In-context Word Acquisition"
+title: Winodict: Probing Language Models For In-context Word Acquisition
 authors: Eisenschlos Julian Martin, Cole Jeremy R., Liu Fangyu, Cohen William W.
 conference: "Arxiv"
 year: 2022

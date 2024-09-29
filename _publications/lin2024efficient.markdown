@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Efficient LLM Training And Serving With Heterogeneous Context Sharding Among Attention Heads"
+title: Efficient LLM Training And Serving With Heterogeneous Context Sharding Among Attention Heads
 authors: Lin Xihui, Zhang Yunan, Ge Suyu, Patra Barun, Chaudhary Vishrav, Peng Hao, Song Xia
 conference: "Arxiv"
 year: 2024

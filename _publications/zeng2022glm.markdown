@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "GLM-130B: An Open Bilingual Pre-trained Model"
+title: GLM-130B: An Open Bilingual Pre-trained Model
 authors: Aohan Zeng, Xiao Liu, Zhengxiao Du, Zihan Wang, Hanyu Lai, Ming Ding, Zhuoyi Yang, Yifan Xu, Wendi Zheng, Xiao Xia, Weng Lam Tam, Zixuan Ma, Yufei Xue, Jidong Zhai, Wenguang Chen, Peng Zhang, Yuxiao Dong, Jie Tang
 conference: "Arxiv"
 year: 2022

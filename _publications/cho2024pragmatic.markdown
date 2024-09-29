@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pragmatic Inference Of Scalar Implicature By Llms"
+title: Pragmatic Inference Of Scalar Implicature By Llms
 authors: Cho Ye-eun, Kim Seong Mook
 conference: "Arxiv"
 year: 2024

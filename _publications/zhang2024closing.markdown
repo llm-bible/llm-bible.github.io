@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Closing The Gap Between Open-source And Commercial Large Language Models For Medical Evidence Summarization"
+title: Closing The Gap Between Open-source And Commercial Large Language Models For Medical Evidence Summarization
 authors: Zhang Gongbo, Jin Qiao, Zhou Yiliang, Wang Song, Idnay Betina R., Luo Yiming, Park Elizabeth, Nestor Jordan G., Spotnitz Matthew E., Soroush Ali, Campion Thomas, Lu Zhiyong, Weng Chunhua, Peng Yifan
 conference: "Arxiv"
 year: 2024

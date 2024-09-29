@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving Sequence-to-sequence Pre-training Via Sequence Span Rewriting"
+title: Improving Sequence-to-sequence Pre-training Via Sequence Span Rewriting
 authors: Zhou Wangchunshu, Ge Tao, Xu Canwen, Xu Ke, Wei Furu
 conference: "Arxiv"
 year: 2021

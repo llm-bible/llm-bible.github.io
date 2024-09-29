@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Scalable Transformers For Neural Machine Translation"
+title: Scalable Transformers For Neural Machine Translation
 authors: Gao Peng, Geng Shijie, Qiao Yu, Wang Xiaogang, Dai Jifeng, Li Hongsheng
 conference: "Arxiv"
 year: 2021

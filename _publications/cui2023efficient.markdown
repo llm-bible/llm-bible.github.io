@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Efficient And Effective Text Encoding For Chinese Llama And Alpaca"
+title: Efficient And Effective Text Encoding For Chinese Llama And Alpaca
 authors: Cui Yiming, Yang Ziqing, Yao Xin
 conference: "Arxiv"
 year: 2023

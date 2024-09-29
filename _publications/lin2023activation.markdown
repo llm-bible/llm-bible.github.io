@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "AWQ: Activation-aware Weight Quantization For LLM Compression And Acceleration"
+title: AWQ: Activation-aware Weight Quantization For LLM Compression And Acceleration
 authors: Lin Ji, Tang Jiaming, Tang Haotian, Yang Shang, Chen Wei-ming, Wang Wei-chen, Xiao Guangxuan, Dang Xingyu, Gan Chuang, Han Song
 conference: "Arxiv"
 year: 2023

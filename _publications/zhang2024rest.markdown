@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Rest-mcts*: LLM Self-training Via Process Reward Guided Tree Search"
+title: Rest-mcts*: LLM Self-training Via Process Reward Guided Tree Search
 authors: Zhang Dan, Zhoubian Sining, Hu Ziniu, Yue Yisong, Dong Yuxiao, Tang Jie
 conference: "Arxiv"
 year: 2024

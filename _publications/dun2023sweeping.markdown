@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Sweeping Heterogeneity With Smart Mops: Mixture Of Prompts For LLM Task Adaptation"
+title: Sweeping Heterogeneity With Smart Mops: Mixture Of Prompts For LLM Task Adaptation
 authors: Dun Chen, Garcia Mirian Hipolito, Zheng Guoqing, Awadallah Ahmed Hassan, Kyrillidis Anastasios, Sim Robert
 conference: "Arxiv"
 year: 2023

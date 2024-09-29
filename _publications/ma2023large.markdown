@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Model Is Not A Good Few-shot Information Extractor, But A Good Reranker For Hard Samples!"
+title: Large Language Model Is Not A Good Few-shot Information Extractor, But A Good Reranker For Hard Samples!
 authors: Ma Yubo, Cao Yixin, Hong Yongching, Sun Aixin
 conference: "Arxiv"
 year: 2023

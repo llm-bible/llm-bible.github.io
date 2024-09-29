@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Convolutional Prompting Meets Language Models For Continual Learning"
+title: Convolutional Prompting Meets Language Models For Continual Learning
 authors: Roy Anurag, Moulick Riddhiman, Verma Vinay K., Ghosh Saptarshi, Das Abir
 conference: "Arxiv"
 year: 2024

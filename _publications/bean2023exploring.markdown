@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring The Landscape Of Large Language Models In Medical Question Answering"
+title: Exploring The Landscape Of Large Language Models In Medical Question Answering
 authors: Bean Andrew M., Korgul Karolina, Krones Felix, Mccraith Robert, Mahdi Adam
 conference: "Arxiv"
 year: 2023

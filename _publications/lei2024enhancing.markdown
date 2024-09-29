@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Autocoder: Enhancing Code Large Language Model With \(\textsc\){aiev-instruct}"
+title: Autocoder: Enhancing Code Large Language Model With \(\textsc\){aiev-instruct}
 authors: Lei Bin, Li Yuchen, Chen Qiuwu
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pruning Large Language Models With Semi-structural Adaptive Sparse Training"
+title: Pruning Large Language Models With Semi-structural Adaptive Sparse Training
 authors: Huang Weiyu, Hu Yuezhou, Jian Guohao, Zhu Jun, Chen Jianfei
 conference: "Arxiv"
 year: 2024

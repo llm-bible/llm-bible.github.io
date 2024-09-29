@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Adaptive Parameterization For Neural Dialogue Generation"
+title: Adaptive Parameterization For Neural Dialogue Generation
 authors: Cai Hengyi, Chen Hongshen, Zhang Cheng, Song Yonghao, Zhao Xiaofang, Yin Dawei
 conference: "Arxiv"
 year: 2020

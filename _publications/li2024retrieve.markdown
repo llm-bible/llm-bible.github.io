@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Recall, Retrieve And Reason: Towards Better In-context Relation Extraction"
+title: Recall, Retrieve And Reason: Towards Better In-context Relation Extraction
 authors: Li Guozheng, Wang Peng, Ke Wenjun, Guo Yikai, Ji Ke, Shang Ziyu, Liu Jiajun, Xu Zijie
 conference: "Arxiv"
 year: 2024

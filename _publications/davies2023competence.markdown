@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Competence-based Analysis Of Language Models"
+title: Competence-based Analysis Of Language Models
 authors: Davies Adam, Jiang Jize, Zhai Chengxiang
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Understanding The Relationship Between Prompts And Response Uncertainty In Large Language Models"
+title: Understanding The Relationship Between Prompts And Response Uncertainty In Large Language Models
 authors: Zhang Ze Yu, Verma Arun, Doshi-velez Finale, Low Bryan Kian Hsiang
 conference: "Arxiv"
 year: 2024

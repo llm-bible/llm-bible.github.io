@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Revisiting Intermediate Layer Distillation For Compressing Language Models: An Overfitting Perspective"
+title: Revisiting Intermediate Layer Distillation For Compressing Language Models: An Overfitting Perspective
 authors: Ko Jongwoo, Park Seungjoon, Jeong Minchan, Hong Sukjin, Ahn Euijai, Chang Du-seong, Yun Se-young
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Synth$^2$: Boosting Visual-language Models With Synthetic Captions And Image Embeddings"
+title: Synth$^2$: Boosting Visual-language Models With Synthetic Captions And Image Embeddings
 authors: Sharifzadeh Sahand, Kaplanis Christos, Pathak Shreya, Kumaran Dharshan, Ilic Anastasija, Mitrovic Jovana, Blundell Charles, Banino Andrea
 conference: "Arxiv"
 year: 2024

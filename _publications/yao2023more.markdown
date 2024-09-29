@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "More Samples Or More Prompts? Exploring Effective In-context Sampling For LLM Few-shot Prompt Engineering"
+title: More Samples Or More Prompts? Exploring Effective In-context Sampling For LLM Few-shot Prompt Engineering
 authors: Yao Bingsheng, Chen Guiming, Zou Ruishi, Lu Yuxuan, Li Jiachen, Zhang Shao, Sang Yisi, Liu Sijia, Hendler James, Wang Dakuo
 conference: "Arxiv"
 year: 2023

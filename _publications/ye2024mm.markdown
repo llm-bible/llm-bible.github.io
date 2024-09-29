@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mm-spubench: Towards Better Understanding Of Spurious Biases In Multimodal Llms"
+title: Mm-spubench: Towards Better Understanding Of Spurious Biases In Multimodal Llms
 authors: Ye Wenqian, Zheng Guangtao, Ma Yunsheng, Cao Xu, Lai Bolin, Rehg James M., Zhang Aidong
 conference: "Arxiv"
 year: 2024

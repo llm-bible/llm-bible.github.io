@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cache & Distil: Optimising API Calls To Large Language Models"
+title: Cache & Distil: Optimising API Calls To Large Language Models
 authors: Ramírez Guillem, Lindemann Matthias, Birch Alexandra, Titov Ivan
 conference: "Arxiv"
 year: 2023

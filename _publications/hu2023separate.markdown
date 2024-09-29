@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Separate The Wheat From The Chaff: Model Deficiency Unlearning Via Parameter-efficient Module Operation"
+title: Separate The Wheat From The Chaff: Model Deficiency Unlearning Via Parameter-efficient Module Operation
 authors: Hu Xinshuo, Li Dongfang, Hu Baotian, Zheng Zihao, Liu Zhenyu, Zhang Min
 conference: "Arxiv"
 year: 2023

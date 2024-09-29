@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Continual Skill And Task Learning Via Dialogue"
+title: Continual Skill And Task Learning Via Dialogue
 authors: Gu Weiwei, Kondepudi Suresh, Huang Lixiao, Gopalan Nakul
 conference: "Arxiv"
 year: 2024

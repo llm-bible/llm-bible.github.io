@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Kuaiji: The First Chinese Accounting Large Language Model"
+title: Kuaiji: The First Chinese Accounting Large Language Model
 authors: Luo Jiayuan, Yang Songhua, Qiu Xiaoling, Chen Panyu, Nai Yufei, Zeng Wenxuan, Zhang Wentao, Jiang Xinke
 conference: "Arxiv"
 year: 2024

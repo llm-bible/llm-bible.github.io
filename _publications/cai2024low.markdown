@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Low-cost Generation And Evaluation Of Dictionary Example Sentences"
+title: Low-cost Generation And Evaluation Of Dictionary Example Sentences
 authors: Cai Bill, Ng Clarence Boon Liang, Tan Daniel, Hotama Shelvia
 conference: "Arxiv"
 year: 2024

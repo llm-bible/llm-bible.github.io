@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "VLSP 2021 - Vimrc Challenge: Vietnamese Machine Reading Comprehension"
+title: VLSP 2021 - Vimrc Challenge: Vietnamese Machine Reading Comprehension
 authors: Van Nguyen Kiet, Tran Son Quoc, Nguyen Luan Thanh, Van Huynh Tin, Luu Son T., Nguyen Ngan Luu-thuy
 conference: "Arxiv"
 year: 2022

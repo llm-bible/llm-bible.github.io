@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "$VILA^2$: VILA Augmented VILA"
+title: $VILA^2$: VILA Augmented VILA
 authors: Fang Yunhao, Zhu Ligeng, Lu Yao, Wang Yan, Molchanov Pavlo, Cho Jang Hyun, Pavone Marco, Han Song, Yin Hongxu
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "ANALOGYKB: Unlocking Analogical Reasoning Of Language Models With A Million-scale Knowledge Base"
+title: ANALOGYKB: Unlocking Analogical Reasoning Of Language Models With A Million-scale Knowledge Base
 authors: Yuan Siyu, Chen Jiangjie, Sun Changzhi, Liang Jiaqing, Xiao Yanghua, Yang Deqing
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models Are Involuntary Truth-tellers: Exploiting Fallacy Failure For Jailbreak Attacks"
+title: Large Language Models Are Involuntary Truth-tellers: Exploiting Fallacy Failure For Jailbreak Attacks
 authors: Zhou Yue, Zou Henry Peng, Di Eugenio Barbara, Zhang Yang
 conference: "Arxiv"
 year: 2024

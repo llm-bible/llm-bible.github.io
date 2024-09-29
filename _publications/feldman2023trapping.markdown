@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Trapping LLM Hallucinations Using Tagged Context Prompts"
+title: Trapping LLM Hallucinations Using Tagged Context Prompts
 authors: Feldman Philip, Foulds James R., Pan Shimei
 conference: "Arxiv"
 year: 2023

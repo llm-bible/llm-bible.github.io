@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "World Models With Hints Of Large Language Models For Goal Achieving"
+title: World Models With Hints Of Large Language Models For Goal Achieving
 authors: Liu Zeyuan, Huan Ziyu, Wang Xiyao, Lyu Jiafei, Tao Jian, Li Xiu, Huang Furong, Xu Huazhe
 conference: "Arxiv"
 year: 2024

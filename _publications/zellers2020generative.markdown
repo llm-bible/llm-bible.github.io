@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Turingadvice: A Generative And Dynamic Evaluation Of Language Use"
+title: Turingadvice: A Generative And Dynamic Evaluation Of Language Use
 authors: Zellers Rowan, Holtzman Ari, Clark Elizabeth, Qin Lianhui, Farhadi Ali, Choi Yejin
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "List Items One By One: A New Data Source And Learning Paradigm For Multimodal Llms"
+title: List Items One By One: A New Data Source And Learning Paradigm For Multimodal Llms
 authors: Yan An, Yang Zhengyuan, Wu Junda, Zhu Wanrong, Yang Jianwei, Li Linjie, Lin Kevin, Wang Jianfeng, Mcauley Julian, Gao Jianfeng, Wang Lijuan
 conference: "Arxiv"
 year: 2024

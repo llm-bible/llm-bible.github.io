@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Longvlm: Efficient Long Video Understanding Via Large Language Models"
+title: Longvlm: Efficient Long Video Understanding Via Large Language Models
 authors: Weng Yuetian, Han Mingfei, He Haoyu, Chang Xiaojun, Zhuang Bohan
 conference: "Arxiv"
 year: 2024

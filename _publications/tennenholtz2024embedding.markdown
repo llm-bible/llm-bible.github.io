@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Embedding-aligned Language Models"
+title: Embedding-aligned Language Models
 authors: Tennenholtz Guy, Chow Yinlam, Hsu Chih-wei, Shani Lior, Liang Ethan, Boutilier Craig
 conference: "Arxiv"
 year: 2024

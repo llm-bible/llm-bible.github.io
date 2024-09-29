@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bring Your Own Data! Self-supervised Evaluation For Large Language Models"
+title: Bring Your Own Data! Self-supervised Evaluation For Large Language Models
 authors: Jain Neel, Saifullah Khalid, Wen Yuxin, Kirchenbauer John, Shu Manli, Saha Aniruddha, Goldblum Micah, Geiping Jonas, Goldstein Tom
 conference: "Arxiv"
 year: 2023

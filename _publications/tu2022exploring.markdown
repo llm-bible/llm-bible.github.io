@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Adavae: Exploring Adaptive Gpt-2s In Variational Auto-encoders For Language Modeling"
+title: Adavae: Exploring Adaptive Gpt-2s In Variational Auto-encoders For Language Modeling
 authors: Tu Haoqin, Yang Zhongliang, Yang Jinshuai, Huang Yongfeng
 conference: "Arxiv"
 year: 2022

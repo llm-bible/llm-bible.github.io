@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Synthetic Patient-physician Dialogue Generation From Clinical Notes Using LLM"
+title: Synthetic Patient-physician Dialogue Generation From Clinical Notes Using LLM
 authors: Das Trisha, Albassam Dina, Sun Jimeng
 conference: "Arxiv"
 year: 2024

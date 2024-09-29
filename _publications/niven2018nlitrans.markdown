@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Nlitrans At Semeval-2018 Task 12: Transfer Of Semantic Knowledge For Argument Comprehension"
+title: Nlitrans At Semeval-2018 Task 12: Transfer Of Semantic Knowledge For Argument Comprehension
 authors: Niven Tim, Kao Hung-yu
 conference: "Arxiv"
 year: 2018

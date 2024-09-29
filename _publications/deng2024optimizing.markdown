@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "LMGT: Optimizing Exploration-exploitation Balance In Reinforcement Learning Through Language Model Guided Trade-offs"
+title: LMGT: Optimizing Exploration-exploitation Balance In Reinforcement Learning Through Language Model Guided Trade-offs
 authors: Deng Yongxin, Qiu Xihe, Tan Xiaoyu, Chu Wei, Xu Yinghui
 conference: "Arxiv"
 year: 2024

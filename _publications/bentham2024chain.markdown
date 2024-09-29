@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chain-of-thought Unfaithfulness As Disguised Accuracy"
+title: Chain-of-thought Unfaithfulness As Disguised Accuracy
 authors: Bentham Oliver, Stringham Nathan, Marasović Ana
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Medkp: Medical Dialogue With Knowledge Enhancement And Clinical Pathway Encoding"
+title: Medkp: Medical Dialogue With Knowledge Enhancement And Clinical Pathway Encoding
 authors: Wu Jiageng, Wu Xian, Zheng Yefeng, Yang Jie
 conference: "Arxiv"
 year: 2024

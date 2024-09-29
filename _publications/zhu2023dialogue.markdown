@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dialogue-contextualized Re-ranking For Medical History-taking"
+title: Dialogue-contextualized Re-ranking For Medical History-taking
 authors: Zhu Jian, Valmianski Ilya, Kannan Anitha
 conference: "Arxiv"
 year: 2023

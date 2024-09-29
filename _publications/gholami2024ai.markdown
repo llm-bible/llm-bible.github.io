@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "AI And Memory Wall"
+title: AI And Memory Wall
 authors: Gholami Amir, Yao Zhewei, Kim Sehoon, Hooper Coleman, Mahoney Michael W., Keutzer Kurt
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Practical Tool Usage For Continually Learning Llms"
+title: Towards Practical Tool Usage For Continually Learning Llms
 authors: Huang Jerry, Parthasarathi Prasanna, Rezagholizadeh Mehdi, Chandar Sarath
 conference: "Arxiv"
 year: 2024

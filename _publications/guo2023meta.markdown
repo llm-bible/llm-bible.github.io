@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Meta-tuning Llms To Leverage Lexical Knowledge For Generalizable Language Style Understanding"
+title: Meta-tuning Llms To Leverage Lexical Knowledge For Generalizable Language Style Understanding
 authors: Guo Ruohao, Xu Wei, Ritter Alan
 conference: "Arxiv"
 year: 2023

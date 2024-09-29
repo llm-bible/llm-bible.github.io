@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "MINI-SEQUENCE TRANSFORMER: Optimizing Intermediate Memory For Long Sequences Training"
+title: MINI-SEQUENCE TRANSFORMER: Optimizing Intermediate Memory For Long Sequences Training
 authors: Luo Cheng, Zhao Jiawei, Chen Zhuoming, Chen Beidi, Anandkumar Anima
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Latency Adjustable Transformer Encoder For Language Understanding"
+title: Latency Adjustable Transformer Encoder For Language Understanding
 authors: Kachuee Sajjad, Sharifkhani Mohammad
 conference: "Arxiv"
 year: 2022

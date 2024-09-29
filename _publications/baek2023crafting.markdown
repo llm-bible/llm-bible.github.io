@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Promptcrafter: Crafting Text-to-image Prompt Through Mixed-initiative Dialogue With LLM"
+title: Promptcrafter: Crafting Text-to-image Prompt Through Mixed-initiative Dialogue With LLM
 authors: Baek Seungho, Im Hyerin, Ryu Jiseung, Park Juhyeong, Lee Takyeon
 conference: "Arxiv"
 year: 2023

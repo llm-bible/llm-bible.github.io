@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multilingual Language Models Predict Human Reading Behavior"
+title: Multilingual Language Models Predict Human Reading Behavior
 authors: Hollenstein Nora, Pirovano Federico, Zhang Ce, Jäger Lena, Beinborn Lisa
 conference: "Arxiv"
 year: 2021

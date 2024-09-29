@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Egovlpv2: Egocentric Video-language Pre-training With Fusion In The Backbone"
+title: Egovlpv2: Egocentric Video-language Pre-training With Fusion In The Backbone
 authors: Pramanick Shraman, Song Yale, Nag Sayan, Lin Kevin Qinghong, Shah Hardik, Shou Mike Zheng, Chellappa Rama, Zhang Pengchuan
 conference: "Arxiv"
 year: 2023

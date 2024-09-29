@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Federated Recommendation Via Hybrid Retrieval Augmented Generation"
+title: Federated Recommendation Via Hybrid Retrieval Augmented Generation
 authors: Huimin Zeng, Zhenrui Yue, Qian Jiang, Dong Wang
 conference: "Arxiv"
 year: 2024

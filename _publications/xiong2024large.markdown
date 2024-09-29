@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models Can Learn Temporal Reasoning"
+title: Large Language Models Can Learn Temporal Reasoning
 authors: Xiong Siheng, Payani Ali, Kompella Ramana, Fekri Faramarz
 conference: "Arxiv"
 year: 2024

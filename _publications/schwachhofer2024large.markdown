@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models To Generate System-level Test Programs Targeting Non-functional Properties"
+title: Large Language Models To Generate System-level Test Programs Targeting Non-functional Properties
 authors: Schwachhofer Denis, Domanski Peter, Becker Steffen, Wagner Stefan, Sauer Matthias, Pflüger Dirk, Polian Ilia
 conference: "Arxiv"
 year: 2024

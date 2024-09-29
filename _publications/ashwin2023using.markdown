@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Using Large Language Models For Qualitative Analysis Can Introduce Serious Bias"
+title: Using Large Language Models For Qualitative Analysis Can Introduce Serious Bias
 authors: Ashwin Julian, Chhabra Aditya, Rao Vijayendra
 conference: "Arxiv"
 year: 2023

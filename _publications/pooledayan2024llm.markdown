@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "LLM Targeted Underperformance Disproportionately Impacts Vulnerable Users"
+title: LLM Targeted Underperformance Disproportionately Impacts Vulnerable Users
 authors: Poole-dayan Elinor, Roy Deb, Kabbara Jad
 conference: "Arxiv"
 year: 2024

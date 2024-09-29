@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Text2reward: Reward Shaping With Language Models For Reinforcement Learning"
+title: Text2reward: Reward Shaping With Language Models For Reinforcement Learning
 authors: Xie Tianbao, Zhao Siheng, Wu Chen Henry, Liu Yitao, Luo Qian, Zhong Victor, Yang Yanchao, Yu Tao
 conference: "Arxiv"
 year: 2023

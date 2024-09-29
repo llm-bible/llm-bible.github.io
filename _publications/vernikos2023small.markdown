@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Small Language Models Improve Giants By Rewriting Their Outputs"
+title: Small Language Models Improve Giants By Rewriting Their Outputs
 authors: Vernikos Giorgos, Bražinskas Arthur, Adamek Jakub, Mallinson Jonathan, Severyn Aliaksei, Malmi Eric
 conference: "Arxiv"
 year: 2023

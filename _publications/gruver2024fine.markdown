@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fine-tuned Language Models Generate Stable Inorganic Materials As Text"
+title: Fine-tuned Language Models Generate Stable Inorganic Materials As Text
 authors: Gruver Nate, Sriram Anuroop, Madotto Andrea, Wilson Andrew Gordon, Zitnick C. Lawrence, Ulissi Zachary
 conference: "Arxiv"
 year: 2024

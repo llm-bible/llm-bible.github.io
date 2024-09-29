@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Lmcap: Few-shot Multilingual Image Captioning By Retrieval Augmented Language Model Prompting"
+title: Lmcap: Few-shot Multilingual Image Captioning By Retrieval Augmented Language Model Prompting
 authors: Ramos Rita, Martins Bruno, Elliott Desmond
 conference: "Arxiv"
 year: 2023

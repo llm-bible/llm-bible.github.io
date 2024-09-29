@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Learning From Teaching Assistants To Program With Subgoals: Exploring The Potential For AI Teaching Assistants"
+title: Learning From Teaching Assistants To Program With Subgoals: Exploring The Potential For AI Teaching Assistants
 authors: Lee Changyoon, Myung Junho, Han Jieun, Jin Jiho, Oh Alice
 conference: "Arxiv"
 year: 2023

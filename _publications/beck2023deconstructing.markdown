@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Sensitivity, Performance, Robustness: Deconstructing The Effect Of Sociodemographic Prompting"
+title: Sensitivity, Performance, Robustness: Deconstructing The Effect Of Sociodemographic Prompting
 authors: Beck Tilman, Schuff Hendrik, Lauscher Anne, Gurevych Iryna
 conference: "Arxiv"
 year: 2023

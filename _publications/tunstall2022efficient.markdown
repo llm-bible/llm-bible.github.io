@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Efficient Few-shot Learning Without Prompts"
+title: Efficient Few-shot Learning Without Prompts
 authors: Tunstall Lewis, Reimers Nils, Jo Unso Eun Seo, Bates Luke, Korat Daniel, Wasserblat Moshe, Pereg Oren
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chop Chop BERT: Visual Question Answering By Chopping Visualbert's Heads"
+title: Chop Chop BERT: Visual Question Answering By Chopping Visualbert's Heads
 authors: Gao Chenyu, Zhu Qi, Wang Peng, Wu Qi
 conference: "Arxiv"
 year: 2021

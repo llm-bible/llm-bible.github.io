@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Efficient Continual Pre-training By Mitigating The Stability Gap"
+title: Efficient Continual Pre-training By Mitigating The Stability Gap
 authors: Guo Yiduo, Fu Jie, Zhang Huishuai, Zhao Dongyan, Shen Yikang
 conference: "Arxiv"
 year: 2024

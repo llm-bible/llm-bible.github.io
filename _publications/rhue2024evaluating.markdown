@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating Llms For Gender Disparities In Notable Persons"
+title: Evaluating Llms For Gender Disparities In Notable Persons
 authors: Rhue Lauren, Goethals Sofie, Sundararajan Arun
 conference: "Arxiv"
 year: 2024

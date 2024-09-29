@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Accelerating Inference Of Retrieval-augmented Generation Via Sparse Context Selection"
+title: Accelerating Inference Of Retrieval-augmented Generation Via Sparse Context Selection
 authors: Zhu Yun, Gu Jia-chen, Sikora Caitlin, Ko Ho, Liu Yinxiao, Lin Chu-cheng, Shu Lei, Luo Liangchen, Meng Lei, Liu Bang, Chen Jindong
 conference: "Arxiv"
 year: 2024

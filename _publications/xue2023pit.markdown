@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pit One Against Many: Leveraging Attention-head Embeddings For Parameter-efficient Multi-head Attention"
+title: Pit One Against Many: Leveraging Attention-head Embeddings For Parameter-efficient Multi-head Attention
 authors: Xue Huiyin, Aletras Nikolaos
 conference: "Arxiv"
 year: 2023

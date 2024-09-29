@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "CONA: A Novel Context-aware Instruction Paradigm For Communication Using Large Language Model"
+title: CONA: A Novel Context-aware Instruction Paradigm For Communication Using Large Language Model
 authors: Zhou Nan, Tao Xinghui, Chen Xi
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Scaling Laws For Language Encoding Models In Fmri"
+title: Scaling Laws For Language Encoding Models In Fmri
 authors: Antonello Richard, Vaidya Aditya, Huth Alexander G.
 conference: "Arxiv"
 year: 2023

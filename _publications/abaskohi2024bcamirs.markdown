@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bcamirs At Semeval-2024 Task 4: Beyond Words: A Multimodal And Multilingual Exploration Of Persuasion In Memes"
+title: Bcamirs At Semeval-2024 Task 4: Beyond Words: A Multimodal And Multilingual Exploration Of Persuasion In Memes
 authors: Abaskohi Amirhossein, Dabiriaghdam Amirhossein, Wang Lele, Carenini Giuseppe
 conference: "Arxiv"
 year: 2024

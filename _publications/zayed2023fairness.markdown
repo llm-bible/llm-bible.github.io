@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fairness-aware Structured Pruning In Transformers"
+title: Fairness-aware Structured Pruning In Transformers
 authors: Zayed Abdelrahman, Mordido Goncalo, Shabanian Samira, Baldini Ioana, Chandar Sarath
 conference: "Arxiv"
 year: 2023

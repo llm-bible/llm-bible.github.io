@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Language Models Explain Their Own Classification Behavior?"
+title: Can Language Models Explain Their Own Classification Behavior?
 authors: Sherburn Dane, Chughtai Bilal, Evans Owain
 conference: "Arxiv"
 year: 2024

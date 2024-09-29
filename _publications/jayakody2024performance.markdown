@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Performance Of Recent Large Language Models For A Low-resourced Language"
+title: Performance Of Recent Large Language Models For A Low-resourced Language
 authors: Jayakody Ravindu, Dias Gihan
 conference: "Arxiv"
 year: 2024

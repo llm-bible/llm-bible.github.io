@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cognitive Modeling With Scaffolded Llms: A Case Study Of Referential Expression Generation"
+title: Cognitive Modeling With Scaffolded Llms: A Case Study Of Referential Expression Generation
 authors: Tsvilodub Polina, Franke Michael, Carcassi Fausto
 conference: "Arxiv"
 year: 2024

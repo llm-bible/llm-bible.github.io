@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fusechat: Knowledge Fusion Of Chat Models"
+title: Fusechat: Knowledge Fusion Of Chat Models
 authors: Wan Fanqi, Zhong Longguang, Yang Ziyi, Chen Ruijun, Quan Xiaojun
 conference: "Arxiv"
 year: 2024

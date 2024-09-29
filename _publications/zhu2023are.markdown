@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Are NLP Models Good At Tracing Thoughts: An Overview Of Narrative Understanding"
+title: Are NLP Models Good At Tracing Thoughts: An Overview Of Narrative Understanding
 authors: Zhu Lixing, Zhao Runcong, Gui Lin, He Yulan
 conference: "Arxiv"
 year: 2023

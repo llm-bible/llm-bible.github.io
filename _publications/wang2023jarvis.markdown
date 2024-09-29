@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "JARVIS-1: Open-world Multi-task Agents With Memory-augmented Multimodal Language Models"
+title: JARVIS-1: Open-world Multi-task Agents With Memory-augmented Multimodal Language Models
 authors: Zihao Wang, Shaofei Cai, Anji Liu, Yonggang Jin, Jinbing Hou, Bowei Zhang, Haowei Lin, Zhaofeng He, Zilong Zheng, Yaodong Yang, Xiaojian Ma, Yitao Liang
 conference: "Arxiv"
 year: 2023

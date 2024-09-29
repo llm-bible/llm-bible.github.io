@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Do Large Language Models Perform The Way People Expect? Measuring The Human Generalization Function"
+title: Do Large Language Models Perform The Way People Expect? Measuring The Human Generalization Function
 authors: Vafa Keyon, Rambachan Ashesh, Mullainathan Sendhil
 conference: "Arxiv"
 year: 2024

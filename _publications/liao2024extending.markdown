@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Extending Token Computation For LLM Reasoning"
+title: Extending Token Computation For LLM Reasoning
 authors: Liao Bingli, Vargas Danilo Vasconcellos
 conference: "Arxiv"
 year: 2024

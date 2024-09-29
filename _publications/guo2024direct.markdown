@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Direct Language Model Alignment From Online AI Feedback"
+title: Direct Language Model Alignment From Online AI Feedback
 authors: Guo Shangmin, Zhang Biao, Liu Tianlin, Liu Tianqi, Khalman Misha, Llinares Felipe, Rame Alexandre, Mesnard Thomas, Zhao Yao, Piot Bilal, Ferret Johan, Blondel Mathieu
 conference: "Arxiv"
 year: 2024

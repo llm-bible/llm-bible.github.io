@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Conversational Topic Recommendation In Counseling And Psychotherapy With Decision Transformer And Large Language Models"
+title: Conversational Topic Recommendation In Counseling And Psychotherapy With Decision Transformer And Large Language Models
 authors: Gunal Aylin, Lin Baihan, Bouneffouf Djallel
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Open-domain Conversational Search Assistant With Transformers"
+title: Open-domain Conversational Search Assistant With Transformers
 authors: Ferreira Rafael, Leite Mariana, Semedo David, Magalhaes Joao
 conference: "Arxiv"
 year: 2021

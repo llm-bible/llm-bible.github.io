@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving Alignment Of Dialogue Agents Via Targeted Human Judgements"
+title: Improving Alignment Of Dialogue Agents Via Targeted Human Judgements
 authors: Amelia Glaese, Nat Mcaleese, Maja Trębacz, John Aslanides, Vlad Firoiu, Timo Ewalds, Maribeth Rauh, Laura Weidinger, Martin Chadwick, Phoebe Thacker, Lucy Campbell-gillingham, Jonathan Uesato, Po-sen Huang, Ramona Comanescu, Fan Yang, Abigail See, Sumanth Dathathri, Rory Greig, Charlie Chen, Doug Fritz, Jaume Sanchez Elias, Richard Green, Soňa Mokrá, Nicholas Fernando, Boxi Wu, Rachel Foley, Susannah Young, Iason Gabriel, William Isaac, John Mellor, Demis Hassabis, Koray Kavukcuoglu, Lisa Anne Hendricks, Geoffrey Irving
 conference: "Arxiv"
 year: 2022

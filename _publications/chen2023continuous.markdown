@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "CLEX: Continuous Length Extrapolation For Large Language Models"
+title: CLEX: Continuous Length Extrapolation For Large Language Models
 authors: Chen Guanzheng, Li Xin, Meng Zaiqiao, Liang Shangsong, Bing Lidong
 conference: "Arxiv"
 year: 2023

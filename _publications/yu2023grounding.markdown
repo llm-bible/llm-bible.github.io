@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Grounding Language Models To Images For Multimodal Inputs And Outputs"
+title: Grounding Language Models To Images For Multimodal Inputs And Outputs
 authors: Jing Yu Koh, Ruslan Salakhutdinov, Daniel Fried
 conference: "Arxiv"
 year: 2023

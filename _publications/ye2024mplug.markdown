@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mplug-owl3: Towards Long Image-sequence Understanding In Multi-modal Large Language Models"
+title: Mplug-owl3: Towards Long Image-sequence Understanding In Multi-modal Large Language Models
 authors: Ye Jiabo, Xu Haiyang, Liu Haowei, Hu Anwen, Yan Ming, Qian Qi, Zhang Ji, Huang Fei, Zhou Jingren
 conference: "Arxiv"
 year: 2024

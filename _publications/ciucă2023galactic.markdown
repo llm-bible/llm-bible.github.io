@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Galactic Chitchat: Using Large Language Models To Converse With Astronomy Literature"
+title: Galactic Chitchat: Using Large Language Models To Converse With Astronomy Literature
 authors: Ciucă Ioana, Ting Yuan-sen
 conference: "Arxiv"
 year: 2023

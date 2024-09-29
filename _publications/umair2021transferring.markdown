@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Transferring Semantic Knowledge Into Language Encoders"
+title: Transferring Semantic Knowledge Into Language Encoders
 authors: Umair Mohammad, Ferraro Francis
 conference: "Arxiv"
 year: 2021

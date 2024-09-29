@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tooleyes: Fine-grained Evaluation For Tool Learning Capabilities Of Large Language Models In Real-world Scenarios"
+title: Tooleyes: Fine-grained Evaluation For Tool Learning Capabilities Of Large Language Models In Real-world Scenarios
 authors: Ye Junjie, Li Guanyu, Gao Songyang, Huang Caishuang, Wu Yilong, Li Sixian, Fan Xiaoran, Dou Shihan, Zhang Qi, Gui Tao, Huang Xuanjing
 conference: "Arxiv"
 year: 2024

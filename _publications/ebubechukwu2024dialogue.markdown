@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dialogue You Can Trust: Human And AI Perspectives On Generated Conversations"
+title: Dialogue You Can Trust: Human And AI Perspectives On Generated Conversations
 authors: Ebubechukwu Ike, Takeuchi Johane, Ceravola Antonello, Joublin Frank
 conference: "Arxiv"
 year: 2024

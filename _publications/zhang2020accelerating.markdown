@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Accelerating Training Of Transformer-based Language Models With Progressive Layer Dropping"
+title: Accelerating Training Of Transformer-based Language Models With Progressive Layer Dropping
 authors: Zhang Minjia, He Yuxiong
 conference: "Arxiv"
 year: 2020

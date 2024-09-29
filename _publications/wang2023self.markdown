@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Self-prompted Chain-of-thought On Large Language Models For Open-domain Multi-hop Reasoning"
+title: Self-prompted Chain-of-thought On Large Language Models For Open-domain Multi-hop Reasoning
 authors: Wang Jinyuan, Li Junlong, Zhao Hai
 conference: "Arxiv"
 year: 2023

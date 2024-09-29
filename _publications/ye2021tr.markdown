@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "TR-BERT: Dynamic Token Reduction For Accelerating BERT Inference"
+title: TR-BERT: Dynamic Token Reduction For Accelerating BERT Inference
 authors: Ye Deming, Lin Yankai, Huang Yufei, Sun Maosong
 conference: "Arxiv"
 year: 2021

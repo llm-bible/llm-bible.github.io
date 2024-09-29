@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "How Does AI Chat Change Search Behaviors?"
+title: How Does AI Chat Change Search Behaviors?
 authors: Capra Robert, Arguello Jaime
 conference: "Arxiv"
 year: 2023

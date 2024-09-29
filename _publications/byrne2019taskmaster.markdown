@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Taskmaster-1: Toward A Realistic And Diverse Dialog Dataset"
+title: Taskmaster-1: Toward A Realistic And Diverse Dialog Dataset
 authors: Byrne Bill, Krishnamoorthi Karthik, Sankar Chinnadhurai, Neelakantan Arvind, Duckworth Daniel, Yavuz Semih, Goodrich Ben, Dubey Amit, Cedilnik Andy, Kim Kyu-young
 conference: "Arxiv"
 year: 2019

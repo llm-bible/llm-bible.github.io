@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Prefix Propagation: Parameter-efficient Tuning For Long Sequences"
+title: Prefix Propagation: Parameter-efficient Tuning For Long Sequences
 authors: Li Jonathan, Aitken Will, Bhambhoria Rohan, Zhu Xiaodan
 conference: "Arxiv"
 year: 2023

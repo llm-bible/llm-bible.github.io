@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "What Drives Performance In Multilingual Language Models?"
+title: What Drives Performance In Multilingual Language Models?
 authors: Nezhad Sina Bagheri, Agrawal Ameeta
 conference: "Arxiv"
 year: 2024

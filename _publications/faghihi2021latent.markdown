@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Latent Alignment Of Procedural Concepts In Multimodal Recipes"
+title: Latent Alignment Of Procedural Concepts In Multimodal Recipes
 authors: Faghihi Hossein Rajaby, Mirzaee Roshanak, Paliwal Sudarshan, Kordjamshidi Parisa
 conference: "Proceedings of the First Workshop on Advances in Language and Vision Research"
 year: 2021

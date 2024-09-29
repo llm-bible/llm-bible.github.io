@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Scaling Laws For Forgetting When Fine-tuning Large Language Models"
+title: Scaling Laws For Forgetting When Fine-tuning Large Language Models
 authors: Kalajdzievski Damjan
 conference: "Arxiv"
 year: 2024

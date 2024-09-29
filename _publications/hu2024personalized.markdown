@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "FOKE: A Personalized And Explainable Education Framework Integrating Foundation Models, Knowledge Graphs, And Prompt Engineering"
+title: FOKE: A Personalized And Explainable Education Framework Integrating Foundation Models, Knowledge Graphs, And Prompt Engineering
 authors: Hu Silan, Wang Xiaoning
 conference: "Arxiv"
 year: 2024

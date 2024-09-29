@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "What Affects The Stability Of Tool Learning? An Empirical Study On The Robustness Of Tool Learning Frameworks"
+title: What Affects The Stability Of Tool Learning? An Empirical Study On The Robustness Of Tool Learning Frameworks
 authors: Huang Chengrui, Shi Zhengliang, Wen Yuntao, Chen Xiuying, Han Peng, Gao Shen, Shang Shuo
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "From Words To Actions: Unveiling The Theoretical Underpinnings Of Llm-driven Autonomous Systems"
+title: From Words To Actions: Unveiling The Theoretical Underpinnings Of Llm-driven Autonomous Systems
 authors: He Jianliang, Chen Siyu, Zhang Fengzhuo, Yang Zhuoran
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Parameter-efficient Tuning Large Language Models For Graph Representation Learning"
+title: Parameter-efficient Tuning Large Language Models For Graph Representation Learning
 authors: Zhu Qi, Zheng Da, Song Xiang, Zhang Shichang, Jin Bowen, Sun Yizhou, Karypis George
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Assessing The Potential Of Mid-sized Language Models For Clinical QA"
+title: Assessing The Potential Of Mid-sized Language Models For Clinical QA
 authors: Bolton Elliot, Xiong Betty, Muralidharan Vijaytha, Schamroth Joel, Muralidharan Vivek, Manning Christopher D., Daneshjou Roxana
 conference: "Arxiv"
 year: 2024

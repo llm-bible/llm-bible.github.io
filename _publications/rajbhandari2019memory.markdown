@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Zero: Memory Optimizations Toward Training Trillion Parameter Models"
+title: Zero: Memory Optimizations Toward Training Trillion Parameter Models
 authors: Samyam Rajbhandari, Jeff Rasley, Olatunji Ruwase, Yuxiong He
 conference: "Arxiv"
 year: 2019

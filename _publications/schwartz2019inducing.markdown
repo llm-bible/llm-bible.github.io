@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Inducing Brain-relevant Bias In Natural Language Processing Models"
+title: Inducing Brain-relevant Bias In Natural Language Processing Models
 authors: Schwartz Dan, Toneva Mariya, Wehbe Leila
 conference: "Arxiv"
 year: 2019

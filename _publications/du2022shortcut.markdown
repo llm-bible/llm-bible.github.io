@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Shortcut Learning Of Large Language Models In Natural Language Understanding"
+title: Shortcut Learning Of Large Language Models In Natural Language Understanding
 authors: Du Mengnan, He Fengxiang, Zou Na, Tao Dacheng, Hu Xia
 conference: "Arxiv"
 year: 2022

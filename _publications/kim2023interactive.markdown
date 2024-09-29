@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evallm: Interactive Evaluation Of Large Language Model Prompts On User-defined Criteria"
+title: Evallm: Interactive Evaluation Of Large Language Model Prompts On User-defined Criteria
 authors: Kim Tae Soo, Lee Yoonjoo, Shin Jamin, Kim Young-ho, Kim Juho
 conference: "Arxiv"
 year: 2023

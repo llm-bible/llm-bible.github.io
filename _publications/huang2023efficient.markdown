@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Lorahub: Efficient Cross-task Generalization Via Dynamic Lora Composition"
+title: Lorahub: Efficient Cross-task Generalization Via Dynamic Lora Composition
 authors: Huang Chengsong, Liu Qian, Lin Bill Yuchen, Pang Tianyu, Du Chao, Lin Min
 conference: "Arxiv"
 year: 2023

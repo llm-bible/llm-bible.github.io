@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Teaching Large Language Models To Self-debug"
+title: Teaching Large Language Models To Self-debug
 authors: Chen Xinyun, Lin Maxwell, Schärli Nathanael, Zhou Denny
 conference: "Arxiv"
 year: 2023

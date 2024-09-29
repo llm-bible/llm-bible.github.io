@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Speculative Decoding With Big Little Decoder"
+title: Speculative Decoding With Big Little Decoder
 authors: Kim Sehoon, Mangalam Karttikeya, Moon Suhong, Malik Jitendra, Mahoney Michael W., Gholami Amir, Keutzer Kurt
 conference: "Arxiv"
 year: 2023

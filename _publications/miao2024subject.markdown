@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Subject-driven Text-to-image Generation Via Preference-based Reinforcement Learning"
+title: Subject-driven Text-to-image Generation Via Preference-based Reinforcement Learning
 authors: Miao Yanting, Loh William, Kothawade Suraj, Poupart Pascal, Rashwan Abdullah, Li Yeqing
 conference: "Arxiv"
 year: 2024

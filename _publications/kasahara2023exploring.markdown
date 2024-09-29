@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring Automatic Evaluation Methods Based On A Decoder-based LLM For Text Generation"
+title: Exploring Automatic Evaluation Methods Based On A Decoder-based LLM For Text Generation
 authors: Kasahara Tomohito, Kawahara Daisuke
 conference: "Arxiv"
 year: 2023

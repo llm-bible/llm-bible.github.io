@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Harnessing The Power Of Llms: Evaluating Human-ai Text Co-creation Through The Lens Of News Headline Generation"
+title: Harnessing The Power Of Llms: Evaluating Human-ai Text Co-creation Through The Lens Of News Headline Generation
 authors: Ding Zijian, Smith-renner Alison, Zhang Wenjuan, Tetreault Joel R., Jaimes Alejandro
 conference: "Arxiv"
 year: 2023

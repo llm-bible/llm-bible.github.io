@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Out-of-context Prompting Boosts Fairness And Robustness In Large Language Model Predictions"
+title: Out-of-context Prompting Boosts Fairness And Robustness In Large Language Model Predictions
 authors: Cotta Leonardo, Maddison Chris J.
 conference: "Arxiv"
 year: 2024

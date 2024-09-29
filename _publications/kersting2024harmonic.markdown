@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Harmonic Llms Are Trustworthy"
+title: Harmonic Llms Are Trustworthy
 authors: Kersting Nicholas S., Rahman Mohammad, Vedala Suchismitha, Wang Yang
 conference: "Arxiv"
 year: 2024

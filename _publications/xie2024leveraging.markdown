@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Leveraging Human Revisions For Improving Text-to-layout Models"
+title: Leveraging Human Revisions For Improving Text-to-layout Models
 authors: Xie Amber, Cheng Chin-yi, Huang Forrest, Li Yang
 conference: "Arxiv"
 year: 2024

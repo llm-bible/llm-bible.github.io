@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "PONE: A Novel Automatic Evaluation Metric For Open-domain Generative Dialogue Systems"
+title: PONE: A Novel Automatic Evaluation Metric For Open-domain Generative Dialogue Systems
 authors: Lan Tian, Mao Xian-ling, Wei Wei, Gao Xiaoyan, Huang Heyan
 conference: "Arxiv"
 year: 2020

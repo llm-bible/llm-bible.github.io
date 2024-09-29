@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dual Instruction Tuning With Large Language Models For Mathematical Reasoning"
+title: Dual Instruction Tuning With Large Language Models For Mathematical Reasoning
 authors: Zhou Yongwei, Zhao Tiejun
 conference: "Arxiv"
 year: 2024

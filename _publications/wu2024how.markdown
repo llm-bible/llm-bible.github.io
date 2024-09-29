@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "How Easily Do Irrelevant Inputs Skew The Responses Of Large Language Models?"
+title: How Easily Do Irrelevant Inputs Skew The Responses Of Large Language Models?
 authors: Wu Siye, Xie Jian, Chen Jiangjie, Zhu Tinghui, Zhang Kai, Xiao Yanghua
 conference: "Arxiv"
 year: 2024

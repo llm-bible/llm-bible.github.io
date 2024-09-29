@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Vault: Augmenting The Vision-and-language Transformer For Sentiment Classification On Social Media"
+title: Vault: Augmenting The Vision-and-language Transformer For Sentiment Classification On Social Media
 authors: Chochlakis Georgios University Of Southern California, Srinivasan Tejas University Of Southern California, Thomason Jesse University Of Southern California, Narayanan Shrikanth University Of Southern California
 conference: "Arxiv"
 year: 2022

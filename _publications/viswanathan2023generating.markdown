@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Prompt2model: Generating Deployable Models From Natural Language Instructions"
+title: Prompt2model: Generating Deployable Models From Natural Language Instructions
 authors: Viswanathan Vijay, Zhao Chenyang, Bertsch Amanda, Wu Tongshuang, Neubig Graham
 conference: "Arxiv"
 year: 2023

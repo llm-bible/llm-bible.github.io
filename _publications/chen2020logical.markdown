@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Logical Natural Language Generation From Open-domain Tables"
+title: Logical Natural Language Generation From Open-domain Tables
 authors: Chen Wenhu, Chen Jianshu, Su Yu, Chen Zhiyu, Wang William Yang
 conference: "Arxiv"
 year: 2020

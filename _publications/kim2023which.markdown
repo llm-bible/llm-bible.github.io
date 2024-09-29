@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Which Is Better? Exploring Prompting Strategy For Llm-based Metrics"
+title: Which Is Better? Exploring Prompting Strategy For Llm-based Metrics
 authors: Kim Joonghoon, Park Saeran, Jeong Kiyoon, Lee Sangmin, Han Seung Hun, Lee Jiyoon, Kang Pilsung
 conference: "Arxiv"
 year: 2023

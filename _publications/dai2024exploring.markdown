@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "MHPP: Exploring The Capabilities And Limitations Of Language Models Beyond Basic Code Generation"
+title: MHPP: Exploring The Capabilities And Limitations Of Language Models Beyond Basic Code Generation
 authors: Dai Jianbo, Lu Jianqiao, Feng Yunlong, Ruan Rongju, Cheng Ming, Tan Haochen, Guo Zhijiang
 conference: "Arxiv"
 year: 2024

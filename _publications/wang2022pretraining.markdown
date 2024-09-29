@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pretraining Without Attention"
+title: Pretraining Without Attention
 authors: Wang Junxiong, Yan Jing Nathan, Gu Albert, Rush Alexander M.
 conference: "Arxiv"
 year: 2022

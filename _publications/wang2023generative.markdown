@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Generative Recommendation: Towards Next-generation Recommender Paradigm"
+title: Generative Recommendation: Towards Next-generation Recommender Paradigm
 authors: Wenjie Wang, Xinyu Lin, Fuli Feng, Xiangnan He, Tat-seng Chua
 conference: "Arxiv"
 year: 2023

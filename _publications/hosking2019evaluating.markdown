@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating Rewards For Question Generation Models"
+title: Evaluating Rewards For Question Generation Models
 authors: Hosking Tom, Riedel Sebastian
 conference: "Proceedings of the"
 year: 2019

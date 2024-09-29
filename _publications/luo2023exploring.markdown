@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring Small Language Models With Prompt-learning Paradigm For Efficient Domain-specific Text Classification"
+title: Exploring Small Language Models With Prompt-learning Paradigm For Efficient Domain-specific Text Classification
 authors: Luo Hengyu, Liu Peng, Esping Stefan
 conference: "Arxiv"
 year: 2023

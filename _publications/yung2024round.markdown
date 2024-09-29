@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Round Trip Translation Defence Against Large Language Model Jailbreaking Attacks"
+title: Round Trip Translation Defence Against Large Language Model Jailbreaking Attacks
 authors: Yung Canaan, Dolatabadi Hadi Mohaghegh, Erfani Sarah, Leckie Christopher
 conference: "Arxiv"
 year: 2024

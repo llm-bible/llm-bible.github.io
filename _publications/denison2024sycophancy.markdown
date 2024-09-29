@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Sycophancy To Subterfuge: Investigating Reward-tampering In Large Language Models"
+title: Sycophancy To Subterfuge: Investigating Reward-tampering In Large Language Models
 authors: Denison Carson, Macdiarmid Monte, Barez Fazl, Duvenaud David, Kravec Shauna, Marks Samuel, Schiefer Nicholas, Soklaski Ryan, Tamkin Alex, Kaplan Jared, Shlegeris Buck, Bowman Samuel R., Perez Ethan, Hubinger Evan
 conference: "Arxiv"
 year: 2024

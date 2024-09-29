@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Covert Malicious Finetuning: Challenges In Safeguarding LLM Adaptation"
+title: Covert Malicious Finetuning: Challenges In Safeguarding LLM Adaptation
 authors: Halawi Danny, Wei Alexander, Wallace Eric, Wang Tony T., Haghtalab Nika, Steinhardt Jacob
 conference: "Arxiv"
 year: 2024

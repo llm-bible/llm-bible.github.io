@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Llatrieval: Llm-verified Retrieval For Verifiable Generation"
+title: Llatrieval: Llm-verified Retrieval For Verifiable Generation
 authors: Li Xiaonan, Zhu Changtai, Li Linyang, Yin Zhangyue, Sun Tianxiang, Qiu Xipeng
 conference: "Arxiv"
 year: 2023

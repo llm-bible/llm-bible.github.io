@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unique Security And Privacy Threats Of Large Language Model: A Comprehensive Survey"
+title: Unique Security And Privacy Threats Of Large Language Model: A Comprehensive Survey
 authors: Wang Shang, Zhu Tianqing, Liu Bo, Ding Ming, Guo Xu, Ye Dayong, Zhou Wanlei, Yu Philip S.
 conference: "Arxiv"
 year: 2024

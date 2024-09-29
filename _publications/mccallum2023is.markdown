@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Is Feedback All You Need? Leveraging Natural Language Feedback In Goal-conditioned Reinforcement Learning"
+title: Is Feedback All You Need? Leveraging Natural Language Feedback In Goal-conditioned Reinforcement Learning
 authors: Mccallum Sabrina, Taylor-davies Max, Albrecht Stefano V., Suglia Alessandro
 conference: "Arxiv"
 year: 2023

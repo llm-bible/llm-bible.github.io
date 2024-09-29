@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating Chatgpt On Nuclear Domain-specific Data"
+title: Evaluating Chatgpt On Nuclear Domain-specific Data
 authors: Anwar Muhammad, De Costa Mischa, Hammad Issam, Lau Daniel
 conference: ""
 year: 2024

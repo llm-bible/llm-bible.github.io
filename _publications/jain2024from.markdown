@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "From RAG To RICHES: Retrieval Interlaced With Sequence Generation"
+title: From RAG To RICHES: Retrieval Interlaced With Sequence Generation
 authors: Jain Palak, Soares Livio Baldini, Kwiatkowski Tom
 conference: "Arxiv"
 year: 2024

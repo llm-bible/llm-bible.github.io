@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Codi-2: In-context, Interleaved, And Interactive Any-to-any Generation"
+title: Codi-2: In-context, Interleaved, And Interactive Any-to-any Generation
 authors: Tang Zineng, Yang Ziyi, Khademi Mahmoud, Liu Yang, Zhu Chenguang, Bansal Mohit
 conference: "Arxiv"
 year: 2023

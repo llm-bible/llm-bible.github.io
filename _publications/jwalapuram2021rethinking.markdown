@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Rethinking Self-supervision Objectives For Generalizable Coherence Modeling"
+title: Rethinking Self-supervision Objectives For Generalizable Coherence Modeling
 authors: Jwalapuram Prathyusha, Joty Shafiq, Lin Xiang
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Clustered Retrieved Augmented Generation (CRAG)"
+title: Clustered Retrieved Augmented Generation (CRAG)
 authors: Akesson Simon, Santos Frances A.
 conference: "Arxiv"
 year: 2024

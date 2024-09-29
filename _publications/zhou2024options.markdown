@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Qog:question And Options Generation Based On Language Model"
+title: Qog:question And Options Generation Based On Language Model
 authors: Zhou Jincheng
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Interpretable NLG For Task-oriented Dialogue Systems With Heterogeneous Rendering Machines"
+title: Interpretable NLG For Task-oriented Dialogue Systems With Heterogeneous Rendering Machines
 authors: Li Yangming, Yao Kaisheng
 conference: "Arxiv"
 year: 2020

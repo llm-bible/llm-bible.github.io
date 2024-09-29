@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Wilke: Wise-layer Knowledge Editor For Lifelong Knowledge Editing"
+title: Wilke: Wise-layer Knowledge Editor For Lifelong Knowledge Editing
 authors: Hu Chenhui, Cao Pengfei, Chen Yubo, Liu Kang, Zhao Jun
 conference: "Arxiv"
 year: 2024

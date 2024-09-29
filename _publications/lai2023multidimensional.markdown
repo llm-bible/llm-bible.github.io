@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multidimensional Evaluation For Text Style Transfer Using Chatgpt"
+title: Multidimensional Evaluation For Text Style Transfer Using Chatgpt
 authors: Lai Huiyuan, Toral Antonio, Nissim Malvina
 conference: "Arxiv"
 year: 2023

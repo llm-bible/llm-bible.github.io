@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pre-training Small Base Lms With Fewer Tokens"
+title: Pre-training Small Base Lms With Fewer Tokens
 authors: Sanyal Sunny, Sanghavi Sujay, Dimakis Alexandros G.
 conference: "Arxiv"
 year: 2024

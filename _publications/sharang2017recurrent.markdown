@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Recurrent And Contextual Models For Visual Question Answering"
+title: Recurrent And Contextual Models For Visual Question Answering
 authors: Sharang Abhijit, Lau Eric
 conference: "Arxiv"
 year: 2017

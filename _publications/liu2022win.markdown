@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Win-win Deal: Towards Sparse And Robust Pre-trained Language Models"
+title: A Win-win Deal: Towards Sparse And Robust Pre-trained Language Models
 authors: Liu Yuanxin, Meng Fandong, Lin Zheng, Li Jiangnan, Fu Peng, Cao Yanan, Wang Weiping, Zhou Jie
 conference: "Arxiv"
 year: 2022

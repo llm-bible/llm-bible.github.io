@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "BERTQA -- Attention On Steroids"
+title: BERTQA -- Attention On Steroids
 authors: Chadha Ankit, Sood Rewa
 conference: "Arxiv"
 year: 2019

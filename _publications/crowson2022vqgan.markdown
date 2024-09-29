@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "VQGAN-CLIP: Open Domain Image Generation And Editing With Natural Language Guidance"
+title: VQGAN-CLIP: Open Domain Image Generation And Editing With Natural Language Guidance
 authors: Crowson Katherine, Biderman Stella, Kornis Daniel, Stander Dashiell, Hallahan Eric, Castricato Louis, Raff Edward
 conference: "Arxiv"
 year: 2022

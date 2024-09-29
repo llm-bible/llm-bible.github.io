@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pive: Prompting With Iterative Verification Improving Graph-based Generative Capability Of Llms"
+title: Pive: Prompting With Iterative Verification Improving Graph-based Generative Capability Of Llms
 authors: Han Jiuzhou, Collier Nigel, Buntine Wray, Shareghi Ehsan
 conference: "Arxiv"
 year: 2023

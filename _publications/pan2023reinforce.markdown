@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Let's Reinforce Step By Step"
+title: Let's Reinforce Step By Step
 authors: Pan Sarah, Lialin Vladislav, Muckatira Sherin, Rumshisky Anna
 conference: "Arxiv"
 year: 2023

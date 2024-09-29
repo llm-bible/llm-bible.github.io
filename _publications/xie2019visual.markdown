@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Visual Entailment: A Novel Task For Fine-grained Image Understanding"
+title: Visual Entailment: A Novel Task For Fine-grained Image Understanding
 authors: Xie Ning, Lai Farley, Doran Derek, Kadav Asim
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Self-amplify: Improving Small Language Models With Self Post Hoc Explanations"
+title: Self-amplify: Improving Small Language Models With Self Post Hoc Explanations
 authors: Bhan Milan, Vittaut Jean-noel, Chesneau Nicolas, Lesot Marie-jeanne
 conference: "Arxiv"
 year: 2024

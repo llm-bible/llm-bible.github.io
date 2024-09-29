@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Just Ask One More Time! Self-agreement Improves Reasoning Of Language Models In (almost) All Scenarios"
+title: Just Ask One More Time! Self-agreement Improves Reasoning Of Language Models In (almost) All Scenarios
 authors: Lin Lei, Fu Jiayi, Liu Pengli, Li Qingyang, Gong Yan, Wan Junchen, Zhang Fuzheng, Wang Zhongyuan, Zhang Di, Gai Kun
 conference: "Arxiv"
 year: 2023

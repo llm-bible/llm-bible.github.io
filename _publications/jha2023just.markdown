@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Just CHOP: Embarrassingly Simple LLM Compression"
+title: Just CHOP: Embarrassingly Simple LLM Compression
 authors: Jha Ananya Harsh, Sherborne Tom, Walsh Evan Pete, Groeneveld Dirk, Strubell Emma, Beltagy Iz
 conference: "Arxiv"
 year: 2023

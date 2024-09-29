@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Gistscore: Learning Better Representations For In-context Example Selection With Gist Bottlenecks"
+title: Gistscore: Learning Better Representations For In-context Example Selection With Gist Bottlenecks
 authors: Gupta Shivanshu, Rosenbaum Clemens, Elenberg Ethan R.
 conference: "Arxiv"
 year: 2023

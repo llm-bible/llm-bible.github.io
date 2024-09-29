@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "AI Revolution On Chat Bot: Evidence From A Randomized Controlled Experiment"
+title: AI Revolution On Chat Bot: Evidence From A Randomized Controlled Experiment
 authors: Peng Sida, Swiatek Wojciech, Gao Allen, Cullivan Paul, Chang Haoge
 conference: "Arxiv"
 year: 2024

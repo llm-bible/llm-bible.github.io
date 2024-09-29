@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unveiling The Potential Of Large Language Models In Generating Semantic And Cross-language Clones"
+title: Unveiling The Potential Of Large Language Models In Generating Semantic And Cross-language Clones
 authors: Roy Palash R., Alam Ajmain I., Al-omari Farouq, Roy Banani, Roy Chanchal K., Schneider Kevin A.
 conference: "Arxiv"
 year: 2023

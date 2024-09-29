@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Video Question Generation Via Cross-modal Self-attention Networks Learning"
+title: Video Question Generation Via Cross-modal Self-attention Networks Learning
 authors: Wang Yu-siang, Su Hung-ting, Chang Chen-hsi, Liu Zhe-yu, Hsu Winston H.
 conference: "Arxiv"
 year: 2019

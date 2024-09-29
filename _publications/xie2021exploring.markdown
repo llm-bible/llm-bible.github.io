@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring Story Generation With Multi-task Objectives In Variational Autoencoders"
+title: Exploring Story Generation With Multi-task Objectives In Variational Autoencoders
 authors: Xie Zhuohan, Cohn Trevor, Lau Jey Han
 conference: "Arxiv"
 year: 2021

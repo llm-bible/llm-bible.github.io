@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cross-layer Attention Sharing For Large Language Models"
+title: Cross-layer Attention Sharing For Large Language Models
 authors: Mu Yongyu, Wu Yuzhang, Fan Yuchun, Wang Chenglong, Li Hengyu, He Qiaozhi, Yang Murun, Xiao Tong, Zhu Jingbo
 conference: "Arxiv"
 year: 2024

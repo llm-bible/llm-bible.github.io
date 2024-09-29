@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring Vulnerabilities And Protections In Large Language Models: A Survey"
+title: Exploring Vulnerabilities And Protections In Large Language Models: A Survey
 authors: Liu Frank Weizhen, Hu Chenhui
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Llms As Narcissistic Evaluators: When Ego Inflates Evaluation Scores"
+title: Llms As Narcissistic Evaluators: When Ego Inflates Evaluation Scores
 authors: Liu Yiqi, Moosavi Nafise Sadat, Lin Chenghua
 conference: "Arxiv"
 year: 2023

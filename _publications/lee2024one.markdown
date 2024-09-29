@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "One Vs. Many: Comprehending Accurate Information From Multiple Erroneous And Inconsistent AI Generations"
+title: One Vs. Many: Comprehending Accurate Information From Multiple Erroneous And Inconsistent AI Generations
 authors: Lee Yoonjoo, Son Kihoon, Kim Tae Soo, Kim Jisu, Chung John Joon Young, Adar Eytan, Kim Juho
 conference: "Arxiv"
 year: 2024

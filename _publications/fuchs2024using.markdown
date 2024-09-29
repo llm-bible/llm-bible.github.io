@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Using Large Language Models For The Interpretation Of Building Regulations"
+title: Using Large Language Models For The Interpretation Of Building Regulations
 authors: Fuchs Stefan, Witbrock Michael, Dimyadi Johannes, Amor Robert
 conference: "Arxiv"
 year: 2024

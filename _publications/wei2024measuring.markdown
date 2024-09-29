@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Measuring And Reducing LLM Hallucination Without Gold-standard Answers"
+title: Measuring And Reducing LLM Hallucination Without Gold-standard Answers
 authors: Wei Jiaheng, Yao Yuanshun, Ton Jean-francois, Guo Hongyi, Estornell Andrew, Liu Yang
 conference: "Arxiv"
 year: 2024

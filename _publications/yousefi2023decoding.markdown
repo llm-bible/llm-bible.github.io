@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Decoding In-context Learning: Neuroscience-inspired Analysis Of Representations In Large Language Models"
+title: Decoding In-context Learning: Neuroscience-inspired Analysis Of Representations In Large Language Models
 authors: Yousefi Safoora, Betthauser Leo, Hasanbeig Hosein, Millière Raphaël, Momennejad Ida
 conference: "Arxiv"
 year: 2023

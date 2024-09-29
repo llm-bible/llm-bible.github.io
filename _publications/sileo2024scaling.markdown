@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Scaling Synthetic Logical Reasoning Datasets With Context-sensitive Declarative Grammars"
+title: Scaling Synthetic Logical Reasoning Datasets With Context-sensitive Declarative Grammars
 authors: Sileo Damien
 conference: "Arxiv"
 year: 2024

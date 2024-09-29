@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "AGILE: A Novel Framework Of LLM Agents"
+title: AGILE: A Novel Framework Of LLM Agents
 authors: Feng Peiyuan, He Yichen, Huang Guanhua, Lin Yuan, Zhang Hanchong, Zhang Yuchen, Li Hang
 conference: "Arxiv"
 year: 2024

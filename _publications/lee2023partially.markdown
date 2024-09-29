@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Partially Randomizing Transformer Weights For Dialogue Response Diversity"
+title: Partially Randomizing Transformer Weights For Dialogue Response Diversity
 authors: Lee Jing Yang, Lee Kong Aik, Gan Woon-seng
 conference: "Arxiv"
 year: 2023

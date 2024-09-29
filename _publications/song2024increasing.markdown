@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Increasing Model Capacity For Free: A Simple Strategy For Parameter Efficient Fine-tuning"
+title: Increasing Model Capacity For Free: A Simple Strategy For Parameter Efficient Fine-tuning
 authors: Song Haobo, Zhao Hao, Majumder Soumajit, Lin Tao
 conference: "Arxiv"
 year: 2024

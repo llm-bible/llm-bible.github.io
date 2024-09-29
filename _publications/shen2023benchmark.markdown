@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Graphextqa: A Benchmark For Evaluating Graph-enhanced Large Language Models"
+title: Graphextqa: A Benchmark For Evaluating Graph-enhanced Large Language Models
 authors: Shen Yuanchun, Liao Ruotong, Han Zhen, Ma Yunpu, Tresp Volker
 conference: "Arxiv"
 year: 2023

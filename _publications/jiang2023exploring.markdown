@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Graphologue: Exploring Large Language Model Responses With Interactive Diagrams"
+title: Graphologue: Exploring Large Language Model Responses With Interactive Diagrams
 authors: Jiang Peiling, Rayan Jude, Dow Steven P., Xia Haijun
 conference: "Arxiv"
 year: 2023

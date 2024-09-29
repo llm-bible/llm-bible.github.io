@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Conditioning Llms With Emotion In Neural Machine Translation"
+title: Conditioning Llms With Emotion In Neural Machine Translation
 authors: Brazier Charles, Rouas Jean-luc
 conference: "Arxiv"
 year: 2024

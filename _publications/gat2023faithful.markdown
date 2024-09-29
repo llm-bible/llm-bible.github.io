@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Faithful Explanations Of Black-box NLP Models Using Llm-generated Counterfactuals"
+title: Faithful Explanations Of Black-box NLP Models Using Llm-generated Counterfactuals
 authors: Gat Yair, Calderon Nitay, Feder Amir, Chapanin Alexander, Sharma Amit, Reichart Roi
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "An Empirical Study Of Generation Order For Machine Translation"
+title: An Empirical Study Of Generation Order For Machine Translation
 authors: Chan William, Stern Mitchell, Kiros Jamie, Uszkoreit Jakob
 conference: "Arxiv"
 year: 2019

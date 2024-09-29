@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Introducing Language Guidance In Prompt-based Continual Learning"
+title: Introducing Language Guidance In Prompt-based Continual Learning
 authors: Khan Muhammad Gul Zain Ali, Naeem Muhammad Ferjad, Van Gool Luc, Stricker Didier, Tombari Federico, Afzal Muhammad Zeshan
 conference: "Arxiv"
 year: 2023

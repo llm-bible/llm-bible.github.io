@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Draw-and-understand: Leveraging Visual Prompts To Enable Mllms To Comprehend What You Want"
+title: Draw-and-understand: Leveraging Visual Prompts To Enable Mllms To Comprehend What You Want
 authors: Lin Weifeng, Wei Xinyu, An Ruichuan, Gao Peng, Zou Bocheng, Luo Yulin, Huang Siyuan, Zhang Shanghang, Li Hongsheng
 conference: "Arxiv"
 year: 2024

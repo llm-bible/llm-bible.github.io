@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Assessing The Efficacy Of Large Language Models In Generating Accurate Teacher Responses"
+title: Assessing The Efficacy Of Large Language Models In Generating Accurate Teacher Responses
 authors: Hicke Yann, Masand Abhishek, Guo Wentao, Gangavarapu Tushaar
 conference: "ACL Innovative Use of NLP for Building Educational Applications Workshop"
 year: 2023

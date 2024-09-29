@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Ai-assisted Code Authoring At Scale: Fine-tuning, Deploying, And Mixed Methods Evaluation"
+title: Ai-assisted Code Authoring At Scale: Fine-tuning, Deploying, And Mixed Methods Evaluation
 authors: Murali Vijayaraghavan, Maddila Chandra, Ahmad Imad, Bolin Michael, Cheng Daniel, Ghorbani Negar, Fernandez Renuka, Nagappan Nachiappan, Rigby Peter C.
 conference: "Arxiv"
 year: 2023

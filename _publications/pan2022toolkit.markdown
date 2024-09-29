@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Extremebert: A Toolkit For Accelerating Pretraining Of Customized BERT"
+title: Extremebert: A Toolkit For Accelerating Pretraining Of Customized BERT
 authors: Pan Rui, Diao Shizhe, Chen Jianlin, Zhang Tong
 conference: "Arxiv"
 year: 2022

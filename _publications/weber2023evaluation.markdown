@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluation Is All You Need. Prompting Generative Large Language Models For Annotation Tasks In The Social Sciences. A Primer Using Open Models"
+title: Evaluation Is All You Need. Prompting Generative Large Language Models For Annotation Tasks In The Social Sciences. A Primer Using Open Models
 authors: Weber Maximilian, Reichardt Merle
 conference: "Arxiv"
 year: 2023

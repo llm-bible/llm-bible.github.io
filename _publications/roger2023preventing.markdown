@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Preventing Language Models From Hiding Their Reasoning"
+title: Preventing Language Models From Hiding Their Reasoning
 authors: Roger Fabien, Greenblatt Ryan
 conference: "Arxiv"
 year: 2023

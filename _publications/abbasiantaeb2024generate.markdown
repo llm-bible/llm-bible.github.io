@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Generate Then Retrieve: Conversational Response Retrieval Using Llms As Answer And Query Generators"
+title: Generate Then Retrieve: Conversational Response Retrieval Using Llms As Answer And Query Generators
 authors: Abbasiantaeb Zahra, Aliannejadi Mohammad
 conference: "Arxiv"
 year: 2024

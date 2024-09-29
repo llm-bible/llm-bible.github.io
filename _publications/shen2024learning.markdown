@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Learning To Decode Collaboratively With Multiple Language Models"
+title: Learning To Decode Collaboratively With Multiple Language Models
 authors: Shen Shannon Zejiang, Lang Hunter, Wang Bailin, Kim Yoon, Sontag David
 conference: "Arxiv"
 year: 2024

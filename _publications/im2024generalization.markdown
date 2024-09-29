@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On The Generalization Of Preference Learning With DPO"
+title: On The Generalization Of Preference Learning With DPO
 authors: Im Shawn, Li Yixuan
 conference: "Arxiv"
 year: 2024

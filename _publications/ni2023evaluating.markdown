@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "L2ceval: Evaluating Language-to-code Generation Capabilities Of Large Language Models"
+title: L2ceval: Evaluating Language-to-code Generation Capabilities Of Large Language Models
 authors: Ni Ansong, Yin Pengcheng, Zhao Yilun, Riddell Martin, Feng Troy, Shen Rui, Yin Stephen, Liu Ye, Yavuz Semih, Xiong Caiming, Joty Shafiq, Zhou Yingbo, Radev Dragomir, Cohan Arman
 conference: "Arxiv"
 year: 2023

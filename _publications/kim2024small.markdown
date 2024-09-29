@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Small Language Models Learn Enhanced Reasoning Skills From Medical Textbooks"
+title: Small Language Models Learn Enhanced Reasoning Skills From Medical Textbooks
 authors: Kim Hyunjae, Hwang Hyeon, Lee Jiwoo, Park Sihyeon, Kim Dain, Lee Taewhoo, Yoon Chanwoong, Sohn Jiwoong, Choi Donghee, Kang Jaewoo
 conference: "Arxiv"
 year: 2024

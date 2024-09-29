@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Impacts Of Anthropomorphizing Large Language Models In Learning Environments"
+title: Impacts Of Anthropomorphizing Large Language Models In Learning Environments
 authors: Schaaff Kristina, Heidelmann Marc-andré
 conference: "Arxiv"
 year: 2024

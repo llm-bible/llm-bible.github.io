@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models For User Interest Journeys"
+title: Large Language Models For User Interest Journeys
 authors: Christakopoulou Konstantina, Lalama Alberto, Adams Cj, Qu Iris, Amir Yifat, Chucri Samer, Vollucci Pierce, Soldo Fabio, Bseiso Dina, Scodel Sarah, Dixon Lucas, Chi Ed H., Chen Minmin
 conference: "Arxiv"
 year: 2023

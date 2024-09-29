@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Intelligence Analysis Of Language Models"
+title: Intelligence Analysis Of Language Models
 authors: Galanti Liane, Baron Ethan
 conference: "Arxiv"
 year: 2024

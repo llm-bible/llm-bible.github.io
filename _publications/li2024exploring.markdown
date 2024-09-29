@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chemvlm: Exploring The Power Of Multimodal Large Language Models In Chemistry Area"
+title: Chemvlm: Exploring The Power Of Multimodal Large Language Models In Chemistry Area
 authors: Li Junxian, Zhang Di, Wang Xunzhi, Hao Zeying, Lei Jingdi, Tan Qian, Zhou Cai, Liu Wei, Yang Yaotian, Xiong Xinrui, Wang Weiyun, Chen Zhe, Wang Wenhai, Li Wei, Zhang Shufei, Su Mao, Ouyang Wanli, Li Yuqiang, Zhou Dongzhan
 conference: "Arxiv"
 year: 2024

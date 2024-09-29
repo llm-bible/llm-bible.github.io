@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Impossible Distillation: From Low-quality Model To High-quality Dataset & Model For Summarization And Paraphrasing"
+title: Impossible Distillation: From Low-quality Model To High-quality Dataset & Model For Summarization And Paraphrasing
 authors: Jung Jaehun, West Peter, Jiang Liwei, Brahman Faeze, Lu Ximing, Fisher Jillian, Sorensen Taylor, Choi Yejin
 conference: "Arxiv"
 year: 2023

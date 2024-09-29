@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Characterizing Attribution And Fluency Tradeoffs For Retrieval-augmented Large Language Models"
+title: Characterizing Attribution And Fluency Tradeoffs For Retrieval-augmented Large Language Models
 authors: Aksitov Renat, Chang Chung-ching, Reitter David, Shakeri Siamak, Sung Yunhsuan
 conference: "Arxiv"
 year: 2023

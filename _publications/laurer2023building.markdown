@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Building Efficient Universal Classifiers With Natural Language Inference"
+title: Building Efficient Universal Classifiers With Natural Language Inference
 authors: Laurer Moritz, Van Atteveldt Wouter, Casas Andreu, Welbers Kasper
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Zero-shot Text-guided Infinite Image Synthesis With LLM Guidance"
+title: Zero-shot Text-guided Infinite Image Synthesis With LLM Guidance
 authors: Kwon Soyeong, Lee Taegyeong, Kim Taehwan
 conference: "Arxiv"
 year: 2024

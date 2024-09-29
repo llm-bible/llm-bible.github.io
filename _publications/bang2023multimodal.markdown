@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Multitask, Multilingual, Multimodal Evaluation Of Chatgpt On Reasoning, Hallucination, And Interactivity"
+title: A Multitask, Multilingual, Multimodal Evaluation Of Chatgpt On Reasoning, Hallucination, And Interactivity
 authors: Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, Quyet V. Do, Yan Xu, Pascale Fung
 conference: "Arxiv"
 year: 2023

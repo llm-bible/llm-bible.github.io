@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cogview: Mastering Text-to-image Generation Via Transformers"
+title: Cogview: Mastering Text-to-image Generation Via Transformers
 authors: Ding Ming, Yang Zhuoyi, Hong Wenyi, Zheng Wendi, Zhou Chang, Yin Da, Lin Junyang, Zou Xu, Shao Zhou, Yang Hongxia, Tang Jie
 conference: "Arxiv"
 year: 2021

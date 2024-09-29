@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Performance Trade-offs Of Watermarking Large Language Models"
+title: Performance Trade-offs Of Watermarking Large Language Models
 authors: Ajith Anirudh, Singh Sameer, Pruthi Danish
 conference: "Arxiv"
 year: 2023

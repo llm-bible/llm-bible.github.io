@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "TIM: Teaching Large Language Models To Translate With Comparison"
+title: TIM: Teaching Large Language Models To Translate With Comparison
 authors: Zeng Jiali, Meng Fandong, Yin Yongjing, Zhou Jie
 conference: "Arxiv"
 year: 2023

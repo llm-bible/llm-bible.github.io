@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "What To Do If Language Models Disagree? Black-box Model Ensembling For Textual And Visual Question Answering"
+title: What To Do If Language Models Disagree? Black-box Model Ensembling For Textual And Visual Question Answering
 authors: Xia Yuxi, Zaporojets Kilm, Roth Benjamin
 conference: "Arxiv"
 year: 2024

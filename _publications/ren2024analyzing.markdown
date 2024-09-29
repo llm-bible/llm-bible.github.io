@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Analyzing And Reducing Catastrophic Forgetting In Parameter Efficient Tuning"
+title: Analyzing And Reducing Catastrophic Forgetting In Parameter Efficient Tuning
 authors: Ren Weijieying, Li Xinlong, Wang Lei, Zhao Tianxiang, Qin Wei
 conference: "Arxiv"
 year: 2024

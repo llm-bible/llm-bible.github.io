@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pre-training Multi-modal Dense Retrievers For Outside-knowledge Visual Question Answering"
+title: Pre-training Multi-modal Dense Retrievers For Outside-knowledge Visual Question Answering
 authors: Salemi Alireza, Rafiee Mahta, Zamani Hamed
 conference: "Arxiv"
 year: 2023

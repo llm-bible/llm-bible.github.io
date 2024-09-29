@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Benchmarking Llama2, Mistral, Gemma And GPT For Factuality, Toxicity, Bias And Propensity For Hallucinations"
+title: Benchmarking Llama2, Mistral, Gemma And GPT For Factuality, Toxicity, Bias And Propensity For Hallucinations
 authors: Nadeau David, Kroutikov Mike, Mcneil Karen, Baribeau Simon
 conference: "Arxiv"
 year: 2024

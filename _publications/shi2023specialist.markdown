@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Specialist Or Generalist? Instruction Tuning For Specific NLP Tasks"
+title: Specialist Or Generalist? Instruction Tuning For Specific NLP Tasks
 authors: Shi Chufan, Su Yixuan, Yang Cheng, Yang Yujiu, Cai Deng
 conference: "Arxiv"
 year: 2023

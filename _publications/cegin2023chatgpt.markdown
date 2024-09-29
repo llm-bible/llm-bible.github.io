@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chatgpt To Replace Crowdsourcing Of Paraphrases For Intent Classification: Higher Diversity And Comparable Model Robustness"
+title: Chatgpt To Replace Crowdsourcing Of Paraphrases For Intent Classification: Higher Diversity And Comparable Model Robustness
 authors: Cegin Jan, Simko Jakub, Brusilovsky Peter
 conference: "Arxiv"
 year: 2023

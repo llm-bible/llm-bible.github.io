@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Global Memory Transformer For Processing Long Documents"
+title: Global Memory Transformer For Processing Long Documents
 authors: Adel Arij Al
 conference: "Arxiv"
 year: 2022

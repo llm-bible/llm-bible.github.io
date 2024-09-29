@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Controllable Generation Of Dialogue Acts For Dialogue Systems Via Few-shot Response Generation And Ranking"
+title: Controllable Generation Of Dialogue Acts For Dialogue Systems Via Few-shot Response Generation And Ranking
 authors: Ramirez Angela, Agarwal Karik, Juraska Juraj, Garg Utkarsh, Walker Marilyn A.
 conference: "Arxiv"
 year: 2023

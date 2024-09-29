@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Efficient Language Modeling With Sparse All-mlp"
+title: Efficient Language Modeling With Sparse All-mlp
 authors: Yu Ping, Artetxe Mikel, Ott Myle, Shleifer Sam, Gong Hongyu, Stoyanov Ves, Li Xian
 conference: "Arxiv"
 year: 2022

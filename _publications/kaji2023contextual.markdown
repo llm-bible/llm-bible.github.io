@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Contextual Code Switching For Machine Translation Using Language Models"
+title: Contextual Code Switching For Machine Translation Using Language Models
 authors: Kaji Arshad, Shah Manan
 conference: "Arxiv"
 year: 2023

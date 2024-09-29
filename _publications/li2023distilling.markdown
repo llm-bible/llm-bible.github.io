@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Distilling Chatgpt For Explainable Automated Student Answer Assessment"
+title: Distilling Chatgpt For Explainable Automated Student Answer Assessment
 authors: Li Jiazheng, Gui Lin, Zhou Yuxiang, West David, Aloisi Cesare, He Yulan
 conference: "Arxiv"
 year: 2023

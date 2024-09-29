@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Just Ask For Calibration: Strategies For Eliciting Calibrated Confidence Scores From Language Models Fine-tuned With Human Feedback"
+title: Just Ask For Calibration: Strategies For Eliciting Calibrated Confidence Scores From Language Models Fine-tuned With Human Feedback
 authors: Tian Katherine, Mitchell Eric, Zhou Allan, Sharma Archit, Rafailov Rafael, Yao Huaxiu, Finn Chelsea, Manning Christopher D.
 conference: "Arxiv"
 year: 2023

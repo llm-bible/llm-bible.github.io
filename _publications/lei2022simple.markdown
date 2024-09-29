@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Simple Recurrence Improves Masked Language Models"
+title: Simple Recurrence Improves Masked Language Models
 authors: Lei Tao, Tian Ran, Bastings Jasmijn, Parikh Ankur P.
 conference: "Arxiv"
 year: 2022

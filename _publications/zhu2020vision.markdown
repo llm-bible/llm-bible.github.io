@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Vision-dialog Navigation By Exploring Cross-modal Memory"
+title: Vision-dialog Navigation By Exploring Cross-modal Memory
 authors: Zhu Yi, Zhu Fengda, Zhan Zhaohuan, Lin Bingqian, Jiao Jianbin, Chang Xiaojun, Liang Xiaodan
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "ASSISTGUI: Task-oriented Desktop Graphical User Interface Automation"
+title: ASSISTGUI: Task-oriented Desktop Graphical User Interface Automation
 authors: Gao Difei, Ji Lei, Bai Zechen, Ouyang Mingyu, Li Peiran, Mao Dongxing, Wu Qinchen, Zhang Weichen, Wang Peiyi, Guo Xiangwu, Wang Hengxu, Zhou Luowei, Shou Mike Zheng
 conference: "Arxiv"
 year: 2023

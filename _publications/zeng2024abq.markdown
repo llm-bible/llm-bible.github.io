@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "ABQ-LLM: Arbitrary-bit Quantized Inference Acceleration For Large Language Models"
+title: ABQ-LLM: Arbitrary-bit Quantized Inference Acceleration For Large Language Models
 authors: Zeng Chao, Liu Songwei, Xie Yusheng, Liu Hong, Wang Xiaojian, Wei Miao, Yang Shu, Chen Fangmin, Mei Xing
 conference: "Arxiv"
 year: 2024

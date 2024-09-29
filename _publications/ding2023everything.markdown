@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Everything Of Thoughts: Defying The Law Of Penrose Triangle For Thought Generation"
+title: Everything Of Thoughts: Defying The Law Of Penrose Triangle For Thought Generation
 authors: Ding Ruomeng, Zhang Chaoyun, Wang Lu, Xu Yong, Ma Minghua, Zhang Wei, Qin Si, Rajmohan Saravan, Lin Qingwei, Zhang Dongmei
 conference: "Arxiv"
 year: 2023

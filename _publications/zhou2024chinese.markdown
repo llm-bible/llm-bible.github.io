@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Lawgpt: A Chinese Legal Knowledge-enhanced Large Language Model"
+title: Lawgpt: A Chinese Legal Knowledge-enhanced Large Language Model
 authors: Zhou Zhi, Shi Jiang-xin, Song Peng-xiao, Yang Xiao-wen, Jin Yi-xuan, Guo Lan-zhe, Li Yu-feng
 conference: "Arxiv"
 year: 2024

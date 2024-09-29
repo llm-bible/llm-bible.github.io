@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The GPT Surprise: Offering Large Language Model Chat In A Massive Coding Class Reduced Engagement But Increased Adopters Exam Performances"
+title: The GPT Surprise: Offering Large Language Model Chat In A Massive Coding Class Reduced Engagement But Increased Adopters Exam Performances
 authors: Nie Allen, Chandak Yash, Suzara Miroslav, Ali Malika, Woodrow Juliette, Peng Matt, Sahami Mehran, Brunskill Emma, Piech Chris
 conference: "Arxiv"
 year: 2024

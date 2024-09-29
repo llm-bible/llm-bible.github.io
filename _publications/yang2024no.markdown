@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "No Token Left Behind: Reliable KV Cache Compression Via Importance-aware Mixed Precision Quantization"
+title: No Token Left Behind: Reliable KV Cache Compression Via Importance-aware Mixed Precision Quantization
 authors: Yang June Yong, Kim Byeongwook, Bae Jeongin, Kwon Beomseok, Park Gunho, Yang Eunho, Kwon Se Jung, Lee Dongsoo
 conference: "Arxiv"
 year: 2024

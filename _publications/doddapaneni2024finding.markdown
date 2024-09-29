@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Finding Blind Spots In Evaluator Llms With Interpretable Checklists"
+title: Finding Blind Spots In Evaluator Llms With Interpretable Checklists
 authors: Doddapaneni Sumanth, Khan Mohammed Safi Ur Rahman, Verma Sshubam, Khapra Mitesh M.
 conference: "Arxiv"
 year: 2024

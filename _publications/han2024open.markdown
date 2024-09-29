@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Wildguard: Open One-stop Moderation Tools For Safety Risks, Jailbreaks, And Refusals Of Llms"
+title: Wildguard: Open One-stop Moderation Tools For Safety Risks, Jailbreaks, And Refusals Of Llms
 authors: Han Seungju, Rao Kavel, Ettinger Allyson, Jiang Liwei, Lin Bill Yuchen, Lambert Nathan, Choi Yejin, Dziri Nouha
 conference: "Arxiv"
 year: 2024

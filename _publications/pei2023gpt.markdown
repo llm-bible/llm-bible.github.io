@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "GPT Self-supervision For A Better Data Annotator"
+title: GPT Self-supervision For A Better Data Annotator
 authors: Pei Xiaohuan, Li Yanxi, Xu Chang
 conference: "Arxiv"
 year: 2023

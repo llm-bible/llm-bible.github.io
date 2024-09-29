@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pangu-$α$: Large-scale Autoregressive Pretrained Chinese Language Models With Auto-parallel Computation"
+title: Pangu-$α$: Large-scale Autoregressive Pretrained Chinese Language Models With Auto-parallel Computation
 authors: Wei Zeng, Xiaozhe Ren, Teng Su, Hui Wang, Yi Liao, Zhiwei Wang, Xin Jiang, Zhenzhang Yang, Kaisheng Wang, Xiaoda Zhang, Chen Li, Ziyan Gong, Yifan Yao, Xinjing Huang, Jun Wang, Jianfeng Yu, Qi Guo, Yue Yu, Yan Zhang, Jin Wang, Hengtao Tao, Dasen Yan, Zexuan Yi, Fang Peng, Fangqing Jiang, Han Zhang, Lingfeng Deng, Yehong Zhang, Zhe Lin, Chao Zhang, Shaojie Zhang, Mingyue Guo, Shanzhi Gu, Gaojun Fan, Yaowei Wang, Xuefeng Jin, Qun Liu, Yonghong Tian
 conference: "Arxiv"
 year: 2021

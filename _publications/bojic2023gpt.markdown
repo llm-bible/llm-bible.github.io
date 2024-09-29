@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "GPT-4 Surpassing Human Performance In Linguistic Pragmatics"
+title: GPT-4 Surpassing Human Performance In Linguistic Pragmatics
 authors: Bojic Ljubisa, Kovacevic Predrag, Cabarkapa Milan
 conference: "Arxiv"
 year: 2023

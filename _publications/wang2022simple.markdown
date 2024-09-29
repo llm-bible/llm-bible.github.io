@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Lilt: A Simple Yet Effective Language-independent Layout Transformer For Structured Document Understanding"
+title: Lilt: A Simple Yet Effective Language-independent Layout Transformer For Structured Document Understanding
 authors: Wang Jiapeng, Jin Lianwen, Ding Kai
 conference: "Arxiv"
 year: 2022

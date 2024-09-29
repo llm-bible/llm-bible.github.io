@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Augmenting Sequential Recommendation With Pseudo-prior Items Via Reversely Pre-training Transformer"
+title: Augmenting Sequential Recommendation With Pseudo-prior Items Via Reversely Pre-training Transformer
 authors: Liu Zhiwei, Fan Ziwei, Wang Yu, Yu Philip S.
 conference: "Arxiv"
 year: 2021

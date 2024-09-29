@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tandem Transformers For Inference Efficient Llms"
+title: Tandem Transformers For Inference Efficient Llms
 authors: S Aishwarya P, Nair Pranav Ajit, Samaga Yashas, Boyd Toby, Kumar Sanjiv, Jain Prateek, Netrapalli Praneeth
 conference: "Arxiv"
 year: 2024

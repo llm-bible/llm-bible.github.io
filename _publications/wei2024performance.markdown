@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Performance Evaluation Of Lightweight Open-source Large Language Models In Pediatric Consultations: A Comparative Analysis"
+title: Performance Evaluation Of Lightweight Open-source Large Language Models In Pediatric Consultations: A Comparative Analysis
 authors: Wei Qiuhong, Cui Ying, Ding Mengwei, Wang Yanqin, Xiang Lingling, Yao Zhengxiong, Chen Ceran, Long Ying, Jin Zhezhen, Xu Ximing
 conference: "Arxiv"
 year: 2024

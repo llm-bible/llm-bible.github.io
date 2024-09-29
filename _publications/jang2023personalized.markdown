@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Personalized Soups: Personalized Large Language Model Alignment Via Post-hoc Parameter Merging"
+title: Personalized Soups: Personalized Large Language Model Alignment Via Post-hoc Parameter Merging
 authors: Jang Joel, Kim Seungone, Lin Bill Yuchen, Wang Yizhong, Hessel Jack, Zettlemoyer Luke, Hajishirzi Hannaneh, Choi Yejin, Ammanabrolu Prithviraj
 conference: "Arxiv"
 year: 2023

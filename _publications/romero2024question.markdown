@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Question-instructed Visual Descriptions For Zero-shot Video Question Answering"
+title: Question-instructed Visual Descriptions For Zero-shot Video Question Answering
 authors: Romero David, Solorio Thamar
 conference: "Arxiv"
 year: 2024

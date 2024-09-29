@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "How Does Pretraining Improve Discourse-aware Translation?"
+title: How Does Pretraining Improve Discourse-aware Translation?
 authors: Huang Zhihong, Wang Longyue, Liu Siyou, Wong Derek F.
 conference: "Arxiv"
 year: 2023

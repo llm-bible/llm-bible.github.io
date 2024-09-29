@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Llm-powered Hierarchical Language Agent For Real-time Human-ai Coordination"
+title: Llm-powered Hierarchical Language Agent For Real-time Human-ai Coordination
 authors: Liu Jijia, Yu Chao, Gao Jiaxuan, Xie Yuqing, Liao Qingmin, Wu Yi, Wang Yu
 conference: "Arxiv"
 year: 2023

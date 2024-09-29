@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Helm: Highlighted Evidence Augmented Language Model For Enhanced Table-to-text Generation"
+title: Helm: Highlighted Evidence Augmented Language Model For Enhanced Table-to-text Generation
 authors: Bian Junyi, Qin Xiaolei, Zou Wuhe, Huang Mengzuo, Luo Congyi, Zhang Ke, Zhang Weidong
 conference: "Arxiv"
 year: 2023

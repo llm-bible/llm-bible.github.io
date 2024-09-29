@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Layer-wise Regularized Dropout For Neural Language Models"
+title: Layer-wise Regularized Dropout For Neural Language Models
 authors: Ni Shiwen, Yang Min, Xu Ruifeng, Li Chengming, Hu Xiping
 conference: "LREC-COLING"
 year: 2024

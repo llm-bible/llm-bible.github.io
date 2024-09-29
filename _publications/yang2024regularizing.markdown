@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Regularizing Hidden States Enables Learning Generalizable Reward Model For Llms"
+title: Regularizing Hidden States Enables Learning Generalizable Reward Model For Llms
 authors: Yang Rui, Ding Ruomeng, Lin Yong, Zhang Huan, Zhang Tong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Learning From Students: Applying T-distributions To Explore Accurate And Efficient Formats For Llms"
+title: Learning From Students: Applying T-distributions To Explore Accurate And Efficient Formats For Llms
 authors: Dotzel Jordan, Chen Yuzong, Kotb Bahaa, Prasad Sushma, Wu Gang, Li Sheng, Abdelfattah Mohamed S., Zhang Zhiru
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Attention Satisfies: A Constraint-satisfaction Lens On Factual Errors Of Language Models"
+title: Attention Satisfies: A Constraint-satisfaction Lens On Factual Errors Of Language Models
 authors: Yuksekgonul Mert, Chandrasekaran Varun, Jones Erik, Gunasekar Suriya, Naik Ranjita, Palangi Hamid, Kamar Ece, Nushi Besmira
 conference: "Arxiv"
 year: 2023

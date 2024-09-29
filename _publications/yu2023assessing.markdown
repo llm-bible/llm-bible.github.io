@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Assessing Prompt Injection Risks In 200+ Custom Gpts"
+title: Assessing Prompt Injection Risks In 200+ Custom Gpts
 authors: Yu Jiahao, Wu Yuhang, Shu Dong, Jin Mingyu, Yang Sabrina, Xing Xinyu
 conference: "Arxiv"
 year: 2023

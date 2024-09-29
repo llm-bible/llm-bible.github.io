@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Parallel Scheduled Sampling"
+title: Parallel Scheduled Sampling
 authors: Duckworth Daniel, Neelakantan Arvind, Goodrich Ben, Kaiser Lukasz, Bengio Samy
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Syntax-guided Localized Self-attention By Constituency Syntactic Distance"
+title: Syntax-guided Localized Self-attention By Constituency Syntactic Distance
 authors: Hou Shengyuan, Kai Jushi, Xue Haotian, Zhu Bingyu, Yuan Bo, Huang Longtao, Wang Xinbing, Lin Zhouhan
 conference: "Arxiv"
 year: 2022

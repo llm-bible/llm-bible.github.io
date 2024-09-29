@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "PEARL: Personalizing Large Language Model Writing Assistants With Generation-calibrated Retrievers"
+title: PEARL: Personalizing Large Language Model Writing Assistants With Generation-calibrated Retrievers
 authors: Mysore Sheshera, Lu Zhuoran, Wan Mengting, Yang Longqi, Menezes Steve, Baghaee Tina, Gonzalez Emmanuel Barajas, Neville Jennifer, Safavi Tara
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Building Trust In Mental Health Chatbots: Safety Metrics And Llm-based Evaluation Tools"
+title: Building Trust In Mental Health Chatbots: Safety Metrics And Llm-based Evaluation Tools
 authors: Park Jung In, Abbasian Mahyar, Azimi Iman, Bounds Dawn, Jun Angela, Han Jaesu, Mccarron Robert, Borelli Jessica, Li Jia, Mahmoudi Mona, Wiedenhoeft Carmen, Rahmani Amir
 conference: "Arxiv"
 year: 2024

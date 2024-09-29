@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Do Multi-hop Readers Dream Of Reasoning Chains?"
+title: Do Multi-hop Readers Dream Of Reasoning Chains?
 authors: Wang Haoyu, Yu Mo, Guo Xiaoxiao, Das Rajarshi, Xiong Wenhan, Gao Tian
 conference: "Arxiv"
 year: 2019

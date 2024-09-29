@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "QAID: Question Answering Inspired Few-shot Intent Detection"
+title: QAID: Question Answering Inspired Few-shot Intent Detection
 authors: Yehudai Asaf, Vetzler Matan, Mass Yosi, Lazar Koren, Cohen Doron, Carmeli Boaz
 conference: "Arxiv"
 year: 2023

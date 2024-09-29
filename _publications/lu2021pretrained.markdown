@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pretrained Transformers As Universal Computation Engines"
+title: Pretrained Transformers As Universal Computation Engines
 authors: Lu Kevin, Grover Aditya, Abbeel Pieter, Mordatch Igor
 conference: "Arxiv"
 year: 2021

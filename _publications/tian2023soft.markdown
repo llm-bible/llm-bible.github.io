@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Soft-prompt Tuning For Large Language Models To Evaluate Bias"
+title: Soft-prompt Tuning For Large Language Models To Evaluate Bias
 authors: Tian Jacob-junqi, Emerson David, Miyandoab Sevil Zanjani, Pandya Deval, Seyyed-kalantari Laleh, Khattak Faiza Khan
 conference: "Arxiv"
 year: 2023

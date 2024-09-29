@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "M3GIA: A Cognition Inspired Multilingual And Multimodal General Intelligence Ability Benchmark"
+title: M3GIA: A Cognition Inspired Multilingual And Multimodal General Intelligence Ability Benchmark
 authors: Song Wei, Li Yadong, Xu Jianhua, Wu Guowei, Ming Lingfeng, Yi Kexin, Luo Weihua, Li Houyi, Du Yi, Guo Fangda, Yu Kaicheng
 conference: "Arxiv"
 year: 2024

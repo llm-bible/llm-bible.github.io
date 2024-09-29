@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Element-aware Summarization With Large Language Models: Expert-aligned Evaluation And Chain-of-thought Method"
+title: Element-aware Summarization With Large Language Models: Expert-aligned Evaluation And Chain-of-thought Method
 authors: Yiming Wang, Zhuosheng Zhang, Rui Wang
 conference: "Arxiv"
 year: 2023

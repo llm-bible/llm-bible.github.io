@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unleashing Potential Of Evidence In Knowledge-intensive Dialogue Generation"
+title: Unleashing Potential Of Evidence In Knowledge-intensive Dialogue Generation
 authors: Wu Xianjie, Yang Jian, Li Tongliang, Liang Di, Zhang Shiwei, Du Yiyang, Li Zhoujun
 conference: "Arxiv"
 year: 2023

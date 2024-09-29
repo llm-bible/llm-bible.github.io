@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Probing Causes Of Hallucinations In Neural Machine Translations"
+title: Probing Causes Of Hallucinations In Neural Machine Translations
 authors: Yan Jianhao, Meng Fandong, Zhou Jie
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Measuring And Benchmarking Large Language Models' Capabilities To Generate Persuasive Language"
+title: Measuring And Benchmarking Large Language Models' Capabilities To Generate Persuasive Language
 authors: Pauli Amalie Brogaard, Augenstein Isabelle, Assent Ira
 conference: "Arxiv"
 year: 2024

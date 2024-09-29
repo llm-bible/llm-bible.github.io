@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Model Programs"
+title: Large Language Model Programs
 authors: Schlag Imanol, Sukhbaatar Sainbayar, Celikyilmaz Asli, Yih Wen-tau, Weston Jason, Schmidhuber Jürgen, Li Xian
 conference: "Arxiv"
 year: 2023

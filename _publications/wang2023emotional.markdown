@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Emotional Intelligence Of Large Language Models"
+title: Emotional Intelligence Of Large Language Models
 authors: Wang Xuena, Li Xueting, Yin Zi, Wu Yue, Jia Liu
 conference: "Arxiv"
 year: 2023

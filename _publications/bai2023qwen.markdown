@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Qwen Technical Report"
+title: Qwen Technical Report
 authors: Bai Jinze, Bai Shuai, Chu Yunfei, Cui Zeyu, Dang Kai, Deng Xiaodong, Fan Yang, Ge Wenbin, Han Yu, Huang Fei, Hui Binyuan, Ji Luo, Li Mei, Lin Junyang, Lin Runji, Liu Dayiheng, Liu Gao, Lu Chengqiang, Lu Keming, Ma Jianxin, Men Rui, Ren Xingzhang, Ren Xuancheng, Tan Chuanqi, Tan Sinan, Tu Jianhong, Wang Peng, Wang Shijie, Wang Wei, Wu Shengguang, Xu Benfeng, Xu Jin, Yang An, Yang Hao, Yang Jian, Yang Shusheng, Yao Yang, Yu Bowen, Yuan Hongyi, Yuan Zheng, Zhang Jianwei, Zhang Xingxuan, Zhang Yichang, Zhang Zhenru, Zhou Chang, Zhou Jingren, Zhou Xiaohuan, Zhu Tianhang
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Residual Energy-based Models For Text"
+title: Residual Energy-based Models For Text
 authors: Bakhtin Anton, Deng Yuntian, Gross Sam, Ott Myle, Ranzato Marc'aurelio, Szlam Arthur
 conference: "Journal of Machine Learning Research"
 year: 2020

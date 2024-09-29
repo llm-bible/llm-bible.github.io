@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Investigating How Large Language Models Leverage Internal Knowledge To Perform Complex Reasoning"
+title: Investigating How Large Language Models Leverage Internal Knowledge To Perform Complex Reasoning
 authors: Ko Miyoung, Park Sue Hyun, Park Joonsuk, Seo Minjoon
 conference: "Arxiv"
 year: 2024

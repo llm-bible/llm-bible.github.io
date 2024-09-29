@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "MSG-BART: Multi-granularity Scene Graph-enhanced Encoder-decoder Language Model For Video-grounded Dialogue Generation"
+title: MSG-BART: Multi-granularity Scene Graph-enhanced Encoder-decoder Language Model For Video-grounded Dialogue Generation
 authors: Liu Hongcheng, Chen Zhe, Li Hui, Wang Pingjie, Wang Yanfeng, Wang Yu
 conference: "Arxiv"
 year: 2023

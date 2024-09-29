@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Instruction Mining: Instruction Data Selection For Tuning Large Language Models"
+title: Instruction Mining: Instruction Data Selection For Tuning Large Language Models
 authors: Cao Yihan, Kang Yanbin, Wang Chi, Sun Lichao
 conference: "Arxiv"
 year: 2023

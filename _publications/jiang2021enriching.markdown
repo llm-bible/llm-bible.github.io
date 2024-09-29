@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Enriching Transformers With Structured Tensor-product Representations For Abstractive Summarization"
+title: Enriching Transformers With Structured Tensor-product Representations For Abstractive Summarization
 authors: Jiang Yichen, Celikyilmaz Asli, Smolensky Paul, Soulos Paul, Rao Sudha, Palangi Hamid, Fernandez Roland, Smith Caitlin, Bansal Mohit, Gao Jianfeng
 conference: "Arxiv"
 year: 2021

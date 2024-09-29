@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "What Language Model Architecture And Pretraining Objective Work Best For Zero-shot Generalization?"
+title: What Language Model Architecture And Pretraining Objective Work Best For Zero-shot Generalization?
 authors: Wang Thomas, Roberts Adam, Hesslow Daniel, Scao Teven Le, Chung Hyung Won, Beltagy Iz, Launay Julien, Raffel Colin
 conference: "Arxiv"
 year: 2022

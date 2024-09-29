@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "MALM: Mixing Augmented Language Modeling For Zero-shot Machine Translation"
+title: MALM: Mixing Augmented Language Modeling For Zero-shot Machine Translation
 authors: Gupta Kshitij
 conference: "Arxiv"
 year: 2022

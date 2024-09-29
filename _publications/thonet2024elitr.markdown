@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Elitr-bench: A Meeting Assistant Benchmark For Long-context Language Models"
+title: Elitr-bench: A Meeting Assistant Benchmark For Long-context Language Models
 authors: Thonet Thibaut, Rozen Jos, Besacier Laurent
 conference: "Arxiv"
 year: 2024

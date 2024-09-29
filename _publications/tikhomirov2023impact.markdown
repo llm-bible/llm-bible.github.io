@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Impact Of Tokenization On Llama Russian Adaptation"
+title: Impact Of Tokenization On Llama Russian Adaptation
 authors: Tikhomirov Mikhail, Chernyshev Daniil
 conference: "Arxiv"
 year: 2023

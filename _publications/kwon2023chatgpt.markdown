@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chatgpt For Arabic Grammatical Error Correction"
+title: Chatgpt For Arabic Grammatical Error Correction
 authors: Kwon Sang Yun, Bhatia Gagan, Nagoud El Moatez Billah, Abdul-mageed Muhammad
 conference: "Arxiv"
 year: 2023

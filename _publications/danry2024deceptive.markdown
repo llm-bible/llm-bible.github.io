@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Deceptive AI Systems That Give Explanations Are More Convincing Than Honest AI Systems And Can Amplify Belief In Misinformation"
+title: Deceptive AI Systems That Give Explanations Are More Convincing Than Honest AI Systems And Can Amplify Belief In Misinformation
 authors: Danry Valdemar, Pataranutaporn Pat, Groh Matthew, Epstein Ziv, Maes Pattie
 conference: "Arxiv"
 year: 2024

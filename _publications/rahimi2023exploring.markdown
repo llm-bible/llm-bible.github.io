@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring The Effectiveness Of GPT Models In Test-taking: A Case Study Of The Driver's License Knowledge Test"
+title: Exploring The Effectiveness Of GPT Models In Test-taking: A Case Study Of The Driver's License Knowledge Test
 authors: Rahimi Saba, Balch Tucker, Veloso Manuela
 conference: "Arxiv"
 year: 2023

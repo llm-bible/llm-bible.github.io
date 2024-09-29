@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "DARG: Dynamic Evaluation Of Large Language Models Via Adaptive Reasoning Graph"
+title: DARG: Dynamic Evaluation Of Large Language Models Via Adaptive Reasoning Graph
 authors: Zhang Zhehao, Chen Jiaao, Yang Diyi
 conference: "Arxiv"
 year: 2024

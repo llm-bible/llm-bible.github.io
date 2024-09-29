@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Taskweaver: A Code-first Agent Framework"
+title: Taskweaver: A Code-first Agent Framework
 authors: Qiao Bo, Li Liqun, Zhang Xu, He Shilin, Kang Yu, Zhang Chaoyun, Yang Fangkai, Dong Hang, Zhang Jue, Wang Lu, Ma Minghua, Zhao Pu, Qin Si, Qin Xiaoting, Du Chao, Xu Yong, Lin Qingwei, Rajmohan Saravan, Zhang Dongmei
 conference: "Arxiv"
 year: 2023

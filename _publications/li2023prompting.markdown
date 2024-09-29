@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Prompting Large Language Models For Counterfactual Generation: An Empirical Study"
+title: Prompting Large Language Models For Counterfactual Generation: An Empirical Study
 authors: Li Yongqi, Xu Mayi, Miao Xin, Zhou Shen, Qian Tieyun
 conference: "Arxiv"
 year: 2023

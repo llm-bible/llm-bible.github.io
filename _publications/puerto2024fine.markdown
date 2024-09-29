@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fine-tuning With Divergent Chains Of Thought Boosts Reasoning Through Self-correction In Language Models"
+title: Fine-tuning With Divergent Chains Of Thought Boosts Reasoning Through Self-correction In Language Models
 authors: Puerto Haritz, Chubakov Tilek, Zhu Xiaodan, Madabushi Harish Tayyar, Gurevych Iryna
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Interactive Dualchecker For Mitigating Hallucinations In Distilling Large Language Models"
+title: Interactive Dualchecker For Mitigating Hallucinations In Distilling Large Language Models
 authors: Wang Meiyun, Suzuki Masahiro, Sakaji Hiroki, Izumi Kiyoshi
 conference: "Arxiv"
 year: 2024

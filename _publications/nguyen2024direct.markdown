@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Direct Evaluation Of Chain-of-thought In Multi-hop Reasoning With Knowledge Graphs"
+title: Direct Evaluation Of Chain-of-thought In Multi-hop Reasoning With Knowledge Graphs
 authors: Nguyen Minh-vuong, Luo Linhao, Shiri Fatemeh, Phung Dinh, Li Yuan-fang, Vu Thuy-trang, Haffari Gholamreza
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Grammaticality Representation In Chatgpt As Compared To Linguists And Laypeople"
+title: Grammaticality Representation In Chatgpt As Compared To Linguists And Laypeople
 authors: Qiu Zhuang, Duan Xufeng, Cai Zhenguang G.
 conference: "Arxiv"
 year: 2024

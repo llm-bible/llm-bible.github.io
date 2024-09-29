@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cultural Commonsense Knowledge For Intercultural Dialogues"
+title: Cultural Commonsense Knowledge For Intercultural Dialogues
 authors: Nguyen Tuan-phong, Razniewski Simon, Weikum Gerhard
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Transferring Backdoors Between Large Language Models By Knowledge Distillation"
+title: Transferring Backdoors Between Large Language Models By Knowledge Distillation
 authors: Cheng Pengzhou, Wu Zongru, Ju Tianjie, Du Wei, Liu Zhuosheng Zhang Gongshen
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Robust Preference Learning For Storytelling Via Contrastive Reinforcement Learning"
+title: Robust Preference Learning For Storytelling Via Contrastive Reinforcement Learning
 authors: Castricato Louis, Havrilla Alexander, Matiana Shahbuland, Pieler Michael, Ye Anbang, Yang Ian, Frazier Spencer, Riedl Mark
 conference: "Arxiv"
 year: 2022

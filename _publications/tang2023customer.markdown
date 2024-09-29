@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "RSVP: Customer Intent Detection Via Agent Response Contrastive And Generative Pre-training"
+title: RSVP: Customer Intent Detection Via Agent Response Contrastive And Generative Pre-training
 authors: Tang Yu-chien, Wang Wei-yao, Yen An-zi, Peng Wen-chih
 conference: "Arxiv"
 year: 2023

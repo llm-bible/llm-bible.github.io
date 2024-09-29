@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "How Johnny Can Persuade Llms To Jailbreak Them: Rethinking Persuasion To Challenge AI Safety By Humanizing Llms"
+title: How Johnny Can Persuade Llms To Jailbreak Them: Rethinking Persuasion To Challenge AI Safety By Humanizing Llms
 authors: Zeng Yi, Lin Hongpeng, Zhang Jingwen, Yang Diyi, Jia Ruoxi, Shi Weiyan
 conference: "Arxiv"
 year: 2024

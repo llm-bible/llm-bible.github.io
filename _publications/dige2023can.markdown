@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Instruction Fine-tuned Language Models Identify Social Bias Through Prompting?"
+title: Can Instruction Fine-tuned Language Models Identify Social Bias Through Prompting?
 authors: Dige Omkar, Tian Jacob-junqi, Emerson David, Khattak Faiza Khan
 conference: "Arxiv"
 year: 2023

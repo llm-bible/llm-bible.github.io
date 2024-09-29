@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Language Models With Image Descriptors Are Strong Few-shot Video-language Learners"
+title: Language Models With Image Descriptors Are Strong Few-shot Video-language Learners
 authors: Wang Zhenhailong, Li Manling, Xu Ruochen, Zhou Luowei, Lei Jie, Lin Xudong, Wang Shuohang, Yang Ziyi, Zhu Chenguang, Hoiem Derek, Chang Shih-fu, Bansal Mohit, Ji Heng
 conference: "Arxiv"
 year: 2022

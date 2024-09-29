@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can We Trust The Evaluation On Chatgpt?"
+title: Can We Trust The Evaluation On Chatgpt?
 authors: Aiyappa Rachith, An Jisun, Kwak Haewoon, Ahn Yong-yeol
 conference: "Proceedings of the"
 year: 2023

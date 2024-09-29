@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Comprehensive Evaluation Of Neural SPARQL Query Generation From Natural Language Questions"
+title: A Comprehensive Evaluation Of Neural SPARQL Query Generation From Natural Language Questions
 authors: Diallo Papa Abdou Karim Karou, Reyd Samuel, Zouaq Amal
 conference: "Arxiv"
 year: 2023

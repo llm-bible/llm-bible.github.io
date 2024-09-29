@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Inner Sentiments Of A Thought"
+title: The Inner Sentiments Of A Thought
 authors: Gagne Chris, Dayan Peter
 conference: "Arxiv"
 year: 2023

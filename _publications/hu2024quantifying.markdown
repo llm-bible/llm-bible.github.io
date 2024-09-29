@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Quantifying The Persona Effect In LLM Simulations"
+title: Quantifying The Persona Effect In LLM Simulations
 authors: Hu Tiancheng, Collier Nigel
 conference: "Arxiv"
 year: 2024

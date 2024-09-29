@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "LLM Blueprint: Enabling Text-to-image Generation With Complex And Detailed Prompts"
+title: LLM Blueprint: Enabling Text-to-image Generation With Complex And Detailed Prompts
 authors: Gani Hanan, Bhat Shariq Farooq, Naseer Muzammal, Khan Salman, Wonka Peter
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Expedited Training Of Visual Conditioned Language Generation Via Redundancy Reduction"
+title: Expedited Training Of Visual Conditioned Language Generation Via Redundancy Reduction
 authors: Jian Yiren, Liu Tingkai, Tao Yunzhe, Zhang Chunhui, Vosoughi Soroush, Yang Hongxia
 conference: "Arxiv"
 year: 2023

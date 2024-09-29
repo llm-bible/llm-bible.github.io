@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Safety And Helpfulness Balanced Responses Via Controllable Large Language Models"
+title: Towards Safety And Helpfulness Balanced Responses Via Controllable Large Language Models
 authors: Tuan Yi-lin, Chen Xilun, Smith Eric Michael, Martin Louis, Batra Soumya, Celikyilmaz Asli, Wang William Yang, Bikel Daniel M.
 conference: "Arxiv"
 year: 2024

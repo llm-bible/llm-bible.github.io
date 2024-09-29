@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Are Large Language Models Superhuman Chemists?"
+title: Are Large Language Models Superhuman Chemists?
 authors: Mirza Adrian, Alampara Nawaf, Kunchapu Sreekanth, Emoekabu Benedict, Krishnan Aswanth, Wilhelmi Mara, Okereke Macjonathan, Eberhardt Juliane, Elahi Amir Mohammad, Greiner Maximilian, Holick Caroline T., Gupta Tanya, Asgari Mehrdad, Glaubitz Christina, Klepsch Lea C., Köster Yannik, Meyer Jakob, Miret Santiago, Hoffmann Tim, Kreth Fabian Alexander, Ringleb Michael, Roesner Nicole, Schubert Ulrich S., Stafast Leanne M., Wonanke Dinga, Pieler Michael, Schwaller Philippe, Jablonka Kevin Maik
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Hallucination Is The Last Thing You Need"
+title: Hallucination Is The Last Thing You Need
 authors: Curran Shawn, Lansley Sam, Bethell Oliver
 conference: "Arxiv"
 year: 2023

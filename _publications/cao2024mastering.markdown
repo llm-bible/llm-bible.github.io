@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tonggu: Mastering Classical Chinese Understanding With Knowledge-grounded Large Language Models"
+title: Tonggu: Mastering Classical Chinese Understanding With Knowledge-grounded Large Language Models
 authors: Cao Jiahuan, Peng Dezhi, Zhang Peirong, Shi Yongxin, Liu Yang, Ding Kai, Jin Lianwen
 conference: "Arxiv"
 year: 2024

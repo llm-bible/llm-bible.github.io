@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Misusing Tools In Large Language Models With Visual Adversarial Examples"
+title: Misusing Tools In Large Language Models With Visual Adversarial Examples
 authors: Fu Xiaohan, Wang Zihan, Li Shuheng, Gupta Rajesh K., Mireshghallah Niloofar, Berg-kirkpatrick Taylor, Fernandes Earlence
 conference: "Arxiv"
 year: 2023

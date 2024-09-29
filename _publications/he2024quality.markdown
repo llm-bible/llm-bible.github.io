@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Quality Of Answers Of Generative Large Language Models Vs Peer Patients For Interpreting Lab Test Results For Lay Patients: Evaluation Study"
+title: Quality Of Answers Of Generative Large Language Models Vs Peer Patients For Interpreting Lab Test Results For Lay Patients: Evaluation Study
 authors: He Zhe, Bhasuran Balu, Jin Qiao, Tian Shubo, Hanna Karim, Shavor Cindy, Arguello Lisbeth Garcia, Murray Patrick, Lu Zhiyong
 conference: "Arxiv"
 year: 2024

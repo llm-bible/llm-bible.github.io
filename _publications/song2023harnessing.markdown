@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pneumollm: Harnessing The Power Of Large Language Model For Pneumoconiosis Diagnosis"
+title: Pneumollm: Harnessing The Power Of Large Language Model For Pneumoconiosis Diagnosis
 authors: Song Meiyue, Yu Zhihua, Wang Jiaxin, Wang Jiarui, Lu Yuting, Li Baicun, Wang Xiaoxu, Huang Qinghua, Li Zhijun, Kanellakis Nikolaos I., Liu Jiangfeng, Wang Jing, Wang Binglu, Yang Juntao
 conference: "Arxiv"
 year: 2023

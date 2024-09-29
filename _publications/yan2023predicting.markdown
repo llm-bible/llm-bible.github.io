@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Predicting Text Preference Via Structured Comparative Reasoning"
+title: Predicting Text Preference Via Structured Comparative Reasoning
 authors: Yan Jing Nathan, Liu Tianqi, Chiu Justin T, Shen Jiaming, Qin Zhen, Yu Yue, Zhao Yao, Lakshmanan Charu, Kurzion Yair, Rush Alexander M., Liu Jialu, Bendersky Michael
 conference: "Arxiv"
 year: 2023

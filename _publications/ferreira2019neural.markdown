@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Neural Data-to-text Generation: A Comparison Between Pipeline And End-to-end Architectures"
+title: Neural Data-to-text Generation: A Comparison Between Pipeline And End-to-end Architectures
 authors: Ferreira Thiago Castro, Van Der Lee Chris, Van Miltenburg Emiel, Krahmer Emiel
 conference: "Arxiv"
 year: 2019

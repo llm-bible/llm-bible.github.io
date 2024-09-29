@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models As Evolution Strategies"
+title: Large Language Models As Evolution Strategies
 authors: Lange Robert Tjarko, Tian Yingtao, Tang Yujin
 conference: "Arxiv"
 year: 2024

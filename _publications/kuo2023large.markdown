@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models On The Chessboard: A Study On Chatgpt's Formal Language Comprehension And Complex Reasoning Skills"
+title: Large Language Models On The Chessboard: A Study On Chatgpt's Formal Language Comprehension And Complex Reasoning Skills
 authors: Kuo Mu-tien, Hsueh Chih-chung, Tsai Richard Tzong-han
 conference: "Arxiv"
 year: 2023

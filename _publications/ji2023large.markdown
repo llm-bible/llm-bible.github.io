@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models As Automated Aligners For Benchmarking Vision-language Models"
+title: Large Language Models As Automated Aligners For Benchmarking Vision-language Models
 authors: Ji Yuanfeng, Ge Chongjian, Kong Weikai, Xie Enze, Liu Zhengying, Li Zhengguo, Luo Ping
 conference: "Arxiv"
 year: 2023

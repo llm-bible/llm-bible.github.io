@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "What Would Elsa Do? Freezing Layers During Transformer Fine-tuning"
+title: What Would Elsa Do? Freezing Layers During Transformer Fine-tuning
 authors: Lee Jaejun, Tang Raphael, Lin Jimmy
 conference: "Arxiv"
 year: 2019

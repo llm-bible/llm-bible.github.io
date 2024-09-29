@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring Straightforward Conversational Red-teaming"
+title: Exploring Straightforward Conversational Red-teaming
 authors: Kour George, Zwerdling Naama, Zalmanovici Marcel, Anaby-tavor Ateret, Fandina Ora Nova, Farchi Eitan
 conference: "Arxiv"
 year: 2024

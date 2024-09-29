@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Understanding And Mitigating Language Confusion In Llms"
+title: Understanding And Mitigating Language Confusion In Llms
 authors: Marchisio Kelly, Ko Wei-yin, Bérard Alexandre, Dehaze Théo, Ruder Sebastian
 conference: "Arxiv"
 year: 2024

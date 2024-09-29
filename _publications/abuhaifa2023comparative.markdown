@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Comparative Analysis Of Chatgpt, GPT-4, And Microsoft Bing Chatbots For GRE Test"
+title: Comparative Analysis Of Chatgpt, GPT-4, And Microsoft Bing Chatbots For GRE Test
 authors: Abu-haifa Mohammad, Etawi Bara'a, Alkhatatbeh Huthaifa, Ababneh Ayman
 conference: "Arxiv"
 year: 2023

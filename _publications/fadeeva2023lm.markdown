@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Lm-polygraph: Uncertainty Estimation For Language Models"
+title: Lm-polygraph: Uncertainty Estimation For Language Models
 authors: Fadeeva Ekaterina, Vashurin Roman, Tsvigun Akim, Vazhentsev Artem, Petrakov Sergey, Fedyanin Kirill, Vasilev Daniil, Goncharova Elizaveta, Panchenko Alexander, Panov Maxim, Baldwin Timothy, Shelmanov Artem
 conference: "Arxiv"
 year: 2023

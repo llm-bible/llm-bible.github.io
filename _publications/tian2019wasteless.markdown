@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Waldorf: Wasteless Language-model Distillation On Reading-comprehension"
+title: Waldorf: Wasteless Language-model Distillation On Reading-comprehension
 authors: Tian James Yi, Kreuzer Alexander P., Chen Pai-hung, Will Hans-martin
 conference: "Arxiv"
 year: 2019

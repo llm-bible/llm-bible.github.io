@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Generation, Distillation And Evaluation Of Motivational Interviewing-style Reflections With A Foundational Language Model"
+title: Generation, Distillation And Evaluation Of Motivational Interviewing-style Reflections With A Foundational Language Model
 authors: Brown Andrew, Zhu Jiading, Abdelwahab Mohamed, Dong Alec, Wang Cindy, Rose Jonathan
 conference: "Arxiv"
 year: 2024

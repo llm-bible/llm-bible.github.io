@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Scaling Synthetic Data Creation With 1,000,000,000 Personas"
+title: Scaling Synthetic Data Creation With 1,000,000,000 Personas
 authors: Chan Xin, Wang Xiaoyang, Yu Dian, Mi Haitao, Yu Dong
 conference: "Arxiv"
 year: 2024

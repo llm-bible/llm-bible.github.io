@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Using Natural Language Explanations To Rescale Human Judgments"
+title: Using Natural Language Explanations To Rescale Human Judgments
 authors: Wadhwa Manya, Chen Jifan, Li Junyi Jessy, Durrett Greg
 conference: "Arxiv"
 year: 2023

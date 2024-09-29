@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "TAB-VCR: Tags And Attributes Based Visual Commonsense Reasoning Baselines"
+title: TAB-VCR: Tags And Attributes Based Visual Commonsense Reasoning Baselines
 authors: Lin Jingxiang, Jain Unnat, Schwing Alexander G.
 conference: "Arxiv"
 year: 2019

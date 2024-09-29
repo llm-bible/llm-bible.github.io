@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "RTLLM: An Open-source Benchmark For Design RTL Generation With Large Language Model"
+title: RTLLM: An Open-source Benchmark For Design RTL Generation With Large Language Model
 authors: Lu Yao, Liu Shang, Zhang Qijun, Xie Zhiyao
 conference: "Asia and South Pacific Design Automation Conference"
 year: 2023

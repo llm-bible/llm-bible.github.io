@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Better Zero-shot Reasoning With Role-play Prompting"
+title: Better Zero-shot Reasoning With Role-play Prompting
 authors: Kong Aobo, Zhao Shiwan, Chen Hao, Li Qicheng, Qin Yong, Sun Ruiqi, Zhou Xin, Wang Enzhi, Dong Xiaohang
 conference: "Arxiv"
 year: 2023

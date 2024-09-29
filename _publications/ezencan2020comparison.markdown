@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Comparison Of LSTM And BERT For Small Corpus"
+title: A Comparison Of LSTM And BERT For Small Corpus
 authors: Ezen-can Aysu
 conference: "Arxiv"
 year: 2020

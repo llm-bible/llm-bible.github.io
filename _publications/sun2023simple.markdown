@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Simple And Effective Pruning Approach For Large Language Models"
+title: A Simple And Effective Pruning Approach For Large Language Models
 authors: Sun Mingjie, Liu Zhuang, Bair Anna, Kolter J. Zico
 conference: "Arxiv"
 year: 2023

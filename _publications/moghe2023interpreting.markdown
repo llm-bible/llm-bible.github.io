@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Interpreting User Requests In The Context Of Natural Language Standing Instructions"
+title: Interpreting User Requests In The Context Of Natural Language Standing Instructions
 authors: Moghe Nikita, Xia Patrick, Andreas Jacob, Eisner Jason, Van Durme Benjamin, Jhamtani Harsh
 conference: "Arxiv"
 year: 2023

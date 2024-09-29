@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Machine Unlearning Of Pre-trained Large Language Models"
+title: Machine Unlearning Of Pre-trained Large Language Models
 authors: Yao Jin, Chien Eli, Du Minxin, Niu Xinyao, Wang Tianhao, Cheng Zezhou, Yue Xiang
 conference: "Arxiv"
 year: 2024

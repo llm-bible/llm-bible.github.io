@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Joint Embeddings For Graph Instruction Tuning"
+title: Joint Embeddings For Graph Instruction Tuning
 authors: Haag Aaron, Argatu Vlad, Lohse Oliver
 conference: "Arxiv"
 year: 2024

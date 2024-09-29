@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Structured Pruning Of A Bert-based Question Answering Model"
+title: Structured Pruning Of A Bert-based Question Answering Model
 authors: Mccarley J. S., Chakravarti Rishav, Sil Avirup
 conference: "Arxiv"
 year: 2019

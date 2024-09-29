@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "X-instruction: Aligning Language Model In Low-resource Languages With Self-curated Cross-lingual Instructions"
+title: X-instruction: Aligning Language Model In Low-resource Languages With Self-curated Cross-lingual Instructions
 authors: Li Chong, Yang Wen, Zhang Jiajun, Lu Jinliang, Wang Shaonan, Zong Chengqing
 conference: "Arxiv"
 year: 2024

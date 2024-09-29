@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mvbench: A Comprehensive Multi-modal Video Understanding Benchmark"
+title: Mvbench: A Comprehensive Multi-modal Video Understanding Benchmark
 authors: Li Kunchang, Wang Yali, He Yinan, Li Yizhuo, Wang Yi, Liu Yi, Wang Zun, Xu Jilan, Chen Guo, Luo Ping, Wang Limin, Qiao Yu
 conference: "Arxiv"
 year: 2023

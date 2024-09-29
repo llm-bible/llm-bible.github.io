@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Imputing Out-of-vocabulary Embeddings With LOVE Makes Language Models Robust With Little Cost"
+title: Imputing Out-of-vocabulary Embeddings With LOVE Makes Language Models Robust With Little Cost
 authors: Chen Lihu, Varoquaux Gaël, Suchanek Fabian M.
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mitigating Exaggerated Safety In Large Language Models"
+title: Mitigating Exaggerated Safety In Large Language Models
 authors: Ray Ruchira, Bhalani Ruchi
 conference: "Arxiv"
 year: 2024

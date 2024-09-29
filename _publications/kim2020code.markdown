@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Code Prediction By Feeding Trees To Transformers"
+title: Code Prediction By Feeding Trees To Transformers
 authors: Kim Seohyun, Zhao Jinman, Tian Yuchi, Chandra Satish
 conference: "Arxiv"
 year: 2020

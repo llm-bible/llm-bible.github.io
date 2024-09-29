@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Emovit: Revolutionizing Emotion Insights With Visual Instruction Tuning"
+title: Emovit: Revolutionizing Emotion Insights With Visual Instruction Tuning
 authors: Xie Hongxia, Peng Chu-jun, Tseng Yu-wen, Chen Hung-jen, Hsu Chan-feng, Shuai Hong-han, Cheng Wen-huang
 conference: "Arxiv"
 year: 2024

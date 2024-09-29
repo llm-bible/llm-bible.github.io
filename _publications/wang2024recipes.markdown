@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tarsier: Recipes For Training And Evaluating Large Video Description Models"
+title: Tarsier: Recipes For Training And Evaluating Large Video Description Models
 authors: Wang Jiawei, Yuan Liping, Zhang Yuchen
 conference: "Arxiv"
 year: 2024

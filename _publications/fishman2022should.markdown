@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Should Attention Be All We Need? The Epistemic And Ethical Implications Of Unification In Machine Learning"
+title: Should Attention Be All We Need? The Epistemic And Ethical Implications Of Unification In Machine Learning
 authors: Fishman Nic, Hancox-li Leif
 conference: "Arxiv"
 year: 2022

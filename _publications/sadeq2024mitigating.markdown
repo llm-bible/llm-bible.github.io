@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mitigating Hallucination In Fictional Character Role-play"
+title: Mitigating Hallucination In Fictional Character Role-play
 authors: Sadeq Nafis, Xie Zhouhang, Kang Byungkyu, Lamba Prarit, Gao Xiang, Mcauley Julian
 conference: "Arxiv"
 year: 2024

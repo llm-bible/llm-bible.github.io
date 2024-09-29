@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Utilizing Bidirectional Encoder Representations From Transformers For Answer Selection"
+title: Utilizing Bidirectional Encoder Representations From Transformers For Answer Selection
 authors: Laskar Md Tahmid Rahman, Hoque Enamul, Huang Jimmy Xiangji
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Blending Is All You Need: Cheaper, Better Alternative To Trillion-parameters LLM"
+title: Blending Is All You Need: Cheaper, Better Alternative To Trillion-parameters LLM
 authors: Lu Xiaoding, Liu Zongyi, Liusie Adian, Raina Vyas, Mudupalli Vineet, Zhang Yuwen, Beauchamp William
 conference: "Arxiv"
 year: 2024

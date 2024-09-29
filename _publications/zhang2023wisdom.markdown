@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Wisdom Of Hindsight Makes Language Models Better Instruction Followers"
+title: The Wisdom Of Hindsight Makes Language Models Better Instruction Followers
 authors: Zhang Tianjun, Liu Fangchen, Wong Justin, Abbeel Pieter, Gonzalez Joseph E.
 conference: "Arxiv"
 year: 2023

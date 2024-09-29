@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "HGT: Leveraging Heterogeneous Graph-enhanced Large Language Models For Few-shot Complex Table Understanding"
+title: HGT: Leveraging Heterogeneous Graph-enhanced Large Language Models For Few-shot Complex Table Understanding
 authors: Jin Rihui, Li Yu, Qi Guilin, Hu Nan, Li Yuan-fang, Chen Jiaoyan, Wang Jianan, Chen Yongrui, Min Dehai
 conference: "Arxiv"
 year: 2024

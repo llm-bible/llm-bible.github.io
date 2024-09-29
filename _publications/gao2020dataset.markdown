@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Pile: An 800GB Dataset Of Diverse Text For Language Modeling"
+title: The Pile: An 800GB Dataset Of Diverse Text For Language Modeling
 authors: Gao Leo, Biderman Stella, Black Sid, Golding Laurence, Hoppe Travis, Foster Charles, Phang Jason, He Horace, Thite Anish, Nabeshima Noa, Presser Shawn, Leahy Connor
 conference: "Arxiv"
 year: 2020

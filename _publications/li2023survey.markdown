@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Survey On Fairness In Large Language Models"
+title: A Survey On Fairness In Large Language Models
 authors: Li Yingji, Du Mengnan, Song Rui, Wang Xin, Wang Ying
 conference: "Arxiv"
 year: 2023

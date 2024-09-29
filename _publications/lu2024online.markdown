@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Online Merging Optimizers For Boosting Rewards And Mitigating Tax In Alignment"
+title: Online Merging Optimizers For Boosting Rewards And Mitigating Tax In Alignment
 authors: Lu Keming, Yu Bowen, Huang Fei, Fan Yang, Lin Runji, Zhou Chang
 conference: "Arxiv"
 year: 2024

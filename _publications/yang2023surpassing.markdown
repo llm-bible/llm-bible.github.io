@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Surpassing GPT-4 Medical Coding With A Two-stage Approach"
+title: Surpassing GPT-4 Medical Coding With A Two-stage Approach
 authors: Yang Zhichao, Batra Sanjit Singh, Stremmel Joel, Halperin Eran
 conference: "Arxiv"
 year: 2023

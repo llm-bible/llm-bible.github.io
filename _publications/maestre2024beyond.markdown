@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Beyond Generative Artificial Intelligence: Roadmap For Natural Language Generation"
+title: Beyond Generative Artificial Intelligence: Roadmap For Natural Language Generation
 authors: Maestre María Miró, Martínez-murillo Iván, Martin Tania J., Navarro-colorado Borja, Ferrández Antonio, Cueto Armando Suárez, Lloret Elena
 conference: "Arxiv"
 year: 2024

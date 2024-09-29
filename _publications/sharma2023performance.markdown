@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Performance Of Chatgpt On USMLE: Unlocking The Potential Of Large Language Models For Ai-assisted Medical Education"
+title: Performance Of Chatgpt On USMLE: Unlocking The Potential Of Large Language Models For Ai-assisted Medical Education
 authors: Sharma Prabin, Thapa Kisan, Thapa Dikshya, Dhakal Prastab, Upadhaya Mala Deep, Adhikari Santosh, Khanal Salik Ram
 conference: "Arxiv"
 year: 2023

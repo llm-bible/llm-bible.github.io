@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Entity-conditioned Question Generation For Robust Attention Distribution In Neural Information Retrieval"
+title: Entity-conditioned Question Generation For Robust Attention Distribution In Neural Information Retrieval
 authors: Reddy Revanth Gangi, Sultan Md Arafat, Franz Martin, Sil Avirup, Ji Heng
 conference: "Arxiv"
 year: 2022

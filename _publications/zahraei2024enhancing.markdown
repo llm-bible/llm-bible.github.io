@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "WSC+: Enhancing The Winograd Schema Challenge Using Tree-of-experts"
+title: WSC+: Enhancing The Winograd Schema Challenge Using Tree-of-experts
 authors: Zahraei Pardis Sadat, Emami Ali
 conference: "Arxiv"
 year: 2024

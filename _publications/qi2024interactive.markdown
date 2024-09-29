@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Interactive Continual Learning: Fast And Slow Thinking"
+title: Interactive Continual Learning: Fast And Slow Thinking
 authors: Qi Biqing, Chen Xingquan, Gao Junqi, Li Dong, Liu Jianxing, Wu Ligang, Zhou Bowen
 conference: "Arxiv"
 year: 2024

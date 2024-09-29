@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Elaboration-generating Commonsense Question Answering At Scale"
+title: Elaboration-generating Commonsense Question Answering At Scale
 authors: Wang Wenya, Srikumar Vivek, Hajishirzi Hanna, Smith Noah A.
 conference: "Arxiv"
 year: 2022

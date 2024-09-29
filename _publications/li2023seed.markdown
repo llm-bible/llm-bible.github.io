@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Seed-bench-2: Benchmarking Multimodal Large Language Models"
+title: Seed-bench-2: Benchmarking Multimodal Large Language Models
 authors: Li Bohao, Ge Yuying, Ge Yixiao, Wang Guangzhi, Wang Rui, Zhang Ruimao, Shan Ying
 conference: "Arxiv"
 year: 2023

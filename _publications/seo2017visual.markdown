@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Visual Reference Resolution Using Attention Memory For Visual Dialog"
+title: Visual Reference Resolution Using Attention Memory For Visual Dialog
 authors: Seo Paul Hongsuck, Lehrmann Andreas, Han Bohyung, Sigal Leonid
 conference: "Arxiv"
 year: 2017

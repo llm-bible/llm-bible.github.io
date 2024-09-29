@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Vi(e)va LLM! A Conceptual Stack For Evaluating And Interpreting Generative Ai-based Visualizations"
+title: Vi(e)va LLM! A Conceptual Stack For Evaluating And Interpreting Generative Ai-based Visualizations
 authors: Podo Luca, Ishmal Muhammad, Angelini Marco
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Visually-situated Natural Language Understanding With Contrastive Reading Model And Frozen Large Language Models"
+title: Visually-situated Natural Language Understanding With Contrastive Reading Model And Frozen Large Language Models
 authors: Kim Geewook, Lee Hodong, Kim Daehee, Jung Haeji, Park Sanghee, Kim Yoonsik, Yun Sangdoo, Kil Taeho, Lee Bado, Park Seunghyun
 conference: "Arxiv"
 year: 2023

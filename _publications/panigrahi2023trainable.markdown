@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Trainable Transformer In Transformer"
+title: Trainable Transformer In Transformer
 authors: Panigrahi Abhishek, Malladi Sadhika, Xia Mengzhou, Arora Sanjeev
 conference: "Arxiv"
 year: 2023

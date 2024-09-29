@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Promptbench: A Unified Library For Evaluation Of Large Language Models"
+title: Promptbench: A Unified Library For Evaluation Of Large Language Models
 authors: Zhu Kaijie, Zhao Qinlin, Chen Hao, Wang Jindong, Xie Xing
 conference: "Arxiv"
 year: 2023

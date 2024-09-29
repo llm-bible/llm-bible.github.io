@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "QUERT: Continual Pre-training Of Language Model For Query Understanding In Travel Domain Search"
+title: QUERT: Continual Pre-training Of Language Model For Query Understanding In Travel Domain Search
 authors: Xie Jian, Liang Yidan, Liu Jingping, Xiao Yanghua, Wu Baohua, Ni Shenghua
 conference: "Arxiv"
 year: 2023

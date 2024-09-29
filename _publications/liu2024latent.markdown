@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Latent Guard: A Safety Framework For Text-to-image Generation"
+title: Latent Guard: A Safety Framework For Text-to-image Generation
 authors: Liu Runtao, Khakzar Ashkan, Gu Jindong, Chen Qifeng, Torr Philip, Pizzati Fabio
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Logical Reasoning For Task Oriented Dialogue Systems"
+title: Logical Reasoning For Task Oriented Dialogue Systems
 authors: Beygi Sajjad, Fazel-zarandi Maryam, Cervone Alessandra, Krishnan Prakash, Jonnalagadda Siddhartha Reddy
 conference: "Arxiv"
 year: 2022

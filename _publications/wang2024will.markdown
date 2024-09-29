@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Will The Real Linda Please Stand Up...to Large Language Models? Examining The Representativeness Heuristic In Llms"
+title: Will The Real Linda Please Stand Up...to Large Language Models? Examining The Representativeness Heuristic In Llms
 authors: Wang Pengda, Xiao Zilin, Chen Hanjie, Oswald Frederick L.
 conference: "Arxiv"
 year: 2024

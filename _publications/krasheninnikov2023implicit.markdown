@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Implicit Meta-learning May Lead Language Models To Trust More Reliable Sources"
+title: Implicit Meta-learning May Lead Language Models To Trust More Reliable Sources
 authors: Krasheninnikov Dmitrii, Krasheninnikov Egor, Mlodozeniec Bruno, Maharaj Tegan, Krueger David
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Reformatted Alignment"
+title: Reformatted Alignment
 authors: Fan Run-ze, Li Xuefeng, Zou Haoyang, Li Junlong, He Shwai, Chern Ethan, Hu Jiewen, Liu Pengfei
 conference: "Arxiv"
 year: 2024

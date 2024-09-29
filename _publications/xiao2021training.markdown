@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Training Large-scale News Recommenders With Pretrained Language Models In The Loop"
+title: Training Large-scale News Recommenders With Pretrained Language Models In The Loop
 authors: Xiao Shitao, Liu Zheng, Shao Yingxia, Di Tao, Xie Xing
 conference: "Arxiv"
 year: 2021

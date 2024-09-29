@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bio-sieve: Exploring Instruction Tuning Large Language Models For Systematic Review Automation"
+title: Bio-sieve: Exploring Instruction Tuning Large Language Models For Systematic Review Automation
 authors: Robinson Ambrose, Thorne William, Wu Ben P., Pandor Abdullah, Essat Munira, Stevenson Mark, Song Xingyi
 conference: "Arxiv"
 year: 2023

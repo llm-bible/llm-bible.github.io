@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring The Compositional Deficiency Of Large Language Models In Mathematical Reasoning"
+title: Exploring The Compositional Deficiency Of Large Language Models In Mathematical Reasoning
 authors: Zhao Jun, Tong Jingqi, Mou Yurong, Zhang Ming, Zhang Qi, Huang Xuanjing
 conference: "Arxiv"
 year: 2024

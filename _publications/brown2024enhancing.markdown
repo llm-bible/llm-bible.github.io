@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Enhancing Trust In Llms: Algorithms For Comparing And Interpreting Llms"
+title: Enhancing Trust In Llms: Algorithms For Comparing And Interpreting Llms
 authors: Brown Nik Bear
 conference: "Arxiv"
 year: 2024

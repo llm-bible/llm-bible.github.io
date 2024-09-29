@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating And Inducing Personality In Pre-trained Language Models"
+title: Evaluating And Inducing Personality In Pre-trained Language Models
 authors: Jiang Guangyuan, Xu Manjie, Zhu Song-chun, Han Wenjuan, Zhang Chi, Zhu Yixin
 conference: "Arxiv"
 year: 2022

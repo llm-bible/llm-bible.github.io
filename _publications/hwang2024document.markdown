@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "DSLR: Document Refinement With Sentence-level Re-ranking And Reconstruction To Enhance Retrieval-augmented Generation"
+title: DSLR: Document Refinement With Sentence-level Re-ranking And Reconstruction To Enhance Retrieval-augmented Generation
 authors: Hwang Taeho, Jeong Soyeong, Cho Sukmin, Han Seungyoon, Park Jong C.
 conference: "KnowledgeNLP@ACL"
 year: 2024

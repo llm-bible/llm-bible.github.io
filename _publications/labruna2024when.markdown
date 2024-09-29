@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "When To Retrieve: Teaching Llms To Utilize Information Retrieval Effectively"
+title: When To Retrieve: Teaching Llms To Utilize Information Retrieval Effectively
 authors: Labruna Tiziano, Campos Jon Ander, Azkune Gorka
 conference: "Arxiv"
 year: 2024

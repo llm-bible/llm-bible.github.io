@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Scalable Matmul-free Language Modeling"
+title: Scalable Matmul-free Language Modeling
 authors: Zhu Rui-jie, Zhang Yu, Sifferman Ethan, Sheaves Tyler, Wang Yiqiao, Richmond Dustin, Zhou Peng, Eshraghian Jason K.
 conference: "Arxiv"
 year: 2024

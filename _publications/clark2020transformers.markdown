@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Transformers As Soft Reasoners Over Language"
+title: Transformers As Soft Reasoners Over Language
 authors: Clark Peter, Tafjord Oyvind, Richardson Kyle
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "TRACE: A Comprehensive Benchmark For Continual Learning In Large Language Models"
+title: TRACE: A Comprehensive Benchmark For Continual Learning In Large Language Models
 authors: Wang Xiao, Zhang Yuansen, Chen Tianze, Gao Songyang, Jin Senjie, Yang Xianjun, Xi Zhiheng, Zheng Rui, Zou Yicheng, Gui Tao, Zhang Qi, Huang Xuanjing
 conference: "Arxiv"
 year: 2023

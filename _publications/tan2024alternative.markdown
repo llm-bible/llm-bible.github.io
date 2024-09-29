@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "PROXYQA: An Alternative Framework For Evaluating Long-form Text Generation With Large Language Models"
+title: PROXYQA: An Alternative Framework For Evaluating Long-form Text Generation With Large Language Models
 authors: Tan Haochen, Guo Zhijiang, Shi Zhan, Xu Lu, Liu Zhili, Feng Yunlong, Li Xiaoguang, Wang Yasheng, Shang Lifeng, Liu Qun, Song Linqi
 conference: "Arxiv"
 year: 2024

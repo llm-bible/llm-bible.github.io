@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bridging The Gap Between Different Vocabularies For LLM Ensemble"
+title: Bridging The Gap Between Different Vocabularies For LLM Ensemble
 authors: Xu Yangyifan, Lu Jinliang, Zhang Jiajun
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Do Llms Understand Social Knowledge? Evaluating The Sociability Of Large Language Models With Socket Benchmark"
+title: Do Llms Understand Social Knowledge? Evaluating The Sociability Of Large Language Models With Socket Benchmark
 authors: Choi Minje, Pei Jiaxin, Kumar Sagar, Shu Chang, Jurgens David
 conference: "Arxiv"
 year: 2023

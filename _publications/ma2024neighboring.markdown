@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Neighboring Perturbations Of Knowledge Editing On Large Language Models"
+title: Neighboring Perturbations Of Knowledge Editing On Large Language Models
 authors: Ma Jun-yu, Ling Zhen-hua, Zhang Ningyu, Gu Jia-chen
 conference: "Arxiv"
 year: 2024

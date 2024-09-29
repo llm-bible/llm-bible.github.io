@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pre-training Cross-lingual Open Domain Question Answering With Large-scale Synthetic Supervision"
+title: Pre-training Cross-lingual Open Domain Question Answering With Large-scale Synthetic Supervision
 authors: Jiang Fan, Drummond Tom, Cohn Trevor
 conference: "Arxiv"
 year: 2024

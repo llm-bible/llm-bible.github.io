@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Nearest Neighbor Speculative Decoding For LLM Generation And Attribution"
+title: Nearest Neighbor Speculative Decoding For LLM Generation And Attribution
 authors: Li Minghan, Chen Xilun, Holtzman Ari, Chen Beidi, Lin Jimmy, Yih Wen-tau, Lin Xi Victoria
 conference: "Arxiv"
 year: 2024

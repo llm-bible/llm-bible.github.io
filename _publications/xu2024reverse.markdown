@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Reverse Image Retrieval Cues Parametric Memory In Multimodal Llms"
+title: Reverse Image Retrieval Cues Parametric Memory In Multimodal Llms
 authors: Xu Jialiang, Moor Michael, Leskovec Jure
 conference: "Arxiv"
 year: 2024

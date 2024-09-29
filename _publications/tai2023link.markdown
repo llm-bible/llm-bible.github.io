@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Link-context Learning For Multimodal Llms"
+title: Link-context Learning For Multimodal Llms
 authors: Tai Yan, Fan Weichen, Zhang Zhao, Zhu Feng, Zhao Rui, Liu Ziwei
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Are Large Language Models Actually Good At Text Style Transfer?"
+title: Are Large Language Models Actually Good At Text Style Transfer?
 authors: Mukherjee Sourabrata, Ojha Atul Kr., Dušek Ondřej
 conference: "Arxiv"
 year: 2024

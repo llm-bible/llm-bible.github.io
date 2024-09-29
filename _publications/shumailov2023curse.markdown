@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Curse Of Recursion: Training On Generated Data Makes Models Forget"
+title: The Curse Of Recursion: Training On Generated Data Makes Models Forget
 authors: Shumailov Ilia, Shumaylov Zakhar, Zhao Yiren, Gal Yarin, Papernot Nicolas, Anderson Ross
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Peek Across: Improving Multi-document Modeling Via Cross-document Question-answering"
+title: Peek Across: Improving Multi-document Modeling Via Cross-document Question-answering
 authors: Caciularu Avi, Peters Matthew E., Goldberger Jacob, Dagan Ido, Cohan Arman
 conference: "Arxiv"
 year: 2023

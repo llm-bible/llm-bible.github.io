@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Self-contradictory Reasoning Evaluation And Detection"
+title: Self-contradictory Reasoning Evaluation And Detection
 authors: Liu Ziyi, Lee Isabelle, Du Yongkang, Sanyal Soumya, Zhao Jieyu
 conference: "Arxiv"
 year: 2023

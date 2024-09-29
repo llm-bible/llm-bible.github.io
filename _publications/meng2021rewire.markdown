@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Rewire-then-probe: A Contrastive Recipe For Probing Biomedical Knowledge Of Pre-trained Language Models"
+title: Rewire-then-probe: A Contrastive Recipe For Probing Biomedical Knowledge Of Pre-trained Language Models
 authors: Meng Zaiqiao, Liu Fangyu, Shareghi Ehsan, Su Yixuan, Collins Charlotte, Collier Nigel
 conference: "Arxiv"
 year: 2021

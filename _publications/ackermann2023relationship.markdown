@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On The Relationship Between Skill Neurons And Robustness In Prompt Tuning"
+title: On The Relationship Between Skill Neurons And Robustness In Prompt Tuning
 authors: Ackermann Leon, Ohmer Xenia
 conference: "Arxiv"
 year: 2023

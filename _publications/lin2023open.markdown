@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Agentsims: An Open-source Sandbox For Large Language Model Evaluation"
+title: Agentsims: An Open-source Sandbox For Large Language Model Evaluation
 authors: Lin Jiaju, Zhao Haoran, Zhang Aochi, Wu Yiting, Ping Huqiuyue, Chen Qin
 conference: "Arxiv"
 year: 2023

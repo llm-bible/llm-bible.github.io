@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Training Language Models With Language Feedback"
+title: Training Language Models With Language Feedback
 authors: Scheurer Jérémy, Campos Jon Ander, Chan Jun Shern, Chen Angelica, Cho Kyunghyun, Perez Ethan
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Logical Fallacy-informed Framework For Argument Generation"
+title: A Logical Fallacy-informed Framework For Argument Generation
 authors: Mouchel Luca, Paul Debjit, Cui Shaobo, West Robert, Bosselut Antoine, Faltings Boi
 conference: "Arxiv"
 year: 2024

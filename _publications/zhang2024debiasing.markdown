@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Debiasing Multimodal Large Language Models"
+title: Debiasing Multimodal Large Language Models
 authors: Yi-fan Zhang, Weichen Yu, Qingsong Wen, Xue Wang, Zhang Zhang, Liang Wang, Rong Jin, Tieniu Tan
 conference: "Arxiv"
 year: 2024

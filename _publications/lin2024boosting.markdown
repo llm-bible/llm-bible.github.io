@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Boosting Multimodal Large Language Models With Visual Tokens Withdrawal For Rapid Inference"
+title: Boosting Multimodal Large Language Models With Visual Tokens Withdrawal For Rapid Inference
 authors: Lin Zhihang, Lin Mingbao, Lin Luxi, Ji Rongrong
 conference: "Arxiv"
 year: 2024

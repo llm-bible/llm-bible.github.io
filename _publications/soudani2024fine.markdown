@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fine Tuning Vs. Retrieval Augmented Generation For Less Popular Knowledge"
+title: Fine Tuning Vs. Retrieval Augmented Generation For Less Popular Knowledge
 authors: Soudani Heydar, Kanoulas Evangelos, Hasibi Faegheh
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "BP4ER: Bootstrap Prompting For Explicit Reasoning In Medical Dialogue Generation"
+title: BP4ER: Bootstrap Prompting For Explicit Reasoning In Medical Dialogue Generation
 authors: He Yuhong, Zhang Yongqi, He Shizhu, Wan Jun
 conference: "Arxiv"
 year: 2024

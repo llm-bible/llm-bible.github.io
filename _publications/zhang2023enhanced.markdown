@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Llavar: Enhanced Visual Instruction Tuning For Text-rich Image Understanding"
+title: Llavar: Enhanced Visual Instruction Tuning For Text-rich Image Understanding
 authors: Zhang Yanzhe, Zhang Ruiyi, Gu Jiuxiang, Zhou Yufan, Lipka Nedim, Yang Diyi, Sun Tong
 conference: "Arxiv"
 year: 2023

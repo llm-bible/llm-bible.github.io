@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "FOLIO: Natural Language Reasoning With First-order Logic"
+title: FOLIO: Natural Language Reasoning With First-order Logic
 authors: Han Simeng, Schoelkopf Hailey, Zhao Yilun, Qi Zhenting, Riddell Martin, Zhou Wenfei, Coady James, Peng David, Qiao Yujie, Benson Luke, Sun Lucy, Wardle-solano Alex, Szabo Hannah, Zubova Ekaterina, Burtell Matthew, Fan Jonathan, Liu Yixin, Wong Brian, Sailor Malcolm, Ni Ansong, Nan Linyong, Kasai Jungo, Yu Tao, Zhang Rui, Fabbri Alexander R., Kryscinski Wojciech, Yavuz Semih, Liu Ye, Lin Xi Victoria, Joty Shafiq, Zhou Yingbo, Xiong Caiming, Ying Rex, Cohan Arman, Radev Dragomir
 conference: "Arxiv"
 year: 2022

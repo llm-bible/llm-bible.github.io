@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Benchmarking Large Language Models For Automated Verilog RTL Code Generation"
+title: Benchmarking Large Language Models For Automated Verilog RTL Code Generation
 authors: Thakur Shailja, Ahmad Baleegh, Fan Zhenxing, Pearce Hammond, Tan Benjamin, Karri Ramesh, Dolan-gavitt Brendan, Garg Siddharth
 conference: "Arxiv"
 year: 2022

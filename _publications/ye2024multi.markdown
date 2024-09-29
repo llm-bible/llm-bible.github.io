@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Rotbench: A Multi-level Benchmark For Evaluating The Robustness Of Large Language Models In Tool Learning"
+title: Rotbench: A Multi-level Benchmark For Evaluating The Robustness Of Large Language Models In Tool Learning
 authors: Ye Junjie, Wu Yilong, Gao Songyang, Huang Caishuang, Li Sixian, Li Guanyu, Fan Xiaoran, Zhang Qi, Gui Tao, Huang Xuanjing
 conference: "Arxiv"
 year: 2024

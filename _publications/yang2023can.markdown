@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can You Follow Me? Testing Situational Understanding In Chatgpt"
+title: Can You Follow Me? Testing Situational Understanding In Chatgpt
 authors: Yang Chenghao, Ettinger Allyson
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tables As Texts Or Images: Evaluating The Table Reasoning Ability Of Llms And Mllms"
+title: Tables As Texts Or Images: Evaluating The Table Reasoning Ability Of Llms And Mllms
 authors: Deng Naihao, Sun Zhenjie, He Ruiqi, Sikka Aman, Chen Yulong, Ma Lin, Zhang Yue, Mihalcea Rada
 conference: "Arxiv"
 year: 2024

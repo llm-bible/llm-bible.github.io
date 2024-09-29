@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tree-planted Transformers: Unidirectional Transformer Language Models With Implicit Syntactic Supervision"
+title: Tree-planted Transformers: Unidirectional Transformer Language Models With Implicit Syntactic Supervision
 authors: Yoshida Ryo, Someya Taiga, Oseki Yohei
 conference: "Arxiv"
 year: 2024

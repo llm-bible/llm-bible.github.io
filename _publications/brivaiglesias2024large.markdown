@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models "ad Referendum": How Good Are They At Machine Translation In The Legal Domain?"
+title: Large Language Models "ad Referendum": How Good Are They At Machine Translation In The Legal Domain?
 authors: Briva-iglesias Vicent, Camargo Joao Lucas Cavalheiro, Dogru Gokhan
 conference: "Arxiv"
 year: 2024

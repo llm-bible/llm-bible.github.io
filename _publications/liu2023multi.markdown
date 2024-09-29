@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Gumsum: Multi-genre Data And Evaluation For English Abstractive Summarization"
+title: Gumsum: Multi-genre Data And Evaluation For English Abstractive Summarization
 authors: Liu Yang Janet, Zeldes Amir
 conference: "Arxiv"
 year: 2023

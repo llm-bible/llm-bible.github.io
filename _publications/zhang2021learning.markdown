@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Learning To Rehearse In Long Sequence Memorization"
+title: Learning To Rehearse In Long Sequence Memorization
 authors: Zhang Zhu, Zhou Chang, Ma Jianxin, Lin Zhijie, Zhou Jingren, Yang Hongxia, Zhao Zhou
 conference: "Arxiv"
 year: 2021

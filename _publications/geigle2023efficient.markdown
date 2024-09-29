@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mblip: Efficient Bootstrapping Of Multilingual Vision-llms"
+title: Mblip: Efficient Bootstrapping Of Multilingual Vision-llms
 authors: Geigle Gregor, Jain Abhay, Timofte Radu, Glavaš Goran
 conference: "Arxiv"
 year: 2023

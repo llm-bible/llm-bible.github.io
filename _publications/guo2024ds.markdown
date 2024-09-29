@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Ds-agent: Automated Data Science By Empowering Large Language Models With Case-based Reasoning"
+title: Ds-agent: Automated Data Science By Empowering Large Language Models With Case-based Reasoning
 authors: Guo Siyuan, Deng Cheng, Wen Ying, Chen Hechang, Chang Yi, Wang Jun
 conference: "Arxiv"
 year: 2024

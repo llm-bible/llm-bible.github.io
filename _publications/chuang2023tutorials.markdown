@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tutorials On Stance Detection Using Pre-trained Language Models: Fine-tuning BERT And Prompting Large Language Models"
+title: Tutorials On Stance Detection Using Pre-trained Language Models: Fine-tuning BERT And Prompting Large Language Models
 authors: Chuang Yun-shiuan
 conference: "Arxiv"
 year: 2023

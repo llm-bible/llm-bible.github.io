@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Ferret: Refer And Ground Anything Anywhere At Any Granularity"
+title: Ferret: Refer And Ground Anything Anywhere At Any Granularity
 authors: You Haoxuan, Zhang Haotian, Gan Zhe, Du Xianzhi, Zhang Bowen, Wang Zirui, Cao Liangliang, Chang Shih-fu, Yang Yinfei
 conference: "Arxiv"
 year: 2023

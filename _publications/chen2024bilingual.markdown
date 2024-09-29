@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bailong: Bilingual Transfer Learning Based On Qlora And Zip-tie Embedding"
+title: Bailong: Bilingual Transfer Learning Based On Qlora And Zip-tie Embedding
 authors: Chen Lung-chuan, Li Zong-ru
 conference: "Arxiv"
 year: 2024

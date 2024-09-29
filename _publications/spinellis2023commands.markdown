@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Commands As AI Conversations"
+title: Commands As AI Conversations
 authors: Spinellis Diomidis
 conference: "Arxiv"
 year: 2023

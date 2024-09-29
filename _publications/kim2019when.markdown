@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "When And Why Is Document-level Context Useful In Neural Machine Translation?"
+title: When And Why Is Document-level Context Useful In Neural Machine Translation?
 authors: Kim Yunsu, Tran Duc Thanh, Ney Hermann
 conference: "Arxiv"
 year: 2019

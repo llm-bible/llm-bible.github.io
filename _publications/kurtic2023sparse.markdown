@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Sparse Fine-tuning For Inference Acceleration Of Large Language Models"
+title: Sparse Fine-tuning For Inference Acceleration Of Large Language Models
 authors: Kurtic Eldar, Kuznedelev Denis, Frantar Elias, Goin Michael, Alistarh Dan
 conference: "Arxiv"
 year: 2023

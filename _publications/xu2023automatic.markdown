@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Automatic Pair Construction For Contrastive Post-training"
+title: Automatic Pair Construction For Contrastive Post-training
 authors: Xu Canwen, Rosset Corby, Chau Ethan C., Del Corro Luciano, Mahajan Shweti, Mcauley Julian, Neville Jennifer, Awadallah Ahmed Hassan, Rao Nikhil
 conference: "Arxiv"
 year: 2023

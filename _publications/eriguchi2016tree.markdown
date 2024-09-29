@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tree-to-sequence Attentional Neural Machine Translation"
+title: Tree-to-sequence Attentional Neural Machine Translation
 authors: Eriguchi Akiko, Hashimoto Kazuma, Tsuruoka Yoshimasa
 conference: "Arxiv"
 year: 2016

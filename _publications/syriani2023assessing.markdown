@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Assessing The Ability Of Chatgpt To Screen Articles For Systematic Reviews"
+title: Assessing The Ability Of Chatgpt To Screen Articles For Systematic Reviews
 authors: Syriani Eugene, David Istvan, Kumar Gauransh
 conference: "Arxiv"
 year: 2023

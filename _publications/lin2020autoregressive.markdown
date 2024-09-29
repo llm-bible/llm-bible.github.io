@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Autoregressive Knowledge Distillation Through Imitation Learning"
+title: Autoregressive Knowledge Distillation Through Imitation Learning
 authors: Lin Alexander, Wohlwend Jeremy, Chen Howard, Lei Tao
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Automated Black-box Prompt Engineering For Personalized Text-to-image Generation"
+title: Automated Black-box Prompt Engineering For Personalized Text-to-image Generation
 authors: He Yutong, Robey Alexander, Murata Naoki, Jiang Yiding, Williams Joshua, Pappas George J., Hassani Hamed, Mitsufuji Yuki, Salakhutdinov Ruslan, Kolter J. Zico
 conference: "Arxiv"
 year: 2024

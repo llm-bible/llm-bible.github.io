@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Distilling Step-by-step! Outperforming Larger Language Models With Less Training Data And Smaller Model Sizes"
+title: Distilling Step-by-step! Outperforming Larger Language Models With Less Training Data And Smaller Model Sizes
 authors: Hsieh Cheng-yu, Li Chun-liang, Yeh Chih-kuan, Nakhost Hootan, Fujii Yasuhisa, Ratner Alexander, Krishna Ranjay, Lee Chen-yu, Pfister Tomas
 conference: "Arxiv"
 year: 2023

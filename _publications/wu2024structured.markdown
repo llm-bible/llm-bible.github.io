@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Agentkit: Structured LLM Reasoning With Dynamic Graphs"
+title: Agentkit: Structured LLM Reasoning With Dynamic Graphs
 authors: Wu Yue, Fan Yewen, Min So Yeon, Prabhumoye Shrimai, Mcaleer Stephen, Bisk Yonatan, Salakhutdinov Ruslan, Li Yuanzhi, Mitchell Tom
 conference: "Arxiv"
 year: 2024

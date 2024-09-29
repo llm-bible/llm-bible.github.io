@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Transcending Scaling Laws With 0.1% Extra Compute"
+title: Transcending Scaling Laws With 0.1% Extra Compute
 authors: Yi Tay, Jason Wei, Hyung Won Chung, Vinh Q. Tran, David R. So, Siamak Shakeri, Xavier Garcia, Huaixiu Steven Zheng, Jinfeng Rao, Aakanksha Chowdhery, Denny Zhou, Donald Metzler, Slav Petrov, Neil Houlsby, Quoc V. Le, Mostafa Dehghani
 conference: "Arxiv"
 year: 2022

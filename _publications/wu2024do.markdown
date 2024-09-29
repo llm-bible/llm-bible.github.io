@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Do Language Models Plan Ahead For Future Tokens?"
+title: Do Language Models Plan Ahead For Future Tokens?
 authors: Wu Wilson, Morris John X., Levine Lionel
 conference: "Arxiv"
 year: 2024

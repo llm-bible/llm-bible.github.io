@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring Neural Net Augmentation To BERT For Question Answering On SQUAD 2.0"
+title: Exploring Neural Net Augmentation To BERT For Question Answering On SQUAD 2.0
 authors: Gupta Suhas
 conference: "Arxiv"
 year: 2019

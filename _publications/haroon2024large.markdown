@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Twips: A Large Language Model Powered Texting Application To Simplify Conversational Nuances For Autistic Users"
+title: Twips: A Large Language Model Powered Texting Application To Simplify Conversational Nuances For Autistic Users
 authors: Haroon Rukhshan, Dogar Fahad
 conference: "Arxiv"
 year: 2024

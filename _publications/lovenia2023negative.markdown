@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Negative Object Presence Evaluation (NOPE) To Measure Object Hallucination In Vision-language Models"
+title: Negative Object Presence Evaluation (NOPE) To Measure Object Hallucination In Vision-language Models
 authors: Holy Lovenia, Wenliang Dai, Samuel Cahyawijaya, Ziwei Ji, Pascale Fung
 conference: "Arxiv"
 year: 2023

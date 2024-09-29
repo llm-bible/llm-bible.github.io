@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Trojaning Language Models For Fun And Profit"
+title: Trojaning Language Models For Fun And Profit
 authors: Zhang Xinyang, Zhang Zheng, Ji Shouling, Wang Ting
 conference: "Arxiv"
 year: 2020

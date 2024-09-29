@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Soft Prompting For Unlearning In Large Language Models"
+title: Soft Prompting For Unlearning In Large Language Models
 authors: Bhaila Karuna, Van Minh-hao, Wu Xintao
 conference: "Arxiv"
 year: 2024

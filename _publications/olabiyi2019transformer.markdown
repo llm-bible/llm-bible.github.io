@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dlgnet: A Transformer-based Model For Dialogue Response Generation"
+title: Dlgnet: A Transformer-based Model For Dialogue Response Generation
 authors: Olabiyi Oluwatobi, Mueller Erik T.
 conference: "Arxiv"
 year: 2019

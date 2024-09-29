@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Understanding Counseling Conversations: Domain Knowledge And Large Language Models"
+title: Towards Understanding Counseling Conversations: Domain Knowledge And Large Language Models
 authors: Lee Younghun, Goldwasser Dan, Reese Laura Schwab
 conference: "Arxiv"
 year: 2024

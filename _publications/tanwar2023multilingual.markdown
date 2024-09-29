@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multilingual Llms Are Better Cross-lingual In-context Learners With Alignment"
+title: Multilingual Llms Are Better Cross-lingual In-context Learners With Alignment
 authors: Tanwar Eshaan, Dutta Subhabrata, Borthakur Manish, Chakraborty Tanmoy
 conference: "Arxiv"
 year: 2023

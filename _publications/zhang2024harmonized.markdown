@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Harmonized Speculative Sampling"
+title: Harmonized Speculative Sampling
 authors: Zhang Lefan, Wang Xiaodan, Huang Yanhua, Xu Ruiwen
 conference: "Arxiv"
 year: 2024

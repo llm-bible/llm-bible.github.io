@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Prompt Modifiers Control Bias? A Comparative Analysis Of Text-to-image Generative Models"
+title: Can Prompt Modifiers Control Bias? A Comparative Analysis Of Text-to-image Generative Models
 authors: Shin Philip Wootaek, Ahn Jihyun Janice, Yin Wenpeng, Sampson Jack, Narayanan Vijaykrishnan
 conference: "Arxiv"
 year: 2024

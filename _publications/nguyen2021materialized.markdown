@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Materialized Knowledge Bases From Commonsense Transformers"
+title: Materialized Knowledge Bases From Commonsense Transformers
 authors: Nguyen Tuan-phong, Razniewski Simon
 conference: "Proceedings of the First Workshop on Commonsense Representation and Reasoning"
 year: 2021

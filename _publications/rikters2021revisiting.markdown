@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Revisiting Context Choices For Context-aware Machine Translation"
+title: Revisiting Context Choices For Context-aware Machine Translation
 authors: Rikters Matīss, Nakazawa Toshiaki
 conference: "Proceedings of the"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unveiling Imitation Learning: Exploring The Impact Of Data Falsity To Large Language Model"
+title: Unveiling Imitation Learning: Exploring The Impact Of Data Falsity To Large Language Model
 authors: Cho Hyunsoo
 conference: "Arxiv"
 year: 2024

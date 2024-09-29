@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Model (LLM) AI Text Generation Detection Based On Transformer Deep Learning Algorithm"
+title: Large Language Model (LLM) AI Text Generation Detection Based On Transformer Deep Learning Algorithm
 authors: Mo Yuhong, Qin Hao, Dong Yushan, Zhu Ziyi, Li Zhenglin
 conference: "Arxiv"
 year: 2024

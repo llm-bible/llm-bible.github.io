@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating Concurrent Robustness Of Language Models Across Diverse Challenge Sets"
+title: Evaluating Concurrent Robustness Of Language Models Across Diverse Challenge Sets
 authors: Gupta Vatsal, Pandya Pranshu, Kataria Tushar, Gupta Vivek, Roth Dan
 conference: "Arxiv"
 year: 2023

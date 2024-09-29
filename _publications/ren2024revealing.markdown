@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Codeattack: Revealing Safety Generalization Challenges Of Large Language Models Via Code Completion"
+title: Codeattack: Revealing Safety Generalization Challenges Of Large Language Models Via Code Completion
 authors: Ren Qibing, Gao Chang, Shao Jing, Yan Junchi, Tan Xin, Lam Wai, Ma Lizhuang
 conference: "Arxiv"
 year: 2024

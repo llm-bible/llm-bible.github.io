@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Survey On Hallucination In Large Language Models: Principles, Taxonomy, Challenges, And Open Questions"
+title: A Survey On Hallucination In Large Language Models: Principles, Taxonomy, Challenges, And Open Questions
 authors: Huang Lei, Yu Weijiang, Ma Weitao, Zhong Weihong, Feng Zhangyin, Wang Haotian, Chen Qianglong, Peng Weihua, Feng Xiaocheng, Qin Bing, Liu Ting
 conference: "Arxiv"
 year: 2023

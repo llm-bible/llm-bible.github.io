@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Speculative Contrastive Decoding"
+title: Speculative Contrastive Decoding
 authors: Yuan Hongyi, Lu Keming, Huang Fei, Yuan Zheng, Zhou Chang
 conference: "Arxiv"
 year: 2023

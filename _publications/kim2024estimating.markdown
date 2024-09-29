@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Llmem: Estimating GPU Memory Usage For Fine-tuning Pre-trained Llms"
+title: Llmem: Estimating GPU Memory Usage For Fine-tuning Pre-trained Llms
 authors: Kim Taeho, Wang Yanming, Chaturvedi Vatshank, Gupta Lokesh, Kim Seyeon, Kwon Yongin, Ha Sangtae
 conference: "Arxiv"
 year: 2024

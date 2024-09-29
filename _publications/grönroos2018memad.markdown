@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Memad Submission To The WMT18 Multimodal Translation Task"
+title: The Memad Submission To The WMT18 Multimodal Translation Task
 authors: Grönroos Stig-arne, Huet Benoit, Kurimo Mikko, Laaksonen Jorma, Merialdo Bernard, Pham Phu, Sjöberg Mats, Sulubacak Umut, Tiedemann Jörg, Troncy Raphael, Vázquez Raúl
 conference: "Arxiv"
 year: 2018

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Building High-accuracy Multilingual ASR With Gated Language Experts And Curriculum Training"
+title: Building High-accuracy Multilingual ASR With Gated Language Experts And Curriculum Training
 authors: Sun Eric, Li Jinyu, Hu Yuxuan, Zhu Yimeng, Zhou Long, Xue Jian, Wang Peidong, Liu Linquan, Liu Shujie, Lin Edward, Gong Yifan
 conference: "Arxiv"
 year: 2023

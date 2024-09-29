@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Snapntell: Enhancing Entity-centric Visual Question Answering With Retrieval Augmented Multimodal LLM"
+title: Snapntell: Enhancing Entity-centric Visual Question Answering With Retrieval Augmented Multimodal LLM
 authors: Qiu Jielin, Madotto Andrea, Lin Zhaojiang, Crook Paul A., Xu Yifan Ethan, Dong Xin Luna, Faloutsos Christos, Li Lei, Damavandi Babak, Moon Seungwhan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Instructdoc: A Dataset For Zero-shot Generalization Of Visual Document Understanding With Instructions"
+title: Instructdoc: A Dataset For Zero-shot Generalization Of Visual Document Understanding With Instructions
 authors: Tanaka Ryota, Iki Taichi, Nishida Kyosuke, Saito Kuniko, Suzuki Jun
 conference: "Arxiv"
 year: 2024

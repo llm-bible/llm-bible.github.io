@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Simulbench: Evaluating Language Models With Creative Simulation Tasks"
+title: Simulbench: Evaluating Language Models With Creative Simulation Tasks
 authors: Jia Qi, Yue Xiang, Zheng Tianyu, Huang Jie, Lin Bill Yuchen
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Approximated Prompt Tuning For Vision-language Pre-trained Models"
+title: Approximated Prompt Tuning For Vision-language Pre-trained Models
 authors: Wu Qiong, Huang Shubin, Zhou Yiyi, Dai Pingyang, Shu Annan, Jiang Guannan, Ji Rongrong
 conference: "Arxiv"
 year: 2023

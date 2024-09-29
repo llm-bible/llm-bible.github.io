@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Learning Reward For Robot Skills Using Large Language Models Via Self-alignment"
+title: Learning Reward For Robot Skills Using Large Language Models Via Self-alignment
 authors: Zeng Yuwei, Mu Yao, Shao Lin
 conference: "Arxiv"
 year: 2024

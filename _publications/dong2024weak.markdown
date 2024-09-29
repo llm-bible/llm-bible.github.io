@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Contrans: Weak-to-strong Alignment Engineering Via Concept Transplantation"
+title: Contrans: Weak-to-strong Alignment Engineering Via Concept Transplantation
 authors: Dong Weilong, Wu Xinwei, Jin Renren, Xu Shaoyang, Xiong Deyi
 conference: "Arxiv"
 year: 2024

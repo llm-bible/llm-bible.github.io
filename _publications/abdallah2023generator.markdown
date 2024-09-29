@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Generator-retriever-generator Approach For Open-domain Question Answering"
+title: Generator-retriever-generator Approach For Open-domain Question Answering
 authors: Abdallah Abdelrahman, Jatowt Adam
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Integrating Large Language Models With Graphical Session-based Recommendation"
+title: Integrating Large Language Models With Graphical Session-based Recommendation
 authors: Guo Naicheng, Cheng Hongwei, Liang Qianqiao, Chen Linxun, Han Bing
 conference: "Arxiv"
 year: 2024

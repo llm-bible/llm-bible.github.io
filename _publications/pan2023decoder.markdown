@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Stelocoder: A Decoder-only LLM For Multi-language To Python Code Translation"
+title: Stelocoder: A Decoder-only LLM For Multi-language To Python Code Translation
 authors: Pan Jialing, Sadé Adrien, Kim Jin, Soriano Eric, Sole Guillem, Flamant Sylvain
 conference: "Arxiv"
 year: 2023

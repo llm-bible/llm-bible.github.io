@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Wizardlm: Empowering Large Language Models To Follow Complex Instructions"
+title: Wizardlm: Empowering Large Language Models To Follow Complex Instructions
 authors: Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang
 conference: "Arxiv"
 year: 2023

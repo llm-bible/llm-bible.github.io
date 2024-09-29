@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating Character Understanding Of Large Language Models Via Character Profiling From Fictional Works"
+title: Evaluating Character Understanding Of Large Language Models Via Character Profiling From Fictional Works
 authors: Yuan Xinfeng, Yuan Siyu, Cui Yuhan, Lin Tianhe, Wang Xintao, Xu Rui, Chen Jiangjie, Yang Deqing
 conference: "Arxiv"
 year: 2024

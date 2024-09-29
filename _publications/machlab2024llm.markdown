@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "LLM In-context Recall Is Prompt Dependent"
+title: LLM In-context Recall Is Prompt Dependent
 authors: Machlab Daniel, Battle Rick
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Learn To Remember: Transformer With Recurrent Memory For Document-level Machine Translation"
+title: Learn To Remember: Transformer With Recurrent Memory For Document-level Machine Translation
 authors: Feng Yukun, Li Feng, Song Ziang, Zheng Boyuan, Koehn Philipp
 conference: "Findings of the Association for Computational Linguistics NAACL"
 year: 2022

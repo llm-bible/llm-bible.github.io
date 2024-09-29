@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models Are Biased To Overestimate Profoundness"
+title: Large Language Models Are Biased To Overestimate Profoundness
 authors: Herrera-berg Eugenio, Browne Tomás Vergara, León-villagrá Pablo, Vives Marc-lluís, Calderon Cristian Buc
 conference: "https://aclanthology.org/"
 year: 2023

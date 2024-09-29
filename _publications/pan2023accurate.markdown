@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Smoothquant+: Accurate And Efficient 4-bit Post-training Weightquantization For LLM"
+title: Smoothquant+: Accurate And Efficient 4-bit Post-training Weightquantization For LLM
 authors: Pan Jiayi, Wang Chengcan, Zheng Kaifu, Li Yangguang, Wang Zhenyu, Feng Bin
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Aligning Large Language Models Through Synthetic Feedback"
+title: Aligning Large Language Models Through Synthetic Feedback
 authors: Kim Sungdong, Bae Sanghwan, Shin Jamin, Kang Soyoung, Kwak Donghyun, Yoo Kang Min, Seo Minjoon
 conference: "Arxiv"
 year: 2023

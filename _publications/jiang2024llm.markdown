@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Llm-collaboration On Automatic Science Journalism For The General Audience"
+title: Llm-collaboration On Automatic Science Journalism For The General Audience
 authors: Jiang Gongyao, Shi Xinran, Luo Qiong
 conference: "Arxiv"
 year: 2024

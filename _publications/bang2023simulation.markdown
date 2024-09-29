@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Vtrain: A Simulation Framework For Evaluating Cost-effective And Compute-optimal Large Language Model Training"
+title: Vtrain: A Simulation Framework For Evaluating Cost-effective And Compute-optimal Large Language Model Training
 authors: Bang Jehyeon, Choi Yujeong, Kim Myeongwoo, Kim Yongdeok, Rhu Minsoo
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Beyond Factuality: A Comprehensive Evaluation Of Large Language Models As Knowledge Generators"
+title: Beyond Factuality: A Comprehensive Evaluation Of Large Language Models As Knowledge Generators
 authors: Liang Chen, Yang Deng, Yatao Bian, Zeyu Qin, Bingzhe Wu, Tat-seng Chua, Kam-fai Wong
 conference: "Arxiv"
 year: 2023

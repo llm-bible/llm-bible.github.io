@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Gendec: A Robust Generative Question-decomposition Method For Multi-hop Reasoning"
+title: Gendec: A Robust Generative Question-decomposition Method For Multi-hop Reasoning
 authors: Wu Jian, Yang Linyi, Ji Yuliang, Huang Wenhao, Karlsson Börje F., Okumura Manabu
 conference: "Arxiv"
 year: 2024

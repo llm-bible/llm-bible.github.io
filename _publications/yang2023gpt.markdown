@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "GPT Can Solve Mathematical Problems Without A Calculator"
+title: GPT Can Solve Mathematical Problems Without A Calculator
 authors: Yang Zhen, Ding Ming, Lv Qingsong, Jiang Zhihuan, He Zehai, Guo Yuyi, Bai Jinfeng, Tang Jie
 conference: "Arxiv"
 year: 2023

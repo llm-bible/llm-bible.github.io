@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Residual-based Language Models Are Free Boosters For Biomedical Imaging"
+title: Residual-based Language Models Are Free Boosters For Biomedical Imaging
 authors: Lai Zhixin, Wu Jing, Chen Suiyao, Zhou Yucheng, Hovakimyan Naira
 conference: "Arxiv"
 year: 2024

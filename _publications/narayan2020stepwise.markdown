@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Stepwise Extractive Summarization And Planning With Structured Transformers"
+title: Stepwise Extractive Summarization And Planning With Structured Transformers
 authors: Narayan Shashi, Maynez Joshua, Adamek Jakub, Pighin Daniele, Bratanič Blaž, Mcdonald Ryan
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "SOLAR 10.7B: Scaling Large Language Models With Simple Yet Effective Depth Up-scaling"
+title: SOLAR 10.7B: Scaling Large Language Models With Simple Yet Effective Depth Up-scaling
 authors: Kim Dahyun, Park Chanjun, Kim Sanghoon, Lee Wonsung, Song Wonho, Kim Yunsu, Kim Hyeonwoo, Kim Yungi, Lee Hyeonju, Kim Jihoo, Ahn Changbae, Yang Seonghoon, Lee Sukyung, Park Hyunbyung, Gim Gyoungjin, Cha Mikyoung, Lee Hwalsuk, Kim Sunghun
 conference: "Arxiv"
 year: 2023

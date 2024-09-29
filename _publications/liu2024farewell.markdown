@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Farewell To Length Extrapolation, A Training-free Infinite Context With Finite Attention Scope"
+title: Farewell To Length Extrapolation, A Training-free Infinite Context With Finite Attention Scope
 authors: Liu Xiaoran, Guo Qipeng, Song Yuerong, Liu Zhigeng, Lv Kai, Yan Hang, Li Linlin, Liu Qun, Qiu Xipeng
 conference: "Arxiv"
 year: 2024

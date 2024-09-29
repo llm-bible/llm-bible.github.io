@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multilingual Translation Via Grafting Pre-trained Language Models"
+title: Multilingual Translation Via Grafting Pre-trained Language Models
 authors: Sun Zewei, Wang Mingxuan, Li Lei
 conference: "Arxiv"
 year: 2021

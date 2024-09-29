@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Archer: Training Language Model Agents Via Hierarchical Multi-turn RL"
+title: Archer: Training Language Model Agents Via Hierarchical Multi-turn RL
 authors: Zhou Yifei, Zanette Andrea, Pan Jiayi, Levine Sergey, Kumar Aviral
 conference: "Arxiv"
 year: 2024

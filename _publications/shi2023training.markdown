@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "QADYNAMICS: Training Dynamics-driven Synthetic QA Diagnostic For Zero-shot Commonsense Question Answering"
+title: QADYNAMICS: Training Dynamics-driven Synthetic QA Diagnostic For Zero-shot Commonsense Question Answering
 authors: Shi Haochen, Wang Weiqi, Fang Tianqing, Xu Baixuan, Ding Wenxuan, Liu Xin, Song Yangqiu
 conference: "Arxiv"
 year: 2023

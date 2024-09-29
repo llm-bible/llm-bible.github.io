@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Think-on-graph 2.0: Deep And Interpretable Large Language Model Reasoning With Knowledge Graph-guided Retrieval"
+title: Think-on-graph 2.0: Deep And Interpretable Large Language Model Reasoning With Knowledge Graph-guided Retrieval
 authors: Ma Shengjie, Xu Chengjin, Jiang Xuhui, Li Muzhi, Qu Huaren, Guo Jian
 conference: "Arxiv"
 year: 2024

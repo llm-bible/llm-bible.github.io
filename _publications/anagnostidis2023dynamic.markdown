@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dynamic Context Pruning For Efficient And Interpretable Autoregressive Transformers"
+title: Dynamic Context Pruning For Efficient And Interpretable Autoregressive Transformers
 authors: Sotiris Anagnostidis, Dario Pavllo, Luca Biggio, Lorenzo Noci, Aurelien Lucchi, Thomas Hofmann
 conference: "Arxiv"
 year: 2023

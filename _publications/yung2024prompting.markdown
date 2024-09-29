@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Prompting Implicit Discourse Relation Annotation"
+title: Prompting Implicit Discourse Relation Annotation
 authors: Yung Frances, Ahmad Mansoor, Scholman Merel, Demberg Vera
 conference: "Arxiv"
 year: 2024

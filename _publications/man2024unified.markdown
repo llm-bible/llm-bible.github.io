@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "ULLME: A Unified Framework For Large Language Model Embeddings With Generation-augmented Learning"
+title: ULLME: A Unified Framework For Large Language Model Embeddings With Generation-augmented Learning
 authors: Man Hieu, Ngo Nghia Trung, Dernoncourt Franck, Nguyen Thien Huu
 conference: "Arxiv"
 year: 2024

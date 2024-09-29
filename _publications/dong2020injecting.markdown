@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Injecting Entity Types Into Entity-guided Text Generation"
+title: Injecting Entity Types Into Entity-guided Text Generation
 authors: Dong Xiangyu, Yu Wenhao, Zhu Chenguang, Jiang Meng
 conference: "Arxiv"
 year: 2020

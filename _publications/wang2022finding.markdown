@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Finding Skill Neurons In Pre-trained Transformer-based Language Models"
+title: Finding Skill Neurons In Pre-trained Transformer-based Language Models
 authors: Wang Xiaozhi, Wen Kaiyue, Zhang Zhengyan, Hou Lei, Liu Zhiyuan, Li Juanzi
 conference: "Arxiv"
 year: 2022

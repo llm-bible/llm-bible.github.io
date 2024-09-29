@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cogagent: A Visual Language Model For GUI Agents"
+title: Cogagent: A Visual Language Model For GUI Agents
 authors: Hong Wenyi, Wang Weihan, Lv Qingsong, Xu Jiazheng, Yu Wenmeng, Ji Junhui, Wang Yan, Wang Zihan, Zhang Yuxuan, Li Juanzi, Xu Bin, Dong Yuxiao, Ding Ming, Tang Jie
 conference: "Arxiv"
 year: 2023

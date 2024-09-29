@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Prompting Is Not A Substitute For Probability Measurements In Large Language Models"
+title: Prompting Is Not A Substitute For Probability Measurements In Large Language Models
 authors: Hu Jennifer, Levy Roger
 conference: "Arxiv"
 year: 2023

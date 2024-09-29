@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Figstep: Jailbreaking Large Vision-language Models Via Typographic Visual Prompts"
+title: Figstep: Jailbreaking Large Vision-language Models Via Typographic Visual Prompts
 authors: Gong Yichen, Ran Delong, Liu Jinyuan, Wang Conglei, Cong Tianshuo, Wang Anyu, Duan Sisi, Wang Xiaoyun
 conference: "Arxiv"
 year: 2023

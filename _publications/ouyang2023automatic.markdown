@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Autoplan: Automatic Planning Of Interactive Decision-making Tasks With Large Language Models"
+title: Autoplan: Automatic Planning Of Interactive Decision-making Tasks With Large Language Models
 authors: Ouyang Siqi, Li Lei
 conference: "Arxiv"
 year: 2023

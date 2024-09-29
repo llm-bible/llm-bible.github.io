@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring Recurrent, Memory And Attention Based Architectures For Scoring Interactional Aspects Of Human-machine Text Dialog"
+title: Exploring Recurrent, Memory And Attention Based Architectures For Scoring Interactional Aspects Of Human-machine Text Dialog
 authors: Ramanarayanan Vikram, Mulholland Matthew, Ghosh Debanjan
 conference: "Arxiv"
 year: 2020

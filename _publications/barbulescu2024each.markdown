@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "To Each (textual Sequence) Its Own: Improving Memorized-data Unlearning In Large Language Models"
+title: To Each (textual Sequence) Its Own: Improving Memorized-data Unlearning In Large Language Models
 authors: Barbulescu George-octavian, Triantafillou Peter
 conference: "Arxiv"
 year: 2024

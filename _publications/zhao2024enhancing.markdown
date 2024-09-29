@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Enhancing Cross-domain Pre-trained Decision Transformers With Adaptive Attention"
+title: Enhancing Cross-domain Pre-trained Decision Transformers With Adaptive Attention
 authors: Zhao Wenhao, Xu Qiushui, Xu Linjie, Song Lei, Wang Jinyu, Zhou Chunlai, Bian Jiang
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Post Hoc Explanations Of Language Models Can Improve Language Models"
+title: Post Hoc Explanations Of Language Models Can Improve Language Models
 authors: Krishna Satyapriya, Ma Jiaqi, Slack Dylan, Ghandeharioun Asma, Singh Sameer, Lakkaraju Himabindu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Investigating The Effectiveness Of Task-agnostic Prefix Prompt For Instruction Following"
+title: Investigating The Effectiveness Of Task-agnostic Prefix Prompt For Instruction Following
 authors: Ye Seonghyeon, Hwang Hyeonbin, Yang Sohee, Yun Hyeongu, Kim Yireun, Seo Minjoon
 conference: "Arxiv"
 year: 2023

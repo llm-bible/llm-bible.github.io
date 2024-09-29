@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Linguistic Calibration Of Long-form Generations"
+title: Linguistic Calibration Of Long-form Generations
 authors: Band Neil, Li Xuechen, Ma Tengyu, Hashimoto Tatsunori
 conference: "Arxiv"
 year: 2024

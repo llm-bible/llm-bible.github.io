@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "You Only Need One Model For Open-domain Question Answering"
+title: You Only Need One Model For Open-domain Question Answering
 authors: Lee Haejun, Kedia Akhil, Lee Jongwon, Paranjape Ashwin, Manning Christopher D., Woo Kyoung-gu
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Lifelong Personalized Low-rank Adaptation Of Large Language Models For Recommendation"
+title: Lifelong Personalized Low-rank Adaptation Of Large Language Models For Recommendation
 authors: Zhu Jiachen, Lin Jianghao, Dai Xinyi, Chen Bo, Shan Rong, Zhu Jieming, Tang Ruiming, Yu Yong, Zhang Weinan
 conference: "Arxiv"
 year: 2024

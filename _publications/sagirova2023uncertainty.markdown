@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Uncertainty Guided Global Memory Improves Multi-hop Question Answering"
+title: Uncertainty Guided Global Memory Improves Multi-hop Question Answering
 authors: Sagirova Alsu, Burtsev Mikhail
 conference: "Arxiv"
 year: 2023

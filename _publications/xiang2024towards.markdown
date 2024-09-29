@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pandora: Towards General World Model With Natural Language Actions And Video States"
+title: Pandora: Towards General World Model With Natural Language Actions And Video States
 authors: Xiang Jiannan, Liu Guangyi, Gu Yi, Gao Qiyue, Ning Yuting, Zha Yuheng, Feng Zeyu, Tao Tianhua, Hao Shibo, Shi Yemin, Liu Zhengzhong, Xing Eric P., Hu Zhiting
 conference: "Arxiv"
 year: 2024

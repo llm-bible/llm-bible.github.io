@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Understanding Sample Variance In Visually Grounded Language Generation: Evaluations And Observations"
+title: Towards Understanding Sample Variance In Visually Grounded Language Generation: Evaluations And Observations
 authors: Zhu Wanrong, Wang Xin Eric, Narayana Pradyumna, Sone Kazoo, Basu Sugato, Wang William Yang
 conference: "Arxiv"
 year: 2020

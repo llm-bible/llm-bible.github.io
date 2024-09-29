@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tur[k]ingbench: A Challenge Benchmark For Web Agents"
+title: Tur[k]ingbench: A Challenge Benchmark For Web Agents
 authors: Xu Kevin, Kordi Yeganeh, Nayak Tanay, Asija Ado, Wang Yizhong, Sanders Kate, Byerly Adam, Zhang Jingyu, Van Durme Benjamin, Khashabi Daniel
 conference: "Arxiv"
 year: 2024

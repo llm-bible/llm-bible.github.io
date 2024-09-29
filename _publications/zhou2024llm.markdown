@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "An LLM Feature-based Framework For Dialogue Constructiveness Assessment"
+title: An LLM Feature-based Framework For Dialogue Constructiveness Assessment
 authors: Zhou Lexin, Farag Youmna, Vlachos Andreas
 conference: "Arxiv"
 year: 2024

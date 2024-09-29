@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Training Large Neural Networks With Constant Memory Using A New Execution Algorithm"
+title: Training Large Neural Networks With Constant Memory Using A New Execution Algorithm
 authors: Pudipeddi Bharadwaj, Mesmakhosroshahi Maral, Xi Jinwen, Bharadwaj Sujeeth
 conference: "Arxiv"
 year: 2020

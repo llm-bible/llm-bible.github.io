@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Detecting Natural Language Biases With Prompt-based Learning"
+title: Detecting Natural Language Biases With Prompt-based Learning
 authors: Aowal Md Abdul, Islam Maliha T, Mammen Priyanka Mary, Shetty Sandesh
 conference: "Arxiv"
 year: 2023

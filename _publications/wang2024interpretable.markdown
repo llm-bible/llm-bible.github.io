@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Interpretable Preferences Via Multi-objective Reward Modeling And Mixture-of-experts"
+title: Interpretable Preferences Via Multi-objective Reward Modeling And Mixture-of-experts
 authors: Wang Haoxiang, Xiong Wei, Xie Tengyang, Zhao Han, Zhang Tong
 conference: "Arxiv"
 year: 2024

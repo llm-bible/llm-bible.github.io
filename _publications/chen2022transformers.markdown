@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Transformers Go For The Lols: Generating (humourous) Titles From Scientific Abstracts End-to-end"
+title: Transformers Go For The Lols: Generating (humourous) Titles From Scientific Abstracts End-to-end
 authors: Chen Yanran, Eger Steffen
 conference: "Arxiv"
 year: 2022

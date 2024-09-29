@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bundle MCR: Towards Conversational Bundle Recommendation"
+title: Bundle MCR: Towards Conversational Bundle Recommendation
 authors: He Zhankui, Zhao Handong, Yu Tong, Kim Sungchul, Du Fan, Mcauley Julian
 conference: "Arxiv"
 year: 2022

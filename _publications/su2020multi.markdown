@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multi-hop Question Generation With Graph Convolutional Network"
+title: Multi-hop Question Generation With Graph Convolutional Network
 authors: Su Dan, Xu Yan, Dai Wenliang, Ji Ziwei, Yu Tiezheng, Fung Pascale
 conference: "Arxiv"
 year: 2020

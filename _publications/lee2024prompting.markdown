@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Prompting Large Language Models For Zero-shot Essay Scoring Via Multi-trait Specialization"
+title: Prompting Large Language Models For Zero-shot Essay Scoring Via Multi-trait Specialization
 authors: Lee Sanwoo, Cai Yida, Meng Desong, Wang Ziyang, Wu Yunfang
 conference: "Arxiv"
 year: 2024

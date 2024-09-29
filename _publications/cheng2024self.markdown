@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Self-playing Adversarial Language Game Enhances LLM Reasoning"
+title: Self-playing Adversarial Language Game Enhances LLM Reasoning
 authors: Cheng Pengyu, Hu Tianhao, Xu Han, Zhang Zhisong, Dai Yong, Han Lei, Du Nan
 conference: "Arxiv"
 year: 2024

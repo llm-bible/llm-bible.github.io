@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mora: High-rank Updating For Parameter-efficient Fine-tuning"
+title: Mora: High-rank Updating For Parameter-efficient Fine-tuning
 authors: Jiang Ting, Huang Shaohan, Luo Shengyue, Zhang Zihan, Huang Haizhen, Wei Furu, Deng Weiwei, Sun Feng, Zhang Qi, Wang Deqing, Zhuang Fuzhen
 conference: "Arxiv"
 year: 2024

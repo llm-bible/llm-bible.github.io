@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Revisiting Demonstration Selection Strategies In In-context Learning"
+title: Revisiting Demonstration Selection Strategies In In-context Learning
 authors: Peng Keqin, Ding Liang, Yuan Yancheng, Liu Xuebo, Zhang Min, Ouyang Yuanxin, Tao Dacheng
 conference: "Arxiv"
 year: 2024

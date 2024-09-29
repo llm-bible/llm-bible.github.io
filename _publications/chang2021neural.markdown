@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Neural Data-to-text Generation With Lm-based Text Augmentation"
+title: Neural Data-to-text Generation With Lm-based Text Augmentation
 authors: Chang Ernie, Shen Xiaoyu, Zhu Dawei, Demberg Vera, Su Hui
 conference: "Arxiv"
 year: 2021

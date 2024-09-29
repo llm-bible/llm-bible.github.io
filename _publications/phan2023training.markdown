@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Training Chain-of-thought Via Latent-variable Inference"
+title: Training Chain-of-thought Via Latent-variable Inference
 authors: Phan Du, Hoffman Matthew D., Dohan David, Douglas Sholto, Le Tuan Anh, Parisi Aaron, Sountsov Pavel, Sutton Charles, Vikram Sharad, Saurous Rif A.
 conference: "Arxiv"
 year: 2023

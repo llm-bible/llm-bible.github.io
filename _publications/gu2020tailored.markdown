@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Tailored Pre-training Model For Task-oriented Dialog Generation"
+title: A Tailored Pre-training Model For Task-oriented Dialog Generation
 authors: Gu Jing, Wu Qingyang, Wu Chongruo, Shi Weiyan, Yu Zhou
 conference: "Arxiv"
 year: 2020

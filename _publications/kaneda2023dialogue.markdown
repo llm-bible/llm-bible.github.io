@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dialmat: Dialogue-enabled Transformer With Moment-based Adversarial Training"
+title: Dialmat: Dialogue-enabled Transformer With Moment-based Adversarial Training
 authors: Kaneda Kanta, Korekata Ryosuke, Wada Yuiga, Nagashima Shunya, Kambara Motonari, Iioka Yui, Matsuo Haruka, Imai Yuto, Nishimura Takayuki, Sugiura Komei
 conference: "Arxiv"
 year: 2023

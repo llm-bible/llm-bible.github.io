@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cof-cot: Enhancing Large Language Models With Coarse-to-fine Chain-of-thought Prompting For Multi-domain NLU Tasks"
+title: Cof-cot: Enhancing Large Language Models With Coarse-to-fine Chain-of-thought Prompting For Multi-domain NLU Tasks
 authors: Nguyen Hoang H., Liu Ye, Zhang Chenwei, Zhang Tao, Yu Philip S.
 conference: "Arxiv"
 year: 2023

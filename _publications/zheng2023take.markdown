@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Take A Step Back: Evoking Reasoning Via Abstraction In Large Language Models"
+title: Take A Step Back: Evoking Reasoning Via Abstraction In Large Language Models
 authors: Zheng Huaixiu Steven, Mishra Swaroop, Chen Xinyun, Cheng Heng-tze, Chi Ed H., Le Quoc V, Zhou Denny
 conference: "Arxiv"
 year: 2023

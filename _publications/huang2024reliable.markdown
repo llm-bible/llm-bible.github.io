@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Queryagent: A Reliable And Efficient Reasoning Framework With Environmental Feedback-based Self-correction"
+title: Queryagent: A Reliable And Efficient Reasoning Framework With Environmental Feedback-based Self-correction
 authors: Huang Xiang, Cheng Sitao, Huang Shanshan, Shen Jiayu, Xu Yong, Zhang Chaoyun, Qu Yuzhong
 conference: "Arxiv"
 year: 2024

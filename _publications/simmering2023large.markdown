@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models For Aspect-based Sentiment Analysis"
+title: Large Language Models For Aspect-based Sentiment Analysis
 authors: Simmering Paul F., Huoviala Paavo
 conference: "Arxiv"
 year: 2023

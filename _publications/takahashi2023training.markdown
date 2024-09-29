@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Training Generative Question-answering On Synthetic Data Obtained From An Instruct-tuned Model"
+title: Training Generative Question-answering On Synthetic Data Obtained From An Instruct-tuned Model
 authors: Takahashi Kosuke, Omi Takahiro, Arima Kosuke, Ishigaki Tatsuya
 conference: "Arxiv"
 year: 2023

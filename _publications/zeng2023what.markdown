@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "What Matters In Training A Gpt4-style Language Model With Multimodal Inputs?"
+title: What Matters In Training A Gpt4-style Language Model With Multimodal Inputs?
 authors: Zeng Yan, Zhang Hanbo, Zheng Jiani, Xia Jiangnan, Wei Guoqiang, Wei Yang, Zhang Yuchen, Kong Tao
 conference: "Arxiv"
 year: 2023

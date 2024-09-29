@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "BERT4CTR: An Efficient Framework To Combine Pre-trained Language Model With Non-textual Features For CTR Prediction"
+title: BERT4CTR: An Efficient Framework To Combine Pre-trained Language Model With Non-textual Features For CTR Prediction
 authors: Wang Dong, Salamatian Kavé, Xia Yunqing, Deng Weiwei, Zhiang Qi
 conference: "Arxiv"
 year: 2023

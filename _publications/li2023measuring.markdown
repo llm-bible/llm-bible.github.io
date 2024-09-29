@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "CMMLU: Measuring Massive Multitask Language Understanding In Chinese"
+title: CMMLU: Measuring Massive Multitask Language Understanding In Chinese
 authors: Li Haonan, Zhang Yixuan, Koto Fajri, Yang Yifei, Zhao Hai, Gong Yeyun, Duan Nan, Baldwin Timothy
 conference: "Arxiv"
 year: 2023

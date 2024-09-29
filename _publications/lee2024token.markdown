@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Token-supervised Value Models For Enhancing Mathematical Reasoning Capabilities Of Large Language Models"
+title: Token-supervised Value Models For Enhancing Mathematical Reasoning Capabilities Of Large Language Models
 authors: Lee Jung Hyun, Yang June Yong, Heo Byeongho, Han Dongyoon, Yoo Kang Min
 conference: "Arxiv"
 year: 2024

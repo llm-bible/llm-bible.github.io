@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Key-point-driven Data Synthesis With Its Enhancement On Mathematical Reasoning"
+title: Key-point-driven Data Synthesis With Its Enhancement On Mathematical Reasoning
 authors: Huang Yiming, Liu Xiao, Gong Yeyun, Gou Zhibin, Shen Yelong, Duan Nan, Chen Weizhu
 conference: "Arxiv"
 year: 2024

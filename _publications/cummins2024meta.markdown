@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Meta Large Language Model Compiler: Foundation Models Of Compiler Optimization"
+title: Meta Large Language Model Compiler: Foundation Models Of Compiler Optimization
 authors: Cummins Chris, Seeker Volker, Grubisic Dejan, Roziere Baptiste, Gehring Jonas, Synnaeve Gabriel, Leather Hugh
 conference: "Arxiv"
 year: 2024

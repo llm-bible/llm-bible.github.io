@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Enabling Large Language Models To Generate Text With Citations"
+title: Enabling Large Language Models To Generate Text With Citations
 authors: Gao Tianyu, Yen Howard, Yu Jiatong, Chen Danqi
 conference: "Arxiv"
 year: 2023

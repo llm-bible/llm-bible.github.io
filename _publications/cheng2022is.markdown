@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Is Multiwoz A Solved Task? An Interactive TOD Evaluation Framework With User Simulator"
+title: Is Multiwoz A Solved Task? An Interactive TOD Evaluation Framework With User Simulator
 authors: Cheng Qinyuan, Li Linyang, Quan Guofeng, Gao Feng, Mou Xiaofeng, Qiu Xipeng
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Data Curation Alone Can Stabilize In-context Learning"
+title: Data Curation Alone Can Stabilize In-context Learning
 authors: Chang Ting-yun, Jia Robin
 conference: "Arxiv"
 year: 2022

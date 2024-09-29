@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Accuracy Of A Vision-language Model On Challenging Medical Cases"
+title: Accuracy Of A Vision-language Model On Challenging Medical Cases
 authors: Buckley Thomas, Diao James A., Rodman Adam, Manrai Arjun K.
 conference: "Arxiv"
 year: 2023

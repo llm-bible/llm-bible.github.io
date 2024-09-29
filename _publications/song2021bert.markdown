@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bob: BERT Over BERT For Training Persona-based Dialogue Models From Limited Personalized Data"
+title: Bob: BERT Over BERT For Training Persona-based Dialogue Models From Limited Personalized Data
 authors: Song Haoyu, Wang Yan, Zhang Kaiyan, Zhang Wei-nan, Liu Ting
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Gpt4aigchip: Towards Next-generation AI Accelerator Design Automation Via Large Language Models"
+title: Gpt4aigchip: Towards Next-generation AI Accelerator Design Automation Via Large Language Models
 authors: Fu Yonggan, Zhang Yongan, Yu Zhongzhi, Li Sixu, Ye Zhifan, Li Chaojian, Wan Cheng, Lin Yingyan
 conference: "Arxiv"
 year: 2023

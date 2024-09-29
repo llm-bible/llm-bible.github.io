@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Conversational Ai-powered Design: Chatgpt As Designer, User, And Product"
+title: Conversational Ai-powered Design: Chatgpt As Designer, User, And Product
 authors: Kocaballi A. Baki
 conference: "Arxiv"
 year: 2023

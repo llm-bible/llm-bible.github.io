@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Assessing The Syntactic Capabilities Of Transformer-based Multilingual Language Models"
+title: Assessing The Syntactic Capabilities Of Transformer-based Multilingual Language Models
 authors: Pérez-mayos Laura, García Alba Táboas, Mille Simon, Wanner Leo
 conference: "Arxiv"
 year: 2021

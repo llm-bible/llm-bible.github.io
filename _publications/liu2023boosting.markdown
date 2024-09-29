@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "ONCE: Boosting Content-based Recommendation With Both Open- And Closed-source Large Language Models"
+title: ONCE: Boosting Content-based Recommendation With Both Open- And Closed-source Large Language Models
 authors: Qijiong Liu, Nuo Chen, Tetsuya Sakai, Xiao-ming Wu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models Are Zero-shot Reasoners"
+title: Large Language Models Are Zero-shot Reasoners
 authors: Takeshi Kojima, Shixiang Shane Gu, Machel Reid, Yutaka Matsuo, Yusuke Iwasawa
 conference: "Arxiv"
 year: 2022

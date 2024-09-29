@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Facts-and-feelings: Capturing Both Objectivity And Subjectivity In Table-to-text Generation"
+title: Facts-and-feelings: Capturing Both Objectivity And Subjectivity In Table-to-text Generation
 authors: Dey Tathagata, Bhattacharyya Pushpak
 conference: "Arxiv"
 year: 2024

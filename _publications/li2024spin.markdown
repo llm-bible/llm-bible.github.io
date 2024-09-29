@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Spin Glass Model Of In-context Learning"
+title: Spin Glass Model Of In-context Learning
 authors: Li Yuhao, Bai Ruoran, Huang Haiping
 conference: "Arxiv"
 year: 2024

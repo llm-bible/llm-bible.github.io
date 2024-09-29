@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Jointly Training Large Autoregressive Multimodal Models"
+title: Jointly Training Large Autoregressive Multimodal Models
 authors: Aiello Emanuele, Yu Lili, Nie Yixin, Aghajanyan Armen, Oguz Barlas
 conference: "Arxiv"
 year: 2023

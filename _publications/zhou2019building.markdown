@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Building Task-oriented Visual Dialog Systems Through Alternative Optimization Between Dialog Policy And Language Generation"
+title: Building Task-oriented Visual Dialog Systems Through Alternative Optimization Between Dialog Policy And Language Generation
 authors: Zhou Mingyang, Arnold Josh, Yu Zhou
 conference: "Arxiv"
 year: 2019

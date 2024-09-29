@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Entropy-based Decoding For Retrieval-augmented Large Language Models"
+title: Entropy-based Decoding For Retrieval-augmented Large Language Models
 authors: Qiu Zexuan, Ou Zijing, Wu Bin, Li Jingjing, Liu Aiwei, King Irwin
 conference: "Arxiv"
 year: 2024

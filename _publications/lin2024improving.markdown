@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving Visual Storytelling With Multimodal Large Language Models"
+title: Improving Visual Storytelling With Multimodal Large Language Models
 authors: Lin Xiaochuan, Chen Xiangyong
 conference: "Arxiv"
 year: 2024

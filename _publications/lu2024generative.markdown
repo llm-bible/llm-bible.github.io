@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Generative Students: Using Llm-simulated Student Profiles To Support Question Item Evaluation"
+title: Generative Students: Using Llm-simulated Student Profiles To Support Question Item Evaluation
 authors: Lu Xinyi, Wang Xu
 conference: "Arxiv"
 year: 2024

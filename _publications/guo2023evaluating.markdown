@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating Large Language Models: A Comprehensive Survey"
+title: Evaluating Large Language Models: A Comprehensive Survey
 authors: Guo Zishan, Jin Renren, Liu Chuang, Huang Yufei, Shi Dan, Supryadi, Yu Linhao, Liu Yan, Li Jiaxuan, Xiong Bojian, Xiong Deyi
 conference: "Arxiv"
 year: 2023

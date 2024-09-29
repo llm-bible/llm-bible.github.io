@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Learning To Decompose Visual Features With Latent Textual Prompts"
+title: Learning To Decompose Visual Features With Latent Textual Prompts
 authors: Wang Feng, Li Manling, Lin Xudong, Lv Hairong, Schwing Alexander G., Ji Heng
 conference: "Arxiv"
 year: 2022

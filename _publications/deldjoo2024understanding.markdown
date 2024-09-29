@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Understanding Biases In Chatgpt-based Recommender Systems: Provider Fairness, Temporal Stability, And Recency"
+title: Understanding Biases In Chatgpt-based Recommender Systems: Provider Fairness, Temporal Stability, And Recency
 authors: Deldjoo Yashar
 conference: "Arxiv"
 year: 2024

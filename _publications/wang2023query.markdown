@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Query2doc: Query Expansion With Large Language Models"
+title: Query2doc: Query Expansion With Large Language Models
 authors: Wang Liang, Yang Nan, Wei Furu
 conference: "Arxiv"
 year: 2023

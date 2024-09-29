@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Llamax: Scaling Linguistic Horizons Of LLM By Enhancing Translation Capabilities Beyond 100 Languages"
+title: Llamax: Scaling Linguistic Horizons Of LLM By Enhancing Translation Capabilities Beyond 100 Languages
 authors: Lu Yinquan, Zhu Wenhao, Li Lei, Qiao Yu, Yuan Fei
 conference: "Arxiv"
 year: 2024

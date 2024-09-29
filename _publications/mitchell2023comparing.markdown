@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Comparing Humans, GPT-4, And GPT-4V On Abstraction And Reasoning Tasks"
+title: Comparing Humans, GPT-4, And GPT-4V On Abstraction And Reasoning Tasks
 authors: Mitchell Melanie, Palmarini Alessandro B., Moskvichev Arseny
 conference: "Proceedings of the LLM-CP Workshop AAAI"
 year: 2023

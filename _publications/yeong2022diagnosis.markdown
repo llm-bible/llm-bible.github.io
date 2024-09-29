@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Alzheimer's Diagnosis And Generation-based Chatbot Using Hierarchical Attention And Transformer"
+title: Alzheimer's Diagnosis And Generation-based Chatbot Using Hierarchical Attention And Transformer
 authors: Yeong Park Jun, Jong Shin Su, Hwan Choi Chang, Jae Lee Jung, Sang-il Choi
 conference: "Arxiv"
 year: 2022

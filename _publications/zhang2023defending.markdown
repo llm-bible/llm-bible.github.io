@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Defending Large Language Models Against Jailbreaking Attacks Through Goal Prioritization"
+title: Defending Large Language Models Against Jailbreaking Attacks Through Goal Prioritization
 authors: Zhang Zhexin, Yang Junxiao, Ke Pei, Mi Fei, Wang Hongning, Huang Minlie
 conference: "Arxiv"
 year: 2023

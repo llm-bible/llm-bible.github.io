@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Regulating Chatgpt And Other Large Generative AI Models"
+title: Regulating Chatgpt And Other Large Generative AI Models
 authors: Hacker Philipp, Engel Andreas, Mauer Marco
 conference: "Arxiv"
 year: 2023

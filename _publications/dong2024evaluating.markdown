@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating And Mitigating Linguistic Discrimination In Large Language Models"
+title: Evaluating And Mitigating Linguistic Discrimination In Large Language Models
 authors: Dong Guoliang, Wang Haoyu, Sun Jun, Wang Xinyu
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Llama Guard: Llm-based Input-output Safeguard For Human-ai Conversations"
+title: Llama Guard: Llm-based Input-output Safeguard For Human-ai Conversations
 authors: Inan Hakan, Upasani Kartikeya, Chi Jianfeng, Rungta Rashi, Iyer Krithika, Mao Yuning, Tontchev Michael, Hu Qing, Fuller Brian, Testuggine Davide, Khabsa Madian
 conference: "Arxiv"
 year: 2023

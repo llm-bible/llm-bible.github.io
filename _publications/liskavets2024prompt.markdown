@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Prompt Compression With Context-aware Sentence Encoding For Fast And Improved LLM Inference"
+title: Prompt Compression With Context-aware Sentence Encoding For Fast And Improved LLM Inference
 authors: Liskavets Barys, Ushakov Maxim, Roy Shuvendu, Klibanov Mark, Etemad Ali, Luke Shane
 conference: "Arxiv"
 year: 2024

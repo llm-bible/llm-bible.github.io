@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Domain-independent User Simulation With Transformers For Task-oriented Dialogue Systems"
+title: Domain-independent User Simulation With Transformers For Task-oriented Dialogue Systems
 authors: Lin Hsien-chin, Lubis Nurul, Hu Songbo, Van Niekerk Carel, Geishauser Christian, Heck Michael, Feng Shutong, Gašić Milica
 conference: "Arxiv"
 year: 2021

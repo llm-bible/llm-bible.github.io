@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On Speeding Up Language Model Evaluation"
+title: On Speeding Up Language Model Evaluation
 authors: Zhou Jin Peng, Belardi Christian K., Wu Ruihan, Zhang Travis, Gomes Carla P., Sun Wen, Weinberger Kilian Q.
 conference: "Arxiv"
 year: 2024

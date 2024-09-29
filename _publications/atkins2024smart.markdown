@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Convocache: Smart Re-use Of Chatbot Responses"
+title: Convocache: Smart Re-use Of Chatbot Responses
 authors: Atkins Conor, Wood Ian, Kaafar Mohamed Ali, Asghar Hassan, Basta Nardine, Kepkowski Michal
 conference: "Arxiv"
 year: 2024

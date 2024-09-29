@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "SDQ: Sparse Decomposed Quantization For LLM Inference"
+title: SDQ: Sparse Decomposed Quantization For LLM Inference
 authors: Jeong Geonhwa, Tsai Po-an, Keckler Stephen W., Krishna Tushar
 conference: "Arxiv"
 year: 2024

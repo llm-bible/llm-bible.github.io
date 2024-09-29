@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Investigating Low-cost LLM Annotation For~spoken Dialogue Understanding Datasets"
+title: Investigating Low-cost LLM Annotation For~spoken Dialogue Understanding Datasets
 authors: Druart Lucas Lia, Vielzeuf Valentin Lia, Estève Yannick Lia
 conference: ""
 year: 2024

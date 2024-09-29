@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Generative Calibration For In-context Learning"
+title: Generative Calibration For In-context Learning
 authors: Jiang Zhongtao, Zhang Yuanzhe, Liu Cao, Zhao Jun, Liu Kang
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Hallucination Augmented Recitations For Language Models"
+title: Hallucination Augmented Recitations For Language Models
 authors: Köksal Abdullatif, Aksitov Renat, Chang Chung-ching
 conference: "Arxiv"
 year: 2023

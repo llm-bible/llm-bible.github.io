@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Asking And Answering Questions To Extract Event-argument Structures"
+title: Asking And Answering Questions To Extract Event-argument Structures
 authors: Uddin Md Nayem, George Enfa Rose, Blanco Eduardo, Corman Steven
 conference: "Arxiv"
 year: 2024

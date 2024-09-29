@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "BLOOM+1: Adding Language Support To BLOOM For Zero-shot Prompting"
+title: BLOOM+1: Adding Language Support To BLOOM For Zero-shot Prompting
 authors: Yong Zheng-xin, Schoelkopf Hailey, Muennighoff Niklas, Aji Alham Fikri, Adelani David Ifeoluwa, Almubarak Khalid, Bari M Saiful, Sutawika Lintang, Kasai Jungo, Baruwa Ahmed, Winata Genta Indra, Biderman Stella, Raff Edward, Radev Dragomir, Nikoulina Vassilina
 conference: "Arxiv"
 year: 2022

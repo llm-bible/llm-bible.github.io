@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Motionllm: Multimodal Motion-language Learning With Large Language Models"
+title: Motionllm: Multimodal Motion-language Learning With Large Language Models
 authors: Wu Qi, Zhao Yubo, Wang Yifan, Tai Yu-wing, Tang Chi-keung
 conference: "Arxiv"
 year: 2024

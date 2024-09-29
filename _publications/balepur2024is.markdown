@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Is Your Large Language Model Knowledgeable Or A Choices-only Cheater?"
+title: Is Your Large Language Model Knowledgeable Or A Choices-only Cheater?
 authors: Balepur Nishant, Rudinger Rachel
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Role-play Zero-shot Prompting With Large Language Models For Open-domain Human-machine Conversation"
+title: Role-play Zero-shot Prompting With Large Language Models For Open-domain Human-machine Conversation
 authors: Njifenjou Ahmed, Sucal Virgile, Jabaian Bassam, Lefèvre Fabrice
 conference: "Arxiv"
 year: 2024

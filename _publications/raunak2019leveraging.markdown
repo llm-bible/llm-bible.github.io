@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On Leveraging The Visual Modality For Neural Machine Translation"
+title: On Leveraging The Visual Modality For Neural Machine Translation
 authors: Raunak Vikas, Choe Sang Keun, Lu Quanyang, Xu Yi, Metze Florian
 conference: "Arxiv"
 year: 2019

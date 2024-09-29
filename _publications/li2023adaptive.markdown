@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Adaptive Gating In Mixture-of-experts Based Language Models"
+title: Adaptive Gating In Mixture-of-experts Based Language Models
 authors: Li Jiamin, Su Qiang, Yang Yitao, Jiang Yimin, Wang Cong, Xu Hong
 conference: "Arxiv"
 year: 2023

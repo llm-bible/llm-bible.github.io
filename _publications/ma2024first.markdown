@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "First Activations Matter: Training-free Methods For Dynamic Activation In Large Language Models"
+title: First Activations Matter: Training-free Methods For Dynamic Activation In Large Language Models
 authors: Ma Chi, Huang Mincong, Zhang Ying, Wang Chao, Wang Yujie, Yu Lei, Liu Chuan, Lin Wei
 conference: "Arxiv"
 year: 2024

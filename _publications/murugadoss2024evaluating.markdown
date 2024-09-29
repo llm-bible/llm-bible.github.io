@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating The Evaluator: Measuring Llms' Adherence To Task Evaluation Instructions"
+title: Evaluating The Evaluator: Measuring Llms' Adherence To Task Evaluation Instructions
 authors: Murugadoss Bhuvanashree, Poelitz Christian, Drosos Ian, Le Vu, Mckenna Nick, Negreanu Carina Suzana, Parnin Chris, Sarkar Advait
 conference: "Arxiv"
 year: 2024

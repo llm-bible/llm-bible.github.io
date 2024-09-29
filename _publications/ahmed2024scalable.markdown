@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Scalable Ensembling For Mitigating Reward Overoptimisation"
+title: Scalable Ensembling For Mitigating Reward Overoptimisation
 authors: Ahmed Ahmed M., Rafailov Rafael, Sharkov Stepan, Li Xuechen, Koyejo Sanmi
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving Cross-task Generalization With Step-by-step Instructions"
+title: Improving Cross-task Generalization With Step-by-step Instructions
 authors: Wu Yang, Zhao Yanyan, Li Zhongyang, Qin Bing, Xiong Kai
 conference: "Arxiv"
 year: 2023

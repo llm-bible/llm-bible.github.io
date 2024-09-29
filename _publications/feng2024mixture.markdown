@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mixture-of-loras: An Efficient Multitask Tuning For Large Language Models"
+title: Mixture-of-loras: An Efficient Multitask Tuning For Large Language Models
 authors: Feng Wenfeng, Hao Chuzhan, Zhang Yuewei, Han Yu, Wang Hao
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Symmetric Dual Encoding Dense Retrieval Framework For Knowledge-intensive Visual Question Answering"
+title: A Symmetric Dual Encoding Dense Retrieval Framework For Knowledge-intensive Visual Question Answering
 authors: Salemi Alireza, Pizzorno Juan Altmayer, Zamani Hamed
 conference: "Arxiv"
 year: 2023

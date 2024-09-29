@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Assessing Adversarial Robustness Of Large Language Models: An Empirical Study"
+title: Assessing Adversarial Robustness Of Large Language Models: An Empirical Study
 authors: Yang Zeyu, Meng Zhao, Zheng Xiaochen, Wattenhofer Roger
 conference: "Arxiv"
 year: 2024

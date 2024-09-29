@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Comprehensive Study Of Jailbreak Attack Versus Defense For Large Language Models"
+title: A Comprehensive Study Of Jailbreak Attack Versus Defense For Large Language Models
 authors: Xu Zihao, Liu Yi, Deng Gelei, Li Yuekang, Picek Stjepan
 conference: "Arxiv"
 year: 2024

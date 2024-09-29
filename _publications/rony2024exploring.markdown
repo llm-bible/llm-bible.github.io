@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring The Potential Of The Large Language Models (llms) In Identifying Misleading News Headlines"
+title: Exploring The Potential Of The Large Language Models (llms) In Identifying Misleading News Headlines
 authors: Rony Md Main Uddin, Haque Md Mahfuzul, Ali Mohammad, Alam Ahmed Shatil, Hassan Naeemul
 conference: "Arxiv"
 year: 2024

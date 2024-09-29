@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "QAQ: Quality Adaptive Quantization For LLM KV Cache"
+title: QAQ: Quality Adaptive Quantization For LLM KV Cache
 authors: Dong Shichen, Cheng Wen, Qin Jiayu, Wang Wei
 conference: "Arxiv"
 year: 2024

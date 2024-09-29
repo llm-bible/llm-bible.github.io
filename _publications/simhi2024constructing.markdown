@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Constructing Benchmarks And Interventions For Combating Hallucinations In Llms"
+title: Constructing Benchmarks And Interventions For Combating Hallucinations In Llms
 authors: Simhi Adi, Herzig Jonathan, Szpektor Idan, Belinkov Yonatan
 conference: "Arxiv"
 year: 2024

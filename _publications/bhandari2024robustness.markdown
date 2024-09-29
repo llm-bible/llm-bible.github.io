@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On The Robustness Of Language Models For Tabular Question Answering"
+title: On The Robustness Of Language Models For Tabular Question Answering
 authors: Bhandari Kushal Raj, Xing Sixue, Dan Soham, Gao Jianxi
 conference: "Arxiv"
 year: 2024

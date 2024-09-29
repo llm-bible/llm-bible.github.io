@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Solving Multimodal Comprehension"
+title: Towards Solving Multimodal Comprehension
 authors: Sahu Pritish, Sikka Karan, Divakaran Ajay
 conference: "Arxiv"
 year: 2021

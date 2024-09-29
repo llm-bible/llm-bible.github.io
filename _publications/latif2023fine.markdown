@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fine-tuning Chatgpt For Automatic Scoring"
+title: Fine-tuning Chatgpt For Automatic Scoring
 authors: Latif Ehsan, Zhai Xiaoming
 conference: "Arxiv"
 year: 2023

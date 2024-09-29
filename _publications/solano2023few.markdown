@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "SPARSEFIT: Few-shot Prompting With Sparse Fine-tuning For Jointly Generating Predictions And Natural Language Explanations"
+title: SPARSEFIT: Few-shot Prompting With Sparse Fine-tuning For Jointly Generating Predictions And Natural Language Explanations
 authors: Solano Jesus, Sanni Mardhiyah, Camburu Oana-maria, Minervini Pasquale
 conference: "ACL"
 year: 2023

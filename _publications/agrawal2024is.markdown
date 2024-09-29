@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Is Context Helpful For Chat Translation Evaluation?"
+title: Is Context Helpful For Chat Translation Evaluation?
 authors: Agrawal Sweta, Farajian Amin, Fernandes Patrick, Rei Ricardo, Martins André F. T.
 conference: "Arxiv"
 year: 2024

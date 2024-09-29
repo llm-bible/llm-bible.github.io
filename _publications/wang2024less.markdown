@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Less Is More For Improving Automatic Evaluation Of Factual Consistency"
+title: Less Is More For Improving Automatic Evaluation Of Factual Consistency
 authors: Wang Tong, Kulkarni Ninad, Qi Yanjun
 conference: "Arxiv"
 year: 2024

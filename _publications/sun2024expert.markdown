@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Expert-guided Extinction Of Toxic Tokens For Debiased Generation"
+title: Expert-guided Extinction Of Toxic Tokens For Debiased Generation
 authors: Sun Xueyao, Shi Kaize, Tang Haoran, Xu Guandong, Li Qing
 conference: "Arxiv"
 year: 2024

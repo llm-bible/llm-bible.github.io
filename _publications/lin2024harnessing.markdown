@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Syncpkl: Harnessing Llms To Generate Synthetic Data For Commonsense Persona Knowledge Linking"
+title: Syncpkl: Harnessing Llms To Generate Synthetic Data For Commonsense Persona Knowledge Linking
 authors: Lin Kuan-yen
 conference: "Arxiv"
 year: 2024

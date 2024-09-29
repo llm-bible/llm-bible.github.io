@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Kola: Carefully Benchmarking World Knowledge Of Large Language Models"
+title: Kola: Carefully Benchmarking World Knowledge Of Large Language Models
 authors: Yu Jifan, Wang Xiaozhi, Tu Shangqing, Cao Shulin, Zhang-li Daniel, Lv Xin, Peng Hao, Yao Zijun, Zhang Xiaohan, Li Hanming, Li Chunyang, Zhang Zheyuan, Bai Yushi, Liu Yantao, Xin Amy, Lin Nianyi, Yun Kaifeng, Gong Linlu, Chen Jianhui, Wu Zhili, Qi Yunjia, Li Weikai, Guan Yong, Zeng Kaisheng, Qi Ji, Jin Hailong, Liu Jinxin, Gu Yu, Yao Yuan, Ding Ning, Hou Lei, Liu Zhiyuan, Xu Bin, Tang Jie, Li Juanzi
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multilingual Speech Translation With Efficient Finetuning Of Pretrained Models"
+title: Multilingual Speech Translation With Efficient Finetuning Of Pretrained Models
 authors: Li Xian, Wang Changhan, Tang Yun, Tran Chau, Tang Yuqing, Pino Juan, Baevski Alexei, Conneau Alexis, Auli Michael
 conference: "Arxiv"
 year: 2020

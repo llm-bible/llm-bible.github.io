@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Prompt-to-prompt Image Editing With Cross Attention Control"
+title: Prompt-to-prompt Image Editing With Cross Attention Control
 authors: Hertz Amir, Mokady Ron, Tenenbaum Jay, Aberman Kfir, Pritch Yael, Cohen-or Daniel
 conference: "Arxiv"
 year: 2022

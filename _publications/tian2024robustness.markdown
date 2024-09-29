@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Robustness Assessment Of Mathematical Reasoning In The Presence Of Missing And Contradictory Conditions"
+title: Robustness Assessment Of Mathematical Reasoning In The Presence Of Missing And Contradictory Conditions
 authors: Tian Shi-yu, Zhou Zhi, Jia Lin-han, Guo Lan-zhe, Li Yu-feng
 conference: "Arxiv"
 year: 2024

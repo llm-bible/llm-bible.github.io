@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Comparative Analysis Of Different Efficient Fine Tuning Methods Of Large Language Models (llms) In Low-resource Setting"
+title: Comparative Analysis Of Different Efficient Fine Tuning Methods Of Large Language Models (llms) In Low-resource Setting
 authors: Srinivasan Krishna Prasad Varadarajan, Gumpena Prasanth, Yattapu Madhusudhana, Brahmbhatt Vishal H.
 conference: "Arxiv"
 year: 2024

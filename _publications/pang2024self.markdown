@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Self-alignment Of Large Language Models Via Monopolylogue-based Social Scene Simulation"
+title: Self-alignment Of Large Language Models Via Monopolylogue-based Social Scene Simulation
 authors: Pang Xianghe, Tang Shuo, Ye Rui, Xiong Yuxin, Zhang Bolun, Wang Yanfeng, Chen Siheng
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Science Of Detecting Llm-generated Texts"
+title: The Science Of Detecting Llm-generated Texts
 authors: Ruixiang Tang, Yu-neng Chuang, Xia Hu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Leveraging Large Language Models For Patient Engagement: The Power Of Conversational AI In Digital Health"
+title: Leveraging Large Language Models For Patient Engagement: The Power Of Conversational AI In Digital Health
 authors: Wen Bo, Norel Raquel, Liu Julia, Stappenbeck Thaddeus, Zulkernine Farhana, Chen Huamin
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "DPL: Decoupled Prompt Learning For Vision-language Models"
+title: DPL: Decoupled Prompt Learning For Vision-language Models
 authors: Xu Chen, Zhu Yuhan, Zhang Guozhen, Shen Haocheng, Liao Yixuan, Chen Xiaoxin, Wu Gangshan, Wang Limin
 conference: "Arxiv"
 year: 2023

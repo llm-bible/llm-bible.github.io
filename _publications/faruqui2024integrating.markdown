@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Integrating A.I. In Higher Education: Protocol For A Pilot Study With 'samcares: An Adaptive Learning Hub'"
+title: Integrating A.I. In Higher Education: Protocol For A Pilot Study With 'samcares: An Adaptive Learning Hub'
 authors: Faruqui Syed Hasib Akhter, Tasnim Nazia, Basith Iftekhar Ibne, Obeidat Suleiman, Yildiz Faruk
 conference: "Arxiv"
 year: 2024

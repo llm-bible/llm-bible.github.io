@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Clawmachine: Fetching Visual Tokens As An Entity For Referring And Grounding"
+title: Clawmachine: Fetching Visual Tokens As An Entity For Referring And Grounding
 authors: Ma Tianren, Xie Lingxi, Tian Yunjie, Yang Boyu, Zhang Yuan, Doermann David, Ye Qixiang
 conference: "Arxiv"
 year: 2024

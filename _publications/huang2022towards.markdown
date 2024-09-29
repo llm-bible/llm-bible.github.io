@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Reasoning In Large Language Models: A Survey"
+title: Towards Reasoning In Large Language Models: A Survey
 authors: Jie Huang, Kevin Chen-chuan Chang
 conference: "Arxiv"
 year: 2022

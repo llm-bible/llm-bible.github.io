@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Experimenting With Legal AI Solutions: The Case Of Question-answering For Access To Justice"
+title: Experimenting With Legal AI Solutions: The Case Of Question-answering For Access To Justice
 authors: Li Jonathan, Bhambhoria Rohan, Dahan Samuel, Zhu Xiaodan
 conference: "Arxiv"
 year: 2024

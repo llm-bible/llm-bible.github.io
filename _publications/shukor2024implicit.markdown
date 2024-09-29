@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Implicit Multimodal Alignment: On The Generalization Of Frozen Llms To Multimodal Inputs"
+title: Implicit Multimodal Alignment: On The Generalization Of Frozen Llms To Multimodal Inputs
 authors: Shukor Mustafa, Cord Matthieu
 conference: "Arxiv"
 year: 2024

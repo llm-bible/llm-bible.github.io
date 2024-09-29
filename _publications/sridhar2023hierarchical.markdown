@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Hierarchical Prompting Assists Large Language Model On Web Navigation"
+title: Hierarchical Prompting Assists Large Language Model On Web Navigation
 authors: Sridhar Abishek, Lo Robert, Xu Frank F., Zhu Hao, Zhou Shuyan
 conference: "Arxiv"
 year: 2023

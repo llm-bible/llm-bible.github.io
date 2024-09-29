@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Lauragpt: Listen, Attend, Understand, And Regenerate Audio With GPT"
+title: Lauragpt: Listen, Attend, Understand, And Regenerate Audio With GPT
 authors: Du Zhihao, Wang Jiaming, Chen Qian, Chu Yunfei, Gao Zhifu, Li Zerui, Hu Kai, Zhou Xiaohuan, Xu Jin, Ma Ziyang, Wang Wen, Zheng Siqi, Zhou Chang, Yan Zhijie, Zhang Shiliang
 conference: "Arxiv"
 year: 2023

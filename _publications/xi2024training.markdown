@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Training Large Language Models For Reasoning Through Reverse Curriculum Reinforcement Learning"
+title: Training Large Language Models For Reasoning Through Reverse Curriculum Reinforcement Learning
 authors: Zhiheng Xi, Wenxiang Chen, Boyang Hong, Senjie Jin, Rui Zheng, Wei He, Yiwen Ding, Shichun Liu, Xin Guo, Junzhe Wang, Honglin Guo, Wei Shen, Xiaoran Fan, Yuhao Zhou, Shihan Dou, Xiao Wang, Xinbo Zhang, Peng Sun, Tao Gui, Qi Zhang, Xuanjing Huang
 conference: "Arxiv"
 year: 2024

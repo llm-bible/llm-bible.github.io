@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "HALC: Object Hallucination Reduction Via Adaptive Focal-contrast Decoding"
+title: HALC: Object Hallucination Reduction Via Adaptive Focal-contrast Decoding
 authors: Zhaorun Chen, Zhuokai Zhao, Hongyin Luo, Huaxiu Yao, Bo Li, Jiawei Zhou
 conference: "Arxiv"
 year: 2024

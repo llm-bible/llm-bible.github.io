@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Humaneval-xl: A Multilingual Code Generation Benchmark For Cross-lingual Natural Language Generalization"
+title: Humaneval-xl: A Multilingual Code Generation Benchmark For Cross-lingual Natural Language Generalization
 authors: Peng Qiwei, Chai Yekun, Li Xuhong
 conference: "Arxiv"
 year: 2024

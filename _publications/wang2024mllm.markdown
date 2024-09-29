@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mllm-tool: A Multimodal Large Language Model For Tool Agent Learning"
+title: Mllm-tool: A Multimodal Large Language Model For Tool Agent Learning
 authors: Wang Chenyu Michael, Luo Weixin Michael, Chen Qianyu Michael, Mai Haonan Michael, Guo Jindi Michael, Dong Sixun Michael, Xiaohua Michael, Xuan, Li Zhengxin, Ma Lin, Gao Shenghua
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fine-grained Semantically Aligned Vision-language Pre-training"
+title: Fine-grained Semantically Aligned Vision-language Pre-training
 authors: Li Juncheng, He Xin, Wei Longhui, Qian Long, Zhu Linchao, Xie Lingxi, Zhuang Yueting, Tian Qi, Tang Siliang
 conference: "Arxiv"
 year: 2022

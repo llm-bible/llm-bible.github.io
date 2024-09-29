@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Model Augmented Narrative Driven Recommendations"
+title: Large Language Model Augmented Narrative Driven Recommendations
 authors: Mysore Sheshera, Mccallum Andrew, Zamani Hamed
 conference: "Arxiv"
 year: 2023

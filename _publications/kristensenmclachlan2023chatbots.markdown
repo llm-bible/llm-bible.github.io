@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chatbots Are Not Reliable Text Annotators"
+title: Chatbots Are Not Reliable Text Annotators
 authors: Kristensen-mclachlan Ross Deans, Canavan Miceal, Kardos Márton, Jacobsen Mia, Aarøe Lene
 conference: "Arxiv"
 year: 2023

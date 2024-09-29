@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Adversarial Self-attention For Language Understanding"
+title: Adversarial Self-attention For Language Understanding
 authors: Wu Hongqiu, Ding Ruixue, Zhao Hai, Xie Pengjun, Huang Fei, Zhang Min
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Arabiangpt: Native Arabic Gpt-based Large Language Model"
+title: Arabiangpt: Native Arabic Gpt-based Large Language Model
 authors: Koubaa Anis, Ammar Adel, Ghouti Lahouari, Najar Omar, Sibaee Serry
 conference: "Arxiv"
 year: 2024

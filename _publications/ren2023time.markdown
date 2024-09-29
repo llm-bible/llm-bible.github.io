@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Timechat: A Time-sensitive Multimodal Large Language Model For Long Video Understanding"
+title: Timechat: A Time-sensitive Multimodal Large Language Model For Long Video Understanding
 authors: Ren Shuhuai, Yao Linli, Li Shicheng, Sun Xu, Hou Lu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chatgpt For Shaping The Future Of Dentistry: The Potential Of Multi-modal Large Language Model"
+title: Chatgpt For Shaping The Future Of Dentistry: The Potential Of Multi-modal Large Language Model
 authors: Huang Hanyao, Zheng Ou, Wang Dongdong, Yin Jiayi, Wang Zijin, Ding Shengxuan, Yin Heng, Xu Chuan, Yang Renjie, Zheng Qian, Shi Bing
 conference: "Int J Oral Sci."
 year: 2023

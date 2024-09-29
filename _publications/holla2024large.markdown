@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models Aren't All That You Need"
+title: Large Language Models Aren't All That You Need
 authors: Holla Kiran Voderhobli, Kumar Chaithanya, Singh Aryan
 conference: "Arxiv"
 year: 2024

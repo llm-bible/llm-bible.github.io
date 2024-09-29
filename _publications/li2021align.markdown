@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Align Before Fuse: Vision And Language Representation Learning With Momentum Distillation"
+title: Align Before Fuse: Vision And Language Representation Learning With Momentum Distillation
 authors: Li Junnan, Selvaraju Ramprasaath R., Gotmare Akhilesh Deepak, Joty Shafiq, Xiong Caiming, Hoi Steven
 conference: "Arxiv"
 year: 2021

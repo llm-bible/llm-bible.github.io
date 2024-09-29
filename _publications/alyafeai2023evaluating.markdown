@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Taqyim: Evaluating Arabic NLP Tasks Using Chatgpt Models"
+title: Taqyim: Evaluating Arabic NLP Tasks Using Chatgpt Models
 authors: Alyafeai Zaid, Alshaibani Maged S., Alkhamissi Badr, Luqman Hamzah, Alareqi Ebrahim, Fadel Ali
 conference: "Arxiv"
 year: 2023

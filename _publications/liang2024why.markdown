@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Why Are My Prompts Leaked? Unraveling Prompt Extraction Threats In Customized Large Language Models"
+title: Why Are My Prompts Leaked? Unraveling Prompt Extraction Threats In Customized Large Language Models
 authors: Liang Zi, Hu Haibo, Ye Qingqing, Xiao Yaxin, Li Haoyang
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Matryoshka Multimodal Models"
+title: Matryoshka Multimodal Models
 authors: Cai Mu, Yang Jianwei, Gao Jianfeng, Lee Yong Jae
 conference: "Arxiv"
 year: 2024

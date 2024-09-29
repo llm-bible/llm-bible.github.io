@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Supportiveness-based Knowledge Rewriting For Retrieval-augmented Language Modeling"
+title: Supportiveness-based Knowledge Rewriting For Retrieval-augmented Language Modeling
 authors: Qiao Zile, Ye Wei, Jiang Yong, Mo Tong, Xie Pengjun, Li Weiping, Huang Fei, Zhang Shikun
 conference: "Arxiv"
 year: 2024

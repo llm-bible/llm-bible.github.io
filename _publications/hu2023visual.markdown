@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Visual Program Distillation: Distilling Tools And Programmatic Reasoning Into Vision-language Models"
+title: Visual Program Distillation: Distilling Tools And Programmatic Reasoning Into Vision-language Models
 authors: Hu Yushi, Stretcu Otilia, Lu Chun-ta, Viswanathan Krishnamurthy, Hata Kenji, Luo Enming, Krishna Ranjay, Fuxman Ariel
 conference: "Arxiv"
 year: 2023

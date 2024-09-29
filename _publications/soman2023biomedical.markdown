@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Biomedical Knowledge Graph-optimized Prompt Generation For Large Language Models"
+title: Biomedical Knowledge Graph-optimized Prompt Generation For Large Language Models
 authors: Soman Karthik, Rose Peter W, Morris John H, Akbas Rabia E, Smith Brett, Peetoom Braian, Villouta-reyes Catalina, Cerono Gabriel, Shi Yongmei, Rizk-jackson Angela, Israni Sharat, Nelson Charlotte A, Huang Sui, Baranzini Sergio E
 conference: "Arxiv"
 year: 2023

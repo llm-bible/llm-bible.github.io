@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models As Minecraft Agents"
+title: Large Language Models As Minecraft Agents
 authors: Madge Chris, Poesio Massimo
 conference: "Arxiv"
 year: 2024

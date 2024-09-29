@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Olmpics -- On What Language Model Pre-training Captures"
+title: Olmpics -- On What Language Model Pre-training Captures
 authors: Talmor Alon, Elazar Yanai, Goldberg Yoav, Berant Jonathan
 conference: "Arxiv"
 year: 2019

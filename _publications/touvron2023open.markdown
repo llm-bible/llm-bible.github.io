@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Llama: Open And Efficient Foundation Language Models"
+title: Llama: Open And Efficient Foundation Language Models
 authors: Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-anne Lachaux, Timothée Lacroix, Baptiste Rozière, Naman Goyal, Eric Hambro, Faisal Azhar, Aurelien Rodriguez, Armand Joulin, Edouard Grave, Guillaume Lample
 conference: "Arxiv"
 year: 2023

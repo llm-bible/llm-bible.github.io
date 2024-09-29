@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Extrapolating Large Language Models To Non-english By Aligning Languages"
+title: Extrapolating Large Language Models To Non-english By Aligning Languages
 authors: Zhu Wenhao, Lv Yunzhe, Dong Qingxiu, Yuan Fei, Xu Jingjing, Huang Shujian, Kong Lingpeng, Chen Jiajun, Li Lei
 conference: "Arxiv"
 year: 2023

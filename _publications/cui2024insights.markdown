@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Insights From Benchmarking Frontier Language Models On Web App Code Generation"
+title: Insights From Benchmarking Frontier Language Models On Web App Code Generation
 authors: Cui Yi
 conference: "Arxiv"
 year: 2024

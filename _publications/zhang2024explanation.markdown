@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "ELAD: Explanation-guided Large Language Models Active Distillation"
+title: ELAD: Explanation-guided Large Language Models Active Distillation
 authors: Zhang Yifei, Pan Bo, Ling Chen, Hu Yuntong, Zhao Liang
 conference: "Arxiv"
 year: 2024

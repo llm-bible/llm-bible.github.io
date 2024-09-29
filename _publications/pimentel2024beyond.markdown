@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Beyond Metrics: A Critical Analysis Of The Variability In Large Language Model Evaluation Frameworks"
+title: Beyond Metrics: A Critical Analysis Of The Variability In Large Language Model Evaluation Frameworks
 authors: Pimentel Marco Af, Christophe Clément, Raha Tathagata, Munjal Prateek, Kanithi Praveen K, Khan Shadab
 conference: "Arxiv"
 year: 2024

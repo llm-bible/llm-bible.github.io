@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Context-augmented Retrieval: A Novel Framework For Fast Information Retrieval Based Response Generation Using Large Language Model"
+title: Context-augmented Retrieval: A Novel Framework For Fast Information Retrieval Based Response Generation Using Large Language Model
 authors: Ganesh Sai, Purwar Anupam, B Gautam
 conference: "Arxiv"
 year: 2024

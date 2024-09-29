@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mindmerger: Efficient Boosting LLM Reasoning In Non-english Languages"
+title: Mindmerger: Efficient Boosting LLM Reasoning In Non-english Languages
 authors: Huang Zixian, Zhu Wenhao, Cheng Gong, Li Lei, Yuan Fei
 conference: "Arxiv"
 year: 2024

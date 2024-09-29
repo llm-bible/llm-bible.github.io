@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Omnijarvis: Unified Vision-language-action Tokenization Enables Open-world Instruction Following Agents"
+title: Omnijarvis: Unified Vision-language-action Tokenization Enables Open-world Instruction Following Agents
 authors: Wang Zihao, Cai Shaofei, Mu Zhancun, Lin Haowei, Zhang Ceyao, Liu Xuejie, Li Qing, Liu Anji, Ma Xiaojian, Liang Yitao
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Supporting Human Raters With The Detection Of Harmful Content Using Large Language Models"
+title: Supporting Human Raters With The Detection Of Harmful Content Using Large Language Models
 authors: Thomas Kurt, Kelley Patrick Gage, Tao David, Meiklejohn Sarah, Vallis Owen, Tan Shunwen, Bratanič Blaž, Ferreira Felipe Tiengo, Eranti Vijay Kumar, Bursztein Elie
 conference: "Arxiv"
 year: 2024

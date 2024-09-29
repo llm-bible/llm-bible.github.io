@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Transnormerllm: A Faster And Better Large Language Model With Improved Transnormer"
+title: Transnormerllm: A Faster And Better Large Language Model With Improved Transnormer
 authors: Qin Zhen, Li Dong, Sun Weigao, Sun Weixuan, Shen Xuyang, Han Xiaodong, Wei Yunshen, Lv Baohong, Luo Xiao, Qiao Yu, Zhong Yiran
 conference: "Arxiv"
 year: 2023

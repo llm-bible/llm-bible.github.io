@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "3-in-1: 2D Rotary Adaptation For Efficient Finetuning, Efficient Batching And Composability"
+title: 3-in-1: 2D Rotary Adaptation For Efficient Finetuning, Efficient Batching And Composability
 authors: Liao Baohao, Monz Christof
 conference: "Arxiv"
 year: 2024

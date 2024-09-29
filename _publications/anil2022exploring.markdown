@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring Length Generalization In Large Language Models"
+title: Exploring Length Generalization In Large Language Models
 authors: Anil Cem, Wu Yuhuai, Andreassen Anders, Lewkowycz Aitor, Misra Vedant, Ramasesh Vinay, Slone Ambrose, Gur-ari Guy, Dyer Ethan, Neyshabur Behnam
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cascading Adaptors To Leverage English Data To Improve Performance Of Question Answering For Low-resource Languages"
+title: Cascading Adaptors To Leverage English Data To Improve Performance Of Question Answering For Low-resource Languages
 authors: Pandya Hariom A., Ardeshna Bhavik, Bhatt Brijesh S.
 conference: "Arxiv"
 year: 2021

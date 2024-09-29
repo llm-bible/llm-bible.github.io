@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Expediting Contrastive Language-image Pretraining Via Self-distilled Encoders"
+title: Expediting Contrastive Language-image Pretraining Via Self-distilled Encoders
 authors: Kim Bumsoo, Kim Jinhyung, Jo Yeonsik, Kim Seung Hwan
 conference: "Arxiv"
 year: 2023

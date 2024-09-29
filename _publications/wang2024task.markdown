@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Task Supportive And Personalized Human-large Language Model Interaction: A User Study"
+title: Task Supportive And Personalized Human-large Language Model Interaction: A User Study
 authors: Wang Ben, Liu Jiqun, Karimnazarov Jamshed, Thompson Nicolas
 conference: "Proceedings of the"
 year: 2024

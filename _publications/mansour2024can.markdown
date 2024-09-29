@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Large Language Models Automatically Score Proficiency Of Written Essays?"
+title: Can Large Language Models Automatically Score Proficiency Of Written Essays?
 authors: Mansour Watheq, Albatarni Salam, Eltanbouly Sohaila, Elsayed Tamer
 conference: "Arxiv"
 year: 2024

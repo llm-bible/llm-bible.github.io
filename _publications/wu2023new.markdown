@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A New Dialogue Response Generation Agent For Large Language Models By Asking Questions To Detect User's Intentions"
+title: A New Dialogue Response Generation Agent For Large Language Models By Asking Questions To Detect User's Intentions
 authors: Wu Siwei, Shen Xiangqing, Xia Rui
 conference: "Arxiv"
 year: 2023

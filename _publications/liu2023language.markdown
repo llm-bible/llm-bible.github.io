@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Language Models As Black-box Optimizers For Vision-language Models"
+title: Language Models As Black-box Optimizers For Vision-language Models
 authors: Liu Shihong, Lin Zhiqiu, Yu Samuel, Lee Ryan, Ling Tiffany, Pathak Deepak, Ramanan Deva
 conference: "Arxiv"
 year: 2023

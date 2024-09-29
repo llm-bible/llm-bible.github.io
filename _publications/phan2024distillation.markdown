@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Distillation Contrastive Decoding: Improving Llms Reasoning With Contrastive Decoding And Distillation"
+title: Distillation Contrastive Decoding: Improving Llms Reasoning With Contrastive Decoding And Distillation
 authors: Phan Phuc, Tran Hieu, Phan Long
 conference: "Arxiv"
 year: 2024

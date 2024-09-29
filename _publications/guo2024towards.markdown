@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Stabletoolbench: Towards Stable Large-scale Benchmarking On Tool Learning Of Large Language Models"
+title: Stabletoolbench: Towards Stable Large-scale Benchmarking On Tool Learning Of Large Language Models
 authors: Guo Zhicheng, Cheng Sijie, Wang Hao, Liang Shihao, Qin Yujia, Li Peng, Liu Zhiyuan, Sun Maosong, Liu Yang
 conference: "Arxiv"
 year: 2024

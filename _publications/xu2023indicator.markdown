@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "IDOL: Indicator-oriented Logic Pre-training For Logical Reasoning"
+title: IDOL: Indicator-oriented Logic Pre-training For Logical Reasoning
 authors: Xu Zihang, Yang Ziqing, Cui Yiming, Wang Shijin
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Fine-tuning Paradox: Boosting Translation Quality Without Sacrificing LLM Abilities"
+title: The Fine-tuning Paradox: Boosting Translation Quality Without Sacrificing LLM Abilities
 authors: Stap David, Hasler Eva, Byrne Bill, Monz Christof, Tran Ke
 conference: "Arxiv"
 year: 2024

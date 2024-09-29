@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can't Say Cant? Measuring And Reasoning Of Dark Jargons In Large Language Models"
+title: Can't Say Cant? Measuring And Reasoning Of Dark Jargons In Large Language Models
 authors: Ji Xu, Zhang Jianyi, Zhou Ziyin, Zhao Zhangchi, Qiao Qianqian, Han Kaiying, Hossen Md Imran, Hei Xiali
 conference: "Arxiv"
 year: 2024

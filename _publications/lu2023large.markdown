@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models Can Be Guided To Evade Ai-generated Text Detection"
+title: Large Language Models Can Be Guided To Evade Ai-generated Text Detection
 authors: Lu Ning, Liu Shengcai, He Rui, Wang Qi, Ong Yew-soon, Tang Ke
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Toolllm: Facilitating Large Language Models To Master 16000+ Real-world Apis"
+title: Toolllm: Facilitating Large Language Models To Master 16000+ Real-world Apis
 authors: Qin Yujia, Liang Shihao, Ye Yining, Zhu Kunlun, Yan Lan, Lu Yaxi, Lin Yankai, Cong Xin, Tang Xiangru, Qian Bill, Zhao Sihan, Hong Lauren, Tian Runchu, Xie Ruobing, Zhou Jie, Gerstein Mark, Li Dahai, Liu Zhiyuan, Sun Maosong
 conference: "Arxiv"
 year: 2023

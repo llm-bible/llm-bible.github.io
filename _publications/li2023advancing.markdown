@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Advancing Precise Outline-conditioned Text Generation With Task Duality And Explicit Outline Control"
+title: Advancing Precise Outline-conditioned Text Generation With Task Duality And Explicit Outline Control
 authors: Li Yunzhe, Chen Qian, Yan Weixiang, Wang Wen, Zhang Qinglin, Sundaram Hari
 conference: "Arxiv"
 year: 2023

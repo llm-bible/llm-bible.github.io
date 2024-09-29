@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chinese Intermediate English Learners Outdid Chatgpt In Deep Cohesion: Evidence From English Narrative Writing"
+title: Chinese Intermediate English Learners Outdid Chatgpt In Deep Cohesion: Evidence From English Narrative Writing
 authors: Zhou Tongquan, Cao Siyi, Zhou Siruo, Zhang Yao, He Aijing
 conference: "Arxiv"
 year: 2023

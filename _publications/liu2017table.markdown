@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Table-to-text Generation By Structure-aware Seq2seq Learning"
+title: Table-to-text Generation By Structure-aware Seq2seq Learning
 authors: Liu Tianyu, Wang Kexiang, Sha Lei, Chang Baobao, Sui Zhifang
 conference: "Arxiv"
 year: 2017

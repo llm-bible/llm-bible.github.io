@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fine-tuning Large Language Models For Domain-specific Machine Translation"
+title: Fine-tuning Large Language Models For Domain-specific Machine Translation
 authors: Zheng Jiawei, Hong Hanghai, Wang Xiaoli, Su Jingsong, Liang Yonggui, Wu Shikai
 conference: "Arxiv"
 year: 2024

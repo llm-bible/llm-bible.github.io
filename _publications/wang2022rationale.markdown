@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Rationale-augmented Ensembles In Language Models"
+title: Rationale-augmented Ensembles In Language Models
 authors: Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Denny Zhou
 conference: "Arxiv"
 year: 2022

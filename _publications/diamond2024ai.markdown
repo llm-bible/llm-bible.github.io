@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "AI Does Not Alter Perceptions Of Text Messages"
+title: AI Does Not Alter Perceptions Of Text Messages
 authors: Diamond N'yoma
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Asyncmld: Asynchronous Multi-llm Framework For Dialogue Recommendation System"
+title: Asyncmld: Asynchronous Multi-llm Framework For Dialogue Recommendation System
 authors: Yoshimaru Naoki, Okuma Motoharu, Iio Takamasa, Hatano Kenji
 conference: "Arxiv"
 year: 2023

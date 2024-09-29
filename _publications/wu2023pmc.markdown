@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pmc-llama: Towards Building Open-source Language Models For Medicine"
+title: Pmc-llama: Towards Building Open-source Language Models For Medicine
 authors: Wu Chaoyi, Lin Weixiong, Zhang Xiaoman, Zhang Ya, Wang Yanfeng, Xie Weidi
 conference: "Arxiv"
 year: 2023

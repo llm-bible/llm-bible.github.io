@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Prompt Perturbation Consistency Learning For Robust Language Models"
+title: Prompt Perturbation Consistency Learning For Robust Language Models
 authors: Qiang Yao, Nandi Subhrangshu, Mehrabi Ninareh, Steeg Greg Ver, Kumar Anoop, Rumshisky Anna, Galstyan Aram
 conference: "Arxiv"
 year: 2024

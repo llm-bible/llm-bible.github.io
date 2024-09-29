@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Executable Code Actions Elicit Better LLM Agents"
+title: Executable Code Actions Elicit Better LLM Agents
 authors: Wang Xingyao, Chen Yangyi, Yuan Lifan, Zhang Yizhe, Li Yunzhu, Peng Hao, Ji Heng
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Multilingual Automatic Dialogue Evaluation"
+title: Towards Multilingual Automatic Dialogue Evaluation
 authors: Mendonça John, Lavie Alon, Trancoso Isabel
 conference: "Arxiv"
 year: 2023

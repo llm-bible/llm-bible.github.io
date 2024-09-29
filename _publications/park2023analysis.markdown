@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On The Analysis Of Cross-lingual Prompt Tuning For Decoder-based Multilingual Model"
+title: On The Analysis Of Cross-lingual Prompt Tuning For Decoder-based Multilingual Model
 authors: Park Nohil, Park Joonsuk, Yoo Kang Min, Yoon Sungroh
 conference: "Arxiv"
 year: 2023

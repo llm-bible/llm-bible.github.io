@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Visual Prompt Tuning For Test-time Domain Adaptation"
+title: Visual Prompt Tuning For Test-time Domain Adaptation
 authors: Gao Yunhe, Shi Xingjian, Zhu Yi, Wang Hao, Tang Zhiqiang, Zhou Xiong, Li Mu, Metaxas Dimitris N.
 conference: "Arxiv"
 year: 2022

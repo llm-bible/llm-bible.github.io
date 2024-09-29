@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "GPT-SW3: An Autoregressive Language Model For The Nordic Languages"
+title: GPT-SW3: An Autoregressive Language Model For The Nordic Languages
 authors: Ekgren Ariel, Gyllensten Amaru Cuba, Stollenwerk Felix, Öhman Joey, Isbister Tim, Gogoulou Evangelia, Carlsson Fredrik, Heiman Alice, Casademont Judit, Sahlgren Magnus
 conference: "Arxiv"
 year: 2023

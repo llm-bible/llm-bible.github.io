@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Let The Code LLM Edit Itself When You Edit The Code"
+title: Let The Code LLM Edit Itself When You Edit The Code
 authors: He Zhenyu, Zhang Jun, Luo Shengjie, Xu Jingjing, Zhang Zhi, He Di
 conference: "Arxiv"
 year: 2024

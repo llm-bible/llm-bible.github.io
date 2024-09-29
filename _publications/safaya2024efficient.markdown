@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Neurocache: Efficient Vector Retrieval For Long-range Language Modeling"
+title: Neurocache: Efficient Vector Retrieval For Long-range Language Modeling
 authors: Safaya Ali, Yuret Deniz
 conference: "Arxiv"
 year: 2024

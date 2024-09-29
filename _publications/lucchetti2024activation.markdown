@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Activation Steering For Robust Type Prediction In Codellms"
+title: Activation Steering For Robust Type Prediction In Codellms
 authors: Lucchetti Francesca, Guha Arjun
 conference: "Arxiv"
 year: 2024

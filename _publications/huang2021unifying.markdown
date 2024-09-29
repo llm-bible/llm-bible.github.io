@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unifying Multimodal Transformer For Bi-directional Image And Text Generation"
+title: Unifying Multimodal Transformer For Bi-directional Image And Text Generation
 authors: Huang Yupan, Xue Hongwei, Liu Bei, Lu Yutong
 conference: "Arxiv"
 year: 2021

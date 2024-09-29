@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "APTQ: Attention-aware Post-training Mixed-precision Quantization For Large Language Models"
+title: APTQ: Attention-aware Post-training Mixed-precision Quantization For Large Language Models
 authors: Guan Ziyi, Huang Hantao, Su Yupeng, Huang Hong, Wong Ngai, Yu Hao
 conference: "Arxiv"
 year: 2024

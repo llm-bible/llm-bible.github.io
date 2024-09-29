@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Comprehensive Overview Of Large Language Models (llms) For Cyber Defences: Opportunities And Directions"
+title: A Comprehensive Overview Of Large Language Models (llms) For Cyber Defences: Opportunities And Directions
 authors: Hassanin Mohammed, Moustafa Nour
 conference: "Arxiv"
 year: 2024

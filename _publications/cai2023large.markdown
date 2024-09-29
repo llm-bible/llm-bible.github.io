@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models As Tool Makers"
+title: Large Language Models As Tool Makers
 authors: Cai Tianle, Wang Xuezhi, Ma Tengyu, Chen Xinyun, Zhou Denny
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Freely Long-thinking Transformer (frailt)"
+title: Freely Long-thinking Transformer (frailt)
 authors: Tabak Akbay
 conference: "Arxiv"
 year: 2024

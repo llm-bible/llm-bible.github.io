@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Iterative Prompt Refinement For Radiation Oncology Symptom Extraction Using Teacher-student Large Language Models"
+title: Iterative Prompt Refinement For Radiation Oncology Symptom Extraction Using Teacher-student Large Language Models
 authors: Khanmohammadi Reza, Ghanem Ahmed I, Verdecchia Kyle, Hall Ryan, Elshaikh Mohamed, Movsas Benjamin, Bagher-ebadian Hassan, Chetty Indrin, Ghassemi Mohammad M., Thind Kundan
 conference: "Arxiv"
 year: 2024

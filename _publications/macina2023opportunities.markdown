@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Opportunities And Challenges In Neural Dialog Tutoring"
+title: Opportunities And Challenges In Neural Dialog Tutoring
 authors: Macina Jakub, Daheim Nico, Wang Lingzhi, Sinha Tanmay, Kapur Manu, Gurevych Iryna, Sachan Mrinmaya
 conference: "Arxiv"
 year: 2023

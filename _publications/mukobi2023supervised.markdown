@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Superhf: Supervised Iterative Learning From Human Feedback"
+title: Superhf: Supervised Iterative Learning From Human Feedback
 authors: Mukobi Gabriel, Chatain Peter, Fong Su, Windesheim Robert, Kutyniok Gitta, Bhatia Kush, Alberti Silas
 conference: "Arxiv"
 year: 2023

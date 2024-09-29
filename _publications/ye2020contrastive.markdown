@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Contrastive Triple Extraction With Generative Transformer"
+title: Contrastive Triple Extraction With Generative Transformer
 authors: Ye Hongbin, Zhang Ningyu, Deng Shumin, Chen Mosha, Tan Chuanqi, Huang Fei, Chen Huajun
 conference: "Arxiv"
 year: 2020

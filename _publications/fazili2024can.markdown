@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Gensco: Can Question Decomposition Based Passage Alignment Improve Question Answering?"
+title: Gensco: Can Question Decomposition Based Passage Alignment Improve Question Answering?
 authors: Fazili Barah, Goswami Koustava, Modani Natwar, Nair Inderjeet
 conference: "Arxiv"
 year: 2024

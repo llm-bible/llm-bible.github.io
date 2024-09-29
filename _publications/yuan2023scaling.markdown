@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Scaling Relationship On Learning Mathematical Reasoning With Large Language Models"
+title: Scaling Relationship On Learning Mathematical Reasoning With Large Language Models
 authors: Yuan Zheng, Yuan Hongyi, Li Chengpeng, Dong Guanting, Lu Keming, Tan Chuanqi, Zhou Chang, Zhou Jingren
 conference: "Arxiv"
 year: 2023

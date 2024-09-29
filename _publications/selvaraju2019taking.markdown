@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Taking A HINT: Leveraging Explanations To Make Vision And Language Models More Grounded"
+title: Taking A HINT: Leveraging Explanations To Make Vision And Language Models More Grounded
 authors: Selvaraju Ramprasaath R., Lee Stefan, Shen Yilin, Jin Hongxia, Ghosh Shalini, Heck Larry, Batra Dhruv, Parikh Devi
 conference: "The IEEE International Conference on Computer Vision"
 year: 2019

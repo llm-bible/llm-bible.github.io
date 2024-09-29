@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Wildchat: 1M Chatgpt Interaction Logs In The Wild"
+title: Wildchat: 1M Chatgpt Interaction Logs In The Wild
 authors: Zhao Wenting, Ren Xiang, Hessel Jack, Cardie Claire, Choi Yejin, Deng Yuntian
 conference: "Arxiv"
 year: 2024

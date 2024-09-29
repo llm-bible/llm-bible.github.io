@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "FACTS About Building Retrieval Augmented Generation-based Chatbots"
+title: FACTS About Building Retrieval Augmented Generation-based Chatbots
 authors: Akkiraju Rama, Xu Anbang, Bora Deepak, Yu Tan, An Lu, Seth Vishal, Shukla Aaditya, Gundecha Pritam, Mehta Hridhay, Jha Ashwin, Raj Prithvi, Balasubramanian Abhinav, Maram Murali, Muthusamy Guru, Annepally Shivakesh Reddy, Knowles Sidney, Du Min, Burnett Nick, Javiya Sean, Marannan Ashok, Kumari Mamta, Jha Surbhi, Dereszenski Ethan, Chakraborty Anupam, Ranjan Subhash, Terfai Amina, Surya Anoop, Mercer Tracey, Thanigachalam Vinodh Kumar, Bar Tamar, Krishnan Sanjana, Kilaru Samy, Jaksic Jasmine, Algarici Nave, Liberman Jacob, Conway Joey, Nayyar Sonu, Boitano Justin
 conference: "Arxiv"
 year: 2024

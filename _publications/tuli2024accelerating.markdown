@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dynamo: Accelerating Language Model Inference With Dynamic Multi-token Sampling"
+title: Dynamo: Accelerating Language Model Inference With Dynamic Multi-token Sampling
 authors: Tuli Shikhar, Lin Chi-heng, Hsu Yen-chang, Jha Niraj K., Shen Yilin, Jin Hongxia
 conference: "Arxiv"
 year: 2024

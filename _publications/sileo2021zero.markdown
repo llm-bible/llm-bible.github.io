@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Zero-shot Recommendation As Language Modeling"
+title: Zero-shot Recommendation As Language Modeling
 authors: Damien Sileo, Wout Vossen, Robbe Raymaekers
 conference: "Arxiv"
 year: 2021

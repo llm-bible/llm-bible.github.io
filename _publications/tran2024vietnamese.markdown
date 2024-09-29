@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Lavy: Vietnamese Multimodal Large Language Model"
+title: Lavy: Vietnamese Multimodal Large Language Model
 authors: Tran Chi, Thanh Huong Le
 conference: "Arxiv"
 year: 2024

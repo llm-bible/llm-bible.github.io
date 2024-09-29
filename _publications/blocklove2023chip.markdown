@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chip-chat: Challenges And Opportunities In Conversational Hardware Design"
+title: Chip-chat: Challenges And Opportunities In Conversational Hardware Design
 authors: Blocklove Jason, Garg Siddharth, Karri Ramesh, Pearce Hammond
 conference: "Arxiv"
 year: 2023

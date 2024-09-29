@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unveiling Security, Privacy, And Ethical Concerns Of Chatgpt"
+title: Unveiling Security, Privacy, And Ethical Concerns Of Chatgpt
 authors: Wu Xiaodong, Duan Ran, Ni Jianbing
 conference: "Arxiv"
 year: 2023

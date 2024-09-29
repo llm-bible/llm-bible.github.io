@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cross-lingual Transfer Learning For Multilingual Task Oriented Dialog"
+title: Cross-lingual Transfer Learning For Multilingual Task Oriented Dialog
 authors: Schuster Sebastian, Gupta Sonal, Shah Rushin, Lewis Mike
 conference: "Arxiv"
 year: 2018

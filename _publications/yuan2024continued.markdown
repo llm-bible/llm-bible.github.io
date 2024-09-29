@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Continued Pretrained LLM Approach For Automatic Medical Note Generation"
+title: A Continued Pretrained LLM Approach For Automatic Medical Note Generation
 authors: Yuan Dong, Rastogi Eti, Naik Gautam, Rajagopal Sree Prasanna, Goyal Sagar, Zhao Fen, Chintagunta Bharath, Ward Jeff
 conference: "Arxiv"
 year: 2024

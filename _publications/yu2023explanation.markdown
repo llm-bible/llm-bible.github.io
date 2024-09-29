@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Explanation-aware Soft Ensemble Empowers Large Language Model In-context Learning"
+title: Explanation-aware Soft Ensemble Empowers Large Language Model In-context Learning
 authors: Yu Yue, Shen Jiaming, Liu Tianqi, Qin Zhen, Yan Jing Nathan, Liu Jialu, Zhang Chao, Bendersky Michael
 conference: "Arxiv"
 year: 2023

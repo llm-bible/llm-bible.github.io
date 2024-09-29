@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Guiding Clinical Reasoning With Large Language Models Via Knowledge Seeds"
+title: Guiding Clinical Reasoning With Large Language Models Via Knowledge Seeds
 authors: Wu Jiageng, Wu Xian, Yang Jie
 conference: "Arxiv"
 year: 2024

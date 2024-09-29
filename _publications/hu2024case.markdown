@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Case-based Or Rule-based: How Do Transformers Do The Math?"
+title: Case-based Or Rule-based: How Do Transformers Do The Math?
 authors: Hu Yi, Tang Xiaojuan, Yang Haotong, Zhang Muhan
 conference: "Arxiv"
 year: 2024

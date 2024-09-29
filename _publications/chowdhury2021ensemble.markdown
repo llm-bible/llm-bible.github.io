@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Ensemble Fine-tuned Mbert For Translation Quality Estimation"
+title: Ensemble Fine-tuned Mbert For Translation Quality Estimation
 authors: Chowdhury Shaika, Baili Naouel, Vannah Brian
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Learning From Correctness Without Prompting Makes LLM Efficient Reasoner"
+title: Learning From Correctness Without Prompting Makes LLM Efficient Reasoner
 authors: Yao Yuxuan, Wu Han, Guo Zhijiang, Zhou Biyan, Gao Jiahui, Luo Sichun, Hou Hanxu, Fu Xiaojin, Song Linqi
 conference: "Arxiv"
 year: 2024

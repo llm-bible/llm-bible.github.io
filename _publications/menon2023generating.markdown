@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Generating Illustrated Instructions"
+title: Generating Illustrated Instructions
 authors: Menon Sachit, Misra Ishan, Girdhar Rohit
 conference: "Arxiv"
 year: 2023

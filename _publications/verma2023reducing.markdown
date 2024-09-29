@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Reducing LLM Hallucinations Using Epistemic Neural Networks"
+title: Reducing LLM Hallucinations Using Epistemic Neural Networks
 authors: Verma Shreyas, Tran Kien, Ali Yusuf, Min Guangyu
 conference: "Arxiv"
 year: 2023

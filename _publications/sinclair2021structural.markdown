@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Structural Persistence In Language Models: Priming As A Window Into Abstract Language Representations"
+title: Structural Persistence In Language Models: Priming As A Window Into Abstract Language Representations
 authors: Sinclair Arabella, Jumelet Jaap, Zuidema Willem, Fernández Raquel
 conference: "Arxiv"
 year: 2021

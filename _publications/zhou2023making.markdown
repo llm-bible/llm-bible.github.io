@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Making Harmful Behaviors Unlearnable For Large Language Models"
+title: Making Harmful Behaviors Unlearnable For Large Language Models
 authors: Zhou Xin, Lu Yi, Ma Ruotian, Gui Tao, Zhang Qi, Huang Xuanjing
 conference: "Arxiv"
 year: 2023

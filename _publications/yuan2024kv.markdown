@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "KV Cache Compression, But What Must We Give In Return? A Comprehensive Benchmark Of Long Context Capable Approaches"
+title: KV Cache Compression, But What Must We Give In Return? A Comprehensive Benchmark Of Long Context Capable Approaches
 authors: Yuan Jiayi Henry, Liu Hongyi Henry, Shaochen Henry, Zhong, Chuang Yu-neng, Li Songchen, Wang Guanchu, Le Duy, Jin Hongye, Chaudhary Vipin, Xu Zhaozhuo, Liu Zirui, Hu Xia
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fewer Is More: Boosting LLM Reasoning With Reinforced Context Pruning"
+title: Fewer Is More: Boosting LLM Reasoning With Reinforced Context Pruning
 authors: Huang Xijie, Zhang Li Lyna, Cheng Kwang-ting, Yang Fan, Yang Mao
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Token-level Direct Preference Optimization"
+title: Token-level Direct Preference Optimization
 authors: Zeng Yongcheng, Liu Guoqing, Ma Weiyu, Yang Ning, Zhang Haifeng, Wang Jun
 conference: "Arxiv"
 year: 2024

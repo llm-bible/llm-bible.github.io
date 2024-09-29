@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "In-context Impersonation Reveals Large Language Models' Strengths And Biases"
+title: In-context Impersonation Reveals Large Language Models' Strengths And Biases
 authors: Salewski Leonard, Alaniz Stephan, Rio-torto Isabel, Schulz Eric, Akata Zeynep
 conference: "Arxiv"
 year: 2023

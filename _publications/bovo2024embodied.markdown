@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Embardiment: An Embodied AI Agent For Productivity In XR"
+title: Embardiment: An Embodied AI Agent For Productivity In XR
 authors: Bovo Riccardo, Abreu Steven, Ahuja Karan, Gonzalez Eric J, Cheng Li-te, Gonzalez-franco Mar
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Large Language Models Generate High-quality Patent Claims?"
+title: Can Large Language Models Generate High-quality Patent Claims?
 authors: Jiang Lekang, Zhang Caiqi, Scherz Pascal A, Goetz Stephan
 conference: "Arxiv"
 year: 2024

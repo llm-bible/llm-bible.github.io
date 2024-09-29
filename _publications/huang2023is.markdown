@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Is Chatgpt Better Than Human Annotators? Potential And Limitations Of Chatgpt In Explaining Implicit Hate Speech"
+title: Is Chatgpt Better Than Human Annotators? Potential And Limitations Of Chatgpt In Explaining Implicit Hate Speech
 authors: Huang Fan, Kwak Haewoon, An Jisun
 conference: "Arxiv"
 year: 2023

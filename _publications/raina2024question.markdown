@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Question-based Retrieval Using Atomic Units For Enterprise RAG"
+title: Question-based Retrieval Using Atomic Units For Enterprise RAG
 authors: Raina Vatsal, Gales Mark
 conference: "Arxiv"
 year: 2024

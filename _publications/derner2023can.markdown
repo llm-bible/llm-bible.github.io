@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Chatgpt Read Who You Are?"
+title: Can Chatgpt Read Who You Are?
 authors: Derner Erik, Kučera Dalibor, Oliver Nuria, Zahálka Jan
 conference: "Arxiv"
 year: 2023

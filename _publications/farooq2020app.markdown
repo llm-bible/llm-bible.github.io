@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "App-aware Response Synthesis For User Reviews"
+title: App-aware Response Synthesis For User Reviews
 authors: Farooq Umar, Siddique A. B., Jamour Fuad, Zhao Zhijia, Hristidis Vagelis
 conference: "IEEE International Conference on Big Data"
 year: 2020

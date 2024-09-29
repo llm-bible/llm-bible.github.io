@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mapping The Design Space Of Interactions In Human-ai Text Co-creation Tasks"
+title: Mapping The Design Space Of Interactions In Human-ai Text Co-creation Tasks
 authors: Ding Zijian, Chan Joel
 conference: "Arxiv"
 year: 2023

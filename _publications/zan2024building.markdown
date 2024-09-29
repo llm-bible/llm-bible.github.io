@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Building Accurate Translation-tailored Llms With Language Aware Instruction Tuning"
+title: Building Accurate Translation-tailored Llms With Language Aware Instruction Tuning
 authors: Zan Changtong, Ding Liang, Shen Li, Zhen Yibing, Liu Weifeng, Tao Dacheng
 conference: "Arxiv"
 year: 2024

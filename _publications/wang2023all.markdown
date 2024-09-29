@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "All Languages Matter: On The Multilingual Safety Of Large Language Models"
+title: All Languages Matter: On The Multilingual Safety Of Large Language Models
 authors: Wang Wenxuan, Tu Zhaopeng, Chen Chang, Yuan Youliang, Huang Jen-tse, Jiao Wenxiang, Lyu Michael R.
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Schema-driven Information Extraction From Heterogeneous Tables"
+title: Schema-driven Information Extraction From Heterogeneous Tables
 authors: Bai Fan, Kang Junmo, Stanovsky Gabriel, Freitag Dayne, Dredze Mark, Ritter Alan
 conference: "Arxiv"
 year: 2023

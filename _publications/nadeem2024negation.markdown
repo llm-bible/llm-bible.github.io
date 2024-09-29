@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Negation Blindness In Large Language Models: Unveiling The NO Syndrome In Image Generation"
+title: Negation Blindness In Large Language Models: Unveiling The NO Syndrome In Image Generation
 authors: Nadeem Mohammad, Sohail Shahab Saquib, Cambria Erik, Schuller Björn W., Hussain Amir
 conference: "Arxiv"
 year: 2024

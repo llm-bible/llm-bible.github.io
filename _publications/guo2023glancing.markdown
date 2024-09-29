@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Glancing Future For Simultaneous Machine Translation"
+title: Glancing Future For Simultaneous Machine Translation
 authors: Guo Shoutao, Zhang Shaolei, Feng Yang
 conference: "Arxiv"
 year: 2023

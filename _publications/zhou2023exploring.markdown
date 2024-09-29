@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring Recommendation Capabilities Of Gpt-4v(ision): A Preliminary Case Study"
+title: Exploring Recommendation Capabilities Of Gpt-4v(ision): A Preliminary Case Study
 authors: Zhou Peilin, Cao Meng, Huang You-liang, Ye Qichen, Zhang Peiyan, Liu Junling, Xie Yueqi, Hua Yining, Kim Jaeboum
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evil Geniuses: Delving Into The Safety Of Llm-based Agents"
+title: Evil Geniuses: Delving Into The Safety Of Llm-based Agents
 authors: Tian Yu, Yang Xiao, Zhang Jingyuan, Dong Yinpeng, Su Hang
 conference: "Arxiv"
 year: 2023

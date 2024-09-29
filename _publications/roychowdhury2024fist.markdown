@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fist-financial Style Transfer With Hallucination And Creativity Control Framework"
+title: Fist-financial Style Transfer With Hallucination And Creativity Control Framework
 authors: Roychowdhury Sohini, Krema Marko, Moore Brian, Lai Xingjian, Effedua Dike, Jethwani Bharat
 conference: "Arxiv"
 year: 2024

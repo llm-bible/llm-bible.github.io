@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Emphasising Structured Information: Integrating Abstract Meaning Representation Into Llms For Enhanced Open-domain Dialogue Evaluation"
+title: Emphasising Structured Information: Integrating Abstract Meaning Representation Into Llms For Enhanced Open-domain Dialogue Evaluation
 authors: Yang Bohao, Zhao Kun, Tang Chen, Liu Dong, Zhan Liang, Lin Chenghua
 conference: "Arxiv"
 year: 2024

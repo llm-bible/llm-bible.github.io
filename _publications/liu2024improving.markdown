@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Intactkv: Improving Large Language Model Quantization By Keeping Pivot Tokens Intact"
+title: Intactkv: Improving Large Language Model Quantization By Keeping Pivot Tokens Intact
 authors: Liu Ruikang, Bai Haoli, Lin Haokun, Li Yuening, Gao Han, Xu Zhengzhuo, Hou Lu, Yao Jun, Yuan Chun
 conference: "Arxiv"
 year: 2024

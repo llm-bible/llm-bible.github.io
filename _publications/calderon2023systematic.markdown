@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Systematic Study Of Knowledge Distillation For Natural Language Generation With Pseudo-target Training"
+title: A Systematic Study Of Knowledge Distillation For Natural Language Generation With Pseudo-target Training
 authors: Calderon Nitay, Mukherjee Subhabrata, Reichart Roi, Kantor Amir
 conference: "Arxiv"
 year: 2023

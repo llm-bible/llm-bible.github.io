@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Large Language Models Play Text Games Well? Current State-of-the-art And Open Questions"
+title: Can Large Language Models Play Text Games Well? Current State-of-the-art And Open Questions
 authors: Tsai Chen Feng, Zhou Xiaochen, Liu Sierra S., Li Jing, Yu Mo, Mei Hongyuan
 conference: "Arxiv"
 year: 2023

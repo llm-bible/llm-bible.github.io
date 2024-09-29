@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Google's Multilingual Neural Machine Translation System: Enabling Zero-shot Translation"
+title: Google's Multilingual Neural Machine Translation System: Enabling Zero-shot Translation
 authors: Johnson Melvin, Schuster Mike, Le Quoc V., Krikun Maxim, Wu Yonghui, Chen Zhifeng, Thorat Nikhil, Viégas Fernanda, Wattenberg Martin, Corrado Greg, Hughes Macduff, Dean Jeffrey
 conference: "Arxiv"
 year: 2016

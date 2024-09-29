@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Alleviating Hallucination In Large Vision-language Models With Active Retrieval Augmentation"
+title: Alleviating Hallucination In Large Vision-language Models With Active Retrieval Augmentation
 authors: Xiaoye Qu, Qiyuan Chen, Wei Wei, Jishuo Sun, Jianfeng Dong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unleashing The Power Of Pre-trained Language Models For Offline Reinforcement Learning"
+title: Unleashing The Power Of Pre-trained Language Models For Offline Reinforcement Learning
 authors: Shi Ruizhe, Liu Yuyao, Ze Yanjie, Du Simon S., Xu Huazhe
 conference: "Arxiv"
 year: 2023

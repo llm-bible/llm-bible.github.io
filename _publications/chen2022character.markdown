@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Character-centric Story Visualization Via Visual Planning And Token Alignment"
+title: Character-centric Story Visualization Via Visual Planning And Token Alignment
 authors: Chen Hong, Han Rujun, Wu Te-lin, Nakayama Hideki, Peng Nanyun
 conference: "Arxiv"
 year: 2022

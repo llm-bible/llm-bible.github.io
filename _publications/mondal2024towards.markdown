@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Generating Informative Textual Description For Neurons In Language Models"
+title: Towards Generating Informative Textual Description For Neurons In Language Models
 authors: Mondal Shrayani, Garodia Rishabh, Qureshi Arbaaz, Lee Taesung, Park Youngja
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Wildteaming At Scale: From In-the-wild Jailbreaks To (adversarially) Safer Language Models"
+title: Wildteaming At Scale: From In-the-wild Jailbreaks To (adversarially) Safer Language Models
 authors: Jiang Liwei, Rao Kavel, Han Seungju, Ettinger Allyson, Brahman Faeze, Kumar Sachin, Mireshghallah Niloofar, Lu Ximing, Sap Maarten, Choi Yejin, Dziri Nouha
 conference: "Arxiv"
 year: 2024

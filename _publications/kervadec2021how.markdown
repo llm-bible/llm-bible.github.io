@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "How Transferable Are Reasoning Patterns In VQA?"
+title: How Transferable Are Reasoning Patterns In VQA?
 authors: Kervadec Corentin, Jaunet Theo, Antipov Grigory, Baccouche Moez, Vuillemot Romain, Wolf Christian
 conference: "Arxiv"
 year: 2021

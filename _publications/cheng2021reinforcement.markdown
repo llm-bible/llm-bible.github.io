@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Reinforcement Learning For Few-shot Text Generation Adaptation"
+title: Reinforcement Learning For Few-shot Text Generation Adaptation
 authors: Cheng Pengsen, Dai Jinqiao, Liu Jiamiao, Liu Jiayong, Jia Peng
 conference: "Neurocomputing"
 year: 2021

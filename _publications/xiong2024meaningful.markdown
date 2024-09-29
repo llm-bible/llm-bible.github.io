@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Meaningful Learning: Advancing Abstract Reasoning In Large Language Models Via Generic Fact Guidance"
+title: Meaningful Learning: Advancing Abstract Reasoning In Large Language Models Via Generic Fact Guidance
 authors: Xiong Kai, Ding Xiao, Liu Ting, Qin Bing, Xu Dongliang, Yang Qing, Liu Hongtao, Cao Yixin
 conference: "Arxiv"
 year: 2024

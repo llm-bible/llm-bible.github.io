@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Self-training Improves Pre-training For Few-shot Learning In Task-oriented Dialog Systems"
+title: Self-training Improves Pre-training For Few-shot Learning In Task-oriented Dialog Systems
 authors: Mi Fei, Zhou Wanhao, Cai Fengyu, Kong Lingjing, Huang Minlie, Faltings Boi
 conference: "Arxiv"
 year: 2021

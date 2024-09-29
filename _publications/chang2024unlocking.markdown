@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unlocking The Wisdom Of Large Language Models: An Introduction To The Path To Artificial General Intelligence"
+title: Unlocking The Wisdom Of Large Language Models: An Introduction To The Path To Artificial General Intelligence
 authors: Chang Edward Y.
 conference: "Arxiv"
 year: 2024

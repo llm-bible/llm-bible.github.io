@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Deco: Decoupling Token Compression From Semantic Abstraction In Multimodal Large Language Models"
+title: Deco: Decoupling Token Compression From Semantic Abstraction In Multimodal Large Language Models
 authors: Yao Linli, Li Lei, Ren Shuhuai, Wang Lean, Liu Yuanxin, Sun Xu, Hou Lu
 conference: "Arxiv"
 year: 2024

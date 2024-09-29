@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Compositional Chain-of-thought Prompting For Large Multimodal Models"
+title: Compositional Chain-of-thought Prompting For Large Multimodal Models
 authors: Mitra Chancharik, Huang Brandon, Darrell Trevor, Herzig Roei
 conference: "Arxiv"
 year: 2023

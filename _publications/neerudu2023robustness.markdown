@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On Robustness Of Finetuned Transformer-based NLP Models"
+title: On Robustness Of Finetuned Transformer-based NLP Models
 authors: Neerudu Pavan Kalyan Reddy, Oota Subba Reddy, Marreddy Mounika, Kagita Venkateswara Rao, Gupta Manish
 conference: "Arxiv"
 year: 2023

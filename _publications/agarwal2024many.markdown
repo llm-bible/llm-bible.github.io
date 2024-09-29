@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Many-shot In-context Learning"
+title: Many-shot In-context Learning
 authors: Agarwal Rishabh, Singh Avi, Zhang Lei M., Bohnet Bernd, Rosias Luis, Chan Stephanie, Zhang Biao, Anand Ankesh, Abbas Zaheer, Nova Azade, Co-reyes John D., Chu Eric, Behbahani Feryal, Faust Aleksandra, Larochelle Hugo
 conference: "Arxiv"
 year: 2024

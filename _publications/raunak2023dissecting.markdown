@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dissecting In-context Learning Of Translations In Gpts"
+title: Dissecting In-context Learning Of Translations In Gpts
 authors: Raunak Vikas, Awadalla Hany Hassan, Menezes Arul
 conference: "Arxiv"
 year: 2023

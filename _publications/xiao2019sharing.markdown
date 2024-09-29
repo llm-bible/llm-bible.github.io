@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Sharing Attention Weights For Fast Transformer"
+title: Sharing Attention Weights For Fast Transformer
 authors: Xiao Tong, Li Yinqiao, Zhu Jingbo, Yu Zhengtao, Liu Tongran
 conference: "Arxiv"
 year: 2019

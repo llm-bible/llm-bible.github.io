@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Source-aware Training Enables Knowledge Attribution In Language Models"
+title: Source-aware Training Enables Knowledge Attribution In Language Models
 authors: Khalifa Muhammad, Wadden David, Strubell Emma, Lee Honglak, Wang Lu, Beltagy Iz, Peng Hao
 conference: "Arxiv"
 year: 2024

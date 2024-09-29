@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluation Metrics In The Era Of GPT-4: Reliably Evaluating Large Language Models On Sequence To Sequence Tasks"
+title: Evaluation Metrics In The Era Of GPT-4: Reliably Evaluating Large Language Models On Sequence To Sequence Tasks
 authors: Sottana Andrea, Liang Bin, Zou Kai, Yuan Zheng
 conference: "Arxiv"
 year: 2023

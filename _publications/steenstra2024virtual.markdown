@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Virtual Agents For Alcohol Use Counseling: Exploring Llm-powered Motivational Interviewing"
+title: Virtual Agents For Alcohol Use Counseling: Exploring Llm-powered Motivational Interviewing
 authors: Steenstra Ian, Nouraei Farnaz, Arjmand Mehdi, Bickmore Timothy W.
 conference: "Arxiv"
 year: 2024

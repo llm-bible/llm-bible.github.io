@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Unreasonable Ineffectiveness Of Nucleus Sampling On Mitigating Text Memorization"
+title: The Unreasonable Ineffectiveness Of Nucleus Sampling On Mitigating Text Memorization
 authors: Borec Luka, Sadler Philipp, Schlangen David
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Personalized Transformer For Explainable Recommendation"
+title: Personalized Transformer For Explainable Recommendation
 authors: Li Lei, Zhang Yongfeng, Chen Li
 conference: "Arxiv"
 year: 2021

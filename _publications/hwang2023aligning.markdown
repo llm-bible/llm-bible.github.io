@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Aligning Language Models To User Opinions"
+title: Aligning Language Models To User Opinions
 authors: Hwang Eunjeong, Majumder Bodhisattwa Prasad, Tandon Niket
 conference: "Arxiv"
 year: 2023

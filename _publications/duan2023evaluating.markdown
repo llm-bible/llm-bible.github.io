@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Botchat: Evaluating Llms' Capabilities Of Having Multi-turn Dialogues"
+title: Botchat: Evaluating Llms' Capabilities Of Having Multi-turn Dialogues
 authors: Duan Haodong, Wei Jueqi, Wang Chonghua, Liu Hongwei, Fang Yixiao, Zhang Songyang, Lin Dahua, Chen Kai
 conference: "Arxiv"
 year: 2023

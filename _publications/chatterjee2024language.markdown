@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Language Models Can Exploit Cross-task In-context Learning For Data-scarce Novel Tasks"
+title: Language Models Can Exploit Cross-task In-context Learning For Data-scarce Novel Tasks
 authors: Chatterjee Anwoy, Tanwar Eshaan, Dutta Subhabrata, Chakraborty Tanmoy
 conference: "Arxiv"
 year: 2024

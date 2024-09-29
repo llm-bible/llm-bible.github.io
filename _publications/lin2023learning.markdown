@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Learning To Model The World With Language"
+title: Learning To Model The World With Language
 authors: Lin Jessy, Du Yuqing, Watkins Olivia, Hafner Danijar, Abbeel Pieter, Klein Dan, Dragan Anca
 conference: "Arxiv"
 year: 2023

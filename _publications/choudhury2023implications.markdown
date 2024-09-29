@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Implications Of Annotation Artifacts In Edge Probing Test Datasets"
+title: Implications Of Annotation Artifacts In Edge Probing Test Datasets
 authors: Choudhury Sagnik Ray, Kalra Jushaan
 conference: "Arxiv"
 year: 2023

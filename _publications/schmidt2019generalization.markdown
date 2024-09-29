@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Generalization In Generation: A Closer Look At Exposure Bias"
+title: Generalization In Generation: A Closer Look At Exposure Bias
 authors: Schmidt Florian
 conference: "Arxiv"
 year: 2019

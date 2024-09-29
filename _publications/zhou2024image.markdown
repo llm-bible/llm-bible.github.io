@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Image-of-thought Prompting For Visual Reasoning Refinement In Multimodal Large Language Models"
+title: Image-of-thought Prompting For Visual Reasoning Refinement In Multimodal Large Language Models
 authors: Zhou Qiji, Zhou Ruochen, Hu Zike, Lu Panzhong, Gao Siyang, Zhang Yue
 conference: "Arxiv"
 year: 2024

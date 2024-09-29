@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Value Augmented Sampling For Language Model Alignment And Personalization"
+title: Value Augmented Sampling For Language Model Alignment And Personalization
 authors: Han Seungwook, Shenfeld Idan, Srivastava Akash, Kim Yoon, Agrawal Pulkit
 conference: "Arxiv"
 year: 2024

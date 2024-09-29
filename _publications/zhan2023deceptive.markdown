@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Deceptive AI Ecosystems: The Case Of Chatgpt"
+title: Deceptive AI Ecosystems: The Case Of Chatgpt
 authors: Zhan Xiao, Xu Yifan, Sarkadi Stefan
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Video-mme: The First-ever Comprehensive Evaluation Benchmark Of Multi-modal Llms In Video Analysis"
+title: Video-mme: The First-ever Comprehensive Evaluation Benchmark Of Multi-modal Llms In Video Analysis
 authors: Chaoyou Fu, Yuhan Dai, Yongdong Luo, Lei Li, Shuhuai Ren, Renrui Zhang, Zihan Wang, Chenyu Zhou, Yunhang Shen, Mengdan Zhang, Peixian Chen, Yanwei Li, Shaohui Lin, Sirui Zhao, Ke Li, Tong Xu, Xiawu Zheng, Enhong Chen, Rongrong Ji, Xing Sun
 conference: "Arxiv"
 year: 2024

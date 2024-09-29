@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Examining Llms' Uncertainty Expression Towards Questions Outside Parametric Knowledge"
+title: Examining Llms' Uncertainty Expression Towards Questions Outside Parametric Knowledge
 authors: Liu Genglin, Wang Xingyao, Yuan Lifan, Chen Yangyi, Peng Hao
 conference: "Arxiv"
 year: 2023

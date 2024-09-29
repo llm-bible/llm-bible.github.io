@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating The Reliability Of Self-explanations In Large Language Models"
+title: Evaluating The Reliability Of Self-explanations In Large Language Models
 authors: Randl Korbinian, Pavlopoulos John, Henriksson Aron, Lindgren Tony
 conference: "Arxiv"
 year: 2024

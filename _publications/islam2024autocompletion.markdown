@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Autocompletion Of Chief Complaints In The Electronic Health Records Using Large Language Models"
+title: Autocompletion Of Chief Complaints In The Electronic Health Records Using Large Language Models
 authors: Islam K M Sajjadul, Nipu Ayesha Siddika, Madiraju Praveen, Deshpande Priya
 conference: "Arxiv"
 year: 2024

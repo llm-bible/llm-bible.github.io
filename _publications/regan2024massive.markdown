@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "MASSIVE Multilingual Abstract Meaning Representation: A Dataset And Baselines For Hallucination Detection"
+title: MASSIVE Multilingual Abstract Meaning Representation: A Dataset And Baselines For Hallucination Detection
 authors: Regan Michael, Wein Shira, Baker George, Monti Emilio
 conference: "Arxiv"
 year: 2024

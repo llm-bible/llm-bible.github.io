@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Learning And Leveraging Verifiers To Improve Planning Capabilities Of Pre-trained Language Models"
+title: Learning And Leveraging Verifiers To Improve Planning Capabilities Of Pre-trained Language Models
 authors: Arora Daman, Kambhampati Subbarao
 conference: "Arxiv"
 year: 2023

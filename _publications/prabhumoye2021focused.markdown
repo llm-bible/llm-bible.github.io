@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Focused Attention Improves Document-grounded Generation"
+title: Focused Attention Improves Document-grounded Generation
 authors: Prabhumoye Shrimai, Hashimoto Kazuma, Zhou Yingbo, Black Alan W, Salakhutdinov Ruslan
 conference: "Arxiv"
 year: 2021

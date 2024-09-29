@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Writing Assistants Should Model Social Factors Of Language"
+title: Writing Assistants Should Model Social Factors Of Language
 authors: Kulkarni Vivek, Raheja Vipul
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "INTERS: Unlocking The Power Of Large Language Models In Search With Instruction Tuning"
+title: INTERS: Unlocking The Power Of Large Language Models In Search With Instruction Tuning
 authors: Zhu Yutao, Zhang Peitian, Zhang Chenghao, Chen Yifei, Xie Binyu, Liu Zheng, Wen Ji-rong, Dou Zhicheng
 conference: "Arxiv"
 year: 2024

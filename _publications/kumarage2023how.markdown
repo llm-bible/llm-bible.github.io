@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "How Reliable Are Ai-generated-text Detectors? An Assessment Framework Using Evasive Soft Prompts"
+title: How Reliable Are Ai-generated-text Detectors? An Assessment Framework Using Evasive Soft Prompts
 authors: Kumarage Tharindu, Sheth Paras, Moraffah Raha, Garland Joshua, Liu Huan
 conference: "Arxiv"
 year: 2023

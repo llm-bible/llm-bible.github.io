@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Do Large Language Models Mirror Cognitive Language Processing?"
+title: Do Large Language Models Mirror Cognitive Language Processing?
 authors: Ren Yuqi, Jin Renren, Zhang Tongxuan, Xiong Deyi
 conference: "Arxiv"
 year: 2024

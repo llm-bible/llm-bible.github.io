@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Solution For The 5th GCAIAC Zero-shot Referring Expression Comprehension Challenge"
+title: The Solution For The 5th GCAIAC Zero-shot Referring Expression Comprehension Challenge
 authors: Huang Longfei, Yu Feng, Guan Zhihao, Wan Zhonghua, Yang Yang
 conference: "Arxiv"
 year: 2024

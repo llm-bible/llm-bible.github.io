@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "What Did You Say? Task-oriented Dialog Datasets Are Not Conversational!?"
+title: What Did You Say? Task-oriented Dialog Datasets Are Not Conversational!?
 authors: Jakobovits Alice Shoshana, Piccinno Francesco, Altun Yasemin
 conference: "Arxiv"
 year: 2022

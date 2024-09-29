@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "LAMP: A Language Model On The Map"
+title: LAMP: A Language Model On The Map
 authors: Balsebre Pasquale, Huang Weiming, Cong Gao
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Making Large Language Models Perform Better In Knowledge Graph Completion"
+title: Making Large Language Models Perform Better In Knowledge Graph Completion
 authors: Zhang Yichi, Chen Zhuo, Guo Lingbing, Xu Yajing, Zhang Wen, Chen Huajun
 conference: "Arxiv"
 year: 2023

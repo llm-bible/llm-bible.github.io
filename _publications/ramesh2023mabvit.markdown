@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mabvit -- Modified Attention Block Enhances Vision Transformers"
+title: Mabvit -- Modified Attention Block Enhances Vision Transformers
 authors: Ramesh Mahesh, Ramkumar Aswinkumar
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multi-line Ai-assisted Code Authoring"
+title: Multi-line Ai-assisted Code Authoring
 authors: Dunay Omer, Cheng Daniel, Tait Adam, Thakkar Parth, Rigby Peter C, Chiu Andy, Ahmad Imad, Ganesan Arun, Maddila Chandra, Murali Vijayaraghavan, Tayyebi Ali, Nagappan Nachiappan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Petals: Collaborative Inference And Fine-tuning Of Large Models"
+title: Petals: Collaborative Inference And Fine-tuning Of Large Models
 authors: Borzunov Alexander, Baranchuk Dmitry, Dettmers Tim, Ryabinin Max, Belkada Younes, Chumachenko Artem, Samygin Pavel, Raffel Colin
 conference: "Arxiv"
 year: 2022

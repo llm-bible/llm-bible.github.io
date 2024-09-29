@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Llm-pruner: On The Structural Pruning Of Large Language Models"
+title: Llm-pruner: On The Structural Pruning Of Large Language Models
 authors: Xinyin Ma, Gongfan Fang, Xinchao Wang
 conference: "Arxiv"
 year: 2023

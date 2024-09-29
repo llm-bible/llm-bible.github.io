@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Retraining Distilbert For A Voice Shopping Assistant By Using Universal Dependencies"
+title: Retraining Distilbert For A Voice Shopping Assistant By Using Universal Dependencies
 authors: Jayarao Pratik, Sharma Arpit
 conference: "Arxiv"
 year: 2021

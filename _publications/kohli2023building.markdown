@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Building A Llama2-finetuned LLM For Odia Language Utilizing Domain Knowledge Instruction Set"
+title: Building A Llama2-finetuned LLM For Odia Language Utilizing Domain Knowledge Instruction Set
 authors: Kohli Guneet Singh, Parida Shantipriya, Sekhar Sambit, Saha Samirit, Nair Nipun B, Agarwal Parul, Khosla Sonal, Patiyal Kusumlata, Dhal Debasish
 conference: "Arxiv"
 year: 2023

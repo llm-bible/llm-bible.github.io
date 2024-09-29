@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Assessing The Emergent Symbolic Reasoning Abilities Of Llama Large Language Models"
+title: Assessing The Emergent Symbolic Reasoning Abilities Of Llama Large Language Models
 authors: Petruzzellis Flavio, Testolin Alberto, Sperduti Alessandro
 conference: "Arxiv"
 year: 2024

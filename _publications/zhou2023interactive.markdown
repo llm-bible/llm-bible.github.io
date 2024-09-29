@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Recurrentgpt: Interactive Generation Of (arbitrarily) Long Text"
+title: Recurrentgpt: Interactive Generation Of (arbitrarily) Long Text
 authors: Zhou Wangchunshu, Jiang Yuchen Eleanor, Cui Peng, Wang Tiannan, Xiao Zhenxin, Hou Yifan, Cotterell Ryan, Sachan Mrinmaya
 conference: "Arxiv"
 year: 2023

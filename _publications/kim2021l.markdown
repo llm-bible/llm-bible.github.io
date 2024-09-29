@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "L-verse: Bidirectional Generation Between Image And Text"
+title: L-verse: Bidirectional Generation Between Image And Text
 authors: Kim Taehoon, Song Gwangmo, Lee Sihaeng, Kim Sangyun, Seo Yewon, Lee Soonyoung, Kim Seung Hwan, Lee Honglak, Bae Kyunghoon
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Searching For Best Practices In Retrieval-augmented Generation"
+title: Searching For Best Practices In Retrieval-augmented Generation
 authors: Wang Xiaohua, Wang Zhenghua, Gao Xuan, Zhang Feiran, Wu Yixin, Xu Zhibo, Shi Tianyuan, Wang Zhengyuan, Li Shizheng, Qian Qi, Yin Ruicheng, Lv Changze, Zheng Xiaoqing, Huang Xuanjing
 conference: "Arxiv"
 year: 2024

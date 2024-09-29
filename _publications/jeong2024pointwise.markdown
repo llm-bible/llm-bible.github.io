@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Prepair: Pointwise Reasoning Enhance Pairwise Evaluating For Robust Instruction-following Assessments"
+title: Prepair: Pointwise Reasoning Enhance Pairwise Evaluating For Robust Instruction-following Assessments
 authors: Jeong Hawon, Park Chaehun, Hong Jimin, Choo Jaegul
 conference: "Arxiv"
 year: 2024

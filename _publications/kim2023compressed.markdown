@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Compressed Context Memory For Online Language Model Interaction"
+title: Compressed Context Memory For Online Language Model Interaction
 authors: Kim Jang-hyun, Yeom Junyoung, Yun Sangdoo, Song Hyun Oh
 conference: "Arxiv"
 year: 2023

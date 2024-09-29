@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Incorporating Probing Signals Into Multimodal Machine Translation Via Visual Question-answering Pairs"
+title: Incorporating Probing Signals Into Multimodal Machine Translation Via Visual Question-answering Pairs
 authors: Zuo Yuxin, Li Bei, Lv Chuanhao, Zheng Tong, Xiao Tong, Zhu Jingbo
 conference: "Arxiv"
 year: 2023

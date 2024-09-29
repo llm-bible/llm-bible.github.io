@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "TANDA: Transfer And Adapt Pre-trained Transformer Models For Answer Sentence Selection"
+title: TANDA: Transfer And Adapt Pre-trained Transformer Models For Answer Sentence Selection
 authors: Garg Siddhant, Vu Thuy, Moschitti Alessandro
 conference: "Arxiv"
 year: 2019

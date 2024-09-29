@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Model Internals-based Answer Attribution For Trustworthy Retrieval-augmented Generation"
+title: Model Internals-based Answer Attribution For Trustworthy Retrieval-augmented Generation
 authors: Qi Jirui, Sarti Gabriele, Fernández Raquel, Bisazza Arianna
 conference: "Arxiv"
 year: 2024

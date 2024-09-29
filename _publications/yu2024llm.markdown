@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "An LLM Maturity Model For Reliable And Transparent Text-to-query"
+title: An LLM Maturity Model For Reliable And Transparent Text-to-query
 authors: Yu Lei Expression, Ray Abir Expression
 conference: "Arxiv"
 year: 2024

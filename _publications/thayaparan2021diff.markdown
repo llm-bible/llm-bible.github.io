@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Diff-explainer: Differentiable Convex Optimization For Explainable Multi-hop Inference"
+title: Diff-explainer: Differentiable Convex Optimization For Explainable Multi-hop Inference
 authors: Thayaparan Mokanarangan, Valentino Marco, Ferreira Deborah, Rozanova Julia, Freitas André
 conference: "Arxiv"
 year: 2021

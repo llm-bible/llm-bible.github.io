@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Is Chatgpt A Biomedical Expert? -- Exploring The Zero-shot Performance Of Current GPT Models In Biomedical Tasks"
+title: Is Chatgpt A Biomedical Expert? -- Exploring The Zero-shot Performance Of Current GPT Models In Biomedical Tasks
 authors: Ateia Samy, Kruschwitz Udo
 conference: "Arxiv"
 year: 2023

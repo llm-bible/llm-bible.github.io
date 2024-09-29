@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "ADELIE: Aligning Large Language Models On Information Extraction"
+title: ADELIE: Aligning Large Language Models On Information Extraction
 authors: Qi Yunjia, Peng Hao, Wang Xiaozhi, Xu Bin, Hou Lei, Li Juanzi
 conference: "Arxiv"
 year: 2024

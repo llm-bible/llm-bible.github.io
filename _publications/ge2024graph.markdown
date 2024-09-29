@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Graph Descriptive Order Improves Reasoning With Large Language Model"
+title: Graph Descriptive Order Improves Reasoning With Large Language Model
 authors: Ge Yuyao, Liu Shenghua, Feng Wenjie, Mei Lingrui, Chen Lizhe, Cheng Xueqi
 conference: "Arxiv"
 year: 2024

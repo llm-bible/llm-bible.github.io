@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving Generalization In Task-oriented Dialogues With Workflows And Action Plans"
+title: Improving Generalization In Task-oriented Dialogues With Workflows And Action Plans
 authors: Raimondo Stefania, Pal Christopher, Liu Xiaotian, Vazquez David, Palacios Hector
 conference: "Arxiv"
 year: 2023

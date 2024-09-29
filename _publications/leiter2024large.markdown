@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Prexme! Large Scale Prompt Exploration Of Open Source Llms For Machine Translation And Summarization Evaluation"
+title: Prexme! Large Scale Prompt Exploration Of Open Source Llms For Machine Translation And Summarization Evaluation
 authors: Leiter Christoph, Eger Steffen
 conference: "Arxiv"
 year: 2024

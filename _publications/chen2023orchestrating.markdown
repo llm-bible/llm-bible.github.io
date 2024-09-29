@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chatpipe: Orchestrating Data Preparation Program By Optimizing Human-chatgpt Interactions"
+title: Chatpipe: Orchestrating Data Preparation Program By Optimizing Human-chatgpt Interactions
 authors: Chen Sibei, Liu Hanbing, Jin Weiting, Sun Xiangyu, Feng Xiaoyao, Fan Ju, Du Xiaoyong, Tang Nan
 conference: "Arxiv"
 year: 2023

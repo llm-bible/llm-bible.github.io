@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Character-level Question Answering With Attention"
+title: Character-level Question Answering With Attention
 authors: Golub David, He Xiaodong
 conference: "Arxiv"
 year: 2016

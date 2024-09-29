@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Paradigm Shift In Machine Translation: Boosting Translation Performance Of Large Language Models"
+title: A Paradigm Shift In Machine Translation: Boosting Translation Performance Of Large Language Models
 authors: Xu Haoran, Kim Young Jin, Sharaf Amr, Awadalla Hany Hassan
 conference: "Arxiv"
 year: 2023

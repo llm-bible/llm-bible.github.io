@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Transformer With Memory Replay"
+title: Transformer With Memory Replay
 authors: Liu Rui, Mozafari Barzan
 conference: "Arxiv"
 year: 2022

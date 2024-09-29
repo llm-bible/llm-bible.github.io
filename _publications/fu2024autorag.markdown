@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Autorag-hp: Automatic Online Hyper-parameter Tuning For Retrieval-augmented Generation"
+title: Autorag-hp: Automatic Online Hyper-parameter Tuning For Retrieval-augmented Generation
 authors: Fu Jia, Qin Xiaoting, Yang Fangkai, Wang Lu, Zhang Jue, Lin Qingwei, Chen Yubo, Zhang Dongmei, Rajmohan Saravan, Zhang Qi
 conference: "Arxiv"
 year: 2024

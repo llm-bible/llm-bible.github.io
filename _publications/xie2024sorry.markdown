@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Sorry-bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors"
+title: Sorry-bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors
 authors: Xie Tinghao, Qi Xiangyu, Zeng Yi, Huang Yangsibo, Sehwag Udari Madhushani, Huang Kaixuan, He Luxi, Wei Boyi, Li Dacheng, Sheng Ying, Jia Ruoxi, Li Bo, Li Kai, Chen Danqi, Henderson Peter, Mittal Prateek
 conference: "Arxiv"
 year: 2024

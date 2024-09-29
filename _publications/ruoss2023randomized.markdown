@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Randomized Positional Encodings Boost Length Generalization Of Transformers"
+title: Randomized Positional Encodings Boost Length Generalization Of Transformers
 authors: Anian Ruoss, Grégoire Delétang, Tim Genewein, Jordi Grau-moya, Róbert Csordás, Mehdi Bennani, Shane Legg, Joel Veness
 conference: "Arxiv"
 year: 2023

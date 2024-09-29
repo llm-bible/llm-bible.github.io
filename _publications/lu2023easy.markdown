@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "EPA: Easy Prompt Augmentation On Large Language Models Via Multiple Sources And Multiple Targets"
+title: EPA: Easy Prompt Augmentation On Large Language Models Via Multiple Sources And Multiple Targets
 authors: Lu Hongyuan, Lam Wai
 conference: "Arxiv"
 year: 2023

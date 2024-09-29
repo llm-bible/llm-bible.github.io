@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Syllabusqa: A Course Logistics Question Answering Dataset"
+title: Syllabusqa: A Course Logistics Question Answering Dataset
 authors: Fernandez Nigel, Scarlatos Alexander, Lan Andrew
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Assessment Of Multimodal Large Language Models In Alignment With Human Values"
+title: Assessment Of Multimodal Large Language Models In Alignment With Human Values
 authors: Shi Zhelun, Wang Zhipin, Fan Hongxing, Zhang Zaibin, Li Lijun, Zhang Yongting, Yin Zhenfei, Sheng Lu, Qiao Yu, Shao Jing
 conference: "Arxiv"
 year: 2024

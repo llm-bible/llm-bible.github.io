@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Heuristic-enhanced Candidates Selection Strategy For Gpts Tackle Few-shot Aspect-based Sentiment Analysis"
+title: Heuristic-enhanced Candidates Selection Strategy For Gpts Tackle Few-shot Aspect-based Sentiment Analysis
 authors: Jiang Baoxing, Wan Yujie, Ju Shenggen
 conference: "Arxiv"
 year: 2024

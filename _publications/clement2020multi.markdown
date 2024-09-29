@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pymt5: Multi-mode Translation Of Natural Language And Python Code With Transformers"
+title: Pymt5: Multi-mode Translation Of Natural Language And Python Code With Transformers
 authors: Clement Colin B., Drain Dawn, Timcheck Jonathan, Svyatkovskiy Alexey, Sundaresan Neel
 conference: "Arxiv"
 year: 2020

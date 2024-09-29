@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "CLOMO: Counterfactual Logical Modification With Large Language Models"
+title: CLOMO: Counterfactual Logical Modification With Large Language Models
 authors: Huang Yinya, Hong Ruixin, Zhang Hongming, Shao Wei, Yang Zhicheng, Yu Dong, Zhang Changshui, Liang Xiaodan, Song Linqi
 conference: "Proceedings of the"
 year: 2023

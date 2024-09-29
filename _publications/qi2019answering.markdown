@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Answering Complex Open-domain Questions Through Iterative Query Generation"
+title: Answering Complex Open-domain Questions Through Iterative Query Generation
 authors: Qi Peng, Lin Xiaowen, Mehr Leo, Wang Zijian, Manning Christopher D.
 conference: "Arxiv"
 year: 2019

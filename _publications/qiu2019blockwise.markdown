@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Blockwise Self-attention For Long Document Understanding"
+title: Blockwise Self-attention For Long Document Understanding
 authors: Qiu Jiezhong, Ma Hao, Levy Omer, Yih Scott Wen-tau, Wang Sinong, Tang Jie
 conference: "Arxiv"
 year: 2019

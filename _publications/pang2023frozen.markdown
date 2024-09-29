@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Frozen Transformers In Language Models Are Effective Visual Encoder Layers"
+title: Frozen Transformers In Language Models Are Effective Visual Encoder Layers
 authors: Pang Ziqi, Xie Ziyang, Man Yunze, Wang Yu-xiong
 conference: "Arxiv"
 year: 2023

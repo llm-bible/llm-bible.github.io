@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Meerkat: Audio-visual Large Language Model For Grounding In Space And Time"
+title: Meerkat: Audio-visual Large Language Model For Grounding In Space And Time
 authors: Chowdhury Sanjoy, Nag Sayan, Dasgupta Subhrajyoti, Chen Jun, Elhoseiny Mohamed, Gao Ruohan, Manocha Dinesh
 conference: "Arxiv"
 year: 2024

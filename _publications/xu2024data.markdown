@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Data Efficient Evaluation Of Large Language Models And Text-to-image Models Via Adaptive Sampling"
+title: Data Efficient Evaluation Of Large Language Models And Text-to-image Models Via Adaptive Sampling
 authors: Xu Cong, Saranathan Gayathri, Alam Mahammad Parwez, Shah Arpit, Lim James, Wong Soon Yee, Martin Foltin, Bhattacharya Suparna
 conference: "Arxiv"
 year: 2024

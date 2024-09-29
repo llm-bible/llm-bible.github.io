@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "An Empirical Study Of Mamba-based Language Models"
+title: An Empirical Study Of Mamba-based Language Models
 authors: Waleffe Roger, Byeon Wonmin, Riach Duncan, Norick Brandon, Korthikanti Vijay, Dao Tri, Gu Albert, Hatamizadeh Ali, Singh Sudhakar, Narayanan Deepak, Kulshreshtha Garvit, Singh Vartika, Casper Jared, Kautz Jan, Shoeybi Mohammad, Catanzaro Bryan
 conference: "Arxiv"
 year: 2024

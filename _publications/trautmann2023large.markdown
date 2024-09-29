@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Model Prompt Chaining For Long Legal Document Classification"
+title: Large Language Model Prompt Chaining For Long Legal Document Classification
 authors: Trautmann Dietrich
 conference: "Arxiv"
 year: 2023

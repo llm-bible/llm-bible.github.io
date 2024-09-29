@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "G-transformer For Document-level Machine Translation"
+title: G-transformer For Document-level Machine Translation
 authors: Bao Guangsheng, Zhang Yue, Teng Zhiyang, Chen Boxing, Luo Weihua
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Flashattention-2: Faster Attention With Better Parallelism And Work Partitioning"
+title: Flashattention-2: Faster Attention With Better Parallelism And Work Partitioning
 authors: Dao Tri
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Catfood: Counterfactual Augmented Training For Improving Out-of-domain Performance And Calibration"
+title: Catfood: Counterfactual Augmented Training For Improving Out-of-domain Performance And Calibration
 authors: Sachdeva Rachneet, Tutek Martin, Gurevych Iryna
 conference: "Arxiv"
 year: 2023

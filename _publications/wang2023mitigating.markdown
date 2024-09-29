@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mitigating Fine-grained Hallucination By Fine-tuning Large Vision-language Models With Caption Rewrites"
+title: Mitigating Fine-grained Hallucination By Fine-tuning Large Vision-language Models With Caption Rewrites
 authors: Lei Wang, Jiabang He, Shenshen Li, Ning Liu, Ee-peng Lim
 conference: "Arxiv"
 year: 2023

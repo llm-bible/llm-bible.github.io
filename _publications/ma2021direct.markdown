@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Direct Simultaneous Speech-to-speech Translation With Variational Monotonic Multihead Attention"
+title: Direct Simultaneous Speech-to-speech Translation With Variational Monotonic Multihead Attention
 authors: Ma Xutai, Gong Hongyu, Liu Danni, Lee Ann, Tang Yun, Chen Peng-jen, Hsu Wei-ning, Koehn Phillip, Pino Juan
 conference: "Arxiv"
 year: 2021

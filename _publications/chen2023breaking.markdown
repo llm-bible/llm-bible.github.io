@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Breaking Language Barriers In Multilingual Mathematical Reasoning: Insights And Observations"
+title: Breaking Language Barriers In Multilingual Mathematical Reasoning: Insights And Observations
 authors: Chen Nuo, Zheng Zinan, Wu Ning, Gong Ming, Song Yangqiu, Zhang Dongmei, Li Jia
 conference: "Arxiv"
 year: 2023

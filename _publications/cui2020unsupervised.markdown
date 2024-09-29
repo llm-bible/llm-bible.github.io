@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unsupervised Explanation Generation For Machine Reading Comprehension"
+title: Unsupervised Explanation Generation For Machine Reading Comprehension
 authors: Cui Yiming, Liu Ting, Wang Shijin, Hu Guoping
 conference: "Arxiv"
 year: 2020

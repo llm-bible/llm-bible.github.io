@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Chatgpt Make Explanatory Inferences? Benchmarks For Abductive Reasoning"
+title: Can Chatgpt Make Explanatory Inferences? Benchmarks For Abductive Reasoning
 authors: Thagard Paul
 conference: "Arxiv"
 year: 2024

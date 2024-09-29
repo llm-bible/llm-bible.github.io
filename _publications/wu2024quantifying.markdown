@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Clasheval: Quantifying The Tug-of-war Between An Llm's Internal Prior And External Evidence"
+title: Clasheval: Quantifying The Tug-of-war Between An Llm's Internal Prior And External Evidence
 authors: Wu Kevin, Wu Eric, Zou James
 conference: "Arxiv"
 year: 2024

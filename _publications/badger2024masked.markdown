@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Masked Mixers For Language Generation And Retrieval"
+title: Masked Mixers For Language Generation And Retrieval
 authors: Badger Benjamin L.
 conference: "Arxiv"
 year: 2024

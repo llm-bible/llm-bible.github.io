@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Llmembed: Rethinking Lightweight Llm's Genuine Function In Text Classification"
+title: Llmembed: Rethinking Lightweight Llm's Genuine Function In Text Classification
 authors: Liu Chun, Zhang Hongguang, Zhao Kainan, Ju Xinghai, Yang Lin
 conference: "Arxiv"
 year: 2024

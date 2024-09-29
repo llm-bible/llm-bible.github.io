@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "LAD: Language Models As Data For Zero-shot Dialog"
+title: LAD: Language Models As Data For Zero-shot Dialog
 authors: Mehri Shikib, Altun Yasemin, Eskenazi Maxine
 conference: "Arxiv"
 year: 2022

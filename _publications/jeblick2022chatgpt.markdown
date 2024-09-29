@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chatgpt Makes Medicine Easy To Swallow: An Exploratory Case Study On Simplified Radiology Reports"
+title: Chatgpt Makes Medicine Easy To Swallow: An Exploratory Case Study On Simplified Radiology Reports
 authors: Jeblick Katharina, Schachtner Balthasar, Dexl Jakob, Mittermeier Andreas, Stüber Anna Theresa, Topalis Johanna, Weber Tobias, Wesp Philipp, Sabel Bastian, Ricke Jens, Ingrisch Michael
 conference: "Arxiv"
 year: 2022

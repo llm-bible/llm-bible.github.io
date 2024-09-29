@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Resurrecting Submodularity For Neural Text Generation"
+title: Resurrecting Submodularity For Neural Text Generation
 authors: Han Simeng, Lin Xiang, Joty Shafiq
 conference: "Arxiv"
 year: 2019

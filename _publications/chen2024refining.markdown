@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Refining Packing And Shuffling Strategies For Enhanced Performance In Generative Language Models"
+title: Refining Packing And Shuffling Strategies For Enhanced Performance In Generative Language Models
 authors: Chen Yanbing, Wang Ruilin, Yang Zihao, Jiang Lavender Yao, Oermann Eric Karl
 conference: "Arxiv"
 year: 2024

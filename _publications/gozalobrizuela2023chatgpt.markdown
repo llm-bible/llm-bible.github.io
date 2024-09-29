@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chatgpt Is Not All You Need. A State Of The Art Review Of Large Generative AI Models"
+title: Chatgpt Is Not All You Need. A State Of The Art Review Of Large Generative AI Models
 authors: Gozalo-brizuela Roberto, Garrido-merchan Eduardo C.
 conference: "Arxiv"
 year: 2023

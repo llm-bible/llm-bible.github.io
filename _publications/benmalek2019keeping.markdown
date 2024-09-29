@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Keeping Notes: Conditional Natural Language Generation With A Scratchpad Mechanism"
+title: Keeping Notes: Conditional Natural Language Generation With A Scratchpad Mechanism
 authors: Benmalek Ryan Y., Khabsa Madian, Desu Suma, Cardie Claire, Banko Michele
 conference: "Arxiv"
 year: 2019

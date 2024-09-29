@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring The Potential Of Large Language Models In Generating Code-tracing Questions For Introductory Programming Courses"
+title: Exploring The Potential Of Large Language Models In Generating Code-tracing Questions For Introductory Programming Courses
 authors: Fan Aysa Xuemo, Zhang Ranran Haoran, Paquette Luc, Zhang Rui
 conference: "Arxiv"
 year: 2023

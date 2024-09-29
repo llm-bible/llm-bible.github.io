@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Generating Highly Relevant Questions"
+title: Generating Highly Relevant Questions
 authors: Qiu Jiazuo, Xiong Deyi
 conference: "Arxiv"
 year: 2019

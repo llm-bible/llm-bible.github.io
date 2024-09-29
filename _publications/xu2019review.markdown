@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Review Conversational Reading Comprehension"
+title: Review Conversational Reading Comprehension
 authors: Xu Hu, Liu Bing, Shu Lei, Yu Philip S.
 conference: "Arxiv"
 year: 2019

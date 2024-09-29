@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Review-driven Personalized Preference Reasoning With Large Language Models For Recommendation"
+title: Review-driven Personalized Preference Reasoning With Large Language Models For Recommendation
 authors: Kim Jieyong, Kim Hyunseo, Cho Hyunjin, Kang Seongku, Chang Buru, Yeo Jinyoung, Lee Dongha
 conference: "Arxiv"
 year: 2024

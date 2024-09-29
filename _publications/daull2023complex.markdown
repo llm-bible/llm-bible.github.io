@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Complex QA And Language Models Hybrid Architectures, Survey"
+title: Complex QA And Language Models Hybrid Architectures, Survey
 authors: Daull Xavier, Bellot Patrice, Bruno Emmanuel, Martin Vincent, Murisasco Elisabeth
 conference: "Arxiv"
 year: 2023

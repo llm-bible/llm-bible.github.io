@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Learning To Diversify For Product Question Generation"
+title: Learning To Diversify For Product Question Generation
 authors: Roitman Haggai, Singer Uriel, Eshel Yotam, Nus Alexander, Kiperwasser Eliyahu
 conference: "Arxiv"
 year: 2022

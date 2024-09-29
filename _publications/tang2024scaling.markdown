@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mathscale: Scaling Instruction Tuning For Mathematical Reasoning"
+title: Mathscale: Scaling Instruction Tuning For Mathematical Reasoning
 authors: Tang Zhengyang, Zhang Xingxing, Wang Benyou, Wei Furu
 conference: "Arxiv"
 year: 2024

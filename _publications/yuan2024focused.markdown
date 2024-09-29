@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Focused Large Language Models Are Stable Many-shot Learners"
+title: Focused Large Language Models Are Stable Many-shot Learners
 authors: Yuan Peiwen, Feng Shaoxiong, Li Yiwei, Wang Xinglin, Zhang Yueqi, Tan Chuyi, Pan Boyuan, Wang Heda, Hu Yao, Li Kan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cendol: Open Instruction-tuned Generative Large Language Models For Indonesian Languages"
+title: Cendol: Open Instruction-tuned Generative Large Language Models For Indonesian Languages
 authors: Cahyawijaya Samuel, Lovenia Holy, Koto Fajri, Putri Rifki Afina, Dave Emmanuel, Lee Jhonson, Shadieq Nuur, Cenggoro Wawan, Akbar Salsabil Maulana, Mahendra Muhammad Ihza, Putri Dea Annisayanti, Wilie Bryan, Winata Genta Indra, Aji Alham Fikri, Purwarianti Ayu, Fung Pascale
 conference: "Arxiv"
 year: 2024

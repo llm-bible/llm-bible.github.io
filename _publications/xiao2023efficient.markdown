@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Efficient Streaming Language Models With Attention Sinks"
+title: Efficient Streaming Language Models With Attention Sinks
 authors: Xiao Guangxuan, Tian Yuandong, Chen Beidi, Han Song, Lewis Mike
 conference: "Arxiv"
 year: 2023

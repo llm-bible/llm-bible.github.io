@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Teach Better Or Show Smarter? On Instructions And Exemplars In Automatic Prompt Optimization"
+title: Teach Better Or Show Smarter? On Instructions And Exemplars In Automatic Prompt Optimization
 authors: Wan Xingchen, Sun Ruoxi, Nakhost Hootan, Arik Sercan O.
 conference: "Arxiv"
 year: 2024

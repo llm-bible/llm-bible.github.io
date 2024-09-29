@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "LLM Aided Semi-supervision For Extractive Dialog Summarization"
+title: LLM Aided Semi-supervision For Extractive Dialog Summarization
 authors: Mishra Nishant, Sahu Gaurav, Calixto Iacer, Abu-hanna Ameen, Laradji Issam H.
 conference: "Arxiv"
 year: 2023

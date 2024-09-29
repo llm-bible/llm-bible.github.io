@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Developing A Scalable Benchmark For Assessing Large Language Models In Knowledge Graph Engineering"
+title: Developing A Scalable Benchmark For Assessing Large Language Models In Knowledge Graph Engineering
 authors: Meyer Lars-peter, Frey Johannes, Junghanns Kurt, Brei Felix, Bulert Kirill, Gründer-fahrer Sabine, Martin Michael
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "High Recall Data-to-text Generation With Progressive Edit"
+title: High Recall Data-to-text Generation With Progressive Edit
 authors: Kim Choonghan, Lee Gary Geunbae
 conference: "Arxiv"
 year: 2022

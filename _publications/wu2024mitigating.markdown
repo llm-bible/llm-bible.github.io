@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mitigating Misleading Chain-of-thought Reasoning With Selective Filtering"
+title: Mitigating Misleading Chain-of-thought Reasoning With Selective Filtering
 authors: Wu Yexin, Zhang Zhuosheng, Zhao Hai
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring Self-supervised Logic-enhanced Training For Large Language Models"
+title: Exploring Self-supervised Logic-enhanced Training For Large Language Models
 authors: Jiao Fangkai, Teng Zhiyang, Ding Bosheng, Liu Zhengyuan, Chen Nancy F., Joty Shafiq
 conference: "Arxiv"
 year: 2023

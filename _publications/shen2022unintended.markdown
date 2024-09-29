@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unintended Bias In Language Model-driven Conversational Recommendation"
+title: Unintended Bias In Language Model-driven Conversational Recommendation
 authors: Shen Tianshu, Li Jiaru, Bouadjenek Mohamed Reda, Mai Zheda, Sanner Scott
 conference: "Arxiv"
 year: 2022

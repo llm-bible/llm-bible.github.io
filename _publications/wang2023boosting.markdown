@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Boosting Language Models Reasoning With Chain-of-knowledge Prompting"
+title: Boosting Language Models Reasoning With Chain-of-knowledge Prompting
 authors: Wang Jianing, Sun Qiushi, Li Xiang, Gao Ming
 conference: "Arxiv"
 year: 2023

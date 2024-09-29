@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chatlogic: Integrating Logic Programming With Large Language Models For Multi-step Reasoning"
+title: Chatlogic: Integrating Logic Programming With Large Language Models For Multi-step Reasoning
 authors: Wang Zhongsheng, Liu Jiamou, Bao Qiming, Rong Hongfei, Zhang Jingfeng
 conference: "Arxiv"
 year: 2024

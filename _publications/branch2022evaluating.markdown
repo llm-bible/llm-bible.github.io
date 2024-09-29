@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating The Susceptibility Of Pre-trained Language Models Via Handcrafted Adversarial Examples"
+title: Evaluating The Susceptibility Of Pre-trained Language Models Via Handcrafted Adversarial Examples
 authors: Branch Hezekiah J., Cefalu Jonathan Rodriguez, Mchugh Jeremy, Hujer Leyla, Bahl Aditya, Iglesias Daniel Del Castillo, Heichman Ron, Darwishi Ramesh
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multimodal Transformer With Variable-length Memory For Vision-and-language Navigation"
+title: Multimodal Transformer With Variable-length Memory For Vision-and-language Navigation
 authors: Lin Chuang, Jiang Yi, Cai Jianfei, Qu Lizhen, Haffari Gholamreza, Yuan Zehuan
 conference: "Arxiv"
 year: 2021

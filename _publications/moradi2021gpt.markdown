@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "GPT-3 Models Are Poor Few-shot Learners In The Biomedical Domain"
+title: GPT-3 Models Are Poor Few-shot Learners In The Biomedical Domain
 authors: Moradi Milad, Blagec Kathrin, Haberl Florian, Samwald Matthias
 conference: "Arxiv"
 year: 2021

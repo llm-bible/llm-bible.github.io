@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Memory-augmented Recurrent Networks For Dialogue Coherence"
+title: Memory-augmented Recurrent Networks For Dialogue Coherence
 authors: Donahue David, Meng Yuanliang, Rumshisky Anna
 conference: "Arxiv"
 year: 2019

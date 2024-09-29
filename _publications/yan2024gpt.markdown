@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "GPT-4 Vs. Human Translators: A Comprehensive Evaluation Of Translation Quality Across Languages, Domains, And Expertise Levels"
+title: GPT-4 Vs. Human Translators: A Comprehensive Evaluation Of Translation Quality Across Languages, Domains, And Expertise Levels
 authors: Yan Jianhao, Yan Pingchuan, Chen Yulong, Li Judy, Zhu Xianchao, Zhang Yue
 conference: "Arxiv"
 year: 2024

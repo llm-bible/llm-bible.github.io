@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Scimon: Scientific Inspiration Machines Optimized For Novelty"
+title: Scimon: Scientific Inspiration Machines Optimized For Novelty
 authors: Wang Qingyun, Downey Doug, Ji Heng, Hope Tom
 conference: "Arxiv"
 year: 2023

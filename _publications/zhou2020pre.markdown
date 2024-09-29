@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pre-training Text-to-text Transformers For Concept-centric Common Sense"
+title: Pre-training Text-to-text Transformers For Concept-centric Common Sense
 authors: Zhou Wangchunshu, Lee Dong-ho, Selvam Ravi Kiran, Lee Seyeon, Lin Bill Yuchen, Ren Xiang
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Where Is The Answer? Investigating Positional Bias In Language Model Knowledge Extraction"
+title: Where Is The Answer? Investigating Positional Bias In Language Model Knowledge Extraction
 authors: Saito Kuniaki, Sohn Kihyuk, Lee Chen-yu, Ushiku Yoshitaka
 conference: "Arxiv"
 year: 2024

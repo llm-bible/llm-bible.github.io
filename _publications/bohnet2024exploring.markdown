@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring And Benchmarking The Planning Capabilities Of Large Language Models"
+title: Exploring And Benchmarking The Planning Capabilities Of Large Language Models
 authors: Bohnet Bernd, Nova Azade, Parisi Aaron T, Swersky Kevin, Goshvadi Katayoon, Dai Hanjun, Schuurmans Dale, Fiedel Noah, Sedghi Hanie
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Injecting Salesperson's Dialogue Strategies In Large Language Models With Chain-of-thought Reasoning"
+title: Injecting Salesperson's Dialogue Strategies In Large Language Models With Chain-of-thought Reasoning
 authors: Chang Wen-yu, Chen Yun-nung
 conference: "Arxiv"
 year: 2024

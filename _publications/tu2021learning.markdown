@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Learning Better Visual Dialog Agents With Pretrained Visual-linguistic Representation"
+title: Learning Better Visual Dialog Agents With Pretrained Visual-linguistic Representation
 authors: Tu Tao, Ping Qing, Thattai Govind, Tur Gokhan, Natarajan Prem
 conference: "Arxiv"
 year: 2021

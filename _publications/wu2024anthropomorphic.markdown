@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Sunnie: An Anthropomorphic Llm-based Conversational Agent For Mental Well-being Activity Recommendation"
+title: Sunnie: An Anthropomorphic Llm-based Conversational Agent For Mental Well-being Activity Recommendation
 authors: Wu Siyi, Han Feixue, Yao Bingsheng, Xie Tianyi, Zhao Xuan, Wang Dakuo
 conference: "Arxiv"
 year: 2024

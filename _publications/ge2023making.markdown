@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Making Llama SEE And Draw With SEED Tokenizer"
+title: Making Llama SEE And Draw With SEED Tokenizer
 authors: Ge Yuying, Zhao Sijie, Zeng Ziyun, Ge Yixiao, Li Chen, Wang Xintao, Shan Ying
 conference: "Arxiv"
 year: 2023

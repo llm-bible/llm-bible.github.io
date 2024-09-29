@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "RAG Vs Fine-tuning: Pipelines, Tradeoffs, And A Case Study On Agriculture"
+title: RAG Vs Fine-tuning: Pipelines, Tradeoffs, And A Case Study On Agriculture
 authors: Balaguer Angels, Benara Vinamra, Cunha Renato Luiz De Freitas, Filho Roberto De M. Estevão, Hendry Todd, Holstein Daniel, Marsman Jennifer, Mecklenburg Nick, Malvar Sara, Nunes Leonardo O., Padilha Rafael, Sharp Morris, Silva Bruno, Sharma Swati, Aski Vijay, Chandra Ranveer
 conference: "Arxiv"
 year: 2024

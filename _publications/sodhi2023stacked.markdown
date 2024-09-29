@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Step: Stacked LLM Policies For Web Actions"
+title: Step: Stacked LLM Policies For Web Actions
 authors: Sodhi Paloma, Branavan S. R. K., Artzi Yoav, Mcdonald Ryan
 conference: "Arxiv"
 year: 2023

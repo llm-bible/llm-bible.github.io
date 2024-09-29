@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Imagebind-llm: Multi-modality Instruction Tuning"
+title: Imagebind-llm: Multi-modality Instruction Tuning
 authors: Han Jiaming, Zhang Renrui, Shao Wenqi, Gao Peng, Xu Peng, Xiao Han, Zhang Kaipeng, Liu Chris, Wen Song, Guo Ziyu, Lu Xudong, Ren Shuai, Wen Yafei, Chen Xiaoxin, Yue Xiangyu, Li Hongsheng, Qiao Yu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Building Guardrails For Large Language Models"
+title: Building Guardrails For Large Language Models
 authors: Dong Yi, Mu Ronghui, Jin Gaojie, Qi Yi, Hu Jinwei, Zhao Xingyu, Meng Jie, Ruan Wenjie, Huang Xiaowei
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "An Empirical Study On Cross-lingual Vocabulary Adaptation For Efficient Language Model Inference"
+title: An Empirical Study On Cross-lingual Vocabulary Adaptation For Efficient Language Model Inference
 authors: Yamaguchi Atsuki, Villavicencio Aline, Aletras Nikolaos
 conference: "Arxiv"
 year: 2024

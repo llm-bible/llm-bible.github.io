@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Olagpt: Empowering Llms With Human-like Problem-solving Abilities"
+title: Olagpt: Empowering Llms With Human-like Problem-solving Abilities
 authors: Xie Yuanzhen, Xie Tao, Lin Mingxiong, Wei Wentao, Li Chenglin, Kong Beibei, Chen Lei, Zhuo Chengxiang, Hu Bo, Li Zang
 conference: "Arxiv"
 year: 2023

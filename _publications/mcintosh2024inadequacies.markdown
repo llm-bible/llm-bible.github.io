@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Inadequacies Of Large Language Model Benchmarks In The Era Of Generative Artificial Intelligence"
+title: Inadequacies Of Large Language Model Benchmarks In The Era Of Generative Artificial Intelligence
 authors: Mcintosh Timothy R., Susnjak Teo, Liu Tong, Watters Paul, Halgamuge Malka N.
 conference: "Arxiv"
 year: 2024

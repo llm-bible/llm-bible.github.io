@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models Produce Responses Perceived To Be Empathic"
+title: Large Language Models Produce Responses Perceived To Be Empathic
 authors: Lee Yoon Kyung, Suh Jina, Zhan Hongli, Li Junyi Jessy, Ong Desmond C.
 conference: "Arxiv"
 year: 2024

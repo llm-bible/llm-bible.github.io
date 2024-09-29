@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Hierarchical Neural Program Synthesis"
+title: Hierarchical Neural Program Synthesis
 authors: Zhong Linghan, Lindeborg Ryan, Zhang Jesse, Lim Joseph J., Sun Shao-hua
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multi-programming Language Ensemble For Code Generation In Large Language Model"
+title: Multi-programming Language Ensemble For Code Generation In Large Language Model
 authors: Xue Tengfei, Li Xuefeng, Azim Tahir, Smirnov Roman, Yu Jianhui, Sadrieh Arash, Pahlavan Babak
 conference: "Arxiv"
 year: 2024

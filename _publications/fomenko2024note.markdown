@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Note On Lora"
+title: A Note On Lora
 authors: Fomenko Vlad, Yu Han, Lee Jongho, Hsieh Stanley, Chen Weizhu
 conference: "Arxiv"
 year: 2024

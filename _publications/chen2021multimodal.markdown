@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multimodal Incremental Transformer With Visual Grounding For Visual Dialogue Generation"
+title: Multimodal Incremental Transformer With Visual Grounding For Visual Dialogue Generation
 authors: Chen Feilong, Meng Fandong, Chen Xiuyi, Li Peng, Zhou Jie
 conference: "Arxiv"
 year: 2021

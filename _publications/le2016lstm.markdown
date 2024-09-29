@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Lstm-based Mixture-of-experts For Knowledge-aware Dialogues"
+title: Lstm-based Mixture-of-experts For Knowledge-aware Dialogues
 authors: Le Phong, Dymetman Marc, Renders Jean-michel
 conference: "Arxiv"
 year: 2016

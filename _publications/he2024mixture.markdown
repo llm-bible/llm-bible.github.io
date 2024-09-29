@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "MARS: Mixture Of Auto-regressive Models For Fine-grained Text-to-image Synthesis"
+title: MARS: Mixture Of Auto-regressive Models For Fine-grained Text-to-image Synthesis
 authors: He Wanggui, Fu Siming, Liu Mushui, Wang Xierui, Xiao Wenyi, Shu Fangxun, Wang Yi, Zhang Lei, Yu Zhelun, Li Haoyuan, Huang Ziwei, Gan Leilei, Jiang Hao
 conference: "Arxiv"
 year: 2024

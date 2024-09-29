@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring Quantization For Efficient Pre-training Of Transformer Language Models"
+title: Exploring Quantization For Efficient Pre-training Of Transformer Language Models
 authors: Chitsaz Kamran, Fournier Quentin, Mordido Gonçalo, Chandar Sarath
 conference: "Arxiv"
 year: 2024

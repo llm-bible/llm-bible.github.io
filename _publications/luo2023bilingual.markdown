@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Taiyi: A Bilingual Fine-tuned Large Language Model For Diverse Biomedical Tasks"
+title: Taiyi: A Bilingual Fine-tuned Large Language Model For Diverse Biomedical Tasks
 authors: Luo Ling, Ning Jinzhong, Zhao Yingwen, Wang Zhijun, Ding Zeyuan, Chen Peng, Fu Weiru, Han Qinyu, Xu Guangtao, Qiu Yunzhi, Pan Dinghao, Li Jiru, Li Hao, Feng Wenduo, Tu Senbo, Liu Yuqi, Yang Zhihao, Wang Jian, Sun Yuanyuan, Lin Hongfei
 conference: "Journal of the American Medical Informatics Association"
 year: 2023

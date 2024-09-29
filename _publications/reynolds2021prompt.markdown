@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Prompt Programming For Large Language Models: Beyond The Few-shot Paradigm"
+title: Prompt Programming For Large Language Models: Beyond The Few-shot Paradigm
 authors: Reynolds Laria, Mcdonell Kyle
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Early Chatgpt User Portrait Through The Lens Of Data"
+title: Early Chatgpt User Portrait Through The Lens Of Data
 authors: Deng Yuyang, Zhao Ni, Huang Xin
 conference: "Arxiv"
 year: 2023

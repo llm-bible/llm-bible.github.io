@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Self-cognition In Large Language Models: An Exploratory Study"
+title: Self-cognition In Large Language Models: An Exploratory Study
 authors: Chen Dongping, Shi Jiawen, Wan Yao, Zhou Pan, Gong Neil Zhenqiang, Sun Lichao
 conference: "Arxiv"
 year: 2024

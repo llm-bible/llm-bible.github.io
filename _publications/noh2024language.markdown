@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "LBC: Language-based-classifier For Out-of-variable Generalization"
+title: LBC: Language-based-classifier For Out-of-variable Generalization
 authors: Noh Kangjun, Seong Baekryun, Byun Hoyoon, Choi Youngjun, Song Sungjin, Song Kyungwoo
 conference: "Arxiv"
 year: 2024

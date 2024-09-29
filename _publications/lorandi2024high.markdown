@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "High-quality Data-to-text Generation For Severely Under-resourced Languages With Out-of-the-box Large Language Models"
+title: High-quality Data-to-text Generation For Severely Under-resourced Languages With Out-of-the-box Large Language Models
 authors: Lorandi Michela, Belz Anya
 conference: "Arxiv"
 year: 2024

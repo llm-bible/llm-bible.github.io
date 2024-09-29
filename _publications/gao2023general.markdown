@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Assistgpt: A General Multi-modal Assistant That Can Plan, Execute, Inspect, And Learn"
+title: Assistgpt: A General Multi-modal Assistant That Can Plan, Execute, Inspect, And Learn
 authors: Gao Difei, Ji Lei, Zhou Luowei, Lin Kevin Qinghong, Chen Joya, Fan Zihan, Shou Mike Zheng
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "What If We Recaption Billions Of Web Images With Llama-3?"
+title: What If We Recaption Billions Of Web Images With Llama-3?
 authors: Li Xianhang, Tu Haoqin, Hui Mude, Wang Zeyu, Zhao Bingchen, Xiao Junfei, Ren Sucheng, Mei Jieru, Liu Qing, Zheng Huangjie, Zhou Yuyin, Xie Cihang
 conference: "Arxiv"
 year: 2024

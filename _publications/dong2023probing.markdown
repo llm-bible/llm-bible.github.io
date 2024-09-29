@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Probing Explicit And Implicit Gender Bias Through LLM Conditional Text Generation"
+title: Probing Explicit And Implicit Gender Bias Through LLM Conditional Text Generation
 authors: Dong Xiangjue, Wang Yibo, Yu Philip S., Caverlee James
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Benchmarking Cognitive Biases In Large Language Models As Evaluators"
+title: Benchmarking Cognitive Biases In Large Language Models As Evaluators
 authors: Koo Ryan, Lee Minhwa, Raheja Vipul, Park Jong Inn, Kim Zae Myung, Kang Dongyeop
 conference: "Arxiv"
 year: 2023

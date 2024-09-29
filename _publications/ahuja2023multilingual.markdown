@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "MEGA: Multilingual Evaluation Of Generative AI"
+title: MEGA: Multilingual Evaluation Of Generative AI
 authors: Ahuja Kabir, Diddee Harshita, Hada Rishav, Ochieng Millicent, Ramesh Krithika, Jain Prachi, Nambi Akshay, Ganu Tanuja, Segal Sameer, Axmed Maxamed, Bali Kalika, Sitaram Sunayana
 conference: "Arxiv"
 year: 2023

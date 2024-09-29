@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fine-grained Affective Processing Capabilities Emerging From Large Language Models"
+title: Fine-grained Affective Processing Capabilities Emerging From Large Language Models
 authors: Broekens Joost, Hilpert Bernhard, Verberne Suzan, Baraka Kim, Gebhard Patrick, Plaat Aske
 conference: "Arxiv"
 year: 2023

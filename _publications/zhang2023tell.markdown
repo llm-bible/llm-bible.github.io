@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tell Your Model Where To Attend: Post-hoc Attention Steering For Llms"
+title: Tell Your Model Where To Attend: Post-hoc Attention Steering For Llms
 authors: Zhang Qingru, Singh Chandan, Liu Liyuan, Liu Xiaodong, Yu Bin, Gao Jianfeng, Zhao Tuo
 conference: "Arxiv"
 year: 2023

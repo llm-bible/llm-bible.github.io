@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Visual Question Answering With Memory-augmented Networks"
+title: Visual Question Answering With Memory-augmented Networks
 authors: Ma Chao, Shen Chunhua, Dick Anthony, Wu Qi, Wang Peng, Hengel Anton Van Den, Reid Ian
 conference: "Arxiv"
 year: 2017

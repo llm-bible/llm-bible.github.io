@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Grounded Decoding: Guiding Text Generation With Grounded Models For Embodied Agents"
+title: Grounded Decoding: Guiding Text Generation With Grounded Models For Embodied Agents
 authors: Huang Wenlong, Xia Fei, Shah Dhruv, Driess Danny, Zeng Andy, Lu Yao, Florence Pete, Mordatch Igor, Levine Sergey, Hausman Karol, Ichter Brian
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Finercut: Finer-grained Interpretable Layer Pruning For Large Language Models"
+title: Finercut: Finer-grained Interpretable Layer Pruning For Large Language Models
 authors: Zhang Yang, Li Yawei, Wang Xinpeng, Shen Qianli, Plank Barbara, Bischl Bernd, Rezaei Mina, Kawaguchi Kenji
 conference: "Arxiv"
 year: 2024

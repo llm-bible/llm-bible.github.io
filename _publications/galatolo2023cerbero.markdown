@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cerbero-7b: A Leap Forward In Language-specific Llms Through Enhanced Chat Corpus Generation And Evaluation"
+title: Cerbero-7b: A Leap Forward In Language-specific Llms Through Enhanced Chat Corpus Generation And Evaluation
 authors: Galatolo Federico A., Cimino Mario G. C. A.
 conference: "Arxiv"
 year: 2023

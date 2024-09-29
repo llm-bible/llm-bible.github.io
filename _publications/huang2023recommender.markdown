@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Recommender AI Agent: Integrating Large Language Models For Interactive Recommendations"
+title: Recommender AI Agent: Integrating Large Language Models For Interactive Recommendations
 authors: Xu Huang, Jianxun Lian, Yuxuan Lei, Jing Yao, Defu Lian, Xing Xie
 conference: "Arxiv"
 year: 2023

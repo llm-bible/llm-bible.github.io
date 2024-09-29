@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Hallucinations Leaderboard -- An Open Effort To Measure Hallucinations In Large Language Models"
+title: The Hallucinations Leaderboard -- An Open Effort To Measure Hallucinations In Large Language Models
 authors: Hong Giwon, Gema Aryo Pradipta, Saxena Rohit, Du Xiaotang, Nie Ping, Zhao Yu, Perez-beltrachini Laura, Ryabinin Max, He Xuanli, Fourrier Clémentine, Minervini Pasquale
 conference: "Arxiv"
 year: 2024

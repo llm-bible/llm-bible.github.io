@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Accelerating Attention Through Gradient-based Learned Runtime Pruning"
+title: Accelerating Attention Through Gradient-based Learned Runtime Pruning
 authors: Li Zheng, Ghodrati Soroush, Yazdanbakhsh Amir, Esmaeilzadeh Hadi, Kang Mingu
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Instructed To Bias: Instruction-tuned Language Models Exhibit Emergent Cognitive Bias"
+title: Instructed To Bias: Instruction-tuned Language Models Exhibit Emergent Cognitive Bias
 authors: Itzhak Itay, Stanovsky Gabriel, Rosenfeld Nir, Belinkov Yonatan
 conference: "Arxiv"
 year: 2023

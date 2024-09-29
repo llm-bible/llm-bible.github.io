@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Do Vision-and-language Transformers Learn Grounded Predicate-noun Dependencies?"
+title: Do Vision-and-language Transformers Learn Grounded Predicate-noun Dependencies?
 authors: Nikolaus Mitja, Salin Emmanuelle, Ayache Stephane, Fourtassi Abdellah, Favre Benoit
 conference: "Arxiv"
 year: 2022

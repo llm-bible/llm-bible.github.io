@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On The Effect Of Pre-training For Transformer In Different Modality On Offline Reinforcement Learning"
+title: On The Effect Of Pre-training For Transformer In Different Modality On Offline Reinforcement Learning
 authors: Takagi Shiro
 conference: "Advances in Neural Information Processing Systems"
 year: 2022

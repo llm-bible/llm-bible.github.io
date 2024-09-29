@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Framework For Fine-tuning Llms Using Heterogeneous Feedback"
+title: A Framework For Fine-tuning Llms Using Heterogeneous Feedback
 authors: Aponte Ryan, Rossi Ryan A., Guo Shunan, Dernoncourt Franck, Yu Tong, Chen Xiang, Mitra Subrata, Lipka Nedim
 conference: "Arxiv"
 year: 2024

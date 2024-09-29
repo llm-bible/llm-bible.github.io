@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Integrating Large Language Models Into Recommendation Via Mutual Augmentation And Adaptive Aggregation"
+title: Integrating Large Language Models Into Recommendation Via Mutual Augmentation And Adaptive Aggregation
 authors: Sichun Luo, Yuxuan Yao, Bowei He, Yinya Huang, Aojun Zhou, Xinyi Zhang, Yuanzhang Xiao, Mingjie Zhan, Linqi Song
 conference: "Arxiv"
 year: 2024

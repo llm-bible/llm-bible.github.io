@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Is GPT-3 A Good Data Annotator?"
+title: Is GPT-3 A Good Data Annotator?
 authors: Ding Bosheng, Qin Chengwei, Liu Linlin, Chia Yew Ken, Joty Shafiq, Li Boyang, Bing Lidong
 conference: "Arxiv"
 year: 2022

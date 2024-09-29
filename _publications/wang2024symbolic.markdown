@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Symbolic Working Memory Enhances Language Models For Complex Rule Application"
+title: Symbolic Working Memory Enhances Language Models For Complex Rule Application
 authors: Wang Siyuan, Wei Zhongyu, Choi Yejin, Ren Xiang
 conference: "Arxiv"
 year: 2024

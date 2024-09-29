@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Future Is Different: Large Pre-trained Language Models Fail In Prediction Tasks"
+title: The Future Is Different: Large Pre-trained Language Models Fail In Prediction Tasks
 authors: Cvejoski Kostadin, Sánchez Ramsés J., Ojeda César
 conference: "Arxiv"
 year: 2022

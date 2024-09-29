@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "In-context Language Learning: Architectures And Algorithms"
+title: In-context Language Learning: Architectures And Algorithms
 authors: Akyürek Ekin, Wang Bailin, Kim Yoon, Andreas Jacob
 conference: "Arxiv"
 year: 2024

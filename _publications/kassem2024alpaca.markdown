@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Alpaca Against Vicuna: Using Llms To Uncover Memorization Of Llms"
+title: Alpaca Against Vicuna: Using Llms To Uncover Memorization Of Llms
 authors: Kassem Aly M., Mahmoud Omar, Mireshghallah Niloofar, Kim Hyunwoo, Tsvetkov Yulia, Choi Yejin, Saad Sherif, Rana Santu
 conference: "Arxiv"
 year: 2024

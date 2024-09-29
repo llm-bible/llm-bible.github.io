@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Self-agreement: A Framework For Fine-tuning Language Models To Find Agreement Among Diverse Opinions"
+title: Self-agreement: A Framework For Fine-tuning Language Models To Find Agreement Among Diverse Opinions
 authors: Ding Shiyao, Ito Takayuki
 conference: "Arxiv"
 year: 2023

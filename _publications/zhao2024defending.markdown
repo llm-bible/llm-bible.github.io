@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Defending Large Language Models Against Jailbreak Attacks Via Layer-specific Editing"
+title: Defending Large Language Models Against Jailbreak Attacks Via Layer-specific Editing
 authors: Zhao Wei, Li Zhe, Li Yige, Zhang Ye, Sun Jun
 conference: "Arxiv"
 year: 2024

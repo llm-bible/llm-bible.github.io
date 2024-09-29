@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cognidual Framework: Self-training Large Language Models Within A Dual-system Theoretical Framework For Improving Cognitive Tasks"
+title: Cognidual Framework: Self-training Large Language Models Within A Dual-system Theoretical Framework For Improving Cognitive Tasks
 authors: Deng Yongxin, Qiu Xihe, Tan Xiaoyu, Qu Chao, Pan Jing, Cheng Yuan, Xu Yinghui, Chu Wei
 conference: "Arxiv"
 year: 2024

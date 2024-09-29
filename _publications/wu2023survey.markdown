@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Survey On Large Language Models For Recommendation"
+title: A Survey On Large Language Models For Recommendation
 authors: Likang Wu, Zhi Zheng, Zhaopeng Qiu, Hao Wang, Hongchao Gu, Tingjia Shen, Chuan Qin, Chen Zhu, Hengshu Zhu, Qi Liu, Hui Xiong, Enhong Chen
 conference: "Arxiv"
 year: 2023

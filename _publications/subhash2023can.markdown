@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Large Language Models Change User Preference Adversarially?"
+title: Can Large Language Models Change User Preference Adversarially?
 authors: Subhash Varshini
 conference: "Arxiv"
 year: 2023

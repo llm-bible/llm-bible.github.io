@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Training Multilingual Machine Translation By Alternately Freezing Language-specific Encoders-decoders"
+title: Training Multilingual Machine Translation By Alternately Freezing Language-specific Encoders-decoders
 authors: Escolano Carlos, Costa-jussà Marta R., Fonollosa José A. R., Artetxe Mikel
 conference: "Arxiv"
 year: 2020

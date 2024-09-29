@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Captioning Visualizations With Large Language Models (CVLLM): A Tutorial"
+title: Captioning Visualizations With Large Language Models (CVLLM): A Tutorial
 authors: Carenini Giuseppe, Johnson Jordon, Salamatian Ali
 conference: "Arxiv"
 year: 2024

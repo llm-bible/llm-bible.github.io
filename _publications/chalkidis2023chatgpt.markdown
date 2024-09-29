@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chatgpt May Pass The Bar Exam Soon, But Has A Long Way To Go For The Lexglue Benchmark"
+title: Chatgpt May Pass The Bar Exam Soon, But Has A Long Way To Go For The Lexglue Benchmark
 authors: Chalkidis Ilias
 conference: "Arxiv"
 year: 2023

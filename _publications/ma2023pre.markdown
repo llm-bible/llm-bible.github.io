@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pre-training With Large Language Model-based Document Expansion For Dense Passage Retrieval"
+title: Pre-training With Large Language Model-based Document Expansion For Dense Passage Retrieval
 authors: Ma Guangyuan, Wu Xing, Wang Peng, Lin Zijia, Hu Songlin
 conference: "Arxiv"
 year: 2023

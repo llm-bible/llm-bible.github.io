@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Detecting Generated Native Ads In Conversational Search"
+title: Detecting Generated Native Ads In Conversational Search
 authors: Schmidt Sebastian, Zelch Ines, Bevendorff Janek, Stein Benno, Hagen Matthias, Potthast Martin
 conference: "Arxiv"
 year: 2024

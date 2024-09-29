@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "GPT Understands, Too"
+title: GPT Understands, Too
 authors: Liu Xiao, Zheng Yanan, Du Zhengxiao, Ding Ming, Qian Yujie, Yang Zhilin, Tang Jie
 conference: "Arxiv"
 year: 2021

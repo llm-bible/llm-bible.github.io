@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Incorporating BERT Into Parallel Sequence Decoding With Adapters"
+title: Incorporating BERT Into Parallel Sequence Decoding With Adapters
 authors: Guo Junliang, Zhang Zhirui, Xu Linli, Wei Hao-ran, Chen Boxing, Chen Enhong
 conference: "Arxiv"
 year: 2020

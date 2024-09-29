@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "KPT: Keyword-guided Pre-training For Grounded Dialog Generation"
+title: KPT: Keyword-guided Pre-training For Grounded Dialog Generation
 authors: Zhu Qi, Mi Fei, Zhang Zheng, Wang Yasheng, Li Yitong, Jiang Xin, Liu Qun, Zhu Xiaoyan, Huang Minlie
 conference: "Arxiv"
 year: 2022

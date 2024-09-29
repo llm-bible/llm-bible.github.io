@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Compensate Quantization Errors: Make Weights Hierarchical To Compensate Each Other"
+title: Compensate Quantization Errors: Make Weights Hierarchical To Compensate Each Other
 authors: Gao Yifei, Ou Jie, Wang Lei, Xiao Yuting, Xiang Zhiyuan, Dai Ruiting, Cheng Jun
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "PROMPT-SAW: Leveraging Relation-aware Graphs For Textual Prompt Compression"
+title: PROMPT-SAW: Leveraging Relation-aware Graphs For Textual Prompt Compression
 authors: Ali Muhammad Asif, Li Zhengping, Yang Shu, Cheng Keyuan, Cao Yang, Huang Tianhao, Hu Lijie, Yu Lu, Wang Di
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Auto-survey Challenge"
+title: Auto-survey Challenge
 authors: Khuong Thanh Gia Hieu Tau, Lisn, Rachmat Benedictus Kent Tau, Lisn
 conference: "Junior Conference on Data Science and Engineering"
 year: 2023

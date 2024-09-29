@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Star: Bootstrapping Reasoning With Reasoning"
+title: Star: Bootstrapping Reasoning With Reasoning
 authors: Eric Zelikman, Yuhuai Wu, Jesse Mu, Noah D. Goodman
 conference: "Arxiv"
 year: 2022

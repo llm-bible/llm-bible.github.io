@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Simplyretrieve: A Private And Lightweight Retrieval-centric Generative AI Tool"
+title: Simplyretrieve: A Private And Lightweight Retrieval-centric Generative AI Tool
 authors: Ng Youyang, Miyashita Daisuke, Hoshi Yasuto, Morioka Yasuhiro, Torii Osamu, Kodama Tomoya, Deguchi Jun
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Llamafactory: Unified Efficient Fine-tuning Of 100+ Language Models"
+title: Llamafactory: Unified Efficient Fine-tuning Of 100+ Language Models
 authors: Zheng Yaowei, Zhang Richong, Zhang Junhao, Ye Yanhan, Luo Zheyan, Feng Zhangchi, Ma Yongqiang
 conference: "Arxiv"
 year: 2024

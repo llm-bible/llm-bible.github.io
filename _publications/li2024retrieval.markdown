@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Retrieval Augmented Generation Or Long-context Llms? A Comprehensive Study And Hybrid Approach"
+title: Retrieval Augmented Generation Or Long-context Llms? A Comprehensive Study And Hybrid Approach
 authors: Li Zhuowan, Li Cheng, Zhang Mingyang, Mei Qiaozhu, Bendersky Michael
 conference: "Arxiv"
 year: 2024

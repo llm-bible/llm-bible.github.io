@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Open Generative Large Language Models For Galician"
+title: Open Generative Large Language Models For Galician
 authors: Gamallo Pablo, Rodríguez Pablo, De-dios-flores Iria, Sotelo Susana, Paniagua Silvia, Bardanca Daniel, Pichel José Ramom, Garcia Marcos
 conference: "Arxiv"
 year: 2024

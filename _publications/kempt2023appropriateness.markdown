@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Appropriateness Is All You Need!"
+title: Appropriateness Is All You Need!
 authors: Kempt Hendrik, Lavie Alon, Nagel Saskia K.
 conference: "Arxiv"
 year: 2023

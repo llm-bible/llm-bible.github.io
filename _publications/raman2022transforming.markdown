@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Transforming Sequence Tagging Into A Seq2seq Task"
+title: Transforming Sequence Tagging Into A Seq2seq Task
 authors: Raman Karthik, Naim Iftekhar, Chen Jiecao, Hashimoto Kazuma, Yalasangi Kiran, Srinivasan Krishna
 conference: "Arxiv"
 year: 2022

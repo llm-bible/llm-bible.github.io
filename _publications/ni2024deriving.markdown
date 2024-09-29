@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mixeval: Deriving Wisdom Of The Crowd From LLM Benchmark Mixtures"
+title: Mixeval: Deriving Wisdom Of The Crowd From LLM Benchmark Mixtures
 authors: Ni Jinjie, Xue Fuzhao, Yue Xiang, Deng Yuntian, Shah Mahir, Jain Kabir, Neubig Graham, You Yang
 conference: "Arxiv"
 year: 2024

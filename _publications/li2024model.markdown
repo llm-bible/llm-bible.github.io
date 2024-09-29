@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Model-enhanced Llm-driven VUI Testing Of VPA Apps"
+title: Model-enhanced Llm-driven VUI Testing Of VPA Apps
 authors: Li Suwan, Bu Lei, Bai Guangdong, Xie Fuman, Chen Kai, Yue Chang
 conference: "Arxiv"
 year: 2024

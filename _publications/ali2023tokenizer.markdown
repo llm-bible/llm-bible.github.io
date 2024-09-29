@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tokenizer Choice For LLM Training: Negligible Or Crucial?"
+title: Tokenizer Choice For LLM Training: Negligible Or Crucial?
 authors: Ali Mehdi, Fromm Michael, Thellmann Klaudia, Rutmann Richard, Lübbering Max, Leveling Johannes, Klug Katrin, Ebert Jan, Doll Niclas, Buschhoff Jasper Schulze, Jain Charvi, Weber Alexander Arno, Jurkschat Lena, Abdelwahab Hammam, John Chelsea, Suarez Pedro Ortiz, Ostendorff Malte, Weinbach Samuel, Sifa Rafet, Kesselheim Stefan, Flores-herr Nicolas
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "FSM: A Finite State Machine Based Zero-shot Prompting Paradigm For Multi-hop Question Answering"
+title: FSM: A Finite State Machine Based Zero-shot Prompting Paradigm For Multi-hop Question Answering
 authors: Wang Xiaochen, He Junqing, Yang Zhe, Wang Yiru, Meng Xiangdi, Pan Kunhao, Sui Zhifang
 conference: "Arxiv"
 year: 2024

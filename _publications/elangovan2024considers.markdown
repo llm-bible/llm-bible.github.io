@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Considers-the-human Evaluation Framework: Rethinking Human Evaluation For Generative Large Language Models"
+title: Considers-the-human Evaluation Framework: Rethinking Human Evaluation For Generative Large Language Models
 authors: Elangovan Aparna, Liu Ling, Xu Lei, Bodapati Sravan, Roth Dan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Instruction Distillation Makes Large Language Models Efficient Zero-shot Rankers"
+title: Instruction Distillation Makes Large Language Models Efficient Zero-shot Rankers
 authors: Sun Weiwei, Chen Zheng, Ma Xinyu, Yan Lingyong, Wang Shuaiqiang, Ren Pengjie, Chen Zhumin, Yin Dawei, Ren Zhaochun
 conference: "Arxiv"
 year: 2023

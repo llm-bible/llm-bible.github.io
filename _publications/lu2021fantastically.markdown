@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fantastically Ordered Prompts And Where To Find Them: Overcoming Few-shot Prompt Order Sensitivity"
+title: Fantastically Ordered Prompts And Where To Find Them: Overcoming Few-shot Prompt Order Sensitivity
 authors: Lu Yao, Bartolo Max, Moore Alastair, Riedel Sebastian, Stenetorp Pontus
 conference: "Arxiv"
 year: 2021

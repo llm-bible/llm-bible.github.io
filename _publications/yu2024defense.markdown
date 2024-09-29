@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "In Defense Of RAG In The Era Of Long-context Language Models"
+title: In Defense Of RAG In The Era Of Long-context Language Models
 authors: Yu Tan, Xu Anbang, Akkiraju Rama
 conference: "Arxiv"
 year: 2024

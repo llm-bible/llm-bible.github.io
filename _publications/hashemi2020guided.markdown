@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Guided Transformer: Leveraging Multiple External Sources For Representation Learning In Conversational Search"
+title: Guided Transformer: Leveraging Multiple External Sources For Representation Learning In Conversational Search
 authors: Hashemi Helia, Zamani Hamed, Croft W. Bruce
 conference: "Arxiv"
 year: 2020

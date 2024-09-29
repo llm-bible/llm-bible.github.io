@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Prompt Space Optimizing Few-shot Reasoning Success With Large Language Models"
+title: Prompt Space Optimizing Few-shot Reasoning Success With Large Language Models
 authors: Shi Fobo, Qing Peijun, Yang Dong, Wang Nan, Lei Youbo, Lu Haonan, Lin Xiaodong, Li Duantengchuan
 conference: "Arxiv"
 year: 2023

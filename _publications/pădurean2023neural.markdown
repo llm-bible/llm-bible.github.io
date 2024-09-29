@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Neural Task Synthesis For Visual Programming"
+title: Neural Task Synthesis For Visual Programming
 authors: Pădurean Victor-alexandru, Tzannetos Georgios, Singla Adish
 conference: "Arxiv"
 year: 2023

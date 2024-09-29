@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Syntax-informed Question Answering With Heterogeneous Graph Transformer"
+title: Syntax-informed Question Answering With Heterogeneous Graph Transformer
 authors: Zhu Fangyi, Tan Lok You, Ng See-kiong, Bressan Stéphane
 conference: "Arxiv"
 year: 2022

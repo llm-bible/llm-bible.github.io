@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Survey On Efficient Inference For Large Language Models"
+title: A Survey On Efficient Inference For Large Language Models
 authors: Zhou Zixuan, Ning Xuefei, Hong Ke, Fu Tianyu, Xu Jiaming, Li Shiyao, Lou Yuming, Wang Luning, Yuan Zhihang, Li Xiuhong, Yan Shengen, Dai Guohao, Zhang Xiao-ping, Dong Yuhan, Wang Yu
 conference: "Arxiv"
 year: 2024

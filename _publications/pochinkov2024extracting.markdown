@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Extracting Paragraphs From LLM Token Activations"
+title: Extracting Paragraphs From LLM Token Activations
 authors: Pochinkov Nicholas, Benoit Angelo, Agarwal Lovkush, Majid Zainab Ali, Ter-minassian Lucile
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Ovis: Structural Embedding Alignment For Multimodal Large Language Model"
+title: Ovis: Structural Embedding Alignment For Multimodal Large Language Model
 authors: Lu Shiyin, Li Yang, Chen Qing-guo, Xu Zhao, Luo Weihua, Zhang Kaifu, Ye Han-jia
 conference: "Arxiv"
 year: 2024

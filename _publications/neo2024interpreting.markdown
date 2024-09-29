@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Interpreting Context Look-ups In Transformers: Investigating Attention-mlp Interactions"
+title: Interpreting Context Look-ups In Transformers: Investigating Attention-mlp Interactions
 authors: Neo Clement, Cohen Shay B., Barez Fazl
 conference: "Arxiv"
 year: 2024

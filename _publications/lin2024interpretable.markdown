@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Interpretable User Satisfaction Estimation For Conversational Systems With Large Language Models"
+title: Interpretable User Satisfaction Estimation For Conversational Systems With Large Language Models
 authors: Lin Ying-chun, Neville Jennifer, Stokes Jack W., Yang Longqi, Safavi Tara, Wan Mengting, Counts Scott, Suri Siddharth, Andersen Reid, Xu Xiaofeng, Gupta Deepak, Jauhar Sujay Kumar, Song Xia, Buscher Georg, Tiwary Saurabh, Hecht Brent, Teevan Jaime
 conference: "Arxiv"
 year: 2024

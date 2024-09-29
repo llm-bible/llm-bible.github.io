@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chatspamdetector: Leveraging Large Language Models For Effective Phishing Email Detection"
+title: Chatspamdetector: Leveraging Large Language Models For Effective Phishing Email Detection
 authors: Koide Takashi, Fukushi Naoki, Nakano Hiroki, Chiba Daiki
 conference: "Arxiv"
 year: 2024

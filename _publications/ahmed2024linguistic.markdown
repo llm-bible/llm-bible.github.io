@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Linguistic Intelligence In Large Language Models For Telecommunications"
+title: Linguistic Intelligence In Large Language Models For Telecommunications
 authors: Ahmed Tasnim, Piovesan Nicola, De Domenico Antonio, Choudhury Salimur
 conference: "Arxiv"
 year: 2024

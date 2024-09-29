@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Stable Language Model Pre-training By Reducing Embedding Variability"
+title: Stable Language Model Pre-training By Reducing Embedding Variability
 authors: Chung Woojin, Hong Jiwoo, An Na Min, Thorne James, Yun Se-young
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Datasculpt: Crafting Data Landscapes For LLM Post-training Through Multi-objective Partitioning"
+title: Datasculpt: Crafting Data Landscapes For LLM Post-training Through Multi-objective Partitioning
 authors: Lu Keer, Liang Zheng, Nie Xiaonan, Pan Da, Zhang Shusen, Zhao Keshi, Chen Weipeng, Zhou Zenan, Dong Guosheng, Zhang Wentao, Cui Bin
 conference: "Arxiv"
 year: 2024

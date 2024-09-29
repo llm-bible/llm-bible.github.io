@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Kosmos-g: Generating Images In Context With Multimodal Large Language Models"
+title: Kosmos-g: Generating Images In Context With Multimodal Large Language Models
 authors: Pan Xichen, Dong Li, Huang Shaohan, Peng Zhiliang, Chen Wenhu, Wei Furu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Minigpt4-video: Advancing Multimodal Llms For Video Understanding With Interleaved Visual-textual Tokens"
+title: Minigpt4-video: Advancing Multimodal Llms For Video Understanding With Interleaved Visual-textual Tokens
 authors: Ataallah Kirolos, Shen Xiaoqian, Abdelrahman Eslam, Sleiman Essam, Zhu Deyao, Ding Jian, Elhoseiny Mohamed
 conference: "Arxiv"
 year: 2024

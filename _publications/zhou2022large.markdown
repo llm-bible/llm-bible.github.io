@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models Are Human-level Prompt Engineers"
+title: Large Language Models Are Human-level Prompt Engineers
 authors: Zhou Yongchao, Muresanu Andrei Ioan, Han Ziwen, Paster Keiran, Pitis Silviu, Chan Harris, Ba Jimmy
 conference: "Arxiv"
 year: 2022

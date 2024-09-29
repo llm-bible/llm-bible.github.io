@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Allennlp Interpret: A Framework For Explaining Predictions Of NLP Models"
+title: Allennlp Interpret: A Framework For Explaining Predictions Of NLP Models
 authors: Wallace Eric, Tuyls Jens, Wang Junlin, Subramanian Sanjay, Gardner Matt, Singh Sameer
 conference: "Arxiv"
 year: 2019

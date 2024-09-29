@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "MULTIVERSE: Exposing Large Language Model Alignment Problems In Diverse Worlds"
+title: MULTIVERSE: Exposing Large Language Model Alignment Problems In Diverse Worlds
 authors: Jin Xiaolong, Zhang Zhuo, Zhang Xiangyu
 conference: "Arxiv"
 year: 2024

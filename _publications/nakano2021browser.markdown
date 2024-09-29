@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Webgpt: Browser-assisted Question-answering With Human Feedback"
+title: Webgpt: Browser-assisted Question-answering With Human Feedback
 authors: Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, Xu Jiang, Karl Cobbe, Tyna Eloundou, Gretchen Krueger, Kevin Button, Matthew Knight, Benjamin Chess, John Schulman
 conference: "Arxiv"
 year: 2021

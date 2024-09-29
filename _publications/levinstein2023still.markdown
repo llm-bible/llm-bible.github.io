@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Still No Lie Detector For Language Models: Probing Empirical And Conceptual Roadblocks"
+title: Still No Lie Detector For Language Models: Probing Empirical And Conceptual Roadblocks
 authors: Levinstein B. A., Herrmann Daniel A.
 conference: "Arxiv"
 year: 2023

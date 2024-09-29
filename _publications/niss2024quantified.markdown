@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Quantified Task Misalignment To Inform PEFT: An Exploration Of Domain Generalization And Catastrophic Forgetting In CLIP"
+title: Quantified Task Misalignment To Inform PEFT: An Exploration Of Domain Generalization And Catastrophic Forgetting In CLIP
 authors: Niss Laura, Vogt-lowell Kevin, Tsiligkaridis Theodoros
 conference: "Arxiv"
 year: 2024

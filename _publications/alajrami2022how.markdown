@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "How Does The Pre-training Objective Affect What Large Language Models Learn About Linguistic Properties?"
+title: How Does The Pre-training Objective Affect What Large Language Models Learn About Linguistic Properties?
 authors: Alajrami Ahmed, Aletras Nikolaos
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Concentrate Attention: Towards Domain-generalizable Prompt Optimization For Language Models"
+title: Concentrate Attention: Towards Domain-generalizable Prompt Optimization For Language Models
 authors: Li Chengzhengxu, Liu Xiaoming, Zhang Zhaohan, Wang Yichen, Liu Chen, Lan Yu, Shen Chao
 conference: "Arxiv"
 year: 2024

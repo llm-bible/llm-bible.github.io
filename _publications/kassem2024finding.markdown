@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Finding A Needle In The Adversarial Haystack: A Targeted Paraphrasing Approach For Uncovering Edge Cases With Minimal Distribution Distortion"
+title: Finding A Needle In The Adversarial Haystack: A Targeted Paraphrasing Approach For Uncovering Edge Cases With Minimal Distribution Distortion
 authors: Kassem Aly M., Saad Sherif
 conference: "Arxiv"
 year: 2024

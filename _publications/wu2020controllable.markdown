@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Controllable Model Of Grounded Response Generation"
+title: A Controllable Model Of Grounded Response Generation
 authors: Wu Zeqiu, Galley Michel, Brockett Chris, Zhang Yizhe, Gao Xiang, Quirk Chris, Koncel-kedziorski Rik, Gao Jianfeng, Hajishirzi Hannaneh, Ostendorf Mari, Dolan Bill
 conference: "Arxiv"
 year: 2020

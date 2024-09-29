@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Memory Attentive Fusion: External Language Model Integration For Transformer-based Sequence-to-sequence Model"
+title: Memory Attentive Fusion: External Language Model Integration For Transformer-based Sequence-to-sequence Model
 authors: Ihori Mana, Masumura Ryo, Makishima Naoki, Tanaka Tomohiro, Takashima Akihiko, Orihashi Shota
 conference: "Arxiv"
 year: 2020

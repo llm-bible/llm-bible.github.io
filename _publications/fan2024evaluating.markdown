@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating Generative Language Models In Information Extraction As Subjective Question Correction"
+title: Evaluating Generative Language Models In Information Extraction As Subjective Question Correction
 authors: Fan Yuchen, Liu Yantao, Yao Zijun, Yu Jifan, Hou Lei, Li Juanzi
 conference: "Arxiv"
 year: 2024

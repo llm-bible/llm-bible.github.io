@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Videollm-mod: Efficient Video-language Streaming With Mixture-of-depths Vision Computation"
+title: Videollm-mod: Efficient Video-language Streaming With Mixture-of-depths Vision Computation
 authors: Wu Shiwei, Chen Joya, Lin Kevin Qinghong, Wang Qimeng, Gao Yan, Xu Qianli, Xu Tong, Hu Yao, Chen Enhong, Shou Mike Zheng
 conference: "Arxiv"
 year: 2024

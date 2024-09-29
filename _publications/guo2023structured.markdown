@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Compresso: Structured Pruning With Collaborative Prompting Learns Compact Large Language Models"
+title: Compresso: Structured Pruning With Collaborative Prompting Learns Compact Large Language Models
 authors: Guo Song, Xu Jiahang, Zhang Li Lyna, Yang Mao
 conference: "Arxiv"
 year: 2023

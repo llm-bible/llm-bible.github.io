@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Self-detoxifying Language Models Via Toxification Reversal"
+title: Self-detoxifying Language Models Via Toxification Reversal
 authors: Leong Chak Tou, Cheng Yi, Wang Jiashuo, Wang Jian, Li Wenjie
 conference: "Arxiv"
 year: 2023

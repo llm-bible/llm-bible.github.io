@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Generative AI To Generate Test Data Generators"
+title: Generative AI To Generate Test Data Generators
 authors: Baudry Benoit, Etemadi Khashayar, Fang Sen, Gamage Yogya, Liu Yi, Liu Yuxin, Monperrus Martin, Ron Javier, Silva André, Tiwari Deepika
 conference: "IEEE Software"
 year: 2024

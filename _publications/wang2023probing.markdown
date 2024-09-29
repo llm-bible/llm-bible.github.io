@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Probing Large Language Models From A Human Behavioral Perspective"
+title: Probing Large Language Models From A Human Behavioral Perspective
 authors: Wang Xintong, Li Xiaoyu, Li Xingshan, Biemann Chris
 conference: "Arxiv"
 year: 2023

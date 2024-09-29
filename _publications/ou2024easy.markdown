@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Easyinstruct: An Easy-to-use Instruction Processing Framework For Large Language Models"
+title: Easyinstruct: An Easy-to-use Instruction Processing Framework For Large Language Models
 authors: Ou Yixin, Zhang Ningyu, Gui Honghao, Xu Ziwen, Qiao Shuofei, Xue Yida, Fang Runnan, Liu Kangwei, Li Lei, Bi Zhen, Zheng Guozhou, Chen Huajun
 conference: "Arxiv"
 year: 2024

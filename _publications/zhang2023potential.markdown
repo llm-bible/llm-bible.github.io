@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Potential And Pitfalls Of Using A Large Language Model Such As Chatgpt Or GPT-4 As A Clinical Assistant"
+title: The Potential And Pitfalls Of Using A Large Language Model Such As Chatgpt Or GPT-4 As A Clinical Assistant
 authors: Zhang Jingqing, Sun Kai, Jagadeesh Akshay, Ghahfarokhi Mahta, Gupta Deepa, Gupta Ashok, Gupta Vibhor, Guo Yike
 conference: "Arxiv"
 year: 2023

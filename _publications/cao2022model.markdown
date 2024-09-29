@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Model-agnostic Data Manipulation Method For Persona-based Dialogue Generation"
+title: A Model-agnostic Data Manipulation Method For Persona-based Dialogue Generation
 authors: Cao Yu, Bi Wei, Fang Meng, Shi Shuming, Tao Dacheng
 conference: "Arxiv"
 year: 2022

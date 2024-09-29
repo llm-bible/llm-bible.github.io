@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Latent Skill Discovery For Chain-of-thought Reasoning"
+title: Latent Skill Discovery For Chain-of-thought Reasoning
 authors: Xu Zifan, Wang Haozhu, Bespalov Dmitriy, Stone Peter, Qi Yanjun
 conference: "Arxiv"
 year: 2023

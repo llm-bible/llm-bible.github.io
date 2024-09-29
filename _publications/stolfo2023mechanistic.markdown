@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Mechanistic Interpretation Of Arithmetic Reasoning In Language Models Using Causal Mediation Analysis"
+title: A Mechanistic Interpretation Of Arithmetic Reasoning In Language Models Using Causal Mediation Analysis
 authors: Stolfo Alessandro, Belinkov Yonatan, Sachan Mrinmaya
 conference: "Arxiv"
 year: 2023

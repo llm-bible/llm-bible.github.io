@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Enhancing Pipeline-based Conversational Agents With Large Language Models"
+title: Enhancing Pipeline-based Conversational Agents With Large Language Models
 authors: Foosherian Mina, Purwins Hendrik, Rathnayake Purna, Alam Touhidul, Teimao Rui, Thoben Klaus-dieter
 conference: "Arxiv"
 year: 2023

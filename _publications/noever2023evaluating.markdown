@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating AI Vocational Skills Through Professional Testing"
+title: Evaluating AI Vocational Skills Through Professional Testing
 authors: Noever David, Ciolino Matt
 conference: "Arxiv"
 year: 2023

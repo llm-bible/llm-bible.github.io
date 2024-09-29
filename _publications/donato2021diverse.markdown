@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Diverse Pretrained Context Encodings Improve Document Translation"
+title: Diverse Pretrained Context Encodings Improve Document Translation
 authors: Donato Domenic, Yu Lei, Dyer Chris
 conference: "ACL"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Trustworthy Deception Detection: Benchmarking Model Robustness Across Domains, Modalities, And Languages"
+title: Towards Trustworthy Deception Detection: Benchmarking Model Robustness Across Domains, Modalities, And Languages
 authors: Glenski Maria, Ayton Ellyn, Cosbey Robin, Arendt Dustin, Volkova Svitlana
 conference: "Proceedings of the"
 year: 2021

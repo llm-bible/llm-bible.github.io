@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Longbox: Evaluating Transformers On Long-sequence Clinical Tasks"
+title: Longbox: Evaluating Transformers On Long-sequence Clinical Tasks
 authors: Parmar Mihir, Naik Aakanksha, Gupta Himanshu, Agrawal Disha, Baral Chitta
 conference: "Arxiv"
 year: 2023

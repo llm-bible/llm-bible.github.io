@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Numllm: Numeric-sensitive Large Language Model For Chinese Finance"
+title: Numllm: Numeric-sensitive Large Language Model For Chinese Finance
 authors: Su Huan-yi, Wu Ke, Huang Yu-hao, Li Wu-jun
 conference: "Arxiv"
 year: 2024

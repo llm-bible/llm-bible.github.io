@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mindllm: Pre-training Lightweight Large Language Model From Scratch, Evaluations And Domain Applications"
+title: Mindllm: Pre-training Lightweight Large Language Model From Scratch, Evaluations And Domain Applications
 authors: Yang Yizhe, Sun Huashan, Li Jiawei, Liu Runheng, Li Yinghao, Liu Yuhang, Huang Heyan, Gao Yang
 conference: "Arxiv"
 year: 2023

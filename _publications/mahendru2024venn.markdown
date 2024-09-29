@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Venn Diagram Prompting : Accelerating Comprehension With Scaffolding Effect"
+title: Venn Diagram Prompting : Accelerating Comprehension With Scaffolding Effect
 authors: Mahendru Sakshi, Pandit Tejul
 conference: "Arxiv"
 year: 2024

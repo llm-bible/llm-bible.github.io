@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Extractgpt: Exploring The Potential Of Large Language Models For Product Attribute Value Extraction"
+title: Extractgpt: Exploring The Potential Of Large Language Models For Product Attribute Value Extraction
 authors: Brinkmann Alexander, Shraga Roee, Bizer Christian
 conference: "Arxiv"
 year: 2023

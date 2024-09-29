@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Learning To Rewrite Prompts For Personalized Text Generation"
+title: Learning To Rewrite Prompts For Personalized Text Generation
 authors: Li Cheng, Zhang Mingyang, Mei Qiaozhu, Kong Weize, Bendersky Michael
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tailor: Generating And Perturbing Text With Semantic Controls"
+title: Tailor: Generating And Perturbing Text With Semantic Controls
 authors: Ross Alexis, Wu Tongshuang, Peng Hao, Peters Matthew E., Gardner Matt
 conference: "Arxiv"
 year: 2021

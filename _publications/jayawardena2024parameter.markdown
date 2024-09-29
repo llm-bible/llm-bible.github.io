@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Parameter Efficient Diverse Paraphrase Generation Using Sequence-level Knowledge Distillation"
+title: Parameter Efficient Diverse Paraphrase Generation Using Sequence-level Knowledge Distillation
 authors: Jayawardena Lasal, Yapa Prasan
 conference: "Arxiv"
 year: 2024

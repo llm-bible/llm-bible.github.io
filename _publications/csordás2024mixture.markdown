@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Moeut: Mixture-of-experts Universal Transformers"
+title: Moeut: Mixture-of-experts Universal Transformers
 authors: Csordás Róbert, Irie Kazuki, Schmidhuber Jürgen, Potts Christopher, Manning Christopher D.
 conference: "Arxiv"
 year: 2024

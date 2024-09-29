@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Asymptotic Theory Of In-context Learning By Linear Attention"
+title: Asymptotic Theory Of In-context Learning By Linear Attention
 authors: Lu Yue M., Letey Mary I., Zavatone-veth Jacob A., Maiti Anindita, Pehlevan Cengiz
 conference: "Arxiv"
 year: 2024

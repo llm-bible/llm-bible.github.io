@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Think Twice: Measuring The Efficiency Of Eliminating Prediction Shortcuts Of Question Answering Models"
+title: Think Twice: Measuring The Efficiency Of Eliminating Prediction Shortcuts Of Question Answering Models
 authors: Mikula Lukáš, Štefánik Michal, Petrovič Marek, Sojka Petr
 conference: "Arxiv"
 year: 2023

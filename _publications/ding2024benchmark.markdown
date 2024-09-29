@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "MANGO: A Benchmark For Evaluating Mapping And Navigation Abilities Of Large Language Models"
+title: MANGO: A Benchmark For Evaluating Mapping And Navigation Abilities Of Large Language Models
 authors: Ding Peng, Fang Jiading, Li Peng, Wang Kangrui, Zhou Xiaochen, Yu Mo, Li Jing, Walter Matthew R., Mei Hongyuan
 conference: "Arxiv"
 year: 2024

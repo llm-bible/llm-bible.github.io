@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A General Language Assistant As A Laboratory For Alignment"
+title: A General Language Assistant As A Laboratory For Alignment
 authors: Amanda Askell, Yuntao Bai, Anna Chen, Dawn Drain, Deep Ganguli, Tom Henighan, Andy Jones, Nicholas Joseph, Ben Mann, Nova Dassarma, Nelson Elhage, Zac Hatfield-dodds, Danny Hernandez, Jackson Kernion, Kamal Ndousse, Catherine Olsson, Dario Amodei, Tom Brown, Jack Clark, Sam Mccandlish, Chris Olah, Jared Kaplan
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Synthetic QA Corpora Generation With Roundtrip Consistency"
+title: Synthetic QA Corpora Generation With Roundtrip Consistency
 authors: Alberti Chris, Andor Daniel, Pitler Emily, Devlin Jacob, Collins Michael
 conference: "Arxiv"
 year: 2019

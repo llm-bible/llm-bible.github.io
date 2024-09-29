@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cued@wmt19:ewc&lms"
+title: Cued&#64;wmt19:ewc&lms
 authors: Stahlberg Felix, Saunders Danielle, De Gispert Adria, Byrne Bill
 conference: "Arxiv"
 year: 2019

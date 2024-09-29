@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Efficient Tool Use With Chain-of-abstraction Reasoning"
+title: Efficient Tool Use With Chain-of-abstraction Reasoning
 authors: Gao Silin, Dwivedi-yu Jane, Yu Ping, Tan Xiaoqing Ellen, Pasunuru Ramakanth, Golovneva Olga, Sinha Koustuv, Celikyilmaz Asli, Bosselut Antoine, Wang Tianlu
 conference: "Arxiv"
 year: 2024

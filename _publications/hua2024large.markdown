@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models In Mental Health Care: A Scoping Review"
+title: Large Language Models In Mental Health Care: A Scoping Review
 authors: Hua Yining, Liu Fenglin, Yang Kailai, Li Zehan, Na Hongbin, Sheu Yi-han, Zhou Peilin, Moran Lauren V., Ananiadou Sophia, Beam Andrew, Torous John
 conference: "Arxiv"
 year: 2024

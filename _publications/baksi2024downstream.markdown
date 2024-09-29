@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Downstream Bias Mitigation Is All You Need"
+title: Downstream Bias Mitigation Is All You Need
 authors: Baksi Arkadeep, Singh Rahul, Joshi Tarun
 conference: "Arxiv"
 year: 2024

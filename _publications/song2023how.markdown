@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "How To Bridge The Gap Between Modalities: A Comprehensive Survey On Multimodal Large Language Model"
+title: How To Bridge The Gap Between Modalities: A Comprehensive Survey On Multimodal Large Language Model
 authors: Song Shezheng, Li Xiaopeng, Li Shasha, Zhao Shan, Yu Jie, Ma Jun, Mao Xiaoguang, Zhang Weimin
 conference: "Arxiv"
 year: 2023

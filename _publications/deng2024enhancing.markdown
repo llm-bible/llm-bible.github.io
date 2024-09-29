@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Enhancing Temporal Understanding In Llms For Semi-structured Tables"
+title: Enhancing Temporal Understanding In Llms For Semi-structured Tables
 authors: Deng Irwin, Dixit Kushagra, Gupta Vivek, Roth Dan
 conference: "Arxiv"
 year: 2024

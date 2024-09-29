@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Development And Testing Of Retrieval Augmented Generation In Large Language Models -- A Case Study Report"
+title: Development And Testing Of Retrieval Augmented Generation In Large Language Models -- A Case Study Report
 authors: Ke Yuhe, Jin Liyuan, Elangovan Kabilan, Abdullah Hairil Rizal, Liu Nan, Sia Alex Tiong Heng, Soh Chai Rick, Tung Joshua Yi Min, Ong Jasmine Chiat Ling, Ting Daniel Shu Wei
 conference: "Arxiv"
 year: 2024

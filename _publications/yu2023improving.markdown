@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving Language Models Via Plug-and-play Retrieval Feedback"
+title: Improving Language Models Via Plug-and-play Retrieval Feedback
 authors: Yu Wenhao, Zhang Zhihan, Liang Zhenwen, Jiang Meng, Sabharwal Ashish
 conference: "Arxiv"
 year: 2023

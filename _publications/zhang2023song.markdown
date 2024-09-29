@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Siren's Song In The AI Ocean: A Survey On Hallucination In Large Language Models"
+title: Siren's Song In The AI Ocean: A Survey On Hallucination In Large Language Models
 authors: Zhang Yue, Li Yafu, Cui Leyang, Cai Deng, Liu Lemao, Fu Tingchen, Huang Xinting, Zhao Enbo, Zhang Yu, Chen Yulong, Wang Longyue, Luu Anh Tuan, Bi Wei, Shi Freda, Shi Shuming
 conference: "Arxiv"
 year: 2023

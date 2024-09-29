@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models As Generalizable Policies For Embodied Tasks"
+title: Large Language Models As Generalizable Policies For Embodied Tasks
 authors: Szot Andrew, Schwarzer Max, Agrawal Harsh, Mazoure Bogdan, Talbott Walter, Metcalf Katherine, Mackraz Natalie, Hjelm Devon, Toshev Alexander
 conference: "Arxiv"
 year: 2023

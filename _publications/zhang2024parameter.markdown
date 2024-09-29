@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Laser: Parameter-efficient LLM Bi-tuning For Sequential Recommendation With Collaborative Information"
+title: Laser: Parameter-efficient LLM Bi-tuning For Sequential Recommendation With Collaborative Information
 authors: Zhang Xinyu, Hu Linmei, Zhang Luhao, Song Dandan, Huang Heyan, Nie Liqiang
 conference: "Arxiv"
 year: 2024

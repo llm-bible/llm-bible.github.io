@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models Are Effective Text Rankers With Pairwise Ranking Prompting"
+title: Large Language Models Are Effective Text Rankers With Pairwise Ranking Prompting
 authors: Qin Zhen, Jagerman Rolf, Hui Kai, Zhuang Honglei, Wu Junru, Yan Le, Shen Jiaming, Liu Tianqi, Liu Jialu, Metzler Donald, Wang Xuanhui, Bendersky Michael
 conference: "Arxiv"
 year: 2023

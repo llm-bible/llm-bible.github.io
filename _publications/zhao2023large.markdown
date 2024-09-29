@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models Are Complex Table Parsers"
+title: Large Language Models Are Complex Table Parsers
 authors: Zhao Bowen, Ji Changkai, Zhang Yuejie, He Wen, Wang Yingwen, Wang Qing, Feng Rui, Zhang Xiaobo
 conference: "Arxiv"
 year: 2023

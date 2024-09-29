@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Do Llamas Work In English? On The Latent Language Of Multilingual Transformers"
+title: Do Llamas Work In English? On The Latent Language Of Multilingual Transformers
 authors: Wendler Chris, Veselovsky Veniamin, Monea Giovanni, West Robert
 conference: "Arxiv"
 year: 2024

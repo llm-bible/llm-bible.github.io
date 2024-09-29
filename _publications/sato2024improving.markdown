@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving Sentence Embeddings With Automatic Generation Of Training Data Using Few-shot Examples"
+title: Improving Sentence Embeddings With Automatic Generation Of Training Data Using Few-shot Examples
 authors: Sato Soma, Tsukagoshi Hayato, Sasano Ryohei, Takeda Koichi
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dialogue-adaptive Language Model Pre-training From Quality Estimation"
+title: Dialogue-adaptive Language Model Pre-training From Quality Estimation
 authors: Li Junlong, Zhang Zhuosheng, Zhao Hai
 conference: "Arxiv"
 year: 2020

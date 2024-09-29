@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Generating Phishing Attacks Using Chatgpt"
+title: Generating Phishing Attacks Using Chatgpt
 authors: Roy Sayak Saha, Naragam Krishna Vamsi, Nilizadeh Shirin
 conference: "Arxiv"
 year: 2023

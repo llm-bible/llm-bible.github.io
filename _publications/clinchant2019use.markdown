@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On The Use Of BERT For Neural Machine Translation"
+title: On The Use Of BERT For Neural Machine Translation
 authors: Clinchant Stéphane, Jung Kweon Woo, Nikoulina Vassilina
 conference: "Arxiv"
 year: 2019

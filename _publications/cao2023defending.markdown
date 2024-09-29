@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Defending Against Alignment-breaking Attacks Via Robustly Aligned LLM"
+title: Defending Against Alignment-breaking Attacks Via Robustly Aligned LLM
 authors: Cao Bochuan, Cao Yuanpu, Lin Lu, Chen Jinghui
 conference: "Arxiv"
 year: 2023

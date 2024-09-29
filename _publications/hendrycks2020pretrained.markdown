@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pretrained Transformers Improve Out-of-distribution Robustness"
+title: Pretrained Transformers Improve Out-of-distribution Robustness
 authors: Hendrycks Dan, Liu Xiaoyuan, Wallace Eric, Dziedzic Adam, Krishnan Rishabh, Song Dawn
 conference: "Arxiv"
 year: 2020

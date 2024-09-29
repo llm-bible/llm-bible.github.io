@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Scaling Properties Of Speech Language Models"
+title: Scaling Properties Of Speech Language Models
 authors: Cuervo Santiago, Marxer Ricard
 conference: "Arxiv"
 year: 2024

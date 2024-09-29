@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Model Can Interpret Latent Space Of Sequential Recommender"
+title: Large Language Model Can Interpret Latent Space Of Sequential Recommender
 authors: Zhengyi Yang, Jiancan Wu, Yanchen Luo, Jizhi Zhang, Yancheng Yuan, An Zhang, Xiang Wang, Xiangnan He
 conference: "Arxiv"
 year: 2023

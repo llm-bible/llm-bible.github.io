@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Survey On The Memory Mechanism Of Large Language Model Based Agents"
+title: A Survey On The Memory Mechanism Of Large Language Model Based Agents
 authors: Zhang Zeyu, Bo Xiaohe, Ma Chen, Li Rui, Chen Xu, Dai Quanyu, Zhu Jieming, Dong Zhenhua, Wen Ji-rong
 conference: "Arxiv"
 year: 2024

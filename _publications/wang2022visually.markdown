@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Visually-augmented Language Modeling"
+title: Visually-augmented Language Modeling
 authors: Wang Weizhi, Dong Li, Cheng Hao, Song Haoyu, Liu Xiaodong, Yan Xifeng, Gao Jianfeng, Wei Furu
 conference: "Arxiv"
 year: 2022

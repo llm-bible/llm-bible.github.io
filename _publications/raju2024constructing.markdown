@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Constructing Domain-specific Evaluation Sets For Llm-as-a-judge"
+title: Constructing Domain-specific Evaluation Sets For Llm-as-a-judge
 authors: Raju Ravi, Jain Swayambhoo, Li Bo, Li Jonathan, Thakker Urmish
 conference: "Arxiv"
 year: 2024

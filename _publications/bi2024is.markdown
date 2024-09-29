@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Is Factuality Decoding A Free Lunch For Llms? Evaluation On Knowledge Editing Benchmark"
+title: Is Factuality Decoding A Free Lunch For Llms? Evaluation On Knowledge Editing Benchmark
 authors: Bi Baolong, Liu Shenghua, Wang Yiwei, Mei Lingrui, Cheng Xueqi
 conference: "Arxiv"
 year: 2024

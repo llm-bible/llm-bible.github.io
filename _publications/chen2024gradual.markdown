@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "GRATH: Gradual Self-truthifying For Large Language Models"
+title: GRATH: Gradual Self-truthifying For Large Language Models
 authors: Chen Weixin, Song Dawn, Li Bo
 conference: "Arxiv"
 year: 2024

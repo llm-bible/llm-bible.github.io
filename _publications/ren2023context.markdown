@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Context Compression For Auto-regressive Transformers With Sentinel Tokens"
+title: Context Compression For Auto-regressive Transformers With Sentinel Tokens
 authors: Ren Siyu, Jia Qi, Zhu Kenny Q.
 conference: "Arxiv"
 year: 2023

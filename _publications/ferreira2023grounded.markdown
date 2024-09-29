@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Grounded Complex Task Segmentation For Conversational Assistants"
+title: Grounded Complex Task Segmentation For Conversational Assistants
 authors: Ferreira Rafael, Semedo David, Magalhães João
 conference: "Arxiv"
 year: 2023

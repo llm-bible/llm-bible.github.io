@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cotar: Chain-of-thought Attribution Reasoning With Multi-level Granularity"
+title: Cotar: Chain-of-thought Attribution Reasoning With Multi-level Granularity
 authors: Berchansky Moshe, Fleischer Daniel, Wasserblat Moshe, Izsak Peter
 conference: "Arxiv"
 year: 2024

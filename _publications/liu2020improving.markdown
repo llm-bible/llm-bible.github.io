@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving Zero-shot Translation By Disentangling Positional Information"
+title: Improving Zero-shot Translation By Disentangling Positional Information
 authors: Liu Danni, Niehues Jan, Cross James, Guzmán Francisco, Li Xian
 conference: "Arxiv"
 year: 2020

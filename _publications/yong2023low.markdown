@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Low-resource Languages Jailbreak GPT-4"
+title: Low-resource Languages Jailbreak GPT-4
 authors: Yong Zheng-xin, Menghini Cristina, Bach Stephen H.
 conference: "Arxiv"
 year: 2023

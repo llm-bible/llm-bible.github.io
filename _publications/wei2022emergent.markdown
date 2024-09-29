@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Emergent Abilities Of Large Language Models"
+title: Emergent Abilities Of Large Language Models
 authors: Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed H. Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean, William Fedus
 conference: "Arxiv"
 year: 2022

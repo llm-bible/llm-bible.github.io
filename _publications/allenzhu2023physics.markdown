@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Physics Of Language Models: Part 3.2, Knowledge Manipulation"
+title: Physics Of Language Models: Part 3.2, Knowledge Manipulation
 authors: Allen-zhu Zeyuan, Li Yuanzhi
 conference: "Arxiv"
 year: 2023

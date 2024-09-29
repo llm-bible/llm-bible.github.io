@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Preemptive Answer "attacks" On Chain-of-thought Reasoning"
+title: Preemptive Answer "attacks" On Chain-of-thought Reasoning
 authors: Xu Rongwu, Qi Zehan, Xu Wei
 conference: "Arxiv"
 year: 2024

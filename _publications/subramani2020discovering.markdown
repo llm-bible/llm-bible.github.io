@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Discovering Useful Sentence Representations From Large Pretrained Language Models"
+title: Discovering Useful Sentence Representations From Large Pretrained Language Models
 authors: Subramani Nishant, Suresh Nivedita
 conference: "Arxiv"
 year: 2020

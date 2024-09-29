@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating Llms' Mathematical Reasoning In Financial Document Question Answering"
+title: Evaluating Llms' Mathematical Reasoning In Financial Document Question Answering
 authors: Srivastava Pragya, Malik Manuj, Gupta Vivek, Ganu Tanuja, Roth Dan
 conference: "Arxiv"
 year: 2024

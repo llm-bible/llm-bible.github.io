@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Diversifying Query: Region-guided Transformer For Temporal Sentence Grounding"
+title: Diversifying Query: Region-guided Transformer For Temporal Sentence Grounding
 authors: Sun Xiaolong, Shi Liushuai, Wang Le, Zhou Sanping, Xia Kun, Wang Yabing, Hua Gang
 conference: "Arxiv"
 year: 2024

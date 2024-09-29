@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving Sequential Recommendations With Llms"
+title: Improving Sequential Recommendations With Llms
 authors: Boz Artun, Zorgdrager Wouter, Kotti Zoe, Harte Jesse, Louridas Panos, Jannach Dietmar, Fragkoulis Marios
 conference: "Arxiv"
 year: 2024

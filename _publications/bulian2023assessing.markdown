@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Assessing Large Language Models On Climate Information"
+title: Assessing Large Language Models On Climate Information
 authors: Bulian Jannis, Schäfer Mike S., Amini Afra, Lam Heidi, Ciaramita Massimiliano, Gaiarin Ben, Hübscher Michelle Chen, Buck Christian, Mede Niels G., Leippold Markus, Strauß Nadine
 conference: "Proceedings of the"
 year: 2023

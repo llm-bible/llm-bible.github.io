@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Hopfieldian View-based Interpretation For Chain-of-thought Reasoning"
+title: A Hopfieldian View-based Interpretation For Chain-of-thought Reasoning
 authors: Hu Lijie, Liu Liang, Yang Shu, Chen Xin, Xiao Hongru, Li Mengdi, Zhou Pan, Ali Muhammad Asif, Wang Di
 conference: "Arxiv"
 year: 2024

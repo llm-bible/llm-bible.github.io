@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Decoding Matters: Addressing Amplification Bias And Homogeneity Issue For Llm-based Recommendation"
+title: Decoding Matters: Addressing Amplification Bias And Homogeneity Issue For Llm-based Recommendation
 authors: Bao Keqin, Zhang Jizhi, Zhang Yang, Huo Xinyue, Chen Chong, Feng Fuli
 conference: "Arxiv"
 year: 2024

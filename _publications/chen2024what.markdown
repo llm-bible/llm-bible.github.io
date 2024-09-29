@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "What Are The Essential Factors In Crafting Effective Long Context Multi-hop Instruction Datasets? Insights And Best Practices"
+title: What Are The Essential Factors In Crafting Effective Long Context Multi-hop Instruction Datasets? Insights And Best Practices
 authors: Chen Zhi, Chen Qiguang, Qin Libo, Guo Qipeng, Lv Haijun, Zou Yicheng, Che Wanxiang, Yan Hang, Chen Kai, Lin Dahua
 conference: "Arxiv"
 year: 2024

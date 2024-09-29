@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Backpack Language Models"
+title: Backpack Language Models
 authors: Hewitt John, Thickstun John, Manning Christopher D., Liang Percy
 conference: "Arxiv"
 year: 2023

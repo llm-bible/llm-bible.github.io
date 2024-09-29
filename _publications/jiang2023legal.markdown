@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Legal Syllogism Prompting: Teaching Large Language Models For Legal Judgment Prediction"
+title: Legal Syllogism Prompting: Teaching Large Language Models For Legal Judgment Prediction
 authors: Jiang Cong, Yang Xiaolei
 conference: "Arxiv"
 year: 2023

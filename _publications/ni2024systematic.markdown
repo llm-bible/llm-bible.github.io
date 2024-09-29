@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Systematic Evaluation Of Large Language Models For Natural Language Generation Tasks"
+title: A Systematic Evaluation Of Large Language Models For Natural Language Generation Tasks
 authors: Ni Xuanfan, Li Piji
 conference: "Arxiv"
 year: 2024

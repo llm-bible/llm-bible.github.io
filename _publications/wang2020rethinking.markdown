@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Rethinking The Value Of Transformer Components"
+title: Rethinking The Value Of Transformer Components
 authors: Wang Wenxuan, Tu Zhaopeng
 conference: "Arxiv"
 year: 2020

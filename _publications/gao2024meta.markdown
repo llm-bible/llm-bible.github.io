@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Meta Reasoning For Large Language Models"
+title: Meta Reasoning For Large Language Models
 authors: Gao Peizhong, Xie Ao, Mao Shaoguang, Wu Wenshan, Xia Yan, Mi Haipeng, Wei Furu
 conference: "Arxiv"
 year: 2024

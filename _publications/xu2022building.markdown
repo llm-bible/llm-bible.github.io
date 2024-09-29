@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bridgetower: Building Bridges Between Encoders In Vision-language Representation Learning"
+title: Bridgetower: Building Bridges Between Encoders In Vision-language Representation Learning
 authors: Xu Xiao, Wu Chenfei, Rosenman Shachar, Lal Vasudev, Che Wanxiang, Duan Nan
 conference: "Arxiv"
 year: 2022

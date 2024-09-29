@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pedagogical Alignment Of Large Language Models"
+title: Pedagogical Alignment Of Large Language Models
 authors: Sonkar Shashank, Ni Kangqi, Chaudhary Sapana, Baraniuk Richard G.
 conference: "Arxiv"
 year: 2024

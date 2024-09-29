@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On Initializing Transformers With Pre-trained Embeddings"
+title: On Initializing Transformers With Pre-trained Embeddings
 authors: Kim Ha Young, Balasubramanian Niranjan, Kang Byungkon
 conference: "Arxiv"
 year: 2024

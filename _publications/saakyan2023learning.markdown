@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "ICLEF: In-context Learning With Expert Feedback For Explainable Style Transfer"
+title: ICLEF: In-context Learning With Expert Feedback For Explainable Style Transfer
 authors: Saakyan Arkadiy, Muresan Smaranda
 conference: "Arxiv"
 year: 2023

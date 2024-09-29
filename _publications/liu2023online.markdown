@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Online Speculative Decoding"
+title: Online Speculative Decoding
 authors: Liu Xiaoxuan, Hu Lanxiang, Bailis Peter, Cheung Alvin, Deng Zhijie, Stoica Ion, Zhang Hao
 conference: "Arxiv"
 year: 2023

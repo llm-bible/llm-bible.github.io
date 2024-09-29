@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Make Your LLM Fully Utilize The Context"
+title: Make Your LLM Fully Utilize The Context
 authors: An Shengnan, Ma Zexiong, Lin Zeqi, Zheng Nanning, Lou Jian-guang
 conference: "Arxiv"
 year: 2024

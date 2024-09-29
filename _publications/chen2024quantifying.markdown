@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Quantifying And Mitigating Unimodal Biases In Multimodal Large Language Models: A Causal Perspective"
+title: Quantifying And Mitigating Unimodal Biases In Multimodal Large Language Models: A Causal Perspective
 authors: Chen Meiqi, Cao Yixin, Zhang Yan, Lu Chaochao
 conference: "Arxiv"
 year: 2024

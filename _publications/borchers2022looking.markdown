@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Looking For A Handsome Carpenter! Debiasing GPT-3 Job Advertisements"
+title: Looking For A Handsome Carpenter! Debiasing GPT-3 Job Advertisements
 authors: Borchers Conrad, Gala Dalia Sara, Gilburt Benjamin, Oravkin Eduard, Bounsi Wilfried, Asano Yuki M., Kirk Hannah Rose
 conference: "Arxiv"
 year: 2022

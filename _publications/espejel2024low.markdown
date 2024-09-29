@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Low-cost Language Models: Survey And Performance Evaluation On Python Code Generation"
+title: Low-cost Language Models: Survey And Performance Evaluation On Python Code Generation
 authors: Espejel Jessica López, Alassan Mahaman Sanoussi Yahaya, Bouhandi Merieme, Dahhane Walid, Ettifouri El Hassane
 conference: "Arxiv"
 year: 2024

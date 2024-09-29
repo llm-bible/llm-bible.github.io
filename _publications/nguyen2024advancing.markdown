@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Advancing Vietnamese Visual Question Answering With Transformer And Convolutional Integration"
+title: Advancing Vietnamese Visual Question Answering With Transformer And Convolutional Integration
 authors: Nguyen Ngoc Son, Nguyen Van Son, Le Tung
 conference: "Computers and Electrical Engineering"
 year: 2024

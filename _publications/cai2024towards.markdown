@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Large Language Model Aided Program Refinement"
+title: Towards Large Language Model Aided Program Refinement
 authors: Cai Yufan, Hou Zhe, Luan Xiaokun, Baena David Miguel Sanan, Lin Yun, Sun Jun, Dong Jin Song
 conference: "Arxiv"
 year: 2024

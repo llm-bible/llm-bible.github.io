@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dissecting Human And LLM Preferences"
+title: Dissecting Human And LLM Preferences
 authors: Li Junlong, Zhou Fan, Sun Shichao, Zhang Yikai, Zhao Hai, Liu Pengfei
 conference: "Arxiv"
 year: 2024

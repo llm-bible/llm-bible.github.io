@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Practice Of Post-training On Llama-3 70B With Optimal Selection Of Additional Language Mixture Ratio"
+title: A Practice Of Post-training On Llama-3 70B With Optimal Selection Of Additional Language Mixture Ratio
 authors: Xi Ningyuan, Wu Yetao, Fan Kun, Chen Teng, Gu Qingqing, Yu Peng, Qu Jinxian, Liu Chenxi, Jiang Zhonglin, Chen Yong, Ji Luo
 conference: "Arxiv"
 year: 2024

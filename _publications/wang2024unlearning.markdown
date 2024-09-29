@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unlearning With Control: Assessing Real-world Utility For Large Language Model Unlearning"
+title: Unlearning With Control: Assessing Real-world Utility For Large Language Model Unlearning
 authors: Wang Qizhou, Han Bo, Yang Puning, Zhu Jianing, Liu Tongliang, Sugiyama Masashi
 conference: "Arxiv"
 year: 2024

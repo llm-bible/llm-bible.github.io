@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Llms Instead Of Human Judges? A Large Scale Empirical Study Across 20 NLP Evaluation Tasks"
+title: Llms Instead Of Human Judges? A Large Scale Empirical Study Across 20 NLP Evaluation Tasks
 authors: Bavaresco Anna, Bernardi Raffaella, Bertolazzi Leonardo, Elliott Desmond, Fernández Raquel, Gatt Albert, Ghaleb Esam, Giulianelli Mario, Hanna Michael, Koller Alexander, Martins André F. T., Mondorf Philipp, Neplenbroek Vera, Pezzelle Sandro, Plank Barbara, Schlangen David, Suglia Alessandro, Surikuchi Aditya K, Takmaz Ece, Testoni Alberto
 conference: "Arxiv"
 year: 2024

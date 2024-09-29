@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Rationale-enhanced Language Models Are Better Continual Relation Learners"
+title: Rationale-enhanced Language Models Are Better Continual Relation Learners
 authors: Xiong Weimin, Song Yifan, Wang Peiyi, Li Sujian
 conference: "Arxiv"
 year: 2023

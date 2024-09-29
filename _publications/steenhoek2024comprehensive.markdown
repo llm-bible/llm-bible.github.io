@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Comprehensive Study Of The Capabilities Of Large Language Models For Vulnerability Detection"
+title: A Comprehensive Study Of The Capabilities Of Large Language Models For Vulnerability Detection
 authors: Steenhoek Benjamin, Rahman Md Mahbubur, Roy Monoshi Kumar, Alam Mirza Sanjida, Barr Earl T., Le Wei
 conference: "Arxiv"
 year: 2024

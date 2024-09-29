@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Prolora: Partial Rotation Empowers More Parameter-efficient Lora"
+title: Prolora: Partial Rotation Empowers More Parameter-efficient Lora
 authors: Wang Sheng, Xue Boyang, Ye Jiacheng, Jiang Jiyue, Chen Liheng, Kong Lingpeng, Wu Chuan
 conference: "Arxiv"
 year: 2024

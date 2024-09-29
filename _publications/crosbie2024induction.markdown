@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Induction Heads As An Essential Mechanism For Pattern Matching In In-context Learning"
+title: Induction Heads As An Essential Mechanism For Pattern Matching In In-context Learning
 authors: Crosbie J., Shutova E.
 conference: "Arxiv"
 year: 2024

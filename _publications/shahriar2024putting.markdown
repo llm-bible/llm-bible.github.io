@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Putting Gpt-4o To The Sword: A Comprehensive Evaluation Of Language, Vision, Speech, And Multimodal Proficiency"
+title: Putting Gpt-4o To The Sword: A Comprehensive Evaluation Of Language, Vision, Speech, And Multimodal Proficiency
 authors: Shahriar Sakib, Lund Brady, Mannuru Nishith Reddy, Arshad Muhammad Arbab, Hayawi Kadhim, Bevara Ravi Varma Kumar, Mannuru Aashrith, Batool Laiba
 conference: "Arxiv"
 year: 2024

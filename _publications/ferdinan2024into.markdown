@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Into The Unknown: Self-learning Large Language Models"
+title: Into The Unknown: Self-learning Large Language Models
 authors: Ferdinan Teddy, Kocoń Jan, Kazienko Przemysław
 conference: "Arxiv"
 year: 2024

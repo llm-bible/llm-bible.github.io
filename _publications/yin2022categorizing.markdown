@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Categorizing Semantic Representations For Neural Machine Translation"
+title: Categorizing Semantic Representations For Neural Machine Translation
 authors: Yin Yongjing, Li Yafu, Meng Fandong, Zhou Jie, Zhang Yue
 conference: "Arxiv"
 year: 2022

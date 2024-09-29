@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Self-consistency Of Large Language Models Under Ambiguity"
+title: Self-consistency Of Large Language Models Under Ambiguity
 authors: Bartsch Henning, Jorgensen Ole, Rosati Domenic, Hoelscher-obermaier Jason, Pfau Jacob
 conference: "Arxiv"
 year: 2023

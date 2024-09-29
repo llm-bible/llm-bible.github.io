@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Llmlingua-2: Data Distillation For Efficient And Faithful Task-agnostic Prompt Compression"
+title: Llmlingua-2: Data Distillation For Efficient And Faithful Task-agnostic Prompt Compression
 authors: Pan Zhuoshi, Wu Qianhui, Jiang Huiqiang, Xia Menglin, Luo Xufang, Zhang Jue, Lin Qingwei, Rühle Victor, Yang Yuqing, Lin Chin-yew, Zhao H. Vicky, Qiu Lili, Zhang Dongmei
 conference: "Arxiv"
 year: 2024

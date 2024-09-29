@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "FP8-LM: Training FP8 Large Language Models"
+title: FP8-LM: Training FP8 Large Language Models
 authors: Peng Houwen, Wu Kan, Wei Yixuan, Zhao Guoshuai, Yang Yuxiang, Liu Ze, Xiong Yifan, Yang Ziyue, Ni Bolin, Hu Jingcheng, Li Ruihang, Zhang Miaosen, Li Chen, Ning Jia, Wang Ruizhe, Zhang Zheng, Liu Shuguang, Chau Joe, Hu Han, Cheng Peng
 conference: "Arxiv"
 year: 2023

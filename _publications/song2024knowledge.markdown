@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Knowledge Editing On Black-box Large Language Models"
+title: Knowledge Editing On Black-box Large Language Models
 authors: Song Xiaoshuai, Wang Zhengyang, He Keqing, Dong Guanting, Mou Yutao, Zhao Jinxu, Xu Weiran
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ""medium" Lms Of Code In The Era Of Llms: Lessons From Stackoverflow"
+title: "medium" Lms Of Code In The Era Of Llms: Lessons From Stackoverflow
 authors: Mukherjee Manisha, Hellendoorn Vincent J.
 conference: "Arxiv"
 year: 2023

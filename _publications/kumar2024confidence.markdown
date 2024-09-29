@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Confidence Under The Hood: An Investigation Into The Confidence-probability Alignment In Large Language Models"
+title: Confidence Under The Hood: An Investigation Into The Confidence-probability Alignment In Large Language Models
 authors: Kumar Abhishek, Morabito Robert, Umbet Sanzhar, Kabbara Jad, Emami Ali
 conference: "Arxiv"
 year: 2024

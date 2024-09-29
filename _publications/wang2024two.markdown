@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "EAGER: Two-stream Generative Recommender With Behavior-semantic Collaboration"
+title: EAGER: Two-stream Generative Recommender With Behavior-semantic Collaboration
 authors: Wang Ye, Xun Jiahao, Hong Minjie, Zhu Jieming, Jin Tao, Lin Wang, Li Haoyuan, Li Linjun, Xia Yan, Zhao Zhou, Dong Zhenhua
 conference: "Arxiv"
 year: 2024

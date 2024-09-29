@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multitask Finetuning For Improving Neural Machine Translation In Indian Languages"
+title: Multitask Finetuning For Improving Neural Machine Translation In Indian Languages
 authors: Desai Shaily, Kshirsagar Atharva, Marathe Manisha
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Memory-efficient Transformers Via Top-$k$ Attention"
+title: Memory-efficient Transformers Via Top-$k$ Attention
 authors: Gupta Ankit, Dar Guy, Goodman Shaya, Ciprut David, Berant Jonathan
 conference: "Arxiv"
 year: 2021

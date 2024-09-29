@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Commit: Coordinated Instruction Tuning For Multimodal Large Language Models"
+title: Commit: Coordinated Instruction Tuning For Multimodal Large Language Models
 authors: Wu Junda, Li Xintong, Yu Tong, Wang Yu, Chen Xiang, Gu Jiuxiang, Yao Lina, Shang Jingbo, Mcauley Julian
 conference: "Arxiv"
 year: 2024

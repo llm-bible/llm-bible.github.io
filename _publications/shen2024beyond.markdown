@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Beyond Human Preferences: Exploring Reinforcement Learning Trajectory Evaluation And Improvement Through Llms"
+title: Beyond Human Preferences: Exploring Reinforcement Learning Trajectory Evaluation And Improvement Through Llms
 authors: Shen Zichao, Zhu Tianchen, Sun Qingyun, Gao Shiqi, Li Jianxin
 conference: "Arxiv"
 year: 2024

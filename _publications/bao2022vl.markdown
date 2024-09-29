@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Vl-beit: Generative Vision-language Pretraining"
+title: Vl-beit: Generative Vision-language Pretraining
 authors: Bao Hangbo, Wang Wenhui, Dong Li, Wei Furu
 conference: "Arxiv"
 year: 2022

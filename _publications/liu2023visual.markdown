@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Visual Instruction Tuning"
+title: Visual Instruction Tuning
 authors: Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee
 conference: "Arxiv"
 year: 2023

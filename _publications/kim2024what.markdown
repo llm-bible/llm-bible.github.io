@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "What If...?: Thinking Counterfactual Keywords Helps To Mitigate Hallucination In Large Multi-modal Models"
+title: What If...?: Thinking Counterfactual Keywords Helps To Mitigate Hallucination In Large Multi-modal Models
 authors: Junho Kim, Yeon Ju Kim, Yong Man Ro
 conference: "Arxiv"
 year: 2024

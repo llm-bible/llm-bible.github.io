@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Building The Intent Landscape Of Real-world Conversational Corpora With Extractive Question-answering Transformers"
+title: Building The Intent Landscape Of Real-world Conversational Corpora With Extractive Question-answering Transformers
 authors: Corbeil Jean-philippe, Li Mia Taige, Ghavidel Hadi Abdi
 conference: "Arxiv"
 year: 2022

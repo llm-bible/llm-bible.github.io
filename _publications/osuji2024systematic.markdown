@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Systematic Review Of Data-to-text NLG"
+title: A Systematic Review Of Data-to-text NLG
 authors: Osuji Chinonso Cynthia, Ferreira Thiago Castro, Davis Brian
 conference: "Arxiv"
 year: 2024

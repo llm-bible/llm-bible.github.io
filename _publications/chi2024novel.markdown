@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Modeling: A Novel Dataset For Testing Linguistic Reasoning In Language Models"
+title: Modeling: A Novel Dataset For Testing Linguistic Reasoning In Language Models
 authors: Chi Nathan A., Malchev Teodor, Kong Riley, Chi Ryan A., Huang Lucas, Chi Ethan A., Mccoy R. Thomas, Radev Dragomir
 conference: "Arxiv"
 year: 2024

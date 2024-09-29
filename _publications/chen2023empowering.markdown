@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Empowering Private Tutoring By Chaining Large Language Models"
+title: Empowering Private Tutoring By Chaining Large Language Models
 authors: Yulin Chen, Ning Ding, Hai-tao Zheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou
 conference: "Arxiv"
 year: 2023

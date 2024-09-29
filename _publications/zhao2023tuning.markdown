@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tuning Layernorm In Attention: Towards Efficient Multi-modal LLM Finetuning"
+title: Tuning Layernorm In Attention: Towards Efficient Multi-modal LLM Finetuning
 authors: Zhao Bingchen, Tu Haoqin, Wei Chen, Mei Jieru, Xie Cihang
 conference: "Arxiv"
 year: 2023

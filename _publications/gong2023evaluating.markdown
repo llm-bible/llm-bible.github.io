@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating The Potential Of Leading Large Language Models In Reasoning Biology Questions"
+title: Evaluating The Potential Of Leading Large Language Models In Reasoning Biology Questions
 authors: Gong Xinyu, Holmes Jason, Li Yiwei, Liu Zhengliang, Gan Qi, Wu Zihao, Zhang Jianli, Zou Yusong, Teng Yuxi, Jiang Tian, Zhu Hongtu, Liu Wei, Liu Tianming, Yan Yajun
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "An Assessment On Comprehending Mental Health Through Large Language Models"
+title: An Assessment On Comprehending Mental Health Through Large Language Models
 authors: Arcan Mihael, Niland David-paul, Delahunty Fionn
 conference: "Arxiv"
 year: 2024

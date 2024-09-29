@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Active Example Selection For In-context Learning"
+title: Active Example Selection For In-context Learning
 authors: Yiming Zhang, Shi Feng, Chenhao Tan
 conference: "Arxiv"
 year: 2022

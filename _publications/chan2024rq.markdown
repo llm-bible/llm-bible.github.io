@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "RQ-RAG: Learning To Refine Queries For Retrieval Augmented Generation"
+title: RQ-RAG: Learning To Refine Queries For Retrieval Augmented Generation
 authors: Chan Chi-min, Xu Chunpu, Yuan Ruibin, Luo Hongyin, Xue Wei, Guo Yike, Fu Jie
 conference: "Arxiv"
 year: 2024

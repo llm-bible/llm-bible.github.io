@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "MLLM Is A Strong Reranker: Advancing Multimodal Retrieval-augmented Generation Via Knowledge-enhanced Reranking And Noise-injected Training"
+title: MLLM Is A Strong Reranker: Advancing Multimodal Retrieval-augmented Generation Via Knowledge-enhanced Reranking And Noise-injected Training
 authors: Chen Zhanpeng, Xu Chengjin, Qi Yiyan, Guo Jian
 conference: "Arxiv"
 year: 2024

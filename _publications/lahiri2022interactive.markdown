@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Interactive Code Generation Via Test-driven User-intent Formalization"
+title: Interactive Code Generation Via Test-driven User-intent Formalization
 authors: Lahiri Shuvendu K., Fakhoury Sarah, Naik Aaditya, Sakkas Georgios, Chakraborty Saikat, Musuvathi Madanlal, Choudhury Piali, Von Veh Curtis, Inala Jeevana Priya, Wang Chenglong, Gao Jianfeng
 conference: "Arxiv"
 year: 2022

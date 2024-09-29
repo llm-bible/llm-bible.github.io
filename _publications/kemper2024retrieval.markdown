@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Retrieval-augmented Conversational Recommendation With Prompt-based Semi-structured Natural Language State Tracking"
+title: Retrieval-augmented Conversational Recommendation With Prompt-based Semi-structured Natural Language State Tracking
 authors: Kemper Sara, Cui Justin, Dicarlantonio Kai, Lin Kathy, Tang Danjie, Korikov Anton, Sanner Scott
 conference: "Arxiv"
 year: 2024

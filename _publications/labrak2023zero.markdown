@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Zero-shot And Few-shot Study Of Instruction-finetuned Large Language Models Applied To Clinical And Biomedical Tasks"
+title: A Zero-shot And Few-shot Study Of Instruction-finetuned Large Language Models Applied To Clinical And Biomedical Tasks
 authors: Labrak Yanis, Rouvier Mickael, Dufour Richard
 conference: "Proceedings of the"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Learning Neural Templates For Text Generation"
+title: Learning Neural Templates For Text Generation
 authors: Wiseman Sam, Shieber Stuart M., Rush Alexander M.
 conference: "Arxiv"
 year: 2018

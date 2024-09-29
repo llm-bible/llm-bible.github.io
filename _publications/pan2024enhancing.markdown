@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Enhancing Repository-level Code Generation With Integrated Contextual Information"
+title: Enhancing Repository-level Code Generation With Integrated Contextual Information
 authors: Pan Zhiyuan, Hu Xing, Xia Xin, Yang Xiaohu
 conference: "Arxiv"
 year: 2024

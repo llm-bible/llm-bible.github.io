@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Crash: Clustering, Removing, And Sharing Enhance Fine-tuning Without Full Large Language Model"
+title: Crash: Clustering, Removing, And Sharing Enhance Fine-tuning Without Full Large Language Model
 authors: Zhang Kaiyan, Ding Ning, Qi Biqing, Zhu Xuekai, Long Xinwei, Zhou Bowen
 conference: "Arxiv"
 year: 2023

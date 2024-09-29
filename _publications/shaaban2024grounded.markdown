@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Medpromptx: Grounded Multimodal Prompting For Chest X-ray Diagnosis"
+title: Medpromptx: Grounded Multimodal Prompting For Chest X-ray Diagnosis
 authors: Shaaban Mai A., Khan Adnan, Yaqub Mohammad
 conference: "Arxiv"
 year: 2024

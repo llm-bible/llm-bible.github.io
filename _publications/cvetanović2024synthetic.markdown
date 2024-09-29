@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Synthetic Dataset Creation And Fine-tuning Of Transformer Models For Question Answering In Serbian"
+title: Synthetic Dataset Creation And Fine-tuning Of Transformer Models For Question Answering In Serbian
 authors: Cvetanović Aleksa, Tadić Predrag
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Teaching Large Language Models To Reason With Reinforcement Learning"
+title: Teaching Large Language Models To Reason With Reinforcement Learning
 authors: Havrilla Alex, Du Yuqing, Raparthy Sharath Chandra, Nalmpantis Christoforos, Dwivedi-yu Jane, Zhuravinskyi Maksym, Hambro Eric, Sukhbaatar Sainbayar, Raileanu Roberta
 conference: "Arxiv"
 year: 2024

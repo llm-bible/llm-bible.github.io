@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Image Re-identification: Where Self-supervision Meets Vision-language Learning"
+title: Image Re-identification: Where Self-supervision Meets Vision-language Learning
 authors: Wang Bin, Liang Yuying, Cai Lei, Huang Huakun, Zeng Huanqiang
 conference: "Arxiv"
 year: 2024

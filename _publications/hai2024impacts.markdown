@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On The Impacts Of Contexts On Repository-level Code Generation"
+title: On The Impacts Of Contexts On Repository-level Code Generation
 authors: Hai Nam Le, Nguyen Dung Manh, Bui Nghi D. Q.
 conference: "Arxiv"
 year: 2024

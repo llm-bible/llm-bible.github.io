@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Model Tells You What To Discard: Adaptive KV Cache Compression For Llms"
+title: Model Tells You What To Discard: Adaptive KV Cache Compression For Llms
 authors: Ge Suyu, Zhang Yunan, Liu Liyuan, Zhang Minjia, Han Jiawei, Gao Jianfeng
 conference: "Arxiv"
 year: 2023

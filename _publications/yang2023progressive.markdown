@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Progressive Evidence Refinement For Open-domain Multimodal Retrieval Question Answering"
+title: Progressive Evidence Refinement For Open-domain Multimodal Retrieval Question Answering
 authors: Yang Shuwen, Wu Anran, Wu Xingjiao, Xiao Luwei, Ma Tianlong, Jin Cheng, He Liang
 conference: "Arxiv"
 year: 2023

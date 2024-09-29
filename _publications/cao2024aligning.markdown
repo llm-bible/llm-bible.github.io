@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Aligning Large Language Models With Recommendation Knowledge"
+title: Aligning Large Language Models With Recommendation Knowledge
 authors: Cao Yuwei, Mehta Nikhil, Yi Xinyang, Keshavan Raghunandan, Heldt Lukasz, Hong Lichan, Chi Ed H., Sathiamoorthy Maheswaran
 conference: "Arxiv"
 year: 2024

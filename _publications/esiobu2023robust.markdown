@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "ROBBIE: Robust Bias Evaluation Of Large Generative Language Models"
+title: ROBBIE: Robust Bias Evaluation Of Large Generative Language Models
 authors: Esiobu David, Tan Xiaoqing, Hosseini Saghar, Ung Megan, Zhang Yuchen, Fernandes Jude, Dwivedi-yu Jane, Presani Eleonora, Williams Adina, Smith Eric Michael
 conference: "Arxiv"
 year: 2023

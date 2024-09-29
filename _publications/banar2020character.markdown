@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Character-level Transformer-based Neural Machine Translation"
+title: Character-level Transformer-based Neural Machine Translation
 authors: Banar Nikolay, Daelemans Walter, Kestemont Mike
 conference: "Arxiv"
 year: 2020

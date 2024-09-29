@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Libra: Building Decoupled Vision System On Large Language Models"
+title: Libra: Building Decoupled Vision System On Large Language Models
 authors: Xu Yifan, Yang Xiaoshan, Song Yaguang, Xu Changsheng
 conference: "Arxiv"
 year: 2024

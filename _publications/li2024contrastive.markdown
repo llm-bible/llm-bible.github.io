@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Calrec: Contrastive Alignment Of Generative Llms For Sequential Recommendation"
+title: Calrec: Contrastive Alignment Of Generative Llms For Sequential Recommendation
 authors: Li Yaoyiran, Zhai Xiang, Alzantot Moustafa, Yu Keyi, Vulić Ivan, Korhonen Anna, Hammad Mohamed
 conference: "Arxiv"
 year: 2024

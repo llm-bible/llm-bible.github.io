@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Labeling Supervised Fine-tuning Data With The Scaling Law"
+title: Labeling Supervised Fine-tuning Data With The Scaling Law
 authors: Kong Huanjun
 conference: "Arxiv"
 year: 2024

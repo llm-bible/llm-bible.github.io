@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Layer-wise Pruning Of Transformer Attention Heads For Efficient Language Modeling"
+title: Layer-wise Pruning Of Transformer Attention Heads For Efficient Language Modeling
 authors: Shim Kyuhong, Choi Iksoo, Sung Wonyong, Choi Jungwook
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "EKTVQA: Generalized Use Of External Knowledge To Empower Scene Text In Text-vqa"
+title: EKTVQA: Generalized Use Of External Knowledge To Empower Scene Text In Text-vqa
 authors: Dey Arka Ujjal, Valveny Ernest, Harit Gaurav
 conference: "IEEE.ACCESS"
 year: 2021

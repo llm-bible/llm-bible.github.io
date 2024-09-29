@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Augmenting Large Language Model Translators Via Translation Memories"
+title: Augmenting Large Language Model Translators Via Translation Memories
 authors: Mu Yongyu, Reheman Abudurexiti, Cao Zhiquan, Fan Yuchun, Li Bei, Li Yinqiao, Xiao Tong, Zhang Chunliang, Zhu Jingbo
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "VL-BERT: Pre-training Of Generic Visual-linguistic Representations"
+title: VL-BERT: Pre-training Of Generic Visual-linguistic Representations
 authors: Su Weijie, Zhu Xizhou, Cao Yue, Li Bin, Lu Lewei, Wei Furu, Dai Jifeng
 conference: "Arxiv"
 year: 2019

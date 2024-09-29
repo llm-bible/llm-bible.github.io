@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Question Aware Vision Transformer For Multimodal Reasoning"
+title: Question Aware Vision Transformer For Multimodal Reasoning
 authors: Ganz Roy, Kittenplon Yair, Aberdam Aviad, Avraham Elad Ben, Nuriel Oren, Mazor Shai, Litman Ron
 conference: "Arxiv"
 year: 2024

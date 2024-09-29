@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Relu Strikes Back: Exploiting Activation Sparsity In Large Language Models"
+title: Relu Strikes Back: Exploiting Activation Sparsity In Large Language Models
 authors: Mirzadeh Iman, Alizadeh Keivan, Mehta Sachin, Del Mundo Carlo C, Tuzel Oncel, Samei Golnoosh, Rastegari Mohammad, Farajtabar Mehrdad
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Harnessing The Power Of Multi-task Pretraining For Ground-truth Level Natural Language Explanations"
+title: Harnessing The Power Of Multi-task Pretraining For Ground-truth Level Natural Language Explanations
 authors: Plüster Björn, Ambsdorf Jakob, Braach Lukas, Lee Jae Hee, Wermter Stefan
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Vietnamese Poem Generation & The Prospect Of Cross-language Poem-to-poem Translation"
+title: Vietnamese Poem Generation & The Prospect Of Cross-language Poem-to-poem Translation
 authors: Huynh Triet Minh, Bao Quan Le
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Benchmarking Chinese Knowledge Rectification In Large Language Models"
+title: Benchmarking Chinese Knowledge Rectification In Large Language Models
 authors: Lu Tianhe, Fang Jizhan, Yao Yunzhi, Xu Xin, Zhang Ningyu, Chen Huajun
 conference: "Arxiv"
 year: 2024

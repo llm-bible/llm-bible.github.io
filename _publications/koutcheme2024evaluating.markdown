@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating Language Models For Generating And Judging Programming Feedback"
+title: Evaluating Language Models For Generating And Judging Programming Feedback
 authors: Koutcheme Charles, Dainese Nicola, Hellas Arto, Sarsa Sami, Leinonen Juho, Ashraf Syed, Denny Paul
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tokenization Matters! Degrading Large Language Models Through Challenging Their Tokenization"
+title: Tokenization Matters! Degrading Large Language Models Through Challenging Their Tokenization
 authors: Wang Dixuan, Li Yanda, Jiang Junyuan, Ding Zepeng, Jiang Guochao, Liang Jiaqing, Yang Deqing
 conference: "Arxiv"
 year: 2024

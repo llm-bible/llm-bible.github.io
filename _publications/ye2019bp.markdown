@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bp-transformer: Modelling Long-range Context Via Binary Partitioning"
+title: Bp-transformer: Modelling Long-range Context Via Binary Partitioning
 authors: Ye Zihao, Guo Qipeng, Gan Quan, Qiu Xipeng, Zhang Zheng
 conference: "Arxiv"
 year: 2019

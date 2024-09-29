@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Adversarial Fine-tuning Of Language Models: An Iterative Optimisation Approach For The Generation And Detection Of Problematic Content"
+title: Adversarial Fine-tuning Of Language Models: An Iterative Optimisation Approach For The Generation And Detection Of Problematic Content
 authors: O'neill Charles, Miller Jack, Ciuca Ioana, Ting Yuan-sen, Bui Thang
 conference: "Arxiv"
 year: 2023

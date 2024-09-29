@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "How Alignment And Jailbreak Work: Explain LLM Safety Through Intermediate Hidden States"
+title: How Alignment And Jailbreak Work: Explain LLM Safety Through Intermediate Hidden States
 authors: Zhou Zhenhong, Yu Haiyang, Zhang Xinghua, Xu Rongwu, Huang Fei, Li Yongbin
 conference: "Arxiv"
 year: 2024

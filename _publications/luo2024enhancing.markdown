@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Knowla: Enhancing Parameter-efficient Finetuning With Knowledgeable Adaptation"
+title: Knowla: Enhancing Parameter-efficient Finetuning With Knowledgeable Adaptation
 authors: Luo Xindi, Sun Zequn, Zhao Jing, Zhao Zhe, Hu Wei
 conference: "Arxiv"
 year: 2024

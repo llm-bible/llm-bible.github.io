@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Knowledge-grounded Dialog System Based On Pre-trained Language Models"
+title: A Knowledge-grounded Dialog System Based On Pre-trained Language Models
 authors: Zhang Weijie, Chen Jiaoxuan, Wu Haipang, Wan Sanhui, Li Gongfeng
 conference: "Arxiv"
 year: 2021

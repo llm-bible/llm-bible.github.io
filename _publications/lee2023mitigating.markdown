@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Volcano: Mitigating Multimodal Hallucination Through Self-feedback Guided Revision"
+title: Volcano: Mitigating Multimodal Hallucination Through Self-feedback Guided Revision
 authors: Lee Seongyun, Park Sue Hyun, Jo Yongrae, Seo Minjoon
 conference: "Arxiv"
 year: 2023

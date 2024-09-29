@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Enriched Pre-trained Transformers For Joint Slot Filling And Intent Detection"
+title: Enriched Pre-trained Transformers For Joint Slot Filling And Intent Detection
 authors: Hardalov Momchil, Koychev Ivan, Nakov Preslav
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "What Do You Learn From Context? Probing For Sentence Structure In Contextualized Word Representations"
+title: What Do You Learn From Context? Probing For Sentence Structure In Contextualized Word Representations
 authors: Tenney Ian, Xia Patrick, Chen Berlin, Wang Alex, Poliak Adam, Mccoy R Thomas, Kim Najoung, Van Durme Benjamin, Bowman Samuel R., Das Dipanjan, Pavlick Ellie
 conference: "Arxiv"
 year: 2019

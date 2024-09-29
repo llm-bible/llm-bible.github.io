@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Retrieval-based Video Language Model For Efficient Long Video Question Answering"
+title: Retrieval-based Video Language Model For Efficient Long Video Question Answering
 authors: Xu Jiaqi, Lan Cuiling, Xie Wenxuan, Chen Xuejin, Lu Yan
 conference: "Arxiv"
 year: 2023

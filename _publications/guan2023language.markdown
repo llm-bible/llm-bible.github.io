@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Language Models Hallucinate, But May Excel At Fact Verification"
+title: Language Models Hallucinate, But May Excel At Fact Verification
 authors: Guan Jian, Dodge Jesse, Wadden David, Huang Minlie, Peng Hao
 conference: "Arxiv"
 year: 2023

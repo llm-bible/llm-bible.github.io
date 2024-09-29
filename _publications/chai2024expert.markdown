@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "An Expert Is Worth One Token: Synergizing Multiple Expert Llms As Generalist Via Expert Token Routing"
+title: An Expert Is Worth One Token: Synergizing Multiple Expert Llms As Generalist Via Expert Token Routing
 authors: Chai Ziwei, Wang Guoyin, Su Jing, Zhang Tianjie, Huang Xuanwen, Wang Xuwu, Xu Jingjing, Yuan Jianbo, Yang Hongxia, Wu Fei, Yang Yang
 conference: "Arxiv"
 year: 2024

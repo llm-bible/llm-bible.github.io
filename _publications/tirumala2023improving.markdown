@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "D4: Improving LLM Pretraining Via Document De-duplication And Diversification"
+title: D4: Improving LLM Pretraining Via Document De-duplication And Diversification
 authors: Tirumala Kushal, Simig Daniel, Aghajanyan Armen, Morcos Ari S.
 conference: "Arxiv"
 year: 2023

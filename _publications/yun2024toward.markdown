@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Toward Inference-optimal Mixture-of-expert Large Language Models"
+title: Toward Inference-optimal Mixture-of-expert Large Language Models
 authors: Yun Longfei, Zhuang Yonghao, Fu Yao, Xing Eric P, Zhang Hao
 conference: "Arxiv"
 year: 2024

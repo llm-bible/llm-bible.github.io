@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Training Large Language Models Efficiently With Sparsity And Dataflow"
+title: Training Large Language Models Efficiently With Sparsity And Dataflow
 authors: Srinivasan Venkat, Gandhi Darshan, Thakker Urmish, Prabhakar Raghu
 conference: "Arxiv"
 year: 2023

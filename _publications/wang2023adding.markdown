@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Adding Guardrails To Advanced Chatbots"
+title: Adding Guardrails To Advanced Chatbots
 authors: Wang Yanchen, Singh Lisa
 conference: "Arxiv"
 year: 2023

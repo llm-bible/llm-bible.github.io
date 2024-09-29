@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Chatgpt Replace Traditional KBQA Models? An In-depth Analysis Of The Question Answering Performance Of The GPT LLM Family"
+title: Can Chatgpt Replace Traditional KBQA Models? An In-depth Analysis Of The Question Answering Performance Of The GPT LLM Family
 authors: Tan Yiming, Min Dehai, Li Yu, Li Wenbo, Hu Nan, Chen Yongrui, Qi Guilin
 conference: "Arxiv"
 year: 2023

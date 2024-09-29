@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Lamini-lm: A Diverse Herd Of Distilled Models From Large-scale Instructions"
+title: Lamini-lm: A Diverse Herd Of Distilled Models From Large-scale Instructions
 authors: Wu Minghao, Waheed Abdul, Zhang Chiyu, Abdul-mageed Muhammad, Aji Alham Fikri
 conference: "Arxiv"
 year: 2023

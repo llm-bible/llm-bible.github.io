@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Survey On In-context Learning"
+title: A Survey On In-context Learning
 authors: Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Jingyuan Ma, Rui Li, Heming Xia, Jingjing Xu, Zhiyong Wu, Baobao Chang, Xu Sun, Lei Li, Zhifang Sui
 conference: "Arxiv"
 year: 2022

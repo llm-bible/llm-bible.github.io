@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Deconstructing The Ethics Of Large Language Models From Long-standing Issues To New-emerging Dilemmas"
+title: Deconstructing The Ethics Of Large Language Models From Long-standing Issues To New-emerging Dilemmas
 authors: Deng Chengyuan, Duan Yiqun, Jin Xin, Chang Heng, Tian Yijun, Liu Han, Zou Henry Peng, Jin Yiqiao, Xiao Yijia, Wang Yichen, Wu Shenghao, Xie Zongxing, Gao Kuofeng, He Sihong, Zhuang Jun, Cheng Lu, Wang Haohan
 conference: "Arxiv"
 year: 2024

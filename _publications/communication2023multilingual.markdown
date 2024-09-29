@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Seamless: Multilingual Expressive And Streaming Speech Translation"
+title: Seamless: Multilingual Expressive And Streaming Speech Translation
 authors: Communication Seamless, Barrault Loïc, Chung Yu-an, Meglioli Mariano Coria, Dale David, Dong Ning, Duppenthaler Mark, Duquenne Paul-ambroise, Ellis Brian, Elsahar Hady, Haaheim Justin, Hoffman John, Hwang Min-jae, Inaguma Hirofumi, Klaiber Christopher, Kulikov Ilia, Li Pengwei, Licht Daniel, Maillard Jean, Mavlyutov Ruslan, Rakotoarison Alice, Sadagopan Kaushik Ram, Ramakrishnan Abinesh, Tran Tuan, Wenzek Guillaume, Yang Yilin, Ye Ethan, Evtimov Ivan, Fernandez Pierre, Gao Cynthia, Hansanti Prangthip, Kalbassi Elahe, Kallet Amanda, Kozhevnikov Artyom, Gonzalez Gabriel Mejia, Roman Robin San, Touret Christophe, Wong Corinne, Wood Carleigh, Yu Bokai, Andrews Pierre, Balioglu Can, Chen Peng-jen, Costa-jussà Marta R., Elbayad Maha, Gong Hongyu, Guzmán Francisco, Heffernan Kevin, Jain Somya, Kao Justine, Lee Ann, Ma Xutai, Mourachko Alex, Peloquin Benjamin, Pino Juan, Popuri Sravya, Ropers Christophe, Saleem Safiyyah, Schwenk Holger, Sun Anna, Tomasello Paden, Wang Changhan, Wang Jeff, Wang Skyler, Williamson Mary
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "How To Catch An AI Liar: Lie Detection In Black-box Llms By Asking Unrelated Questions"
+title: How To Catch An AI Liar: Lie Detection In Black-box Llms By Asking Unrelated Questions
 authors: Pacchiardi Lorenzo, Chan Alex J., Mindermann Sören, Moscovitz Ilan, Pan Alexa Y., Gal Yarin, Evans Owain, Brauner Jan
 conference: "Arxiv"
 year: 2023

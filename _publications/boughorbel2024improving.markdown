@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving Language Models Trained On Translated Data With Continual Pre-training And Dictionary Learning Analysis"
+title: Improving Language Models Trained On Translated Data With Continual Pre-training And Dictionary Learning Analysis
 authors: Boughorbel Sabri, Parvez Md Rizwan, Hawasly Majd
 conference: "Arxiv"
 year: 2024

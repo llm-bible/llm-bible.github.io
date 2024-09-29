@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bridging The Information Gap Between Domain-specific Model And General LLM For Personalized Recommendation"
+title: Bridging The Information Gap Between Domain-specific Model And General LLM For Personalized Recommendation
 authors: Zhang Wenxuan, Liu Hongzhi, Du Yingpeng, Zhu Chen, Song Yang, Zhu Hengshu, Wu Zhonghai
 conference: "Arxiv"
 year: 2023

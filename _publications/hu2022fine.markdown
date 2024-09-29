@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fctalker: Fine And Coarse Grained Context Modeling For Expressive Conversational Speech Synthesis"
+title: Fctalker: Fine And Coarse Grained Context Modeling For Expressive Conversational Speech Synthesis
 authors: Hu Yifan, Liu Rui, Gao Guanglai, Li Haizhou
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models Are Biased Because They Are Large Language Models"
+title: Large Language Models Are Biased Because They Are Large Language Models
 authors: Resnik Philip
 conference: "Arxiv"
 year: 2024

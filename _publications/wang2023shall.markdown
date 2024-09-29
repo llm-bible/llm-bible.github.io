@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Shall We Pretrain Autoregressive Language Models With Retrieval? A Comprehensive Study"
+title: Shall We Pretrain Autoregressive Language Models With Retrieval? A Comprehensive Study
 authors: Wang Boxin, Ping Wei, Xu Peng, Mcafee Lawrence, Liu Zihan, Shoeybi Mohammad, Dong Yi, Kuchaiev Oleksii, Li Bo, Xiao Chaowei, Anandkumar Anima, Catanzaro Bryan
 conference: "Arxiv"
 year: 2023

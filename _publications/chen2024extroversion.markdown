@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Extroversion Or Introversion? Controlling The Personality Of Your Large Language Models"
+title: Extroversion Or Introversion? Controlling The Personality Of Your Large Language Models
 authors: Chen Yanquan, Wu Zhen, Guo Junjie, Huang Shujian, Dai Xinyu
 conference: "Arxiv"
 year: 2024

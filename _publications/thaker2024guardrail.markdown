@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Guardrail Baselines For Unlearning In Llms"
+title: Guardrail Baselines For Unlearning In Llms
 authors: Thaker Pratiksha, Maurya Yash, Hu Shengyuan, Wu Zhiwei Steven, Smith Virginia
 conference: "Arxiv"
 year: 2024

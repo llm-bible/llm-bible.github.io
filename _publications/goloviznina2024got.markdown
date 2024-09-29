@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "I've Got The "answer"! Interpretation Of Llms Hidden States In Question Answering"
+title: I've Got The "answer"! Interpretation Of Llms Hidden States In Question Answering
 authors: Goloviznina Valeriya, Kotelnikov Evgeny
 conference: "Arxiv"
 year: 2024

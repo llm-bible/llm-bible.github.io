@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cort: Complementary Rankings From Transformers"
+title: Cort: Complementary Rankings From Transformers
 authors: Wrzalik Marco, Krechel Dirk
 conference: "Proceedings of the"
 year: 2020

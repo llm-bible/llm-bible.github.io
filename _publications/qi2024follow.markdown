@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Follow My Instruction And Spill The Beans: Scalable Data Extraction From Retrieval-augmented Generation Systems"
+title: Follow My Instruction And Spill The Beans: Scalable Data Extraction From Retrieval-augmented Generation Systems
 authors: Qi Zhenting, Zhang Hanlin, Xing Eric, Kakade Sham, Lakkaraju Himabindu
 conference: "Arxiv"
 year: 2024

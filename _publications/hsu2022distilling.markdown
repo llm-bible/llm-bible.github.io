@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "XDBERT: Distilling Visual Information To BERT From Cross-modal Systems To Improve Language Understanding"
+title: XDBERT: Distilling Visual Information To BERT From Cross-modal Systems To Improve Language Understanding
 authors: Hsu Chan-jan, Lee Hung-yi, Tsao Yu
 conference: "Arxiv"
 year: 2022

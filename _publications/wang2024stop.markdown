@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Stop Reasoning! When Multimodal Llms With Chain-of-thought Reasoning Meets Adversarial Images"
+title: Stop Reasoning! When Multimodal Llms With Chain-of-thought Reasoning Meets Adversarial Images
 authors: Wang Zefeng, Han Zhen, Chen Shuo, Xue Fan, Ding Zifeng, Xiao Xun, Tresp Volker, Torr Philip, Gu Jindong
 conference: "Arxiv"
 year: 2024

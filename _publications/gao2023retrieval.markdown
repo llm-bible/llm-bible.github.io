@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Retrieval-augmented Generation For Large Language Models: A Survey"
+title: Retrieval-augmented Generation For Large Language Models: A Survey
 authors: Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi Dai, Jiawei Sun, Meng Wang, Haofen Wang
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Program Testing Ability Of Large Language Models For Code"
+title: The Program Testing Ability Of Large Language Models For Code
 authors: Xiong Weimin, Guo Yiwen, Chen Hao
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "LXMERT: Learning Cross-modality Encoder Representations From Transformers"
+title: LXMERT: Learning Cross-modality Encoder Representations From Transformers
 authors: Tan Hao, Bansal Mohit
 conference: "Arxiv"
 year: 2019

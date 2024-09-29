@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "LLM Agents Improve Semantic Code Search"
+title: LLM Agents Improve Semantic Code Search
 authors: Jain Sarthak University Of Illinois Urbana Champaign And Cisco, Dora Aditya University Of Illinois Urbana Champaign, Sam Ka Seng University Of Illinois Urbana Champaign, Singh Prabhat Cisco
 conference: "Arxiv"
 year: 2024

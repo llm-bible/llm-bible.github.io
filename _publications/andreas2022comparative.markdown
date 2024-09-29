@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Comparative Study On Language Models For Task-oriented Dialogue Systems"
+title: A Comparative Study On Language Models For Task-oriented Dialogue Systems
 authors: Andreas Vinsen Marselino, Winata Genta Indra, Purwarianti Ayu
 conference: ""
 year: 2022

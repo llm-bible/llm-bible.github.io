@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Llm2vec: Large Language Models Are Secretly Powerful Text Encoders"
+title: Llm2vec: Large Language Models Are Secretly Powerful Text Encoders
 authors: Behnamghader Parishad, Adlakha Vaibhav, Mosbach Marius, Bahdanau Dzmitry, Chapados Nicolas, Reddy Siva
 conference: "Arxiv"
 year: 2024

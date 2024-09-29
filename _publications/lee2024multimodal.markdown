@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multimodal Reasoning With Multimodal Knowledge Graph"
+title: Multimodal Reasoning With Multimodal Knowledge Graph
 authors: Lee Junlin, Wang Yequan, Li Jing, Zhang Min
 conference: "Arxiv"
 year: 2024

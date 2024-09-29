@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Reinforcement Learning For Edit-based Non-autoregressive Neural Machine Translation"
+title: Reinforcement Learning For Edit-based Non-autoregressive Neural Machine Translation
 authors: Wang Hao, Morimura Tetsuro, Honda Ukyo, Kawahara Daisuke
 conference: "Arxiv"
 year: 2024

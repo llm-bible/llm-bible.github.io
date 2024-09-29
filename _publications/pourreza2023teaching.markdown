@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Painter: Teaching Auto-regressive Language Models To Draw Sketches"
+title: Painter: Teaching Auto-regressive Language Models To Draw Sketches
 authors: Pourreza Reza, Bhattacharyya Apratim, Panchal Sunny, Lee Mingu, Madan Pulkit, Memisevic Roland
 conference: "Arxiv"
 year: 2023

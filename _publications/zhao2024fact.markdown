@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fact-and-reflection (far) Improves Confidence Calibration Of Large Language Models"
+title: Fact-and-reflection (far) Improves Confidence Calibration Of Large Language Models
 authors: Zhao Xinran, Zhang Hongming, Pan Xiaoman, Yao Wenlin, Yu Dong, Wu Tongshuang, Chen Jianshu
 conference: "Findings of the Association for Computational Linguistics ACL"
 year: 2024

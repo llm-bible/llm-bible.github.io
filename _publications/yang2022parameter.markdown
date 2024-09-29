@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Parameter-efficient Tuning Makes A Good Classification Head"
+title: Parameter-efficient Tuning Makes A Good Classification Head
 authors: Yang Zhuoyi, Ding Ming, Guo Yanhui, Lv Qingsong, Tang Jie
 conference: "Arxiv"
 year: 2022

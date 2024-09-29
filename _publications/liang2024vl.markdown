@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Vl-trojan: Multimodal Instruction Backdoor Attacks Against Autoregressive Visual Language Models"
+title: Vl-trojan: Multimodal Instruction Backdoor Attacks Against Autoregressive Visual Language Models
 authors: Liang Jiawei, Liang Siyuan, Luo Man, Liu Aishan, Han Dongchen, Chang Ee-chien, Cao Xiaochun
 conference: "Arxiv"
 year: 2024

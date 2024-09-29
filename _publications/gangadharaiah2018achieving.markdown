@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Achieving Fluency And Coherency In Task-oriented Dialog"
+title: Achieving Fluency And Coherency In Task-oriented Dialog
 authors: Gangadharaiah Rashmi, Narayanaswamy Balakrishnan, Elkan Charles
 conference: "Arxiv"
 year: 2018

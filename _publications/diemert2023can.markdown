@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Large Language Models Assist In Hazard Analysis?"
+title: Can Large Language Models Assist In Hazard Analysis?
 authors: Diemert Simon, Weber Jens H
 conference: "Arxiv"
 year: 2023

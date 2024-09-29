@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Direct Large Language Model Alignment Through Self-rewarding Contrastive Prompt Distillation"
+title: Direct Large Language Model Alignment Through Self-rewarding Contrastive Prompt Distillation
 authors: Liu Aiwei, Bai Haoping, Lu Zhiyun, Kong Xiang, Wang Simon, Shan Jiulong, Cao Meng, Wen Lijie
 conference: "Arxiv"
 year: 2024

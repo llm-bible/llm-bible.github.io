@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards A Unified Multimodal Reasoning Framework"
+title: Towards A Unified Multimodal Reasoning Framework
 authors: Arun Abhinav, Mal Dipendra Singh, Soni Mehul, Sawada Tomohiro
 conference: "Arxiv"
 year: 2023

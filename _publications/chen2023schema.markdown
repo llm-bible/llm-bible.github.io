@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Schema-guided Semantic Accuracy: Faithfulness In Task-oriented Dialogue Response Generation"
+title: Schema-guided Semantic Accuracy: Faithfulness In Task-oriented Dialogue Response Generation
 authors: Chen Jinghong, Lin Weizhe, Byrne Bill
 conference: "Arxiv"
 year: 2023

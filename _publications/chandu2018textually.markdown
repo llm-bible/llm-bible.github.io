@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Textually Enriched Neural Module Networks For Visual Question Answering"
+title: Textually Enriched Neural Module Networks For Visual Question Answering
 authors: Chandu Khyathi Raghavi, Pyreddy Mary Arpita, Felix Matthieu, Joshi Narendra Nath
 conference: "Arxiv"
 year: 2018

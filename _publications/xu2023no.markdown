@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "No Train Still Gain. Unleash Mathematical Reasoning Of Large Language Models With Monte Carlo Tree Search Guided By Energy Function"
+title: No Train Still Gain. Unleash Mathematical Reasoning Of Large Language Models With Monte Carlo Tree Search Guided By Energy Function
 authors: Xu Haotian
 conference: "Arxiv"
 year: 2023

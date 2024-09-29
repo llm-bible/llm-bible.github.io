@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Zero-shot Generative Large Language Models For Systematic Review Screening Automation"
+title: Zero-shot Generative Large Language Models For Systematic Review Screening Automation
 authors: Wang Shuai, Scells Harrisen, Zhuang Shengyao, Potthast Martin, Koopman Bevan, Zuccon Guido
 conference: "Arxiv"
 year: 2024

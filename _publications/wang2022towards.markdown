@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Unified Conversational Recommender Systems Via Knowledge-enhanced Prompt Learning"
+title: Towards Unified Conversational Recommender Systems Via Knowledge-enhanced Prompt Learning
 authors: Xiaolei Wang, Kun Zhou, Ji-rong Wen, Wayne Xin Zhao
 conference: "Arxiv"
 year: 2022

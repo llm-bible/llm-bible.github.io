@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Nothing In Excess: Mitigating The Exaggerated Safety For Llms Via Safety-conscious Activation Steering"
+title: Nothing In Excess: Mitigating The Exaggerated Safety For Llms Via Safety-conscious Activation Steering
 authors: Cao Zouying, Yang Yifei, Zhao Hai
 conference: "Arxiv"
 year: 2024

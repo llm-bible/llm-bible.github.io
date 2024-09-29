@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Openleaf: Open-domain Interleaved Image-text Generation And Evaluation"
+title: Openleaf: Open-domain Interleaved Image-text Generation And Evaluation
 authors: An Jie, Yang Zhengyuan, Li Linjie, Wang Jianfeng, Lin Kevin, Liu Zicheng, Wang Lijuan, Luo Jiebo
 conference: "Arxiv"
 year: 2023

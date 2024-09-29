@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Using Large Language Models To Create AI Personas For Replication And Prediction Of Media Effects: An Empirical Test Of 133 Published Experimental Research Findings"
+title: Using Large Language Models To Create AI Personas For Replication And Prediction Of Media Effects: An Empirical Test Of 133 Published Experimental Research Findings
 authors: Yeykelis Leo, Pichai Kaavya, Cummings James J., Reeves Byron
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Instructrag: Instructing Retrieval-augmented Generation Via Self-synthesized Rationales"
+title: Instructrag: Instructing Retrieval-augmented Generation Via Self-synthesized Rationales
 authors: Wei Zhepei, Chen Wei-lin, Meng Yu
 conference: "Arxiv"
 year: 2024

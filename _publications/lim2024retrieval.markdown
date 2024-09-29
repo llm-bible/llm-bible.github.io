@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Retrieval-augmented Natural Language Reasoning For Explainable Visual Question Answering"
+title: Retrieval-augmented Natural Language Reasoning For Explainable Visual Question Answering
 authors: Lim Su Hyeon, Kim Minkuk, Kim Hyeon Bae, Kim Seong Tae
 conference: "Arxiv"
 year: 2024

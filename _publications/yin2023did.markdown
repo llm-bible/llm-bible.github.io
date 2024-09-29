@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Did You Read The Instructions? Rethinking The Effectiveness Of Task Definitions In Instruction Learning"
+title: Did You Read The Instructions? Rethinking The Effectiveness Of Task Definitions In Instruction Learning
 authors: Yin Fan, Vig Jesse, Laban Philippe, Joty Shafiq, Xiong Caiming, Wu Chien-sheng Jason
 conference: "Arxiv"
 year: 2023

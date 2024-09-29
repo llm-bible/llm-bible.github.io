@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Comprehensive Capability Analysis Of GPT-3 And GPT-3.5 Series Models"
+title: A Comprehensive Capability Analysis Of GPT-3 And GPT-3.5 Series Models
 authors: Junjie Ye, Xuanting Chen, Nuo Xu, Can Zu, Zekai Shao, Shichun Liu, Yuhan Cui, Zeyang Zhou, Chao Gong, Yang Shen, Jie Zhou, Siming Chen, Tao Gui, Qi Zhang, Xuanjing Huang
 conference: "Arxiv"
 year: 2023

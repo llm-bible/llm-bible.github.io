@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Understanding Privacy Risks Of Embeddings Induced By Large Language Models"
+title: Understanding Privacy Risks Of Embeddings Induced By Large Language Models
 authors: Zhu Zhihao, Shao Ninglu, Lian Defu, Wu Chenwang, Liu Zheng, Yang Yi, Chen Enhong
 conference: "Arxiv"
 year: 2024

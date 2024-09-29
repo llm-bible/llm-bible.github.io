@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving The Robustness Of Transformer-based Large Language Models With Dynamic Attention"
+title: Improving The Robustness Of Transformer-based Large Language Models With Dynamic Attention
 authors: Shen Lujia, Pu Yuwen, Ji Shouling, Li Changjiang, Zhang Xuhong, Ge Chunpeng, Wang Ting
 conference: "Arxiv"
 year: 2023

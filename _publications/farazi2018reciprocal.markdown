@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Reciprocal Attention Fusion For Visual Question Answering"
+title: Reciprocal Attention Fusion For Visual Question Answering
 authors: Farazi Moshiur R, Khan Salman H
 conference: "Proceedings of the British Machine Vision Conference"
 year: 2018

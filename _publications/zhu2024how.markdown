@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "How Privacy-savvy Are Large Language Models? A Case Study On Compliance And Privacy Technical Review"
+title: How Privacy-savvy Are Large Language Models? A Case Study On Compliance And Privacy Technical Review
 authors: Zhu Xichou, Liu Yang, Shen Zhou, Liu Yi, Li Min, Chen Yujun, John Benzi, Ma Zhenzhen, Hu Tao, Yang Bolong, Wang Manman, Xie Zongxing, Liu Peng, Cai Dan, Wang Junhui
 conference: "Arxiv"
 year: 2024

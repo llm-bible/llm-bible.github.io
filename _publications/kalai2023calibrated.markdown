@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Calibrated Language Models Must Hallucinate"
+title: Calibrated Language Models Must Hallucinate
 authors: Kalai Adam Tauman, Vempala Santosh S.
 conference: "Arxiv"
 year: 2023

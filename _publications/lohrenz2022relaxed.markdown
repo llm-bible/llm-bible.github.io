@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Relaxed Attention For Transformer Models"
+title: Relaxed Attention For Transformer Models
 authors: Lohrenz Timo, Möller Björn, Li Zhengyang, Fingscheidt Tim
 conference: "Arxiv"
 year: 2022

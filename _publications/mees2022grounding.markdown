@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Grounding Language With Visual Affordances Over Unstructured Data"
+title: Grounding Language With Visual Affordances Over Unstructured Data
 authors: Mees Oier, Borja-diaz Jessica, Burgard Wolfram
 conference: "Arxiv"
 year: 2022

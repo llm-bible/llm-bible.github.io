@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Empowering Parameter-efficient Transfer Learning By Recognizing The Kernel Structure In Self-attention"
+title: Empowering Parameter-efficient Transfer Learning By Recognizing The Kernel Structure In Self-attention
 authors: Chen Yifan, Hazarika Devamanyu, Namazifar Mahdi, Liu Yang, Jin Di, Hakkani-tur Dilek
 conference: "Arxiv"
 year: 2022

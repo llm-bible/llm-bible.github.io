@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring The Role Of Transliteration In In-context Learning For Low-resource Languages Written In Non-latin Scripts"
+title: Exploring The Role Of Transliteration In In-context Learning For Low-resource Languages Written In Non-latin Scripts
 authors: Ma Chunlan, Liu Yihong, Ye Haotian, Schütze Hinrich
 conference: "Arxiv"
 year: 2024

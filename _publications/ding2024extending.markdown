@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Longrope: Extending LLM Context Window Beyond 2 Million Tokens"
+title: Longrope: Extending LLM Context Window Beyond 2 Million Tokens
 authors: Ding Yiran, Zhang Li Lyna, Zhang Chengruidong, Xu Yuanyuan, Shang Ning, Xu Jiahang, Yang Fan, Yang Mao
 conference: "Arxiv"
 year: 2024

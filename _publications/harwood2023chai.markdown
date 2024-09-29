@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "CHAI-DT: A Framework For Prompting Conversational Generative AI Agents To Actively Participate In Co-creation"
+title: CHAI-DT: A Framework For Prompting Conversational Generative AI Agents To Actively Participate In Co-creation
 authors: Harwood Brandon
 conference: "Arxiv"
 year: 2023

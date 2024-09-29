@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Beyond Chatbots: Explorellm For Structured Thoughts And Personalized Model Responses"
+title: Beyond Chatbots: Explorellm For Structured Thoughts And Personalized Model Responses
 authors: Ma Xiao, Mishra Swaroop, Liu Ariel, Su Sophie, Chen Jilin, Kulkarni Chinmay, Cheng Heng-tze, Le Quoc, Chi Ed
 conference: "Arxiv"
 year: 2023

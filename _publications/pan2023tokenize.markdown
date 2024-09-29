@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tokenize Anything Via Prompting"
+title: Tokenize Anything Via Prompting
 authors: Pan Ting, Tang Lulu, Wang Xinlong, Shan Shiguang
 conference: "Arxiv"
 year: 2023

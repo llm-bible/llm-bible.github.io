@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Benchmarking Large Language Model Capabilities For Conditional Generation"
+title: Benchmarking Large Language Model Capabilities For Conditional Generation
 authors: Maynez Joshua, Agrawal Priyanka, Gehrmann Sebastian
 conference: "Arxiv"
 year: 2023

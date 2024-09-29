@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chain-of-instructions: Compositional Instruction Tuning On Large Language Models"
+title: Chain-of-instructions: Compositional Instruction Tuning On Large Language Models
 authors: Hayati Shirley Anugrah, Jung Taehee, Bodding-long Tristan, Kar Sudipta, Sethy Abhinav, Kim Joo-kyung, Kang Dongyeop
 conference: "Arxiv"
 year: 2024

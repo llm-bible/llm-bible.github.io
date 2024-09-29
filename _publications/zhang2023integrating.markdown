@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Collm: Integrating Collaborative Embeddings Into Large Language Models For Recommendation"
+title: Collm: Integrating Collaborative Embeddings Into Large Language Models For Recommendation
 authors: Zhang Yang, Feng Fuli, Zhang Jizhi, Bao Keqin, Wang Qifan, He Xiangnan
 conference: "Arxiv"
 year: 2023

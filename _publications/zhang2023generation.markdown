@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Generation-driven Contrastive Self-training For Zero-shot Text Classification With Instruction-following LLM"
+title: Generation-driven Contrastive Self-training For Zero-shot Text Classification With Instruction-following LLM
 authors: Zhang Ruohong, Wang Yau-shian, Yang Yiming
 conference: "Arxiv"
 year: 2023

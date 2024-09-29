@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Synthclip: Are We Ready For A Fully Synthetic CLIP Training?"
+title: Synthclip: Are We Ready For A Fully Synthetic CLIP Training?
 authors: Hammoud Hasan Abed Al Kader, Itani Hani, Pizzati Fabio, Torr Philip, Bibi Adel, Ghanem Bernard
 conference: "Arxiv"
 year: 2024

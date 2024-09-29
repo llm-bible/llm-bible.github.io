@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Ouroboros: Generating Longer Drafts Phrase By Phrase For Faster Speculative Decoding"
+title: Ouroboros: Generating Longer Drafts Phrase By Phrase For Faster Speculative Decoding
 authors: Zhao Weilin, Huang Yuxiang, Han Xu, Xu Wang, Xiao Chaojun, Zhang Xinrong, Fang Yewei, Zhang Kaihuo, Liu Zhiyuan, Sun Maosong
 conference: "Arxiv"
 year: 2024

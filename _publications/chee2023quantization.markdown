@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Quip: 2-bit Quantization Of Large Language Models With Guarantees"
+title: Quip: 2-bit Quantization Of Large Language Models With Guarantees
 authors: Jerry Chee, Yaohui Cai, Volodymyr Kuleshov, Christopher De Sa
 conference: "Arxiv"
 year: 2023

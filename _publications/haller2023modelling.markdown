@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Opiniongpt: Modelling Explicit Biases In Instruction-tuned Llms"
+title: Opiniongpt: Modelling Explicit Biases In Instruction-tuned Llms
 authors: Haller Patrick, Aynetdinov Ansar, Akbik Alan
 conference: "Arxiv"
 year: 2023

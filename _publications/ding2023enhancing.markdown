@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Enhancing Chat Language Models By Scaling High-quality Instructional Conversations"
+title: Enhancing Chat Language Models By Scaling High-quality Instructional Conversations
 authors: Ding Ning, Chen Yulin, Xu Bokai, Qin Yujia, Zheng Zhi, Hu Shengding, Liu Zhiyuan, Sun Maosong, Zhou Bowen
 conference: "Arxiv"
 year: 2023

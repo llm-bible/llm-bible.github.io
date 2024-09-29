@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Entity Matching Using Large Language Models"
+title: Entity Matching Using Large Language Models
 authors: Peeters Ralph, Bizer Christian
 conference: "Arxiv"
 year: 2023

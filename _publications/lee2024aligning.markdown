@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Aligning To Thousands Of Preferences Via System Message Generalization"
+title: Aligning To Thousands Of Preferences Via System Message Generalization
 authors: Lee Seongyun, Park Sue Hyun, Kim Seungone, Seo Minjoon
 conference: "Arxiv"
 year: 2024

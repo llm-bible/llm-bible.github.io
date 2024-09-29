@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Robustly Optimized And Distilled Training For Natural Language Understanding"
+title: Robustly Optimized And Distilled Training For Natural Language Understanding
 authors: Elfadeel Haytham, Peshterliev Stan
 conference: "Arxiv"
 year: 2021

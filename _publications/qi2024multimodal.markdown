@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "SNIFFER: Multimodal Large Language Model For Explainable Out-of-context Misinformation Detection"
+title: SNIFFER: Multimodal Large Language Model For Explainable Out-of-context Misinformation Detection
 authors: Qi Peng, Yan Zehong, Hsu Wynne, Lee Mong Li
 conference: "Arxiv"
 year: 2024

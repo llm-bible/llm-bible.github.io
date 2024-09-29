@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Segatron: Segment-aware Transformer For Language Modeling And Understanding"
+title: Segatron: Segment-aware Transformer For Language Modeling And Understanding
 authors: Bai He, Shi Peng, Lin Jimmy, Xie Yuqing, Tan Luchen, Xiong Kun, Gao Wen, Li Ming
 conference: "Arxiv"
 year: 2020

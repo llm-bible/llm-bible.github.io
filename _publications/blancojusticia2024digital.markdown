@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Digital Forgetting In Large Language Models: A Survey Of Unlearning Methods"
+title: Digital Forgetting In Large Language Models: A Survey Of Unlearning Methods
 authors: Blanco-justicia Alberto, Jebreel Najeeb, Manzanares Benet, Sánchez David, Domingo-ferrer Josep, Collell Guillem, Tan Kuan Eeik
 conference: "Arxiv"
 year: 2024

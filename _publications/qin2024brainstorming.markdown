@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Brainstorming Brings Power To Large Language Models Of Knowledge Reasoning"
+title: Brainstorming Brings Power To Large Language Models Of Knowledge Reasoning
 authors: Qin Zining, Wang Chenhao, Qin Huiling, Jia Weijia
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "EASYTOOL: Enhancing Llm-based Agents With Concise Tool Instruction"
+title: EASYTOOL: Enhancing Llm-based Agents With Concise Tool Instruction
 authors: Yuan Siyu, Song Kaitao, Chen Jiangjie, Tan Xu, Shen Yongliang, Kan Ren, Li Dongsheng, Yang Deqing
 conference: "Arxiv"
 year: 2024

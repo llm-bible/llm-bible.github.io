@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving Robustness Of Llm-based Speech Synthesis By Learning Monotonic Alignment"
+title: Improving Robustness Of Llm-based Speech Synthesis By Learning Monotonic Alignment
 authors: Neekhara Paarth, Hussain Shehzeen, Ghosh Subhankar, Li Jason, Valle Rafael, Badlani Rohan, Ginsburg Boris
 conference: "Arxiv"
 year: 2024

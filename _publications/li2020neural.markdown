@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Neural Machine Translation With Joint Representation"
+title: Neural Machine Translation With Joint Representation
 authors: Li Yanyang, Wang Qiang, Xiao Tong, Liu Tongran, Zhu Jingbo
 conference: "Arxiv"
 year: 2020

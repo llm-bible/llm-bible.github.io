@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Compressing Large-scale Transformer-based Models: A Case Study On BERT"
+title: Compressing Large-scale Transformer-based Models: A Case Study On BERT
 authors: Ganesh Prakhar, Chen Yao, Lou Xin, Khan Mohammad Ali, Yang Yin, Sajjad Hassan, Nakov Preslav, Chen Deming, Winslett Marianne
 conference: "Arxiv"
 year: 2020

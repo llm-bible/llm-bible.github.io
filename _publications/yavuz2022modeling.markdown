@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Modeling Multi-hop Question Answering As Single Sequence Prediction"
+title: Modeling Multi-hop Question Answering As Single Sequence Prediction
 authors: Yavuz Semih, Hashimoto Kazuma, Zhou Yingbo, Keskar Nitish Shirish, Xiong Caiming
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Autoqgs: Auto-prompt For Low-resource Knowledge-based Question Generation From SPARQL"
+title: Autoqgs: Auto-prompt For Low-resource Knowledge-based Question Generation From SPARQL
 authors: Xiong Guanming, Bao Junwei, Zhao Wen, Wu Youzheng, He Xiaodong
 conference: "Arxiv"
 year: 2022

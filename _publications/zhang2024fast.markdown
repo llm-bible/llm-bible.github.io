@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fast And Slow Generating: An Empirical Study On Large And Small Language Models Collaborative Decoding"
+title: Fast And Slow Generating: An Empirical Study On Large And Small Language Models Collaborative Decoding
 authors: Zhang Kaiyan, Wang Jianyu, Ding Ning, Qi Biqing, Hua Ermo, Lv Xingtai, Zhou Bowen
 conference: "Arxiv"
 year: 2024

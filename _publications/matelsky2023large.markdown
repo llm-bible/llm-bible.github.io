@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Large Language Model-assisted Education Tool To Provide Feedback On Open-ended Responses"
+title: A Large Language Model-assisted Education Tool To Provide Feedback On Open-ended Responses
 authors: Matelsky Jordan K., Parodi Felipe, Liu Tony, Lange Richard D., Kording Konrad P.
 conference: "Arxiv"
 year: 2023

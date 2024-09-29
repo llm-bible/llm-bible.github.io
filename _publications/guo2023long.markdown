@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Longcoder: A Long-range Pre-trained Language Model For Code Completion"
+title: Longcoder: A Long-range Pre-trained Language Model For Code Completion
 authors: Guo Daya, Xu Canwen, Duan Nan, Yin Jian, Mcauley Julian
 conference: "Arxiv"
 year: 2023

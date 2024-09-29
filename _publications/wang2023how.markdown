@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "How Far Can Camels Go? Exploring The State Of Instruction Tuning On Open Resources"
+title: How Far Can Camels Go? Exploring The State Of Instruction Tuning On Open Resources
 authors: Wang Yizhong, Ivison Hamish, Dasigi Pradeep, Hessel Jack, Khot Tushar, Chandu Khyathi Raghavi, Wadden David, Macmillan Kelsey, Smith Noah A., Beltagy Iz, Hajishirzi Hannaneh
 conference: "Arxiv"
 year: 2023

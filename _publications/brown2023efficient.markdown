@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Efficient Transformer Knowledge Distillation: A Performance Review"
+title: Efficient Transformer Knowledge Distillation: A Performance Review
 authors: Brown Nathan, Williamson Ashton, Anderson Tahj, Lawrence Logan
 conference: "Arxiv"
 year: 2023

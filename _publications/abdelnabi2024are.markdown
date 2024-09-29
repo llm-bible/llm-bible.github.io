@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Are You Still On Track!? Catching LLM Task Drift With Activations"
+title: Are You Still On Track!? Catching LLM Task Drift With Activations
 authors: Abdelnabi Sahar, Fay Aideen, Cherubin Giovanni, Salem Ahmed, Fritz Mario, Paverd Andrew
 conference: "Arxiv"
 year: 2024

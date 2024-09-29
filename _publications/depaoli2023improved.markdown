@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improved Prompting And Process For Writing User Personas With Llms, Using Qualitative Interviews: Capturing Behaviour And Personality Traits Of Users"
+title: Improved Prompting And Process For Writing User Personas With Llms, Using Qualitative Interviews: Capturing Behaviour And Personality Traits Of Users
 authors: De Paoli Stefano
 conference: "Arxiv"
 year: 2023

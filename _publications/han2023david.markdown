@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "David Helps Goliath: Inference-time Collaboration Between Small Specialized And Large General Diffusion Lms"
+title: David Helps Goliath: Inference-time Collaboration Between Small Specialized And Large General Diffusion Lms
 authors: Han Xiaochuang, Kumar Sachin, Tsvetkov Yulia, Ghazvininejad Marjan
 conference: "Arxiv"
 year: 2023

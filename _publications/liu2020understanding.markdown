@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Understanding The Difficulty Of Training Transformers"
+title: Understanding The Difficulty Of Training Transformers
 authors: Liu Liyuan, Liu Xiaodong, Gao Jianfeng, Chen Weizhu, Han Jiawei
 conference: "Arxiv"
 year: 2020

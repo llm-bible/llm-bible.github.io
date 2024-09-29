@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Is DPO Superior To PPO For LLM Alignment? A Comprehensive Study"
+title: Is DPO Superior To PPO For LLM Alignment? A Comprehensive Study
 authors: Xu Shusheng, Fu Wei, Gao Jiaxuan, Ye Wenjie, Liu Weilin, Mei Zhiyu, Wang Guangju, Yu Chao, Wu Yi
 conference: "Arxiv"
 year: 2024

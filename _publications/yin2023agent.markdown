@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Agent Lumos: Unified And Modular Training For Open-source Language Agents"
+title: Agent Lumos: Unified And Modular Training For Open-source Language Agents
 authors: Yin Da, Brahman Faeze, Ravichander Abhilasha, Chandu Khyathi, Chang Kai-wei, Choi Yejin, Lin Bill Yuchen
 conference: "Arxiv"
 year: 2023

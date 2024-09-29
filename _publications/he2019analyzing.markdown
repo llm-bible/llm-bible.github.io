@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Analyzing The Forgetting Problem In The Pretrain-finetuning Of Dialogue Response Models"
+title: Analyzing The Forgetting Problem In The Pretrain-finetuning Of Dialogue Response Models
 authors: He Tianxing, Liu Jun, Cho Kyunghyun, Ott Myle, Liu Bing, Glass James, Peng Fuchun
 conference: "EACL"
 year: 2019

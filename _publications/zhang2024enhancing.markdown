@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Enhancing Multi-hop Reasoning Through Knowledge Erasure In Large Language Model Editing"
+title: Enhancing Multi-hop Reasoning Through Knowledge Erasure In Large Language Model Editing
 authors: Zhang Mengqi, Fang Bowen, Liu Qiang, Ren Pengjie, Wu Shu, Chen Zhumin, Wang Liang
 conference: "Arxiv"
 year: 2024

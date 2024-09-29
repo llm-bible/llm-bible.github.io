@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "SARATHI: Efficient LLM Inference By Piggybacking Decodes With Chunked Prefills"
+title: SARATHI: Efficient LLM Inference By Piggybacking Decodes With Chunked Prefills
 authors: Agrawal Amey, Panwar Ashish, Mohan Jayashree, Kwatra Nipun, Gulavani Bhargav S., Ramjee Ramachandran
 conference: "Arxiv"
 year: 2023

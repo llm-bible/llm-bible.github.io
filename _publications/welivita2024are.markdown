@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Are Large Language Models More Empathetic Than Humans?"
+title: Are Large Language Models More Empathetic Than Humans?
 authors: Welivita Anuradha, Pu Pearl
 conference: "Arxiv"
 year: 2024

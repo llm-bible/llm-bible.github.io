@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tacube: Pre-computing Data Cubes For Answering Numerical-reasoning Questions Over Tabular Data"
+title: Tacube: Pre-computing Data Cubes For Answering Numerical-reasoning Questions Over Tabular Data
 authors: Zhou Fan, Hu Mengkang, Dong Haoyu, Cheng Zhoujun, Han Shi, Zhang Dongmei
 conference: "Arxiv"
 year: 2022

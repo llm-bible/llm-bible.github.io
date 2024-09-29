@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "How Can We Know When Language Models Know? On The Calibration Of Language Models For Question Answering"
+title: How Can We Know When Language Models Know? On The Calibration Of Language Models For Question Answering
 authors: Jiang Zhengbao, Araki Jun, Ding Haibo, Neubig Graham
 conference: "Arxiv"
 year: 2020

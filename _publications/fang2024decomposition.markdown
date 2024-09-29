@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "DARA: Decomposition-alignment-reasoning Autonomous Language Agent For Question Answering Over Knowledge Graphs"
+title: DARA: Decomposition-alignment-reasoning Autonomous Language Agent For Question Answering Over Knowledge Graphs
 authors: Fang Haishuo, Zhu Xiaodan, Gurevych Iryna
 conference: "Arxiv"
 year: 2024

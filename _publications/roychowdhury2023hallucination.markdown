@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Hallucination-minimized Data-to-answer Framework For Financial Decision-makers"
+title: Hallucination-minimized Data-to-answer Framework For Financial Decision-makers
 authors: Roychowdhury Sohini, Alvarez Andres, Moore Brian, Krema Marko, Gelpi Maria Paz, Rodriguez Federico Martin, Rodriguez Angel, Cabrejas Jose Ramon, Serrano Pablo Martinez, Agrawal Punit, Mukherjee Arijit
 conference: "Arxiv"
 year: 2023

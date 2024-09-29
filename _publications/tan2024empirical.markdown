@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "An Empirical Study And Analysis Of Text-to-image Generation Using Large Language Model-powered Textual Representation"
+title: An Empirical Study And Analysis Of Text-to-image Generation Using Large Language Model-powered Textual Representation
 authors: Tan Zhiyu, Yang Mengping, Qin Luozheng, Yang Hao, Qian Ye, Zhou Qiang, Zhang Cheng, Li Hao
 conference: "Arxiv"
 year: 2024

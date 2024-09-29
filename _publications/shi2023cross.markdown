@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Crossget: Cross-guided Ensemble Of Tokens For Accelerating Vision-language Transformers"
+title: Crossget: Cross-guided Ensemble Of Tokens For Accelerating Vision-language Transformers
 authors: Shi Dachuan, Tao Chaofan, Rao Anyi, Yang Zhendong, Yuan Chun, Wang Jiaqi
 conference: "Arxiv"
 year: 2023

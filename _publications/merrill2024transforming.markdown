@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Transforming Wearable Data Into Health Insights Using Large Language Model Agents"
+title: Transforming Wearable Data Into Health Insights Using Large Language Model Agents
 authors: Merrill Mike A., Paruchuri Akshay, Rezaei Naghmeh, Kovacs Geza, Perez Javier, Liu Yun, Schenck Erik, Hammerquist Nova, Sunshine Jake, Tailor Shyam, Ayush Kumar, Su Hao-wei, He Qian, Mclean Cory Y., Malhotra Mark, Patel Shwetak, Zhan Jiening, Althoff Tim, Mcduff Daniel, Liu Xin
 conference: "Arxiv"
 year: 2024

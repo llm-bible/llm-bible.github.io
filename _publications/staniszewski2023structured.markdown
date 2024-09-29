@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Structured Packing In LLM Training Improves Long Context Utilization"
+title: Structured Packing In LLM Training Improves Long Context Utilization
 authors: Staniszewski Konrad, Tworkowski Szymon, Jaszczur Sebastian, Zhao Yu, Michalewski Henryk, Kuciński Łukasz, Miłoś Piotr
 conference: "Arxiv"
 year: 2023

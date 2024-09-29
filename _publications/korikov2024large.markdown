@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Model Driven Recommendation"
+title: Large Language Model Driven Recommendation
 authors: Korikov Anton, Sanner Scott, Deldjoo Yashar, He Zhankui, Mcauley Julian, Ramisa Arnau, Vidal Rene, Sathiamoorthy Mahesh, Kasrizadeh Atoosa, Milano Silvia, Ricci Francesco
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pre-trained Summarization Distillation"
+title: Pre-trained Summarization Distillation
 authors: Shleifer Sam, Rush Alexander M.
 conference: "Arxiv"
 year: 2020

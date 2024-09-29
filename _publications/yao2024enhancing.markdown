@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Enhancing In-context Learning Performance With Just Svd-based Weight Pruning: A Theoretical Perspective"
+title: Enhancing In-context Learning Performance With Just Svd-based Weight Pruning: A Theoretical Perspective
 authors: Yao Xinhao, Hu Xiaolin, Yang Shenzhi, Liu Yong
 conference: "Arxiv"
 year: 2024

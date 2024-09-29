@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Text Alignment Is An Efficient Unified Model For Massive NLP Tasks"
+title: Text Alignment Is An Efficient Unified Model For Massive NLP Tasks
 authors: Zha Yuheng, Yang Yichi, Li Ruichen, Hu Zhiting
 conference: "Arxiv"
 year: 2023

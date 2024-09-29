@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Insights Into LLM Long-context Failures: When Transformers Know But Don't Tell"
+title: Insights Into LLM Long-context Failures: When Transformers Know But Don't Tell
 authors: Lu Taiming, Gao Muhan, Yu Kuai, Byerly Adam, Khashabi Daniel
 conference: "Arxiv"
 year: 2024

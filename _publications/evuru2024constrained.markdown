@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Coda: Constrained Generation Based Data Augmentation For Low-resource NLP"
+title: Coda: Constrained Generation Based Data Augmentation For Low-resource NLP
 authors: Evuru Chandra Kiran Reddy, Ghosh Sreyan, Kumar Sonal, S Ramaneswaran, Tyagi Utkarsh, Manocha Dinesh
 conference: "Arxiv"
 year: 2024

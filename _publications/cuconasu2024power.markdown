@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "The Power Of Noise: Redefining Retrieval For RAG Systems"
+title: The Power Of Noise: Redefining Retrieval For RAG Systems
 authors: Cuconasu Florin, Trappolini Giovanni, Siciliano Federico, Filice Simone, Campagnano Cesare, Maarek Yoelle, Tonellotto Nicola, Silvestri Fabrizio
 conference: "Arxiv"
 year: 2024

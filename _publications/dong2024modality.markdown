@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Modality-aware Integration With Large Language Models For Knowledge-based Visual Question Answering"
+title: Modality-aware Integration With Large Language Models For Knowledge-based Visual Question Answering
 authors: Dong Junnan, Zhang Qinggang, Zhou Huachi, Zha Daochen, Zheng Pai, Huang Xiao
 conference: "Arxiv"
 year: 2024

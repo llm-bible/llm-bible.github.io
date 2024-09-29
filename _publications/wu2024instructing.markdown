@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Instructing Large Language Models To Identify And Ignore Irrelevant Conditions"
+title: Instructing Large Language Models To Identify And Ignore Irrelevant Conditions
 authors: Wu Zhenyu, Shen Chao, Jiang Meng
 conference: "Arxiv"
 year: 2024

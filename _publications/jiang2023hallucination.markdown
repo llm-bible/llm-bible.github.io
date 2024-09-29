@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Hallucination Augmented Contrastive Learning For Multimodal Large Language Model"
+title: Hallucination Augmented Contrastive Learning For Multimodal Large Language Model
 authors: Chaoya Jiang, Haiyang Xu, Mengfan Dong, Jiaxing Chen, Wei Ye, Ming Yan, Qinghao Ye, Ji Zhang, Fei Huang, Shikun Zhang
 conference: "Arxiv"
 year: 2023

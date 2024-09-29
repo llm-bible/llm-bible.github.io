@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Generating Executable Action Plans With Environmentally-aware Language Models"
+title: Generating Executable Action Plans With Environmentally-aware Language Models
 authors: Gramopadhye Maitrey, Szafir Daniel
 conference: "Arxiv"
 year: 2022

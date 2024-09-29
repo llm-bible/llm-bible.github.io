@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Perspective On Large Language Models, Intelligent Machines, And Knowledge Acquisition"
+title: A Perspective On Large Language Models, Intelligent Machines, And Knowledge Acquisition
 authors: Cherkassky Vladimir, Lee Eng Hock
 conference: "Arxiv"
 year: 2024

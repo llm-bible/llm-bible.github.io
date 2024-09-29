@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Pretraining Data Mixtures Enable Narrow Model Selection Capabilities In Transformer Models"
+title: Pretraining Data Mixtures Enable Narrow Model Selection Capabilities In Transformer Models
 authors: Yadlowsky Steve, Doshi Lyric, Tripuraneni Nilesh
 conference: "Arxiv"
 year: 2023

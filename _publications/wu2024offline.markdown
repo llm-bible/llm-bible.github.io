@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Freeva: Offline MLLM As Training-free Video Assistant"
+title: Freeva: Offline MLLM As Training-free Video Assistant
 authors: Wu Wenhao
 conference: "Arxiv"
 year: 2024

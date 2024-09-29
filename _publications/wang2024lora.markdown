@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Lora Meets Dropout Under A Unified Framework"
+title: Lora Meets Dropout Under A Unified Framework
 authors: Wang Sheng, Chen Liheng, Jiang Jiyue, Xue Boyang, Kong Lingpeng, Wu Chuan
 conference: "Arxiv"
 year: 2024

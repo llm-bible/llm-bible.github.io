@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "KIT-19: A Comprehensive Korean Instruction Toolkit On 19 Tasks For Fine-tuning Korean Large Language Models"
+title: KIT-19: A Comprehensive Korean Instruction Toolkit On 19 Tasks For Fine-tuning Korean Large Language Models
 authors: Jang Dongjun, Byun Sungjoo, Jo Hyemi, Shin Hyopil
 conference: "Arxiv"
 year: 2024

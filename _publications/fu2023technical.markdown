@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Kwaiyiimath: Technical Report"
+title: Kwaiyiimath: Technical Report
 authors: Fu Jiayi, Lin Lei, Gao Xiaoyang, Liu Pengli, Chen Zhengzong, Yang Zhirui, Zhang Shengnan, Zheng Xue, Li Yan, Liu Yuliang, Ye Xucheng, Liao Yiqiao, Liao Chao, Chen Bin, Song Chengru, Wan Junchen, Lin Zijia, Zhang Fuzheng, Wang Zhongyuan, Zhang Di, Gai Kun
 conference: "Arxiv"
 year: 2023

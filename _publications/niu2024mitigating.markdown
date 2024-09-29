@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mitigating Hallucinations In Large Language Models Via Self-refinement-enhanced Knowledge Retrieval"
+title: Mitigating Hallucinations In Large Language Models Via Self-refinement-enhanced Knowledge Retrieval
 authors: Niu Mengjia, Li Hao, Shi Jie, Haddadi Hamed, Mo Fan
 conference: "Arxiv"
 year: 2024

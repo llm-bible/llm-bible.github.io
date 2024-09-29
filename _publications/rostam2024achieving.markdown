@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Achieving Peak Performance For Large Language Models: A Systematic Review"
+title: Achieving Peak Performance For Large Language Models: A Systematic Review
 authors: Rostam Zhyar Rzgar K, Szénási Sándor, Kertész Gábor
 conference: "IEEE Access"
 year: 2024

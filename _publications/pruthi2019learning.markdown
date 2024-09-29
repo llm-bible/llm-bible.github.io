@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Learning To Deceive With Attention-based Explanations"
+title: Learning To Deceive With Attention-based Explanations
 authors: Pruthi Danish, Gupta Mansi, Dhingra Bhuwan, Neubig Graham, Lipton Zachary C.
 conference: "Arxiv"
 year: 2019

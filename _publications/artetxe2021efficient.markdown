@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Efficient Large Scale Language Modeling With Mixtures Of Experts"
+title: Efficient Large Scale Language Modeling With Mixtures Of Experts
 authors: Artetxe Mikel, Bhosale Shruti, Goyal Naman, Mihaylov Todor, Ott Myle, Shleifer Sam, Lin Xi Victoria, Du Jingfei, Iyer Srinivasan, Pasunuru Ramakanth, Anantharaman Giri, Li Xian, Chen Shuohui, Akin Halil, Baines Mandeep, Martin Louis, Zhou Xing, Koura Punit Singh, O'horo Brian, Wang Jeff, Zettlemoyer Luke, Diab Mona, Kozareva Zornitsa, Stoyanov Ves
 conference: "Arxiv"
 year: 2021

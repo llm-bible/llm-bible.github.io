@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "NAP At Semeval-2023 Task 3: Is Less Really More? (back-)translation As Data Augmentation Strategies For Detecting Persuasion Techniques"
+title: NAP At Semeval-2023 Task 3: Is Less Really More? (back-)translation As Data Augmentation Strategies For Detecting Persuasion Techniques
 authors: Falk Neele, Eichel Annerose, Piccirilli Prisca
 conference: "Arxiv"
 year: 2023

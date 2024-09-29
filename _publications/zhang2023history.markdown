@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "History-aware Hierarchical Transformer For Multi-session Open-domain Dialogue System"
+title: History-aware Hierarchical Transformer For Multi-session Open-domain Dialogue System
 authors: Zhang Tong, Liu Yong, Li Boyang, Zeng Zhiwei, Wang Pengwei, You Yuan, Miao Chunyan, Cui Lizhen
 conference: "Arxiv"
 year: 2023

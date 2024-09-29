@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring Fluent Query Reformulations With Text-to-text Transformers And Reinforcement Learning"
+title: Exploring Fluent Query Reformulations With Text-to-text Transformers And Reinforcement Learning
 authors: Chen Jerry Zikun, Yu Shi, Wang Haoran
 conference: "Arxiv"
 year: 2020

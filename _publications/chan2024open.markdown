@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Prompto: An Open Source Library For Asynchronous Querying Of LLM Endpoints"
+title: Prompto: An Open Source Library For Asynchronous Querying Of LLM Endpoints
 authors: Chan Ryan Sze-yin, Nanni Federico, Brown Edwin, Chapman Ed, Williams Angus R., Bright Jonathan, Gabasova Evelina
 conference: "Arxiv"
 year: 2024

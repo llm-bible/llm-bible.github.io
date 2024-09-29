@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Patched MOA: Optimizing Inference For Diverse Software Development Tasks"
+title: Patched MOA: Optimizing Inference For Diverse Software Development Tasks
 authors: Sharma Asankhaya
 conference: "Arxiv"
 year: 2024

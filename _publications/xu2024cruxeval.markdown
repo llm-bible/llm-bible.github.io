@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cruxeval-x: A Benchmark For Multilingual Code Reasoning, Understanding And Execution"
+title: Cruxeval-x: A Benchmark For Multilingual Code Reasoning, Understanding And Execution
 authors: Xu Ruiyang, Cao Jialun, Lu Yaojie, Lin Hongyu, Han Xianpei, He Ben, Cheung Shing-chi, Sun Le
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dynamic Strategy Chain: Dynamic Zero-shot Cot For Long Mental Health Support Generation"
+title: Dynamic Strategy Chain: Dynamic Zero-shot Cot For Long Mental Health Support Generation
 authors: Chen Qi, Liu Dexi
 conference: "Arxiv"
 year: 2023

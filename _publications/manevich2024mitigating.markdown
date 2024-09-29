@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mitigating Hallucinations In Large Vision-language Models (lvlms) Via Language-contrastive Decoding (LCD)"
+title: Mitigating Hallucinations In Large Vision-language Models (lvlms) Via Language-contrastive Decoding (LCD)
 authors: Manevich Avshalom, Tsarfaty Reut
 conference: "Arxiv"
 year: 2024

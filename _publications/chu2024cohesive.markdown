@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Cohesive Conversations: Enhancing Authenticity In Multi-agent Simulated Dialogues"
+title: Cohesive Conversations: Enhancing Authenticity In Multi-agent Simulated Dialogues
 authors: Chu Kuanchao, Chen Yi-pei, Nakayama Hideki
 conference: "Arxiv"
 year: 2024

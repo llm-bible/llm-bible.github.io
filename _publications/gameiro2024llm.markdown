@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "LLM Detectors Still Fall Short Of Real World: Case Of Llm-generated Short News-like Posts"
+title: LLM Detectors Still Fall Short Of Real World: Case Of Llm-generated Short News-like Posts
 authors: Gameiro Henrique Da Silva, Kucharavy Andrei, Dolamic Ljiljana
 conference: "Arxiv"
 year: 2024

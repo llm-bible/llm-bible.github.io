@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Prompt-engineering And Transformer-based Question Generation And Evaluation"
+title: Prompt-engineering And Transformer-based Question Generation And Evaluation
 authors: Amyeen Rubaba
 conference: "Arxiv"
 year: 2023

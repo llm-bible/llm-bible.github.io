@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Llm-based Autograding For Short Textual Answers"
+title: Towards Llm-based Autograding For Short Textual Answers
 authors: Schneider Johannes, Schenk Bernd, Niklaus Christina
 conference: "Proceedings of the"
 year: 2023

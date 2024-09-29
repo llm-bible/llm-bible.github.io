@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On Bilingual Lexicon Induction With Large Language Models"
+title: On Bilingual Lexicon Induction With Large Language Models
 authors: Li Yaoyiran, Korhonen Anna, Vulić Ivan
 conference: "Proceedings of the"
 year: 2023

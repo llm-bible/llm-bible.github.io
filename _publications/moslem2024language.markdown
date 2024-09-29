@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Language Modelling Approaches To Adaptive Machine Translation"
+title: Language Modelling Approaches To Adaptive Machine Translation
 authors: Moslem Yasmin
 conference: "Arxiv"
 year: 2024

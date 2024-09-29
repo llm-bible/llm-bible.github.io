@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Comparative Study Of Ai-generated (GPT-4) And Human-crafted Mcqs In Programming Education"
+title: A Comparative Study Of Ai-generated (GPT-4) And Human-crafted Mcqs In Programming Education
 authors: Doughty Jacob, Wan Zipiao, Bompelli Anishka, Qayum Jubahed, Wang Taozhi, Zhang Juran, Zheng Yujia, Doyle Aidan, Sridhar Pragnya, Agarwal Arav, Bogart Christopher, Keylor Eric, Kultur Can, Savelka Jaromir, Sakr Majd
 conference: "Arxiv"
 year: 2023

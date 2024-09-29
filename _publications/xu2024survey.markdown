@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Survey Of Resource-efficient LLM And Multimodal Foundation Models"
+title: A Survey Of Resource-efficient LLM And Multimodal Foundation Models
 authors: Mengwei Xu, Wangsong Yin, Dongqi Cai, Rongjie Yi, Daliang Xu, Qipeng Wang, Bingyang Wu, Yihao Zhao, Chen Yang, Shihe Wang, Qiyang Zhang, Zhenyan Lu, Li Zhang, Shangguang Wang, Yuanchun Li, Yunxin Liu, Xin Jin, Xuanzhe Liu
 conference: "Arxiv"
 year: 2024

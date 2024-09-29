@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving Multilingual Instruction Finetuning Via Linguistically Natural And Diverse Datasets"
+title: Improving Multilingual Instruction Finetuning Via Linguistically Natural And Diverse Datasets
 authors: Indurthi Sathish Reddy, Zhou Wenxuan, Chollampatt Shamil, Agrawal Ravi, Song Kaiqiang, Zhao Lingxiao, Zhu Chenguang
 conference: "Arxiv"
 year: 2024

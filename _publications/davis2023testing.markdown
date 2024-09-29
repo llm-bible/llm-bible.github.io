@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Testing GPT-4 With Wolfram Alpha And Code Interpreter Plug-ins On Math And Science Problems"
+title: Testing GPT-4 With Wolfram Alpha And Code Interpreter Plug-ins On Math And Science Problems
 authors: Davis Ernest, Aaronson Scott
 conference: "Arxiv"
 year: 2023

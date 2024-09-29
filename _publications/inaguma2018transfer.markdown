@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Transfer Learning Of Language-independent End-to-end ASR With Language Model Fusion"
+title: Transfer Learning Of Language-independent End-to-end ASR With Language Model Fusion
 authors: Inaguma Hirofumi, Cho Jaejin, Baskar Murali Karthick, Kawahara Tatsuya, Watanabe Shinji
 conference: "Arxiv"
 year: 2018

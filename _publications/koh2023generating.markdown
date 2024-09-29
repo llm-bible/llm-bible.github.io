@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Generating Images With Multimodal Language Models"
+title: Generating Images With Multimodal Language Models
 authors: Koh Jing Yu, Fried Daniel, Salakhutdinov Ruslan
 conference: "Arxiv"
 year: 2023

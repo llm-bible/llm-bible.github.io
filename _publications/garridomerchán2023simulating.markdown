@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Simulating H.P. Lovecraft Horror Literature With The Chatgpt Large Language Model"
+title: Simulating H.P. Lovecraft Horror Literature With The Chatgpt Large Language Model
 authors: Garrido-merchán Eduardo C., Arroyo-barrigüete José Luis, Gozalo-brizuela Roberto
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Position-enhanced Visual Instruction Tuning For Multimodal Large Language Models"
+title: Position-enhanced Visual Instruction Tuning For Multimodal Large Language Models
 authors: Chen Chi, Qin Ruoyu, Luo Fuwen, Mi Xiaoyue, Li Peng, Sun Maosong, Liu Yang
 conference: "Arxiv"
 year: 2023

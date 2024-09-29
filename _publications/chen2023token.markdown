@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Token Prediction As Implicit Classification To Identify Llm-generated Text"
+title: Token Prediction As Implicit Classification To Identify Llm-generated Text
 authors: Chen Yutian, Kang Hao, Zhai Vivian, Li Liangze, Singh Rita, Raj Bhiksha
 conference: "Arxiv"
 year: 2023

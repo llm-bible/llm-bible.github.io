@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Model-based Human-agent Collaboration For Complex Task Solving"
+title: Large Language Model-based Human-agent Collaboration For Complex Task Solving
 authors: Feng Xueyang, Chen Zhi-yuan, Qin Yujia, Lin Yankai, Chen Xu, Liu Zhiyuan, Wen Ji-rong
 conference: "Arxiv"
 year: 2024

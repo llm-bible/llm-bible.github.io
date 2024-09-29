@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Zero-shot Query Reformulation For Conversational Search"
+title: Zero-shot Query Reformulation For Conversational Search
 authors: Yang Dayu, Zhang Yue, Fang Hui
 conference: "Arxiv"
 year: 2023

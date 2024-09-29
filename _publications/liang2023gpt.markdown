@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "GPT Detectors Are Biased Against Non-native English Writers"
+title: GPT Detectors Are Biased Against Non-native English Writers
 authors: Liang Weixin, Yuksekgonul Mert, Mao Yining, Wu Eric, Zou James
 conference: "Arxiv"
 year: 2023

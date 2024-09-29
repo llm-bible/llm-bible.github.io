@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards A Mechanistic Interpretation Of Multi-step Reasoning Capabilities Of Language Models"
+title: Towards A Mechanistic Interpretation Of Multi-step Reasoning Capabilities Of Language Models
 authors: Hou Yifan, Li Jiaoda, Fei Yu, Stolfo Alessandro, Zhou Wangchunshu, Zeng Guangtao, Bosselut Antoine, Sachan Mrinmaya
 conference: "Arxiv"
 year: 2023

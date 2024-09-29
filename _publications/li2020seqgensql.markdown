@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Seqgensql -- A Robust Sequence Generation Model For Structured Query Language"
+title: Seqgensql -- A Robust Sequence Generation Model For Structured Query Language
 authors: Li Ning, Keller Bethany, Butler Mark, Cer Daniel
 conference: "Arxiv"
 year: 2020

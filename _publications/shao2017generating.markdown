@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Generating High-quality And Informative Conversation Responses With Sequence-to-sequence Models"
+title: Generating High-quality And Informative Conversation Responses With Sequence-to-sequence Models
 authors: Shao Louis, Gouws Stephan, Britz Denny, Goldie Anna, Strope Brian, Kurzweil Ray
 conference: "Arxiv"
 year: 2017

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Knowledge-aware Language Model Pretraining"
+title: Knowledge-aware Language Model Pretraining
 authors: Rosset Corby, Xiong Chenyan, Phan Minh, Song Xia, Bennett Paul, Tiwary Saurabh
 conference: "Arxiv"
 year: 2020

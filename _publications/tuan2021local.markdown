@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Local Explanation Of Dialogue Response Generation"
+title: Local Explanation Of Dialogue Response Generation
 authors: Tuan Yi-lin, Pryor Connor, Chen Wenhu, Getoor Lise, Wang William Yang
 conference: "Arxiv"
 year: 2021

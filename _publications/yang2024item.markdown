@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Item-language Model For Conversational Recommendation"
+title: Item-language Model For Conversational Recommendation
 authors: Yang Li, Subbiah Anushya, Patel Hardik, Li Judith Yue, Song Yanwei, Mirghaderi Reza, Aggarwal Vikram
 conference: "Arxiv"
 year: 2024

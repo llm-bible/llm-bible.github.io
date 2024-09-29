@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Enabling Weak Llms To Judge Response Reliability Via Meta Ranking"
+title: Enabling Weak Llms To Judge Response Reliability Via Meta Ranking
 authors: Liu Zijun, Kou Boqun, Li Peng, Yan Ming, Zhang Ji, Huang Fei, Liu Yang
 conference: "Arxiv"
 year: 2024

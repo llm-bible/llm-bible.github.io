@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Revealing The Dark Secrets Of BERT"
+title: Revealing The Dark Secrets Of BERT
 authors: Kovaleva Olga, Romanov Alexey, Rogers Anna, Rumshisky Anna
 conference: "Arxiv"
 year: 2019

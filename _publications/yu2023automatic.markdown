@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Reeval: Automatic Hallucination Evaluation For Retrieval-augmented Large Language Models Via Transferable Adversarial Attacks"
+title: Reeval: Automatic Hallucination Evaluation For Retrieval-augmented Large Language Models Via Transferable Adversarial Attacks
 authors: Yu Xiaodong, Cheng Hao, Liu Xiaodong, Roth Dan, Gao Jianfeng
 conference: "Arxiv"
 year: 2023

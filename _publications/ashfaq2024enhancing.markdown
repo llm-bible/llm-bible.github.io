@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Enhancing Holonic Architecture With Natural Language Processing For System Of Systems"
+title: Enhancing Holonic Architecture With Natural Language Processing For System Of Systems
 authors: Ashfaq Muhammad, Sadik Ahmed R., Mikkonen Tommi, Waseem Muhammad, Akitalo Niko M
 conference: "Arxiv"
 year: 2024

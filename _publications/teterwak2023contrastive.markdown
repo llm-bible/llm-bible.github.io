@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "CLAMP: Contrastive Language Model Prompt-tuning"
+title: CLAMP: Contrastive Language Model Prompt-tuning
 authors: Teterwak Piotr, Sun Ximeng, Plummer Bryan A., Saenko Kate, Lim Ser-nam
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "SALM: Speech-augmented Language Model With In-context Learning For Speech Recognition And Translation"
+title: SALM: Speech-augmented Language Model With In-context Learning For Speech Recognition And Translation
 authors: Chen Zhehuai, Huang He, Andrusenko Andrei, Hrinchuk Oleksii, Puvvada Krishna C., Li Jason, Ghosh Subhankar, Balam Jagadeesh, Ginsburg Boris
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On Measuring Faithfulness Or Self-consistency Of Natural Language Explanations"
+title: On Measuring Faithfulness Or Self-consistency Of Natural Language Explanations
 authors: Parcalabescu Letitia, Frank Anette
 conference: "Arxiv"
 year: 2023

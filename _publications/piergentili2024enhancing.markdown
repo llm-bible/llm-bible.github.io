@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Enhancing Gender-inclusive Machine Translation With Neomorphemes And Large Language Models"
+title: Enhancing Gender-inclusive Machine Translation With Neomorphemes And Large Language Models
 authors: Piergentili Andrea, Savoldi Beatrice, Negri Matteo, Bentivogli Luisa
 conference: "Arxiv"
 year: 2024

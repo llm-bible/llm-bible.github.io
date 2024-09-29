@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Are Large Language Models Good At Utility Judgments?"
+title: Are Large Language Models Good At Utility Judgments?
 authors: Zhang Hengran, Zhang Ruqing, Guo Jiafeng, De Rijke Maarten, Fan Yixing, Cheng Xueqi
 conference: "Arxiv"
 year: 2024

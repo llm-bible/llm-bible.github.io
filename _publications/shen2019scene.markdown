@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Scene-based Factored Attention For Image Captioning"
+title: Scene-based Factored Attention For Image Captioning
 authors: Shen Chen, Ji Rongrong, Chen Fuhai, Sun Xiaoshuai, Li Xiangming
 conference: "Arxiv"
 year: 2019

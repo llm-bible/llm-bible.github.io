@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Sentence Semantic Regression For Text Generation"
+title: Sentence Semantic Regression For Text Generation
 authors: Wang Wei, Li Piji, Zheng Hai-tao
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Help Me Write A Poem: Instruction Tuning As A Vehicle For Collaborative Poetry Writing"
+title: Help Me Write A Poem: Instruction Tuning As A Vehicle For Collaborative Poetry Writing
 authors: Tuhin Chakrabarty, Vishakh Padmakumar, He He
 conference: "Arxiv"
 year: 2022

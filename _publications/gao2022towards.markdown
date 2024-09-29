@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "WAVPROMPT: Towards Few-shot Spoken Language Understanding With Frozen Language Models"
+title: WAVPROMPT: Towards Few-shot Spoken Language Understanding With Frozen Language Models
 authors: Gao Heting, Ni Junrui, Qian Kaizhi, Zhang Yang, Chang Shiyu, Hasegawa-johnson Mark
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Stateful Large Language Model Serving With Pensieve"
+title: Stateful Large Language Model Serving With Pensieve
 authors: Yu Lingfan, Li Jinyang
 conference: "Arxiv"
 year: 2023

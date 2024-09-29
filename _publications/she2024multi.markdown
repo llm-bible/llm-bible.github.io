@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mammothmoda: Multi-modal Large Language Model"
+title: Mammothmoda: Multi-modal Large Language Model
 authors: She Qi, Pan Junwen, Wan Xin, Zhang Rui, Lu Dawei, Huang Kai
 conference: "Arxiv"
 year: 2024

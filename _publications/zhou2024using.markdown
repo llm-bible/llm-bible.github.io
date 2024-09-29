@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Using Pretrained Large Language Model With Prompt Engineering To Answer Biomedical Questions"
+title: Using Pretrained Large Language Model With Prompt Engineering To Answer Biomedical Questions
 authors: Zhou Wenxin, Ngo Thuy Hang
 conference: "Arxiv"
 year: 2024

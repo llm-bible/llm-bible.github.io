@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dynamic Self-consistency: Leveraging Reasoning Paths For Efficient LLM Sampling"
+title: Dynamic Self-consistency: Leveraging Reasoning Paths For Efficient LLM Sampling
 authors: Wan Guangya, Wu Yuqi, Chen Jie, Li Sheng
 conference: "Arxiv"
 year: 2024

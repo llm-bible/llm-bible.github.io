@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multilingual Brain Surgeon: Large Language Models Can Be Compressed Leaving No Language Behind"
+title: Multilingual Brain Surgeon: Large Language Models Can Be Compressed Leaving No Language Behind
 authors: Zeng Hongchuan, Xu Hongshen, Chen Lu, Yu Kai
 conference: "Arxiv"
 year: 2024

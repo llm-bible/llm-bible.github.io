@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Summary Of Chatgpt-related Research And Perspective Towards The Future Of Large Language Models"
+title: Summary Of Chatgpt-related Research And Perspective Towards The Future Of Large Language Models
 authors: Liu Yiheng, Han Tianle, Ma Siyuan, Zhang Jiayue, Yang Yuanyuan, Tian Jiaming, He Hao, Li Antong, He Mengshen, Liu Zhengliang, Wu Zihao, Zhao Lin, Zhu Dajiang, Li Xiang, Qiang Ning, Shen Dingang, Liu Tianming, Ge Bao
 conference: "Meta-Radiology"
 year: 2023

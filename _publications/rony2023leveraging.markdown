@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Carexpert: Leveraging Large Language Models For In-car Conversational Question Answering"
+title: Carexpert: Leveraging Large Language Models For In-car Conversational Question Answering
 authors: Rony Md Rashad Al Hasan, Suess Christian, Bhat Sinchana Ramakanth, Sudhi Viju, Schneider Julia, Vogel Maximilian, Teucher Roman, Friedl Ken E., Sahoo Soumya
 conference: "Arxiv"
 year: 2023

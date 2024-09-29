@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Query-utterance Attention With Joint Modeling For Query-focused Meeting Summarization"
+title: Query-utterance Attention With Joint Modeling For Query-focused Meeting Summarization
 authors: Liu Xingxian, Duan Bin, Xiao Bo, Xu Yajing
 conference: "Arxiv"
 year: 2023

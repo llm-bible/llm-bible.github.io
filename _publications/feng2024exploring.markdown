@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring Automated Distractor Generation For Math Multiple-choice Questions Via Large Language Models"
+title: Exploring Automated Distractor Generation For Math Multiple-choice Questions Via Large Language Models
 authors: Feng Wanyong, Lee Jaewook, Mcnichols Hunter, Scarlatos Alexander, Smith Digory, Woodhead Simon, Ornelas Nancy Otero, Lan Andrew
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Dynamic Prompt Learning Via Policy Gradient For Semi-structured Mathematical Reasoning"
+title: Dynamic Prompt Learning Via Policy Gradient For Semi-structured Mathematical Reasoning
 authors: Pan Lu, Liang Qiu, Kai-wei Chang, Ying Nian Wu, Song-chun Zhu, Tanmay Rajpurohit, Peter Clark, Ashwin Kalyan
 conference: "Arxiv"
 year: 2022

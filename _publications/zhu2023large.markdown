@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models Can Learn Rules"
+title: Large Language Models Can Learn Rules
 authors: Zhu Zhaocheng, Xue Yuan, Chen Xinyun, Zhou Denny, Tang Jian, Schuurmans Dale, Dai Hanjun
 conference: "Arxiv"
 year: 2023

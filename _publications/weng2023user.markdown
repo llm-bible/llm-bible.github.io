@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Lmtuner: An User-friendly And Highly-integrable Training Framework For Fine-tuning Large Language Models"
+title: Lmtuner: An User-friendly And Highly-integrable Training Framework For Fine-tuning Large Language Models
 authors: Weng Yixuan, Wang Zhiqi, Liao Huanxuan, He Shizhu, Liu Shengping, Liu Kang, Zhao Jun
 conference: "Arxiv"
 year: 2023

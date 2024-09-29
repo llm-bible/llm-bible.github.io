@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Uni-moe: Scaling Unified Multimodal Llms With Mixture Of Experts"
+title: Uni-moe: Scaling Unified Multimodal Llms With Mixture Of Experts
 authors: Li Yunxin, Jiang Shenyuan, Hu Baotian, Wang Longyue, Zhong Wanqi, Luo Wenhan, Ma Lin, Zhang Min
 conference: "Arxiv"
 year: 2024

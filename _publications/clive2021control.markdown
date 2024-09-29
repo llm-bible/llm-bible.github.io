@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Control Prefixes For Parameter-efficient Text Generation"
+title: Control Prefixes For Parameter-efficient Text Generation
 authors: Clive Jordan, Cao Kris, Rei Marek
 conference: "Arxiv"
 year: 2021

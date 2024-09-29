@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Closer Look At Logical Reasoning With Llms: The Choice Of Tool Matters"
+title: A Closer Look At Logical Reasoning With Llms: The Choice Of Tool Matters
 authors: Lam Long Hei Matthew, Thatikonda Ramya Keerthy, Shareghi Ehsan
 conference: "Arxiv"
 year: 2024

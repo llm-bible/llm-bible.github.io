@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Yarn: Efficient Context Window Extension Of Large Language Models"
+title: Yarn: Efficient Context Window Extension Of Large Language Models
 authors: Peng Bowen, Quesnelle Jeffrey, Fan Honglu, Shippole Enrico
 conference: "Arxiv"
 year: 2023

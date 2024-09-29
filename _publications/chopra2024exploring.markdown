@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring Interaction Patterns For Debugging: Enhancing Conversational Capabilities Of Ai-assistants"
+title: Exploring Interaction Patterns For Debugging: Enhancing Conversational Capabilities Of Ai-assistants
 authors: Chopra Bhavya, Bajpai Yasharth, Biyani Param, Soares Gustavo, Radhakrishna Arjun, Parnin Chris, Gulwani Sumit
 conference: "Arxiv"
 year: 2024

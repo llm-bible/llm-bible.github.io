@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unlocking The Potential Of Model Merging For Low-resource Languages"
+title: Unlocking The Potential Of Model Merging For Low-resource Languages
 authors: Tao Mingxu, Zhang Chen, Huang Quzhe, Ma Tianyao, Huang Songfang, Zhao Dongyan, Feng Yansong
 conference: "Arxiv"
 year: 2024

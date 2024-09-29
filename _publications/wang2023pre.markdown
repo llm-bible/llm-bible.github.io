@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Missrec: Pre-training And Transferring Multi-modal Interest-aware Sequence Representation For Recommendation"
+title: Missrec: Pre-training And Transferring Multi-modal Interest-aware Sequence Representation For Recommendation
 authors: Wang Jinpeng, Zeng Ziyun, Wang Yunxiao, Wang Yuting, Lu Xingyu, Li Tianxiang, Yuan Jun, Zhang Rui, Zheng Hai-tao, Xia Shu-tao
 conference: "Arxiv"
 year: 2023

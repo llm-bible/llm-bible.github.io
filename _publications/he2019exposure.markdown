@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exposure Bias Versus Self-recovery: Are Distortions Really Incremental For Autoregressive Text Generation?"
+title: Exposure Bias Versus Self-recovery: Are Distortions Really Incremental For Autoregressive Text Generation?
 authors: He Tianxing, Zhang Jingzhao, Zhou Zhiming, Glass James
 conference: "EMNLP"
 year: 2019

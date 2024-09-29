@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Next: Teaching Large Language Models To Reason About Code Execution"
+title: Next: Teaching Large Language Models To Reason About Code Execution
 authors: Ni Ansong, Allamanis Miltiadis, Cohan Arman, Deng Yinlin, Shi Kensen, Sutton Charles, Yin Pengcheng
 conference: "Arxiv"
 year: 2024

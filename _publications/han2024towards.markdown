@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Robust Instruction Tuning On Multimodal Large Language Models"
+title: Towards Robust Instruction Tuning On Multimodal Large Language Models
 authors: Han Wei, Chen Hui, Poria Soujanya
 conference: "Arxiv"
 year: 2024

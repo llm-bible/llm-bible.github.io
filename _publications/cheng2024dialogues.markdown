@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ""in Dialogues We Learn": Towards Personalized Dialogue Without Pre-defined Profiles Through In-dialogue Learning"
+title: "in Dialogues We Learn": Towards Personalized Dialogue Without Pre-defined Profiles Through In-dialogue Learning
 authors: Cheng Chuanqi, Tu Quan, Wu Wei, Shang Shuo, Mao Cunli, Yu Zhengtao, Yan Rui
 conference: "Arxiv"
 year: 2024

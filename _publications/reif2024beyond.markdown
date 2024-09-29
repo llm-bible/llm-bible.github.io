@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Beyond Performance: Quantifying And Mitigating Label Bias In Llms"
+title: Beyond Performance: Quantifying And Mitigating Label Bias In Llms
 authors: Reif Yuval, Schwartz Roy
 conference: "Arxiv"
 year: 2024

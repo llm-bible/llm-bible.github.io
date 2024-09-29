@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Language-based User Profiles For Recommendation"
+title: Language-based User Profiles For Recommendation
 authors: Zhou Joyce, Dai Yijia, Joachims Thorsten
 conference: "Arxiv"
 year: 2024

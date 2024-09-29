@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chatretriever: Adapting Large Language Models For Generalized And Robust Conversational Dense Retrieval"
+title: Chatretriever: Adapting Large Language Models For Generalized And Robust Conversational Dense Retrieval
 authors: Mao Kelong, Deng Chenlong, Chen Haonan, Mo Fengran, Liu Zheng, Sakai Tetsuya, Dou Zhicheng
 conference: "Arxiv"
 year: 2024

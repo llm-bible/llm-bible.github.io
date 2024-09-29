@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Calibration Of Pre-trained Transformers"
+title: Calibration Of Pre-trained Transformers
 authors: Desai Shrey, Durrett Greg
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "WTU-EVAL: A Whether-or-not Tool Usage Evaluation Benchmark For Large Language Models"
+title: WTU-EVAL: A Whether-or-not Tool Usage Evaluation Benchmark For Large Language Models
 authors: Ning Kangyun, Su Yisong, Lv Xueqiang, Zhang Yuanzhe, Liu Jian, Liu Kang, Xu Jinan
 conference: "Arxiv"
 year: 2024

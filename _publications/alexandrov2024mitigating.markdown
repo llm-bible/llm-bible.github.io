@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mitigating Catastrophic Forgetting In Language Transfer Via Model Merging"
+title: Mitigating Catastrophic Forgetting In Language Transfer Via Model Merging
 authors: Alexandrov Anton, Raychev Veselin, Müller Mark Niklas, Zhang Ce, Vechev Martin, Toutanova Kristina
 conference: "Arxiv"
 year: 2024

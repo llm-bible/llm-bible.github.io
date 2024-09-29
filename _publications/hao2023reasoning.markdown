@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Reasoning With Language Model Is Planning With World Model"
+title: Reasoning With Language Model Is Planning With World Model
 authors: Shibo Hao, Yi Gu, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, Daisy Zhe Wang, Zhiting Hu
 conference: "Arxiv"
 year: 2023

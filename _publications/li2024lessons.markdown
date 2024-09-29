@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "52B To 1T: Lessons Learned Via Tele-flm Series"
+title: 52B To 1T: Lessons Learned Via Tele-flm Series
 authors: Li Xiang, Yao Yiqun, Jiang Xin, Fang Xuezhi, Wang Chao, Liu Xinzhang, Wang Zihan, Zhao Yu, Wang Xin, Huang Yuyao, Song Shuangyong, Li Yongxiang, Zhang Zheng, Zhao Bo, Sun Aixin, Wang Yequan, He Zhongjiang, Wang Zhongyuan, Li Xuelong, Huang Tiejun
 conference: "Arxiv"
 year: 2024

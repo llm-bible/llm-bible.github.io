@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Macgyver: Are Large Language Models Creative Problem Solvers?"
+title: Macgyver: Are Large Language Models Creative Problem Solvers?
 authors: Tian Yufei, Ravichander Abhilasha, Qin Lianhui, Bras Ronan Le, Marjieh Raja, Peng Nanyun, Choi Yejin, Griffiths Thomas L., Brahman Faeze
 conference: "Arxiv"
 year: 2023

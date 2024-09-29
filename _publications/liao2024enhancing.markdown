@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Enhancing Reinforcement Learning With Label-sensitive Reward For Natural Language Understanding"
+title: Enhancing Reinforcement Learning With Label-sensitive Reward For Natural Language Understanding
 authors: Liao Kuo, Li Shuang, Zhao Meng, Liu Liqun, Xue Mengge, Hu Zhenyu, Han Honglin, Yin Chengguo
 conference: "Arxiv"
 year: 2024

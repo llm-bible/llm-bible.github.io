@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Deepspeed-visualchat: Multi-round Multi-image Interleave Chat Via Multi-modal Causal Attention"
+title: Deepspeed-visualchat: Multi-round Multi-image Interleave Chat Via Multi-modal Causal Attention
 authors: Yao Zhewei, Wu Xiaoxia, Li Conglong, Zhang Minjia, Qin Heyang, Ruwase Olatunji, Awan Ammar Ahmad, Rajbhandari Samyam, He Yuxiong
 conference: "Arxiv"
 year: 2023

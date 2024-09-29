@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Semantic Alignment For Multimodal Large Language Models"
+title: Semantic Alignment For Multimodal Large Language Models
 authors: Wu Tao, Li Mengze, Chen Jingyuan, Ji Wei, Lin Wang, Gao Jinyang, Kuang Kun, Zhao Zhou, Wu Fei
 conference: "Arxiv"
 year: 2024

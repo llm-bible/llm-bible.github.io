@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating Chatgpt As A Question Answering System: A Comprehensive Analysis And Comparison With Existing Models"
+title: Evaluating Chatgpt As A Question Answering System: A Comprehensive Analysis And Comparison With Existing Models
 authors: Bahak Hossein, Taheri Farzaneh, Zojaji Zahra, Kazemi Arefeh
 conference: "Arxiv"
 year: 2023

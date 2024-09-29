@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Modular Task-oriented Dialogue System Using A Neural Mixture-of-experts"
+title: A Modular Task-oriented Dialogue System Using A Neural Mixture-of-experts
 authors: Pei Jiahuan, Ren Pengjie, De Rijke Maarten
 conference: "Arxiv"
 year: 2019

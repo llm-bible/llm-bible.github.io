@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can Language Models Learn From Explanations In Context?"
+title: Can Language Models Learn From Explanations In Context?
 authors: Andrew K. Lampinen, Ishita Dasgupta, Stephanie C. Y. Chan, Kory Matthewson, Michael Henry Tessler, Antonia Creswell, James L. Mcclelland, Jane X. Wang, Felix Hill
 conference: "Arxiv"
 year: 2022

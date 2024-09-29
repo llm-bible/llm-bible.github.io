@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Can I Understand What I Create? Self-knowledge Evaluation Of Large Language Models"
+title: Can I Understand What I Create? Self-knowledge Evaluation Of Large Language Models
 authors: Tan Zhiquan, Wei Lai, Wang Jindong, Xie Xing, Huang Weiran
 conference: "Arxiv"
 year: 2024

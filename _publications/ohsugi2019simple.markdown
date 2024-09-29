@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Simple But Effective Method To Incorporate Multi-turn Context With BERT For Conversational Machine Comprehension"
+title: A Simple But Effective Method To Incorporate Multi-turn Context With BERT For Conversational Machine Comprehension
 authors: Ohsugi Yasuhito, Saito Itsumi, Nishida Kyosuke, Asano Hisako, Tomita Junji
 conference: "Arxiv"
 year: 2019

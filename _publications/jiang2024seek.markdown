@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Seek And Solve Reasoning For Table Question Answering"
+title: Seek And Solve Reasoning For Table Question Answering
 authors: Jiang Ruya, Wang Chun, Deng Weihong
 conference: "Arxiv"
 year: 2024

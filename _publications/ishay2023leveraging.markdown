@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Leveraging Large Language Models To Generate Answer Set Programs"
+title: Leveraging Large Language Models To Generate Answer Set Programs
 authors: Ishay Adam, Yang Zhun, Lee Joohyung
 conference: "Arxiv"
 year: 2023

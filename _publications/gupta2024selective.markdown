@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Selective Self-rehearsal: A Fine-tuning Approach To Improve Generalization In Large Language Models"
+title: Selective Self-rehearsal: A Fine-tuning Approach To Improve Generalization In Large Language Models
 authors: Gupta Sonam, Nandwani Yatin, Yehudai Asaf, Mishra Mayank, Pandey Gaurav, Raghu Dinesh, Joshi Sachindra
 conference: "Arxiv"
 year: 2024

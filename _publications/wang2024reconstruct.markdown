@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Reconstruct The Pruned Model Without Any Retraining"
+title: Reconstruct The Pruned Model Without Any Retraining
 authors: Wang Pingjie, Fan Ziqing, Hu Shengchao, Chen Zhe, Wang Yanfeng, Wang Yu
 conference: "Arxiv"
 year: 2024

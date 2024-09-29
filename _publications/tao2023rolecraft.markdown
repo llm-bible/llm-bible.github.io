@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Rolecraft-glm: Advancing Personalized Role-playing In Large Language Models"
+title: Rolecraft-glm: Advancing Personalized Role-playing In Large Language Models
 authors: Tao Meiling, Liang Xuechen, Shi Tianyu, Yu Lei, Xie Yiting
 conference: "Arxiv"
 year: 2023

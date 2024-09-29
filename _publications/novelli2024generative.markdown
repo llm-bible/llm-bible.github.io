@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Generative AI In EU Law: Liability, Privacy, Intellectual Property, And Cybersecurity"
+title: Generative AI In EU Law: Liability, Privacy, Intellectual Property, And Cybersecurity
 authors: Novelli Claudio, Casolari Federico, Hacker Philipp, Spedicato Giorgio, Floridi Luciano
 conference: "Arxiv"
 year: 2024

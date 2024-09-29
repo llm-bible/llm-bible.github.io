@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Iterative Length-regularized Direct Preference Optimization: A Case Study On Improving 7B Language Models To GPT-4 Level"
+title: Iterative Length-regularized Direct Preference Optimization: A Case Study On Improving 7B Language Models To GPT-4 Level
 authors: Liu Jie, Zhou Zhanhui, Liu Jiaheng, Bu Xingyuan, Yang Chao, Zhong Han-sen, Ouyang Wanli
 conference: "Arxiv"
 year: 2024

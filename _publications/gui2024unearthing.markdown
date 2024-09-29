@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Iepile: Unearthing Large-scale Schema-based Information Extraction Corpus"
+title: Iepile: Unearthing Large-scale Schema-based Information Extraction Corpus
 authors: Gui Honghao, Yuan Lin, Ye Hongbin, Zhang Ningyu, Sun Mengshu, Liang Lei, Chen Huajun
 conference: "Arxiv"
 year: 2024

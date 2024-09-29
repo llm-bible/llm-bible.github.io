@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "SPML: A DSL For Defending Language Models Against Prompt Attacks"
+title: SPML: A DSL For Defending Language Models Against Prompt Attacks
 authors: Sharma Reshabh K, Gupta Vinayak, Grossman Dan
 conference: "Arxiv"
 year: 2024

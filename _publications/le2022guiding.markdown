@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Guiding Visual Question Answering With Attention Priors"
+title: Guiding Visual Question Answering With Attention Priors
 authors: Le Thao Minh, Le Vuong, Gupta Sunil, Venkatesh Svetha, Tran Truyen
 conference: "Arxiv"
 year: 2022

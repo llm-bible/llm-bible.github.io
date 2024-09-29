@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "LLM Cognitive Judgements Differ From Human"
+title: LLM Cognitive Judgements Differ From Human
 authors: Lamprinidis Sotiris
 conference: "Arxiv"
 year: 2023

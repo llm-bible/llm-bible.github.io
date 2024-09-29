@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Supervisory Prompt Training"
+title: Supervisory Prompt Training
 authors: Billa Jean Ghislain, Oh Min, Du Liang
 conference: "Arxiv"
 year: 2024

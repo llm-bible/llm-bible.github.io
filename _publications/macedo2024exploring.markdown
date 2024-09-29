@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring The Impact Of The Output Format On The Evaluation Of Large Language Models For Code Translation"
+title: Exploring The Impact Of The Output Format On The Evaluation Of Large Language Models For Code Translation
 authors: Macedo Marcos, Tian Yuan, Cogo Filipe R., Adams Bram
 conference: "Arxiv"
 year: 2024

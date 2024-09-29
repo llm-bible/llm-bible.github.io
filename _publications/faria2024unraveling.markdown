@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Unraveling The Dominance Of Large Language Models Over Transformer Models For Bangla Natural Language Inference: A Comprehensive Study"
+title: Unraveling The Dominance Of Large Language Models Over Transformer Models For Bangla Natural Language Inference: A Comprehensive Study
 authors: Faria Fatema Tuj Johora, Moin Mukaffi Bin, Fahim Asif Iftekher, Debnath Pronay, Shah Faisal Muhammad
 conference: "Arxiv"
 year: 2024

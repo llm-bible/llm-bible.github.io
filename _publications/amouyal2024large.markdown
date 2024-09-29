@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models For Psycholinguistic Plausibility Pretesting"
+title: Large Language Models For Psycholinguistic Plausibility Pretesting
 authors: Amouyal Samuel Joseph, Meltzer-asscher Aya, Berant Jonathan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Aligning Large Language Models With Human: A Survey"
+title: Aligning Large Language Models With Human: A Survey
 authors: Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu
 conference: "Arxiv"
 year: 2023

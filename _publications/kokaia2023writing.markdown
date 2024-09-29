@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Writing Your Own Book: A Method For Going From Closed To Open Book QA To Improve Robustness And Performance Of Smaller Llms"
+title: Writing Your Own Book: A Method For Going From Closed To Open Book QA To Improve Robustness And Performance Of Smaller Llms
 authors: Kokaia Giorgi, Sinha Pratyush, Jiang Yutong, Boujemaa Nozha
 conference: "Arxiv"
 year: 2023

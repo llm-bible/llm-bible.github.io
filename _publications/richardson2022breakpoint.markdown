@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Breakpoint Transformers For Modeling And Tracking Intermediate Beliefs"
+title: Breakpoint Transformers For Modeling And Tracking Intermediate Beliefs
 authors: Richardson Kyle, Tamari Ronen, Sultan Oren, Tsarfaty Reut, Shahaf Dafna, Sabharwal Ashish
 conference: "Arxiv"
 year: 2022

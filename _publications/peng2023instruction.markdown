@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Instruction Tuning With GPT-4"
+title: Instruction Tuning With GPT-4
 authors: Peng Baolin, Li Chunyuan, He Pengcheng, Galley Michel, Gao Jianfeng
 conference: "Arxiv"
 year: 2023

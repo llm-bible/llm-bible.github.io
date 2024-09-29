@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Reinforcement Learning In The Era Of Llms: What Is Essential? What Is Needed? An RL Perspective On RLHF, Prompting, And Beyond"
+title: Reinforcement Learning In The Era Of Llms: What Is Essential? What Is Needed? An RL Perspective On RLHF, Prompting, And Beyond
 authors: Sun Hao
 conference: "Arxiv"
 year: 2023

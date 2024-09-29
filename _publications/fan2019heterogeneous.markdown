@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Heterogeneous Memory Enhanced Multimodal Attention Model For Video Question Answering"
+title: Heterogeneous Memory Enhanced Multimodal Attention Model For Video Question Answering
 authors: Fan Chenyou, Zhang Xiaofan, Zhang Shu, Wang Wensheng, Zhang Chi, Huang Heng
 conference: "Arxiv"
 year: 2019

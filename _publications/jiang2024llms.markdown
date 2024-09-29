@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Llms Can Find Mathematical Reasoning Mistakes By Pedagogical Chain-of-thought"
+title: Llms Can Find Mathematical Reasoning Mistakes By Pedagogical Chain-of-thought
 authors: Jiang Zhuoxuan, Peng Haoyuan, Feng Shanshan, Li Fan, Li Dongsheng
 conference: "Arxiv"
 year: 2024

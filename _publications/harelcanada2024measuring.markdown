@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Measuring Psychological Depth In Language Models"
+title: Measuring Psychological Depth In Language Models
 authors: Harel-canada Fabrice, Zhou Hanyu, Mupalla Sreya, Yildiz Zeynep, Sahai Amit, Peng Nanyun
 conference: "Arxiv"
 year: 2024

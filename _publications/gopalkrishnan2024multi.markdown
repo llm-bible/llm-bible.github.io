@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multi-frame, Lightweight & Efficient Vision-language Models For Question Answering In Autonomous Driving"
+title: Multi-frame, Lightweight & Efficient Vision-language Models For Question Answering In Autonomous Driving
 authors: Gopalkrishnan Akshay, Greer Ross, Trivedi Mohan
 conference: "Arxiv"
 year: 2024

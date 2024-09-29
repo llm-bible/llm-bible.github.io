@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "An Explanation Of In-context Learning As Implicit Bayesian Inference"
+title: An Explanation Of In-context Learning As Implicit Bayesian Inference
 authors: Xie Sang Michael, Raghunathan Aditi, Liang Percy, Ma Tengyu
 conference: "Arxiv"
 year: 2021

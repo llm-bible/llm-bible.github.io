@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Masterkey: Automated Jailbreak Across Multiple Large Language Model Chatbots"
+title: Masterkey: Automated Jailbreak Across Multiple Large Language Model Chatbots
 authors: Deng Gelei, Liu Yi, Li Yuekang, Wang Kailong, Zhang Ying, Li Zefeng, Wang Haoyu, Zhang Tianwei, Liu Yang
 conference: "The Network and Distributed System Security Symposium"
 year: 2023

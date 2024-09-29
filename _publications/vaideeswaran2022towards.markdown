@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Reasoning-aware Explainable VQA"
+title: Towards Reasoning-aware Explainable VQA
 authors: Vaideeswaran Rakesh, Gao Feng, Mathur Abhinav, Thattai Govind
 conference: "Arxiv"
 year: 2022

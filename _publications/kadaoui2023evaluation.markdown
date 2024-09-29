@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "TARJAMAT: Evaluation Of Bard And Chatgpt On Machine Translation Of Ten Arabic Varieties"
+title: TARJAMAT: Evaluation Of Bard And Chatgpt On Machine Translation Of Ten Arabic Varieties
 authors: Kadaoui Karima, Magdy Samar M., Waheed Abdul, Khondaker Md Tawkat Islam, El-shangiti Ahmed Oumar, Nagoudi El Moatez Billah, Abdul-mageed Muhammad
 conference: "Arxiv"
 year: 2023

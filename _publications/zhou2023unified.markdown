@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Infmllm: A Unified Framework For Visual-language Tasks"
+title: Infmllm: A Unified Framework For Visual-language Tasks
 authors: Zhou Qiang, Wang Zhibin, Chu Wei, Xu Yinghui, Li Hao, Qi Yuan
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Exploring The Capabilities Of Chatgpt In Ancient Chinese Translation And Person Name Recognition"
+title: Exploring The Capabilities Of Chatgpt In Ancient Chinese Translation And Person Name Recognition
 authors: Si Shijing, Zhou Siqing, Tang Le, Cheng Xiaoqing, Zhang Yugui
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "An Intermediate Fusion Vit Enables Efficient Text-image Alignment In Diffusion Models"
+title: An Intermediate Fusion Vit Enables Efficient Text-image Alignment In Diffusion Models
 authors: Hu Zizhao, Jia Shaochong, Rostami Mohammad
 conference: "Arxiv"
 year: 2024

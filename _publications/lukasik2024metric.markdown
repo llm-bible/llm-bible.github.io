@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Metric-aware LLM Inference For Regression And Scoring"
+title: Metric-aware LLM Inference For Regression And Scoring
 authors: Lukasik Michal, Narasimhan Harikrishna, Menon Aditya Krishna, Yu Felix, Kumar Sanjiv
 conference: "Arxiv"
 year: 2024

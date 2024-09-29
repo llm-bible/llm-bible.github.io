@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Performance Of Chatgpt-3.5 And GPT-4 On The United States Medical Licensing Examination With And Without Distractions"
+title: Performance Of Chatgpt-3.5 And GPT-4 On The United States Medical Licensing Examination With And Without Distractions
 authors: Safrai Myriam, Azaria Amos
 conference: "Arxiv"
 year: 2023

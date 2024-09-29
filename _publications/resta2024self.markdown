@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Self-generated Replay Memories For Continual Neural Machine Translation"
+title: Self-generated Replay Memories For Continual Neural Machine Translation
 authors: Resta Michele, Bacciu Davide
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Careful Examination Of Large Language Model Performance On Grade School Arithmetic"
+title: A Careful Examination Of Large Language Model Performance On Grade School Arithmetic
 authors: Zhang Hugh, Da Jeff, Lee Dean, Robinson Vaughn, Wu Catherine, Song Will, Zhao Tiffany, Raja Pranav, Slack Dylan, Lyu Qin, Hendryx Sean, Kaplan Russell, Lunati Michele, Yue Summer
 conference: "Arxiv"
 year: 2024

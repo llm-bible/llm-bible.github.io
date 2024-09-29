@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Enabling Multi-source Neural Machine Translation By Concatenating Source Sentences In Multiple Languages"
+title: Enabling Multi-source Neural Machine Translation By Concatenating Source Sentences In Multiple Languages
 authors: Dabre Raj, Cromieres Fabien, Kurohashi Sadao
 conference: "Arxiv"
 year: 2017

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving Knowledge Extraction From Llms For Task Learning Through Agent Analysis"
+title: Improving Knowledge Extraction From Llms For Task Learning Through Agent Analysis
 authors: Kirk James R., Wray Robert E., Lindes Peter, Laird John E.
 conference: "Arxiv"
 year: 2023

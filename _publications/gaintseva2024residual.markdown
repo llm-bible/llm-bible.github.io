@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "RAVE: Residual Vector Embedding For Clip-guided Backlit Image Enhancement"
+title: RAVE: Residual Vector Embedding For Clip-guided Backlit Image Enhancement
 authors: Gaintseva Tatiana, Benning Martin, Slabaugh Gregory
 conference: "Arxiv"
 year: 2024

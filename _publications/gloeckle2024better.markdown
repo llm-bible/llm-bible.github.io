@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Better & Faster Large Language Models Via Multi-token Prediction"
+title: Better & Faster Large Language Models Via Multi-token Prediction
 authors: Gloeckle Fabian, Idrissi Badr Youbi, Rozière Baptiste, Lopez-paz David, Synnaeve Gabriel
 conference: "Arxiv"
 year: 2024

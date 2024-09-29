@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Group Preference Optimization: Few-shot Alignment Of Large Language Models"
+title: Group Preference Optimization: Few-shot Alignment Of Large Language Models
 authors: Zhao Siyan, Dang John, Grover Aditya
 conference: "Arxiv"
 year: 2023

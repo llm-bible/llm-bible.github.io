@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Ai-augmented Brainwriting: Investigating The Use Of Llms In Group Ideation"
+title: Ai-augmented Brainwriting: Investigating The Use Of Llms In Group Ideation
 authors: Shaer Orit, Cooper Angelora, Mokryn Osnat, Kun Andrew L., Shoshan Hagit Ben
 conference: "Arxiv"
 year: 2024

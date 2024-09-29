@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Structbert: Incorporating Language Structures Into Pre-training For Deep Language Understanding"
+title: Structbert: Incorporating Language Structures Into Pre-training For Deep Language Understanding
 authors: Wang Wei, Bi Bin, Yan Ming, Wu Chen, Bao Zuyi, Xia Jiangnan, Peng Liwei, Si Luo
 conference: "Arxiv"
 year: 2019

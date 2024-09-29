@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Retrieval-augmented Image Captioning"
+title: Retrieval-augmented Image Captioning
 authors: Ramos Rita, Elliott Desmond, Martins Bruno
 conference: "EACL"
 year: 2023

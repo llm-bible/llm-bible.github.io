@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Customizing Language Models With Instance-wise Lora For Sequential Recommendation"
+title: Customizing Language Models With Instance-wise Lora For Sequential Recommendation
 authors: Kong Xiaoyu, Wu Jiancan, Zhang An, Sheng Leheng, Lin Hui, Wang Xiang, He Xiangnan
 conference: "Arxiv"
 year: 2024

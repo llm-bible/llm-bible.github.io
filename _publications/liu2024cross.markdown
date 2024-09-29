@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Chatzero:zero-shot Cross-lingual Dialogue Generation Via Pseudo-target Language"
+title: Chatzero:zero-shot Cross-lingual Dialogue Generation Via Pseudo-target Language
 authors: Liu Yongkang, Shi Feng, Wang Daling, Zhang Yifei, Schütze Hinrich
 conference: "ECAI"
 year: 2024

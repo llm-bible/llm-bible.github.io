@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Are Large Language Models True Healthcare Jacks-of-all-trades? Benchmarking Across Health Professions Beyond Physician Exams"
+title: Are Large Language Models True Healthcare Jacks-of-all-trades? Benchmarking Across Health Professions Beyond Physician Exams
 authors: Luo Zheheng, Yuan Chenhan, Xie Qianqian, Ananiadou Sophia
 conference: "Arxiv"
 year: 2024

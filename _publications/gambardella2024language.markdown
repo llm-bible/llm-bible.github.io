@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Language Models Do Hard Arithmetic Tasks Easily And Hardly Do Easy Arithmetic Tasks"
+title: Language Models Do Hard Arithmetic Tasks Easily And Hardly Do Easy Arithmetic Tasks
 authors: Gambardella Andrew, Iwasawa Yusuke, Matsuo Yutaka
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Combo Of Thinking And Observing For Outside-knowledge VQA"
+title: Combo Of Thinking And Observing For Outside-knowledge VQA
 authors: Si Qingyi, Mo Yuchen, Lin Zheng, Ji Huishan, Wang Weiping
 conference: "Arxiv"
 year: 2023

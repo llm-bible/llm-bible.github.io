@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Give Us The Facts: Enhancing Large Language Models With Knowledge Graphs For Fact-aware Language Modeling"
+title: Give Us The Facts: Enhancing Large Language Models With Knowledge Graphs For Fact-aware Language Modeling
 authors: Yang Linyao, Chen Hongyang, Li Zhao, Ding Xiao, Wu Xindong
 conference: "Arxiv"
 year: 2023

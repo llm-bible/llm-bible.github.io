@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Judging The Judges: Evaluating Alignment And Vulnerabilities In Llms-as-judges"
+title: Judging The Judges: Evaluating Alignment And Vulnerabilities In Llms-as-judges
 authors: Thakur Aman Singh, Choudhary Kartik, Ramayapally Venkat Srinik, Vaidyanathan Sankaran, Hupkes Dieuwke
 conference: "Arxiv"
 year: 2024

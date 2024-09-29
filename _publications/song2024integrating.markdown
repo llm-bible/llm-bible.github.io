@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Integrating AI In College Education: Positive Yet Mixed Experiences With Chatgpt"
+title: Integrating AI In College Education: Positive Yet Mixed Experiences With Chatgpt
 authors: Song Xinrui, Zhang Jiajin, Yan Pingkun, Hahn Juergen, Kruger Uwe, Mohamed Hisham, Wang Ge
 conference: "Arxiv"
 year: 2024

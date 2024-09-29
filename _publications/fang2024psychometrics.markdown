@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "PATCH! Psychometrics-assisted Benchmarking Of Large Language Models: A Case Study Of Proficiency In 8th Grade Mathematics"
+title: PATCH! Psychometrics-assisted Benchmarking Of Large Language Models: A Case Study Of Proficiency In 8th Grade Mathematics
 authors: Fang Qixiang, Oberski Daniel L., Nguyen Dong
 conference: "Arxiv"
 year: 2024

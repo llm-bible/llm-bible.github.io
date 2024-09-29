@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Self-attentive Residual Decoder For Neural Machine Translation"
+title: Self-attentive Residual Decoder For Neural Machine Translation
 authors: Werlen Lesly Miculicich, Pappas Nikolaos, Ram Dhananjay, Popescu-belis Andrei
 conference: "Arxiv"
 year: 2017

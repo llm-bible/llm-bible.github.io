@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving Activation Steering In Language Models With Mean-centring"
+title: Improving Activation Steering In Language Models With Mean-centring
 authors: Jorgensen Ole, Cope Dylan, Schoots Nandi, Shanahan Murray
 conference: "Arxiv"
 year: 2023

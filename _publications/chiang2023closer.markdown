@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Closer Look Into Automatic Evaluation Using Large Language Models"
+title: A Closer Look Into Automatic Evaluation Using Large Language Models
 authors: Chiang Cheng-han, Lee Hung-yi
 conference: "Arxiv"
 year: 2023

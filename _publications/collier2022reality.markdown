@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "On Reality And The Limits Of Language Data: Aligning Llms With Human Norms"
+title: On Reality And The Limits Of Language Data: Aligning Llms With Human Norms
 authors: Collier Nigel H., Liu Fangyu, Shareghi Ehsan
 conference: "Arxiv"
 year: 2022

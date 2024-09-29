@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Making Pre-trained Language Models Better Continual Few-shot Relation Extractors"
+title: Making Pre-trained Language Models Better Continual Few-shot Relation Extractors
 authors: Ma Shengkun, Han Jiale, Liang Yi, Cheng Bo
 conference: "Arxiv"
 year: 2024

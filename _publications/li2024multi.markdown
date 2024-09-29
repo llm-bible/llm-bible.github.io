@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mateval: A Multi-agent Discussion Framework For Advancing Open-ended Text Evaluation"
+title: Mateval: A Multi-agent Discussion Framework For Advancing Open-ended Text Evaluation
 authors: Li Yu, Zhang Shenyu, Wu Rui, Huang Xiutian, Chen Yongrui, Xu Wenhao, Qi Guilin, Min Dehai
 conference: "Arxiv"
 year: 2024

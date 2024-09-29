@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Eliciting Personality Traits In Large Language Models"
+title: Eliciting Personality Traits In Large Language Models
 authors: Hilliard Airlie, Munoz Cristian, Wu Zekun, Koshiyama Adriano Soares
 conference: "Arxiv"
 year: 2024

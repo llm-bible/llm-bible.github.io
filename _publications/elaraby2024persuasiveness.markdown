@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Persuasiveness Of Generated Free-text Rationales In Subjective Decisions: A Case Study On Pairwise Argument Ranking"
+title: Persuasiveness Of Generated Free-text Rationales In Subjective Decisions: A Case Study On Pairwise Argument Ranking
 authors: Elaraby Mohamed, Litman Diane, Li Xiang Lorraine, Magooda Ahmed
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Towards Reinforcement Learning For Pivot-based Neural Machine Translation With Non-autoregressive Transformer"
+title: Towards Reinforcement Learning For Pivot-based Neural Machine Translation With Non-autoregressive Transformer
 authors: Tokarchuk Evgeniia, Rosendahl Jan, Wang Weiyue, Petrushkov Pavel, Lancewicki Tomer, Khadivi Shahram, Ney Hermann
 conference: "Arxiv"
 year: 2021

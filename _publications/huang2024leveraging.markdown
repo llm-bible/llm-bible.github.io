@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Leveraging Large Language Models For Enhanced NLP Task Performance Through Knowledge Distillation And Optimized Training Strategies"
+title: Leveraging Large Language Models For Enhanced NLP Task Performance Through Knowledge Distillation And Optimized Training Strategies
 authors: Huang Yining, Tang Keke, Chen Meilian
 conference: "Arxiv"
 year: 2024

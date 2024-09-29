@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Metagpt: Merging Large Language Models Using Model Exclusive Task Arithmetic"
+title: Metagpt: Merging Large Language Models Using Model Exclusive Task Arithmetic
 authors: Zhou Yuyan, Song Liang, Wang Bingning, Chen Weipeng
 conference: "Arxiv"
 year: 2024

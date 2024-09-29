@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Navgpt: Explicit Reasoning In Vision-and-language Navigation With Large Language Models"
+title: Navgpt: Explicit Reasoning In Vision-and-language Navigation With Large Language Models
 authors: Zhou Gengze, Hong Yicong, Wu Qi
 conference: "Arxiv"
 year: 2023

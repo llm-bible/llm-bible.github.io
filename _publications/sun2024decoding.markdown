@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Decoding At The Speed Of Thought: Harnessing Parallel Decoding Of Lexical Units For Llms"
+title: Decoding At The Speed Of Thought: Harnessing Parallel Decoding Of Lexical Units For Llms
 authors: Sun Chenxi, Zhang Hongzhi, Lin Zijia, Zhang Jingyuan, Zhang Fuzheng, Wang Zhongyuan, Chen Bin, Song Chengru, Zhang Di, Gai Kun, Xiong Deyi
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Selecting Better Samples From Pre-trained Llms: A Case Study On Question Generation"
+title: Selecting Better Samples From Pre-trained Llms: A Case Study On Question Generation
 authors: Yuan Xingdi, Wang Tong, Wang Yen-hsiang, Fine Emery, Abdelghani Rania, Lucas Pauline, Sauzéon Hélène, Oudeyer Pierre-yves
 conference: "Arxiv"
 year: 2022

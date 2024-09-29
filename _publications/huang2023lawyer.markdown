@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Lawyer Llama Technical Report"
+title: Lawyer Llama Technical Report
 authors: Huang Quzhe, Tao Mingxu, Zhang Chen, An Zhenwei, Jiang Cong, Chen Zhibin, Wu Zirui, Feng Yansong
 conference: "Arxiv"
 year: 2023

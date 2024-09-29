@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Matching Domain Experts By Training From Scratch On Domain Knowledge"
+title: Matching Domain Experts By Training From Scratch On Domain Knowledge
 authors: Luo Xiaoliang, Sun Guangzhi, Love Bradley C.
 conference: "Arxiv"
 year: 2024

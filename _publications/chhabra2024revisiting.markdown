@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Revisiting Zero-shot Abstractive Summarization In The Era Of Large Language Models From The Perspective Of Position Bias"
+title: Revisiting Zero-shot Abstractive Summarization In The Era Of Large Language Models From The Perspective Of Position Bias
 authors: Chhabra Anshuman, Askari Hadi, Mohapatra Prasant
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Choice Fusion As Knowledge For Zero-shot Dialogue State Tracking"
+title: Choice Fusion As Knowledge For Zero-shot Dialogue State Tracking
 authors: Su Ruolin, Yang Jingfeng, Wu Ting-wei, Juang Biing-hwang
 conference: "Arxiv"
 year: 2023

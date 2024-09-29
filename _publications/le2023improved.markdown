@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improved Instruction Ordering In Recipe-grounded Conversation"
+title: Improved Instruction Ordering In Recipe-grounded Conversation
 authors: Le Duong Minh, Guo Ruohao, Xu Wei, Ritter Alan
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Uncovering Hidden Intentions: Exploring Prompt Recovery For Deeper Insights Into Generated Texts"
+title: Uncovering Hidden Intentions: Exploring Prompt Recovery For Deeper Insights Into Generated Texts
 authors: Give Louis, Zaoral Timo, Bruno Maria Antonietta
 conference: "Arxiv"
 year: 2024

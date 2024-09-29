@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Task-oriented Conversation Generation Using Heterogeneous Memory Networks"
+title: Task-oriented Conversation Generation Using Heterogeneous Memory Networks
 authors: Lin Zehao, Huang Xinjing, Ji Feng, Chen Haiqing, Zhang Ying
 conference: "Arxiv"
 year: 2019

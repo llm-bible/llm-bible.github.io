@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Corrpus: Code-based Structured Prompting For Neurosymbolic Story Understanding"
+title: Corrpus: Code-based Structured Prompting For Neurosymbolic Story Understanding
 authors: Dong Yijiang River, Martin Lara J., Callison-burch Chris
 conference: "Findings of ACL"
 year: 2022

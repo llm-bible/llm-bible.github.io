@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Controlling Styles In Neural Machine Translation With Activation Prompt"
+title: Controlling Styles In Neural Machine Translation With Activation Prompt
 authors: Wang Yifan, Sun Zewei, Cheng Shanbo, Zheng Weiguo, Wang Mingxuan
 conference: "Arxiv"
 year: 2022

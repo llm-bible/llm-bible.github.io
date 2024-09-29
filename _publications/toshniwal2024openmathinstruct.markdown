@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Openmathinstruct-1: A 1.8 Million Math Instruction Tuning Dataset"
+title: Openmathinstruct-1: A 1.8 Million Math Instruction Tuning Dataset
 authors: Toshniwal Shubham, Moshkov Ivan, Narenthiran Sean, Gitman Daria, Jia Fei, Gitman Igor
 conference: "Arxiv"
 year: 2024

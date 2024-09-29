@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Multilingual Contrastive Decoding Via Language-agnostic Layers Skipping"
+title: Multilingual Contrastive Decoding Via Language-agnostic Layers Skipping
 authors: Zhu Wenhao, Liu Sizhe, Huang Shujian, She Shuaijie, Wendler Chris, Chen Jiajun
 conference: "Arxiv"
 year: 2024

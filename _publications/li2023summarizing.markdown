@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Summarizing Multiple Documents With Conversational Structure For Meta-review Generation"
+title: Summarizing Multiple Documents With Conversational Structure For Meta-review Generation
 authors: Li Miao, Hovy Eduard, Lau Jey Han
 conference: "Arxiv"
 year: 2023

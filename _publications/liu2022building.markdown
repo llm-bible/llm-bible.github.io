@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Building Markovian Generative Architectures Over Pretrained LM Backbones For Efficient Task-oriented Dialog Systems"
+title: Building Markovian Generative Architectures Over Pretrained LM Backbones For Efficient Task-oriented Dialog Systems
 authors: Liu Hong, Cai Yucheng, Ou Zhijian, Huang Yi, Feng Junlan
 conference: "Arxiv"
 year: 2022

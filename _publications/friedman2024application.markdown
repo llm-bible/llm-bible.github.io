@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "An Application Of Large Language Models To Coding Negotiation Transcripts"
+title: An Application Of Large Language Models To Coding Negotiation Transcripts
 authors: Friedman Ray, Cho Jaewoo, Brett Jeanne, Zhan Xuhui, Han Ningyu, Kannan Sriram, Ma Yingxiang, Spencer-smith Jesse, Jäckel Elisabeth, Zerres Alfred, Hooper Madison, Babbit Katie, Acharya Manish, Adair Wendi, Aslani Soroush, Aykaç Tayfun, Bauman Chris, Bennett Rebecca, Brady Garrett, Briggs Peggy, Dowie Cheryl, Eck Chase, Geiger Igmar, Jacob Frank, Kern Molly, Lee Sujin, Liu Leigh Anne, Liu Wu, Loewenstein Jeffrey, Lytle Anne, Ma Li, Mann Michel, Mislin Alexandra, Mitchell Tyree, Nagler Hannah Martensen Née, Nandkeolyar Amit, Olekalns Mara, Paliakova Elena, Parlamis Jennifer, Pierce Jason, Pierce Nancy, Pinkley Robin, Prime Nathalie, Ramirez-marin Jimena, Rockmann Kevin, Ross William, Semnani-azad Zhaleh, Schroeder Juliana, Smith Philip, Stimmer Elena, Swaab Roderick, Thompson Leigh, Tinsley Cathy, Tuncel Ece, Weingart Laurie, Wilken Robert, Yao Jingjing, Zhang Zhi-xue
 conference: "Arxiv"
 year: 2024

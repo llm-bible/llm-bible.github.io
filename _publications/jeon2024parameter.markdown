@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "L4Q: Parameter Efficient Quantization-aware Fine-tuning On Large Language Models"
+title: L4Q: Parameter Efficient Quantization-aware Fine-tuning On Large Language Models
 authors: Jeon Hyesung, Kim Yulhwa, Kim Jae-joon
 conference: "Arxiv"
 year: 2024

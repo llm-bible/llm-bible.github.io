@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Context-faithful Prompting For Large Language Models"
+title: Context-faithful Prompting For Large Language Models
 authors: Zhou Wenxuan, Zhang Sheng, Poon Hoifung, Chen Muhao
 conference: "Arxiv"
 year: 2023

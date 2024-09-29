@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Med42-v2: A Suite Of Clinical Llms"
+title: Med42-v2: A Suite Of Clinical Llms
 authors: Christophe Clément, Kanithi Praveen K, Raha Tathagata, Khan Shadab, Pimentel Marco Af
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Who's Thinking? A Push For Human-centered Evaluation Of Llms Using The XAI Playbook"
+title: Who's Thinking? A Push For Human-centered Evaluation Of Llms Using The XAI Playbook
 authors: Datta Teresa, Dickerson John P.
 conference: "Arxiv"
 year: 2023

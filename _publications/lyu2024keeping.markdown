@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Keeping Llms Aligned After Fine-tuning: The Crucial Role Of Prompt Templates"
+title: Keeping Llms Aligned After Fine-tuning: The Crucial Role Of Prompt Templates
 authors: Lyu Kaifeng, Zhao Haoyu, Gu Xinran, Yu Dingli, Goyal Anirudh, Arora Sanjeev
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating The Smooth Control Of Attribute Intensity In Text Generation With Llms"
+title: Evaluating The Smooth Control Of Attribute Intensity In Text Generation With Llms
 authors: Zhou Shang, Yao Feng, Dong Chengyu, Wang Zihan, Shang Jingbo
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating And Improving Tool-augmented Computation-intensive Math Reasoning"
+title: Evaluating And Improving Tool-augmented Computation-intensive Math Reasoning
 authors: Zhang Beichen, Zhou Kun, Wei Xilin, Zhao Wayne Xin, Sha Jing, Wang Shijin, Wen Ji-rong
 conference: "Arxiv"
 year: 2023

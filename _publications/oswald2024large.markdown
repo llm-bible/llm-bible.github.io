@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Large Language Models As Planning Domain Generators"
+title: Large Language Models As Planning Domain Generators
 authors: Oswald James, Srinivas Kavitha, Kokel Harsha, Lee Junkyu, Katz Michael, Sohrabi Shirin
 conference: "Arxiv"
 year: 2024

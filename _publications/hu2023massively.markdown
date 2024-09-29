@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Massively Multilingual Shallow Fusion With Large Language Models"
+title: Massively Multilingual Shallow Fusion With Large Language Models
 authors: Hu Ke, Sainath Tara N., Li Bo, Du Nan, Huang Yanping, Dai Andrew M., Zhang Yu, Cabrera Rodrigo, Chen Zhifeng, Strohman Trevor
 conference: "Arxiv"
 year: 2023

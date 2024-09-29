@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Enhancing Large Language Models In Coding Through Multi-perspective Self-consistency"
+title: Enhancing Large Language Models In Coding Through Multi-perspective Self-consistency
 authors: Huang Baizhou, Lu Shuai, Chen Weizhu, Wan Xiaojun, Duan Nan
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improving Retrieval Augmented Open-domain Question-answering With Vectorized Contexts"
+title: Improving Retrieval Augmented Open-domain Question-answering With Vectorized Contexts
 authors: Chen Zhuo, Wang Xinyu, Jiang Yong, Xie Pengjun, Huang Fei, Tu Kewei
 conference: "Arxiv"
 year: 2024

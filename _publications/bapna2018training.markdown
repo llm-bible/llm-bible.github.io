@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Training Deeper Neural Machine Translation Models With Transparent Attention"
+title: Training Deeper Neural Machine Translation Models With Transparent Attention
 authors: Bapna Ankur, Chen Mia Xu, Firat Orhan, Cao Yuan, Wu Yonghui
 conference: "Arxiv"
 year: 2018

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mllm-bench: Evaluating Multimodal Llms With Per-sample Criteria"
+title: Mllm-bench: Evaluating Multimodal Llms With Per-sample Criteria
 authors: Ge Wentao, Chen Shunian, Chen Guiming Hardy, Chen Zhihong, Chen Junying, Yan Shuo, Zhu Chenghao, Lin Ziyue, Xie Wenya, Zhang Xinyi, Chai Yichen, Liu Xiaoyu, Song Dingjie, Wang Xidong, Gao Anningzhe, Zhang Zhiyi, Li Jianquan, Wan Xiang, Wang Benyou
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "How Many Unicorns Are In This Image? A Safety Evaluation Benchmark For Vision Llms"
+title: How Many Unicorns Are In This Image? A Safety Evaluation Benchmark For Vision Llms
 authors: Tu Haoqin, Cui Chenhang, Wang Zijun, Zhou Yiyang, Zhao Bingchen, Han Junlin, Zhou Wangchunshu, Yao Huaxiu, Xie Cihang
 conference: "Arxiv"
 year: 2023

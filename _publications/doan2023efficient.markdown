@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Efficient Finetuning Large Language Models For Vietnamese Chatbot"
+title: Efficient Finetuning Large Language Models For Vietnamese Chatbot
 authors: Doan Vu-thuan, Truong Quoc-truong, Nguyen Duc-vu, Nguyen Vinh-tiep, Luu Thuy-ngan Nguyen
 conference: "Arxiv"
 year: 2023

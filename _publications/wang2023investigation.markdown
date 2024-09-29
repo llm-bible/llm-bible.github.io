@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "An In-depth Investigation Of User Response Simulation For Conversational Search"
+title: An In-depth Investigation Of User Response Simulation For Conversational Search
 authors: Wang Zhenduo, Xu Zhichao, Ai Qingyao, Srikumar Vivek
 conference: "Arxiv"
 year: 2023

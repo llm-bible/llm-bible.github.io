@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Instructeval: Systematic Evaluation Of Instruction Selection Methods"
+title: Instructeval: Systematic Evaluation Of Instruction Selection Methods
 authors: Ajith Anirudh, Pan Chris, Xia Mengzhou, Deshpande Ameet, Narasimhan Karthik
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Enhancing Textbook Question Answering Task With Large Language Models And Retrieval Augmented Generation"
+title: Enhancing Textbook Question Answering Task With Large Language Models And Retrieval Augmented Generation
 authors: Alawwad Hessa Abdulrahman, Alhothali Areej, Naseem Usman, Alkhathlan Ali, Jamal Amani
 conference: "Arxiv"
 year: 2024

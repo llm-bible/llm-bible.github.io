@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Uncovering Hidden Connections: Iterative Search And Reasoning For Video-grounded Dialog"
+title: Uncovering Hidden Connections: Iterative Search And Reasoning For Video-grounded Dialog
 authors: Zhang Haoyu, Liu Meng, Wang Yaowei, Cao Da, Guan Weili, Nie Liqiang
 conference: "Arxiv"
 year: 2023

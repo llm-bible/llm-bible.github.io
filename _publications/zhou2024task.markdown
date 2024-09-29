@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "DETAIL: Task Demonstration Attribution For Interpretable In-context Learning"
+title: DETAIL: Task Demonstration Attribution For Interpretable In-context Learning
 authors: Zhou Zijian, Lin Xiaoqiang, Xu Xinyi, Prakash Alok, Rus Daniela, Low Bryan Kian Hsiang
 conference: "Arxiv"
 year: 2024

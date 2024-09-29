@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Synergistic Integration Of Large Language Models And Cognitive Architectures For Robust AI: An Exploratory Analysis"
+title: Synergistic Integration Of Large Language Models And Cognitive Architectures For Robust AI: An Exploratory Analysis
 authors: Romero Oscar J., Zimmerman John, Steinfeld Aaron, Tomasic Anthony
 conference: "Arxiv"
 year: 2023

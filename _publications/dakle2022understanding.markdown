@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Understanding BLOOM: An Empirical Study On Diverse NLP Tasks"
+title: Understanding BLOOM: An Empirical Study On Diverse NLP Tasks
 authors: Dakle Parag Pravin, Rallabandi Saikrishna, Raghavan Preethi
 conference: "Arxiv"
 year: 2022

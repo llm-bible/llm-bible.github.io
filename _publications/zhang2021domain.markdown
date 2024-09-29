@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "DSGPT: Domain-specific Generative Pre-training Of Transformers For Text Generation In E-commerce Title And Review Summarization"
+title: DSGPT: Domain-specific Generative Pre-training Of Transformers For Text Generation In E-commerce Title And Review Summarization
 authors: Zhang Xueying, Jiang Yunjiang, Shang Yue, Cheng Zhaomeng, Zhang Chi, Fan Xiaochuan, Xiao Yun, Long Bo
 conference: "SIGIR"
 year: 2021

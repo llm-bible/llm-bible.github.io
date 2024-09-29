@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Adapting Mental Health Prediction Tasks For Cross-lingual Learning Via Meta-training And In-context Learning With Large Language Model"
+title: Adapting Mental Health Prediction Tasks For Cross-lingual Learning Via Meta-training And In-context Learning With Large Language Model
 authors: Lifelo Zita, Ning Huansheng, Dhelim Sahraoui
 conference: "Arxiv"
 year: 2024

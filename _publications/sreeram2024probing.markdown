@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Probing Multimodal Llms As World Models For Driving"
+title: Probing Multimodal Llms As World Models For Driving
 authors: Sreeram Shiva, Wang Tsun-hsuan, Maalouf Alaa, Rosman Guy, Karaman Sertac, Rus Daniela
 conference: "Arxiv"
 year: 2024

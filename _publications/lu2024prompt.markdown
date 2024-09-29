@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Prompt Tuning As User Inherent Profile Inference Machine"
+title: Prompt Tuning As User Inherent Profile Inference Machine
 authors: Lu Yusheng, Du Zhaocheng, Li Xiangyang, Zhao Xiangyu, Liu Weiwen, Wang Yichao, Guo Huifeng, Tang Ruiming, Dong Zhenhua, Duan Yongrui
 conference: "Arxiv"
 year: 2024

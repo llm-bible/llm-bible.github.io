@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "TRAWL: Tensor Reduced And Approximated Weights For Large Language Models"
+title: TRAWL: Tensor Reduced And Approximated Weights For Large Language Models
 authors: Luo Yiran, Patel Het, Fu Yu, Ahn Dawon, Chen Jia, Dong Yue, Papalexakis Evangelos E.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Mixture Of Modular Experts: Distilling Knowledge From A Multilingual Teacher Into Specialized Modular Language Models"
+title: Mixture Of Modular Experts: Distilling Knowledge From A Multilingual Teacher Into Specialized Modular Language Models
 authors: Al-maamari Mohammed, Amor Mehdi Ben, Granitzer Michael
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Tabular Embedding Model (TEM): Finetuning Embedding Models For Tabular RAG Applications"
+title: Tabular Embedding Model (TEM): Finetuning Embedding Models For Tabular RAG Applications
 authors: Khanna Sujit, Subedi Shishir
 conference: "Arxiv"
 year: 2024

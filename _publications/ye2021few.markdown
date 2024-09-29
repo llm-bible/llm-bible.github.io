@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Crossfit: A Few-shot Learning Challenge For Cross-task Generalization In NLP"
+title: Crossfit: A Few-shot Learning Challenge For Cross-task Generalization In NLP
 authors: Qinyuan Ye, Bill Yuchen Lin, Xiang Ren
 conference: "Arxiv"
 year: 2021

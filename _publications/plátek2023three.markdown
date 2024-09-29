@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Three Ways Of Using Large Language Models To Evaluate Chat"
+title: Three Ways Of Using Large Language Models To Evaluate Chat
 authors: Plátek Ondřej, Hudeček Vojtěch, Schmidtová Patricia, Lango Mateusz, Dušek Ondřej
 conference: "Arxiv"
 year: 2023

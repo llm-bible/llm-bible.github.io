@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Zero-shot Language Agent For Computer Control With Structured Reflection"
+title: A Zero-shot Language Agent For Computer Control With Structured Reflection
 authors: Li Tao, Li Gang, Deng Zhiwei, Wang Bryan, Li Yang
 conference: "Arxiv"
 year: 2023

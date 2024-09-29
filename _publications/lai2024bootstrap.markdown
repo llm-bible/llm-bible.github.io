@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Autowebglm: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent"
+title: Autowebglm: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent
 authors: Lai Hanyu, Liu Xiao, Iong Iat Long, Yao Shuntian, Chen Yuxuan, Shen Pengbo, Yu Hao, Zhang Hanchen, Zhang Xiaohan, Dong Yuxiao, Tang Jie
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Susceptibility To Influence Of Large Language Models"
+title: Susceptibility To Influence Of Large Language Models
 authors: Lewis D Griffin, Bennett Kleinberg, Maximilian Mozes, Kimberly T Mai, Maria Vau, Matthew Caldwell, Augustine Marvor-parker
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Self-evolving GPT: A Lifelong Autonomous Experiential Learner"
+title: Self-evolving GPT: A Lifelong Autonomous Experiential Learner
 authors: Gao Jinglong, Ding Xiao, Cui Yiming, Zhao Jianbai, Wang Hepeng, Liu Ting, Qin Bing
 conference: "Arxiv"
 year: 2024

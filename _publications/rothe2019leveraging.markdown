@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Leveraging Pre-trained Checkpoints For Sequence Generation Tasks"
+title: Leveraging Pre-trained Checkpoints For Sequence Generation Tasks
 authors: Rothe Sascha, Narayan Shashi, Severyn Aliaksei
 conference: "Arxiv"
 year: 2019

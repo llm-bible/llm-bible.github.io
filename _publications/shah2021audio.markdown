@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Audio-visual Scene-aware Dialog And Reasoning Using Audio-visual Transformers With Joint Student-teacher Learning"
+title: Audio-visual Scene-aware Dialog And Reasoning Using Audio-visual Transformers With Joint Student-teacher Learning
 authors: Shah Ankit P., Geng Shijie, Gao Peng, Cherian Anoop, Hori Takaaki, Marks Tim K., Roux Jonathan Le, Hori Chiori
 conference: "Arxiv"
 year: 2021

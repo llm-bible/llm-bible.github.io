@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Plug-and-play Policy Planner For Large Language Model Powered Dialogue Agents"
+title: Plug-and-play Policy Planner For Large Language Model Powered Dialogue Agents
 authors: Deng Yang, Zhang Wenxuan, Lam Wai, Ng See-kiong, Chua Tat-seng
 conference: "Arxiv"
 year: 2023

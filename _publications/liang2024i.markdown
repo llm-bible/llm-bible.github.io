@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "I-SHEEP: Self-alignment Of LLM From Scratch Through An Iterative Self-enhancement Paradigm"
+title: I-SHEEP: Self-alignment Of LLM From Scratch Through An Iterative Self-enhancement Paradigm
 authors: Liang Yiming, Zhang Ge, Qu Xingwei, Zheng Tianyu, Guo Jiawei, Du Xinrun, Yang Zhenzhu, Liu Jiaheng, Lin Chenghua, Ma Lei, Huang Wenhao, Zhang Jiajun
 conference: "Arxiv"
 year: 2024

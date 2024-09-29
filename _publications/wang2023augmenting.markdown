@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Augmenting Black-box Llms With Medical Textbooks For Clinical Question Answering"
+title: Augmenting Black-box Llms With Medical Textbooks For Clinical Question Answering
 authors: Wang Yubo, Ma Xueguang, Chen Wenhu
 conference: "Arxiv"
 year: 2023

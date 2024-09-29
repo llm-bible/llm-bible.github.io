@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Aqulia-med LLM: Pioneering Full-process Open-source Medical Language Models"
+title: Aqulia-med LLM: Pioneering Full-process Open-source Medical Language Models
 authors: Zhao Lulu, Zeng Weihao, Shi Xiaofeng, Zhou Hua, Hao Donglin, Lin Yonghua
 conference: "Arxiv"
 year: 2024

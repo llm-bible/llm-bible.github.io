@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Paragraph-level Commonsense Transformers With Recurrent Memory"
+title: Paragraph-level Commonsense Transformers With Recurrent Memory
 authors: Gabriel Saadia, Bhagavatula Chandra, Shwartz Vered, Bras Ronan Le, Forbes Maxwell, Choi Yejin
 conference: "Arxiv"
 year: 2020

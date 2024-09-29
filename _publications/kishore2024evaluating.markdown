@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evaluating Telugu Proficiency In Large Language Models_ A Comparative Analysis Of Chatgpt And Gemini"
+title: Evaluating Telugu Proficiency In Large Language Models_ A Comparative Analysis Of Chatgpt And Gemini
 authors: Kishore Katikela Sreeharsha, Shaik Rahimanuddin
 conference: "Arxiv"
 year: 2024

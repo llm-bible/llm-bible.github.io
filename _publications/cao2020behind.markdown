@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Behind The Scene: Revealing The Secrets Of Pre-trained Vision-and-language Models"
+title: Behind The Scene: Revealing The Secrets Of Pre-trained Vision-and-language Models
 authors: Cao Jize, Gan Zhe, Cheng Yu, Yu Licheng, Chen Yen-chun, Liu Jingjing
 conference: "Arxiv"
 year: 2020

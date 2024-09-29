@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Deficiency Of Large Language Models In Finance: An Empirical Examination Of Hallucination"
+title: Deficiency Of Large Language Models In Finance: An Empirical Examination Of Hallucination
 authors: Kang Haoqiang, Liu Xiao-yang
 conference: "Arxiv"
 year: 2023

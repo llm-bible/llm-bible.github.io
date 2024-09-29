@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Evograd: A Dynamic Take On The Winograd Schema Challenge With Human Adversaries"
+title: Evograd: A Dynamic Take On The Winograd Schema Challenge With Human Adversaries
 authors: Sun Jing Han, Emami Ali
 conference: "Arxiv"
 year: 2024

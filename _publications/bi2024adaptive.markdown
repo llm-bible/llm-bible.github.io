@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Adaptive Token Biaser: Knowledge Editing Via Biasing Key Entities"
+title: Adaptive Token Biaser: Knowledge Editing Via Biasing Key Entities
 authors: Bi Baolong, Liu Shenghua, Wang Yiwei, Mei Lingrui, Gao Hongcheng, Xu Yilong, Cheng Xueqi
 conference: "Arxiv"
 year: 2024

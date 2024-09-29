@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Semantically Diverse Language Generation For Uncertainty Estimation In Language Models"
+title: Semantically Diverse Language Generation For Uncertainty Estimation In Language Models
 authors: Aichberger Lukas, Schweighofer Kajetan, Ielanskyi Mykyta, Hochreiter Sepp
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "A Survey Of Prompt Engineering Methods In Large Language Models For Different NLP Tasks"
+title: A Survey Of Prompt Engineering Methods In Large Language Models For Different NLP Tasks
 authors: Vatsal Shubham, Dubey Harsh
 conference: "Arxiv"
 year: 2024

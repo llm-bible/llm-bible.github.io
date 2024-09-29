@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Modulora: Finetuning 2-bit Llms On Consumer Gpus By Integrating With Modular Quantizers"
+title: Modulora: Finetuning 2-bit Llms On Consumer Gpus By Integrating With Modular Quantizers
 authors: Yin Junjie, Dong Jiahao, Wang Yingheng, De Sa Christopher, Kuleshov Volodymyr
 conference: "Arxiv"
 year: 2023

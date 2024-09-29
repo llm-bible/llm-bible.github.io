@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Fireact: Toward Language Agent Fine-tuning"
+title: Fireact: Toward Language Agent Fine-tuning
 authors: Chen Baian, Shu Chang, Shareghi Ehsan, Collier Nigel, Narasimhan Karthik, Yao Shunyu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Flexibly-structured Model For Task-oriented Dialogues"
+title: Flexibly-structured Model For Task-oriented Dialogues
 authors: Shu Lei, Molino Piero, Namazifar Mahdi, Xu Hu, Liu Bing, Zheng Huaixiu, Tur Gokhan
 conference: "Arxiv"
 year: 2019

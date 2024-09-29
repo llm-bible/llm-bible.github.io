@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "In-context Learning Dynamics With Random Binary Sequences"
+title: In-context Learning Dynamics With Random Binary Sequences
 authors: Bigelow Eric J., Lubana Ekdeep Singh, Dick Robert P., Tanaka Hidenori, Ullman Tomer D.
 conference: "Arxiv"
 year: 2023

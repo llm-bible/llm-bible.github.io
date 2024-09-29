@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Ternaryllm: Ternarized Large Language Model"
+title: Ternaryllm: Ternarized Large Language Model
 authors: Chen Tianqi, Li Zhe, Xu Weixiang, Zhu Zeyu, Li Dong, Tian Lu, Barsoum Emad, Wang Peisong, Cheng Jian
 conference: "Arxiv"
 year: 2024

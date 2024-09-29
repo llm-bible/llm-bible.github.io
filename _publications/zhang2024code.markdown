@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Code Representation Learning At Scale"
+title: Code Representation Learning At Scale
 authors: Zhang Dejiao, Ahmad Wasi, Tan Ming, Ding Hantian, Nallapati Ramesh, Roth Dan, Ma Xiaofei, Xiang Bing
 conference: "ICLR"
 year: 2024

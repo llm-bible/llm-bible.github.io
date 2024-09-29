@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Frugal Prompting For Dialog Models"
+title: Frugal Prompting For Dialog Models
 authors: Santra Bishal, Basak Sakya, De Abhinandan, Gupta Manish, Goyal Pawan
 conference: "Arxiv"
 year: 2023

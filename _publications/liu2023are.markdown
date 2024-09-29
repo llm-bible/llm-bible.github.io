@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Are Multilingual Llms Culturally-diverse Reasoners? An Investigation Into Multicultural Proverbs And Sayings"
+title: Are Multilingual Llms Culturally-diverse Reasoners? An Investigation Into Multicultural Proverbs And Sayings
 authors: Liu Chen Cecilia, Koto Fajri, Baldwin Timothy, Gurevych Iryna
 conference: "Arxiv"
 year: 2023

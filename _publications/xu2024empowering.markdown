@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Empowering 1000 Tokens/second On-device LLM Prefilling With Mllm-npu"
+title: Empowering 1000 Tokens/second On-device LLM Prefilling With Mllm-npu
 authors: Xu Daliang, Zhang Hao, Yang Liming, Liu Ruiqi, Huang Gang, Xu Mengwei, Liu Xuanzhe
 conference: "Arxiv"
 year: 2024

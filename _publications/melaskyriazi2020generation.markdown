@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Generation-distillation For Efficient Natural Language Understanding In Low-data Settings"
+title: Generation-distillation For Efficient Natural Language Understanding In Low-data Settings
 authors: Melas-kyriazi Luke, Han George, Liang Celine
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Distillation Matters: Empowering Sequential Recommenders To Match The Performance Of Large Language Model"
+title: Distillation Matters: Empowering Sequential Recommenders To Match The Performance Of Large Language Model
 authors: Cui Yu, Liu Feng, Wang Pengbo, Wang Bohao, Tang Heng, Wan Yi, Wang Jun, Chen Jiawei
 conference: "Arxiv"
 year: 2024

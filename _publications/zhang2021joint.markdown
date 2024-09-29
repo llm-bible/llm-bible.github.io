@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Retgen: A Joint Framework For Retrieval And Grounded Text Generation Modeling"
+title: Retgen: A Joint Framework For Retrieval And Grounded Text Generation Modeling
 authors: Zhang Yizhe, Sun Siqi, Gao Xiang, Fang Yuwei, Brockett Chris, Galley Michel, Gao Jianfeng, Dolan Bill
 conference: "Arxiv"
 year: 2021

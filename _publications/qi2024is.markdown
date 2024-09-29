@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Is Next Token Prediction Sufficient For GPT? Exploration On Code Logic Comprehension"
+title: Is Next Token Prediction Sufficient For GPT? Exploration On Code Logic Comprehension
 authors: Qi Mengnan, Huang Yufan, Yao Yongqiang, Wang Maoquan, Gu Bin, Sundaresan Neel
 conference: "Arxiv"
 year: 2024

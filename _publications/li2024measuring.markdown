@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Measuring And Controlling Instruction (in)stability In Language Model Dialogs"
+title: Measuring And Controlling Instruction (in)stability In Language Model Dialogs
 authors: Li Kenneth, Liu Tianle, Bashkansky Naomi, Bau David, Viégas Fernanda, Pfister Hanspeter, Wattenberg Martin
 conference: "Arxiv"
 year: 2024

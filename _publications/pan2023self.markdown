@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Self-supervised Meta-prompt Learning With Meta-gradient Regularization For Few-shot Generalization"
+title: Self-supervised Meta-prompt Learning With Meta-gradient Regularization For Few-shot Generalization
 authors: Pan Kaihang, Li Juncheng, Song Hongye, Lin Jun, Liu Xiaozhong, Tang Siliang
 conference: "Arxiv"
 year: 2023

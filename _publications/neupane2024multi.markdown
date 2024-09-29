@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Medinsight: A Multi-source Context Augmentation Framework For Generating Patient-centric Medical Responses Using Large Language Models"
+title: Medinsight: A Multi-source Context Augmentation Framework For Generating Patient-centric Medical Responses Using Large Language Models
 authors: Neupane Subash, Mitra Shaswata, Mittal Sudip, Golilarz Noorbakhsh Amiri, Rahimi Shahram, Amirlatifi Amin
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Concerns On Bias In Large Language Models When Creating Synthetic Personae"
+title: Concerns On Bias In Large Language Models When Creating Synthetic Personae
 authors: Haxvig Helena A.
 conference: "Arxiv"
 year: 2024

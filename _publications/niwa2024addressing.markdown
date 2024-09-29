@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Ambignlg: Addressing Task Ambiguity In Instruction For NLG"
+title: Ambignlg: Addressing Task Ambiguity In Instruction For NLG
 authors: Niwa Ayana, Iso Hayate
 conference: "Arxiv"
 year: 2024

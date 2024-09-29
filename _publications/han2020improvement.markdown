@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Improvement Of A Dedicated Model For Open Domain Persona-aware Dialogue Generation"
+title: Improvement Of A Dedicated Model For Open Domain Persona-aware Dialogue Generation
 authors: Han Qiang
 conference: "Arxiv"
 year: 2020

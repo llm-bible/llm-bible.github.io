@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Graph Elicitation For Guiding Multi-step Reasoning In Large Language Models"
+title: Graph Elicitation For Guiding Multi-step Reasoning In Large Language Models
 authors: Park Jinyoung, Patel Ameen, Khan Omar Zia, Kim Hyunwoo J., Kim Joo-kyung
 conference: "Arxiv"
 year: 2023

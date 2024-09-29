@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Bianque: Balancing The Questioning And Suggestion Ability Of Health Llms With Multi-turn Health Conversations Polished By Chatgpt"
+title: Bianque: Balancing The Questioning And Suggestion Ability Of Health Llms With Multi-turn Health Conversations Polished By Chatgpt
 authors: Chen Yirong, Wang Zhenyu, Xing Xiaofen, Zheng Huimin, Xu Zhipei, Fang Kai, Wang Junhong, Li Sihang, Wu Jieling, Liu Qi, Xu Xiangmin
 conference: "Arxiv"
 year: 2023

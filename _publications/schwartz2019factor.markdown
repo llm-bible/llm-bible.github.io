@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Factor Graph Attention"
+title: Factor Graph Attention
 authors: Schwartz Idan, Yu Seunghak, Hazan Tamir, Schwing Alexander
 conference: "Arxiv"
 year: 2019
