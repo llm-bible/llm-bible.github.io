@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Synthetic Multimodal Question Generation
+title: 'Synthetic Multimodal Question Generation'
 authors: Wu Ian, Jayanthi Sravan, Viswanathan Vijay, Rosenberg Simon, Pakazad Sina, Wu Tongshuang, Neubig Graham
 conference: "Arxiv"
 year: 2024

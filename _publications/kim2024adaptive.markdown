@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adaptive Contrastive Decoding In Retrieval-augmented Generation For Handling Noisy Contexts
+title: 'Adaptive Contrastive Decoding In Retrieval-augmented Generation For Handling Noisy Contexts'
 authors: Kim Youna, Kim Hyuhng Joon, Park Cheonbok, Park Choonghyun, Cho Hyunsoo, Kim Junyeob, Yoo Kang Min, Lee Sang-goo, Kim Taeuk
 conference: "Arxiv"
 year: 2024

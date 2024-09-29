@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On The Performance Of Multimodal Language Models
+title: 'On The Performance Of Multimodal Language Models'
 authors: Garg Utsav, Bas Erhan
 conference: "Arxiv"
 year: 2023

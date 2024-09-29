@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Fine-tuning Dataset And Benchmark For Large Language Models For Protein Understanding
+title: 'A Fine-tuning Dataset And Benchmark For Large Language Models For Protein Understanding'
 authors: Shen Yiqing, Chen Zan, Mamalakis Michail, He Luhan, Xia Haiyang, Li Tianbin, Su Yanzhou, He Junjun, Wang Yu Guang
 conference: "Arxiv"
 year: 2024

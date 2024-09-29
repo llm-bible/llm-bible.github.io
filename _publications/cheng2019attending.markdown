@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attending To Entities For Better Text Understanding
+title: 'Attending To Entities For Better Text Understanding'
 authors: Cheng Pengxiang, Erk Katrin
 conference: "Arxiv"
 year: 2019

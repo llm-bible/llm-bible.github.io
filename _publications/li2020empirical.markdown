@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Empirical Investigation Of Pre-trained Transformer Language Models For Open-domain Dialogue Generation
+title: 'An Empirical Investigation Of Pre-trained Transformer Language Models For Open-domain Dialogue Generation'
 authors: Li Piji
 conference: "Arxiv"
 year: 2020

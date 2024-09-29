@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Language Models Recognize Convincing Arguments?
+title: 'Can Language Models Recognize Convincing Arguments?'
 authors: Rescala Paula, Ribeiro Manoel Horta, Hu Tiancheng, West Robert
 conference: "Arxiv"
 year: 2024

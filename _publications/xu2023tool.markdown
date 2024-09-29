@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On The Tool Manipulation Capability Of Open-source Large Language Models
+title: 'On The Tool Manipulation Capability Of Open-source Large Language Models'
 authors: Xu Qiantong, Hong Fenglu, Li Bo, Hu Changran, Chen Zhengyu, Zhang Jian
 conference: "Arxiv"
 year: 2023

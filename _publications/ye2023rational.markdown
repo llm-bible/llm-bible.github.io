@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rational Decision-making Agent With Internalized Utility Judgment
+title: 'Rational Decision-making Agent With Internalized Utility Judgment'
 authors: Ye Yining, Cong Xin, Tian Shizuo, Qin Yujia, Liu Chong, Lin Yankai, Liu Zhiyuan, Sun Maosong
 conference: "Arxiv"
 year: 2023

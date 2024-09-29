@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Comparing Generative Chatbots Based On Process Requirements
+title: 'Comparing Generative Chatbots Based On Process Requirements'
 authors: Lins Luis Fernando, Nascimento Nathalia, Alencar Paulo, Oliveira Toacy, Cowan Donald
 conference: "Arxiv"
 year: 2023

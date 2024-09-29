@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Distractor Generation For Multiple-choice Questions With Predictive Prompting And Large Language Models
+title: 'Distractor Generation For Multiple-choice Questions With Predictive Prompting And Large Language Models'
 authors: Bitew Semere Kiros, Deleu Johannes, Develder Chris, Demeester Thomas
 conference: "Arxiv"
 year: 2023

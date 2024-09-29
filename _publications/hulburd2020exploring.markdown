@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring BERT Parameter Efficiency On The Stanford Question Answering Dataset V2.0
+title: 'Exploring BERT Parameter Efficiency On The Stanford Question Answering Dataset V2.0'
 authors: Hulburd Eric
 conference: "Arxiv"
 year: 2020

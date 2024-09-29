@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Quantifying And Attributing The Hallucination Of Large Language Models Via Association Analysis
+title: 'Quantifying And Attributing The Hallucination Of Large Language Models Via Association Analysis'
 authors: Du Li, Wang Yequan, Xing Xingrun, Ya Yiqun, Li Xiang, Jiang Xin, Fang Xuezhi
 conference: "Arxiv"
 year: 2023

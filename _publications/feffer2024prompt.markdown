@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt Exploration With Prompt Regression
+title: 'Prompt Exploration With Prompt Regression'
 authors: Feffer Michael, Xu Ronald, Sun Yuekai, Yurochkin Mikhail
 conference: "Arxiv"
 year: 2024

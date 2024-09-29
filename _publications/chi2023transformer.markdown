@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transformer Working Memory Enables Regular Language Reasoning And Natural Language Length Extrapolation
+title: 'Transformer Working Memory Enables Regular Language Reasoning And Natural Language Length Extrapolation'
 authors: Chi Ta-chung, Fan Ting-han, Rudnicky Alexander I., Ramadge Peter J.
 conference: "Arxiv"
 year: 2023

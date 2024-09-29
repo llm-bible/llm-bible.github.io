@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instruction-tuning Aligns Llms To The Human Brain
+title: 'Instruction-tuning Aligns Llms To The Human Brain'
 authors: Aw Khai Loong, Montariol Syrielle, Alkhamissi Badr, Schrimpf Martin, Bosselut Antoine
 conference: "Arxiv"
 year: 2023

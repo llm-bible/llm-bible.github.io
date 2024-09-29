@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Continual Learning In Multilingual NMT Via Language-specific Embeddings
+title: 'Continual Learning In Multilingual NMT Via Language-specific Embeddings'
 authors: Berard Alexandre
 conference: "Arxiv"
 year: 2021

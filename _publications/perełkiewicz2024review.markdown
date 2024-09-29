@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Review Of The Challenges With Massive Web-mined Corpora Used In Large Language Models Pre-training
+title: 'A Review Of The Challenges With Massive Web-mined Corpora Used In Large Language Models Pre-training'
 authors: Perełkiewicz Michał, Poświata Rafał
 conference: "Arxiv"
 year: 2024

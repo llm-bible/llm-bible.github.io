@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Truly Zero-shot Compositional Visual Reasoning With Llms As Programmers
+title: 'Towards Truly Zero-shot Compositional Visual Reasoning With Llms As Programmers'
 authors: Stanić Aleksandar, Caelles Sergi, Tschannen Michael
 conference: "Arxiv"
 year: 2024

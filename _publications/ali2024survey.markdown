@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey Of Large Language Models For European Languages
+title: 'A Survey Of Large Language Models For European Languages'
 authors: Ali Wazir, Pyysalo Sampo
 conference: "Arxiv"
 year: 2024

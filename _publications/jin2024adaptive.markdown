@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adaptive Skeleton Graph Decoding
+title: 'Adaptive Skeleton Graph Decoding'
 authors: Jin Shuowei, Wu Yongji, Zheng Haizhong, Zhang Qingzhao, Lentz Matthew, Mao Z. Morley, Prakash Atul, Qian Feng, Zhuo Danyang
 conference: "Arxiv"
 year: 2024

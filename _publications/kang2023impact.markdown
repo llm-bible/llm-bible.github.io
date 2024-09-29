@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Impact Of Co-occurrence On Factual Knowledge Of Large Language Models
+title: 'Impact Of Co-occurrence On Factual Knowledge Of Large Language Models'
 authors: Kang Cheongwoong, Choi Jaesik
 conference: "Arxiv"
 year: 2023

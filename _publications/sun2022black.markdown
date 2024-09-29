@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Black-box Tuning For Language-model-as-a-service
+title: 'Black-box Tuning For Language-model-as-a-service'
 authors: Sun Tianxiang, Shao Yunfan, Qian Hong, Huang Xuanjing, Qiu Xipeng
 conference: "Arxiv"
 year: 2022

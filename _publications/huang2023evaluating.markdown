@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating And Enhancing Large Language Models For Conversational Reasoning On Knowledge Graphs
+title: 'Evaluating And Enhancing Large Language Models For Conversational Reasoning On Knowledge Graphs'
 authors: Huang Yuxuan, Shi Lida, Liu Anqi, Xu Hao
 conference: "Arxiv"
 year: 2023

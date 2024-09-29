@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Knowledge Neurons In Pretrained Transformers
+title: 'Knowledge Neurons In Pretrained Transformers'
 authors: Dai Damai, Dong Li, Hao Yaru, Sui Zhifang, Chang Baobao, Wei Furu
 conference: "Arxiv"
 year: 2021

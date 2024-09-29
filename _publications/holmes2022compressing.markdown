@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Compressing Pre-trained Transformers Via Low-bit Nxm Sparsity For Natural Language Understanding
+title: 'Compressing Pre-trained Transformers Via Low-bit Nxm Sparsity For Natural Language Understanding'
 authors: Holmes Connor, Zhang Minjia, He Yuxiong, Wu Bo
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hint-enhanced In-context Learning Wakes Large Language Models Up For Knowledge-intensive Tasks
+title: 'Hint-enhanced In-context Learning Wakes Large Language Models Up For Knowledge-intensive Tasks'
 authors: Wang Yifan, Guo Qingyan, Ni Xinzhe, Shi Chufan, Liu Lemao, Jiang Haiyun, Yang Yujiu
 conference: "Arxiv"
 year: 2023

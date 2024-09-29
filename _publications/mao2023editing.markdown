@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Editing Personality For Large Language Models
+title: 'Editing Personality For Large Language Models'
 authors: Mao Shengyu, Wang Xiaohan, Wang Mengru, Jiang Yong, Xie Pengjun, Huang Fei, Zhang Ningyu
 conference: "Arxiv"
 year: 2023

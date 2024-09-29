@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Making Large Language Models A Better Foundation For Dense Retrieval
+title: 'Making Large Language Models A Better Foundation For Dense Retrieval'
 authors: Li Chaofan, Liu Zheng, Xiao Shitao, Shao Yingxia
 conference: "Arxiv"
 year: 2023

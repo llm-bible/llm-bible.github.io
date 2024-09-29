@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sequence-level Mixed Sample Data Augmentation
+title: 'Sequence-level Mixed Sample Data Augmentation'
 authors: Guo Demi, Kim Yoon, Rush Alexander M.
 conference: "Arxiv"
 year: 2020

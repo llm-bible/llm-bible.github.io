@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Adversarial Text Generation By Modeling The Distant Future
+title: 'Improving Adversarial Text Generation By Modeling The Distant Future'
 authors: Zhang Ruiyi, Chen Changyou, Gan Zhe, Wang Wenlin, Shen Dinghan, Wang Guoyin, Wen Zheng, Carin Lawrence
 conference: "Arxiv"
 year: 2020

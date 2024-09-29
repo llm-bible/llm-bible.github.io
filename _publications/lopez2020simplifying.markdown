@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Simplifying Paragraph-level Question Generation Via Transformer Language Models
+title: 'Simplifying Paragraph-level Question Generation Via Transformer Language Models'
 authors: Lopez Luis Enrico, Cruz Diane Kathryn, Cruz Jan Christian Blaise, Cheng Charibeth
 conference: "Arxiv"
 year: 2020

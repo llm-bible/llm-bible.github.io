@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Outlier Dimensions Encode Task-specific Knowledge
+title: 'Outlier Dimensions Encode Task-specific Knowledge'
 authors: Rudman William, Chen Catherine, Eickhoff Carsten
 conference: "Arxiv"
 year: 2023

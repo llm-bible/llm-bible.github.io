@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Distilling System 2 Into System 1
+title: 'Distilling System 2 Into System 1'
 authors: Yu Ping, Xu Jing, Weston Jason, Kulikov Ilia
 conference: "Arxiv"
 year: 2024

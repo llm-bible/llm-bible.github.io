@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Many-shot In-context Learning Help Long-context LLM Judges? See More, Judge Better!
+title: 'Can Many-shot In-context Learning Help Long-context LLM Judges? See More, Judge Better!'
 authors: Song Mingyang, Zheng Mao, Luo Xuan
 conference: "Arxiv"
 year: 2024

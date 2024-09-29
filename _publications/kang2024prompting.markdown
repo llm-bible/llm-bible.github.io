@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompting Large Language Models With Audio For General-purpose Speech Summarization
+title: 'Prompting Large Language Models With Audio For General-purpose Speech Summarization'
 authors: Kang Wonjune, Roy Deb
 conference: "Arxiv"
 year: 2024

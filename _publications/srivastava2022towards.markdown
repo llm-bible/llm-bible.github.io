@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Zero-shot And Few-shot Table Question Answering Using GPT-3
+title: 'Towards Zero-shot And Few-shot Table Question Answering Using GPT-3'
 authors: Srivastava Pragya, Ganu Tanuja, Guha Saikat
 conference: "Arxiv"
 year: 2022

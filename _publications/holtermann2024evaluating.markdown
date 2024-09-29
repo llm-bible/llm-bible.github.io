@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating The Elementary Multilingual Capabilities Of Large Language Models With Multiq
+title: 'Evaluating The Elementary Multilingual Capabilities Of Large Language Models With Multiq'
 authors: Holtermann Carolin, Röttger Paul, Dill Timm, Lauscher Anne
 conference: "Arxiv"
 year: 2024

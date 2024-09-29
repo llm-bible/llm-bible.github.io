@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tackling Vision Language Tasks Through Learning Inner Monologues
+title: 'Tackling Vision Language Tasks Through Learning Inner Monologues'
 authors: Yang Diji, Chen Kezhen, Rao Jinmeng, Guo Xiaoyuan, Zhang Yawen, Yang Jie, Zhang Yi
 conference: "Arxiv"
 year: 2023

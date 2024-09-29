@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Diversifying Dialog Generation Via Adaptive Label Smoothing
+title: 'Diversifying Dialog Generation Via Adaptive Label Smoothing'
 authors: Wang Yida, Zheng Yinhe, Jiang Yong, Huang Minlie
 conference: "Arxiv"
 year: 2021

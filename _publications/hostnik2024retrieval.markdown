@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieval-augmented Code Completion For Local Projects Using Large Language Models
+title: 'Retrieval-augmented Code Completion For Local Projects Using Large Language Models'
 authors: Hostnik Marko, Robnik-šikonja Marko
 conference: "Arxiv"
 year: 2024

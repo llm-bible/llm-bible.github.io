@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Faithful Persona-based Conversational Dataset Generation With Large Language Models
+title: 'Faithful Persona-based Conversational Dataset Generation With Large Language Models'
 authors: Jandaghi Pegah, Sheng Xianghai, Bai Xinyi, Pujara Jay, Sidahmed Hakim
 conference: "Arxiv"
 year: 2023

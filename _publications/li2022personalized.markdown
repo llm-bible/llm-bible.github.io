@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Personalized Prompt Learning For Explainable Recommendation
+title: 'Personalized Prompt Learning For Explainable Recommendation'
 authors: Li Lei, Zhang Yongfeng, Chen Li
 conference: "Arxiv"
 year: 2022

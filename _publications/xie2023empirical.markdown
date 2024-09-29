@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Empirical Study Of Zero-shot NER With Chatgpt
+title: 'Empirical Study Of Zero-shot NER With Chatgpt'
 authors: Xie Tingyu, Li Qi, Zhang Jian, Zhang Yan, Liu Zuozhu, Wang Hongwei
 conference: "Arxiv"
 year: 2023

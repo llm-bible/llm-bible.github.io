@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Domain-specific Improvement On Psychotherapy Chatbot Using Assistant
+title: 'Domain-specific Improvement On Psychotherapy Chatbot Using Assistant'
 authors: Kang Cheng, Novak Daniel, Urbanova Katerina, Cheng Yuqing, Hu Yong
 conference: "Arxiv"
 year: 2024

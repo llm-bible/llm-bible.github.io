@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adapting Long Context NLM For ASR Rescoring In Conversational Agents
+title: 'Adapting Long Context NLM For ASR Rescoring In Conversational Agents'
 authors: Shenoy Ashish, Bodapati Sravan, Sunkara Monica, Ronanki Srikanth, Kirchhoff Katrin
 conference: "Arxiv"
 year: 2021

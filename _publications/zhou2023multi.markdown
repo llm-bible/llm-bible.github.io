@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-stage Pre-training Enhanced By Chatgpt For Multi-scenario Multi-domain Dialogue Summarization
+title: 'Multi-stage Pre-training Enhanced By Chatgpt For Multi-scenario Multi-domain Dialogue Summarization'
 authors: Zhou Weixiao, Li Gengyao, Cheng Xianfu, Liang Xinnian, Zhu Junnan, Zhai Feifei, Li Zhoujun
 conference: "Arxiv"
 year: 2023

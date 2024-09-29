@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Effective Distillation Of Table-based Reasoning Ability From Llms
+title: 'Effective Distillation Of Table-based Reasoning Ability From Llms'
 authors: Yang Bohao, Tang Chen, Zhao Kun, Xiao Chenghao, Lin Chenghua
 conference: "Arxiv"
 year: 2023

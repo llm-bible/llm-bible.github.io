@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatgpt For PLC/DCS Control Logic Generation
+title: 'Chatgpt For PLC/DCS Control Logic Generation'
 authors: Koziolek Heiko, Gruener Sten, Ashiwal Virendra
 conference: "Arxiv"
 year: 2023

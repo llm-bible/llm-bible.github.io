@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Open Source Conversational Llms Do Not Know Most Spanish Words
+title: 'Open Source Conversational Llms Do Not Know Most Spanish Words'
 authors: Conde Javier, González Miguel, Melero Nina, Ferrando Raquel, Martínez Gonzalo, Merino-gómez Elena, Hernández José Alberto, Reviriego Pedro
 conference: "SEPLN Journal"
 year: 2024

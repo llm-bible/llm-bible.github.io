@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Steering Large Language Models For Machine Translation With Finetuning And In-context Learning
+title: 'Steering Large Language Models For Machine Translation With Finetuning And In-context Learning'
 authors: Alves Duarte M., Guerreiro Nuno M., Alves João, Pombal José, Rei Ricardo, De Souza José G. C., Colombo Pierre, Martins André F. T.
 conference: "Arxiv"
 year: 2023

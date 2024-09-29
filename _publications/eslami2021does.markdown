@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Does CLIP Benefit Visual Question Answering In The Medical Domain As Much As It Does In The General Domain?
+title: 'Does CLIP Benefit Visual Question Answering In The Medical Domain As Much As It Does In The General Domain?'
 authors: Eslami Sedigheh, De Melo Gerard, Meinel Christoph
 conference: "Arxiv"
 year: 2021

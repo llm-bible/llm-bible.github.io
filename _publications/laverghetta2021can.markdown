@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Transformer Language Models Predict Psychometric Properties?
+title: 'Can Transformer Language Models Predict Psychometric Properties?'
 authors: Laverghetta Antonio Jr., Nighojkar Animesh, Mirzakhalov Jamshidbek, Licato John
 conference: "Arxiv"
 year: 2021

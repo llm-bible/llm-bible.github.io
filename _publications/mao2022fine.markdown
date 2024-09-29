@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-tuning Pre-trained Transformers Into Decaying Fast Weights
+title: 'Fine-tuning Pre-trained Transformers Into Decaying Fast Weights'
 authors: Mao Huanru Henry
 conference: "Arxiv"
 year: 2022

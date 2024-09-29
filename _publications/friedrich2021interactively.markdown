@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Interactively Providing Explanations For Transformer Language Models
+title: 'Interactively Providing Explanations For Transformer Language Models'
 authors: Friedrich Felix, Schramowski Patrick, Tauchmann Christopher, Kersting Kristian
 conference: "Arxiv"
 year: 2021

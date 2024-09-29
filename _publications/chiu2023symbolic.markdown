@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Symbolic Planning And Code Generation For Grounded Dialogue
+title: 'Symbolic Planning And Code Generation For Grounded Dialogue'
 authors: Chiu Justin T., Zhao Wenting, Chen Derek, Vaduguru Saujas, Rush Alexander M., Fried Daniel
 conference: "Arxiv"
 year: 2023

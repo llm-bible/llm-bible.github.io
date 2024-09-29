@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Effect Of Sampling Temperature On Problem Solving In Large Language Models
+title: 'The Effect Of Sampling Temperature On Problem Solving In Large Language Models'
 authors: Renze Matthew, Guven Erhan
 conference: "Arxiv"
 year: 2024

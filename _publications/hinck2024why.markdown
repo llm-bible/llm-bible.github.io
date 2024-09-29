@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Why Do Llava Vision-language Models Reply To Images In English?
+title: 'Why Do Llava Vision-language Models Reply To Images In English?'
 authors: Hinck Musashi, Holtermann Carolin, Olson Matthew Lyle, Schneider Florian, Yu Sungduk, Bhiwandiwalla Anahita, Lauscher Anne, Tseng Shaoyen, Lal Vasudev
 conference: "Arxiv"
 year: 2024

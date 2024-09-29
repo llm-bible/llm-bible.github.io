@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: High-dimension Human Value Representation In Large Language Models
+title: 'High-dimension Human Value Representation In Large Language Models'
 authors: Cahyawijaya Samuel, Chen Delong, Bang Yejin, Khalatbari Leila, Wilie Bryan, Ji Ziwei, Ishii Etsuko, Fung Pascale
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Large Language Models In Theory Of Mind Tasks
+title: 'Evaluating Large Language Models In Theory Of Mind Tasks'
 authors: Kosinski Michal
 conference: "Arxiv"
 year: 2023

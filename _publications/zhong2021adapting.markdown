@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adapting Language Models For Zero-shot Learning By Meta-tuning On Dataset And Prompt Collections
+title: 'Adapting Language Models For Zero-shot Learning By Meta-tuning On Dataset And Prompt Collections'
 authors: Zhong Ruiqi, Lee Kristy, Zhang Zheng, Klein Dan
 conference: "Arxiv"
 year: 2021

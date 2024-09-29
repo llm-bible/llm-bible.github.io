@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Long-form Factuality In Large Language Models
+title: 'Long-form Factuality In Large Language Models'
 authors: Wei Jerry, Yang Chengrun, Song Xinying, Lu Yifeng, Hu Nathan, Huang Jie, Tran Dustin, Peng Daiyi, Liu Ruibo, Huang Da, Du Cosmo, Le Quoc V.
 conference: "Arxiv"
 year: 2024

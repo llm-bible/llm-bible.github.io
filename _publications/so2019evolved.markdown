@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Evolved Transformer
+title: 'The Evolved Transformer'
 authors: So David R., Liang Chen, Le Quoc V.
 conference: "Arxiv"
 year: 2019

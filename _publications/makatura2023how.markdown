@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Can Large Language Models Help Humans In Design And Manufacturing?
+title: 'How Can Large Language Models Help Humans In Design And Manufacturing?'
 authors: Makatura Liane, Foshey Michael, Wang Bohan, Hähnlein Felix, Ma Pingchuan, Deng Bolei, Tjandrasuwita Megan, Spielberg Andrew, Owens Crystal Elaine, Chen Peter Yichen, Zhao Allan, Zhu Amy, Norton Wil J, Gu Edward, Jacob Joshua, Li Yifei, Schulz Adriana, Matusik Wojciech
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Chain-of-thought Style Prompting For Text-to-sql
+title: 'Exploring Chain-of-thought Style Prompting For Text-to-sql'
 authors: Tai Chang-you, Chen Ziru, Zhang Tianshu, Deng Xiang, Sun Huan
 conference: "Arxiv"
 year: 2023

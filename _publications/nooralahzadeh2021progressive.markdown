@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Progressive Transformer-based Generation Of Radiology Reports
+title: 'Progressive Transformer-based Generation Of Radiology Reports'
 authors: Nooralahzadeh Farhad, Gonzalez Nicolas Perez, Frauenfelder Thomas, Fujimoto Koji, Krauthammer Michael
 conference: "Arxiv"
 year: 2021

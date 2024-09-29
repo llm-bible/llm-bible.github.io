@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models For Relevance Judgment In Product Search
+title: 'Large Language Models For Relevance Judgment In Product Search'
 authors: Mehrdad Navid, Mohapatra Hrushikesh, Bagdouri Mossaab, Chandran Prijith, Magnani Alessandro, Cai Xunfan, Puthenputhussery Ajit, Yadav Sachin, Lee Tony, Zhai Chengxiang, Liao Ciya
 conference: "Arxiv"
 year: 2024

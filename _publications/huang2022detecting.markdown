@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Detecting Unintended Memorization In Language-model-fused ASR
+title: 'Detecting Unintended Memorization In Language-model-fused ASR'
 authors: Huang W. Ronny, Chien Steve, Thakkar Om, Mathews Rajiv
 conference: "Arxiv"
 year: 2022

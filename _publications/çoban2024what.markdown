@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What Do Mllms Hear? Examining Reasoning With Text And Sound Components In Multimodal Large Language Models
+title: 'What Do Mllms Hear? Examining Reasoning With Text And Sound Components In Multimodal Large Language Models'
 authors: Çoban Enis Berk, Mandel Michael I., Devaney Johanna
 conference: "Arxiv"
 year: 2024

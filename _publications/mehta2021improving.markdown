@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Compositional Generalization With Self-training For Data-to-text Generation
+title: 'Improving Compositional Generalization With Self-training For Data-to-text Generation'
 authors: Mehta Sanket Vaibhav, Rao Jinfeng, Tay Yi, Kale Mihir, Parikh Ankur P., Strubell Emma
 conference: "Arxiv"
 year: 2021

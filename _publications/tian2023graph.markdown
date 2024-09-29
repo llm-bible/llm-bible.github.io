@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Graph Neural Prompting With Large Language Models
+title: 'Graph Neural Prompting With Large Language Models'
 authors: Tian Yijun, Song Huan, Wang Zichen, Wang Haozhu, Hu Ziqing, Wang Fang, Chawla Nitesh V., Xu Panpan
 conference: "Arxiv"
 year: 2023

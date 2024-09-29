@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Memorizing Transformers
+title: 'Memorizing Transformers'
 authors: Wu Yuhuai, Rabe Markus N., Hutchins Delesley, Szegedy Christian
 conference: "Arxiv"
 year: 2022

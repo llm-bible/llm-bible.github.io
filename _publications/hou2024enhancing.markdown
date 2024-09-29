@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing And Accelerating Large Language Models Via Instruction-aware Contextual Compression
+title: 'Enhancing And Accelerating Large Language Models Via Instruction-aware Contextual Compression'
 authors: Hou Haowen, Ma Fei, Bai Binwen, Zhu Xinxin, Yu Fei
 conference: "Arxiv"
 year: 2024

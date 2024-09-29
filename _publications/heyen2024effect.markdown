@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Effect Of Model Size On LLM Post-hoc Explainability Via LIME
+title: 'The Effect Of Model Size On LLM Post-hoc Explainability Via LIME'
 authors: Heyen Henning, Widdicombe Amy, Siegel Noah Y., Perez-ortiz Maria, Treleaven Philip
 conference: "Arxiv"
 year: 2024

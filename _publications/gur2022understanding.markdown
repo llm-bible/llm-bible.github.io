@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding HTML With Large Language Models
+title: 'Understanding HTML With Large Language Models'
 authors: Gur Izzeddin, Nachum Ofir, Miao Yingjie, Safdari Mustafa, Huang Austin, Chowdhery Aakanksha, Narang Sharan, Fiedel Noah, Faust Aleksandra
 conference: "Arxiv"
 year: 2022

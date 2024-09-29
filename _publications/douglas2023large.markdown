@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models
+title: 'Large Language Models'
 authors: Douglas Michael R.
 conference: "Arxiv"
 year: 2023

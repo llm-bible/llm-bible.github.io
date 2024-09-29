@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Performance Of The Pre-trained Large Language Model GPT-4 On Automated Short Answer Grading
+title: 'Performance Of The Pre-trained Large Language Model GPT-4 On Automated Short Answer Grading'
 authors: Kortemeyer Gerd
 conference: "Arxiv"
 year: 2023

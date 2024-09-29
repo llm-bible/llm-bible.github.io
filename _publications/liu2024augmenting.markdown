@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Augmenting Math Word Problems Via Iterative Question Composing
+title: 'Augmenting Math Word Problems Via Iterative Question Composing'
 authors: Liu Haoxiong, Zhang Yifan, Luo Yifan, Yao Andrew Chi-chih
 conference: "Arxiv"
 year: 2024

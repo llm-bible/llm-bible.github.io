@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Unified Multi-task Learning Framework For Multi-goal Conversational Recommender Systems
+title: 'A Unified Multi-task Learning Framework For Multi-goal Conversational Recommender Systems'
 authors: Deng Yang, Zhang Wenxuan, Xu Weiwen, Lei Wenqiang, Chua Tat-seng, Lam Wai
 conference: "Arxiv"
 year: 2022

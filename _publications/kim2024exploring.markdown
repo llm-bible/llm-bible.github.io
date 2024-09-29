@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Prompting Methods For Mitigating Class Imbalance Through Synthetic Data Generation With Large Language Models
+title: 'Exploring Prompting Methods For Mitigating Class Imbalance Through Synthetic Data Generation With Large Language Models'
 authors: Kim Jinhee, Kim Taesung, Choo Jaegul
 conference: "Arxiv"
 year: 2024

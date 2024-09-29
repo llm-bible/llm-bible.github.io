@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Incremental Summarization With Structured Representations
+title: 'Enhancing Incremental Summarization With Structured Representations'
 authors: Hwang Eunjeong, Zhou Yichao, Wendt James Bradley, Gunel Beliz, Vo Nguyen, Xie Jing, Tata Sandeep
 conference: "Arxiv"
 year: 2024

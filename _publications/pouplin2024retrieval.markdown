@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieval Augmented Thought Process For Private Data Handling In Healthcare
+title: 'Retrieval Augmented Thought Process For Private Data Handling In Healthcare'
 authors: Pouplin Thomas, Sun Hao, Holt Samuel, Van Der Schaar Mihaela
 conference: "Arxiv"
 year: 2024

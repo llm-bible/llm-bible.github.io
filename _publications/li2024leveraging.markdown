@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Large Language Model As Simulated Patients For Clinical Education
+title: 'Leveraging Large Language Model As Simulated Patients For Clinical Education'
 authors: Li Yanzeng, Zeng Cheng, Zhong Jialun, Zhang Ruoyu, Zhang Minhao, Zou Lei
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Topical Language Generation Using Transformers
+title: 'Topical Language Generation Using Transformers'
 authors: Zandie Rohola, Mahoor Mohammad H.
 conference: "Arxiv"
 year: 2021

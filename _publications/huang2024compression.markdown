@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Compression Represents Intelligence Linearly
+title: 'Compression Represents Intelligence Linearly'
 authors: Huang Yuzhen, Zhang Jinghan, Shan Zifei, He Junxian
 conference: "Arxiv"
 year: 2024

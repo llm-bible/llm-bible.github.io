@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Progressively Selective Label Enhancement For Language Model Alignment
+title: 'Progressively Selective Label Enhancement For Language Model Alignment'
 authors: Liu Biao, Xu Ning, Geng Xin
 conference: "Arxiv"
 year: 2024

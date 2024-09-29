@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jailbreaking GPT-4V Via Self-adversarial Attacks With System Prompts
+title: 'Jailbreaking GPT-4V Via Self-adversarial Attacks With System Prompts'
 authors: Wu Yuanwei, Li Xiang, Liu Yixin, Zhou Pan, Sun Lichao
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficient Transformer-based Large Scale Language Representations Using Hardware-friendly Block Structured Pruning
+title: 'Efficient Transformer-based Large Scale Language Representations Using Hardware-friendly Block Structured Pruning'
 authors: Li Bingbing, Kong Zhenglun, Zhang Tianyun, Li Ji, Li Zhengang, Liu Hang, Ding Caiwen
 conference: "Arxiv"
 year: 2020

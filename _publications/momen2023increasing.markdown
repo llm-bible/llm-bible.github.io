@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Increasing The Performance Of Cognitively Inspired Data-efficient Language Models Via Implicit Structure Building
+title: 'Increasing The Performance Of Cognitively Inspired Data-efficient Language Models Via Implicit Structure Building'
 authors: Momen Omar, Arps David, Kallmeyer Laura
 conference: "Arxiv"
 year: 2023

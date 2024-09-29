@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Benchmarking Large Language Models On CFLUE -- A Chinese Financial Language Understanding Evaluation Dataset
+title: 'Benchmarking Large Language Models On CFLUE -- A Chinese Financial Language Understanding Evaluation Dataset'
 authors: Zhu Jie, Li Junhui, Wen Yalong, Guo Lifan
 conference: "The"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Architectural Foundations For The Large Language Model Infrastructures
+title: 'Architectural Foundations For The Large Language Model Infrastructures'
 authors: Zhu Hongyin
 conference: "Arxiv"
 year: 2024

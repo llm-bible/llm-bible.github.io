@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Italian Sentence Embeddings Properties Through Multi-tasking
+title: 'Exploring Italian Sentence Embeddings Properties Through Multi-tasking'
 authors: Nastase Vivi, Samo Giuseppe, Jiang Chunyang, Merlo Paola
 conference: "Arxiv"
 year: 2024

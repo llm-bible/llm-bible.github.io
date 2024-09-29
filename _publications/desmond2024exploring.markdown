@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Prompt Engineering Practices In The Enterprise
+title: 'Exploring Prompt Engineering Practices In The Enterprise'
 authors: Desmond Michael, Brachman Michelle
 conference: "Arxiv"
 year: 2024

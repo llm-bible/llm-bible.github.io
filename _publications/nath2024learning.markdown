@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning Goal-conditioned Representations For Language Reward Models
+title: 'Learning Goal-conditioned Representations For Language Reward Models'
 authors: Nath Vaskar, Slack Dylan, Da Jeff, Ma Yuntao, Zhang Hugh, Whitehead Spencer, Hendryx Sean
 conference: "Arxiv"
 year: 2024

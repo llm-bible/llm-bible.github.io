@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Advancing LLM Reasoning Generalists With Preference Trees
+title: 'Advancing LLM Reasoning Generalists With Preference Trees'
 authors: Yuan Lifan, Cui Ganqu, Wang Hanbin, Ding Ning, Wang Xingyao, Deng Jia, Shan Boji, Chen Huimin, Xie Ruobing, Lin Yankai, Liu Zhenghao, Zhou Bowen, Peng Hao, Liu Zhiyuan, Sun Maosong
 conference: "Arxiv"
 year: 2024

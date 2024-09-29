@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Integrating Explanations In Learning LTL Specifications From Demonstrations
+title: 'Integrating Explanations In Learning LTL Specifications From Demonstrations'
 authors: Gupta Ashutosh, Komp John, Rajput Abhay Singh, Shankaranarayanan Krishna, Trivedi Ashutosh, Varshney Namrita
 conference: "Arxiv"
 year: 2024

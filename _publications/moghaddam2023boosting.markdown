@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Boosting Theory-of-mind Performance In Large Language Models Via Prompting
+title: 'Boosting Theory-of-mind Performance In Large Language Models Via Prompting'
 authors: Moghaddam Shima Rahimi, Honey Christopher J.
 conference: "Arxiv"
 year: 2023

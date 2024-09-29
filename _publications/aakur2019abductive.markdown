@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Abductive Reasoning As Self-supervision For Common Sense Question Answering
+title: 'Abductive Reasoning As Self-supervision For Common Sense Question Answering'
 authors: Aakur Sathyanarayanan N., Sarkar Sudeep
 conference: "Arxiv"
 year: 2019

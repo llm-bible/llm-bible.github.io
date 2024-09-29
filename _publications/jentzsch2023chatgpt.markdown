@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatgpt Is Fun, But It Is Not Funny! Humor Is Still Challenging Large Language Models
+title: 'Chatgpt Is Fun, But It Is Not Funny! Humor Is Still Challenging Large Language Models'
 authors: Jentzsch Sophie, Kersting Kristian
 conference: "Arxiv"
 year: 2023

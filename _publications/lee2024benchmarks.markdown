@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Benchmarks Underestimate The Readiness Of Multi-lingual Dialogue Agents
+title: 'Benchmarks Underestimate The Readiness Of Multi-lingual Dialogue Agents'
 authors: Lee Andrew H., Semnani Sina J., Castillo-lópez Galo, De Chalendar Gäel, Choudhury Monojit, Dua Ashna, Kavitha Kapil Rajesh, Kim Sungkyun, Kodali Prashant, Kumaraguru Ponnurangam, Lombard Alexis, Moradshahi Mehrad, Park Gihyun, Semmar Nasredine, Seo Jiwon, Shen Tianhao, Shrivastava Manish, Xiong Deyi, Lam Monica S.
 conference: "Arxiv"
 year: 2024

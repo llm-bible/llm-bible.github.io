@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Models Show Stable Value Orientations Across Diverse Role-plays
+title: 'Language Models Show Stable Value Orientations Across Diverse Role-plays'
 authors: Lee Bruce W., Lee Yeongheon, Cho Hyunsoo
 conference: "Arxiv"
 year: 2024

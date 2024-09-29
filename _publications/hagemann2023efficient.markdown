@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficient Parallelization Layouts For Large-scale Distributed Model Training
+title: 'Efficient Parallelization Layouts For Large-scale Distributed Model Training'
 authors: Hagemann Johannes, Weinbach Samuel, Dobler Konstantin, Schall Maximilian, De Melo Gerard
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GPT-4 As An Agronomist Assistant? Answering Agriculture Exams Using Large Language Models
+title: 'GPT-4 As An Agronomist Assistant? Answering Agriculture Exams Using Large Language Models'
 authors: Silva Bruno, Nunes Leonardo, Estevão Roberto, Aski Vijay, Chandra Ranveer
 conference: "Arxiv"
 year: 2023

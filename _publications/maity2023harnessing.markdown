@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Harnessing The Power Of Prompt-based Techniques For Generating School-level Questions Using Large Language Models
+title: 'Harnessing The Power Of Prompt-based Techniques For Generating School-level Questions Using Large Language Models'
 authors: Maity Subhankar, Deroy Aniket, Sarkar Sudeshna
 conference: "Arxiv"
 year: 2023

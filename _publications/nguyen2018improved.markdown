@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improved Fusion Of Visual And Language Representations By Dense Symmetric Co-attention For Visual Question Answering
+title: 'Improved Fusion Of Visual And Language Representations By Dense Symmetric Co-attention For Visual Question Answering'
 authors: Nguyen Duy-kien, Okatani Takayuki
 conference: "Arxiv"
 year: 2018

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Intention And Context Elicitation With Large Language Models In The Legal Aid Intake Process
+title: 'Intention And Context Elicitation With Large Language Models In The Legal Aid Intake Process'
 authors: Goodson Nick, Lu Rongfei
 conference: "Arxiv"
 year: 2023

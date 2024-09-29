@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What Is The Best Model? Application-driven Evaluation For Large Language Models
+title: 'What Is The Best Model? Application-driven Evaluation For Large Language Models'
 authors: Lian Shiguo, Zhao Kaikai, Liu Xinhui, Lei Xuejiao, Yang Bikun, Zhang Wenjing, Wang Kai, Liu Zhaoxiang
 conference: "Arxiv"
 year: 2024

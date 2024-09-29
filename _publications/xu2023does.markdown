@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Does Conceptual Representation Require Embodiment? Insights From Large Language Models
+title: 'Does Conceptual Representation Require Embodiment? Insights From Large Language Models'
 authors: Xu Qihui, Peng Yingying, Nastase Samuel A., Chodorow Martin, Wu Minghua, Li Ping
 conference: "Arxiv"
 year: 2023

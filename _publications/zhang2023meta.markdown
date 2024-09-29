@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Meta Prompting For AI Systems
+title: 'Meta Prompting For AI Systems'
 authors: Zhang Yifan, Yuan Yang, Yao Andrew Chi-chih
 conference: "Arxiv"
 year: 2023

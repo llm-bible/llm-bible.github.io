@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Biomedical Large Languages Models Seem Not To Be Superior To Generalist Models On Unseen Medical Data
+title: 'Biomedical Large Languages Models Seem Not To Be Superior To Generalist Models On Unseen Medical Data'
 authors: Dorfner Felix J., Dada Amin, Busch Felix, Makowski Marcus R., Han Tianyu, Truhn Daniel, Kleesiek Jens, Sushil Madhumita, Lammert Jacqueline, Adams Lisa C., Bressem Keno K.
 conference: "Arxiv"
 year: 2024

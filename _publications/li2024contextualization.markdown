@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Contextualization Distillation From Large Language Model For Knowledge Graph Completion
+title: 'Contextualization Distillation From Large Language Model For Knowledge Graph Completion'
 authors: Li Dawei, Tan Zhen, Chen Tianlong, Liu Huan
 conference: "Arxiv"
 year: 2024

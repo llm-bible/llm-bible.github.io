@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Continuous Decomposition Of Granularity For Neural Paraphrase Generation
+title: 'Continuous Decomposition Of Granularity For Neural Paraphrase Generation'
 authors: Gu Xiaodong, Zhang Zhaowei, Lee Sang-woo, Yoo Kang Min, Ha Jung-woo
 conference: "Arxiv"
 year: 2022

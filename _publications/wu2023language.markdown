@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Prompt For Autonomous Driving
+title: 'Language Prompt For Autonomous Driving'
 authors: Wu Dongming, Han Wencheng, Wang Tiancai, Liu Yingfei, Zhang Xiangyu, Shen Jianbing
 conference: "Arxiv"
 year: 2023

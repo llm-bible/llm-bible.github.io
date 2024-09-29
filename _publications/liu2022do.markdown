@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Ever Larger Octopi Still Amplify Reporting Biases? Evidence From Judgments Of Typical Colour
+title: 'Do Ever Larger Octopi Still Amplify Reporting Biases? Evidence From Judgments Of Typical Colour'
 authors: Liu Fangyu, Eisenschlos Julian Martin, Cole Jeremy R., Collier Nigel
 conference: "Arxiv"
 year: 2022

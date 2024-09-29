@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Personalized Abstractive Summarization By Tri-agent Generation Pipeline
+title: 'Personalized Abstractive Summarization By Tri-agent Generation Pipeline'
 authors: Xiao Wen, Xie Yujia, Carenini Giuseppe, He Pengcheng
 conference: "Arxiv"
 year: 2023

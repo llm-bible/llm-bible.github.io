@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving The Validity Of Automatically Generated Feedback Via Reinforcement Learning
+title: 'Improving The Validity Of Automatically Generated Feedback Via Reinforcement Learning'
 authors: Scarlatos Alexander, Smith Digory, Woodhead Simon, Lan Andrew
 conference: "Arxiv"
 year: 2024

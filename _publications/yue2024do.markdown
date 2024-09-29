@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Large Language Models Understand Conversational Implicature -- A Case Study With A Chinese Sitcom
+title: 'Do Large Language Models Understand Conversational Implicature -- A Case Study With A Chinese Sitcom'
 authors: Yue Shisen, Song Siyuan, Cheng Xinyuan, Hu Hai
 conference: "Arxiv"
 year: 2024

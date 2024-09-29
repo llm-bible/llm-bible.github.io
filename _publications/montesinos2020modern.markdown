@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Modern Methods For Text Generation
+title: 'Modern Methods For Text Generation'
 authors: Montesinos Dimas Munoz
 conference: "Arxiv"
 year: 2020

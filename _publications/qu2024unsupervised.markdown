@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unsupervised Distractor Generation Via Large Language Model Distilling And Counterfactual Contrastive Decoding
+title: 'Unsupervised Distractor Generation Via Large Language Model Distilling And Counterfactual Contrastive Decoding'
 authors: Qu Fanyi, Sun Hao, Wu Yunfang
 conference: "Arxiv"
 year: 2024

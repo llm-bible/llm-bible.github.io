@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompting With Pseudo-code Instructions
+title: 'Prompting With Pseudo-code Instructions'
 authors: Mishra Mayank, Kumar Prince, Bhat Riyaz, Murthy Rudra V, Contractor Danish, Tamilselvam Srikanth
 conference: "Arxiv"
 year: 2023

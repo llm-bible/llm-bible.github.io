@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generic Attention-model Explainability For Interpreting Bi-modal And Encoder-decoder Transformers
+title: 'Generic Attention-model Explainability For Interpreting Bi-modal And Encoder-decoder Transformers'
 authors: Chefer Hila, Gur Shir, Wolf Lior
 conference: "Arxiv"
 year: 2021

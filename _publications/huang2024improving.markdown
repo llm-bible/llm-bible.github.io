@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Llms For Recommendation With Out-of-vocabulary Tokens
+title: 'Improving Llms For Recommendation With Out-of-vocabulary Tokens'
 authors: Huang Ting-ji, Yang Jia-qi, Shen Chunxu, Liu Kai-qi, Zhan De-chuan, Ye Han-jia
 conference: "Arxiv"
 year: 2024

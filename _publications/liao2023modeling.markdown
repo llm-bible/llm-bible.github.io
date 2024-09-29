@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Modeling Complex Mathematical Reasoning Via Large Language Model Based Mathagent
+title: 'Modeling Complex Mathematical Reasoning Via Large Language Model Based Mathagent'
 authors: Liao Haoran, Du Qinyi, Hu Shaohua, He Hao, Xu Yanyan, Tian Jidong, Jin Yaohui
 conference: "Arxiv"
 year: 2023

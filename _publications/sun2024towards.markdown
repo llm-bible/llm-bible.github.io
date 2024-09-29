@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Detecting Llms Hallucination Via Markov Chain-based Multi-agent Debate Framework
+title: 'Towards Detecting Llms Hallucination Via Markov Chain-based Multi-agent Debate Framework'
 authors: Sun Xiaoxi, Li Jinpeng, Zhong Yan, Zhao Dongyan, Yan Rui
 conference: "Arxiv"
 year: 2024

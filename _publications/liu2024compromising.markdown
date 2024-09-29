@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Compromising Embodied Agents With Contextual Backdoor Attacks
+title: 'Compromising Embodied Agents With Contextual Backdoor Attacks'
 authors: Liu Aishan, Zhou Yuguang, Liu Xianglong, Zhang Tianyuan, Liang Siyuan, Wang Jiakai, Pu Yanjun, Li Tianlin, Zhang Junqi, Zhou Wenbo, Guo Qing, Tao Dacheng
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompting Large Language Models With Speech Recognition Abilities
+title: 'Prompting Large Language Models With Speech Recognition Abilities'
 authors: Fathullah Yassir, Wu Chunyang, Lakomkin Egor, Jia Junteng, Shangguan Yuan, Li Ke, Guo Jinxi, Xiong Wenhan, Mahadeokar Jay, Kalinli Ozlem, Fuegen Christian, Seltzer Mike
 conference: "Arxiv"
 year: 2023

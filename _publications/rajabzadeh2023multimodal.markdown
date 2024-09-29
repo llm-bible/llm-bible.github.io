@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multimodal Multi-hop Question Answering Through A Conversation Between Tools And Efficiently Finetuned Large Language Models
+title: 'Multimodal Multi-hop Question Answering Through A Conversation Between Tools And Efficiently Finetuned Large Language Models'
 authors: Rajabzadeh Hossein, Wang Suyuchen, Kwon Hyock Ju, Liu Bang
 conference: "Arxiv"
 year: 2023

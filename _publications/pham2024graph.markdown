@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Graph Guided Question Answer Generation For Procedural Question-answering
+title: 'Graph Guided Question Answer Generation For Procedural Question-answering'
 authors: Pham Hai X., Hadji Isma, Xu Xinnuo, Degutyte Ziedune, Rainey Jay, Kazakos Evangelos, Fazly Afsaneh, Tzimiropoulos Georgios, Martinez Brais
 conference: "Arxiv"
 year: 2024

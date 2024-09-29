@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adapting LLM Agents With Universal Feedback In Communication
+title: 'Adapting LLM Agents With Universal Feedback In Communication'
 authors: Wang Kuan, Lu Yadong, Santacroce Michael, Gong Yeyun, Zhang Chao, Shen Yelong
 conference: "Arxiv"
 year: 2023

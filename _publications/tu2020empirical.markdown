@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Empirical Study On Robustness To Spurious Correlations Using Pre-trained Language Models
+title: 'An Empirical Study On Robustness To Spurious Correlations Using Pre-trained Language Models'
 authors: Tu Lifu, Lalwani Garima, Gella Spandana, He He
 conference: "Arxiv"
 year: 2020

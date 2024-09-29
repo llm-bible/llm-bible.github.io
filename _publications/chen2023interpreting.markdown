@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Interpreting And Controlling Vision Foundation Models Via Text Explanations
+title: 'Interpreting And Controlling Vision Foundation Models Via Text Explanations'
 authors: Chen Haozhe, Yang Junfeng, Vondrick Carl, Mao Chengzhi
 conference: "Arxiv"
 year: 2023

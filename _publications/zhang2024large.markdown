@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models As Evaluators For Recommendation Explanations
+title: 'Large Language Models As Evaluators For Recommendation Explanations'
 authors: Zhang Xiaoyu, Li Yishan, Wang Jiayin, Sun Bowen, Ma Weizhi, Sun Peijie, Zhang Min
 conference: "Arxiv"
 year: 2024

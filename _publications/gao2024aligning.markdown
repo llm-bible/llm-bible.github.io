@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aligning LLM Agents By Learning Latent Preference From User Edits
+title: 'Aligning LLM Agents By Learning Latent Preference From User Edits'
 authors: Gao Ge, Taymanov Alexey, Salinas Eduardo, Mineiro Paul, Misra Dipendra
 conference: "Arxiv"
 year: 2024

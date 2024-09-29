@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Grammar Prompting For Domain-specific Language Generation With Large Language Models
+title: 'Grammar Prompting For Domain-specific Language Generation With Large Language Models'
 authors: Wang Bailin, Wang Zi, Wang Xuezhi, Cao Yuan, Saurous Rif A., Kim Yoon
 conference: "Arxiv"
 year: 2023

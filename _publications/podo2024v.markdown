@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: V-RECS, A Low-cost LLM4VIS Recommender With Explanations, Captioning And Suggestions
+title: 'V-RECS, A Low-cost LLM4VIS Recommender With Explanations, Captioning And Suggestions'
 authors: Podo Luca, Angelini Marco, Velardi Paola
 conference: "Arxiv"
 year: 2024

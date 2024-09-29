@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding The Dataset Practitioners Behind Large Language Model Development
+title: 'Understanding The Dataset Practitioners Behind Large Language Model Development'
 authors: Qian Crystal, Reif Emily, Kahng Minsuk
 conference: "Arxiv"
 year: 2024

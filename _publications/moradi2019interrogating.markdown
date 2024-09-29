@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Interrogating The Explanatory Power Of Attention In Neural Machine Translation
+title: 'Interrogating The Explanatory Power Of Attention In Neural Machine Translation'
 authors: Moradi Pooya, Kambhatla Nishant, Sarkar Anoop
 conference: "Arxiv"
 year: 2019

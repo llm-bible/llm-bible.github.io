@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Polite Dialogue Generation Without Parallel Data
+title: 'Polite Dialogue Generation Without Parallel Data'
 authors: Niu Tong, Bansal Mohit
 conference: "Arxiv"
 year: 2018

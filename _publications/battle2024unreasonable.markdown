@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Unreasonable Effectiveness Of Eccentric Automatic Prompts
+title: 'The Unreasonable Effectiveness Of Eccentric Automatic Prompts'
 authors: Battle Rick, Gollapudi Teja
 conference: "Arxiv"
 year: 2024

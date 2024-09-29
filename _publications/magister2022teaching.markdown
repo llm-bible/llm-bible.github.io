@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Teaching Small Language Models To Reason
+title: 'Teaching Small Language Models To Reason'
 authors: Magister Lucie Charlotte, Mallinson Jonathan, Adamek Jakub, Malmi Eric, Severyn Aliaksei
 conference: "Arxiv"
 year: 2022

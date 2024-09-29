@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automated Review Generation Method Based On Large Language Models
+title: 'Automated Review Generation Method Based On Large Language Models'
 authors: Wu Shican, Ma Xiao, Luo Dehui, Li Lulu, Shi Xiangcheng, Chang Xin, Lin Xiaoyun, Luo Ran, Pei Chunlei, Zhao Zhi-jian, Gong Jinlong
 conference: "Arxiv"
 year: 2024

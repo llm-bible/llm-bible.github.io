@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: When Do Prompting And Prefix-tuning Work? A Theory Of Capabilities And Limitations
+title: 'When Do Prompting And Prefix-tuning Work? A Theory Of Capabilities And Limitations'
 authors: Petrov Aleksandar, Torr Philip H. S., Bibi Adel
 conference: "Arxiv"
 year: 2023

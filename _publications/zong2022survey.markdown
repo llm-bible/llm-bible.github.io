@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey On GPT-3
+title: 'A Survey On GPT-3'
 authors: Zong Mingyu, Krishnamachari Bhaskar
 conference: "Arxiv"
 year: 2022

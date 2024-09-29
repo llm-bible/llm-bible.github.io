@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Informative Language Representation Learning For Massively Multilingual Neural Machine Translation
+title: 'Informative Language Representation Learning For Massively Multilingual Neural Machine Translation'
 authors: Jin Renren, Xiong Deyi
 conference: "Arxiv"
 year: 2022

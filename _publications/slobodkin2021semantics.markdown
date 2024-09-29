@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Semantics-aware Attention Improves Neural Machine Translation
+title: 'Semantics-aware Attention Improves Neural Machine Translation'
 authors: Slobodkin Aviv, Choshen Leshem, Abend Omri
 conference: "Arxiv"
 year: 2021

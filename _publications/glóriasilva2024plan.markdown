@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Plan-grounded Large Language Models For Dual Goal Conversational Settings
+title: 'Plan-grounded Large Language Models For Dual Goal Conversational Settings'
 authors: Glória-silva Diogo, Ferreira Rafael, Tavares Diogo, Semedo David, Magalhães João
 conference: "Arxiv"
 year: 2024

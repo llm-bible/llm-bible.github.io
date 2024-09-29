@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transformer Alignment In Large Language Models
+title: 'Transformer Alignment In Large Language Models'
 authors: Aubry Murdock, Meng Haoming, Sugolov Anton, Papyan Vardan
 conference: "Arxiv"
 year: 2024

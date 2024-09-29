@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A BERT Baseline For The Natural Questions
+title: 'A BERT Baseline For The Natural Questions'
 authors: Alberti Chris, Lee Kenton, Collins Michael
 conference: "Arxiv"
 year: 2019

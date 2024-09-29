@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Large Language Model Understand Multi-intent Spoken Language ?
+title: 'Do Large Language Model Understand Multi-intent Spoken Language ?'
 authors: Yin Shangjian, Huang Peijie, Xu Yuhong, Huang Haojing, Chen Jiatian
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Demystifying Verbatim Memorization In Large Language Models
+title: 'Demystifying Verbatim Memorization In Large Language Models'
 authors: Huang Jing, Yang Diyi, Potts Christopher
 conference: "Arxiv"
 year: 2024

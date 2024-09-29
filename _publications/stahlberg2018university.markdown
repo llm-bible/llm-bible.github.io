@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The University Of Cambridge''s Machine Translation Systems For WMT18
+title: 'The University Of Cambridge''s Machine Translation Systems For WMT18'
 authors: Stahlberg Felix, De Gispert Adria, Byrne Bill
 conference: "Arxiv"
 year: 2018

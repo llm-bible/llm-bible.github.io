@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Declaration-based Prompt Tuning For Visual Question Answering
+title: 'Declaration-based Prompt Tuning For Visual Question Answering'
 authors: Liu Yuhang, Wei Wei, Peng Daowan, Zhu Feida
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EXAONE 3.0 7.8B Instruction Tuned Language Model
+title: 'EXAONE 3.0 7.8B Instruction Tuned Language Model'
 authors: Research Lg Ai, :, An Soyoung, Bae Kyunghoon, Choi Eunbi, Choi Stanley Jungkyu, Choi Yemuk, Hong Seokhee, Hong Yeonjung, Hwang Junwon, Jeon Hyojin, Jo Gerrard Jeongwon, Jo Hyunjik, Jung Jiyeon, Jung Yountae, Kim Euisoon, Kim Hyosang, Kim Joonkee, Kim Seonghwan, Kim Soyeon, Kim Sunkyoung, Kim Yireun, Kim Youchul, Lee Edward Hwayoung, Lee Haeju, Lee Honglak, Lee Jinsik, Lee Kyungmin, Lee Moontae, Lee Seungjun, Lim Woohyung, Park Sangha, Park Sooyoun, Park Yongmin, Seo Boseong, Yang Sihoon, Yeen Heuiyeen, Yoo Kyungjae, Yun Hyeongu
 conference: "Arxiv"
 year: 2024

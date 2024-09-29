@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieval-augmented Multimodal Language Modeling
+title: 'Retrieval-augmented Multimodal Language Modeling'
 authors: Yasunaga Michihiro, Aghajanyan Armen, Shi Weijia, James Rich, Leskovec Jure, Liang Percy, Lewis Mike, Zettlemoyer Luke, Yih Wen-tau
 conference: "Arxiv"
 year: 2022

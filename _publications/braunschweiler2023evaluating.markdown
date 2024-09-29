@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Large Language Models For Document-grounded Response Generation In Information-seeking Dialogues
+title: 'Evaluating Large Language Models For Document-grounded Response Generation In Information-seeking Dialogues'
 authors: Braunschweiler Norbert, Doddipatla Rama, Keizer Simon, Stoyanchev Svetlana
 conference: "Arxiv"
 year: 2023

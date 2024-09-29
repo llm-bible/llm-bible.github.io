@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Missing Ingredient In Zero-shot Neural Machine Translation
+title: 'The Missing Ingredient In Zero-shot Neural Machine Translation'
 authors: Arivazhagan Naveen, Bapna Ankur, Firat Orhan, Aharoni Roee, Johnson Melvin, Macherey Wolfgang
 conference: "Arxiv"
 year: 2019

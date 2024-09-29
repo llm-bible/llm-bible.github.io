@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Examining The Influence Of Varied Levels Of Domain Knowledge Base Inclusion In Gpt-based Intelligent Tutors
+title: 'Examining The Influence Of Varied Levels Of Domain Knowledge Base Inclusion In Gpt-based Intelligent Tutors'
 authors: Castleman Blake, Turkcan Mehmet Kerem
 conference: "Proceedings of the"
 year: 2023

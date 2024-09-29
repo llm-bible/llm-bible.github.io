@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Pre-trained Models With Text Structure Knowledge For Question Generation
+title: 'Enhancing Pre-trained Models With Text Structure Knowledge For Question Generation'
 authors: Wu Zichen Key Laboratory Of Computational Linguistics, Ministry Of Education, China, School Of Computer Science, Peking University, China, Jia Xin Key Laboratory Of Computational Linguistics, Ministry Of Education, China, School Of Computer Science, Peking University, China, Qu Fanyi Key Laboratory Of Computational Linguistics, Ministry Of Education, China, School Of Computer Science, Peking University, China, Wu Yunfang Key Laboratory Of Computational Linguistics, Ministry Of Education, China, School Of Computer Science, Peking University, China
 conference: "Arxiv"
 year: 2022

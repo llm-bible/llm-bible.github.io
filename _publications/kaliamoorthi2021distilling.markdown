@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Distilling Large Language Models Into Tiny And Effective Students Using Pqrnn
+title: 'Distilling Large Language Models Into Tiny And Effective Students Using Pqrnn'
 authors: Kaliamoorthi Prabhu, Siddhant Aditya, Li Edward, Johnson Melvin
 conference: "Arxiv"
 year: 2021

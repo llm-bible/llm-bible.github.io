@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Input-label Mapping With Demonstration Replay For In-context Learning
+title: 'Improving Input-label Mapping With Demonstration Replay For In-context Learning'
 authors: Gong Zhuocheng, Liu Jiahao, Wang Qifan, Wang Jingang, Cai Xunliang, Zhao Dongyan, Yan Rui
 conference: "Arxiv"
 year: 2023

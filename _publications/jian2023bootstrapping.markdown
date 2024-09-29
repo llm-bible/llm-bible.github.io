@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bootstrapping Vision-language Learning With Decoupled Language Pre-training
+title: 'Bootstrapping Vision-language Learning With Decoupled Language Pre-training'
 authors: Jian Yiren, Gao Chongyang, Vosoughi Soroush
 conference: "Arxiv"
 year: 2023

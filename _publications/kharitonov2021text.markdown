@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Text-free Prosody-aware Generative Spoken Language Modeling
+title: 'Text-free Prosody-aware Generative Spoken Language Modeling'
 authors: Kharitonov Eugene, Lee Ann, Polyak Adam, Adi Yossi, Copet Jade, Lakhotia Kushal, Nguyen Tu-anh, Rivière Morgane, Mohamed Abdelrahman, Dupoux Emmanuel, Hsu Wei-ning
 conference: "Arxiv"
 year: 2021

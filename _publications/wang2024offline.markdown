@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Offline RLHF Methods Need More Accurate Supervision Signals
+title: 'Offline RLHF Methods Need More Accurate Supervision Signals'
 authors: Wang Shiqi, Zhang Zhengze, Zhao Rui, Tan Fei, Nguyen Cam Tu
 conference: "Arxiv"
 year: 2024

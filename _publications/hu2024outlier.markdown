@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Outlier-efficient Hopfield Layers For Large Transformer-based Models
+title: 'Outlier-efficient Hopfield Layers For Large Transformer-based Models'
 authors: Hu Jerry Yao-chieh, Chang Pei-hsuan, Luo Robin, Chen Hong-yu, Li Weijian, Wang Wei-po, Liu Han
 conference: "Arxiv"
 year: 2024

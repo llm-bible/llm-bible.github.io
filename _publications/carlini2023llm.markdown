@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A LLM Assisted Exploitation Of Ai-guardian
+title: 'A LLM Assisted Exploitation Of Ai-guardian'
 authors: Carlini Nicholas
 conference: "Arxiv"
 year: 2023

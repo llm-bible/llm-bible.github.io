@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Redecode Framework For Iterative Improvement In Paraphrase Generation
+title: 'Redecode Framework For Iterative Improvement In Paraphrase Generation'
 authors: Aggarwal Milan, Kumari Nupur, Bansal Ayush, Krishnamurthy Balaji
 conference: "Arxiv"
 year: 2018

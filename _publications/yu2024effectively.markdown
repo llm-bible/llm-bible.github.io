@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Effectively Compress KV Heads For LLM
+title: 'Effectively Compress KV Heads For LLM'
 authors: Yu Hao, Yang Zelan, Li Shen, Li Yong, Wu Jianxin
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zero-resource Hallucination Prevention For Large Language Models
+title: 'Zero-resource Hallucination Prevention For Large Language Models'
 authors: Luo Junyu, Xiao Cao, Ma Fenglong
 conference: "Arxiv"
 year: 2023

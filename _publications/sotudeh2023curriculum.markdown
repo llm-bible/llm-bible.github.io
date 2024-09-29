@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Curriculum-guided Abstractive Summarization
+title: 'Curriculum-guided Abstractive Summarization'
 authors: Sotudeh Sajad, Deilamsalehy Hanieh, Dernoncourt Franck, Goharian Nazli
 conference: "Arxiv"
 year: 2023

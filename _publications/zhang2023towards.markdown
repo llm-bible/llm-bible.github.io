@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Perceiving Small Visual Details In Zero-shot Visual Question Answering With Multimodal Llms
+title: 'Towards Perceiving Small Visual Details In Zero-shot Visual Question Answering With Multimodal Llms'
 authors: Zhang Jiarui, Khayatkhoei Mahyar, Chhikara Prateek, Ilievski Filip
 conference: "Arxiv"
 year: 2023

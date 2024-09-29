@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Policy-gradient Training Of Language Models For Ranking
+title: 'Policy-gradient Training Of Language Models For Ranking'
 authors: Gao Ge, Chang Jonathan D., Cardie Claire, Brantley Kianté, Joachim Thorsten
 conference: "Arxiv"
 year: 2023

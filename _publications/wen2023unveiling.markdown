@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unveiling The Implicit Toxicity In Large Language Models
+title: 'Unveiling The Implicit Toxicity In Large Language Models'
 authors: Wen Jiaxin, Ke Pei, Sun Hao, Zhang Zhexin, Li Chengfei, Bai Jinfeng, Huang Minlie
 conference: "Arxiv"
 year: 2023

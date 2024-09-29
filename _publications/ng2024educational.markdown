@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Educational Personalized Learning Path Planning With Large Language Models
+title: 'Educational Personalized Learning Path Planning With Large Language Models'
 authors: Ng Chee, Fung Yuen
 conference: "Arxiv"
 year: 2024

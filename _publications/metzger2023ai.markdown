@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An AI Chatbot For Explaining Deep Reinforcement Learning Decisions Of Service-oriented Systems
+title: 'An AI Chatbot For Explaining Deep Reinforcement Learning Decisions Of Service-oriented Systems'
 authors: Metzger Andreas, Bartel Jone, Laufer Jan
 conference: "Arxiv"
 year: 2023

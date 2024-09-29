@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learned Token Pruning For Transformers
+title: 'Learned Token Pruning For Transformers'
 authors: Kim Sehoon, Shen Sheng, Thorsley David, Gholami Amir, Kwon Woosuk, Hassoun Joseph, Keutzer Kurt
 conference: "Arxiv"
 year: 2021

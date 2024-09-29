@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning To Compress Prompt In Natural Language Formats
+title: 'Learning To Compress Prompt In Natural Language Formats'
 authors: Chuang Yu-neng, Xing Tianwei, Chang Chia-yuan, Liu Zirui, Chen Xun, Hu Xia
 conference: "Arxiv"
 year: 2024

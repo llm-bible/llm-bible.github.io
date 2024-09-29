@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is Chatgpt A Good Sentiment Analyzer? A Preliminary Study
+title: 'Is Chatgpt A Good Sentiment Analyzer? A Preliminary Study'
 authors: Zengzhi Wang, Qiming Xie, Yi Feng, Zixiang Ding, Zinong Yang, Rui Xia
 conference: "Arxiv"
 year: 2023

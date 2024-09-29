@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Memory Transformer
+title: 'Memory Transformer'
 authors: Burtsev Mikhail S., Kuratov Yuri, Peganov Anton, Sapunov Grigory V.
 conference: "Arxiv"
 year: 2020

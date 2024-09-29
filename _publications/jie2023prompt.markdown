@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt-based Length Controlled Generation With Reinforcement Learning
+title: 'Prompt-based Length Controlled Generation With Reinforcement Learning'
 authors: Jie Renlong, Meng Xiaojun, Shang Lifeng, Jiang Xin, Liu Qun
 conference: "Arxiv"
 year: 2023

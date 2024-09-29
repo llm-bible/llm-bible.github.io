@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Uncovering Bias In Large Vision-language Models At Scale With Counterfactuals
+title: 'Uncovering Bias In Large Vision-language Models At Scale With Counterfactuals'
 authors: Howard Phillip, Fraser Kathleen C., Bhiwandiwalla Anahita, Kiritchenko Svetlana
 conference: "Arxiv"
 year: 2024

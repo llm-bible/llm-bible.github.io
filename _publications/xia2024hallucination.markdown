@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hallucination Diversity-aware Active Learning For Text Summarization
+title: 'Hallucination Diversity-aware Active Learning For Text Summarization'
 authors: Xia Yu, Liu Xu, Yu Tong, Kim Sungchul, Rossi Ryan A., Rao Anup, Mai Tung, Li Shuai
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Extending Context Window Of Large Language Models Via Positional Interpolation
+title: 'Extending Context Window Of Large Language Models Via Positional Interpolation'
 authors: Chen Shouyuan, Wong Sherman, Chen Liangjian, Tian Yuandong
 conference: "Arxiv"
 year: 2023

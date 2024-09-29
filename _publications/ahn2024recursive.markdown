@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recursive Chain-of-feedback Prevents Performance Degradation From Redundant Prompting
+title: 'Recursive Chain-of-feedback Prevents Performance Degradation From Redundant Prompting'
 authors: Ahn Jinwoo, Shin Kyuseung
 conference: "Arxiv"
 year: 2024

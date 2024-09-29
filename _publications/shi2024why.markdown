@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Why Larger Language Models Do In-context Learning Differently?
+title: 'Why Larger Language Models Do In-context Learning Differently?'
 authors: Shi Zhenmei, Wei Junyi, Xu Zhuoyan, Liang Yingyu
 conference: "Arxiv"
 year: 2024

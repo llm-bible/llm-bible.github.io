@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Effective Are State Space Models For Machine Translation?
+title: 'How Effective Are State Space Models For Machine Translation?'
 authors: Pitorro Hugo, Vasylenko Pavlo, Treviso Marcos, Martins André F. T.
 conference: "Arxiv"
 year: 2024

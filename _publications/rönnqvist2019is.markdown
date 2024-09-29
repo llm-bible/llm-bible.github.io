@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is Multilingual BERT Fluent In Language Generation?
+title: 'Is Multilingual BERT Fluent In Language Generation?'
 authors: Rönnqvist Samuel, Kanerva Jenna, Salakoski Tapio, Ginter Filip
 conference: "In proceedings of the First NLPL Workshop on Deep Learning for Natural Language Processing"
 year: 2019

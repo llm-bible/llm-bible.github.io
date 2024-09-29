@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pre-training Intent-aware Encoders For Zero- And Few-shot Intent Classification
+title: 'Pre-training Intent-aware Encoders For Zero- And Few-shot Intent Classification'
 authors: Sung Mujeen, Gung James, Mansimov Elman, Pappas Nikolaos, Shu Raphael, Romeo Salvatore, Zhang Yi, Castelli Vittorio
 conference: "Arxiv"
 year: 2023

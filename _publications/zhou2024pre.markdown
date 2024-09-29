@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pre-trained Large Language Models Use Fourier Features To Compute Addition
+title: 'Pre-trained Large Language Models Use Fourier Features To Compute Addition'
 authors: Zhou Tianyi, Fu Deqing, Sharan Vatsal, Jia Robin
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficient Long-text Understanding With Short-text Models
+title: 'Efficient Long-text Understanding With Short-text Models'
 authors: Ivgi Maor, Shaham Uri, Berant Jonathan
 conference: "Arxiv"
 year: 2022

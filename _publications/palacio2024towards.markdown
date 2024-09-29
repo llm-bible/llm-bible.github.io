@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards More Trustworthy And Interpretable Llms For Code Through Syntax-grounded Explanations
+title: 'Towards More Trustworthy And Interpretable Llms For Code Through Syntax-grounded Explanations'
 authors: Palacio David N., Rodriguez-cardenas Daniel, Velasco Alejandro, Khati Dipin, Moran Kevin, Poshyvanyk Denys
 conference: "Arxiv"
 year: 2024

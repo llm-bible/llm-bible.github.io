@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Leverage External Knowledge To Extend Clinical Insight Beyond Language Boundaries
+title: 'Large Language Models Leverage External Knowledge To Extend Clinical Insight Beyond Language Boundaries'
 authors: Wu Jiageng, Wu Xian, Qiu Zhaopeng, Li Minghui, Zhang Yingying, Zheng Yefeng, Yuan Changzheng, Yang Jie
 conference: "Arxiv"
 year: 2023

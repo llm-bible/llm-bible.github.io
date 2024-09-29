@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Demonstration Augmentation For Zero-shot In-context Learning
+title: 'Demonstration Augmentation For Zero-shot In-context Learning'
 authors: Su Yi, Tai Yunpeng, Ji Yixin, Li Juntao, Yan Bowen, Zhang Min
 conference: "Arxiv"
 year: 2024

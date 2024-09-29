@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficient Interactive LLM Serving With Proxy Model-based Sequence Length Prediction
+title: 'Efficient Interactive LLM Serving With Proxy Model-based Sequence Length Prediction'
 authors: Qiu Haoran, Mao Weichao, Patke Archit, Cui Shengkun, Jha Saurabh, Wang Chen, Franke Hubertus, Kalbarczyk Zbigniew T., Başar Tamer, Iyer Ravishankar K.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Introducing Dictalm -- A Large Generative Language Model For Modern Hebrew
+title: 'Introducing Dictalm -- A Large Generative Language Model For Modern Hebrew'
 authors: Shmidman Shaltiel, Shmidman Avi, Cohen Amir David Nissan, Koppel Moshe
 conference: "Arxiv"
 year: 2023

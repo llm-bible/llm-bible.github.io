@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Video As The New Language For Real-world Decision Making
+title: 'Video As The New Language For Real-world Decision Making'
 authors: Yang Sherry, Walker Jacob, Parker-holder Jack, Du Yilun, Bruce Jake, Barreto Andre, Abbeel Pieter, Schuurmans Dale
 conference: "Arxiv"
 year: 2024

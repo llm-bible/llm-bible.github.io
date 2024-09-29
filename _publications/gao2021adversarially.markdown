@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Adversarially-learned Turing Test For Dialog Generation Models
+title: 'An Adversarially-learned Turing Test For Dialog Generation Models'
 authors: Gao Xiang, Zhang Yizhe, Galley Michel, Dolan Bill
 conference: "Arxiv"
 year: 2021

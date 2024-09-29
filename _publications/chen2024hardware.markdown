@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hardware-aware Parallel Prompt Decoding For Memory-efficient Acceleration Of LLM Inference
+title: 'Hardware-aware Parallel Prompt Decoding For Memory-efficient Acceleration Of LLM Inference'
 authors: Chen Hao Mark, Luk Wayne, Yiu Ka Fai Cedric, Li Rui, Mishchenko Konstantin, Venieris Stylianos I., Fan Hongxiang
 conference: "Arxiv"
 year: 2024

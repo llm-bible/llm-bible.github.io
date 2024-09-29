@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generalizing Reward Modeling For Out-of-distribution Preference Learning
+title: 'Generalizing Reward Modeling For Out-of-distribution Preference Learning'
 authors: Jia Chen
 conference: "Arxiv"
 year: 2024

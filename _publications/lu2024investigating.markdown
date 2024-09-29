@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating Bias Representations In Llama 2 Chat Via Activation Steering
+title: 'Investigating Bias Representations In Llama 2 Chat Via Activation Steering'
 authors: Lu Dawn, Rimsky Nina
 conference: "Arxiv"
 year: 2024

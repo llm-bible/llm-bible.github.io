@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rethinking Visual Prompting For Multimodal Large Language Models With External Knowledge
+title: 'Rethinking Visual Prompting For Multimodal Large Language Models With External Knowledge'
 authors: Lin Yuanze, Li Yunsheng, Chen Dongdong, Xu Weijian, Clark Ronald, Torr Philip, Yuan Lu
 conference: "Arxiv"
 year: 2024

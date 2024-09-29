@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Q-learning With Large Language Model Heuristics
+title: 'Enhancing Q-learning With Large Language Model Heuristics'
 authors: Wu Xiefeng
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Faithful Logical Reasoning Via Symbolic Chain-of-thought
+title: 'Faithful Logical Reasoning Via Symbolic Chain-of-thought'
 authors: Xu Jundong, Fei Hao, Pan Liangming, Liu Qian, Lee Mong-li, Hsu Wynne
 conference: "Arxiv"
 year: 2024

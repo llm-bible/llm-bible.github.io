@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transformers Are Multi-state Rnns
+title: 'Transformers Are Multi-state Rnns'
 authors: Oren Matanel, Hassid Michael, Yarden Nir, Adi Yossi, Schwartz Roy
 conference: "Arxiv"
 year: 2024

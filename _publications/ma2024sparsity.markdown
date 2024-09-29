@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sparsity-accelerated Training For Large Language Models
+title: 'Sparsity-accelerated Training For Large Language Models'
 authors: Ma Da, Chen Lu, Wang Pengyu, Xu Hongshen, Li Hanqi, Sun Liangtai, Zhu Su, Fan Shuai, Yu Kai
 conference: "Arxiv"
 year: 2024

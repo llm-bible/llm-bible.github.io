@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tool-augmented Reward Modeling
+title: 'Tool-augmented Reward Modeling'
 authors: Li Lei, Chai Yekun, Wang Shuohuan, Sun Yu, Tian Hao, Zhang Ningyu, Wu Hua
 conference: "Arxiv"
 year: 2023

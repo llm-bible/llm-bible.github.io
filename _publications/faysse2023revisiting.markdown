@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Revisiting Instruction Fine-tuned Model Evaluation To Guide Industrial Applications
+title: 'Revisiting Instruction Fine-tuned Model Evaluation To Guide Industrial Applications'
 authors: Faysse Manuel, Viaud Gautier, Hudelot Céline, Colombo Pierre
 conference: ""
 year: 2023

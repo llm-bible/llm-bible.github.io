@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multilingual Augmentation For Robust Visual Question Answering In Remote Sensing Images
+title: 'Multilingual Augmentation For Robust Visual Question Answering In Remote Sensing Images'
 authors: Yuan Zhenghang, Mou Lichao, Zhu Xiao Xiang
 conference: "Arxiv"
 year: 2023

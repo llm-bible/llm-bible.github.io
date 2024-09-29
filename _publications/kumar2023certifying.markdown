@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Certifying LLM Safety Against Adversarial Prompting
+title: 'Certifying LLM Safety Against Adversarial Prompting'
 authors: Kumar Aounon, Agarwal Chirag, Srinivas Suraj, Li Aaron Jiaxun, Feizi Soheil, Lakkaraju Himabindu
 conference: "Arxiv"
 year: 2023

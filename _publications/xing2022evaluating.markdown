@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating And Improving Context Attention Distribution On Multi-turn Response Generation Using Self-contained Distractions
+title: 'Evaluating And Improving Context Attention Distribution On Multi-turn Response Generation Using Self-contained Distractions'
 authors: Xing Yujie, Gulla Jon Atle
 conference: "Arxiv"
 year: 2022

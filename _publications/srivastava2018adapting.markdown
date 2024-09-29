@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adapting Visual Question Answering Models For Enhancing Multimodal Community Q&A Platforms
+title: 'Adapting Visual Question Answering Models For Enhancing Multimodal Community Q&A Platforms'
 authors: Srivastava Avikalp, Liu Hsin Wen, Fujita Sumio
 conference: "Arxiv"
 year: 2018

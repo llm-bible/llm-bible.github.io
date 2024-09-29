@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Strengthening Multimodal Large Language Model With Bootstrapped Preference Optimization
+title: 'Strengthening Multimodal Large Language Model With Bootstrapped Preference Optimization'
 authors: Renjie Pi, Tianyang Han, Wei Xiong, Jipeng Zhang, Runtao Liu, Rui Pan, Tong Zhang
 conference: "Arxiv"
 year: 2024

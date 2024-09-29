@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Conversational AI Threads For Visualizing Multidimensional Datasets
+title: 'Conversational AI Threads For Visualizing Multidimensional Datasets'
 authors: Hong Matt-heun, Crisan Anamaria
 conference: "Arxiv"
 year: 2023

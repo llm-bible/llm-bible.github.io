@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Assessing The Impact Of Prompting Methods On Chatgpt''s Mathematical Capabilities
+title: 'Assessing The Impact Of Prompting Methods On Chatgpt''s Mathematical Capabilities'
 authors: Chen Yuhao, Wong Chloe, Yang Hanwen, Aguenza Juan, Bhujangari Sai, Vu Benthan, Lei Xun, Prasad Amisha, Fluss Manny, Phuong Eric, Liu Minghao, Kumar Raja, Vats Vanshika, Davis James
 conference: "Arxiv"
 year: 2023

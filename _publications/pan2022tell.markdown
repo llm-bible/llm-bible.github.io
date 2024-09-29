@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tell Me The Evidence? Dual Visual-linguistic Interaction For Answer Grounding
+title: 'Tell Me The Evidence? Dual Visual-linguistic Interaction For Answer Grounding'
 authors: Pan Junwen, Chen Guanlin, Liu Yi, Wang Jiexiang, Bian Cheng, Zhu Pengfei, Zhang Zhicheng
 conference: "Arxiv"
 year: 2022

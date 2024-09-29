@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Joint Copying And Restricted Generation For Paraphrase
+title: 'Joint Copying And Restricted Generation For Paraphrase'
 authors: Cao Ziqiang, Luo Chuwei, Li Wenjie, Li Sujian
 conference: "Arxiv"
 year: 2016

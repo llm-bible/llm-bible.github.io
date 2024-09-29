@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning Video Representations From Large Language Models
+title: 'Learning Video Representations From Large Language Models'
 authors: Zhao Yue, Misra Ishan, Krähenbühl Philipp, Girdhar Rohit
 conference: "Arxiv"
 year: 2022

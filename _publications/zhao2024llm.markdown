@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llm-based Federated Recommendation
+title: 'Llm-based Federated Recommendation'
 authors: Jujia Zhao, Wenjie Wang, Chen Xu, Zhaochun Ren, See-kiong Ng, Tat-seng Chua
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Non-autoregressive Streaming Transformer For Simultaneous Translation
+title: 'Non-autoregressive Streaming Transformer For Simultaneous Translation'
 authors: Ma Zhengrui, Zhang Shaolei, Guo Shoutao, Shao Chenze, Zhang Min, Feng Yang
 conference: "Arxiv"
 year: 2023

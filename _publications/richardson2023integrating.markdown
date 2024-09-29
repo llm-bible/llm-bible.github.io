@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Integrating Summarization And Retrieval For Enhanced Personalization Via Large Language Models
+title: 'Integrating Summarization And Retrieval For Enhanced Personalization Via Large Language Models'
 authors: Richardson Chris, Zhang Yao, Gillespie Kellen, Kar Sudipta, Singh Arshdeep, Raeesy Zeynab, Khan Omar Zia, Sethy Abhinav
 conference: "Arxiv"
 year: 2023

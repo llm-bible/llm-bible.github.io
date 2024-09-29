@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Encouraging Divergent Thinking In Large Language Models Through Multi-agent Debate
+title: 'Encouraging Divergent Thinking In Large Language Models Through Multi-agent Debate'
 authors: Liang Tian, He Zhiwei, Jiao Wenxiang, Wang Xing, Wang Rui, Yang Yujiu, Tu Zhaopeng, Shi Shuming
 conference: "Arxiv"
 year: 2023

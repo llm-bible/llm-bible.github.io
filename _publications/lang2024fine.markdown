@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-tuning Language Models With Reward Learning On Policy
+title: 'Fine-tuning Language Models With Reward Learning On Policy'
 authors: Lang Hao, Huang Fei, Li Yongbin
 conference: "Arxiv"
 year: 2024

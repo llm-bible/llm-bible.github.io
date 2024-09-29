@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automatic Model Selection With Large Language Models For Reasoning
+title: 'Automatic Model Selection With Large Language Models For Reasoning'
 authors: Zhao James Xu, Xie Yuxi, Kawaguchi Kenji, He Junxian, Xie Michael Qizhe
 conference: "Arxiv"
 year: 2023

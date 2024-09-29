@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Stress-testing Capability Elicitation With Password-locked Models
+title: 'Stress-testing Capability Elicitation With Password-locked Models'
 authors: Greenblatt Ryan, Roger Fabien, Krasheninnikov Dmitrii, Krueger David
 conference: "Arxiv"
 year: 2024

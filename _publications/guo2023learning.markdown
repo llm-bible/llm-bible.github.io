@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning To Plan With Natural Language
+title: 'Learning To Plan With Natural Language'
 authors: Guo Yiduo, Liang Yaobo, Wu Chenfei, Wu Wenshan, Zhao Dongyan, Duan Nan
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rethinking The Evaluation For Conversational Recommendation In The Era Of Large Language Models
+title: 'Rethinking The Evaluation For Conversational Recommendation In The Era Of Large Language Models'
 authors: Xiaolei Wang, Xinyu Tang, Wayne Xin Zhao, Jingyuan Wang, Ji-rong Wen
 conference: "Arxiv"
 year: 2023

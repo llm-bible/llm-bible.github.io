@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Diverse, Relevant And Coherent Open-domain Dialogue Generation Via Hybrid Latent Variables
+title: 'Towards Diverse, Relevant And Coherent Open-domain Dialogue Generation Via Hybrid Latent Variables'
 authors: Sun Bin, Li Yitong, Mi Fei, Wang Weichao, Li Yiwei, Li Kan
 conference: "Arxiv"
 year: 2022

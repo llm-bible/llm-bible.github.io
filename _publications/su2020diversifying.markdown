@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Diversifying Dialogue Generation With Non-conversational Text
+title: 'Diversifying Dialogue Generation With Non-conversational Text'
 authors: Su Hui, Shen Xiaoyu, Zhao Sanqiang, Zhou Xiao, Hu Pengwei, Zhong Randy, Niu Cheng, Zhou Jie
 conference: "Arxiv"
 year: 2020

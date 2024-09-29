@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Syntax-infused Transformer And BERT Models For Machine Translation And Natural Language Understanding
+title: 'Syntax-infused Transformer And BERT Models For Machine Translation And Natural Language Understanding'
 authors: Sundararaman Dhanasekar, Subramanian Vivek, Wang Guoyin, Si Shijing, Shen Dinghan, Wang Dong, Carin Lawrence
 conference: "Arxiv"
 year: 2019

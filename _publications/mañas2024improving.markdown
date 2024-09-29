@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Text-to-image Consistency Via Automatic Prompt Optimization
+title: 'Improving Text-to-image Consistency Via Automatic Prompt Optimization'
 authors: Mañas Oscar, Astolfi Pietro, Hall Melissa, Ross Candace, Urbanek Jack, Williams Adina, Agrawal Aishwarya, Romero-soriano Adriana, Drozdzal Michal
 conference: "Arxiv"
 year: 2024

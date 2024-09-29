@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Evaluating And Building Versatile Large Language Models For Medicine
+title: 'Towards Evaluating And Building Versatile Large Language Models For Medicine'
 authors: Wu Chaoyi, Qiu Pengcheng, Liu Jinxin, Gu Hongfei, Li Na, Zhang Ya, Wang Yanfeng, Xie Weidi
 conference: "Arxiv"
 year: 2024

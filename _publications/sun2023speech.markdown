@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Speech-based Slot Filling Using Large Language Models
+title: 'Speech-based Slot Filling Using Large Language Models'
 authors: Sun Guangzhi, Feng Shutong, Jiang Dongcheng, Zhang Chao, Gašić Milica, Woodland Philip C.
 conference: "Arxiv"
 year: 2023

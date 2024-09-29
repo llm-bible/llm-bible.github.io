@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative Multi-modal Knowledge Retrieval With Large Language Models
+title: 'Generative Multi-modal Knowledge Retrieval With Large Language Models'
 authors: Long Xinwei, Zeng Jiali, Meng Fandong, Ma Zhiyuan, Zhang Kaiyan, Zhou Bowen, Zhou Jie
 conference: "Arxiv"
 year: 2024

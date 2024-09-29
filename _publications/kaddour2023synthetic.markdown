@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Synthetic Data Generation In Low-resource Settings Via Fine-tuning Of Large Language Models
+title: 'Synthetic Data Generation In Low-resource Settings Via Fine-tuning Of Large Language Models'
 authors: Kaddour Jean, Liu Qi
 conference: "Arxiv"
 year: 2023

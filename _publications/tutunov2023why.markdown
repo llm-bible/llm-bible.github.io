@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Why Can Large Language Models Generate Correct Chain-of-thoughts?
+title: 'Why Can Large Language Models Generate Correct Chain-of-thoughts?'
 authors: Tutunov Rasul, Grosnit Antoine, Ziomek Juliusz, Wang Jun, Bou-ammar Haitham
 conference: "Arxiv"
 year: 2023

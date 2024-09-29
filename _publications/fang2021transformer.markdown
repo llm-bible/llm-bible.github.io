@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transformer-based Conditional Variational Autoencoder For Controllable Story Generation
+title: 'Transformer-based Conditional Variational Autoencoder For Controllable Story Generation'
 authors: Fang Le, Zeng Tao, Liu Chaochun, Bo Liefeng, Dong Wen, Chen Changyou
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Toward Interpretability Of Dual-encoder Models For Dialogue Response Suggestions
+title: 'Toward Interpretability Of Dual-encoder Models For Dialogue Response Suggestions'
 authors: Li Yitong, Li Dianqi, Prakash Sushant, Wang Peng
 conference: "Arxiv"
 year: 2020

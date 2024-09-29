@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Plan, Eliminate, And Track -- Language Models Are Good Teachers For Embodied Agents
+title: 'Plan, Eliminate, And Track -- Language Models Are Good Teachers For Embodied Agents'
 authors: Yue Wu, So Yeon Min, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Yuanzhi Li, Tom Mitchell, Shrimai Prabhumoye
 conference: "Arxiv"
 year: 2023

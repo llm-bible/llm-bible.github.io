@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards A Human-in-the-loop LLM Approach To Collaborative Discourse Analysis
+title: 'Towards A Human-in-the-loop LLM Approach To Collaborative Discourse Analysis'
 authors: Cohn Clayton, Snyder Caitlin, Montenegro Justin, Biswas Gautam
 conference: "Arxiv"
 year: 2024

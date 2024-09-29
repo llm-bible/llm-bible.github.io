@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Minimizing Factual Inconsistency And Hallucination In Large Language Models
+title: 'Minimizing Factual Inconsistency And Hallucination In Large Language Models'
 authors: I Muneeswaran, Saxena Shreya, Prasad Siva, Prakash M V Sai, Shankar Advaith, V Varun, Vaddina Vishal, Gopalakrishnan Saisubramaniam
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Taught By The Internet, Exploring Bias In Openais GPT3
+title: 'Taught By The Internet, Exploring Bias In Openais GPT3'
 authors: Ayaz Ali, Nawalgaria Aditya, Yin Ruilian
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Reinforcement Learning Unlock The Hidden Dangers In Aligned Large Language Models?
+title: 'Can Reinforcement Learning Unlock The Hidden Dangers In Aligned Large Language Models?'
 authors: Karkevandi Mohammad Bahrami, Vishwamitra Nishant, Najafirad Peyman
 conference: "Arxiv"
 year: 2024

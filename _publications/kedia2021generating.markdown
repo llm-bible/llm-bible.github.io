@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generating Rich Product Descriptions For Conversational E-commerce Systems
+title: 'Generating Rich Product Descriptions For Conversational E-commerce Systems'
 authors: Kedia Shashank, Mantha Aditya, Gupta Sneha, Guo Stephen, Achan Kannan
 conference: "Companion Proceedings of the Web Conference"
 year: 2021

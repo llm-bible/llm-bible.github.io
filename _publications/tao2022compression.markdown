@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Compression Of Generative Pre-trained Language Models Via Quantization
+title: 'Compression Of Generative Pre-trained Language Models Via Quantization'
 authors: Tao Chaofan, Hou Lu, Zhang Wei, Shang Lifeng, Jiang Xin, Liu Qun, Luo Ping, Wong Ngai
 conference: "Arxiv"
 year: 2022

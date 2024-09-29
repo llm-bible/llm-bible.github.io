@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llms Can''t Plan, But Can Help Planning In Llm-modulo Frameworks
+title: 'Llms Can''t Plan, But Can Help Planning In Llm-modulo Frameworks'
 authors: Kambhampati Subbarao, Valmeekam Karthik, Guan Lin, Verma Mudit, Stechly Kaya, Bhambri Siddhant, Saldyt Lucas, Murthy Anil
 conference: "Proceedings of the"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Embedded Translations For Low-resource Automated Glossing
+title: 'Embedded Translations For Low-resource Automated Glossing'
 authors: Yang Changbing, Nicolai Garrett, Silfverberg Miikka
 conference: "Arxiv"
 year: 2024

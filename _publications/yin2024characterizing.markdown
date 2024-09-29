@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Characterizing Truthfulness In Large Language Model Generations With Local Intrinsic Dimension
+title: 'Characterizing Truthfulness In Large Language Model Generations With Local Intrinsic Dimension'
 authors: Yin Fan, Srinivasa Jayanth, Chang Kai-wei
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llm-driven Robots Risk Enacting Discrimination, Violence, And Unlawful Actions
+title: 'Llm-driven Robots Risk Enacting Discrimination, Violence, And Unlawful Actions'
 authors: Azeem Rumaisa, Hundt Andrew, Mansouri Masoumeh, Brandão Martim
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Comparing Large Language Model AI And Human-generated Coaching Messages For Behavioral Weight Loss
+title: 'Comparing Large Language Model AI And Human-generated Coaching Messages For Behavioral Weight Loss'
 authors: Huang Zhuoran, Berry Michael P., Chwyl Christina, Hsieh Gary, Wei Jing, Forman Evan M.
 conference: "Arxiv"
 year: 2023

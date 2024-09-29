@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: In-context Autoencoder For Context Compression In A Large Language Model
+title: 'In-context Autoencoder For Context Compression In A Large Language Model'
 authors: Ge Tao, Hu Jing, Wang Lei, Wang Xun, Chen Si-qing, Wei Furu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Are Visual Reasoning Coordinators
+title: 'Large Language Models Are Visual Reasoning Coordinators'
 authors: Chen Liangyu, Li Bo, Shen Sheng, Yang Jingkang, Li Chunyuan, Keutzer Kurt, Darrell Trevor, Liu Ziwei
 conference: "Arxiv"
 year: 2023

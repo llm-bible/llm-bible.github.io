@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On Task-level Dialogue Composition Of Generative Transformer Model
+title: 'On Task-level Dialogue Composition Of Generative Transformer Model'
 authors: Parthasarathi Prasanna, Neelakantan Arvind, Narang Sharan
 conference: "Arxiv"
 year: 2020

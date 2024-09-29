@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Vocabulary Size Improves Large Language Models
+title: 'Large Vocabulary Size Improves Large Language Models'
 authors: Takase Sho, Ri Ryokan, Kiyono Shun, Kato Takuya
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: In Chatgpt We Trust? Measuring And Characterizing The Reliability Of Chatgpt
+title: 'In Chatgpt We Trust? Measuring And Characterizing The Reliability Of Chatgpt'
 authors: Shen Xinyue, Chen Zeyuan, Backes Michael, Zhang Yang
 conference: "Arxiv"
 year: 2023

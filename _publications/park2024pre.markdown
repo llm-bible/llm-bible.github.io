@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pre-trained Vision And Language Transformers Are Few-shot Incremental Learners
+title: 'Pre-trained Vision And Language Transformers Are Few-shot Incremental Learners'
 authors: Park Keon-hee, Song Kyungwoo, Park Gyeong-moon
 conference: "Arxiv"
 year: 2024

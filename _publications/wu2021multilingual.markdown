@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Multilingual Modeling Method For Span-extraction Reading Comprehension
+title: 'A Multilingual Modeling Method For Span-extraction Reading Comprehension'
 authors: Wu Gaochen, Xu Bin, Chang Dejie, Liu Bangchang
 conference: "Arxiv"
 year: 2021

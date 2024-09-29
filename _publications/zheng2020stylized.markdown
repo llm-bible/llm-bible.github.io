@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Stylized Dialogue Response Generation Using Stylized Unpaired Texts
+title: 'Stylized Dialogue Response Generation Using Stylized Unpaired Texts'
 authors: Zheng Yinhe, Chen Zikai, Zhang Rongsheng, Huang Shilei, Mao Xiaoxi, Huang Minlie
 conference: "Arxiv"
 year: 2020

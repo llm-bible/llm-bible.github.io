@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What Matters In Transformers? Not All Attention Is Needed
+title: 'What Matters In Transformers? Not All Attention Is Needed'
 authors: He Shwai, Sun Guoheng, Shen Zheyu, Li Ang
 conference: "Arxiv"
 year: 2024

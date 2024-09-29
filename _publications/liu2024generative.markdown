@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative Expressive Conversational Speech Synthesis
+title: 'Generative Expressive Conversational Speech Synthesis'
 authors: Liu Rui, Hu Yifan, Ren Yi, Yin Xiang, Li Haizhou
 conference: "Arxiv"
 year: 2024

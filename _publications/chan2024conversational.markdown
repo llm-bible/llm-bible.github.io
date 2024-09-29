@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Conversational AI Powered By Large Language Models Amplifies False Memories In Witness Interviews
+title: 'Conversational AI Powered By Large Language Models Amplifies False Memories In Witness Interviews'
 authors: Chan Samantha, Pataranutaporn Pat, Suri Aditya, Zulfikar Wazeer, Maes Pattie, Loftus Elizabeth F.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tailoring Language Generation Models Under Total Variation Distance
+title: 'Tailoring Language Generation Models Under Total Variation Distance'
 authors: Ji Haozhe, Ke Pei, Hu Zhipeng, Zhang Rongsheng, Huang Minlie
 conference: "International Conference on Learning Representations"
 year: 2023

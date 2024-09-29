@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Question-guided Hybrid Convolution For Visual Question Answering
+title: 'Question-guided Hybrid Convolution For Visual Question Answering'
 authors: Gao Peng, Lu Pan, Li Hongsheng, Li Shuang, Li Yikang, Hoi Steven, Wang Xiaogang
 conference: "Arxiv"
 year: 2018

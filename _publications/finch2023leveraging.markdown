@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Large Language Models For Automated Dialogue Analysis
+title: 'Leveraging Large Language Models For Automated Dialogue Analysis'
 authors: Finch Sarah E., Paek Ellie S., Choi Jinho D.
 conference: "Arxiv"
 year: 2023

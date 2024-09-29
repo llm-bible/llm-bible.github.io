@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What Makes Data-to-text Generation Hard For Pretrained Language Models?
+title: 'What Makes Data-to-text Generation Hard For Pretrained Language Models?'
 authors: Keymanesh Moniba, Benton Adrian, Dredze Mark
 conference: "Arxiv"
 year: 2022

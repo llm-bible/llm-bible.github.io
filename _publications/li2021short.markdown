@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Short Study On Compressing Decoder-based Language Models
+title: 'A Short Study On Compressing Decoder-based Language Models'
 authors: Li Tianda, Mesbahi Yassir El, Kobyzev Ivan, Rashid Ahmad, Mahmud Atif, Anchuri Nithin, Hajimolahoseini Habib, Liu Yang, Rezagholizadeh Mehdi
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rethinking How To Evaluate Language Model Jailbreak
+title: 'Rethinking How To Evaluate Language Model Jailbreak'
 authors: Cai Hongyu, Arunasalam Arjun, Lin Leo Y., Bianchi Antonio, Celik Z. Berkay
 conference: "Arxiv"
 year: 2024

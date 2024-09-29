@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gpt-neo For Commonsense Reasoning -- A Theoretical And Practical Lens
+title: 'Gpt-neo For Commonsense Reasoning -- A Theoretical And Practical Lens'
 authors: Kashyap Rohan, Kashyap Vivek, P. Narendra C.
 conference: "Arxiv"
 year: 2022

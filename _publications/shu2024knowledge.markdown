@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Knowledge Graph Large Language Model (KG-LLM) For Link Prediction
+title: 'Knowledge Graph Large Language Model (KG-LLM) For Link Prediction'
 authors: Shu Dong, Chen Tianle, Jin Mingyu, Zhang Chong, Du Mengnan, Zhang Yongfeng
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Creativity In Large Language Models Through Associative Thinking Strategies
+title: 'Enhancing Creativity In Large Language Models Through Associative Thinking Strategies'
 authors: Mehrotra Pronita, Parab Aishni, Gulwani Sumit
 conference: "Arxiv"
 year: 2024

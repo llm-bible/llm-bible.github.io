@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pre-trained Language Models For Interactive Decision-making
+title: 'Pre-trained Language Models For Interactive Decision-making'
 authors: Li Shuang, Puig Xavier, Paxton Chris, Du Yilun, Wang Clinton, Fan Linxi, Chen Tao, Huang De-an, Akyürek Ekin, Anandkumar Anima, Andreas Jacob, Mordatch Igor, Torralba Antonio, Zhu Yuke
 conference: "Arxiv"
 year: 2022

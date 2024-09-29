@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Context Transformer With Stacked Pointer Networks For Conversational Question Answering Over Knowledge Graphs
+title: 'Context Transformer With Stacked Pointer Networks For Conversational Question Answering Over Knowledge Graphs'
 authors: Plepi Joan, Kacupaj Endri, Singh Kuldeep, Thakkar Harsh, Lehmann Jens
 conference: "Arxiv"
 year: 2021

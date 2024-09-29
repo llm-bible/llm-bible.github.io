@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Revisiting The Knowledge Injection Frameworks
+title: 'Revisiting The Knowledge Injection Frameworks'
 authors: Fu Peng, Zhang Yiming, Wang Haobo, Qiu Weikang, Zhao Junbo
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Atom Responding Machine For Dialog Generation
+title: 'Atom Responding Machine For Dialog Generation'
 authors: Zhou Ganbin, Luo Ping, Chen Jingwu, Lin Fen, Lin Leyu, He Qing
 conference: "Arxiv"
 year: 2019

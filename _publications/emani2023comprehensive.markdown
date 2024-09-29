@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Comprehensive Performance Study Of Large Language Models On Novel AI Accelerators
+title: 'A Comprehensive Performance Study Of Large Language Models On Novel AI Accelerators'
 authors: Emani Murali, Foreman Sam, Sastry Varuni, Xie Zhen, Raskar Siddhisanket, Arnold William, Thakur Rajeev, Vishwanath Venkatram, Papka Michael E.
 conference: "Arxiv"
 year: 2023

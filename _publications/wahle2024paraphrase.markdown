@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Paraphrase Types Elicit Prompt Engineering Capabilities
+title: 'Paraphrase Types Elicit Prompt Engineering Capabilities'
 authors: Wahle Jan Philip, Ruas Terry, Xu Yang, Gipp Bela
 conference: "Arxiv"
 year: 2024

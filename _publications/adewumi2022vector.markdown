@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vector Representations Of Idioms In Conversational Systems
+title: 'Vector Representations Of Idioms In Conversational Systems'
 authors: Adewumi Tosin, Liwicki Foteini, Liwicki Marcus
 conference: "Arxiv"
 year: 2022

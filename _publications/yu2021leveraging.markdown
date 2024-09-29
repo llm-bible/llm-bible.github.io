@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Linguistic Coordination In Reranking N-best Candidates For End-to-end Response Selection Using BERT
+title: 'Leveraging Linguistic Coordination In Reranking N-best Candidates For End-to-end Response Selection Using BERT'
 authors: Yu Mingzhi University Of Pittsburgh, Litman Diane University Of Pittsburgh
 conference: "Arxiv"
 year: 2021

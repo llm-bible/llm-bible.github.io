@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Personality Traits In Large Language Models
+title: 'Personality Traits In Large Language Models'
 authors: Serapio-garcía Greg, Safdari Mustafa, Crepy Clément, Sun Luning, Fitz Stephen, Romero Peter, Abdulhai Marwa, Faust Aleksandra, Matarić Maja
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bridging The Data Gap Between Training And Inference For Unsupervised Neural Machine Translation
+title: 'Bridging The Data Gap Between Training And Inference For Unsupervised Neural Machine Translation'
 authors: He Zhiwei, Wang Xing, Wang Rui, Shi Shuming, Tu Zhaopeng
 conference: "Arxiv"
 year: 2022

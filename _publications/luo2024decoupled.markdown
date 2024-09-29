@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Decoupled Alignment For Robust Plug-and-play Adaptation
+title: 'Decoupled Alignment For Robust Plug-and-play Adaptation'
 authors: Luo Haozheng, Yu Jiahao, Zhang Wenxin, Li Jialong, Hu Jerry Yao-chieh, Xing Xinyu, Liu Han
 conference: "Arxiv"
 year: 2024

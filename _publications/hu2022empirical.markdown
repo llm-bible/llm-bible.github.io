@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Empirical Evaluation Of Post-training Quantization Methods For Language Tasks
+title: 'Empirical Evaluation Of Post-training Quantization Methods For Language Tasks'
 authors: Hu Ting, Meinel Christoph, Yang Haojin
 conference: "Arxiv"
 year: 2022

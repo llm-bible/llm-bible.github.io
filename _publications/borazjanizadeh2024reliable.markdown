@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reliable Reasoning Beyond Natural Language
+title: 'Reliable Reasoning Beyond Natural Language'
 authors: Borazjanizadeh Nasim, Piantadosi Steven T.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Visual Dialogue State Tracking For Question Generation
+title: 'Visual Dialogue State Tracking For Question Generation'
 authors: Pang Wei, Wang Xiaojie
 conference: "Arxiv"
 year: 2019

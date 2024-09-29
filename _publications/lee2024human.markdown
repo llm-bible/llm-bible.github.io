@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Human-inspired Reading Agent With Gist Memory Of Very Long Contexts
+title: 'A Human-inspired Reading Agent With Gist Memory Of Very Long Contexts'
 authors: Lee Kuang-huei, Chen Xinyun, Furuta Hiroki, Canny John, Fischer Ian
 conference: "Arxiv"
 year: 2024

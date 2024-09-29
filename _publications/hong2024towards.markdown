@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Building A Robust Knowledge Intensive Question Answering Model With Large Language Models
+title: 'Towards Building A Robust Knowledge Intensive Question Answering Model With Large Language Models'
 authors: Hong Hong Xingyun, Shao Shao Yan, Wang Wang Zhilin, Duan Duan Manni, Xiongnan Jin
 conference: "Arxiv"
 year: 2024

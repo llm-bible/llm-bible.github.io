@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Context-driven Interactive Query Simulations Based On Generative Large Language Models
+title: 'Context-driven Interactive Query Simulations Based On Generative Large Language Models'
 authors: Engelmann Björn, Breuer Timo, Friese Jana Isabelle, Schaer Philipp, Fuhr Norbert
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-tuning Large Language Models For Automated Diagnostic Screening Summaries
+title: 'Fine-tuning Large Language Models For Automated Diagnostic Screening Summaries'
 authors: Yadav Manjeet, Sahu Nilesh Kumar, Chaturvedi Mudita, Gupta Snehil, Lone Haroon R
 conference: "Arxiv"
 year: 2024

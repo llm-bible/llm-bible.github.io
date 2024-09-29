@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recurrent Chunking Mechanisms For Long-text Machine Reading Comprehension
+title: 'Recurrent Chunking Mechanisms For Long-text Machine Reading Comprehension'
 authors: Gong Hongyu, Shen Yelong, Yu Dian, Chen Jianshu, Yu Dong
 conference: "Arxiv"
 year: 2020

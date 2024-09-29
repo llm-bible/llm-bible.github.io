@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Future-guided Incremental Transformer For Simultaneous Translation
+title: 'Future-guided Incremental Transformer For Simultaneous Translation'
 authors: Zhang Shaolei, Feng Yang, Li Liangyou
 conference: "Arxiv"
 year: 2020

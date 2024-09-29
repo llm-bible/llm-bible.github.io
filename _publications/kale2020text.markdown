@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Text-to-text Pre-training For Data-to-text Tasks
+title: 'Text-to-text Pre-training For Data-to-text Tasks'
 authors: Kale Mihir, Rastogi Abhinav
 conference: "Arxiv"
 year: 2020

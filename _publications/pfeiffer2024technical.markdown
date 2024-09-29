@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: H2o-danube3 Technical Report
+title: 'H2o-danube3 Technical Report'
 authors: Pfeiffer Pascal, Singer Philipp, Babakhin Yauhen, Fodor Gabor, Dhankhar Nischay, Ambati Sri Satish
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Metacognitive Myopia In Large Language Models
+title: 'Metacognitive Myopia In Large Language Models'
 authors: Scholten Florian, Rebholz Tobias R., Hütter Mandy
 conference: "Arxiv"
 year: 2024

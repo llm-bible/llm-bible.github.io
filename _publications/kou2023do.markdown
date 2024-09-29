@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Large Language Models Pay Similar Attention Like Human Programmers When Generating Code?
+title: 'Do Large Language Models Pay Similar Attention Like Human Programmers When Generating Code?'
 authors: Kou Bonan, Chen Shengmai, Wang Zhijie, Ma Lei, Zhang Tianyi
 conference: "Arxiv"
 year: 2023

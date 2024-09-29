@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Uniform Complexity For Text Generation
+title: 'Uniform Complexity For Text Generation'
 authors: Imperial Joseph Marvin, Madabushi Harish Tayyar
 conference: "Arxiv"
 year: 2022

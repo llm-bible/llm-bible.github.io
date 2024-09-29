@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Making Small Language Models Better Multi-task Learners With Mixture-of-task-adapters
+title: 'Making Small Language Models Better Multi-task Learners With Mixture-of-task-adapters'
 authors: Xie Yukang, Wang Chengyu, Yan Junbing, Zhou Jiyong, Deng Feiqi, Huang Jun
 conference: "Arxiv"
 year: 2023

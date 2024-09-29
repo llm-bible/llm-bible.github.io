@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving The Reliability Of Large Language Models By Leveraging Uncertainty-aware In-context Learning
+title: 'Improving The Reliability Of Large Language Models By Leveraging Uncertainty-aware In-context Learning'
 authors: Yang Yuchen, Li Houqiang, Wang Yanfeng, Wang Yu
 conference: "Arxiv"
 year: 2023

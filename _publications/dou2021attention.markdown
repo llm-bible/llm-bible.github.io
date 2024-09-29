@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attention Forcing For Machine Translation
+title: 'Attention Forcing For Machine Translation'
 authors: Dou Qingyun, Lu Yiting, Manakul Potsawee, Wu Xixin, Gales Mark J. F.
 conference: "Arxiv"
 year: 2021

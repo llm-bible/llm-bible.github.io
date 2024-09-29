@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey On Multi-behavior Sequential Recommendation
+title: 'A Survey On Multi-behavior Sequential Recommendation'
 authors: Xiaoqing Chen, Zhitao Li, Weike Pan, Zhong Ming
 conference: "Arxiv"
 year: 2023

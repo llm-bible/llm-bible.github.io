@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Robust Prompt Optimization For Defending Language Models Against Jailbreaking Attacks
+title: 'Robust Prompt Optimization For Defending Language Models Against Jailbreaking Attacks'
 authors: Zhou Andy, Li Bo, Wang Haohan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Confidence Calibration And Rationalization For Llms Via Multi-agent Deliberation
+title: 'Confidence Calibration And Rationalization For Llms Via Multi-agent Deliberation'
 authors: Yang Ruixin, Rajagopal Dheeraj, Hayati Shirley Anugrah, Hu Bin, Kang Dongyeop
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Agent Tree Search Unifies Reasoning Acting And Planning In Language Models
+title: 'Language Agent Tree Search Unifies Reasoning Acting And Planning In Language Models'
 authors: Zhou Andy, Yan Kai, Shlapentokh-rothman Michal, Wang Haohan, Wang Yu-xiong
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Which Questions Should I Answer? Salience Prediction Of Inquisitive Questions
+title: 'Which Questions Should I Answer? Salience Prediction Of Inquisitive Questions'
 authors: Wu Yating, Mangla Ritika, Dimakis Alexandros G., Durrett Greg, Li Junyi Jessy
 conference: "Arxiv"
 year: 2024

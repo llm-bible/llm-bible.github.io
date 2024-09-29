@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reasoning In Transformers -- Mitigating Spurious Correlations And Reasoning Shortcuts
+title: 'Reasoning In Transformers -- Mitigating Spurious Correlations And Reasoning Shortcuts'
 authors: Enström Daniel, Kjellberg Viktor, Johansson Moa
 conference: "Arxiv"
 year: 2024

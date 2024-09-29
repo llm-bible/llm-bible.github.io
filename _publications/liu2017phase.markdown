@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Phase Conductor On Multi-layered Attentions For Machine Comprehension
+title: 'Phase Conductor On Multi-layered Attentions For Machine Comprehension'
 authors: Liu Rui, Wei Wei, Mao Weiguang, Chikina Maria
 conference: "Arxiv"
 year: 2017

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Symbol Tuning Improves In-context Learning In Language Models
+title: 'Symbol Tuning Improves In-context Learning In Language Models'
 authors: Jerry Wei, Le Hou, Andrew Lampinen, Xiangning Chen, Da Huang, Yi Tay, Xinyun Chen, Yifeng Lu, Denny Zhou, Tengyu Ma, Quoc V. Le
 conference: "Arxiv"
 year: 2023

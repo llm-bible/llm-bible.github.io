@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Removing RLHF Protections In GPT-4 Via Fine-tuning
+title: 'Removing RLHF Protections In GPT-4 Via Fine-tuning'
 authors: Zhan Qiusi, Fang Richard, Bindu Rohan, Gupta Akul, Hashimoto Tatsunori, Kang Daniel
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Regularizing Transformers With Deep Probabilistic Layers
+title: 'Regularizing Transformers With Deep Probabilistic Layers'
 authors: Aguilera Aurora Cobo, Olmos Pablo Martínez, Artés-rodríguez Antonio, Pérez-cruz Fernando
 conference: "Arxiv"
 year: 2021

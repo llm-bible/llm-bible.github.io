@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Parameter-efficient Sparsity Crafting From Dense To Mixture-of-experts For Instruction Tuning On General Tasks
+title: 'Parameter-efficient Sparsity Crafting From Dense To Mixture-of-experts For Instruction Tuning On General Tasks'
 authors: Wu Haoyuan, Zheng Haisheng, He Zhuolun, Yu Bei
 conference: "Arxiv"
 year: 2024

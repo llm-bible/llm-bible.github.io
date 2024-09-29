@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficiently Training 7B LLM With 1 Million Sequence Length On 8 Gpus
+title: 'Efficiently Training 7B LLM With 1 Million Sequence Length On 8 Gpus'
 authors: Zhao Pinxue, Zhang Hailin, Fu Fangcheng, Nie Xiaonan, Liu Qibin, Yang Fang, Peng Yuanbo, Jiao Dian, Li Shuaipeng, Xue Jinbao, Tao Yangyu, Cui Bin
 conference: "Arxiv"
 year: 2024

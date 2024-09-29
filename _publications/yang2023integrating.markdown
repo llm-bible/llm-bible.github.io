@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Integrating UMLS Knowledge Into Large Language Models For Medical Question Answering
+title: 'Integrating UMLS Knowledge Into Large Language Models For Medical Question Answering'
 authors: Yang Rui, Marrese-taylor Edison, Ke Yuhe, Cheng Lechao, Chen Qingyu, Li Irene
 conference: "Arxiv"
 year: 2023

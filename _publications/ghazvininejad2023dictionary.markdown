@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dictionary-based Phrase-level Prompting Of Large Language Models For Machine Translation
+title: 'Dictionary-based Phrase-level Prompting Of Large Language Models For Machine Translation'
 authors: Ghazvininejad Marjan, Gonen Hila, Zettlemoyer Luke
 conference: "Arxiv"
 year: 2023

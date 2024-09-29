@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Question-aware Memory Network For Multi-hop Question Answering In Human-robot Interaction
+title: 'Question-aware Memory Network For Multi-hop Question Answering In Human-robot Interaction'
 authors: Li Xinmeng, Alazab Mamoun, Li Qian, Yu Keping, Yin Quanjun
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Contrastive Code Representation Learning
+title: 'Contrastive Code Representation Learning'
 authors: Jain Paras, Jain Ajay, Zhang Tianjun, Abbeel Pieter, Gonzalez Joseph E., Stoica Ion
 conference: "Arxiv"
 year: 2020

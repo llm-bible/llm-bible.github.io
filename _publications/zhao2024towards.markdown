@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Comprehensive And Efficient Post Safety Alignment Of Large Language Models Via Safety Patching
+title: 'Towards Comprehensive And Efficient Post Safety Alignment Of Large Language Models Via Safety Patching'
 authors: Zhao Weixiang, Hu Yulin, Li Zhuojun, Deng Yang, Zhao Yanyan, Qin Bing, Chua Tat-seng
 conference: "Arxiv"
 year: 2024

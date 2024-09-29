@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mitigating The Alignment Tax Of RLHF
+title: 'Mitigating The Alignment Tax Of RLHF'
 authors: Lin Yong, Lin Hangyu, Xiong Wei, Diao Shizhe, Liu Jianmeng, Zhang Jipeng, Pan Rui, Wang Haoxiang, Hu Wenbin, Zhang Hanning, Dong Hanze, Pi Renjie, Zhao Han, Jiang Nan, Ji Heng, Yao Yuan, Zhang Tong
 conference: "Arxiv"
 year: 2023

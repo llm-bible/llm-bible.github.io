@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automatic Summarization Of Doctor-patient Encounter Dialogues Using Large Language Model Through Prompt Tuning
+title: 'Automatic Summarization Of Doctor-patient Encounter Dialogues Using Large Language Model Through Prompt Tuning'
 authors: Lyu Mengxian, Peng Cheng, Li Xiaohan, Balian Patrick, Bian Jiang, Wu Yonghui
 conference: "Arxiv"
 year: 2024

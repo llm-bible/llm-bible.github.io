@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Compact Language Models Via Pruning And Knowledge Distillation
+title: 'Compact Language Models Via Pruning And Knowledge Distillation'
 authors: Muralidharan Saurav, Sreenivas Sharath Turuvekere, Joshi Raviraj, Chochowski Marcin, Patwary Mostofa, Shoeybi Mohammad, Catanzaro Bryan, Kautz Jan, Molchanov Pavlo
 conference: "Arxiv"
 year: 2024

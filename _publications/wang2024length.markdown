@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Length Generalization Of Causal Transformers Without Position Encoding
+title: 'Length Generalization Of Causal Transformers Without Position Encoding'
 authors: Wang Jie, Ji Tao, Wu Yuanbin, Yan Hang, Gui Tao, Zhang Qi, Huang Xuanjing, Wang Xiaoling
 conference: "Arxiv"
 year: 2024

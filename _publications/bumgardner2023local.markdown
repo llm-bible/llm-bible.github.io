@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Local Large Language Models For Complex Structured Medical Tasks
+title: 'Local Large Language Models For Complex Structured Medical Tasks'
 authors: Bumgardner V. K. Cody, Mullen Aaron, Armstrong Sam, Hickey Caylin, Talbert Jeff
 conference: "Arxiv"
 year: 2023

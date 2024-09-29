@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Boosting Jailbreak Attack With Momentum
+title: 'Boosting Jailbreak Attack With Momentum'
 authors: Zhang Yihao, Wei Zeming
 conference: "Arxiv"
 year: 2024

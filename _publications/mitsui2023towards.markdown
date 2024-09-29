@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Human-like Spoken Dialogue Generation Between AI Agents From Written Dialogue
+title: 'Towards Human-like Spoken Dialogue Generation Between AI Agents From Written Dialogue'
 authors: Mitsui Kentaro, Hono Yukiya, Sawada Kei
 conference: "Arxiv"
 year: 2023

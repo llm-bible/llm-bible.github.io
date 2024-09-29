@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is Translation Helpful? An Empirical Analysis Of Cross-lingual Transfer In Low-resource Dialog Generation
+title: 'Is Translation Helpful? An Empirical Analysis Of Cross-lingual Transfer In Low-resource Dialog Generation'
 authors: Shen Lei, Yu Shuai, Shen Xiaoyu
 conference: "Arxiv"
 year: 2023

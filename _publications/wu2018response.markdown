@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Response Generation By Context-aware Prototype Editing
+title: 'Response Generation By Context-aware Prototype Editing'
 authors: Wu Yu, Wei Furu, Huang Shaohan, Wang Yunli, Li Zhoujun, Zhou Ming
 conference: "Arxiv"
 year: 2018

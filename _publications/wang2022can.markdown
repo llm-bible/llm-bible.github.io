@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Language Models Make Fun? A Case Study In Chinese Comical Crosstalk
+title: 'Can Language Models Make Fun? A Case Study In Chinese Comical Crosstalk'
 authors: Wang Benyou, Wu Xiangbo, Liu Xiaokang, Li Jianquan, Tiwari Prayag, Xie Qianqian
 conference: "Arxiv"
 year: 2022

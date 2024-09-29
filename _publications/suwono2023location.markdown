@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Location-aware Visual Question Generation With Lightweight Models
+title: 'Location-aware Visual Question Generation With Lightweight Models'
 authors: Suwono Nicholas Collin, Chen Justin Chih-yao, Hung Tun Min, Huang Ting-hao Kenneth, Liao I-bin, Li Yung-hui, Ku Lun-wei, Sun Shao-hua
 conference: "Arxiv"
 year: 2023

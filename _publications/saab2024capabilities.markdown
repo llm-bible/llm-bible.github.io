@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Capabilities Of Gemini Models In Medicine
+title: 'Capabilities Of Gemini Models In Medicine'
 authors: Saab Khaled, Tu Tao, Weng Wei-hung, Tanno Ryutaro, Stutz David, Wulczyn Ellery, Zhang Fan, Strother Tim, Park Chunjong, Vedadi Elahe, Chaves Juanma Zambrano, Hu Szu-yeu, Schaekermann Mike, Kamath Aishwarya, Cheng Yong, Barrett David G. T., Cheung Cathy, Mustafa Basil, Palepu Anil, Mcduff Daniel, Hou Le, Golany Tomer, Liu Luyang, Alayrac Jean-baptiste, Houlsby Neil, Tomasev Nenad, Freyberg Jan, Lau Charles, Kemp Jonas, Lai Jeremy, Azizi Shekoofeh, Kanada Kimberly, Man Siwai, Kulkarni Kavita, Sun Ruoxi, Shakeri Siamak, He Luheng, Caine Ben, Webson Albert, Latysheva Natasha, Johnson Melvin, Mansfield Philip, Lu Jian, Rivlin Ehud, Anderson Jesper, Green Bradley, Wong Renee, Krause Jonathan, Shlens Jonathon, Dominowska Ewa, Eslami S. M. Ali, Chou Katherine, Cui Claire, Vinyals Oriol, Kavukcuoglu Koray, Manyika James, Dean Jeff, Hassabis Demis, Matias Yossi, Webster Dale, Barral Joelle, Corrado Greg, Semturs Christopher, Mahdavi S. Sara, Gottweis Juraj, Karthikesalingam Alan, Natarajan Vivek
 conference: "Arxiv"
 year: 2024

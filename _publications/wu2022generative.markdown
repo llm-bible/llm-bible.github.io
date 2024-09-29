@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative Or Contrastive? Phrase Reconstruction For Better Sentence Representation Learning
+title: 'Generative Or Contrastive? Phrase Reconstruction For Better Sentence Representation Learning'
 authors: Wu Bohong, Zhao Hai
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Llms Reason In The Wild With Programs?
+title: 'Can Llms Reason In The Wild With Programs?'
 authors: Yang Yuan, Xiong Siheng, Payani Ali, Shareghi Ehsan, Fekri Faramarz
 conference: "Arxiv"
 year: 2024

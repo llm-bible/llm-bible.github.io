@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Quantitative Knowledge Retrieval From Large Language Models
+title: 'Quantitative Knowledge Retrieval From Large Language Models'
 authors: Selby David, Spriestersbach Kai, Iwashita Yuichiro, Bappert Dennis, Warrier Archana, Mukherjee Sumantrak, Asim Muhammad Nabeel, Kise Koichi, Vollmer Sebastian
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Graph-enhanced Large Language Models In Asynchronous Plan Reasoning
+title: 'Graph-enhanced Large Language Models In Asynchronous Plan Reasoning'
 authors: Lin Fangru, La Malfa Emanuele, Hofmann Valentin, Yang Elle Michelle, Cohn Anthony, Pierrehumbert Janet B.
 conference: "Arxiv"
 year: 2024

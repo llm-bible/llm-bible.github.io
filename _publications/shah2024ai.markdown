@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ai-assisted Generation Of Difficult Math Questions
+title: 'Ai-assisted Generation Of Difficult Math Questions'
 authors: Shah Vedant, Yu Dingli, Lyu Kaifeng, Park Simon, Ke Nan Rosemary, Mozer Michael, Bengio Yoshua, Arora Sanjeev, Goyal Anirudh
 conference: "Arxiv"
 year: 2024

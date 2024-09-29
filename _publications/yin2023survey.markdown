@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey On Multimodal Large Language Models
+title: 'A Survey On Multimodal Large Language Models'
 authors: Shukang Yin, Chaoyou Fu, Sirui Zhao, Ke Li, Xing Sun, Tong Xu, Enhong Chen
 conference: "Arxiv"
 year: 2023

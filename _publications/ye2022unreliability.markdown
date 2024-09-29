@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Unreliability Of Explanations In Few-shot Prompting For Textual Reasoning
+title: 'The Unreliability Of Explanations In Few-shot Prompting For Textual Reasoning'
 authors: Xi Ye, Greg Durrett
 conference: "Arxiv"
 year: 2022

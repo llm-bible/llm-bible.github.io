@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Small Language Models On Pubmedqa Via Generative Data Augmentation
+title: 'Improving Small Language Models On Pubmedqa Via Generative Data Augmentation'
 authors: Guo Zhen, Wang Peiqi, Wang Yanwei, Yu Shangdi
 conference: "Arxiv"
 year: 2023

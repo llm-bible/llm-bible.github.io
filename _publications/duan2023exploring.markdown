@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring The Relationship Between In-context Learning And Instruction Tuning
+title: 'Exploring The Relationship Between In-context Learning And Instruction Tuning'
 authors: Duan Hanyu, Tang Yixuan, Yang Yi, Abbasi Ahmed, Tam Kar Yan
 conference: "Arxiv"
 year: 2023

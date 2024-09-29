@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Soft Prompt Decoding For Multilingual Dense Retrieval
+title: 'Soft Prompt Decoding For Multilingual Dense Retrieval'
 authors: Huang Zhiqi, Zeng Hansi, Zamani Hamed, Allan James
 conference: "Arxiv"
 year: 2023

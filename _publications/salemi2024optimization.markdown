@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Optimization Methods For Personalizing Large Language Models Through Retrieval Augmentation
+title: 'Optimization Methods For Personalizing Large Language Models Through Retrieval Augmentation'
 authors: Salemi Alireza, Kallumadi Surya, Zamani Hamed
 conference: "Arxiv"
 year: 2024

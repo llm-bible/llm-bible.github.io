@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-guiding Exploration For Combinatorial Problems
+title: 'Self-guiding Exploration For Combinatorial Problems'
 authors: Iklassov Zangir, Du Yali, Akimov Farkhad, Takac Martin
 conference: "Arxiv"
 year: 2024

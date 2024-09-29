@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aligning A Medium-size GPT Model In English To A Small Closed Domain In Spanish
+title: 'Aligning A Medium-size GPT Model In English To A Small Closed Domain In Spanish'
 authors: Navarrete-parra Oscar R., Uc-cetina Victor, Reyes-magana Jorge
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hard-coded Gaussian Attention For Neural Machine Translation
+title: 'Hard-coded Gaussian Attention For Neural Machine Translation'
 authors: You Weiqiu, Sun Simeng, Iyyer Mohit
 conference: "Arxiv"
 year: 2020

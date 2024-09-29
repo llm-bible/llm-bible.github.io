@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Using Counterfactual Tasks To Evaluate The Generality Of Analogical Reasoning In Large Language Models
+title: 'Using Counterfactual Tasks To Evaluate The Generality Of Analogical Reasoning In Large Language Models'
 authors: Lewis Martha, Mitchell Melanie
 conference: "Arxiv"
 year: 2024

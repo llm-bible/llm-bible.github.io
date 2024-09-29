@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Open Artificial Knowledge
+title: 'Open Artificial Knowledge'
 authors: Borisov Vadim, Schreiber Richard H.
 conference: "Arxiv"
 year: 2024

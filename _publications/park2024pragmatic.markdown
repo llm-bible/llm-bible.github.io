@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pragmatic Competence Evaluation Of Large Language Models For Korean
+title: 'Pragmatic Competence Evaluation Of Large Language Models For Korean'
 authors: Park Dojun, Lee Jiwoo, Jeong Hyeyun, Park Seohyun, Lee Sungeun
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Why Can GPT Learn In-context? Language Models Implicitly Perform Gradient Descent As Meta-optimizers
+title: 'Why Can GPT Learn In-context? Language Models Implicitly Perform Gradient Descent As Meta-optimizers'
 authors: Dai Damai, Sun Yutao, Dong Li, Hao Yaru, Ma Shuming, Sui Zhifang, Wei Furu
 conference: "Arxiv"
 year: 2022

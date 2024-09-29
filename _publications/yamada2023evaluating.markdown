@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Spatial Understanding Of Large Language Models
+title: 'Evaluating Spatial Understanding Of Large Language Models'
 authors: Yamada Yutaro, Bao Yihan, Lampinen Andrew K., Kasai Jungo, Yildirim Ilker
 conference: "Arxiv"
 year: 2023

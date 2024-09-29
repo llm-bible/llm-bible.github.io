@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-grained Hallucination Detection And Editing For Language Models
+title: 'Fine-grained Hallucination Detection And Editing For Language Models'
 authors: Mishra Abhika, Asai Akari, Balachandran Vidhisha, Wang Yizhong, Neubig Graham, Tsvetkov Yulia, Hajishirzi Hannaneh
 conference: "Arxiv"
 year: 2024

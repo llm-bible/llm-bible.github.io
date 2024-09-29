@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generating Educational Materials With Different Levels Of Readability Using Llms
+title: 'Generating Educational Materials With Different Levels Of Readability Using Llms'
 authors: Huang Chieh-yang, Wei Jing, Huang Ting-hao 'kenneth'
 conference: "Arxiv"
 year: 2024

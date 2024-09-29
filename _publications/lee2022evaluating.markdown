@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Human-language Model Interaction
+title: 'Evaluating Human-language Model Interaction'
 authors: Lee Mina, Srivastava Megha, Hardy Amelia, Thickstun John, Durmus Esin, Paranjape Ashwin, Gerard-ursin Ines, Li Xiang Lisa, Ladhak Faisal, Rong Frieda, Wang Rose E., Kwon Minae, Park Joon Sung, Cao Hancheng, Lee Tony, Bommasani Rishi, Bernstein Michael, Liang Percy
 conference: "Arxiv"
 year: 2022

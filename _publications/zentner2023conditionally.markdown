@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Conditionally Combining Robot Skills Using Large Language Models
+title: 'Conditionally Combining Robot Skills Using Large Language Models'
 authors: Zentner K. R., Julian Ryan, Ichter Brian, Sukhatme Gaurav S.
 conference: "Arxiv"
 year: 2023

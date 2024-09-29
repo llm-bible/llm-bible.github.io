@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Poisoning Language Models During Instruction Tuning
+title: 'Poisoning Language Models During Instruction Tuning'
 authors: Wan Alexander, Wallace Eric, Shen Sheng, Klein Dan
 conference: "Arxiv"
 year: 2023

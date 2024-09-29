@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Empirical Analysis On Large Language Models In Debate Evaluation
+title: 'An Empirical Analysis On Large Language Models In Debate Evaluation'
 authors: Liu Xinyi, Liu Pinxin, He Hangfeng
 conference: "Arxiv"
 year: 2024

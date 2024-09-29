@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Large Language Models Learn Independent Causal Mechanisms?
+title: 'Can Large Language Models Learn Independent Causal Mechanisms?'
 authors: Gendron Gaël, Nguyen Bao Trung, Peng Alex Yuxuan, Witbrock Michael, Dobbie Gillian
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instruction-guided Scene Text Recognition
+title: 'Instruction-guided Scene Text Recognition'
 authors: Du Yongkun, Chen Zhineng, Su Yuchen, Jia Caiyan, Jiang Yu-gang
 conference: "Arxiv"
 year: 2024

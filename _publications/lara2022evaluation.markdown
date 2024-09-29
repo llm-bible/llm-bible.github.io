@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluation Of Synthetic Datasets For Conversational Recommender Systems
+title: 'Evaluation Of Synthetic Datasets For Conversational Recommender Systems'
 authors: Lara Harsh, Tiwari Manoj
 conference: "Arxiv"
 year: 2022

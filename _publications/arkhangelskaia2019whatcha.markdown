@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Whatcha Lookin'' At? Deeplifting Bert''s Attention In Question Answering
+title: 'Whatcha Lookin'' At? Deeplifting Bert''s Attention In Question Answering'
 authors: Arkhangelskaia Ekaterina, Dutta Sourav
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Models Are Multilingual Chain-of-thought Reasoners
+title: 'Language Models Are Multilingual Chain-of-thought Reasoners'
 authors: Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, Soroush Vosoughi, Hyung Won Chung, Yi Tay, Sebastian Ruder, Denny Zhou, Dipanjan Das, Jason Wei
 conference: "Arxiv"
 year: 2022

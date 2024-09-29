@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aligning Large Language Models From Self-reference AI Feedback With One General Principle
+title: 'Aligning Large Language Models From Self-reference AI Feedback With One General Principle'
 authors: Bao Rong, Zheng Rui, Dou Shihan, Wang Xiao, Zhou Enyu, Wang Bo, Zhang Qi, Ding Liang, Tao Dacheng
 conference: "Arxiv"
 year: 2024

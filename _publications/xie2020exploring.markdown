@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Question-specific Rewards For Generating Deep Questions
+title: 'Exploring Question-specific Rewards For Generating Deep Questions'
 authors: Xie Yuxi, Pan Liangming, Wang Dongzhe, Kan Min-yen, Feng Yansong
 conference: "Arxiv"
 year: 2020

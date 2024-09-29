@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unlocking Emergent Modularity In Large Language Models
+title: 'Unlocking Emergent Modularity In Large Language Models'
 authors: Qiu Zihan, Huang Zeyu, Fu Jie
 conference: ""
 year: 2023

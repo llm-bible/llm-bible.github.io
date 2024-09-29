@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Linearizing Large Language Models
+title: 'Linearizing Large Language Models'
 authors: Mercat Jean, Vasiljevic Igor, Keh Sedrick, Arora Kushal, Dave Achal, Gaidon Adrien, Kollar Thomas
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Identifying Query-relevant Neurons In Large Language Models For Long-form Texts
+title: 'Identifying Query-relevant Neurons In Large Language Models For Long-form Texts'
 authors: Chen Lihu, Dejl Adam, Toni Francesca
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Model Composition For Multimodal Large Language Models
+title: 'Model Composition For Multimodal Large Language Models'
 authors: Chen Chi, Du Yiyang, Fang Zheng, Wang Ziyue, Luo Fuwen, Li Peng, Yan Ming, Zhang Ji, Huang Fei, Sun Maosong, Liu Yang
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding Telecom Language Through Large Language Models
+title: 'Understanding Telecom Language Through Large Language Models'
 authors: Bariah Lina, Zou Hang, Zhao Qiyang, Mouhouche Belkacem, Bader Faouzi, Debbah Merouane
 conference: "Arxiv"
 year: 2023

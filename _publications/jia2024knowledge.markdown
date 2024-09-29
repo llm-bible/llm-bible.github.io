@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Knowledge Adaptation From Large Language Model To Recommendation For Practical Industrial Application
+title: 'Knowledge Adaptation From Large Language Model To Recommendation For Practical Industrial Application'
 authors: Jia Jian, Wang Yipei, Li Yan, Chen Honggang, Bai Xuehan, Liu Zhaocheng, Liang Jian, Chen Quan, Li Han, Jiang Peng, Gai Kun
 conference: "Arxiv"
 year: 2024

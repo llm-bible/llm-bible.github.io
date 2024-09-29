@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-grained Audio-visual Joint Representations For Multimodal Large Language Models
+title: 'Fine-grained Audio-visual Joint Representations For Multimodal Large Language Models'
 authors: Sun Guangzhi, Yu Wenyi, Tang Changli, Chen Xianzhao, Tan Tian, Li Wei, Lu Lu, Ma Zejun, Zhang Chao
 conference: "Arxiv"
 year: 2023

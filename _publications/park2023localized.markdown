@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Localized Symbolic Knowledge Distillation For Visual Commonsense Models
+title: 'Localized Symbolic Knowledge Distillation For Visual Commonsense Models'
 authors: Park Jae Sung, Hessel Jack, Chandu Khyathi Raghavi, Liang Paul Pu, Lu Ximing, West Peter, Yu Youngjae, Huang Qiuyuan, Gao Jianfeng, Farhadi Ali, Choi Yejin
 conference: "Arxiv"
 year: 2023

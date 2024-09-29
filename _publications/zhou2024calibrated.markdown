@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Calibrated Self-rewarding Vision Language Models
+title: 'Calibrated Self-rewarding Vision Language Models'
 authors: Zhou Yiyang, Fan Zhiyuan, Cheng Dongjie, Yang Sihan, Chen Zhaorun, Cui Chenhang, Wang Xiyao, Li Yun, Zhang Linjun, Yao Huaxiu
 conference: "Arxiv"
 year: 2024

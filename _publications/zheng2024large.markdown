@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models As Reliable Knowledge Bases?
+title: 'Large Language Models As Reliable Knowledge Bases?'
 authors: Zheng Danna, Lapata Mirella, Pan Jeff Z.
 conference: "Arxiv"
 year: 2024

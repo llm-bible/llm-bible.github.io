@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Advancing Multimodal Large Language Models In Chart Question Answering With Visualization-referenced Instruction Tuning
+title: 'Advancing Multimodal Large Language Models In Chart Question Answering With Visualization-referenced Instruction Tuning'
 authors: Zeng Xingchen, Lin Haichuan, Ye Yilin, Zeng Wei
 conference: "Arxiv"
 year: 2024

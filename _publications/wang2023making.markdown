@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Making Large Language Models Better Reasoners With Alignment
+title: 'Making Large Language Models Better Reasoners With Alignment'
 authors: Wang Peiyi, Li Lei, Chen Liang, Song Feifan, Lin Binghuai, Cao Yunbo, Liu Tianyu, Sui Zhifang
 conference: "Arxiv"
 year: 2023

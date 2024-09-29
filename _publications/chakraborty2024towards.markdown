@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Neural Synthesis For Smt-assisted Proof-oriented Programming
+title: 'Towards Neural Synthesis For Smt-assisted Proof-oriented Programming'
 authors: Chakraborty Saikat, Ebner Gabriel, Bhat Siddharth, Fakhoury Sarah, Fatima Sakina, Lahiri Shuvendu, Swamy Nikhil
 conference: "Arxiv"
 year: 2024

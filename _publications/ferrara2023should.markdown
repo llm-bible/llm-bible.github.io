@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Should Chatgpt Be Biased? Challenges And Risks Of Bias In Large Language Models
+title: 'Should Chatgpt Be Biased? Challenges And Risks Of Bias In Large Language Models'
 authors: Ferrara Emilio
 conference: "First Monday Volume"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tele-flm Technical Report
+title: 'Tele-flm Technical Report'
 authors: Li Xiang, Yao Yiqun, Jiang Xin, Fang Xuezhi, Wang Chao, Liu Xinzhang, Wang Zihan, Zhao Yu, Wang Xin, Huang Yuyao, Song Shuangyong, Li Yongxiang, Zhang Zheng, Zhao Bo, Sun Aixin, Wang Yequan, He Zhongjiang, Wang Zhongyuan, Li Xuelong, Huang Tiejun
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Achieving Tool Calling Functionality In Llms Using Only Prompt Engineering Without Fine-tuning
+title: 'Achieving Tool Calling Functionality In Llms Using Only Prompt Engineering Without Fine-tuning'
 authors: He Shengtao
 conference: "Arxiv"
 year: 2024

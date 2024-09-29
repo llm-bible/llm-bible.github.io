@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bounding The Capabilities Of Large Language Models In Open Text Generation With Prompt Constraints
+title: 'Bounding The Capabilities Of Large Language Models In Open Text Generation With Prompt Constraints'
 authors: Lu Albert, Zhang Hongxin, Zhang Yanzhe, Wang Xuezhi, Yang Diyi
 conference: "Arxiv"
 year: 2023

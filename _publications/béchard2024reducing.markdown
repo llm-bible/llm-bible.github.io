@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reducing Hallucination In Structured Outputs Via Retrieval-augmented Generation
+title: 'Reducing Hallucination In Structured Outputs Via Retrieval-augmented Generation'
 authors: Béchard Patrice, Ayala Orlando Marquez
 conference: "Arxiv"
 year: 2024

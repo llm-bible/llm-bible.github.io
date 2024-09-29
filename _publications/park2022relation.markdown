@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Relation-aware Language-graph Transformer For Question Answering
+title: 'Relation-aware Language-graph Transformer For Question Answering'
 authors: Park Jinyoung, Choi Hyeong Kyu, Ko Juyeon, Park Hyeonjin, Kim Ji-hoon, Jeong Jisu, Kim Kyungmin, Kim Hyunwoo J.
 conference: "Arxiv"
 year: 2022

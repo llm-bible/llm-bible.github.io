@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Stabilizing RLHF Through Advantage Model And Selective Rehearsal
+title: 'Stabilizing RLHF Through Advantage Model And Selective Rehearsal'
 authors: Peng Baolin, Song Linfeng, Tian Ye, Jin Lifeng, Mi Haitao, Yu Dong
 conference: "Arxiv"
 year: 2023

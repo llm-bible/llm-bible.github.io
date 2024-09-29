@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Frustratingly Simple Approach For End-to-end Image Captioning
+title: 'A Frustratingly Simple Approach For End-to-end Image Captioning'
 authors: Luo Ziyang, Xi Yadong, Zhang Rongsheng, Ma Jing
 conference: "Arxiv"
 year: 2022

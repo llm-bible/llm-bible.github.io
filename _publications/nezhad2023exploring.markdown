@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring The Maze Of Multilingual Modeling
+title: 'Exploring The Maze Of Multilingual Modeling'
 authors: Nezhad Sina Bagheri, Agrawal Ameeta
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Empirical Study Of Netops Capability Of Pre-trained Large Language Models
+title: 'An Empirical Study Of Netops Capability Of Pre-trained Large Language Models'
 authors: Miao Yukai, Bai Yu, Chen Li, Li Dan, Sun Haifeng, Wang Xizheng, Luo Ziqiu, Ren Yanyu, Sun Dapeng, Xu Xiuting, Zhang Qi, Xiang Chao, Li Xinchi
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Interactive Matching Network For Multi-turn Response Selection In Retrieval-based Chatbots
+title: 'Interactive Matching Network For Multi-turn Response Selection In Retrieval-based Chatbots'
 authors: Gu Jia-chen, Ling Zhen-hua, Liu Quan
 conference: "Arxiv"
 year: 2019

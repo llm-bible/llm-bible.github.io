@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Can Implement Policy Iteration
+title: 'Large Language Models Can Implement Policy Iteration'
 authors: Brooks Ethan, Walls Logan, Lewis Richard L., Singh Satinder
 conference: "Arxiv"
 year: 2022

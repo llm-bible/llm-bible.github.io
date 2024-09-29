@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative Judge For Evaluating Alignment
+title: 'Generative Judge For Evaluating Alignment'
 authors: Li Junlong, Sun Shichao, Yuan Weizhe, Fan Run-ze, Zhao Hai, Liu Pengfei
 conference: "Arxiv"
 year: 2023

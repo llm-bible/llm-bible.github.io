@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieval-enhanced Adversarial Training For Neural Response Generation
+title: 'Retrieval-enhanced Adversarial Training For Neural Response Generation'
 authors: Zhu Qingfu, Cui Lei, Zhang Weinan, Wei Furu, Liu Ting
 conference: "Arxiv"
 year: 2018

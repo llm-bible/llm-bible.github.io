@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-distillation For Model Stacking Unlocks Cross-lingual NLU In 200+ Languages
+title: 'Self-distillation For Model Stacking Unlocks Cross-lingual NLU In 200+ Languages'
 authors: Schmidt Fabian David, Borchert Philipp, Vulić Ivan, Glavaš Goran
 conference: "Arxiv"
 year: 2024

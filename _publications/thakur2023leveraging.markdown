@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Llms For Synthesizing Training Data Across Many Languages In Multilingual Dense Retrieval
+title: 'Leveraging Llms For Synthesizing Training Data Across Many Languages In Multilingual Dense Retrieval'
 authors: Thakur Nandan, Ni Jianmo, Ábrego Gustavo Hernández, Wieting John, Lin Jimmy, Cer Daniel
 conference: "Arxiv"
 year: 2023

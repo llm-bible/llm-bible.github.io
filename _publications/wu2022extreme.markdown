@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Extreme Compression For Pre-trained Transformers Made Simple And Efficient
+title: 'Extreme Compression For Pre-trained Transformers Made Simple And Efficient'
 authors: Wu Xiaoxia, Yao Zhewei, Zhang Minjia, Li Conglong, He Yuxiong
 conference: "Arxiv"
 year: 2022

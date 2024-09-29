@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adapting Open-source Large Language Models For Cost-effective, Expert-level Clinical Note Generation With On-policy Reinforcement Learning
+title: 'Adapting Open-source Large Language Models For Cost-effective, Expert-level Clinical Note Generation With On-policy Reinforcement Learning'
 authors: Wang Hanyin, Gao Chufan, Liu Bolun, Xu Qiping, Hussein Guleid, Labban Mohamad El, Iheasirim Kingsley, Korsapati Hariprasad, Outcalt Chuck, Sun Jimeng
 conference: "Arxiv"
 year: 2024

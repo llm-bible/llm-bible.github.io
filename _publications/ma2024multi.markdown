@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-modal Generative Embedding Model
+title: 'Multi-modal Generative Embedding Model'
 authors: Ma Feipeng, Xue Hongwei, Wang Guangting, Zhou Yizhou, Rao Fengyun, Yan Shilin, Zhang Yueyi, Wu Siying, Shou Mike Zheng, Sun Xiaoyan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transformer Based Bengali Chatbot Using General Knowledge Dataset
+title: 'Transformer Based Bengali Chatbot Using General Knowledge Dataset'
 authors: Masum Abu Kaisar Mohammad, Abujar Sheikh, Akter Sharmin, Ria Nushrat Jahan, Hossain Syed Akhter
 conference: "Arxiv"
 year: 2021

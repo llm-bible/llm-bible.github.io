@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Semantics-aware BERT For Language Understanding
+title: 'Semantics-aware BERT For Language Understanding'
 authors: Zhang Zhuosheng, Wu Yuwei, Zhao Hai, Li Zuchao, Zhang Shuailiang, Zhou Xi, Zhou Xiang
 conference: "Arxiv"
 year: 2019

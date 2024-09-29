@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Imitating Language Via Scalable Inverse Reinforcement Learning
+title: 'Imitating Language Via Scalable Inverse Reinforcement Learning'
 authors: Wulfmeier Markus, Bloesch Michael, Vieillard Nino, Ahuja Arun, Bornschein Jorg, Huang Sandy, Sokolov Artem, Barnes Matt, Desjardins Guillaume, Bewley Alex, Bechtle Sarah Maria Elisabeth, Springenberg Jost Tobias, Momchev Nikola, Bachem Olivier, Geist Matthieu, Riedmiller Martin
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Staged Training For Transformer Language Models
+title: 'Staged Training For Transformer Language Models'
 authors: Shen Sheng, Walsh Pete, Keutzer Kurt, Dodge Jesse, Peters Matthew, Beltagy Iz
 conference: "Arxiv"
 year: 2022

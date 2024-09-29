@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning To Generate Better Than Your LLM
+title: 'Learning To Generate Better Than Your LLM'
 authors: Chang Jonathan D., Brantley Kiante, Ramamurthy Rajkumar, Misra Dipendra, Sun Wen
 conference: "Arxiv"
 year: 2023

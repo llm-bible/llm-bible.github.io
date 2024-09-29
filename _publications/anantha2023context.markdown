@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Context Tuning For Retrieval Augmented Generation
+title: 'Context Tuning For Retrieval Augmented Generation'
 authors: Anantha Raviteja, Bethi Tharun, Vodianik Danil, Chappidi Srinivas
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dialogue Meaning Representation For Task-oriented Dialogue Systems
+title: 'Dialogue Meaning Representation For Task-oriented Dialogue Systems'
 authors: Hu Xiangkun, Dai Junqi, Yan Hang, Zhang Yi, Guo Qipeng, Qiu Xipeng, Zhang Zheng
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompting GPT-3 To Be Reliable
+title: 'Prompting GPT-3 To Be Reliable'
 authors: Chenglei Si, Zhe Gan, Zhengyuan Yang, Shuohang Wang, Jianfeng Wang, Jordan Boyd-graber, Lijuan Wang
 conference: "Arxiv"
 year: 2022

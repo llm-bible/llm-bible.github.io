@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Fine-tuning Pre-trained Language Models With Integer Forward And Backward Propagation
+title: 'Towards Fine-tuning Pre-trained Language Models With Integer Forward And Backward Propagation'
 authors: Tayaranian Mohammadreza, Ghaffari Alireza, Tahaei Marzieh S., Rezagholizadeh Mehdi, Asgharian Masoud, Nia Vahid Partovi
 conference: "Arxiv"
 year: 2022

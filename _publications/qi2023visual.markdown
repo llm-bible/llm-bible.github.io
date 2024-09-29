@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Visual Adversarial Examples Jailbreak Aligned Large Language Models
+title: 'Visual Adversarial Examples Jailbreak Aligned Large Language Models'
 authors: Qi Xiangyu, Huang Kaixuan, Panda Ashwinee, Henderson Peter, Wang Mengdi, Mittal Prateek
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Large Language Models Reason About Medical Questions?
+title: 'Can Large Language Models Reason About Medical Questions?'
 authors: Liévin Valentin, Hother Christoffer Egeberg, Motzfeldt Andreas Geert, Winther Ole
 conference: "Arxiv"
 year: 2022

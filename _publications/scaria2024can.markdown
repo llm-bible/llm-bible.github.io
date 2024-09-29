@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Small Language Models Learn, Unlearn, And Retain Noise Patterns?
+title: 'Can Small Language Models Learn, Unlearn, And Retain Noise Patterns?'
 authors: Scaria Nicy, Kennedy Silvester John Joseph, Subramani Deepak
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learnable Item Tokenization For Generative Recommendation
+title: 'Learnable Item Tokenization For Generative Recommendation'
 authors: Wang Wenjie, Bao Honghui, Lin Xinyu, Zhang Jizhi, Li Yongqi, Feng Fuli, Ng See-kiong, Chua Tat-seng
 conference: "Arxiv"
 year: 2024

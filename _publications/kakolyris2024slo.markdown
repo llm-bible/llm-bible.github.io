@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Slo-aware GPU Frequency Scaling For Energy Efficient LLM Inference Serving
+title: 'Slo-aware GPU Frequency Scaling For Energy Efficient LLM Inference Serving'
 authors: Kakolyris Andreas Kosmas, Masouros Dimosthenis, Vavaroutsos Petros, Xydis Sotirios, Soudris Dimitrios
 conference: "Arxiv"
 year: 2024

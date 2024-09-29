@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: H2O Open Ecosystem For State-of-the-art Large Language Models
+title: 'H2O Open Ecosystem For State-of-the-art Large Language Models'
 authors: Candel Arno, Mckinney Jon, Singer Philipp, Pfeiffer Pascal, Jeblick Maximilian, Lee Chun Ming, Conde Marcos V.
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Sentiment Consolidation Framework For Meta-review Generation
+title: 'A Sentiment Consolidation Framework For Meta-review Generation'
 authors: Li Miao, Lau Jey Han, Hovy Eduard
 conference: "Arxiv"
 year: 2024

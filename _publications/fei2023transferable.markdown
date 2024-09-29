@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transferable Decoding With Visual Entities For Zero-shot Image Captioning
+title: 'Transferable Decoding With Visual Entities For Zero-shot Image Captioning'
 authors: Fei Junjie, Wang Teng, Zhang Jinrui, He Zhenyu, Wang Chengjie, Zheng Feng
 conference: "Arxiv"
 year: 2023

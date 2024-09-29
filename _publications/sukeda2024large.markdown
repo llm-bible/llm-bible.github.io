@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: 70b-parameter Large Language Models In Japanese Medical Question-answering
+title: '70b-parameter Large Language Models In Japanese Medical Question-answering'
 authors: Sukeda Issey, Kishikawa Risa, Kodera Satoshi
 conference: "Arxiv"
 year: 2024

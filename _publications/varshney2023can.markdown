@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can NLP Models Correctly Reason Over Contexts That Break The Common Assumptions?
+title: 'Can NLP Models Correctly Reason Over Contexts That Break The Common Assumptions?'
 authors: Varshney Neeraj, Parmar Mihir, Patel Nisarg, Handa Divij, Sarkar Sayantan, Luo Man, Baral Chitta
 conference: "Arxiv"
 year: 2023

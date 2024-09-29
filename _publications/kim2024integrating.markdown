@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Integrating Paralinguistics In Speech-empowered Large Language Models For Natural Conversation
+title: 'Integrating Paralinguistics In Speech-empowered Large Language Models For Natural Conversation'
 authors: Kim Heeseung, Seo Soonshin, Jeong Kyeongseok, Kwon Ohsung, Kim Soyoon, Kim Jungwhan, Lee Jaehong, Song Eunwoo, Oh Myungwoo, Ha Jung-woo, Yoon Sungroh, Yoo Kang Min
 conference: "Arxiv"
 year: 2024

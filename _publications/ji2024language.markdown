@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Models Resist Alignment
+title: 'Language Models Resist Alignment'
 authors: Ji Jiaming, Wang Kaile, Qiu Tianyi, Chen Boyuan, Zhou Jiayi, Li Changye, Lou Hantao, Yang Yaodong
 conference: "Arxiv"
 year: 2024

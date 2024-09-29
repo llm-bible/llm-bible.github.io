@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Option Comparison Network For Multiple-choice Reading Comprehension
+title: 'Option Comparison Network For Multiple-choice Reading Comprehension'
 authors: Ran Qiu, Li Peng, Hu Weiwei, Zhou Jie
 conference: "Arxiv"
 year: 2019

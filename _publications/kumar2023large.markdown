@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Humanize Technology
+title: 'Large Language Models Humanize Technology'
 authors: Kumar Pratyush
 conference: "Arxiv"
 year: 2023

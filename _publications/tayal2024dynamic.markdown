@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dynamic Contexts For Generating Suggestion Questions In RAG Based Conversational Systems
+title: 'Dynamic Contexts For Generating Suggestion Questions In RAG Based Conversational Systems'
 authors: Tayal Anuja, Tyagi Aman
 conference: "Arxiv"
 year: 2024

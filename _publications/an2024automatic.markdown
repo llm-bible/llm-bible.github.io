@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automatic Pseudo-harmful Prompt Generation For Evaluating False Refusals In Large Language Models
+title: 'Automatic Pseudo-harmful Prompt Generation For Evaluating False Refusals In Large Language Models'
 authors: An Bang, Zhu Sicheng, Zhang Ruiyi, Panaitescu-liess Michael-andrei, Xu Yuancheng, Huang Furong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unifying Demonstration Selection And Compression For In-context Learning
+title: 'Unifying Demonstration Selection And Compression For In-context Learning'
 authors: Gao Jun, Cao Ziqiang, Li Wenjie
 conference: "Arxiv"
 year: 2024

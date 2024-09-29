@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unlocking Continual Learning Abilities In Language Models
+title: 'Unlocking Continual Learning Abilities In Language Models'
 authors: Du Wenyu, Cheng Shuang, Luo Tongxu, Qiu Zihan, Huang Zeyu, Cheung Ka Chun, Cheng Reynold, Fu Jie
 conference: "Arxiv"
 year: 2024

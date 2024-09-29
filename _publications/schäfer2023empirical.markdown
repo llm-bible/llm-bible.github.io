@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Empirical Evaluation Of Using Large Language Models For Automated Unit Test Generation
+title: 'An Empirical Evaluation Of Using Large Language Models For Automated Unit Test Generation'
 authors: Schäfer Max, Nadi Sarah, Eghbali Aryaz, Tip Frank
 conference: "Arxiv"
 year: 2023

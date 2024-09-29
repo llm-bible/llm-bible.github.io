@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Text Generation With Exemplar-based Adaptive Decoding
+title: 'Text Generation With Exemplar-based Adaptive Decoding'
 authors: Peng Hao, Parikh Ankur P., Faruqui Manaal, Dhingra Bhuwan, Das Dipanjan
 conference: "Arxiv"
 year: 2019

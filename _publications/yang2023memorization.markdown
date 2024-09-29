@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On The Planning, Search, And Memorization Capabilities Of Large Language Models
+title: 'On The Planning, Search, And Memorization Capabilities Of Large Language Models'
 authors: Yang Yunhao, Tomar Anshul
 conference: "Arxiv"
 year: 2023

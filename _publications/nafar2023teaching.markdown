@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Teaching Probabilistic Logical Reasoning To Transformers
+title: 'Teaching Probabilistic Logical Reasoning To Transformers'
 authors: Nafar Aliakbar, Venable Kristen Brent, Kordjamshidi Parisa
 conference: "Arxiv"
 year: 2023

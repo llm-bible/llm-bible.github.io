@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Training Tips For The Transformer Model
+title: 'Training Tips For The Transformer Model'
 authors: Popel Martin, Bojar Ondřej
 conference: "The Prague Bulletin of Mathematical Linguistics"
 year: 2018

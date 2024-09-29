@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Training Ultra Long Context Language Model With Fully Pipelined Distributed Transformer
+title: 'Training Ultra Long Context Language Model With Fully Pipelined Distributed Transformer'
 authors: Yao Jinghan, Jacobs Sam Ade, Tanaka Masahiro, Ruwase Olatunji, Shafi Aamir, Subramoni Hari, Panda Dhabaleswar K.
 conference: "Arxiv"
 year: 2024

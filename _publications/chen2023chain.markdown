@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chain-of-thought Prompt Distillation For Multimodal Named Entity Recognition And Multimodal Relation Extraction
+title: 'Chain-of-thought Prompt Distillation For Multimodal Named Entity Recognition And Multimodal Relation Extraction'
 authors: Chen Feng, Feng Yujian
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Practical And Reproducible Symbolic Music Generation By Large Language Models With Structural Embeddings
+title: 'Practical And Reproducible Symbolic Music Generation By Large Language Models With Structural Embeddings'
 authors: Rhyu Seungyeon, Yang Kichang, Cho Sungjun, Kim Jaehyeon, Lee Kyogu, Lee Moontae
 conference: "Arxiv"
 year: 2024

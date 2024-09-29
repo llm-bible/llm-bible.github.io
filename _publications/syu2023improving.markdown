@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Non-autoregressive Translation Quality With Pretrained Language Model, Embedding Distillation And Upsampling Strategy For CTC
+title: 'Improving Non-autoregressive Translation Quality With Pretrained Language Model, Embedding Distillation And Upsampling Strategy For CTC'
 authors: Syu Shen-sian, Xie Juncheng, Lee Hung-yi
 conference: "Arxiv"
 year: 2023

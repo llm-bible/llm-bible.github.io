@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multilingual NMT With A Language-independent Attention Bridge
+title: 'Multilingual NMT With A Language-independent Attention Bridge'
 authors: Vázquez Raúl, Raganato Alessandro, Tiedemann Jörg, Creutz Mathias
 conference: "Proceedings of the"
 year: 2018

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt Tuning For Discriminative Pre-trained Language Models
+title: 'Prompt Tuning For Discriminative Pre-trained Language Models'
 authors: Yao Yuan, Dong Bowen, Zhang Ao, Zhang Zhengyan, Xie Ruobing, Liu Zhiyuan, Lin Leyu, Sun Maosong, Wang Jianyong
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Parallelizing Linear Transformers With The Delta Rule Over Sequence Length
+title: 'Parallelizing Linear Transformers With The Delta Rule Over Sequence Length'
 authors: Yang Songlin, Wang Bailin, Zhang Yu, Shen Yikang, Kim Yoon
 conference: "Arxiv"
 year: 2024

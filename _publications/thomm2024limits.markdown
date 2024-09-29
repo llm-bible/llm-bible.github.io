@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Limits Of Transformer Language Models On Learning To Compose Algorithms
+title: 'Limits Of Transformer Language Models On Learning To Compose Algorithms'
 authors: Thomm Jonathan, Terzic Aleksandar, Camposampiero Giacomo, Hersche Michael, Schölkopf Bernhard, Rahimi Abbas
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Large Language Models With Climate Resources
+title: 'Enhancing Large Language Models With Climate Resources'
 authors: Kraus Mathias, Bingler Julia Anna, Leippold Markus, Schimanski Tobias, Senni Chiara Colesanti, Stammbach Dominik, Vaghefi Saeid Ashraf, Webersinke Nicolas
 conference: "Arxiv"
 year: 2023

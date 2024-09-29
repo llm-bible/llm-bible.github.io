@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning Distributed Representations Of Sentences From Unlabelled Data
+title: 'Learning Distributed Representations Of Sentences From Unlabelled Data'
 authors: Felix Hill, Kyunghyun Cho, Anna Korhonen
 conference: "Arxiv"
 year: 2016

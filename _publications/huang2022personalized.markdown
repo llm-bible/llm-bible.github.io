@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Personalized Dialogue Generation With Persona-adaptive Attention
+title: 'Personalized Dialogue Generation With Persona-adaptive Attention'
 authors: Huang Qiushi, Zhang Yu, Ko Tom, Liu Xubo, Wu Bo, Wang Wenwu, Tang Lilian
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Interpretable Mental Health Analysis With Large Language Models
+title: 'Towards Interpretable Mental Health Analysis With Large Language Models'
 authors: Yang Kailai, Ji Shaoxiong, Zhang Tianlin, Xie Qianqian, Kuang Ziyan, Ananiadou Sophia
 conference: "Arxiv"
 year: 2023

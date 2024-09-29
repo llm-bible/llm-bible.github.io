@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Socratic Question Generation Using Data Augmentation And Preference Optimization
+title: 'Improving Socratic Question Generation Using Data Augmentation And Preference Optimization'
 authors: Kumar Nischal Ashok, Lan Andrew
 conference: "Arxiv"
 year: 2024

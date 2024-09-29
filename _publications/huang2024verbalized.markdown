@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Verbalized Probabilistic Graphical Modeling With Large Language Models
+title: 'Verbalized Probabilistic Graphical Modeling With Large Language Models'
 authors: Huang Hengguan, Shen Xing, Wang Songtao, Liu Dianbo, Wang Hao
 conference: "Arxiv"
 year: 2024

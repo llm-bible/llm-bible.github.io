@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rhyme-aware Chinese Lyric Generator Based On GPT
+title: 'Rhyme-aware Chinese Lyric Generator Based On GPT'
 authors: Yuan Yixiao, Huang Yangchen, Ma Yu, Li Xinjin, Li Zhenglin, Shi Yiming, Zhou Huapeng
 conference: "Arxiv"
 year: 2024

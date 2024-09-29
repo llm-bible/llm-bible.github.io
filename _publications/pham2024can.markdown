@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Base Chatgpt Be Used For Forecasting Without Additional Optimization?
+title: 'Can Base Chatgpt Be Used For Forecasting Without Additional Optimization?'
 authors: Pham Van, Cunningham Scott
 conference: "Arxiv"
 year: 2024

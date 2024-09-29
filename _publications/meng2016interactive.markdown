@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Interactive Attention For Neural Machine Translation
+title: 'Interactive Attention For Neural Machine Translation'
 authors: Meng Fandong, Lu Zhengdong, Li Hang, Liu Qun
 conference: "Arxiv"
 year: 2016

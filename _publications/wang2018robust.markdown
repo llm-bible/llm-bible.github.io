@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Robust Text-to-sql Generation With Execution-guided Decoding
+title: 'Robust Text-to-sql Generation With Execution-guided Decoding'
 authors: Wang Chenglong, Tatwawadi Kedar, Brockschmidt Marc, Huang Po-sen, Mao Yi, Polozov Oleksandr, Singh Rishabh
 conference: "Arxiv"
 year: 2018

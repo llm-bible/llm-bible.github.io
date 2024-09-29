@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM Defenses Are Not Robust To Multi-turn Human Jailbreaks Yet
+title: 'LLM Defenses Are Not Robust To Multi-turn Human Jailbreaks Yet'
 authors: Li Nathaniel, Han Ziwen, Steneker Ian, Primack Willow, Goodside Riley, Zhang Hugh, Wang Zifan, Menghini Cristina, Yue Summer
 conference: "Arxiv"
 year: 2024

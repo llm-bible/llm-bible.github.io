@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Emergent Properties Of Finetuned Language Representation Models
+title: 'Emergent Properties Of Finetuned Language Representation Models'
 authors: Matton Alexandre, De Oliveira Luke
 conference: "Arxiv"
 year: 2019

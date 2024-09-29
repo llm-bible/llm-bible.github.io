@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Information Association For Language Model Updating By Mitigating Lm-logical Discrepancy
+title: 'Information Association For Language Model Updating By Mitigating Lm-logical Discrepancy'
 authors: Yu Pengfei, Ji Heng
 conference: "Arxiv"
 year: 2023

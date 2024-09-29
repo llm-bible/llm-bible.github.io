@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Addressing Semantic Drift In Question Generation For Semi-supervised Question Answering
+title: 'Addressing Semantic Drift In Question Generation For Semi-supervised Question Answering'
 authors: Zhang Shiyue, Bansal Mohit
 conference: "Arxiv"
 year: 2019

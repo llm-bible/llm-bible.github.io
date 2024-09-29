@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tuning-free Accountable Intervention For LLM Deployment -- A Metacognitive Approach
+title: 'Tuning-free Accountable Intervention For LLM Deployment -- A Metacognitive Approach'
 authors: Tan Zhen, Peng Jie, Chen Tianlong, Liu Huan
 conference: "Arxiv"
 year: 2024

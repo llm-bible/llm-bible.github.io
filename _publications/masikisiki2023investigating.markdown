@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating The Efficacy Of Large Language Models In Reflective Assessment Methods Through Chain Of Thoughts Prompting
+title: 'Investigating The Efficacy Of Large Language Models In Reflective Assessment Methods Through Chain Of Thoughts Prompting'
 authors: Masikisiki Baphumelele, Marivate Vukosi, Hlope Yvette
 conference: "Arxiv"
 year: 2023

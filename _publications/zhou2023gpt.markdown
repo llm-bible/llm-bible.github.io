@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GPT As A Baseline For Recommendation Explanation Texts
+title: 'GPT As A Baseline For Recommendation Explanation Texts'
 authors: Zhou Joyce, Joachims Thorsten
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are Large Language Models Aligned With People''s Social Intuitions For Human-robot Interactions?
+title: 'Are Large Language Models Aligned With People''s Social Intuitions For Human-robot Interactions?'
 authors: Wachowiak Lennart, Coles Andrew, Celiktutan Oya, Canal Gerard
 conference: "Arxiv"
 year: 2024

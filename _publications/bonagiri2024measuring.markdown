@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Measuring Moral Inconsistencies In Large Language Models
+title: 'Measuring Moral Inconsistencies In Large Language Models'
 authors: Bonagiri Vamshi Krishna, Vennam Sreeram, Gaur Manas, Kumaraguru Ponnurangam
 conference: "Arxiv"
 year: 2024

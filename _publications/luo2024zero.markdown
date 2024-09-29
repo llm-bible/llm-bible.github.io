@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zero-shot Cross-domain Dialogue State Tracking Via Dual Low-rank Adaptation
+title: 'Zero-shot Cross-domain Dialogue State Tracking Via Dual Low-rank Adaptation'
 authors: Luo Xiang, Tang Zhiwen, Wang Jin, Zhang Xuejie
 conference: "Arxiv"
 year: 2024

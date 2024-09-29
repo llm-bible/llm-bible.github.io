@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tuning Llms With Contrastive Alignment Instructions For Machine Translation In Unseen, Low-resource Languages
+title: 'Tuning Llms With Contrastive Alignment Instructions For Machine Translation In Unseen, Low-resource Languages'
 authors: Mao Zhuoyuan, Yu Yen
 conference: "Arxiv"
 year: 2024

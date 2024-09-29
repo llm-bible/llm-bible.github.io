@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Making Large Language Models Better Reasoners With Step-aware Verifier
+title: 'Making Large Language Models Better Reasoners With Step-aware Verifier'
 authors: Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-guang Lou, Weizhu Chen
 conference: "Arxiv"
 year: 2022

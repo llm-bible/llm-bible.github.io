@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Relevance-promoting Language Model For Short-text Conversation
+title: 'Relevance-promoting Language Model For Short-text Conversation'
 authors: Li Xin, Li Piji, Bi Wei, Liu Xiaojiang, Lam Wai
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Neural Machine Translation With Key-value Memory-augmented Attention
+title: 'Neural Machine Translation With Key-value Memory-augmented Attention'
 authors: Meng Fandong, Tu Zhaopeng, Cheng Yong, Wu Haiyang, Zhai Junjie, Yang Yuekui, Wang Di
 conference: "Arxiv"
 year: 2018

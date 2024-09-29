@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Why Not Transform Chat Large Language Models To Non-english?
+title: 'Why Not Transform Chat Large Language Models To Non-english?'
 authors: Geng Xiang, Zhu Ming, Li Jiahuan, Lai Zhejian, Zou Wei, She Shuaijie, Guo Jiaxin, Zhao Xiaofeng, Li Yinglu, Li Yuang, Su Chang, Zhao Yanqing, Lyu Xinglin, Zhang Min, Chen Jiajun, Yang Hao, Huang Shujian
 conference: "Arxiv"
 year: 2024

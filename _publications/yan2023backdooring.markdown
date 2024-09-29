@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Backdooring Instruction-tuned Large Language Models With Virtual Prompt Injection
+title: 'Backdooring Instruction-tuned Large Language Models With Virtual Prompt Injection'
 authors: Yan Jun, Yadav Vikas, Li Shiyang, Chen Lichang, Tang Zheng, Wang Hai, Srinivasan Vijay, Ren Xiang, Jin Hongxia
 conference: "Arxiv"
 year: 2023

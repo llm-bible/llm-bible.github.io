@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Distilling Transformers For Neural Cross-domain Search
+title: 'Distilling Transformers For Neural Cross-domain Search'
 authors: Clement Colin B., Wu Chen, Drain Dawn, Sundaresan Neel
 conference: "Arxiv"
 year: 2021

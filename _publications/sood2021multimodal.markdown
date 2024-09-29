@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multimodal Integration Of Human-like Attention In Visual Question Answering
+title: 'Multimodal Integration Of Human-like Attention In Visual Question Answering'
 authors: Sood Ekta, Kögel Fabian, Müller Philipp, Thomas Dominike, Bace Mihai, Bulling Andreas
 conference: "Arxiv"
 year: 2021

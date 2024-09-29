@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Identifying The Risks Of LM Agents With An Lm-emulated Sandbox
+title: 'Identifying The Risks Of LM Agents With An Lm-emulated Sandbox'
 authors: Ruan Yangjun, Dong Honghua, Wang Andrew, Pitis Silviu, Zhou Yongchao, Ba Jimmy, Dubois Yann, Maddison Chris J., Hashimoto Tatsunori
 conference: "Arxiv"
 year: 2023

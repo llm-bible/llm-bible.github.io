@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automated Multi-level Preference For Mllms
+title: 'Automated Multi-level Preference For Mllms'
 authors: Zhang Mengxi, Wu Wenhao, Lu Yu, Song Yuxin, Rong Kang, Yao Huanjin, Zhao Jianbo, Liu Fanglong, Sun Yifan, Feng Haocheng, Wang Jingdong
 conference: "Arxiv"
 year: 2024

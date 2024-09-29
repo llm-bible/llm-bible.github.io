@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Dialogue Generation In Werewolf Game Through Situation Analysis And Persuasion Strategies
+title: 'Enhancing Dialogue Generation In Werewolf Game Through Situation Analysis And Persuasion Strategies'
 authors: Qi Zhiyang, Inaba Michimasa
 conference: "Arxiv"
 year: 2024

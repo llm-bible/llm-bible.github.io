@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieval-augmented Code Generation For Universal Information Extraction
+title: 'Retrieval-augmented Code Generation For Universal Information Extraction'
 authors: Guo Yucan, Li Zixuan, Jin Xiaolong, Liu Yantao, Zeng Yutao, Liu Wenxuan, Li Xiang, Yang Pan, Bai Long, Guo Jiafeng, Cheng Xueqi
 conference: "Arxiv"
 year: 2023

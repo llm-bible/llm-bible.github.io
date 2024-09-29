@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mogrifier LSTM
+title: 'Mogrifier LSTM'
 authors: Melis Gábor, Kočiský Tomáš, Blunsom Phil
 conference: "Arxiv"
 year: 2019

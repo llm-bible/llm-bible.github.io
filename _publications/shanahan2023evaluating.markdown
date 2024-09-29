@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Large Language Model Creativity From A Literary Perspective
+title: 'Evaluating Large Language Model Creativity From A Literary Perspective'
 authors: Shanahan Murray, Clarke Catherine
 conference: "Arxiv"
 year: 2023

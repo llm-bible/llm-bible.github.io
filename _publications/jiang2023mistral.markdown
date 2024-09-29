@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mistral 7B
+title: 'Mistral 7B'
 authors: Jiang Albert Q., Sablayrolles Alexandre, Mensch Arthur, Bamford Chris, Chaplot Devendra Singh, Casas Diego De Las, Bressand Florian, Lengyel Gianna, Lample Guillaume, Saulnier Lucile, Lavaud Lélio Renard, Lachaux Marie-anne, Stock Pierre, Scao Teven Le, Lavril Thibaut, Wang Thomas, Lacroix Timothée, Sayed William El
 conference: "Arxiv"
 year: 2023

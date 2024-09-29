@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Assessing GPT4-V On Structured Reasoning Tasks
+title: 'Assessing GPT4-V On Structured Reasoning Tasks'
 authors: Singh Mukul, Cambronero José, Gulwani Sumit, Le Vu, Verbruggen Gust
 conference: "Arxiv"
 year: 2023

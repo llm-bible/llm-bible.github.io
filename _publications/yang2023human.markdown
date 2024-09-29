@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Human-in-the-loop Machine Translation With Large Language Model
+title: 'Human-in-the-loop Machine Translation With Large Language Model'
 authors: Yang Xinyi, Zhan Runzhe, Wong Derek F., Wu Junchao, Chao Lidia S.
 conference: "Arxiv"
 year: 2023

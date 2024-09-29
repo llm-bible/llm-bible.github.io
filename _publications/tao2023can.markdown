@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can BERT Refrain From Forgetting On Sequential Tasks? A Probing Study
+title: 'Can BERT Refrain From Forgetting On Sequential Tasks? A Probing Study'
 authors: Tao Mingxu, Feng Yansong, Zhao Dongyan
 conference: "Arxiv"
 year: 2023

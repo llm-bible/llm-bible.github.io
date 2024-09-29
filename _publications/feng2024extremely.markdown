@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Extremely Data-efficient And Generative Llm-based Reinforcement Learning Agent For Recommenders
+title: 'An Extremely Data-efficient And Generative Llm-based Reinforcement Learning Agent For Recommenders'
 authors: Feng Shuang, Feng Grace
 conference: "Arxiv"
 year: 2024

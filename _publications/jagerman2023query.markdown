@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Query Expansion By Prompting Large Language Models
+title: 'Query Expansion By Prompting Large Language Models'
 authors: Jagerman Rolf, Zhuang Honglei, Qin Zhen, Wang Xuanhui, Bendersky Michael
 conference: "Arxiv"
 year: 2023

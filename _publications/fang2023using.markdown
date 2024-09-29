@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Using GPT-4 To Augment Unbalanced Data For Automatic Scoring
+title: 'Using GPT-4 To Augment Unbalanced Data For Automatic Scoring'
 authors: Fang Luyang, Lee Gyeong-geon, Zhai Xiaoming
 conference: "Arxiv"
 year: 2023

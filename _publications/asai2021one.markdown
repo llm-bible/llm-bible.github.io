@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: One Question Answering Model For Many Languages With Cross-lingual Dense Passage Retrieval
+title: 'One Question Answering Model For Many Languages With Cross-lingual Dense Passage Retrieval'
 authors: Asai Akari, Yu Xinyan, Kasai Jungo, Hajishirzi Hannaneh
 conference: "Arxiv"
 year: 2021

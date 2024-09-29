@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Guiding Pretraining In Reinforcement Learning With Large Language Models
+title: 'Guiding Pretraining In Reinforcement Learning With Large Language Models'
 authors: Du Yuqing, Watkins Olivia, Wang Zihan, Colas Cédric, Darrell Trevor, Abbeel Pieter, Gupta Abhishek, Andreas Jacob
 conference: "Arxiv"
 year: 2023

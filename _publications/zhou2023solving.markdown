@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Solving Challenging Math Word Problems Using GPT-4 Code Interpreter With Code-based Self-verification
+title: 'Solving Challenging Math Word Problems Using GPT-4 Code Interpreter With Code-based Self-verification'
 authors: Zhou Aojun, Wang Ke, Lu Zimu, Shi Weikang, Luo Sichun, Qin Zipeng, Lu Shaoqing, Jia Anya, Song Linqi, Zhan Mingjie, Li Hongsheng
 conference: "Arxiv"
 year: 2023

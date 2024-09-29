@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Hybrid RAG System With Comprehensive Enhancement On Complex Reasoning
+title: 'A Hybrid RAG System With Comprehensive Enhancement On Complex Reasoning'
 authors: Yuan Ye, Liu Chengwu, Yuan Jingyang, Sun Gongbo, Li Siqi, Zhang Ming
 conference: "Arxiv"
 year: 2024

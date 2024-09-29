@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What Makes Language Models Good-enough?
+title: 'What Makes Language Models Good-enough?'
 authors: Asami Daiki, Sugawara Saku
 conference: "Arxiv"
 year: 2024

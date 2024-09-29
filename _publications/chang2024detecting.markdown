@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Detecting Hallucination And Coverage Errors In Retrieval Augmented Generation For Controversial Topics
+title: 'Detecting Hallucination And Coverage Errors In Retrieval Augmented Generation For Controversial Topics'
 authors: Chang Tyler A., Tomanek Katrin, Hoffmann Jessica, Thain Nithum, Van Liemt Erin, Meier-hellstern Kathleen, Dixon Lucas
 conference: "Arxiv"
 year: 2024

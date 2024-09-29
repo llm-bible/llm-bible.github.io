@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Troubling Emergence Of Hallucination In Large Language Models -- An Extensive Definition, Quantification, And Prescriptive Remediations
+title: 'The Troubling Emergence Of Hallucination In Large Language Models -- An Extensive Definition, Quantification, And Prescriptive Remediations'
 authors: Rawte Vipula, Chakraborty Swagata, Pathak Agnibh, Sarkar Anubhav, Tonmoy S. M Towhidul Islam, Chadha Aman, Sheth Amit P., Das Amitava
 conference: "Arxiv"
 year: 2023

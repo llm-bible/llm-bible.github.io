@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Probing Representations Learned By Multimodal Recurrent And Transformer Models
+title: 'Probing Representations Learned By Multimodal Recurrent And Transformer Models'
 authors: Libovický Jindřich, Madhyastha Pranava
 conference: "Arxiv"
 year: 2019

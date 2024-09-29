@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Variational Transformers For Diverse Response Generation
+title: 'Variational Transformers For Diverse Response Generation'
 authors: Lin Zhaojiang, Winata Genta Indra, Xu Peng, Liu Zihan, Fung Pascale
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Mitigating Hallucination In Large Language Models Via Self-reflection
+title: 'Towards Mitigating Hallucination In Large Language Models Via Self-reflection'
 authors: Ji Ziwei, Yu Tiezheng, Xu Yan, Lee Nayeon, Ishii Etsuko, Fung Pascale
 conference: "Arxiv"
 year: 2023

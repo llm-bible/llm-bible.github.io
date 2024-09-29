@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Can Infer Personality From Free-form User Interactions
+title: 'Large Language Models Can Infer Personality From Free-form User Interactions'
 authors: Peters Heinrich, Cerf Moran, Matz Sandra C.
 conference: "Arxiv"
 year: 2024

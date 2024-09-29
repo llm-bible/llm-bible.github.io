@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automated Annotation With Generative AI Requires Validation
+title: 'Automated Annotation With Generative AI Requires Validation'
 authors: Pangakis Nicholas, Wolken Samuel, Fasching Neil
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Unreasonable Effectiveness Of Easy Training Data For Hard Tasks
+title: 'The Unreasonable Effectiveness Of Easy Training Data For Hard Tasks'
 authors: Hase Peter, Bansal Mohit, Clark Peter, Wiegreffe Sarah
 conference: "Arxiv"
 year: 2024

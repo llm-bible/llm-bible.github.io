@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unveiling Encoder-free Vision-language Models
+title: 'Unveiling Encoder-free Vision-language Models'
 authors: Diao Haiwen, Cui Yufeng, Li Xiaotong, Wang Yueze, Lu Huchuan, Wang Xinlong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On The Significance Of Question Encoder Sequence Model In The Out-of-distribution Performance In Visual Question Answering
+title: 'On The Significance Of Question Encoder Sequence Model In The Out-of-distribution Performance In Visual Question Answering'
 authors: Kv Gouthaman, Mittal Anurag
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multimodal Procedural Planning Via Dual Text-image Prompting
+title: 'Multimodal Procedural Planning Via Dual Text-image Prompting'
 authors: Lu Yujie, Lu Pan, Chen Zhiyu, Zhu Wanrong, Wang Xin Eric, Wang William Yang
 conference: "Arxiv"
 year: 2023

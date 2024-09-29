@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rocks Coding, Not Development--a Human-centric, Experimental Evaluation Of Llm-supported SE Tasks
+title: 'Rocks Coding, Not Development--a Human-centric, Experimental Evaluation Of Llm-supported SE Tasks'
 authors: Wang Wei, Ning Huilong, Zhang Gaowei, Liu Libo, Wang Yi
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Measuring Semantic Abstraction Of Multilingual NMT With Paraphrase Recognition And Generation Tasks
+title: 'Measuring Semantic Abstraction Of Multilingual NMT With Paraphrase Recognition And Generation Tasks'
 authors: Tiedemann Jörg, Scherrer Yves
 conference: "Arxiv"
 year: 2018

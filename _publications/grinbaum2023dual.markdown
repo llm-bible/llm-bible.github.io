@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dual Use Concerns Of Generative AI And Large Language Models
+title: 'Dual Use Concerns Of Generative AI And Large Language Models'
 authors: Grinbaum Alexei, Adomaitis Laurynas
 conference: "Journal of Responsible Innovation"
 year: 2023

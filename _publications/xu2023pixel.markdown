@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pixel Aligned Language Models
+title: 'Pixel Aligned Language Models'
 authors: Xu Jiarui, Zhou Xingyi, Yan Shen, Gu Xiuye, Arnab Anurag, Sun Chen, Wang Xiaolong, Schmid Cordelia
 conference: "Arxiv"
 year: 2023

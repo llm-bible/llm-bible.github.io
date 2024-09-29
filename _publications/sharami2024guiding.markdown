@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Guiding In-context Learning Of Llms Through Quality Estimation For Machine Translation
+title: 'Guiding In-context Learning Of Llms Through Quality Estimation For Machine Translation'
 authors: Sharami Javad Pourmostafa Roshan, Shterionov Dimitar, Spronck Pieter
 conference: "Arxiv"
 year: 2024

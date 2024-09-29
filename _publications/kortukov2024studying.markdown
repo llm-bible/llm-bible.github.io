@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Studying Large Language Model Behaviors Under Realistic Knowledge Conflicts
+title: 'Studying Large Language Model Behaviors Under Realistic Knowledge Conflicts'
 authors: Kortukov Evgenii, Rubinstein Alexander, Nguyen Elisa, Oh Seong Joon
 conference: "Arxiv"
 year: 2024

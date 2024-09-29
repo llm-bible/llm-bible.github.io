@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Preference-guided Reflective Sampling For Aligning Language Models
+title: 'Preference-guided Reflective Sampling For Aligning Language Models'
 authors: Ye Hai, Ng Hwee Tou
 conference: "Arxiv"
 year: 2024

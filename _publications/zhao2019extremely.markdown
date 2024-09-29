@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Extremely Small BERT Models From Mixed-vocabulary Training
+title: 'Extremely Small BERT Models From Mixed-vocabulary Training'
 authors: Zhao Sanqiang, Gupta Raghav, Song Yang, Zhou Denny
 conference: "Arxiv"
 year: 2019

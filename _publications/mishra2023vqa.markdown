@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VQA With Cascade Of Self- And Co-attention Blocks
+title: 'VQA With Cascade Of Self- And Co-attention Blocks'
 authors: Mishra Aakansha, Anand Ashish, Guha Prithwijit
 conference: "Arxiv"
 year: 2023

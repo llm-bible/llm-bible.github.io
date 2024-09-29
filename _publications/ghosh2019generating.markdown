@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generating Natural Language Explanations For Visual Question Answering Using Scene Graphs And Visual Attention
+title: 'Generating Natural Language Explanations For Visual Question Answering Using Scene Graphs And Visual Attention'
 authors: Ghosh Shalini, Burachas Giedrius, Ray Arijit, Ziskind Avi
 conference: "Arxiv"
 year: 2019

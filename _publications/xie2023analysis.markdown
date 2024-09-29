@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Analysis Of The Reasoning With Redundant Information Provided Ability Of Large Language Models
+title: 'Analysis Of The Reasoning With Redundant Information Provided Ability Of Large Language Models'
 authors: Xie Wenbei
 conference: "Arxiv"
 year: 2023

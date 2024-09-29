@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Testing The General Deductive Reasoning Capacity Of Large Language Models Using OOD Examples
+title: 'Testing The General Deductive Reasoning Capacity Of Large Language Models Using OOD Examples'
 authors: Saparov Abulhair, Pang Richard Yuanzhe, Padmakumar Vishakh, Joshi Nitish, Kazemi Seyed Mehran, Kim Najoung, He He
 conference: "Arxiv"
 year: 2023

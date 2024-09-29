@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Re-evaluating Germeval17 Using German Pre-trained Language Models
+title: 'Re-evaluating Germeval17 Using German Pre-trained Language Models'
 authors: Aßenmacher M., Corvonato A., Heumann C.
 conference: "Arxiv"
 year: 2021

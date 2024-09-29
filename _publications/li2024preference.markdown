@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Preference Tuning For Toxicity Mitigation Generalizes Across Languages
+title: 'Preference Tuning For Toxicity Mitigation Generalizes Across Languages'
 authors: Li Xiaochen, Yong Zheng-xin, Bach Stephen H.
 conference: "Arxiv"
 year: 2024

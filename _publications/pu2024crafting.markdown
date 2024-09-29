@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Crafting A Good Prompt Or Providing Exemplary Dialogues? A Study Of In-context Learning For Persona-based Dialogue Generation
+title: 'Crafting A Good Prompt Or Providing Exemplary Dialogues? A Study Of In-context Learning For Persona-based Dialogue Generation'
 authors: Pu Jiashu, Wan Yajing, Zhang Yuru, Chen Jing, Cheng Ling, Shao Qian, Chang Yongzhu, Lv Tangjie, Zhang Rongsheng
 conference: "Arxiv"
 year: 2024

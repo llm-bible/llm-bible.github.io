@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt-based Monte-carlo Tree Search For Goal-oriented Dialogue Policy Planning
+title: 'Prompt-based Monte-carlo Tree Search For Goal-oriented Dialogue Policy Planning'
 authors: Yu Xiao, Chen Maximillian, Yu Zhou
 conference: "Arxiv"
 year: 2023

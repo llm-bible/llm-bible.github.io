@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mitigating Hallucination In Visual Language Models With Visual Supervision
+title: 'Mitigating Hallucination In Visual Language Models With Visual Supervision'
 authors: Zhiyang Chen, Yousong Zhu, Yufei Zhan, Zhaowen Li, Chaoyang Zhao, Jinqiao Wang, Ming Tang
 conference: "Arxiv"
 year: 2023

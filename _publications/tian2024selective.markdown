@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Selective Prompt Anchoring For Code Generation
+title: 'Selective Prompt Anchoring For Code Generation'
 authors: Tian Yuan, Zhang Tianyi
 conference: "Arxiv"
 year: 2024

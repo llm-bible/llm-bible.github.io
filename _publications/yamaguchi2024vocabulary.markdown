@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vocabulary Expansion For Low-resource Cross-lingual Transfer
+title: 'Vocabulary Expansion For Low-resource Cross-lingual Transfer'
 authors: Yamaguchi Atsuki, Villavicencio Aline, Aletras Nikolaos
 conference: "Arxiv"
 year: 2024

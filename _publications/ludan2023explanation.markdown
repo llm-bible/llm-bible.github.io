@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Explanation-based Finetuning Makes Models More Robust To Spurious Cues
+title: 'Explanation-based Finetuning Makes Models More Robust To Spurious Cues'
 authors: Ludan Josh Magnus, Meng Yixuan, Nguyen Tai, Shah Saurabh, Lyu Qing, Apidianaki Marianna, Callison-burch Chris
 conference: "Arxiv"
 year: 2023

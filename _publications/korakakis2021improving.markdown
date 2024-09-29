@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Scheduled Sampling With Elastic Weight Consolidation For Neural Machine Translation
+title: 'Improving Scheduled Sampling With Elastic Weight Consolidation For Neural Machine Translation'
 authors: Korakakis Michalis, Vlachos Andreas
 conference: "Arxiv"
 year: 2021

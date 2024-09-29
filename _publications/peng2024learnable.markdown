@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learnable In-context Vector For Visual Question Answering
+title: 'Learnable In-context Vector For Visual Question Answering'
 authors: Peng Yingzhe, Hao Chenduo, Yang Xu, Peng Jiawei, Hu Xinting, Geng Xin
 conference: "Arxiv"
 year: 2024

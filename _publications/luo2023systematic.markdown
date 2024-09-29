@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Systematic Assessment Of Factual Knowledge In Large Language Models
+title: 'Systematic Assessment Of Factual Knowledge In Large Language Models'
 authors: Luo Linhao, Vu Thuy-trang, Phung Dinh, Haffari Gholamreza
 conference: "Arxiv"
 year: 2023

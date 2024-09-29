@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Shattering The Agent-environment Interface For Fine-tuning Inclusive Language Models
+title: 'Shattering The Agent-environment Interface For Fine-tuning Inclusive Language Models'
 authors: Xu Wanqiao, Dong Shi, Arumugam Dilip, Van Roy Benjamin
 conference: "Arxiv"
 year: 2023

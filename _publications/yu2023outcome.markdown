@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: OVM, Outcome-supervised Value Models For Planning In Mathematical Reasoning
+title: 'OVM, Outcome-supervised Value Models For Planning In Mathematical Reasoning'
 authors: Yu Fei, Gao Anningzhe, Wang Benyou
 conference: "Arxiv"
 year: 2023

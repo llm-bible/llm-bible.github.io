@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llms'' Reading Comprehension Is Affected By Parametric Knowledge And Struggles With Hypothetical Statements
+title: 'Llms'' Reading Comprehension Is Affected By Parametric Knowledge And Struggles With Hypothetical Statements'
 authors: Basmov Victoria, Goldberg Yoav, Tsarfaty Reut
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Action Controlled Paraphrasing
+title: 'Action Controlled Paraphrasing'
 authors: Shi Ning, Wu Zijun
 conference: "Arxiv"
 year: 2024

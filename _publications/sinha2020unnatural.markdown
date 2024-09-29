@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unnatural Language Inference
+title: 'Unnatural Language Inference'
 authors: Sinha Koustuv, Parthasarathi Prasanna, Pineau Joelle, Williams Adina
 conference: "Arxiv"
 year: 2020

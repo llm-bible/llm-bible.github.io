@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Revisiting Multi-modal LLM Evaluation
+title: 'Revisiting Multi-modal LLM Evaluation'
 authors: Lu Jian, Srivastava Shikhar, Chen Junyu, Shrestha Robik, Acharya Manoj, Kafle Kushal, Kanan Christopher
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Few-shot Generalization Across Dialogue Tasks
+title: 'Few-shot Generalization Across Dialogue Tasks'
 authors: Vlasov Vladimir, Drissner-schmid Akela, Nichol Alan
 conference: "Arxiv"
 year: 2018

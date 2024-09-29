@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Empowering Large Language Models For Textual Data Augmentation
+title: 'Empowering Large Language Models For Textual Data Augmentation'
 authors: Li Yichuan, Ding Kaize, Wang Jianling, Lee Kyumin
 conference: "Arxiv"
 year: 2024

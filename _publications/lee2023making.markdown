@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Making Large Language Models Better Data Creators
+title: 'Making Large Language Models Better Data Creators'
 authors: Lee Dong-ho, Pujara Jay, Sewak Mohit, White Ryen W., Jauhar Sujay Kumar
 conference: "Arxiv"
 year: 2023

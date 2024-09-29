@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompting Language Models For Linguistic Structure
+title: 'Prompting Language Models For Linguistic Structure'
 authors: Blevins Terra, Gonen Hila, Zettlemoyer Luke
 conference: "Arxiv"
 year: 2022

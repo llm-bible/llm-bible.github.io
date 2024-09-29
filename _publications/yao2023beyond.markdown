@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Chain-of-thought, Effective Graph-of-thought Reasoning In Language Models
+title: 'Beyond Chain-of-thought, Effective Graph-of-thought Reasoning In Language Models'
 authors: Yao Yao, Li Zuchao, Zhao Hai
 conference: "Arxiv"
 year: 2023

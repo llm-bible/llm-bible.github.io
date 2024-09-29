@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pre-trained Language Models Improve The Few-shot Prompt Ability Of Decision Transformer
+title: 'Pre-trained Language Models Improve The Few-shot Prompt Ability Of Decision Transformer'
 authors: Yang Yu, Xu Pan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Explanations From Large Language Models Make Small Reasoners Better
+title: 'Explanations From Large Language Models Make Small Reasoners Better'
 authors: Li Shiyang, Chen Jianshu, Shen Yelong, Chen Zhiyu, Zhang Xinlu, Li Zekun, Wang Hong, Qian Jing, Peng Baolin, Mao Yi, Chen Wenhu, Yan Xifeng
 conference: "Arxiv"
 year: 2022

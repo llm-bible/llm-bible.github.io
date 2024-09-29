@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Long Short-term Memory-networks For Machine Reading
+title: 'Long Short-term Memory-networks For Machine Reading'
 authors: Cheng Jianpeng, Dong Li, Lapata Mirella
 conference: "Arxiv"
 year: 2016

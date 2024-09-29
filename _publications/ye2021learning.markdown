@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning To Generate Task-specific Adapters From Task Description
+title: 'Learning To Generate Task-specific Adapters From Task Description'
 authors: Ye Qinyuan, Ren Xiang
 conference: "Arxiv"
 year: 2021

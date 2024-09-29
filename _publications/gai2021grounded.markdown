@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Grounded Graph Decoding Improves Compositional Generalization In Question Answering
+title: 'Grounded Graph Decoding Improves Compositional Generalization In Question Answering'
 authors: Gai Yu, Jain Paras, Zhang Wendi, Gonzalez Joseph E., Song Dawn, Stoica Ion
 conference: "Arxiv"
 year: 2021

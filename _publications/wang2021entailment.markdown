@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Entailment As Few-shot Learner
+title: 'Entailment As Few-shot Learner'
 authors: Wang Sinong, Fang Han, Khabsa Madian, Mao Hanzi, Ma Hao
 conference: "Arxiv"
 year: 2021

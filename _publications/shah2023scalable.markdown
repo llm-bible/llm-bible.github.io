@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scalable And Transferable Black-box Jailbreaks For Language Models Via Persona Modulation
+title: 'Scalable And Transferable Black-box Jailbreaks For Language Models Via Persona Modulation'
 authors: Shah Rusheb, Feuillade--montixi Quentin, Pour Soroush, Tagade Arush, Casper Stephen, Rando Javier
 conference: "Arxiv"
 year: 2023

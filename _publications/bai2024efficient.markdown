@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficient Model-agnostic Alignment Via Bayesian Persuasion
+title: 'Efficient Model-agnostic Alignment Via Bayesian Persuasion'
 authors: Bai Fengshuo, Wang Mingzhi, Zhang Zhaowei, Chen Boyuan, Xu Yinda, Wen Ying, Yang Yaodong
 conference: "Arxiv"
 year: 2024

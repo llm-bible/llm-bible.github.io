@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Specify What? Enhancing Neural Specification Synthesis By Symbolic Methods
+title: 'Specify What? Enhancing Neural Specification Synthesis By Symbolic Methods'
 authors: Granberry George, Ahrendt Wolfgang, Johansson Moa
 conference: "Arxiv"
 year: 2024

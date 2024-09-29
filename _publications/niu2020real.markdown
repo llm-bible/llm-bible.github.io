@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Real-time Execution Of Large-scale Language Models On Mobile
+title: 'Real-time Execution Of Large-scale Language Models On Mobile'
 authors: Niu Wei, Kong Zhenglun, Yuan Geng, Jiang Weiwen, Guan Jiexiong, Ding Caiwen, Zhao Pu, Liu Sijia, Ren Bin, Wang Yanzhi
 conference: "Arxiv"
 year: 2020

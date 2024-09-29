@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey Of Large Language Models In Finance (finllms)
+title: 'A Survey Of Large Language Models In Finance (finllms)'
 authors: Lee Jean, Stevens Nicholas, Han Soyeon Caren, Song Minseok
 conference: "Arxiv"
 year: 2024

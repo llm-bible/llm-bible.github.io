@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Customising General Large Language Models For Specialised Emotion Recognition Tasks
+title: 'Customising General Large Language Models For Specialised Emotion Recognition Tasks'
 authors: Peng Liyizhe, Zhang Zixing, Pang Tao, Han Jing, Zhao Huan, Chen Hao, Schuller Björn W.
 conference: "Arxiv"
 year: 2023

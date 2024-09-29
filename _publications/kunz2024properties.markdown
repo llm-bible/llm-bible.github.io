@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Properties And Challenges Of Llm-generated Explanations
+title: 'Properties And Challenges Of Llm-generated Explanations'
 authors: Kunz Jenny, Kuhlmann Marco
 conference: "Arxiv"
 year: 2024

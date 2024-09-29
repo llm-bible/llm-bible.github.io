@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hallucination-free? Assessing The Reliability Of Leading AI Legal Research Tools
+title: 'Hallucination-free? Assessing The Reliability Of Leading AI Legal Research Tools'
 authors: Magesh Varun, Surani Faiz, Dahl Matthew, Suzgun Mirac, Manning Christopher D., Ho Daniel E.
 conference: "Arxiv"
 year: 2024

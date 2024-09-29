@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Few-shot Fact-checking Via Perplexity
+title: 'Towards Few-shot Fact-checking Via Perplexity'
 authors: Lee Nayeon, Bang Yejin, Madotto Andrea, Khabsa Madian, Fung Pascale
 conference: "Arxiv"
 year: 2021

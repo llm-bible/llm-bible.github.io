@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Image Content Generation With Causal Reasoning
+title: 'Image Content Generation With Causal Reasoning'
 authors: Li Xiaochuan, Fan Baoyu, Zhang Runze, Jin Liang, Wang Di, Guo Zhenhua, Zhao Yaqian, Li Rengang
 conference: "Arxiv"
 year: 2023

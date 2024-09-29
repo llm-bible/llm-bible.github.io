@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cognitive Effects In Large Language Models
+title: 'Cognitive Effects In Large Language Models'
 authors: Shaki Jonathan, Kraus Sarit, Wooldridge Michael
 conference: "ECAI"
 year: 2023

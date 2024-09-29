@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Metacognitive Prompting Improves Understanding In Large Language Models
+title: 'Metacognitive Prompting Improves Understanding In Large Language Models'
 authors: Wang Yuqing, Zhao Yun
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Uncovering Safety Risks Of Large Language Models Through Concept Activation Vector
+title: 'Uncovering Safety Risks Of Large Language Models Through Concept Activation Vector'
 authors: Xu Zhihao, Huang Ruixuan, Chen Changyu, Wang Shuai, Wang Xiting
 conference: "Arxiv"
 year: 2024

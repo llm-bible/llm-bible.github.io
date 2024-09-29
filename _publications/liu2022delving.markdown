@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Delving Deeper Into Cross-lingual Visual Question Answering
+title: 'Delving Deeper Into Cross-lingual Visual Question Answering'
 authors: Liu Chen, Pfeiffer Jonas, Korhonen Anna, Vulić Ivan, Gurevych Iryna
 conference: "Arxiv"
 year: 2022

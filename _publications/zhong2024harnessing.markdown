@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Harnessing Large Language Models As Post-hoc Correctors
+title: 'Harnessing Large Language Models As Post-hoc Correctors'
 authors: Zhong Zhiqiang, Zhou Kuangyu, Mottin Davide
 conference: "Arxiv"
 year: 2024

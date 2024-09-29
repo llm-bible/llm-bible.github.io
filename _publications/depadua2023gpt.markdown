@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GPT-3 Models Are Few-shot Financial Reasoners
+title: 'GPT-3 Models Are Few-shot Financial Reasoners'
 authors: De Padua Raul Salles, Qureshi Imran, Karakaplan Mustafa U.
 conference: "CS IT Conference Proceedings"
 year: 2023

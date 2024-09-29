@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Are Vulnerable To Bait-and-switch Attacks For Generating Harmful Content
+title: 'Large Language Models Are Vulnerable To Bait-and-switch Attacks For Generating Harmful Content'
 authors: Bianchi Federico, Zou James
 conference: "Arxiv"
 year: 2024

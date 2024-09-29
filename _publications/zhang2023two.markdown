@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Two-stage Adaptation Of Large Language Models For Text Ranking
+title: 'A Two-stage Adaptation Of Large Language Models For Text Ranking'
 authors: Zhang Longhui, Zhang Yanzhao, Long Dingkun, Xie Pengjun, Zhang Meishan, Zhang Min
 conference: "Arxiv"
 year: 2023

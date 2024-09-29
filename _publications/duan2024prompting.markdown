@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompting Multi-modal Tokens To Enhance End-to-end Autonomous Driving Imitation Learning With Llms
+title: 'Prompting Multi-modal Tokens To Enhance End-to-end Autonomous Driving Imitation Learning With Llms'
 authors: Duan Yiqun, Zhang Qiang, Xu Renjing
 conference: "Published as oral presentation paper atthe"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Robust Conversational AI With Grounded Text Generation
+title: 'Robust Conversational AI With Grounded Text Generation'
 authors: Gao Jianfeng, Peng Baolin, Li Chunyuan, Li Jinchao, Shayandeh Shahin, Liden Lars, Shum Heung-yeung
 conference: "Arxiv"
 year: 2020

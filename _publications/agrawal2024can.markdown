@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Llms Perform Structured Graph Reasoning?
+title: 'Can Llms Perform Structured Graph Reasoning?'
 authors: Agrawal Palaash, Vasania Shavak, Tan Cheston
 conference: "Arxiv"
 year: 2024

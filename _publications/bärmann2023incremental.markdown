@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Incremental Learning Of Humanoid Robot Behavior From Natural Interaction And Large Language Models
+title: 'Incremental Learning Of Humanoid Robot Behavior From Natural Interaction And Large Language Models'
 authors: Bärmann Leonard, Kartmann Rainer, Peller-konrad Fabian, Niehues Jan, Waibel Alex, Asfour Tamim
 conference: "Arxiv"
 year: 2023

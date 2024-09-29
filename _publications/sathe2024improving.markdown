@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Self Consistency In Llms Through Probabilistic Tokenization
+title: 'Improving Self Consistency In Llms Through Probabilistic Tokenization'
 authors: Sathe Ashutosh, Aggarwal Divyanshu, Sitaram Sunayana
 conference: "Arxiv"
 year: 2024

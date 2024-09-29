@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GPT-4 Can''t Reason
+title: 'GPT-4 Can''t Reason'
 authors: Arkoudas Konstantine
 conference: "Arxiv"
 year: 2023

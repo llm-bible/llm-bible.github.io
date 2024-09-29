@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Using Large Language Model To Solve And Explain Physics Word Problems Approaching Human Level
+title: 'Using Large Language Model To Solve And Explain Physics Word Problems Approaching Human Level'
 authors: Ding Jingzhe, Cen Yan, Wei Xinyuan
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating Transfer Learning In Multilingual Pre-trained Language Models Through Chinese Natural Language Inference
+title: 'Investigating Transfer Learning In Multilingual Pre-trained Language Models Through Chinese Natural Language Inference'
 authors: Hu Hai, Zhou He, Tian Zuoyu, Zhang Yiwen, Ma Yina, Li Yanting, Nie Yixin, Richardson Kyle
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Style Vectors For Steering Generative Large Language Model
+title: 'Style Vectors For Steering Generative Large Language Model'
 authors: Konen Kai, Jentzsch Sophie, Diallo Diaoulé, Schütt Peer, Bensch Oliver, Baff Roxanne El, Opitz Dominik, Hecking Tobias
 conference: "Arxiv"
 year: 2024

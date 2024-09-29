@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reward Collapse In Aligning Large Language Models
+title: 'Reward Collapse In Aligning Large Language Models'
 authors: Song Ziang, Cai Tianle, Lee Jason D., Su Weijie J.
 conference: "Arxiv"
 year: 2023

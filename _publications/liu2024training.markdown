@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Training-free Activation Sparsity In Large Language Models
+title: 'Training-free Activation Sparsity In Large Language Models'
 authors: Liu James, Ponnusamy Pragaash, Cai Tianle, Guo Han, Kim Yoon, Athiwaratkun Ben
 conference: "Arxiv"
 year: 2024

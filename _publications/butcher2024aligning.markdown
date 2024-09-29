@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aligning Large Language Models With Counterfactual DPO
+title: 'Aligning Large Language Models With Counterfactual DPO'
 authors: Butcher Bradley
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attention Guided Semantic Relationship Parsing For Visual Question Answering
+title: 'Attention Guided Semantic Relationship Parsing For Visual Question Answering'
 authors: Farazi Moshiur, Khan Salman, Barnes Nick
 conference: "Arxiv"
 year: 2020

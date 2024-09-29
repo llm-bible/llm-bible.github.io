@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A User-centric Benchmark For Evaluating Large Language Models
+title: 'A User-centric Benchmark For Evaluating Large Language Models'
 authors: Wang Jiayin, Mo Fengran, Ma Weizhi, Sun Peijie, Zhang Min, Nie Jian-yun
 conference: "Arxiv"
 year: 2024

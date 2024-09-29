@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Large Language Models Explore In-context?
+title: 'Can Large Language Models Explore In-context?'
 authors: Krishnamurthy Akshay, Harris Keegan, Foster Dylan J., Zhang Cyril, Slivkins Aleksandrs
 conference: "Arxiv"
 year: 2024

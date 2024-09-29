@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Extreme Parameter Compression For Pre-trained Language Models
+title: 'Exploring Extreme Parameter Compression For Pre-trained Language Models'
 authors: Ren Yuxin, Wang Benyou, Shang Lifeng, Jiang Xin, Liu Qun
 conference: "Arxiv"
 year: 2022

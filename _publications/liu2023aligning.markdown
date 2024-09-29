@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aligning Large Language Models With Human Preferences Through Representation Engineering
+title: 'Aligning Large Language Models With Human Preferences Through Representation Engineering'
 authors: Liu Wenhao, Wang Xiaohua, Wu Muling, Li Tianlong, Lv Changze, Ling Zixuan, Zhu Jianhao, Zhang Cenyuan, Zheng Xiaoqing, Huang Xuanjing
 conference: "Arxiv"
 year: 2023

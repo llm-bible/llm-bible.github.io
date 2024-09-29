@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating The Efficacy Of Interactive Language Therapy Based On LLM For High-functioning Autistic Adolescent Psychological Counseling
+title: 'Evaluating The Efficacy Of Interactive Language Therapy Based On LLM For High-functioning Autistic Adolescent Psychological Counseling'
 authors: Cho Yujin, Kim Mingeon, Kim Seojin, Kwon Oyun, Kwon Ryan Donghan, Lee Yoonha, Lim Dohyun
 conference: "Arxiv"
 year: 2023

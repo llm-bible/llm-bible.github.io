@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Prompts In Llms To Overcome Imbalances In Complex Educational Text Data
+title: 'Leveraging Prompts In Llms To Overcome Imbalances In Complex Educational Text Data'
 authors: Mcclure Jeanne, Shimmei Machi, Matsuda Noboru, Jiang Shiyan
 conference: "Arxiv"
 year: 2024

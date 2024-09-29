@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do We Still Need Clinical Language Models?
+title: 'Do We Still Need Clinical Language Models?'
 authors: Lehman Eric, Hernandez Evan, Mahajan Diwakar, Wulff Jonas, Smith Micah J., Ziegler Zachary, Nadler Daniel, Szolovits Peter, Johnson Alistair, Alsentzer Emily
 conference: "Arxiv"
 year: 2023

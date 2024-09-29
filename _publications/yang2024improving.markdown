@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Factuality In Large Language Models Via Decoding-time Hallucinatory And Truthful Comparators
+title: 'Improving Factuality In Large Language Models Via Decoding-time Hallucinatory And Truthful Comparators'
 authors: Yang Dingkang, Xiao Dongling, Wei Jinjie, Li Mingcheng, Chen Zhaoyu, Li Ke, Zhang Lihua
 conference: "Arxiv"
 year: 2024

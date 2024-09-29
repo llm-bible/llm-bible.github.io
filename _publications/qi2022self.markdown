@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Self-paced Mixed Distillation Method For Non-autoregressive Generation
+title: 'A Self-paced Mixed Distillation Method For Non-autoregressive Generation'
 authors: Qi Weizhen, Gong Yeyun, Shen Yelong, Jiao Jian, Yan Yu, Li Houqiang, Zhang Ruofei, Chen Weizhu, Duan Nan
 conference: "Arxiv"
 year: 2022

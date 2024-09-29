@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Knowledge-grounded Multimodal Search-based Conversational Agent
+title: 'A Knowledge-grounded Multimodal Search-based Conversational Agent'
 authors: Agarwal Shubham, Dusek Ondrej, Konstas Ioannis, Rieser Verena
 conference: "Proceedings of the"
 year: 2018

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Robustness Of Generative Search Engine On Adversarial Factual Questions
+title: 'Evaluating Robustness Of Generative Search Engine On Adversarial Factual Questions'
 authors: Hu Xuming, Li Xiaochuan, Chen Junzhe, Li Yinghui, Li Yangning, Li Xiaoguang, Wang Yasheng, Liu Qun, Wen Lijie, Yu Philip S., Guo Zhijiang
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Addressing Some Limitations Of Transformers With Feedback Memory
+title: 'Addressing Some Limitations Of Transformers With Feedback Memory'
 authors: Fan Angela, Lavril Thibaut, Grave Edouard, Joulin Armand, Sukhbaatar Sainbayar
 conference: "Arxiv"
 year: 2020

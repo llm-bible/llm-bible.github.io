@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Study Of Generative Large Language Model For Medical Research And Healthcare
+title: 'A Study Of Generative Large Language Model For Medical Research And Healthcare'
 authors: Peng Cheng, Yang Xi, Chen Aokun, Smith Kaleb E, Pournejatian Nima, Costa Anthony B, Martin Cheryl, Flores Mona G, Zhang Ying, Magoc Tanja, Lipori Gloria, Mitchell Duane A, Ospina Naykky S, Ahmed Mustafa M, Hogan William R, Shenkman Elizabeth A, Guo Yi, Bian Jiang, Wu Yonghui
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Integrated Triaging For Fast Reading Comprehension
+title: 'Integrated Triaging For Fast Reading Comprehension'
 authors: Wu Felix, Li Boyi, Wang Lequn, Lao Ni, Blitzer John, Weinberger Kilian Q.
 conference: "Arxiv"
 year: 2019

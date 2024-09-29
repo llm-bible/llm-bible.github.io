@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Class Incremental Learning With Pre-trained Vision-language Models
+title: 'Class Incremental Learning With Pre-trained Vision-language Models'
 authors: Liu Xialei, Cao Xusheng, Lu Haori, Xiao Jia-wen, Bagdanov Andrew D., Cheng Ming-ming
 conference: "Arxiv"
 year: 2023

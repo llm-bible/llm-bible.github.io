@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Detection And Measurement Of Syntactic Templates In Generated Text
+title: 'Detection And Measurement Of Syntactic Templates In Generated Text'
 authors: Shaib Chantal, Elazar Yanai, Li Junyi Jessy, Wallace Byron C.
 conference: "Arxiv"
 year: 2024

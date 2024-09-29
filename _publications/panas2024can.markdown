@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Large Language Models Put 2 And 2 Together? Probing For Entailed Arithmetical Relationships
+title: 'Can Large Language Models Put 2 And 2 Together? Probing For Entailed Arithmetical Relationships'
 authors: Panas D., Seth S., Belle V.
 conference: "Arxiv"
 year: 2024

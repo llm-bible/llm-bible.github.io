@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Open (clinical) Llms Are Sensitive To Instruction Phrasings
+title: 'Open (clinical) Llms Are Sensitive To Instruction Phrasings'
 authors: Arroyo Alberto Mario Ceballos, Munnangi Monica, Sun Jiuding, Zhang Karen Y. C., Mcinerney Denis Jered, Wallace Byron C., Amir Silvio
 conference: "Arxiv"
 year: 2024

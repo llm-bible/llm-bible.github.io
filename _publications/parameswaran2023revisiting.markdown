@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Revisiting Prompt Engineering Via Declarative Crowdsourcing
+title: 'Revisiting Prompt Engineering Via Declarative Crowdsourcing'
 authors: Parameswaran Aditya G., Shankar Shreya, Asawa Parth, Jain Naman, Wang Yujie
 conference: "Arxiv"
 year: 2023

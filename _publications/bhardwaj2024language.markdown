@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Models Are Homer Simpson! Safety Re-alignment Of Fine-tuned Language Models Through Task Arithmetic
+title: 'Language Models Are Homer Simpson! Safety Re-alignment Of Fine-tuned Language Models Through Task Arithmetic'
 authors: Bhardwaj Rishabh, Anh Do Duc, Poria Soujanya
 conference: "Arxiv"
 year: 2024

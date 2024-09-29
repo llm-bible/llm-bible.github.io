@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ranking Enhanced Dialogue Generation
+title: 'Ranking Enhanced Dialogue Generation'
 authors: Hao Changying, Pang Liang, Lan Yanyan, Sun Fei, Guo Jiafeng, Cheng Xueqi
 conference: "Arxiv"
 year: 2020

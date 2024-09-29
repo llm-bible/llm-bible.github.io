@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enriching Non-autoregressive Transformer With Syntactic And Semanticstructures For Neural Machine Translation
+title: 'Enriching Non-autoregressive Transformer With Syntactic And Semanticstructures For Neural Machine Translation'
 authors: Liu Ye, Wan Yao, Zhang Jian-guo, Zhao Wenting, Yu Philip S.
 conference: "Arxiv"
 year: 2021

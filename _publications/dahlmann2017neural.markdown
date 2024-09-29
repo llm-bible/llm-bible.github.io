@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Neural Machine Translation Leveraging Phrase-based Models In A Hybrid Search
+title: 'Neural Machine Translation Leveraging Phrase-based Models In A Hybrid Search'
 authors: Dahlmann Leonard, Matusov Evgeny, Petrushkov Pavel, Khadivi Shahram
 conference: "Arxiv"
 year: 2017

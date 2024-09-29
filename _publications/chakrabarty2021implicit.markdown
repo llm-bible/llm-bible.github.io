@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Implicit Premise Generation With Discourse-aware Commonsense Knowledge Models
+title: 'Implicit Premise Generation With Discourse-aware Commonsense Knowledge Models'
 authors: Chakrabarty Tuhin, Trivedi Aadit, Muresan Smaranda
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Large Language Models For Multiple Choice Question Answering
+title: 'Leveraging Large Language Models For Multiple Choice Question Answering'
 authors: Robinson Joshua, Rytting Christopher Michael, Wingate David
 conference: "Arxiv"
 year: 2022

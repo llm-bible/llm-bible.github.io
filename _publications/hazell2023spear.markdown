@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Spear Phishing With Large Language Models
+title: 'Spear Phishing With Large Language Models'
 authors: Hazell Julian
 conference: "Arxiv"
 year: 2023

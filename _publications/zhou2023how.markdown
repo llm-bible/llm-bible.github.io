@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Well Do Large Language Models Understand Syntax? An Evaluation By Asking Natural Language Questions
+title: 'How Well Do Large Language Models Understand Syntax? An Evaluation By Asking Natural Language Questions'
 authors: Zhou Houquan, Hou Yang, Li Zhenghua, Wang Xuebin, Wang Zhefeng, Duan Xinyu, Zhang Min
 conference: "Arxiv"
 year: 2023

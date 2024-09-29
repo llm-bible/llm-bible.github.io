@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: System 2 Attention (is Something You Might Need Too)
+title: 'System 2 Attention (is Something You Might Need Too)'
 authors: Weston Jason, Sukhbaatar Sainbayar
 conference: "Arxiv"
 year: 2023

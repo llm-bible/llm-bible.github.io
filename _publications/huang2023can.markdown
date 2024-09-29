@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Large Language Models Explain Themselves? A Study Of Llm-generated Self-explanations
+title: 'Can Large Language Models Explain Themselves? A Study Of Llm-generated Self-explanations'
 authors: Huang Shiyuan, Mamidanna Siddarth, Jangam Shreedhar, Zhou Yilun, Gilpin Leilani H.
 conference: "Arxiv"
 year: 2023

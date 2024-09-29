@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Accuracy Is Not All You Need
+title: 'Accuracy Is Not All You Need'
 authors: Dutta Abhinav, Krishnan Sanjeev, Kwatra Nipun, Ramjee Ramachandran
 conference: "Arxiv"
 year: 2024

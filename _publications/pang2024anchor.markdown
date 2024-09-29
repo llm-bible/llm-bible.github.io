@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Anchor-based Large Language Models
+title: 'Anchor-based Large Language Models'
 authors: Pang Jianhui, Ye Fanghua, Wong Derek Fai, He Xin, Chen Wanshun, Wang Longyue
 conference: "Arxiv"
 year: 2024

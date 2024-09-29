@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Paragraph-to-image Generation With Information-enriched Diffusion Model
+title: 'Paragraph-to-image Generation With Information-enriched Diffusion Model'
 authors: Wu Weijia, Li Zhuang, He Yefei, Shou Mike Zheng, Shen Chunhua, Cheng Lele, Li Yan, Gao Tingting, Zhang Di, Wang Zhongyuan
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Empirical Study Of Using Chatgpt For Fact Verification Task
+title: 'An Empirical Study Of Using Chatgpt For Fact Verification Task'
 authors: Chakraborty Mohna, Kulkarni Adithya, Li Qi
 conference: "Arxiv"
 year: 2023

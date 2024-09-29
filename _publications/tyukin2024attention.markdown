@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attention Is All You Need But You Don''t Need All Of It For Inference Of Large Language Models
+title: 'Attention Is All You Need But You Don''t Need All Of It For Inference Of Large Language Models'
 authors: Tyukin Georgy, Dovonon Gbetondji J-s, Kaddour Jean, Minervini Pasquale
 conference: "Arxiv"
 year: 2024

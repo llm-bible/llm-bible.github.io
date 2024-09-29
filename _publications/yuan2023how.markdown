@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Vocabulary Sharing Facilitates Multilingualism In Llama?
+title: 'How Vocabulary Sharing Facilitates Multilingualism In Llama?'
 authors: Yuan Fei, Yuan Shuai, Wu Zhiyong, Li Lei
 conference: "Arxiv"
 year: 2023

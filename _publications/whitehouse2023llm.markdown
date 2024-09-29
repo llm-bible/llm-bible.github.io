@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llm-powered Data Augmentation For Enhanced Cross-lingual Performance
+title: 'Llm-powered Data Augmentation For Enhanced Cross-lingual Performance'
 authors: Whitehouse Chenxi, Choudhury Monojit, Aji Alham Fikri
 conference: "Arxiv"
 year: 2023

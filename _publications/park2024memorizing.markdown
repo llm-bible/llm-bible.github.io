@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Memorizing Documents With Guidance In Large Language Models
+title: 'Memorizing Documents With Guidance In Large Language Models'
 authors: Park Bumjin, Choi Jaesik
 conference: "Arxiv"
 year: 2024

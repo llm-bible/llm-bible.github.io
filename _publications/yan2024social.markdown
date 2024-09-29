@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Social Life Simulation For Non-cognitive Skills Learning
+title: 'Social Life Simulation For Non-cognitive Skills Learning'
 authors: Yan Zihan, Xiang Yaohong, Huang Yun
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multilingual Instruction Tuning With Just A Pinch Of Multilinguality
+title: 'Multilingual Instruction Tuning With Just A Pinch Of Multilinguality'
 authors: Shaham Uri, Herzig Jonathan, Aharoni Roee, Szpektor Idan, Tsarfaty Reut, Eyal Matan
 conference: "Arxiv"
 year: 2024

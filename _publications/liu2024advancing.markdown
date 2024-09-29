@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Advancing Adversarial Suffix Transfer Learning On Aligned Large Language Models
+title: 'Advancing Adversarial Suffix Transfer Learning On Aligned Large Language Models'
 authors: Liu Hongfu, Xie Yuxi, Wang Ye, Shieh Michael
 conference: "Arxiv"
 year: 2024

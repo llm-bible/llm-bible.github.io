@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Contrastive Vision-language Alignment Makes Efficient Instruction Learner
+title: 'Contrastive Vision-language Alignment Makes Efficient Instruction Learner'
 authors: Liu Lizhao, Sun Xinyu, Xiang Tianhang, Zhuang Zhuangwei, Yin Liuren, Tan Mingkui
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Are Competitive Near Cold-start Recommenders For Language- And Item-based Preferences
+title: 'Large Language Models Are Competitive Near Cold-start Recommenders For Language- And Item-based Preferences'
 authors: Sanner Scott, Balog Krisztian, Radlinski Filip, Wedin Ben, Dixon Lucas
 conference: "Arxiv"
 year: 2023

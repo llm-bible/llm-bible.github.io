@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: In-context Time Series Predictor
+title: 'In-context Time Series Predictor'
 authors: Lu Jiecheng, Sun Yan, Yang Shihao
 conference: "Arxiv"
 year: 2024

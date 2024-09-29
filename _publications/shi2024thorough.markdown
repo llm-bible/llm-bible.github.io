@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Thorough Examination Of Decoding Methods In The Era Of Llms
+title: 'A Thorough Examination Of Decoding Methods In The Era Of Llms'
 authors: Shi Chufan, Yang Haoran, Cai Deng, Zhang Zhisong, Wang Yifan, Yang Yujiu, Lam Wai
 conference: "Arxiv"
 year: 2024

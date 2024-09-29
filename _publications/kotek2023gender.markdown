@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gender Bias And Stereotypes In Large Language Models
+title: 'Gender Bias And Stereotypes In Large Language Models'
 authors: Kotek Hadas, Dockum Rikker, Sun David Q.
 conference: "In Collective Intelligence Conference"
 year: 2023

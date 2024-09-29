@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Past, Present And Better Future Of Feedback Learning In Large Language Models For Subjective Human Preferences And Values
+title: 'The Past, Present And Better Future Of Feedback Learning In Large Language Models For Subjective Human Preferences And Values'
 authors: Kirk Hannah Rose, Bean Andrew M., Vidgen Bertie, Röttger Paul, Hale Scott A.
 conference: "Arxiv"
 year: 2023

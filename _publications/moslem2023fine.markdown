@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-tuning Large Language Models For Adaptive Machine Translation
+title: 'Fine-tuning Large Language Models For Adaptive Machine Translation'
 authors: Moslem Yasmin, Haque Rejwanul, Way Andy
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Text Embeddings With Large Language Models
+title: 'Improving Text Embeddings With Large Language Models'
 authors: Wang Liang, Yang Nan, Huang Xiaolong, Yang Linjun, Majumder Rangan, Wei Furu
 conference: "Arxiv"
 year: 2023

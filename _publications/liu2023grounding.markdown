@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Grounding Complex Natural Language Commands For Temporal Tasks In Unseen Environments
+title: 'Grounding Complex Natural Language Commands For Temporal Tasks In Unseen Environments'
 authors: Liu Jason Xinyu, Yang Ziyi, Idrees Ifrah, Liang Sam, Schornstein Benjamin, Tellex Stefanie, Shah Ankit
 conference: "Arxiv"
 year: 2023

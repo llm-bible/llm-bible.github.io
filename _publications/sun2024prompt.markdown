@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt Chaining Or Stepwise Prompt? Refinement In Text Summarization
+title: 'Prompt Chaining Or Stepwise Prompt? Refinement In Text Summarization'
 authors: Sun Shichao, Yuan Ruifeng, Cao Ziqiang, Li Wenjie, Liu Pengfei
 conference: "Arxiv"
 year: 2024

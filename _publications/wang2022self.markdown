@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-consistency Improves Chain Of Thought Reasoning In Language Models
+title: 'Self-consistency Improves Chain Of Thought Reasoning In Language Models'
 authors: Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou
 conference: "Arxiv"
 year: 2022

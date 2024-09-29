@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adapting And Evaluating A Deep Learning Language Model For Clinical Why-question Answering
+title: 'Adapting And Evaluating A Deep Learning Language Model For Clinical Why-question Answering'
 authors: Wen Andrew, Elwazir Mohamed Y., Moon Sungrim, Fan Jungwei
 conference: "Arxiv"
 year: 2019

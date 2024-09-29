@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dual-space Hierarchical Learning For Goal-guided Conversational Recommendation
+title: 'Dual-space Hierarchical Learning For Goal-guided Conversational Recommendation'
 authors: Chen Can, Liu Hao, Liu Zeming, Liu Xue, Dou Dejing
 conference: "Arxiv"
 year: 2023

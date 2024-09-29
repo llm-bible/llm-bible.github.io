@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-tuning Language Models With Just Forward Passes
+title: 'Fine-tuning Language Models With Just Forward Passes'
 authors: Malladi Sadhika, Gao Tianyu, Nichani Eshaan, Damian Alex, Lee Jason D., Chen Danqi, Arora Sanjeev
 conference: "Arxiv"
 year: 2023

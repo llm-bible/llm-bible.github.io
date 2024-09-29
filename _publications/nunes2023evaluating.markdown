@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating GPT-3.5 And GPT-4 Models On Brazilian University Admission Exams
+title: 'Evaluating GPT-3.5 And GPT-4 Models On Brazilian University Admission Exams'
 authors: Nunes Desnes, Primi Ricardo, Pires Ramon, Lotufo Roberto, Nogueira Rodrigo
 conference: "Arxiv"
 year: 2023

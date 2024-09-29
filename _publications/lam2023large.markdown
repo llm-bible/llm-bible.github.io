@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Are Partially Primed In Pronoun Interpretation
+title: 'Large Language Models Are Partially Primed In Pronoun Interpretation'
 authors: Lam Suet-ying, Zeng Qingcheng, Zhang Kexun, You Chenyu, Voigt Rob
 conference: "Arxiv"
 year: 2023

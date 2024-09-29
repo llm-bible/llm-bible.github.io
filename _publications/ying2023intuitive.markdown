@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Intuitive Or Dependent? Investigating Llms'' Behavior Style To Conflicting Prompts
+title: 'Intuitive Or Dependent? Investigating Llms'' Behavior Style To Conflicting Prompts'
 authors: Ying Jiahao, Cao Yixin, Xiong Kai, He Yidong, Cui Long, Liu Yongbin
 conference: "Arxiv"
 year: 2023

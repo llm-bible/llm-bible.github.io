@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Implicit In-context Learning
+title: 'Implicit In-context Learning'
 authors: Li Zhuowei, Xu Zihao, Han Ligong, Gao Yunhe, Wen Song, Liu Di, Wang Hao, Metaxas Dimitris N.
 conference: "Arxiv"
 year: 2024

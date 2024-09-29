@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards A Copilot In BIM Authoring Tool Using A Large Language Model-based Agent For Intelligent Human-machine Interaction
+title: 'Towards A Copilot In BIM Authoring Tool Using A Large Language Model-based Agent For Intelligent Human-machine Interaction'
 authors: Du Changyu, Nousias Stavros, Borrmann André
 conference: "Arxiv"
 year: 2024

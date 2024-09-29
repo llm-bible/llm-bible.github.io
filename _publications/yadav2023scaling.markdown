@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scaling Evidence-based Instructional Design Expertise Through Large Language Models
+title: 'Scaling Evidence-based Instructional Design Expertise Through Large Language Models'
 authors: Yadav Gautam
 conference: "Arxiv"
 year: 2023

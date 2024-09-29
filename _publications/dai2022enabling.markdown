@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enabling Multimodal Generation On CLIP Via Vision-language Knowledge Distillation
+title: 'Enabling Multimodal Generation On CLIP Via Vision-language Knowledge Distillation'
 authors: Dai Wenliang, Hou Lu, Shang Lifeng, Jiang Xin, Liu Qun, Fung Pascale
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating Numeracy Learning Ability Of A Text-to-text Transfer Model
+title: 'Investigating Numeracy Learning Ability Of A Text-to-text Transfer Model'
 authors: Pal Kuntal Kumar, Baral Chitta
 conference: "Arxiv"
 year: 2021

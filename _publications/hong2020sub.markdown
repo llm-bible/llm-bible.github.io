@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sub-instruction Aware Vision-and-language Navigation
+title: 'Sub-instruction Aware Vision-and-language Navigation'
 authors: Hong Yicong, Rodriguez-opazo Cristian, Wu Qi, Gould Stephen
 conference: "Arxiv"
 year: 2020

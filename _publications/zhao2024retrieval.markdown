@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieval-augmented Mixture Of Lora Experts For Uploadable Machine Learning
+title: 'Retrieval-augmented Mixture Of Lora Experts For Uploadable Machine Learning'
 authors: Zhao Ziyu, Gan Leilei, Wang Guoyin, Hu Yuwei, Shen Tao, Yang Hongxia, Kuang Kun, Wu Fei
 conference: "Arxiv"
 year: 2024

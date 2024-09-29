@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Transformer With Stack Attention
+title: 'A Transformer With Stack Attention'
 authors: Li Jiaoda, White Jennifer C., Sachan Mrinmaya, Cotterell Ryan
 conference: "Arxiv"
 year: 2024

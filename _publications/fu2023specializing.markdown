@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Specializing Smaller Language Models Towards Multi-step Reasoning
+title: 'Specializing Smaller Language Models Towards Multi-step Reasoning'
 authors: Fu Yao, Peng Hao, Ou Litu, Sabharwal Ashish, Khot Tushar
 conference: "Arxiv"
 year: 2023

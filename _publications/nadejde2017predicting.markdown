@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Predicting Target Language CCG Supertags Improves Neural Machine Translation
+title: 'Predicting Target Language CCG Supertags Improves Neural Machine Translation'
 authors: Nadejde Maria, Reddy Siva, Sennrich Rico, Dwojak Tomasz, Junczys-dowmunt Marcin, Koehn Philipp, Birch Alexandra
 conference: "Arxiv"
 year: 2017

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Does Entity Abstraction Help Generative Transformers Reason?
+title: 'Does Entity Abstraction Help Generative Transformers Reason?'
 authors: Gontier Nicolas, Reddy Siva, Pal Christopher
 conference: "Arxiv"
 year: 2022

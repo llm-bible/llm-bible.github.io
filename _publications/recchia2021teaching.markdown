@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Teaching Autoregressive Language Models Complex Tasks By Demonstration
+title: 'Teaching Autoregressive Language Models Complex Tasks By Demonstration'
 authors: Recchia Gabriel
 conference: "Arxiv"
 year: 2021

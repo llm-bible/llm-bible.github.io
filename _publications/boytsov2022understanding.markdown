@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding Performance Of Long-document Ranking Models Through Comprehensive Evaluation And Leaderboarding
+title: 'Understanding Performance Of Long-document Ranking Models Through Comprehensive Evaluation And Leaderboarding'
 authors: Boytsov Leonid, Akinpelu David, Lin Tianyi, Gao Fangwei, Zhao Yutian, Huang Jeffrey, Katyal Nipun, Nyberg Eric
 conference: "Arxiv"
 year: 2022

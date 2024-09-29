@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-modal Hallucination Control By Visual Information Grounding
+title: 'Multi-modal Hallucination Control By Visual Information Grounding'
 authors: Favero Alessandro, Zancato Luca, Trager Matthew, Choudhary Siddharth, Perera Pramuditha, Achille Alessandro, Swaminathan Ashwin, Soatto Stefano
 conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition"
 year: 2024

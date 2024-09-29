@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Contextual Transformer For Offline Meta Reinforcement Learning
+title: 'Contextual Transformer For Offline Meta Reinforcement Learning'
 authors: Lin Runji, Li Ye, Feng Xidong, Zhang Zhaowei, Fung Xian Hong Wu, Zhang Haifeng, Wang Jun, Du Yali, Yang Yaodong
 conference: "Arxiv"
 year: 2022

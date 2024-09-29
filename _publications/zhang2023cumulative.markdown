@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cumulative Reasoning With Large Language Models
+title: 'Cumulative Reasoning With Large Language Models'
 authors: Yifan Zhang, Jingqin Yang, Yang Yuan, Andrew Chi-chih Yao
 conference: "Arxiv"
 year: 2023

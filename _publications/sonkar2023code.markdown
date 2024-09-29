@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Code Soliloquies For Accurate Calculations In Large Language Models
+title: 'Code Soliloquies For Accurate Calculations In Large Language Models'
 authors: Sonkar Shashank, Le Myco, Chen Xinghe, Liu Naiming, Mallick Debshila Basu, Baraniuk Richard G.
 conference: "Arxiv"
 year: 2023

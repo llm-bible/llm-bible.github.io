@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Neural Knowledge Bank For Pretrained Transformers
+title: 'Neural Knowledge Bank For Pretrained Transformers'
 authors: Dai Damai, Jiang Wenbin, Dong Qingxiu, Lyu Yajuan, She Qiaoqiao, Sui Zhifang
 conference: "Arxiv"
 year: 2022

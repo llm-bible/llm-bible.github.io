@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Off-policy Self-critical Training For Transformer In Visual Paragraph Generation
+title: 'Off-policy Self-critical Training For Transformer In Visual Paragraph Generation'
 authors: Yan Shiyang, Hua Yang, Robertson Neil M.
 conference: "Arxiv"
 year: 2020

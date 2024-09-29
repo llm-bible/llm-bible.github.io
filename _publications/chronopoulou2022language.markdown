@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language-family Adapters For Low-resource Multilingual Neural Machine Translation
+title: 'Language-family Adapters For Low-resource Multilingual Neural Machine Translation'
 authors: Chronopoulou Alexandra, Stojanovski Dario, Fraser Alexander
 conference: "Arxiv"
 year: 2022

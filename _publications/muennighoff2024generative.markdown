@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative Representational Instruction Tuning
+title: 'Generative Representational Instruction Tuning'
 authors: Muennighoff Niklas, Su Hongjin, Wang Liang, Yang Nan, Wei Furu, Yu Tao, Singh Amanpreet, Kiela Douwe
 conference: "Arxiv"
 year: 2024

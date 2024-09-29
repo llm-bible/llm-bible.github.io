@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tractable Control For Autoregressive Language Generation
+title: 'Tractable Control For Autoregressive Language Generation'
 authors: Zhang Honghua, Dang Meihua, Peng Nanyun, Broeck Guy Van Den
 conference: "Arxiv"
 year: 2023

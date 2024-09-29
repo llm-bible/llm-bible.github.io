@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Iterative Forward Tuning Boosts In-context Learning In Language Models
+title: 'Iterative Forward Tuning Boosts In-context Learning In Language Models'
 authors: Yang Jiaxi, Hui Binyuan, Yang Min, Wang Bailin, Li Bowen, Li Binhua, Huang Fei, Li Yongbin
 conference: "Arxiv"
 year: 2023

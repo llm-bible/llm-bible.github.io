@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Least-to-most Prompting Enables Complex Reasoning In Large Language Models
+title: 'Least-to-most Prompting Enables Complex Reasoning In Large Language Models'
 authors: Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Claire Cui, Olivier Bousquet, Quoc Le, Ed Chi
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Guided Exploration For RL Agents In Text Environments
+title: 'Language Guided Exploration For RL Agents In Text Environments'
 authors: Golchha Hitesh, Yerawar Sahil, Patel Dhruvesh, Dan Soham, Murugesan Keerthiram
 conference: "Arxiv"
 year: 2024

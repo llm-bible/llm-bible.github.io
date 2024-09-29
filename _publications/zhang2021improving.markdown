@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Stack Overflow Question Title Generation With Copying Enhanced Codebert Model And Bi-modal Information
+title: 'Improving Stack Overflow Question Title Generation With Copying Enhanced Codebert Model And Bi-modal Information'
 authors: Zhang Fengji, Yu Xiao, Keung Jacky, Li Fuyang, Xie Zhiwen, Yang Zhen, Ma Caoyuan, Zhang Zhimin
 conference: "Arxiv"
 year: 2021

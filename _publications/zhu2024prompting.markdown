@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompting Large Language Models For Zero-shot Clinical Prediction With Structured Longitudinal Electronic Health Record Data
+title: 'Prompting Large Language Models For Zero-shot Clinical Prediction With Structured Longitudinal Electronic Health Record Data'
 authors: Zhu Yinghao, Wang Zixiang, Gao Junyi, Tong Yuning, An Jingkun, Liao Weibin, Harrison Ewen M., Ma Liantao, Pan Chengwei
 conference: "Arxiv"
 year: 2024

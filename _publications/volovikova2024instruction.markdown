@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instruction Following With Goal-conditioned Reinforcement Learning In Virtual Environments
+title: 'Instruction Following With Goal-conditioned Reinforcement Learning In Virtual Environments'
 authors: Volovikova Zoya, Skrynnik Alexey, Kuderov Petr, Panov Aleksandr I.
 conference: "Arxiv"
 year: 2024

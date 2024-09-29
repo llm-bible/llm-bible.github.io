@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is Crowdsourcing Breaking Your Bank? Cost-effective Fine-tuning Of Pre-trained Language Models With Proximal Policy Optimization
+title: 'Is Crowdsourcing Breaking Your Bank? Cost-effective Fine-tuning Of Pre-trained Language Models With Proximal Policy Optimization'
 authors: Yang Shuo, Kasneci Gjergji
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Closed-book Training To Improve Summarization Encoder Memory
+title: 'Closed-book Training To Improve Summarization Encoder Memory'
 authors: Jiang Yichen, Bansal Mohit
 conference: "Arxiv"
 year: 2018

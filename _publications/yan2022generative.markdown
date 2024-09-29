@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative Negative Text Replay For Continual Vision-language Pretraining
+title: 'Generative Negative Text Replay For Continual Vision-language Pretraining'
 authors: Yan Shipeng, Hong Lanqing, Xu Hang, Han Jianhua, Tuytelaars Tinne, Li Zhenguo, He Xuming
 conference: "Arxiv"
 year: 2022

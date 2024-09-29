@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Supervised Fine-tuning As Inverse Reinforcement Learning
+title: 'Supervised Fine-tuning As Inverse Reinforcement Learning'
 authors: Sun Hao
 conference: "Arxiv"
 year: 2024

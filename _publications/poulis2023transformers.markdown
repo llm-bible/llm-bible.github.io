@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transformers In The Service Of Description Logic-based Contexts
+title: 'Transformers In The Service Of Description Logic-based Contexts'
 authors: Poulis Angelos, Tsalapati Eleni, Koubarakis Manolis
 conference: "Arxiv"
 year: 2023

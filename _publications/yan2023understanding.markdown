@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding In-context Learning From Repetitions
+title: 'Understanding In-context Learning From Repetitions'
 authors: Yan Jianhao, Xu Jin, Song Chiyu, Wu Chenming, Li Yafu, Zhang Yue
 conference: "Arxiv"
 year: 2023

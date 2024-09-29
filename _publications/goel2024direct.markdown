@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Direct Alignment Of Draft Model For Speculative Decoding With Chat-fine-tuned Llms
+title: 'Direct Alignment Of Draft Model For Speculative Decoding With Chat-fine-tuned Llms'
 authors: Goel Raghavv, Gagrani Mukul, Jeon Wonseok, Park Junyoung, Lee Mingu, Lott Christopher
 conference: "Arxiv"
 year: 2024

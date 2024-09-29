@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Question Translation Training For Better Multilingual Reasoning
+title: 'Question Translation Training For Better Multilingual Reasoning'
 authors: Zhu Wenhao, Huang Shujian, Yuan Fei, She Shuaijie, Chen Jiajun, Birch Alexandra
 conference: "Arxiv"
 year: 2024

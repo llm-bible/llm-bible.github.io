@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning To Explore And Select For Coverage-conditioned Retrieval-augmented Generation
+title: 'Learning To Explore And Select For Coverage-conditioned Retrieval-augmented Generation'
 authors: Kim Takyoung, Lee Kyungjae, Jang Young Rok, Cho Ji Yong, Kim Gangwoo, Cho Minseok, Lee Moontae
 conference: "Arxiv"
 year: 2024

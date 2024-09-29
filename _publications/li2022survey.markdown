@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey On Retrieval-augmented Text Generation
+title: 'A Survey On Retrieval-augmented Text Generation'
 authors: Li Huayang, Su Yixuan, Cai Deng, Wang Yan, Liu Lemao
 conference: "Arxiv"
 year: 2022

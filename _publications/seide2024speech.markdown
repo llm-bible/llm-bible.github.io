@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Speech Reallm -- Real-time Streaming Speech Recognition With Multimodal Llms By Teaching The Flow Of Time
+title: 'Speech Reallm -- Real-time Streaming Speech Recognition With Multimodal Llms By Teaching The Flow Of Time'
 authors: Seide Frank, Doulaty Morrie, Shi Yangyang, Gaur Yashesh, Jia Junteng, Wu Chunyang
 conference: "Arxiv"
 year: 2024

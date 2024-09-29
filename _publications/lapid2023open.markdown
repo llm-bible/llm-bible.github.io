@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Open Sesame! Universal Black Box Jailbreaking Of Large Language Models
+title: 'Open Sesame! Universal Black Box Jailbreaking Of Large Language Models'
 authors: Lapid Raz, Langberg Ron, Sipper Moshe
 conference: "ICLR"
 year: 2023

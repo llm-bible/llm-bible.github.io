@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Application Of Frozen Large-scale Models To Multimodal Task-oriented Dialogue
+title: 'Application Of Frozen Large-scale Models To Multimodal Task-oriented Dialogue'
 authors: Kawamoto Tatsuki, Suzuki Takuma, Miyama Ko, Meguro Takumi, Takagi Tomohiro
 conference: "Arxiv"
 year: 2023

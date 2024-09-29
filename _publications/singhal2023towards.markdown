@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Expert-level Medical Question Answering With Large Language Models
+title: 'Towards Expert-level Medical Question Answering With Large Language Models'
 authors: Singhal Karan, Tu Tao, Gottweis Juraj, Sayres Rory, Wulczyn Ellery, Hou Le, Clark Kevin, Pfohl Stephen, Cole-lewis Heather, Neal Darlene, Schaekermann Mike, Wang Amy, Amin Mohamed, Lachgar Sami, Mansfield Philip, Prakash Sushant, Green Bradley, Dominowska Ewa, Arcas Blaise Aguera Y, Tomasev Nenad, Liu Yun, Wong Renee, Semturs Christopher, Mahdavi S. Sara, Barral Joelle, Webster Dale, Corrado Greg S., Matias Yossi, Azizi Shekoofeh, Karthikesalingam Alan, Natarajan Vivek
 conference: "Arxiv"
 year: 2023

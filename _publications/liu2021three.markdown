@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Three-stage Learning Framework For Low-resource Knowledge-grounded Dialogue Generation
+title: 'A Three-stage Learning Framework For Low-resource Knowledge-grounded Dialogue Generation'
 authors: Liu Shilei, Zhao Xiaofeng, Li Bochao, Ren Feiliang, Zhang Longhui, Yin Shujuan
 conference: "Arxiv"
 year: 2021

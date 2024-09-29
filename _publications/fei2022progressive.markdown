@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Progressive Text-to-image Generation
+title: 'Progressive Text-to-image Generation'
 authors: Fei Zhengcong, Fan Mingyuan, Zhu Li, Huang Junshi
 conference: "Arxiv"
 year: 2022

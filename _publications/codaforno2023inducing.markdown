@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Inducing Anxiety In Large Language Models Increases Exploration And Bias
+title: 'Inducing Anxiety In Large Language Models Increases Exploration And Bias'
 authors: Coda-forno Julian, Witte Kristin, Jagadish Akshay K., Binz Marcel, Akata Zeynep, Schulz Eric
 conference: "Arxiv"
 year: 2023

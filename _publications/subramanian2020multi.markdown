@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-scale Transformer Language Models
+title: 'Multi-scale Transformer Language Models'
 authors: Subramanian Sandeep, Collobert Ronan, Ranzato Marc'aurelio, Boureau Y-lan
 conference: "Arxiv"
 year: 2020

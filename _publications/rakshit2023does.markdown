@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Does The "most Sinfully Decadent Cake Ever" Taste Good? Answering Yes/no Questions From Figurative Contexts
+title: 'Does The "most Sinfully Decadent Cake Ever" Taste Good? Answering Yes/no Questions From Figurative Contexts'
 authors: Rakshit Geetanjali, Flanigan Jeffrey
 conference: "Arxiv"
 year: 2023

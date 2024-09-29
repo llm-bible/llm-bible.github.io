@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rectifying Demonstration Shortcut In In-context Learning
+title: 'Rectifying Demonstration Shortcut In In-context Learning'
 authors: Jang Joonwon, Jang Sanghwan, Kweon Wonbin, Jeon Minjin, Yu Hwanjo
 conference: "Arxiv"
 year: 2024

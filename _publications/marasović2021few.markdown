@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Few-shot Self-rationalization With Natural Language Prompts
+title: 'Few-shot Self-rationalization With Natural Language Prompts'
 authors: Marasović Ana, Beltagy Iz, Downey Doug, Peters Matthew E.
 conference: "Arxiv"
 year: 2021

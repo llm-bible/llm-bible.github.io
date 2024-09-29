@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Measuring Inductive Biases Of In-context Learning With Underspecified Demonstrations
+title: 'Measuring Inductive Biases Of In-context Learning With Underspecified Demonstrations'
 authors: Si Chenglei, Friedman Dan, Joshi Nitish, Feng Shi, Chen Danqi, He He
 conference: "Arxiv"
 year: 2023

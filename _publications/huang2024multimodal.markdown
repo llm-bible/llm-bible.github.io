@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multimodal Task Vectors Enable Many-shot Multimodal In-context Learning
+title: 'Multimodal Task Vectors Enable Many-shot Multimodal In-context Learning'
 authors: Huang Brandon, Mitra Chancharik, Arbelle Assaf, Karlinsky Leonid, Darrell Trevor, Herzig Roei
 conference: "Arxiv"
 year: 2024

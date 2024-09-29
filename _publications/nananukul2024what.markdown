@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What If Red Can Talk? Dynamic Dialogue Generation Using Large Language Models
+title: 'What If Red Can Talk? Dynamic Dialogue Generation Using Large Language Models'
 authors: Nananukul Navapat, Wongkamjan Wichayaporn
 conference: "Arxiv"
 year: 2024

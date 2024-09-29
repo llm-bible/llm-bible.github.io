@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Virtual Personas For Language Models Via An Anthology Of Backstories
+title: 'Virtual Personas For Language Models Via An Anthology Of Backstories'
 authors: Moon Suhong, Abdulhai Marwa, Kang Minwoo, Suh Joseph, Soedarmadji Widyadewi, Behar Eran Kohen, Chan David M.
 conference: "Arxiv"
 year: 2024

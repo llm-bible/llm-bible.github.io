@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generalizing Conversational Dense Retrieval Via Llm-cognition Data Augmentation
+title: 'Generalizing Conversational Dense Retrieval Via Llm-cognition Data Augmentation'
 authors: Chen Haonan, Dou Zhicheng, Mao Kelong, Liu Jiongnan, Zhao Ziliang
 conference: "Arxiv"
 year: 2024

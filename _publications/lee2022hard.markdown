@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hard Gate Knowledge Distillation -- Leverage Calibration For Robust And Reliable Language Model
+title: 'Hard Gate Knowledge Distillation -- Leverage Calibration For Robust And Reliable Language Model'
 authors: Lee Dongkyu, Tian Zhiliang, Zhao Yingxiu, Cheung Ka Chun, Zhang Nevin L.
 conference: "Arxiv"
 year: 2022

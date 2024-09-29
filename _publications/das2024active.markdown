@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Active Preference Optimization For Sample Efficient RLHF
+title: 'Active Preference Optimization For Sample Efficient RLHF'
 authors: Das Nirjhar, Chakraborty Souradip, Pacchiano Aldo, Chowdhury Sayak Ray
 conference: "Arxiv"
 year: 2024

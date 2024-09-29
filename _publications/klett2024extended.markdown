@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Extended Mind Transformers
+title: 'Extended Mind Transformers'
 authors: Klett Phoebe, Ahle Thomas
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Smart Language Agents In Real-world Planning
+title: 'Smart Language Agents In Real-world Planning'
 authors: Miin Annabelle, Wei Timothy
 conference: "Arxiv"
 year: 2024

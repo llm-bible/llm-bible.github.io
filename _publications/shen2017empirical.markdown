@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Empirical Analysis Of Multiple-turn Reasoning Strategies In Reading Comprehension Tasks
+title: 'An Empirical Analysis Of Multiple-turn Reasoning Strategies In Reading Comprehension Tasks'
 authors: Shen Yelong, Liu Xiaodong, Duh Kevin, Gao Jianfeng
 conference: "Arxiv"
 year: 2017

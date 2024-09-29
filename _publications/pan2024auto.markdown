@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Auto-encoding Morph-tokens For Multimodal LLM
+title: 'Auto-encoding Morph-tokens For Multimodal LLM'
 authors: Pan Kaihang, Tang Siliang, Li Juncheng, Fan Zhaoyu, Chow Wei, Yan Shuicheng, Chua Tat-seng, Zhuang Yueting, Zhang Hanwang
 conference: "Arxiv"
 year: 2024

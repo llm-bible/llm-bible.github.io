@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Predictable Are Large Language Model Capabilities? A Case Study On Big-bench
+title: 'How Predictable Are Large Language Model Capabilities? A Case Study On Big-bench'
 authors: Ye Qinyuan, Fu Harvey Yiyun, Ren Xiang, Jia Robin
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scaling Instruction-finetuned Language Models
+title: 'Scaling Instruction-finetuned Language Models'
 authors: Chung Hyung Won, Hou Le, Longpre Shayne, Zoph Barret, Tay Yi, Fedus William, Li Yunxuan, Wang Xuezhi, Dehghani Mostafa, Brahma Siddhartha, Webson Albert, Gu Shixiang Shane, Dai Zhuyun, Suzgun Mirac, Chen Xinyun, Chowdhery Aakanksha, Castro-ros Alex, Pellat Marie, Robinson Kevin, Valter Dasha, Narang Sharan, Mishra Gaurav, Yu Adams, Zhao Vincent, Huang Yanping, Dai Andrew, Yu Hongkun, Petrov Slav, Chi Ed H., Dean Jeff, Devlin Jacob, Roberts Adam, Zhou Denny, Le Quoc V., Wei Jason
 conference: "Arxiv"
 year: 2022

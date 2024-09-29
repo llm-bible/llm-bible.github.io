@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Guiding And Diversifying Llm-based Story Generation Via Answer Set Programming
+title: 'Guiding And Diversifying Llm-based Story Generation Via Answer Set Programming'
 authors: Wang Phoebe J., Kreminski Max
 conference: "Arxiv"
 year: 2024

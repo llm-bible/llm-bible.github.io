@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Representation Learning For Conversational Data Using Discourse Mutual Information Maximization
+title: 'Representation Learning For Conversational Data Using Discourse Mutual Information Maximization'
 authors: Santra Bishal, Roychowdhury Sumegh, Mandal Aishik, Gurram Vasu, Naik Atharva, Gupta Manish, Goyal Pawan
 conference: "Arxiv"
 year: 2021

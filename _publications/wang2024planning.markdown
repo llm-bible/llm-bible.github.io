@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Planning In Natural Language Improves LLM Search For Code Generation
+title: 'Planning In Natural Language Improves LLM Search For Code Generation'
 authors: Wang Evan, Cassano Federico, Wu Catherine, Bai Yunfeng, Song Will, Nath Vaskar, Han Ziwen, Hendryx Sean, Yue Summer, Zhang Hugh
 conference: "Arxiv"
 year: 2024

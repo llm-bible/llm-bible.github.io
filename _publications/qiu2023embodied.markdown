@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Embodied Executable Policy Learning With Language-based Scene Summarization
+title: 'Embodied Executable Policy Learning With Language-based Scene Summarization'
 authors: Qiu Jielin, Xu Mengdi, Han William, Moon Seungwhan, Zhao Ding
 conference: "Arxiv"
 year: 2023

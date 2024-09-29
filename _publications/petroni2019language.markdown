@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Models As Knowledge Bases?
+title: 'Language Models As Knowledge Bases?'
 authors: Petroni Fabio, Rocktäschel Tim, Lewis Patrick, Bakhtin Anton, Wu Yuxiang, Miller Alexander H., Riedel Sebastian
 conference: "Arxiv"
 year: 2019

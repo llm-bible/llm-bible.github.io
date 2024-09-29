@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Memory-augmented Generative Adversarial Transformers
+title: 'Memory-augmented Generative Adversarial Transformers'
 authors: Raaijmakers Stephan, Bakker Roos, Cremers Anita, De Kleijn Roy, Kouwenhoven Tom, Verhoef Tessa
 conference: "Arxiv"
 year: 2024

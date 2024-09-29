@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Continuous Language Model Interpolation For Dynamic And Controllable Text Generation
+title: 'Continuous Language Model Interpolation For Dynamic And Controllable Text Generation'
 authors: Kangaslahti Sara, Alvarez-melis David
 conference: "Arxiv"
 year: 2024

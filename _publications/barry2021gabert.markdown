@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gabert -- An Irish Language Model
+title: 'Gabert -- An Irish Language Model'
 authors: Barry James, Wagner Joachim, Cassidy Lauren, Cowap Alan, Lynn Teresa, Walsh Abigail, Meachair Mícheál J. Ó, Foster Jennifer
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cause-aware Empathetic Response Generation Via Chain-of-thought Fine-tuning
+title: 'Cause-aware Empathetic Response Generation Via Chain-of-thought Fine-tuning'
 authors: Chen Xinhao, Yang Chong, Lan Man, Cai Li, Chen Yang, Hu Tu, Zhuang Xinlin, Zhou Aimin
 conference: "Arxiv"
 year: 2024

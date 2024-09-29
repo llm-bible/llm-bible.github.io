@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Model As A Policy Teacher For Training Reinforcement Learning Agents
+title: 'Large Language Model As A Policy Teacher For Training Reinforcement Learning Agents'
 authors: Zhou Zihao, Hu Bin, Zhao Chenyang, Zhang Pu, Liu Bin
 conference: "Arxiv"
 year: 2023

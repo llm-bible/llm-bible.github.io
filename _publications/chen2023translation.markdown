@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Translation And Fusion Improves Zero-shot Cross-lingual Information Extraction
+title: 'Translation And Fusion Improves Zero-shot Cross-lingual Information Extraction'
 authors: Chen Yang, Shah Vedaant, Ritter Alan
 conference: "Arxiv"
 year: 2023

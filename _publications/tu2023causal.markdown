@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Causal-discovery Performance Of Chatgpt In The Context Of Neuropathic Pain Diagnosis
+title: 'Causal-discovery Performance Of Chatgpt In The Context Of Neuropathic Pain Diagnosis'
 authors: Tu Ruibo, Ma Chao, Zhang Cheng
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Revisiting Token Dropping Strategy In Efficient BERT Pretraining
+title: 'Revisiting Token Dropping Strategy In Efficient BERT Pretraining'
 authors: Zhong Qihuang, Ding Liang, Liu Juhua, Liu Xuebo, Zhang Min, Du Bo, Tao Dacheng
 conference: "Arxiv"
 year: 2023

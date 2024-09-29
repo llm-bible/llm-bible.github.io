@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hidden Flaws Behind Expert-level Accuracy Of Multimodal GPT-4 Vision In Medicine
+title: 'Hidden Flaws Behind Expert-level Accuracy Of Multimodal GPT-4 Vision In Medicine'
 authors: Jin Qiao, Chen Fangyuan, Zhou Yiliang, Xu Ziyang, Cheung Justin M., Chen Robert, Summers Ronald M., Rousseau Justin F., Ni Peiyun, Landsman Marc J, Baxter Sally L., Al'aref Subhi J., Li Yijia, Chen Alex, Brejt Josef A., Chiang Michael F., Peng Yifan, Lu Zhiyong
 conference: "npj Digital Medicine"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adaptive Transformers For Learning Multimodal Representations
+title: 'Adaptive Transformers For Learning Multimodal Representations'
 authors: Bhargava Prajjwal
 conference: "Arxiv"
 year: 2020

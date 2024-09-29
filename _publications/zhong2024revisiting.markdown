@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Revisiting Knowledge Distillation For Autoregressive Language Models
+title: 'Revisiting Knowledge Distillation For Autoregressive Language Models'
 authors: Zhong Qihuang, Ding Liang, Shen Li, Liu Juhua, Du Bo, Tao Dacheng
 conference: "Arxiv"
 year: 2024

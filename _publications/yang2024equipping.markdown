@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Equipping Transformer With Random-access Reading For Long-context Understanding
+title: 'Equipping Transformer With Random-access Reading For Long-context Understanding'
 authors: Yang Chenghao, Yang Zi, Hua Nan
 conference: "Arxiv"
 year: 2024

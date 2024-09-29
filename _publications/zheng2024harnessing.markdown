@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Harnessing Large Language Models For Text-rich Sequential Recommendation
+title: 'Harnessing Large Language Models For Text-rich Sequential Recommendation'
 authors: Zheng Zhi, Chao Wenshuo, Qiu Zhaopeng, Zhu Hengshu, Xiong Hui
 conference: "Arxiv"
 year: 2024

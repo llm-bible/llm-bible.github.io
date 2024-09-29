@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reasoning Implicit Sentiment With Chain-of-thought Prompting
+title: 'Reasoning Implicit Sentiment With Chain-of-thought Prompting'
 authors: Hao Fei, Bobo Li, Qian Liu, Lidong Bing, Fei Li, Tat-seng Chua
 conference: "Arxiv"
 year: 2023

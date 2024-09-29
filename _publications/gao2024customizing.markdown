@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Customizing Language Model Responses With Contrastive In-context Learning
+title: 'Customizing Language Model Responses With Contrastive In-context Learning'
 authors: Gao Xiang, Das Kamalika
 conference: "Arxiv"
 year: 2024

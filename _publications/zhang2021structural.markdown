@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Structural Pre-training For Dialogue Comprehension
+title: 'Structural Pre-training For Dialogue Comprehension'
 authors: Zhang Zhuosheng, Zhao Hai
 conference: "Arxiv"
 year: 2021

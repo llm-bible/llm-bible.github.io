@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attacking Large Language Models With Projected Gradient Descent
+title: 'Attacking Large Language Models With Projected Gradient Descent'
 authors: Geisler Simon, Wollschläger Tom, Abdalla M. H. I., Gasteiger Johannes, Günnemann Stephan
 conference: "Arxiv"
 year: 2024

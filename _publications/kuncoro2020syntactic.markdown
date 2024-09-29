@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Syntactic Structure Distillation Pretraining For Bidirectional Encoders
+title: 'Syntactic Structure Distillation Pretraining For Bidirectional Encoders'
 authors: Kuncoro Adhiguna, Kong Lingpeng, Fried Daniel, Yogatama Dani, Rimell Laura, Dyer Chris, Blunsom Phil
 conference: "Arxiv"
 year: 2020

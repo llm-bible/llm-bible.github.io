@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Combining Multiple Post-training Techniques To Achieve Most Efficient Quantized Llms
+title: 'Combining Multiple Post-training Techniques To Achieve Most Efficient Quantized Llms'
 authors: Sharify Sayeh, Xu Zifei, Yazar Wanzin, Wang Xin
 conference: "Arxiv"
 year: 2024

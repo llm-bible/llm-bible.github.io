@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Progressive-hint Prompting Improves Reasoning In Large Language Models
+title: 'Progressive-hint Prompting Improves Reasoning In Large Language Models'
 authors: Zheng Chuanyang, Liu Zhengying, Xie Enze, Li Zhenguo, Li Yu
 conference: "Arxiv"
 year: 2023

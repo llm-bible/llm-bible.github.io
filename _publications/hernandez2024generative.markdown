@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative Visual Instruction Tuning
+title: 'Generative Visual Instruction Tuning'
 authors: Hernandez Jefferson, Villegas Ruben, Ordonez Vicente
 conference: "Arxiv"
 year: 2024

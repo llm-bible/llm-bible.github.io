@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zero-shot Recommendations With Pre-trained Large Language Models For Multimodal Nudging
+title: 'Zero-shot Recommendations With Pre-trained Large Language Models For Multimodal Nudging'
 authors: Rachel M. Harrison, Anton Dereventsov, Anton Bibin
 conference: "Arxiv"
 year: 2023

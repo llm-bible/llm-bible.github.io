@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Harnessing The Power Of Large Language Models For Natural Language To First-order Logic Translation
+title: 'Harnessing The Power Of Large Language Models For Natural Language To First-order Logic Translation'
 authors: Yang Yuan, Xiong Siheng, Payani Ali, Shareghi Ehsan, Fekri Faramarz
 conference: "Arxiv"
 year: 2023

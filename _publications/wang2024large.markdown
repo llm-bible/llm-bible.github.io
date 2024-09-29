@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models As Data Augmenters For Cold-start Item Recommendation
+title: 'Large Language Models As Data Augmenters For Cold-start Item Recommendation'
 authors: Jianling Wang, Haokai Lu, James Caverlee, Ed Chi, Minmin Chen
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatgpt Performance On Standardized Testing Exam -- A Proposed Strategy For Learners
+title: 'Chatgpt Performance On Standardized Testing Exam -- A Proposed Strategy For Learners'
 authors: Farooq Umer, Anwar Saira
 conference: "Arxiv"
 year: 2023

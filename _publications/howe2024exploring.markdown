@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Scaling Trends In LLM Robustness
+title: 'Exploring Scaling Trends In LLM Robustness'
 authors: Howe Nikolaus, Zajac Michał, Mckenzie Ian, Hollinsworth Oskar, Tseng Tom, Bacon Pierre-luc, Gleave Adam
 conference: "Arxiv"
 year: 2024

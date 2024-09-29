@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey Of Using Large Language Models For Generating Infrastructure As Code
+title: 'A Survey Of Using Large Language Models For Generating Infrastructure As Code'
 authors: Srivatsa Kalahasti Ganesh, Mukhopadhyay Sabyasachi, Katrapati Ganesh, Shrivastava Manish
 conference: "Arxiv"
 year: 2024

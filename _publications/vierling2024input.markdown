@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Input Conditioned Graph Generation For Language Agents
+title: 'Input Conditioned Graph Generation For Language Agents'
 authors: Vierling Lukas, Fu Jie, Chen Kai
 conference: "Arxiv"
 year: 2024

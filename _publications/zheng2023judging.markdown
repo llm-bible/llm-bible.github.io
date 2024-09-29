@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Judging Llm-as-a-judge With Mt-bench And Chatbot Arena
+title: 'Judging Llm-as-a-judge With Mt-bench And Chatbot Arena'
 authors: Zheng Lianmin, Chiang Wei-lin, Sheng Ying, Zhuang Siyuan, Wu Zhanghao, Zhuang Yonghao, Lin Zi, Li Zhuohan, Li Dacheng, Xing Eric P., Zhang Hao, Gonzalez Joseph E., Stoica Ion
 conference: "Arxiv"
 year: 2023

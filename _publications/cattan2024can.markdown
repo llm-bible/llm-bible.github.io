@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Few-shot Work In Long-context? Recycling The Context To Generate Demonstrations
+title: 'Can Few-shot Work In Long-context? Recycling The Context To Generate Demonstrations'
 authors: Cattan Arie, Jacovi Alon, Fabrikant Alex, Herzig Jonathan, Aharoni Roee, Rashkin Hannah, Marcus Dror, Hassidim Avinatan, Matias Yossi, Szpektor Idan, Caciularu Avi
 conference: "Arxiv"
 year: 2024

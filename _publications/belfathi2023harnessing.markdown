@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Harnessing Gpt-3.5-turbo For Rhetorical Role Prediction In Legal Cases
+title: 'Harnessing Gpt-3.5-turbo For Rhetorical Role Prediction In Legal Cases'
 authors: Belfathi Anas, Hernandez Nicolas, Monceaux Laura
 conference: "JURIX"
 year: 2023

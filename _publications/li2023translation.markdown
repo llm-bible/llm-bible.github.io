@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Translation-enhanced Multilingual Text-to-image Generation
+title: 'Translation-enhanced Multilingual Text-to-image Generation'
 authors: Li Yaoyiran, Chang Ching-yun, Rawls Stephen, Vulić Ivan, Korhonen Anna
 conference: "Proceedings of the"
 year: 2023

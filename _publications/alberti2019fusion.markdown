@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fusion Of Detected Objects In Text For Visual Question Answering
+title: 'Fusion Of Detected Objects In Text For Visual Question Answering'
 authors: Alberti Chris, Ling Jeffrey, Collins Michael, Reitter David
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Do Large Language Models Capture The Ever-changing World Knowledge? A Review Of Recent Advances
+title: 'How Do Large Language Models Capture The Ever-changing World Knowledge? A Review Of Recent Advances'
 authors: Zhang Zihan, Fang Meng, Chen Ling, Namazi-rad Mohammad-reza, Wang Jun
 conference: "Arxiv"
 year: 2023

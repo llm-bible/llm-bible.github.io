@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Accelerating Llama Inference By Enabling Intermediate Layer Decoding Via Instruction Tuning With LITE
+title: 'Accelerating Llama Inference By Enabling Intermediate Layer Decoding Via Instruction Tuning With LITE'
 authors: Varshney Neeraj, Chatterjee Agneet, Parmar Mihir, Baral Chitta
 conference: "Arxiv"
 year: 2023

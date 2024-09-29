@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Probing Script Knowledge From Pre-trained Models
+title: 'Probing Script Knowledge From Pre-trained Models'
 authors: Jin Zijian, Zhang Xingyu, Yu Mo, Huang Lifu
 conference: "Arxiv"
 year: 2022

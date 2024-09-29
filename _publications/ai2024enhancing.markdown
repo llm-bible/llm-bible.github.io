@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Pre-trained Generative Language Models With Question Attended Span Extraction On Machine Reading Comprehension
+title: 'Enhancing Pre-trained Generative Language Models With Question Attended Span Extraction On Machine Reading Comprehension'
 authors: Ai Lin, Hui Zheng, Liu Zizhou, Hirschberg Julia
 conference: "Arxiv"
 year: 2024

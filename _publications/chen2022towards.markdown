@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Improving Faithfulness In Abstractive Summarization
+title: 'Towards Improving Faithfulness In Abstractive Summarization'
 authors: Chen Xiuying, Li Mingzhe, Gao Xin, Zhang Xiangliang
 conference: "Arxiv"
 year: 2022

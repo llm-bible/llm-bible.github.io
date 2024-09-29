@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Impact Of Positional Encoding On Length Generalization In Transformers
+title: 'The Impact Of Positional Encoding On Length Generalization In Transformers'
 authors: Kazemnejad Amirhossein, Padhi Inkit, Ramamurthy Karthikeyan Natesan, Das Payel, Reddy Siva
 conference: "Arxiv"
 year: 2023

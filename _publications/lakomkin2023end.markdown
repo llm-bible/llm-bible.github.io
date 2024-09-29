@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: End-to-end Speech Recognition Contextualization With Large Language Models
+title: 'End-to-end Speech Recognition Contextualization With Large Language Models'
 authors: Lakomkin Egor, Wu Chunyang, Fathullah Yassir, Kalinli Ozlem, Seltzer Michael L., Fuegen Christian
 conference: "Arxiv"
 year: 2023

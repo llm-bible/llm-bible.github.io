@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Knowledge-based Consistency Testing Of Large Language Models
+title: 'Knowledge-based Consistency Testing Of Large Language Models'
 authors: Rajan Sai Sathiesh, Soremekun Ezekiel, Chattopadhyay Sudipta
 conference: "Arxiv"
 year: 2024

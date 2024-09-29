@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evidence-enhanced Triplet Generation Framework For Hallucination Alleviation In Generative Question Answering
+title: 'Evidence-enhanced Triplet Generation Framework For Hallucination Alleviation In Generative Question Answering'
 authors: Du Haowei, Zhang Huishuai, Zhao Dongyan
 conference: "Arxiv"
 year: 2024

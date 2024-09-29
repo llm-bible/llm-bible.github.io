@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Meta-learning Fast Weight Language Models
+title: 'Meta-learning Fast Weight Language Models'
 authors: Clark Kevin, Guu Kelvin, Chang Ming-wei, Pasupat Panupong, Hinton Geoffrey, Norouzi Mohammad
 conference: "Arxiv"
 year: 2022

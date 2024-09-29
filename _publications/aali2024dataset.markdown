@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Dataset And Benchmark For Hospital Course Summarization With Adapted Large Language Models
+title: 'A Dataset And Benchmark For Hospital Course Summarization With Adapted Large Language Models'
 authors: Aali Asad, Van Veen Dave, Arefeen Yamin Ishraq, Hom Jason, Bluethgen Christian, Reis Eduardo Pontes, Gatidis Sergios, Clifford Namuun, Daws Joseph, Tehrani Arash S., Kim Jangwon, Chaudhari Akshay S.
 conference: "Arxiv"
 year: 2024

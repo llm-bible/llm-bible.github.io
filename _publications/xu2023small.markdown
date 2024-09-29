@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Small Models Are Valuable Plug-ins For Large Language Models
+title: 'Small Models Are Valuable Plug-ins For Large Language Models'
 authors: Xu Canwen, Xu Yichong, Wang Shuohang, Liu Yang, Zhu Chenguang, Mcauley Julian
 conference: "Arxiv"
 year: 2023

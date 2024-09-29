@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chinese Metaphor Recognition Using A Multi-stage Prompting Large Language Model
+title: 'Chinese Metaphor Recognition Using A Multi-stage Prompting Large Language Model'
 authors: Wang Jie, Wang Jin, Zhang Xuejie
 conference: "Arxiv"
 year: 2024

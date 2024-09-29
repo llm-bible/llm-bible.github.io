@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generating Data For Symbolic Language With Large Language Models
+title: 'Generating Data For Symbolic Language With Large Language Models'
 authors: Ye Jiacheng, Li Chengzu, Kong Lingpeng, Yu Tao
 conference: "Arxiv"
 year: 2023

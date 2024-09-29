@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zero-shot Cross-lingual Transfer In Instruction Tuning Of Large Language Models
+title: 'Zero-shot Cross-lingual Transfer In Instruction Tuning Of Large Language Models'
 authors: Chirkova Nadezhda, Nikoulina Vassilina
 conference: "Arxiv"
 year: 2024

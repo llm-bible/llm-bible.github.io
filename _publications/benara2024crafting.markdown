@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Crafting Interpretable Embeddings By Asking Llms Questions
+title: 'Crafting Interpretable Embeddings By Asking Llms Questions'
 authors: Benara Vinamra, Singh Chandan, Morris John X., Antonello Richard, Stoica Ion, Huth Alexander G., Gao Jianfeng
 conference: "Arxiv"
 year: 2024

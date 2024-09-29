@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An End-to-end Speech Summarization Using Large Language Model
+title: 'An End-to-end Speech Summarization Using Large Language Model'
 authors: Shang Hengchao, Li Zongyao, Guo Jiaxin, Li Shaojun, Rao Zhiqiang, Luo Yuanchang, Wei Daimeng, Yang Hao
 conference: "Arxiv"
 year: 2024

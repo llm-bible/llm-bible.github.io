@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Remember What You Did So You Know What To Do Next
+title: 'Remember What You Did So You Know What To Do Next'
 authors: Ciosici Manuel R., Hedges Alex, Kankanampati Yash, Martin Justin, Freedman Marjorie, Weischedel Ralph
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Human-like Intuitive Behavior And Reasoning Biases Emerged In Language Models -- And Disappeared In GPT-4
+title: 'Human-like Intuitive Behavior And Reasoning Biases Emerged In Language Models -- And Disappeared In GPT-4'
 authors: Hagendorff Thilo, Fabi Sarah
 conference: "Arxiv"
 year: 2023

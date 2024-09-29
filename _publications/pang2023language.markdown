@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Model Self-improvement By Reinforcement Learning Contemplation
+title: 'Language Model Self-improvement By Reinforcement Learning Contemplation'
 authors: Pang Jing-cheng, Wang Pengyuan, Li Kaiyuan, Chen Xiong-hui, Xu Jiacheng, Zhang Zongzhang, Yu Yang
 conference: "Arxiv"
 year: 2023

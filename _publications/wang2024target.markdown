@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Target-constrained Bidirectional Planning For Generation Of Target-oriented Proactive Dialogue
+title: 'Target-constrained Bidirectional Planning For Generation Of Target-oriented Proactive Dialogue'
 authors: Wang Jian, Lin Dongding, Li Wenjie
 conference: "Arxiv"
 year: 2024

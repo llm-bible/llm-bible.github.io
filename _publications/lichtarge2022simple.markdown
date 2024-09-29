@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Simple And Effective Gradient-based Tuning Of Sequence-to-sequence Models
+title: 'Simple And Effective Gradient-based Tuning Of Sequence-to-sequence Models'
 authors: Lichtarge Jared, Alberti Chris, Kumar Shankar
 conference: "Arxiv"
 year: 2022

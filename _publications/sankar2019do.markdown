@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Neural Dialog Systems Use The Conversation History Effectively? An Empirical Study
+title: 'Do Neural Dialog Systems Use The Conversation History Effectively? An Empirical Study'
 authors: Sankar Chinnadhurai, Subramanian Sandeep, Pal Christopher, Chandar Sarath, Bengio Yoshua
 conference: "Arxiv"
 year: 2019

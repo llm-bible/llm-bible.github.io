@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Structured Triplet Learning With Pos-tag Guided Attention For Visual Question Answering
+title: 'Structured Triplet Learning With Pos-tag Guided Attention For Visual Question Answering'
 authors: Wang Zhe, Liu Xiaoyi, Chen Liangjian, Wang Limin, Qiao Yu, Xie Xiaohui, Fowlkes Charless
 conference: "Arxiv"
 year: 2018

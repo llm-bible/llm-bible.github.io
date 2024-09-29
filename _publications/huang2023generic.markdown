@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generic Attention-model Explainability By Weighted Relevance Accumulation
+title: 'Generic Attention-model Explainability By Weighted Relevance Accumulation'
 authors: Huang Yiming, Jia Aozhe, Zhang Xiaodan, Zhang Jiawei
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Insertion-based Decoding With Automatically Inferred Generation Order
+title: 'Insertion-based Decoding With Automatically Inferred Generation Order'
 authors: Gu Jiatao, Liu Qi, Cho Kyunghyun
 conference: "Arxiv"
 year: 2019

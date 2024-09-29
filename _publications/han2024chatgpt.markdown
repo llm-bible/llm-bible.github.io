@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatgpt Based Data Augmentation For Improved Parameter-efficient Debiasing Of Llms
+title: 'Chatgpt Based Data Augmentation For Improved Parameter-efficient Debiasing Of Llms'
 authors: Han Pengrui, Kocielnik Rafal, Saravanan Adhithya, Jiang Roy, Sharir Or, Anandkumar Anima
 conference: "Arxiv"
 year: 2024

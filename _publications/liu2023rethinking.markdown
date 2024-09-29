@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rethinking Tabular Data Understanding With Large Language Models
+title: 'Rethinking Tabular Data Understanding With Large Language Models'
 authors: Liu Tianyang, Wang Fei, Chen Muhao
 conference: "Arxiv"
 year: 2023

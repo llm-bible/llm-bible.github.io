@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cross-architecture Transfer Learning For Linear-cost Inference Transformers
+title: 'Cross-architecture Transfer Learning For Linear-cost Inference Transformers'
 authors: Choi Sehyun
 conference: "Arxiv"
 year: 2024

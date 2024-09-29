@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Intelligent Virtual Assistants With Llm-based Process Automation
+title: 'Intelligent Virtual Assistants With Llm-based Process Automation'
 authors: Guan Yanchu, Wang Dong, Chu Zhixuan, Wang Shiyu, Ni Feiyue, Song Ruihua, Li Longfei, Gu Jinjie, Zhuang Chenyi
 conference: "Arxiv"
 year: 2023

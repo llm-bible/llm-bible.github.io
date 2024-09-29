@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unpaired Cross-lingual Image Caption Generation With Self-supervised Rewards
+title: 'Unpaired Cross-lingual Image Caption Generation With Self-supervised Rewards'
 authors: Song Yuqing, Chen Shizhe, Zhao Yida, Jin Qin
 conference: "Arxiv"
 year: 2019

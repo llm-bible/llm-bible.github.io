@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Domain-specific Chatbots For Science Using Embeddings
+title: 'Domain-specific Chatbots For Science Using Embeddings'
 authors: Yager Kevin G.
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Conversational Prompt Engineering
+title: 'Conversational Prompt Engineering'
 authors: Ein-dor Liat, Toledo-ronen Orith, Spector Artem, Gretz Shai, Dankin Lena, Halfon Alon, Katz Yoav, Slonim Noam
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Few-shot Data Augmentation And Waterfall Prompting For Response Generation
+title: 'Leveraging Few-shot Data Augmentation And Waterfall Prompting For Response Generation'
 authors: Krause Lea, Santamaría Selene Báez, Van Der Meer Michiel, Khurana Urja
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Professional Agents -- Evolving Large Language Models Into Autonomous Experts With Human-level Competencies
+title: 'Professional Agents -- Evolving Large Language Models Into Autonomous Experts With Human-level Competencies'
 authors: Chu Zhixuan, Wang Yan, Zhu Feng, Yu Lu, Li Longfei, Gu Jinjie
 conference: "Arxiv"
 year: 2024

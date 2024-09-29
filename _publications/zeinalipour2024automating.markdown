@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automating Turkish Educational Quiz Generation Using Large Language Models
+title: 'Automating Turkish Educational Quiz Generation Using Large Language Models'
 authors: Zeinalipour Kamyar, Keptiğ Yusuf Gökberk, Maggini Marco, Gori Marco
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On Scalable Oversight With Weak Llms Judging Strong Llms
+title: 'On Scalable Oversight With Weak Llms Judging Strong Llms'
 authors: Kenton Zachary, Siegel Noah Y., Kramár János, Brown-cohen Jonah, Albanie Samuel, Bulian Jannis, Agarwal Rishabh, Lindner David, Tang Yunhao, Goodman Noah D., Shah Rohin
 conference: "Arxiv"
 year: 2024

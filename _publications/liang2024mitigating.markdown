@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mitigating Hallucination In Visual-language Models Via Re-balancing Contrastive Decoding
+title: 'Mitigating Hallucination In Visual-language Models Via Re-balancing Contrastive Decoding'
 authors: Liang Xiaoyu, Yu Jiayuan, Mu Lianrui, Zhuang Jiedong, Hu Jiaqi, Yang Yuchen, Ye Jiangnan, Lu Lu, Chen Jian, Hu Haoji
 conference: "Arxiv"
 year: 2024

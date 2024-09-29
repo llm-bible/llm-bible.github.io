@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Robust Dialogue State Tracking With Weak Supervision And Sparse Data
+title: 'Robust Dialogue State Tracking With Weak Supervision And Sparse Data'
 authors: Heck Michael, Lubis Nurul, Van Niekerk Carel, Feng Shutong, Geishauser Christian, Lin Hsien-chin, Gašić Milica
 conference: "Arxiv"
 year: 2022

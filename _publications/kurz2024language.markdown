@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language-specific Calibration For Pruning Multilingual Language Models
+title: 'Language-specific Calibration For Pruning Multilingual Language Models'
 authors: Kurz Simon, Chen Jian-jia, Flek Lucie, Zhao Zhixue
 conference: "Arxiv"
 year: 2024

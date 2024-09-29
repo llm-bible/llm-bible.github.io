@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cognitive Architectures For Language Agents
+title: 'Cognitive Architectures For Language Agents'
 authors: Sumers Theodore R., Yao Shunyu, Narasimhan Karthik, Griffiths Thomas L.
 conference: "Arxiv"
 year: 2023

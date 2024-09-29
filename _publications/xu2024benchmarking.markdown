@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Benchmarking Benchmark Leakage In Large Language Models
+title: 'Benchmarking Benchmark Leakage In Large Language Models'
 authors: Xu Ruijie, Wang Zengzhi, Fan Run-ze, Liu Pengfei
 conference: "Arxiv"
 year: 2024

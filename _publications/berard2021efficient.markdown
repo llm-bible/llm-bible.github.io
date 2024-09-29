@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficient Inference For Multilingual Neural Machine Translation
+title: 'Efficient Inference For Multilingual Neural Machine Translation'
 authors: Berard Alexandre, Lee Dain, Clinchant Stéphane, Jung Kweonwoo, Nikoulina Vassilina
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Building Sequential Inference Models For End-to-end Response Selection
+title: 'Building Sequential Inference Models For End-to-end Response Selection'
 authors: Gu Jia-chen, Ling Zhen-hua, Ruan Yu-ping, Liu Quan
 conference: "Arxiv"
 year: 2018

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pretrained Hybrids With MAD Skills
+title: 'Pretrained Hybrids With MAD Skills'
 authors: Roberts Nicholas, Guo Samuel, Gao Zhiqi, Gnvv Satya Sai Srinath Namburi, Cromp Sonia, Wu Chengjun, Duan Chengyu, Sala Frederic
 conference: "Arxiv"
 year: 2024

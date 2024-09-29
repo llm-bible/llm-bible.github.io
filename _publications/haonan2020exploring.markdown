@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Explainable Selection To Control Abstractive Summarization
+title: 'Exploring Explainable Selection To Control Abstractive Summarization'
 authors: Haonan Wang, Yang Gao, Yu Bai, Lapata Mirella, Heyan Huang
 conference: "Arxiv"
 year: 2020

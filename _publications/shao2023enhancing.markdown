@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Retrieval-augmented Large Language Models With Iterative Retrieval-generation Synergy
+title: 'Enhancing Retrieval-augmented Large Language Models With Iterative Retrieval-generation Synergy'
 authors: Shao Zhihong, Gong Yeyun, Shen Yelong, Huang Minlie, Duan Nan, Chen Weizhu
 conference: "Arxiv"
 year: 2023

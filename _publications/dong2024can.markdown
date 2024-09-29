@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can LLM Be A Personalized Judge?
+title: 'Can LLM Be A Personalized Judge?'
 authors: Dong Yijiang River, Hu Tiancheng, Collier Nigel
 conference: "Arxiv"
 year: 2024

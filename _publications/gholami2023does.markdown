@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Does Synthetic Data Make Large Language Models More Efficient?
+title: 'Does Synthetic Data Make Large Language Models More Efficient?'
 authors: Gholami Sia, Omar Marwan
 conference: "Arxiv"
 year: 2023

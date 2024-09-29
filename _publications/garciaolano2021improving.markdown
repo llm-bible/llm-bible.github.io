@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving And Diagnosing Knowledge-based Visual Question Answering Via Entity Enhanced Knowledge Injection
+title: 'Improving And Diagnosing Knowledge-based Visual Question Answering Via Entity Enhanced Knowledge Injection'
 authors: Garcia-olano Diego, Onoe Yasumasa, Ghosh Joydeep
 conference: "Proceedings of the"
 year: 2021

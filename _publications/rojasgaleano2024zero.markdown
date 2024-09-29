@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zero-shot Spam Email Classification Using Pre-trained Large Language Models
+title: 'Zero-shot Spam Email Classification Using Pre-trained Large Language Models'
 authors: Rojas-galeano Sergio
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mixed Distillation Helps Smaller Language Model Better Reasoning
+title: 'Mixed Distillation Helps Smaller Language Model Better Reasoning'
 authors: Li Chenglin, Chen Qianglong, Li Liangyue, Wang Caiyu, Li Yicheng, Chen Zulong, Zhang Yin
 conference: "Arxiv"
 year: 2023

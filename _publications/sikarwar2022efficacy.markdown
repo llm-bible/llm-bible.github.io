@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On The Efficacy Of Co-attention Transformer Layers In Visual Question Answering
+title: 'On The Efficacy Of Co-attention Transformer Layers In Visual Question Answering'
 authors: Sikarwar Ankur, Kreiman Gabriel
 conference: "Arxiv"
 year: 2022

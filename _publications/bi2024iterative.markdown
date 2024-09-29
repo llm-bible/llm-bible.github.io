@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Iterative Refinement Of Project-level Code Context For Precise Code Generation With Compiler Feedback
+title: 'Iterative Refinement Of Project-level Code Context For Precise Code Generation With Compiler Feedback'
 authors: Bi Zhangqian, Wan Yao, Wang Zheng, Zhang Hongyu, Guan Batu, Lu Fangxin, Zhang Zili, Sui Yulei, Jin Hai, Shi Xuanhua
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Super Tiny Language Models
+title: 'Super Tiny Language Models'
 authors: Hillier Dylan, Guertler Leon, Tan Cheston, Agrawal Palaash, Ruirui Chen, Cheng Bobby
 conference: "Arxiv"
 year: 2024

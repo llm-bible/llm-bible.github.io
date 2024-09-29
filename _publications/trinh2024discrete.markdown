@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Discrete Multimodal Transformers With A Pretrained Large Language Model For Mixed-supervision Speech Processing
+title: 'Discrete Multimodal Transformers With A Pretrained Large Language Model For Mixed-supervision Speech Processing'
 authors: Trinh Viet Anh, Southwell Rosy, Guan Yiwen, He Xinlu, Wang Zhiyong, Whitehill Jacob
 conference: "Arxiv"
 year: 2024

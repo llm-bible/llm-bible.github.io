@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-consistent Decoding For More Factual Open Responses
+title: 'Self-consistent Decoding For More Factual Open Responses'
 authors: Malon Christopher, Zhu Xiaodan
 conference: "Arxiv"
 year: 2024

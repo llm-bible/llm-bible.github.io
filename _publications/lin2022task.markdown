@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On Task-adaptive Pretraining For Dialogue Response Selection
+title: 'On Task-adaptive Pretraining For Dialogue Response Selection'
 authors: Lin Tzu-hsiang, Chi Ta-chung, Rumshisky Anna
 conference: "Arxiv"
 year: 2022

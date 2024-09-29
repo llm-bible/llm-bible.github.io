@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompting Large Vision-language Models For Compositional Reasoning
+title: 'Prompting Large Vision-language Models For Compositional Reasoning'
 authors: Ossowski Timothy, Jiang Ming, Hu Junjie
 conference: "Arxiv"
 year: 2024

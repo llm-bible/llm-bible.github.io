@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Task-oriented Queries Benchmark (toqb)
+title: 'The Task-oriented Queries Benchmark (toqb)'
 authors: Yim Keun Soo
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Training-free Exponential Extension Of Sliding Window Context With Cascading KV Cache
+title: 'Training-free Exponential Extension Of Sliding Window Context With Cascading KV Cache'
 authors: Willette Jeffrey, Lee Heejun, Lee Youngwan, Jeon Myeongjae, Hwang Sung Ju
 conference: "Arxiv"
 year: 2024

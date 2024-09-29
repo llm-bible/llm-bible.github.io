@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Capturing Document Context Inside Sentence-level Neural Machine Translation Models With Self-training
+title: 'Capturing Document Context Inside Sentence-level Neural Machine Translation Models With Self-training'
 authors: Mansimov Elman, Melis Gábor, Yu Lei
 conference: "Arxiv"
 year: 2020

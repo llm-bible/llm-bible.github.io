@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Quantifying The Gain In Weak-to-strong Generalization
+title: 'Quantifying The Gain In Weak-to-strong Generalization'
 authors: Charikar Moses, Pabbaraju Chirag, Shiragur Kirankumar
 conference: "Arxiv"
 year: 2024

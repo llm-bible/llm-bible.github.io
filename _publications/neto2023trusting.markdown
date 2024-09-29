@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Trusting Language Models In Education
+title: 'Trusting Language Models In Education'
 authors: Neto Jogi Suda, Deng Li, Raya Thejaswi, Shahbazi Reza, Liu Nick, Venkatesh Adhitya, Shah Miral, Khosla Neeru, Guido Rodrigo Capobianco
 conference: "Arxiv"
 year: 2023

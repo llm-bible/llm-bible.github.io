@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Does BERT Answer Questions? A Layer-wise Analysis Of Transformer Representations
+title: 'How Does BERT Answer Questions? A Layer-wise Analysis Of Transformer Representations'
 authors: Van Aken Betty, Winter Benjamin, Löser Alexander, Gers Felix A.
 conference: "Arxiv"
 year: 2019

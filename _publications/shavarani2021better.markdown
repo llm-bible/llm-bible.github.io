@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Better Neural Machine Translation By Extracting Linguistic Information From BERT
+title: 'Better Neural Machine Translation By Extracting Linguistic Information From BERT'
 authors: Shavarani Hassan S., Sarkar Anoop
 conference: "Arxiv"
 year: 2021

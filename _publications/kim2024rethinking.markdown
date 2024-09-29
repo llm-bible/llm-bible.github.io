@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rethinking The Role Of Proxy Rewards In Language Model Alignment
+title: 'Rethinking The Role Of Proxy Rewards In Language Model Alignment'
 authors: Kim Sungdong, Seo Minjoon
 conference: "Arxiv"
 year: 2024

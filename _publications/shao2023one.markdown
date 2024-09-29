@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: One-shot Sensitivity-aware Mixed Sparsity Pruning For Large Language Models
+title: 'One-shot Sensitivity-aware Mixed Sparsity Pruning For Large Language Models'
 authors: Shao Hang, Liu Bei, Xiao Bo, Zeng Ke, Wan Guanglu, Qian Yanmin
 conference: "Arxiv"
 year: 2023

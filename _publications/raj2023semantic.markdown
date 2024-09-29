@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Semantic Consistency For Assuring Reliability Of Large Language Models
+title: 'Semantic Consistency For Assuring Reliability Of Large Language Models'
 authors: Raj Harsh, Gupta Vipul, Rosati Domenic, Majumdar Subhabrata
 conference: "Arxiv"
 year: 2023

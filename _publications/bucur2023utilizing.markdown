@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Utilizing Chatgpt Generated Data To Retrieve Depression Symptoms From Social Media
+title: 'Utilizing Chatgpt Generated Data To Retrieve Depression Symptoms From Social Media'
 authors: Bucur Ana-maria
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Forgettable-watcher Model For Video Question Answering
+title: 'The Forgettable-watcher Model For Video Question Answering'
 authors: Xue Hongyang, Zhao Zhou, Cai Deng
 conference: "Arxiv"
 year: 2017

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Strengthened Symbol Binding Makes Large Language Models Reliable Multiple-choice Selectors
+title: 'Strengthened Symbol Binding Makes Large Language Models Reliable Multiple-choice Selectors'
 authors: Xue Mengge, Hu Zhenyu, Liu Liqun, Liao Kuo, Li Shuang, Han Honglin, Zhao Meng, Yin Chengguo
 conference: "ACL"
 year: 2024

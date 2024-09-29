@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Did Translation Models Get More Robust Without Anyone Even Noticing?
+title: 'Did Translation Models Get More Robust Without Anyone Even Noticing?'
 authors: Peters Ben, Martins André F. T.
 conference: "Arxiv"
 year: 2024

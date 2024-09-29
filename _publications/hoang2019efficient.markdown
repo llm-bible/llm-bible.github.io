@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficient Adaptation Of Pretrained Transformers For Abstractive Summarization
+title: 'Efficient Adaptation Of Pretrained Transformers For Abstractive Summarization'
 authors: Hoang Andrew, Bosselut Antoine, Celikyilmaz Asli, Choi Yejin
 conference: "Arxiv"
 year: 2019

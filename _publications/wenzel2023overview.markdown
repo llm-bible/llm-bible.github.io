@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Overview Of Temporal Commonsense Reasoning And Acquisition
+title: 'An Overview Of Temporal Commonsense Reasoning And Acquisition'
 authors: Wenzel Georg, Jatowt Adam
 conference: "Arxiv"
 year: 2023

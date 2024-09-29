@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multimodal Few-shot Learning With Frozen Language Models
+title: 'Multimodal Few-shot Learning With Frozen Language Models'
 authors: Tsimpoukelli Maria, Menick Jacob, Cabi Serkan, Eslami S. M. Ali, Vinyals Oriol, Hill Felix
 conference: "Arxiv"
 year: 2021

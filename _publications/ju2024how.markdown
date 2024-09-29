@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Large Language Models Encode Context Knowledge? A Layer-wise Probing Study
+title: 'How Large Language Models Encode Context Knowledge? A Layer-wise Probing Study'
 authors: Ju Tianjie, Sun Weiwei, Du Wei, Yuan Xinwei, Ren Zhaochun, Liu Gongshen
 conference: "Arxiv"
 year: 2024

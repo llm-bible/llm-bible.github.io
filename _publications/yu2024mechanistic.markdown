@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mechanistic Understanding And Mitigation Of Language Model Non-factual Hallucinations
+title: 'Mechanistic Understanding And Mitigation Of Language Model Non-factual Hallucinations'
 authors: Yu Lei, Cao Meng, Cheung Jackie Chi Kit, Dong Yue
 conference: "Arxiv"
 year: 2024

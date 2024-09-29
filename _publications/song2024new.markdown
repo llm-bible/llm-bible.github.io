@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A New Pipeline For Generating Instruction Dataset Via RAG And Self Fine-tuning
+title: 'A New Pipeline For Generating Instruction Dataset Via RAG And Self Fine-tuning'
 authors: Song Chih-wei, Lee Yu-kai, Tsai Yin-te
 conference: "Arxiv"
 year: 2024

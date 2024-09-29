@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Data Generation Perspective To The Mechanism Of In-context Learning
+title: 'A Data Generation Perspective To The Mechanism Of In-context Learning'
 authors: Mao Haitao, Liu Guangliang, Ma Yao, Wang Rongrong, Johnson Kristen, Tang Jiliang
 conference: "Arxiv"
 year: 2024

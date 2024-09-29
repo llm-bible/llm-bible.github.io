@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Reliable Are Automatic Evaluation Methods For Instruction-tuned Llms?
+title: 'How Reliable Are Automatic Evaluation Methods For Instruction-tuned Llms?'
 authors: Doostmohammadi Ehsan, Holmström Oskar, Kuhlmann Marco
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: When Is The Consistent Prediction Likely To Be A Correct Prediction?
+title: 'When Is The Consistent Prediction Likely To Be A Correct Prediction?'
 authors: Nguyen Alex, Mekala Dheeraj, Dong Chengyu, Shang Jingbo
 conference: "Arxiv"
 year: 2024

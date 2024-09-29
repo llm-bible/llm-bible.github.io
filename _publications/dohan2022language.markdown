@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Model Cascades
+title: 'Language Model Cascades'
 authors: David Dohan, Winnie Xu, Aitor Lewkowycz, Jacob Austin, David Bieber, Raphael Gontijo Lopes, Yuhuai Wu, Henryk Michalewski, Rif A. Saurous, Jascha Sohl-dickstein, Kevin Murphy, Charles Sutton
 conference: "Arxiv"
 year: 2022

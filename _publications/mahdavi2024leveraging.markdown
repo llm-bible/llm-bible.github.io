@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Environment Interaction For Automated PDDL Generation And Planning With Large Language Models
+title: 'Leveraging Environment Interaction For Automated PDDL Generation And Planning With Large Language Models'
 authors: Mahdavi Sadegh, Aoki Raquel, Tang Keyi, Cao Yanshuai
 conference: "Arxiv"
 year: 2024

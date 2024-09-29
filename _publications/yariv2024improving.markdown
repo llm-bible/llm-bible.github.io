@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Visual Commonsense In Language Models Via Multiple Image Generation
+title: 'Improving Visual Commonsense In Language Models Via Multiple Image Generation'
 authors: Yariv Guy, Schwartz Idan, Adi Yossi, Benaim Sagie
 conference: "Arxiv"
 year: 2024

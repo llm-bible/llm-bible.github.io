@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vision Encoder-decoder Models For AI Coaching
+title: 'Vision Encoder-decoder Models For AI Coaching'
 authors: Nayak Jyothi S, Khan Afifah Khan Mohammed Ajmal, Manjeshwar Chirag, Banday Imadh Ajaz
 conference: "Arxiv"
 year: 2023

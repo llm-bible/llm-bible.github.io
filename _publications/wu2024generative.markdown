@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative Monoculture In Large Language Models
+title: 'Generative Monoculture In Large Language Models'
 authors: Wu Fan, Black Emily, Chandrasekaran Varun
 conference: "Arxiv"
 year: 2024

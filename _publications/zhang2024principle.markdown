@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: In-context Principle Learning From Mistakes
+title: 'In-context Principle Learning From Mistakes'
 authors: Zhang Tianjun, Madaan Aman, Gao Luyu, Zheng Steven, Mishra Swaroop, Yang Yiming, Tandon Niket, Alon Uri
 conference: "Arxiv"
 year: 2024

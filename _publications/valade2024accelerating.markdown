@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Accelerating Large Language Model Inference With Self-supervised Early Exits
+title: 'Accelerating Large Language Model Inference With Self-supervised Early Exits'
 authors: Valade Florian
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Copy-augmented Sequence-to-sequence Architecture Gives Good Performance On Task-oriented Dialogue
+title: 'A Copy-augmented Sequence-to-sequence Architecture Gives Good Performance On Task-oriented Dialogue'
 authors: Eric Mihail, Manning Christopher D.
 conference: "Arxiv"
 year: 2017

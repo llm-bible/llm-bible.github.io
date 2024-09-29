@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-prompting Decoder Helps Better Language Understanding
+title: 'Multi-prompting Decoder Helps Better Language Understanding'
 authors: Cheng Zifeng, Chen Zhaoling, Jiang Zhiwei, Yin Yafeng, Ge Shiping, Liu Yuliang, Gu Qing
 conference: "Arxiv"
 year: 2024

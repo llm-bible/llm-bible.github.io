@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Calibrating Reasoning In Language Models With Internal Consistency
+title: 'Calibrating Reasoning In Language Models With Internal Consistency'
 authors: Xie Zhihui, Guo Jizhou, Yu Tong, Li Shuai
 conference: "Arxiv"
 year: 2024

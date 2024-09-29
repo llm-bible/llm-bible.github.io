@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zero-shot Paraphrase Generation With Multilingual Language Models
+title: 'Zero-shot Paraphrase Generation With Multilingual Language Models'
 authors: Guo Yinpeng, Liao Yi, Jiang Xin, Zhang Qing, Zhang Yibo, Liu Qun
 conference: "Arxiv"
 year: 2019

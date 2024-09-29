@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Red Teaming Visual Language Models
+title: 'Red Teaming Visual Language Models'
 authors: Li Mukai, Li Lei, Yin Yuwei, Ahmed Masood, Liu Zhenguang, Liu Qi
 conference: "Arxiv"
 year: 2024

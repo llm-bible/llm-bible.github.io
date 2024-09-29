@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Pre-trained Large Language Models To Construct And Utilize World Models For Model-based Task Planning
+title: 'Leveraging Pre-trained Large Language Models To Construct And Utilize World Models For Model-based Task Planning'
 authors: Guan Lin, Valmeekam Karthik, Sreedharan Sarath, Kambhampati Subbarao
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluation Of AI Chatbots For Patient-specific EHR Questions
+title: 'Evaluation Of AI Chatbots For Patient-specific EHR Questions'
 authors: Hamidi Alaleh, Roberts Kirk
 conference: "Arxiv"
 year: 2023

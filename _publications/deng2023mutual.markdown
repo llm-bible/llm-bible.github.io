@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mutual Enhancement Of Large And Small Language Models With Cross-silo Knowledge Transfer
+title: 'Mutual Enhancement Of Large And Small Language Models With Cross-silo Knowledge Transfer'
 authors: Deng Yongheng, Qiao Ziqing, Ren Ju, Liu Yang, Zhang Yaoxue
 conference: "Arxiv"
 year: 2023

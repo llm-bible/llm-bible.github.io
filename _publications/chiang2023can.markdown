@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Large Language Models Be An Alternative To Human Evaluations?
+title: 'Can Large Language Models Be An Alternative To Human Evaluations?'
 authors: Chiang Cheng-han, Lee Hung-yi
 conference: "Arxiv"
 year: 2023

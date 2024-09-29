@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Natural Language Generation Using Reinforcement Learning With External Rewards
+title: 'Natural Language Generation Using Reinforcement Learning With External Rewards'
 authors: Srinivasan Vidhushini, Santhanam Sashank, Shaikh Samira
 conference: "Arxiv"
 year: 2019

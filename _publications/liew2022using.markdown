@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Using Large Language Models To Generate Engaging Captions For Data Visualizations
+title: 'Using Large Language Models To Generate Engaging Captions For Data Visualizations'
 authors: Liew Ashley, Mueller Klaus
 conference: "Arxiv"
 year: 2022

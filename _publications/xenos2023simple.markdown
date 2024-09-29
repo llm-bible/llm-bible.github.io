@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Simple Baseline For Knowledge-based Visual Question Answering
+title: 'A Simple Baseline For Knowledge-based Visual Question Answering'
 authors: Xenos Alexandros, Stafylakis Themos, Patras Ioannis, Tzimiropoulos Georgios
 conference: "Arxiv"
 year: 2023

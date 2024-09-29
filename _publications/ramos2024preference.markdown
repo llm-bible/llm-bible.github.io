@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Preference Distillation For Personalized Generative Recommendation
+title: 'Preference Distillation For Personalized Generative Recommendation'
 authors: Ramos Jerome, Wu Bin, Lipani Aldo
 conference: "Arxiv"
 year: 2024

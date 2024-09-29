@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transformers To Learn Hierarchical Contexts In Multiparty Dialogue For Span-based Question Answering
+title: 'Transformers To Learn Hierarchical Contexts In Multiparty Dialogue For Span-based Question Answering'
 authors: Li Changmao, Choi Jinho D.
 conference: "Arxiv"
 year: 2020

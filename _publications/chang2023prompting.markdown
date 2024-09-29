@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompting And Adapter Tuning For Self-supervised Encoder-decoder Speech Model
+title: 'Prompting And Adapter Tuning For Self-supervised Encoder-decoder Speech Model'
 authors: Chang Kai-wei, Chen Ming-hsin, Lin Yun-ping, Hsu Jing Neng, Huang Paul Kuo-ming, Huang Chien-yu, Li Shang-wen, Lee Hung-yi
 conference: "Arxiv"
 year: 2023

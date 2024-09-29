@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Audio-visual LLM For Video Understanding
+title: 'Audio-visual LLM For Video Understanding'
 authors: Shu Fangxun, Zhang Lei, Jiang Hao, Xie Cihang
 conference: "Arxiv"
 year: 2023

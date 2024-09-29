@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Interpretable Visual Question Answering Via Reasoning Supervision
+title: 'Interpretable Visual Question Answering Via Reasoning Supervision'
 authors: Parelli Maria, Mallis Dimitrios, Diomataris Markos, Pitsikalis Vassilis
 conference: "Arxiv"
 year: 2023

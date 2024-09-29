@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Explaining Large Language Model-based Neural Semantic Parsers (student Abstract)
+title: 'Explaining Large Language Model-based Neural Semantic Parsers (student Abstract)'
 authors: Rai Daking, Zhou Yilun, Wang Bailin, Yao Ziyu
 conference: "Arxiv"
 year: 2023

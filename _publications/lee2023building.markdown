@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Building Multimodal AI Chatbots
+title: 'Building Multimodal AI Chatbots'
 authors: Lee Min Young
 conference: "Arxiv"
 year: 2023

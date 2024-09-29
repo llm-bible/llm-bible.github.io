@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On The Unexpected Abilities Of Large Language Models
+title: 'On The Unexpected Abilities Of Large Language Models'
 authors: Nolfi Stefano
 conference: "Arxiv"
 year: 2023

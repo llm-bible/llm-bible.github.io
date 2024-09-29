@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Toward Automatic Relevance Judgment Using Vision--language Models For Image--text Retrieval Evaluation
+title: 'Toward Automatic Relevance Judgment Using Vision--language Models For Image--text Retrieval Evaluation'
 authors: Yang Jheng-hong, Lin Jimmy
 conference: "Arxiv"
 year: 2024

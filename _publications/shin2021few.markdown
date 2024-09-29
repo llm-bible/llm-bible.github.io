@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Few-shot Semantic Parsing With Language Models Trained On Code
+title: 'Few-shot Semantic Parsing With Language Models Trained On Code'
 authors: Shin Richard, Van Durme Benjamin
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficient LLM Context Distillation
+title: 'Efficient LLM Context Distillation'
 authors: Upadhayayaya Rajesh, Smith Zachary, Kottmyer Chritopher, Osti Manish Raj
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Supervised Visual Attention For Simultaneous Multimodal Machine Translation
+title: 'Supervised Visual Attention For Simultaneous Multimodal Machine Translation'
 authors: Haralampieva Veneta, Caglayan Ozan, Specia Lucia
 conference: "Journal of Artificial Intelligence Research"
 year: 2022

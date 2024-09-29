@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Building Knowledge-grounded Dialogue Systems With Graph-based Semantic Modeling
+title: 'Building Knowledge-grounded Dialogue Systems With Graph-based Semantic Modeling'
 authors: Yang Yizhe, Huang Heyan, Gao Yang, And Jiawei Li
 conference: "Arxiv"
 year: 2022

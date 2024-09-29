@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learnable Model Augmentation Self-supervised Learning For Sequential Recommendation
+title: 'Learnable Model Augmentation Self-supervised Learning For Sequential Recommendation'
 authors: Hao Yongjing, Zhao Pengpeng, Xian Xuefeng, Liu Guanfeng, Wang Deqing, Zhao Lei, Liu Yanchi, Sheng Victor S.
 conference: "Arxiv"
 year: 2022

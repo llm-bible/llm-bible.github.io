@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Free-text Rationale Generation Under Readability Level Control
+title: 'Free-text Rationale Generation Under Readability Level Control'
 authors: Hsu Yi-sheng, Feldhus Nils, Hakimov Sherzod
 conference: "Arxiv"
 year: 2024

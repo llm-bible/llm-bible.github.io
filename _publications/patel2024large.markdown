@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Can Self-improve At Web Agent Tasks
+title: 'Large Language Models Can Self-improve At Web Agent Tasks'
 authors: Patel Ajay, Hofmarcher Markus, Leoveanu-condrei Claudiu, Dinu Marius-constantin, Callison-burch Chris, Hochreiter Sepp
 conference: "Arxiv"
 year: 2024

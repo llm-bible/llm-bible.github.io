@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Translating Natural Language To Planning Goals With Large-language Models
+title: 'Translating Natural Language To Planning Goals With Large-language Models'
 authors: Xie Yaqi, Yu Chen, Zhu Tongyao, Bai Jinbin, Gong Ze, Soh Harold
 conference: "Arxiv"
 year: 2023

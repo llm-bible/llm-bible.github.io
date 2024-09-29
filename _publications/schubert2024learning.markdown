@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: In-context Learning Agents Are Asymmetric Belief Updaters
+title: 'In-context Learning Agents Are Asymmetric Belief Updaters'
 authors: Schubert Johannes A., Jagadish Akshay K., Binz Marcel, Schulz Eric
 conference: "Arxiv"
 year: 2024

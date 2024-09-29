@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Comparative Analysis Of CHATGPT And The Evolution Of Language Models
+title: 'Comparative Analysis Of CHATGPT And The Evolution Of Language Models'
 authors: Ogundare Oluwatosin, Araya Gustavo Quiros
 conference: "Arxiv"
 year: 2023

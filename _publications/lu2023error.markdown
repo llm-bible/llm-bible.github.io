@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Error Analysis Prompting Enables Human-like Translation Evaluation In Large Language Models
+title: 'Error Analysis Prompting Enables Human-like Translation Evaluation In Large Language Models'
 authors: Lu Qingyu, Qiu Baopu, Ding Liang, Zhang Kanjian, Kocmi Tom, Tao Dacheng
 conference: "Arxiv"
 year: 2023

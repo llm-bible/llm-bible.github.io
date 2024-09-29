@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generating Valid And Natural Adversarial Examples With Large Language Models
+title: 'Generating Valid And Natural Adversarial Examples With Large Language Models'
 authors: Wang Zimu, Wang Wei, Chen Qi, Wang Qiufeng, Nguyen Anh
 conference: "Arxiv"
 year: 2023

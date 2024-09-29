@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Large Language Models For Enhanced Process Model Comprehension
+title: 'Leveraging Large Language Models For Enhanced Process Model Comprehension'
 authors: Kourani Humam, Berti Alessandro, Henrich Jasmin, Kratsch Wolfgang, Weidlich Robin, Li Chiao-yun, Arslan Ahmad, Schuster Daniel, Van Der Aalst Wil M. P.
 conference: "Arxiv"
 year: 2024

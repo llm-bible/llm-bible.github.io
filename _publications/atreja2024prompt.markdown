@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt Design Matters For Computational Social Science Tasks But In Unpredictable Ways
+title: 'Prompt Design Matters For Computational Social Science Tasks But In Unpredictable Ways'
 authors: Atreja Shubham, Ashkinaze Joshua, Li Lingyao, Mendelsohn Julia, Hemphill Libby
 conference: "Arxiv"
 year: 2024

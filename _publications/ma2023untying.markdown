@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Untying The Reversal Curse Via Bidirectional Language Model Editing
+title: 'Untying The Reversal Curse Via Bidirectional Language Model Editing'
 authors: Ma Jun-yu, Gu Jia-chen, Ling Zhen-hua, Liu Quan, Liu Cong
 conference: "Arxiv"
 year: 2023

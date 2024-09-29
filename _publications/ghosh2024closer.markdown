@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Closer Look At The Limitations Of Instruction Tuning
+title: 'A Closer Look At The Limitations Of Instruction Tuning'
 authors: Ghosh Sreyan, Evuru Chandra Kiran Reddy, Kumar Sonal, S Ramaneswaran, Aneja Deepali, Jin Zeyu, Duraiswami Ramani, Manocha Dinesh
 conference: "Arxiv"
 year: 2024

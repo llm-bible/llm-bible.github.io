@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Black-box Robustness With In-context Rewriting
+title: 'Improving Black-box Robustness With In-context Rewriting'
 authors: O'brien Kyle, Ng Nathan, Puri Isha, Mendez Jorge, Palangi Hamid, Kim Yoon, Ghassemi Marzyeh, Hartvigsen Thomas
 conference: "Arxiv"
 year: 2024

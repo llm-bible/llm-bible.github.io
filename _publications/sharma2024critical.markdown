@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Critical Evaluation Of AI Feedback For Aligning Large Language Models
+title: 'A Critical Evaluation Of AI Feedback For Aligning Large Language Models'
 authors: Sharma Archit, Keh Sedrick, Mitchell Eric, Finn Chelsea, Arora Kushal, Kollar Thomas
 conference: "Arxiv"
 year: 2024

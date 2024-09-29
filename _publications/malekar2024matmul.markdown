@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Matmul Or No Matmul In The Era Of 1-bit Llms
+title: 'Matmul Or No Matmul In The Era Of 1-bit Llms'
 authors: Malekar Jinendra, Elbtity Mohammed E., Zand Ramtin
 conference: "Arxiv"
 year: 2024

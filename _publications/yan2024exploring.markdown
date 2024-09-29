@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring The LLM Journey From Cognition To Expression With Linear Representations
+title: 'Exploring The LLM Journey From Cognition To Expression With Linear Representations'
 authors: Yan Yuzi, Li Jialian, Zhang Yipin, Yan Dong
 conference: "Arxiv"
 year: 2024

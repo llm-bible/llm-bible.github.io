@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ranking Large Language Models Without Ground Truth
+title: 'Ranking Large Language Models Without Ground Truth'
 authors: Dhurandhar Amit, Nair Rahul, Singh Moninder, Daly Elizabeth, Ramamurthy Karthikeyan Natesan
 conference: "Arxiv"
 year: 2024

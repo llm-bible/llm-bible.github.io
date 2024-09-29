@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Large Language Models In Analysing Classroom Dialogue
+title: 'Evaluating Large Language Models In Analysing Classroom Dialogue'
 authors: Long Yun, Luo Haifeng, Zhang Yu
 conference: "Arxiv"
 year: 2024

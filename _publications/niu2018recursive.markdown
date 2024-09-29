@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recursive Visual Attention In Visual Dialog
+title: 'Recursive Visual Attention In Visual Dialog'
 authors: Niu Yulei, Zhang Hanwang, Zhang Manli, Zhang Jianhong, Lu Zhiwu, Wen Ji-rong
 conference: "Arxiv"
 year: 2018

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Supervised Knowledge Makes Large Language Models Better In-context Learners
+title: 'Supervised Knowledge Makes Large Language Models Better In-context Learners'
 authors: Yang Linyi, Zhang Shuibai, Yu Zhuohao, Bao Guangsheng, Wang Yidong, Wang Jindong, Xu Ruochen, Ye Wei, Xie Xing, Chen Weizhu, Zhang Yue
 conference: "Arxiv"
 year: 2023

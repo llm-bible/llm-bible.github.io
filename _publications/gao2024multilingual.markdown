@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multilingual Pretraining And Instruction Tuning Improve Cross-lingual Knowledge Alignment, But Only Shallowly
+title: 'Multilingual Pretraining And Instruction Tuning Improve Cross-lingual Knowledge Alignment, But Only Shallowly'
 authors: Gao Changjiang, Hu Hongda, Hu Peng, Chen Jiajun, Li Jixing, Huang Shujian
 conference: "Arxiv"
 year: 2024

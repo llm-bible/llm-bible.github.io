@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improved Visual Fine-tuning With Natural Language Supervision
+title: 'Improved Visual Fine-tuning With Natural Language Supervision'
 authors: Wang Junyang, Xu Yuanhong, Hu Juhua, Yan Ming, Sang Jitao, Qian Qi
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Negated Complementary Commonsense Using Large Language Models
+title: 'Negated Complementary Commonsense Using Large Language Models'
 authors: Rezaei Navid, Reformat Marek Z.
 conference: "Arxiv"
 year: 2023

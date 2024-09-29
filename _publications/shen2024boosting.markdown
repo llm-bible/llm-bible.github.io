@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Boosting Reward Model With Preference-conditional Multi-aspect Synthetic Data Generation
+title: 'Boosting Reward Model With Preference-conditional Multi-aspect Synthetic Data Generation'
 authors: Shen Jiaming, Xu Ran, Jun Yennie, Qin Zhen, Liu Tianqi, Yang Carl, Liang Yi, Baumgartner Simon, Bendersky Michael
 conference: "Arxiv"
 year: 2024

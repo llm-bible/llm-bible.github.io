@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey On Hallucination In Large Vision-language Models
+title: 'A Survey On Hallucination In Large Vision-language Models'
 authors: Hanchao Liu, Wenyuan Xue, Yifei Chen, Dapeng Chen, Xiutian Zhao, Ke Wang, Liping Hou, Rongjun Li, Wei Peng
 conference: "Arxiv"
 year: 2024

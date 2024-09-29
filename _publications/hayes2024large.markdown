@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Are Biased Reinforcement Learners
+title: 'Large Language Models Are Biased Reinforcement Learners'
 authors: Hayes William M., Yax Nicolas, Palminteri Stefano
 conference: "Arxiv"
 year: 2024

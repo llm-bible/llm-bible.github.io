@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Speculative Decoding Via Early-exiting For Faster LLM Inference With Thompson Sampling Control Mechanism
+title: 'Speculative Decoding Via Early-exiting For Faster LLM Inference With Thompson Sampling Control Mechanism'
 authors: Liu Jiahao, Wang Qifan, Wang Jingang, Cai Xunliang
 conference: "Arxiv"
 year: 2024

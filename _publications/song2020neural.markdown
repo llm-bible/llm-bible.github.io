@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Neural Machine Translation With Error Correction
+title: 'Neural Machine Translation With Error Correction'
 authors: Song Kaitao, Tan Xu, Lu Jianfeng
 conference: "Arxiv"
 year: 2020

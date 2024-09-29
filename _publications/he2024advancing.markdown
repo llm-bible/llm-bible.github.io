@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Advancing Process Verification For Large Language Models Via Tree-based Preference Learning
+title: 'Advancing Process Verification For Large Language Models Via Tree-based Preference Learning'
 authors: He Mingqian, Shen Yongliang, Zhang Wenqi, Tan Zeqi, Lu Weiming
 conference: "Arxiv"
 year: 2024

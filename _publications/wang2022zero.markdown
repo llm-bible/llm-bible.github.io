@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zero-shot Image Captioning By Anchor-augmented Vision-language Space Alignment
+title: 'Zero-shot Image Captioning By Anchor-augmented Vision-language Space Alignment'
 authors: Wang Junyang, Zhang Yi, Yan Ming, Zhang Ji, Sang Jitao
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Low-cost Transformer Model Compression For Large-scale Commercial Reply Suggestions
+title: 'Exploring Low-cost Transformer Model Compression For Large-scale Commercial Reply Suggestions'
 authors: Shrivastava Vaishnavi, Gaonkar Radhika, Gupta Shashank, Jha Abhishek
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Limits Of Large Language Models In Debating Humans
+title: 'Limits Of Large Language Models In Debating Humans'
 authors: Flamino James, Modi Mohammed Shahid, Szymanski Boleslaw K., Cross Brendan, Mikolajczyk Colton
 conference: "Arxiv"
 year: 2024

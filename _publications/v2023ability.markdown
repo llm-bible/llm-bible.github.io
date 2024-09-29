@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: In-context Ability Transfer For Question Decomposition In Complex QA
+title: 'In-context Ability Transfer For Question Decomposition In Complex QA'
 authors: V Venktesh, Bhattacharya Sourangshu, Anand Avishek
 conference: "Arxiv"
 year: 2023

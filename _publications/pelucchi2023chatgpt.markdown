@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatgpt Prompting Cannot Estimate Predictive Uncertainty In High-resource Languages
+title: 'Chatgpt Prompting Cannot Estimate Predictive Uncertainty In High-resource Languages'
 authors: Pelucchi Martino, Valdenegro-toro Matias
 conference: "Arxiv"
 year: 2023

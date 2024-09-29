@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Models With Transformers
+title: 'Language Models With Transformers'
 authors: Wang Chenguang, Li Mu, Smola Alexander J.
 conference: "Arxiv"
 year: 2019

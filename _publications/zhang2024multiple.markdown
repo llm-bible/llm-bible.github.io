@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multiple-choice Questions Are Efficient And Robust LLM Evaluators
+title: 'Multiple-choice Questions Are Efficient And Robust LLM Evaluators'
 authors: Zhang Ziyin, Jiang Zhaokun, Xu Lizhen, Hao Hongkun, Wang Rui
 conference: "Arxiv"
 year: 2024

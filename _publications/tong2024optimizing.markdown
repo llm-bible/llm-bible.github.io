@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Optimizing Language Model''s Reasoning Abilities With Weak Supervision
+title: 'Optimizing Language Model''s Reasoning Abilities With Weak Supervision'
 authors: Tong Yongqi, Wang Sizhe, Li Dawei, Wang Yifan, Han Simeng, Lin Zi, Huang Chengsong, Huang Jiaxin, Shang Jingbo
 conference: "Arxiv"
 year: 2024

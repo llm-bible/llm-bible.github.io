@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Medical Dialogue Response Generation With Pivotal Information Recalling
+title: 'Medical Dialogue Response Generation With Pivotal Information Recalling'
 authors: Zhao Yu, Li Yunxin, Wu Yuxiang, Hu Baotian, Chen Qingcai, Wang Xiaolong, Ding Yuxin, Zhang Min
 conference: "Arxiv"
 year: 2022

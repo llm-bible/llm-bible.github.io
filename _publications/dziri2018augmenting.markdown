@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Augmenting Neural Response Generation With Context-aware Topical Attention
+title: 'Augmenting Neural Response Generation With Context-aware Topical Attention'
 authors: Dziri Nouha, Kamalloo Ehsan, Mathewson Kory W., Zaiane Osmar
 conference: "Arxiv"
 year: 2018

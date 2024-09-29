@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Event Temporal Relation Extraction Based On Retrieval-augmented On Llms
+title: 'Event Temporal Relation Extraction Based On Retrieval-augmented On Llms'
 authors: Zhang Xiaobin, Zang Liangjun, Liu Qianwen, Wei Shuchong, Hu Songlin
 conference: "Arxiv"
 year: 2024

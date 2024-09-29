@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt Perturbation In Retrieval-augmented Generation Based Large Language Models
+title: 'Prompt Perturbation In Retrieval-augmented Generation Based Large Language Models'
 authors: Hu Zhibo Hye-young, Wang Chen Hye-young, Shu Yanfeng Hye-young, Helen Hye-young, Paik, Zhu Liming
 conference: "Arxiv"
 year: 2024

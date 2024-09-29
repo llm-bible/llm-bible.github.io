@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Federated Full-parameter Tuning Of Billion-sized Language Models With Communication Cost Under 18 Kilobytes
+title: 'Federated Full-parameter Tuning Of Billion-sized Language Models With Communication Cost Under 18 Kilobytes'
 authors: Qin Zhen, Chen Daoyuan, Qian Bingchen, Ding Bolin, Li Yaliang, Deng Shuiguang
 conference: "Arxiv"
 year: 2023

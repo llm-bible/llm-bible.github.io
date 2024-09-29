@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Text Generation With Text-editing Models
+title: 'Text Generation With Text-editing Models'
 authors: Malmi Eric, Dong Yue, Mallinson Jonathan, Chuklin Aleksandr, Adamek Jakub, Mirylenka Daniil, Stahlberg Felix, Krause Sebastian, Kumar Shankar, Severyn Aliaksei
 conference: "Arxiv"
 year: 2022

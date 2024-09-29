@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Coupling Large Language Models With Logic Programming For Robust And General Reasoning From Text
+title: 'Coupling Large Language Models With Logic Programming For Robust And General Reasoning From Text'
 authors: Yang Zhun, Ishay Adam, Lee Joohyung
 conference: "Arxiv"
 year: 2023

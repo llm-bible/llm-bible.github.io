@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Revisiting Visual Question Answering Baselines
+title: 'Revisiting Visual Question Answering Baselines'
 authors: Jabri Allan, Joulin Armand, Van Der Maaten Laurens
 conference: "Arxiv"
 year: 2016

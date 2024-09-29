@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Query Understanding In The Age Of Large Language Models
+title: 'Query Understanding In The Age Of Large Language Models'
 authors: Anand Avishek, V Venktesh, Anand Abhijit, Setty Vinay
 conference: "Arxiv"
 year: 2023

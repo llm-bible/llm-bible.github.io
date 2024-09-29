@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: It''s All Relative! -- A Synthetic Query Generation Approach For Improving Zero-shot Relevance Prediction
+title: 'It''s All Relative! -- A Synthetic Query Generation Approach For Improving Zero-shot Relevance Prediction'
 authors: Chaudhary Aditi, Raman Karthik, Bendersky Michael
 conference: "Arxiv"
 year: 2023

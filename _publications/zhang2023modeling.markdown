@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Modeling Sequential Sentence Relation To Improve Cross-lingual Dense Retrieval
+title: 'Modeling Sequential Sentence Relation To Improve Cross-lingual Dense Retrieval'
 authors: Zhang Shunyu, Liang Yaobo, Gong Ming, Jiang Daxin, Duan Nan
 conference: "Arxiv"
 year: 2023

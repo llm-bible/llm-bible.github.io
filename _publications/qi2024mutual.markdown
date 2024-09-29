@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mutual Reasoning Makes Smaller Llms Stronger Problem-solvers
+title: 'Mutual Reasoning Makes Smaller Llms Stronger Problem-solvers'
 authors: Qi Zhenting, Ma Mingyuan, Xu Jiahang, Zhang Li Lyna, Yang Fan, Yang Mao
 conference: "Arxiv"
 year: 2024

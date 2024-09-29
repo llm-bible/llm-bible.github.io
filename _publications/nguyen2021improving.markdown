@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Transformers With Probabilistic Attention Keys
+title: 'Improving Transformers With Probabilistic Attention Keys'
 authors: Nguyen Tam, Nguyen Tan M., Le Dung D., Nguyen Duy Khuong, Tran Viet-anh, Baraniuk Richard G., Ho Nhat, Osher Stanley J.
 conference: "Proceedings of the"
 year: 2021

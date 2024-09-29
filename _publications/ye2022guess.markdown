@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Guess The Instruction! Flipped Learning Makes Language Models Stronger Zero-shot Learners
+title: 'Guess The Instruction! Flipped Learning Makes Language Models Stronger Zero-shot Learners'
 authors: Ye Seonghyeon, Kim Doyoung, Jang Joel, Shin Joongbo, Seo Minjoon
 conference: "Arxiv"
 year: 2022

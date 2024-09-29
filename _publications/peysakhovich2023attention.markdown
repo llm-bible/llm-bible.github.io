@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attention Sorting Combats Recency Bias In Long Context Language Models
+title: 'Attention Sorting Combats Recency Bias In Long Context Language Models'
 authors: Peysakhovich Alexander, Lerer Adam
 conference: "Arxiv"
 year: 2023

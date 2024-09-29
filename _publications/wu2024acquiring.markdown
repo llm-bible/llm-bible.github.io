@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Acquiring Clean Language Models From Backdoor Poisoned Datasets By Downscaling Frequency Space
+title: 'Acquiring Clean Language Models From Backdoor Poisoned Datasets By Downscaling Frequency Space'
 authors: Wu Zongru, Zhang Zhuosheng, Cheng Pengzhou, Liu Gongshen
 conference: "Arxiv"
 year: 2024

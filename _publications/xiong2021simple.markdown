@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Simple Local Attentions Remain Competitive For Long-context Tasks
+title: 'Simple Local Attentions Remain Competitive For Long-context Tasks'
 authors: Xiong Wenhan, Oğuz Barlas, Gupta Anchit, Chen Xilun, Liskovich Diana, Levy Omer, Yih Wen-tau, Mehdad Yashar
 conference: "Arxiv"
 year: 2021

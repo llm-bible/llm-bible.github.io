@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Contextual Biasing Of Language Models For Speech Recognition In Goal-oriented Conversational Agents
+title: 'Contextual Biasing Of Language Models For Speech Recognition In Goal-oriented Conversational Agents'
 authors: Shenoy Ashish, Bodapati Sravan, Kirchhoff Katrin
 conference: "Arxiv"
 year: 2021

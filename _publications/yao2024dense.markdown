@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dense Connector For Mllms
+title: 'Dense Connector For Mllms'
 authors: Yao Huanjin, Wu Wenhao, Yang Taojiannan, Song Yuxin, Zhang Mengxi, Feng Haocheng, Sun Yifan, Li Zhiheng, Ouyang Wanli, Wang Jingdong
 conference: "Arxiv"
 year: 2024

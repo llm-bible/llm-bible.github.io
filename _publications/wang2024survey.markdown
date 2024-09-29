@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey For Large Language Models In Biomedicine
+title: 'A Survey For Large Language Models In Biomedicine'
 authors: Wang Chong, Li Mengyao, He Junjun, Wang Zhongruo, Darzi Erfan, Chen Zan, Ye Jin, Li Tianbin, Su Yanzhou, Ke Jing, Qu Kaili, Li Shuxin, Yu Yi, Liò Pietro, Wang Tianyun, Wang Yu Guang, Shen Yiqing
 conference: "Arxiv"
 year: 2024

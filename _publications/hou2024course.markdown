@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Course Shared Task On Evaluating LLM Output For Clinical Questions
+title: 'A Course Shared Task On Evaluating LLM Output For Clinical Questions'
 authors: Hou Yufang, Tran Thy Thy, Vu Doan Nam Long, Cao Yiwen, Li Kai, Rohde Lukas, Gurevych Iryna
 conference: "Arxiv"
 year: 2024

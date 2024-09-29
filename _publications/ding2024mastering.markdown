@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mastering Text, Code And Math Simultaneously Via Fusing Highly Specialized Language Models
+title: 'Mastering Text, Code And Math Simultaneously Via Fusing Highly Specialized Language Models'
 authors: Ding Ning, Chen Yulin, Cui Ganqu, Lv Xingtai, Zhao Weilin, Xie Ruobing, Zhou Bowen, Liu Zhiyuan, Sun Maosong
 conference: "Arxiv"
 year: 2024

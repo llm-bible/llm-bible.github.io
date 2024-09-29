@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Help Humans Verify Truthfulness -- Except When They Are Convincingly Wrong
+title: 'Large Language Models Help Humans Verify Truthfulness -- Except When They Are Convincingly Wrong'
 authors: Si Chenglei, Goyal Navita, Wu Sherry Tongshuang, Zhao Chen, Feng Shi, Daumé Hal Iii, Boyd-graber Jordan
 conference: "Arxiv"
 year: 2023

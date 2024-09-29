@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Models Are General-purpose Interfaces
+title: 'Language Models Are General-purpose Interfaces'
 authors: Yaru Hao, Haoyu Song, Li Dong, Shaohan Huang, Zewen Chi, Wenhui Wang, Shuming Ma, Furu Wei
 conference: "Arxiv"
 year: 2022

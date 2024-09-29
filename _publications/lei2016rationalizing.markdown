@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rationalizing Neural Predictions
+title: 'Rationalizing Neural Predictions'
 authors: Lei Tao, Barzilay Regina, Jaakkola Tommi
 conference: "Arxiv"
 year: 2016

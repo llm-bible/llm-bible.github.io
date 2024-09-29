@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jailbreaking Proprietary Large Language Models Using Word Substitution Cipher
+title: 'Jailbreaking Proprietary Large Language Models Using Word Substitution Cipher'
 authors: Handa Divij, Chirmule Advait, Gajera Bimal, Baral Chitta
 conference: "Arxiv"
 year: 2024

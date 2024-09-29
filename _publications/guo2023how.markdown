@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Close Is Chatgpt To Human Experts? Comparison Corpus, Evaluation, And Detection
+title: 'How Close Is Chatgpt To Human Experts? Comparison Corpus, Evaluation, And Detection'
 authors: Biyang Guo, Xin Zhang, Ziyuan Wang, Minqi Jiang, Jinran Nie, Yuxuan Ding, Jianwei Yue, Yupeng Wu
 conference: "Arxiv"
 year: 2023

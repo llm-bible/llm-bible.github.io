@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Likelihood-based Mitigation Of Evaluation Bias In Large Language Models
+title: 'Likelihood-based Mitigation Of Evaluation Bias In Large Language Models'
 authors: Ohi Masanari, Kaneko Masahiro, Koike Ryuto, Loem Mengsay, Okazaki Naoaki
 conference: "Arxiv"
 year: 2024

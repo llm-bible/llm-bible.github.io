@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Explaining Patterns In Data With Language Models Via Interpretable Autoprompting
+title: 'Explaining Patterns In Data With Language Models Via Interpretable Autoprompting'
 authors: Singh Chandan, Morris John X., Aneja Jyoti, Rush Alexander M., Gao Jianfeng
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Selective Demonstrations For Cross-domain Text-to-sql
+title: 'Selective Demonstrations For Cross-domain Text-to-sql'
 authors: Chang Shuaichen, Fosler-lussier Eric
 conference: "Arxiv"
 year: 2023

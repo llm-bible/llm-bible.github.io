@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Amr-to-text Generation With Cache Transition Systems
+title: 'Amr-to-text Generation With Cache Transition Systems'
 authors: Jin Lisa, Gildea Daniel
 conference: "Arxiv"
 year: 2019

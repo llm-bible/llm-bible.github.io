@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chain Of Thought Prompt Tuning In Vision Language Models
+title: 'Chain Of Thought Prompt Tuning In Vision Language Models'
 authors: Jiaxin Ge, Hongyin Luo, Siyuan Qian, Yulu Gan, Jie Fu, Shanghang Zhang
 conference: "Arxiv"
 year: 2023

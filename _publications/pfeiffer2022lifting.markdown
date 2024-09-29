@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lifting The Curse Of Multilinguality By Pre-training Modular Transformers
+title: 'Lifting The Curse Of Multilinguality By Pre-training Modular Transformers'
 authors: Pfeiffer Jonas, Goyal Naman, Lin Xi Victoria, Li Xian, Cross James, Riedel Sebastian, Artetxe Mikel
 conference: "Arxiv"
 year: 2022

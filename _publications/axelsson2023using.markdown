@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Using Large Language Models For Zero-shot Natural Language Generation From Knowledge Graphs
+title: 'Using Large Language Models For Zero-shot Natural Language Generation From Knowledge Graphs'
 authors: Axelsson Agnes, Skantze Gabriel
 conference: "Arxiv"
 year: 2023

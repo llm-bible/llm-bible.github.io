@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Personality-aware Student Simulation For Conversational Intelligent Tutoring Systems
+title: 'Personality-aware Student Simulation For Conversational Intelligent Tutoring Systems'
 authors: Liu Zhengyuan, Yin Stella Xin, Lin Geyu, Chen Nancy F.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Quantifying And Analyzing Entity-level Memorization In Large Language Models
+title: 'Quantifying And Analyzing Entity-level Memorization In Large Language Models'
 authors: Zhou Zhenhong, Xiang Jiuyang, Chen Chaomeng, Su Sen
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring And Exploiting Multi-granularity Representations For Machine Reading Comprehension
+title: 'Exploring And Exploiting Multi-granularity Representations For Machine Reading Comprehension'
 authors: Chen Nuo, You Chenyu
 conference: "Arxiv"
 year: 2022

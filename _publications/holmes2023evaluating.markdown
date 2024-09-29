@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Large Language Models On A Highly-specialized Topic, Radiation Oncology Physics
+title: 'Evaluating Large Language Models On A Highly-specialized Topic, Radiation Oncology Physics'
 authors: Holmes Jason, Liu Zhengliang, Zhang Lian, Ding Yuzhen, Sio Terence T., Mcgee Lisa A., Ashman Jonathan B., Li Xiang, Liu Tianming, Shen Jiajian, Liu Wei
 conference: "Arxiv"
 year: 2023

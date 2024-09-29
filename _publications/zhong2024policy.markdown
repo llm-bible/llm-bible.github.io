@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Policy Improvement Using Language Feedback Models
+title: 'Policy Improvement Using Language Feedback Models'
 authors: Zhong Victor, Misra Dipendra, Yuan Xingdi, Côté Marc-alexandre
 conference: "Arxiv"
 year: 2024

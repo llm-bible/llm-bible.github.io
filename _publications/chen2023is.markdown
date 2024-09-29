@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is Bigger And Deeper Always Better? Probing Llama Across Scales And Layers
+title: 'Is Bigger And Deeper Always Better? Probing Llama Across Scales And Layers'
 authors: Chen Nuo, Wu Ning, Liang Shining, Gong Ming, Shou Linjun, Zhang Dongmei, Li Jia
 conference: "Arxiv"
 year: 2023

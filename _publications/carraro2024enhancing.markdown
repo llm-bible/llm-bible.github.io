@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Recommendation Diversity By Re-ranking With Large Language Models
+title: 'Enhancing Recommendation Diversity By Re-ranking With Large Language Models'
 authors: Diego Carraro, Derek Bridge
 conference: "Arxiv"
 year: 2024

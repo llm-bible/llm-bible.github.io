@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transformer-based Causal Language Models Perform Clustering
+title: 'Transformer-based Causal Language Models Perform Clustering'
 authors: Wu Xinbo, Varshney Lav R.
 conference: "Arxiv"
 year: 2024

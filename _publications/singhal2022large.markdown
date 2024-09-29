@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Encode Clinical Knowledge
+title: 'Large Language Models Encode Clinical Knowledge'
 authors: Singhal Karan, Azizi Shekoofeh, Tu Tao, Mahdavi S. Sara, Wei Jason, Chung Hyung Won, Scales Nathan, Tanwani Ajay, Cole-lewis Heather, Pfohl Stephen, Payne Perry, Seneviratne Martin, Gamble Paul, Kelly Chris, Scharli Nathaneal, Chowdhery Aakanksha, Mansfield Philip, Arcas Blaise Aguera Y, Webster Dale, Corrado Greg S., Matias Yossi, Chou Katherine, Gottweis Juraj, Tomasev Nenad, Liu Yun, Rajkomar Alvin, Barral Joelle, Semturs Christopher, Karthikesalingam Alan, Natarajan Vivek
 conference: "Arxiv"
 year: 2022

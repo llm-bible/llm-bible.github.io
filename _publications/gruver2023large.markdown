@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Are Zero-shot Time Series Forecasters
+title: 'Large Language Models Are Zero-shot Time Series Forecasters'
 authors: Gruver Nate, Finzi Marc, Qiu Shikai, Wilson Andrew Gordon
 conference: "Arxiv"
 year: 2023

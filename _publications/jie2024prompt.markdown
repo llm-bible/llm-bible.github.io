@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt-based Length Controlled Generation With Multiple Control Types
+title: 'Prompt-based Length Controlled Generation With Multiple Control Types'
 authors: Jie Renlong, Meng Xiaojun, Shang Lifeng, Jiang Xin, Liu Qun
 conference: "Arxiv"
 year: 2024

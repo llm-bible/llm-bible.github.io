@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pre-trained Language Models Do Not Help Auto-regressive Text-to-image Generation
+title: 'Pre-trained Language Models Do Not Help Auto-regressive Text-to-image Generation'
 authors: Zhang Yuhui, Mckinzie Brandon, Gan Zhe, Shankar Vaishaal, Toshev Alexander
 conference: "Arxiv"
 year: 2023

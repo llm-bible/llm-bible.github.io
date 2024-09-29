@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Contrastive Decoding Improves Reasoning In Large Language Models
+title: 'Contrastive Decoding Improves Reasoning In Large Language Models'
 authors: O'brien Sean, Lewis Mike
 conference: "Arxiv"
 year: 2023

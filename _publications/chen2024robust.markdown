@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Robust And Scalable Model Editing For Large Language Models
+title: 'Robust And Scalable Model Editing For Large Language Models'
 authors: Chen Yingfa, Zhang Zhengyan, Han Xu, Xiao Chaojun, Liu Zhiyuan, Chen Chen, Li Kuai, Yang Tao, Sun Maosong
 conference: "Arxiv"
 year: 2024

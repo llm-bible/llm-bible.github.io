@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are Large Language Models Good Prompt Optimizers?
+title: 'Are Large Language Models Good Prompt Optimizers?'
 authors: Ma Ruotian, Wang Xiaolei, Zhou Xin, Li Jian, Du Nan, Gui Tao, Zhang Qi, Huang Xuanjing
 conference: "Arxiv"
 year: 2024

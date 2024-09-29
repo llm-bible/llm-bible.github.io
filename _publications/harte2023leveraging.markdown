@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Large Language Models For Sequential Recommendation
+title: 'Leveraging Large Language Models For Sequential Recommendation'
 authors: Harte Jesse, Zorgdrager Wouter, Louridas Panos, Katsifodimos Asterios, Jannach Dietmar, Fragkoulis Marios
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Red-teaming Large Language Models Using Chain Of Utterances For Safety-alignment
+title: 'Red-teaming Large Language Models Using Chain Of Utterances For Safety-alignment'
 authors: Bhardwaj Rishabh, Poria Soujanya
 conference: "Arxiv"
 year: 2023

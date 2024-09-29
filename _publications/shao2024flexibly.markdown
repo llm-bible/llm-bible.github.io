@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Flexibly Scaling Large Language Models Contexts Through Extensible Tokenization
+title: 'Flexibly Scaling Large Language Models Contexts Through Extensible Tokenization'
 authors: Shao Ninglu, Xiao Shitao, Liu Zheng, Zhang Peitian
 conference: "Arxiv"
 year: 2024

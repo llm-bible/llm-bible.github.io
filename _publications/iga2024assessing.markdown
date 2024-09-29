@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Assessing Llms Suitability For Knowledge Graph Completion
+title: 'Assessing Llms Suitability For Knowledge Graph Completion'
 authors: Iga Vasile Ionut Remus, Silaghi Gheorghe Cosmin
 conference: "Arxiv"
 year: 2024

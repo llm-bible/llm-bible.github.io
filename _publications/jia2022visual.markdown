@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Visual Prompt Tuning
+title: 'Visual Prompt Tuning'
 authors: Jia Menglin, Tang Luming, Chen Bor-chun, Cardie Claire, Belongie Serge, Hariharan Bharath, Lim Ser-nam
 conference: "Arxiv"
 year: 2022

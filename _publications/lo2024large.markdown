@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Relearn Removed Concepts
+title: 'Large Language Models Relearn Removed Concepts'
 authors: Lo Michelle, Cohen Shay B., Barez Fazl
 conference: "Arxiv"
 year: 2024

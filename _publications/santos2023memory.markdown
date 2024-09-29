@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Memory Augmented Language Models Through Mixture Of Word Experts
+title: 'Memory Augmented Language Models Through Mixture Of Word Experts'
 authors: Santos Cicero Nogueira Dos, Lee-thorp James, Noble Isaac, Chang Chung-ching, Uthus David
 conference: "Arxiv"
 year: 2023

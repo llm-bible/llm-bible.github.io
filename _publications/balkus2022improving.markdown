@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Short Text Classification With Augmented Data Using GPT-3
+title: 'Improving Short Text Classification With Augmented Data Using GPT-3'
 authors: Balkus Salvador, Yan Donghui
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Verifiable Text Generation With Symbolic References
+title: 'Towards Verifiable Text Generation With Symbolic References'
 authors: Hennigen Lucas Torroba, Shen Shannon, Nrusimha Aniruddha, Gapp Bernhard, Sontag David, Kim Yoon
 conference: "Arxiv"
 year: 2023

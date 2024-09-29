@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Spoken Language Intelligence Of Large Language Models For Language Learning
+title: 'Spoken Language Intelligence Of Large Language Models For Language Learning'
 authors: Peng Linkai, Nuchged Baorian, Gao Yingming
 conference: "Arxiv"
 year: 2023

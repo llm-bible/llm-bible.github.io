@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Neural Conversation Generation Model Via Equivalent Shared Memory Investigation
+title: 'A Neural Conversation Generation Model Via Equivalent Shared Memory Investigation'
 authors: Ji Changzhen, Zhang Yating, Liu Xiaozhong, Jatowt Adam, Sun Changlong, Zhu Conghui, Zhao Tiejun
 conference: "Arxiv"
 year: 2021

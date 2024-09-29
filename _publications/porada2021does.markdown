@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Does Pre-training Induce Systematic Inference? How Masked Language Models Acquire Commonsense Knowledge
+title: 'Does Pre-training Induce Systematic Inference? How Masked Language Models Acquire Commonsense Knowledge'
 authors: Porada Ian, Sordoni Alessandro, Cheung Jackie Chi Kit
 conference: "Arxiv"
 year: 2021

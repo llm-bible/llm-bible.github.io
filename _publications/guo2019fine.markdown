@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-tuning By Curriculum Learning For Non-autoregressive Neural Machine Translation
+title: 'Fine-tuning By Curriculum Learning For Non-autoregressive Neural Machine Translation'
 authors: Guo Junliang, Tan Xu, Xu Linli, Qin Tao, Chen Enhong, Liu Tie-yan
 conference: "Arxiv"
 year: 2019

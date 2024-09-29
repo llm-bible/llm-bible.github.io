@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Language Models For Emotion And Behavior Analysis In Education
+title: 'Leveraging Language Models For Emotion And Behavior Analysis In Education'
 authors: Tanaka Kaito, Tan Benjamin, Wong Brian
 conference: "Arxiv"
 year: 2024

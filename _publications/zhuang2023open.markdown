@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Open-source Large Language Models Are Strong Zero-shot Query Likelihood Models For Document Ranking
+title: 'Open-source Large Language Models Are Strong Zero-shot Query Likelihood Models For Document Ranking'
 authors: Zhuang Shengyao, Liu Bing, Koopman Bevan, Zuccon Guido
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Calibrated Large Language Models For Binary Question Answering
+title: 'Calibrated Large Language Models For Binary Question Answering'
 authors: Giovannotti Patrizio, Gammerman Alexander
 conference: "Arxiv"
 year: 2024

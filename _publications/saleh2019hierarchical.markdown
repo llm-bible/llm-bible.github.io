@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hierarchical Reinforcement Learning For Open-domain Dialog
+title: 'Hierarchical Reinforcement Learning For Open-domain Dialog'
 authors: Saleh Abdelrhman, Jaques Natasha, Ghandeharioun Asma, Shen Judy Hanwen, Picard Rosalind
 conference: "Arxiv"
 year: 2019

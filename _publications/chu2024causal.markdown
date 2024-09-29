@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Causal Explainable Guardrails For Large Language Models
+title: 'A Causal Explainable Guardrails For Large Language Models'
 authors: Chu Zhixuan, Wang Yan, Li Longfei, Wang Zhibo, Qin Zhan, Ren Kui
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is Mamba Capable Of In-context Learning?
+title: 'Is Mamba Capable Of In-context Learning?'
 authors: Grazzi Riccardo, Siems Julien, Schrodi Simon, Brox Thomas, Hutter Frank
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Factual Consistency Of Text Summarization By Adversarially Decoupling Comprehension And Embellishment Abilities Of Llms
+title: 'Improving Factual Consistency Of Text Summarization By Adversarially Decoupling Comprehension And Embellishment Abilities Of Llms'
 authors: Feng Huawen, Fan Yan, Liu Xiong, Lin Ting-en, Yao Zekun, Wu Yuchuan, Huang Fei, Li Yongbin, Ma Qianli
 conference: "Arxiv"
 year: 2023

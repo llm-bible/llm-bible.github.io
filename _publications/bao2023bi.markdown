@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Bi-step Grounding Paradigm For Large Language Models In Recommendation Systems
+title: 'A Bi-step Grounding Paradigm For Large Language Models In Recommendation Systems'
 authors: Bao Keqin, Zhang Jizhi, Wang Wenjie, Zhang Yang, Yang Zhengyi, Luo Yancheng, Chen Chong, Feng Fuli, Tian Qi
 conference: "Arxiv"
 year: 2023

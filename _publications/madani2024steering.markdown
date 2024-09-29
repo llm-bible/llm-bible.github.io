@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Steering Conversational Large Language Models For Long Emotional Support Conversations
+title: 'Steering Conversational Large Language Models For Long Emotional Support Conversations'
 authors: Madani Navid, Saha Sougata, Srihari Rohini
 conference: "Arxiv"
 year: 2024

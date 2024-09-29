@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Does Fine-tuning GPT-3 With The Openai API Leak Personally-identifiable Information?
+title: 'Does Fine-tuning GPT-3 With The Openai API Leak Personally-identifiable Information?'
 authors: Sun Albert Yu, Zemour Eliott, Saxena Arushi, Vaidyanathan Udith, Lin Eric, Lau Christian, Mugunthan Vaikkunth
 conference: "Arxiv"
 year: 2023

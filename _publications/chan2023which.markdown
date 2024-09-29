@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Which Spurious Correlations Impact Reasoning In NLI Models? A Visual Interactive Diagnosis Through Data-constrained Counterfactuals
+title: 'Which Spurious Correlations Impact Reasoning In NLI Models? A Visual Interactive Diagnosis Through Data-constrained Counterfactuals'
 authors: Chan Robin, Amini Afra, El-assady Mennatallah
 conference: "Arxiv"
 year: 2023

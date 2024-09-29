@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lightweight Cross-lingual Sentence Representation Learning
+title: 'Lightweight Cross-lingual Sentence Representation Learning'
 authors: Mao Zhuoyuan, Gupta Prakhar, Wang Pei, Chu Chenhui, Jaggi Martin, Kurohashi Sadao
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On The Intersection Of Self-correction And Trust In Language Models
+title: 'On The Intersection Of Self-correction And Trust In Language Models'
 authors: Krishna Satyapriya
 conference: "Arxiv"
 year: 2023

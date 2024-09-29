@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Reliable AI Chatbots Are For Disease Prediction From Patient Complaints?
+title: 'How Reliable AI Chatbots Are For Disease Prediction From Patient Complaints?'
 authors: Nipu Ayesha Siddika, Islam K M Sajjadul, Madiraju Praveen
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Training Verifiers To Solve Math Word Problems
+title: 'Training Verifiers To Solve Math Word Problems'
 authors: Cobbe Karl, Kosaraju Vineet, Bavarian Mohammad, Chen Mark, Jun Heewoo, Kaiser Lukasz, Plappert Matthias, Tworek Jerry, Hilton Jacob, Nakano Reiichiro, Hesse Christopher, Schulman John
 conference: "Arxiv"
 year: 2021

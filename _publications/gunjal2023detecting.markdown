@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Detecting And Preventing Hallucinations In Large Vision Language Models
+title: 'Detecting And Preventing Hallucinations In Large Vision Language Models'
 authors: Anisha Gunjal, Jihan Yin, Erhan Bas
 conference: "Arxiv"
 year: 2023

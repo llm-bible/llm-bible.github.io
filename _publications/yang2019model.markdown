@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Model Compression With Two-stage Multi-teacher Knowledge Distillation For Web Question Answering System
+title: 'Model Compression With Two-stage Multi-teacher Knowledge Distillation For Web Question Answering System'
 authors: Yang Ze, Shou Linjun, Gong Ming, Lin Wutao, Jiang Daxin
 conference: "Arxiv"
 year: 2019

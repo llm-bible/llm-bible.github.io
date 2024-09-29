@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Repetition Improves Language Model Embeddings
+title: 'Repetition Improves Language Model Embeddings'
 authors: Springer Jacob Mitchell, Kotha Suhas, Fried Daniel, Neubig Graham, Raghunathan Aditi
 conference: "Arxiv"
 year: 2024

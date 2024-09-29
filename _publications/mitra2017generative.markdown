@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Generative Approach To Question Answering
+title: 'A Generative Approach To Question Answering'
 authors: Mitra Rajarshee
 conference: "Arxiv"
 year: 2017

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Small Language Models Need Strong Verifiers To Self-correct Reasoning
+title: 'Small Language Models Need Strong Verifiers To Self-correct Reasoning'
 authors: Zhang Yunxiang, Khalifa Muhammad, Logeswaran Lajanugen, Kim Jaekyeom, Lee Moontae, Lee Honglak, Wang Lu
 conference: "Arxiv"
 year: 2024

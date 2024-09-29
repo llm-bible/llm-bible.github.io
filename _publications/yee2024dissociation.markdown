@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dissociation Of Faithful And Unfaithful Reasoning In Llms
+title: 'Dissociation Of Faithful And Unfaithful Reasoning In Llms'
 authors: Yee Evelyn, Li Alice, Tang Chenyu, Jung Yeon Ho, Paturi Ramamohan, Bergen Leon
 conference: "Arxiv"
 year: 2024

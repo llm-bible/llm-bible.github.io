@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Fine Can Fine-tuning Be? Learning Efficient Language Models
+title: 'How Fine Can Fine-tuning Be? Learning Efficient Language Models'
 authors: Radiya-dixit Evani, Wang Xin
 conference: "Arxiv"
 year: 2020

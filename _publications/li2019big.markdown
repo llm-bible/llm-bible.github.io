@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Big Bidirectional Insertion Representations For Documents
+title: 'Big Bidirectional Insertion Representations For Documents'
 authors: Li Lala, Chan William
 conference: "Arxiv"
 year: 2019

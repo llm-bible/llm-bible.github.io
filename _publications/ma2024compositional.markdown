@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Compositional API Recommendation For Library-oriented Code Generation
+title: 'Compositional API Recommendation For Library-oriented Code Generation'
 authors: Ma Zexiong, An Shengnan, Xie Bing, Lin Zeqi
 conference: ""
 year: 2024

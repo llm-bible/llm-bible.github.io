@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding The Capabilities Of Large Language Models For Automated Planning
+title: 'Understanding The Capabilities Of Large Language Models For Automated Planning'
 authors: Pallagani Vishal, Muppasani Bharath, Murugesan Keerthiram, Rossi Francesca, Srivastava Biplav, Horesh Lior, Fabiano Francesco, Loreggia Andrea
 conference: "Arxiv"
 year: 2023

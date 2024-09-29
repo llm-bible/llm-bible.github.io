@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-tuning Language Models With Generative Adversarial Reward Modelling
+title: 'Fine-tuning Language Models With Generative Adversarial Reward Modelling'
 authors: Yu Zhang Ze, Jaw Lau Jia, Hui Zhang, Low Bryan Kian Hsiang
 conference: "Arxiv"
 year: 2023

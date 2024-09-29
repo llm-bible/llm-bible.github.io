@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Nearest Neighbor Machine Translation
+title: 'Nearest Neighbor Machine Translation'
 authors: Khandelwal Urvashi, Fan Angela, Jurafsky Dan, Zettlemoyer Luke, Lewis Mike
 conference: "Arxiv"
 year: 2020

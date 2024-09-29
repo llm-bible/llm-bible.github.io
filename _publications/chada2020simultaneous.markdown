@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Simultaneous Paraphrasing And Translation By Fine-tuning Transformer Models
+title: 'Simultaneous Paraphrasing And Translation By Fine-tuning Transformer Models'
 authors: Chada Rakesh
 conference: "Arxiv"
 year: 2020

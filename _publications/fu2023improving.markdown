@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Language Model Negotiation With Self-play And In-context Learning From AI Feedback
+title: 'Improving Language Model Negotiation With Self-play And In-context Learning From AI Feedback'
 authors: Yao Fu, Hao Peng, Tushar Khot, Mirella Lapata
 conference: "Arxiv"
 year: 2023

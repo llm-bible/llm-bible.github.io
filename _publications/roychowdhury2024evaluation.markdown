@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluation Of RAG Metrics For Question Answering In The Telecom Domain
+title: 'Evaluation Of RAG Metrics For Question Answering In The Telecom Domain'
 authors: Roychowdhury Sujoy, Soman Sumit, Ranjani H G, Gunda Neeraj, Chhabra Vansh, Bala Sai Krishna
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Empathetic User-centric Chatbot For Emotional Support
+title: 'An Empathetic User-centric Chatbot For Emotional Support'
 authors: Pan Yanting, Tang Yixuan, Niu Yuchen
 conference: "Arxiv"
 year: 2023

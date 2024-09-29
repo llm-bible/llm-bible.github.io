@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Coupling Speech Encoders With Downstream Text Models
+title: 'Coupling Speech Encoders With Downstream Text Models'
 authors: Chelba Ciprian, Schalkwyk Johan
 conference: "Arxiv"
 year: 2024

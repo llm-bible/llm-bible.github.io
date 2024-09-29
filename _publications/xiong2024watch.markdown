@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Watch Every Step! LLM Agent Learning Via Iterative Step-level Process Refinement
+title: 'Watch Every Step! LLM Agent Learning Via Iterative Step-level Process Refinement'
 authors: Xiong Weimin, Song Yifan, Zhao Xiutian, Wu Wenhao, Wang Xun, Wang Ke, Li Cheng, Peng Wei, Li Sujian
 conference: "Arxiv"
 year: 2024

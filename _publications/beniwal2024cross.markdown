@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cross-lingual Editing In Multilingual Language Models
+title: 'Cross-lingual Editing In Multilingual Language Models'
 authors: Beniwal Himanshu, D Kowsik Nandagopan, Singh Mayank
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Synthetic Context Generation For Question Generation
+title: 'Synthetic Context Generation For Question Generation'
 authors: Liu Naiming, Wang Zichao, Baraniuk Richard
 conference: "Arxiv"
 year: 2024

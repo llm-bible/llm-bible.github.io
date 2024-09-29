@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Large Language Models Transform Computational Social Science?
+title: 'Can Large Language Models Transform Computational Social Science?'
 authors: Ziems Caleb, Held William, Shaikh Omar, Chen Jiaao, Zhang Zhehao, Yang Diyi
 conference: "Arxiv"
 year: 2023

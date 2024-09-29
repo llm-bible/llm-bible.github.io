@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Human Evaluation Of English--irish Transformer-based NMT
+title: 'Human Evaluation Of English--irish Transformer-based NMT'
 authors: Lankford Séamus, Afli Haithem, Way Andy
 conference: "Information"
 year: 2024

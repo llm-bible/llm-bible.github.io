@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Efficient Memory-augmented Transformer For Knowledge-intensive NLP Tasks
+title: 'An Efficient Memory-augmented Transformer For Knowledge-intensive NLP Tasks'
 authors: Wu Yuxiang, Zhao Yu, Hu Baotian, Minervini Pasquale, Stenetorp Pontus, Riedel Sebastian
 conference: "Arxiv"
 year: 2022

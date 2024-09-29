@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Models Are Few-shot Butlers
+title: 'Language Models Are Few-shot Butlers'
 authors: Micheli Vincent, Fleuret François
 conference: "Arxiv"
 year: 2021

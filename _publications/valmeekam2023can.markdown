@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Large Language Models Really Improve By Self-critiquing Their Own Plans?
+title: 'Can Large Language Models Really Improve By Self-critiquing Their Own Plans?'
 authors: Valmeekam Karthik, Marquez Matthew, Kambhampati Subbarao
 conference: "Arxiv"
 year: 2023

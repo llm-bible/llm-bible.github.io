@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Selective Attention For Context-aware Neural Machine Translation
+title: 'Selective Attention For Context-aware Neural Machine Translation'
 authors: Maruf Sameen, Martins André F. T., Haffari Gholamreza
 conference: "Arxiv"
 year: 2019

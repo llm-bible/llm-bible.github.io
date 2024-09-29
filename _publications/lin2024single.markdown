@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Single Character Perturbations Break LLM Alignment
+title: 'Single Character Perturbations Break LLM Alignment'
 authors: Lin Leon, Brown Hannah, Kawaguchi Kenji, Shieh Michael
 conference: "Arxiv"
 year: 2024

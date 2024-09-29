@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficient Long Sequence Modeling Via State Space Augmented Transformer
+title: 'Efficient Long Sequence Modeling Via State Space Augmented Transformer'
 authors: Zuo Simiao, Liu Xiaodong, Jiao Jian, Charles Denis, Manavoglu Eren, Zhao Tuo, Gao Jianfeng
 conference: "Arxiv"
 year: 2022

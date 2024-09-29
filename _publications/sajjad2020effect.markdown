@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On The Effect Of Dropping Layers Of Pre-trained Transformer Models
+title: 'On The Effect Of Dropping Layers Of Pre-trained Transformer Models'
 authors: Sajjad Hassan, Dalvi Fahim, Durrani Nadir, Nakov Preslav
 conference: "Computer Speech and Language"
 year: 2020

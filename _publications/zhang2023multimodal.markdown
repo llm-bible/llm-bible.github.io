@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multimodal Chain-of-thought Reasoning In Language Models
+title: 'Multimodal Chain-of-thought Reasoning In Language Models'
 authors: Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola
 conference: "Arxiv"
 year: 2023

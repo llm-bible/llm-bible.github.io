@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generation Constraint Scaling Can Mitigate Hallucination
+title: 'Generation Constraint Scaling Can Mitigate Hallucination'
 authors: Kollias Georgios, Das Payel, Chaudhury Subhajit
 conference: "Arxiv"
 year: 2024

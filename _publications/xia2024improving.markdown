@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Retrieval Augmented Language Model With Self-reasoning
+title: 'Improving Retrieval Augmented Language Model With Self-reasoning'
 authors: Xia Yuan, Zhou Jingbo, Shi Zhenhui, Chen Jun, Huang Haifeng
 conference: "Arxiv"
 year: 2024

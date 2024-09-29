@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Language Models Employ The Socratic Method? Experiments With Code Debugging
+title: 'Can Language Models Employ The Socratic Method? Experiments With Code Debugging'
 authors: Al-hossami Erfan, Bunescu Razvan, Smith Justin, Teehan Ryan
 conference: "Arxiv"
 year: 2023

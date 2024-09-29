@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating Multilingual NMT Representations At Scale
+title: 'Investigating Multilingual NMT Representations At Scale'
 authors: Kudugunta Sneha Reddy, Bapna Ankur, Caswell Isaac, Arivazhagan Naveen, Firat Orhan
 conference: "Arxiv"
 year: 2019

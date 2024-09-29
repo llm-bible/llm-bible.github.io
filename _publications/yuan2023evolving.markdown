@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evolving Large Language Model Assistant With Long-term Conditional Memory
+title: 'Evolving Large Language Model Assistant With Long-term Conditional Memory'
 authors: Yuan Ruifeng, Sun Shichao, Wang Zili, Cao Ziqiang, Li Wenjie
 conference: "Arxiv"
 year: 2023

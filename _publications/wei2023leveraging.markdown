@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Large Language Models To Power Chatbots For Collecting User Self-reported Data
+title: 'Leveraging Large Language Models To Power Chatbots For Collecting User Self-reported Data'
 authors: Wei Jing, Kim Sungdong, Jung Hyunhoon, Kim Young-ho
 conference: "Proceedings of the ACM on Human-Computer Interaction"
 year: 2023

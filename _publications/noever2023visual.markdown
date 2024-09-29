@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Visual AI And Linguistic Intelligence Through Steerability And Composability
+title: 'Visual AI And Linguistic Intelligence Through Steerability And Composability'
 authors: Noever David, Noever Samantha Elizabeth Miller
 conference: "Arxiv"
 year: 2023

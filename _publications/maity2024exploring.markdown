@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring The Capabilities Of Prompted Large Language Models In Educational And Assessment Applications
+title: 'Exploring The Capabilities Of Prompted Large Language Models In Educational And Assessment Applications'
 authors: Maity Subhankar, Deroy Aniket, Sarkar Sudeshna
 conference: "Arxiv"
 year: 2024

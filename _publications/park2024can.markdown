@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Separators Improve Chain-of-thought Prompting?
+title: 'Can Separators Improve Chain-of-thought Prompting?'
 authors: Park Yoonjeong, Kim Hyunjin, Choi Chanyeol, Kim Junseong, Sohn Jy-yong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Personalized Query Rewriting In Conversational AI Agents
+title: 'Personalized Query Rewriting In Conversational AI Agents'
 authors: Roshan-ghias Alireza, Mathialagan Clint Solomon, Ponnusamy Pragaash, Mathias Lambert, Guo Chenlei
 conference: "Arxiv"
 year: 2020

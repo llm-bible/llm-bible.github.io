@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transforming Agency. On The Mode Of Existence Of Large Language Models
+title: 'Transforming Agency. On The Mode Of Existence Of Large Language Models'
 authors: Barandiaran Xabier E., Almendros Lola S.
 conference: "Arxiv"
 year: 2024

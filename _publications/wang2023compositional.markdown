@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Compositional Text-to-image Synthesis With Attention Map Control Of Diffusion Models
+title: 'Compositional Text-to-image Synthesis With Attention Map Control Of Diffusion Models'
 authors: Wang Ruichen, Chen Zekang, Chen Chen, Ma Jian, Lu Haonan, Lin Xiaodong
 conference: "Arxiv"
 year: 2023

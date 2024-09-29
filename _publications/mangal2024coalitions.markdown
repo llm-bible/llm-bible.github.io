@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Coalitions Of Large Language Models Increase The Robustness Of AI Agents
+title: 'Coalitions Of Large Language Models Increase The Robustness Of AI Agents'
 authors: Mangal Prattyush, Mak Carol, Kanakis Theo, Donovan Timothy, Braines Dave, Pyzer-knapp Edward
 conference: "Arxiv"
 year: 2024

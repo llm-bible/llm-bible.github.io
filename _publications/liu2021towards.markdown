@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Automated Psychotherapy Via Language Modeling
+title: 'Towards Automated Psychotherapy Via Language Modeling'
 authors: Liu Houjun
 conference: "Arxiv"
 year: 2021

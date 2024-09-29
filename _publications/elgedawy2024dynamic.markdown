@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dynamic Q&A Of Clinical Documents With Large Language Models
+title: 'Dynamic Q&A Of Clinical Documents With Large Language Models'
 authors: Elgedawy Ran, Danciu Ioana, Mahbub Maria, Srinivasan Sudarshan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Full Parameter Fine-tuning For Large Language Models With Limited Resources
+title: 'Full Parameter Fine-tuning For Large Language Models With Limited Resources'
 authors: Lv Kai, Yang Yuqing, Liu Tengxiao, Gao Qinghui, Guo Qipeng, Qiu Xipeng
 conference: "Arxiv"
 year: 2023

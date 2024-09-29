@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Information Re-organization Improves Reasoning In Large Language Models
+title: 'Information Re-organization Improves Reasoning In Large Language Models'
 authors: Cheng Xiaoxia, Tan Zeqi, Xue Wei, Lu Weiming
 conference: "Arxiv"
 year: 2024

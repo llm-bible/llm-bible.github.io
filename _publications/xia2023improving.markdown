@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Question Generation With Multi-level Content Planning
+title: 'Improving Question Generation With Multi-level Content Planning'
 authors: Xia Zehua, Gou Qi, Yu Bowen, Yu Haiyang, Huang Fei, Li Yongbin, Nguyen Cam-tu
 conference: "Arxiv"
 year: 2023

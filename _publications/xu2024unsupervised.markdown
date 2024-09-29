@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unsupervised Information Refinement Training Of Large Language Models For Retrieval-augmented Generation
+title: 'Unsupervised Information Refinement Training Of Large Language Models For Retrieval-augmented Generation'
 authors: Xu Shicheng, Pang Liang, Yu Mo, Meng Fandong, Shen Huawei, Cheng Xueqi, Zhou Jie
 conference: "Arxiv"
 year: 2024

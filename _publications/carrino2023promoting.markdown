@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Promoting Generalized Cross-lingual Question Answering In Few-resource Scenarios Via Self-knowledge Distillation
+title: 'Promoting Generalized Cross-lingual Question Answering In Few-resource Scenarios Via Self-knowledge Distillation'
 authors: Carrino Casimiro Pio, Escolano Carlos, Fonollosa José A. R.
 conference: "Arxiv"
 year: 2023

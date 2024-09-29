@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Assessing The Promise And Pitfalls Of Chatgpt For Automated Code Generation
+title: 'Assessing The Promise And Pitfalls Of Chatgpt For Automated Code Generation'
 authors: Khan Muhammad Fawad Akbar, Ramsdell Max, Falor Erik, Karimi Hamid
 conference: "Arxiv"
 year: 2023

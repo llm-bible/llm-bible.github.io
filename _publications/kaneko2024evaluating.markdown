@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Gender Bias In Large Language Models Via Chain-of-thought Prompting
+title: 'Evaluating Gender Bias In Large Language Models Via Chain-of-thought Prompting'
 authors: Kaneko Masahiro, Bollegala Danushka, Okazaki Naoaki, Baldwin Timothy
 conference: "Arxiv"
 year: 2024

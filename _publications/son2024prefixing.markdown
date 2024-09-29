@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prefixing Attention Sinks Can Mitigate Activation Outliers For Large Language Model Quantization
+title: 'Prefixing Attention Sinks Can Mitigate Activation Outliers For Large Language Model Quantization'
 authors: Son Seungwoo, Park Wonpyo, Han Woohyun, Kim Kyuyeun, Lee Jaeho
 conference: "Arxiv"
 year: 2024

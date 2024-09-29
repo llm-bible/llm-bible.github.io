@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Teach Llms To Personalize -- An Approach Inspired By Writing Education
+title: 'Teach Llms To Personalize -- An Approach Inspired By Writing Education'
 authors: Li Cheng, Zhang Mingyang, Mei Qiaozhu, Wang Yaqing, Hombaiah Spurthi Amba, Liang Yi, Bendersky Michael
 conference: "Arxiv"
 year: 2023

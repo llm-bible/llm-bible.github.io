@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Eliciting The Priors Of Large Language Models Using Iterated In-context Learning
+title: 'Eliciting The Priors Of Large Language Models Using Iterated In-context Learning'
 authors: Zhu Jian-qiao, Griffiths Thomas L.
 conference: "Arxiv"
 year: 2024

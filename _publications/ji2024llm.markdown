@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM Internal States Reveal Hallucination Risk Faced With A Query
+title: 'LLM Internal States Reveal Hallucination Risk Faced With A Query'
 authors: Ji Ziwei, Chen Delong, Ishii Etsuko, Cahyawijaya Samuel, Bang Yejin, Wilie Bryan, Fung Pascale
 conference: "Arxiv"
 year: 2024

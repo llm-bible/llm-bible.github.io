@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring The Potential Of Multimodal LLM With Knowledge-intensive Multimodal ASR
+title: 'Exploring The Potential Of Multimodal LLM With Knowledge-intensive Multimodal ASR'
 authors: Wang Minghan, Wang Yuxia, Vu Thuy-trang, Shareghi Ehsan, Haffari Gholamreza
 conference: "Arxiv"
 year: 2024

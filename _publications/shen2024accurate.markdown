@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Accurate And Efficient Fine-tuning Of Quantized Large Language Models Through Optimal Balance
+title: 'Accurate And Efficient Fine-tuning Of Quantized Large Language Models Through Optimal Balance'
 authors: Shen Ao, Wang Qiang, Lai Zhiquan, Li Xionglve, Li Dongsheng
 conference: "Arxiv"
 year: 2024

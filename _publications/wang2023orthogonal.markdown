@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Orthogonal Subspace Learning For Language Model Continual Learning
+title: 'Orthogonal Subspace Learning For Language Model Continual Learning'
 authors: Wang Xiao, Chen Tianze, Ge Qiming, Xia Han, Bao Rong, Zheng Rui, Zhang Qi, Gui Tao, Huang Xuanjing
 conference: "Arxiv"
 year: 2023

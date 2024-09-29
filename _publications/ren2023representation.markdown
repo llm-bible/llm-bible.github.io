@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Representation Learning With Large Language Models For Recommendation
+title: 'Representation Learning With Large Language Models For Recommendation'
 authors: Xubin Ren, Wei Wei, Lianghao Xia, Lixin Su, Suqi Cheng, Junfeng Wang, Dawei Yin, Chao Huang
 conference: "Arxiv"
 year: 2023

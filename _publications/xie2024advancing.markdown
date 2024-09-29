@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Advancing Multimodal Large Language Models With Quantization-aware Scale Learning For Efficient Adaptation
+title: 'Advancing Multimodal Large Language Models With Quantization-aware Scale Learning For Efficient Adaptation'
 authors: Xie Jingjing, Zhang Yuxin, Lin Mingbao, Cao Liujuan, Ji Rongrong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recitation-augmented Language Models
+title: 'Recitation-augmented Language Models'
 authors: Sun Zhiqing, Wang Xuezhi, Tay Yi, Yang Yiming, Zhou Denny
 conference: "Arxiv"
 year: 2022

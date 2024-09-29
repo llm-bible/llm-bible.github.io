@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llm-based Conversational AI Therapist For Daily Functioning Screening And Psychotherapeutic Intervention Via Everyday Smart Devices
+title: 'Llm-based Conversational AI Therapist For Daily Functioning Screening And Psychotherapeutic Intervention Via Everyday Smart Devices'
 authors: Nie Jingping, Shao Hanya, Fan Yuang, Shao Qijia, You Haoxuan, Preindl Matthias, Jiang Xiaofan
 conference: "Arxiv"
 year: 2024

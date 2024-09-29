@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Curriculum Learning For Language Modeling
+title: 'Curriculum Learning For Language Modeling'
 authors: Campos Daniel
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Quality Or Quantity? On Data Scale And Diversity In Adapting Large Language Models For Low-resource Translation
+title: 'Quality Or Quantity? On Data Scale And Diversity In Adapting Large Language Models For Low-resource Translation'
 authors: Iyer Vivek, Malik Bhavitvya, Stepachev Pavel, Chen Pinzhen, Haddow Barry, Birch Alexandra
 conference: "Arxiv"
 year: 2024

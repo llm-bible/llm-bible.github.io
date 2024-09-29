@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Know What Makes Exemplary Contexts
+title: 'Large Language Models Know What Makes Exemplary Contexts'
 authors: Long Quanyu, Chen Jianda, Wang Wenya, Pan Sinno Jialin
 conference: "Arxiv"
 year: 2024

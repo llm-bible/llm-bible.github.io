@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aligning Large Language Models Via Fine-grained Supervision
+title: 'Aligning Large Language Models Via Fine-grained Supervision'
 authors: Xu Dehong, Qiu Liang, Kim Minseok, Ladhak Faisal, Do Jaeyoung
 conference: "Arxiv"
 year: 2024

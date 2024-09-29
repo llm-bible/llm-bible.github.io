@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Measuring Systematic Generalization In Neural Proof Generation With Transformers
+title: 'Measuring Systematic Generalization In Neural Proof Generation With Transformers'
 authors: Gontier Nicolas, Sinha Koustuv, Reddy Siva, Pal Christopher
 conference: "Arxiv"
 year: 2020

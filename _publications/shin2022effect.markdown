@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On The Effect Of Pretraining Corpora On In-context Learning By A Large-scale Language Model
+title: 'On The Effect Of Pretraining Corpora On In-context Learning By A Large-scale Language Model'
 authors: Seongjin Shin, Sang-woo Lee, Hwijeen Ahn, Sungdong Kim, Hyoungseok Kim, Boseop Kim, Kyunghyun Cho, Gichang Lee, Woomyoung Park, Jung-woo Ha, Nako Sung
 conference: "Arxiv"
 year: 2022

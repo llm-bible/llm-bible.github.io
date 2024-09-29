@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evolutionary Multi-objective Optimization Of Large Language Model Prompts For Balancing Sentiments
+title: 'Evolutionary Multi-objective Optimization Of Large Language Model Prompts For Balancing Sentiments'
 authors: Baumann Jill, Kramer Oliver
 conference: "Arxiv"
 year: 2024

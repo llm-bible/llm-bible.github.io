@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tuning Large Language Model For End-to-end Speech Translation
+title: 'Tuning Large Language Model For End-to-end Speech Translation'
 authors: Zhang Hao, Si Nianwen, Chen Yaqi, Zhang Wenlin, Yang Xukui, Qu Dan, Jiao Xiaolin
 conference: "Arxiv"
 year: 2023

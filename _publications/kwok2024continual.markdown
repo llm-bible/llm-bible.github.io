@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Continual Learning Optimizations For Auto-regressive Decoder Of Multilingual ASR Systems
+title: 'Continual Learning Optimizations For Auto-regressive Decoder Of Multilingual ASR Systems'
 authors: Kwok Chin Yuen, Yip Jia Qi, Chng Eng Siong
 conference: "Arxiv"
 year: 2024

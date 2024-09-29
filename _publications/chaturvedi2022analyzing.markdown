@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Analyzing Semantic Faithfulness Of Language Models Via Input Intervention On Question Answering
+title: 'Analyzing Semantic Faithfulness Of Language Models Via Input Intervention On Question Answering'
 authors: Chaturvedi Akshay, Bhar Swarnadeep, Saha Soumadeep, Garain Utpal, Asher Nicholas
 conference: "Computational Linguistics"
 year: 2022

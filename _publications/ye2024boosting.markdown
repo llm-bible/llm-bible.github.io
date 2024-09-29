@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Boosting Conversational Question Answering With Fine-grained Retrieval-augmentation And Self-check
+title: 'Boosting Conversational Question Answering With Fine-grained Retrieval-augmentation And Self-check'
 authors: Ye Linhao, Lei Zhikai, Yin Jianghao, Chen Qin, Zhou Jie, He Liang
 conference: "Arxiv"
 year: 2024

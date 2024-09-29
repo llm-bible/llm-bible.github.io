@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Empowering Language Models With Active Inquiry For Deeper Understanding
+title: 'Empowering Language Models With Active Inquiry For Deeper Understanding'
 authors: Pang Jing-cheng, Fan Heng-bo, Wang Pengyuan, Xiao Jia-hao, Tang Nan, Yang Si-hang, Jia Chengxing, Huang Sheng-jun, Yu Yang
 conference: "Arxiv"
 year: 2024

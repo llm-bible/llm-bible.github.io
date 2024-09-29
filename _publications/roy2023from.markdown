@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Chatbots To Phishbots? -- Preventing Phishing Scams Created Using Chatgpt, Google Bard And Claude
+title: 'From Chatbots To Phishbots? -- Preventing Phishing Scams Created Using Chatgpt, Google Bard And Claude'
 authors: Roy Sayak Saha, Thota Poojitha, Naragam Krishna Vamsi, Nilizadeh Shirin
 conference: "Arxiv"
 year: 2023

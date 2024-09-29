@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: When Quantization Affects Confidence Of Large Language Models?
+title: 'When Quantization Affects Confidence Of Large Language Models?'
 authors: Proskurina Irina, Brun Luc, Metzler Guillaume, Velcin Julien
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tackling VQA With Pretrained Foundation Models Without Further Training
+title: 'Tackling VQA With Pretrained Foundation Models Without Further Training'
 authors: Tan Alvin De Jun, Shen Bingquan
 conference: "Arxiv"
 year: 2023

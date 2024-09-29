@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Effect Of Model Size On Worst-group Generalization
+title: 'The Effect Of Model Size On Worst-group Generalization'
 authors: Pham Alan, Chan Eunice, Srivatsa Vikranth, Ghosh Dhruba, Yang Yaoqing, Yu Yaodong, Zhong Ruiqi, Gonzalez Joseph E., Steinhardt Jacob
 conference: "Arxiv"
 year: 2021

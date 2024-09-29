@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Non-autoregressive Text Generation With Pre-trained Language Models
+title: 'Non-autoregressive Text Generation With Pre-trained Language Models'
 authors: Su Yixuan, Cai Deng, Wang Yan, Vandyke David, Baker Simon, Li Piji, Collier Nigel
 conference: "Arxiv"
 year: 2021

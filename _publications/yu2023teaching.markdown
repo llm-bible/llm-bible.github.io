@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Teaching Language Models To Self-improve Through Interactive Demonstrations
+title: 'Teaching Language Models To Self-improve Through Interactive Demonstrations'
 authors: Yu Xiao, Peng Baolin, Galley Michel, Gao Jianfeng, Yu Zhou
 conference: "Arxiv"
 year: 2023

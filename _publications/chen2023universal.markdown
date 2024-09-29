@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Universal Self-consistency For Large Language Model Generation
+title: 'Universal Self-consistency For Large Language Model Generation'
 authors: Chen Xinyun, Aksitov Renat, Alon Uri, Ren Jie, Xiao Kefan, Yin Pengcheng, Prakash Sushant, Sutton Charles, Wang Xuezhi, Zhou Denny
 conference: "Arxiv"
 year: 2023

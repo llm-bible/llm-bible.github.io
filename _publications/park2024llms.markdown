@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llms For Enhanced Agricultural Meteorological Recommendations
+title: 'Llms For Enhanced Agricultural Meteorological Recommendations'
 authors: Park Ji-jun, Choi Soo-joon
 conference: "Arxiv"
 year: 2024

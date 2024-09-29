@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Calibrating Large Language Models Using Their Generations Only
+title: 'Calibrating Large Language Models Using Their Generations Only'
 authors: Ulmer Dennis, Gubri Martin, Lee Hwaran, Yun Sangdoo, Oh Seong Joon
 conference: "Arxiv"
 year: 2024

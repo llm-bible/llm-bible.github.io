@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Character-level Chinese Backpack Language Models
+title: 'Character-level Chinese Backpack Language Models'
 authors: Sun Hao, Hewitt John
 conference: "Arxiv"
 year: 2023

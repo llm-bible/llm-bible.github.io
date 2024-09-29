@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sentence Simplification Via Large Language Models
+title: 'Sentence Simplification Via Large Language Models'
 authors: Feng Yutao, Qiang Jipeng, Li Yun, Yuan Yunhao, Zhu Yi
 conference: "Arxiv"
 year: 2023

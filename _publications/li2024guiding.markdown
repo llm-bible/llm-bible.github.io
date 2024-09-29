@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Guiding Enumerative Program Synthesis With Large Language Models
+title: 'Guiding Enumerative Program Synthesis With Large Language Models'
 authors: Li Yixuan, Parsert Julian, Polgreen Elizabeth
 conference: "Arxiv"
 year: 2024

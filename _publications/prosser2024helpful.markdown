@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Helpful Or Harmful? Exploring The Efficacy Of Large Language Models For Online Grooming Prevention
+title: 'Helpful Or Harmful? Exploring The Efficacy Of Large Language Models For Online Grooming Prevention'
 authors: Prosser Ellie, Edwards Matthew
 conference: "Arxiv"
 year: 2024

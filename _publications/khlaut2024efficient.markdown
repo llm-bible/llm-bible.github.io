@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficient Medical Question Answering With Knowledge-augmented Question Generation
+title: 'Efficient Medical Question Answering With Knowledge-augmented Question Generation'
 authors: Khlaut Julien, Dancette Corentin, Ferreres Elodie, Bennani Alaedine, Hérent Paul, Manceron Pierre
 conference: "Arxiv"
 year: 2024

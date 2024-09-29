@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Small Agent Can Also Rock! Empowering Small Language Models As Hallucination Detector
+title: 'Small Agent Can Also Rock! Empowering Small Language Models As Hallucination Detector'
 authors: Cheng Xiaoxue, Li Junyi, Zhao Wayne Xin, Zhang Hongzhi, Zhang Fuzheng, Zhang Di, Gai Kun, Wen Ji-rong
 conference: "Arxiv"
 year: 2024

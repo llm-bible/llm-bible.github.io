@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-view Attention Network For Visual Dialog
+title: 'Multi-view Attention Network For Visual Dialog'
 authors: Park Sungjin, Whang Taesun, Yoon Yeochan, Lim Heuiseok
 conference: "Arxiv"
 year: 2020

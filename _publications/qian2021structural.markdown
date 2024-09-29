@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Structural Guidance For Transformer Language Models
+title: 'Structural Guidance For Transformer Language Models'
 authors: Qian Peng, Naseem Tahira, Levy Roger, Astudillo Ramón Fernandez
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aligning Query Representation With Rewritten Query And Relevance Judgments In Conversational Search
+title: 'Aligning Query Representation With Rewritten Query And Relevance Judgments In Conversational Search'
 authors: Mo Fengran, Qu Chen, Mao Kelong, Wu Yihong, Su Zhan, Huang Kaiyu, Nie Jian-yun
 conference: "Arxiv"
 year: 2024

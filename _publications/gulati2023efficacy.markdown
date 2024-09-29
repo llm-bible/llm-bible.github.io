@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficacy Of Machine-generated Instructions
+title: 'Efficacy Of Machine-generated Instructions'
 authors: Gulati Samaksh, Verma Anshit, Parmar Manoj, Chaudhary Palash
 conference: "Arxiv"
 year: 2023

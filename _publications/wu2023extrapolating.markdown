@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Extrapolating Multilingual Understanding Models As Multilingual Generators
+title: 'Extrapolating Multilingual Understanding Models As Multilingual Generators'
 authors: Wu Bohong, Yuan Fei, Zhao Hai, Li Lei, Xu Jingjing
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Selective Knowledge Distillation For Neural Machine Translation
+title: 'Selective Knowledge Distillation For Neural Machine Translation'
 authors: Wang Fusheng, Yan Jianhao, Meng Fandong, Zhou Jie
 conference: "Arxiv"
 year: 2021

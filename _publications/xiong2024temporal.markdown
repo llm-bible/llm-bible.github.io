@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Temporal Scaling Law For Large Language Models
+title: 'Temporal Scaling Law For Large Language Models'
 authors: Xiong Yizhe, Chen Xiansheng, Ye Xin, Chen Hui, Lin Zijia, Lian Haoran, Su Zhenpeng, Niu Jianwei, Ding Guiguang
 conference: "Arxiv"
 year: 2024

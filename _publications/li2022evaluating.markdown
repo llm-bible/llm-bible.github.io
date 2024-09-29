@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Psychological Safety Of Large Language Models
+title: 'Evaluating Psychological Safety Of Large Language Models'
 authors: Li Xingxuan, Li Yutong, Qiu Lin, Joty Shafiq, Bing Lidong
 conference: "Arxiv"
 year: 2022

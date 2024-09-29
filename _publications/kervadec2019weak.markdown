@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Weak Supervision Helps Emergence Of Word-object Alignment And Improves Vision-language Tasks
+title: 'Weak Supervision Helps Emergence Of Word-object Alignment And Improves Vision-language Tasks'
 authors: Kervadec Corentin Liris, Antipov Grigory Liris, Baccouche Moez Liris, Wolf Christian Liris
 conference: "Arxiv"
 year: 2019

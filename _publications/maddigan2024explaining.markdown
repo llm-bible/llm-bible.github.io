@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Explaining Genetic Programming Trees Using Large Language Models
+title: 'Explaining Genetic Programming Trees Using Large Language Models'
 authors: Maddigan Paula, Lensen Andrew, Xue Bing
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: User-aware Prefix-tuning Is A Good Learner For Personalized Image Captioning
+title: 'User-aware Prefix-tuning Is A Good Learner For Personalized Image Captioning'
 authors: Wang Xuan, Wang Guanhong, Chai Wenhao, Zhou Jiayu, Wang Gaoang
 conference: "Arxiv"
 year: 2023

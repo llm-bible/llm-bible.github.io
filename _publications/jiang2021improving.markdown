@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Non-autoregressive Generation With Mixup Training
+title: 'Improving Non-autoregressive Generation With Mixup Training'
 authors: Jiang Ting, Huang Shaohan, Zhang Zihan, Wang Deqing, Zhuang Fuzhen, Wei Furu, Huang Haizhen, Zhang Liangjie, Zhang Qi
 conference: "Arxiv"
 year: 2021

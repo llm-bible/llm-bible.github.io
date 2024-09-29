@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Large Language Models Be Good Path Planners? A Benchmark And Investigation On Spatial-temporal Reasoning
+title: 'Can Large Language Models Be Good Path Planners? A Benchmark And Investigation On Spatial-temporal Reasoning'
 authors: Aghzal Mohamed, Plaku Erion, Yao Ziyu
 conference: "Arxiv"
 year: 2023

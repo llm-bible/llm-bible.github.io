@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Critique Ability Of Large Language Models
+title: 'Critique Ability Of Large Language Models'
 authors: Luo Liangchen, Lin Zi, Liu Yinxiao, Shu Lei, Zhu Yun, Shang Jingbo, Meng Lei
 conference: "Arxiv"
 year: 2023

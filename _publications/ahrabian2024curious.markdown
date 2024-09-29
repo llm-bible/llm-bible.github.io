@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Curious Case Of Nonverbal Abstract Reasoning With Multi-modal Large Language Models
+title: 'The Curious Case Of Nonverbal Abstract Reasoning With Multi-modal Large Language Models'
 authors: Ahrabian Kian, Sourati Zhivar, Sun Kexuan, Zhang Jiarui, Jiang Yifan, Morstatter Fred, Pujara Jay
 conference: "Arxiv"
 year: 2024

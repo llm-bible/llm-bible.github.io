@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Massive Editing For Large Language Models Via Meta Learning
+title: 'Massive Editing For Large Language Models Via Meta Learning'
 authors: Tan Chenmien, Zhang Ge, Fu Jie
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Interleaving Retrieval With Chain-of-thought Reasoning For Knowledge-intensive Multi-step Questions
+title: 'Interleaving Retrieval With Chain-of-thought Reasoning For Knowledge-intensive Multi-step Questions'
 authors: Trivedi Harsh, Balasubramanian Niranjan, Khot Tushar, Sabharwal Ashish
 conference: "Arxiv"
 year: 2022

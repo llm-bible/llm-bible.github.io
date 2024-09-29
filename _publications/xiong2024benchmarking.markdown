@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Benchmarking Retrieval-augmented Generation For Medicine
+title: 'Benchmarking Retrieval-augmented Generation For Medicine'
 authors: Xiong Guangzhi, Jin Qiao, Lu Zhiyong, Zhang Aidong
 conference: "Arxiv"
 year: 2024

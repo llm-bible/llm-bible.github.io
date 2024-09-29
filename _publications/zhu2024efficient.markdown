@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficient Test-time Prompt Tuning For Vision-language Models
+title: 'Efficient Test-time Prompt Tuning For Vision-language Models'
 authors: Zhu Yuhan, Zhang Guozhen, Xu Chen, Shen Haocheng, Chen Xiaoxin, Wu Gangshan, Wang Limin
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Purifying Large Language Models By Ensembling A Small Language Model
+title: 'Purifying Large Language Models By Ensembling A Small Language Model'
 authors: Li Tianlin, Liu Qian, Pang Tianyu, Du Chao, Guo Qing, Liu Yang, Lin Min
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!
+title: 'Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!'
 authors: Qi Xiangyu, Zeng Yi, Xie Tinghao, Chen Pin-yu, Jia Ruoxi, Mittal Prateek, Henderson Peter
 conference: "Arxiv"
 year: 2023

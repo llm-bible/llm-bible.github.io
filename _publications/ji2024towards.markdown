@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Flexible Evaluation For Generative Visual Question Answering
+title: 'Towards Flexible Evaluation For Generative Visual Question Answering'
 authors: Ji Huishan, Si Qingyi, Lin Zheng, Wang Weiping
 conference: "Arxiv"
 year: 2024

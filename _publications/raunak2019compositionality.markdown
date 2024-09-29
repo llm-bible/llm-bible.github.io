@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On Compositionality In Neural Machine Translation
+title: 'On Compositionality In Neural Machine Translation'
 authors: Raunak Vikas, Kumar Vaibhav, Metze Florian
 conference: "Arxiv"
 year: 2019

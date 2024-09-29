@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pre-training Transformer Models With Sentence-level Objectives For Answer Sentence Selection
+title: 'Pre-training Transformer Models With Sentence-level Objectives For Answer Sentence Selection'
 authors: Di Liello Luca, Garg Siddhant, Soldaini Luca, Moschitti Alessandro
 conference: "Arxiv"
 year: 2022

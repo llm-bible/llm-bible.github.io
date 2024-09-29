@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Revisiting Moe And Dense Speed-accuracy Comparisons For LLM Training
+title: 'Revisiting Moe And Dense Speed-accuracy Comparisons For LLM Training'
 authors: Du Xianzhi, Gunter Tom, Kong Xiang, Lee Mark, Wang Zirui, Zhang Aonan, Du Nan, Pang Ruoming
 conference: "Arxiv"
 year: 2024

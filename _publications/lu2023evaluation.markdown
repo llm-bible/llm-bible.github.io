@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluation And Enhancement Of Semantic Grounding In Large Vision-language Models
+title: 'Evaluation And Enhancement Of Semantic Grounding In Large Vision-language Models'
 authors: Jiaying Lu, Jinmeng Rao, Kezhen Chen, Xiaoyuan Guo, Yawen Zhang, Baochen Sun, Carl Yang, Jie Yang
 conference: "Arxiv"
 year: 2023

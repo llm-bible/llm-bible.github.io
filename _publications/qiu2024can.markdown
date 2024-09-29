@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Large Language Models Understand Symbolic Graphics Programs?
+title: 'Can Large Language Models Understand Symbolic Graphics Programs?'
 authors: Qiu Zeju, Liu Weiyang, Feng Haiwen, Liu Zhen, Xiao Tim Z., Collins Katherine M., Tenenbaum Joshua B., Weller Adrian, Black Michael J., Schölkopf Bernhard
 conference: "Arxiv"
 year: 2024

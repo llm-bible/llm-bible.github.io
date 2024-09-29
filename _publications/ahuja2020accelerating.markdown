@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Accelerating Natural Language Understanding In Task-oriented Dialog
+title: 'Accelerating Natural Language Understanding In Task-oriented Dialog'
 authors: Ahuja Ojas, Desai Shrey
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reinforced Mnemonic Reader For Machine Reading Comprehension
+title: 'Reinforced Mnemonic Reader For Machine Reading Comprehension'
 authors: Hu Minghao, Peng Yuxing, Huang Zhen, Qiu Xipeng, Wei Furu, Zhou Ming
 conference: "Arxiv"
 year: 2017

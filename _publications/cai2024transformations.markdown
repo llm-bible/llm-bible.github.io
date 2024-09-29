@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On The Transformations Across Reward Model, Parameter Update, And In-context Prompt
+title: 'On The Transformations Across Reward Model, Parameter Update, And In-context Prompt'
 authors: Cai Deng, Li Huayang, Fu Tingchen, Li Siheng, Xu Weiwen, Li Shuaiyi, Cao Bowen, Zhang Zhisong, Huang Xinting, Cui Leyang, Wang Yan, Liu Lemao, Watanabe Taro, Shi Shuming
 conference: "Arxiv"
 year: 2024

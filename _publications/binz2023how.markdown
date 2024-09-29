@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Should The Advent Of Large Language Models Affect The Practice Of Science?
+title: 'How Should The Advent Of Large Language Models Affect The Practice Of Science?'
 authors: Binz Marcel, Alaniz Stephan, Roskies Adina, Aczel Balazs, Bergstrom Carl T., Allen Colin, Schad Daniel, Wulff Dirk, West Jevin D., Zhang Qiong, Shiffrin Richard M., Gershman Samuel J., Popov Ven, Bender Emily M., Marelli Marco, Botvinick Matthew M., Akata Zeynep, Schulz Eric
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: M5 -- A Diverse Benchmark To Assess The Performance Of Large Multimodal Models Across Multilingual And Multicultural Vision-language Tasks
+title: 'M5 -- A Diverse Benchmark To Assess The Performance Of Large Multimodal Models Across Multilingual And Multicultural Vision-language Tasks'
 authors: Schneider Florian, Sitaram Sunayana
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Aligning Language Models With Textual Feedback
+title: 'Towards Aligning Language Models With Textual Feedback'
 authors: Lloret Saüc Abadal, Dhuliawala Shehzaad, Murugesan Keerthiram, Sachan Mrinmaya
 conference: "Arxiv"
 year: 2024

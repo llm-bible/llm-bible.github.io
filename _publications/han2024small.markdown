@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Small Language Model Can Self-correct
+title: 'Small Language Model Can Self-correct'
 authors: Han Haixia, Liang Jiaqing, Shi Jie, He Qianyu, Xiao Yanghua
 conference: "Arxiv"
 year: 2024

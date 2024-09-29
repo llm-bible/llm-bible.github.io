@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llm-based Medical Assistant Personalization With Short- And Long-term Memory Coordination
+title: 'Llm-based Medical Assistant Personalization With Short- And Long-term Memory Coordination'
 authors: Zhang Kai, Kang Yangyang, Zhao Fubang, Liu Xiaozhong
 conference: "Arxiv"
 year: 2023

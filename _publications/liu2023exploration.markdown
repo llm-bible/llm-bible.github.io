@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploration With Principles For Diverse AI Supervision
+title: 'Exploration With Principles For Diverse AI Supervision'
 authors: Liu Hao, Zaharia Matei, Abbeel Pieter
 conference: "Arxiv"
 year: 2023

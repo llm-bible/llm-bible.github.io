@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Visually-augmented Pretrained Language Models For NLP Tasks Without Images
+title: 'Visually-augmented Pretrained Language Models For NLP Tasks Without Images'
 authors: Guo Hangyu, Zhou Kun, Zhao Wayne Xin, Zhang Qinyu, Wen Ji-rong
 conference: "Arxiv"
 year: 2022

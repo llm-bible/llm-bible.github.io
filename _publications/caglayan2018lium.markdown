@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LIUM-CVC Submissions For WMT18 Multimodal Translation Task
+title: 'LIUM-CVC Submissions For WMT18 Multimodal Translation Task'
 authors: Caglayan Ozan, Bardet Adrien, Bougares Fethi, Barrault Loïc, Wang Kai, Masana Marc, Herranz Luis, Van De Weijer Joost
 conference: "Arxiv"
 year: 2018

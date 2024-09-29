@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On The Automatic Generation And Simplification Of Children''s Stories
+title: 'On The Automatic Generation And Simplification Of Children''s Stories'
 authors: Valentini Maria, Weber Jennifer, Salcido Jesus, Wright Téa, Colunga Eliana, Kann Katharina
 conference: "Arxiv"
 year: 2023

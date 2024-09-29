@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improved Data Augmentation For Translation Suggestion
+title: 'Improved Data Augmentation For Translation Suggestion'
 authors: Zhang Hongxiao, Lai Siyu, Zhang Songming, Huang Hui, Chen Yufeng, Xu Jinan, Liu Jian
 conference: "Arxiv"
 year: 2022

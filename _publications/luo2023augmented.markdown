@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Augmented Large Language Models With Parametric Knowledge Guiding
+title: 'Augmented Large Language Models With Parametric Knowledge Guiding'
 authors: Luo Ziyang, Xu Can, Zhao Pu, Geng Xiubo, Tao Chongyang, Ma Jing, Lin Qingwei, Jiang Daxin
 conference: "Arxiv"
 year: 2023

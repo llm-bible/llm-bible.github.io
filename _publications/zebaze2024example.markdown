@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: In-context Example Selection Via Similarity Search Improves Low-resource Machine Translation
+title: 'In-context Example Selection Via Similarity Search Improves Low-resource Machine Translation'
 authors: Zebaze Armel, Sagot Benoît, Bawden Rachel
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How (un)ethical Are Instruction-centric Responses Of Llms? Unveiling The Vulnerabilities Of Safety Guardrails To Harmful Queries
+title: 'How (un)ethical Are Instruction-centric Responses Of Llms? Unveiling The Vulnerabilities Of Safety Guardrails To Harmful Queries'
 authors: Banerjee Somnath, Layek Sayan, Hazra Rima, Mukherjee Animesh
 conference: "Arxiv"
 year: 2024

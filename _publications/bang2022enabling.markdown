@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enabling Classifiers To Make Judgements Explicitly Aligned With Human Values
+title: 'Enabling Classifiers To Make Judgements Explicitly Aligned With Human Values'
 authors: Bang Yejin, Yu Tiezheng, Madotto Andrea, Lin Zhaojiang, Diab Mona, Fung Pascale
 conference: "Arxiv"
 year: 2022

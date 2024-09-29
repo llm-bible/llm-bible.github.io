@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Relation Extraction With Fine-tuned Large Language Models In Retrieval Augmented Generation Frameworks
+title: 'Relation Extraction With Fine-tuned Large Language Models In Retrieval Augmented Generation Frameworks'
 authors: Efeoglu Sefika, Paschke Adrian
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instruction-following Agents With Multimodal Transformer
+title: 'Instruction-following Agents With Multimodal Transformer'
 authors: Liu Hao, Lee Lisa, Lee Kimin, Abbeel Pieter
 conference: "Arxiv"
 year: 2022

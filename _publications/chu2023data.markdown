@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Data-centric Financial Large Language Models
+title: 'Data-centric Financial Large Language Models'
 authors: Chu Zhixuan, Guo Huaiyu, Zhou Xinyuan, Wang Yijia, Yu Fei, Chen Hong, Xu Wanqing, Lu Xin, Cui Qing, Li Longfei, Zhou Jun, Li Sheng
 conference: "Arxiv"
 year: 2023

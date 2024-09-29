@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transformer-based Cascaded Multimodal Speech Translation
+title: 'Transformer-based Cascaded Multimodal Speech Translation'
 authors: Wu Zixiu, Caglayan Ozan, Ive Julia, Wang Josiah, Specia Lucia
 conference: "Arxiv"
 year: 2019

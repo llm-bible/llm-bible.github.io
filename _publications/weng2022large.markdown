@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Are Better Reasoners With Self-verification
+title: 'Large Language Models Are Better Reasoners With Self-verification'
 authors: Yixuan Weng, Minjun Zhu, Fei Xia, Bin Li, Shizhu He, Shengping Liu, Bin Sun, Kang Liu, Jun Zhao
 conference: "Arxiv"
 year: 2022

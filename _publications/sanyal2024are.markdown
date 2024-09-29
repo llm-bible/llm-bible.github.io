@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are Machines Better At Complex Reasoning? Unveiling Human-machine Inference Gaps In Entailment Verification
+title: 'Are Machines Better At Complex Reasoning? Unveiling Human-machine Inference Gaps In Entailment Verification'
 authors: Sanyal Soumya, Xiao Tianyi, Liu Jiacheng, Wang Wenya, Ren Xiang
 conference: "Arxiv"
 year: 2024

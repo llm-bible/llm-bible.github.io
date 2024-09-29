@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Multimodal Large Language Models With Multi-instance Visual Prompt Generator For Visual Representation Enrichment
+title: 'Enhancing Multimodal Large Language Models With Multi-instance Visual Prompt Generator For Visual Representation Enrichment'
 authors: Zhong Wenliang, Wu Wenyi, Li Qi, Barton Rob, Du Boxin, Sam Shioulin, Bouyarmane Karim, Tutar Ismail, Huang Junzhou
 conference: "Arxiv"
 year: 2024

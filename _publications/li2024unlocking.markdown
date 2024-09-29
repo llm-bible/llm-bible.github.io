@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unlocking Large Language Model''s Planning Capabilities With Maximum Diversity Fine-tuning
+title: 'Unlocking Large Language Model''s Planning Capabilities With Maximum Diversity Fine-tuning'
 authors: Li Wenjun, Chen Changyu, Varakantham Pradeep
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Integrating Emotional And Linguistic Models For Ethical Compliance In Large Language Models
+title: 'Integrating Emotional And Linguistic Models For Ethical Compliance In Large Language Models'
 authors: Chang Edward Y.
 conference: "Arxiv"
 year: 2024

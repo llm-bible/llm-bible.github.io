@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Making Pre-trained Language Models Better Few-shot Learners
+title: 'Making Pre-trained Language Models Better Few-shot Learners'
 authors: Tianyu Gao, Adam Fisch, Danqi Chen
 conference: "Arxiv"
 year: 2020

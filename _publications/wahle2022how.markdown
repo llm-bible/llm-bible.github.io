@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Large Language Models Are Transforming Machine-paraphrased Plagiarism
+title: 'How Large Language Models Are Transforming Machine-paraphrased Plagiarism'
 authors: Wahle Jan Philip, Ruas Terry, Kirstein Frederic, Gipp Bela
 conference: "EMNLP"
 year: 2022

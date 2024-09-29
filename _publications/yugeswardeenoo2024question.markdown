@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Question-analysis Prompting Improves LLM Performance In Reasoning Tasks
+title: 'Question-analysis Prompting Improves LLM Performance In Reasoning Tasks'
 authors: Yugeswardeenoo Dharunish, Zhu Kevin, O'brien Sean
 conference: "Arxiv"
 year: 2024

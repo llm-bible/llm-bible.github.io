@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Agent Learning Through World Dynamics Modeling
+title: 'Enhancing Agent Learning Through World Dynamics Modeling'
 authors: Sun Zhiyuan, Shi Haochen, Côté Marc-alexandre, Berseth Glen, Yuan Xingdi, Liu Bang
 conference: "Arxiv"
 year: 2024

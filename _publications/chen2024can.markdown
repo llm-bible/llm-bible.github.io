@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can We Rely On LLM Agents To Draft Long-horizon Plans? Let''s Take Travelplanner As An Example
+title: 'Can We Rely On LLM Agents To Draft Long-horizon Plans? Let''s Take Travelplanner As An Example'
 authors: Chen Yanan, Pesaranghader Ali, Sadhu Tanmana, Yi Dong Hoon
 conference: "Arxiv"
 year: 2024

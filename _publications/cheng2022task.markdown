@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Task-aware Specialization For Efficient And Robust Dense Retrieval For Open-domain Question Answering
+title: 'Task-aware Specialization For Efficient And Robust Dense Retrieval For Open-domain Question Answering'
 authors: Cheng Hao, Fang Hao, Liu Xiaodong, Gao Jianfeng
 conference: "Arxiv"
 year: 2022

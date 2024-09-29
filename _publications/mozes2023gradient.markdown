@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gradient-based Automated Iterative Recovery For Parameter-efficient Tuning
+title: 'Gradient-based Automated Iterative Recovery For Parameter-efficient Tuning'
 authors: Mozes Maximilian, Bolukbasi Tolga, Yuan Ann, Liu Frederick, Thain Nithum, Dixon Lucas
 conference: "Arxiv"
 year: 2023

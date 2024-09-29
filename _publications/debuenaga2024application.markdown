@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Application Of GPT Language Models For Innovation In Activities In University Teaching
+title: 'Application Of GPT Language Models For Innovation In Activities In University Teaching'
 authors: De Buenaga Manuel, Bueno Francisco Javier
 conference: "Arxiv"
 year: 2024

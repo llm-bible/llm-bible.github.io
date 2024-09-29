@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reproducing Whisper-style Training Using An Open-source Toolkit And Publicly Available Data
+title: 'Reproducing Whisper-style Training Using An Open-source Toolkit And Publicly Available Data'
 authors: Peng Yifan, Tian Jinchuan, Yan Brian, Berrebbi Dan, Chang Xuankai, Li Xinjian, Shi Jiatong, Arora Siddhant, Chen William, Sharma Roshan, Zhang Wangyou, Sudo Yui, Shakeel Muhammad, Jung Jee-weon, Maiti Soumi, Watanabe Shinji
 conference: "Arxiv"
 year: 2023

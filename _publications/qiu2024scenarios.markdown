@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scenarios And Approaches For Situated Natural Language Explanations
+title: 'Scenarios And Approaches For Situated Natural Language Explanations'
 authors: Qiu Pengshuo, Rudzicz Frank, Zhu Zining
 conference: "Arxiv"
 year: 2024

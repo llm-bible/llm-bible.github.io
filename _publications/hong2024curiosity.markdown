@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Curiosity-driven Red-teaming For Large Language Models
+title: 'Curiosity-driven Red-teaming For Large Language Models'
 authors: Hong Zhang-wei, Shenfeld Idan, Wang Tsun-hsuan, Chuang Yung-sung, Pareja Aldo, Glass James, Srivastava Akash, Agrawal Pulkit
 conference: "Arxiv"
 year: 2024

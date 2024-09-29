@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Prompt-based Question Answering For Object Prediction In The Open Research Knowledge Graph
+title: 'Evaluating Prompt-based Question Answering For Object Prediction In The Open Research Knowledge Graph'
 authors: D'souza Jennifer, Hrou Moussab, Auer Sören
 conference: "Arxiv"
 year: 2023

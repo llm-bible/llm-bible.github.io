@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Syntactically Guided Neural Machine Translation
+title: 'Syntactically Guided Neural Machine Translation'
 authors: Stahlberg Felix, Hasler Eva, Waite Aurelien, Byrne Bill
 conference: "Arxiv"
 year: 2016

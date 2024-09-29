@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Measuring Taiwanese Mandarin Language Understanding
+title: 'Measuring Taiwanese Mandarin Language Understanding'
 authors: Chen Po-heng, Cheng Sijia, Chen Wei-lin, Lin Yen-ting, Chen Yun-nung
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Does Quantization Affect Multilingual Llms?
+title: 'How Does Quantization Affect Multilingual Llms?'
 authors: Marchisio Kelly, Dash Saurabh, Chen Hongyu, Aumiller Dennis, Üstün Ahmet, Hooker Sara, Ruder Sebastian
 conference: "Arxiv"
 year: 2024

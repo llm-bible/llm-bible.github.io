@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieval-augmented Generation For Knowledge-intensive NLP Tasks
+title: 'Retrieval-augmented Generation For Knowledge-intensive NLP Tasks'
 authors: Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, Mike Lewis, Wen-tau Yih, Tim Rocktäschel, Sebastian Riedel, Douwe Kiela
 conference: "Arxiv"
 year: 2020

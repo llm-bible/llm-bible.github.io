@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Prompting With Episodic Memory
+title: 'Large Language Models Prompting With Episodic Memory'
 authors: Do Dai, Tran Quan, Venkatesh Svetha, Le Hung
 conference: "Arxiv"
 year: 2024

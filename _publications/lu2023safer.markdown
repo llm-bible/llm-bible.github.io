@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Safer Conversational AI As A Source Of User Delight
+title: 'Safer Conversational AI As A Source Of User Delight'
 authors: Lu Xiaoding, Korshuk Aleksey, Liu Zongyi, Beauchamp William, Research Chai
 conference: "Arxiv"
 year: 2023

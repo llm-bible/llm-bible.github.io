@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Contextualize Knowledge Bases With Transformer For End-to-end Task-oriented Dialogue Systems
+title: 'Contextualize Knowledge Bases With Transformer For End-to-end Task-oriented Dialogue Systems'
 authors: Gou Yanjie, Lei Yinjie, Liu Lingqiao, Dai Yong, Shen Chunxu
 conference: "Arxiv"
 year: 2020

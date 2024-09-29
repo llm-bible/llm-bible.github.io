@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM Critics Help Catch LLM Bugs
+title: 'LLM Critics Help Catch LLM Bugs'
 authors: Mcaleese Nat, Pokorny Rai Michael, Uribe Juan Felipe Ceron, Nitishinskaya Evgenia, Trebacz Maja, Leike Jan
 conference: "Arxiv"
 year: 2024

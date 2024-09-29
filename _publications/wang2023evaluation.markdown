@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluation And Analysis Of Hallucination In Large Vision-language Models
+title: 'Evaluation And Analysis Of Hallucination In Large Vision-language Models'
 authors: Junyang Wang, Yiyang Zhou, Guohai Xu, Pengcheng Shi, Chenlin Zhao, Haiyang Xu, Qinghao Ye, Ming Yan, Ji Zhang, Jihua Zhu, Jitao Sang, Haoyu Tang
 conference: "Arxiv"
 year: 2023

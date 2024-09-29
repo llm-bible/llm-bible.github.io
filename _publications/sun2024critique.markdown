@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Critique Of Critique
+title: 'The Critique Of Critique'
 authors: Sun Shichao, Li Junlong, Yuan Weizhe, Yuan Ruifeng, Li Wenjie, Liu Pengfei
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Socratic Reasoning Improves Positive Text Rewriting
+title: 'Socratic Reasoning Improves Positive Text Rewriting'
 authors: Goel Anmol, Daheim Nico, Gurevych Iryna
 conference: "Arxiv"
 year: 2024

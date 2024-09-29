@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Repository For Long Video Understanding
+title: 'Language Repository For Long Video Understanding'
 authors: Kahatapitiya Kumara, Ranasinghe Kanchana, Park Jongwoo, Ryoo Michael S.
 conference: "Arxiv"
 year: 2024

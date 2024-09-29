@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding The Weakness Of Large Language Model Agents Within A Complex Android Environment
+title: 'Understanding The Weakness Of Large Language Model Agents Within A Complex Android Environment'
 authors: Xing Mingzhe, Zhang Rongkai, Xue Hui, Chen Qi, Yang Fan, Xiao Zhen
 conference: "Arxiv"
 year: 2024

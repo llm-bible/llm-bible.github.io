@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Contrastive Learning For Prompt-based Few-shot Language Learners
+title: 'Contrastive Learning For Prompt-based Few-shot Language Learners'
 authors: Jian Yiren, Gao Chongyang, Vosoughi Soroush
 conference: "Arxiv"
 year: 2022

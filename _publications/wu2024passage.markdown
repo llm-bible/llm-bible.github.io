@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Passage-specific Prompt Tuning For Passage Reranking In Question Answering With Large Language Models
+title: 'Passage-specific Prompt Tuning For Passage Reranking In Question Answering With Large Language Models'
 authors: Wu Xuyang, Peng Zhiyuan, Sai Krishna Sravanthi Rajanala, Wu Hsin-tai, Fang Yi
 conference: "Arxiv"
 year: 2024

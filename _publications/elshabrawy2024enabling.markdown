@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enabling Natural Zero-shot Prompting On Encoder Models Via Statement-tuning
+title: 'Enabling Natural Zero-shot Prompting On Encoder Models Via Statement-tuning'
 authors: Elshabrawy Ahmed, Huang Yongxin, Gurevych Iryna, Aji Alham Fikri
 conference: "Arxiv"
 year: 2024

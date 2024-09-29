@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Llms As A Source Of Targeted Synthetic Textual Data To Minimize High Confidence Misclassifications
+title: 'Exploring Llms As A Source Of Targeted Synthetic Textual Data To Minimize High Confidence Misclassifications'
 authors: Lippmann Philip, Spaan Matthijs T. J., Yang Jie
 conference: "Arxiv"
 year: 2024

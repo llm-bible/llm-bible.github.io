@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Teaching Large Language Models An Unseen Language On The Fly
+title: 'Teaching Large Language Models An Unseen Language On The Fly'
 authors: Zhang Chen, Liu Xiao, Lin Jiuheng, Feng Yansong
 conference: "Arxiv"
 year: 2024

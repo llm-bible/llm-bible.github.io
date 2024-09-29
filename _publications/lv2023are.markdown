@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are We Falling In A Middle-intelligence Trap? An Analysis And Mitigation Of The Reversal Curse
+title: 'Are We Falling In A Middle-intelligence Trap? An Analysis And Mitigation Of The Reversal Curse'
 authors: Lv Ang, Zhang Kaiyi, Xie Shufang, Tu Quan, Chen Yuhan, Wen Ji-rong, Yan Rui
 conference: "Arxiv"
 year: 2023

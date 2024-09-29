@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Large Language Models In Conversational Recommender Systems
+title: 'Leveraging Large Language Models In Conversational Recommender Systems'
 authors: Friedman Luke, Ahuja Sameer, Allen David, Tan Zhenning, Sidahmed Hakim, Long Changbo, Xie Jun, Schubiner Gabriel, Patel Ajay, Lara Harsh, Chu Brian, Chen Zexi, Tiwari Manoj
 conference: "Arxiv"
 year: 2023

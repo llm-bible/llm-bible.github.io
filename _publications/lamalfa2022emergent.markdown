@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Emergent Linguistic Structures In Neural Networks Are Fragile
+title: 'Emergent Linguistic Structures In Neural Networks Are Fragile'
 authors: La Malfa Emanuele, Wicker Matthew, Kwiatkowska Marta
 conference: "Arxiv"
 year: 2022

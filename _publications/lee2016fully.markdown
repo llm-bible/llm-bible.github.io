@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fully Character-level Neural Machine Translation Without Explicit Segmentation
+title: 'Fully Character-level Neural Machine Translation Without Explicit Segmentation'
 authors: Lee Jason, Cho Kyunghyun, Hofmann Thomas
 conference: "Arxiv"
 year: 2016

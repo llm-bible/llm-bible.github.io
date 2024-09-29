@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Realistic Evaluation Of Toxicity In Large Language Models
+title: 'Realistic Evaluation Of Toxicity In Large Language Models'
 authors: Luong Tinh Son, Le Thanh-thien, Van Linh Ngo, Nguyen Thien Huu
 conference: "Arxiv"
 year: 2024

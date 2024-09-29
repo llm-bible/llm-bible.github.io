@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Using Large Language Models To Simulate Multiple Humans And Replicate Human Subject Studies
+title: 'Using Large Language Models To Simulate Multiple Humans And Replicate Human Subject Studies'
 authors: Aher Gati, Arriaga Rosa I., Kalai Adam Tauman
 conference: "Arxiv"
 year: 2022

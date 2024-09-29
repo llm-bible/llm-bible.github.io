@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Would I Lie To You? Inference Time Alignment Of Language Models Using Direct Preference Heads
+title: 'Would I Lie To You? Inference Time Alignment Of Language Models Using Direct Preference Heads'
 authors: Hadji-kyriacou Avelina Asada, Arandjelovic Ognjen
 conference: "Arxiv"
 year: 2024

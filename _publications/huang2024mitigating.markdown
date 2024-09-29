@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mitigating Catastrophic Forgetting In Large Language Models With Self-synthesized Rehearsal
+title: 'Mitigating Catastrophic Forgetting In Large Language Models With Self-synthesized Rehearsal'
 authors: Huang Jianheng, Cui Leyang, Wang Ante, Yang Chengyi, Liao Xinting, Song Linfeng, Yao Junfeng, Su Jinsong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Are State-of-the-art Evaluators Of Translation Quality
+title: 'Large Language Models Are State-of-the-art Evaluators Of Translation Quality'
 authors: Kocmi Tom, Federmann Christian
 conference: "Arxiv"
 year: 2023

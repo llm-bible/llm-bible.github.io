@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Seallms -- Large Language Models For Southeast Asia
+title: 'Seallms -- Large Language Models For Southeast Asia'
 authors: Nguyen Xuan-phi, Zhang Wenxuan, Li Xin, Aljunied Mahani, Hu Zhiqiang, Shen Chenhui, Chia Yew Ken, Li Xingxuan, Wang Jianyu, Tan Qingyu, Cheng Liying, Chen Guanzheng, Deng Yue, Yang Sen, Liu Chaoqun, Zhang Hang, Bing Lidong
 conference: "Arxiv"
 year: 2023

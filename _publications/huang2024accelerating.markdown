@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Accelerating Pre-training Of Multimodal Llms Via Chain-of-sight
+title: 'Accelerating Pre-training Of Multimodal Llms Via Chain-of-sight'
 authors: Huang Ziyuan, Ji Kaixiang, Gong Biao, Qing Zhiwu, Zhang Qinglong, Zheng Kecheng, Wang Jian, Chen Jingdong, Yang Ming
 conference: "Arxiv"
 year: 2024

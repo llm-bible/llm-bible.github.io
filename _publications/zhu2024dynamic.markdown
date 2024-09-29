@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dynamic Evaluation Of Large Language Models By Meta Probing Agents
+title: 'Dynamic Evaluation Of Large Language Models By Meta Probing Agents'
 authors: Zhu Kaijie, Wang Jindong, Zhao Qinlin, Xu Ruochen, Xie Xing
 conference: "Arxiv"
 year: 2024

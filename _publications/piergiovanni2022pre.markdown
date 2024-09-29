@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pre-training Image-language Transformers For Open-vocabulary Tasks
+title: 'Pre-training Image-language Transformers For Open-vocabulary Tasks'
 authors: Piergiovanni Aj, Kuo Weicheng, Angelova Anelia
 conference: "Arxiv"
 year: 2022

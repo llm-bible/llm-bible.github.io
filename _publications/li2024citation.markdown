@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Citation-enhanced Generation For Llm-based Chatbots
+title: 'Citation-enhanced Generation For Llm-based Chatbots'
 authors: Li Weitao, Li Junkai, Ma Weizhi, Liu Yang
 conference: "Arxiv"
 year: 2024

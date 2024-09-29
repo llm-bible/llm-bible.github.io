@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Are Reasoning Teachers
+title: 'Large Language Models Are Reasoning Teachers'
 authors: Namgyu Ho, Laura Schmid, Se-young Yun
 conference: "Arxiv"
 year: 2022

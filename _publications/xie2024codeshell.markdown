@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Codeshell Technical Report
+title: 'Codeshell Technical Report'
 authors: Xie Rui, Zeng Zhengran, Yu Zhuohao, Gao Chang, Zhang Shikun, Ye Wei
 conference: "Arxiv"
 year: 2024

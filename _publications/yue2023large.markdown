@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Model Cascades With Mixture Of Thoughts Representations For Cost-efficient Reasoning
+title: 'Large Language Model Cascades With Mixture Of Thoughts Representations For Cost-efficient Reasoning'
 authors: Yue Murong, Zhao Jie, Zhang Min, Du Liang, Yao Ziyu
 conference: "Arxiv"
 year: 2023

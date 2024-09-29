@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models As Misleading Assistants In Conversation
+title: 'Large Language Models As Misleading Assistants In Conversation'
 authors: Hou Betty Li, Shi Kejian, Phang Jason, Aung James, Adler Steven, Campbell Rosie
 conference: "Arxiv"
 year: 2024

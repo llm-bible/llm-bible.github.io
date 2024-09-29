@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ctc-based Non-autoregressive Speech Translation
+title: 'Ctc-based Non-autoregressive Speech Translation'
 authors: Xu Chen, Liu Xiaoqian, Liu Xiaowen, Sun Qingxuan, Zhang Yuhao, Yang Murun, Dong Qianqian, Ko Tom, Wang Mingxuan, Xiao Tong, Ma Anxiang, Zhu Jingbo
 conference: "Arxiv"
 year: 2023

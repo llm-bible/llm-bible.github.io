@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Simple Techniques For Enhancing Sentence Embeddings In Generative Language Models
+title: 'Simple Techniques For Enhancing Sentence Embeddings In Generative Language Models'
 authors: Zhang Bowen, Chang Kehua, Li Chunping
 conference: "Arxiv"
 year: 2024

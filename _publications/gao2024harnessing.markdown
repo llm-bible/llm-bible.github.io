@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Harnessing The Intrinsic Knowledge Of Pretrained Language Models For Challenging Text Classification Settings
+title: 'Harnessing The Intrinsic Knowledge Of Pretrained Language Models For Challenging Text Classification Settings'
 authors: Gao Lingyu
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Effect And Analysis Of Large-scale Language Model Rescoring On Competitive ASR Systems
+title: 'Effect And Analysis Of Large-scale Language Model Rescoring On Competitive ASR Systems'
 authors: Udagawa Takuma, Suzuki Masayuki, Kurata Gakuto, Itoh Nobuyasu, Saon George
 conference: "Arxiv"
 year: 2022

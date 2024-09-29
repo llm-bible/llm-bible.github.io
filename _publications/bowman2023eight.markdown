@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Eight Things To Know About Large Language Models
+title: 'Eight Things To Know About Large Language Models'
 authors: Bowman Samuel R.
 conference: "Arxiv"
 year: 2023

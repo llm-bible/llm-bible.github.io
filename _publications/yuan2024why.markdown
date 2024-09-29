@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Why Lift So Heavy? Slimming Large Language Models By Cutting Off The Layers
+title: 'Why Lift So Heavy? Slimming Large Language Models By Cutting Off The Layers'
 authors: Yuan Shuzhou, Nie Ercong, Ma Bolei, Färber Michael
 conference: "Arxiv"
 year: 2024

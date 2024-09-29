@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: In Defense Of Grid Features For Visual Question Answering
+title: 'In Defense Of Grid Features For Visual Question Answering'
 authors: Jiang Huaizu, Misra Ishan, Rohrbach Marcus, Learned-miller Erik, Chen Xinlei
 conference: "CVPR"
 year: 2020

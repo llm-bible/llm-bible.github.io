@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Massively Pretrained Language Models Make Better Storytellers?
+title: 'Do Massively Pretrained Language Models Make Better Storytellers?'
 authors: See Abigail, Pappu Aneesh, Saxena Rohun, Yerukola Akhila, Manning Christopher D.
 conference: "Arxiv"
 year: 2019

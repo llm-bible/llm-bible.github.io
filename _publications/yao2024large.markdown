@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Are Contrastive Reasoners
+title: 'Large Language Models Are Contrastive Reasoners'
 authors: Yao Liang
 conference: "Arxiv"
 year: 2024

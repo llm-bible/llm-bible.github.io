@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Eyes Wide Shut? Exploring The Visual Shortcomings Of Multimodal Llms
+title: 'Eyes Wide Shut? Exploring The Visual Shortcomings Of Multimodal Llms'
 authors: Tong Shengbang, Liu Zhuang, Zhai Yuexiang, Ma Yi, Lecun Yann, Xie Saining
 conference: "Arxiv"
 year: 2024

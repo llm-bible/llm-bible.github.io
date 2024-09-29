@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Game Development As Human-llm Interaction
+title: 'Game Development As Human-llm Interaction'
 authors: Hong Jiale, Wu Hongqiu, Zhao Hai
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pushing The Limit Of LLM Capacity For Text Classification
+title: 'Pushing The Limit Of LLM Capacity For Text Classification'
 authors: Zhang Yazhou, Wang Mengyao, Ren Chenyu, Li Qiuchi, Tiwari Prayag, Wang Benyou, Qin Jing
 conference: "Arxiv"
 year: 2024

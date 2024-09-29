@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adaptable Logical Control For Large Language Models
+title: 'Adaptable Logical Control For Large Language Models'
 authors: Zhang Honghua, Kung Po-nien, Yoshida Masahiro, Broeck Guy Van Den, Peng Nanyun
 conference: "Arxiv"
 year: 2024

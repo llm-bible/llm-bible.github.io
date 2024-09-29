@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Model Recall Uncertainty Is Modulated By The Fan Effect
+title: 'Large Language Model Recall Uncertainty Is Modulated By The Fan Effect'
 authors: Roberts Jesse, Moore Kyle, Pham Thao, Ewaleifoh Oseremhen, Fisher Doug
 conference: "Arxiv"
 year: 2024

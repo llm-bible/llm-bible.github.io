@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Three-pronged Approach To Cross-lingual Adaptation With Multilingual Llms
+title: 'A Three-pronged Approach To Cross-lingual Adaptation With Multilingual Llms'
 authors: Singh Vaibhav, Krishna Amrith, Nj Karthika, Ramakrishnan Ganesh
 conference: "Arxiv"
 year: 2024

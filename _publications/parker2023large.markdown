@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Large Language Model Approach To Educational Survey Feedback Analysis
+title: 'A Large Language Model Approach To Educational Survey Feedback Analysis'
 authors: Parker Michael J., Anderson Caitlin, Stone Claire, Oh Yearim
 conference: "Int J Artif Intell Educ"
 year: 2023

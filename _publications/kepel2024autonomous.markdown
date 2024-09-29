@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Autonomous Prompt Engineering In Large Language Models
+title: 'Autonomous Prompt Engineering In Large Language Models'
 authors: Kepel Daan, Valogianni Konstantina
 conference: "Arxiv"
 year: 2024

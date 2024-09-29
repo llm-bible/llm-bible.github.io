@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Accelerating Inference In Large Language Models With A Unified Layer Skipping Strategy
+title: 'Accelerating Inference In Large Language Models With A Unified Layer Skipping Strategy'
 authors: Liu Yijin, Meng Fandong, Zhou Jie
 conference: "Arxiv"
 year: 2024

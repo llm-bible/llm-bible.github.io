@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring LGBTQ+ Bias In Generative AI Answers Across Different Country And Religious Contexts
+title: 'Exploring LGBTQ+ Bias In Generative AI Answers Across Different Country And Religious Contexts'
 authors: Vicsek Lilla, Vancsó Anna, Zajko Mike, Takacs Judit
 conference: "Arxiv"
 year: 2024

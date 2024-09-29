@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Building Math Agents With Multi-turn Iterative Preference Learning
+title: 'Building Math Agents With Multi-turn Iterative Preference Learning'
 authors: Xiong Wei, Shi Chengshuai, Shen Jiaming, Rosenberg Aviv, Qin Zhen, Calandriello Daniele, Khalman Misha, Joshi Rishabh, Piot Bilal, Saleh Mohammad, Jin Chi, Zhang Tong, Liu Tianqi
 conference: "Arxiv"
 year: 2024

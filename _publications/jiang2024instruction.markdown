@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instruction-tuned Language Models Are Better Knowledge Learners
+title: 'Instruction-tuned Language Models Are Better Knowledge Learners'
 authors: Jiang Zhengbao, Sun Zhiqing, Shi Weijia, Rodriguez Pedro, Zhou Chunting, Neubig Graham, Lin Xi Victoria, Yih Wen-tau, Iyer Srinivasan
 conference: "Arxiv"
 year: 2024

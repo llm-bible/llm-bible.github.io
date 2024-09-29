@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improve Temporal Awareness Of Llms For Sequential Recommendation
+title: 'Improve Temporal Awareness Of Llms For Sequential Recommendation'
 authors: Chu Zhendong, Wang Zichao, Zhang Ruiyi, Ji Yangfeng, Wang Hongning, Sun Tong
 conference: "Arxiv"
 year: 2024

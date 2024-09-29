@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transformer Language Models Without Positional Encodings Still Learn Positional Information
+title: 'Transformer Language Models Without Positional Encodings Still Learn Positional Information'
 authors: Haviv Adi, Ram Ori, Press Ofir, Izsak Peter, Levy Omer
 conference: "Arxiv"
 year: 2022

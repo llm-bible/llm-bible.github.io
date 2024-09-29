@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficient LLM Inference Solution On Intel GPU
+title: 'Efficient LLM Inference Solution On Intel GPU'
 authors: Wu Hui, Gan Yi, Yuan Feng, Ma Jing, Zhu Wei, Xu Yutao, Zhu Hong, Zhu Yuhua, Liu Xiaoli, Gu Jinghui, Zhao Peng
 conference: "Arxiv"
 year: 2023

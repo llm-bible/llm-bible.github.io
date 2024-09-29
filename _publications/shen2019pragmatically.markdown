@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pragmatically Informative Text Generation
+title: 'Pragmatically Informative Text Generation'
 authors: Shen Sheng, Fried Daniel, Andreas Jacob, Klein Dan
 conference: "Arxiv"
 year: 2019

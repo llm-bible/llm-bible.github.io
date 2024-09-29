@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Cannot Self-correct Reasoning Yet
+title: 'Large Language Models Cannot Self-correct Reasoning Yet'
 authors: Huang Jie, Chen Xinyun, Mishra Swaroop, Zheng Huaixiu Steven, Yu Adams Wei, Song Xinying, Zhou Denny
 conference: "Arxiv"
 year: 2023

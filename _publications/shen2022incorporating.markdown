@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Incorporating Domain Knowledge Through Task Augmentation For Front-end Javascript Code Generation
+title: 'Incorporating Domain Knowledge Through Task Augmentation For Front-end Javascript Code Generation'
 authors: Shen Sijie, Zhu Xiang, Dong Yihong, Guo Qizhi, Zhen Yankun, Li Ge
 conference: "Arxiv"
 year: 2022

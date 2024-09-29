@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automatic Chain Of Thought Prompting In Large Language Models
+title: 'Automatic Chain Of Thought Prompting In Large Language Models'
 authors: Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola
 conference: "Arxiv"
 year: 2022

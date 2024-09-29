@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rethinking Model Selection And Decoding For Keyphrase Generation With Pre-trained Sequence-to-sequence Models
+title: 'Rethinking Model Selection And Decoding For Keyphrase Generation With Pre-trained Sequence-to-sequence Models'
 authors: Wu Di, Ahmad Wasi Uddin, Chang Kai-wei
 conference: "Arxiv"
 year: 2023

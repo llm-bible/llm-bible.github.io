@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Model Can Continue Evolving From Mistakes
+title: 'Large Language Model Can Continue Evolving From Mistakes'
 authors: Zhao Haokun, Han Haixia, Shi Jie, Du Chengyu, Liang Jiaqing, Xiao Yanghua
 conference: "Arxiv"
 year: 2024

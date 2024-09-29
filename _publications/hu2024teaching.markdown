@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Teaching Language Models To Self-improve By Learning From Language Feedback
+title: 'Teaching Language Models To Self-improve By Learning From Language Feedback'
 authors: Hu Chi, Hu Yimin, Cao Hang, Xiao Tong, Zhu Jingbo
 conference: "Arxiv"
 year: 2024

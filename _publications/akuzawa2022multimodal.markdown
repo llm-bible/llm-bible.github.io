@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multimodal Sequential Generative Models For Semi-supervised Language Instruction Following
+title: 'Multimodal Sequential Generative Models For Semi-supervised Language Instruction Following'
 authors: Akuzawa Kei, Iwasawa Yusuke, Matsuo Yutaka
 conference: "Arxiv"
 year: 2022

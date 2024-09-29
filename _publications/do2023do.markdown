@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Llms Work On Charts? Designing Few-shot Prompts For Chart Question Answering And Summarization
+title: 'Do Llms Work On Charts? Designing Few-shot Prompts For Chart Question Answering And Summarization'
 authors: Do Xuan Long, Hassanpour Mohammad, Masry Ahmed, Kavehzadeh Parsa, Hoque Enamul, Joty Shafiq
 conference: "Arxiv"
 year: 2023

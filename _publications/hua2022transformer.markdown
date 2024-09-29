@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transformer Quality In Linear Time
+title: 'Transformer Quality In Linear Time'
 authors: Hua Weizhe, Dai Zihang, Liu Hanxiao, Le Quoc V.
 conference: "Arxiv"
 year: 2022

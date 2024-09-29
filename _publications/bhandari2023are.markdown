@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are Large Language Models Geospatially Knowledgeable?
+title: 'Are Large Language Models Geospatially Knowledgeable?'
 authors: Bhandari Prabin, Anastasopoulos Antonios, Pfoser Dieter
 conference: "Arxiv"
 year: 2023

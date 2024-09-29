@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Natural Language Commanding Via Program Synthesis
+title: 'Natural Language Commanding Via Program Synthesis'
 authors: Gandhi Apurva, Nguyen Thong Q., Jiao Huitian, Steen Robert, Bhatawdekar Ameya
 conference: "Arxiv"
 year: 2023

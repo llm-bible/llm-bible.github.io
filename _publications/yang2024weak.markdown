@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Weak-to-strong Reasoning
+title: 'Weak-to-strong Reasoning'
 authors: Yang Yuqing, Ma Yan, Liu Pengfei
 conference: "Arxiv"
 year: 2024

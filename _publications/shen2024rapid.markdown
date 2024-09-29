@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rapid Optimization For Jailbreaking Llms Via Subconscious Exploitation And Echopraxia
+title: 'Rapid Optimization For Jailbreaking Llms Via Subconscious Exploitation And Echopraxia'
 authors: Shen Guangyu, Cheng Siyuan, Zhang Kaiyuan, Tao Guanhong, An Shengwei, Yan Lu, Zhang Zhuo, Ma Shiqing, Zhang Xiangyu
 conference: "Arxiv"
 year: 2024

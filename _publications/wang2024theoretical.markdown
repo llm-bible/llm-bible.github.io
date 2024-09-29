@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Theoretical Understanding Of Self-correction Through In-context Alignment
+title: 'A Theoretical Understanding Of Self-correction Through In-context Alignment'
 authors: Wang Yifei, Wu Yuyang, Wei Zeming, Jegelka Stefanie, Wang Yisen
 conference: "Arxiv"
 year: 2024

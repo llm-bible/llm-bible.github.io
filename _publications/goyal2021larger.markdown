@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Larger-scale Transformers For Multilingual Masked Language Modeling
+title: 'Larger-scale Transformers For Multilingual Masked Language Modeling'
 authors: Goyal Naman, Du Jingfei, Ott Myle, Anantharaman Giri, Conneau Alexis
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llms Are Biased Towards Output Formats! Systematically Evaluating And Mitigating Output Format Bias Of Llms
+title: 'Llms Are Biased Towards Output Formats! Systematically Evaluating And Mitigating Output Format Bias Of Llms'
 authors: Long Do Xuan, Ngoc Hai Nguyen, Sim Tiviatis, Dao Hieu, Joty Shafiq, Kawaguchi Kenji, Chen Nancy F., Kan Min-yen
 conference: "Arxiv"
 year: 2024

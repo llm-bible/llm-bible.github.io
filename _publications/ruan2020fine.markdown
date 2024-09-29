@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-tuning BERT For Schema-guided Zero-shot Dialogue State Tracking
+title: 'Fine-tuning BERT For Schema-guided Zero-shot Dialogue State Tracking'
 authors: Ruan Yu-ping, Ling Zhen-hua, Gu Jia-chen, Liu Quan
 conference: "Arxiv"
 year: 2020

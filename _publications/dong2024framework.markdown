@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Framework For Real-time Safeguarding The Text Generation Of Large Language Model
+title: 'A Framework For Real-time Safeguarding The Text Generation Of Large Language Model'
 authors: Dong Ximing, Lin Dayi, Wang Shaowei, Hassan Ahmed E.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Operation Sequence Model For Explainable Neural Machine Translation
+title: 'An Operation Sequence Model For Explainable Neural Machine Translation'
 authors: Stahlberg Felix, Saunders Danielle, Byrne Bill
 conference: "Arxiv"
 year: 2018

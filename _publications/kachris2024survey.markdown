@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey On Hardware Accelerators For Large Language Models
+title: 'A Survey On Hardware Accelerators For Large Language Models'
 authors: Kachris Christoforos
 conference: "Arxiv"
 year: 2024

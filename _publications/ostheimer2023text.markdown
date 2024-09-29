@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Text Style Transfer Evaluation Using Large Language Models
+title: 'Text Style Transfer Evaluation Using Large Language Models'
 authors: Ostheimer Phil, Nagda Mayank, Kloft Marius, Fellenz Sophie
 conference: "Arxiv"
 year: 2023

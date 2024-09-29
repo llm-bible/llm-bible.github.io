@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Optimizing Distributed Training On Frontier For Large Language Models
+title: 'Optimizing Distributed Training On Frontier For Large Language Models'
 authors: Dash Sajal, Lyngaas Isaac, Yin Junqi, Wang Xiao, Egele Romain, Cong Guojing, Wang Feiyi, Balaprakash Prasanna
 conference: "Arxiv"
 year: 2023

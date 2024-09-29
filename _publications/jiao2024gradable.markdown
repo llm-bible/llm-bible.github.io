@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gradable Chatgpt Translation Evaluation
+title: 'Gradable Chatgpt Translation Evaluation'
 authors: Jiao Hui, Peng Bei, Zong Lu, Zhang Xiaojun, Li Xinwei
 conference: "Arxiv"
 year: 2024

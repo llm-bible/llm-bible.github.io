@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Explicit Syntactic Guidance For Neural Text Generation
+title: 'Explicit Syntactic Guidance For Neural Text Generation'
 authors: Li Yafu, Cui Leyang, Yan Jianhao, Yin Yongjing, Bi Wei, Shi Shuming, Zhang Yue
 conference: "Arxiv"
 year: 2023

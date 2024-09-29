@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reinforcement Learning With Token-level Feedback For Controllable Text Generation
+title: 'Reinforcement Learning With Token-level Feedback For Controllable Text Generation'
 authors: Li Wendi, Wei Wei, Xu Kaihe, Xie Wenfeng, Chen Dangyang, Cheng Yu
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On Modality Bias In The TVQA Dataset
+title: 'On Modality Bias In The TVQA Dataset'
 authors: Winterbottom Thomas, Xiao Sarah, Mclean Alistair, Moubayed Noura Al
 conference: "Arxiv"
 year: 2020

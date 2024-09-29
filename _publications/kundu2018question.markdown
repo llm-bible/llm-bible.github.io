@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Question-focused Multi-factor Attention Network For Question Answering
+title: 'A Question-focused Multi-factor Attention Network For Question Answering'
 authors: Kundu Souvik, Ng Hwee Tou
 conference: "Arxiv"
 year: 2018

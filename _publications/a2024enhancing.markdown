@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Long-term Memory Using Hierarchical Aggregate Tree For Retrieval Augmented Generation
+title: 'Enhancing Long-term Memory Using Hierarchical Aggregate Tree For Retrieval Augmented Generation'
 authors: A Aadharsh Aadhithya, S Sachin Kumar, P Soman K.
 conference: "Arxiv"
 year: 2024

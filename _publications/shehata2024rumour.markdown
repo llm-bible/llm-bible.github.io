@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rumour Evaluation With Very Large Language Models
+title: 'Rumour Evaluation With Very Large Language Models'
 authors: Shehata Dahlia, Cohen Robin, Clarke Charles
 conference: "Arxiv"
 year: 2024

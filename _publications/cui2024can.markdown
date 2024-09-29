@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can AI Replace Human Subjects? A Large-scale Replication Of Psychological Experiments With Llms
+title: 'Can AI Replace Human Subjects? A Large-scale Replication Of Psychological Experiments With Llms'
 authors: Cui Ziyan, Li Ning, Zhou Huaikang
 conference: "Arxiv"
 year: 2024

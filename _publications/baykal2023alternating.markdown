@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Alternating Updates For Efficient Transformers
+title: 'Alternating Updates For Efficient Transformers'
 authors: Baykal Cenk, Cutler Dylan, Dikkala Nishanth, Ghosh Nikhil, Panigrahy Rina, Wang Xin
 conference: "Arxiv"
 year: 2023

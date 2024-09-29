@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Impact Of Guidance And Interaction Strategies For LLM Use On Learner Performance And Perception
+title: 'Impact Of Guidance And Interaction Strategies For LLM Use On Learner Performance And Perception'
 authors: Kumar Harsh, Musabirov Ilya, Reza Mohi, Shi Jiakai, Wang Xinyuan, Williams Joseph Jay, Kuzminykh Anastasia, Liut Michael
 conference: "Arxiv"
 year: 2023

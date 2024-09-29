@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Teaching Llms To Abstain Across Languages Via Multilingual Feedback
+title: 'Teaching Llms To Abstain Across Languages Via Multilingual Feedback'
 authors: Feng Shangbin, Shi Weijia, Wang Yike, Ding Wenxuan, Ahia Orevaoghene, Li Shuyue Stella, Balachandran Vidhisha, Sitaram Sunayana, Tsvetkov Yulia
 conference: "Arxiv"
 year: 2024

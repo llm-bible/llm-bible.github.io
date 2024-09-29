@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Llms Master Math? Investigating Large Language Models On Math Stack Exchange
+title: 'Can Llms Master Math? Investigating Large Language Models On Math Stack Exchange'
 authors: Satpute Ankit, Giessing Noah, Greiner-petter Andre, Schubotz Moritz, Teschke Olaf, Aizawa Akiko, Gipp Bela
 conference: "Arxiv"
 year: 2024

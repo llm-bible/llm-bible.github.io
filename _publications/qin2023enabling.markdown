@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enabling On-device Large Language Model Personalization With Self-supervised Data Selection And Synthesis
+title: 'Enabling On-device Large Language Model Personalization With Self-supervised Data Selection And Synthesis'
 authors: Qin Ruiyang, Xia Jun, Jia Zhenge, Jiang Meng, Abbasi Ahmed, Zhou Peipei, Hu Jingtong, Shi Yiyu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large-scale Representation Learning From Visually Grounded Untranscribed Speech
+title: 'Large-scale Representation Learning From Visually Grounded Untranscribed Speech'
 authors: Ilharco Gabriel, Zhang Yuan, Baldridge Jason
 conference: "The SIGNLL Conference on Computational Natural Language Learning"
 year: 2019

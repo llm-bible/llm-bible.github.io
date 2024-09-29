@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding And Mitigating Compositional Issues In Text-to-image Generative Models
+title: 'Understanding And Mitigating Compositional Issues In Text-to-image Generative Models'
 authors: Zarei Arman, Rezaei Keivan, Basu Samyadeep, Saberi Mehrdad, Moayeri Mazda, Kattakinda Priyatham, Feizi Soheil
 conference: "Arxiv"
 year: 2024

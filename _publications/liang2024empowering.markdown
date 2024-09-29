@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Empowering Large Language Models To Set Up A Knowledge Retrieval Indexer Via Self-learning
+title: 'Empowering Large Language Models To Set Up A Knowledge Retrieval Indexer Via Self-learning'
 authors: Liang Xun, Niu Simin, Li Zhiyu, Zhang Sensen, Song Shichao, Wang Hanyu, Yang Jiawei, Xiong Feiyu, Tang Bo, Xi Chenyang
 conference: "Arxiv"
 year: 2024

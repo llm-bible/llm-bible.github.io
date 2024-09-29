@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gender-specific Machine Translation With Large Language Models
+title: 'Gender-specific Machine Translation With Large Language Models'
 authors: Sánchez Eduardo, Andrews Pierre, Stenetorp Pontus, Artetxe Mikel, Costa-jussà Marta R.
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey On Large Language Model-based Game Agents
+title: 'A Survey On Large Language Model-based Game Agents'
 authors: Hu Sihao, Huang Tiansheng, Ilhan Fatih, Tekin Selim, Liu Gaowen, Kompella Ramana, Liu Ling
 conference: "Arxiv"
 year: 2024

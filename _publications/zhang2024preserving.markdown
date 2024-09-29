@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Preserving Knowledge In Large Language Model With Model-agnostic Self-decompression
+title: 'Preserving Knowledge In Large Language Model With Model-agnostic Self-decompression'
 authors: Zhang Zilun, Sun Yutao, Zhao Tiancheng, Sha Leigang, Xu Ruochen, Lee Kyusong, Yin Jianwei
 conference: "Arxiv"
 year: 2024

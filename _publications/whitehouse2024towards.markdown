@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Knowledge-grounded Natural Language Understanding And Generation
+title: 'Towards Knowledge-grounded Natural Language Understanding And Generation'
 authors: Whitehouse Chenxi
 conference: "Arxiv"
 year: 2024

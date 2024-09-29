@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Neural Machine Translation With Latent Tree Attention
+title: 'Towards Neural Machine Translation With Latent Tree Attention'
 authors: Bradbury James, Socher Richard
 conference: "Arxiv"
 year: 2017

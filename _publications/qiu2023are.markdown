@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are Large Language Models Temporally Grounded?
+title: 'Are Large Language Models Temporally Grounded?'
 authors: Qiu Yifu, Zhao Zheng, Ziser Yftah, Korhonen Anna, Ponti Edoardo M., Cohen Shay B.
 conference: "Arxiv"
 year: 2023

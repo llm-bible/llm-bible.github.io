@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scaling Laws Of Rope-based Extrapolation
+title: 'Scaling Laws Of Rope-based Extrapolation'
 authors: Liu Xiaoran, Yan Hang, Zhang Shuo, An Chenxin, Qiu Xipeng, Lin Dahua
 conference: "Arxiv"
 year: 2023

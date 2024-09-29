@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Revisiting Large Language Models As Zero-shot Relation Extractors
+title: 'Revisiting Large Language Models As Zero-shot Relation Extractors'
 authors: Li Guozheng, Wang Peng, Ke Wenjun
 conference: "Arxiv"
 year: 2023

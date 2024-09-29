@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Making Neural Machine Reading Comprehension Faster
+title: 'Making Neural Machine Reading Comprehension Faster'
 authors: Chatterjee Debajyoti
 conference: "Arxiv"
 year: 2019

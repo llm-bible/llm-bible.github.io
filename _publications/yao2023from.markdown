@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Instructions To Intrinsic Human Values -- A Survey Of Alignment Goals For Big Models
+title: 'From Instructions To Intrinsic Human Values -- A Survey Of Alignment Goals For Big Models'
 authors: Yao Jing, Yi Xiaoyuan, Wang Xiting, Wang Jindong, Xie Xing
 conference: "Arxiv"
 year: 2023

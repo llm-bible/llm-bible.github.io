@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transformers For Headline Selection For Russian News Clusters
+title: 'Transformers For Headline Selection For Russian News Clusters'
 authors: Voropaev Pavel, Sopilnyak Olga
 conference: "Arxiv"
 year: 2021

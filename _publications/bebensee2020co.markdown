@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Co-attentional Transformers For Story-based Video Understanding
+title: 'Co-attentional Transformers For Story-based Video Understanding'
 authors: Bebensee Björn, Zhang Byoung-tak
 conference: "Arxiv"
 year: 2020

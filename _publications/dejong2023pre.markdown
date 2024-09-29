@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pre-computed Memory Or On-the-fly Encoding? A Hybrid Approach To Retrieval Augmentation Makes The Most Of Your Compute
+title: 'Pre-computed Memory Or On-the-fly Encoding? A Hybrid Approach To Retrieval Augmentation Makes The Most Of Your Compute'
 authors: De Jong Michiel, Zemlyanskiy Yury, Fitzgerald Nicholas, Ainslie Joshua, Sanghai Sumit, Sha Fei, Cohen William
 conference: "Arxiv"
 year: 2023

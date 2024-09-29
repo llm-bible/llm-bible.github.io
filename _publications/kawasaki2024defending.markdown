@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Defending Large Language Models Against Attacks With Residual Stream Activation Analysis
+title: 'Defending Large Language Models Against Attacks With Residual Stream Activation Analysis'
 authors: Kawasaki Amelia, Davis Andrew, Abbas Houssam
 conference: "Arxiv"
 year: 2024

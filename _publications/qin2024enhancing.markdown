@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Sequential Recommendations Through Multi-perspective Reflections And Iteration
+title: 'Enhancing Sequential Recommendations Through Multi-perspective Reflections And Iteration'
 authors: Qin Weicong, Xu Yi, Yu Weijie, Shen Chenglei, Zhang Xiao, He Ming, Fan Jianping, Xu Jun
 conference: "Arxiv"
 year: 2024

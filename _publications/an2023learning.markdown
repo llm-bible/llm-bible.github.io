@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning From Mistakes Makes LLM Better Reasoner
+title: 'Learning From Mistakes Makes LLM Better Reasoner'
 authors: An Shengnan, Ma Zexiong, Lin Zeqi, Zheng Nanning, Lou Jian-guang, Chen Weizhu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Practical Survey On Zero-shot Prompt Design For In-context Learning
+title: 'A Practical Survey On Zero-shot Prompt Design For In-context Learning'
 authors: Li Yinheng
 conference: "RANLP"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dual Recurrent Attention Units For Visual Question Answering
+title: 'Dual Recurrent Attention Units For Visual Question Answering'
 authors: Osman Ahmed, Samek Wojciech
 conference: "Arxiv"
 year: 2018

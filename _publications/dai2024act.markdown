@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ACT-MNMT Auto-constriction Turning For Multilingual Neural Machine Translation
+title: 'ACT-MNMT Auto-constriction Turning For Multilingual Neural Machine Translation'
 authors: Dai Shaojie, Liu Xin, Luo Ping, Yu Yue
 conference: "Arxiv"
 year: 2024

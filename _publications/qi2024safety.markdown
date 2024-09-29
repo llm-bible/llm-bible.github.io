@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Safety Alignment Should Be Made More Than Just A Few Tokens Deep
+title: 'Safety Alignment Should Be Made More Than Just A Few Tokens Deep'
 authors: Qi Xiangyu, Panda Ashwinee, Lyu Kaifeng, Ma Xiao, Roy Subhrajit, Beirami Ahmad, Mittal Prateek, Henderson Peter
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Encoding Syntactic Knowledge In Transformer Encoder For Intent Detection And Slot Filling
+title: 'Encoding Syntactic Knowledge In Transformer Encoder For Intent Detection And Slot Filling'
 authors: Wang Jixuan, Wei Kai, Radfar Martin, Zhang Weiwei, Chung Clement
 conference: "Arxiv"
 year: 2020

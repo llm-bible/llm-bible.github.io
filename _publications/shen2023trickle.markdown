@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Trickle-down Impact Of Reward (in-)consistency On RLHF
+title: 'The Trickle-down Impact Of Reward (in-)consistency On RLHF'
 authors: Shen Lingfeng, Chen Sihao, Song Linfeng, Jin Lifeng, Peng Baolin, Mi Haitao, Khashabi Daniel, Yu Dong
 conference: "Arxiv"
 year: 2023

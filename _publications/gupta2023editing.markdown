@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Editing Common Sense In Transformers
+title: 'Editing Common Sense In Transformers'
 authors: Gupta Anshita, Mondal Debanjan, Sheshadri Akshay Krishna, Zhao Wenlong, Li Xiang Lorraine, Wiegreffe Sarah, Tandon Niket
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dual-phase Accelerated Prompt Optimization
+title: 'Dual-phase Accelerated Prompt Optimization'
 authors: Yang Muchen, Li Moxin, Li Yongle, Chen Zijun, Gao Chongming, Zhang Junqi, Li Yangyang, Feng Fuli
 conference: "Arxiv"
 year: 2024

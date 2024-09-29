@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On Exploring The Reasoning Capability Of Large Language Models With Knowledge Graphs
+title: 'On Exploring The Reasoning Capability Of Large Language Models With Knowledge Graphs'
 authors: Lo Pei-chi, Tsai Yi-hang, Lim Ee-peng, Hwang San-yih
 conference: "Arxiv"
 year: 2023

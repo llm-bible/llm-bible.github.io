@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Simultaneous Machine Translation With Large Language Models
+title: 'Simultaneous Machine Translation With Large Language Models'
 authors: Wang Minghan, Zhao Jinming, Vu Thuy-trang, Shiri Fatemeh, Shareghi Ehsan, Haffari Gholamreza
 conference: "Arxiv"
 year: 2023

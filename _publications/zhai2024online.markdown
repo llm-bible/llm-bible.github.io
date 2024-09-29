@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Online Self-preferring Language Models
+title: 'Online Self-preferring Language Models'
 authors: Zhai Yuanzhao, Zhang Zhuo, Xu Kele, Peng Hanyang, Yu Yue, Feng Dawei, Yang Cheng, Ding Bo, Wang Huaimin
 conference: "Arxiv"
 year: 2024

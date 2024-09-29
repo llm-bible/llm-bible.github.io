@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Niutrans System For WNGT 2020 Efficiency Task
+title: 'The Niutrans System For WNGT 2020 Efficiency Task'
 authors: Hu Chi, Li Bei, Lin Ye, Li Yinqiao, Li Yanyang, Wang Chenglong, Xiao Tong, Zhu Jingbo
 conference: "Arxiv"
 year: 2021

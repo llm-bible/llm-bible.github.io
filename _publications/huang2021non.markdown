@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Non-autoregressive Translation With Layer-wise Prediction And Deep Supervision
+title: 'Non-autoregressive Translation With Layer-wise Prediction And Deep Supervision'
 authors: Huang Chenyang, Zhou Hao, Zaïane Osmar R., Mou Lili, Li Lei
 conference: "Arxiv"
 year: 2021

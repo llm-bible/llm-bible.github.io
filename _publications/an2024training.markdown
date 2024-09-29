@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Training-free Long-context Scaling Of Large Language Models
+title: 'Training-free Long-context Scaling Of Large Language Models'
 authors: An Chenxin, Huang Fei, Zhang Jun, Gong Shansan, Qiu Xipeng, Zhou Chang, Kong Lingpeng
 conference: "Arxiv"
 year: 2024

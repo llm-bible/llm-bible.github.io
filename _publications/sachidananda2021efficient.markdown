@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficient Domain Adaptation Of Language Models Via Adaptive Tokenization
+title: 'Efficient Domain Adaptation Of Language Models Via Adaptive Tokenization'
 authors: Sachidananda Vin, Kessler Jason S., Lai Yi-an
 conference: "Arxiv"
 year: 2021

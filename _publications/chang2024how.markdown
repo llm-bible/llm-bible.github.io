@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Do Large Language Models Acquire Factual Knowledge During Pretraining?
+title: 'How Do Large Language Models Acquire Factual Knowledge During Pretraining?'
 authors: Chang Hoyeon, Park Jinho, Ye Seonghyeon, Yang Sohee, Seo Youngkyung, Chang Du-seong, Seo Minjoon
 conference: "Arxiv"
 year: 2024

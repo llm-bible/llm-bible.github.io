@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unveiling Vulnerability Of Self-attention
+title: 'Unveiling Vulnerability Of Self-attention'
 authors: Liong Khai Jiet, Wu Hongqiu, Zhao Hai
 conference: "Arxiv"
 year: 2024

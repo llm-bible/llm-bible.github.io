@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Interactive Prompt Debugging With Sequence Salience
+title: 'Interactive Prompt Debugging With Sequence Salience'
 authors: Tenney Ian, Mullins Ryan, Du Bin, Pandya Shree, Kahng Minsuk, Dixon Lucas
 conference: "Arxiv"
 year: 2024

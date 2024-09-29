@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Are Inconsistent And Biased Evaluators
+title: 'Large Language Models Are Inconsistent And Biased Evaluators'
 authors: Stureborg Rickard, Alikaniotis Dimitris, Suhara Yoshi
 conference: "Arxiv"
 year: 2024

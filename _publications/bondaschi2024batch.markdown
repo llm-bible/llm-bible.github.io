@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Batch Universal Prediction
+title: 'Batch Universal Prediction'
 authors: Bondaschi Marco, Gastpar Michael
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do GPT Language Models Suffer From Split Personality Disorder? The Advent Of Substrate-free Psychometrics
+title: 'Do GPT Language Models Suffer From Split Personality Disorder? The Advent Of Substrate-free Psychometrics'
 authors: Romero Peter, Fitz Stephen, Nakatsuma Teruo
 conference: "Arxiv"
 year: 2024

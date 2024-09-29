@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-tuning Llama For Multi-stage Text Retrieval
+title: 'Fine-tuning Llama For Multi-stage Text Retrieval'
 authors: Ma Xueguang, Wang Liang, Yang Nan, Wei Furu, Lin Jimmy
 conference: "Arxiv"
 year: 2023

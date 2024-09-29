@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Using Grammar Masking To Ensure Syntactic Validity In Llm-based Modeling Tasks
+title: 'Using Grammar Masking To Ensure Syntactic Validity In Llm-based Modeling Tasks'
 authors: Netz Lukas, Reimer Jan, Rumpe Bernhard
 conference: "Arxiv"
 year: 2024

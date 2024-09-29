@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Contrastive Multi-document Question Generation
+title: 'Contrastive Multi-document Question Generation'
 authors: Cho Woon Sang, Zhang Yizhe, Rao Sudha, Celikyilmaz Asli, Xiong Chenyan, Gao Jianfeng, Wang Mengdi, Dolan Bill
 conference: "Arxiv"
 year: 2019

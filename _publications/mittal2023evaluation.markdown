@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluation Of Faithfulness Using The Longest Supported Subsequence
+title: 'Evaluation Of Faithfulness Using The Longest Supported Subsequence'
 authors: Mittal Anirudh, Schick Timo, Artetxe Mikel, Dwivedi-yu Jane
 conference: "Arxiv"
 year: 2023

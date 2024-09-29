@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vector-quantized Input-contextualized Soft Prompts For Natural Language Understanding
+title: 'Vector-quantized Input-contextualized Soft Prompts For Natural Language Understanding'
 authors: Bhardwaj Rishabh, Saha Amrita, Hoi Steven C. H., Poria Soujanya
 conference: "Arxiv"
 year: 2022

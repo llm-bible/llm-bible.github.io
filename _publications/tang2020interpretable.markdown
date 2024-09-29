@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Interpretable Neural Computation For Real-world Compositional Visual Question Answering
+title: 'Interpretable Neural Computation For Real-world Compositional Visual Question Answering'
 authors: Tang Ruixue, Ma Chao
 conference: "Arxiv"
 year: 2020

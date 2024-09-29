@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Better Zero-shot Reasoning With Self-adaptive Prompting
+title: 'Better Zero-shot Reasoning With Self-adaptive Prompting'
 authors: Wan Xingchen, Sun Ruoxi, Dai Hanjun, Arik Sercan O., Pfister Tomas
 conference: "Arxiv"
 year: 2023

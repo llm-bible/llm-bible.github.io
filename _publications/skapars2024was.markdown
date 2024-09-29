@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Was It Slander? Towards Exact Inversion Of Generative Language Models
+title: 'Was It Slander? Towards Exact Inversion Of Generative Language Models'
 authors: Skapars Adrians, Manino Edoardo, Sun Youcheng, Cordeiro Lucas C.
 conference: "Arxiv"
 year: 2024

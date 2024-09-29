@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhance Modality Robustness In Text-centric Multimodal Alignment With Adversarial Prompting
+title: 'Enhance Modality Robustness In Text-centric Multimodal Alignment With Adversarial Prompting'
 authors: Tsai Yun-da, Yen Ting-yu, Liao Keng-te, Lin Shou-de
 conference: "Arxiv"
 year: 2024

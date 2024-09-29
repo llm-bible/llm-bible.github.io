@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llms-augmented Contextual Bandit
+title: 'Llms-augmented Contextual Bandit'
 authors: Baheri Ali, Alm Cecilia O.
 conference: "Arxiv"
 year: 2023

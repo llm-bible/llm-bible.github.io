@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Predicting Issue Types With Sebert
+title: 'Predicting Issue Types With Sebert'
 authors: Trautsch Alexander, Herbold Steffen
 conference: "Arxiv"
 year: 2022

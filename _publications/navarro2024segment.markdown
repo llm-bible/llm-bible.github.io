@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Segment-based Interactive Machine Translation For Pre-trained Models
+title: 'Segment-based Interactive Machine Translation For Pre-trained Models'
 authors: Navarro Angel, Casacuberta Francisco
 conference: "Arxiv"
 year: 2024

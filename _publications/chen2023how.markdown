@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Robust Is GPT-3.5 To Predecessors? A Comprehensive Study On Language Understanding Tasks
+title: 'How Robust Is GPT-3.5 To Predecessors? A Comprehensive Study On Language Understanding Tasks'
 authors: Xuanting Chen, Junjie Ye, Can Zu, Nuo Xu, Rui Zheng, Minlong Peng, Jie Zhou, Tao Gui, Qi Zhang, Xuanjing Huang
 conference: "Arxiv"
 year: 2023

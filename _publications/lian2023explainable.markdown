@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Explainable Multimodal Emotion Recognition
+title: 'Explainable Multimodal Emotion Recognition'
 authors: Zheng Lian, Haiyang Sun, Licai Sun, Hao Gu, Zhuofan Wen, Siyuan Zhang, Shun Chen, Mingyu Xu, Ke Xu, Kang Chen, Lan Chen, Shan Liang, Ya Li, Jiangyan Yi, Bin Liu, Jianhua Tao
 conference: "Arxiv"
 year: 2023

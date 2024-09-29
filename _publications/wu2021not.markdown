@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Not All Attention Is All You Need
+title: 'Not All Attention Is All You Need'
 authors: Wu Hongqiu, Zhao Hai, Zhang Min
 conference: "Arxiv"
 year: 2021

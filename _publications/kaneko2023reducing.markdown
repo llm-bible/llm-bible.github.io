@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reducing Sequence Length By Predicting Edit Operations With Large Language Models
+title: 'Reducing Sequence Length By Predicting Edit Operations With Large Language Models'
 authors: Kaneko Masahiro, Okazaki Naoaki
 conference: "Arxiv"
 year: 2023

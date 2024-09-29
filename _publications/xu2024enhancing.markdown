@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Retrieval-augmented Lms With A Two-stage Consistency Learning Compressor
+title: 'Enhancing Retrieval-augmented Lms With A Two-stage Consistency Learning Compressor'
 authors: Xu Chuankai, Zhao Dongming, Wang Bo, Xing Hanwen
 conference: "Arxiv"
 year: 2024

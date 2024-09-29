@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are We On The Right Way For Evaluating Large Vision-language Models?
+title: 'Are We On The Right Way For Evaluating Large Vision-language Models?'
 authors: Chen Lin, Li Jinsong, Dong Xiaoyi, Zhang Pan, Zang Yuhang, Chen Zehui, Duan Haodong, Wang Jiaqi, Qiao Yu, Lin Dahua, Zhao Feng
 conference: "Arxiv"
 year: 2024

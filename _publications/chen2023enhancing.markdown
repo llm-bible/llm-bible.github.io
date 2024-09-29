@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Robot Program Synthesis Through Environmental Context
+title: 'Enhancing Robot Program Synthesis Through Environmental Context'
 authors: Chen Tianyi, Wang Qidi, Dong Zhen, Shen Liwei, Peng Xin
 conference: "Arxiv"
 year: 2023

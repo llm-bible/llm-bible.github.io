@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Benefits Of A Concise Chain Of Thought On Problem-solving In Large Language Models
+title: 'The Benefits Of A Concise Chain Of Thought On Problem-solving In Large Language Models'
 authors: Renze Matthew, Guven Erhan
 conference: "Arxiv"
 year: 2024

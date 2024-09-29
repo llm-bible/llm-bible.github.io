@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Assessing And Enhancing The Robustness Of Large Language Models With Task Structure Variations For Logical Reasoning
+title: 'Assessing And Enhancing The Robustness Of Large Language Models With Task Structure Variations For Logical Reasoning'
 authors: Bao Qiming, Gendron Gael, Peng Alex Yuxuan, Zhong Wanjun, Tan Neset, Chen Yang, Witbrock Michael, Liu Jiamou
 conference: "Arxiv"
 year: 2023

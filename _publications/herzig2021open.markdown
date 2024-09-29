@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Open Domain Question Answering Over Tables Via Dense Retrieval
+title: 'Open Domain Question Answering Over Tables Via Dense Retrieval'
 authors: Herzig Jonathan, Müller Thomas, Krichene Syrine, Eisenschlos Julian Martin
 conference: "Arxiv"
 year: 2021

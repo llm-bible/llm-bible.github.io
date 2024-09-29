@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Topic-aware Response Generation In Task-oriented Dialogue With Unstructured Knowledge Access
+title: 'Topic-aware Response Generation In Task-oriented Dialogue With Unstructured Knowledge Access'
 authors: Feng Yue, Lampouras Gerasimos, Iacobacci Ignacio
 conference: "Arxiv"
 year: 2022

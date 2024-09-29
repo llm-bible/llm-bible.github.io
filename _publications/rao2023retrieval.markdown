@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieval-based Knowledge Augmented Vision Language Pre-training
+title: 'Retrieval-based Knowledge Augmented Vision Language Pre-training'
 authors: Rao Jiahua, Shan Zifei, Liu Longpo, Zhou Yao, Yang Yuedong
 conference: "Arxiv"
 year: 2023

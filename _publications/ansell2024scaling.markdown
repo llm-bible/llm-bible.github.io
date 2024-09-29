@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scaling Sparse Fine-tuning To Large Language Models
+title: 'Scaling Sparse Fine-tuning To Large Language Models'
 authors: Ansell Alan, Vulić Ivan, Sterz Hannah, Korhonen Anna, Ponti Edoardo M.
 conference: "Arxiv"
 year: 2024

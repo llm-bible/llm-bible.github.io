@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Large Language Models Latently Perform Multi-hop Reasoning?
+title: 'Do Large Language Models Latently Perform Multi-hop Reasoning?'
 authors: Yang Sohee, Gribovskaya Elena, Kassner Nora, Geva Mor, Riedel Sebastian
 conference: "Arxiv"
 year: 2024

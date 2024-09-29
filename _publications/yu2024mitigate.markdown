@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mitigate Position Bias In Large Language Models Via Scaling A Single Dimension
+title: 'Mitigate Position Bias In Large Language Models Via Scaling A Single Dimension'
 authors: Yu Yijiong, Jiang Huiqiang, Luo Xufang, Wu Qianhui, Lin Chin-yew, Li Dongsheng, Yang Yuqing, Huang Yongfeng, Qiu Lili
 conference: "Arxiv"
 year: 2024

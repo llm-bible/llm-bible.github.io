@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning To Predict Concept Ordering For Common Sense Generation
+title: 'Learning To Predict Concept Ordering For Common Sense Generation'
 authors: Zhang Tianhui, Bollegala Danushka, Peng Bei
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-tuning Large Language Models With Human-inspired Learning Strategies In Medical Question Answering
+title: 'Fine-tuning Large Language Models With Human-inspired Learning Strategies In Medical Question Answering'
 authors: Yang Yushi, Bean Andrew M., Mccraith Robert, Mahdi Adam
 conference: "Arxiv"
 year: 2024

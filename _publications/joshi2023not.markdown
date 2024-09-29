@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "it''s Not Like Jarvis, But It''s Pretty Close!" -- Examining Chatgpt''s Usage Among Undergraduate Students In Computer Science
+title: '"it''s Not Like Jarvis, But It''s Pretty Close!" -- Examining Chatgpt''s Usage Among Undergraduate Students In Computer Science'
 authors: Joshi Ishika, Budhiraja Ritvik, Akolekar Harshal D, Challa Jagat Sesh, Kumar Dhruv
 conference: "Arxiv"
 year: 2023

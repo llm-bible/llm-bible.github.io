@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Knowledge In Multilingual Commonsense Reasoning
+title: 'Leveraging Knowledge In Multilingual Commonsense Reasoning'
 authors: Fang Yuwei, Wang Shuohang, Xu Yichong, Xu Ruochen, Sun Siqi, Zhu Chenguang, Zeng Michael
 conference: "Arxiv"
 year: 2021

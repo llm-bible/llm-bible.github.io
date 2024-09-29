@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Cultural Adaptability Of A Large Language Model Via Simulation Of Synthetic Personas
+title: 'Evaluating Cultural Adaptability Of A Large Language Model Via Simulation Of Synthetic Personas'
 authors: Kwok Louis, Bravansky Michal, Griffin Lewis D.
 conference: "Arxiv"
 year: 2024

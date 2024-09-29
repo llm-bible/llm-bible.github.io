@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Extending Neural Generative Conversational Model Using External Knowledge Sources
+title: 'Extending Neural Generative Conversational Model Using External Knowledge Sources'
 authors: Parthasarathi Prasanna, Pineau Joelle
 conference: "Arxiv"
 year: 2018

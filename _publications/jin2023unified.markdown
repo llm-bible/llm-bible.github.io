@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unified Language-vision Pretraining In LLM With Dynamic Discrete Visual Tokenization
+title: 'Unified Language-vision Pretraining In LLM With Dynamic Discrete Visual Tokenization'
 authors: Yang Jin, Kun Xu, Kun Xu, Liwei Chen, Chao Liao, Jianchao Tan, Quzhe Huang, Bin Chen, Chenyi Lei, An Liu, Chengru Song, Xiaoqiang Lei, Di Zhang, Wenwu Ou, Kun Gai, Yadong Mu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-tuning Language Models For Context-specific SQL Query Generation
+title: 'Fine-tuning Language Models For Context-specific SQL Query Generation'
 authors: Rebei Amine
 conference: "Arxiv"
 year: 2023

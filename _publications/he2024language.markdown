@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Models As Hierarchy Encoders
+title: 'Language Models As Hierarchy Encoders'
 authors: He Yuan, Yuan Zhangdie, Chen Jiaoyan, Horrocks Ian
 conference: "Arxiv"
 year: 2024

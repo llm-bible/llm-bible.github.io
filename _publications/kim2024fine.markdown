@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-tuning CLIP Text Encoders With Two-step Paraphrasing
+title: 'Fine-tuning CLIP Text Encoders With Two-step Paraphrasing'
 authors: Kim Hyunjae, Yoon Seunghyun, Bui Trung, Zhao Handong, Tran Quan, Dernoncourt Franck, Kang Jaewoo
 conference: "Arxiv"
 year: 2024

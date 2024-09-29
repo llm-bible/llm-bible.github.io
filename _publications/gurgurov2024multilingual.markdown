@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multilingual Large Language Models And Curse Of Multilinguality
+title: 'Multilingual Large Language Models And Curse Of Multilinguality'
 authors: Gurgurov Daniil, Bäumel Tanja, Anikina Tatiana
 conference: "Arxiv"
 year: 2024

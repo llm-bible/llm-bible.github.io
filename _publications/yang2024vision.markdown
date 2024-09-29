@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: 3D Vision And Language Pretraining With Large-scale Synthetic Data
+title: '3D Vision And Language Pretraining With Large-scale Synthetic Data'
 authors: Yang Dejie, Xu Zhu, Mo Wentao, Chen Qingchao, Huang Siyuan, Liu Yang
 conference: "Arxiv"
 year: 2024

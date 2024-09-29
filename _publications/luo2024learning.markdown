@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning Positional Attention For Sequential Recommendation
+title: 'Learning Positional Attention For Sequential Recommendation'
 authors: Luo Fan, Zhang Juan, Xu Shenghui
 conference: "Arxiv"
 year: 2024

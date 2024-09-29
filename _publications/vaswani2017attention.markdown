@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attention Is All You Need
+title: 'Attention Is All You Need'
 authors: Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
 conference: "Arxiv"
 year: 2017

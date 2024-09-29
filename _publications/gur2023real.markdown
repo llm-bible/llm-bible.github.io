@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Real-world Webagent With Planning, Long Context Understanding, And Program Synthesis
+title: 'A Real-world Webagent With Planning, Long Context Understanding, And Program Synthesis'
 authors: Gur Izzeddin, Furuta Hiroki, Huang Austin, Safdari Mustafa, Matsuo Yutaka, Eck Douglas, Faust Aleksandra
 conference: "Arxiv"
 year: 2023

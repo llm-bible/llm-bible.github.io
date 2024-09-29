@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dual Modality Prompt Tuning For Vision-language Pre-trained Model
+title: 'Dual Modality Prompt Tuning For Vision-language Pre-trained Model'
 authors: Xing Yinghui, Wu Qirui, Cheng De, Zhang Shizhou, Liang Guoqiang, Wang Peng, Zhang Yanning
 conference: "IEEE Transactions on Multimedia"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Meta-control Of Dialogue Systems Using Large Language Models
+title: 'Meta-control Of Dialogue Systems Using Large Language Models'
 authors: Shukuri Kotaro, Ishigaki Ryoma, Suzuki Jundai, Naganuma Tsubasa, Fujimoto Takuma, Kawakubo Daisuke, Shuzo Masaki, Maeda Eisaku
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Weighted Transformer Network For Machine Translation
+title: 'Weighted Transformer Network For Machine Translation'
 authors: Ahmed Karim, Keskar Nitish Shirish, Socher Richard
 conference: "Arxiv"
 year: 2017

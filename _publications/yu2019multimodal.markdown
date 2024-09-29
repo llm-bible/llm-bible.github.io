@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multimodal Unified Attention Networks For Vision-and-language Interactions
+title: 'Multimodal Unified Attention Networks For Vision-and-language Interactions'
 authors: Yu Zhou, Cui Yuhao, Yu Jun, Tao Dacheng, Tian Qi
 conference: "Arxiv"
 year: 2019

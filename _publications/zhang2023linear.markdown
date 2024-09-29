@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Linear Attention Via Orthogonal Memory
+title: 'Linear Attention Via Orthogonal Memory'
 authors: Zhang Jun, Jiang Shuyang, Feng Jiangtao, Zheng Lin, Kong Lingpeng
 conference: "Arxiv"
 year: 2023

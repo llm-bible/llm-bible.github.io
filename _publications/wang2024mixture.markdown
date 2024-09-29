@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mixture-of-agents Enhances Large Language Model Capabilities
+title: 'Mixture-of-agents Enhances Large Language Model Capabilities'
 authors: Wang Junlin, Wang Jue, Athiwaratkun Ben, Zhang Ce, Zou James
 conference: "Arxiv"
 year: 2024

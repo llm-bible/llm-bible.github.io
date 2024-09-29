@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transformers Meet Neural Algorithmic Reasoners
+title: 'Transformers Meet Neural Algorithmic Reasoners'
 authors: Bounsi Wilfried, Ibarz Borja, Dudzik Andrew, Hamrick Jessica B., Markeeva Larisa, Vitvitskyi Alex, Pascanu Razvan, Veličković Petar
 conference: "Arxiv"
 year: 2024

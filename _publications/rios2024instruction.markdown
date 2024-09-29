@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instruction-tuned Large Language Models For Machine Translation In The Medical Domain
+title: 'Instruction-tuned Large Language Models For Machine Translation In The Medical Domain'
 authors: Rios Miguel
 conference: "Arxiv"
 year: 2024

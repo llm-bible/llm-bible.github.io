@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Imagination-augmented Natural Language Understanding
+title: 'Imagination-augmented Natural Language Understanding'
 authors: Lu Yujie, Zhu Wanrong, Wang Xin Eric, Eckstein Miguel, Wang William Yang
 conference: "Arxiv"
 year: 2022

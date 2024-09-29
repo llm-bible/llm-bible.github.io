@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning Non-linguistic Skills Without Sacrificing Linguistic Proficiency
+title: 'Learning Non-linguistic Skills Without Sacrificing Linguistic Proficiency'
 authors: Sharma Mandar, Muralidhar Nikhil, Ramakrishnan Naren
 conference: "Arxiv"
 year: 2023

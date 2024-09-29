@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rethinking Generative Large Language Model Evaluation For Semantic Comprehension
+title: 'Rethinking Generative Large Language Model Evaluation For Semantic Comprehension'
 authors: Wei Fangyun, Chen Xi, Luo Lin
 conference: "Arxiv"
 year: 2024

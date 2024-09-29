@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning Neural Templates For Recommender Dialogue System
+title: 'Learning Neural Templates For Recommender Dialogue System'
 authors: Liang Zujie, Hu Huang, Xu Can, Miao Jian, He Yingying, Chen Yining, Geng Xiubo, Liang Fan, Jiang Daxin
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Topic Transferable Table Question Answering
+title: 'Topic Transferable Table Question Answering'
 authors: Chemmengath Saneem Ahmed, Kumar Vishwajeet, Bharadwaj Samarth, Sen Jaydeep, Canim Mustafa, Chakrabarti Soumen, Gliozzo Alfio, Sankaranarayanan Karthik
 conference: "Arxiv"
 year: 2021

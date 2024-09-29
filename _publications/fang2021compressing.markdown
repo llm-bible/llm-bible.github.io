@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Compressing Visual-linguistic Model Via Knowledge Distillation
+title: 'Compressing Visual-linguistic Model Via Knowledge Distillation'
 authors: Fang Zhiyuan, Wang Jianfeng, Hu Xiaowei, Wang Lijuan, Yang Yezhou, Liu Zicheng
 conference: "Arxiv"
 year: 2021

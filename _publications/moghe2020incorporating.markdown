@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On Incorporating Structural Information To Improve Dialogue Response Generation
+title: 'On Incorporating Structural Information To Improve Dialogue Response Generation'
 authors: Moghe Nikita, Vijayan Priyesh, Ravindran Balaraman, Khapra Mitesh M.
 conference: "Arxiv"
 year: 2020

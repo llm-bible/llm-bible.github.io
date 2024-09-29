@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning Planning-based Reasoning By Trajectories Collection And Process Reward Synthesizing
+title: 'Learning Planning-based Reasoning By Trajectories Collection And Process Reward Synthesizing'
 authors: Jiao Fangkai, Qin Chengwei, Liu Zhengyuan, Chen Nancy F., Joty Shafiq
 conference: "Arxiv"
 year: 2024

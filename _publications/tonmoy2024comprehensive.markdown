@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Comprehensive Survey Of Hallucination Mitigation Techniques In Large Language Models
+title: 'A Comprehensive Survey Of Hallucination Mitigation Techniques In Large Language Models'
 authors: Tonmoy S. M Towhidul Islam, Zaman S M Mehedi, Jain Vinija, Rani Anku, Rawte Vipula, Chadha Aman, Das Amitava
 conference: "Arxiv"
 year: 2024

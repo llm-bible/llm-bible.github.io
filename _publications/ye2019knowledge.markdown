@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Knowledge-grounded Response Generation With Deep Attentional Latent-variable Model
+title: 'Knowledge-grounded Response Generation With Deep Attentional Latent-variable Model'
 authors: Ye Hao-tong, Lo Kai-ling, Su Shang-yu, Chen Yun-nung
 conference: "Arxiv"
 year: 2019

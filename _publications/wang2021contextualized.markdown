@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Contextualized Scene Imagination For Generative Commonsense Reasoning
+title: 'Contextualized Scene Imagination For Generative Commonsense Reasoning'
 authors: Wang Peifeng, Zamora Jonathan, Liu Junfeng, Ilievski Filip, Chen Muhao, Ren Xiang
 conference: "Arxiv"
 year: 2021

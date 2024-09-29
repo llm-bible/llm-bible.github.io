@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Misconfidence-based Demonstration Selection For LLM In-context Learning
+title: 'Misconfidence-based Demonstration Selection For LLM In-context Learning'
 authors: Xu Shangqing Georgia Institute Of Technology, Zhang Chao Georgia Institute Of Technology
 conference: "Arxiv"
 year: 2024

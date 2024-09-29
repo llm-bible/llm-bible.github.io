@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Distilling Knowledge Learned In BERT For Text Generation
+title: 'Distilling Knowledge Learned In BERT For Text Generation'
 authors: Chen Yen-chun, Gan Zhe, Cheng Yu, Liu Jingzhou, Liu Jingjing
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Distilling Implicit Multimodal Knowledge Into Llms For Zero-resource Dialogue Generation
+title: 'Distilling Implicit Multimodal Knowledge Into Llms For Zero-resource Dialogue Generation'
 authors: Zhang Bo, Ma Hui, Ding Jian, Wang Jian, Xu Bo, Lin Hongfei
 conference: "Arxiv"
 year: 2024

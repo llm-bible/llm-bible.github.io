@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Characterizing Mechanisms For Factual Recall In Language Models
+title: 'Characterizing Mechanisms For Factual Recall In Language Models'
 authors: Yu Qinan, Merullo Jack, Pavlick Ellie
 conference: "Arxiv"
 year: 2023

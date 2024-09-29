@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Verifiable Text Generation With Evolving Memory And Self-reflection
+title: 'Towards Verifiable Text Generation With Evolving Memory And Self-reflection'
 authors: Sun Hao, Cai Hengyi, Wang Bo, Hou Yingyan, Wei Xiaochi, Wang Shuaiqiang, Zhang Yan, Yin Dawei
 conference: "Arxiv"
 year: 2023

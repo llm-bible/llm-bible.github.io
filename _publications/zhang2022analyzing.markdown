@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Analyzing And Simulating User Utterance Reformulation In Conversational Recommender Systems
+title: 'Analyzing And Simulating User Utterance Reformulation In Conversational Recommender Systems'
 authors: Zhang Shuo, Wang Mu-chun, Balog Krisztian
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reducing Language Biases In Visual Question Answering With Visually-grounded Question Encoder
+title: 'Reducing Language Biases In Visual Question Answering With Visually-grounded Question Encoder'
 authors: Kv Gouthaman, Mittal Anurag
 conference: "Arxiv"
 year: 2020

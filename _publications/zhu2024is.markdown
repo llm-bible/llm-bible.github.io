@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is Larger Always Better? Evaluating And Prompting Large Language Models For Non-generative Medical Tasks
+title: 'Is Larger Always Better? Evaluating And Prompting Large Language Models For Non-generative Medical Tasks'
 authors: Zhu Yinghao, Gao Junyi, Wang Zixiang, Liao Weibin, Zheng Xiaochen, Liang Lifang, Wang Yasha, Pan Chengwei, Harrison Ewen M., Ma Liantao
 conference: "Arxiv"
 year: 2024

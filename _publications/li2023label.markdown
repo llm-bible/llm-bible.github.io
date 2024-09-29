@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Label Supervised Llama Finetuning
+title: 'Label Supervised Llama Finetuning'
 authors: Li Zongxi, Li Xianming, Liu Yuzhang, Xie Haoran, Li Jing, Wang Fu-lee, Li Qing, Zhong Xiaoqin
 conference: "Arxiv"
 year: 2023

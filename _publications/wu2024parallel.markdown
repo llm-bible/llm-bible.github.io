@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Parallel Decoding Via Hidden Transfer For Lossless Large Language Model Acceleration
+title: 'Parallel Decoding Via Hidden Transfer For Lossless Large Language Model Acceleration'
 authors: Wu Pengfei, Liu Jiahao, Gong Zhuocheng, Wang Qifan, Li Jinpeng, Wang Jingang, Cai Xunliang, Zhao Dongyan
 conference: "Arxiv"
 year: 2024

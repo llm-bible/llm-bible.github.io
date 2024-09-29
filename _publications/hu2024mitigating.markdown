@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mitigating Large Language Model Hallucination With Faithful Finetuning
+title: 'Mitigating Large Language Model Hallucination With Faithful Finetuning'
 authors: Hu Minda, He Bowei, Wang Yufei, Li Liangyou, Ma Chen, King Irwin
 conference: "Arxiv"
 year: 2024

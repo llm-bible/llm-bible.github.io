@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Machine Translation Hallucination Detection For Low And High Resource Languages Using Large Language Models
+title: 'Machine Translation Hallucination Detection For Low And High Resource Languages Using Large Language Models'
 authors: Benkirane Kenza, Gongas Laura, Pelles Shahar, Fuchs Naomi, Darmon Joshua, Stenetorp Pontus, Adelani David Ifeoluwa, Sánchez Eduardo
 conference: "Arxiv"
 year: 2024

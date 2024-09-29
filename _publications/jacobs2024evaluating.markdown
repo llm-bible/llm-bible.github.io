@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating The Application Of Large Language Models To Generate Feedback In Programming Education
+title: 'Evaluating The Application Of Large Language Models To Generate Feedback In Programming Education'
 authors: Jacobs Sven, Jaschke Steffen
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Generative Large Language Models Need Billions Of Parameters?
+title: 'Do Generative Large Language Models Need Billions Of Parameters?'
 authors: Gholami Sia, Omar Marwan
 conference: "Arxiv"
 year: 2023

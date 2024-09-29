@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Large Language Models Understand Uncommon Meanings Of Common Words?
+title: 'Can Large Language Models Understand Uncommon Meanings Of Common Words?'
 authors: Wu Jinyang, Che Feihu, Zheng Xinxin, Zhang Shuai, Jin Ruihan, Nie Shuai, Shao Pengpeng, Tao Jianhua
 conference: "Arxiv"
 year: 2024

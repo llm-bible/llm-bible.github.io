@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Large Language Models At Evaluating Instruction Following
+title: 'Evaluating Large Language Models At Evaluating Instruction Following'
 authors: Zeng Zhiyuan, Yu Jiatong, Gao Tianyu, Meng Yu, Goyal Tanya, Chen Danqi
 conference: "Arxiv"
 year: 2023

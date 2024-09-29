@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Vision-language Transformers Exhibit Visual Commonsense? An Empirical Study Of VCR
+title: 'Do Vision-language Transformers Exhibit Visual Commonsense? An Empirical Study Of VCR'
 authors: Li Zhenyang, Guo Yangyang, Wang Kejie, Chen Xiaolin, Nie Liqiang, Kankanhalli Mohan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompting Large Language Models With Knowledge Graphs For Question Answering Involving Long-tail Facts
+title: 'Prompting Large Language Models With Knowledge Graphs For Question Answering Involving Long-tail Facts'
 authors: Huang Wenyu, Zhou Guancheng, Lapata Mirella, Vougiouklis Pavlos, Montella Sebastien, Pan Jeff Z.
 conference: "Arxiv"
 year: 2024

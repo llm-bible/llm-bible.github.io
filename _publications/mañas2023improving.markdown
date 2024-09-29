@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Automatic VQA Evaluation Using Large Language Models
+title: 'Improving Automatic VQA Evaluation Using Large Language Models'
 authors: Mañas Oscar, Krojer Benno, Agrawal Aishwarya
 conference: "Arxiv"
 year: 2023

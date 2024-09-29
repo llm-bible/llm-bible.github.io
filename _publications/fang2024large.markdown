@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Are Neurosymbolic Reasoners
+title: 'Large Language Models Are Neurosymbolic Reasoners'
 authors: Fang Meng, Deng Shilong, Zhang Yudi, Shi Zijing, Chen Ling, Pechenizkiy Mykola, Wang Jun
 conference: "Arxiv"
 year: 2024

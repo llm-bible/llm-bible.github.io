@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Imagination Is All You Need! Curved Contrastive Learning For Abstract Sequence Modeling Utilized On Long Short-term Dialogue Planning
+title: 'Imagination Is All You Need! Curved Contrastive Learning For Abstract Sequence Modeling Utilized On Long Short-term Dialogue Planning'
 authors: Erker Justus-jonas, Schaffer Stefan, Spanakis Gerasimos
 conference: "Arxiv"
 year: 2022

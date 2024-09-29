@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Poison Of Alignment
+title: 'The Poison Of Alignment'
 authors: Bekbayev Aibek, Chun Sungbae, Dulat Yerzat, Yamazaki James
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Predicting Question-answering Performance Of Large Language Models Through Semantic Consistency
+title: 'Predicting Question-answering Performance Of Large Language Models Through Semantic Consistency'
 authors: Rabinovich Ella, Ackerman Samuel, Raz Orna, Farchi Eitan, Anaby-tavor Ateret
 conference: "Arxiv"
 year: 2023

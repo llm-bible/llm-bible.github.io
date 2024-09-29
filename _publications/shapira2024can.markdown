@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Llms Replace Economic Choice Prediction Labs? The Case Of Language-based Persuasion Games
+title: 'Can Llms Replace Economic Choice Prediction Labs? The Case Of Language-based Persuasion Games'
 authors: Shapira Eilam, Madmon Omer, Reichart Roi, Tennenholtz Moshe
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Knowledgeable Salient Span Mask For Enhancing Language Models As Knowledge Base
+title: 'Knowledgeable Salient Span Mask For Enhancing Language Models As Knowledge Base'
 authors: Wang Cunxiang, Luo Fuli, Li Yanyang, Xu Runxin, Huang Fei, Zhang Yue
 conference: "Arxiv"
 year: 2022

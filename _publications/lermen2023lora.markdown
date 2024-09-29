@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lora Fine-tuning Efficiently Undoes Safety Training In Llama 2-chat 70B
+title: 'Lora Fine-tuning Efficiently Undoes Safety Training In Llama 2-chat 70B'
 authors: Lermen Simon, Rogers-smith Charlie, Ladish Jeffrey
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is Chatgpt A Good Translator? Yes With GPT-4 As The Engine
+title: 'Is Chatgpt A Good Translator? Yes With GPT-4 As The Engine'
 authors: Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang, Shuming Shi, Zhaopeng Tu
 conference: "Arxiv"
 year: 2023

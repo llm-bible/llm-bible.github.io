@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Language Models By Retrieving From Trillions Of Tokens
+title: 'Improving Language Models By Retrieving From Trillions Of Tokens'
 authors: Borgeaud Sebastian, Mensch Arthur, Hoffmann Jordan, Cai Trevor, Rutherford Eliza, Millican Katie, Driessche George Van Den, Lespiau Jean-baptiste, Damoc Bogdan, Clark Aidan, Casas Diego De Las, Guy Aurelia, Menick Jacob, Ring Roman, Hennigan Tom, Huang Saffron, Maggiore Loren, Jones Chris, Cassirer Albin, Brock Andy, Paganini Michela, Irving Geoffrey, Vinyals Oriol, Osindero Simon, Simonyan Karen, Rae Jack W., Elsen Erich, Sifre Laurent
 conference: "Arxiv"
 year: 2021

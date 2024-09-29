@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Primer On Pretrained Multilingual Language Models
+title: 'A Primer On Pretrained Multilingual Language Models'
 authors: Doddapaneni Sumanth, Ramesh Gowtham, Khapra Mitesh M., Kunchukuttan Anoop, Kumar Pratyush
 conference: "Arxiv"
 year: 2021

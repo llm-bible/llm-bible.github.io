@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generating Query Recommendations Via Llms
+title: 'Generating Query Recommendations Via Llms'
 authors: Bacciu Andrea, Palumbo Enrico, Damianou Andreas, Tonellotto Nicola, Silvestri Fabrizio
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Probability Of Differentiation Reveals Brittleness Of Homogeneity Bias In Large Language Models
+title: 'Probability Of Differentiation Reveals Brittleness Of Homogeneity Bias In Large Language Models'
 authors: Lee Messi H. J., Lai Calvin K.
 conference: "Arxiv"
 year: 2024

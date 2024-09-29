@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tailoring Personality Traits In Large Language Models Via Unsupervisedly-built Personalized Lexicons
+title: 'Tailoring Personality Traits In Large Language Models Via Unsupervisedly-built Personalized Lexicons'
 authors: Li Tianlong, Dou Shihan, Lv Changze, Liu Wenhao, Xu Jianhan, Wu Muling, Ling Zixuan, Zheng Xiaoqing, Huang Xuanjing
 conference: "Arxiv"
 year: 2023

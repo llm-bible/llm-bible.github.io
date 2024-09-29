@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Qualitative Research Using Llms
+title: 'Exploring Qualitative Research Using Llms'
 authors: Bano Muneera, Zowghi Didar, Whittle Jon
 conference: "Arxiv"
 year: 2023

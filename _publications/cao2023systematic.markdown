@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Systematic Rectification Of Language Models Via Dead-end Analysis
+title: 'Systematic Rectification Of Language Models Via Dead-end Analysis'
 authors: Cao Meng, Fatemi Mehdi, Cheung Jackie Chi Kit, Shabanian Samira
 conference: "ICLR"
 year: 2023

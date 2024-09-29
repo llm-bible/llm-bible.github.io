@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Model Sentence Completion With A Parser-driven Rhetorical Control Method
+title: 'Language Model Sentence Completion With A Parser-driven Rhetorical Control Method'
 authors: Zingale Joshua, Kalita Jugal
 conference: "Arxiv"
 year: 2024

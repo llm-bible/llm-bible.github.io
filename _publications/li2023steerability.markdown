@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On The Steerability Of Large Language Models Toward Data-driven Personas
+title: 'On The Steerability Of Large Language Models Toward Data-driven Personas'
 authors: Li Junyi, Mehrabi Ninareh, Peris Charith, Goyal Palash, Chang Kai-wei, Galstyan Aram, Zemel Richard, Gupta Rahul
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Harnessing The Power Of Adversarial Prompting And Large Language Models For Robust Hypothesis Generation In Astronomy
+title: 'Harnessing The Power Of Adversarial Prompting And Large Language Models For Robust Hypothesis Generation In Astronomy'
 authors: Ciucă Ioana, Ting Yuan-sen, Kruk Sandor, Iyer Kartheik
 conference: "Arxiv"
 year: 2023

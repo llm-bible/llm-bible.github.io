@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Visual Question Answering Through Question-driven Image Captions As Prompts
+title: 'Enhancing Visual Question Answering Through Question-driven Image Captions As Prompts'
 authors: Özdemir Övgü, Akagündüz Erdem
 conference: "Arxiv"
 year: 2024

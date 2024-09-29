@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Robust Adaptation Of Foundation Models With Black-box Visual Prompting
+title: 'Robust Adaptation Of Foundation Models With Black-box Visual Prompting'
 authors: Oh Changdae, Seo Gyeongdeok, Jung Geunyoung, Cheng Zhi-qi, Choi Hosik, Jung Jiyoung, Song Kyungwoo
 conference: "Arxiv"
 year: 2024

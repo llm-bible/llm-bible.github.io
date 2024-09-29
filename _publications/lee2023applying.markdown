@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Applying Large Language Models And Chain-of-thought For Automatic Scoring
+title: 'Applying Large Language Models And Chain-of-thought For Automatic Scoring'
 authors: Lee Gyeong-geon, Latif Ehsan, Wu Xuansheng, Liu Ninghao, Zhai Xiaoming
 conference: "Arxiv"
 year: 2023

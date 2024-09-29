@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reinforced Self-training (rest) For Language Modeling
+title: 'Reinforced Self-training (rest) For Language Modeling'
 authors: Gulcehre Caglar, Paine Tom Le, Srinivasan Srivatsan, Konyushkova Ksenia, Weerts Lotte, Sharma Abhishek, Siddhant Aditya, Ahern Alex, Wang Miaosen, Gu Chenjie, Macherey Wolfgang, Doucet Arnaud, Firat Orhan, De Freitas Nando
 conference: "Arxiv"
 year: 2023

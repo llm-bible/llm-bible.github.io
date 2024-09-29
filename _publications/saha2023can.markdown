@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students Via Personalization
+title: 'Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students Via Personalization'
 authors: Swarnadeep Saha, Peter Hase, Mohit Bansal
 conference: "Arxiv"
 year: 2023

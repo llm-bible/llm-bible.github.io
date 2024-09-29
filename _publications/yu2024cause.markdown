@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Cause-effect Look At Alleviating Hallucination Of Knowledge-grounded Dialogue Generation
+title: 'A Cause-effect Look At Alleviating Hallucination Of Knowledge-grounded Dialogue Generation'
 authors: Yu Jifan, Zhang Xiaohan, Xu Yifan, Lei Xuanyu, Yao Zijun, Zhang Jing, Hou Lei, Li Juanzi
 conference: "Arxiv"
 year: 2024

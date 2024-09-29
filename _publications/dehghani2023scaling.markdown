@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scaling Vision Transformers To 22 Billion Parameters
+title: 'Scaling Vision Transformers To 22 Billion Parameters'
 authors: Dehghani Mostafa, Djolonga Josip, Mustafa Basil, Padlewski Piotr, Heek Jonathan, Gilmer Justin, Steiner Andreas, Caron Mathilde, Geirhos Robert, Alabdulmohsin Ibrahim, Jenatton Rodolphe, Beyer Lucas, Tschannen Michael, Arnab Anurag, Wang Xiao, Riquelme Carlos, Minderer Matthias, Puigcerver Joan, Evci Utku, Kumar Manoj, Van Steenkiste Sjoerd, Elsayed Gamaleldin F., Mahendran Aravindh, Yu Fisher, Oliver Avital, Huot Fantine, Bastings Jasmijn, Collier Mark Patrick, Gritsenko Alexey, Birodkar Vighnesh, Vasconcelos Cristina, Tay Yi, Mensink Thomas, Kolesnikov Alexander, Pavetić Filip, Tran Dustin, Kipf Thomas, Lučić Mario, Zhai Xiaohua, Keysers Daniel, Harmsen Jeremiah, Houlsby Neil
 conference: "Arxiv"
 year: 2023

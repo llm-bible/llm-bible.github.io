@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Making A Long Story Short In Conversation Modeling
+title: 'Making A Long Story Short In Conversation Modeling'
 authors: Tao Yufei, Mines Tiernan, Agrawal Ameeta
 conference: "Arxiv"
 year: 2024

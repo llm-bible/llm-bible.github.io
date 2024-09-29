@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adaptation With Self-evaluation To Improve Selective Prediction In Llms
+title: 'Adaptation With Self-evaluation To Improve Selective Prediction In Llms'
 authors: Chen Jiefeng, Yoon Jinsung, Ebrahimi Sayna, Arik Sercan O, Pfister Tomas, Jha Somesh
 conference: "Arxiv"
 year: 2023

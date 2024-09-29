@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tree-based Hard Attention With Self-motivation For Large Language Models
+title: 'Tree-based Hard Attention With Self-motivation For Large Language Models'
 authors: Lin Chenxi, Ren Jiayu, He Guoxiu, Jiang Zhuoren, Yu Haiyan, Zhu Xiaomin
 conference: "Arxiv"
 year: 2024

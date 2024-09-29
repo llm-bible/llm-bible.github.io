@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llm-oriented Retrieval Tuner
+title: 'Llm-oriented Retrieval Tuner'
 authors: Sun Si, Zhang Hanqing, Liu Zhiyuan, Bao Jie, Song Dawei
 conference: "Arxiv"
 year: 2024

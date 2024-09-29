@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Procedural Adherence And Interpretability Through Neuro-symbolic Generative Agents
+title: 'Procedural Adherence And Interpretability Through Neuro-symbolic Generative Agents'
 authors: Rothkopf Raven, Zeng Hannah Tongxin, Santolucito Mark
 conference: "Arxiv"
 year: 2024

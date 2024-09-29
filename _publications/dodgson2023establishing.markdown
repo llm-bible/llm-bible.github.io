@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Establishing Performance Baselines In Fine-tuning, Retrieval-augmented Generation And Soft-prompting For Non-specialist LLM Users
+title: 'Establishing Performance Baselines In Fine-tuning, Retrieval-augmented Generation And Soft-prompting For Non-specialist LLM Users'
 authors: Dodgson Jennifer, Nanzheng Lin, Peh Julian, Pattirane Akira Rafhael Janson, Alhajir Alfath Daryl, Dinarto Eko Ridho, Lim Joseph, Ahmad Syed Danyal
 conference: "Arxiv"
 year: 2023

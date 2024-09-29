@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models As Zero-shot Conversational Recommenders
+title: 'Large Language Models As Zero-shot Conversational Recommenders'
 authors: Zhankui He, Zhouhang Xie, Rahul Jha, Harald Steck, Dawen Liang, Yesu Feng, Bodhisattwa Prasad Majumder, Nathan Kallus, Julian Mcauley
 conference: "Arxiv"
 year: 2023

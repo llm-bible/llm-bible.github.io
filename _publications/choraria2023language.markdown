@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Grounded Qformer For Efficient Vision Language Understanding
+title: 'Language Grounded Qformer For Efficient Vision Language Understanding'
 authors: Choraria Moulik, Sekhar Nitesh, Wu Yue, Zhang Xu, Singhal Prateek, Varshney Lav R.
 conference: "Arxiv"
 year: 2023

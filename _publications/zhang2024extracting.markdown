@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Extracting Prompts By Inverting LLM Outputs
+title: 'Extracting Prompts By Inverting LLM Outputs'
 authors: Zhang Collin, Morris John X., Shmatikov Vitaly
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-selected Attention Span For Accelerating Large Language Model Inference
+title: 'Self-selected Attention Span For Accelerating Large Language Model Inference'
 authors: Jin Tian, Yazar Wanzin, Xu Zifei, Sharify Sayeh, Wang Xin
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hybrid Generative-retrieval Transformers For Dialogue Domain Adaptation
+title: 'Hybrid Generative-retrieval Transformers For Dialogue Domain Adaptation'
 authors: Shalyminov Igor, Sordoni Alessandro, Atkinson Adam, Schulz Hannes
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Llms Learn New Concepts Incrementally Without Forgetting?
+title: 'Can Llms Learn New Concepts Incrementally Without Forgetting?'
 authors: Zheng Junhao, Qiu Shengjie, Ma Qianli
 conference: "Arxiv"
 year: 2024

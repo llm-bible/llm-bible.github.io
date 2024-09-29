@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scaling Data Diversity For Fine-tuning Language Models In Human Alignment
+title: 'Scaling Data Diversity For Fine-tuning Language Models In Human Alignment'
 authors: Song Feifan, Yu Bowen, Lang Hao, Yu Haiyang, Huang Fei, Wang Houfeng, Li Yongbin
 conference: "Arxiv"
 year: 2024

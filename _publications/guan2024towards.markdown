@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Generalist Prompting For Large Language Models By Mental Models
+title: 'Towards Generalist Prompting For Large Language Models By Mental Models'
 authors: Guan Haoxiang, He Jiyan, Zheng Shuxin, Chen En-hong, Zhang Weiming, Yu Nenghai
 conference: "Arxiv"
 year: 2024

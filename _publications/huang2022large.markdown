@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Can Self-improve
+title: 'Large Language Models Can Self-improve'
 authors: Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han
 conference: "Arxiv"
 year: 2022

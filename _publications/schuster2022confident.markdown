@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Confident Adaptive Language Modeling
+title: 'Confident Adaptive Language Modeling'
 authors: Schuster Tal, Fisch Adam, Gupta Jai, Dehghani Mostafa, Bahri Dara, Tran Vinh Q., Tay Yi, Metzler Donald
 conference: "Arxiv"
 year: 2022

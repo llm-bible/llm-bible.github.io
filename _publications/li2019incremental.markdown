@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Incremental Transformer With Deliberation Decoder For Document Grounded Conversations
+title: 'Incremental Transformer With Deliberation Decoder For Document Grounded Conversations'
 authors: Li Zekang, Niu Cheng, Meng Fandong, Feng Yang, Li Qian, Zhou Jie
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-tuning Multimodal Llms To Follow Zero-shot Demonstrative Instructions
+title: 'Fine-tuning Multimodal Llms To Follow Zero-shot Demonstrative Instructions'
 authors: Li Juncheng, Pan Kaihang, Ge Zhiqi, Gao Minghe, Ji Wei, Zhang Wenqiao, Chua Tat-seng, Tang Siliang, Zhang Hanwang, Zhuang Yueting
 conference: "Arxiv"
 year: 2023

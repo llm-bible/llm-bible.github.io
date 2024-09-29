@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fundamentals Of Generative Large Language Models And Perspectives In Cyber-defense
+title: 'Fundamentals Of Generative Large Language Models And Perspectives In Cyber-defense'
 authors: Kucharavy Andrei, Schillaci Zachary, Maréchal Loïc, Würsch Maxime, Dolamic Ljiljana, Sabonnadiere Remi, David Dimitri Percia, Mermoud Alain, Lenders Vincent
 conference: "Arxiv"
 year: 2023

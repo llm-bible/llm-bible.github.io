@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Open Models, Closed Minds? On Agents Capabilities In Mimicking Human Personalities Through Open Large Language Models
+title: 'Open Models, Closed Minds? On Agents Capabilities In Mimicking Human Personalities Through Open Large Language Models'
 authors: La Cava Lucio, Tagarelli Andrea
 conference: "Arxiv"
 year: 2024

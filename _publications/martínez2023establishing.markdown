@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Establishing Vocabulary Tests As A Benchmark For Evaluating Large Language Models
+title: 'Establishing Vocabulary Tests As A Benchmark For Evaluating Large Language Models'
 authors: Martínez Gonzalo, Conde Javier, Merino-gómez Elena, Bermúdez-margaretto Beatriz, Hernández José Alberto, Reviriego Pedro, Brysbaert Marc
 conference: "Arxiv"
 year: 2023

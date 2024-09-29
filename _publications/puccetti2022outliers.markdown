@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Outliers Dimensions That Disrupt Transformers Are Driven By Frequency
+title: 'Outliers Dimensions That Disrupt Transformers Are Driven By Frequency'
 authors: Puccetti Giovanni, Rogers Anna, Drozd Aleksandr, Dell'orletta Felice
 conference: "Arxiv"
 year: 2022

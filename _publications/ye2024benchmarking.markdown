@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Benchmarking Llms Via Uncertainty Quantification
+title: 'Benchmarking Llms Via Uncertainty Quantification'
 authors: Ye Fanghua, Yang Mingming, Pang Jianhui, Wang Longyue, Wong Derek F., Yilmaz Emine, Shi Shuming, Tu Zhaopeng
 conference: "Arxiv"
 year: 2024

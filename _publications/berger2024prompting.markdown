@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompting Large Language Models With Human Error Markings For Self-correcting Machine Translation
+title: 'Prompting Large Language Models With Human Error Markings For Self-correcting Machine Translation'
 authors: Berger Nathaniel, Riezler Stefan, Exel Miriam, Huck Matthias
 conference: "Arxiv"
 year: 2024

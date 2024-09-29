@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reinforced Prompt Personalization For Recommendation With Large Language Models
+title: 'Reinforced Prompt Personalization For Recommendation With Large Language Models'
 authors: Mao Wenyu, Wu Jiancan, Chen Weijian, Gao Chongming, Wang Xiang, He Xiangnan
 conference: "Arxiv"
 year: 2024

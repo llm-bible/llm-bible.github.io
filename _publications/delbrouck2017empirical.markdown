@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Empirical Study On The Effectiveness Of Images In Multimodal Neural Machine Translation
+title: 'An Empirical Study On The Effectiveness Of Images In Multimodal Neural Machine Translation'
 authors: Delbrouck Jean-benoit, Dupont Stéphane
 conference: "Proceedings of the"
 year: 2017

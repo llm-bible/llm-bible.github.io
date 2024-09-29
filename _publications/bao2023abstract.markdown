@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Abstract Meaning Representation-based Logic-driven Data Augmentation For Logical Reasoning
+title: 'Abstract Meaning Representation-based Logic-driven Data Augmentation For Logical Reasoning'
 authors: Bao Qiming, Peng Alex Yuxuan, Deng Zhenyun, Zhong Wanjun, Gendron Gael, Pistotti Timothy, Tan Neset, Young Nathan, Chen Yang, Zhu Yonghua, Denny Paul, Witbrock Michael, Liu Jiamou
 conference: "Arxiv"
 year: 2023

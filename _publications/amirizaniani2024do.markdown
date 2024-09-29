@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Llms Exhibit Human-like Reasoning? Evaluating Theory Of Mind In Llms For Open-ended Responses
+title: 'Do Llms Exhibit Human-like Reasoning? Evaluating Theory Of Mind In Llms For Open-ended Responses'
 authors: Amirizaniani Maryam, Martin Elias, Sivachenko Maryna, Mashhadi Afra, Shah Chirag
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards An On-device Agent For Text Rewriting
+title: 'Towards An On-device Agent For Text Rewriting'
 authors: Zhu Yun, Liu Yinxiao, Stahlberg Felix, Kumar Shankar, Chen Yu-hui, Luo Liangchen, Shu Lei, Liu Renjie, Chen Jindong, Meng Lei
 conference: "Arxiv"
 year: 2023

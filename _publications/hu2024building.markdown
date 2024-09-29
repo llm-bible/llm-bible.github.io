@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: 3D Building Generation In Minecraft Via Large Language Models
+title: '3D Building Generation In Minecraft Via Large Language Models'
 authors: Hu Shiying, Huang Zengrong, Hu Chengpeng, Liu Jialin
 conference: "Arxiv"
 year: 2024

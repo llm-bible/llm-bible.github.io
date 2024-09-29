@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ISAAQ -- Mastering Textbook Questions With Pre-trained Transformers And Bottom-up And Top-down Attention
+title: 'ISAAQ -- Mastering Textbook Questions With Pre-trained Transformers And Bottom-up And Top-down Attention'
 authors: Gomez-perez Jose Manuel, Ortega Raul
 conference: "Arxiv"
 year: 2020

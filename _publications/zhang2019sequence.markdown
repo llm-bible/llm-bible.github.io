@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sequence-to-sequence Pre-training With Data Augmentation For Sentence Rewriting
+title: 'Sequence-to-sequence Pre-training With Data Augmentation For Sentence Rewriting'
 authors: Zhang Yi, Ge Tao, Wei Furu, Zhou Ming, Sun Xu
 conference: "Arxiv"
 year: 2019

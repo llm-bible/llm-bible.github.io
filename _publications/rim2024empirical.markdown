@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Empirical Study Of Symmetrical Reasoning In Conversational Chatbots
+title: 'Empirical Study Of Symmetrical Reasoning In Conversational Chatbots'
 authors: Rim Daniela N., Choi Heeyoul
 conference: "Arxiv"
 year: 2024

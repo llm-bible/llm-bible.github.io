@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Distilling Mathematical Reasoning Capabilities Into Small Language Models
+title: 'Distilling Mathematical Reasoning Capabilities Into Small Language Models'
 authors: Zhu Xunyu, Li Jian, Liu Yong, Ma Can, Wang Weiping
 conference: "Arxiv"
 year: 2024

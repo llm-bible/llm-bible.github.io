@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hierarchical Transformer For Task Oriented Dialog Systems
+title: 'Hierarchical Transformer For Task Oriented Dialog Systems'
 authors: Santra Bishal, Anusha Potnuru, Goyal Pawan
 conference: "Arxiv"
 year: 2020

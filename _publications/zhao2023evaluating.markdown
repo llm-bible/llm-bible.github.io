@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On Evaluating Adversarial Robustness Of Large Vision-language Models
+title: 'On Evaluating Adversarial Robustness Of Large Vision-language Models'
 authors: Yunqing Zhao, Tianyu Pang, Chao Du, Xiao Yang, Chongxuan Li, Ngai-man Cheung, Min Lin
 conference: "Arxiv"
 year: 2023

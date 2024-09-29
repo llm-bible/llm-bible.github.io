@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Banishing LLM Hallucinations Requires Rethinking Generalization
+title: 'Banishing LLM Hallucinations Requires Rethinking Generalization'
 authors: Li Johnny, Consul Saksham, Zhou Eda, Wong James, Farooqui Naila, Ye Yuxin, Manohar Nithyashree, Wei Zhuxiaona, Wu Tian, Echols Ben, Zhou Sharon, Diamos Gregory
 conference: "Arxiv"
 year: 2024

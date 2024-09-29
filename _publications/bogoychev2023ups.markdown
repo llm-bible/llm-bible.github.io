@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Ups And Downs Of Large Language Model Inference With Vocabulary Trimming By Language Heuristics
+title: 'The Ups And Downs Of Large Language Model Inference With Vocabulary Trimming By Language Heuristics'
 authors: Bogoychev Nikolay, Chen Pinzhen, Haddow Barry, Birch Alexandra
 conference: "Arxiv"
 year: 2023

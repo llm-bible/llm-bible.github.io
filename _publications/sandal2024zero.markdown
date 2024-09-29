@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zero-shot RTL Code Generation With Attention Sink Augmented Large Language Models
+title: 'Zero-shot RTL Code Generation With Attention Sink Augmented Large Language Models'
 authors: Sandal Selim, Akturk Ismail
 conference: "Arxiv"
 year: 2024

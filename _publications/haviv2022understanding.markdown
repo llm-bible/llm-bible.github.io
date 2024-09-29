@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding Transformer Memorization Recall Through Idioms
+title: 'Understanding Transformer Memorization Recall Through Idioms'
 authors: Haviv Adi, Cohen Ido, Gidron Jacob, Schuster Roei, Goldberg Yoav, Geva Mor
 conference: "Arxiv"
 year: 2022

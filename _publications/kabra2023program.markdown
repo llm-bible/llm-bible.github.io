@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Program-aided Reasoners (better) Know What They Know
+title: 'Program-aided Reasoners (better) Know What They Know'
 authors: Kabra Anubha, Rangreji Sanketh, Mathur Yash, Madaan Aman, Liu Emmy, Neubig Graham
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Multilingual Large Language Models Mitigate Stereotype Bias?
+title: 'Do Multilingual Large Language Models Mitigate Stereotype Bias?'
 authors: Nie Shangrui, Fromm Michael, Welch Charles, Görge Rebekka, Karimi Akbar, Plepi Joan, Mowmita Nazia Afsan, Flores-herr Nicolas, Ali Mehdi, Flek Lucie
 conference: "Arxiv"
 year: 2024

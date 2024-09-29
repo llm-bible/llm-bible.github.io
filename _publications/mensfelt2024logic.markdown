@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Logic-enhanced Language Model Agents For Trustworthy Social Simulations
+title: 'Logic-enhanced Language Model Agents For Trustworthy Social Simulations'
 authors: Mensfelt Agnieszka, Stathis Kostas, Trencsenyi Vince
 conference: "Arxiv"
 year: 2024

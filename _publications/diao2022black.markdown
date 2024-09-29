@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Black-box Prompt Learning For Pre-trained Language Models
+title: 'Black-box Prompt Learning For Pre-trained Language Models'
 authors: Diao Shizhe, Huang Zhichao, Xu Ruijia, Li Xuechun, Lin Yong, Zhou Xiao, Zhang Tong
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Effective Demonstration Annotation For In-context Learning Via Language Model-based Determinantal Point Process
+title: 'Effective Demonstration Annotation For In-context Learning Via Language Model-based Determinantal Point Process'
 authors: Wang Peng, Wang Xiaobin, Lou Chao, Mao Shengyu, Xie Pengjun, Jiang Yong
 conference: "Arxiv"
 year: 2024

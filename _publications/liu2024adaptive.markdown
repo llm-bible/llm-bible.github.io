@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adaptive Draft-verification For Efficient Large Language Model Decoding
+title: 'Adaptive Draft-verification For Efficient Large Language Model Decoding'
 authors: Liu Xukun, Lei Bowen, Zhang Ruqi, Xu Dongkuan
 conference: "Arxiv"
 year: 2024
