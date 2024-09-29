@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BoschAI @ PLABA 2023 Leveraging Edit Operations in End-to-End Neural Sentence Simplification
+title: BoschAI PLABA 2023 Leveraging Edit Operations in End-to-End Neural Sentence Simplification
 authors: Knappich Valentin, Razniewski Simon, Friedrich Annemarie
 conference: "Arxiv"
 year: 2023
