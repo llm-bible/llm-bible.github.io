@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llms For Generating And Evaluating Counterfactuals: A Comprehensive Study
+title: Llms For Generating And Evaluating Counterfactuals\: A Comprehensive Study
 authors: Nguyen Van Bach, Youssef Paul, Schlötterer Jörg, Seifert Christin
 conference: "Arxiv"
 year: 2024

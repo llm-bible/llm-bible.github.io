@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Notellm: A Retrievable Large Language Model For Note Recommendation
+title: Notellm\: A Retrievable Large Language Model For Note Recommendation
 authors: Chao Zhang, Shiwei Wu, Haoxin Zhang, Tong Xu, Yan Gao, Yao Hu, Di Wu, Enhong Chen
 conference: "Arxiv"
 year: 2024

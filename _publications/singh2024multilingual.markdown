@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Indicgenbench: A Multilingual Benchmark To Evaluate Generation Capabilities Of Llms On Indic Languages
+title: Indicgenbench\: A Multilingual Benchmark To Evaluate Generation Capabilities Of Llms On Indic Languages
 authors: Singh Harman, Gupta Nitish, Bharadwaj Shikhar, Tewari Dinesh, Talukdar Partha
 conference: "Arxiv"
 year: 2024

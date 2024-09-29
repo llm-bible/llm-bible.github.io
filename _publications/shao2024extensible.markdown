@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Extensible Embedding: A Flexible Multipler For Llm's Context Length
+title: Extensible Embedding\: A Flexible Multipler For Llm's Context Length
 authors: Shao Ninglu, Xiao Shitao, Liu Zheng, Zhang Peitian
 conference: "Arxiv"
 year: 2024

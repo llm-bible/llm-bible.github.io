@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Llms On Document-based QA: Exact Answer Selection And Numerical Extraction Using Cogtale Dataset
+title: Evaluating Llms On Document-based QA\: Exact Answer Selection And Numerical Extraction Using Cogtale Dataset
 authors: Rasool Zafaryab, Kurniawan Stefanus, Balugo Sherwin, Barnett Scott, Vasa Rajesh, Chesser Courtney, Hampstead Benjamin M., Belleville Sylvie, Mouzakis Kon, Bahar-fuchs Alex
 conference: "Arxiv"
 year: 2023

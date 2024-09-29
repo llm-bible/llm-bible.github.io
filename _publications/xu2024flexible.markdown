@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vtensor: Flexible Virtual Tensor Management For Efficient LLM Serving
+title: Vtensor\: Flexible Virtual Tensor Management For Efficient LLM Serving
 authors: Xu Jiale, Zhang Rui, Guo Cong, Hu Weiming, Liu Zihan, Wu Feiyang, Feng Yu, Sun Shixuan, Shao Changxu, Guo Yuhong, Zhao Junping, Zhang Ke, Guo Minyi, Leng Jingwen
 conference: "Arxiv"
 year: 2024

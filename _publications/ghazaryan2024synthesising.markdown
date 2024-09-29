@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Syndarin: Synthesising Datasets For Automated Reasoning In Low-resource Languages
+title: Syndarin\: Synthesising Datasets For Automated Reasoning In Low-resource Languages
 authors: Ghazaryan Gayane, Arakelyan Erik, Minervini Pasquale, Augenstein Isabelle
 conference: "Arxiv"
 year: 2024

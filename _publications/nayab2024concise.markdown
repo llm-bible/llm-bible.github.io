@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Concise Thoughts: Impact Of Output Length On LLM Reasoning And Cost
+title: Concise Thoughts\: Impact Of Output Length On LLM Reasoning And Cost
 authors: Nayab Sania, Rossolini Giulio, Buttazzo Giorgio, Manes Nicolamaria, Giacomelli Fabrizio
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PEFT-U: Parameter-efficient Fine-tuning For User Personalization
+title: PEFT-U\: Parameter-efficient Fine-tuning For User Personalization
 authors: Clarke Christopher, Heng Yuzhao, Tang Lingjia, Mars Jason
 conference: "Arxiv"
 year: 2024

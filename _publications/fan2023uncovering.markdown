@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Uncovering The Potential Of Chatgpt For Discourse Analysis In Dialogue: An Empirical Study
+title: Uncovering The Potential Of Chatgpt For Discourse Analysis In Dialogue\: An Empirical Study
 authors: Fan Yaxin, Jiang Feng, Li Peifeng, Li Haizhou
 conference: "Arxiv"
 year: 2023

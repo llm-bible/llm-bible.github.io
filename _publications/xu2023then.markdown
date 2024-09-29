@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Compress, Then Prompt: Improving Accuracy-efficiency Trade-off Of LLM Inference With Transferable Prompt
+title: Compress, Then Prompt\: Improving Accuracy-efficiency Trade-off Of LLM Inference With Transferable Prompt
 authors: Xu Zhaozhuo, Liu Zirui, Chen Beidi, Tang Yuxin, Wang Jue, Zhou Kaixiong, Hu Xia, Shrivastava Anshumali
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hypotermqa: Hypothetical Terms Dataset For Benchmarking Hallucination Tendency Of Llms
+title: Hypotermqa\: Hypothetical Terms Dataset For Benchmarking Hallucination Tendency Of Llms
 authors: Uluoglakci Cem Middle East Technical University, Temizel Tugba Taskaya Middle East Technical University
 conference: "Arxiv"
 year: 2024

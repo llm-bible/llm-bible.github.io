@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Multimodal Agents: A Survey
+title: Large Multimodal Agents\: A Survey
 authors: Xie Junlin, Chen Zhihong, Zhang Ruifei, Wan Xiang, Li Guanbin
 conference: "Arxiv"
 year: 2024

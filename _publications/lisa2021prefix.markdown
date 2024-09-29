@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prefix-tuning: Optimizing Continuous Prompts For Generation
+title: Prefix-tuning\: Optimizing Continuous Prompts For Generation
 authors: Xiang Lisa Li, Percy Liang
 conference: "Arxiv"
 year: 2021

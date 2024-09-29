@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FRSUM: Towards Faithful Abstractive Summarization Via Enhancing Factual Robustness
+title: FRSUM\: Towards Faithful Abstractive Summarization Via Enhancing Factual Robustness
 authors: Wu Wenhao, Li Wei, Liu Jiachen, Xiao Xinyan, Cao Ziqiang, Li Sujian, Wu Hua
 conference: "Arxiv"
 year: 2022

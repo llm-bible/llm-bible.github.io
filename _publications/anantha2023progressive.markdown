@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Protip: Progressive Tool Retrieval Improves Planning
+title: Protip\: Progressive Tool Retrieval Improves Planning
 authors: Anantha Raviteja, Bandyopadhyay Bortik, Kashi Anirudh, Mahinder Sayantan, Hill Andrew W, Chappidi Srinivas
 conference: "Arxiv"
 year: 2023

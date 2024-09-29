@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-head RAG: Solving Multi-aspect Problems With Llms
+title: Multi-head RAG\: Solving Multi-aspect Problems With Llms
 authors: Besta Maciej, Kubicek Ales, Niggli Roman, Gerstenberger Robert, Weitzendorf Lucas, Chi Mingyuan, Iff Patrick, Gajda Joanna, Nyczyk Piotr, Müller Jürgen, Niewiadomski Hubert, Chrapek Marcin, Podstawski Michał, Hoefler Torsten
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MINDECHO: Role-playing Language Agents For Key Opinion Leaders
+title: MINDECHO\: Role-playing Language Agents For Key Opinion Leaders
 authors: Xu Rui, Lu Dakuan, Tan Xiaoyu, Wang Xintao, Yuan Siyu, Chen Jiangjie, Chu Wei, Yinghui Xu
 conference: "Arxiv"
 year: 2024

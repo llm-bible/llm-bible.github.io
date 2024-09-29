@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Don't Listen To Me: Understanding And Exploring Jailbreak Prompts Of Large Language Models
+title: Don't Listen To Me\: Understanding And Exploring Jailbreak Prompts Of Large Language Models
 authors: Yu Zhiyuan, Liu Xiaogeng, Liang Shunning, Cameron Zach, Xiao Chaowei, Zhang Ning
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tool Calling: Enhancing Medication Consultation Via Retrieval-augmented Large Language Models
+title: Tool Calling\: Enhancing Medication Consultation Via Retrieval-augmented Large Language Models
 authors: Huang Zhongzhen, Xue Kui, Fan Yongqi, Mu Linjie, Liu Ruoyu, Ruan Tong, Zhang Shaoting, Zhang Xiaofan
 conference: "Arxiv"
 year: 2024

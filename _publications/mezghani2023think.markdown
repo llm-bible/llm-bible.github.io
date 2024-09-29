@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Think Before You Act: Unified Policy For Interleaving Language Reasoning With Actions
+title: Think Before You Act\: Unified Policy For Interleaving Language Reasoning With Actions
 authors: Mezghani Lina, Bojanowski Piotr, Alahari Karteek, Sukhbaatar Sainbayar
 conference: "Reincarnating Reinforcement Learning Workshop at ICLR"
 year: 2023

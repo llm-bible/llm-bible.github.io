@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-judge: Selective Instruction Following With Alignment Self-evaluation
+title: Self-judge\: Selective Instruction Following With Alignment Self-evaluation
 authors: Ye Hai, Ng Hwee Tou
 conference: "Arxiv"
 year: 2024

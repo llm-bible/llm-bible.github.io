@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompting Large Language Models For Recommender Systems: A Comprehensive Framework And Empirical Analysis
+title: Prompting Large Language Models For Recommender Systems\: A Comprehensive Framework And Empirical Analysis
 authors: Xu Lanling, Zhang Junjie, Li Bingqian, Wang Jinpeng, Cai Mingchen, Zhao Wayne Xin, Wen Ji-rong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Good, The Bad, And The Greedy: Evaluation Of Llms Should Not Ignore Non-determinism
+title: The Good, The Bad, And The Greedy\: Evaluation Of Llms Should Not Ignore Non-determinism
 authors: Song Yifan, Wang Guoyin, Li Sujian, Lin Bill Yuchen
 conference: "Arxiv"
 year: 2024

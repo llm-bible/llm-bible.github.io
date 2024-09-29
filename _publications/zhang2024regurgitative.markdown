@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Regurgitative Training: The Value Of Real Data In Training Large Language Models
+title: Regurgitative Training\: The Value Of Real Data In Training Large Language Models
 authors: Zhang Jinghui, Qiao Dandan, Yang Mochen, Wei Qiang
 conference: "Arxiv"
 year: 2024

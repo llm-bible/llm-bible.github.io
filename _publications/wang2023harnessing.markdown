@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Harnessing The Power Of David Against Goliath: Exploring Instruction Data Generation Without Using Closed-source Models
+title: Harnessing The Power Of David Against Goliath\: Exploring Instruction Data Generation Without Using Closed-source Models
 authors: Wang Yue, Wang Xinrui, Li Juntao, Chang Jinxiong, Zhang Qishen, Liu Zhongyi, Zhang Guannan, Zhang Min
 conference: "Arxiv"
 year: 2023

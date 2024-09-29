@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BEYOND DIALOGUE: A Profile-dialogue Alignment Framework Towards General Role-playing Language Model
+title: BEYOND DIALOGUE\: A Profile-dialogue Alignment Framework Towards General Role-playing Language Model
 authors: Yu Yeyong, Yu Runsheng, Wei Haojie, Zhang Zhanqiu, Qian Quan
 conference: "Arxiv"
 year: 2024

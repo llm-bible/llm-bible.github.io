@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mmlongbench-doc: Benchmarking Long-context Document Understanding With Visualizations
+title: Mmlongbench-doc\: Benchmarking Long-context Document Understanding With Visualizations
 authors: Ma Yubo, Zang Yuhang, Chen Liangyu, Chen Meiqi, Jiao Yizhu, Li Xinze, Lu Xinyuan, Liu Ziyu, Ma Yan, Dong Xiaoyi, Zhang Pan, Pan Liangming, Jiang Yu-gang, Wang Jiaqi, Cao Yixin, Sun Aixin
 conference: "Arxiv"
 year: 2024

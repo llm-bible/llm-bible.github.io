@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fid-ex: Improving Sequence-to-sequence Models For Extractive Rationale Generation
+title: Fid-ex\: Improving Sequence-to-sequence Models For Extractive Rationale Generation
 authors: Lakhotia Kushal, Paranjape Bhargavi, Ghoshal Asish, Yih Wen-tau, Mehdad Yashar, Iyer Srinivasan
 conference: "Arxiv"
 year: 2020

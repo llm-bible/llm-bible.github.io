@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Advancing Tool-augmented Large Language Models: Integrating Insights From Errors In Inference Trees
+title: Advancing Tool-augmented Large Language Models\: Integrating Insights From Errors In Inference Trees
 authors: Chen Sijia, Wang Yibo, Wu Yi-feng, Chen Qing-guo, Xu Zhao, Luo Weihua, Zhang Kaifu, Zhang Lijun
 conference: "Arxiv"
 year: 2024

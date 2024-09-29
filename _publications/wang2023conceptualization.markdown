@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CAR: Conceptualization-augmented Reasoner For Zero-shot Commonsense Question Answering
+title: CAR\: Conceptualization-augmented Reasoner For Zero-shot Commonsense Question Answering
 authors: Wang Weiqi, Fang Tianqing, Ding Wenxuan, Xu Baixuan, Liu Xin, Song Yangqiu, Bosselut Antoine
 conference: "Arxiv"
 year: 2023

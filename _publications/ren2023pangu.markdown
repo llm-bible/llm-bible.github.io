@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pangu-σ: Towards Trillion Parameter Language Model With Sparse Heterogeneous Computing
+title: Pangu-σ\: Towards Trillion Parameter Language Model With Sparse Heterogeneous Computing
 authors: Xiaozhe Ren, Pingyi Zhou, Xinfan Meng, Xinjing Huang, Yadao Wang, Weichao Wang, Pengfei Li, Xiaoda Zhang, Alexander Podolskiy, Grigory Arshinov, Andrey Bout, Irina Piontkovskaya, Jiansheng Wei, Xin Jiang, Teng Su, Qun Liu, Jun Yao
 conference: "Arxiv"
 year: 2023

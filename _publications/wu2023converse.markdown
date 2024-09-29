@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mathchat: Converse To Tackle Challenging Math Problems With LLM Agents
+title: Mathchat\: Converse To Tackle Challenging Math Problems With LLM Agents
 authors: Wu Yiran, Jia Feiran, Zhang Shaokun, Li Hangyu, Zhu Erkang, Wang Yue, Lee Yin Tat, Peng Richard, Wu Qingyun, Wang Chi
 conference: "Arxiv"
 year: 2023

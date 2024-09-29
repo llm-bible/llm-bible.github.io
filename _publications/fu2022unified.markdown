@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MIGA: A Unified Multi-task Generation Framework For Conversational Text-to-sql
+title: MIGA\: A Unified Multi-task Generation Framework For Conversational Text-to-sql
 authors: Fu Yingwen, Ou Wenjie, Yu Zhou, Lin Yue
 conference: "Arxiv"
 year: 2022

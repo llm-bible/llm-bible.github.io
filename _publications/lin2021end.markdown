@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VX2TEXT: End-to-end Learning Of Video-based Text Generation From Multimodal Inputs
+title: VX2TEXT\: End-to-end Learning Of Video-based Text Generation From Multimodal Inputs
 authors: Lin Xudong, Bertasius Gedas, Wang Jue, Chang Shih-fu, Parikh Devi, Torresani Lorenzo
 conference: "Arxiv"
 year: 2021

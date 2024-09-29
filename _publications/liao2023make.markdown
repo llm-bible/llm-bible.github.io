@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Make Pre-trained Model Reversible: From Parameter To Memory Efficient Fine-tuning
+title: Make Pre-trained Model Reversible\: From Parameter To Memory Efficient Fine-tuning
 authors: Liao Baohao, Tan Shaomu, Monz Christof
 conference: "Arxiv"
 year: 2023

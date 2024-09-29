@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ACORT: A Compact Object Relation Transformer For Parameter Efficient Image Captioning
+title: ACORT\: A Compact Object Relation Transformer For Parameter Efficient Image Captioning
 authors: Tan Jia Huei, Tan Ying Hua, Chan Chee Seng, Chuah Joon Huang
 conference: "Arxiv"
 year: 2022

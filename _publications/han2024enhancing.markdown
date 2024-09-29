@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing CTR Prediction Through Sequential Recommendation Pre-training: Introducing The SRP4CTR Framework
+title: Enhancing CTR Prediction Through Sequential Recommendation Pre-training\: Introducing The SRP4CTR Framework
 authors: Han Ruidong, Li Qianzhong, Jiang He, Li Rui, Zhao Yurou, Li Xiang, Lin Wei
 conference: "Arxiv"
 year: 2024

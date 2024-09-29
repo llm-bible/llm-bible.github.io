@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Layoutlmv3: Pre-training For Document AI With Unified Text And Image Masking
+title: Layoutlmv3\: Pre-training For Document AI With Unified Text And Image Masking
 authors: Huang Yupan, Lv Tengchao, Cui Lei, Lu Yutong, Wei Furu
 conference: "Arxiv"
 year: 2022

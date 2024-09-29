@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Imagination Augmented Generation: Learning To Imagine Richer Context For Question Answering Over Large Language Models
+title: Imagination Augmented Generation\: Learning To Imagine Richer Context For Question Answering Over Large Language Models
 authors: Liao Huanxuan, He Shizhu, Xu Yao, Zhang Yuanzhe, Liu Kang, Liu Shengping, Zhao Jun
 conference: "Arxiv"
 year: 2024

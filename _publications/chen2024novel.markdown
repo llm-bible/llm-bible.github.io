@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: M$^3$cot: A Novel Benchmark For Multi-domain Multi-step Multi-modal Chain-of-thought
+title: M$^3$cot\: A Novel Benchmark For Multi-domain Multi-step Multi-modal Chain-of-thought
 authors: Chen Qiguang, Qin Libo, Zhang Jin, Chen Zhi, Xu Xiao, Che Wanxiang
 conference: "Arxiv"
 year: 2024

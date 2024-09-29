@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llm-in-the-loop: Leveraging Large Language Model For Thematic Analysis
+title: Llm-in-the-loop\: Leveraging Large Language Model For Thematic Analysis
 authors: Dai Shih-chieh, Xiong Aiping, Ku Lun-wei
 conference: "Arxiv"
 year: 2023

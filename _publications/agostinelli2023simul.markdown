@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Simul-llm: A Framework For Exploring High-quality Simultaneous Translation With Large Language Models
+title: Simul-llm\: A Framework For Exploring High-quality Simultaneous Translation With Large Language Models
 authors: Agostinelli Victor, Wild Max, Raffel Matthew, Fuad Kazi Ahmed Asif, Chen Lizhong
 conference: "Arxiv"
 year: 2023

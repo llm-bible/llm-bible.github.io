@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mirror: A Multiple-perspective Self-reflection Method For Knowledge-rich Reasoning
+title: Mirror\: A Multiple-perspective Self-reflection Method For Knowledge-rich Reasoning
 authors: Yan Hanqi, Zhu Qinglin, Wang Xinyu, Gui Lin, He Yulan
 conference: "Arxiv"
 year: 2024

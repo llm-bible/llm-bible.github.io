@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Structlm: Towards Building Generalist Models For Structured Knowledge Grounding
+title: Structlm\: Towards Building Generalist Models For Structured Knowledge Grounding
 authors: Zhuang Alex, Zhang Ge, Zheng Tianyu, Du Xinrun, Wang Junjie, Ren Weiming, Huang Stephen W., Fu Jie, Yue Xiang, Chen Wenhu
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llmparser: An Exploratory Study On Using Large Language Models For Log Parsing
+title: Llmparser\: An Exploratory Study On Using Large Language Models For Log Parsing
 authors: Ma Zeyang, Chen An Ran, Kim Dong Jae, Chen Tse-hsun, Wang Shaowei
 conference: "Arxiv"
 year: 2024

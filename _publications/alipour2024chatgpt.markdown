@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatgpt Alternative Solutions: Large Language Models Survey
+title: Chatgpt Alternative Solutions\: Large Language Models Survey
 authors: Alipour Hanieh, Pendar Nick, Roy Kohinoor
 conference: "David C. Wyld et al."
 year: 2024

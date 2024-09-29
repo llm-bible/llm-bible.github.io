@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Two Sides Of The Coin: Hallucination Generation And Detection With Llms As Evaluators For Llms
+title: The Two Sides Of The Coin\: Hallucination Generation And Detection With Llms As Evaluators For Llms
 authors: Bui Anh Thu Maria, Brech Saskia Felizitas, Hußfeldt Natalie, Jennert Tobias, Ullrich Melanie, Breuer Timo, Khasmakhi Narjes Nikzad, Schaer Philipp
 conference: "Arxiv"
 year: 2024

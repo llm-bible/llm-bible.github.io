@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ureader: Universal Ocr-free Visually-situated Language Understanding With Multimodal Large Language Model
+title: Ureader\: Universal Ocr-free Visually-situated Language Understanding With Multimodal Large Language Model
 authors: Ye Jiabo, Hu Anwen, Xu Haiyang, Ye Qinghao, Yan Ming, Xu Guohai, Li Chenliang, Tian Junfeng, Qian Qi, Zhang Ji, Jin Qin, He Liang, Lin Xin Alex, Huang Fei
 conference: "Arxiv"
 year: 2023

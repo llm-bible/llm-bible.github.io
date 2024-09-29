@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Thinking Clearly, Talking Fast: Concept-guided Non-autoregressive Generation For Open-domain Dialogue Systems
+title: Thinking Clearly, Talking Fast\: Concept-guided Non-autoregressive Generation For Open-domain Dialogue Systems
 authors: Zou Yicheng, Liu Zhihua, Hu Xingwu, Zhang Qi
 conference: "Arxiv"
 year: 2021

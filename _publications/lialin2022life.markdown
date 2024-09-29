@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Life After BERT: What Do Other Muppets Understand About Language?
+title: Life After BERT\: What Do Other Muppets Understand About Language?
 authors: Lialin Vladislav, Zhao Kevin, Shivagunde Namrata, Rumshisky Anna
 conference: "Proceedings of the"
 year: 2022

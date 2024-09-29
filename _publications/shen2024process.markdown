@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Proctag: Process Tagging For Assessing The Efficacy Of Document Instruction Data
+title: Proctag\: Process Tagging For Assessing The Efficacy Of Document Instruction Data
 authors: Shen Yufan, Luo Chuwei, Zhu Zhaoqing, Chen Yang, Zheng Qi, Yu Zhi, Bu Jiajun, Yao Cong
 conference: "Arxiv"
 year: 2024

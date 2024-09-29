@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Arondight: Red Teaming Large Vision Language Models With Auto-generated Multi-modal Jailbreak Prompts
+title: Arondight\: Red Teaming Large Vision Language Models With Auto-generated Multi-modal Jailbreak Prompts
 authors: Liu Yi, Cai Chengjun, Zhang Xiaoli, Yuan Xingliang, Wang Cong
 conference: "Arxiv"
 year: 2024

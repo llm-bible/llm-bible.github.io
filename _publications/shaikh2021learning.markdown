@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Laviter: Learning Aligned Visual And Textual Representations Assisted By Image And Caption Generation
+title: Laviter\: Learning Aligned Visual And Textual Representations Assisted By Image And Caption Generation
 authors: Shaikh Mohammad Abuzar, Ji Zhanghexuan, Moukheiber Dana, Shen Yan, Srihari Sargur, Gao Mingchen
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Starcoder: May The Source Be With You!
+title: Starcoder\: May The Source Be With You!
 authors: Li Raymond, Allal Loubna Ben, Zi Yangtian, Muennighoff Niklas, Kocetkov Denis, Mou Chenghao, Marone Marc, Akiki Christopher, Li Jia, Chim Jenny, Liu Qian, Zheltonozhskii Evgenii, Zhuo Terry Yue, Wang Thomas, Dehaene Olivier, Davaadorj Mishig, Lamy-poirier Joel, Monteiro João, Shliazhko Oleh, Gontier Nicolas, Meade Nicholas, Zebaze Armel, Yee Ming-ho, Umapathi Logesh Kumar, Zhu Jian, Lipkin Benjamin, Oblokulov Muhtasham, Wang Zhiruo, Murthy Rudra, Stillerman Jason, Patel Siva Sankalp, Abulkhanov Dmitry, Zocca Marco, Dey Manan, Zhang Zhihan, Fahmy Nour, Bhattacharyya Urvashi, Yu Wenhao, Singh Swayam, Luccioni Sasha, Villegas Paulo, Kunakov Maxim, Zhdanov Fedor, Romero Manuel, Lee Tony, Timor Nadav, Ding Jennifer, Schlesinger Claire, Schoelkopf Hailey, Ebert Jan, Dao Tri, Mishra Mayank, Gu Alex, Robinson Jennifer, Anderson Carolyn Jane, Dolan-gavitt Brendan, Contractor Danish, Reddy Siva, Fried Daniel, Bahdanau Dzmitry, Jernite Yacine, Ferrandis Carlos Muñoz, Hughes Sean, Wolf Thomas, Guha Arjun, Von Werra Leandro, De Vries Harm
 conference: "Arxiv"
 year: 2023

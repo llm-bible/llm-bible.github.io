@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Neuron Patching: Semantic-based Neuron-level Language Model Repair For Code Generation
+title: Neuron Patching\: Semantic-based Neuron-level Language Model Repair For Code Generation
 authors: Gu Jian, Aleti Aldeida, Chen Chunyang, Zhang Hongyu
 conference: "Arxiv"
 year: 2023

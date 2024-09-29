@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Logicbench: Towards Systematic Evaluation Of Logical Reasoning Ability Of Large Language Models
+title: Logicbench\: Towards Systematic Evaluation Of Logical Reasoning Ability Of Large Language Models
 authors: Parmar Mihir, Patel Nisarg, Varshney Neeraj, Nakamura Mutsumi, Luo Man, Mashetty Santosh, Mitra Arindam, Baral Chitta
 conference: "Arxiv"
 year: 2024

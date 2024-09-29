@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ice-score: Instructing Large Language Models To Evaluate Code
+title: Ice-score\: Instructing Large Language Models To Evaluate Code
 authors: Zhuo Terry Yue
 conference: "Arxiv"
 year: 2023

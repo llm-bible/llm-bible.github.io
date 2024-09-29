@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Diffusiongpt: Llm-driven Text-to-image Generation System
+title: Diffusiongpt\: Llm-driven Text-to-image Generation System
 authors: Qin Jie, Wu Jie, Chen Weifeng, Ren Yuxi, Li Huixia, Wu Hefeng, Xiao Xuefeng, Wang Rui, Wen Shilei
 conference: "Arxiv"
 year: 2024

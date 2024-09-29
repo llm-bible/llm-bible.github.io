@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Teacherlm: Teaching To Fish Rather Than Giving The Fish, Language Modeling Likewise
+title: Teacherlm\: Teaching To Fish Rather Than Giving The Fish, Language Modeling Likewise
 authors: He Nan, Lai Hanyu, Zhao Chenyang, Cheng Zirui, Pan Junting, Qin Ruoyu, Lu Ruofan, Lu Rui, Zhang Yunchen, Zhao Gangming, Hou Zhaohui, Huang Zhiyuan, Lu Shaoqing, Liang Ding, Zhan Mingjie
 conference: "Arxiv"
 year: 2023

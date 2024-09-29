@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Length-controlled Alpacaeval: A Simple Way To Debias Automatic Evaluators
+title: Length-controlled Alpacaeval\: A Simple Way To Debias Automatic Evaluators
 authors: Dubois Yann, Galambosi Balázs, Liang Percy, Hashimoto Tatsunori B.
 conference: "Arxiv"
 year: 2024

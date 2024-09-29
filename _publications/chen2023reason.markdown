@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reason Out Your Layout: Evoking The Layout Master From Large Language Models For Text-to-image Synthesis
+title: Reason Out Your Layout\: Evoking The Layout Master From Large Language Models For Text-to-image Synthesis
 authors: Chen Xiaohui, Liu Yongfei, Yang Yingxiang, Yuan Jianbo, You Quanzeng, Liu Li-ping, Yang Hongxia
 conference: "Arxiv"
 year: 2023

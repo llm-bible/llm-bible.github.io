@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LICHEE: Improving Language Model Pre-training With Multi-grained Tokenization
+title: LICHEE\: Improving Language Model Pre-training With Multi-grained Tokenization
 authors: Guo Weidong, Zhao Mingjun, Zhang Lusheng, Niu Di, Luo Jinwen, Liu Zhenhua, Li Zhenyang, Tang Jianbo
 conference: "Arxiv"
 year: 2021

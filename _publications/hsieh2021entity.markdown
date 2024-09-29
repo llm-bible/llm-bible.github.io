@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ENCONTER: Entity Constrained Progressive Sequence Generation Via Insertion-based Transformer
+title: ENCONTER\: Entity Constrained Progressive Sequence Generation Via Insertion-based Transformer
 authors: Hsieh Lee-hsun, Lee Yang-yin, Lim Ee-peng
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLMR: Real-time Prompting Of Interactive Worlds Using Large Language Models
+title: LLMR\: Real-time Prompting Of Interactive Worlds Using Large Language Models
 authors: De La Torre Fernanda, Fang Cathy Mengying, Huang Han, Banburski-fahey Andrzej, Fernandez Judith Amores, Lanier Jaron
 conference: "Arxiv"
 year: 2023

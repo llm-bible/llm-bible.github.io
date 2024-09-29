@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficient Solutions For An Intriguing Failure Of Llms: Long Context Window Does Not Mean Llms Can Analyze Long Sequences Flawlessly
+title: Efficient Solutions For An Intriguing Failure Of Llms\: Long Context Window Does Not Mean Llms Can Analyze Long Sequences Flawlessly
 authors: Hosseini Peyman, Castro Ignacio, Ghinassi Iacopo, Purver Matthew
 conference: "Arxiv"
 year: 2024

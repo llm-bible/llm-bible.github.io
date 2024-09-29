@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mascqa: A Question Answering Dataset For Investigating Materials Science Knowledge Of Large Language Models
+title: Mascqa\: A Question Answering Dataset For Investigating Materials Science Knowledge Of Large Language Models
 authors: Zaki Mohd, Jayadeva, Mausam, Krishnan N. M. Anoop
 conference: "Arxiv"
 year: 2023

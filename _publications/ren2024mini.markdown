@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Melora: Mini-ensemble Low-rank Adapters For Parameter-efficient Fine-tuning
+title: Melora\: Mini-ensemble Low-rank Adapters For Parameter-efficient Fine-tuning
 authors: Ren Pengjie, Shi Chengshun, Wu Shiguang, Zhang Mengqi, Ren Zhaochun, De Rijke Maarten, Chen Zhumin, Pei Jiahuan
 conference: "Arxiv"
 year: 2024

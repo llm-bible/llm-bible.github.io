@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Robustsentembed: Robust Sentence Embeddings Using Adversarial Self-supervised Contrastive Learning
+title: Robustsentembed\: Robust Sentence Embeddings Using Adversarial Self-supervised Contrastive Learning
 authors: Asl Javad Rafiei, Panzade Prajwal, Blanco Eduardo, Takabi Daniel, Cai Zhipeng
 conference: "Arxiv"
 year: 2024

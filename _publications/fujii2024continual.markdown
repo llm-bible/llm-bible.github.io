@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Continual Pre-training For Cross-lingual LLM Adaptation: Enhancing Japanese Language Capabilities
+title: Continual Pre-training For Cross-lingual LLM Adaptation\: Enhancing Japanese Language Capabilities
 authors: Fujii Kazuki, Nakamura Taishi, Loem Mengsay, Iida Hiroki, Ohi Masanari, Hattori Kakeru, Shota Hirai, Mizuki Sakae, Yokota Rio, Okazaki Naoaki
 conference: "Arxiv"
 year: 2024

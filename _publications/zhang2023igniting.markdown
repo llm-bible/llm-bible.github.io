@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-thought Reasoning To Language Agents
+title: Igniting Language Intelligence\: The Hitchhiker's Guide From Chain-of-thought Reasoning To Language Agents
 authors: Zhang Zhuosheng, Yao Yao, Zhang Aston, Tang Xiangru, Ma Xinbei, He Zhiwei, Wang Yiming, Gerstein Mark, Wang Rui, Liu Gongshen, Zhao Hai
 conference: "Arxiv"
 year: 2023

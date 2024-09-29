@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dolphcoder: Echo-locating Code Large Language Models With Diverse And Multi-objective Instruction Tuning
+title: Dolphcoder\: Echo-locating Code Large Language Models With Diverse And Multi-objective Instruction Tuning
 authors: Wang Yejie, He Keqing, Dong Guanting, Wang Pei, Zeng Weihao, Diao Muxi, Mou Yutao, Zhang Mengdi, Wang Jingang, Cai Xunliang, Xu Weiran
 conference: "Arxiv"
 year: 2024

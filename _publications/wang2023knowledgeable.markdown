@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Knowledgeable In-context Tuning: Exploring And Exploiting Factual Knowledge For In-context Learning
+title: Knowledgeable In-context Tuning\: Exploring And Exploiting Factual Knowledge For In-context Learning
 authors: Wang Jianing, Wang Chengyu, Tan Chuanqi, Huang Jun, Gao Ming
 conference: "Arxiv"
 year: 2023

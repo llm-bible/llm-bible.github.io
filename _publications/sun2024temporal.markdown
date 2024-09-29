@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Temporal Insight Enhancement: Mitigating Temporal Hallucination In Multimodal Large Language Models
+title: Temporal Insight Enhancement\: Mitigating Temporal Hallucination In Multimodal Large Language Models
 authors: Li Sun, Liuan Wang, Jun Sun, Takayuki Okatani
 conference: "Arxiv"
 year: 2024

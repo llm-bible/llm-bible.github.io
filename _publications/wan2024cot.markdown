@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cot Rerailer: Enhancing The Reliability Of Large Language Models In Complex Reasoning Tasks Through Error Detection And Correction
+title: Cot Rerailer\: Enhancing The Reliability Of Large Language Models In Complex Reasoning Tasks Through Error Detection And Correction
 authors: Wan Guangya, Wu Yuqi, Chen Jie, Li Sheng
 conference: "Arxiv"
 year: 2024

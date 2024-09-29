@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adapterbias: Parameter-efficient Token-dependent Representation Shift For Adapters In NLP Tasks
+title: Adapterbias\: Parameter-efficient Token-dependent Representation Shift For Adapters In NLP Tasks
 authors: Fu Chin-lun, Chen Zih-ching, Lee Yun-ru, Lee Hung-yi
 conference: "Arxiv"
 year: 2022

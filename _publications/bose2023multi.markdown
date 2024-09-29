@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Stylip: Multi-scale Style-conditioned Prompt Learning For Clip-based Domain Generalization
+title: Stylip\: Multi-scale Style-conditioned Prompt Learning For Clip-based Domain Generalization
 authors: Bose Shirsha, Jha Ankit, Fini Enrico, Singha Mainak, Ricci Elisa, Banerjee Biplab
 conference: "Arxiv"
 year: 2023

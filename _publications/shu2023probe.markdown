@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: POSQA: Probe The World Models Of Llms With Size Comparisons
+title: POSQA\: Probe The World Models Of Llms With Size Comparisons
 authors: Shu Chang, Han Jiuzhou, Liu Fangyu, Shareghi Ehsan, Collier Nigel
 conference: "Arxiv"
 year: 2023

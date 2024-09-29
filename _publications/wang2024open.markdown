@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Helpsteer2: Open-source Dataset For Training Top-performing Reward Models
+title: Helpsteer2\: Open-source Dataset For Training Top-performing Reward Models
 authors: Wang Zhilin, Dong Yi, Delalleau Olivier, Zeng Jiaqi, Shen Gerald, Egert Daniel, Zhang Jimmy J., Sreedhar Makesh Narsimhan, Kuchaiev Oleksii
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sc-safety: A Multi-round Open-ended Question Adversarial Safety Benchmark For Large Language Models In Chinese
+title: Sc-safety\: A Multi-round Open-ended Question Adversarial Safety Benchmark For Large Language Models In Chinese
 authors: Xu Liang, Zhao Kangkang, Zhu Lei, Xue Hang
 conference: "Arxiv"
 year: 2023

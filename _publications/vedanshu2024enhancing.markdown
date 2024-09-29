@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Model Performance: Another Approach To Vision-language Instruction Tuning
+title: Enhancing Model Performance\: Another Approach To Vision-language Instruction Tuning
 authors: Vedanshu, Tripathi Mm, Jaint Bhavnesh
 conference: "Arxiv"
 year: 2024

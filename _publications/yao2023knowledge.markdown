@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Knowledge Plugins: Enhancing Large Language Models For Domain-specific Recommendations
+title: Knowledge Plugins\: Enhancing Large Language Models For Domain-specific Recommendations
 authors: Yao Jing, Xu Wei, Lian Jianxun, Wang Xiting, Yi Xiaoyuan, Xie Xing
 conference: "Arxiv"
 year: 2023

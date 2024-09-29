@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cotever: Chain Of Thought Prompting Annotation Toolkit For Explanation Verification
+title: Cotever\: Chain Of Thought Prompting Annotation Toolkit For Explanation Verification
 authors: Kim Seungone, Joo Se June, Jang Yul, Chae Hyungjoo, Yeo Jinyoung
 conference: "Arxiv"
 year: 2023

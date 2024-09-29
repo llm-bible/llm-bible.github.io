@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: It's Not Just Size That Matters: Small Language Models Are Also Few-shot Learners
+title: It's Not Just Size That Matters\: Small Language Models Are Also Few-shot Learners
 authors: Schick Timo, Schütze Hinrich
 conference: "Arxiv"
 year: 2020

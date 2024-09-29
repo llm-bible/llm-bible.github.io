@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Platypus: Quick, Cheap, And Powerful Refinement Of Llms
+title: Platypus\: Quick, Cheap, And Powerful Refinement Of Llms
 authors: Lee Ariel N., Hunter Cole J., Ruiz Nataniel
 conference: "Arxiv"
 year: 2023

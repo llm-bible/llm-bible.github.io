@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lean Attention: Hardware-aware Scalable Attention Mechanism For The Decode-phase Of Transformers
+title: Lean Attention\: Hardware-aware Scalable Attention Mechanism For The Decode-phase Of Transformers
 authors: Sanovar Rya, Bharadwaj Srikant, Amant Renee St., Rühle Victor, Rajmohan Saravan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Structuredrag: JSON Response Formatting With Large Language Models
+title: Structuredrag\: JSON Response Formatting With Large Language Models
 authors: Shorten Connor, Pierse Charles, Smith Thomas Benjamin, Cardenas Erika, Sharma Akanksha, Trengrove John, Van Luijt Bob
 conference: "Arxiv"
 year: 2024

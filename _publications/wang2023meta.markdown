@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Meta-reasoning: Semantics-symbol Deconstruction For Large Language Models
+title: Meta-reasoning\: Semantics-symbol Deconstruction For Large Language Models
 authors: Wang Yiming, Zhang Zhuosheng, Zhang Pei, Yang Baosong, Wang Rui
 conference: "Arxiv"
 year: 2023

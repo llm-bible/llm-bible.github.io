@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Watch Your Language: Investigating Content Moderation With Large Language Models
+title: Watch Your Language\: Investigating Content Moderation With Large Language Models
 authors: Kumar Deepak, Abuhashem Yousef, Durumeric Zakir
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jacotext: A Pretrained Model For Java Code-text Generation
+title: Jacotext\: A Pretrained Model For Java Code-text Generation
 authors: Espejel Jessica López, Alassan Mahaman Sanoussi Yahaya, Dahhane Walid, Ettifouri El Hassane
 conference: "Espejel J. L. Alassan M. S. Y. Dahhane W. Ettifouri E. H."
 year: 2023

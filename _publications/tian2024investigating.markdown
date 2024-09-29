@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Codehalu: Investigating Code Hallucinations In Llms Via Execution-based Verification
+title: Codehalu\: Investigating Code Hallucinations In Llms Via Execution-based Verification
 authors: Tian Yuchen, Yan Weixiang, Yang Qian, Zhao Xuandong, Chen Qian, Wang Wen, Luo Ziyang, Ma Lei, Song Dawn
 conference: "Arxiv"
 year: 2024

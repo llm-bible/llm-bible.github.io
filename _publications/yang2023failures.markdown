@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Failures Pave The Way: Enhancing Large Language Models Through Tuning-free Rule Accumulation
+title: Failures Pave The Way\: Enhancing Large Language Models Through Tuning-free Rule Accumulation
 authors: Yang Zeyuan, Li Peng, Liu Yang
 conference: "Arxiv"
 year: 2023

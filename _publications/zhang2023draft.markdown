@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Draft & Verify: Lossless Large Language Model Acceleration Via Self-speculative Decoding
+title: Draft & Verify\: Lossless Large Language Model Acceleration Via Self-speculative Decoding
 authors: Zhang Jun, Wang Jue, Li Huan, Shou Lidan, Chen Ke, Chen Gang, Mehrotra Sharad
 conference: "Arxiv"
 year: 2023

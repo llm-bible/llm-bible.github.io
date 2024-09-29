@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Asking Before Acting: Gather Information In Embodied Decision Making With Language Models
+title: Asking Before Acting\: Gather Information In Embodied Decision Making With Language Models
 authors: Chen Xiaoyu, Zhang Shenao, Zhang Pushi, Zhao Li, Chen Jianyu
 conference: "Arxiv"
 year: 2023

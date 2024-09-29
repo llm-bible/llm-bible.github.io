@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rankprompt: Step-by-step Comparisons Make Language Models Better Reasoners
+title: Rankprompt\: Step-by-step Comparisons Make Language Models Better Reasoners
 authors: Hu Chi, Ge Yuan, Ma Xiangnan, Cao Hang, Li Qiang, Yang Yonghua, Xiao Tong, Zhu Jingbo
 conference: "Arxiv"
 year: 2024

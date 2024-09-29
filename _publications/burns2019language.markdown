@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Features Matter: Effective Language Representations For Vision-language Tasks
+title: Language Features Matter\: Effective Language Representations For Vision-language Tasks
 authors: Burns Andrea, Tan Reuben, Saenko Kate, Sclaroff Stan, Plummer Bryan A.
 conference: "Arxiv"
 year: 2019

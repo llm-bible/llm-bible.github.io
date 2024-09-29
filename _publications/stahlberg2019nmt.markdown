@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On NMT Search Errors And Model Errors: Cat Got Your Tongue?
+title: On NMT Search Errors And Model Errors\: Cat Got Your Tongue?
 authors: Stahlberg Felix, Byrne Bill
 conference: "Arxiv"
 year: 2019

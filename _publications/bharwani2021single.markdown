@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SHAQ: Single Headed Attention With Quasi-recurrence
+title: SHAQ\: Single Headed Attention With Quasi-recurrence
 authors: Bharwani Nashwin, Kushner Warren, Dandona Sangeet, Schreiber Ben
 conference: "Arxiv"
 year: 2021

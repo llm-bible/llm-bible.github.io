@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: By My Eyes: Grounding Multimodal Large Language Models With Sensor Data Via Visual Prompting
+title: By My Eyes\: Grounding Multimodal Large Language Models With Sensor Data Via Visual Prompting
 authors: Yoon Hyungjun, Tolera Biniyam Aschalew, Gong Taesik, Lee Kimin, Lee Sung-ju
 conference: "Arxiv"
 year: 2024

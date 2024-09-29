@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vilbert: Pretraining Task-agnostic Visiolinguistic Representations For Vision-and-language Tasks
+title: Vilbert\: Pretraining Task-agnostic Visiolinguistic Representations For Vision-and-language Tasks
 authors: Lu Jiasen, Batra Dhruv, Parikh Devi, Lee Stefan
 conference: "Arxiv"
 year: 2019

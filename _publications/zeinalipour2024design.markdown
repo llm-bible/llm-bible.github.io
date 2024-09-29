@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Design Proteins Using Large Language Models: Enhancements And Comparative Analyses
+title: Design Proteins Using Large Language Models\: Enhancements And Comparative Analyses
 authors: Zeinalipour Kamyar, Jamshidi Neda, Bianchini Monica, Maggini Marco, Gori Marco
 conference: "Arxiv"
 year: 2024

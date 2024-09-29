@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Numgpt: Improving Numeracy Ability Of Generative Pre-trained Models
+title: Numgpt\: Improving Numeracy Ability Of Generative Pre-trained Models
 authors: Jin Zhihua, Jiang Xin, Wang Xingbo, Liu Qun, Wang Yong, Ren Xiaozhe, Qu Huamin
 conference: "Arxiv"
 year: 2021

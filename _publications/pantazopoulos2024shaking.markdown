@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Shaking Up Vlms: Comparing Transformers And Structured State Space Models For Vision & Language Modeling
+title: Shaking Up Vlms\: Comparing Transformers And Structured State Space Models For Vision & Language Modeling
 authors: Pantazopoulos Georgios, Nikandrou Malvina, Suglia Alessandro, Lemon Oliver, Eshghi Arash
 conference: "Arxiv"
 year: 2024

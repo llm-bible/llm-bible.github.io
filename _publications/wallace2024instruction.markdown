@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Instruction Hierarchy: Training Llms To Prioritize Privileged Instructions
+title: The Instruction Hierarchy\: Training Llms To Prioritize Privileged Instructions
 authors: Wallace Eric, Xiao Kai, Leike Reimar, Weng Lilian, Heidecke Johannes, Beutel Alex
 conference: "Arxiv"
 year: 2024

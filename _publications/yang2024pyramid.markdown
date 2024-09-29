@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pyramidinfer: Pyramid KV Cache Compression For High-throughput LLM Inference
+title: Pyramidinfer\: Pyramid KV Cache Compression For High-throughput LLM Inference
 authors: Yang Dongjie, Han Xiaodong, Gao Yan, Hu Yao, Zhang Shilin, Zhao Hai
 conference: "Arxiv"
 year: 2024

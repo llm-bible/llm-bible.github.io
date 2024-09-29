@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Crossing New Frontiers: Knowledge-augmented Large Language Model Prompting For Zero-shot Text-based De Novo Molecule Design
+title: Crossing New Frontiers\: Knowledge-augmented Large Language Model Prompting For Zero-shot Text-based De Novo Molecule Design
 authors: Srinivas Sakhinana Sagar, Runkana Venkataramana
 conference: "Arxiv"
 year: 2024

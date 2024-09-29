@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ragcache: Efficient Knowledge Caching For Retrieval-augmented Generation
+title: Ragcache\: Efficient Knowledge Caching For Retrieval-augmented Generation
 authors: Jin Chao, Zhang Zili, Jiang Xuanlin, Liu Fangyue, Liu Xin, Liu Xuanzhe, Jin Xin
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CLAVE: An Adaptive Framework For Evaluating Values Of LLM Generated Responses
+title: CLAVE\: An Adaptive Framework For Evaluating Values Of LLM Generated Responses
 authors: Yao Jing, Yi Xiaoyuan, Xie Xing
 conference: "Arxiv"
 year: 2024

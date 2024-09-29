@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: QFT: Quantized Full-parameter Tuning Of Llms With Affordable Resources
+title: QFT\: Quantized Full-parameter Tuning Of Llms With Affordable Resources
 authors: Li Zhikai, Liu Xiaoxuan, Zhu Banghua, Dong Zhen, Gu Qingyi, Keutzer Kurt
 conference: "Arxiv"
 year: 2023

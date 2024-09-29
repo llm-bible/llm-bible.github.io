@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SPINACH: Sparql-based Information Navigation For Challenging Real-world Questions
+title: SPINACH\: Sparql-based Information Navigation For Challenging Real-world Questions
 authors: Liu Shicheng, Semnani Sina J., Triedman Harold, Xu Jialiang, Zhao Isaac Dan, Lam Monica S.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GAAMA 2.0: An Integrated System That Answers Boolean And Extractive Questions
+title: GAAMA 2.0\: An Integrated System That Answers Boolean And Extractive Questions
 authors: Mccarley Scott, Bornea Mihaela, Rosenthal Sara, Ferritto Anthony, Sultan Md Arafat, Sil Avirup, Florian Radu
 conference: "Arxiv"
 year: 2022

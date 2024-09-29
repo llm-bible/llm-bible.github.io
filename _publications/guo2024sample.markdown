@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sample Design Engineering: An Empirical Study Of What Makes Good Downstream Fine-tuning Samples For Llms
+title: Sample Design Engineering\: An Empirical Study Of What Makes Good Downstream Fine-tuning Samples For Llms
 authors: Guo Biyang, Wang He, Xiao Wenyilin, Chen Hong, Lee Zhuxin, Han Songqiao, Huang Hailiang
 conference: "Arxiv"
 year: 2024

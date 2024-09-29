@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sentencevae: Enable Next-sentence Prediction For Large Language Models With Faster Speed, Higher Accuracy And Longer Context
+title: Sentencevae\: Enable Next-sentence Prediction For Large Language Models With Faster Speed, Higher Accuracy And Longer Context
 authors: An Hongjun, Chen Yifan, Sun Zhe, Li Xuelong
 conference: "Arxiv"
 year: 2024

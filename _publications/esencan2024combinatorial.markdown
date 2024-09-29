@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Combinatorial Reasoning: Selecting Reasons In Generative AI Pipelines Via Combinatorial Optimization
+title: Combinatorial Reasoning\: Selecting Reasons In Generative AI Pipelines Via Combinatorial Optimization
 authors: Esencan Mert, Kumar Tarun Advaith, Asanjan Ata Akbari, Lott P. Aaron, Mohseni Masoud, Unlu Can, Venturelli Davide, Ho Alan
 conference: "Arxiv"
 year: 2024

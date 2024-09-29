@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Echosight: Advancing Visual-language Models With Wiki Knowledge
+title: Echosight\: Advancing Visual-language Models With Wiki Knowledge
 authors: Yan Yibin, Xie Weidi
 conference: "Arxiv"
 year: 2024

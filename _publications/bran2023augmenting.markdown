@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chemcrow: Augmenting Large-language Models With Chemistry Tools
+title: Chemcrow\: Augmenting Large-language Models With Chemistry Tools
 authors: Bran Andres M, Cox Sam, Schilter Oliver, Baldassari Carlo, White Andrew D, Schwaller Philippe
 conference: "Arxiv"
 year: 2023

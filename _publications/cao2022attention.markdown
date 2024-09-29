@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: HIBRIDS: Attention With Hierarchical Biases For Structure-aware Long Document Summarization
+title: HIBRIDS\: Attention With Hierarchical Biases For Structure-aware Long Document Summarization
 authors: Cao Shuyang, Wang Lu
 conference: "Arxiv"
 year: 2022

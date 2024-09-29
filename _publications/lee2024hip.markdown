@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hip Attention: Sparse Sub-quadratic Attention With Hierarchical Attention Pruning
+title: Hip Attention\: Sparse Sub-quadratic Attention With Hierarchical Attention Pruning
 authors: Lee Heejun, Park Geon, Lee Youngwan, Kim Jina, Jeong Wonyoung, Jeon Myeongjae, Hwang Sung Ju
 conference: "Arxiv"
 year: 2024

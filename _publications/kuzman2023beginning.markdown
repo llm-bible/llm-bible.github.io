@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatgpt: Beginning Of An End Of Manual Linguistic Data Annotation? Use Case Of Automatic Genre Identification
+title: Chatgpt\: Beginning Of An End Of Manual Linguistic Data Annotation? Use Case Of Automatic Genre Identification
 authors: Kuzman Taja, Mozetič Igor, Ljubešić Nikola
 conference: "Arxiv"
 year: 2023

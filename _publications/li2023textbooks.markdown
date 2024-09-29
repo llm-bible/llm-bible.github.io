@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Textbooks Are All You Need II: Phi-1.5 Technical Report
+title: Textbooks Are All You Need II\: Phi-1.5 Technical Report
 authors: Li Yuanzhi, Bubeck Sébastien, Eldan Ronen, Del Giorno Allie, Gunasekar Suriya, Lee Yin Tat
 conference: "Arxiv"
 year: 2023

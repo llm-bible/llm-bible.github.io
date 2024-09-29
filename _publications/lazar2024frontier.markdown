@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Frontier AI Ethics: Anticipating And Evaluating The Societal Impacts Of Generative Agents
+title: Frontier AI Ethics\: Anticipating And Evaluating The Societal Impacts Of Generative Agents
 authors: Lazar Seth
 conference: "Arxiv"
 year: 2024

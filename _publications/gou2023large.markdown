@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CRITIC: Large Language Models Can Self-correct With Tool-interactive Critiquing
+title: CRITIC\: Large Language Models Can Self-correct With Tool-interactive Critiquing
 authors: Zhibin Gou, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Nan Duan, Weizhu Chen
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Turning Trash Into Treasure: Accelerating Inference Of Large Language Models With Token Recycling
+title: Turning Trash Into Treasure\: Accelerating Inference Of Large Language Models With Token Recycling
 authors: Luo Xianzhen, Wang Yixuan, Zhu Qingfu, Zhang Zhiming, Zhang Xuanyu, Yang Qing, Xu Dongliang, Che Wanxiang
 conference: "Arxiv"
 year: 2024

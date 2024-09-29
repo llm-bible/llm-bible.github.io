@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The First Place Solution Of WSDM Cup 2024: Leveraging Large Language Models For Conversational Multi-doc QA
+title: The First Place Solution Of WSDM Cup 2024\: Leveraging Large Language Models For Conversational Multi-doc QA
 authors: Li Yiming, Zhang Zhao
 conference: "Arxiv"
 year: 2024

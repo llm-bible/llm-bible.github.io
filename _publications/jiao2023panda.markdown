@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Panda LLM: Training Data And Evaluation For Open-sourced Chinese Instruction-following Large Language Models
+title: Panda LLM\: Training Data And Evaluation For Open-sourced Chinese Instruction-following Large Language Models
 authors: Jiao Fangkai, Ding Bosheng, Luo Tianze, Mo Zhanfeng
 conference: "Arxiv"
 year: 2023

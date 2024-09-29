@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llm-dcache: Improving Tool-augmented Llms With Gpt-driven Localized Data Caching
+title: Llm-dcache\: Improving Tool-augmented Llms With Gpt-driven Localized Data Caching
 authors: Singh Simranjit, Fore Michael, Karatzas Andreas, Lee Chaehong, Jian Yanan, Shangguan Longfei, Yu Fuxun, Anagnostopoulos Iraklis, Stamoulis Dimitrios
 conference: "Arxiv"
 year: 2024

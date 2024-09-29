@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ERNIE 3.0 Titan: Exploring Larger-scale Knowledge Enhanced Pre-training For Language Understanding And Generation
+title: ERNIE 3.0 Titan\: Exploring Larger-scale Knowledge Enhanced Pre-training For Language Understanding And Generation
 authors: Shuohuan Wang, Yu Sun, Yang Xiang, Zhihua Wu, Siyu Ding, Weibao Gong, Shikun Feng, Junyuan Shang, Yanbin Zhao, Chao Pang, Jiaxiang Liu, Xuyi Chen, Yuxiang Lu, Weixin Liu, Xi Wang, Yangfan Bai, Qiuliang Chen, Li Zhao, Shiyong Li, Peng Sun, Dianhai Yu, Yanjun Ma, Hao Tian, Hua Wu, Tian Wu, Wei Zeng, Ge Li, Wen Gao, Haifeng Wang
 conference: "Arxiv"
 year: 2021

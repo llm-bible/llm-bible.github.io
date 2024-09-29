@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GPT-D: Inducing Dementia-related Linguistic Anomalies By Deliberate Degradation Of Artificial Neural Language Models
+title: GPT-D\: Inducing Dementia-related Linguistic Anomalies By Deliberate Degradation Of Artificial Neural Language Models
 authors: Li Changye, Knopman David, Xu Weizhe, Cohen Trevor, Pakhomov Serguei
 conference: "Arxiv"
 year: 2022

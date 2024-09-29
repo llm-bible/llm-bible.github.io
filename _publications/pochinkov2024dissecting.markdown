@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dissecting Language Models: Machine Unlearning Via Selective Pruning
+title: Dissecting Language Models\: Machine Unlearning Via Selective Pruning
 authors: Pochinkov Nicholas, Schoots Nandi
 conference: "Arxiv"
 year: 2024

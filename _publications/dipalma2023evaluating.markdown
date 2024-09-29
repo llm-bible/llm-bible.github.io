@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Chatgpt As A Recommender System: A Rigorous Approach
+title: Evaluating Chatgpt As A Recommender System\: A Rigorous Approach
 authors: Di Palma Dario, Biancofiore Giovanni Maria, Anelli Vito Walter, Narducci Fedelucio, Di Noia Tommaso, Di Sciascio Eugenio
 conference: "Arxiv"
 year: 2023

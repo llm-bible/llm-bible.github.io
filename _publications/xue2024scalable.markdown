@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ninjallm: Fast, Scalable And Cost-effective RAG Using Amazon Sagemaker And AWS Trainium And Inferentia2
+title: Ninjallm\: Fast, Scalable And Cost-effective RAG Using Amazon Sagemaker And AWS Trainium And Inferentia2
 authors: Xue Tengfei, Li Xuefeng, Smirnov Roman, Azim Tahir, Sadrieh Arash, Pahlavan Babak
 conference: "Arxiv"
 year: 2024

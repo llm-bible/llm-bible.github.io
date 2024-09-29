@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tempo: Accelerating Transformer-based Model Training Through Memory Footprint Reduction
+title: Tempo\: Accelerating Transformer-based Model Training Through Memory Footprint Reduction
 authors: Andoorveedu Muralidhar, Zhu Zhanda, Zheng Bojian, Pekhimenko Gennady
 conference: "Arxiv"
 year: 2022

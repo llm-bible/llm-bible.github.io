@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ptt5-v2: A Closer Look At Continued Pretraining Of T5 Models For The Portuguese Language
+title: Ptt5-v2\: A Closer Look At Continued Pretraining Of T5 Models For The Portuguese Language
 authors: Piau Marcos, Lotufo Roberto, Nogueira Rodrigo
 conference: "Arxiv"
 year: 2024

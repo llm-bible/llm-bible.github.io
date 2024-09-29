@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Deltazip: Multi-tenant Language Model Serving Via Delta Compression
+title: Deltazip\: Multi-tenant Language Model Serving Via Delta Compression
 authors: Yao Xiaozhe, Klimovic Ana
 conference: "Arxiv"
 year: 2023

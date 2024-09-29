@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Agentboard: An Analytical Evaluation Board Of Multi-turn LLM Agents
+title: Agentboard\: An Analytical Evaluation Board Of Multi-turn LLM Agents
 authors: Ma Chang, Zhang Junlei, Zhu Zhihao, Yang Cheng, Yang Yujiu, Jin Yaohui, Lan Zhenzhong, Kong Lingpeng, He Junxian
 conference: "Arxiv"
 year: 2024

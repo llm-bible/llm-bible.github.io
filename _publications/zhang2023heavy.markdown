@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: H$_2$O: Heavy-hitter Oracle For Efficient Generative Inference Of Large Language Models
+title: H$_2$O\: Heavy-hitter Oracle For Efficient Generative Inference Of Large Language Models
 authors: Zhang Zhenyu, Sheng Ying, Zhou Tianyi, Chen Tianlong, Zheng Lianmin, Cai Ruisi, Song Zhao, Tian Yuandong, Ré Christopher, Barrett Clark, Wang Zhangyang, Chen Beidi
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Q8BERT: Quantized 8bit BERT
+title: Q8BERT\: Quantized 8bit BERT
 authors: Zafrir Ofir, Boudoukh Guy, Izsak Peter, Wasserblat Moshe
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hints-in-browser: Benchmarking Language Models For Programming Feedback Generation
+title: Hints-in-browser\: Benchmarking Language Models For Programming Feedback Generation
 authors: Kotalwar Nachiket, Gotovos Alkis, Singla Adish
 conference: "Arxiv"
 year: 2024

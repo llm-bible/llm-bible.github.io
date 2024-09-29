@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: When Large Language Models Meet Personalization: Perspectives Of Challenges And Opportunities
+title: When Large Language Models Meet Personalization\: Perspectives Of Challenges And Opportunities
 authors: Jin Chen, Zheng Liu, Xu Huang, Chenwang Wu, Qi Liu, Gangwei Jiang, Yuanhao Pu, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen
 conference: "Arxiv"
 year: 2023

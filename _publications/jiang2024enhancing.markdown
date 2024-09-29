@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Robustness In Large Language Models: Prompting For Mitigating The Impact Of Irrelevant Information
+title: Enhancing Robustness In Large Language Models\: Prompting For Mitigating The Impact Of Irrelevant Information
 authors: Jiang Ming, Huang Tingting, Guo Biao, Lu Yao, Zhang Feng
 conference: "Arxiv"
 year: 2024

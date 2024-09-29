@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Generalizable Agents In Text-based Educational Environments: A Study Of Integrating RL With Llms
+title: Towards Generalizable Agents In Text-based Educational Environments\: A Study Of Integrating RL With Llms
 authors: Radmehr Bahar, Singla Adish, Käser Tanja
 conference: "Arxiv"
 year: 2024

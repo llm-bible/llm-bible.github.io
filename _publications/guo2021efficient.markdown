@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Longt5: Efficient Text-to-text Transformer For Long Sequences
+title: Longt5\: Efficient Text-to-text Transformer For Long Sequences
 authors: Guo Mandy, Ainslie Joshua, Uthus David, Ontanon Santiago, Ni Jianmo, Sung Yun-hsuan, Yang Yinfei
 conference: "Arxiv"
 year: 2021

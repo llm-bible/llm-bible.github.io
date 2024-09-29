@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LACIE: Listener-aware Finetuning For Confidence Calibration In Large Language Models
+title: LACIE\: Listener-aware Finetuning For Confidence Calibration In Large Language Models
 authors: Stengel-eskin Elias, Hase Peter, Bansal Mohit
 conference: "Arxiv"
 year: 2024

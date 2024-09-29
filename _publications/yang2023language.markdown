@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LACMA: Language-aligning Contrastive Learning With Meta-actions For Embodied Instruction Following
+title: LACMA\: Language-aligning Contrastive Learning With Meta-actions For Embodied Instruction Following
 authors: Yang Cheng-fu, Chen Yen-chun, Yang Jianwei, Dai Xiyang, Yuan Lu, Wang Yu-chiang Frank, Chang Kai-wei
 conference: "Arxiv"
 year: 2023

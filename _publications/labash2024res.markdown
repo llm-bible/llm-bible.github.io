@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RES-Q: Evaluating Code-editing Large Language Model Systems At The Repository Scale
+title: RES-Q\: Evaluating Code-editing Large Language Model Systems At The Repository Scale
 authors: Labash Beck, Rosedale August, Reents Alex, Negritto Lucas, Wiel Colin
 conference: "Arxiv"
 year: 2024

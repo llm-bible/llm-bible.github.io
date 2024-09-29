@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Corda: Context-oriented Decomposition Adaptation Of Large Language Models
+title: Corda\: Context-oriented Decomposition Adaptation Of Large Language Models
 authors: Yang Yibo, Li Xiaojie, Zhou Zhongzhu, Song Shuaiwen Leon, Wu Jianlong, Nie Liqiang, Ghanem Bernard
 conference: "Arxiv"
 year: 2024

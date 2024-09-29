@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Memeguard: An LLM And Vlm-based Framework For Advancing Content Moderation Via Meme Intervention
+title: Memeguard\: An LLM And Vlm-based Framework For Advancing Content Moderation Via Meme Intervention
 authors: Jha Prince, Jain Raghav, Mandal Konika, Chadha Aman, Saha Sriparna, Bhattacharyya Pushpak
 conference: "Arxiv"
 year: 2024

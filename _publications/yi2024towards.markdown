@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Fast Multilingual LLM Inference: Speculative Decoding And Specialized Drafters
+title: Towards Fast Multilingual LLM Inference\: Speculative Decoding And Specialized Drafters
 authors: Yi Euiin, Kim Taehyeon, Jeung Hongseok, Chang Du-seong, Yun Se-young
 conference: "Arxiv"
 year: 2024

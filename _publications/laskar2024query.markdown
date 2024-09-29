@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Query-opt: Optimizing Inference Of Large Language Models Via Multi-query Instructions In Meeting Summarization
+title: Query-opt\: Optimizing Inference Of Large Language Models Via Multi-query Instructions In Meeting Summarization
 authors: Laskar Md Tahmid Rahman, Khasanova Elena, Fu Xue-yong, Chen Cheng, Tn Shashi Bhushan
 conference: "Arxiv"
 year: 2024

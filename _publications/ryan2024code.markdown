@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Code-aware Prompting: A Study Of Coverage Guided Test Generation In Regression Setting Using LLM
+title: Code-aware Prompting\: A Study Of Coverage Guided Test Generation In Regression Setting Using LLM
 authors: Ryan Gabriel, Jain Siddhartha, Shang Mingyue, Wang Shiqi, Ma Xiaofei, Ramanathan Murali Krishna, Ray Baishakhi
 conference: "Arxiv"
 year: 2024

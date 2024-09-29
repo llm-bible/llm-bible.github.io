@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Parameter Efficient Tuning Allows Scalable Personalization Of Llms For Text Entry: A Case Study On Abbreviation Expansion
+title: Parameter Efficient Tuning Allows Scalable Personalization Of Llms For Text Entry\: A Case Study On Abbreviation Expansion
 authors: Tomanek Katrin, Cai Shanqing, Venugopalan Subhashini
 conference: "Arxiv"
 year: 2023

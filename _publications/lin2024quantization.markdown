@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Qserve: W4A8KV4 Quantization And System Co-design For Efficient LLM Serving
+title: Qserve\: W4A8KV4 Quantization And System Co-design For Efficient LLM Serving
 authors: Lin Yujun, Tang Haotian, Yang Shang, Zhang Zhekai, Xiao Guangxuan, Gan Chuang, Han Song
 conference: "Arxiv"
 year: 2024

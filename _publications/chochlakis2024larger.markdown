@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Larger Language Models Don't Care How You Think: Why Chain-of-thought Prompting Fails In Subjective Tasks
+title: Larger Language Models Don't Care How You Think\: Why Chain-of-thought Prompting Fails In Subjective Tasks
 authors: Chochlakis Georgios, Pandiyan Niyantha Maruthu, Lerman Kristina, Narayanan Shrikanth
 conference: "Arxiv"
 year: 2024

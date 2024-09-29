@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: I Am A Strange Dataset: Metalinguistic Tests For Language Models
+title: I Am A Strange Dataset\: Metalinguistic Tests For Language Models
 authors: Thrush Tristan, Moore Jared, Monares Miguel, Potts Christopher, Kiela Douwe
 conference: "Arxiv"
 year: 2024

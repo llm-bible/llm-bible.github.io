@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What BERT Based Language Models Learn In Spoken Transcripts: An Empirical Study
+title: What BERT Based Language Models Learn In Spoken Transcripts\: An Empirical Study
 authors: Kumar Ayush, Sundararaman Mukuntha Narayanan, Vepa Jithendra
 conference: "Arxiv"
 year: 2021

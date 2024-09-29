@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LEXTREME: A Multi-lingual And Multi-task Benchmark For The Legal Domain
+title: LEXTREME\: A Multi-lingual And Multi-task Benchmark For The Legal Domain
 authors: Niklaus Joel, Matoshi Veton, Rani Pooja, Galassi Andrea, Stürmer Matthias, Chalkidis Ilias
 conference: "EMNLP Findings"
 year: 2023

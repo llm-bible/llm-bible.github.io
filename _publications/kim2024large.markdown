@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Meet Collaborative Filtering: An Efficient All-round Llm-based Recommender System
+title: Large Language Models Meet Collaborative Filtering\: An Efficient All-round Llm-based Recommender System
 authors: Kim Sein, Kang Hongseok, Choi Seungyoon, Kim Donghyun, Yang Minchul, Park Chanyoung
 conference: "Arxiv"
 year: 2024

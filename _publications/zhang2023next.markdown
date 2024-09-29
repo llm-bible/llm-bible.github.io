@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Next-chat: An LMM For Chat, Detection And Segmentation
+title: Next-chat\: An LMM For Chat, Detection And Segmentation
 authors: Zhang Ao, Yao Yuan, Ji Wei, Liu Zhiyuan, Chua Tat-seng
 conference: "Arxiv"
 year: 2023

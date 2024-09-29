@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SK-VQA: Synthetic Knowledge Generation At Scale For Training Context-augmented Multimodal Llms
+title: SK-VQA\: Synthetic Knowledge Generation At Scale For Training Context-augmented Multimodal Llms
 authors: Su Xin, Luo Man, Pan Kris W, Chou Tien Pei, Lal Vasudev, Howard Phillip
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Peering Through Preferences: Unraveling Feedback Acquisition For Aligning Large Language Models
+title: Peering Through Preferences\: Unraveling Feedback Acquisition For Aligning Large Language Models
 authors: Bansal Hritik, Dang John, Grover Aditya
 conference: "Arxiv"
 year: 2023

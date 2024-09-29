@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Workarena: How Capable Are Web Agents At Solving Common Knowledge Work Tasks?
+title: Workarena\: How Capable Are Web Agents At Solving Common Knowledge Work Tasks?
 authors: Drouin Alexandre, Gasse Maxime, Caccia Massimo, Laradji Issam H., Del Verme Manuel, Marty Tom, Boisvert Léo, Thakkar Megh, Cappart Quentin, Vazquez David, Chapados Nicolas, Lacoste Alexandre
 conference: "Arxiv"
 year: 2024

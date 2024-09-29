@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recprompt: A Prompt Tuning Framework For News Recommendation Using Large Language Models
+title: Recprompt\: A Prompt Tuning Framework For News Recommendation Using Large Language Models
 authors: Liu Dairui, Yang Boming, Du Honghui, Greene Derek, Lawlor Aonghus, Dong Ruihai, Li Irene
 conference: "Arxiv"
 year: 2023

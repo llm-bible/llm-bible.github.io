@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatdb: Augmenting Llms With Databases As Their Symbolic Memory
+title: Chatdb\: Augmenting Llms With Databases As Their Symbolic Memory
 authors: Chenxu Hu, Jie Fu, Chenzhuang Du, Simian Luo, Junbo Zhao, Hang Zhao
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Shortcomings Of Llms For Low-resource Translation: Retrieval And Understanding Are Both The Problem
+title: Shortcomings Of Llms For Low-resource Translation\: Retrieval And Understanding Are Both The Problem
 authors: Court Sara, Elsner Micha
 conference: "Arxiv"
 year: 2024

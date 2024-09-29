@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Brainchat: Decoding Semantic Information From Fmri Using Vision-language Pretrained Models
+title: Brainchat\: Decoding Semantic Information From Fmri Using Vision-language Pretrained Models
 authors: Huang Wanaiu
 conference: "Arxiv"
 year: 2024

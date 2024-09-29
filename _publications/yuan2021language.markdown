@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Bias In Visual Question Answering: A Survey And Taxonomy
+title: Language Bias In Visual Question Answering\: A Survey And Taxonomy
 authors: Yuan Desen
 conference: "Arxiv"
 year: 2021

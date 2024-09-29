@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VT-CLIP: Enhancing Vision-language Models With Visual-guided Texts
+title: VT-CLIP\: Enhancing Vision-language Models With Visual-guided Texts
 authors: Qiu Longtian, Zhang Renrui, Guo Ziyu, Zeng Ziyao, Guo Zilu, Li Yafeng, Zhang Guangnan
 conference: "Arxiv"
 year: 2021

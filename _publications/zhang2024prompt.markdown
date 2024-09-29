@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt-aware Adapter: Towards Learning Adaptive Visual Tokens For Multimodal Large Language Models
+title: Prompt-aware Adapter\: Towards Learning Adaptive Visual Tokens For Multimodal Large Language Models
 authors: Zhang Yue, Fan Hehe, Yang Yi
 conference: "Arxiv"
 year: 2024

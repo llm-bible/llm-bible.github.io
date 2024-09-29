@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Devil Is In The Errors: Leveraging Large Language Models For Fine-grained Machine Translation Evaluation
+title: The Devil Is In The Errors\: Leveraging Large Language Models For Fine-grained Machine Translation Evaluation
 authors: Fernandes Patrick, Deutsch Daniel, Finkelstein Mara, Riley Parker, Martins André F. T., Neubig Graham, Garg Ankush, Clark Jonathan H., Freitag Markus, Firat Orhan
 conference: "Arxiv"
 year: 2023

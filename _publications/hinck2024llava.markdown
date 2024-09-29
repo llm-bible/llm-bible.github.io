@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llava-gemma: Accelerating Multimodal Foundation Models With A Compact Language Model
+title: Llava-gemma\: Accelerating Multimodal Foundation Models With A Compact Language Model
 authors: Hinck Musashi, Olson Matthew L., Cobbley David, Tseng Shao-yen, Lal Vasudev
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: To Recommend Or Not: Recommendability Identification In Conversations With Pre-trained Language Models
+title: To Recommend Or Not\: Recommendability Identification In Conversations With Pre-trained Language Models
 authors: Wang Zhefan, Ma Weizhi, Zhang Min
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RAMP: Retrieval And Attribute-marking Enhanced Prompting For Attribute-controlled Translation
+title: RAMP\: Retrieval And Attribute-marking Enhanced Prompting For Attribute-controlled Translation
 authors: Sarti Gabriele, Htut Phu Mon, Niu Xing, Hsu Benjamin, Currey Anna, Dinu Georgiana, Nadejde Maria
 conference: "Proceedings of ACL"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lever LM: Configuring In-context Sequence To Lever Large Vision Language Models
+title: Lever LM\: Configuring In-context Sequence To Lever Large Vision Language Models
 authors: Yang Xu, Peng Yingzhe, Ma Haoxuan, Xu Shuo, Zhang Chi, Han Yucheng, Zhang Hanwang
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: M3exam: A Multilingual, Multimodal, Multilevel Benchmark For Examining Large Language Models
+title: M3exam\: A Multilingual, Multimodal, Multilevel Benchmark For Examining Large Language Models
 authors: Zhang Wenxuan, Aljunied Sharifah Mahani, Gao Chang, Chia Yew Ken, Bing Lidong
 conference: "Arxiv"
 year: 2023

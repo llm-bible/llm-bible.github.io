@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chat Vector: A Simple Approach To Equip Llms With Instruction Following And Model Alignment In New Languages
+title: Chat Vector\: A Simple Approach To Equip Llms With Instruction Following And Model Alignment In New Languages
 authors: Huang Shih-cheng, Li Pin-zu, Hsu Yu-chi, Chen Kuang-ming, Lin Yu Tung, Hsiao Shih-kai, Tsai Richard Tzong-han, Lee Hung-yi
 conference: "Arxiv"
 year: 2023

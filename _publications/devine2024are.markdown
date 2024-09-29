@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are You Sure? Rank Them Again: Repeated Ranking For Better Preference Datasets
+title: Are You Sure? Rank Them Again\: Repeated Ranking For Better Preference Datasets
 authors: Devine Peter
 conference: "Arxiv"
 year: 2024

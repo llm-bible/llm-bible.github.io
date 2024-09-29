@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Can Large Language Models Enable Better Socially Assistive Human-robot Interaction: A Brief Survey
+title: How Can Large Language Models Enable Better Socially Assistive Human-robot Interaction\: A Brief Survey
 authors: Shi Zhonghao, Landrum Ellen, Connell Amy O', Kian Mina, Pinto-alva Leticia, Shrestha Kaleen, Zhu Xiaoyuan, Matarić Maja J
 conference: "Arxiv"
 year: 2024

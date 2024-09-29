@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Can Recommender Systems Benefit From Large Language Models: A Survey
+title: How Can Recommender Systems Benefit From Large Language Models\: A Survey
 authors: Jianghao Lin, Xinyi Dai, Yunjia Xi, Weiwen Liu, Bo Chen, Hao Zhang, Yong Liu, Chuhan Wu, Xiangyang Li, Chenxu Zhu, Huifeng Guo, Yong Yu, Ruiming Tang, Weinan Zhang
 conference: "Arxiv"
 year: 2023

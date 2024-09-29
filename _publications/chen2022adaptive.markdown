@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adaprompt: Adaptive Model Training For Prompt-based NLP
+title: Adaprompt\: Adaptive Model Training For Prompt-based NLP
 authors: Chen Yulong, Liu Yang, Dong Li, Wang Shuohang, Zhu Chenguang, Zeng Michael, Zhang Yue
 conference: "Arxiv"
 year: 2022

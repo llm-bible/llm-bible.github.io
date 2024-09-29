@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Buffer Of Thoughts: Thought-augmented Reasoning With Large Language Models
+title: Buffer Of Thoughts\: Thought-augmented Reasoning With Large Language Models
 authors: Yang Ling, Yu Zhaochen, Zhang Tianjun, Cao Shiyi, Xu Minkai, Zhang Wentao, Gonzalez Joseph E., Cui Bin
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unicoder-vl: A Universal Encoder For Vision And Language By Cross-modal Pre-training
+title: Unicoder-vl\: A Universal Encoder For Vision And Language By Cross-modal Pre-training
 authors: Li Gen, Duan Nan, Fang Yuejian, Gong Ming, Jiang Daxin, Zhou Ming
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SLM: Learning A Discourse Language Representation With Sentence Unshuffling
+title: SLM\: Learning A Discourse Language Representation With Sentence Unshuffling
 authors: Lee Haejun, Hudson Drew A., Lee Kangwook, Manning Christopher D.
 conference: "Arxiv"
 year: 2020

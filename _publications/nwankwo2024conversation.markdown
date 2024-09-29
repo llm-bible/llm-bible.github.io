@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Conversation Is The Command: Interacting With Real-world Autonomous Robot Through Natural Language
+title: The Conversation Is The Command\: Interacting With Real-world Autonomous Robot Through Natural Language
 authors: Nwankwo Linus, Rueckert Elmar
 conference: "HRI"
 year: 2024

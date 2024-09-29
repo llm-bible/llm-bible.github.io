@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieval Meets Reasoning: Dynamic In-context Editing For Long-text Understanding
+title: Retrieval Meets Reasoning\: Dynamic In-context Editing For Long-text Understanding
 authors: Fei Weizhi, Niu Xueyan, Xie Guoqing, Zhang Yanhua, Bai Bo, Deng Lei, Han Wei
 conference: "Arxiv"
 year: 2024

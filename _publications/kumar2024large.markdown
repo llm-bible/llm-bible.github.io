@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Model Agents For Improving Engagement With Behavior Change Interventions: Application To Digital Mindfulness
+title: Large Language Model Agents For Improving Engagement With Behavior Change Interventions\: Application To Digital Mindfulness
 authors: Kumar Harsh, Yoo Suhyeon, Bernuy Angela Zavaleta, Shi Jiakai, Luo Huayin, Williams Joseph, Kuzminykh Anastasia, Anderson Ashton, Kornfield Rachel
 conference: "Arxiv"
 year: 2024

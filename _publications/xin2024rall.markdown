@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RALL-E: Robust Codec Language Modeling With Chain-of-thought Prompting For Text-to-speech Synthesis
+title: RALL-E\: Robust Codec Language Modeling With Chain-of-thought Prompting For Text-to-speech Synthesis
 authors: Xin Detai, Tan Xu, Shen Kai, Ju Zeqian, Yang Dongchao, Wang Yuancheng, Takamichi Shinnosuke, Saruwatari Hiroshi, Liu Shujie, Li Jinyu, Zhao Sheng
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM Roleplay: Simulating Human-chatbot Interaction
+title: LLM Roleplay\: Simulating Human-chatbot Interaction
 authors: Tamoyan Hovhannes, Schuff Hendrik, Gurevych Iryna
 conference: "Arxiv"
 year: 2024

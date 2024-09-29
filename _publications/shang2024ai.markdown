@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ai-native Memory: A Pathway From Llms Towards AGI
+title: Ai-native Memory\: A Pathway From Llms Towards AGI
 authors: Shang Jingbo, Zheng Zai, Wei Jiale, Ying Xiang, Tao Felix, Team Mindverse
 conference: "Arxiv"
 year: 2024

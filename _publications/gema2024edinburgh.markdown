@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Edinburgh Clinical NLP At MEDIQA-CORR 2024: Guiding Large Language Models With Hints
+title: Edinburgh Clinical NLP At MEDIQA-CORR 2024\: Guiding Large Language Models With Hints
 authors: Gema Aryo Pradipta, Lee Chaeeun, Minervini Pasquale, Daines Luke, Simpson T. Ian, Alex Beatrice
 conference: "Arxiv"
 year: 2024

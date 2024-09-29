@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Getting More From Less: Large Language Models Are Good Spontaneous Multilingual Learners
+title: Getting More From Less\: Large Language Models Are Good Spontaneous Multilingual Learners
 authors: Zhang Shimao, Gao Changjiang, Zhu Wenhao, Chen Jiajun, Huang Xin, Han Xue, Feng Junlan, Deng Chao, Huang Shujian
 conference: "Arxiv"
 year: 2024

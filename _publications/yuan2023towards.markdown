@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Batcheval: Towards Human-like Text Evaluation
+title: Batcheval\: Towards Human-like Text Evaluation
 authors: Yuan Peiwen, Feng Shaoxiong, Li Yiwei, Wang Xinglin, Pan Boyuan, Wang Heda, Li Kan
 conference: "Arxiv"
 year: 2023

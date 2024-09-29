@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: IT5: Text-to-text Pretraining For Italian Language Understanding And Generation
+title: IT5\: Text-to-text Pretraining For Italian Language Understanding And Generation
 authors: Sarti Gabriele, Nissim Malvina
 conference: "Proceedings of LREC-COLING"
 year: 2022

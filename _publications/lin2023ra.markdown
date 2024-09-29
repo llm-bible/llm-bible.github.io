@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RA-DIT: Retrieval-augmented Dual Instruction Tuning
+title: RA-DIT\: Retrieval-augmented Dual Instruction Tuning
 authors: Lin Xi Victoria, Chen Xilun, Chen Mingda, Shi Weijia, Lomeli Maria, James Rich, Rodriguez Pedro, Kahn Jacob, Szilvasy Gergely, Lewis Mike, Zettlemoyer Luke, Yih Scott
 conference: "Arxiv"
 year: 2023

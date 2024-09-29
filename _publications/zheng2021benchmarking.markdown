@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fewnlu: Benchmarking State-of-the-art Methods For Few-shot Natural Language Understanding
+title: Fewnlu\: Benchmarking State-of-the-art Methods For Few-shot Natural Language Understanding
 authors: Zheng Yanan, Zhou Jing, Qian Yujie, Ding Ming, Liao Chonghua, Li Jian, Salakhutdinov Ruslan, Tang Jie, Ruder Sebastian, Yang Zhilin
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bwarea Model: Learning World Model, Inverse Dynamics, And Policy For Controllable Language Generation
+title: Bwarea Model\: Learning World Model, Inverse Dynamics, And Policy For Controllable Language Generation
 authors: Jia Chengxing, Wang Pengyuan, Li Ziniu, Li Yi-chen, Zhang Zhilong, Tang Nan, Yu Yang
 conference: "Arxiv"
 year: 2024

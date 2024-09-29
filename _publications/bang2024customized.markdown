@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Crayon: Customized On-device LLM Via Instant Adapter Blending And Edge-server Hybrid Inference
+title: Crayon\: Customized On-device LLM Via Instant Adapter Blending And Edge-server Hybrid Inference
 authors: Bang Jihwan, Lee Juntae, Shim Kyuhong, Yang Seunghan, Chang Simyung
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: IQ-VQA: Intelligent Visual Question Answering
+title: IQ-VQA\: Intelligent Visual Question Answering
 authors: Goel Vatsal, Chandak Mohit, Anand Ashish, Guha Prithwijit
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VLMAE: Vision-language Masked Autoencoder
+title: VLMAE\: Vision-language Masked Autoencoder
 authors: He Sunan, Guo Taian, Dai Tao, Qiao Ruizhi, Wu Chen, Shu Xiujun, Ren Bo
 conference: "Arxiv"
 year: 2022

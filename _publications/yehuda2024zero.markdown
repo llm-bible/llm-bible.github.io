@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Interrogatellm: Zero-resource Hallucination Detection In Llm-generated Answers
+title: Interrogatellm\: Zero-resource Hallucination Detection In Llm-generated Answers
 authors: Yehuda Yakir, Malkiel Itzik, Barkan Oren, Weill Jonathan, Ronen Royi, Koenigstein Noam
 conference: "https://aclanthology.org/"
 year: 2024

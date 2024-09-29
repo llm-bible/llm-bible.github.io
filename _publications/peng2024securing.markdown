@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Securing Large Language Models: Addressing Bias, Misinformation, And Prompt Attacks
+title: Securing Large Language Models\: Addressing Bias, Misinformation, And Prompt Attacks
 authors: Peng Benji, Chen Keyu, Li Ming, Feng Pohsun, Bi Ziqian, Liu Junyu, Niu Qian
 conference: "Arxiv"
 year: 2024

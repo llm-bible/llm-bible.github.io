@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Trusting Your Evidence: Hallucinate Less With Context-aware Decoding
+title: Trusting Your Evidence\: Hallucinate Less With Context-aware Decoding
 authors: Shi Weijia, Han Xiaochuang, Lewis Mike, Tsvetkov Yulia, Zettlemoyer Luke, Yih Scott Wen-tau
 conference: "Arxiv"
 year: 2023

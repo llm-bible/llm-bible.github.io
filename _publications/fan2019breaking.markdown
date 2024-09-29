@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Optibox: Breaking The Limits Of Proposals For Visual Grounding
+title: Optibox\: Breaking The Limits Of Proposals For Visual Grounding
 authors: Fan Zicong, Meng Si Yi, Sigal Leonid, Little James J.
 conference: "Arxiv"
 year: 2019

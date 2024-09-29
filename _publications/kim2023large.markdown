@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM4SGG: Large Language Models For Weakly Supervised Scene Graph Generation
+title: LLM4SGG\: Large Language Models For Weakly Supervised Scene Graph Generation
 authors: Kim Kibum, Yoon Kanghoon, Jeon Jaehyeong, In Yeonjun, Moon Jinyoung, Kim Donghyun, Park Chanyoung
 conference: "CVPR"
 year: 2023

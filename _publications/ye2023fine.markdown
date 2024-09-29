@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FLASK: Fine-grained Language Model Evaluation Based On Alignment Skill Sets
+title: FLASK\: Fine-grained Language Model Evaluation Based On Alignment Skill Sets
 authors: Ye Seonghyeon, Kim Doyoung, Kim Sungdong, Hwang Hyeonbin, Kim Seungone, Jo Yongrae, Thorne James, Kim Juho, Seo Minjoon
 conference: "Arxiv"
 year: 2023

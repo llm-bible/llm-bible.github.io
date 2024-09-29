@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llm-adapters: An Adapter Family For Parameter-efficient Fine-tuning Of Large Language Models
+title: Llm-adapters\: An Adapter Family For Parameter-efficient Fine-tuning Of Large Language Models
 authors: Hu Zhiqiang, Wang Lei, Lan Yihuai, Xu Wanyu, Lim Ee-peng, Bing Lidong, Xu Xing, Poria Soujanya, Lee Roy Ka-wei
 conference: "Arxiv"
 year: 2023

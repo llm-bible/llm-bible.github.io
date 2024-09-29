@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PARAMANU-GANITA: Language Model With Mathematical Capabilities
+title: PARAMANU-GANITA\: Language Model With Mathematical Capabilities
 authors: Niyogi Mitodru, Bhattacharya Arnab
 conference: "Arxiv"
 year: 2024

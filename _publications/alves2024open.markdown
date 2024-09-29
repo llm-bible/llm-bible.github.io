@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tower: An Open Multilingual Large Language Model For Translation-related Tasks
+title: Tower\: An Open Multilingual Large Language Model For Translation-related Tasks
 authors: Alves Duarte M., Pombal José, Guerreiro Nuno M., Martins Pedro H., Alves João, Farajian Amin, Peters Ben, Rei Ricardo, Fernandes Patrick, Agrawal Sweta, Colombo Pierre, De Souza José G. C., Martins André F. T.
 conference: "Arxiv"
 year: 2024

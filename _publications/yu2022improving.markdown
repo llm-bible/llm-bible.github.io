@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: KRLS: Improving End-to-end Response Generation In Task Oriented Dialog With Reinforced Keywords Learning
+title: KRLS\: Improving End-to-end Response Generation In Task Oriented Dialog With Reinforced Keywords Learning
 authors: Yu Xiao, Wu Qingyang, Qian Kun, Yu Zhou
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jumpcoder: Go Beyond Autoregressive Coder Via Online Modification
+title: Jumpcoder\: Go Beyond Autoregressive Coder Via Online Modification
 authors: Chen Mouxiang, Tian Hao, Liu Zhongxin, Ren Xiaoxue, Sun Jianling
 conference: "Arxiv"
 year: 2024

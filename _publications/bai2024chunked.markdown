@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Citrus: Chunked Instruction-aware State Eviction For Long Sequence Modeling
+title: Citrus\: Chunked Instruction-aware State Eviction For Long Sequence Modeling
 authors: Bai Yu, Zou Xiyuan, Huang Heyan, Chen Sanxing, Rondeau Marc-antoine, Gao Yang, Cheung Jackie Chi Kit
 conference: "Arxiv"
 year: 2024

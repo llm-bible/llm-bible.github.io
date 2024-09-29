@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Idgenrec: Llm-recsys Alignment With Textual ID Learning
+title: Idgenrec\: Llm-recsys Alignment With Textual ID Learning
 authors: Tan Juntao, Xu Shuyuan, Hua Wenyue, Ge Yingqiang, Li Zelong, Zhang Yongfeng
 conference: "Arxiv"
 year: 2024

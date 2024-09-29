@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ZEROTOP: Zero-shot Task-oriented Semantic Parsing Using Large Language Models
+title: ZEROTOP\: Zero-shot Task-oriented Semantic Parsing Using Large Language Models
 authors: Mekala Dheeraj, Wolfe Jason, Roy Subhro
 conference: "Arxiv"
 year: 2022

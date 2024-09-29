@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-tuning Large Language Models To Translate: Will A Touch Of Noisy Data In Misaligned Languages Suffice?
+title: Fine-tuning Large Language Models To Translate\: Will A Touch Of Noisy Data In Misaligned Languages Suffice?
 authors: Zhu Dawei, Chen Pinzhen, Zhang Miaoran, Haddow Barry, Shen Xiaoyu, Klakow Dietrich
 conference: "Arxiv"
 year: 2024

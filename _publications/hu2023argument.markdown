@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AMERICANO: Argument Generation With Discourse-driven Decomposition And Agent Interaction
+title: AMERICANO\: Argument Generation With Discourse-driven Decomposition And Agent Interaction
 authors: Hu Zhe, Chan Hou Pong, Yin Yu
 conference: "Arxiv"
 year: 2023

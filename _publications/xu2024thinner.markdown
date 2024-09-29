@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Think: Thinner Key Cache By Query-driven Pruning
+title: Think\: Thinner Key Cache By Query-driven Pruning
 authors: Xu Yuhui, Jie Zhanming, Dong Hanze, Wang Lei, Lu Xudong, Zhou Aojun, Saha Amrita, Xiong Caiming, Sahoo Doyen
 conference: "Arxiv"
 year: 2024

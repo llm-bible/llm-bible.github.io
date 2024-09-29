@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unleashing The Potential Of Large Language Models As Prompt Optimizers: An Analogical Analysis With Gradient-based Model Optimizers
+title: Unleashing The Potential Of Large Language Models As Prompt Optimizers\: An Analogical Analysis With Gradient-based Model Optimizers
 authors: Tang Xinyu, Wang Xiaolei, Zhao Wayne Xin, Lu Siyuan, Li Yaliang, Wen Ji-rong
 conference: "Arxiv"
 year: 2024

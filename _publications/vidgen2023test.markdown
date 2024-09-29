@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Simplesafetytests: A Test Suite For Identifying Critical Safety Risks In Large Language Models
+title: Simplesafetytests\: A Test Suite For Identifying Critical Safety Risks In Large Language Models
 authors: Vidgen Bertie, Scherrer Nino, Kirk Hannah Rose, Qian Rebecca, Kannappan Anand, Hale Scott A., Röttger Paul
 conference: "Arxiv"
 year: 2023

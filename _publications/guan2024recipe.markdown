@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AMOR: A Recipe For Building Adaptable Modular Knowledge Agents Through Process Feedback
+title: AMOR\: A Recipe For Building Adaptable Modular Knowledge Agents Through Process Feedback
 authors: Guan Jian, Wu Wei, Wen Zujie, Xu Peng, Wang Hongning, Huang Minlie
 conference: "Arxiv"
 year: 2024

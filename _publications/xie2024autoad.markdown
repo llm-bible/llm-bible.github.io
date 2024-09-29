@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Autoad-zero: A Training-free Framework For Zero-shot Audio Description
+title: Autoad-zero\: A Training-free Framework For Zero-shot Audio Description
 authors: Xie Junyu, Han Tengda, Bain Max, Nagrani Arsha, Varol Gül, Xie Weidi, Zisserman Andrew
 conference: "Arxiv"
 year: 2024

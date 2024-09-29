@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Demorank: Selecting Effective Demonstrations For Large Language Models In Ranking Task
+title: Demorank\: Selecting Effective Demonstrations For Large Language Models In Ranking Task
 authors: Liu Wenhan, Zhu Yutao, Dou Zhicheng
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Uicoder: Finetuning Large Language Models To Generate User Interface Code Through Automated Feedback
+title: Uicoder\: Finetuning Large Language Models To Generate User Interface Code Through Automated Feedback
 authors: Wu Jason, Schoop Eldon, Leung Alan, Barik Titus, Bigham Jeffrey P., Nichols Jeffrey
 conference: "Arxiv"
 year: 2024

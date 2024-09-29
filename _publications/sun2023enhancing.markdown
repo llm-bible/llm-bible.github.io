@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Parrot: Enhancing Multi-turn Instruction Following For Large Language Models
+title: Parrot\: Enhancing Multi-turn Instruction Following For Large Language Models
 authors: Sun Yuchong, Liu Che, Zhou Kun, Huang Jinwen, Song Ruihua, Zhao Wayne Xin, Zhang Fuzheng, Zhang Di, Gai Kun
 conference: "Arxiv"
 year: 2023

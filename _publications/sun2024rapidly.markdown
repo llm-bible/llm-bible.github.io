@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rapidly Developing High-quality Instruction Data And Evaluation Benchmark For Large Language Models With Minimal Human Effort: A Case Study On Japanese
+title: Rapidly Developing High-quality Instruction Data And Evaluation Benchmark For Large Language Models With Minimal Human Effort\: A Case Study On Japanese
 authors: Sun Yikun, Wan Zhen, Ueda Nobuhiro, Yahata Sakiko, Cheng Fei, Chu Chenhui, Kurohashi Sadao
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Progprompt: Generating Situated Robot Task Plans Using Large Language Models
+title: Progprompt\: Generating Situated Robot Task Plans Using Large Language Models
 authors: Singh Ishika, Blukis Valts, Mousavian Arsalan, Goyal Ankit, Xu Danfei, Tremblay Jonathan, Fox Dieter, Thomason Jesse, Garg Animesh
 conference: "Arxiv"
 year: 2022

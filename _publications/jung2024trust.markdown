@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Trust Or Escalate: LLM Judges With Provable Guarantees For Human Agreement
+title: Trust Or Escalate\: LLM Judges With Provable Guarantees For Human Agreement
 authors: Jung Jaehun, Brahman Faeze, Choi Yejin
 conference: "Arxiv"
 year: 2024

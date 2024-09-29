@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Delrec: Distilling Sequential Pattern To Enhance Llm-based Recommendation
+title: Delrec\: Distilling Sequential Pattern To Enhance Llm-based Recommendation
 authors: Sun Guohao, Zhang Haoyi
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cost: Contrastive Quantization Based Semantic Tokenization For Generative Recommendation
+title: Cost\: Contrastive Quantization Based Semantic Tokenization For Generative Recommendation
 authors: Zhu Jieming, Jin Mengqun, Liu Qijiong, Qiu Zexuan, Dong Zhenhua, Li Xiu
 conference: "Arxiv"
 year: 2024

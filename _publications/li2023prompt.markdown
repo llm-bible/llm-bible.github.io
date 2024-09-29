@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PBNR: Prompt-based News Recommender System
+title: PBNR\: Prompt-based News Recommender System
 authors: Li Xinyi, Zhang Yongfeng, Malthouse Edward C.
 conference: "Arxiv"
 year: 2023

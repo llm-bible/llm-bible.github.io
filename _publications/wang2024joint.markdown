@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: JMLR: Joint Medical LLM And Retrieval Training For Enhancing Reasoning And Professional Question Answering Capability
+title: JMLR\: Joint Medical LLM And Retrieval Training For Enhancing Reasoning And Professional Question Answering Capability
 authors: Wang Junda, Yang Zhichao, Yao Zonghai, Yu Hong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Anymal: An Efficient And Scalable Any-modality Augmented Language Model
+title: Anymal\: An Efficient And Scalable Any-modality Augmented Language Model
 authors: Moon Seungwhan, Madotto Andrea, Lin Zhaojiang, Nagarajan Tushar, Smith Matt, Jain Shashank, Yeh Chun-fu, Murugesan Prakash, Heidari Peyman, Liu Yue, Srinet Kavya, Damavandi Babak, Kumar Anuj
 conference: "Arxiv"
 year: 2023

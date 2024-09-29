@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beads: Bias Evaluation Across Domains
+title: Beads\: Bias Evaluation Across Domains
 authors: Raza Shaina, Rahman Mizanur, Zhang Michael R.
 conference: "Arxiv"
 year: 2024

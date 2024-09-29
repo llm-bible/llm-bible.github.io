@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: When Automated Assessment Meets Automated Content Generation: Examining Text Quality In The Era Of Gpts
+title: When Automated Assessment Meets Automated Content Generation\: Examining Text Quality In The Era Of Gpts
 authors: Bevilacqua Marialena, Oketch Kezia, Qin Ruiyang, Stamey Will, Zhang Xinyuan, Gan Yi, Yang Kai, Abbasi Ahmed
 conference: "Arxiv"
 year: 2023

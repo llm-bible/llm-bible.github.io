@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Critic-cot: Boosting The Reasoning Abilities Of Large Language Model Via Chain-of-thoughts Critic
+title: Critic-cot\: Boosting The Reasoning Abilities Of Large Language Model Via Chain-of-thoughts Critic
 authors: Zheng Xin, Lou Jie, Cao Boxi, Wen Xueru, Ji Yuqiu, Lin Hongyu, Lu Yaojie, Han Xianpei, Zhang Debing, Sun Le
 conference: "Arxiv"
 year: 2024

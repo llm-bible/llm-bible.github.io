@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Program Of Thoughts Prompting: Disentangling Computation From Reasoning For Numerical Reasoning Tasks
+title: Program Of Thoughts Prompting\: Disentangling Computation From Reasoning For Numerical Reasoning Tasks
 authors: Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen
 conference: "Arxiv"
 year: 2022

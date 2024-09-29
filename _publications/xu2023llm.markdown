@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An LLM Can Fool Itself: A Prompt-based Adversarial Attack
+title: An LLM Can Fool Itself\: A Prompt-based Adversarial Attack
 authors: Xu Xilie, Kong Keyi, Liu Ning, Cui Lizhen, Wang Di, Zhang Jingfeng, Kankanhalli Mohan
 conference: "Arxiv"
 year: 2023

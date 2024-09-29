@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Simplifying Translations For Children: Iterative Simplification Considering Age Of Acquisition With Llms
+title: Simplifying Translations For Children\: Iterative Simplification Considering Age Of Acquisition With Llms
 authors: Oshika Masashi, Morishita Makoto, Hirao Tsutomu, Sasano Ryohei, Takeda Koichi
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DMRM: A Dual-channel Multi-hop Reasoning Model For Visual Dialog
+title: DMRM\: A Dual-channel Multi-hop Reasoning Model For Visual Dialog
 authors: Chen Feilong, Meng Fandong, Xu Jiaming, Li Peng, Xu Bo, Zhou Jie
 conference: "Arxiv"
 year: 2019

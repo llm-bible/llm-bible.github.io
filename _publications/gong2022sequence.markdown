@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Diffuseq: Sequence To Sequence Text Generation With Diffusion Models
+title: Diffuseq\: Sequence To Sequence Text Generation With Diffusion Models
 authors: Gong Shansan, Li Mukai, Feng Jiangtao, Wu Zhiyong, Kong Lingpeng
 conference: "Arxiv"
 year: 2022

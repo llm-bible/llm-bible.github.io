@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: NOLA: Compressing Lora Using Linear Combination Of Random Basis
+title: NOLA\: Compressing Lora Using Linear Combination Of Random Basis
 authors: Koohpayegani Soroush Abbasi, Navaneet Kl, Nooralinejad Parsa, Kolouri Soheil, Pirsiavash Hamed
 conference: "Arxiv"
 year: 2023

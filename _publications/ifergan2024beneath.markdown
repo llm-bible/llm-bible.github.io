@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beneath The Surface Of Consistency: Exploring Cross-lingual Knowledge Representation Sharing In Llms
+title: Beneath The Surface Of Consistency\: Exploring Cross-lingual Knowledge Representation Sharing In Llms
 authors: Ifergan Maxim, Choshen Leshem, Aharoni Roee, Szpektor Idan, Abend Omri
 conference: "Arxiv"
 year: 2024

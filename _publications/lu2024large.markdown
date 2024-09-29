@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Diver: Large Language Model Decoding With Span-level Mutual Information Verification
+title: Diver\: Large Language Model Decoding With Span-level Mutual Information Verification
 authors: Lu Jinliang, Wang Chen, Zhang Jiajun
 conference: "Arxiv"
 year: 2024

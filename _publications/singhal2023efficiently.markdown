@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EEL: Efficiently Encoding Lattices For Reranking
+title: EEL\: Efficiently Encoding Lattices For Reranking
 authors: Singhal Prasann, Xu Jiacheng, Ye Xi, Durrett Greg
 conference: "Arxiv"
 year: 2023

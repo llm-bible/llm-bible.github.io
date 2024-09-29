@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cif-bench: A Chinese Instruction-following Benchmark For Evaluating The Generalizability Of Large Language Models
+title: Cif-bench\: A Chinese Instruction-following Benchmark For Evaluating The Generalizability Of Large Language Models
 authors: Li Yizhi, Zhang Ge, Qu Xingwei, Li Jiali, Li Zhaoqun, Wang Zekun, Li Hao, Yuan Ruibin, Ma Yinghao, Zhang Kai, Zhou Wangchunshu, Liang Yiming, Zhang Lei, Ma Lei, Zhang Jiajun, Li Zuowen, Huang Stephen W., Lin Chenghua, Fu Jie
 conference: "Arxiv"
 year: 2024

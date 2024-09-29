@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Browse And Concentrate: Comprehending Multimodal Content Via Prior-llm Context Fusion
+title: Browse And Concentrate\: Comprehending Multimodal Content Via Prior-llm Context Fusion
 authors: Wang Ziyue, Chen Chi, Zhu Yiqi, Luo Fuwen, Li Peng, Yan Ming, Zhang Ji, Huang Fei, Sun Maosong, Liu Yang
 conference: "Arxiv"
 year: 2024

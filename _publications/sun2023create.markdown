@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Create Your World: Lifelong Text-to-image Diffusion
+title: Create Your World\: Lifelong Text-to-image Diffusion
 authors: Sun Gan, Liang Wenqi, Dong Jiahua, Li Jun, Ding Zhengming, Cong Yang
 conference: "Arxiv"
 year: 2023

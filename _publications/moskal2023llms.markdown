@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llms Killed The Script Kiddie: How Agents Supported By Large Language Models Change The Landscape Of Network Threat Testing
+title: Llms Killed The Script Kiddie\: How Agents Supported By Large Language Models Change The Landscape Of Network Threat Testing
 authors: Moskal Stephen, Laney Sam, Hemberg Erik, O'reilly Una-may
 conference: "Arxiv"
 year: 2023

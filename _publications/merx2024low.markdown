@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Low-resource Machine Translation Through Retrieval-augmented LLM Prompting: A Study On The Mambai Language
+title: Low-resource Machine Translation Through Retrieval-augmented LLM Prompting\: A Study On The Mambai Language
 authors: Merx Raphaël, Mahmudi Aso, Langford Katrina, De Araujo Leo Alberto, Vylomova Ekaterina
 conference: "Arxiv"
 year: 2024

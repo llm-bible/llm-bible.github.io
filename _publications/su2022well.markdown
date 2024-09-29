@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Welm: A Well-read Pre-trained Language Model For Chinese
+title: Welm\: A Well-read Pre-trained Language Model For Chinese
 authors: Hui Su, Xiao Zhou, Houjin Yu, Xiaoyu Shen, Yuwen Chen, Zilin Zhu, Yang Yu, Jie Zhou
 conference: "Arxiv"
 year: 2022

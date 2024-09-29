@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Worldgpt: Empowering LLM As Multimodal World Model
+title: Worldgpt\: Empowering LLM As Multimodal World Model
 authors: Ge Zhiqi, Huang Hongzhe, Zhou Mingze, Li Juncheng, Wang Guoming, Tang Siliang, Zhuang Yueting
 conference: "Arxiv"
 year: 2024

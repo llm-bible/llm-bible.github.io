@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SATO: Stable Text-to-motion Framework
+title: SATO\: Stable Text-to-motion Framework
 authors: Chen Wenshuo, Xiao Hongru, Zhang Erhang, Hu Lijie, Wang Lei, Liu Mengyuan, Chen Chen
 conference: "Arxiv"
 year: 2024

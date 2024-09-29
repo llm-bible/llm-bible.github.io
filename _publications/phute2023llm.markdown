@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM Self Defense: By Self Examination, Llms Know They Are Being Tricked
+title: LLM Self Defense\: By Self Examination, Llms Know They Are Being Tricked
 authors: Phute Mansi, Helbling Alec, Hull Matthew, Peng Shengyun, Szyller Sebastian, Cornelius Cory, Chau Duen Horng
 conference: "Arxiv"
 year: 2023

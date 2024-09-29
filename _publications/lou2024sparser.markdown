@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sparser Is Faster And Less Is More: Efficient Sparse Attention For Long-range Transformers
+title: Sparser Is Faster And Less Is More\: Efficient Sparse Attention For Long-range Transformers
 authors: Lou Chao, Jia Zixia, Zheng Zilong, Tu Kewei
 conference: "Arxiv"
 year: 2024

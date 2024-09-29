@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Are Fixated By Red Herrings: Exploring Creative Problem Solving And Einstellung Effect Using The Only Connect Wall Dataset
+title: Large Language Models Are Fixated By Red Herrings\: Exploring Creative Problem Solving And Einstellung Effect Using The Only Connect Wall Dataset
 authors: Naeini Saeid, Saqur Raeid, Saeidi Mozhgan, Giorgi John, Taati Babak
 conference: "Arxiv"
 year: 2023

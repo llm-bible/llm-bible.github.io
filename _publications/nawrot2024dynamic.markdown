@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dynamic Memory Compression: Retrofitting Llms For Accelerated Inference
+title: Dynamic Memory Compression\: Retrofitting Llms For Accelerated Inference
 authors: Nawrot Piotr, Łańcucki Adrian, Chochowski Marcin, Tarjan David, Ponti Edoardo M.
 conference: "Proceedings of the"
 year: 2024

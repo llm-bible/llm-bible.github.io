@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Wildbench: Benchmarking Llms With Challenging Tasks From Real Users In The Wild
+title: Wildbench\: Benchmarking Llms With Challenging Tasks From Real Users In The Wild
 authors: Lin Bill Yuchen, Deng Yuntian, Chandu Khyathi, Brahman Faeze, Ravichander Abhilasha, Pyatkin Valentina, Dziri Nouha, Bras Ronan Le, Choi Yejin
 conference: "Arxiv"
 year: 2024

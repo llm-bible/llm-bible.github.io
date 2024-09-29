@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PAIR: Planning And Iterative Refinement In Pre-trained Transformers For Long Text Generation
+title: PAIR\: Planning And Iterative Refinement In Pre-trained Transformers For Long Text Generation
 authors: Hua Xinyu, Wang Lu
 conference: "Arxiv"
 year: 2020

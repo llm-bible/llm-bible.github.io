@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VL-GPT: A Generative Pre-trained Transformer For Vision And Language Understanding And Generation
+title: VL-GPT\: A Generative Pre-trained Transformer For Vision And Language Understanding And Generation
 authors: Zhu Jinguo, Ding Xiaohan, Ge Yixiao, Ge Yuying, Zhao Sijie, Zhao Hengshuang, Wang Xiaohua, Shan Ying
 conference: "Arxiv"
 year: 2023

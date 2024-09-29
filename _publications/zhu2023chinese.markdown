@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Promptcblue: A Chinese Prompt Tuning Benchmark For The Medical Domain
+title: Promptcblue\: A Chinese Prompt Tuning Benchmark For The Medical Domain
 authors: Zhu Wei, Wang Xiaoling, Zheng Huanran, Chen Mosha, Tang Buzhou
 conference: "Arxiv"
 year: 2023

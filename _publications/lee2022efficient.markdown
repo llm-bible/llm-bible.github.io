@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Littlebird: Efficient Faster & Longer Transformer For Question Answering
+title: Littlebird\: Efficient Faster & Longer Transformer For Question Answering
 authors: Lee Minchul, Han Kijong, Shin Myeong Cheol
 conference: "Arxiv"
 year: 2022

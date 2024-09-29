@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vilco-bench: Video Language Continual Learning Benchmark
+title: Vilco-bench\: Video Language Continual Learning Benchmark
 authors: Tang Tianqi, Deldari Shohreh, Xue Hao, De Melo Celso, Salim Flora D.
 conference: "Arxiv"
 year: 2024

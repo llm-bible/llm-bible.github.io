@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: X-eval: Generalizable Multi-aspect Text Evaluation Via Augmented Instruction Tuning With Auxiliary Evaluation Aspects
+title: X-eval\: Generalizable Multi-aspect Text Evaluation Via Augmented Instruction Tuning With Auxiliary Evaluation Aspects
 authors: Liu Minqian, Shen Ying, Xu Zhiyang, Cao Yixin, Cho Eunah, Kumar Vaibhav, Ghanadan Reza, Huang Lifu
 conference: "Arxiv"
 year: 2023

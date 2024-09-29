@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ST-LLM: Large Language Models Are Effective Temporal Learners
+title: ST-LLM\: Large Language Models Are Effective Temporal Learners
 authors: Liu Ruyang, Li Chen, Tang Haoran, Ge Yixiao, Shan Ying, Li Ge
 conference: "Arxiv"
 year: 2024

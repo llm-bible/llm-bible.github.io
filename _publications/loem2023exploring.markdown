@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Effectiveness Of GPT-3 In Grammatical Error Correction: A Study On Performance And Controllability In Prompt-based Methods
+title: Exploring Effectiveness Of GPT-3 In Grammatical Error Correction\: A Study On Performance And Controllability In Prompt-based Methods
 authors: Loem Mengsay, Kaneko Masahiro, Takase Sho, Okazaki Naoaki
 conference: "Arxiv"
 year: 2023

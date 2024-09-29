@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ELASTIC: Efficient Linear Attention For Sequential Interest Compression
+title: ELASTIC\: Efficient Linear Attention For Sequential Interest Compression
 authors: Deng Jiaxin, Wang Shiyao, Lu Song, Li Yinfeng, Luo Xinchen, Liu Yuanjun, Xu Peixing, Zhou Guorui
 conference: "Arxiv"
 year: 2024

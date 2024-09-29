@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative Large Language Models In Automated Fact-checking: A Survey
+title: Generative Large Language Models In Automated Fact-checking\: A Survey
 authors: Vykopal Ivan, Pikuliak Matúš, Ostermann Simon, Šimko Marián
 conference: "Arxiv"
 year: 2024

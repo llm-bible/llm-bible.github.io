@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Look Before You Leap: Towards Decision-aware And Generalizable Tool-usage For Large Language Models
+title: Look Before You Leap\: Towards Decision-aware And Generalizable Tool-usage For Large Language Models
 authors: Gui Anchun, Li Jian, Dai Yong, Du Nan, Xiao Han
 conference: "Arxiv"
 year: 2024

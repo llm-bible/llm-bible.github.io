@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Might Not Care What You Are Saying: Prompt Format Beats Descriptions
+title: Large Language Models Might Not Care What You Are Saying\: Prompt Format Beats Descriptions
 authors: Tang Chenming, Wang Zhixiang, Wu Yunfang
 conference: "Arxiv"
 year: 2024

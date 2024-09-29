@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bridging The Bosphorus: Advancing Turkish Large Language Models Through Strategies For Low-resource Language Adaptation And Benchmarking
+title: Bridging The Bosphorus\: Advancing Turkish Large Language Models Through Strategies For Low-resource Language Adaptation And Benchmarking
 authors: Acikgoz Emre Can, Erdogan Mete, Yuret Deniz
 conference: "Arxiv"
 year: 2024

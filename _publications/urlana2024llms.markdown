@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llms With Industrial Lens: Deciphering The Challenges And Prospects -- A Survey
+title: Llms With Industrial Lens\: Deciphering The Challenges And Prospects -- A Survey
 authors: Urlana Ashok, Kumar Charaka Vinayak, Singh Ajeet Kumar, Garlapati Bala Mallikarjunarao, Chalamala Srinivasa Rao, Mishra Rahul
 conference: "Arxiv"
 year: 2024

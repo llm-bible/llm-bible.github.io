@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Battling Botpoop Using Genai For Higher Education: A Study Of A Retrieval Augmented Generation Chatbots Impact On Learning
+title: Battling Botpoop Using Genai For Higher Education\: A Study Of A Retrieval Augmented Generation Chatbots Impact On Learning
 authors: Thway Maung, Recatala-gomez Jose, Lim Fun Siong, Hippalgaonkar Kedar, Ng Leonard W. T.
 conference: "Arxiv"
 year: 2024

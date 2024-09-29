@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Needlebench: Can Llms Do Retrieval And Reasoning In 1 Million Context Window?
+title: Needlebench\: Can Llms Do Retrieval And Reasoning In 1 Million Context Window?
 authors: Li Mo, Zhang Songyang, Liu Yunxin, Chen Kai
 conference: "Arxiv"
 year: 2024

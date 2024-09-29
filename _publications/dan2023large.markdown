@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Educhat: A Large-scale Language Model-based Chatbot System For Intelligent Education
+title: Educhat\: A Large-scale Language Model-based Chatbot System For Intelligent Education
 authors: Dan Yuhao, Lei Zhikai, Gu Yiyang, Li Yong, Yin Jianghao, Lin Jiaju, Ye Linhao, Tie Zhiyan, Zhou Yougen, Wang Yilei, Zhou Aimin, Zhou Ze, Chen Qin, Zhou Jie, He Liang, Qiu Xipeng
 conference: "Arxiv"
 year: 2023

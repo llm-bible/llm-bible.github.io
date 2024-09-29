@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Astprompter: Weakly Supervised Automated Language Model Red-teaming To Identify Likely Toxic Prompts
+title: Astprompter\: Weakly Supervised Automated Language Model Red-teaming To Identify Likely Toxic Prompts
 authors: Hardy Amelia F., Liu Houjun, Lange Bernard, Kochenderfer Mykel J.
 conference: "Arxiv"
 year: 2024

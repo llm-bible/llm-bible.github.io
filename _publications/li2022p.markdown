@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: P-transformer: Towards Better Document-to-document Neural Machine Translation
+title: P-transformer\: Towards Better Document-to-document Neural Machine Translation
 authors: Li Yachao, Li Junhui, Jiang Jing, Tao Shimin, Yang Hao, Zhang Min
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Promptdsi: Prompt-based Rehearsal-free Instance-wise Incremental Learning For Document Retrieval
+title: Promptdsi\: Prompt-based Rehearsal-free Instance-wise Incremental Learning For Document Retrieval
 authors: Huynh Tuan-luc, Vu Thuy-trang, Wang Weiqing, Wei Yinwei, Le Trung, Gasevic Dragan, Li Yuan-fang, Do Thanh-toan
 conference: "Arxiv"
 year: 2024

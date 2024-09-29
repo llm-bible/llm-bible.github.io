@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Diversedialogue: A Methodology For Designing Chatbots With Human-like Diversity
+title: Diversedialogue\: A Methodology For Designing Chatbots With Human-like Diversity
 authors: Lin Xiaoyu, Yu Xinkai, Aich Ankit, Giorgi Salvatore, Ungar Lyle
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Model Tokenizer Bias: A Case Study And Solution On Gpt-4o
+title: Large Language Model Tokenizer Bias\: A Case Study And Solution On Gpt-4o
 authors: Yang Jin, Wang Zhiqiang, Lin Yanbin, Zhao Zunduo
 conference: "Arxiv"
 year: 2024

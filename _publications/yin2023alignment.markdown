@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Alignment Is Not Sufficient To Prevent Large Language Models From Generating Harmful Information: A Psychoanalytic Perspective
+title: Alignment Is Not Sufficient To Prevent Large Language Models From Generating Harmful Information\: A Psychoanalytic Perspective
 authors: Yin Zi, Ding Wei, Liu Jia
 conference: "Arxiv"
 year: 2023

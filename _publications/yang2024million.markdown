@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: 3D-GRAND: A Million-scale Dataset For 3d-llms With Better Grounding And Less Hallucination
+title: 3D-GRAND\: A Million-scale Dataset For 3d-llms With Better Grounding And Less Hallucination
 authors: Yang Jianing, Chen Xuweiyi, Madaan Nikhil, Iyengar Madhavan, Qian Shengyi, Fouhey David F., Chai Joyce
 conference: "Arxiv"
 year: 2024

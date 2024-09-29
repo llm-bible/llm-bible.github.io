@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Balancing Speciality And Versatility: A Coarse To Fine Framework For Supervised Fine-tuning Large Language Model
+title: Balancing Speciality And Versatility\: A Coarse To Fine Framework For Supervised Fine-tuning Large Language Model
 authors: Zhang Hengyuan, Wu Yanru, Li Dawei, Yang Sak, Zhao Rui, Jiang Yong, Tan Fei
 conference: "Arxiv"
 year: 2024

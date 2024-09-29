@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Making Large Language Models Interactive: A Pioneer Study On Supporting Complex Information-seeking Tasks With Implicit Constraints
+title: Making Large Language Models Interactive\: A Pioneer Study On Supporting Complex Information-seeking Tasks With Implicit Constraints
 authors: Ahmadvand Ali, Arabzadeh Negar, Kiseleva Julia, Sanz Patricio Figueroa, Deng Xin, Jauhar Sujay, Gamon Michael, Agichtein Eugene, Friend Ned, Aniruddha
 conference: "Arxiv"
 year: 2022

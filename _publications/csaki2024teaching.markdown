@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sambalingo: Teaching Large Language Models New Languages
+title: Sambalingo\: Teaching Large Language Models New Languages
 authors: Csaki Zoltan, Li Bo, Li Jonathan, Xu Qiantong, Pawakapan Pian, Zhang Leon, Du Yun, Zhao Hengyu, Hu Changran, Thakker Urmish
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Train-attention: Meta-learning Where To Focus In Continual Knowledge Learning
+title: Train-attention\: Meta-learning Where To Focus In Continual Knowledge Learning
 authors: Seo Yeongbin, Lee Dongha, Yeo Jinyoung
 conference: "Arxiv"
 year: 2024

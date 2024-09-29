@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: L-eval: Instituting Standardized Evaluation For Long Context Language Models
+title: L-eval\: Instituting Standardized Evaluation For Long Context Language Models
 authors: An Chenxin, Gong Shansan, Zhong Ming, Zhao Xingjian, Li Mukai, Zhang Jun, Kong Lingpeng, Qiu Xipeng
 conference: "Arxiv"
 year: 2023

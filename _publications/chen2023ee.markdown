@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EE-LLM: Large-scale Training And Inference Of Early-exit Large Language Models With 3D Parallelism
+title: EE-LLM\: Large-scale Training And Inference Of Early-exit Large Language Models With 3D Parallelism
 authors: Chen Yanxi, Pan Xuchen, Li Yaliang, Ding Bolin, Zhou Jingren
 conference: "Arxiv"
 year: 2023

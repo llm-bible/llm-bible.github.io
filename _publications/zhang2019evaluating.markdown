@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bertscore: Evaluating Text Generation With BERT
+title: Bertscore\: Evaluating Text Generation With BERT
 authors: Zhang Tianyi, Kishore Varsha, Wu Felix, Weinberger Kilian Q., Artzi Yoav
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Medprompt: Cross-modal Prompting For Multi-task Medical Image Translation
+title: Medprompt\: Cross-modal Prompting For Multi-task Medical Image Translation
 authors: Chen Xuhang, Pun Chi-man, Wang Shuqiang
 conference: "Arxiv"
 year: 2023

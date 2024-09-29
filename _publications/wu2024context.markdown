@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Core: Context-regularized Text Embedding Learning For Text-to-image Personalization
+title: Core\: Context-regularized Text Embedding Learning For Text-to-image Personalization
 authors: Wu Feize, Pang Yun, Zhang Junyi, Pang Lianyu, Yin Jian, Zhao Baoquan, Li Qing, Mao Xudong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Toward Large Language Models As A Therapeutic Tool: Comparing Prompting Techniques To Improve Gpt-delivered Problem-solving Therapy
+title: Toward Large Language Models As A Therapeutic Tool\: Comparing Prompting Techniques To Improve Gpt-delivered Problem-solving Therapy
 authors: Filienko Daniil, Wang Yinzhou, Jazmi Caroline El, Xie Serena, Cohen Trevor, De Cock Martine, Yuwen Weichao
 conference: "Arxiv"
 year: 2024

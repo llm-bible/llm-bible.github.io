@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: REAR: A Relevance-aware Retrieval-augmented Framework For Open-domain Question Answering
+title: REAR\: A Relevance-aware Retrieval-augmented Framework For Open-domain Question Answering
 authors: Wang Yuhao, Ren Ruiyang, Li Junyi, Zhao Wayne Xin, Liu Jing, Wen Ji-rong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mindmap: Knowledge Graph Prompting Sparks Graph Of Thoughts In Large Language Models
+title: Mindmap\: Knowledge Graph Prompting Sparks Graph Of Thoughts In Large Language Models
 authors: Wen Yilin, Wang Zifeng, Sun Jimeng
 conference: "Arxiv"
 year: 2023

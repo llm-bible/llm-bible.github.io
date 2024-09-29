@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llava-mole: Sparse Mixture Of Lora Experts For Mitigating Data Conflicts In Instruction Finetuning Mllms
+title: Llava-mole\: Sparse Mixture Of Lora Experts For Mitigating Data Conflicts In Instruction Finetuning Mllms
 authors: Chen Shaoxiang, Jie Zequn, Ma Lin
 conference: "Arxiv"
 year: 2024

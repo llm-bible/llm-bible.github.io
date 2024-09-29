@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Occuquest: Mitigating Occupational Bias For Inclusive Large Language Models
+title: Occuquest\: Mitigating Occupational Bias For Inclusive Large Language Models
 authors: Xue Mingfeng, Liu Dayiheng, Yang Kexin, Dong Guanting, Lei Wenqiang, Yuan Zheng, Zhou Chang, Zhou Jingren
 conference: "Arxiv"
 year: 2023

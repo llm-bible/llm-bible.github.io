@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Models Meet World Models: Embodied Experiences Enhance Language Models
+title: Language Models Meet World Models\: Embodied Experiences Enhance Language Models
 authors: Xiang Jiannan, Tao Tianhua, Gu Yi, Shu Tianmin, Wang Zirui, Yang Zichao, Hu Zhiting
 conference: "Arxiv"
 year: 2023

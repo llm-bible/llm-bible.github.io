@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mask The Bias: Improving Domain-adaptive Generalization Of Ctc-based ASR With Internal Language Model Estimation
+title: Mask The Bias\: Improving Domain-adaptive Generalization Of Ctc-based ASR With Internal Language Model Estimation
 authors: Das Nilaksh, Sunkara Monica, Bodapati Sravan, Cai Jinglun, Kulshreshtha Devang, Farris Jeff, Kirchhoff Katrin
 conference: "Arxiv"
 year: 2023

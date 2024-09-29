@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Split And Rephrase: Better Evaluation And A Stronger Baseline
+title: Split And Rephrase\: Better Evaluation And A Stronger Baseline
 authors: Aharoni Roee, Goldberg Yoav
 conference: "Arxiv"
 year: 2018

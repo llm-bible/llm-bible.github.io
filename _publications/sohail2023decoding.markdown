@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Decoding Chatgpt: A Taxonomy Of Existing Research, Current Challenges, And Possible Future Directions
+title: Decoding Chatgpt\: A Taxonomy Of Existing Research, Current Challenges, And Possible Future Directions
 authors: Sohail Shahab Saquib, Farhat Faiza, Himeur Yassine, Nadeem Mohammad, Madsen Dag Øivind, Singh Yashbir, Atalla Shadi, Mansoor Wathiq
 conference: "Journal of King Saud University - Computer and Information Science"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Figuring Out Figures: Using Textual References To Caption Scientific Figures
+title: Figuring Out Figures\: Using Textual References To Caption Scientific Figures
 authors: Cao Stanley, Liu Kevin
 conference: "Arxiv"
 year: 2024

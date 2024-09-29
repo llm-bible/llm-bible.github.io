@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Longformer: The Long-document Transformer
+title: Longformer\: The Long-document Transformer
 authors: Beltagy Iz, Peters Matthew E., Cohan Arman
 conference: "Arxiv"
 year: 2020

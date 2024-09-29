@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Collaborative Evaluation: Exploring The Synergy Of Large Language Models And Humans For Open-ended Generation Evaluation
+title: Collaborative Evaluation\: Exploring The Synergy Of Large Language Models And Humans For Open-ended Generation Evaluation
 authors: Li Qintong, Cui Leyang, Kong Lingpeng, Bi Wei
 conference: "Arxiv"
 year: 2023

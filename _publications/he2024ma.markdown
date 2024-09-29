@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MA-LMM: Memory-augmented Large Multimodal Model For Long-term Video Understanding
+title: MA-LMM\: Memory-augmented Large Multimodal Model For Long-term Video Understanding
 authors: He Bo, Li Hengduo, Jang Young Kyun, Jia Menglin, Cao Xuefei, Shah Ashish, Shrivastava Abhinav, Lim Ser-nam
 conference: "Arxiv"
 year: 2024

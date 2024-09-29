@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Audiochatllama: Towards General-purpose Speech Abilities For Llms
+title: Audiochatllama\: Towards General-purpose Speech Abilities For Llms
 authors: Fathullah Yassir, Wu Chunyang, Lakomkin Egor, Li Ke, Jia Junteng, Shangguan Yuan, Mahadeokar Jay, Kalinli Ozlem, Fuegen Christian, Seltzer Mike
 conference: "Arxiv"
 year: 2023

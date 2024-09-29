@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Typhoon: Thai Large Language Models
+title: Typhoon\: Thai Large Language Models
 authors: Pipatanakul Kunat, Jirabovonvisut Phatrasek, Manakul Potsawee, Sripaisarnmongkol Sittipong, Patomwong Ruangsak, Chokchainant Pathomporn, Tharnpipitchai Kasima
 conference: "Arxiv"
 year: 2023

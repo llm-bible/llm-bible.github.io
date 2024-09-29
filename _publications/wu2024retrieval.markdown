@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sparkra: A Retrieval-augmented Knowledge Service System Based On Spark Large Language Model
+title: Sparkra\: A Retrieval-augmented Knowledge Service System Based On Spark Large Language Model
 authors: Wu Dayong, Li Jiaqi, Wang Baoxin, Zhao Honghong, Xue Siyuan, Yang Yanjie, Chang Zhijun, Zhang Rui, Qian Li, Wang Bo, Wang Shijin, Zhang Zhixiong, Hu Guoping
 conference: "Arxiv"
 year: 2024

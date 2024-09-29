@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Language Model Context Windows: A "working Memory" Test And Inference-time Correction
+title: Evaluating Language Model Context Windows\: A "working Memory" Test And Inference-time Correction
 authors: Dsouza Amanda, Glaze Christopher, Shin Changho, Sala Frederic
 conference: "Arxiv"
 year: 2024

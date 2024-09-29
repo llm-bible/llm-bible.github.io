@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards A Psychology Of Machines: Large Language Models Predict Human Memory
+title: Towards A Psychology Of Machines\: Large Language Models Predict Human Memory
 authors: Huff Markus, Ulakçı Elanur
 conference: "Arxiv"
 year: 2024

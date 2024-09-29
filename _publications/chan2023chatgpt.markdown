@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatgpt Evaluation On Sentence Level Relations: A Focus On Temporal, Causal, And Discourse Relations
+title: Chatgpt Evaluation On Sentence Level Relations\: A Focus On Temporal, Causal, And Discourse Relations
 authors: Chan Chunkit, Cheng Jiayang, Wang Weiqi, Jiang Yuxin, Fang Tianqing, Liu Xin, Song Yangqiu
 conference: "Arxiv"
 year: 2023

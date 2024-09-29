@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatgpt: A Meta-analysis After 2.5 Months
+title: Chatgpt\: A Meta-analysis After 2.5 Months
 authors: Leiter Christoph, Zhang Ran, Chen Yanran, Belouadi Jonas, Larionov Daniil, Fresen Vivian, Eger Steffen
 conference: "Arxiv"
 year: 2023

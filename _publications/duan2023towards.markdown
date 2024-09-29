@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Denevil: Towards Deciphering And Navigating The Ethical Values Of Large Language Models Via Instruction Learning
+title: Denevil\: Towards Deciphering And Navigating The Ethical Values Of Large Language Models Via Instruction Learning
 authors: Duan Shitong, Yi Xiaoyuan, Zhang Peng, Lu Tun, Xie Xing, Gu Ning
 conference: "Arxiv"
 year: 2023

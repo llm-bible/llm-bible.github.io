@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Minigpt-4: Enhancing Vision-language Understanding With Advanced Large Language Models
+title: Minigpt-4\: Enhancing Vision-language Understanding With Advanced Large Language Models
 authors: Deyao Zhu, Jun Chen, Xiaoqian Shen, Xiang Li, Mohamed Elhoseiny
 conference: "Arxiv"
 year: 2023

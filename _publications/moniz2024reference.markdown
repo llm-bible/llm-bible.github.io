@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Realm: Reference Resolution As Language Modeling
+title: Realm\: Reference Resolution As Language Modeling
 authors: Moniz Joel Ruben Antony, Krishnan Soundarya, Ozyildirim Melis, Saraf Prathamesh, Ates Halim Cagri, Zhang Yuan, Yu Hong
 conference: "Arxiv"
 year: 2024

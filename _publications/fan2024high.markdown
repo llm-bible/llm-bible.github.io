@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: HLAT: High-quality Large Language Model Pre-trained On AWS Trainium
+title: HLAT\: High-quality Large Language Model Pre-trained On AWS Trainium
 authors: Fan Haozheng, Zhou Hao, Huang Guangtai, Raman Parameswaran, Fu Xinwei, Gupta Gaurav, Ram Dhananjay, Wang Yida, Huan Jun
 conference: "Arxiv"
 year: 2024

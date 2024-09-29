@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Coco-agent: A Comprehensive Cognitive MLLM Agent For Smartphone GUI Automation
+title: Coco-agent\: A Comprehensive Cognitive MLLM Agent For Smartphone GUI Automation
 authors: Ma Xinbei, Zhang Zhuosheng, Zhao Hai
 conference: "Arxiv"
 year: 2024

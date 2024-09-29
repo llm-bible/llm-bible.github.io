@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Glot500: Scaling Multilingual Corpora And Language Models To 500 Languages
+title: Glot500\: Scaling Multilingual Corpora And Language Models To 500 Languages
 authors: Imani Ayyoob, Lin Peiqin, Kargaran Amir Hossein, Severini Silvia, Sabet Masoud Jalili, Kassner Nora, Ma Chunlan, Schmid Helmut, Martins André F. T., Yvon François, Schütze Hinrich
 conference: "Arxiv"
 year: 2023

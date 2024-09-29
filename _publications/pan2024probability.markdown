@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: POMP: Probability-driven Meta-graph Prompter For Llms In Low-resource Unsupervised Neural Machine Translation
+title: POMP\: Probability-driven Meta-graph Prompter For Llms In Low-resource Unsupervised Neural Machine Translation
 authors: Pan Shilong, Tian Zhiliang, Ding Liang, Huang Zhen, Wen Zhihua, Li Dongsheng
 conference: "Arxiv"
 year: 2024

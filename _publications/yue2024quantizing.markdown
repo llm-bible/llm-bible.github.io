@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Wkvquant: Quantizing Weight And Key/value Cache For Large Language Models Gains More
+title: Wkvquant\: Quantizing Weight And Key/value Cache For Large Language Models Gains More
 authors: Yue Yuxuan, Yuan Zhihang, Duanmu Haojie, Zhou Sifan, Wu Jianlong, Nie Liqiang
 conference: "Arxiv"
 year: 2024

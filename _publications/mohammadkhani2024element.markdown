@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: E2TP: Element To Tuple Prompting Improves Aspect Sentiment Tuple Prediction
+title: E2TP\: Element To Tuple Prompting Improves Aspect Sentiment Tuple Prediction
 authors: Mohammadkhani Mohammad Ghiasvand, Ranjbar Niloofar, Momtazi Saeedeh
 conference: "Arxiv"
 year: 2024

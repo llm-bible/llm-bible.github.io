@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cognitive Visual-language Mapper: Advancing Multimodal Comprehension With Enhanced Visual Knowledge Alignment
+title: Cognitive Visual-language Mapper\: Advancing Multimodal Comprehension With Enhanced Visual Knowledge Alignment
 authors: Li Yunxin, Chen Xinyu, Hu Baotian, Shi Haoyuan, Zhang Min
 conference: "Arxiv"
 year: 2024

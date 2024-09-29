@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: See What Llms Cannot Answer: A Self-challenge Framework For Uncovering LLM Weaknesses
+title: See What Llms Cannot Answer\: A Self-challenge Framework For Uncovering LLM Weaknesses
 authors: Chen Yulong, Liu Yang, Yan Jianhao, Bai Xuefeng, Zhong Ming, Yang Yinghao, Yang Ziyi, Zhu Chenguang, Zhang Yue
 conference: "Arxiv"
 year: 2024

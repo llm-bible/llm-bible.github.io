@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DFA-RAG: Conversational Semantic Router For Large Language Model With Definite Finite Automaton
+title: DFA-RAG\: Conversational Semantic Router For Large Language Model With Definite Finite Automaton
 authors: Sun Yiyou, Hu Junjie, Cheng Wei, Chen Haifeng
 conference: "Arxiv"
 year: 2024

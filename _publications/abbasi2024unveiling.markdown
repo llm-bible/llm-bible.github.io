@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Psycholex: Unveiling The Psychological Mind Of Large Language Models
+title: Psycholex\: Unveiling The Psychological Mind Of Large Language Models
 authors: Abbasi Mohammad Amin, Mirnezami Farnaz Sadat, Naderi Hassan
 conference: "Arxiv"
 year: 2024

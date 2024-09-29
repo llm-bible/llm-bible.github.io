@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Style-talker: Finetuning Audio Language Model And Style-based Text-to-speech Model For Fast Spoken Dialogue Generation
+title: Style-talker\: Finetuning Audio Language Model And Style-based Text-to-speech Model For Fast Spoken Dialogue Generation
 authors: Li Yinghao Aaron, Jiang Xilin, Darefsky Jordan, Zhu Ge, Mesgarani Nima
 conference: "Arxiv"
 year: 2024

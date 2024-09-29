@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SMILE: Single-turn To Multi-turn Inclusive Language Expansion Via Chatgpt For Mental Health Support
+title: SMILE\: Single-turn To Multi-turn Inclusive Language Expansion Via Chatgpt For Mental Health Support
 authors: Huachuan Qiu, Hongliang He, Shuai Zhang, Anqi Li, Zhenzhong Lan
 conference: "Arxiv"
 year: 2023

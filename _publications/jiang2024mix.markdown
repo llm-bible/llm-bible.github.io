@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mix-cpt: A Domain Adaptation Framework Via Decoupling Knowledge Learning And Format Alignment
+title: Mix-cpt\: A Domain Adaptation Framework Via Decoupling Knowledge Learning And Format Alignment
 authors: Jiang Jinhao, Li Junyi, Zhao Wayne Xin, Song Yang, Zhang Tao, Wen Ji-rong
 conference: "Arxiv"
 year: 2024

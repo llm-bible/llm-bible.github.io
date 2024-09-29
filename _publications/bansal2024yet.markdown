@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Smaller, Weaker, Yet Better: Training LLM Reasoners Via Compute-optimal Sampling
+title: Smaller, Weaker, Yet Better\: Training LLM Reasoners Via Compute-optimal Sampling
 authors: Bansal Hritik, Hosseini Arian, Agarwal Rishabh, Tran Vinh Q., Kazemi Mehran
 conference: "Arxiv"
 year: 2024

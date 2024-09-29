@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dialogcc: An Automated Pipeline For Creating High-quality Multi-modal Dialogue Dataset
+title: Dialogcc\: An Automated Pipeline For Creating High-quality Multi-modal Dialogue Dataset
 authors: Lee Young-jun, Ko Byungsoo, Kim Han-gyu, Hyeon Jonghwan, Choi Ho-jin
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating The Performance Of Language Models For Completing Code In Functional Programming Languages: A Haskell Case Study
+title: Investigating The Performance Of Language Models For Completing Code In Functional Programming Languages\: A Haskell Case Study
 authors: Van Dam Tim, Van Der Heijden Frank, De Bekker Philippe, Nieuwschepen Berend, Otten Marc, Izadi Maliheh
 conference: "Arxiv"
 year: 2024

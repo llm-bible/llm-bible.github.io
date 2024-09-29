@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Memorycompanion: A Smart Healthcare Solution To Empower Efficient Alzheimer's Care Via Unleashing Generative AI
+title: Memorycompanion\: A Smart Healthcare Solution To Empower Efficient Alzheimer's Care Via Unleashing Generative AI
 authors: Zheng Lifei, Heo Yeonie, Fang Yi
 conference: "Machine Learning for Health"
 year: 2023

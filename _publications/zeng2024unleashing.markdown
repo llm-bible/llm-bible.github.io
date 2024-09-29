@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Divtod: Unleashing The Power Of Llms For Diversifying Task-oriented Dialogue Representations
+title: Divtod\: Unleashing The Power Of Llms For Diversifying Task-oriented Dialogue Representations
 authors: Zeng Weihao, Fu Dayuan, He Keqing, Wang Yejie, Xu Yukai, Xu Weiran
 conference: "Arxiv"
 year: 2024

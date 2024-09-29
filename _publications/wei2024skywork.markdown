@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Skywork-moe: A Deep Dive Into Training Techniques For Mixture-of-experts Language Models
+title: Skywork-moe\: A Deep Dive Into Training Techniques For Mixture-of-experts Language Models
 authors: Wei Tianwen, Zhu Bo, Zhao Liang, Cheng Cheng, Li Biye, Lü Weiwei, Cheng Peng, Zhang Jianhao, Zhang Xiaoyu, Zeng Liang, Wang Xiaokun, Ma Yutuan, Hu Rui, Yan Shuicheng, Fang Han, Zhou Yahui
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Neural Question Generation From Text: A Preliminary Study
+title: Neural Question Generation From Text\: A Preliminary Study
 authors: Zhou Qingyu, Yang Nan, Wei Furu, Tan Chuanqi, Bao Hangbo, Zhou Ming
 conference: "Arxiv"
 year: 2017

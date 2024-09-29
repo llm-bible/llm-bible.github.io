@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt Packer: Deceiving Llms Through Compositional Instruction With Hidden Attacks
+title: Prompt Packer\: Deceiving Llms Through Compositional Instruction With Hidden Attacks
 authors: Jiang Shuyu, Chen Xingshu, Tang Rui
 conference: "Arxiv"
 year: 2023

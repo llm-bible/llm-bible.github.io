@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Accelerating Large Language Model Pretraining Via LFR Pedagogy: Learn, Focus, And Review
+title: Accelerating Large Language Model Pretraining Via LFR Pedagogy\: Learn, Focus, And Review
 authors: Prakriya Neha, Yen Jui-nan, Hsieh Cho-jui, Cong Jason
 conference: "Arxiv"
 year: 2024

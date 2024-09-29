@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Formal-llm: Integrating Formal Language And Natural Language For Controllable Llm-based Agents
+title: Formal-llm\: Integrating Formal Language And Natural Language For Controllable Llm-based Agents
 authors: Li Zelong, Hua Wenyue, Wang Hao, Zhu He, Zhang Yongfeng
 conference: "Arxiv"
 year: 2024

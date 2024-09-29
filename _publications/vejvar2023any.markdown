@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ASPIRO: Any-shot Structured Parsing-error-induced Reprompting For Consistent Data-to-text Generation
+title: ASPIRO\: Any-shot Structured Parsing-error-induced Reprompting For Consistent Data-to-text Generation
 authors: Vejvar Martin, Fujimoto Yasutaka
 conference: "Arxiv"
 year: 2023

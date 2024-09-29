@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt Highlighter: Interactive Control For Multi-modal Llms
+title: Prompt Highlighter\: Interactive Control For Multi-modal Llms
 authors: Yuechen Zhang, Shengju Qian, Bohao Peng, Shu Liu, Jiaya Jia
 conference: "Arxiv"
 year: 2023

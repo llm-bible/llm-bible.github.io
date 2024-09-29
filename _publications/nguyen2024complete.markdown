@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CURATRON: Complete Robust Preference Data For Robust Alignment Of Large Language Models
+title: CURATRON\: Complete Robust Preference Data For Robust Alignment Of Large Language Models
 authors: Nguyen Son The, Naresh Niranjan Uma, Tulabandhula Theja
 conference: "Arxiv"
 year: 2024

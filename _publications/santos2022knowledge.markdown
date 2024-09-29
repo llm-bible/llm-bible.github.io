@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Knowledge Prompts: Injecting World Knowledge Into Language Models Through Soft Prompts
+title: Knowledge Prompts\: Injecting World Knowledge Into Language Models Through Soft Prompts
 authors: Santos Cicero Nogueira Dos, Dong Zhe, Cer Daniel, Nham John, Shakeri Siamak, Ni Jianmo, Sung Yun-hsuan
 conference: "Arxiv"
 year: 2022

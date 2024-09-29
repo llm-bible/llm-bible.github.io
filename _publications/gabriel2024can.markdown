@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can AI Relate: Testing Large Language Model Response For Mental Health Support
+title: Can AI Relate\: Testing Large Language Model Response For Mental Health Support
 authors: Gabriel Saadia, Puri Isha, Xu Xuhai, Malgaroli Matteo, Ghassemi Marzyeh
 conference: "Arxiv"
 year: 2024

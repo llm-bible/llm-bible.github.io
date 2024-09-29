@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AC-EVAL: Evaluating Ancient Chinese Language Understanding In Large Language Models
+title: AC-EVAL\: Evaluating Ancient Chinese Language Understanding In Large Language Models
 authors: Wei Yuting, Xu Yuanxing, Wei Xinru, Yang Simin, Zhu Yangfu, Li Yuqing, Liu Di, Wu Bin
 conference: "Arxiv"
 year: 2024

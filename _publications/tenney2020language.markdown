@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Language Interpretability Tool: Extensible, Interactive Visualizations And Analysis For NLP Models
+title: The Language Interpretability Tool\: Extensible, Interactive Visualizations And Analysis For NLP Models
 authors: Tenney Ian, Wexler James, Bastings Jasmijn, Bolukbasi Tolga, Coenen Andy, Gehrmann Sebastian, Jiang Ellen, Pushkarna Mahima, Radebaugh Carey, Reif Emily, Yuan Ann
 conference: "Arxiv"
 year: 2020

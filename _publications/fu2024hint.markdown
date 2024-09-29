@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hint-before-solving Prompting: Guiding Llms To Effectively Utilize Encoded Knowledge
+title: Hint-before-solving Prompting\: Guiding Llms To Effectively Utilize Encoded Knowledge
 authors: Fu Jinlan, Huangfu Shenzhen, Yan Hang, Ng See-kiong, Qiu Xipeng
 conference: "Arxiv"
 year: 2024

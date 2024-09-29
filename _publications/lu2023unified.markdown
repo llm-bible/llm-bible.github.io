@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unified-io 2: Scaling Autoregressive Multimodal Models With Vision, Language, Audio, And Action
+title: Unified-io 2\: Scaling Autoregressive Multimodal Models With Vision, Language, Audio, And Action
 authors: Lu Jiasen, Clark Christopher, Lee Sangho, Zhang Zichen, Khosla Savya, Marten Ryan, Hoiem Derek, Kembhavi Aniruddha
 conference: "Arxiv"
 year: 2023

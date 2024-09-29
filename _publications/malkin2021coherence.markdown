@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Coherence Boosting: When Your Pretrained Language Model Is Not Paying Enough Attention
+title: Coherence Boosting\: When Your Pretrained Language Model Is Not Paying Enough Attention
 authors: Malkin Nikolay, Wang Zhen, Jojic Nebojsa
 conference: "Arxiv"
 year: 2021

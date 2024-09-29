@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Confidant: Customizing Transformer-based Llms Via Collaborative Edge Training
+title: Confidant\: Customizing Transformer-based Llms Via Collaborative Edge Training
 authors: Chen Yuhao, Yan Yuxuan, Yang Qianqian, Shu Yuanchao, He Shibo, Chen Jiming
 conference: "Arxiv"
 year: 2023

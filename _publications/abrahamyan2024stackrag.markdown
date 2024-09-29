@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Stackrag Agent: Improving Developer Answers With Retrieval-augmented Generation
+title: Stackrag Agent\: Improving Developer Answers With Retrieval-augmented Generation
 authors: Abrahamyan Davit, Fard Fatemeh H.
 conference: "Arxiv"
 year: 2024

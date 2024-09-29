@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BERT Busters: Outlier Dimensions That Disrupt Transformers
+title: BERT Busters\: Outlier Dimensions That Disrupt Transformers
 authors: Kovaleva Olga, Kulshreshtha Saurabh, Rogers Anna, Rumshisky Anna
 conference: "Arxiv"
 year: 2021

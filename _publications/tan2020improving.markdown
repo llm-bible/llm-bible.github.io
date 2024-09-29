@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vokenization: Improving Language Understanding With Contextualized, Visual-grounded Supervision
+title: Vokenization\: Improving Language Understanding With Contextualized, Visual-grounded Supervision
 authors: Tan Hao, Bansal Mohit
 conference: "Arxiv"
 year: 2020

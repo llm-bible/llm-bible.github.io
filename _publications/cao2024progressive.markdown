@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PRESTO: Progressive Pretraining Enhances Synthetic Chemistry Outcomes
+title: PRESTO\: Progressive Pretraining Enhances Synthetic Chemistry Outcomes
 authors: Cao He, Shao Yanjun, Liu Zhiyuan, Liu Zijing, Tang Xiangru, Yao Yuan, Li Yu
 conference: "Arxiv"
 year: 2024

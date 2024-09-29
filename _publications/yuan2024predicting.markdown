@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Predicting Rewards Alongside Tokens: Non-disruptive Parameter Insertion For Efficient Inference Intervention In Large Language Model
+title: Predicting Rewards Alongside Tokens\: Non-disruptive Parameter Insertion For Efficient Inference Intervention In Large Language Model
 authors: Yuan Chenhan, Huang Fei, Peng Ru, Lu Keming, Yu Bowen, Zhou Chang, Zhou Jingren
 conference: "Arxiv"
 year: 2024

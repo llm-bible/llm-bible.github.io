@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Never Lost In The Middle: Mastering Long-context Question Answering With Position-agnostic Decompositional Training
+title: Never Lost In The Middle\: Mastering Long-context Question Answering With Position-agnostic Decompositional Training
 authors: He Junqing, Pan Kunhao, Dong Xiaoqun, Song Zhuoyang, Liu Yibo, Sun Qianguo, Liang Yuxin, Wang Hao, Zhang Enming, Zhang Jiaxing
 conference: "Arxiv"
 year: 2023

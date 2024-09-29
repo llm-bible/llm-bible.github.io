@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fauno: The Italian Large Language Model That Will Leave You Senza Parole!
+title: Fauno\: The Italian Large Language Model That Will Leave You Senza Parole!
 authors: Bacciu Andrea, Trappolini Giovanni, Santilli Andrea, Rodolà Emanuele, Silvestri Fabrizio
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Omniquant: Omnidirectionally Calibrated Quantization For Large Language Models
+title: Omniquant\: Omnidirectionally Calibrated Quantization For Large Language Models
 authors: Shao Wenqi, Chen Mengzhao, Zhang Zhaoyang, Xu Peng, Zhao Lirui, Li Zhiqian, Zhang Kaipeng, Gao Peng, Qiao Yu, Luo Ping
 conference: "Arxiv"
 year: 2023

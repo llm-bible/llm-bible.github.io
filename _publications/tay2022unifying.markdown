@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: UL2: Unifying Language Learning Paradigms
+title: UL2\: Unifying Language Learning Paradigms
 authors: Yi Tay, Mostafa Dehghani, Vinh Q. Tran, Xavier Garcia, Jason Wei, Xuezhi Wang, Hyung Won Chung, Siamak Shakeri, Dara Bahri, Tal Schuster, Huaixiu Steven Zheng, Denny Zhou, Neil Houlsby, Donald Metzler
 conference: "Arxiv"
 year: 2022

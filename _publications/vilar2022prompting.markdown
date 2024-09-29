@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompting Palm For Translation: Assessing Strategies And Performance
+title: Prompting Palm For Translation\: Assessing Strategies And Performance
 authors: Vilar David, Freitag Markus, Cherry Colin, Luo Jiaming, Ratnakar Viresh, Foster George
 conference: "Arxiv"
 year: 2022

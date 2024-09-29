@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits Multimodal Reasoning
+title: Retrieval Meets Reasoning\: Even High-school Textbook Knowledge Benefits Multimodal Reasoning
 authors: Tan Cheng, Wei Jingxuan, Sun Linzhuang, Gao Zhangyang, Li Siyuan, Yu Bihui, Guo Ruifeng, Li Stan Z.
 conference: "Arxiv"
 year: 2024

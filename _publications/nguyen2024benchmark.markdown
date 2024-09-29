@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ceval: A Benchmark For Evaluating Counterfactual Text Generation
+title: Ceval\: A Benchmark For Evaluating Counterfactual Text Generation
 authors: Nguyen Van Bach, Schlötterer Jörg, Seifert Christin
 conference: "INLG"
 year: 2024

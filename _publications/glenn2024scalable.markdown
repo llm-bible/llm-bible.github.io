@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Blendsql: A Scalable Dialect For Unifying Hybrid Question Answering In Relational Algebra
+title: Blendsql\: A Scalable Dialect For Unifying Hybrid Question Answering In Relational Algebra
 authors: Glenn Parker, Dakle Parag Pravin, Wang Liang, Raghavan Preethi
 conference: "Arxiv"
 year: 2024

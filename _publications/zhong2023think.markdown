@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Let's Think Outside The Box: Exploring Leap-of-thought In Large Language Models With Creative Humor Generation
+title: Let's Think Outside The Box\: Exploring Leap-of-thought In Large Language Models With Creative Humor Generation
 authors: Zhong Shanshan, Huang Zhongzhan, Gao Shanghua, Wen Wushao, Lin Liang, Zitnik Marinka, Zhou Pan
 conference: "Arxiv"
 year: 2023

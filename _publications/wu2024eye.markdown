@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mind's Eye Of Llms: Visualization-of-thought Elicits Spatial Reasoning In Large Language Models
+title: Mind's Eye Of Llms\: Visualization-of-thought Elicits Spatial Reasoning In Large Language Models
 authors: Wu Wenshan, Mao Shaoguang, Zhang Yadong, Xia Yan, Dong Li, Cui Lei, Wei Furu
 conference: "Arxiv"
 year: 2024

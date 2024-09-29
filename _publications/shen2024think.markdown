@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Think-then-act: A Dual-angle Evaluated Retrieval-augmented Generation
+title: Think-then-act\: A Dual-angle Evaluated Retrieval-augmented Generation
 authors: Shen Yige, Jiang Hao, Qu Hua, Zhao Jihong
 conference: "Arxiv"
 year: 2024

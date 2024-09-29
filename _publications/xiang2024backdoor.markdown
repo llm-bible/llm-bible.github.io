@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Badchain: Backdoor Chain-of-thought Prompting For Large Language Models
+title: Badchain\: Backdoor Chain-of-thought Prompting For Large Language Models
 authors: Xiang Zhen, Jiang Fengqing, Xiong Zidi, Ramasubramanian Bhaskar, Poovendran Radha, Li Bo
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SPAFIT: Stratified Progressive Adaptation Fine-tuning For Pre-trained Large Language Models
+title: SPAFIT\: Stratified Progressive Adaptation Fine-tuning For Pre-trained Large Language Models
 authors: Arora Samir, Wang Liangliang
 conference: "Arxiv"
 year: 2024

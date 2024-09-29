@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sibyl: Simple Yet Effective Agent Framework For Complex Real-world Reasoning
+title: Sibyl\: Simple Yet Effective Agent Framework For Complex Real-world Reasoning
 authors: Wang Yulong, Shen Tianhao, Liu Lifeng, Xie Jian
 conference: "Arxiv"
 year: 2024

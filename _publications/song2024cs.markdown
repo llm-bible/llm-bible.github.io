@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cs-bench: A Comprehensive Benchmark For Large Language Models Towards Computer Science Mastery
+title: Cs-bench\: A Comprehensive Benchmark For Large Language Models Towards Computer Science Mastery
 authors: Song Xiaoshuai, Diao Muxi, Dong Guanting, Wang Zhengyang, Fu Yujia, Qiao Runqi, Wang Zhexu, Fu Dayuan, Wu Huangxuan, Liang Bin, Zeng Weihao, Wang Yejie, Gongque Zhuoma, Yu Jianing, Tan Qiuna, Xu Weiran
 conference: "Arxiv"
 year: 2024

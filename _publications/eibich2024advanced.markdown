@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ARAGOG: Advanced RAG Output Grading
+title: ARAGOG\: Advanced RAG Output Grading
 authors: Eibich Matouš, Nagpal Shivay, Fred-ojala Alexander
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PPTC-R Benchmark: Towards Evaluating The Robustness Of Large Language Models For Powerpoint Task Completion
+title: PPTC-R Benchmark\: Towards Evaluating The Robustness Of Large Language Models For Powerpoint Task Completion
 authors: Zhang Zekai, Guo Yiduo, Liang Yaobo, Zhao Dongyan, Duan Nan
 conference: "Arxiv"
 year: 2024

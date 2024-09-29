@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tinybert: Distilling BERT For Natural Language Understanding
+title: Tinybert\: Distilling BERT For Natural Language Understanding
 authors: Jiao Xiaoqi, Yin Yichun, Shang Lifeng, Jiang Xin, Chen Xiao, Li Linlin, Wang Fang, Liu Qun
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Selective Forgetting: Advancing Machine Unlearning Techniques And Evaluation In Language Models
+title: Selective Forgetting\: Advancing Machine Unlearning Techniques And Evaluation In Language Models
 authors: Wang Lingzhi, Zeng Xingshan, Guo Jinsong, Wong Kam-fai, Gottlob Georg
 conference: "Arxiv"
 year: 2024

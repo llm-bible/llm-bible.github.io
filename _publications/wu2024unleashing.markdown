@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Inversecoder: Unleashing The Power Of Instruction-tuned Code Llms With Inverse-instruct
+title: Inversecoder\: Unleashing The Power Of Instruction-tuned Code Llms With Inverse-instruct
 authors: Wu Yutong, Huang Di, Shi Wenxuan, Wang Wei, Gao Lingzhe, Liu Shihao, Nan Ziyuan, Yuan Kaizhao, Zhang Rui, Zhang Xishan, Du Zidong, Guo Qi, Pu Yewen, Yin Dawei, Hu Xing, Chen Yunji
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Longllava: Scaling Multi-modal Llms To 1000 Images Efficiently Via Hybrid Architecture
+title: Longllava\: Scaling Multi-modal Llms To 1000 Images Efficiently Via Hybrid Architecture
 authors: Wang Xidong, Song Dingjie, Chen Shunian, Zhang Chen, Wang Benyou
 conference: "Arxiv"
 year: 2024

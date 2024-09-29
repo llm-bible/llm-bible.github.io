@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multilingual Needle In A Haystack: Investigating Long-context Behavior Of Multilingual Large Language Models
+title: Multilingual Needle In A Haystack\: Investigating Long-context Behavior Of Multilingual Large Language Models
 authors: Hengle Amey, Bajpai Prasoon, Dan Soham, Chakraborty Tanmoy
 conference: "Arxiv"
 year: 2024

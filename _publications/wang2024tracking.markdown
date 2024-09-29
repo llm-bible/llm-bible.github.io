@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Coglm: Tracking Cognitive Development Of Large Language Models
+title: Coglm\: Tracking Cognitive Development Of Large Language Models
 authors: Wang Xinglin, Yuan Peiwen, Feng Shaoxiong, Li Yiwei, Pan Boyuan, Wang Heda, Hu Yao, Li Kan
 conference: "Arxiv"
 year: 2024

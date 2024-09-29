@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tacl: Improving BERT Pre-training With Token-aware Contrastive Learning
+title: Tacl\: Improving BERT Pre-training With Token-aware Contrastive Learning
 authors: Su Yixuan, Liu Fangyu, Meng Zaiqiao, Lan Tian, Shu Lei, Shareghi Ehsan, Collier Nigel
 conference: "Arxiv"
 year: 2021

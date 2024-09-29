@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Incremental Processing In The Age Of Non-incremental Encoders: An Empirical Assessment Of Bidirectional Models For Incremental NLU
+title: Incremental Processing In The Age Of Non-incremental Encoders\: An Empirical Assessment Of Bidirectional Models For Incremental NLU
 authors: Madureira Brielen, Schlangen David
 conference: "Arxiv"
 year: 2020

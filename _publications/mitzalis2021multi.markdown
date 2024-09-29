@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BERTGEN: Multi-task Generation Through BERT
+title: BERTGEN\: Multi-task Generation Through BERT
 authors: Mitzalis Faidon, Caglayan Ozan, Madhyastha Pranava, Specia Lucia
 conference: "Arxiv"
 year: 2021

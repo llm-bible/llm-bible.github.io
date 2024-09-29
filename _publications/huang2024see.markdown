@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: See The Unseen: Better Context-consistent Knowledge-editing By Noises
+title: See The Unseen\: Better Context-consistent Knowledge-editing By Noises
 authors: Huang Youcheng, Lei Wenqiang, Zhang Zheng, Lv Jiancheng, Yan Shuicheng
 conference: "Arxiv"
 year: 2024

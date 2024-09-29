@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Think Outside The Code: Brainstorming Boosts Large Language Models In Code Generation
+title: Think Outside The Code\: Brainstorming Boosts Large Language Models In Code Generation
 authors: Li Xin-ye, Xue Jiang-tian, Xie Zheng, Li Ming
 conference: "Arxiv"
 year: 2023

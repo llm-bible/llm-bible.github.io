@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative AI: Implications And Applications For Education
+title: Generative AI\: Implications And Applications For Education
 authors: Olga Anastasia Olnancy, Tzirides, Saini Akash, Zapata Gabriela, Searsmith Duane, Cope Bill, Kalantzis Mary, Castro Vania, Kourkoulou Theodora, Jones John, Da Silva Rodrigo Abrantes, Whiting Jen, Kastania Nikoleta Polyxeni
 conference: "Arxiv"
 year: 2023

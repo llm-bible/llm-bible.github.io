@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Navigating The Dual Facets: A Comprehensive Evaluation Of Sequential Memory Editing In Large Language Models
+title: Navigating The Dual Facets\: A Comprehensive Evaluation Of Sequential Memory Editing In Large Language Models
 authors: Lin Zihao, Beigi Mohammad, Li Hongxuan, Zhou Yufan, Zhang Yuxiang, Wang Qifan, Yin Wenpeng, Huang Lifu
 conference: "Arxiv"
 year: 2024

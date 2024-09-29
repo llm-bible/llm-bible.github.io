@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SGPT: GPT Sentence Embeddings For Semantic Search
+title: SGPT\: GPT Sentence Embeddings For Semantic Search
 authors: Muennighoff Niklas
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CDLM: Cross-document Language Modeling
+title: CDLM\: Cross-document Language Modeling
 authors: Caciularu Avi, Cohan Arman, Beltagy Iz, Peters Matthew E., Cattan Arie, Dagan Ido
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rethinking Tokenization: Crafting Better Tokenizers For Large Language Models
+title: Rethinking Tokenization\: Crafting Better Tokenizers For Large Language Models
 authors: Yang Jinbiao
 conference: "Arxiv"
 year: 2024

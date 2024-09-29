@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sq-llava: Self-questioning For Large Vision-language Assistant
+title: Sq-llava\: Self-questioning For Large Vision-language Assistant
 authors: Sun Guohao, Qin Can, Wang Jiamian, Chen Zeyuan, Xu Ran, Tao Zhiqiang
 conference: "Arxiv"
 year: 2024

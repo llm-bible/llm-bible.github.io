@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Knowing What Llms DO NOT Know: A Simple Yet Effective Self-detection Method
+title: Knowing What Llms DO NOT Know\: A Simple Yet Effective Self-detection Method
 authors: Zhao Yukun, Yan Lingyong, Sun Weiwei, Xing Guoliang, Meng Chong, Wang Shuaiqiang, Cheng Zhicong, Ren Zhaochun, Yin Dawei
 conference: "Arxiv"
 year: 2023

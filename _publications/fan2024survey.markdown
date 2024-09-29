@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey On RAG Meeting Llms: Towards Retrieval-augmented Large Language Models
+title: A Survey On RAG Meeting Llms\: Towards Retrieval-augmented Large Language Models
 authors: Fan Wenqi, Ding Yujuan, Ning Liangbo, Wang Shijie, Li Hengyun, Yin Dawei, Chua Tat-seng, Li Qing
 conference: "Arxiv"
 year: 2024

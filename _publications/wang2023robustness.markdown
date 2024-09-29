@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On The Robustness Of Chatgpt: An Adversarial And Out-of-distribution Perspective
+title: On The Robustness Of Chatgpt\: An Adversarial And Out-of-distribution Perspective
 authors: Wang Jindong, Hu Xixu, Hou Wenxin, Chen Hao, Zheng Runkai, Wang Yidong, Yang Linyi, Huang Haojun, Ye Wei, Geng Xiubo, Jiao Binxin, Zhang Yue, Xie Xing
 conference: "Arxiv"
 year: 2023

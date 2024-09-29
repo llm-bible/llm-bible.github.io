@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Orca: Progressive Learning From Complex Explanation Traces Of GPT-4
+title: Orca\: Progressive Learning From Complex Explanation Traces Of GPT-4
 authors: Mukherjee Subhabrata, Mitra Arindam, Jawahar Ganesh, Agarwal Sahaj, Palangi Hamid, Awadallah Ahmed
 conference: "Arxiv"
 year: 2023

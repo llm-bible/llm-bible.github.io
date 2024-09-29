@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Longrecipe: Recipe For Efficient Long Context Generalization In Large Language Models
+title: Longrecipe\: Recipe For Efficient Long Context Generalization In Large Language Models
 authors: Hu Zhiyuan, Liu Yuliang, Zhao Jinman, Wang Suyuchen, Wang Yan, Shen Wei, Gu Qing, Luu Anh Tuan, Ng See-kiong, Jiang Zhiwei, Hooi Bryan
 conference: "Arxiv"
 year: 2024

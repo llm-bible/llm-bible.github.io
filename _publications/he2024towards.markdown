@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Camelot: Towards Large Language Models With Training-free Consolidated Associative Memory
+title: Camelot\: Towards Large Language Models With Training-free Consolidated Associative Memory
 authors: He Zexue, Karlinsky Leonid, Kim Donghyun, Mcauley Julian, Krotov Dmitry, Feris Rogerio
 conference: "Arxiv"
 year: 2024

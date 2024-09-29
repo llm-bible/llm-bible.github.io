@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Magicoder: Empowering Code Generation With Oss-instruct
+title: Magicoder\: Empowering Code Generation With Oss-instruct
 authors: Wei Yuxiang, Wang Zhe, Liu Jiawei, Ding Yifeng, Zhang Lingming
 conference: "Arxiv"
 year: 2023

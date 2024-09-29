@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Avatargpt: All-in-one Framework For Motion Understanding, Planning, Generation And Beyond
+title: Avatargpt\: All-in-one Framework For Motion Understanding, Planning, Generation And Beyond
 authors: Zhou Zixiang, Wan Yu, Wang Baoyuan
 conference: "Arxiv"
 year: 2023

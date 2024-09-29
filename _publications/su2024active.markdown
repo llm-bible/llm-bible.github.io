@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ARKS: Active Retrieval In Knowledge Soup For Code Generation
+title: ARKS\: Active Retrieval In Knowledge Soup For Code Generation
 authors: Su Hongjin, Jiang Shuyang, Lai Yuhang, Wu Haoyuan, Shi Boao, Liu Che, Liu Qian, Yu Tao
 conference: "Arxiv"
 year: 2024

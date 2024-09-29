@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fortify The Shortest Stave In Attention: Enhancing Context Awareness Of Large Language Models For Effective Tool Use
+title: Fortify The Shortest Stave In Attention\: Enhancing Context Awareness Of Large Language Models For Effective Tool Use
 authors: Chen Yuhan, Lv Ang, Lin Ting-en, Chen Changyu, Wu Yuchuan, Huang Fei, Li Yongbin, Yan Rui
 conference: "Arxiv"
 year: 2023

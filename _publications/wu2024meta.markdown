@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Meta-rewarding Language Models: Self-improving Alignment With Llm-as-a-meta-judge
+title: Meta-rewarding Language Models\: Self-improving Alignment With Llm-as-a-meta-judge
 authors: Wu Tianhao, Yuan Weizhe, Golovneva Olga, Xu Jing, Tian Yuandong, Jiao Jiantao, Weston Jason, Sukhbaatar Sainbayar
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BASE TTS: Lessons From Building A Billion-parameter Text-to-speech Model On 100K Hours Of Data
+title: BASE TTS\: Lessons From Building A Billion-parameter Text-to-speech Model On 100K Hours Of Data
 authors: Łajszczak Mateusz, Cámbara Guillermo, Li Yang, Beyhan Fatih, Van Korlaar Arent, Yang Fan, Joly Arnaud, Martín-cortinas Álvaro, Abbas Ammar, Michalski Adam, Moinet Alexis, Karlapati Sri, Muszyńska Ewa, Guo Haohan, Putrycz Bartosz, Gambino Soledad López, Yoo Kayeon, Sokolova Elena, Drugman Thomas
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Toolsandbox: A Stateful, Conversational, Interactive Evaluation Benchmark For LLM Tool Use Capabilities
+title: Toolsandbox\: A Stateful, Conversational, Interactive Evaluation Benchmark For LLM Tool Use Capabilities
 authors: Lu Jiarui, Holleis Thomas, Zhang Yizhe, Aumayer Bernhard, Nan Feng, Bai Felix, Ma Shuang, Ma Shen, Li Mengyu, Yin Guoli, Wang Zirui, Pang Ruoming
 conference: "Arxiv"
 year: 2024

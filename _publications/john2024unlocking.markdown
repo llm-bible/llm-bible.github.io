@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLMRS: Unlocking Potentials Of Llm-based Recommender Systems For Software Purchase
+title: LLMRS\: Unlocking Potentials Of Llm-based Recommender Systems For Software Purchase
 authors: John Angela, Aidoo Theophilus, Behmanush Hamayoon, Gunduz Irem B., Shrestha Hewan, Rahman Maxx Richard, Maaß Wolfgang
 conference: "Arxiv"
 year: 2024

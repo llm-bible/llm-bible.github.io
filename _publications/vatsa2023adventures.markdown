@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adventures Of Trustworthy Vision-language Models: A Survey
+title: Adventures Of Trustworthy Vision-language Models\: A Survey
 authors: Vatsa Mayank, Jain Anubhooti, Singh Richa
 conference: "Arxiv"
 year: 2023

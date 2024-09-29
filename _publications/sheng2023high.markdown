@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Flexgen: High-throughput Generative Inference Of Large Language Models With A Single GPU
+title: Flexgen\: High-throughput Generative Inference Of Large Language Models With A Single GPU
 authors: Sheng Ying, Zheng Lianmin, Yuan Binhang, Li Zhuohan, Ryabinin Max, Fu Daniel Y., Xie Zhiqiang, Chen Beidi, Barrett Clark, Gonzalez Joseph E., Liang Percy, Ré Christopher, Stoica Ion, Zhang Ce
 conference: "Arxiv"
 year: 2023

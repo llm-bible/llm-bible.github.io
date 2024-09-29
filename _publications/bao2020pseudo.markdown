@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unilmv2: Pseudo-masked Language Models For Unified Language Model Pre-training
+title: Unilmv2\: Pseudo-masked Language Models For Unified Language Model Pre-training
 authors: Bao Hangbo, Dong Li, Wei Furu, Wang Wenhui, Yang Nan, Liu Xiaodong, Wang Yu, Piao Songhao, Gao Jianfeng, Zhou Ming, Hon Hsiao-wuen
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SOUL: Unlocking The Power Of Second-order Optimization For LLM Unlearning
+title: SOUL\: Unlocking The Power Of Second-order Optimization For LLM Unlearning
 authors: Jia Jinghan, Zhang Yihua, Zhang Yimeng, Liu Jiancheng, Runwal Bharat, Diffenderfer James, Kailkhura Bhavya, Liu Sijia
 conference: "Arxiv"
 year: 2024

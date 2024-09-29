@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-refine: Iterative Refinement With Self-feedback
+title: Self-refine\: Iterative Refinement With Self-feedback
 authors: Madaan Aman, Tandon Niket, Gupta Prakhar, Hallinan Skyler, Gao Luyu, Wiegreffe Sarah, Alon Uri, Dziri Nouha, Prabhumoye Shrimai, Yang Yiming, Gupta Shashank, Majumder Bodhisattwa Prasad, Hermann Katherine, Welleck Sean, Yazdanbakhsh Amir, Clark Peter
 conference: "Arxiv"
 year: 2023

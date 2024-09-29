@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hint Of Thought Prompting: An Explainable And Zero-shot Approach To Reasoning Tasks With Llms
+title: Hint Of Thought Prompting\: An Explainable And Zero-shot Approach To Reasoning Tasks With Llms
 authors: Lei Ioktong, Deng Zhidong
 conference: "Arxiv"
 year: 2023

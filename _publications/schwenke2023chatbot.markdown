@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatbot-supported Thesis Writing: An Autoethnographic Report
+title: Chatbot-supported Thesis Writing\: An Autoethnographic Report
 authors: Schwenke Nicolas, Söbke Heinrich, Kraft Eckhard
 conference: "Arxiv"
 year: 2023

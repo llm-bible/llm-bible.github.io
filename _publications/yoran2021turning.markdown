@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Turning Tables: Generating Examples From Semi-structured Tables For Endowing Language Models With Reasoning Skills
+title: Turning Tables\: Generating Examples From Semi-structured Tables For Endowing Language Models With Reasoning Skills
 authors: Yoran Ori, Talmor Alon, Berant Jonathan
 conference: "Arxiv"
 year: 2021

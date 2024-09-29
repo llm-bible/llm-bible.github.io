@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DIVKNOWQA: Assessing The Reasoning Ability Of Llms Via Open-domain Question Answering Over Knowledge Base And Text
+title: DIVKNOWQA\: Assessing The Reasoning Ability Of Llms Via Open-domain Question Answering Over Knowledge Base And Text
 authors: Zhao Wenting, Liu Ye, Niu Tong, Wan Yao, Yu Philip S., Joty Shafiq, Zhou Yingbo, Yavuz Semih
 conference: "Arxiv"
 year: 2023

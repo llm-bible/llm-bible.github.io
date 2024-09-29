@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Text And Patterns: For Effective Chain Of Thought, It Takes Two To Tango
+title: Text And Patterns\: For Effective Chain Of Thought, It Takes Two To Tango
 authors: Aman Madaan, Amir Yazdanbakhsh
 conference: "Arxiv"
 year: 2022

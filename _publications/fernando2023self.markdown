@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Promptbreeder: Self-referential Self-improvement Via Prompt Evolution
+title: Promptbreeder\: Self-referential Self-improvement Via Prompt Evolution
 authors: Fernando Chrisantha, Banarse Dylan, Michalewski Henryk, Osindero Simon, Rocktäschel Tim
 conference: "Arxiv"
 year: 2023

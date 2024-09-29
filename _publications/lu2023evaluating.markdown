@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mathvista: Evaluating Mathematical Reasoning Of Foundation Models In Visual Contexts
+title: Mathvista\: Evaluating Mathematical Reasoning Of Foundation Models In Visual Contexts
 authors: Lu Pan, Bansal Hritik, Xia Tony, Liu Jiacheng, Li Chunyuan, Hajishirzi Hannaneh, Cheng Hao, Chang Kai-wei, Galley Michel, Gao Jianfeng
 conference: "Arxiv"
 year: 2023

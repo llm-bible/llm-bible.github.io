@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AD-DROP: Attribution-driven Dropout For Robust Language Model Fine-tuning
+title: AD-DROP\: Attribution-driven Dropout For Robust Language Model Fine-tuning
 authors: Yang Tao, Deng Jinghao, Quan Xiaojun, Wang Qifan, Nie Shaoliang
 conference: "Arxiv"
 year: 2022

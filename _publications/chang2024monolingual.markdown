@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Goldfish: Monolingual Language Models For 350 Languages
+title: Goldfish\: Monolingual Language Models For 350 Languages
 authors: Chang Tyler A., Arnett Catherine, Tu Zhuowen, Bergen Benjamin K.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: YAYI 2: Multilingual Open-source Large Language Models
+title: YAYI 2\: Multilingual Open-source Large Language Models
 authors: Luo Yin, Kong Qingchao, Xu Nan, Cao Jia, Hao Bao, Qu Baoyu, Chen Bo, Zhu Chao, Zhao Chenyang, Zhang Donglei, Feng Fan, Zhao Feifei, Sun Hailong, Yang Hanxuan, Pan Haojun, Liu Hongyu, Guo Jianbin, Du Jiangtao, Wang Jingyi, Li Junfeng, Sun Lei, Liu Liduo, Dong Lifeng, Liu Lili, Wang Lin, Zhang Liwen, Wang Minzheng, Wang Pin, Yu Ping, Li Qingxiao, Yan Rui, Zou Rui, Li Ruiqun, Huang Taiwen, Wang Xiaodong, Wu Xiaofei, Peng Xin, Zhang Xina, Fang Xing, Xiao Xinglin, Hao Yanni, Dong Yao, Wang Yigang, Liu Ying, Jiang Yongyu, Wang Yungan, Wang Yuqi, Wang Zhangsheng, Yu Zhaoxin, Luo Zhen, Mao Wenji, Wang Lei, Zeng Dajun
 conference: "Arxiv"
 year: 2023

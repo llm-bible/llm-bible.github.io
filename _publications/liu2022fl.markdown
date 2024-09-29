@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fl-tuning: Layer Tuning For Feed-forward Network In Transformer
+title: Fl-tuning\: Layer Tuning For Feed-forward Network In Transformer
 authors: Liu Jingping, Song Yuqiu, Xue Kui, Sun Hongli, Wang Chao, Chen Lihan, Jiang Haiyun, Liang Jiaqing, Ruan Tong
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: P-adapters: Robustly Extracting Factual Information From Language Models With Diverse Prompts
+title: P-adapters\: Robustly Extracting Factual Information From Language Models With Diverse Prompts
 authors: Newman Benjamin, Choubey Prafulla Kumar, Rajani Nazneen
 conference: "Arxiv"
 year: 2021

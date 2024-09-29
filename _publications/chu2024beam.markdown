@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beamaggr: Beam Aggregation Reasoning Over Multi-source Knowledge For Multi-hop Question Answering
+title: Beamaggr\: Beam Aggregation Reasoning Over Multi-source Knowledge For Multi-hop Question Answering
 authors: Chu Zheng, Chen Jingchang, Chen Qianglong, Wang Haotian, Zhu Kun, Du Xiyuan, Yu Weijiang, Liu Ming, Qin Bing
 conference: "Arxiv"
 year: 2024

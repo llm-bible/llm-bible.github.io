@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llmebench: A Flexible Framework For Accelerating Llms Benchmarking
+title: Llmebench\: A Flexible Framework For Accelerating Llms Benchmarking
 authors: Dalvi Fahim, Hasanain Maram, Boughorbel Sabri, Mousi Basel, Abdaljalil Samir, Nazar Nizi, Abdelali Ahmed, Chowdhury Shammur Absar, Mubarak Hamdy, Ali Ahmed, Hawasly Majd, Durrani Nadir, Alam Firoj
 conference: "Arxiv"
 year: 2023

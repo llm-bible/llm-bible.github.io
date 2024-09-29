@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instruction Fusion: Advancing Prompt Evolution Through Hybridization
+title: Instruction Fusion\: Advancing Prompt Evolution Through Hybridization
 authors: Guo Weidong, Yang Jiuding, Yang Kaitong, Li Xiangyang, Rao Zhuwei, Xu Yu, Niu Di
 conference: "Arxiv"
 year: 2023

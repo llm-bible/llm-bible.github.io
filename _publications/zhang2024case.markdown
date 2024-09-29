@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Case Study: Testing Model Capabilities In Some Reasoning Tasks
+title: Case Study\: Testing Model Capabilities In Some Reasoning Tasks
 authors: Zhang Min, Takumi Sato, Zhang Jack, Wang Jun
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Disperse-then-merge: Pushing The Limits Of Instruction Tuning Via Alignment Tax Reduction
+title: Disperse-then-merge\: Pushing The Limits Of Instruction Tuning Via Alignment Tax Reduction
 authors: Fu Tingchen, Cai Deng, Liu Lemao, Shi Shuming, Yan Rui
 conference: "Arxiv"
 year: 2024

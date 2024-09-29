@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Examining Inter-consistency Of Large Language Models Collaboration: An In-depth Analysis Via Debate
+title: Examining Inter-consistency Of Large Language Models Collaboration\: An In-depth Analysis Via Debate
 authors: Xiong Kai, Ding Xiao, Cao Yixin, Liu Ting, Qin Bing
 conference: "Arxiv"
 year: 2023

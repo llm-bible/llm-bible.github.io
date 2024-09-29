@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Progres: Prompted Generative Rescoring On ASR N-best
+title: Progres\: Prompted Generative Rescoring On ASR N-best
 authors: Tur Ada Defne, Moumen Adel, Ravanelli Mirco
 conference: "Arxiv"
 year: 2024

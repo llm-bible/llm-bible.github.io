@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dialogue Action Tokens: Steering Language Models In Goal-directed Dialogue With A Multi-turn Planner
+title: Dialogue Action Tokens\: Steering Language Models In Goal-directed Dialogue With A Multi-turn Planner
 authors: Li Kenneth, Wang Yiming, Viégas Fernanda, Wattenberg Martin
 conference: "Arxiv"
 year: 2024

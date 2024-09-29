@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Behind The Magic, MERLIM: Multi-modal Evaluation Benchmark For Large Image-language Models
+title: Behind The Magic, MERLIM\: Multi-modal Evaluation Benchmark For Large Image-language Models
 authors: Villa Andrés, Alcázar Juan Carlos León, Soto Alvaro, Ghanem Bernard
 conference: "Arxiv"
 year: 2023

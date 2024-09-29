@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CAUS: A Dataset For Question Generation Based On Human Cognition Leveraging Large Language Models
+title: CAUS\: A Dataset For Question Generation Based On Human Cognition Leveraging Large Language Models
 authors: Shin Minjung, Kim Donghyun, Ryu Jeh-kwang
 conference: "Arxiv"
 year: 2024

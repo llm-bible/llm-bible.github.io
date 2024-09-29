@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Confidence-competence Gap In Large Language Models: A Cognitive Study
+title: The Confidence-competence Gap In Large Language Models\: A Cognitive Study
 authors: Singh Aniket Kumar, Devkota Suman, Lamichhane Bishal, Dhakal Uttam, Dhakal Chandra
 conference: "Arxiv"
 year: 2023

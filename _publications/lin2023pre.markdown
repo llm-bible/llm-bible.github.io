@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VILA: On Pre-training For Visual Language Models
+title: VILA\: On Pre-training For Visual Language Models
 authors: Lin Ji, Yin Hongxu, Ping Wei, Lu Yao, Molchanov Pavlo, Tao Andrew, Mao Huizi, Kautz Jan, Shoeybi Mohammad, Han Song
 conference: "Arxiv"
 year: 2023

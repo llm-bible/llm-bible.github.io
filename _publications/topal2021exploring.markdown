@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Transformers In Natural Language Generation: GPT, BERT, And Xlnet
+title: Exploring Transformers In Natural Language Generation\: GPT, BERT, And Xlnet
 authors: Topal M. Onat, Bas Anil, Van Heerden Imke
 conference: "Arxiv"
 year: 2021

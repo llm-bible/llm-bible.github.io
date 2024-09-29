@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ruminating Reader: Reasoning With Gated Multi-hop Attention
+title: Ruminating Reader\: Reasoning With Gated Multi-hop Attention
 authors: Gong Yichen, Bowman Samuel R.
 conference: "Arxiv"
 year: 2017

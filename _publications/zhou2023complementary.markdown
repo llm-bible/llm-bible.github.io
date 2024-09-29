@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Complementary Advantages Of Chatgpts And Human Readers In Reasoning: Evidence From English Text Reading Comprehension
+title: Complementary Advantages Of Chatgpts And Human Readers In Reasoning\: Evidence From English Text Reading Comprehension
 authors: Zhou Tongquan, Zhang Yao, Cao Siyi, Li Yulu, Wang Tao
 conference: "Arxiv"
 year: 2023

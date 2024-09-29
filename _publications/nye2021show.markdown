@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Show Your Work: Scratchpads For Intermediate Computation With Language Models
+title: Show Your Work\: Scratchpads For Intermediate Computation With Language Models
 authors: Nye Maxwell, Andreassen Anders Johan, Gur-ari Guy, Michalewski Henryk, Austin Jacob, Bieber David, Dohan David, Lewkowycz Aitor, Bosma Maarten, Luan David, Sutton Charles, Odena Augustus
 conference: "Arxiv"
 year: 2021

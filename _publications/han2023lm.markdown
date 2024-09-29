@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lm-infinite: Zero-shot Extreme Length Generalization For Large Language Models
+title: Lm-infinite\: Zero-shot Extreme Length Generalization For Large Language Models
 authors: Han Chi, Wang Qifan, Peng Hao, Xiong Wenhan, Chen Yu, Ji Heng, Wang Sinong
 conference: "Arxiv"
 year: 2023

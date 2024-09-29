@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LAFITE: Towards Language-free Training For Text-to-image Generation
+title: LAFITE\: Towards Language-free Training For Text-to-image Generation
 authors: Zhou Yufan, Zhang Ruiyi, Chen Changyou, Li Chunyuan, Tensmeyer Chris, Yu Tong, Gu Jiuxiang, Xu Jinhui, Sun Tong
 conference: "Arxiv"
 year: 2021

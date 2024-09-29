@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: XRJL-HKUST At Semeval-2021 Task 4: Wordnet-enhanced Dual Multi-head Co-attention For Reading Comprehension Of Abstract Meaning
+title: XRJL-HKUST At Semeval-2021 Task 4\: Wordnet-enhanced Dual Multi-head Co-attention For Reading Comprehension Of Abstract Meaning
 authors: Jiang Yuxin, Shou Ziyi, Wang Qijun, Wu Hao, Lin Fangzhen
 conference: "Arxiv"
 year: 2021

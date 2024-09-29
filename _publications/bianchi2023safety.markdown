@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Safety-tuned Llamas: Lessons From Improving The Safety Of Large Language Models That Follow Instructions
+title: Safety-tuned Llamas\: Lessons From Improving The Safety Of Large Language Models That Follow Instructions
 authors: Bianchi Federico, Suzgun Mirac, Attanasio Giuseppe, Röttger Paul, Jurafsky Dan, Hashimoto Tatsunori, Zou James
 conference: "Arxiv"
 year: 2023

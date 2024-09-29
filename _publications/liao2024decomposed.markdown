@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: D2LLM: Decomposed And Distilled Large Language Models For Semantic Search
+title: D2LLM\: Decomposed And Distilled Large Language Models For Semantic Search
 authors: Liao Zihan, Yu Hang, Li Jianguo, Wang Jun, Zhang Wei
 conference: "Arxiv"
 year: 2024

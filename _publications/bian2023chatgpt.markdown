@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatgpt Is A Knowledgeable But Inexperienced Solver: An Investigation Of Commonsense Problem In Large Language Models
+title: Chatgpt Is A Knowledgeable But Inexperienced Solver\: An Investigation Of Commonsense Problem In Large Language Models
 authors: Bian Ning, Han Xianpei, Sun Le, Lin Hongyu, Lu Yaojie, He Ben, Jiang Shanshan, Dong Bin
 conference: "Arxiv"
 year: 2023

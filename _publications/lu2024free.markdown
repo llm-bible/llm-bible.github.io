@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FIPO: Free-form Instruction-oriented Prompt Optimization With Preference Dataset And Modular Fine-tuning Schema
+title: FIPO\: Free-form Instruction-oriented Prompt Optimization With Preference Dataset And Modular Fine-tuning Schema
 authors: Lu Junru, An Siyu, Zhang Min, He Yulan, Yin Di, Sun Xing
 conference: "Arxiv"
 year: 2024

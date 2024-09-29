@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Plugmed: Improving Specificity In Patient-centered Medical Dialogue Generation Using In-context Learning
+title: Plugmed\: Improving Specificity In Patient-centered Medical Dialogue Generation Using In-context Learning
 authors: Dou Chengfeng, Jin Zhi, Jiao Wenping, Zhao Haiyan, Tao Zhenwei, Zhao Yongqiang
 conference: "Arxiv"
 year: 2023

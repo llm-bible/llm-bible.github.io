@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zebra: Extending Context Window With Layerwise Grouped Local-global Attention
+title: Zebra\: Extending Context Window With Layerwise Grouped Local-global Attention
 authors: Song Kaiqiang, Wang Xiaoyang, Cho Sangwoo, Pan Xiaoman, Yu Dong
 conference: "Arxiv"
 year: 2023

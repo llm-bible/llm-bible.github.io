@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SC-ML: Self-supervised Counterfactual Metric Learning For Debiased Visual Question Answering
+title: SC-ML\: Self-supervised Counterfactual Metric Learning For Debiased Visual Question Answering
 authors: Shu Xinyao, Yan Shiyang, Yang Xu, Wu Ziheng, Chen Zhongfeng, Lu Zhenyu
 conference: "Arxiv"
 year: 2023

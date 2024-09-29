@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ask Me Anything: A Simple Strategy For Prompting Language Models
+title: Ask Me Anything\: A Simple Strategy For Prompting Language Models
 authors: Simran Arora, Avanika Narayan, Mayee F. Chen, Laurel Orr, Neel Guha, Kush Bhatia, Ines Chami, Frederic Sala, Christopher Ré
 conference: "Arxiv"
 year: 2022

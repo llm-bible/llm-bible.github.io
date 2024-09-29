@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mozip: A Multilingual Benchmark To Evaluate Large Language Models In Intellectual Property
+title: Mozip\: A Multilingual Benchmark To Evaluate Large Language Models In Intellectual Property
 authors: Ni Shiwen, Tan Minghuan, Bai Yuelin, Niu Fuqiang, Yang Min, Zhang Bowen, Xu Ruifeng, Chen Xiaojun, Li Chengming, Hu Xiping, Li Ye, Fan Jianping
 conference: "LREC-COLING"
 year: 2024

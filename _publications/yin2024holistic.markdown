@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MMAU: A Holistic Benchmark Of Agent Capabilities Across Diverse Domains
+title: MMAU\: A Holistic Benchmark Of Agent Capabilities Across Diverse Domains
 authors: Yin Guoli, Bai Haoping, Ma Shuang, Nan Feng, Sun Yanchao, Xu Zhaoyang, Ma Shen, Lu Jiarui, Kong Xiang, Zhang Aonan, Yap Dian Ang, Zhang Yizhe, Ahnert Karsten, Kamath Vik, Berglund Mathias, Walsh Dominic, Gindele Tobias, Wiest Juergen, Lai Zhengfeng, Wang Xiaoming, Shan Jiulong, Cao Meng, Pang Ruoming, Wang Zirui
 conference: "Arxiv"
 year: 2024

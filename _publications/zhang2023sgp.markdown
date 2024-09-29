@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SGP-TOD: Building Task Bots Effortlessly Via Schema-guided LLM Prompting
+title: SGP-TOD\: Building Task Bots Effortlessly Via Schema-guided LLM Prompting
 authors: Zhang Xiaoying, Peng Baolin, Li Kun, Zhou Jingyan, Meng Helen
 conference: "Arxiv"
 year: 2023

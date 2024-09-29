@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Nanolm: An Affordable LLM Pre-training Benchmark Via Accurate Loss Prediction Across Scales
+title: Nanolm\: An Affordable LLM Pre-training Benchmark Via Accurate Loss Prediction Across Scales
 authors: Yao Yiqun, Fan Siqi, Huang Xiusheng, Fang Xuezhi, Li Xiang, Ni Ziyi, Jiang Xin, Meng Xuying, Han Peng, Shang Shuo, Liu Kang, Sun Aixin, Wang Yequan
 conference: "Arxiv"
 year: 2023

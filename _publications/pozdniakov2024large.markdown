@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Meet User Interfaces: The Case Of Provisioning Feedback
+title: Large Language Models Meet User Interfaces\: The Case Of Provisioning Feedback
 authors: Pozdniakov Stanislav, Brazil Jonathan, Abdi Solmaz, Bakharia Aneesha, Sadiq Shazia, Gasevic Dragan, Denny Paul, Khosravi Hassan
 conference: "Arxiv"
 year: 2024

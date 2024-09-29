@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Good Prompt Is Worth Millions Of Parameters: Low-resource Prompt-based Learning For Vision-language Models
+title: A Good Prompt Is Worth Millions Of Parameters\: Low-resource Prompt-based Learning For Vision-language Models
 authors: Jin Woojeong, Cheng Yu, Shen Yelong, Chen Weizhu, Ren Xiang
 conference: "Arxiv"
 year: 2021

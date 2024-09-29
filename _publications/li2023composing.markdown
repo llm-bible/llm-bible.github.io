@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Covlm: Composing Visual Entities And Relationships In Large Language Models Via Communicative Decoding
+title: Covlm\: Composing Visual Entities And Relationships In Large Language Models Via Communicative Decoding
 authors: Li Junyan, Chen Delin, Hong Yining, Chen Zhenfang, Chen Peihao, Shen Yikang, Gan Chuang
 conference: "Arxiv"
 year: 2023

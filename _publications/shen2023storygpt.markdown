@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Storygpt-v: Large Language Models As Consistent Story Visualizers
+title: Storygpt-v\: Large Language Models As Consistent Story Visualizers
 authors: Shen Xiaoqian, Elhoseiny Mohamed
 conference: "Arxiv"
 year: 2023

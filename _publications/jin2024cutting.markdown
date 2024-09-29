@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cutting Off The Head Ends The Conflict: A Mechanism For Interpreting And Mitigating Knowledge Conflicts In Language Models
+title: Cutting Off The Head Ends The Conflict\: A Mechanism For Interpreting And Mitigating Knowledge Conflicts In Language Models
 authors: Jin Zhuoran, Cao Pengfei, Yuan Hongbang, Chen Yubo, Xu Jiexin, Li Huaijun, Jiang Xiaojian, Liu Kang, Zhao Jun
 conference: "Arxiv"
 year: 2024

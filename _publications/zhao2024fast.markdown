@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Diffagent: Fast And Accurate Text-to-image API Selection With Large Language Model
+title: Diffagent\: Fast And Accurate Text-to-image API Selection With Large Language Model
 authors: Zhao Lirui, Yang Yue, Zhang Kaipeng, Shao Wenqi, Zhang Yuxin, Qiao Yu, Luo Ping, Ji Rongrong
 conference: "Arxiv"
 year: 2024

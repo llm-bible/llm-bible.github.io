@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Contrasolver: Self-alignment Of Language Models By Resolving Internal Preference Contradictions
+title: Contrasolver\: Self-alignment Of Language Models By Resolving Internal Preference Contradictions
 authors: Zhang Xu, Yin Xunjian, Wan Xiaojun
 conference: "Arxiv"
 year: 2024

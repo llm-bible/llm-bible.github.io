@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: REINFOREST: Reinforcing Semantic Code Similarity For Cross-lingual Code Search Models
+title: REINFOREST\: Reinforcing Semantic Code Similarity For Cross-lingual Code Search Models
 authors: Saieva Anthony, Chakraborty Saikat, Kaiser Gail
 conference: "Arxiv"
 year: 2023

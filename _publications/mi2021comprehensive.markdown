@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CINS: Comprehensive Instruction For Few-shot Learning In Task-oriented Dialog Systems
+title: CINS\: Comprehensive Instruction For Few-shot Learning In Task-oriented Dialog Systems
 authors: Mi Fei, Li Yitong, Wang Yasheng, Jiang Xin, Liu Qun
 conference: "Arxiv"
 year: 2021

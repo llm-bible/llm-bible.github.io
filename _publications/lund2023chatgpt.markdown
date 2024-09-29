@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatgpt And A New Academic Reality: Artificial Intelligence-written Research Papers And The Ethics Of The Large Language Models In Scholarly Publishing
+title: Chatgpt And A New Academic Reality\: Artificial Intelligence-written Research Papers And The Ethics Of The Large Language Models In Scholarly Publishing
 authors: Lund Brady, Wang Ting, Mannuru Nishith Reddy, Nie Bing, Shimray Somipam, Wang Ziang
 conference: "Journal of the Association for Information Science and Technology"
 year: 2023

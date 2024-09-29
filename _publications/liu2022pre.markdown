@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PSP: Pre-trained Soft Prompts For Few-shot Abstractive Summarization
+title: PSP\: Pre-trained Soft Prompts For Few-shot Abstractive Summarization
 authors: Liu Xiaochen, Gao Yang, Bai Yu, Li Jiawei, Hu Yinan, Huang Heyan, Chen Boxing
 conference: "Arxiv"
 year: 2022

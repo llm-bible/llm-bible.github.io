@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LEALLA: Learning Lightweight Language-agnostic Sentence Embeddings With Knowledge Distillation
+title: LEALLA\: Learning Lightweight Language-agnostic Sentence Embeddings With Knowledge Distillation
 authors: Mao Zhuoyuan, Nakagawa Tetsuji
 conference: "Arxiv"
 year: 2023

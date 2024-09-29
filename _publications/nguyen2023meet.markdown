@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Meet In The Middle: A New Pre-training Paradigm
+title: Meet In The Middle\: A New Pre-training Paradigm
 authors: Nguyen Anh, Karampatziakis Nikos, Chen Weizhu
 conference: "Arxiv"
 year: 2023

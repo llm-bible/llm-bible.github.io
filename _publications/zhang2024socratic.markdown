@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SPL: A Socratic Playground For Learning Powered By Large Language Model
+title: SPL\: A Socratic Playground For Learning Powered By Large Language Model
 authors: Zhang Liang, Lin Jionghao, Kuang Ziyi, Xu Sheng, Yeasin Mohammed, Hu Xiangen
 conference: "Arxiv"
 year: 2024

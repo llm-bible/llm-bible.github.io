@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llmcad: Fast And Scalable On-device Large Language Model Inference
+title: Llmcad\: Fast And Scalable On-device Large Language Model Inference
 authors: Xu Daliang, Yin Wangsong, Jin Xin, Zhang Ying, Wei Shiyun, Xu Mengwei, Liu Xuanzhe
 conference: "Arxiv"
 year: 2023

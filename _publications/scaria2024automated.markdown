@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automated Educational Question Generation At Different Bloom's Skill Levels Using Large Language Models: Strategies And Evaluation
+title: Automated Educational Question Generation At Different Bloom's Skill Levels Using Large Language Models\: Strategies And Evaluation
 authors: Scaria Nicy, Chenna Suma Dharani, Subramani Deepak
 conference: "Artificial Intelligence in Education. AIED"
 year: 2024

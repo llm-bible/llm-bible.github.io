@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ALBERT: A Lite BERT For Self-supervised Learning Of Language Representations
+title: ALBERT\: A Lite BERT For Self-supervised Learning Of Language Representations
 authors: Lan Zhenzhong, Chen Mingda, Goodman Sebastian, Gimpel Kevin, Sharma Piyush, Soricut Radu
 conference: "Arxiv"
 year: 2019

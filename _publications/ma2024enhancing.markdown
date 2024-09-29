@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Programming Education With Chatgpt: A Case Study On Student Perceptions And Interactions In A Python Course
+title: Enhancing Programming Education With Chatgpt\: A Case Study On Student Perceptions And Interactions In A Python Course
 authors: Ma Boxaun, Chen Li, Konomi Shin'ichi
 conference: "Arxiv"
 year: 2024

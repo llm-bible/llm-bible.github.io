@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: It's Not Greek To Mbert: Inducing Word-level Translations From Multilingual BERT
+title: It's Not Greek To Mbert\: Inducing Word-level Translations From Multilingual BERT
 authors: Gonen Hila, Ravfogel Shauli, Elazar Yanai, Goldberg Yoav
 conference: "Arxiv"
 year: 2020

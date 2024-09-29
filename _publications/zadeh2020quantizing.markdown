@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GOBO: Quantizing Attention-based NLP Models For Low Latency And Energy Efficient Inference
+title: GOBO\: Quantizing Attention-based NLP Models For Low Latency And Energy Efficient Inference
 authors: Zadeh Ali Hadi, Edo Isak, Awad Omar Mohamed, Moshovos Andreas
 conference: "Arxiv"
 year: 2020

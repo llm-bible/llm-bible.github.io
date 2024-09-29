@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Flexkbqa: A Flexible Llm-powered Framework For Few-shot Knowledge Base Question Answering
+title: Flexkbqa\: A Flexible Llm-powered Framework For Few-shot Knowledge Base Question Answering
 authors: Li Zhenyu, Fan Sunqi, Gu Yu, Li Xiuxing, Duan Zhichao, Dong Bowen, Liu Ning, Wang Jianyong
 conference: "Arxiv"
 year: 2023

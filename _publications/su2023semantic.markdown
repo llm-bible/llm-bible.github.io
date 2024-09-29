@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: HC3 Plus: A Semantic-invariant Human Chatgpt Comparison Corpus
+title: HC3 Plus\: A Semantic-invariant Human Chatgpt Comparison Corpus
 authors: Su Zhenpeng, Wu Xing, Zhou Wei, Ma Guangyuan, Hu Songlin
 conference: "Arxiv"
 year: 2023

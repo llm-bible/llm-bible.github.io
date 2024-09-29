@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Advprompter: Fast Adaptive Adversarial Prompting For Llms
+title: Advprompter\: Fast Adaptive Adversarial Prompting For Llms
 authors: Paulus Anselm, Zharmagambetov Arman, Guo Chuan, Amos Brandon, Tian Yuandong
 conference: "Arxiv"
 year: 2024

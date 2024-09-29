@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LISA: Layerwise Importance Sampling For Memory-efficient Large Language Model Fine-tuning
+title: LISA\: Layerwise Importance Sampling For Memory-efficient Large Language Model Fine-tuning
 authors: Pan Rui, Liu Xiang, Diao Shizhe, Pi Renjie, Zhang Jipeng, Han Chi, Zhang Tong
 conference: "Arxiv"
 year: 2024

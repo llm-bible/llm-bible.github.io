@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Perplexity: Multi-dimensional Safety Evaluation Of LLM Compression
+title: Beyond Perplexity\: Multi-dimensional Safety Evaluation Of LLM Compression
 authors: Xu Zhichao, Gupta Ashim, Li Tao, Bentham Oliver, Srikumar Vivek
 conference: "Arxiv"
 year: 2024

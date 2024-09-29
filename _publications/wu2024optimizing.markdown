@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Avatar: Optimizing LLM Agents For Tool-assisted Knowledge Retrieval
+title: Avatar\: Optimizing LLM Agents For Tool-assisted Knowledge Retrieval
 authors: Wu Shirley, Zhao Shiyu, Huang Qian, Huang Kexin, Yasunaga Michihiro, Cao Kaidi, Ioannidis Vassilis N., Subbian Karthik, Leskovec Jure, Zou James
 conference: "Arxiv"
 year: 2024

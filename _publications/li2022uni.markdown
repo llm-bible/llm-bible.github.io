@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Uni-eden: Universal Encoder-decoder Network By Multi-granular Vision-language Pre-training
+title: Uni-eden\: Universal Encoder-decoder Network By Multi-granular Vision-language Pre-training
 authors: Li Yehao, Fan Jiahao, Pan Yingwei, Yao Ting, Lin Weiyao, Mei Tao
 conference: "Arxiv"
 year: 2022

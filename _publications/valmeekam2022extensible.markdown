@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Planbench: An Extensible Benchmark For Evaluating Large Language Models On Planning And Reasoning About Change
+title: Planbench\: An Extensible Benchmark For Evaluating Large Language Models On Planning And Reasoning About Change
 authors: Valmeekam Karthik, Marquez Matthew, Olmo Alberto, Sreedharan Sarath, Kambhampati Subbarao
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rar-b: Reasoning As Retrieval Benchmark
+title: Rar-b\: Reasoning As Retrieval Benchmark
 authors: Xiao Chenghao, Hudson G Thomas, Moubayed Noura Al
 conference: "Arxiv"
 year: 2024

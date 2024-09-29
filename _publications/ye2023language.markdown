@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Versatilists Vs. Specialists: An Empirical Revisiting On Multilingual Transfer Ability
+title: Language Versatilists Vs. Specialists\: An Empirical Revisiting On Multilingual Transfer Ability
 authors: Ye Jiacheng, Tao Xijia, Kong Lingpeng
 conference: "Arxiv"
 year: 2023

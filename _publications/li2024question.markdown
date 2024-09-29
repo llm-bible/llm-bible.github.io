@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MEDIQ: Question-asking Llms For Adaptive And Reliable Clinical Reasoning
+title: MEDIQ\: Question-asking Llms For Adaptive And Reliable Clinical Reasoning
 authors: Li Shuyue Stella, Balachandran Vidhisha, Feng Shangbin, Ilgen Jonathan, Pierson Emma, Koh Pang Wei, Tsvetkov Yulia
 conference: "Arxiv"
 year: 2024

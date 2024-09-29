@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Followeval: A Multi-dimensional Benchmark For Assessing The Instruction-following Capability Of Large Language Models
+title: Followeval\: A Multi-dimensional Benchmark For Assessing The Instruction-following Capability Of Large Language Models
 authors: Jing Yimin, Jin Renren, Hu Jiahao, Qiu Huishi, Wang Xiaohua, Wang Peng, Xiong Deyi
 conference: "Arxiv"
 year: 2023

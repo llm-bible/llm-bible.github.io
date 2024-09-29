@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The N+ Implementation Details Of RLHF With PPO: A Case Study On TL;DR Summarization
+title: The N+ Implementation Details Of RLHF With PPO\: A Case Study On TL;DR Summarization
 authors: Huang Shengyi, Noukhovitch Michael, Hosseini Arian, Rasul Kashif, Wang Weixun, Tunstall Lewis
 conference: "Arxiv"
 year: 2024

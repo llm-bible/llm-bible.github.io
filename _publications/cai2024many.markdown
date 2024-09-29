@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Flextron: Many-in-one Flexible Large Language Model
+title: Flextron\: Many-in-one Flexible Large Language Model
 authors: Cai Ruisi, Muralidharan Saurav, Heinrich Greg, Yin Hongxu, Wang Zhangyang, Kautz Jan, Molchanov Pavlo
 conference: "Arxiv"
 year: 2024

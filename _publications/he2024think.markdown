@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Think-program-rectify: 3D Situated Reasoning With Large Language Models
+title: Think-program-rectify\: 3D Situated Reasoning With Large Language Models
 authors: He Qingrong, Lin Kejun, Chen Shizhe, Hu Anwen, Jin Qin
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bias Runs Deep: Implicit Reasoning Biases In Persona-assigned Llms
+title: Bias Runs Deep\: Implicit Reasoning Biases In Persona-assigned Llms
 authors: Gupta Shashank, Shrivastava Vaishnavi, Deshpande Ameet, Kalyan Ashwin, Clark Peter, Sabharwal Ashish, Khot Tushar
 conference: "Arxiv"
 year: 2023

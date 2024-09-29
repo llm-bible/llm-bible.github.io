@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hrot: Hybrid Prompt Strategy And Retrieval Of Thought For Table-text Hybrid Question Answering
+title: Hrot\: Hybrid Prompt Strategy And Retrieval Of Thought For Table-text Hybrid Question Answering
 authors: Luo Tongxu, Lei Fangyu, Lei Jiahe, Liu Weihao, He Shihu, Zhao Jun, Liu Kang
 conference: "Arxiv"
 year: 2023

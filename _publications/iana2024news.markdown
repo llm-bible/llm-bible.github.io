@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: News Without Borders: Domain Adaptation Of Multilingual Sentence Embeddings For Cross-lingual News Recommendation
+title: News Without Borders\: Domain Adaptation Of Multilingual Sentence Embeddings For Cross-lingual News Recommendation
 authors: Iana Andreea, Schmidt Fabian David, Glavaš Goran, Paulheim Heiko
 conference: "Arxiv"
 year: 2024

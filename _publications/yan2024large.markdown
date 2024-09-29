@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LTNER: Large Language Model Tagging For Named Entity Recognition With Contextualized Entity Marking
+title: LTNER\: Large Language Model Tagging For Named Entity Recognition With Contextualized Entity Marking
 authors: Yan Faren, Yu Peng, Chen Xin
 conference: "Arxiv"
 year: 2024

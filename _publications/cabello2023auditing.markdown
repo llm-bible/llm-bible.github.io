@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pokemonchat: Auditing Chatgpt For Pok\'emon Universe Knowledge
+title: Pokemonchat\: Auditing Chatgpt For Pok\'emon Universe Knowledge
 authors: Cabello Laura, Li Jiaang, Chalkidis Ilias
 conference: "Arxiv"
 year: 2023

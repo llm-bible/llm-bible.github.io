@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieve, Summarize, Plan: Advancing Multi-hop Question Answering With An Iterative Approach
+title: Retrieve, Summarize, Plan\: Advancing Multi-hop Question Answering With An Iterative Approach
 authors: Jiang Zhouyu, Sun Mengshu, Liang Lei, Zhang Zhiqiang
 conference: "Arxiv"
 year: 2024

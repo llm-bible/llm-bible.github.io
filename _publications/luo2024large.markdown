@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models As Foundations For Next-gen Dense Retrieval: A Comprehensive Empirical Assessment
+title: Large Language Models As Foundations For Next-gen Dense Retrieval\: A Comprehensive Empirical Assessment
 authors: Luo Kun, Qin Minghao, Liu Zheng, Xiao Shitao, Zhao Jun, Liu Kang
 conference: "Arxiv"
 year: 2024

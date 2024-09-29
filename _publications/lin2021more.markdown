@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MDQE: A More Accurate Direct Pretraining For Machine Translation Quality Estimation
+title: MDQE\: A More Accurate Direct Pretraining For Machine Translation Quality Estimation
 authors: Lin Lei
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Edgebert: Sentence-level Energy Optimizations For Latency-aware Multi-task NLP Inference
+title: Edgebert\: Sentence-level Energy Optimizations For Latency-aware Multi-task NLP Inference
 authors: Tambe Thierry, Hooper Coleman, Pentecost Lillian, Jia Tianyu, Yang En-yu, Donato Marco, Sanh Victor, Whatmough Paul N., Rush Alexander M., Brooks David, Wei Gu-yeon
 conference: "Arxiv"
 year: 2020

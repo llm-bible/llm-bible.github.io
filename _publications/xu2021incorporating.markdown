@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Moca: Incorporating Multi-stage Domain Pretraining And Cross-guided Multimodal Attention For Textbook Question Answering
+title: Moca\: Incorporating Multi-stage Domain Pretraining And Cross-guided Multimodal Attention For Textbook Question Answering
 authors: Xu Fangzhi, Lin Qika, Liu Jun, Zhang Lingling, Zhao Tianzhe, Chai Qi, Pan Yudai
 conference: "Arxiv"
 year: 2021

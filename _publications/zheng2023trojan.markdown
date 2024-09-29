@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Trojfsp: Trojan Insertion In Few-shot Prompt Tuning
+title: Trojfsp\: Trojan Insertion In Few-shot Prompt Tuning
 authors: Zheng Mengxin, Xue Jiaqi, Chen Xun, Wang Yanshan, Lou Qian, Jiang Lei
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adversarial Contrastive Decoding: Boosting Safety Alignment Of Large Language Models Via Opposite Prompt Optimization
+title: Adversarial Contrastive Decoding\: Boosting Safety Alignment Of Large Language Models Via Opposite Prompt Optimization
 authors: Zhao Zhengyue, Zhang Xiaoyun, Xu Kaidi, Hu Xing, Zhang Rui, Du Zidong, Guo Qi, Chen Yunji
 conference: "Arxiv"
 year: 2024

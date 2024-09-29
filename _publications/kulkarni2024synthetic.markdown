@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Synthdst: Synthetic Data Is All You Need For Few-shot Dialog State Tracking
+title: Synthdst\: Synthetic Data Is All You Need For Few-shot Dialog State Tracking
 authors: Kulkarni Atharva, Tseng Bo-hsiang, Moniz Joel Ruben Antony, Piraviperumal Dhivya, Yu Hong, Bhargava Shruti
 conference: "Arxiv"
 year: 2024

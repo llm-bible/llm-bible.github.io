@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Thermometer: Towards Universal Calibration For Large Language Models
+title: Thermometer\: Towards Universal Calibration For Large Language Models
 authors: Shen Maohao, Das Subhro, Greenewald Kristjan, Sattigeri Prasanna, Wornell Gregory, Ghosh Soumya
 conference: "Arxiv"
 year: 2024

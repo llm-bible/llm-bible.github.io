@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Loogle: Can Long-context Language Models Understand Long Contexts?
+title: Loogle\: Can Long-context Language Models Understand Long Contexts?
 authors: Li Jiaqi, Wang Mengmeng, Zheng Zilong, Zhang Muhan
 conference: "Arxiv"
 year: 2023

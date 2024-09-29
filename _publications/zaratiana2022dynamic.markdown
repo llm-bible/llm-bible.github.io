@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dyrex: Dynamic Query Representation For Extractive Question Answering
+title: Dyrex\: Dynamic Query Representation For Extractive Question Answering
 authors: Zaratiana Urchade, Khbir Niama El, Núñez Dennis, Holat Pierre, Tomeh Nadi, Charnois Thierry
 conference: "Arxiv"
 year: 2022

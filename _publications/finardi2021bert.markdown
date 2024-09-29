@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Berta\'u: Ita\'u BERT For Digital Customer Service
+title: Berta\'u\: Ita\'u BERT For Digital Customer Service
 authors: Finardi Paulo, Viegas José Dié, Ferreira Gustavo T., Mansano Alex F., Caridá Vinicius F.
 conference: "Arxiv"
 year: 2021

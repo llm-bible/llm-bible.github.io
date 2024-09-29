@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Longalign: A Recipe For Long Context Alignment Of Large Language Models
+title: Longalign\: A Recipe For Long Context Alignment Of Large Language Models
 authors: Bai Yushi, Lv Xin, Zhang Jiajie, He Yuze, Qi Ji, Hou Lei, Tang Jie, Dong Yuxiao, Li Juanzi
 conference: "Arxiv"
 year: 2024

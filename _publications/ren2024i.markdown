@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: I Learn Better If You Speak My Language: Understanding The Superior Performance Of Fine-tuning Large Language Models With Llm-generated Responses
+title: I Learn Better If You Speak My Language\: Understanding The Superior Performance Of Fine-tuning Large Language Models With Llm-generated Responses
 authors: Ren Xuan, Wu Biao, Liu Lingqiao
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LEVER: Learning To Verify Language-to-code Generation With Execution
+title: LEVER\: Learning To Verify Language-to-code Generation With Execution
 authors: Ni Ansong, Iyer Srini, Radev Dragomir, Stoyanov Ves, Yih Wen-tau, Wang Sida I., Lin Xi Victoria
 conference: "Arxiv"
 year: 2023

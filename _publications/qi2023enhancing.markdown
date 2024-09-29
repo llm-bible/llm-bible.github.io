@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PILLOW: Enhancing Efficient Instruction Fine-tuning Via Prompt Matching
+title: PILLOW\: Enhancing Efficient Instruction Fine-tuning Via Prompt Matching
 authors: Qi Zhenting, Tan Xiaoyu, Shi Shaojie, Qu Chao, Xu Yinghui, Qi Yuan
 conference: "Arxiv"
 year: 2023

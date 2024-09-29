@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Memory Is All You Need: An Overview Of Compute-in-memory Architectures For Accelerating Large Language Model Inference
+title: Memory Is All You Need\: An Overview Of Compute-in-memory Architectures For Accelerating Large Language Model Inference
 authors: Wolters Christopher, Yang Xiaoxuan, Schlichtmann Ulf, Suzumura Toyotaro
 conference: "Arxiv"
 year: 2024

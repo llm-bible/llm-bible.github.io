@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ragsys: Item-cold-start Recommender As RAG System
+title: Ragsys\: Item-cold-start Recommender As RAG System
 authors: Contal Emile, Mcgoldrick Garrin
 conference: "Arxiv"
 year: 2024

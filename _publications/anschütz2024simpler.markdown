@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Simpler Becomes Harder: Do Llms Exhibit A Coherent Behavior On Simplified Corpora?
+title: Simpler Becomes Harder\: Do Llms Exhibit A Coherent Behavior On Simplified Corpora?
 authors: Anschütz Miriam, Mosca Edoardo, Groh Georg
 conference: "Arxiv"
 year: 2024

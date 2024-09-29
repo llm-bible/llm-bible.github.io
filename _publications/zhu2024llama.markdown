@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llama-moe: Building Mixture-of-experts From Llama With Continual Pre-training
+title: Llama-moe\: Building Mixture-of-experts From Llama With Continual Pre-training
 authors: Zhu Tong, Qu Xiaoye, Dong Daize, Ruan Jiacheng, Tong Jingqi, He Conghui, Cheng Yu
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jatmo: Prompt Injection Defense By Task-specific Finetuning
+title: Jatmo\: Prompt Injection Defense By Task-specific Finetuning
 authors: Piet Julien, Alrashed Maha, Sitawarin Chawin, Chen Sizhe, Wei Zeming, Sun Elizabeth, Alomair Basel, Wagner David
 conference: "Arxiv"
 year: 2023

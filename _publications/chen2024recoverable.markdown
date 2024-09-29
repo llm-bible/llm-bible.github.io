@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided By Text Information
+title: Recoverable Compression\: A Multimodal Vision Token Recovery Mechanism Guided By Text Information
 authors: Chen Yi, Xu Jian, Zhang Xu-yao, Liu Wen-zhuo, Liu Yang-yang, Liu Cheng-lin
 conference: "Arxiv"
 year: 2024

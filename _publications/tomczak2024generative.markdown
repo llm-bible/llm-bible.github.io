@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative AI Systems: A Systems-based Perspective On Generative AI
+title: Generative AI Systems\: A Systems-based Perspective On Generative AI
 authors: Tomczak Jakub M.
 conference: "Arxiv"
 year: 2024

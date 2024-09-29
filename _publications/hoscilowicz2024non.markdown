@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Non-linear Inference Time Intervention: Improving LLM Truthfulness
+title: Non-linear Inference Time Intervention\: Improving LLM Truthfulness
 authors: Hoscilowicz Jakub, Wiacek Adam, Chojnacki Jan, Cieslak Adam, Michon Leszek, Urbanevych Vitalii, Janicki Artur
 conference: "Arxiv"
 year: 2024

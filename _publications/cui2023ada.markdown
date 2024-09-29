@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ada-instruct: Adapting Instruction Generators For Complex Reasoning
+title: Ada-instruct\: Adapting Instruction Generators For Complex Reasoning
 authors: Cui Wanyun, Wang Qianle
 conference: "Arxiv"
 year: 2023

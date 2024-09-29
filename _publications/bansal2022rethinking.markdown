@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rethinking The Role Of Scale For In-context Learning: An Interpretability-based Case Study At 66 Billion Scale
+title: Rethinking The Role Of Scale For In-context Learning\: An Interpretability-based Case Study At 66 Billion Scale
 authors: Bansal Hritik, Gopalakrishnan Karthik, Dingliwal Saket, Bodapati Sravan, Kirchhoff Katrin, Roth Dan
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Eventlens: Leveraging Event-aware Pretraining And Cross-modal Linking Enhances Visual Commonsense Reasoning
+title: Eventlens\: Leveraging Event-aware Pretraining And Cross-modal Linking Enhances Visual Commonsense Reasoning
 authors: Ma Mingjie, Yu Zhihuan, Ma Yichao, Li Guohui
 conference: "Arxiv"
 year: 2024

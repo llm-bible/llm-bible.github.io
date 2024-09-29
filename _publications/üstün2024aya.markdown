@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aya Model: An Instruction Finetuned Open-access Multilingual Language Model
+title: Aya Model\: An Instruction Finetuned Open-access Multilingual Language Model
 authors: Üstün Ahmet, Aryabumi Viraat, Yong Zheng-xin, Ko Wei-yin, D'souza Daniel, Onilude Gbemileke, Bhandari Neel, Singh Shivalika, Ooi Hui-lee, Kayid Amr, Vargus Freddie, Blunsom Phil, Longpre Shayne, Muennighoff Niklas, Fadaee Marzieh, Kreutzer Julia, Hooker Sara
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Apollonion: Profile-centric Dialog Agent
+title: Apollonion\: Profile-centric Dialog Agent
 authors: Chen Shangyu, Zhao Zibo, Zhao Yuanyuan, Li Xiang
 conference: "Arxiv"
 year: 2024

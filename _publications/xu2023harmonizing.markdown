@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lemur: Harmonizing Natural Language And Code For Language Agents
+title: Lemur\: Harmonizing Natural Language And Code For Language Agents
 authors: Yiheng Xu, Hongjin Su, Chen Xing, Boyu Mi, Qian Liu, Weijia Shi, Binyuan Hui, Fan Zhou, Yitao Liu, Tianbao Xie, Zhoujun Cheng, Siheng Zhao, Lingpeng Kong, Bailin Wang, Caiming Xiong, Tao Yu
 conference: "Arxiv"
 year: 2023

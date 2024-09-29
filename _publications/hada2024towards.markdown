@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: METAL: Towards Multilingual Meta-evaluation
+title: METAL\: Towards Multilingual Meta-evaluation
 authors: Hada Rishav, Gumma Varun, Ahmed Mohamed, Bali Kalika, Sitaram Sunayana
 conference: "Arxiv"
 year: 2024

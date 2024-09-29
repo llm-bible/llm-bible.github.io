@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Logicot: Logical Chain-of-thought Instruction-tuning
+title: Logicot\: Logical Chain-of-thought Instruction-tuning
 authors: Liu Hanmeng, Teng Zhiyang, Cui Leyang, Zhang Chaoli, Zhou Qiji, Zhang Yue
 conference: "Arxiv"
 year: 2023

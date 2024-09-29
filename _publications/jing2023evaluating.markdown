@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FAITHSCORE: Evaluating Hallucinations In Large Vision-language Models
+title: FAITHSCORE\: Evaluating Hallucinations In Large Vision-language Models
 authors: Liqiang Jing, Ruosen Li, Yunmo Chen, Mengzhao Jia, Xinya Du
 conference: "Arxiv"
 year: 2023

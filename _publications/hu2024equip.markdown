@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ELLA: Equip Diffusion Models With LLM For Enhanced Semantic Alignment
+title: ELLA\: Equip Diffusion Models With LLM For Enhanced Semantic Alignment
 authors: Hu Xiwei, Wang Rui, Fang Yixiao, Fu Bin, Cheng Pei, Yu Gang
 conference: "Arxiv"
 year: 2024

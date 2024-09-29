@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Simultaneous Masking, Not Prompting Optimization: A Paradigm Shift In Fine-tuning Llms For Simultaneous Translation
+title: Simultaneous Masking, Not Prompting Optimization\: A Paradigm Shift In Fine-tuning Llms For Simultaneous Translation
 authors: Raffel Matthew, Agostinelli Victor, Chen Lizhong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Taskgen: A Task-based, Memory-infused Agentic Framework Using Strictjson
+title: Taskgen\: A Task-based, Memory-infused Agentic Framework Using Strictjson
 authors: Tan John Chong Min, Saroj Prince, Runwal Bharat, Maheshwari Hardik, Sheng Brian Lim Yi, Cottrill Richard, Chona Alankrit, Kumar Ambuj, Motani Mehul
 conference: "Arxiv"
 year: 2024

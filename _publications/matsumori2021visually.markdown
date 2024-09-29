@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lattegan: Visually Guided Language Attention For Multi-turn Text-conditioned Image Manipulation
+title: Lattegan\: Visually Guided Language Attention For Multi-turn Text-conditioned Image Manipulation
 authors: Matsumori Shoya, Abe Yuki, Shingyouchi Kosuke, Sugiura Komei, Imai Michita
 conference: "IEEE Access"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hallucination Detection And Hallucination Mitigation: An Investigation
+title: Hallucination Detection And Hallucination Mitigation\: An Investigation
 authors: Luo Junliang, Li Tianyu, Wu Di, Jenkin Michael, Liu Steve, Dudek Gregory
 conference: "Arxiv"
 year: 2024

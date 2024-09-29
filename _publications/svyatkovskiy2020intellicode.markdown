@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Intellicode Compose: Code Generation Using Transformer
+title: Intellicode Compose\: Code Generation Using Transformer
 authors: Svyatkovskiy Alexey, Deng Shao Kun, Fu Shengyu, Sundaresan Neel
 conference: "Arxiv"
 year: 2020

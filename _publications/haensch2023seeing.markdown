@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Seeing Chatgpt Through Students' Eyes: An Analysis Of Tiktok Data
+title: Seeing Chatgpt Through Students' Eyes\: An Analysis Of Tiktok Data
 authors: Haensch Anna-carolina, Ball Sarah, Herklotz Markus, Kreuter Frauke
 conference: "Arxiv"
 year: 2023

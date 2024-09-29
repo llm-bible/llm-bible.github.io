@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MART: Improving LLM Safety With Multi-round Automatic Red-teaming
+title: MART\: Improving LLM Safety With Multi-round Automatic Red-teaming
 authors: Ge Suyu, Zhou Chunting, Hou Rui, Khabsa Madian, Wang Yi-chia, Wang Qifan, Han Jiawei, Mao Yuning
 conference: "Arxiv"
 year: 2023

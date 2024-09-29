@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gpt4tools: Teaching Large Language Model To Use Tools Via Self-instruction
+title: Gpt4tools\: Teaching Large Language Model To Use Tools Via Self-instruction
 authors: Rui Yang, Lin Song, Yanwei Li, Sijie Zhao, Yixiao Ge, Xiu Li, Ying Shan
 conference: "Arxiv"
 year: 2023

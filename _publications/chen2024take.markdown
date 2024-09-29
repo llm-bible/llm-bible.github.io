@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Take The Bull By The Horns: Hard Sample-reweighted Continual Training Improves LLM Generalization
+title: Take The Bull By The Horns\: Hard Sample-reweighted Continual Training Improves LLM Generalization
 authors: Chen Xuxi, Wang Zhendong, Sow Daouda, Yang Junjie, Chen Tianlong, Liang Yingbin, Zhou Mingyuan, Wang Zhangyang
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Trustworthy AI: A Review Of Ethical And Robust Large Language Models
+title: Towards Trustworthy AI\: A Review Of Ethical And Robust Large Language Models
 authors: Ferdaus Md Meftahul, Abdelguerfi Mahdi, Ioup Elias, Niles Kendall N., Pathak Ken, Sloan Steven
 conference: "Arxiv"
 year: 2024

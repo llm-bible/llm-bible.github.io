@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ISQA: Informative Factuality Feedback For Scientific Summarization
+title: ISQA\: Informative Factuality Feedback For Scientific Summarization
 authors: Li Zekai, Qin Yanxia, Liu Qian, Kan Min-yen
 conference: "Arxiv"
 year: 2024

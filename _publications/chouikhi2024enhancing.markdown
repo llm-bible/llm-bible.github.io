@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gemmar: Enhancing Llms Through Arabic Instruction-tuning
+title: Gemmar\: Enhancing Llms Through Arabic Instruction-tuning
 authors: Chouikhi Hasna, Aloui Manel, Hammou Cyrine Ben, Chaabane Ghaith, Kchaou Haithem, Dhaouadi Chehir
 conference: "Arxiv"
 year: 2024

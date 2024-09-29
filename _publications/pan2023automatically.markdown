@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automatically Correcting Large Language Models: Surveying The Landscape Of Diverse Self-correction Strategies
+title: Automatically Correcting Large Language Models\: Surveying The Landscape Of Diverse Self-correction Strategies
 authors: Pan Liangming, Saxon Michael, Xu Wenda, Nathani Deepak, Wang Xinyi, Wang William Yang
 conference: "Arxiv"
 year: 2023

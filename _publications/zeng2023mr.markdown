@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MR-GSM8K: A Meta-reasoning Benchmark For Large Language Model Evaluation
+title: MR-GSM8K\: A Meta-reasoning Benchmark For Large Language Model Evaluation
 authors: Zeng Zhongshen, Chen Pengguang, Liu Shu, Jiang Haiyun, Jia Jiaya
 conference: "Arxiv"
 year: 2023

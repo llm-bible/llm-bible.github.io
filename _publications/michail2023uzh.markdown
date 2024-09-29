@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Uzh_clyp At Semeval-2023 Task 9: Head-first Fine-tuning And Chatgpt Data Generation For Cross-lingual Learning In Tweet Intimacy Prediction
+title: Uzh_clyp At Semeval-2023 Task 9\: Head-first Fine-tuning And Chatgpt Data Generation For Cross-lingual Learning In Tweet Intimacy Prediction
 authors: Michail Andrianos, Konstantinou Stefanos, Clematide Simon
 conference: "Arxiv"
 year: 2023

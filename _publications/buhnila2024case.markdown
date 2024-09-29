@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieve, Generate, Evaluate: A Case Study For Medical Paraphrases Generation With Small Language Models
+title: Retrieve, Generate, Evaluate\: A Case Study For Medical Paraphrases Generation With Small Language Models
 authors: Buhnila Ioana, Sinha Aman, Constant Mathieu
 conference: "Arxiv"
 year: 2024

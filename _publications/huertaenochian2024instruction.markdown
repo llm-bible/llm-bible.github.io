@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instruction Fine-tuning: Does Prompt Loss Matter?
+title: Instruction Fine-tuning\: Does Prompt Loss Matter?
 authors: Huerta-enochian Mathew, Ko Seung Yong
 conference: "Arxiv"
 year: 2024

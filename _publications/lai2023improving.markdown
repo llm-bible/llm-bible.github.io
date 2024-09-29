@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Veclip: Improving CLIP Training Via Visual-enriched Captions
+title: Veclip\: Improving CLIP Training Via Visual-enriched Captions
 authors: Lai Zhengfeng, Zhang Haotian, Zhang Bowen, Wu Wentao, Bai Haoping, Timofeev Aleksei, Du Xianzhi, Gan Zhe, Shan Jiulong, Chuah Chen-nee, Yang Yinfei, Cao Meng
 conference: "Arxiv"
 year: 2023

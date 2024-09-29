@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CUE Vectors: Modular Training Of Language Models Conditioned On Diverse Contextual Signals
+title: CUE Vectors\: Modular Training Of Language Models Conditioned On Diverse Contextual Signals
 authors: Novotney Scott, Mukherjee Sreeparna, Ahmed Zeeshan, Stolcke Andreas
 conference: "Findings of ACL"
 year: 2022

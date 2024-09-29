@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multiqg-ti: Towards Question Generation From Multi-modal Sources
+title: Multiqg-ti\: Towards Question Generation From Multi-modal Sources
 authors: Wang Zichao, Baraniuk Richard
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Discuss Before Moving: Visual Language Navigation Via Multi-expert Discussions
+title: Discuss Before Moving\: Visual Language Navigation Via Multi-expert Discussions
 authors: Long Yuxing, Li Xiaoqi, Cai Wenzhe, Dong Hao
 conference: "Arxiv"
 year: 2023

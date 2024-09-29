@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Roles Of Scaling And Instruction Tuning In Language Perception: Model Vs. Human Attention
+title: Roles Of Scaling And Instruction Tuning In Language Perception\: Model Vs. Human Attention
 authors: Gao Changjiang, Huang Shujian, Li Jixing, Chen Jiajun
 conference: "Arxiv"
 year: 2023

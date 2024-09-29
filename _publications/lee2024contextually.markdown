@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CATS: Contextually-aware Thresholding For Sparsity In Large Language Models
+title: CATS\: Contextually-aware Thresholding For Sparsity In Large Language Models
 authors: Lee Je-yong, Lee Donghyun, Zhang Genghan, Tiwari Mo, Mirhoseini Azalia
 conference: "Arxiv"
 year: 2024

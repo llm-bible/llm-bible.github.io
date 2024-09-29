@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hero: Roberta And Longformer Hebrew Language Models
+title: Hero\: Roberta And Longformer Hebrew Language Models
 authors: Shalumov Vitaly, Haskey Harel
 conference: "Arxiv"
 year: 2023

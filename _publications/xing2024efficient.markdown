@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EFUF: Efficient Fine-grained Unlearning Framework For Mitigating Hallucinations In Multimodal Large Language Models
+title: EFUF\: Efficient Fine-grained Unlearning Framework For Mitigating Hallucinations In Multimodal Large Language Models
 authors: Xing Shangyu, Zhao Fei, Wu Zhen, An Tuo, Chen Weihao, Li Chunhui, Zhang Jianbing, Dai Xinyu
 conference: "Arxiv"
 year: 2024

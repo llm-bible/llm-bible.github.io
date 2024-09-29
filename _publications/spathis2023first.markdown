@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The First Step Is The Hardest: Pitfalls Of Representing And Tokenizing Temporal Data For Large Language Models
+title: The First Step Is The Hardest\: Pitfalls Of Representing And Tokenizing Temporal Data For Large Language Models
 authors: Spathis Dimitris, Kawsar Fahim
 conference: "Arxiv"
 year: 2023

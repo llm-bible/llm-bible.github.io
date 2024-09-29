@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Headless Language Models: Learning Without Predicting With Contrastive Weight Tying
+title: Headless Language Models\: Learning Without Predicting With Contrastive Weight Tying
 authors: Godey Nathan, De La Clergerie Éric, Sagot Benoît
 conference: "Arxiv"
 year: 2023

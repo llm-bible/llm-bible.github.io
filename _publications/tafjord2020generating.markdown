@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Proofwriter: Generating Implications, Proofs, And Abductive Statements Over Natural Language
+title: Proofwriter\: Generating Implications, Proofs, And Abductive Statements Over Natural Language
 authors: Tafjord Oyvind, Mishra Bhavana Dalvi, Clark Peter
 conference: "Arxiv"
 year: 2020

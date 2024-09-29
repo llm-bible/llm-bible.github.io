@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Seamless Language Expansion: Enhancing Multilingual Mastery In Self-supervised Models
+title: Seamless Language Expansion\: Enhancing Multilingual Mastery In Self-supervised Models
 authors: Xu Jing, Wu Minglin, Wu Xixin, Meng Helen
 conference: "Arxiv"
 year: 2024

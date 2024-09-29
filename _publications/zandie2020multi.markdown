@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Emptransfo: A Multi-head Transformer Architecture For Creating Empathetic Dialog Systems
+title: Emptransfo\: A Multi-head Transformer Architecture For Creating Empathetic Dialog Systems
 authors: Zandie Rohola, Mahoor Mohammad H.
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Emobench: Evaluating The Emotional Intelligence Of Large Language Models
+title: Emobench\: Evaluating The Emotional Intelligence Of Large Language Models
 authors: Sabour Sahand, Liu Siyang, Zhang Zheyuan, Liu June M., Zhou Jinfeng, Sunaryo Alvionna S., Li Juanzi, Lee Tatia M. C., Mihalcea Rada, Huang Minlie
 conference: "Arxiv"
 year: 2024

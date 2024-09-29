@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: K-PERM: Personalized Response Generation Using Dynamic Knowledge Retrieval And Persona-adaptive Queries
+title: K-PERM\: Personalized Response Generation Using Dynamic Knowledge Retrieval And Persona-adaptive Queries
 authors: Raj Kanak, Roy Kaushik, Bonagiri Vamshi, Govil Priyanshul, Thirunarayanan Krishnaprasad, Gaur Manas
 conference: "Arxiv"
 year: 2023

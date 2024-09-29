@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: K-PLUG: Knowledge-injected Pre-trained Language Model For Natural Language Understanding And Generation In E-commerce
+title: K-PLUG\: Knowledge-injected Pre-trained Language Model For Natural Language Understanding And Generation In E-commerce
 authors: Xu Song, Li Haoran, Yuan Peng, Wang Yujia, Wu Youzheng, He Xiaodong, Liu Ying, Zhou Bowen
 conference: "Arxiv"
 year: 2021

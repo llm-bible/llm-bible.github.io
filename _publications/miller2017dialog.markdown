@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Parlai: A Dialog Research Software Platform
+title: Parlai\: A Dialog Research Software Platform
 authors: Miller Alexander H., Feng Will, Fisch Adam, Lu Jiasen, Batra Dhruv, Bordes Antoine, Parikh Devi, Weston Jason
 conference: "Arxiv"
 year: 2017

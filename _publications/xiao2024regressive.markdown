@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Clover: Regressive Lightweight Speculative Decoding With Sequential Knowledge
+title: Clover\: Regressive Lightweight Speculative Decoding With Sequential Knowledge
 authors: Xiao Bin, Shi Chunan, Nie Xiaonan, Yang Fan, Deng Xiangwei, Su Lei, Chen Weipeng, Cui Bin
 conference: "Arxiv"
 year: 2024

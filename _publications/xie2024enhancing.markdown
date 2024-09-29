@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MEMLA: Enhancing Multilingual Knowledge Editing With Neuron-masked Low-rank Adaptation
+title: MEMLA\: Enhancing Multilingual Knowledge Editing With Neuron-masked Low-rank Adaptation
 authors: Xie Jiakuan, Cao Pengfei, Chen Yuheng, Chen Yubo, Liu Kang, Zhao Jun
 conference: "Arxiv"
 year: 2024

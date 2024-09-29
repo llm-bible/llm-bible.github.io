@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Videoqa In The Era Of Llms: An Empirical Study
+title: Videoqa In The Era Of Llms\: An Empirical Study
 authors: Xiao Junbin, Huang Nanxin, Qin Hangyu, Li Dongyang, Li Yicong, Zhu Fengbin, Tao Zhulin, Yu Jianxing, Lin Liang, Chua Tat-seng, Yao Angela
 conference: "Arxiv"
 year: 2024

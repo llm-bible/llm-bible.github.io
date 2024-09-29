@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Explaining Autonomy: Enhancing Human-robot Interaction Through Explanation Generation With Large Language Models
+title: Explaining Autonomy\: Enhancing Human-robot Interaction Through Explanation Generation With Large Language Models
 authors: Sobrín-hidalgo David, González-santamarta Miguel A., Guerrero-higueras Ángel M., Rodríguez-lera Francisco J., Matellán-olivera Vicente
 conference: "Arxiv"
 year: 2024

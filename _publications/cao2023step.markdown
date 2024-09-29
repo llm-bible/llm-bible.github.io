@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Step Closer To Comprehensive Answers: Constrained Multi-stage Question Decomposition With Large Language Models
+title: A Step Closer To Comprehensive Answers\: Constrained Multi-stage Question Decomposition With Large Language Models
 authors: Cao Hejing, An Zhenwei, Feng Jiazhan, Xu Kun, Chen Liwei, Zhao Dongyan
 conference: "Arxiv"
 year: 2023

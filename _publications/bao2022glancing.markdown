@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: $\(\textit{latent}\)$-glat: Glancing At Latent Variables For Parallel Text Generation
+title: $\(\textit{latent}\)$-glat\: Glancing At Latent Variables For Parallel Text Generation
 authors: Bao Yu, Zhou Hao, Huang Shujian, Wang Dongqi, Qian Lihua, Dai Xinyu, Chen Jiajun, Li Lei
 conference: "Arxiv"
 year: 2022

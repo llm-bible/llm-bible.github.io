@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LIMEADE: From AI Explanations To Advice Taking
+title: LIMEADE\: From AI Explanations To Advice Taking
 authors: Lee Benjamin Charles Germain, Downey Doug, Lo Kyle, Weld Daniel S.
 conference: "Arxiv"
 year: 2020

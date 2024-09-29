@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cones: Concept Embedding Search For Parameter Efficient Tuning Large Vision Language Models
+title: Cones\: Concept Embedding Search For Parameter Efficient Tuning Large Vision Language Models
 authors: Yi Huahui, Qin Ziyuan, Xu Wei, Guo Miaotian, Wang Kun, Zhang Shaoting, Li Kang, Lao Qicheng
 conference: "Arxiv"
 year: 2023

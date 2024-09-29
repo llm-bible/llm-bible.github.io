@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Breaking The Language Barrier: Improving Cross-lingual Reasoning With Structured Self-attention
+title: Breaking The Language Barrier\: Improving Cross-lingual Reasoning With Structured Self-attention
 authors: Foroutan Negar, Banaei Mohammadreza, Aberer Karl, Bosselut Antoine
 conference: "Arxiv"
 year: 2023

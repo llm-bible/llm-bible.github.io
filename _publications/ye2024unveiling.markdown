@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Toolsword: Unveiling Safety Issues Of Large Language Models In Tool Learning Across Three Stages
+title: Toolsword\: Unveiling Safety Issues Of Large Language Models In Tool Learning Across Three Stages
 authors: Ye Junjie, Li Sixian, Li Guanyu, Huang Caishuang, Gao Songyang, Wu Yilong, Zhang Qi, Gui Tao, Huang Xuanjing
 conference: "Proceedings of the"
 year: 2024

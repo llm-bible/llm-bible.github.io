@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LPML: Llm-prompting Markup Language For Mathematical Reasoning
+title: LPML\: Llm-prompting Markup Language For Mathematical Reasoning
 authors: Yamauchi Ryutaro, Sonoda Sho, Sannai Akiyoshi, Kumagai Wataru
 conference: "Arxiv"
 year: 2023

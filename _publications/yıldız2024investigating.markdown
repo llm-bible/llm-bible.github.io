@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating Continual Pretraining In Large Language Models: Insights And Implications
+title: Investigating Continual Pretraining In Large Language Models\: Insights And Implications
 authors: Yıldız Çağatay, Ravichandran Nishaanth Kanna, Punia Prishruit, Bethge Matthias, Ermis Beyza
 conference: "Arxiv"
 year: 2024

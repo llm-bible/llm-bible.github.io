@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: When All Options Are Wrong: Evaluating Large Language Model Robustness With Incorrect Multiple-choice Options
+title: When All Options Are Wrong\: Evaluating Large Language Model Robustness With Incorrect Multiple-choice Options
 authors: Góral Gracjan, Wiśnios Emilia
 conference: "Arxiv"
 year: 2024

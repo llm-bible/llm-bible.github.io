@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reslora: Identity Residual Mapping In Low-rank Adaption
+title: Reslora\: Identity Residual Mapping In Low-rank Adaption
 authors: Shi Shuhua, Huang Shaohan, Song Minghui, Li Zhoujun, Zhang Zihan, Huang Haizhen, Wei Furu, Deng Weiwei, Sun Feng, Zhang Qi
 conference: "Arxiv"
 year: 2024

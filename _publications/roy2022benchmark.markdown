@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Benchclamp: A Benchmark For Evaluating Language Models On Syntactic And Semantic Parsing
+title: Benchclamp\: A Benchmark For Evaluating Language Models On Syntactic And Semantic Parsing
 authors: Roy Subhro, Thomson Sam, Chen Tongfei, Shin Richard, Pauls Adam, Eisner Jason, Van Durme Benjamin
 conference: "Arxiv"
 year: 2022

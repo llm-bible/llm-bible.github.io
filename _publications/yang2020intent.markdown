@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: IART: Intent-aware Response Ranking With Transformers In Information-seeking Conversation Systems
+title: IART\: Intent-aware Response Ranking With Transformers In Information-seeking Conversation Systems
 authors: Yang Liu, Qiu Minghui, Qu Chen, Chen Cen, Guo Jiafeng, Zhang Yongfeng, Croft W. Bruce, Chen Haiqing
 conference: "Arxiv"
 year: 2020

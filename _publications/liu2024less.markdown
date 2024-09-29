@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Less Is More: Data Value Estimation For Visual Instruction Tuning
+title: Less Is More\: Data Value Estimation For Visual Instruction Tuning
 authors: Liu Zikang, Zhou Kun, Zhao Wayne Xin, Gao Dawei, Li Yaliang, Wen Ji-rong
 conference: "Arxiv"
 year: 2024

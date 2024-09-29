@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PLATO: Pre-trained Dialogue Generation Model With Discrete Latent Variable
+title: PLATO\: Pre-trained Dialogue Generation Model With Discrete Latent Variable
 authors: Bao Siqi, He Huang, Wang Fan, Wu Hua, Wang Haifeng
 conference: "Arxiv"
 year: 2019

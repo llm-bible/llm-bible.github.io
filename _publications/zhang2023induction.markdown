@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: IAG: Induction-augmented Generation Framework For Answering Reasoning Questions
+title: IAG\: Induction-augmented Generation Framework For Answering Reasoning Questions
 authors: Zhang Zhebin, Zhang Xinyu, Ren Yuanhang, Shi Saijiang, Han Meng, Wu Yongkang, Lai Ruofei, Cao Zhao
 conference: "Arxiv"
 year: 2023

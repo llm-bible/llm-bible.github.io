@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PMG : Personalized Multimodal Generation With Large Language Models
+title: PMG \: Personalized Multimodal Generation With Large Language Models
 authors: Shen Xiaoteng, Zhang Rui, Zhao Xiaoyan, Zhu Jieming, Xiao Xi
 conference: "Arxiv"
 year: 2024

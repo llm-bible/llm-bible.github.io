@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Nlpbench: Evaluating Large Language Models On Solving NLP Problems
+title: Nlpbench\: Evaluating Large Language Models On Solving NLP Problems
 authors: Song Linxin, Zhang Jieyu, Cheng Lechao, Zhou Pengyuan, Zhou Tianyi, Li Irene
 conference: "Arxiv"
 year: 2023

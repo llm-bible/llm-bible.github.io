@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MT-PATCHER: Selective And Extendable Knowledge Distillation From Large Language Models For Machine Translation
+title: MT-PATCHER\: Selective And Extendable Knowledge Distillation From Large Language Models For Machine Translation
 authors: Li Jiahuan, Cheng Shanbo, Huang Shujian, Chen Jiajun
 conference: "Arxiv"
 year: 2024

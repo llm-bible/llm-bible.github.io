@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zoology: Measuring And Improving Recall In Efficient Language Models
+title: Zoology\: Measuring And Improving Recall In Efficient Language Models
 authors: Arora Simran, Eyuboglu Sabri, Timalsina Aman, Johnson Isys, Poli Michael, Zou James, Rudra Atri, Ré Christopher
 conference: "Arxiv"
 year: 2023

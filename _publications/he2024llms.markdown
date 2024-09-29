@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llms Meet Multimodal Generation And Editing: A Survey
+title: Llms Meet Multimodal Generation And Editing\: A Survey
 authors: He Yingqing, Liu Zhaoyang, Chen Jingye, Tian Zeyue, Liu Hongyu, Chi Xiaowei, Liu Runtao, Yuan Ruibin, Xing Yazhou, Wang Wenhai, Dai Jifeng, Zhang Yong, Xue Wei, Liu Qifeng, Guo Yike, Chen Qifeng
 conference: "Arxiv"
 year: 2024

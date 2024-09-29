@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Growover: How Can Llms Adapt To Growing Real-world Knowledge?
+title: Growover\: How Can Llms Adapt To Growing Real-world Knowledge?
 authors: Ko Dayoon, Kim Jinyoung, Choi Hahyeon, Kim Gunhee
 conference: "Arxiv"
 year: 2024

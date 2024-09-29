@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Keqing: Knowledge-based Question Answering Is A Nature Chain-of-thought Mentor Of LLM
+title: Keqing\: Knowledge-based Question Answering Is A Nature Chain-of-thought Mentor Of LLM
 authors: Wang Chaojie, Xu Yishi, Peng Zhong, Zhang Chenxi, Chen Bo, Wang Xinrun, Feng Lei, An Bo
 conference: "Arxiv"
 year: 2023

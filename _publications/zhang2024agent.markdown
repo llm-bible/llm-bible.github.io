@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Agent-pro: Learning To Evolve Via Policy-level Reflection And Optimization
+title: Agent-pro\: Learning To Evolve Via Policy-level Reflection And Optimization
 authors: Zhang Wenqi, Tang Ke, Wu Hai, Wang Mengna, Shen Yongliang, Hou Guiyang, Tan Zeqi, Li Peng, Zhuang Yueting, Lu Weiming
 conference: "Arxiv"
 year: 2024

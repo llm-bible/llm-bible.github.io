@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Autoguide: Automated Generation And Selection Of State-aware Guidelines For Large Language Model Agents
+title: Autoguide\: Automated Generation And Selection Of State-aware Guidelines For Large Language Model Agents
 authors: Fu Yao, Kim Dong-ki, Kim Jaekyeom, Sohn Sungryull, Logeswaran Lajanugen, Bae Kyunghoon, Lee Honglak
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EAGLE: Elevating Geometric Reasoning Through Llm-empowered Visual Instruction Tuning
+title: EAGLE\: Elevating Geometric Reasoning Through Llm-empowered Visual Instruction Tuning
 authors: Li Zhihao, Du Yao, Liu Yang, Zhang Yan, Liu Yufang, Zhang Mengdi, Cai Xunliang
 conference: "Arxiv"
 year: 2024

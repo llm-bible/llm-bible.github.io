@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating AI For Law: Bridging The Gap With Open-source Solutions
+title: Evaluating AI For Law\: Bridging The Gap With Open-source Solutions
 authors: Bhambhoria Rohan, Dahan Samuel, Li Jonathan, Zhu Xiaodan
 conference: "Arxiv"
 year: 2024

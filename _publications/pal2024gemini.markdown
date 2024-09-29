@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gemini Goes To Med School: Exploring The Capabilities Of Multimodal Large Language Models On Medical Challenge Problems & Hallucinations
+title: Gemini Goes To Med School\: Exploring The Capabilities Of Multimodal Large Language Models On Medical Challenge Problems & Hallucinations
 authors: Pal Ankit, Sankarasubbu Malaikannan
 conference: "Arxiv"
 year: 2024

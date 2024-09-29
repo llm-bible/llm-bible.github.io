@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Life Cycle Of Knowledge In Big Language Models: A Survey
+title: The Life Cycle Of Knowledge In Big Language Models\: A Survey
 authors: Cao Boxi, Lin Hongyu, Han Xianpei, Sun Le
 conference: "Machine Intelligence Research. vol."
 year: 2023

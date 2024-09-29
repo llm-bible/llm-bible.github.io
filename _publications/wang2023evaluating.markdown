@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MINT: Evaluating Llms In Multi-turn Interaction With Tools And Language Feedback
+title: MINT\: Evaluating Llms In Multi-turn Interaction With Tools And Language Feedback
 authors: Wang Xingyao, Wang Zihan, Liu Jiateng, Chen Yangyi, Yuan Lifan, Peng Hao, Ji Heng
 conference: "Arxiv"
 year: 2023

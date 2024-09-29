@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unimc: A Unified Framework For Long-term Memory Conversation Via Relevance Representation Learning
+title: Unimc\: A Unified Framework For Long-term Memory Conversation Via Relevance Representation Learning
 authors: Zhao Kang, Liu Wei, Luan Jian, Gao Minglei, Qian Li, Teng Hanlin, Wang Bin
 conference: "Arxiv"
 year: 2023

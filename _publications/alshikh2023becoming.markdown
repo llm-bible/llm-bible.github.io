@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Becoming Self-instruct: Introducing Early Stopping Criteria For Minimal Instruct Tuning
+title: Becoming Self-instruct\: Introducing Early Stopping Criteria For Minimal Instruct Tuning
 authors: Alshikh Waseem, Daaboul Manhal, Goddard Kirk, Imel Brock, Kamble Kiran, Kulkarni Parikshith, Russak Melisa
 conference: "Arxiv"
 year: 2023

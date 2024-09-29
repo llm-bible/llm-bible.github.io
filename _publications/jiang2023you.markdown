@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: You Only Forward Once: Prediction And Rationalization In A Single Forward Pass
+title: You Only Forward Once\: Prediction And Rationalization In A Single Forward Pass
 authors: Jiang Han, Duan Junwen, Qu Zhe, Wang Jianxin
 conference: "Arxiv"
 year: 2023

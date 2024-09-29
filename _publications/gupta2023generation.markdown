@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Grace: Generation Using Associated Code Edits
+title: Grace\: Generation Using Associated Code Edits
 authors: Gupta Priyanshu, Khare Avishree, Bajpai Yasharth, Chakraborty Saikat, Gulwani Sumit, Kanade Aditya, Radhakrishna Arjun, Soares Gustavo, Tiwari Ashish
 conference: "Arxiv"
 year: 2023

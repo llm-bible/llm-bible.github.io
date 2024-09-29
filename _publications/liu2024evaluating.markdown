@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mibench: Evaluating Multimodal Large Language Models Over Multiple Images
+title: Mibench\: Evaluating Multimodal Large Language Models Over Multiple Images
 authors: Liu Haowei, Zhang Xi, Xu Haiyang, Shi Yaya, Jiang Chaoya, Yan Ming, Zhang Ji, Huang Fei, Yuan Chunfeng, Li Bing, Hu Weiming
 conference: "Arxiv"
 year: 2024

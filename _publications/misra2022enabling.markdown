@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Minicons: Enabling Flexible Behavioral And Representational Analyses Of Transformer Language Models
+title: Minicons\: Enabling Flexible Behavioral And Representational Analyses Of Transformer Language Models
 authors: Misra Kanishka
 conference: "Arxiv"
 year: 2022

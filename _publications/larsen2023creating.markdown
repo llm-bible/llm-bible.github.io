@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Creating Large Language Model Resistant Exams: Guidelines And Strategies
+title: Creating Large Language Model Resistant Exams\: Guidelines And Strategies
 authors: Larsen Simon Kaare
 conference: "Arxiv"
 year: 2023

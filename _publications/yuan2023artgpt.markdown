@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Artgpt-4: Towards Artistic-understanding Large Vision-language Models With Enhanced Adapter
+title: Artgpt-4\: Towards Artistic-understanding Large Vision-language Models With Enhanced Adapter
 authors: Yuan Zhengqing, He Yunhong, Wang Kun, Ye Yanfang, Sun Lichao
 conference: "Arxiv"
 year: 2023

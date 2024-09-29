@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Language Modeling To Instruction Following: Understanding The Behavior Shift In Llms After Instruction Tuning
+title: From Language Modeling To Instruction Following\: Understanding The Behavior Shift In Llms After Instruction Tuning
 authors: Wu Xuansheng, Yao Wenlin, Chen Jianshu, Pan Xiaoman, Wang Xiaoyang, Liu Ninghao, Yu Dong
 conference: "Arxiv"
 year: 2023

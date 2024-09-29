@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transformers For Low-resource Languages:is F\'eidir Linn!
+title: Transformers For Low-resource Languages\:is F\'eidir Linn!
 authors: Lankford Séamus, Afli Haithem, Way Andy
 conference: "Proceedings of Machine Translation Summit XVIII Research Track"
 year: 2024

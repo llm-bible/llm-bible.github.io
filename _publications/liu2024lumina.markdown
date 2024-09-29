@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lumina-mgpt: Illuminate Flexible Photorealistic Text-to-image Generation With Multimodal Generative Pretraining
+title: Lumina-mgpt\: Illuminate Flexible Photorealistic Text-to-image Generation With Multimodal Generative Pretraining
 authors: Liu Dongyang, Zhao Shitian, Zhuo Le, Lin Weifeng, Qiao Yu, Li Hongsheng, Gao Peng
 conference: "Arxiv"
 year: 2024

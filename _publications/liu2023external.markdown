@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: External Reasoning: Towards Multi-large-language-models Interchangeable Assistance With Human Feedback
+title: External Reasoning\: Towards Multi-large-language-models Interchangeable Assistance With Human Feedback
 authors: Liu Akide
 conference: "Arxiv"
 year: 2023

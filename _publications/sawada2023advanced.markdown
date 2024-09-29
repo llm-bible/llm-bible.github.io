@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ARB: Advanced Reasoning Benchmark For Large Language Models
+title: ARB\: Advanced Reasoning Benchmark For Large Language Models
 authors: Sawada Tomohiro, Paleka Daniel, Havrilla Alexander, Tadepalli Pranav, Vidas Paula, Kranias Alexander, Nay John J., Gupta Kshitij, Komatsuzaki Aran
 conference: "Arxiv"
 year: 2023

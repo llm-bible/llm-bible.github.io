@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rankclip: Ranking-consistent Language-image Pretraining
+title: Rankclip\: Ranking-consistent Language-image Pretraining
 authors: Zhang Yiming, Zhao Zhuokai, Chen Zhaorun, Feng Zhili, Ding Zenghui, Sun Yining
 conference: "Arxiv"
 year: 2024

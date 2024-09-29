@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Judgelm: Fine-tuned Large Language Models Are Scalable Judges
+title: Judgelm\: Fine-tuned Large Language Models Are Scalable Judges
 authors: Zhu Lianghui, Wang Xinggang, Wang Xinlong
 conference: "Arxiv"
 year: 2023

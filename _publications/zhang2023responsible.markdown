@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Responsible Task Automation: Empowering Large Language Models As Responsible Task Automators
+title: Responsible Task Automation\: Empowering Large Language Models As Responsible Task Automators
 authors: Zhang Zhizheng, Zhang Xiaoyi, Xie Wenxuan, Lu Yan
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Simple Is Better And Large Is Not Enough: Towards Ensembling Of Foundational Language Models
+title: Simple Is Better And Large Is Not Enough\: Towards Ensembling Of Foundational Language Models
 authors: Tyagi Nancy, Shiri Aidin, Sarkar Surjodeep, Umrawal Abhishek Kumar, Gaur Manas
 conference: "Arxiv"
 year: 2023

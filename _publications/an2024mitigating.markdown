@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AGLA: Mitigating Object Hallucinations In Large Vision-language Models With Assembly Of Global And Local Attention
+title: AGLA\: Mitigating Object Hallucinations In Large Vision-language Models With Assembly Of Global And Local Attention
 authors: Wenbin An, Feng Tian, Sicong Leng, Jiahao Nie, Haonan Lin, Qianying Wang, Guang Dai, Ping Chen, Shijian Lu
 conference: "Arxiv"
 year: 2024

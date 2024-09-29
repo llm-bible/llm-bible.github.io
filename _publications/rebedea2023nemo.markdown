@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Nemo Guardrails: A Toolkit For Controllable And Safe LLM Applications With Programmable Rails
+title: Nemo Guardrails\: A Toolkit For Controllable And Safe LLM Applications With Programmable Rails
 authors: Rebedea Traian, Dinu Razvan, Sreedhar Makesh, Parisien Christopher, Cohen Jonathan
 conference: "Arxiv"
 year: 2023

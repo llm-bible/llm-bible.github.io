@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: S$^3$c-math: Spontaneous Step-level Self-correction Makes Large Language Models Better Mathematical Reasoners
+title: S$^3$c-math\: Spontaneous Step-level Self-correction Makes Large Language Models Better Mathematical Reasoners
 authors: Yan Yuchen, Jiang Jin, Liu Yang, Cao Yixin, Xu Xin, Zhang Mengdi, Cai Xunliang, Shao Jian
 conference: "Arxiv"
 year: 2024

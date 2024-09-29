@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Apt-pipe: A Prompt-tuning Tool For Social Data Annotation Using Chatgpt
+title: Apt-pipe\: A Prompt-tuning Tool For Social Data Annotation Using Chatgpt
 authors: Zhu Yiming, Yin Zhizhuo, Tyson Gareth, Haq Ehsan-ul, Lee Lik-hang, Hui Pan
 conference: "Arxiv"
 year: 2024

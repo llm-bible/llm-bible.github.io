@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Stablemask: Refining Causal Masking In Decoder-only Transformer
+title: Stablemask\: Refining Causal Masking In Decoder-only Transformer
 authors: Yin Qingyu, He Xuzheng, Zhuang Xiang, Zhao Yu, Yao Jianhua, Shen Xiaoyu, Zhang Qiang
 conference: "Arxiv"
 year: 2024

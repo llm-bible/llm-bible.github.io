@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MAPO: Advancing Multilingual Reasoning Through Multilingual Alignment-as-preference Optimization
+title: MAPO\: Advancing Multilingual Reasoning Through Multilingual Alignment-as-preference Optimization
 authors: She Shuaijie, Zou Wei, Huang Shujian, Zhu Wenhao, Liu Xiang, Geng Xiang, Chen Jiajun
 conference: "Arxiv"
 year: 2024

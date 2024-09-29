@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Large Language Models With Grid-based Game Competitions: An Extensible LLM Benchmark And Leaderboard
+title: Evaluating Large Language Models With Grid-based Game Competitions\: An Extensible LLM Benchmark And Leaderboard
 authors: Topsakal Oguzhan, Edell Colby Jacob, Harper Jackson Bailey
 conference: "Arxiv"
 year: 2024

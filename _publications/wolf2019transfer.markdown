@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transfertransfo: A Transfer Learning Approach For Neural Network Based Conversational Agents
+title: Transfertransfo\: A Transfer Learning Approach For Neural Network Based Conversational Agents
 authors: Wolf Thomas, Sanh Victor, Chaumond Julien, Delangue Clement
 conference: "Arxiv"
 year: 2019

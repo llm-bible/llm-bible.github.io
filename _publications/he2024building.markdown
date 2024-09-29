@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Webvoyager: Building An End-to-end Web Agent With Large Multimodal Models
+title: Webvoyager\: Building An End-to-end Web Agent With Large Multimodal Models
 authors: He Hongliang, Yao Wenlin, Ma Kaixin, Yu Wenhao, Dai Yong, Zhang Hongming, Lan Zhenzhong, Yu Dong
 conference: "Arxiv"
 year: 2024

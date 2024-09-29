@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Steering Llms Towards Unbiased Responses: A Causality-guided Debiasing Framework
+title: Steering Llms Towards Unbiased Responses\: A Causality-guided Debiasing Framework
 authors: Li Jingling, Tang Zeyu, Liu Xiaoyu, Spirtes Peter, Zhang Kun, Leqi Liu, Liu Yang
 conference: "Arxiv"
 year: 2024

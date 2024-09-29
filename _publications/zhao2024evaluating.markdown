@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Wildhallucinations: Evaluating Long-form Factuality In Llms With Real-world Entity Queries
+title: Wildhallucinations\: Evaluating Long-form Factuality In Llms With Real-world Entity Queries
 authors: Zhao Wenting, Goyal Tanya, Chiu Yu Ying, Jiang Liwei, Newman Benjamin, Ravichander Abhilasha, Chandu Khyathi, Bras Ronan Le, Cardie Claire, Deng Yuntian, Choi Yejin
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llama-adapter V2: Parameter-efficient Visual Instruction Model
+title: Llama-adapter V2\: Parameter-efficient Visual Instruction Model
 authors: Gao Peng, Han Jiaming, Zhang Renrui, Lin Ziyi, Geng Shijie, Zhou Aojun, Zhang Wei, Lu Pan, He Conghui, Yue Xiangyu, Li Hongsheng, Qiao Yu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Moma: Multimodal LLM Adapter For Fast Personalized Image Generation
+title: Moma\: Multimodal LLM Adapter For Fast Personalized Image Generation
 authors: Song Kunpeng, Zhu Yizhe, Liu Bingchen, Yan Qing, Elgammal Ahmed, Yang Xiao
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instruct-skillmix: A Powerful Pipeline For LLM Instruction Tuning
+title: Instruct-skillmix\: A Powerful Pipeline For LLM Instruction Tuning
 authors: Kaur Simran, Park Simon, Goyal Anirudh, Arora Sanjeev
 conference: "Arxiv"
 year: 2024

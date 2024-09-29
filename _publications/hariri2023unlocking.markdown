@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unlocking The Potential Of Chatgpt: A Comprehensive Exploration Of Its Applications, Advantages, Limitations, And Future Directions In Natural Language Processing
+title: Unlocking The Potential Of Chatgpt\: A Comprehensive Exploration Of Its Applications, Advantages, Limitations, And Future Directions In Natural Language Processing
 authors: Hariri Walid
 conference: "Arxiv"
 year: 2023

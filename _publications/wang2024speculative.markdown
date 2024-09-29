@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Speculative RAG: Enhancing Retrieval Augmented Generation Through Drafting
+title: Speculative RAG\: Enhancing Retrieval Augmented Generation Through Drafting
 authors: Wang Zilong, Wang Zifeng, Le Long, Zheng Huaixiu Steven, Mishra Swaroop, Perot Vincent, Zhang Yuwei, Mattapalli Anush, Taly Ankur, Shang Jingbo, Lee Chen-yu, Pfister Tomas
 conference: "Arxiv"
 year: 2024

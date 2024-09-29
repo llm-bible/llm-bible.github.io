@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mixed Sparsity Training: Achieving 4$\(\times\)$ FLOP Reduction For Transformer Pretraining
+title: Mixed Sparsity Training\: Achieving 4$\(\times\)$ FLOP Reduction For Transformer Pretraining
 authors: Hu Pihe, Li Shaolong, Huang Longbo
 conference: "Arxiv"
 year: 2024

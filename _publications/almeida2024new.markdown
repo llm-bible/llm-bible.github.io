@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sabi\'a-2: A New Generation Of Portuguese Large Language Models
+title: Sabi\'a-2\: A New Generation Of Portuguese Large Language Models
 authors: Almeida Thales Sales, Abonizio Hugo, Nogueira Rodrigo, Pires Ramon
 conference: "Arxiv"
 year: 2024

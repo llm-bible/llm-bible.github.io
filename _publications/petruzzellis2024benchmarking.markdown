@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Benchmarking GPT-4 On Algorithmic Problems: A Systematic Evaluation Of Prompting Strategies
+title: Benchmarking GPT-4 On Algorithmic Problems\: A Systematic Evaluation Of Prompting Strategies
 authors: Petruzzellis Flavio, Testolin Alberto, Sperduti Alessandro
 conference: "Arxiv"
 year: 2024

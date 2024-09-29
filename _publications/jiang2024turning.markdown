@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Turning Generative Models Degenerate: The Power Of Data Poisoning Attacks
+title: Turning Generative Models Degenerate\: The Power Of Data Poisoning Attacks
 authors: Jiang Shuli, Kadhe Swanand Ravindra, Zhou Yi, Ahmed Farhan, Cai Ling, Baracaldo Nathalie
 conference: "Arxiv"
 year: 2024

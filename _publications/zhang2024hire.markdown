@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hire A Linguist!: Learning Endangered Languages With In-context Linguistic Descriptions
+title: Hire A Linguist!\: Learning Endangered Languages With In-context Linguistic Descriptions
 authors: Zhang Kexun, Choi Yee Man, Song Zhenqiao, He Taiqi, Wang William Yang, Li Lei
 conference: "Arxiv"
 year: 2024

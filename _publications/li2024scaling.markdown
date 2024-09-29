@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Focusllm: Scaling Llm's Context By Parallel Decoding
+title: Focusllm\: Scaling Llm's Context By Parallel Decoding
 authors: Li Zhenyu, Zhang Yike, Pan Tengyu, Sun Yutao, Duan Zhichao, Fang Junjie, Han Rong, Wang Zixuan, Wang Jianyong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Huggingface's Transformers: State-of-the-art Natural Language Processing
+title: Huggingface's Transformers\: State-of-the-art Natural Language Processing
 authors: Wolf Thomas, Debut Lysandre, Sanh Victor, Chaumond Julien, Delangue Clement, Moi Anthony, Cistac Pierric, Rault Tim, Louf Rémi, Funtowicz Morgan, Davison Joe, Shleifer Sam, Von Platen Patrick, Ma Clara, Jernite Yacine, Plu Julien, Xu Canwen, Scao Teven Le, Gugger Sylvain, Drame Mariama, Lhoest Quentin, Rush Alexander M.
 conference: "Arxiv"
 year: 2019

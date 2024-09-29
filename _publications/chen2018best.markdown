@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Best Of Both Worlds: Combining Recent Advances In Neural Machine Translation
+title: The Best Of Both Worlds\: Combining Recent Advances In Neural Machine Translation
 authors: Chen Mia Xu, Firat Orhan, Bapna Ankur, Johnson Melvin, Macherey Wolfgang, Foster George, Jones Llion, Parmar Niki, Schuster Mike, Chen Zhifeng, Wu Yonghui, Hughes Macduff
 conference: "Arxiv"
 year: 2018

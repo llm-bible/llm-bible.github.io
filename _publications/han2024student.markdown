@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RECIPE4U: Student-chatgpt Interaction Dataset In EFL Writing Education
+title: RECIPE4U\: Student-chatgpt Interaction Dataset In EFL Writing Education
 authors: Han Jieun, Yoo Haneul, Myung Junho, Kim Minsun, Lee Tak Yeon, Ahn So-yeon, Oh Alice
 conference: "Arxiv"
 year: 2024

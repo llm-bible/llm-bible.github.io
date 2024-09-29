@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fintral: A Family Of GPT-4 Level Multimodal Financial Large Language Models
+title: Fintral\: A Family Of GPT-4 Level Multimodal Financial Large Language Models
 authors: Bhatia Gagan, Nagoudi El Moatez Billah, Cavusoglu Hasan, Abdul-mageed Muhammad
 conference: "Arxiv"
 year: 2024

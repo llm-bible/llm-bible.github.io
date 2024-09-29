@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llamoco: Instruction Tuning Of Large Language Models For Optimization Code Generation
+title: Llamoco\: Instruction Tuning Of Large Language Models For Optimization Code Generation
 authors: Ma Zeyuan, Guo Hongshu, Chen Jiacheng, Peng Guojun, Cao Zhiguang, Ma Yining, Gong Yue-jiao
 conference: "Arxiv"
 year: 2024

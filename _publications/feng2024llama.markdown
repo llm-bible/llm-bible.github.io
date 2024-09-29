@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llama-vits: Enhancing TTS Synthesis With Semantic Awareness
+title: Llama-vits\: Enhancing TTS Synthesis With Semantic Awareness
 authors: Feng Xincan, Yoshimoto Akifumi
 conference: "Arxiv"
 year: 2024

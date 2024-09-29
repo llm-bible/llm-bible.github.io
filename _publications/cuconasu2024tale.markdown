@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Tale Of Trust And Accuracy: Base Vs. Instruct Llms In RAG Systems
+title: A Tale Of Trust And Accuracy\: Base Vs. Instruct Llms In RAG Systems
 authors: Cuconasu Florin, Trappolini Giovanni, Tonellotto Nicola, Silvestri Fabrizio
 conference: "Arxiv"
 year: 2024

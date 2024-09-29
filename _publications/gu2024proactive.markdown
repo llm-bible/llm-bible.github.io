@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Inquire, Interact, And Integrate: A Proactive Agent Collaborative Framework For Zero-shot Multimodal Medical Reasoning
+title: Inquire, Interact, And Integrate\: A Proactive Agent Collaborative Framework For Zero-shot Multimodal Medical Reasoning
 authors: Gu Zishan, Liu Fenglin, Yin Changchang, Zhang Ping
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating Multilingual Instruction-tuning: Do Polyglot Models Demand For Multilingual Instructions?
+title: Investigating Multilingual Instruction-tuning\: Do Polyglot Models Demand For Multilingual Instructions?
 authors: Weber Alexander Arno, Thellmann Klaudia, Ebert Jan, Flores-herr Nicolas, Lehmann Jens, Fromm Michael, Ali Mehdi
 conference: "Arxiv"
 year: 2024

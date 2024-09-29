@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Tale Of Tails: Model Collapse As A Change Of Scaling Laws
+title: A Tale Of Tails\: Model Collapse As A Change Of Scaling Laws
 authors: Dohmatob Elvis, Feng Yunzhen, Yang Pu, Charton Francois, Kempe Julia
 conference: "ICML"
 year: 2024

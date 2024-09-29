@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Teams-rl: Teaching Llms To Generate Better Instruction Datasets Via Reinforcement Learning
+title: Teams-rl\: Teaching Llms To Generate Better Instruction Datasets Via Reinforcement Learning
 authors: Gu Shangding, Knoll Alois, Jin Ming
 conference: "Arxiv"
 year: 2024

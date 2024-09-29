@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From GPT-4 To Gemini And Beyond: Assessing The Landscape Of Mllms On Generalizability, Trustworthiness And Causality Through Four Modalities
+title: From GPT-4 To Gemini And Beyond\: Assessing The Landscape Of Mllms On Generalizability, Trustworthiness And Causality Through Four Modalities
 authors: Lu Chaochao, Qian Chen, Zheng Guodong, Fan Hongxing, Gao Hongzhi, Zhang Jie, Shao Jing, Deng Jingyi, Fu Jinlan, Huang Kexin, Li Kunchang, Li Lijun, Wang Limin, Sheng Lu, Chen Meiqi, Zhang Ming, Ren Qibing, Chen Sirui, Gui Tao, Ouyang Wanli, Wang Yali, Teng Yan, Wang Yaru, Wang Yi, He Yinan, Wang Yingchun, Wang Yixu, Zhang Yongting, Qiao Yu, Shen Yujiong, Mou Yurong, Chen Yuxi, Zhang Zaibin, Shi Zhelun, Yin Zhenfei, Wang Zhipin
 conference: "Arxiv"
 year: 2024

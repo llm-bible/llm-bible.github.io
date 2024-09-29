@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Noiseboost: Alleviating Hallucination With Noise Perturbation For Multimodal Large Language Models
+title: Noiseboost\: Alleviating Hallucination With Noise Perturbation For Multimodal Large Language Models
 authors: Wu Kai, Jiang Boyuan, Jiang Zhengkai, He Qingdong, Luo Donghao, Wang Shengzhi, Liu Qingwen, Wang Chengjie
 conference: "Arxiv"
 year: 2024

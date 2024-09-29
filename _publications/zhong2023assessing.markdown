@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mquake: Assessing Knowledge Editing In Language Models Via Multi-hop Questions
+title: Mquake\: Assessing Knowledge Editing In Language Models Via Multi-hop Questions
 authors: Zhong Zexuan, Wu Zhengxuan, Manning Christopher D., Potts Christopher, Chen Danqi
 conference: "Arxiv"
 year: 2023

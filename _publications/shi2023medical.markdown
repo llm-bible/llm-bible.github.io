@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MKRAG: Medical Knowledge Retrieval Augmented Generation For Medical Question Answering
+title: MKRAG\: Medical Knowledge Retrieval Augmented Generation For Medical Question Answering
 authors: Shi Yucheng, Xu Shaochen, Yang Tianze, Liu Zhengliang, Liu Tianming, Li Quanzheng, Li Xiang, Liu Ninghao
 conference: "Arxiv"
 year: 2023

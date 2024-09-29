@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cogview2: Faster And Better Text-to-image Generation Via Hierarchical Transformers
+title: Cogview2\: Faster And Better Text-to-image Generation Via Hierarchical Transformers
 authors: Ding Ming, Zheng Wendi, Hong Wenyi, Tang Jie
 conference: "Arxiv"
 year: 2022

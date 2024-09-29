@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Don't Believe Everything You Read: Enhancing Summarization Interpretability Through Automatic Identification Of Hallucinations In Large Language Models
+title: Don't Believe Everything You Read\: Enhancing Summarization Interpretability Through Automatic Identification Of Hallucinations In Large Language Models
 authors: Vakharia Priyesh, Joshi Devavrat, Chavan Meenal, Sonawane Dhananjay, Garg Bhrigu, Mazaheri Parsa
 conference: "Arxiv"
 year: 2023

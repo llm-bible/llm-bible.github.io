@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring The Impact Of Large Language Models On Recommender Systems: An Extensive Review
+title: Exploring The Impact Of Large Language Models On Recommender Systems\: An Extensive Review
 authors: Arpita Vats, Vinija Jain, Rahul Raja, Aman Chadha
 conference: "Arxiv"
 year: 2024

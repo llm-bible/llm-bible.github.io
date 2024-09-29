@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FSMR: A Feature Swapping Multi-modal Reasoning Approach With Joint Textual And Visual Clues
+title: FSMR\: A Feature Swapping Multi-modal Reasoning Approach With Joint Textual And Visual Clues
 authors: Li Shuang, Wang Jiahua, Wen Lijie
 conference: "Arxiv"
 year: 2024

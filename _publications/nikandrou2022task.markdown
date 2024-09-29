@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Task Formulation Matters When Learning Continually: A Case Study In Visual Question Answering
+title: Task Formulation Matters When Learning Continually\: A Case Study In Visual Question Answering
 authors: Nikandrou Mavina, Yu Lu, Suglia Alessandro, Konstas Ioannis, Rieser Verena
 conference: "Arxiv"
 year: 2022

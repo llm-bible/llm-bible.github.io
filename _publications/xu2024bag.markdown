@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bag Of Tricks: Benchmarking Of Jailbreak Attacks On Llms
+title: Bag Of Tricks\: Benchmarking Of Jailbreak Attacks On Llms
 authors: Xu Zhao, Liu Fan, Liu Hao
 conference: "Arxiv"
 year: 2024

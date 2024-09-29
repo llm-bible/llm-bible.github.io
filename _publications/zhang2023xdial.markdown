@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Xdial-eval: A Multilingual Open-domain Dialogue Evaluation Benchmark
+title: Xdial-eval\: A Multilingual Open-domain Dialogue Evaluation Benchmark
 authors: Zhang Chen, D'haro Luis Fernando, Tang Chengguang, Shi Ke, Tang Guohua, Li Haizhou
 conference: "Arxiv"
 year: 2023

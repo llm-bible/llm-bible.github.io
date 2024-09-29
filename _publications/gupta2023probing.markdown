@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Probing Quantifier Comprehension In Large Language Models: Another Example Of Inverse Scaling
+title: Probing Quantifier Comprehension In Large Language Models\: Another Example Of Inverse Scaling
 authors: Gupta Akshat
 conference: "Arxiv"
 year: 2023

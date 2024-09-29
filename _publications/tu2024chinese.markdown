@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Charactereval: A Chinese Benchmark For Role-playing Conversational Agent Evaluation
+title: Charactereval\: A Chinese Benchmark For Role-playing Conversational Agent Evaluation
 authors: Tu Quan, Fan Shilong, Tian Zihang, Yan Rui
 conference: "Arxiv"
 year: 2024

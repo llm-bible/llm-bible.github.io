@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Kieval: A Knowledge-grounded Interactive Evaluation Framework For Large Language Models
+title: Kieval\: A Knowledge-grounded Interactive Evaluation Framework For Large Language Models
 authors: Yu Zhuohao, Gao Chang, Yao Wenjin, Wang Yidong, Ye Wei, Wang Jindong, Xie Xing, Zhang Yue, Zhang Shikun
 conference: "Arxiv"
 year: 2024

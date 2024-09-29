@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Librisqa: A Novel Dataset And Framework For Spoken Question Answering With Large Language Models
+title: Librisqa\: A Novel Dataset And Framework For Spoken Question Answering With Large Language Models
 authors: Zhao Zihan, Jiang Yiyang, Liu Heyang, Wang Yanfeng, Wang Yu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LILO: Learning Interpretable Libraries By Compressing And Documenting Code
+title: LILO\: Learning Interpretable Libraries By Compressing And Documenting Code
 authors: Grand Gabriel, Wong Lionel, Bowers Maddy, Olausson Theo X., Liu Muxin, Tenenbaum Joshua B., Andreas Jacob
 conference: "Arxiv"
 year: 2023

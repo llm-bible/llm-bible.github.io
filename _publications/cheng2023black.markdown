@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Black-box Prompt Optimization: Aligning Large Language Models Without Model Training
+title: Black-box Prompt Optimization\: Aligning Large Language Models Without Model Training
 authors: Cheng Jiale, Liu Xiao, Zheng Kehan, Ke Pei, Wang Hongning, Dong Yuxiao, Tang Jie, Huang Minlie
 conference: "Arxiv"
 year: 2023

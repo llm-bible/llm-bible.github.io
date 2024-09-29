@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Xlam: A Family Of Large Action Models To Empower AI Agent Systems
+title: Xlam\: A Family Of Large Action Models To Empower AI Agent Systems
 authors: Zhang Jianguo, Lan Tian, Zhu Ming, Liu Zuxin, Hoang Thai, Kokane Shirley, Yao Weiran, Tan Juntao, Prabhakar Akshara, Chen Haolin, Liu Zhiwei, Feng Yihao, Awalgaonkar Tulika, Murthy Rithesh, Hu Eric, Chen Zeyuan, Xu Ran, Niebles Juan Carlos, Heinecke Shelby, Wang Huan, Savarese Silvio, Xiong Caiming
 conference: "Arxiv"
 year: 2024

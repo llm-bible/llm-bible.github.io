@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LION : Empowering Multimodal Large Language Model With Dual-level Visual Knowledge
+title: LION \: Empowering Multimodal Large Language Model With Dual-level Visual Knowledge
 authors: Chen Gongwei, Shen Leyang, Shao Rui, Deng Xiang, Nie Liqiang
 conference: "Arxiv"
 year: 2023

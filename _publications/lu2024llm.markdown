@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM Discussion: Enhancing The Creativity Of Large Language Models Via Discussion Framework And Role-play
+title: LLM Discussion\: Enhancing The Creativity Of Large Language Models Via Discussion Framework And Role-play
 authors: Lu Li-chun, Chen Shou-jen, Pai Tsung-min, Yu Chan-hung, Lee Hung-yi, Sun Shao-hua
 conference: "Arxiv"
 year: 2024

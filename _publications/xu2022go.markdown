@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Go-tuning: Improving Zero-shot Learning Abilities Of Smaller Language Models
+title: Go-tuning\: Improving Zero-shot Learning Abilities Of Smaller Language Models
 authors: Xu Jingjing, Dong Qingxiu, Liu Hongyi, Li Lei
 conference: "Arxiv"
 year: 2022

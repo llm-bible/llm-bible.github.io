@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Robustness Of Llm-synthetic Text Detectors For Academic Writing: A Comprehensive Analysis
+title: Enhancing Robustness Of Llm-synthetic Text Detectors For Academic Writing\: A Comprehensive Analysis
 authors: Dou Zhicheng, Guo Yuchen, Chang Ching-chun, Nguyen Huy H., Echizen Isao
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Memorag: Moving Towards Next-gen RAG Via Memory-inspired Knowledge Discovery
+title: Memorag\: Moving Towards Next-gen RAG Via Memory-inspired Knowledge Discovery
 authors: Qian Hongjin, Zhang Peitian, Liu Zheng, Mao Kelong, Dou Zhicheng
 conference: "Arxiv"
 year: 2024

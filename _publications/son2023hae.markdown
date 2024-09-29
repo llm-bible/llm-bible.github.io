@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: HAE-RAE Bench: Evaluation Of Korean Knowledge In Language Models
+title: HAE-RAE Bench\: Evaluation Of Korean Knowledge In Language Models
 authors: Son Guijin, Lee Hanwool, Kim Suwan, Kim Huiseo, Lee Jaecheol, Yeom Je Won, Jung Jihyu, Kim Jung Woo, Kim Songseong
 conference: "Arxiv"
 year: 2023

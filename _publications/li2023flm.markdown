@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FLM-101B: An Open LLM And How To Train It With $100K Budget
+title: FLM-101B\: An Open LLM And How To Train It With $100K Budget
 authors: Li Xiang, Yao Yiqun, Jiang Xin, Fang Xuezhi, Meng Xuying, Fan Siqi, Han Peng, Li Jing, Du Li, Qin Bowen, Zhang Zheng, Sun Aixin, Wang Yequan
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Grillbot In Practice: Lessons And Tradeoffs Deploying Large Language Models For Adaptable Conversational Task Assistants
+title: Grillbot In Practice\: Lessons And Tradeoffs Deploying Large Language Models For Adaptable Conversational Task Assistants
 authors: Fischer Sophie, Gemmell Carlos, Tecklenburg Niklas, Mackie Iain, Rossetto Federico, Dalton Jeffrey
 conference: "Arxiv"
 year: 2024

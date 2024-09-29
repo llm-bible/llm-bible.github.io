@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Constitutionalexperts: Training A Mixture Of Principle-based Prompts
+title: Constitutionalexperts\: Training A Mixture Of Principle-based Prompts
 authors: Petridis Savvas, Wedin Ben, Yuan Ann, Wexler James, Thain Nithum
 conference: "Arxiv"
 year: 2024

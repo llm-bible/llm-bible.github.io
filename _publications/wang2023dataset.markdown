@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Notechat: A Dataset Of Synthetic Doctor-patient Conversations Conditioned On Clinical Notes
+title: Notechat\: A Dataset Of Synthetic Doctor-patient Conversations Conditioned On Clinical Notes
 authors: Wang Junda, Yao Zonghai, Yang Zhichao, Zhou Huixue, Li Rumeng, Wang Xun, Xu Yucheng, Yu Hong
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative Artificial Intelligence In Higher Education: Evidence From An Analysis Of Institutional Policies And Guidelines
+title: Generative Artificial Intelligence In Higher Education\: Evidence From An Analysis Of Institutional Policies And Guidelines
 authors: Mcdonald Nora, Johri Aditya, Ali Areej, Hingle Aayushi
 conference: "Arxiv"
 year: 2024

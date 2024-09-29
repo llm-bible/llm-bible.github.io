@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Getting Inspiration For Feature Elicitation: App Store- Vs. Llm-based Approach
+title: Getting Inspiration For Feature Elicitation\: App Store- Vs. Llm-based Approach
 authors: Wei Jialiang, Courbis Anne-lise, Lambolais Thomas, Xu Binbin, Bernard Pierre Louis, Dray Gérard, Maalej Walid
 conference: "Arxiv"
 year: 2024

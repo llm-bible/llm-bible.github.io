@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SESCORE2: Learning Text Generation Evaluation Via Synthesizing Realistic Mistakes
+title: SESCORE2\: Learning Text Generation Evaluation Via Synthesizing Realistic Mistakes
 authors: Xu Wenda, Qian Xian, Wang Mingxuan, Li Lei, Wang William Yang
 conference: "Arxiv"
 year: 2022

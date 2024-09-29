@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Glore: When, Where, And How To Improve LLM Reasoning Via Global And Local Refinements
+title: Glore\: When, Where, And How To Improve LLM Reasoning Via Global And Local Refinements
 authors: Havrilla Alex, Raparthy Sharath, Nalmpantis Christoforus, Dwivedi-yu Jane, Zhuravinskyi Maksym, Hambro Eric, Raileanu Roberta
 conference: "Arxiv"
 year: 2024

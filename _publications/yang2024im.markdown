@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: IM-RAG: Multi-round Retrieval-augmented Generation Through Learning Inner Monologues
+title: IM-RAG\: Multi-round Retrieval-augmented Generation Through Learning Inner Monologues
 authors: Yang Diji, Rao Jinmeng, Chen Kezhen, Guo Xiaoyuan, Zhang Yawen, Yang Jie, Zhang Yi
 conference: "Arxiv"
 year: 2024

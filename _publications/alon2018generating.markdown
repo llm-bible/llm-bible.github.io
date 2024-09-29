@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Code2seq: Generating Sequences From Structured Representations Of Code
+title: Code2seq\: Generating Sequences From Structured Representations Of Code
 authors: Alon Uri, Brody Shaked, Levy Omer, Yahav Eran
 conference: "Arxiv"
 year: 2018

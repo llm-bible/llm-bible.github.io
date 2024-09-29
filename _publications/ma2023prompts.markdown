@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: POS: A Prompts Optimization Suite For Augmenting Text-to-video Generation
+title: POS\: A Prompts Optimization Suite For Augmenting Text-to-video Generation
 authors: Ma Shijie, Xu Huayi, Li Mengjian, Geng Weidong, Wang Yaxiong, Wang Meng
 conference: "Arxiv"
 year: 2023

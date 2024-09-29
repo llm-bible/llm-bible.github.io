@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gptaraeval: A Comprehensive Evaluation Of Chatgpt On Arabic NLP
+title: Gptaraeval\: A Comprehensive Evaluation Of Chatgpt On Arabic NLP
 authors: Khondaker Md Tawkat Islam, Waheed Abdul, Nagoudi El Moatez Billah, Abdul-mageed Muhammad
 conference: "Arxiv"
 year: 2023

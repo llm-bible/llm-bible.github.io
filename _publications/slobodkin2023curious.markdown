@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Curious Case Of Hallucinatory (un)answerability: Finding Truths In The Hidden States Of Over-confident Large Language Models
+title: The Curious Case Of Hallucinatory (un)answerability\: Finding Truths In The Hidden States Of Over-confident Large Language Models
 authors: Slobodkin Aviv, Goldman Omer, Caciularu Avi, Dagan Ido, Ravfogel Shauli
 conference: "Arxiv"
 year: 2023

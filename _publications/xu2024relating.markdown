@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Relating The Seemingly Unrelated: Principled Understanding Of Generalization For Generative Models In Arithmetic Reasoning Tasks
+title: Relating The Seemingly Unrelated\: Principled Understanding Of Generalization For Generative Models In Arithmetic Reasoning Tasks
 authors: Xu Xingcheng, Zhao Zibo, Zhang Haipeng, Yang Yanqing
 conference: "Arxiv"
 year: 2024

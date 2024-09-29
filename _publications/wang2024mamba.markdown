@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Mamba In The Llama: Distilling And Accelerating Hybrid Models
+title: The Mamba In The Llama\: Distilling And Accelerating Hybrid Models
 authors: Wang Junxiong, Paliotta Daniele, May Avner, Rush Alexander M., Dao Tri
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Phantom: Personality Has An Effect On Theory-of-mind Reasoning In Large Language Models
+title: Phantom\: Personality Has An Effect On Theory-of-mind Reasoning In Large Language Models
 authors: Tan Fiona Anting, Yeo Gerard Christopher, Wu Fanyou, Xu Weijie, Jain Vinija, Chadha Aman, Jaidka Kokil, Liu Yang, Ng See-kiong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Picturing Ambiguity: A Visual Twist On The Winograd Schema Challenge
+title: Picturing Ambiguity\: A Visual Twist On The Winograd Schema Challenge
 authors: Park Brendan, Janecek Madeline, Ezzati-jivan Naser, Li Yifeng, Emami Ali
 conference: "Arxiv"
 year: 2024

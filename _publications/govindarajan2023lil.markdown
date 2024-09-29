@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lil-bevo: Explorations Of Strategies For Training Language Models In More Humanlike Ways
+title: Lil-bevo\: Explorations Of Strategies For Training Language Models In More Humanlike Ways
 authors: Govindarajan Venkata S, Rodriguez Juan Diego, Bostrom Kaj, Mahowald Kyle
 conference: "Arxiv"
 year: 2023

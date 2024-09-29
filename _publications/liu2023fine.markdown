@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Goat: Fine-tuned Llama Outperforms GPT-4 On Arithmetic Tasks
+title: Goat\: Fine-tuned Llama Outperforms GPT-4 On Arithmetic Tasks
 authors: Liu Tiedong, Low Bryan Kian Hsiang
 conference: "Arxiv"
 year: 2023

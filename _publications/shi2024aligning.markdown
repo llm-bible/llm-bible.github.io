@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Wildfeedback: Aligning Llms With In-situ User Interactions And Feedback
+title: Wildfeedback\: Aligning Llms With In-situ User Interactions And Feedback
 authors: Shi Taiwei, Wang Zhuoer, Yang Longqi, Lin Ying-chun, He Zexue, Wan Mengting, Zhou Pei, Jauhar Sujay, Xu Xiaofeng, Song Xia, Neville Jennifer
 conference: "Arxiv"
 year: 2024

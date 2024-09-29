@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: World-to-words: Grounded Open Vocabulary Acquisition Through Fast Mapping In Vision-language Models
+title: World-to-words\: Grounded Open Vocabulary Acquisition Through Fast Mapping In Vision-language Models
 authors: Ma Ziqiao, Pan Jiayi, Chai Joyce
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: JAB: Joint Adversarial Prompting And Belief Augmentation
+title: JAB\: Joint Adversarial Prompting And Belief Augmentation
 authors: Mehrabi Ninareh, Goyal Palash, Ramakrishna Anil, Dhamala Jwala, Ghosh Shalini, Zemel Richard, Chang Kai-wei, Galstyan Aram, Gupta Rahul
 conference: "Arxiv"
 year: 2023

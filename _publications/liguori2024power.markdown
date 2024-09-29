@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Power Of Words: Generating Powershell Attacks From Natural Language
+title: The Power Of Words\: Generating Powershell Attacks From Natural Language
 authors: Liguori Pietro, Marescalco Christian, Natella Roberto, Orbinato Vittorio, Pianese Luciano
 conference: "Arxiv"
 year: 2024

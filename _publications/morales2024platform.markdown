@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Langbite: A Platform For Testing Bias In Large Language Models
+title: Langbite\: A Platform For Testing Bias In Large Language Models
 authors: Morales Sergio, Clarisó Robert, Cabot Jordi
 conference: "Arxiv"
 year: 2024

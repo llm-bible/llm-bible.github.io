@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Dark Side Of Human Feedback: Poisoning Large Language Models Via User Inputs
+title: The Dark Side Of Human Feedback\: Poisoning Large Language Models Via User Inputs
 authors: Chen Bocheng, Guo Hanqing, Wang Guangjing, Wang Yuanda, Yan Qiben
 conference: "Arxiv"
 year: 2024

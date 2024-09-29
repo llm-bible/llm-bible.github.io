@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Finding The Needle In A Haystack: Unsupervised Rationale Extraction From Long Text Classifiers
+title: Finding The Needle In A Haystack\: Unsupervised Rationale Extraction From Long Text Classifiers
 authors: Bujel Kamil, Caines Andrew, Yannakoudakis Helen, Rei Marek
 conference: "Arxiv"
 year: 2023

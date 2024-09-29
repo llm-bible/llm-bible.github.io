@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CMMMU: A Chinese Massive Multi-discipline Multimodal Understanding Benchmark
+title: CMMMU\: A Chinese Massive Multi-discipline Multimodal Understanding Benchmark
 authors: Zhang Ge, Du Xinrun, Chen Bei, Liang Yiming, Luo Tongxu, Zheng Tianyu, Zhu Kang, Cheng Yuyang, Xu Chunpu, Guo Shuyue, Zhang Haoran, Qu Xingwei, Wang Junjie, Yuan Ruibin, Li Yizhi, Wang Zekun, Liu Yudong, Tsai Yu-hsuan, Zhang Fengji, Lin Chenghua, Huang Wenhao, Fu Jie
 conference: "Arxiv"
 year: 2024

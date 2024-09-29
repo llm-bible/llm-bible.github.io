@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llasmol: Advancing Large Language Models For Chemistry With A Large-scale, Comprehensive, High-quality Instruction Tuning Dataset
+title: Llasmol\: Advancing Large Language Models For Chemistry With A Large-scale, Comprehensive, High-quality Instruction Tuning Dataset
 authors: Yu Botao, Baker Frazier N., Chen Ziqi, Ning Xia, Sun Huan
 conference: "Arxiv"
 year: 2024

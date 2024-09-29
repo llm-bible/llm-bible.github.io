@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leave No Context Behind: Efficient Infinite Context Transformers With Infini-attention
+title: Leave No Context Behind\: Efficient Infinite Context Transformers With Infini-attention
 authors: Munkhdalai Tsendsuren, Faruqui Manaal, Gopal Siddharth
 conference: "Arxiv"
 year: 2024

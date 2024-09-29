@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MRQA 2019 Shared Task: Evaluating Generalization In Reading Comprehension
+title: MRQA 2019 Shared Task\: Evaluating Generalization In Reading Comprehension
 authors: Fisch Adam, Talmor Alon, Jia Robin, Seo Minjoon, Choi Eunsol, Chen Danqi
 conference: "Arxiv"
 year: 2019

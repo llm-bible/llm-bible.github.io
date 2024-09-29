@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BUFFET: Benchmarking Large Language Models For Few-shot Cross-lingual Transfer
+title: BUFFET\: Benchmarking Large Language Models For Few-shot Cross-lingual Transfer
 authors: Asai Akari, Kudugunta Sneha, Yu Xinyan Velocity, Blevins Terra, Gonen Hila, Reid Machel, Tsvetkov Yulia, Ruder Sebastian, Hajishirzi Hannaneh
 conference: "Arxiv"
 year: 2023

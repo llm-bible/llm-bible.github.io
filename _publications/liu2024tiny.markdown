@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tiny Refinements Elicit Resilience: Toward Efficient Prefix-model Against LLM Red-teaming
+title: Tiny Refinements Elicit Resilience\: Toward Efficient Prefix-model Against LLM Red-teaming
 authors: Liu Jiaxu, Yin Xiangyu, Wu Sihao, Wang Jianhong, Fang Meng, Yi Xinping, Huang Xiaowei
 conference: "Arxiv"
 year: 2024

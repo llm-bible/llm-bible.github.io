@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatting Up Attachment: Using Llms To Predict Adult Bonds
+title: Chatting Up Attachment\: Using Llms To Predict Adult Bonds
 authors: Soares Paulo, Mccurdy Sean, Gerber Andrew J., Fonagy Peter
 conference: "Arxiv"
 year: 2024

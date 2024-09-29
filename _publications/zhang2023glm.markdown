@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Glm-dialog: Noise-tolerant Pre-training For Knowledge-grounded Dialogue Generation
+title: Glm-dialog\: Noise-tolerant Pre-training For Knowledge-grounded Dialogue Generation
 authors: Zhang Jing, Zhang Xiaokang, Zhang-li Daniel, Yu Jifan, Yao Zijun, Ma Zeyao, Xu Yiqi, Wang Haohua, Zhang Xiaohan, Lin Nianyi, Lu Sunrui, Li Juanzi, Tang Jie
 conference: "Arxiv"
 year: 2023

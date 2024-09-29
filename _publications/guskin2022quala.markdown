@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Quala-minilm: A Quantized Length Adaptive Minilm
+title: Quala-minilm\: A Quantized Length Adaptive Minilm
 authors: Guskin Shira, Wasserblat Moshe, Wang Chang, Shen Haihao
 conference: "Arxiv"
 year: 2022

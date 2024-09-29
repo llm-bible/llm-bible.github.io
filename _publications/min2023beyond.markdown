@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Accuracy: Evaluating Self-consistency Of Code Large Language Models With Identitychain
+title: Beyond Accuracy\: Evaluating Self-consistency Of Code Large Language Models With Identitychain
 authors: Min Marcus J., Ding Yangruibo, Buratti Luca, Pujar Saurabh, Kaiser Gail, Jana Suman, Ray Baishakhi
 conference: "Arxiv"
 year: 2023

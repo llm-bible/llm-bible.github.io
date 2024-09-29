@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning To Prompt In The Classroom To Understand AI Limits: A Pilot Study
+title: Learning To Prompt In The Classroom To Understand AI Limits\: A Pilot Study
 authors: Theophilou Emily, Koyuturk Cansu, Yavari Mona, Bursic Sathya, Donabauer Gregor, Telari Alessia, Testa Alessia, Boiano Raffaele, Hernandez-leo Davinia, Ruskov Martin, Taibi Davide, Gabbiadini Alessandro, Ognibene Dimitri
 conference: "Arxiv"
 year: 2023

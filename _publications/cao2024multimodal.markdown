@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MADTP: Multimodal Alignment-guided Dynamic Token Pruning For Accelerating Vision-language Transformer
+title: MADTP\: Multimodal Alignment-guided Dynamic Token Pruning For Accelerating Vision-language Transformer
 authors: Cao Jianjian, Ye Peng, Li Shengze, Yu Chong, Tang Yansong, Lu Jiwen, Chen Tao
 conference: "In Proc. IEEE Conference on Computer Vision and Pattern Recognition"
 year: 2024

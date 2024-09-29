@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DP-KB: Data Programming With Knowledge Bases Improves Transformer Fine Tuning For Answer Sentence Selection
+title: DP-KB\: Data Programming With Knowledge Bases Improves Transformer Fine Tuning For Answer Sentence Selection
 authors: Jedema Nic, Vu Thuy, Gupta Manish, Moschitti Alessandro
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Woodpecker: Hallucination Correction For Multimodal Large Language Models
+title: Woodpecker\: Hallucination Correction For Multimodal Large Language Models
 authors: Shukang Yin, Chaoyou Fu, Sirui Zhao, Tong Xu, Hao Wang, Dianbo Sui, Yunhang Shen, Ke Li, Xing Sun, Enhong Chen
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Illuminate: A Novel Approach For Depression Detection With Explainable Analysis And Proactive Therapy Using Prompt Engineering
+title: Illuminate\: A Novel Approach For Depression Detection With Explainable Analysis And Proactive Therapy Using Prompt Engineering
 authors: Agrawal Aryan
 conference: "Arxiv"
 year: 2024

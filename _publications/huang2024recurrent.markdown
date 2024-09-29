@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recurrent Context Compression: Efficiently Expanding The Context Window Of LLM
+title: Recurrent Context Compression\: Efficiently Expanding The Context Window Of LLM
 authors: Huang Chensen, Zhu Guibo, Wang Xuepeng, Luo Yifei, Ge Guojing, Chen Haoran, Yi Dong, Wang Jinqiao
 conference: "Arxiv"
 year: 2024

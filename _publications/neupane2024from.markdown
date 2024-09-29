@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Questions To Insightful Answers: Building An Informed Chatbot For University Resources
+title: From Questions To Insightful Answers\: Building An Informed Chatbot For University Resources
 authors: Neupane Subash, Hossain Elias, Keith Jason, Tripathi Himanshu, Ghiasi Farbod, Golilarz Noorbakhsh Amiri, Amirlatifi Amin, Mittal Sudip, Rahimi Shahram
 conference: "Arxiv"
 year: 2024

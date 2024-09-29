@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lost In The Source Language: How Large Language Models Evaluate The Quality Of Machine Translation
+title: Lost In The Source Language\: How Large Language Models Evaluate The Quality Of Machine Translation
 authors: Huang Xu, Zhang Zhirui, Geng Xiang, Du Yichao, Chen Jiajun, Huang Shujian
 conference: "Arxiv"
 year: 2024

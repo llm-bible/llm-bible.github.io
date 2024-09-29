@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Grips: Gradient-free, Edit-based Instruction Search For Prompting Large Language Models
+title: Grips\: Gradient-free, Edit-based Instruction Search For Prompting Large Language Models
 authors: Prasad Archiki, Hase Peter, Zhou Xiang, Bansal Mohit
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BAPO: Base-anchored Preference Optimization For Personalized Alignment In Large Language Models
+title: BAPO\: Base-anchored Preference Optimization For Personalized Alignment In Large Language Models
 authors: Lee Gihun, Jeong Minchan, Kim Yujin, Jung Hojung, Oh Jaehoon, Kim Sangmook, Yun Se-young
 conference: "Arxiv"
 year: 2024

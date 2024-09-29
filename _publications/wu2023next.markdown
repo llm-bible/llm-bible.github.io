@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Next-gpt: Any-to-any Multimodal LLM
+title: Next-gpt\: Any-to-any Multimodal LLM
 authors: Wu Shengqiong, Fei Hao, Qu Leigang, Ji Wei, Chua Tat-seng
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Psychotherapy Counseling: A Data Augmentation Pipeline Leveraging Large Language Models For Counseling Conversations
+title: Enhancing Psychotherapy Counseling\: A Data Augmentation Pipeline Leveraging Large Language Models For Counseling Conversations
 authors: Kim Jun-woo, Han Ji-eun, Koh Jun-seok, Seo Hyeon-tae, Chang Du-seong
 conference: "Arxiv"
 year: 2024

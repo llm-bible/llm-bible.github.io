@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vicor: Bridging Visual Understanding And Commonsense Reasoning With Large Language Models
+title: Vicor\: Bridging Visual Understanding And Commonsense Reasoning With Large Language Models
 authors: Zhou Kaiwen, Lee Kwonjoon, Misu Teruhisa, Wang Xin Eric
 conference: "Arxiv"
 year: 2023

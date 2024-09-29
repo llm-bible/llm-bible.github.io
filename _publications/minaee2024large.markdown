@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models: A Survey
+title: Large Language Models\: A Survey
 authors: Minaee Shervin, Mikolov Tomas, Nikzad Narjes, Chenaghlu Meysam, Socher Richard, Amatriain Xavier, Gao Jianfeng
 conference: "Arxiv"
 year: 2024

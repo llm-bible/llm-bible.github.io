@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fastseq: Make Sequence Generation Faster
+title: Fastseq\: Make Sequence Generation Faster
 authors: Yan Yu, Hu Fei, Chen Jiusheng, Bhendawade Nikhil, Ye Ting, Gong Yeyun, Duan Nan, Cui Desheng, Chi Bingyu, Zhang Ruofei
 conference: "Arxiv"
 year: 2021

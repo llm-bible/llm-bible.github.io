@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mathgenie: Generating Synthetic Data With Question Back-translation For Enhancing Mathematical Reasoning Of Llms
+title: Mathgenie\: Generating Synthetic Data With Question Back-translation For Enhancing Mathematical Reasoning Of Llms
 authors: Lu Zimu, Zhou Aojun, Ren Houxing, Wang Ke, Shi Weikang, Pan Junting, Zhan Mingjie, Li Hongsheng
 conference: "Arxiv"
 year: 2024

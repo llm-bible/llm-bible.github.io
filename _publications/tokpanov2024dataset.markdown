@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zyda: A 1.3T Dataset For Open Language Modeling
+title: Zyda\: A 1.3T Dataset For Open Language Modeling
 authors: Tokpanov Yury, Millidge Beren, Glorioso Paolo, Pilault Jonathan, Ibrahim Adam, Whittington James, Anthony Quentin
 conference: "Arxiv"
 year: 2024

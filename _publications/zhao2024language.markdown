@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Model Council: Benchmarking Foundation Models On Highly Subjective Tasks By Consensus
+title: Language Model Council\: Benchmarking Foundation Models On Highly Subjective Tasks By Consensus
 authors: Zhao Justin, Plaza-del-arco Flor Miriam, Curry Amanda Cercas
 conference: "Arxiv"
 year: 2024

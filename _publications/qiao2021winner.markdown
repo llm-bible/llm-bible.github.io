@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Winner Team Mia At Textvqa Challenge 2021: Vision-and-language Representation Learning With Pre-trained Sequence-to-sequence Model
+title: Winner Team Mia At Textvqa Challenge 2021\: Vision-and-language Representation Learning With Pre-trained Sequence-to-sequence Model
 authors: Qiao Yixuan, Chen Hao, Wang Jun, Chen Yihao, Ye Xianbin, Li Ziliang, Qi Xianbiao, Gao Peng, Xie Guotong
 conference: "Arxiv"
 year: 2021

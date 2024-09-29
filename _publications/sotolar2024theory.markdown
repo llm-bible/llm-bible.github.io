@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Empo: Theory-driven Dataset Construction For Empathetic Response Generation Through Preference Optimization
+title: Empo\: Theory-driven Dataset Construction For Empathetic Response Generation Through Preference Optimization
 authors: Sotolar Ondrej
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lottery Ticket Adaptation: Mitigating Destructive Interference In Llms
+title: Lottery Ticket Adaptation\: Mitigating Destructive Interference In Llms
 authors: Panda Ashwinee, Isik Berivan, Qi Xiangyu, Koyejo Sanmi, Weissman Tsachy, Mittal Prateek
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TACT: Advancing Complex Aggregative Reasoning With Information Extraction Tools
+title: TACT\: Advancing Complex Aggregative Reasoning With Information Extraction Tools
 authors: Caciularu Avi, Jacovi Alon, Ben-david Eyal, Goldshtein Sasha, Schuster Tal, Herzig Jonathan, Elidan Gal, Globerson Amir
 conference: "Arxiv"
 year: 2024

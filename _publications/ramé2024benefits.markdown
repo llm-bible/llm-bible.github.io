@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: WARP: On The Benefits Of Weight Averaged Rewarded Policies
+title: WARP\: On The Benefits Of Weight Averaged Rewarded Policies
 authors: Ramé Alexandre, Ferret Johan, Vieillard Nino, Dadashi Robert, Hussenot Léonard, Cedoz Pierre-louis, Sessa Pier Giuseppe, Girgin Sertan, Douillard Arthur, Bachem Olivier
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PLUGH: A Benchmark For Spatial Understanding And Reasoning In Large Language Models
+title: PLUGH\: A Benchmark For Spatial Understanding And Reasoning In Large Language Models
 authors: Tikhonov Alexey
 conference: "Arxiv"
 year: 2024

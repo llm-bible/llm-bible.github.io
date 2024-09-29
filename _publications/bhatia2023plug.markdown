@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TART: A Plug-and-play Transformer Module For Task-agnostic Reasoning
+title: TART\: A Plug-and-play Transformer Module For Task-agnostic Reasoning
 authors: Bhatia Kush, Narayan Avanika, De Sa Christopher, Ré Christopher
 conference: "Arxiv"
 year: 2023

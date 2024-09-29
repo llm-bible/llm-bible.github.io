@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatcot: Tool-augmented Chain-of-thought Reasoning On Chat-based Large Language Models
+title: Chatcot\: Tool-augmented Chain-of-thought Reasoning On Chat-based Large Language Models
 authors: Chen Zhipeng, Zhou Kun, Zhang Beichen, Gong Zheng, Zhao Wayne Xin, Wen Ji-rong
 conference: "Arxiv"
 year: 2023

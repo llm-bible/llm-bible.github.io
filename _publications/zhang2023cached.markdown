@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cached Transformers: Improving Transformers With Differentiable Memory Cache
+title: Cached Transformers\: Improving Transformers With Differentiable Memory Cache
 authors: Zhang Zhaoyang, Shao Wenqi, Ge Yixiao, Wang Xiaogang, Gu Jinwei, Luo Ping
 conference: "Arxiv"
 year: 2023

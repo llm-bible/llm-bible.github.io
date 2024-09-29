@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ignore This Title And Hackaprompt: Exposing Systemic Vulnerabilities Of Llms Through A Global Scale Prompt Hacking Competition
+title: Ignore This Title And Hackaprompt\: Exposing Systemic Vulnerabilities Of Llms Through A Global Scale Prompt Hacking Competition
 authors: Schulhoff Sander, Pinto Jeremy, Khan Anaum, Bouchard Louis-françois, Si Chenglei, Anati Svetlina, Tagliabue Valen, Kost Anson Liu, Carnahan Christopher, Boyd-graber Jordan
 conference: "Arxiv"
 year: 2023

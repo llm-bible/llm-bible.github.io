@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative Verifiers: Reward Modeling As Next-token Prediction
+title: Generative Verifiers\: Reward Modeling As Next-token Prediction
 authors: Zhang Lunjun, Hosseini Arian, Bansal Hritik, Kazemi Mehran, Kumar Aviral, Agarwal Rishabh
 conference: "Arxiv"
 year: 2024

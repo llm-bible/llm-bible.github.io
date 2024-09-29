@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Paying More Attention To Source Context: Mitigating Unfaithful Translations From Large Language Model
+title: Paying More Attention To Source Context\: Mitigating Unfaithful Translations From Large Language Model
 authors: Zhang Hongbin, Chen Kehai, Bai Xuefeng, Xiang Yang, Zhang Min
 conference: "Arxiv"
 year: 2024

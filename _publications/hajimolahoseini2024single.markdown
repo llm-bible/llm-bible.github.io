@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Single Parent Family: A Spectrum Of Family Members From A Single Pre-trained Foundation Model
+title: Single Parent Family\: A Spectrum Of Family Members From A Single Pre-trained Foundation Model
 authors: Hajimolahoseini Habib, Hassanpour Mohammad, Ataiefard Foozhan, Chen Boxing, Liu Yang
 conference: "Arxiv"
 year: 2024

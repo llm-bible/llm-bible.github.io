@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mememqa: Multimodal Question Answering For Memes Via Rationale-based Inferencing
+title: Mememqa\: Multimodal Question Answering For Memes Via Rationale-based Inferencing
 authors: Agarwal Siddhant, Sharma Shivam, Nakov Preslav, Chakraborty Tanmoy
 conference: "Arxiv"
 year: 2024

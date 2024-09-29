@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LAMPO: Large Language Models As Preference Machines For Few-shot Ordinal Classification
+title: LAMPO\: Large Language Models As Preference Machines For Few-shot Ordinal Classification
 authors: Qin Zhen, Wu Junru, Shen Jiaming, Liu Tianqi, Wang Xuanhui
 conference: "Arxiv"
 year: 2024

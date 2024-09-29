@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Kun: Answer Polishment For Chinese Self-alignment With Instruction Back-translation
+title: Kun\: Answer Polishment For Chinese Self-alignment With Instruction Back-translation
 authors: Zheng Tianyu, Guo Shuyue, Qu Xingwei, Guo Jiawei, Du Xinrun, Jia Qi, Lin Chenghua, Huang Wenhao, Fu Jie, Zhang Ge
 conference: "Arxiv"
 year: 2024

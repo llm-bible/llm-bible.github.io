@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models For Human-like Autonomous Driving: A Survey
+title: Large Language Models For Human-like Autonomous Driving\: A Survey
 authors: Li Yun, Katsumata Kai, Javanmardi Ehsan, Tsukada Manabu
 conference: "Arxiv"
 year: 2024

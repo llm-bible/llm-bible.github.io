@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieval-based Knowledge Transfer: An Effective Approach For Extreme Large Language Model Compression
+title: Retrieval-based Knowledge Transfer\: An Effective Approach For Extreme Large Language Model Compression
 authors: Liu Jiduan, Liu Jiahao, Wang Qifan, Wang Jingang, Cai Xunliang, Zhao Dongyan, Wang Ran Lucien, Yan Rui
 conference: "Arxiv"
 year: 2023

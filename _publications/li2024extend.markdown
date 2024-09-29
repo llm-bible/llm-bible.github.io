@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TOPA: Extend Large Language Models For Video Understanding Via Text-only Pre-alignment
+title: TOPA\: Extend Large Language Models For Video Understanding Via Text-only Pre-alignment
 authors: Li Wei, Fan Hehe, Wong Yongkang, Kankanhalli Mohan, Yang Yi
 conference: "Arxiv"
 year: 2024

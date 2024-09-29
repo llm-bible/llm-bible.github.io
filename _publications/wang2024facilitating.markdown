@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Metatool: Facilitating Large Language Models To Master Tools With Meta-task Augmentation
+title: Metatool\: Facilitating Large Language Models To Master Tools With Meta-task Augmentation
 authors: Wang Xiaohan, Li Dian, Zhao Yilin, Sinbadliu, Wang Hui
 conference: "Arxiv"
 year: 2024

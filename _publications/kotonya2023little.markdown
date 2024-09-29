@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Little Giants: Exploring The Potential Of Small Llms As Evaluation Metrics In Summarization In The Eval4nlp 2023 Shared Task
+title: Little Giants\: Exploring The Potential Of Small Llms As Evaluation Metrics In Summarization In The Eval4nlp 2023 Shared Task
 authors: Kotonya Neema, Krishnasamy Saran, Tetreault Joel, Jaimes Alejandro
 conference: "Arxiv"
 year: 2023

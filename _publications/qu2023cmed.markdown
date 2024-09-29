@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cmed-gpt: Prompt Tuning For Entity-aware Chinese Medical Dialogue Generation
+title: Cmed-gpt\: Prompt Tuning For Entity-aware Chinese Medical Dialogue Generation
 authors: Qu Zhijie, Li Juan, Ma Zerui, Li Jianqiang
 conference: "Arxiv"
 year: 2023

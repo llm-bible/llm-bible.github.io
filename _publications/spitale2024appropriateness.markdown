@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Appropriateness Of Llm-equipped Robotic Well-being Coach Language In The Workplace: A Qualitative Evaluation
+title: Appropriateness Of Llm-equipped Robotic Well-being Coach Language In The Workplace\: A Qualitative Evaluation
 authors: Spitale Micol, Axelsson Minja, Gunes Hatice
 conference: "Arxiv"
 year: 2024

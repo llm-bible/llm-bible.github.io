@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VECO: Variable And Flexible Cross-lingual Pre-training For Language Understanding And Generation
+title: VECO\: Variable And Flexible Cross-lingual Pre-training For Language Understanding And Generation
 authors: Luo Fuli, Wang Wei, Liu Jiahao, Liu Yijia, Bi Bin, Huang Songfang, Huang Fei, Si Luo
 conference: "Arxiv"
 year: 2020

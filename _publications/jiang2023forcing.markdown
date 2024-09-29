@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Forcing Generative Models To Degenerate Ones: The Power Of Data Poisoning Attacks
+title: Forcing Generative Models To Degenerate Ones\: The Power Of Data Poisoning Attacks
 authors: Jiang Shuli, Kadhe Swanand Ravindra, Zhou Yi, Cai Ling, Baracaldo Nathalie
 conference: "Arxiv"
 year: 2023

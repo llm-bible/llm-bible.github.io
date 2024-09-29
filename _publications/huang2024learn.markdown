@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learn When (not) To Trust Language Models: A Privacy-centric Adaptive Model-aware Approach
+title: Learn When (not) To Trust Language Models\: A Privacy-centric Adaptive Model-aware Approach
 authors: Huang Chengkai, Wang Rui, Xie Kaige, Yu Tong, Yao Lina
 conference: "Arxiv"
 year: 2024

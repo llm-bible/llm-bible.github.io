@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Furthest Reasoning With Plan Assessment: Stable Reasoning Path With Retrieval-augmented Large Language Models
+title: Furthest Reasoning With Plan Assessment\: Stable Reasoning Path With Retrieval-augmented Large Language Models
 authors: Zhu Yin, Luo Zhiling, Cheng Gong
 conference: "Arxiv"
 year: 2023

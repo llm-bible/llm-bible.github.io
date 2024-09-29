@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hyena Hierarchy: Towards Larger Convolutional Language Models
+title: Hyena Hierarchy\: Towards Larger Convolutional Language Models
 authors: Poli Michael, Massaroli Stefano, Nguyen Eric, Fu Daniel Y., Dao Tri, Baccus Stephen, Bengio Yoshua, Ermon Stefano, Ré Christopher
 conference: "Arxiv"
 year: 2023

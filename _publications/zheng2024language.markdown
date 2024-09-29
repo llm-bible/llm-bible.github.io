@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dreamlip: Language-image Pre-training With Long Captions
+title: Dreamlip\: Language-image Pre-training With Long Captions
 authors: Zheng Kecheng, Zhang Yifei, Wu Wei, Lu Fan, Ma Shuailei, Jin Xin, Chen Wei, Shen Yujun
 conference: "Arxiv"
 year: 2024

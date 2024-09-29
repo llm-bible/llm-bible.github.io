@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reference-guided Verdict: Llms-as-judges In Automatic Evaluation Of Free-form Text
+title: Reference-guided Verdict\: Llms-as-judges In Automatic Evaluation Of Free-form Text
 authors: Badshah Sher, Sajjad Hassan
 conference: "Arxiv"
 year: 2024

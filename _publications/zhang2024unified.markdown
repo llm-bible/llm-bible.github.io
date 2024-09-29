@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unimot: Unified Molecule-text Language Model With Discrete Token Representation
+title: Unimot\: Unified Molecule-text Language Model With Discrete Token Representation
 authors: Zhang Juzheng, Bian Yatao, Chen Yongqiang, Yao Quanming
 conference: "Arxiv"
 year: 2024

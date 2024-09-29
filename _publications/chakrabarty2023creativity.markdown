@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Creativity Support In The Age Of Large Language Models: An Empirical Study Involving Emerging Writers
+title: Creativity Support In The Age Of Large Language Models\: An Empirical Study Involving Emerging Writers
 authors: Chakrabarty Tuhin, Padmakumar Vishakh, Brahman Faeze, Muresan Smaranda
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language User Interfaces: Voice Interactive User Interfaces Powered By Llms
+title: Large Language User Interfaces\: Voice Interactive User Interfaces Powered By Llms
 authors: Wasti Syed Mekael, Pu Ken Q., Neshati Ali
 conference: "Arxiv"
 year: 2024

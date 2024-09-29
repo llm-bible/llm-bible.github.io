@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: When Chatgpt Is Gone: Creativity Reverts And Homogeneity Persists
+title: When Chatgpt Is Gone\: Creativity Reverts And Homogeneity Persists
 authors: Liu Qinghan, Zhou Yiyong, Huang Jihao, Li Guiquan
 conference: "Arxiv"
 year: 2024

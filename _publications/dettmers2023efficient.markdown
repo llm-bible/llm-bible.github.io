@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Qlora: Efficient Finetuning Of Quantized Llms
+title: Qlora\: Efficient Finetuning Of Quantized Llms
 authors: Tim Dettmers, Artidoro Pagnoni, Ari Holtzman, Luke Zettlemoyer
 conference: "Arxiv"
 year: 2023

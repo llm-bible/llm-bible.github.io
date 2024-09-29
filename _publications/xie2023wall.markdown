@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Wall Street Neophyte: A Zero-shot Analysis Of Chatgpt Over Multimodal Stock Movement Prediction Challenges
+title: The Wall Street Neophyte\: A Zero-shot Analysis Of Chatgpt Over Multimodal Stock Movement Prediction Challenges
 authors: Xie Qianqian, Han Weiguang, Lai Yanzhao, Peng Min, Huang Jimin
 conference: "Arxiv"
 year: 2023

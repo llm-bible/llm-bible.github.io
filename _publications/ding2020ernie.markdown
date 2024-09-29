@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ernie-doc: A Retrospective Long-document Modeling Transformer
+title: Ernie-doc\: A Retrospective Long-document Modeling Transformer
 authors: Ding Siyu, Shang Junyuan, Wang Shuohuan, Sun Yu, Tian Hao, Wu Hua, Wang Haifeng
 conference: "Arxiv"
 year: 2020

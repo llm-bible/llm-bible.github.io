@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Benchmarking: A New Paradigm For Evaluation And Assessment Of Large Language Models
+title: Beyond Benchmarking\: A New Paradigm For Evaluation And Assessment Of Large Language Models
 authors: Liu Jin, Li Qingquan, Du Wenlong
 conference: "Arxiv"
 year: 2024

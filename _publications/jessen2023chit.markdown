@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chit-chat Or Deep Talk: Prompt Engineering For Process Mining
+title: Chit-chat Or Deep Talk\: Prompt Engineering For Process Mining
 authors: Jessen Urszula, Sroka Michal, Fahland Dirk
 conference: "Arxiv"
 year: 2023

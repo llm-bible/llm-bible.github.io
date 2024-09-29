@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jdocqa: Japanese Document Question Answering Dataset For Generative Language Models
+title: Jdocqa\: Japanese Document Question Answering Dataset For Generative Language Models
 authors: Onami Eri, Kurita Shuhei, Miyanishi Taiki, Watanabe Taro
 conference: "Arxiv"
 year: 2024

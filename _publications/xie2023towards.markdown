@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Funqa: Towards Surprising Video Comprehension
+title: Funqa\: Towards Surprising Video Comprehension
 authors: Xie Binzhu, Zhang Sicheng, Zhou Zitang, Li Bo, Zhang Yuanhan, Hessel Jack, Yang Jingkang, Liu Ziwei
 conference: "Arxiv"
 year: 2023

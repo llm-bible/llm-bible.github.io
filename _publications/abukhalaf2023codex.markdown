@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On Codex Prompt Engineering For OCL Generation: An Empirical Study
+title: On Codex Prompt Engineering For OCL Generation\: An Empirical Study
 authors: Abukhalaf Seif, Hamdaqa Mohammad, Khomh Foutse
 conference: "Arxiv"
 year: 2023

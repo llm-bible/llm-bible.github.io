@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Making Them Ask And Answer: Jailbreaking Large Language Models In Few Queries Via Disguise And Reconstruction
+title: Making Them Ask And Answer\: Jailbreaking Large Language Models In Few Queries Via Disguise And Reconstruction
 authors: Liu Tong, Zhang Yingjie, Zhao Zhe, Dong Yinpeng, Meng Guozhu, Chen Kai
 conference: "Arxiv"
 year: 2024

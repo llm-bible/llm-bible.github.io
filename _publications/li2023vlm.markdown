@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vlm-eval: A General Evaluation On Video Large Language Models
+title: Vlm-eval\: A General Evaluation On Video Large Language Models
 authors: Li Shuailin, Zhang Yuang, Zhao Yucheng, Wang Qiuyue, Jia Fan, Liu Yingfei, Wang Tiancai
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Autoeval-video: An Automatic Benchmark For Assessing Large Vision Language Models In Open-ended Video Question Answering
+title: Autoeval-video\: An Automatic Benchmark For Assessing Large Vision Language Models In Open-ended Video Question Answering
 authors: Chen Xiuyuan, Lin Yuan, Zhang Yuchen, Huang Weiran
 conference: "Arxiv"
 year: 2023

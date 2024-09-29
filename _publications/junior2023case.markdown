@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Case Study On Test Case Construction With Large Language Models: Unveiling Practical Insights And Challenges
+title: A Case Study On Test Case Construction With Large Language Models\: Unveiling Practical Insights And Challenges
 authors: Junior Roberto Francisco De Lima, Presta Luiz Fernando Paes De Barros, Borborema Lucca Santos, Da Silva Vanderson Nogueira, Dahia Marcio Leal De Melo, Santos Anderson Carlos Sousa E
 conference: "Arxiv"
 year: 2023

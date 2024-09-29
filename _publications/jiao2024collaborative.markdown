@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Duetrag: Collaborative Retrieval-augmented Generation
+title: Duetrag\: Collaborative Retrieval-augmented Generation
 authors: Jiao Dian, Cai Li, Huang Jingsheng, Zhang Wenqiao, Tang Siliang, Zhuang Yueting
 conference: "Arxiv"
 year: 2024

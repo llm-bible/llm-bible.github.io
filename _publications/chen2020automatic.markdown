@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Autoadr: Automatic Model Design For Ad Relevance
+title: Autoadr\: Automatic Model Design For Ad Relevance
 authors: Chen Yiren, Yang Yaming, Sun Hong, Wang Yujing, Xu Yu, Shen Wei, Zhou Rong, Tong Yunhai, Bai Jing, Zhang Ruofei
 conference: "Arxiv"
 year: 2020

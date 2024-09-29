@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Comprehensive Survey Of LLM Alignment Techniques: RLHF, RLAIF, PPO, DPO And More
+title: A Comprehensive Survey Of LLM Alignment Techniques\: RLHF, RLAIF, PPO, DPO And More
 authors: Wang Zhichao James, Bi Bin James, Pentyala Shiva Kumar James, Ramnath Kiran James, Chaudhuri Sougata James, Mehrotra Shubham James, Zixu James, Zhu Claire, Mao Xiang-bo Claire, Asur Sitaram Claire, Na Claire, Cheng
 conference: "Arxiv"
 year: 2024

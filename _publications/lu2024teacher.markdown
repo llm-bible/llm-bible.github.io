@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: YODA: Teacher-student Progressive Learning For Language Models
+title: YODA\: Teacher-student Progressive Learning For Language Models
 authors: Lu Jianqiao, Zhong Wanjun, Wang Yufei, Guo Zhijiang, Zhu Qi, Huang Wenyong, Wang Yanlin, Mi Fei, Wang Baojun, Wang Yasheng, Shang Lifeng, Jiang Xin, Liu Qun
 conference: "Arxiv"
 year: 2024

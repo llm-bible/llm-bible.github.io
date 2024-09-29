@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MERA: A Comprehensive LLM Evaluation In Russian
+title: MERA\: A Comprehensive LLM Evaluation In Russian
 authors: Fenogenova Alena, Chervyakov Artem, Martynov Nikita, Kozlova Anastasia, Tikhonova Maria, Akhmetgareeva Albina, Emelyanov Anton, Shevelev Denis, Lebedev Pavel, Sinev Leonid, Isaeva Ulyana, Kolomeytseva Katerina, Moskovskiy Daniil, Goncharova Elizaveta, Savushkin Nikita, Mikhailova Polina, Dimitrov Denis, Panchenko Alexander, Markov Sergei
 conference: "Arxiv"
 year: 2024

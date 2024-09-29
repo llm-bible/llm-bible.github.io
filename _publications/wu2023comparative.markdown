@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Comparative Study Of Open-source Large Language Models, GPT-4 And Claude 2: Multiple-choice Test Taking In Nephrology
+title: A Comparative Study Of Open-source Large Language Models, GPT-4 And Claude 2\: Multiple-choice Test Taking In Nephrology
 authors: Wu Sean, Koo Michael, Blum Lesley, Black Andy, Kao Liyo, Scalzo Fabien, Kurtz Ira
 conference: "Arxiv"
 year: 2023

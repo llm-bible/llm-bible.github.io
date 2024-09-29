@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lion: Adversarial Distillation Of Proprietary Large Language Models
+title: Lion\: Adversarial Distillation Of Proprietary Large Language Models
 authors: Jiang Yuxin, Chan Chunkit, Chen Mingyang, Wang Wei
 conference: "Arxiv"
 year: 2023

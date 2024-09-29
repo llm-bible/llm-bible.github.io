@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: XGLUE: A New Benchmark Dataset For Cross-lingual Pre-training, Understanding And Generation
+title: XGLUE\: A New Benchmark Dataset For Cross-lingual Pre-training, Understanding And Generation
 authors: Liang Yaobo, Duan Nan, Gong Yeyun, Wu Ning, Guo Fenfei, Qi Weizhen, Gong Ming, Shou Linjun, Jiang Daxin, Cao Guihong, Fan Xiaodong, Zhang Ruofei, Agrawal Rahul, Cui Edward, Wei Sining, Bharti Taroon, Qiao Ying, Chen Jiun-hung, Wu Winnie, Liu Shuguang, Yang Fan, Campos Daniel, Majumder Rangan, Zhou Ming
 conference: "Arxiv"
 year: 2020

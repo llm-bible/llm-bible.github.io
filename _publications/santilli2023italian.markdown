@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Camoscio: An Italian Instruction-tuned Llama
+title: Camoscio\: An Italian Instruction-tuned Llama
 authors: Santilli Andrea, Rodolà Emanuele
 conference: "Arxiv"
 year: 2023

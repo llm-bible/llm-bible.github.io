@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SPHINX: The Joint Mixing Of Weights, Tasks, And Visual Embeddings For Multi-modal Large Language Models
+title: SPHINX\: The Joint Mixing Of Weights, Tasks, And Visual Embeddings For Multi-modal Large Language Models
 authors: Lin Ziyi, Liu Chris, Zhang Renrui, Gao Peng, Qiu Longtian, Xiao Han, Qiu Han, Lin Chen, Shao Wenqi, Chen Keqin, Han Jiaming, Huang Siyuan, Zhang Yichi, He Xuming, Li Hongsheng, Qiao Yu
 conference: "Arxiv"
 year: 2023

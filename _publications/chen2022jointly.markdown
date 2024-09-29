@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pali: A Jointly-scaled Multilingual Language-image Model
+title: Pali\: A Jointly-scaled Multilingual Language-image Model
 authors: Chen Xi, Wang Xiao, Changpinyo Soravit, Piergiovanni Aj, Padlewski Piotr, Salz Daniel, Goodman Sebastian, Grycner Adam, Mustafa Basil, Beyer Lucas, Kolesnikov Alexander, Puigcerver Joan, Ding Nan, Rong Keran, Akbari Hassan, Mishra Gaurav, Xue Linting, Thapliyal Ashish, Bradbury James, Kuo Weicheng, Seyedhosseini Mojtaba, Jia Chao, Ayan Burcu Karagol, Riquelme Carlos, Steiner Andreas, Angelova Anelia, Zhai Xiaohua, Houlsby Neil, Soricut Radu
 conference: "Arxiv"
 year: 2022

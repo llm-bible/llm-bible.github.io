@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PUB: A Pragmatics Understanding Benchmark For Assessing Llms' Pragmatics Capabilities
+title: PUB\: A Pragmatics Understanding Benchmark For Assessing Llms' Pragmatics Capabilities
 authors: Sravanthi Settaluri Lakshmi, Doshi Meet, Kalyan Tankala Pavan, Murthy Rudra, Bhattacharyya Pushpak, Dabre Raj
 conference: "Arxiv"
 year: 2024

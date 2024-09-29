@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieving Multimodal Information For Augmented Generation: A Survey
+title: Retrieving Multimodal Information For Augmented Generation\: A Survey
 authors: Zhao Ruochen, Chen Hailin, Wang Weishi, Jiao Fangkai, Do Xuan Long, Qin Chengwei, Ding Bosheng, Guo Xiaobao, Li Minzhi, Li Xingxuan, Joty Shafiq
 conference: "Arxiv"
 year: 2023

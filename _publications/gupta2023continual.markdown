@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Continual Pre-training Of Large Language Models: How To (re)warm Your Model?
+title: Continual Pre-training Of Large Language Models\: How To (re)warm Your Model?
 authors: Gupta Kshitij, Thérien Benjamin, Ibrahim Adam, Richter Mats L., Anthony Quentin, Belilovsky Eugene, Rish Irina, Lesort Timothée
 conference: "Arxiv"
 year: 2023

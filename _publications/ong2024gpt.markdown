@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gpt-ology, Computational Models, Silicon Sampling: How Should We Think About Llms In Cognitive Science?
+title: Gpt-ology, Computational Models, Silicon Sampling\: How Should We Think About Llms In Cognitive Science?
 authors: Ong Desmond C.
 conference: "Arxiv"
 year: 2024

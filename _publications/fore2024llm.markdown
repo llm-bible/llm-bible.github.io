@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Geckopt: LLM System Efficiency Via Intent-based Tool Selection
+title: Geckopt\: LLM System Efficiency Via Intent-based Tool Selection
 authors: Fore Michael, Singh Simranjit, Stamoulis Dimitrios
 conference: "Arxiv"
 year: 2024

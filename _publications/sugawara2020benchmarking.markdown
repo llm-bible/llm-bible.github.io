@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Benchmarking Machine Reading Comprehension: A Psychological Perspective
+title: Benchmarking Machine Reading Comprehension\: A Psychological Perspective
 authors: Sugawara Saku, Stenetorp Pontus, Aizawa Akiko
 conference: "Arxiv"
 year: 2020

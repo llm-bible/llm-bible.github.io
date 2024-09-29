@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Breaking Boundaries: Investigating The Effects Of Model Editing On Cross-linguistic Performance
+title: Breaking Boundaries\: Investigating The Effects Of Model Editing On Cross-linguistic Performance
 authors: Banerjee Somnath, Halder Avik, Mandal Rajarshi, Layek Sayan, Soboroff Ian, Hazra Rima, Mukherjee Animesh
 conference: "Arxiv"
 year: 2024

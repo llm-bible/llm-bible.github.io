@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatspot: Bootstrapping Multimodal Llms Via Precise Referring Instruction Tuning
+title: Chatspot\: Bootstrapping Multimodal Llms Via Precise Referring Instruction Tuning
 authors: Zhao Liang, Yu En, Ge Zheng, Yang Jinrong, Wei Haoran, Zhou Hongyu, Sun Jianjian, Peng Yuang, Dong Runpei, Han Chunrui, Zhang Xiangyu
 conference: "Arxiv"
 year: 2023

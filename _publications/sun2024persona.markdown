@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Persona-db: Efficient Large Language Model Personalization For Response Prediction With Collaborative Data Refinement
+title: Persona-db\: Efficient Large Language Model Personalization For Response Prediction With Collaborative Data Refinement
 authors: Sun Chenkai, Yang Ke, Reddy Revanth Gangi, Fung Yi R., Chan Hou Pong, Small Kevin, Zhai Chengxiang, Ji Heng
 conference: "Arxiv"
 year: 2024

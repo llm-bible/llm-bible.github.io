@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Summer: Wechat Neural Machine Translation Systems For The WMT22 Biomedical Translation Task
+title: Summer\: Wechat Neural Machine Translation Systems For The WMT22 Biomedical Translation Task
 authors: Li Ernan, Meng Fandong, Zhou Jie
 conference: "Arxiv"
 year: 2022

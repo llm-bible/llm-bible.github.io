@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llmeval: A Preliminary Study On How To Evaluate Large Language Models
+title: Llmeval\: A Preliminary Study On How To Evaluate Large Language Models
 authors: Zhang Yue, Zhang Ming, Yuan Haipeng, Liu Shichun, Shi Yongyao, Gui Tao, Zhang Qi, Huang Xuanjing
 conference: "Arxiv"
 year: 2023

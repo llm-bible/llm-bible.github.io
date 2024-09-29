@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Base-rate Effect On LLM Benchmark Performance: Disambiguating Test-taking Strategies From Benchmark Performance
+title: The Base-rate Effect On LLM Benchmark Performance\: Disambiguating Test-taking Strategies From Benchmark Performance
 authors: Moore Kyle, Roberts Jesse, Pham Thao, Ewaleifoh Oseremhen, Fisher Doug
 conference: "Arxiv"
 year: 2024

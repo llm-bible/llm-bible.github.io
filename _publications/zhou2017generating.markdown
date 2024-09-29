@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mojitalk: Generating Emotional Responses At Scale
+title: Mojitalk\: Generating Emotional Responses At Scale
 authors: Zhou Xianda, Wang William Yang
 conference: "Arxiv"
 year: 2017

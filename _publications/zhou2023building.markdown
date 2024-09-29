@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instructpipe: Building Visual Programming Pipelines With Human Instructions
+title: Instructpipe\: Building Visual Programming Pipelines With Human Instructions
 authors: Zhou Zhongyi, Jin Jing, Phadnis Vrushank, Yuan Xiuxiu, Jiang Jun, Qian Xun, Zhou Jingtao, Huang Yiyi, Xu Zheng, Zhang Yinda, Wright Kristen, Mayes Jason, Sherwood Mark, Lee Johnny, Olwal Alex, Kim David, Iyengar Ram, Li Na, Du Ruofei
 conference: "Arxiv"
 year: 2023

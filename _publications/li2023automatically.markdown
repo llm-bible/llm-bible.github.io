@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Autoconv: Automatically Generating Information-seeking Conversations With Large Language Models
+title: Autoconv\: Automatically Generating Information-seeking Conversations With Large Language Models
 authors: Li Siheng, Yang Cheng, Yin Yichun, Zhu Xinyu, Cheng Zesen, Shang Lifeng, Jiang Xin, Liu Qun, Yang Yujiu
 conference: "Arxiv"
 year: 2023

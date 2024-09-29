@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bitdelta: Your Fine-tune May Only Be Worth One Bit
+title: Bitdelta\: Your Fine-tune May Only Be Worth One Bit
 authors: Liu James, Xiao Guangxuan, Li Kai, Lee Jason D., Han Song, Dao Tri, Cai Tianle
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Sparse Rewards: Enhancing Reinforcement Learning With Language Model Critique In Text Generation
+title: Beyond Sparse Rewards\: Enhancing Reinforcement Learning With Language Model Critique In Text Generation
 authors: Cao Meng, Shu Lei, Yu Lei, Zhu Yun, Wichers Nevan, Liu Yinxiao, Meng Lei
 conference: "Arxiv"
 year: 2024

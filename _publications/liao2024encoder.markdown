@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: E2LLM: Encoder Elongated Large Language Models For Long-context Understanding And Reasoning
+title: E2LLM\: Encoder Elongated Large Language Models For Long-context Understanding And Reasoning
 authors: Liao Zihan, Wang Jun, Yu Hang, Wei Lingxiao, Li Jianguo, Wang Jun, Zhang Wei
 conference: "Arxiv"
 year: 2024

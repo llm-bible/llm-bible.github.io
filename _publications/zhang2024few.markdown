@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Promptfix: Few-shot Backdoor Removal Via Adversarial Prompt Tuning
+title: Promptfix\: Few-shot Backdoor Removal Via Adversarial Prompt Tuning
 authors: Zhang Tianrong, Xi Zhaohan, Wang Ting, Mitra Prasenjit, Chen Jinghui
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Llms: Advancing The Landscape Of Complex Reasoning
+title: Beyond Llms\: Advancing The Landscape Of Complex Reasoning
 authors: Chu-carroll Jennifer, Beck Andrew, Burnham Greg, Melville David Os, Nachman David, Özcan A. Erdem, Ferrucci David
 conference: "Arxiv"
 year: 2024

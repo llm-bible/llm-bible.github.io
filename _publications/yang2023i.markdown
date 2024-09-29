@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: I-code V2: An Autoregressive Generation Framework Over Vision, Language, And Speech Data
+title: I-code V2\: An Autoregressive Generation Framework Over Vision, Language, And Speech Data
 authors: Yang Ziyi, Khademi Mahmoud, Xu Yichong, Pryzant Reid, Fang Yuwei, Zhu Chenguang, Chen Dongdong, Qian Yao, Gao Mei, Chen Yi-ling, Gmyr Robert, Kanda Naoyuki, Codella Noel, Xiao Bin, Shi Yu, Yuan Lu, Yoshioka Takuya, Zeng Michael, Huang Xuedong
 conference: "Arxiv"
 year: 2023

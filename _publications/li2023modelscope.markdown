@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Modelscope-agent: Building Your Customizable Agent System With Open-source Large Language Models
+title: Modelscope-agent\: Building Your Customizable Agent System With Open-source Large Language Models
 authors: Li Chenliang, Chen Hehong, Yan Ming, Shen Weizhou, Xu Haiyang, Wu Zhikai, Zhang Zhicheng, Zhou Wenmeng, Chen Yingda, Cheng Chen, Shi Hongzhu, Zhang Ji, Huang Fei, Zhou Jingren
 conference: "Arxiv"
 year: 2023

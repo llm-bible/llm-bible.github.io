@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM As A Mastermind: A Survey Of Strategic Reasoning With Large Language Models
+title: LLM As A Mastermind\: A Survey Of Strategic Reasoning With Large Language Models
 authors: Zhang Yadong, Mao Shaoguang, Ge Tao, Wang Xun, De Wynter Adrian, Xia Yan, Wu Wenshan, Song Ting, Lan Man, Wei Furu
 conference: "Arxiv"
 year: 2024

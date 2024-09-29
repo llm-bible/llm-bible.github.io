@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Glam: Efficient Scaling Of Language Models With Mixture-of-experts
+title: Glam\: Efficient Scaling Of Language Models With Mixture-of-experts
 authors: Nan Du, Yanping Huang, Andrew M. Dai, Simon Tong, Dmitry Lepikhin, Yuanzhong Xu, Maxim Krikun, Yanqi Zhou, Adams Wei Yu, Orhan Firat, Barret Zoph, Liam Fedus, Maarten Bosma, Zongwei Zhou, Tao Wang, Yu Emma Wang, Kellie Webster, Marie Pellat, Kevin Robinson, Kathleen Meier-hellstern, Toju Duke, Lucas Dixon, Kun Zhang, Quoc V Le, Yonghui Wu, Zhifeng Chen, Claire Cui
 conference: "Arxiv"
 year: 2021

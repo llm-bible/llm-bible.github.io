@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Insaaf: Incorporating Safety Through Accuracy And Fairness | Are Llms Ready For The Indian Legal Domain?
+title: Insaaf\: Incorporating Safety Through Accuracy And Fairness | Are Llms Ready For The Indian Legal Domain?
 authors: Tripathi Yogesh, Donakanti Raghav, Girhepuje Sahil, Kavathekar Ishan, Vedula Bhaskara Hanuma, Krishnan Gokul S, Goyal Shreya, Goel Anmol, Ravindran Balaraman, Kumaraguru Ponnurangam
 conference: "Arxiv"
 year: 2024

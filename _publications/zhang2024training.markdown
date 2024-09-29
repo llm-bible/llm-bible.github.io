@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sciglm: Training Scientific Language Models With Self-reflective Instruction Annotation And Tuning
+title: Sciglm\: Training Scientific Language Models With Self-reflective Instruction Annotation And Tuning
 authors: Zhang Dan, Hu Ziniu, Zhoubian Sining, Du Zhengxiao, Yang Kaiyu, Wang Zihan, Yue Yisong, Dong Yuxiao, Tang Jie
 conference: "Arxiv"
 year: 2024

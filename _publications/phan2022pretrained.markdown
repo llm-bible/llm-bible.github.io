@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vit5: Pretrained Text-to-text Transformer For Vietnamese Language Generation
+title: Vit5\: Pretrained Text-to-text Transformer For Vietnamese Language Generation
 authors: Phan Long, Tran Hieu, Nguyen Hieu, Trinh Trieu H.
 conference: "Arxiv"
 year: 2022

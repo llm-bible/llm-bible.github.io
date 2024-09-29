@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: COBIAS: Contextual Reliability In Bias Assessment
+title: COBIAS\: Contextual Reliability In Bias Assessment
 authors: Govil Priyanshul, Jain Hemang, Bonagiri Vamshi Krishna, Chadha Aman, Kumaraguru Ponnurangam, Gaur Manas, Dey Sanorita
 conference: "Arxiv"
 year: 2024

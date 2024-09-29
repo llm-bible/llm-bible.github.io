@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RAFT: A Real-world Few-shot Text Classification Benchmark
+title: RAFT\: A Real-world Few-shot Text Classification Benchmark
 authors: Alex Neel, Lifland Eli, Tunstall Lewis, Thakur Abhishek, Maham Pegah, Riedel C. Jess, Hine Emmie, Ashurst Carolyn, Sedille Paul, Carlier Alexis, Noetel Michael, Stuhlmüller Andreas
 conference: "Arxiv"
 year: 2021

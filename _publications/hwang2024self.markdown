@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-explore To Avoid The Pit: Improving The Reasoning Capabilities Of Language Models With Fine-grained Rewards
+title: Self-explore To Avoid The Pit\: Improving The Reasoning Capabilities Of Language Models With Fine-grained Rewards
 authors: Hwang Hyeonbin, Kim Doyoung, Kim Seungone, Ye Seonghyeon, Seo Minjoon
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automl-gpt: Automatic Machine Learning With GPT
+title: Automl-gpt\: Automatic Machine Learning With GPT
 authors: Zhang Shujian, Gong Chengyue, Wu Lemeng, Liu Xingchao, Zhou Mingyuan
 conference: "Arxiv"
 year: 2023

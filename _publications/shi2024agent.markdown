@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Agentre: An Agent-based Framework For Navigating Complex Information Landscapes In Relation Extraction
+title: Agentre\: An Agent-based Framework For Navigating Complex Information Landscapes In Relation Extraction
 authors: Shi Yuchen, Jiang Guochao, Qiu Tian, Yang Deqing
 conference: "Arxiv"
 year: 2024

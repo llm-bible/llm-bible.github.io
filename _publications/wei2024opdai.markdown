@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: OPDAI At Semeval-2024 Task 6: Small Llms Can Accelerate Hallucination Detection With Weakly Supervised Data
+title: OPDAI At Semeval-2024 Task 6\: Small Llms Can Accelerate Hallucination Detection With Weakly Supervised Data
 authors: Wei Chengcheng, Chen Ze, Fang Songtan, He Jiarong, Gao Max
 conference: "Arxiv"
 year: 2024

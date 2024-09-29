@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CARTIER: Cartographic Language Reasoning Targeted At Instruction Execution For Robots
+title: CARTIER\: Cartographic Language Reasoning Targeted At Instruction Execution For Robots
 authors: Rivkin Dmitriy, Kakodkar Nikhil, Hogan Francois, Baghi Bobak H., Dudek Gregory
 conference: "Arxiv"
 year: 2023

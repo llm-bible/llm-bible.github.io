@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Clipsyntel: CLIP And LLM Synergy For Multimodal Question Summarization In Healthcare
+title: Clipsyntel\: CLIP And LLM Synergy For Multimodal Question Summarization In Healthcare
 authors: Ghosh Akash, Acharya Arkadeep, Jain Raghav, Saha Sriparna, Chadha Aman, Sinha Setu
 conference: "Arxiv"
 year: 2023

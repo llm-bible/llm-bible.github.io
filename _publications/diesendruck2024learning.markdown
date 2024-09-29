@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning How To Ask: Cycle-consistency Refines Prompts In Multimodal Foundation Models
+title: Learning How To Ask\: Cycle-consistency Refines Prompts In Multimodal Foundation Models
 authors: Diesendruck Maurice, Lin Jianzhe, Imani Shima, Mahalingam Gayathri, Xu Mingyang, Zhao Jie
 conference: "Arxiv"
 year: 2024

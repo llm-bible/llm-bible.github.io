@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jamba: A Hybrid Transformer-mamba Language Model
+title: Jamba\: A Hybrid Transformer-mamba Language Model
 authors: Opher Lieber, Barak Lenz, Hofit Bata, Gal Cohen, Jhonathan Osin, Itay Dalmedigos, Erez Safahi, Shaked Meirom, Yonatan Belinkov, Shai Shalev-shwartz, Omri Abend, Raz Alon, Tomer Asida, Amir Bergman, Roman Glozman, Michael Gokhman, Avashalom Manevich, Nir Ratner, Noam Rozen, Erez Shwartz, Mor Zusman, Yoav Shoham
 conference: "Arxiv"
 year: 2024

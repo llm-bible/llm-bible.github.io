@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Software-based Dialogue Systems: Survey, Taxonomy And Challenges
+title: Software-based Dialogue Systems\: Survey, Taxonomy And Challenges
 authors: Motger Quim, Franch Xavier, Marco Jordi
 conference: "Arxiv"
 year: 2021

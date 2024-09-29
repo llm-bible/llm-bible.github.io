@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Robustness Over Time: Understanding Adversarial Examples' Effectiveness On Longitudinal Versions Of Large Language Models
+title: Robustness Over Time\: Understanding Adversarial Examples' Effectiveness On Longitudinal Versions Of Large Language Models
 authors: Liu Yugeng, Cong Tianshuo, Zhao Zhengyu, Backes Michael, Shen Yun, Zhang Yang
 conference: "Arxiv"
 year: 2023

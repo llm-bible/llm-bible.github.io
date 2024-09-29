@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jailbreak Attacks And Defenses Against Large Language Models: A Survey
+title: Jailbreak Attacks And Defenses Against Large Language Models\: A Survey
 authors: Yi Sibo, Liu Yule, Sun Zhen, Cong Tianshuo, He Xinlei, Song Jiaxing, Xu Ke, Li Qi
 conference: "Arxiv"
 year: 2024

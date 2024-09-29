@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-stage Balanced Distillation: Addressing Long-tail Challenges In Sequence-level Knowledge Distillation
+title: Multi-stage Balanced Distillation\: Addressing Long-tail Challenges In Sequence-level Knowledge Distillation
 authors: Zhou Yuhang, Zhu Jing, Xu Paiheng, Liu Xiaoyu, Wang Xiyao, Koutra Danai, Ai Wei, Huang Furong
 conference: "Arxiv"
 year: 2024

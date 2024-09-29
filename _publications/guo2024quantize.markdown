@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GPTQT: Quantize Large Language Models Twice To Push The Efficiency
+title: GPTQT\: Quantize Large Language Models Twice To Push The Efficiency
 authors: Guo Yipin, Lang Yilin, Ren Qinyuan
 conference: "Arxiv"
 year: 2024

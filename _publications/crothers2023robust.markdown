@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Robust Infidelity: When Faithfulness Measures On Masked Language Models Are Misleading
+title: Robust Infidelity\: When Faithfulness Measures On Masked Language Models Are Misleading
 authors: Crothers Evan, Viktor Herna, Japkowicz Nathalie
 conference: "Arxiv"
 year: 2023

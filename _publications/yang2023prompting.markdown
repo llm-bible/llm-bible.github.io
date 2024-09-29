@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Alignedcot: Prompting Large Language Models Via Native-speaking Demonstrations
+title: Alignedcot\: Prompting Large Language Models Via Native-speaking Demonstrations
 authors: Yang Zhicheng, Huang Yinya, Xiong Jing, Feng Liang, Liang Xiaodan, Wang Yiwei, Tang Jing
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bygpt5: End-to-end Style-conditioned Poetry Generation With Token-free Language Models
+title: Bygpt5\: End-to-end Style-conditioned Poetry Generation With Token-free Language Models
 authors: Belouadi Jonas, Eger Steffen
 conference: "Arxiv"
 year: 2022

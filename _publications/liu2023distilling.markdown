@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mind's Mirror: Distilling Self-evaluation Capability And Comprehensive Thinking From Large Language Models
+title: Mind's Mirror\: Distilling Self-evaluation Capability And Comprehensive Thinking From Large Language Models
 authors: Liu Weize, Li Guocong, Zhang Kai, Du Bang, Chen Qiyuan, Hu Xuming, Xu Hongxia, Chen Jintai, Wu Jian
 conference: "Arxiv"
 year: 2023

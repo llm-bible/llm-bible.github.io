@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Goex: Perspectives And Designs Towards A Runtime For Autonomous LLM Applications
+title: Goex\: Perspectives And Designs Towards A Runtime For Autonomous LLM Applications
 authors: Patil Shishir G., Zhang Tianjun, Fang Vivian, C. Noppapon, Huang Roy, Hao Aaron, Casado Martin, Gonzalez Joseph E., Popa Raluca Ada, Stoica Ion
 conference: "Arxiv"
 year: 2024

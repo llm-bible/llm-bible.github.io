@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unnatural Error Correction: GPT-4 Can Almost Perfectly Handle Unnatural Scrambled Text
+title: Unnatural Error Correction\: GPT-4 Can Almost Perfectly Handle Unnatural Scrambled Text
 authors: Cao Qi, Kojima Takeshi, Matsuo Yutaka, Iwasawa Yusuke
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: No Such Thing As A General Learner: Language Models And Their Dual Optimization
+title: No Such Thing As A General Learner\: Language Models And Their Dual Optimization
 authors: Chemla Emmanuel, Nefdt Ryan M.
 conference: "Arxiv"
 year: 2024

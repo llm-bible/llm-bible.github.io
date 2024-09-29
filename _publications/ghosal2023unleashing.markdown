@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Flacuna: Unleashing The Problem Solving Power Of Vicuna Using FLAN Fine-tuning
+title: Flacuna\: Unleashing The Problem Solving Power Of Vicuna Using FLAN Fine-tuning
 authors: Ghosal Deepanway, Chia Yew Ken, Majumder Navonil, Poria Soujanya
 conference: "Arxiv"
 year: 2023

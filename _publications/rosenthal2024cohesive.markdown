@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CLAPNQ: Cohesive Long-form Answers From Passages In Natural Questions For RAG Systems
+title: CLAPNQ\: Cohesive Long-form Answers From Passages In Natural Questions For RAG Systems
 authors: Rosenthal Sara, Sil Avirup, Florian Radu, Roukos Salim
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Video-llava: Learning United Visual Representation By Alignment Before Projection
+title: Video-llava\: Learning United Visual Representation By Alignment Before Projection
 authors: Lin Bin, Ye Yang, Zhu Bin, Cui Jiaxi, Ning Munan, Jin Peng, Yuan Li
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llmbox: A Comprehensive Library For Large Language Models
+title: Llmbox\: A Comprehensive Library For Large Language Models
 authors: Tang Tianyi, Hu Yiwen, Li Bingqian, Luo Wenyang, Qin Zijing, Sun Haoxiang, Wang Jiapeng, Xu Shiyi, Cheng Xiaoxue, Guo Geyang, Peng Han, Zheng Bowen, Tang Yiru, Min Yingqian, Chen Yushuo, Chen Jie, Zhao Yuanqian, Ding Luran, Wang Yuhao, Dong Zican, Xia Chunxuan, Li Junyi, Zhou Kun, Zhao Wayne Xin, Wen Ji-rong
 conference: "Arxiv"
 year: 2024

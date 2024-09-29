@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Galactica: A Large Language Model For Science
+title: Galactica\: A Large Language Model For Science
 authors: Ross Taylor, Marcin Kardas, Guillem Cucurull, Thomas Scialom, Anthony Hartshorn, Elvis Saravia, Andrew Poulton, Viktor Kerkez, Robert Stojnic
 conference: "Arxiv"
 year: 2022

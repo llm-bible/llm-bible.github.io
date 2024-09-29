@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gorilla: Large Language Model Connected With Massive Apis
+title: Gorilla\: Large Language Model Connected With Massive Apis
 authors: Patil Shishir G., Zhang Tianjun, Wang Xin, Gonzalez Joseph E.
 conference: "Arxiv"
 year: 2023

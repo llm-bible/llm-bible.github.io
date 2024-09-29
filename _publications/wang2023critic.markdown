@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Shepherd: A Critic For Language Model Generation
+title: Shepherd\: A Critic For Language Model Generation
 authors: Wang Tianlu, Yu Ping, Tan Xiaoqing Ellen, O'brien Sean, Pasunuru Ramakanth, Dwivedi-yu Jane, Golovneva Olga, Zettlemoyer Luke, Fazel-zarandi Maryam, Celikyilmaz Asli
 conference: "Arxiv"
 year: 2023

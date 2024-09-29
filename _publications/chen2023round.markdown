@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reconcile: Round-table Conference Improves Reasoning Via Consensus Among Diverse Llms
+title: Reconcile\: Round-table Conference Improves Reasoning Via Consensus Among Diverse Llms
 authors: Chen Justin Chih-yao, Saha Swarnadeep, Bansal Mohit
 conference: "Arxiv"
 year: 2023

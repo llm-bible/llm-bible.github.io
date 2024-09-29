@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficient Prompting Methods For Large Language Models: A Survey
+title: Efficient Prompting Methods For Large Language Models\: A Survey
 authors: Chang Kaiyan, Xu Songcheng, Wang Chenglong, Luo Yingfeng, Xiao Tong, Zhu Jingbo
 conference: "Arxiv"
 year: 2024

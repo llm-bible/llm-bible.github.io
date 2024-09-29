@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Describe, Explain, Plan And Select: Interactive Planning With Large Language Models Enables Open-world Multi-task Agents
+title: Describe, Explain, Plan And Select\: Interactive Planning With Large Language Models Enables Open-world Multi-task Agents
 authors: Zihao Wang, Shaofei Cai, Guanzhou Chen, Anji Liu, Xiaojian Ma, Yitao Liang
 conference: "Arxiv"
 year: 2023

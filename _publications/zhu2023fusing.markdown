@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Coca: Fusing Position Embedding With Collinear Constrained Attention In Transformers For Long Context Window Extending
+title: Coca\: Fusing Position Embedding With Collinear Constrained Attention In Transformers For Long Context Window Extending
 authors: Zhu Shiyi, Ye Jing, Jiang Wei, Xue Siqiao, Zhang Qi, Wu Yifan, Li Jianguo
 conference: "Arxiv"
 year: 2023

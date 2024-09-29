@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Readtwice: Reading Very Large Documents With Memories
+title: Readtwice\: Reading Very Large Documents With Memories
 authors: Zemlyanskiy Yury, Ainslie Joshua, De Jong Michiel, Pham Philip, Eckstein Ilya, Sha Fei
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Thought-like-pro: Enhancing Reasoning Of Large Language Models Through Self-driven Prolog-based Chain-of-thought
+title: Thought-like-pro\: Enhancing Reasoning Of Large Language Models Through Self-driven Prolog-based Chain-of-thought
 authors: Tan Xiaoyu, Deng Yongxin, Qiu Xihe, Xu Weidi, Qu Chao, Chu Wei, Xu Yinghui, Qi Yuan
 conference: "Arxiv"
 year: 2024

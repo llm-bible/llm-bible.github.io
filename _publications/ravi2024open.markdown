@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lynx: An Open Source Hallucination Evaluation Model
+title: Lynx\: An Open Source Hallucination Evaluation Model
 authors: Ravi Selvan Sunitha, Mielczarek Bartosz, Kannappan Anand, Kiela Douwe, Qian Rebecca
 conference: "Arxiv"
 year: 2024

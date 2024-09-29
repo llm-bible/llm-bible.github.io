@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Skill Set Optimization: Reinforcing Language Model Behavior Via Transferable Skills
+title: Skill Set Optimization\: Reinforcing Language Model Behavior Via Transferable Skills
 authors: Nottingham Kolby, Majumder Bodhisattwa Prasad, Mishra Bhavana Dalvi, Singh Sameer, Clark Peter, Fox Roy
 conference: "Arxiv"
 year: 2024

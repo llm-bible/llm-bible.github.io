@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recallm: An Adaptable Memory Mechanism With Temporal Understanding For Large Language Models
+title: Recallm\: An Adaptable Memory Mechanism With Temporal Understanding For Large Language Models
 authors: Kynoch Brandon, Latapie Hugo, Van Der Sluis Dwane
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hiformer: Heterogeneous Feature Interactions Learning With Transformers For Recommender Systems
+title: Hiformer\: Heterogeneous Feature Interactions Learning With Transformers For Recommender Systems
 authors: Gui Huan, Wang Ruoxi, Yin Ke, Jin Long, Kula Maciej, Xu Taibai, Hong Lichan, Chi Ed H.
 conference: "Arxiv"
 year: 2023

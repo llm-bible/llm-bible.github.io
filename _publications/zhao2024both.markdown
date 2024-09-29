@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Both Matter: Enhancing The Emotional Intelligence Of Large Language Models Without Compromising The General Intelligence
+title: Both Matter\: Enhancing The Emotional Intelligence Of Large Language Models Without Compromising The General Intelligence
 authors: Zhao Weixiang, Li Zhuojun, Wang Shilong, Wang Yang, Hu Yulin, Zhao Yanyan, Wei Chen, Qin Bing
 conference: "Arxiv"
 year: 2024

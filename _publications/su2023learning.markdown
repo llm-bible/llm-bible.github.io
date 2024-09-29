@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning From Red Teaming: Gender Bias Provocation And Mitigation In Large Language Models
+title: Learning From Red Teaming\: Gender Bias Provocation And Mitigation In Large Language Models
 authors: Su Hsuan, Cheng Cheng-chu, Farn Hua, Kumar Shachi H, Sahay Saurav, Chen Shang-tse, Lee Hung-yi
 conference: "Arxiv"
 year: 2023

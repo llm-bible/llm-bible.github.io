@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-party Goal Tracking With Llms: Comparing Pre-training, Fine-tuning, And Prompt Engineering
+title: Multi-party Goal Tracking With Llms\: Comparing Pre-training, Fine-tuning, And Prompt Engineering
 authors: Addlesee Angus, Sieińska Weronika, Gunson Nancie, Garcia Daniel Hernández, Dondrup Christian, Lemon Oliver
 conference: "Arxiv"
 year: 2023

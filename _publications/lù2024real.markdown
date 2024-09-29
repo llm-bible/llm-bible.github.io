@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Weblinx: Real-world Website Navigation With Multi-turn Dialogue
+title: Weblinx\: Real-world Website Navigation With Multi-turn Dialogue
 authors: Lù Xing Han, Kasner Zdeněk, Reddy Siva
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mindful-rag: A Study Of Points Of Failure In Retrieval Augmented Generation
+title: Mindful-rag\: A Study Of Points Of Failure In Retrieval Augmented Generation
 authors: Agrawal Garima, Kumarage Tharindu, Alghamdi Zeyad, Liu Huan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DIET: Lightweight Language Understanding For Dialogue Systems
+title: DIET\: Lightweight Language Understanding For Dialogue Systems
 authors: Bunk Tanja, Varshneya Daksh, Vlasov Vladimir, Nichol Alan
 conference: "Arxiv"
 year: 2020

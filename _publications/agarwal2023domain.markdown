@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: KITLM: Domain-specific Knowledge Integration Into Language Models For Question Answering
+title: KITLM\: Domain-specific Knowledge Integration Into Language Models For Question Answering
 authors: Agarwal Ankush, Gawade Sakharam, Azad Amar Prakash, Bhattacharyya Pushpak
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLMSTEP: LLM Proofstep Suggestions In Lean
+title: LLMSTEP\: LLM Proofstep Suggestions In Lean
 authors: Welleck Sean, Saha Rahul
 conference: "Arxiv"
 year: 2023

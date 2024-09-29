@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Better Chain-of-thought Prompting Strategies: A Survey
+title: Towards Better Chain-of-thought Prompting Strategies\: A Survey
 authors: Yu Zihan, He Liang, Wu Zhen, Dai Xinyu, Chen Jiajun
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fake Alignment: Are Llms Really Aligned Well?
+title: Fake Alignment\: Are Llms Really Aligned Well?
 authors: Wang Yixu, Teng Yan, Huang Kexin, Lyu Chengqi, Zhang Songyang, Zhang Wenwei, Ma Xingjun, Jiang Yu-gang, Qiao Yu, Wang Yingchun
 conference: "Arxiv"
 year: 2023

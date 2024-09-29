@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Less Is More: Linear Layers On CLIP Features As Powerful Vizwiz Model
+title: Less Is More\: Linear Layers On CLIP Features As Powerful Vizwiz Model
 authors: Deuser Fabian, Habel Konrad, Rösch Philipp J., Oswald Norbert
 conference: "Arxiv"
 year: 2022

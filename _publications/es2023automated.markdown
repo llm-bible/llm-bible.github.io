@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RAGAS: Automated Evaluation Of Retrieval Augmented Generation
+title: RAGAS\: Automated Evaluation Of Retrieval Augmented Generation
 authors: Es Shahul, James Jithin, Espinosa-anke Luis, Schockaert Steven
 conference: "Arxiv"
 year: 2023

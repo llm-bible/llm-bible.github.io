@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Seer: Language Instructed Video Prediction With Latent Diffusion Models
+title: Seer\: Language Instructed Video Prediction With Latent Diffusion Models
 authors: Gu Xianfan, Wen Chuan, Ye Weirui, Song Jiaming, Gao Yang
 conference: "Arxiv"
 year: 2023

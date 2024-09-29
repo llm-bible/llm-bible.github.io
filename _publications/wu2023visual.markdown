@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Visual Chatgpt: Talking, Drawing And Editing With Visual Foundation Models
+title: Visual Chatgpt\: Talking, Drawing And Editing With Visual Foundation Models
 authors: Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan
 conference: "Arxiv"
 year: 2023

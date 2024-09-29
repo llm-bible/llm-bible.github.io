@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ORES: Open-vocabulary Responsible Visual Synthesis
+title: ORES\: Open-vocabulary Responsible Visual Synthesis
 authors: Ni Minheng, Wu Chenfei, Wang Xiaodong, Yin Shengming, Wang Lijuan, Liu Zicheng, Duan Nan
 conference: "Arxiv"
 year: 2023

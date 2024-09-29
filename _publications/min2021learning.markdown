@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Metaicl: Learning To Learn In Context
+title: Metaicl\: Learning To Learn In Context
 authors: Sewon Min, Mike Lewis, Luke Zettlemoyer, Hannaneh Hajishirzi
 conference: "Arxiv"
 year: 2021

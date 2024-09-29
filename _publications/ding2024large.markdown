@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Model Agent In Financial Trading: A Survey
+title: Large Language Model Agent In Financial Trading\: A Survey
 authors: Ding Han, Li Yinheng, Wang Junhao, Chen Hang
 conference: "Arxiv"
 year: 2024

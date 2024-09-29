@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: UGIF: UI Grounded Instruction Following
+title: UGIF\: UI Grounded Instruction Following
 authors: Venkatesh Sagar Gubbi, Talukdar Partha, Narayanan Srini
 conference: "Arxiv"
 year: 2022

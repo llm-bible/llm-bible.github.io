@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: $\(\textit{linkprompt}\)$: Natural And Universal Adversarial Attacks On Prompt-based Language Models
+title: $\(\textit{linkprompt}\)$\: Natural And Universal Adversarial Attacks On Prompt-based Language Models
 authors: Xu Yue, Wang Wenjie
 conference: "Arxiv"
 year: 2024

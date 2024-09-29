@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reft: Reasoning With Reinforced Fine-tuning
+title: Reft\: Reasoning With Reinforced Fine-tuning
 authors: Luong Trung Quoc, Zhang Xinbo, Jie Zhanming, Sun Peng, Jin Xiaoran, Li Hang
 conference: "Arxiv"
 year: 2024

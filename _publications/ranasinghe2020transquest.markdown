@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transquest At WMT2020: Sentence-level Direct Assessment
+title: Transquest At WMT2020\: Sentence-level Direct Assessment
 authors: Ranasinghe Tharindu, Orasan Constantin, Mitkov Ruslan
 conference: "Arxiv"
 year: 2020

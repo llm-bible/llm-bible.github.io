@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Birbal: An Efficient 7B Instruct-model Fine-tuned With Curated Datasets
+title: Birbal\: An Efficient 7B Instruct-model Fine-tuned With Curated Datasets
 authors: Jindal Ashvini Kumar, Rajpoot Pawan Kumar, Parikh Ankur
 conference: "Arxiv"
 year: 2024

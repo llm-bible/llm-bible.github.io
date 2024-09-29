@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reflection Of Thought: Inversely Eliciting Numerical Reasoning In Language Models Via Solving Linear Systems
+title: Reflection Of Thought\: Inversely Eliciting Numerical Reasoning In Language Models Via Solving Linear Systems
 authors: Zhou Fan, Dong Haoyu, Liu Qian, Cheng Zhoujun, Han Shi, Zhang Dongmei
 conference: "Arxiv"
 year: 2022

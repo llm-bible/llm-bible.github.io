@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Progressive Prompts: Continual Learning For Language Models
+title: Progressive Prompts\: Continual Learning For Language Models
 authors: Razdaibiedina Anastasia, Mao Yuning, Hou Rui, Khabsa Madian, Lewis Mike, Almahairi Amjad
 conference: "Arxiv"
 year: 2023

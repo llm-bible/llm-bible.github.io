@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Don't Trust Chatgpt When Your Question Is Not In English: A Study Of Multilingual Abilities And Types Of Llms
+title: Don't Trust Chatgpt When Your Question Is Not In English\: A Study Of Multilingual Abilities And Types Of Llms
 authors: Zhang Xiang, Li Senyu, Hauer Bradley, Shi Ning, Kondrak Grzegorz
 conference: "Arxiv"
 year: 2023

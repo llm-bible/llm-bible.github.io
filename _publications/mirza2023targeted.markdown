@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TAP: Targeted Prompting For Task Adaptive Generation Of Textual Training Instances For Visual Classification
+title: TAP\: Targeted Prompting For Task Adaptive Generation Of Textual Training Instances For Visual Classification
 authors: Mirza M. Jehanzeb, Karlinsky Leonid, Lin Wei, Possegger Horst, Feris Rogerio, Bischof Horst
 conference: "Arxiv"
 year: 2023

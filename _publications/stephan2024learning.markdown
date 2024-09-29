@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RLVF: Learning From Verbal Feedback Without Overgeneralization
+title: RLVF\: Learning From Verbal Feedback Without Overgeneralization
 authors: Stephan Moritz, Khazatsky Alexander, Mitchell Eric, Chen Annie S, Hsu Sheryl, Sharma Archit, Finn Chelsea
 conference: "Arxiv"
 year: 2024

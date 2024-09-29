@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Think-on-graph: Deep And Responsible Reasoning Of Large Language Model On Knowledge Graph
+title: Think-on-graph\: Deep And Responsible Reasoning Of Large Language Model On Knowledge Graph
 authors: Sun Jiashuo, Xu Chengjin, Tang Lumingyuan, Wang Saizhuo, Lin Chen, Gong Yeyun, Ni Lionel M., Shum Heung-yeung, Guo Jian
 conference: "Arxiv"
 year: 2023

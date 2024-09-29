@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mosaicbert: A Bidirectional Encoder Optimized For Fast Pretraining
+title: Mosaicbert\: A Bidirectional Encoder Optimized For Fast Pretraining
 authors: Portes Jacob, Trott Alex, Havens Sam, King Daniel, Venigalla Abhinav, Nadeem Moin, Sardana Nikhil, Khudia Daya, Frankle Jonathan
 conference: "NeurIPS"
 year: 2023

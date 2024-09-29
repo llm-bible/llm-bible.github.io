@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dynamic Clue Bottlenecks: Towards Interpretable-by-design Visual Question Answering
+title: Dynamic Clue Bottlenecks\: Towards Interpretable-by-design Visual Question Answering
 authors: Fu Xingyu, Zhou Ben, Chen Sihao, Yatskar Mark, Roth Dan
 conference: "Arxiv"
 year: 2023

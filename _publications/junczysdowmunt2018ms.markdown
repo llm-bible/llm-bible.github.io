@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ms-uedin Submission To The WMT2018 APE Shared Task: Dual-source Transformer For Automatic Post-editing
+title: Ms-uedin Submission To The WMT2018 APE Shared Task\: Dual-source Transformer For Automatic Post-editing
 authors: Junczys-dowmunt Marcin, Grundkiewicz Roman
 conference: "Arxiv"
 year: 2018

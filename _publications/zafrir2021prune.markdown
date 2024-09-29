@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prune Once For All: Sparse Pre-trained Language Models
+title: Prune Once For All\: Sparse Pre-trained Language Models
 authors: Zafrir Ofir, Larey Ariel, Boudoukh Guy, Shen Haihao, Wasserblat Moshe
 conference: "Arxiv"
 year: 2021

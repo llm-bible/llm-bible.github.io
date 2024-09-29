@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: R4: Reinforced Retriever-reorder-responder For Retrieval-augmented Large Language Models
+title: R4\: Reinforced Retriever-reorder-responder For Retrieval-augmented Large Language Models
 authors: Zhang Taolin, Li Dongyang, Chen Qizhou, Wang Chengyu, Huang Longtao, Xue Hui, He Xiaofeng, Huang Jun
 conference: "Arxiv"
 year: 2024

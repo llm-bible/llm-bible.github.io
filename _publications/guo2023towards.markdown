@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gemrec: Towards Generative Model Recommendation
+title: Gemrec\: Towards Generative Model Recommendation
 authors: Guo Yuanhe, Liu Haoming, Wen Hongyi
 conference: "Arxiv"
 year: 2023

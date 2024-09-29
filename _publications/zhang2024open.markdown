@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tinyllama: An Open-source Small Language Model
+title: Tinyllama\: An Open-source Small Language Model
 authors: Zhang Peiyuan, Zeng Guangtao, Wang Tianduo, Lu Wei
 conference: "Arxiv"
 year: 2024

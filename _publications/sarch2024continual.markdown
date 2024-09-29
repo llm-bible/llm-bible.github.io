@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ICAL: Continual Learning Of Multimodal Agents By Transforming Trajectories Into Actionable Insights
+title: ICAL\: Continual Learning Of Multimodal Agents By Transforming Trajectories Into Actionable Insights
 authors: Sarch Gabriel, Jang Lawrence, Tarr Michael J., Cohen William W., Marino Kenneth, Fragkiadaki Katerina
 conference: "Arxiv"
 year: 2024

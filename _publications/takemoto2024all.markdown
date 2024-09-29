@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: All In How You Ask For It: Simple Black-box Method For Jailbreak Attacks
+title: All In How You Ask For It\: Simple Black-box Method For Jailbreak Attacks
 authors: Takemoto Kazuhiro
 conference: "Appl. Sci."
 year: 2024

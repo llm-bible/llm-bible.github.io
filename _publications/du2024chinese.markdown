@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chinese Tiny LLM: Pretraining A Chinese-centric Large Language Model
+title: Chinese Tiny LLM\: Pretraining A Chinese-centric Large Language Model
 authors: Du Xinrun, Yu Zhouliang, Gao Songyang, Pan Ding, Cheng Yuyang, Ma Ziyang, Yuan Ruibin, Qu Xingwei, Liu Jiaheng, Zheng Tianyu, Luo Xinchen, Zhou Guorui, Chen Wenhu, Zhang Ge
 conference: "Arxiv"
 year: 2024

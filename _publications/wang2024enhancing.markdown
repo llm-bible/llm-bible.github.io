@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prefclm: Enhancing Preference-based Reinforcement Learning With Crowdsourced Large Language Models
+title: Prefclm\: Enhancing Preference-based Reinforcement Learning With Crowdsourced Large Language Models
 authors: Wang Ruiqi, Zhao Dezhong, Yuan Ziqin, Obi Ike, Min Byung-cheol
 conference: "Arxiv"
 year: 2024

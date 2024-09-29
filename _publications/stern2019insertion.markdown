@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Insertion Transformer: Flexible Sequence Generation Via Insertion Operations
+title: Insertion Transformer\: Flexible Sequence Generation Via Insertion Operations
 authors: Stern Mitchell, Chan William, Kiros Jamie, Uszkoreit Jakob
 conference: "Arxiv"
 year: 2019

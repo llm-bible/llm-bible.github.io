@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enja: Ensemble Jailbreak On Large Language Models
+title: Enja\: Ensemble Jailbreak On Large Language Models
 authors: Zhang Jiahao, Wang Zilong, Wang Ruofan, Ma Xingjun, Jiang Yu-gang
 conference: "Arxiv"
 year: 2024

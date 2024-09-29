@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Whispering Experts: Neural Interventions For Toxicity Mitigation In Language Models
+title: Whispering Experts\: Neural Interventions For Toxicity Mitigation In Language Models
 authors: Suau Xavier, Delobelle Pieter, Metcalf Katherine, Joulin Armand, Apostoloff Nicholas, Zappella Luca, Rodríguez Pau
 conference: "Arxiv"
 year: 2024

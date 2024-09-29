@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: C-RAG: Certified Generation Risks For Retrieval-augmented Language Models
+title: C-RAG\: Certified Generation Risks For Retrieval-augmented Language Models
 authors: Kang Mintong, Gürel Nezihe Merve, Yu Ning, Song Dawn, Li Bo
 conference: "Arxiv"
 year: 2024

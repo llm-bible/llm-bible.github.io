@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Clinical-longformer And Clinical-bigbird: Transformers For Long Clinical Sequences
+title: Clinical-longformer And Clinical-bigbird\: Transformers For Long Clinical Sequences
 authors: Li Yikuan, Wehbe Ramsey M., Ahmad Faraz S., Wang Hanyin, Luo Yuan
 conference: "Arxiv"
 year: 2022

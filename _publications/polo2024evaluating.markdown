@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tinybenchmarks: Evaluating Llms With Fewer Examples
+title: Tinybenchmarks\: Evaluating Llms With Fewer Examples
 authors: Polo Felipe Maia, Weber Lucas, Choshen Leshem, Sun Yuekai, Xu Gongjun, Yurochkin Mikhail
 conference: "Arxiv"
 year: 2024

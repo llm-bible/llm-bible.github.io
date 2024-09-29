@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Peek Into Token Bias: Large Language Models Are Not Yet Genuine Reasoners
+title: A Peek Into Token Bias\: Large Language Models Are Not Yet Genuine Reasoners
 authors: Jiang Bowen, Xie Yangxinyu, Hao Zhuoqun, Wang Xiaomeng, Mallick Tanwi, Su Weijie J., Taylor Camillo J., Roth Dan
 conference: "Arxiv"
 year: 2024

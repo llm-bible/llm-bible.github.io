@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leave No Document Behind: Benchmarking Long-context Llms With Extended Multi-doc QA
+title: Leave No Document Behind\: Benchmarking Long-context Llms With Extended Multi-doc QA
 authors: Wang Minzheng, Chen Longze, Fu Cheng, Liao Shengyi, Zhang Xinghua, Wu Bingli, Yu Haiyang, Xu Nan, Zhang Lei, Luo Run, Li Yunshui, Yang Min, Huang Fei, Li Yongbin
 conference: "Arxiv"
 year: 2024

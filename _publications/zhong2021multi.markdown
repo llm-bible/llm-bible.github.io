@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SILG: The Multi-environment Symbolic Interactive Language Grounding Benchmark
+title: SILG\: The Multi-environment Symbolic Interactive Language Grounding Benchmark
 authors: Zhong Victor, Hanjie Austin W., Wang Sida I., Narasimhan Karthik, Zettlemoyer Luke
 conference: "Arxiv"
 year: 2021

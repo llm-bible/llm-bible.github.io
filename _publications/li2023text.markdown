@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Text Is All You Need: Learning Language Representations For Sequential Recommendation
+title: Text Is All You Need\: Learning Language Representations For Sequential Recommendation
 authors: Li Jiacheng, Wang Ming, Li Jin, Fu Jinmiao, Shen Xin, Shang Jingbo, Mcauley Julian
 conference: "Arxiv"
 year: 2023

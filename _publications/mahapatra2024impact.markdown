@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Impact Of Model Size On Fine-tuned LLM Performance In Data-to-text Generation: A State-of-the-art Investigation
+title: Impact Of Model Size On Fine-tuned LLM Performance In Data-to-text Generation\: A State-of-the-art Investigation
 authors: Mahapatra Joy, Garain Utpal
 conference: "Arxiv"
 year: 2024

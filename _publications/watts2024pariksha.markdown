@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PARIKSHA : A Large-scale Investigation Of Human-llm Evaluator Agreement On Multilingual And Multi-cultural Data
+title: PARIKSHA \: A Large-scale Investigation Of Human-llm Evaluator Agreement On Multilingual And Multi-cultural Data
 authors: Watts Ishaan, Gumma Varun, Yadavalli Aditya, Seshadri Vivek, Swaminathan Manohar, Sitaram Sunayana
 conference: "Arxiv"
 year: 2024

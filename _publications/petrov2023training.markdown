@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recjpq: Training Large-catalogue Sequential Recommenders
+title: Recjpq\: Training Large-catalogue Sequential Recommenders
 authors: Petrov Aleksandr V., Macdonald Craig
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Mysterious Case Of Neuron 1512: Injectable Realignment Architectures Reveal Internal Characteristics Of Meta's Llama 2 Model
+title: The Mysterious Case Of Neuron 1512\: Injectable Realignment Architectures Reveal Internal Characteristics Of Meta's Llama 2 Model
 authors: Smith Brenden, Baker Dallin, Chase Clayton, Barney Myles, Parker Kaden, Allred Makenna, Hu Peter, Evans Alex, Fulda Nancy
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scaling Laws With Vocabulary: Larger Models Deserve Larger Vocabularies
+title: Scaling Laws With Vocabulary\: Larger Models Deserve Larger Vocabularies
 authors: Tao Chaofan, Liu Qian, Dou Longxu, Muennighoff Niklas, Wan Zhongwei, Luo Ping, Lin Min, Wong Ngai
 conference: "Arxiv"
 year: 2024

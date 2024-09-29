@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: S-prompts Learning With Pre-trained Transformers: An Occam's Razor For Domain Incremental Learning
+title: S-prompts Learning With Pre-trained Transformers\: An Occam's Razor For Domain Incremental Learning
 authors: Wang Yabin, Huang Zhiwu, Hong Xiaopeng
 conference: "Arxiv"
 year: 2022

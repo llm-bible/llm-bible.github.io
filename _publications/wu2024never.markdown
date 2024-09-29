@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Never Miss A Beat: An Efficient Recipe For Context Window Extension Of Large Language Models With Consistent "middle" Enhancement
+title: Never Miss A Beat\: An Efficient Recipe For Context Window Extension Of Large Language Models With Consistent "middle" Enhancement
 authors: Wu Tong, Zhao Yanpeng, Zheng Zilong
 conference: "Arxiv"
 year: 2024

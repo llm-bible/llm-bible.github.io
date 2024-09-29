@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Math-llava: Bootstrapping Mathematical Reasoning For Multimodal Large Language Models
+title: Math-llava\: Bootstrapping Mathematical Reasoning For Multimodal Large Language Models
 authors: Shi Wenhao, Hu Zhiqiang, Bin Yi, Liu Junhua, Yang Yang, Ng See-kiong, Bing Lidong, Lee Roy Ka-wei
 conference: "Arxiv"
 year: 2024

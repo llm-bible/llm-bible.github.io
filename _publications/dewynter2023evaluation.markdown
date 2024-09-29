@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Evaluation On Large Language Model Outputs: Discourse And Memorization
+title: An Evaluation On Large Language Model Outputs\: Discourse And Memorization
 authors: De Wynter Adrian, Wang Xun, Sokolov Alex, Gu Qilong, Chen Si-qing
 conference: "Arxiv"
 year: 2023

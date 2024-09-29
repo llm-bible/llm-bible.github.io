@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model For Text Generation And Modular Control
+title: SSD-LM\: Semi-autoregressive Simplex-based Diffusion Language Model For Text Generation And Modular Control
 authors: Han Xiaochuang, Kumar Sachin, Tsvetkov Yulia
 conference: "Arxiv"
 year: 2022

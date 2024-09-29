@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Studenteval: A Benchmark Of Student-written Prompts For Large Language Models Of Code
+title: Studenteval\: A Benchmark Of Student-written Prompts For Large Language Models Of Code
 authors: Babe Hannah Mclean, Nguyen Sydney, Zi Yangtian, Guha Arjun, Feldman Molly Q, Anderson Carolyn Jane
 conference: "Arxiv"
 year: 2023

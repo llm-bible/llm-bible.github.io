@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Billions Of Parameters Are Worth More Than In-domain Training Data: A Case Study In The Legal Case Entailment Task
+title: Billions Of Parameters Are Worth More Than In-domain Training Data\: A Case Study In The Legal Case Entailment Task
 authors: Rosa Guilherme Moraes, Bonifacio Luiz, Jeronymo Vitor, Abonizio Hugo, Lotufo Roberto, Nogueira Rodrigo
 conference: "Arxiv"
 year: 2022

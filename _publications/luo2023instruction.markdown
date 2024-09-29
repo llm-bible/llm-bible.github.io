@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recranker: Instruction Tuning Large Language Model As Ranker For Top-k Recommendation
+title: Recranker\: Instruction Tuning Large Language Model As Ranker For Top-k Recommendation
 authors: Luo Sichun, He Bowei, Zhao Haohan, Shao Wei, Qi Yanlin, Huang Yinya, Zhou Aojun, Yao Yuxuan, Li Zongpeng, Xiao Yuanzhang, Zhan Mingjie, Song Linqi
 conference: "Arxiv"
 year: 2023

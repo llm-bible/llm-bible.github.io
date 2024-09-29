@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Im-promptu: In-context Composition From Image Prompts
+title: Im-promptu\: In-context Composition From Image Prompts
 authors: Dedhia Bhishma, Chang Michael, Snell Jake C., Griffiths Thomas L., Jha Niraj K.
 conference: "Arxiv"
 year: 2023

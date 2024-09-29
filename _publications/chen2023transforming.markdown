@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: NL2TL: Transforming Natural Languages To Temporal Logics Using Large Language Models
+title: NL2TL\: Transforming Natural Languages To Temporal Logics Using Large Language Models
 authors: Chen Yongchao, Gandhi Rujul, Zhang Yang, Fan Chuchu
 conference: "Proceedings of the"
 year: 2023

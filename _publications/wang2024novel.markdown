@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SUBLLM: A Novel Efficient Architecture With Token Sequence Subsampling For LLM
+title: SUBLLM\: A Novel Efficient Architecture With Token Sequence Subsampling For LLM
 authors: Wang Quandong, Yuan Yuxuan, Yang Xiaoyu, Zhang Ruike, Zhao Kang, Liu Wei, Luan Jian, Povey Daniel, Wang Bin
 conference: "Arxiv"
 year: 2024

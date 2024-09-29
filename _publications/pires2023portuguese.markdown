@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sabi\'a: Portuguese Large Language Models
+title: Sabi\'a\: Portuguese Large Language Models
 authors: Pires Ramon, Abonizio Hugo, Almeida Thales Sales, Nogueira Rodrigo
 conference: "Arxiv"
 year: 2023

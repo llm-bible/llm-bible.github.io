@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Mathematical Reasoning Of Large Language Models: A Focus On Error Identification And Correction
+title: Evaluating Mathematical Reasoning Of Large Language Models\: A Focus On Error Identification And Correction
 authors: Li Xiaoyuan, Wang Wenjie, Li Moxin, Guo Junrong, Zhang Yang, Feng Fuli
 conference: "Arxiv"
 year: 2024

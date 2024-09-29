@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SSP: Self-supervised Prompting For Cross-lingual Transfer To Low-resource Languages Using Large Language Models
+title: SSP\: Self-supervised Prompting For Cross-lingual Transfer To Low-resource Languages Using Large Language Models
 authors: Rathore Vipul, Deb Aniruddha, Chandresh Ankish, Singla Parag, Mausam
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Silent Curriculum: How Does LLM Monoculture Shape Educational Content And Its Accessibility?
+title: The Silent Curriculum\: How Does LLM Monoculture Shape Educational Content And Its Accessibility?
 authors: Priyanshu Aman, Vijay Supriti
 conference: "Arxiv"
 year: 2024

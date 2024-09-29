@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fairylandai: Personalized Fairy Tales Utilizing Chatgpt And DALLE-3
+title: Fairylandai\: Personalized Fairy Tales Utilizing Chatgpt And DALLE-3
 authors: Makridis Georgios, Oikonomou Athanasios, Koukos Vasileios
 conference: "Arxiv"
 year: 2024

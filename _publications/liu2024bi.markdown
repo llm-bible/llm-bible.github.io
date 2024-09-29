@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bi-chainer: Automated Large Language Models Reasoning With Bidirectional Chaining
+title: Bi-chainer\: Automated Large Language Models Reasoning With Bidirectional Chaining
 authors: Liu Shuqi, He Bowei, Song Linqi
 conference: "Arxiv"
 year: 2024

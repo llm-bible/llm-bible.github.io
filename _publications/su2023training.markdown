@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: F3-pruning: A Training-free And Generalized Pruning Strategy Towards Faster And Finer Text-to-video Synthesis
+title: F3-pruning\: A Training-free And Generalized Pruning Strategy Towards Faster And Finer Text-to-video Synthesis
 authors: Su Sitong, Liu Jianzhi, Gao Lianli, Song Jingkuan
 conference: "Arxiv"
 year: 2023

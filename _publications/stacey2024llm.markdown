@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LUCID: Llm-generated Utterances For Complex And Interesting Dialogues
+title: LUCID\: Llm-generated Utterances For Complex And Interesting Dialogues
 authors: Stacey Joe, Cheng Jianpeng, Torr John, Guigue Tristan, Driesen Joris, Coca Alexandru, Gaynor Mark, Johannsen Anders
 conference: "Arxiv"
 year: 2024

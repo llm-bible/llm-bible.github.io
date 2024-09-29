@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bimedix: Bilingual Medical Mixture Of Experts LLM
+title: Bimedix\: Bilingual Medical Mixture Of Experts LLM
 authors: Pieri Sara, Mullappilly Sahal Shaji, Khan Fahad Shahbaz, Anwer Rao Muhammad, Khan Salman, Baldwin Timothy, Cholakkal Hisham
 conference: "Arxiv"
 year: 2024

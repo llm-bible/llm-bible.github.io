@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Seqgpt: An Out-of-the-box Large Language Model For Open Domain Sequence Understanding
+title: Seqgpt\: An Out-of-the-box Large Language Model For Open Domain Sequence Understanding
 authors: Yu Tianyu, Jiang Chengyue, Lou Chao, Huang Shen, Wang Xiaobin, Liu Wei, Cai Jiong, Li Yangning, Li Yinghui, Tu Kewei, Zheng Hai-tao, Zhang Ningyu, Xie Pengjun, Huang Fei, Jiang Yong
 conference: "Arxiv"
 year: 2023

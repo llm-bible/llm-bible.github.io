@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VAULT: Variable Unified Long Text Representation For Machine Reading Comprehension
+title: VAULT\: Variable Unified Long Text Representation For Machine Reading Comprehension
 authors: Wen Haoyang, Ferritto Anthony, Ji Heng, Florian Radu, Sil Avirup
 conference: "Arxiv"
 year: 2021

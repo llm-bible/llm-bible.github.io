@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieve, Caption, Generate: Visual Grounding For Enhancing Commonsense In Text Generation Models
+title: Retrieve, Caption, Generate\: Visual Grounding For Enhancing Commonsense In Text Generation Models
 authors: Feng Steven Y., Lu Kevin, Tao Zhuofu, Alikhani Malihe, Mitamura Teruko, Hovy Eduard, Gangal Varun
 conference: "Arxiv"
 year: 2021

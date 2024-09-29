@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SCALE: Synergized Collaboration Of Asymmetric Language Translation Engines
+title: SCALE\: Synergized Collaboration Of Asymmetric Language Translation Engines
 authors: Cheng Xin, Wang Xun, Ge Tao, Chen Si-qing, Wei Furu, Zhao Dongyan, Yan Rui
 conference: "Arxiv"
 year: 2023

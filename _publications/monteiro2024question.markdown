@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Repliqa: A Question-answering Dataset For Benchmarking Llms On Unseen Reference Content
+title: Repliqa\: A Question-answering Dataset For Benchmarking Llms On Unseen Reference Content
 authors: Monteiro Joao, Noel Pierre-andre, Marcotte Etienne, Rajeswar Sai, Zantedeschi Valentina, Vazquez David, Chapados Nicolas, Pal Christopher, Taslakian Perouz
 conference: "Arxiv"
 year: 2024
