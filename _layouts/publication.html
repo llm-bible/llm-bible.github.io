@@ -28,7 +28,7 @@ layout: default
   <script>  
     $(document).ready(
       function() {
-        $.getJSON("/publications-metadata/{{ page.path | replace_first: '_publications/', '' | replace: '.markdown', '' }}.json", function(data) {
+        $.getJSON("https://github.com/llm-bible/llm-bible.github.io/tree/master/publications-metadata/{{ page.path | replace_first: '_publications/', '' | replace: '.markdown', '' }}.json", function(data) {
           num_papers = data.length;
           html = "";
           for (let i=0; i < num_papers; i++) {
