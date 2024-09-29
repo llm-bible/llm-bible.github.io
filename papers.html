@@ -56,8 +56,36 @@ the information of existing papers or adding new work.
 <div id="loadMore" style="text-align:center; padding:20px;">Loading more...</div>
 
 <script>
-let publicationsLoaded = 20; // Number of publications initially loaded
-const perPage = 20;  // Number of publications to load per scroll
+// Function to filter papers based on the search query
+function filterPapers() {
+  const searchQuery = decodeURIComponent(window.location.hash.substring(1)).toLowerCase();
+  const rows = document.querySelectorAll('.publication-row');
+  
+  rows.forEach(function(row) {
+    const title = row.querySelector('td:nth-child(2)').innerText.toLowerCase();
+    const authors = row.querySelector('td:nth-child(3)').innerText.toLowerCase();
+    const abstract = row.querySelector('td:nth-child(5)').innerText.toLowerCase();
+    
+    // Show or hide the row based on search query match
+    if (title.includes(searchQuery) || authors.includes(searchQuery) || abstract.includes(searchQuery)) {
+      row.style.display = '';
+    } else {
+      row.style.display = 'none';
+    }
+  });
+}
+
+// Run filter when page loads if a search query is present
+window.addEventListener('DOMContentLoaded', function() {
+  if (window.location.hash) {
+    filterPapers();
+  }
+});
+</script>
+
+<script>
+let publicationsLoaded = 100; // Number of publications initially loaded
+const perPage = 50;  // Number of publications to load per scroll
 
 // Function to load more publications
 function loadMorePublications() {
