@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reacc A Retrieval45;augmented Code Completion Framework
+title: Reacc A Retrieval-augmented Code Completion Framework
 authors: Lu Shuai, Duan Nan, Han Hojae, Guo Daya, Hwang Seung-won, Svyatkovskiy Alexey
 conference: "Arxiv"
 year: 2022
@@ -9,4 +9,4 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.07722"}
 tags: ['Language Modeling', 'Model Architecture', 'Pretraining Methods', 'RAG', 'Tools', 'Training Techniques', 'Transformer']
 ---
-Code completion which aims to predict the following code token(s) according to the code context can improve the productivity of software development. Recent work has proved that statistical language modeling with transformers can greatly improve the performance in the code completion task via learning from large45;scale source code datasets. However current approaches focus only on code context within the file or project i.e. internal context. Our distinction is utilizing external context inspired by human behaviors of copying from the related code snippets when writing code. Specifically we propose a retrieval45;augmented code completion framework leveraging both lexical copying and referring to code with similar semantics by retrieval. We adopt a stage45;wise training approach that combines a source code retriever and an auto45;regressive language model for programming language. We evaluate our approach in the code completion task in Python and Java programming languages achieving a state45;of45;the45;art performance on CodeXGLUE benchmark.
+Code completion which aims to predict the following code token(s) according to the code context can improve the productivity of software development. Recent work has proved that statistical language modeling with transformers can greatly improve the performance in the code completion task via learning from large-scale source code datasets. However current approaches focus only on code context within the file or project i.e. internal context. Our distinction is utilizing external context inspired by human behaviors of copying from the related code snippets when writing code. Specifically we propose a retrieval-augmented code completion framework leveraging both lexical copying and referring to code with similar semantics by retrieval. We adopt a stage-wise training approach that combines a source code retriever and an auto-regressive language model for programming language. We evaluate our approach in the code completion task in Python and Java programming languages achieving a state-of-the-art performance on CodeXGLUE benchmark.

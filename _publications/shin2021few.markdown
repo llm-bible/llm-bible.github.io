@@ -1,12 +1,12 @@
 ---
 layout: publication
-title: Few45;shot Semantic Parsing With Language Models Trained On Code
+title: Few-shot Semantic Parsing With Language Models Trained On Code
 authors: Shin Richard, Van Durme Benjamin
 conference: "Arxiv"
 year: 2021
 bibkey: shin2021few
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.08696"}
-tags: ['GPT', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'Reinforcement Learning', 'Training Techniques']
+tags: ['Few Shot', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'Reinforcement Learning', 'Training Techniques']
 ---
-Large language models can perform semantic parsing with little training data when prompted with in45;context examples. It has been shown that this can be improved by formulating the problem as paraphrasing into canonical utterances which casts the underlying meaning representation into a controlled natural language45;like representation. Intuitively such models can more easily output canonical utterances as they are closer to the natural language used for pre45;training. Recently models also pre45;trained on code like OpenAI Codex have risen in prominence. For semantic parsing tasks where we map natural language into code such models may prove more adept at it. In this paper we test this hypothesis and find that Codex performs better on such tasks than equivalent GPT45;3 models. We evaluate on Overnight and SMCalFlow and find that unlike GPT45;3 Codex performs similarly when targeting meaning representations directly perhaps because meaning representations are structured similar to code in these datasets.
+Large language models can perform semantic parsing with little training data when prompted with in-context examples. It has been shown that this can be improved by formulating the problem as paraphrasing into canonical utterances which casts the underlying meaning representation into a controlled natural language-like representation. Intuitively such models can more easily output canonical utterances as they are closer to the natural language used for pre-training. Recently models also pre-trained on code like OpenAI Codex have risen in prominence. For semantic parsing tasks where we map natural language into code such models may prove more adept at it. In this paper we test this hypothesis and find that Codex performs better on such tasks than equivalent GPT-3 models. We evaluate on Overnight and SMCalFlow and find that unlike GPT-3 Codex performs similarly when targeting meaning representations directly perhaps because meaning representations are structured similar to code in these datasets.

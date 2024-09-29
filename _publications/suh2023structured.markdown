@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Luminate Structured Generation And Exploration Of Design Space With Large Language Models For Human45;ai Co45;creation
+title: Luminate Structured Generation And Exploration Of Design Space With Large Language Models For Human-ai Co-creation
 authors: Suh Sangho, Chen Meng, Min Bryan, Li Toby Jia-jun, Xia Haijun
 conference: "Arxiv"
 year: 2023

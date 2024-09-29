@@ -9,4 +9,4 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1808.09465"}
 tags: ['Applications', 'Attention Mechanism', 'Merging', 'Model Architecture', 'Pretraining Methods', 'Transformer']
 ---
-The University of Cambridge submission to the WMT18 news translation task focuses on the combination of diverse models of translation. We compare recurrent convolutional and self45;attention45;based neural models on German45;English English45;German and Chinese45;English. Our final system combines all neural models together with a phrase45;based SMT system in an MBR45;based scheme. We report small but consistent gains on top of strong Transformer ensembles.
+The University of Cambridge submission to the WMT18 news translation task focuses on the combination of diverse models of translation. We compare recurrent convolutional and self-attention-based neural models on German-English English-German and Chinese-English. Our final system combines all neural models together with a phrase-based SMT system in an MBR-based scheme. We report small but consistent gains on top of strong Transformer ensembles.

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BERTGEN Multi45;task Generation Through BERT
+title: BERTGEN Multi-task Generation Through BERT
 authors: Mitzalis Faidon, Caglayan Ozan, Madhyastha Pranava, Specia Lucia
 conference: "Arxiv"
 year: 2021
@@ -9,4 +9,4 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.03484"}
 tags: ['Applications', 'BERT', 'Ethics And Bias', 'Model Architecture', 'Multimodal Models']
 ---
-We present BERTGEN a novel generative decoder45;only model which extends BERT by fusing multimodal and multilingual pretrained models VL45;BERT and M45;BERT respectively. BERTGEN is auto45;regressively trained for language generation tasks namely image captioning machine translation and multimodal machine translation under a multitask setting. With a comprehensive set of evaluations we show that BERTGEN outperforms many strong baselines across the tasks explored. We also show BERTGENs ability for zero45;shot language generation where it exhibits competitive performance to supervised counterparts. Finally we conduct ablation studies which demonstrate that BERTGEN substantially benefits from multi45;tasking and effectively transfers relevant inductive biases from the pre45;trained models.
+We present BERTGEN a novel generative decoder-only model which extends BERT by fusing multimodal and multilingual pretrained models VL-BERT and M-BERT respectively. BERTGEN is auto-regressively trained for language generation tasks namely image captioning machine translation and multimodal machine translation under a multitask setting. With a comprehensive set of evaluations we show that BERTGEN outperforms many strong baselines across the tasks explored. We also show BERTGENs ability for zero-shot language generation where it exhibits competitive performance to supervised counterparts. Finally we conduct ablation studies which demonstrate that BERTGEN substantially benefits from multi-tasking and effectively transfers relevant inductive biases from the pre-trained models.

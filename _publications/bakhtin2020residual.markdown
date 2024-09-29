@@ -1,12 +1,12 @@
 ---
 layout: publication
-title: Residual Energy45;based Models For Text
+title: Residual Energy-based Models For Text
 authors: Bakhtin Anton, Deng Yuntian, Gross Sam, Ott Myle, Ranzato Marc'aurelio, Szlam Arthur
 conference: "Journal of Machine Learning Research"
 year: 2020
 bibkey: bakhtin2020residual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.10188"}
-tags: ['Applications', 'Tools', 'Training Techniques']
+tags: ['Pretraining Methods', 'Tools', 'Training Techniques']
 ---
-Current large45;scale auto45;regressive language models display impressive fluency and can generate convincing text. In this work we start by asking the question Can the generations of these models be reliably distinguished from real text by statistical discriminators We find experimentally that the answer is affirmative when we have access to the training data for the model and guardedly affirmative even if we do not. This suggests that the auto45;regressive models can be improved by incorporating the (globally normalized) discriminators into the generative process. We give a formalism for this using the Energy45;Based Model framework and show that it indeed improves the results of the generative models measured both in terms of perplexity and in terms of human evaluation.
+Current large-scale auto-regressive language models display impressive fluency and can generate convincing text. In this work we start by asking the question Can the generations of these models be reliably distinguished from real text by statistical discriminators We find experimentally that the answer is affirmative when we have access to the training data for the model and guardedly affirmative even if we do not. This suggests that the auto-regressive models can be improved by incorporating the (globally normalized) discriminators into the generative process. We give a formalism for this using the Energy-Based Model framework and show that it indeed improves the results of the generative models measured both in terms of perplexity and in terms of human evaluation.

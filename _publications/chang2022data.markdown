@@ -1,12 +1,12 @@
 ---
 layout: publication
-title: Data Curation Alone Can Stabilize In45;context Learning
+title: Data Curation Alone Can Stabilize In-context Learning
 authors: Chang Ting-yun, Jia Robin
 conference: "Arxiv"
 year: 2022
 bibkey: chang2022data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.10378"}
-tags: ['Prompting', 'RAG', 'Training Techniques']
+tags: ['In Context Learning', 'Prompting', 'RAG', 'Training Techniques']
 ---
-In45;context learning (ICL) enables large language models (LLMs) to perform new tasks by prompting them with a sequence of training examples. However it is known that ICL is very sensitive to the choice of training examples randomly sampling examples from a training set leads to high variance in performance. In this paper we show that carefully curating a subset of training data greatly stabilizes ICL performance without any other changes to the ICL algorithm (e.g. prompt retrieval or calibration). We introduce two methods to choose training subsets 45;45; both score training examples individually then select the highest45;scoring ones. CondAcc scores a training example by its average dev45;set ICL accuracy when combined with random training examples while Datamodels learns linear regressors that estimate how the presence of each training example influences LLM outputs. Across five tasks and two LLMs sampling from stable subsets selected by CondAcc and Datamodels improves average accuracy over sampling from the entire training set by 7.737; and 6.337; respectively. Surprisingly the stable subset examples are not especially diverse in content or low in perplexity in contrast with other work suggesting that diversity and perplexity are important when prompting LLMs.
+In-context learning (ICL) enables large language models (LLMs) to perform new tasks by prompting them with a sequence of training examples. However it is known that ICL is very sensitive to the choice of training examples randomly sampling examples from a training set leads to high variance in performance. In this paper we show that carefully curating a subset of training data greatly stabilizes ICL performance without any other changes to the ICL algorithm (e.g. prompt retrieval or calibration). We introduce two methods to choose training subsets -- both score training examples individually then select the highest-scoring ones. CondAcc scores a training example by its average dev-set ICL accuracy when combined with random training examples while Datamodels learns linear regressors that estimate how the presence of each training example influences LLM outputs. Across five tasks and two LLMs sampling from stable subsets selected by CondAcc and Datamodels improves average accuracy over sampling from the entire training set by 7.737; and 6.337; respectively. Surprisingly the stable subset examples are not especially diverse in content or low in perplexity in contrast with other work suggesting that diversity and perplexity are important when prompting LLMs.

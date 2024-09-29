@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LOGIC45;LM++ Multi45;step Refinement For Symbolic Formulations
+title: LOGIC-LM++ Multi-step Refinement For Symbolic Formulations
 authors: Kirtania Shashank, Gupta Priyanshu, Radhakirshna Arjun
 conference: "Arxiv"
 year: 2024
@@ -9,4 +9,4 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.02514"}
 tags: ['Pretraining Methods', 'Prompting', 'RAG']
 ---
-In this paper we examine the limitations of Large Language Models (LLMs) for complex reasoning tasks. Although recent works have started to employ formal languages as an intermediate representation for reasoning tasks they often face challenges in accurately generating and refining these formal specifications to ensure correctness. To address these issues this paper proposes Logic45;LM++ an improvement on Logic45;LM . It uses the ability of LLMs to do pairwise comparisons allowing the evaluation of the refinements suggested by the LLM. The paper demonstrates that Logic45;LM++ outperforms Logic45;LM and other contemporary techniques across natural language reasoning tasks on three datasets FOLIO ProofWriter and AR45;LSAT with an average improvement of 18.537; on standard prompting 12.337; on chain of thought prompting and 537; on Logic45;LM.
+In this paper we examine the limitations of Large Language Models (LLMs) for complex reasoning tasks. Although recent works have started to employ formal languages as an intermediate representation for reasoning tasks they often face challenges in accurately generating and refining these formal specifications to ensure correctness. To address these issues this paper proposes Logic-LM++ an improvement on Logic-LM . It uses the ability of LLMs to do pairwise comparisons allowing the evaluation of the refinements suggested by the LLM. The paper demonstrates that Logic-LM++ outperforms Logic-LM and other contemporary techniques across natural language reasoning tasks on three datasets FOLIO ProofWriter and AR-LSAT with an average improvement of 18.537; on standard prompting 12.337; on chain of thought prompting and 537; on Logic-LM.

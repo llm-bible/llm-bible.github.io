@@ -7,7 +7,7 @@ year: 2020
 bibkey: liu2020very
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2008.07772"}
-  - {name: "Code", url: "https://github.com/namisan/exdeep&#45;nmt"}
+  - {name: "Code", url: "https://github.com/namisan/exdeep-nmt"}
 tags: ['Applications', 'Has Code', 'Model Architecture', 'Pretraining Methods', 'Training Techniques', 'Transformer']
 ---
-We explore the application of very deep Transformer models for Neural Machine Translation (NMT). Using a simple yet effective initialization technique that stabilizes training we show that it is feasible to build standard Transformer45;based models with up to 60 encoder layers and 12 decoder layers. These deep models outperform their baseline 645;layer counterparts by as much as 2.5 BLEU and achieve new state45;of45;the45;art benchmark results on WMT14 English45;French (43.8 BLEU and 46.4 BLEU with back45;translation) and WMT14 English45;German (30.1 BLEU).The code and trained models will be publicly available at https://github.com/namisan/exdeep&#45;nmt.
+We explore the application of very deep Transformer models for Neural Machine Translation (NMT). Using a simple yet effective initialization technique that stabilizes training we show that it is feasible to build standard Transformer-based models with up to 60 encoder layers and 12 decoder layers. These deep models outperform their baseline 6-layer counterparts by as much as 2.5 BLEU and achieve new state-of-the-art benchmark results on WMT14 English-French (43.8 BLEU and 46.4 BLEU with back-translation) and WMT14 English-German (30.1 BLEU).The code and trained models will be publicly available at https://github.com/namisan/exdeep-nmt.

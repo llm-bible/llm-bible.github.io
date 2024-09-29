@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Concept45;aware Large Language Models
+title: Towards Concept-aware Large Language Models
 authors: Shani Chen, Vreeken Jilles, Shahaf Dafna
 conference: "Arxiv"
 year: 2023
@@ -9,4 +9,4 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.01866"}
 tags: ['Pretraining Methods', 'Security', 'Training Techniques']
 ---
-Concepts play a pivotal role in various human cognitive functions including learning reasoning and communication. However there is very little work on endowing machines with the ability to form and reason with concepts. In particular state45;of45;the45;art large language models (LLMs) work at the level of tokens not concepts. In this work we analyze how well contemporary LLMs capture human concepts and their structure. We then discuss ways to develop concept45;aware LLMs taking place at different stages of the pipeline. We sketch a method for pretraining LLMs using concepts and also explore the simpler approach that uses the output of existing LLMs. Despite its simplicity our proof45;of45;concept is shown to better match human intuition as well as improve the robustness of predictions. These preliminary results underscore the promise of concept45;aware LLMs.
+Concepts play a pivotal role in various human cognitive functions including learning reasoning and communication. However there is very little work on endowing machines with the ability to form and reason with concepts. In particular state-of-the-art large language models (LLMs) work at the level of tokens not concepts. In this work we analyze how well contemporary LLMs capture human concepts and their structure. We then discuss ways to develop concept-aware LLMs taking place at different stages of the pipeline. We sketch a method for pretraining LLMs using concepts and also explore the simpler approach that uses the output of existing LLMs. Despite its simplicity our proof-of-concept is shown to better match human intuition as well as improve the robustness of predictions. These preliminary results underscore the promise of concept-aware LLMs.

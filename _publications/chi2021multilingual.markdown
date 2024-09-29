@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MT6 Multilingual Pretrained Text45;to45;text Transformer With Translation Pairs
+title: MT6 Multilingual Pretrained Text-to-text Transformer With Translation Pairs
 authors: Chi Zewen, Dong Li, Ma Shuming, Mao Shaohan Huang Xian-ling, Huang Heyan, Wei Furu
 conference: "Arxiv"
 year: 2021
@@ -9,4 +9,4 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.08692"}
 tags: ['Applications', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Training Techniques', 'Transformer']
 ---
-Multilingual T5 (mT5) pretrains a sequence45;to45;sequence model on massive monolingual texts which has shown promising results on many cross45;lingual tasks. In this paper we improve multilingual text45;to45;text transfer Transformer with translation pairs (mT6). Specifically we explore three cross45;lingual text45;to45;text pre45;training tasks namely machine translation translation pair span corruption and translation span corruption. In addition we propose a partially non45;autoregressive objective for text45;to45;text pre45;training. We evaluate the methods on eight multilingual benchmark datasets including sentence classification named entity recognition question answering and abstractive summarization. Experimental results show that the proposed mT6 improves cross45;lingual transferability over mT5.
+Multilingual T5 (mT5) pretrains a sequence-to-sequence model on massive monolingual texts which has shown promising results on many cross-lingual tasks. In this paper we improve multilingual text-to-text transfer Transformer with translation pairs (mT6). Specifically we explore three cross-lingual text-to-text pre-training tasks namely machine translation translation pair span corruption and translation span corruption. In addition we propose a partially non-autoregressive objective for text-to-text pre-training. We evaluate the methods on eight multilingual benchmark datasets including sentence classification named entity recognition question answering and abstractive summarization. Experimental results show that the proposed mT6 improves cross-lingual transferability over mT5.

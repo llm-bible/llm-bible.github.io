@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: N45;gram Prediction And Word Difference Representations For Language Modeling
+title: N-gram Prediction And Word Difference Representations For Language Modeling
 authors: Heo Dongnyeong, Rim Daniela Noemi, Choi Heeyoul
 conference: "Arxiv"
 year: 2024
@@ -9,4 +9,4 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.03295"}
 tags: ['Applications', 'BERT', 'Language Modeling', 'Masked Language Model', 'Pretraining Methods', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
-Causal language modeling (CLM) serves as the foundational framework underpinning remarkable successes of recent large language models (LLMs). Despite its success the training approach for next word prediction poses a potential risk of causing the model to overly focus on local dependencies within a sentence. While prior studies have been introduced to predict future N words simultaneously they were primarily applied to tasks such as masked language modeling (MLM) and neural machine translation (NMT). In this study we introduce a simple N45;gram prediction framework for the CLM task. Moreover we introduce word difference representation (WDR) as a surrogate and contextualized target representation during model training on the basis of N45;gram prediction framework. To further enhance the quality of next word prediction we propose an ensemble method that incorporates the future N words prediction results. Empirical evaluations across multiple benchmark datasets encompassing CLM and NMT tasks demonstrate the significant advantages of our proposed methods over the conventional CLM.
+Causal language modeling (CLM) serves as the foundational framework underpinning remarkable successes of recent large language models (LLMs). Despite its success the training approach for next word prediction poses a potential risk of causing the model to overly focus on local dependencies within a sentence. While prior studies have been introduced to predict future N words simultaneously they were primarily applied to tasks such as masked language modeling (MLM) and neural machine translation (NMT). In this study we introduce a simple N-gram prediction framework for the CLM task. Moreover we introduce word difference representation (WDR) as a surrogate and contextualized target representation during model training on the basis of N-gram prediction framework. To further enhance the quality of next word prediction we propose an ensemble method that incorporates the future N words prediction results. Empirical evaluations across multiple benchmark datasets encompassing CLM and NMT tasks demonstrate the significant advantages of our proposed methods over the conventional CLM.

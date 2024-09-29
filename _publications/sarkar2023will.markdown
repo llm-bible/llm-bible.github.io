@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Will Code Remain A Relevant User Interface For End45;user Programming With Generative AI Models
+title: Will Code Remain A Relevant User Interface For End-user Programming With Generative AI Models
 authors: Sarkar Advait
 conference: "Proceedings of the"
 year: 2023
@@ -9,4 +9,4 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.00382"}
 tags: ['Attention Mechanism', 'Ethics And Bias', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
-The research field of end45;user programming has largely been concerned with helping non45;experts learn to code sufficiently well in order to achieve their tasks. Generative AI stands to obviate this entirely by allowing users to generate code from naturalistic language prompts. In this essay we explore the extent to which traditional programming languages remain relevant for non45;expert end45;user programmers in a world with generative AI. We posit the generative shift hypothesis that generative AI will create qualitative and quantitative expansions in the traditional scope of end45;user programming. We outline some reasons that traditional programming languages may still be relevant and useful for end45;user programmers. We speculate whether each of these reasons might be fundamental and enduring or whether they may disappear with further improvements and innovations in generative AI. Finally we articulate a set of implications for end45;user programming research including the possibility of needing to revisit many well45;established core concepts such as Kos learning barriers and Blackwells attention investment model.
+The research field of end-user programming has largely been concerned with helping non-experts learn to code sufficiently well in order to achieve their tasks. Generative AI stands to obviate this entirely by allowing users to generate code from naturalistic language prompts. In this essay we explore the extent to which traditional programming languages remain relevant for non-expert end-user programmers in a world with generative AI. We posit the generative shift hypothesis that generative AI will create qualitative and quantitative expansions in the traditional scope of end-user programming. We outline some reasons that traditional programming languages may still be relevant and useful for end-user programmers. We speculate whether each of these reasons might be fundamental and enduring or whether they may disappear with further improvements and innovations in generative AI. Finally we articulate a set of implications for end-user programming research including the possibility of needing to revisit many well-established core concepts such as Kos learning barriers and Blackwells attention investment model.

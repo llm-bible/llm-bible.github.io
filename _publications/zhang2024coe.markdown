@@ -1,12 +1,12 @@
 ---
 layout: publication
-title: Coe45;sql In45;context Learning For Multi45;turn Text45;to45;sql With Chain45;of45;editions
+title: Coe-sql In-context Learning For Multi-turn Text-to-sql With Chain-of-editions
 authors: Zhang Hanchong, Cao Ruisheng, Xu Hongshen, Chen Lu, Yu Kai
 conference: "Arxiv"
 year: 2024
 bibkey: zhang2024coe
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.02712"}
-tags: ['Prompting']
+tags: ['In Context Learning', 'Prompting']
 ---
-Recently Large Language Models (LLMs) have been demonstrated to possess impressive capabilities in a variety of domains and tasks. We investigate the issue of prompt design in the multi45;turn text45;to45;SQL task and attempt to enhance the LLMs reasoning capacity when generating SQL queries. In the conversational context the current SQL query can be modified from the preceding SQL query with only a few operations due to the context dependency. We introduce our method called CoE45;SQL which can prompt LLMs to generate the SQL query based on the previously generated SQL query with an edition chain. We also conduct extensive ablation studies to determine the optimal configuration of our approach. Our approach outperforms different in45;context learning baselines stably and achieves state45;of45;the45;art performances on two benchmarks SParC and CoSQL using LLMs which is also competitive to the SOTA fine45;tuned models.
+Recently Large Language Models (LLMs) have been demonstrated to possess impressive capabilities in a variety of domains and tasks. We investigate the issue of prompt design in the multi-turn text-to-SQL task and attempt to enhance the LLMs reasoning capacity when generating SQL queries. In the conversational context the current SQL query can be modified from the preceding SQL query with only a few operations due to the context dependency. We introduce our method called CoE-SQL which can prompt LLMs to generate the SQL query based on the previously generated SQL query with an edition chain. We also conduct extensive ablation studies to determine the optimal configuration of our approach. Our approach outperforms different in-context learning baselines stably and achieves state-of-the-art performances on two benchmarks SParC and CoSQL using LLMs which is also competitive to the SOTA fine-tuned models.

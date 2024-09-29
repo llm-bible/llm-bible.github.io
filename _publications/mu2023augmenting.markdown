@@ -7,6 +7,6 @@ year: 2023
 bibkey: mu2023augmenting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.17367"}
-tags: ['Applications', 'Prompting']
+tags: ['Applications', 'In Context Learning', 'Prompting']
 ---
-Using translation memories (TMs) as prompts is a promising approach to in45;context learning of machine translation models. In this work we take a step towards prompting large language models (LLMs) with TMs and making them better translators. We find that the ability of LLMs to understand prompts is indeed helpful for making better use of TMs. Experiments show that the results of a pre45;trained LLM translator can be greatly improved by using high45;quality TM45;based prompts. These results are even comparable to those of the state45;of45;the45;art NMT systems which have access to large45;scale in45;domain bilingual data and are well tuned on the downstream tasks.
+Using translation memories (TMs) as prompts is a promising approach to in-context learning of machine translation models. In this work we take a step towards prompting large language models (LLMs) with TMs and making them better translators. We find that the ability of LLMs to understand prompts is indeed helpful for making better use of TMs. Experiments show that the results of a pre-trained LLM translator can be greatly improved by using high-quality TM-based prompts. These results are even comparable to those of the state-of-the-art NMT systems which have access to large-scale in-domain bilingual data and are well tuned on the downstream tasks.

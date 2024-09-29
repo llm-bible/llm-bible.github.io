@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Nothing In Excess Mitigating The Exaggerated Safety For Llms Via Safety45;conscious Activation Steering
+title: Nothing In Excess Mitigating The Exaggerated Safety For Llms Via Safety-conscious Activation Steering
 authors: Cao Zouying, Yang Yifei, Zhao Hai
 conference: "Arxiv"
 year: 2024
@@ -9,4 +9,4 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.11491"}
 tags: ['Pretraining Methods', 'Responsible AI']
 ---
-Safety alignment is indispensable for Large language models (LLMs) to defend threats from malicious instructions. However recent researches reveal safety45;aligned LLMs prone to reject benign queries due to the exaggerated safety issue limiting their helpfulness. In this paper we propose a Safety45;Conscious Activation Steering (SCANS) method to mitigate the exaggerated safety concerns in aligned LLMs. First SCANS extracts the refusal steering vectors within the activation space and utilizes vocabulary projection to anchor some specific safety45;critical layers which influence model refusal behavior. Second by tracking the hidden state transition SCANS identifies the steering direction and steers the model behavior accordingly achieving a balance between exaggerated safety and adequate safety. Experiments show that SCANS achieves new state45;of45;the45;art performance on XSTest and OKTest benchmarks without impairing their defense capability against harmful queries and maintaining almost unchanged model capability.
+Safety alignment is indispensable for Large language models (LLMs) to defend threats from malicious instructions. However recent researches reveal safety-aligned LLMs prone to reject benign queries due to the exaggerated safety issue limiting their helpfulness. In this paper we propose a Safety-Conscious Activation Steering (SCANS) method to mitigate the exaggerated safety concerns in aligned LLMs. First SCANS extracts the refusal steering vectors within the activation space and utilizes vocabulary projection to anchor some specific safety-critical layers which influence model refusal behavior. Second by tracking the hidden state transition SCANS identifies the steering direction and steers the model behavior accordingly achieving a balance between exaggerated safety and adequate safety. Experiments show that SCANS achieves new state-of-the-art performance on XSTest and OKTest benchmarks without impairing their defense capability against harmful queries and maintaining almost unchanged model capability.

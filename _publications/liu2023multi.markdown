@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gumsum Multi45;genre Data And Evaluation For English Abstractive Summarization
+title: Gumsum Multi-genre Data And Evaluation For English Abstractive Summarization
 authors: Liu Yang Janet, Zeldes Amir
 conference: "Arxiv"
 year: 2023
@@ -9,4 +9,4 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.11256"}
 tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting']
 ---
-Automatic summarization with pre45;trained language models has led to impressively fluent results but is prone to hallucinations low performance on non45;news genres and outputs which are not exactly summaries. Targeting ACL 2023s Reality Check theme we present GUMSum a small but carefully crafted dataset of English summaries in 12 written and spoken genres for evaluation of abstractive summarization. Summaries are highly constrained focusing on substitutive potential factuality and faithfulness. We present guidelines and evaluate human agreement as well as subjective judgments on recent system outputs comparing general45;domain untuned approaches a fine45;tuned one and a prompt45;based approach to human performance. Results show that while GPT3 achieves impressive scores it still underperforms humans with varying quality across genres. Human judgments reveal different types of errors in supervised prompted and human45;generated summaries shedding light on the challenges of producing a good summary.
+Automatic summarization with pre-trained language models has led to impressively fluent results but is prone to hallucinations low performance on non-news genres and outputs which are not exactly summaries. Targeting ACL 2023s Reality Check theme we present GUMSum a small but carefully crafted dataset of English summaries in 12 written and spoken genres for evaluation of abstractive summarization. Summaries are highly constrained focusing on substitutive potential factuality and faithfulness. We present guidelines and evaluate human agreement as well as subjective judgments on recent system outputs comparing general-domain untuned approaches a fine-tuned one and a prompt-based approach to human performance. Results show that while GPT3 achieves impressive scores it still underperforms humans with varying quality across genres. Human judgments reveal different types of errors in supervised prompted and human-generated summaries shedding light on the challenges of producing a good summary.

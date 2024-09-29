@@ -1,13 +1,13 @@
 ---
 layout: publication
-title: Safety Fine45;tuning At (almost) No Cost A Baseline For Vision Large Language Models
+title: Safety Fine-tuning At (almost) No Cost A Baseline For Vision Large Language Models
 authors: Yongshuo Zong, Ondrej Bohdal, Tingyang Yu, Yongxin Yang, Timothy Hospedales
 conference: "Arxiv"
 year: 2024
 bibkey: zong2024safety
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2402.02207v2"}
-  - {name: "Code", url: "https://github.com/ys&#45;zong/VLGuard"}
-tags: ['Has Code', 'Pretraining Methods', 'Responsible AI', 'Security', 'Training Techniques']
+  - {name: "Code", url: "https://github.com/ys-zong/VLGuard"}
+tags: ['Fine Tuning', 'Has Code', 'Multimodal Models', 'Pretraining Methods', 'Responsible AI', 'Security', 'Training Techniques']
 ---
-Current vision large language models (VLLMs) exhibit remarkable capabilities yet are prone to generate harmful content and are vulnerable to even the simplest jailbreaking attacks. Our initial analysis finds that this is due to the presence of harmful data during vision45;language instruction fine45;tuning and that VLLM fine45;tuning can cause forgetting of safety alignment previously learned by the underpinning LLM. To address this issue we first curate a vision45;language safe instruction45;following dataset VLGuard covering various harmful categories. Our experiments demonstrate that integrating this dataset into standard vision45;language fine45;tuning or utilizing it for post45;hoc fine45;tuning effectively safety aligns VLLMs. This alignment is achieved with minimal impact on or even enhancement of the models helpfulness. The versatility of our safety fine45;tuning dataset makes it a valuable resource for safety45;testing existing VLLMs training new models or safeguarding pre45;trained VLLMs. Empirical results demonstrate that fine45;tuned VLLMs effectively reject unsafe instructions and substantially reduce the success rates of several black45;box adversarial attacks which approach zero in many cases. The code and dataset are available at https://github.com/ys&#45;zong/VLGuard.
+Current vision large language models (VLLMs) exhibit remarkable capabilities yet are prone to generate harmful content and are vulnerable to even the simplest jailbreaking attacks. Our initial analysis finds that this is due to the presence of harmful data during vision-language instruction fine-tuning and that VLLM fine-tuning can cause forgetting of safety alignment previously learned by the underpinning LLM. To address this issue we first curate a vision-language safe instruction-following dataset VLGuard covering various harmful categories. Our experiments demonstrate that integrating this dataset into standard vision-language fine-tuning or utilizing it for post-hoc fine-tuning effectively safety aligns VLLMs. This alignment is achieved with minimal impact on or even enhancement of the models helpfulness. The versatility of our safety fine-tuning dataset makes it a valuable resource for safety-testing existing VLLMs training new models or safeguarding pre-trained VLLMs. Empirical results demonstrate that fine-tuned VLLMs effectively reject unsafe instructions and substantially reduce the success rates of several black-box adversarial attacks which approach zero in many cases. The code and dataset are available at https://github.com/ys-zong/VLGuard.

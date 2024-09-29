@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: WSC+ Enhancing The Winograd Schema Challenge Using Tree45;of45;experts
+title: WSC+ Enhancing The Winograd Schema Challenge Using Tree-of-experts
 authors: Zahraei Pardis Sadat, Emami Ali
 conference: "Arxiv"
 year: 2024
@@ -9,4 +9,4 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.17703"}
 tags: ['Ethics And Bias', 'GPT', 'Model Architecture', 'Prompting', 'Tools']
 ---
-The Winograd Schema Challenge (WSC) serves as a prominent benchmark for evaluating machine understanding. While Large Language Models (LLMs) excel at answering WSC questions their ability to generate such questions remains less explored. In this work we propose Tree45;of45;Experts (ToE) a novel prompting method which enhances the generation of WSC instances (5037; valid cases vs. 1037; in recent methods). Using this approach we introduce WSC+ a novel dataset comprising 3026 LLM45;generated sentences. Notably we extend the WSC framework by incorporating new ambiguous and offensive categories providing a deeper insight into model overconfidence and bias. Our analysis reveals nuances in generation45;evaluation consistency suggesting that LLMs may not always outperform in evaluating their own generated questions when compared to those crafted by other models. On WSC+ GPT45;4 the top45;performing LLM achieves an accuracy of 68.737; significantly below the human benchmark of 95.137;.
+The Winograd Schema Challenge (WSC) serves as a prominent benchmark for evaluating machine understanding. While Large Language Models (LLMs) excel at answering WSC questions their ability to generate such questions remains less explored. In this work we propose Tree-of-Experts (ToE) a novel prompting method which enhances the generation of WSC instances (5037; valid cases vs. 1037; in recent methods). Using this approach we introduce WSC+ a novel dataset comprising 3026 LLM-generated sentences. Notably we extend the WSC framework by incorporating new ambiguous and offensive categories providing a deeper insight into model overconfidence and bias. Our analysis reveals nuances in generation-evaluation consistency suggesting that LLMs may not always outperform in evaluating their own generated questions when compared to those crafted by other models. On WSC+ GPT-4 the top-performing LLM achieves an accuracy of 68.737; significantly below the human benchmark of 95.137;.

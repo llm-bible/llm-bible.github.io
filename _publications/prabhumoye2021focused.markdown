@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Focused Attention Improves Document45;grounded Generation
+title: Focused Attention Improves Document-grounded Generation
 authors: Prabhumoye Shrimai, Hashimoto Kazuma, Zhou Yingbo, Black Alan W, Salakhutdinov Ruslan
 conference: "Arxiv"
 year: 2021
@@ -9,4 +9,4 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.12714"}
 tags: ['Applications', 'Attention Mechanism', 'Language Modeling', 'Model Architecture']
 ---
-Document grounded generation is the task of using the information provided in a document to improve text generation. This work focuses on two different document grounded generation tasks Wikipedia Update Generation task and Dialogue response generation. Our work introduces two novel adaptations of large scale pre45;trained encoder45;decoder models focusing on building context driven representation of the document and enabling specific attention to the information in the document. Additionally we provide a stronger BART baseline for these tasks. Our proposed techniques outperform existing methods on both automated (at least 4837; increase in BLEU45;4 points) and human evaluation for closeness to reference and relevance to the document. Furthermore we perform comprehensive manual inspection of the generated output and categorize errors to provide insights into future directions in modeling these tasks.
+Document grounded generation is the task of using the information provided in a document to improve text generation. This work focuses on two different document grounded generation tasks Wikipedia Update Generation task and Dialogue response generation. Our work introduces two novel adaptations of large scale pre-trained encoder-decoder models focusing on building context driven representation of the document and enabling specific attention to the information in the document. Additionally we provide a stronger BART baseline for these tasks. Our proposed techniques outperform existing methods on both automated (at least 4837; increase in BLEU-4 points) and human evaluation for closeness to reference and relevance to the document. Furthermore we perform comprehensive manual inspection of the generated output and categorize errors to provide insights into future directions in modeling these tasks.

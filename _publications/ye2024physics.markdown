@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Physics Of Language Models Part 2.1 Grade45;school Math And The Hidden Reasoning Process
+title: Physics Of Language Models Part 2.1 Grade-school Math And The Hidden Reasoning Process
 authors: Ye Tian, Xu Zicheng, Li Yuanzhi, Allen-zhu Zeyuan
 conference: "Arxiv"
 year: 2024
@@ -9,4 +9,4 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.20311"}
 tags: ['Pretraining Methods']
 ---
-Recent advances in language models have demonstrated their capability to solve mathematical reasoning problems achieving near45;perfect accuracy on grade45;school level math benchmarks like GSM8K. In this paper we formally study how language models solve these problems. We design a series of controlled experiments to address several fundamental questions (1) Can language models truly develop reasoning skills or do they simply memorize templates (2) What is the models hidden (mental) reasoning process (3) Do models solve math questions using skills similar to or different from humans (4) Do models trained on GSM8K45;like datasets develop reasoning skills beyond those necessary for solving GSM8K problems (5) What mental process causes models to make reasoning mistakes (6) How large or deep must a model be to effectively solve GSM8K45;level math questions Our study uncovers many hidden mechanisms by which language models solve mathematical questions providing insights that extend beyond current understandings of LLMs.
+Recent advances in language models have demonstrated their capability to solve mathematical reasoning problems achieving near-perfect accuracy on grade-school level math benchmarks like GSM8K. In this paper we formally study how language models solve these problems. We design a series of controlled experiments to address several fundamental questions (1) Can language models truly develop reasoning skills or do they simply memorize templates (2) What is the models hidden (mental) reasoning process (3) Do models solve math questions using skills similar to or different from humans (4) Do models trained on GSM8K-like datasets develop reasoning skills beyond those necessary for solving GSM8K problems (5) What mental process causes models to make reasoning mistakes (6) How large or deep must a model be to effectively solve GSM8K-level math questions Our study uncovers many hidden mechanisms by which language models solve mathematical questions providing insights that extend beyond current understandings of LLMs.

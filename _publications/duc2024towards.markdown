@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Comprehensive Vietnamese Retrieval45;augmented Generation And Large Language Models
+title: Towards Comprehensive Vietnamese Retrieval-augmented Generation And Large Language Models
 authors: Duc Nguyen Quang, Son Le Hai, Nhan Nguyen Duc, Minh Nguyen Dich Nhat, Huong Le Thanh, Sang Dinh Viet
 conference: "Arxiv"
 year: 2024
@@ -9,4 +9,4 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.01616"}
 tags: ['RAG']
 ---
-This paper presents our contributions towards advancing the state of Vietnamese language understanding and generation through the development and dissemination of open datasets and pre45;trained models for Vietnamese Retrieval45;Augmented Generation (RAG) and Large Language Models (LLMs).
+This paper presents our contributions towards advancing the state of Vietnamese language understanding and generation through the development and dissemination of open datasets and pre-trained models for Vietnamese Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs).

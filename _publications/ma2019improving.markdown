@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Question Generation With Sentence45;level Semantic Matching And Answer Position Inferring
+title: Improving Question Generation With Sentence-level Semantic Matching And Answer Position Inferring
 authors: Ma Xiyao, Zhu Qile, Zhou Yanlin, Li Xiaolin, Wu Dapeng
 conference: "Arxiv"
 year: 2019
@@ -9,4 +9,4 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1912.00879"}
 tags: ['Applications', 'Merging', 'RAG']
 ---
-Taking an answer and its context as input sequence45;to45;sequence models have made considerable progress on question generation. However we observe that these approaches often generate wrong question words or keywords and copy answer45;irrelevant words from the input. We believe that lacking global question semantics and exploiting answer position45;awareness not well are the key root causes. In this paper we propose a neural question generation model with two concrete modules sentence45;level semantic matching and answer position inferring. Further we enhance the initial state of the decoder by leveraging the answer45;aware gated fusion mechanism. Experimental results demonstrate that our model outperforms the state45;of45;the45;art (SOTA) models on SQuAD and MARCO datasets. Owing to its generality our work also improves the existing models significantly.
+Taking an answer and its context as input sequence-to-sequence models have made considerable progress on question generation. However we observe that these approaches often generate wrong question words or keywords and copy answer-irrelevant words from the input. We believe that lacking global question semantics and exploiting answer position-awareness not well are the key root causes. In this paper we propose a neural question generation model with two concrete modules sentence-level semantic matching and answer position inferring. Further we enhance the initial state of the decoder by leveraging the answer-aware gated fusion mechanism. Experimental results demonstrate that our model outperforms the state-of-the-art (SOTA) models on SQuAD and MARCO datasets. Owing to its generality our work also improves the existing models significantly.

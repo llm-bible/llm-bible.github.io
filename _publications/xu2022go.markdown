@@ -1,12 +1,12 @@
 ---
 layout: publication
-title: Go45;tuning Improving Zero45;shot Learning Abilities Of Smaller Language Models
+title: Go-tuning Improving Zero-shot Learning Abilities Of Smaller Language Models
 authors: Xu Jingjing, Dong Qingxiu, Liu Hongyi, Li Lei
 conference: "Arxiv"
 year: 2022
 bibkey: xu2022go
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.10461"}
-tags: ['BERT', 'GPT', 'Language Modeling', 'Masked Language Model', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'RAG']
+tags: ['BERT', 'GPT', 'Language Modeling', 'Masked Language Model', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'RAG', 'Training Techniques']
 ---
-With increasing scale large language models demonstrate both quantitative improvement and new qualitative capabilities especially as zero45;shot learners like GPT45;3. However these results rely heavily on delicate prompt design and large computation. In this work we explore whether the strong zero45;shot ability could be achieved at a smaller model scale without any external supervised data. To achieve this goal we revisit masked language modeling and present a geometry45;guided self45;supervised learning method (Go45;tuningfor short) by taking a small number of task45;aware self45;supervised data to update language models further. Experiments show that Go45;tuning can enable T545;small (80M) competitive zero45;shot results compared with large language models such as T545;XL (3B). We also apply Go45;tuning on multi45;task settings and develop a multi45;task model mgo45;T5 (250M). It can reach the average performance of OPT (175B) on 9 datasets.
+With increasing scale large language models demonstrate both quantitative improvement and new qualitative capabilities especially as zero-shot learners like GPT-3. However these results rely heavily on delicate prompt design and large computation. In this work we explore whether the strong zero-shot ability could be achieved at a smaller model scale without any external supervised data. To achieve this goal we revisit masked language modeling and present a geometry-guided self-supervised learning method (Go-tuningfor short) by taking a small number of task-aware self-supervised data to update language models further. Experiments show that Go-tuning can enable T5-small (80M) competitive zero-shot results compared with large language models such as T5-XL (3B). We also apply Go-tuning on multi-task settings and develop a multi-task model mgo-T5 (250M). It can reach the average performance of OPT (175B) on 9 datasets.

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Episodic Transformer For Vision45;and45;language Navigation
+title: Episodic Transformer For Vision-and-language Navigation
 authors: Pashevich Alexander, Schmid Cordelia, Sun Chen
 conference: "Arxiv"
 year: 2021

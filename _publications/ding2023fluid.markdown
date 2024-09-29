@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fluid Transformers And Creative Analogies Exploring Large Language Models Capacity For Augmenting Cross45;domain Analogical Creativity
+title: Fluid Transformers And Creative Analogies Exploring Large Language Models Capacity For Augmenting Cross-domain Analogical Creativity
 authors: Ding Zijian, Srinivasan Arvind, Macneil Stephen, Chan Joel
 conference: "Arxiv"
 year: 2023
@@ -9,4 +9,4 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.12832"}
 tags: ['Ethics And Bias', 'Fine Tuning', 'Model Architecture', 'Pretraining Methods', 'Transformer']
 ---
-Cross45;domain analogical reasoning is a core creative ability that can be challenging for humans. Recent work has shown some proofs45;of concept of Large language Models (LLMs) ability to generate cross45;domain analogies. However the reliability and potential usefulness of this capacity for augmenting human creative work has received little systematic exploration. In this paper we systematically explore LLMs capacity to augment cross45;domain analogical reasoning. Across three studies we found 1) LLM45;generated cross45;domain analogies were frequently judged as helpful in the context of a problem reformulation task (median 4 out of 5 helpfulness rating) and frequently (~8037; of cases) led to observable changes in problem formulations and 2) there was an upper bound of 2537; of outputs bring rated as potentially harmful with a majority due to potentially upsetting content rather than biased or toxic content. These results demonstrate the potential utility 45;45; and risks 45;45; of LLMs for augmenting cross45;domain analogical creativity.
+Cross-domain analogical reasoning is a core creative ability that can be challenging for humans. Recent work has shown some proofs-of concept of Large language Models (LLMs) ability to generate cross-domain analogies. However the reliability and potential usefulness of this capacity for augmenting human creative work has received little systematic exploration. In this paper we systematically explore LLMs capacity to augment cross-domain analogical reasoning. Across three studies we found 1) LLM-generated cross-domain analogies were frequently judged as helpful in the context of a problem reformulation task (median 4 out of 5 helpfulness rating) and frequently (~8037; of cases) led to observable changes in problem formulations and 2) there was an upper bound of 2537; of outputs bring rated as potentially harmful with a majority due to potentially upsetting content rather than biased or toxic content. These results demonstrate the potential utility -- and risks -- of LLMs for augmenting cross-domain analogical creativity.

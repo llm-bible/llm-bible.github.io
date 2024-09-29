@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Facechat An Emotion45;aware Face45;to45;face Dialogue Framework
+title: Facechat An Emotion-aware Face-to-face Dialogue Framework
 authors: Deema Alnuhait, Qingyang Wu, Zhou Yu
 conference: "Arxiv"
 year: 2023
@@ -10,4 +10,4 @@ additional_links:
   - {name: "Code", url: "https://github.com/qywu/FaceChat"}
 tags: ['Applications', 'GPT', 'Has Code', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Tools']
 ---
-While current dialogue systems like ChatGPT have made significant advancements in text45;based interactions they often overlook the potential of other modalities in enhancing the overall user experience. We present FaceChat a web45;based dialogue framework that enables emotionally45;sensitive and face45;to45;face conversations. By seamlessly integrating cutting45;edge technologies in natural language processing computer vision and speech processing FaceChat delivers a highly immersive and engaging user experience. FaceChat framework has a wide range of potential applications including counseling emotional support and personalized customer service. The system is designed to be simple and flexible as a platform for future researchers to advance the field of multimodal dialogue systems. The code is publicly available at https://github.com/qywu/FaceChat.
+While current dialogue systems like ChatGPT have made significant advancements in text-based interactions they often overlook the potential of other modalities in enhancing the overall user experience. We present FaceChat a web-based dialogue framework that enables emotionally-sensitive and face-to-face conversations. By seamlessly integrating cutting-edge technologies in natural language processing computer vision and speech processing FaceChat delivers a highly immersive and engaging user experience. FaceChat framework has a wide range of potential applications including counseling emotional support and personalized customer service. The system is designed to be simple and flexible as a platform for future researchers to advance the field of multimodal dialogue systems. The code is publicly available at https://github.com/qywu/FaceChat.

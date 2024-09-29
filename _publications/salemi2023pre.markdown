@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pre45;training Multi45;modal Dense Retrievers For Outside45;knowledge Visual Question Answering
+title: Pre-training Multi-modal Dense Retrievers For Outside-knowledge Visual Question Answering
 authors: Salemi Alireza, Rafiee Mahta, Zamani Hamed
 conference: "Arxiv"
 year: 2023
@@ -9,4 +9,4 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.16478"}
 tags: ['Applications', 'Model Architecture', 'Training Techniques']
 ---
-This paper studies a category of visual question answering tasks in which accessing external knowledge is necessary for answering the questions. This category is called outside45;knowledge visual question answering (OK45;VQA). A major step in developing OK45;VQA systems is to retrieve relevant documents for the given multi45;modal query. Current state45;of45;the45;art asymmetric dense retrieval model for this task uses an architecture with a multi45;modal query encoder and a uni45;modal document encoder. Such an architecture requires a large amount of training data for effective performance. We propose an automatic data generation pipeline for pre45;training passage retrieval models for OK45;VQA tasks. The proposed approach leads to 26.937; Precision35;64;5 improvements compared to the current state45;of45;the45;art asymmetric architecture. Additionally the proposed pre45;training approach exhibits a good ability in zero45;shot retrieval scenarios.
+This paper studies a category of visual question answering tasks in which accessing external knowledge is necessary for answering the questions. This category is called outside-knowledge visual question answering (OK-VQA). A major step in developing OK-VQA systems is to retrieve relevant documents for the given multi-modal query. Current state-of-the-art asymmetric dense retrieval model for this task uses an architecture with a multi-modal query encoder and a uni-modal document encoder. Such an architecture requires a large amount of training data for effective performance. We propose an automatic data generation pipeline for pre-training passage retrieval models for OK-VQA tasks. The proposed approach leads to 26.937; Precision35;64;5 improvements compared to the current state-of-the-art asymmetric architecture. Additionally the proposed pre-training approach exhibits a good ability in zero-shot retrieval scenarios.

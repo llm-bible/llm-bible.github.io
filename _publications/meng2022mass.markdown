@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mass45;editing Memory In A Transformer
+title: Mass-editing Memory In A Transformer
 authors: Meng Kevin, Sharma Arnab Sen, Andonian Alex, Belinkov Yonatan, Bau David
 conference: "Arxiv"
 year: 2022
@@ -10,4 +10,4 @@ additional_links:
   - {name: "Code", url: "https://memit.baulab.info"}
 tags: ['GPT', 'Has Code', 'Model Architecture', 'Pretraining Methods', 'Transformer']
 ---
-Recent work has shown exciting promise in updating large language models with new memories so as to replace obsolete information or add specialized knowledge. However this line of work is predominantly limited to updating single associations. We develop MEMIT a method for directly updating a language model with many memories demonstrating experimentally that it can scale up to thousands of associations for GPT45;J (6B) and GPT45;NeoX (20B) exceeding prior work by orders of magnitude. Our code and data are at https://memit.baulab.info.
+Recent work has shown exciting promise in updating large language models with new memories so as to replace obsolete information or add specialized knowledge. However this line of work is predominantly limited to updating single associations. We develop MEMIT a method for directly updating a language model with many memories demonstrating experimentally that it can scale up to thousands of associations for GPT-J (6B) and GPT-NeoX (20B) exceeding prior work by orders of magnitude. Our code and data are at https://memit.baulab.info.

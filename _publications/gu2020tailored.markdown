@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Tailored Pre45;training Model For Task45;oriented Dialog Generation
+title: A Tailored Pre-training Model For Task-oriented Dialog Generation
 authors: Gu Jing, Wu Qingyang, Wu Chongruo, Shi Weiyan, Yu Zhou
 conference: "Arxiv"
 year: 2020
@@ -9,4 +9,4 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.13835"}
 tags: ['BERT', 'Distillation', 'Efficiency And Optimization', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Training Techniques']
 ---
-The recent success of large pre45;trained language models such as BERT and GPT45;2 has suggested the effectiveness of incorporating language priors in downstream dialog generation tasks. However the performance of pre45;trained models on the dialog task is not as optimal as expected. In this paper we propose a Pre45;trained Role Alternating Language model (PRAL) designed specifically for task45;oriented conversational systems. We adopted (Wu et al. 2019) that models two speakers separately. We also design several techniques such as start position randomization knowledge distillation and history discount to improve pre45;training performance. We introduce a task45;oriented dialog pretraining dataset by cleaning 13 existing data sets. We test PRAL on three different downstream tasks. The results show that PRAL performs better or on par with state45;of45;the45;art methods.
+The recent success of large pre-trained language models such as BERT and GPT-2 has suggested the effectiveness of incorporating language priors in downstream dialog generation tasks. However the performance of pre-trained models on the dialog task is not as optimal as expected. In this paper we propose a Pre-trained Role Alternating Language model (PRAL) designed specifically for task-oriented conversational systems. We adopted (Wu et al. 2019) that models two speakers separately. We also design several techniques such as start position randomization knowledge distillation and history discount to improve pre-training performance. We introduce a task-oriented dialog pretraining dataset by cleaning 13 existing data sets. We test PRAL on three different downstream tasks. The results show that PRAL performs better or on par with state-of-the-art methods.

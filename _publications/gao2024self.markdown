@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self45;evolving GPT A Lifelong Autonomous Experiential Learner
+title: Self-evolving GPT A Lifelong Autonomous Experiential Learner
 authors: Gao Jinglong, Ding Xiao, Cui Yiming, Zhao Jianbai, Wang Hepeng, Liu Ting, Qin Bing
 conference: "Arxiv"
 year: 2024
@@ -9,4 +9,4 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.08937"}
 tags: ['GPT', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'Tools']
 ---
-To improve the performance of large language models (LLMs) researchers have explored providing LLMs with textual task45;solving experience via prompts. However they rely on manual efforts to acquire and apply such experience for each task which is not feasible for the growing demand for LLMs and the variety of user questions. To address this issue we design a lifelong autonomous experiential learning framework based on LLMs to explore whether LLMs can imitate human ability for learning and utilizing experience. It autonomously learns and accumulates experience through experience transfer and induction categorizing the types of input questions to select which accumulated experience to employ for them. Experimental results on six widely used NLP datasets show that our framework performs reliably in each intermediate step and effectively improves the performance of GPT45;3.5 and GPT45;4. This validates the feasibility of using LLMs to mimic human experiential learning and application capabilities. Additionally we provide a detailed analysis of the behavior of our framework at each step.
+To improve the performance of large language models (LLMs) researchers have explored providing LLMs with textual task-solving experience via prompts. However they rely on manual efforts to acquire and apply such experience for each task which is not feasible for the growing demand for LLMs and the variety of user questions. To address this issue we design a lifelong autonomous experiential learning framework based on LLMs to explore whether LLMs can imitate human ability for learning and utilizing experience. It autonomously learns and accumulates experience through experience transfer and induction categorizing the types of input questions to select which accumulated experience to employ for them. Experimental results on six widely used NLP datasets show that our framework performs reliably in each intermediate step and effectively improves the performance of GPT-3.5 and GPT-4. This validates the feasibility of using LLMs to mimic human experiential learning and application capabilities. Additionally we provide a detailed analysis of the behavior of our framework at each step.
