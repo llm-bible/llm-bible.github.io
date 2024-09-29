@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatbots in a Botnet World
+title: Chatbots In A Botnet World
 authors: Mckee Forrest, Noever David
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unraveling Downstream Gender Bias from Large Language Models A Study on AI Educational Writing Assistance
+title: Unraveling Downstream Gender Bias From Large Language Models A Study On AI Educational Writing Assistance
 authors: Wambsganss Thiemo, Su Xiaotian, Swamy Vinitra, Neshaei Seyed Parsa, Rietsche Roman, Käser Tanja
 conference: "Arxiv"
 year: 2023

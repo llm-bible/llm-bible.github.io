@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Controllable Dialogue Generation with Disentangled Multi-grained Style Specification and Attribute Consistency Reward
+title: Controllable Dialogue Generation With Disentangled Multi-grained Style Specification And Attribute Consistency Reward
 authors: Hu Zhe, Cao Zhiwei, Chan Hou Pong, Liu Jiachen, Xiao Xinyan, Su Jinsong, Wu Hua
 conference: "Arxiv"
 year: 2021

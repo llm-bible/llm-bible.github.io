@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fast and Effective Weight Update for Pruned Large Language Models
+title: Fast And Effective Weight Update For Pruned Large Language Models
 authors: Boža Vladimír
 conference: "Arxiv"
 year: 2024

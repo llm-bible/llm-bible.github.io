@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Generative AI Paradox on Evaluation What It Can Solve It May Not Evaluate
+title: The Generative AI Paradox On Evaluation What It Can Solve It May Not Evaluate
 authors: Oh Juhyun, Kim Eunsu, Cha Inha, Oh Alice
 conference: "Arxiv"
 year: 2024

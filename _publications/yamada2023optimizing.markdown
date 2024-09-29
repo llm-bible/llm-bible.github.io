@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Optimizing Machine Translation Through Prompt Engineering An Investigation Into Chatgptx27;s Customizability
+title: Optimizing Machine Translation Through Prompt Engineering An Investigation Into Chatgpts Customizability
 authors: Yamada Masaru
 conference: "Proceedings of Machine Translation Summit XIX Vol."
 year: 2023

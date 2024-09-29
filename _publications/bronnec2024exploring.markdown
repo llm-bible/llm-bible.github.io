@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Precision and Recall to assess the quality and diversity of LLMs
+title: Exploring Precision And Recall To Assess The Quality And Diversity Of Llms
 authors: Bronnec Florian Le, Verine Alexandre, Negrevergne Benjamin, Chevaleyre Yann, Allauzen Alexandre
 conference: "Arxiv"
 year: 2024

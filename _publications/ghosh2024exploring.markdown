@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring the Frontier of Vision-Language Models A Survey of Current Methodologies and Future Directions
+title: Exploring The Frontier Of Vision-language Models A Survey Of Current Methodologies And Future Directions
 authors: Ghosh Akash, Acharya Arkadeep, Saha Sriparna, Jain Vinija, Chadha Aman
 conference: "Arxiv"
 year: 2024

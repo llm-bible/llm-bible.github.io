@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Refining the Responses of LLMs by Themselves
+title: Refining The Responses Of Llms By Themselves
 authors: Yan Tianqiang, Xu Tiansheng
 conference: "Arxiv"
 year: 2023

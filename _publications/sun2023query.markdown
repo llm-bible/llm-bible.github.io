@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Query-Dependent Prompt Evaluation and Optimization with Offline Inverse RL
+title: Query-dependent Prompt Evaluation And Optimization With Offline Inverse RL
 authors: Sun Hao, Hüyük Alihan, Van Der Schaar Mihaela
 conference: "Arxiv"
 year: 2023

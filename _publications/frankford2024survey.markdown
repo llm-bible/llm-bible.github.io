@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey Study on the State of the Art of Programming Exercise Generation using Large Language Models
+title: A Survey Study On The State Of The Art Of Programming Exercise Generation Using Large Language Models
 authors: Frankford Eduard, Höhn Ingo, Sauerwein Clemens, Breu Ruth
 conference: "Arxiv"
 year: 2024

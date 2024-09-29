@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models are Zero-Shot Rankers for Recommender Systems
+title: Large Language Models Are Zero-shot Rankers For Recommender Systems
 authors: Yupeng Hou, Junjie Zhang, Zihan Lin, Hongyu Lu, Ruobing Xie, Julian Mcauley, Wayne Xin Zhao
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PersonalityChat Conversation Distillation for Personalized Dialog Modeling with Facts and Traits
+title: Personalitychat Conversation Distillation For Personalized Dialog Modeling With Facts And Traits
 authors: Lotfi Ehsan, De Bruyn Maxime, Buhmann Jeska, Daelemans Walter
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ICLGuard Controlling In-Context Learning Behavior for Applicability Authorization
+title: Iclguard Controlling In-context Learning Behavior For Applicability Authorization
 authors: Si Wai Man, Backes Michael, Zhang Yang
 conference: "Arxiv"
 year: 2024

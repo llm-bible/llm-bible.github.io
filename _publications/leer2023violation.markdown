@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Violation of Expectation via Metacognitive Prompting Reduces Theory of Mind Prediction Error in Large Language Models
+title: Violation Of Expectation Via Metacognitive Prompting Reduces Theory Of Mind Prediction Error In Large Language Models
 authors: Leer Courtland, Trost Vincent, Voruganti Vineeth
 conference: "Arxiv"
 year: 2023

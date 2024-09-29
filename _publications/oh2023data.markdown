@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Data Augmentation for Neural Machine Translation using Generative Language Model
+title: Data Augmentation For Neural Machine Translation Using Generative Language Model
 authors: Oh Seokjin, Lee Su Ah, Jung Woohwan
 conference: "Arxiv"
 year: 2023

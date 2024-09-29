@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CUDRT Benchmarking the Detection of Human vs. Large Language Models Generated Texts
+title: CUDRT Benchmarking The Detection Of Human Vs. Large Language Models Generated Texts
 authors: Tao Zhen, Li Zhiyu, Xi Dinghao, Xu Wei
 conference: "Arxiv"
 year: 2024

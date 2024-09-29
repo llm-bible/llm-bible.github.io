@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Factuality of Large Language Models in the Year 2024
+title: Factuality Of Large Language Models In The Year 2024
 authors: Wang Yuxia, Wang Minghan, Manzoor Muhammad Arslan, Liu Fei, Georgiev Georgi, Das Rocktim Jyoti, Nakov Preslav
 conference: "Arxiv"
 year: 2024

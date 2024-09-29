@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: P^3LM Probabilistically Permuted Prophet Language Modeling for Generative Pre-Training
+title: P^3LM Probabilistically Permuted Prophet Language Modeling For Generative Pre-training
 authors: Bao Junwei, Wang Yifan, Ying Jiangyong, Gong Yeyun, Zhao Jing, Wu Youzheng, He Xiaodong
 conference: "Arxiv"
 year: 2022

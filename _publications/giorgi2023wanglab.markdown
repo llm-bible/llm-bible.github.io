@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: WangLab at MEDIQA-Chat 2023 Clinical Note Generation from Doctor-Patient Conversations using Large Language Models
+title: Wanglab At Mediqa-chat 2023 Clinical Note Generation From Doctor-patient Conversations Using Large Language Models
 authors: Giorgi John, Toma Augustin, Xie Ronald, Chen Sondra S., An Kevin R., Zheng Grace X., Wang Bo
 conference: "Arxiv"
 year: 2023

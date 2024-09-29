@@ -1,12 +1,13 @@
 ---
 layout: publication
-title: Low-Redundant Optimization for Large Language Model Alignment
+title: Low-redundant Optimization For Large Language Model Alignment
 authors: Chen Zhipeng, Zhou Kun, Zhao Wayne Xin, Wang Jingyuan, Wen Ji-rong
 conference: "Arxiv"
 year: 2024
 bibkey: chen2024low
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12606"}
-tags: ['Efficiency And Optimization', 'Reinforcement Learning', 'Training Techniques']
+  - {name: "Code", url: "https://github.com/RUCAIBox/ALLO"}
+tags: ['Efficiency And Optimization', 'Has Code', 'Reinforcement Learning', 'Training Techniques']
 ---
-Large language models (LLMs) are still struggling in aligning with human preference in complex tasks and scenarios. They are prone to overfit into the unexpected patterns or superficial styles in the training data. We conduct an empirical study that only selects the top-10 most updated parameters in LLMs for alignment training and see improvements in the convergence process and final performance. It indicates the existence of redundant neurons in LLMs for alignment training. To reduce its influence we propose a low-redundant alignment method named focusing on optimizing the most related neurons with the most useful supervised signals. Concretely we first identify the neurons that are related to the human preference data by a gradient-based strategy then identify the alignment-related key tokens by reward models for computing loss. Besides we also decompose the alignment process into the forgetting and learning stages where we first forget the tokens with unaligned knowledge and then learn aligned knowledge by updating different ratios of neurons respectively. Experimental results on 10 datasets have shown the effectiveness of ALLO. Our code and data are available at .
+Large language models (LLMs) are still struggling in aligning with human preference in complex tasks and scenarios. They are prone to overfit into the unexpected patterns or superficial styles in the training data. We conduct an empirical study that only selects the top-1037; most updated parameters in LLMs for alignment training and see improvements in the convergence process and final performance. It indicates the existence of redundant neurons in LLMs for alignment training. To reduce its influence we propose a low-redundant alignment method named focusing on optimizing the most related neurons with the most useful supervised signals. Concretely we first identify the neurons that are related to the human preference data by a gradient-based strategy then identify the alignment-related key tokens by reward models for computing loss. Besides we also decompose the alignment process into the forgetting and learning stages where we first forget the tokens with unaligned knowledge and then learn aligned knowledge by updating different ratios of neurons respectively. Experimental results on 10 datasets have shown the effectiveness of ALLO. Our code and data are available at urlhttps://github.com/RUCAIBox/ALLO}.

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CrossIn An Efficient Instruction Tuning Approach for Cross-Lingual Knowledge Alignment
+title: Crossin An Efficient Instruction Tuning Approach For Cross-lingual Knowledge Alignment
 authors: Lin Geyu, Wang Bin, Liu Zhengyuan, Chen Nancy F.
 conference: "Arxiv"
 year: 2024

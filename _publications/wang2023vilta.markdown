@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ViLTA Enhancing Vision-Language Pre-training through Textual Augmentation
+title: Vilta Enhancing Vision-language Pre-training Through Textual Augmentation
 authors: Wang Weihan, Yang Zhen, Xu Bin, Li Juanzi, Sun Yankui
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zero-Shot Generalization during Instruction Tuning Insights from Similarity and Granularity
+title: Zero-shot Generalization During Instruction Tuning Insights From Similarity And Granularity
 authors: He Bingxiang, Ding Ning, Qian Cheng, Deng Jia, Cui Ganqu, Yuan Lifan, Gao Huan-ang, Chen Huimin, Liu Zhiyuan, Sun Maosong
 conference: "Arxiv"
 year: 2024

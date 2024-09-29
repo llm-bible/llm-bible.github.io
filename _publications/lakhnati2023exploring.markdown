@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Large Language Models to Facilitate Variable Autonomy for Human-Robot Teaming
+title: Exploring Large Language Models To Facilitate Variable Autonomy For Human-robot Teaming
 authors: Lakhnati Younes, Pascher Max, Gerken Jens
 conference: "Front. Robot. AI"
 year: 2023

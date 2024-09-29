@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do LLMs Find Human Answers To Fact-Driven Questions Perplexing A Case Study on Reddit
+title: Do Llms Find Human Answers To Fact-driven Questions Perplexing A Case Study On Reddit
 authors: Seegmiller Parker, Gatto Joseph, Sharif Omar, Basak Madhusudan, Preum Sarah Masud
 conference: "Arxiv"
 year: 2024

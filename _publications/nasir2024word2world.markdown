@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Word2World Generating Stories and Worlds through Large Language Models
+title: Word2world Generating Stories And Worlds Through Large Language Models
 authors: Nasir Muhammad U., James Steven, Togelius Julian
 conference: "Arxiv"
 year: 2024

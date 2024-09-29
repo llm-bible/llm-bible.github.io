@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lite Transformer with Long-Short Range Attention
+title: Lite Transformer With Long-short Range Attention
 authors: Wu Zhanghao, Liu Zhijian, Lin Ji, Lin Yujun, Han Song
 conference: "Arxiv"
 year: 2020

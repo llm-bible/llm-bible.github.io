@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Explaining Pre-Trained Language Models with Attribution Scores An Analysis in Low-Resource Settings
+title: Explaining Pre-trained Language Models With Attribution Scores An Analysis In Low-resource Settings
 authors: Zhou Wei, Adel Heike, Schuff Hendrik, Vu Ngoc Thang
 conference: "Arxiv"
 year: 2024

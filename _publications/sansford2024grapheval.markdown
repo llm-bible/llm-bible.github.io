@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GraphEval A Knowledge-Graph Based LLM Hallucination Evaluation Framework
+title: Grapheval A Knowledge-graph Based LLM Hallucination Evaluation Framework
 authors: Sansford Hannah, Richardson Nicholas, Maretic Hermina Petric, Saada Juba Nait
 conference: "Arxiv"
 year: 2024

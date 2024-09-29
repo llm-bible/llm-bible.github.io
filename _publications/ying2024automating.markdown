@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automating Dataset Updates Towards Reliable and Timely Evaluation of Large Language Models
+title: Automating Dataset Updates Towards Reliable And Timely Evaluation Of Large Language Models
 authors: Ying Jiahao, Cao Yixin, Bai Yushi, Sun Qianru, Wang Bo, Tang Wei, Ding Zhaojun, Yang Yizhe, Huang Xuanjing, Yan Shuicheng
 conference: "Arxiv"
 year: 2024

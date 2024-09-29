@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SqueezeLLM Dense-and-Sparse Quantization
+title: Squeezellm Dense-and-sparse Quantization
 authors: Kim Sehoon, Hooper Coleman, Gholami Amir, Dong Zhen, Li Xiuyu, Shen Sheng, Mahoney Michael W., Keutzer Kurt
 conference: "Arxiv"
 year: 2023

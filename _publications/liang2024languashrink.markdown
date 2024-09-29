@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LanguaShrink Reducing Token Overhead with Psycholinguistics
+title: Languashrink Reducing Token Overhead With Psycholinguistics
 authors: Liang Xuechen, Tao Meiling, Xia Yinghui, Shi Tianyu, Wang Jun, Yang Jingsong
 conference: "Arxiv"
 year: 2024

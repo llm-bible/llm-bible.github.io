@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Goldilocks of Pragmatic Understanding Fine-Tuning Strategy Matters for Implicature Resolution by LLMs
+title: The Goldilocks Of Pragmatic Understanding Fine-tuning Strategy Matters For Implicature Resolution By Llms
 authors: Ruis Laura, Khan Akbir, Biderman Stella, Hooker Sara, Rocktäschel Tim, Grefenstette Edward
 conference: "Arxiv"
 year: 2022

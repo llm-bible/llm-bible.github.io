@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations
+title: Jailbreak And Guard Aligned Language Models With Only Few In-context Demonstrations
 authors: Wei Zeming, Wang Yifei, Li Ang, Mo Yichuan, Wang Yisen
 conference: "Arxiv"
 year: 2023

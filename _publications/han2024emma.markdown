@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EMMA Your Text-to-Image Diffusion Model Can Secretly Accept Multi-Modal Prompts
+title: EMMA Your Text-to-image Diffusion Model Can Secretly Accept Multi-modal Prompts
 authors: Han Yucheng, Wang Rui, Zhang Chi, Hu Juntao, Cheng Pei, Fu Bin, Zhang Hanwang
 conference: "Arxiv"
 year: 2024

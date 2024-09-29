@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Few shot chain-of-thought driven reasoning to prompt LLMs for open ended medical question answering
+title: Few Shot Chain-of-thought Driven Reasoning To Prompt Llms For Open Ended Medical Question Answering
 authors: Gramopadhye Ojas, Nachane Saeel Sandeep, Chanda Prateek, Ramakrishnan Ganesh, Jadhav Kshitij Sharad, Nandwani Yatin, Raghu Dinesh, Joshi Sachindra
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Modulating Language Model Experiences through Frictions
+title: Modulating Language Model Experiences Through Frictions
 authors: Collins Katherine M., Chen Valerie, Sucholutsky Ilia, Kirk Hannah Rose, Sadek Malak, Sargeant Holli, Talwalkar Ameet, Weller Adrian, Bhatt Umang
 conference: "Arxiv"
 year: 2024

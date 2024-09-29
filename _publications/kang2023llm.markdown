@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM-augmented Preference Learning from Natural Language
+title: Llm-augmented Preference Learning From Natural Language
 authors: Kang Inwon, Ruan Sikai, Ho Tyler, Lin Jui-chien, Mohsin Farhad, Seneviratne Oshani, Xia Lirong
 conference: "Arxiv"
 year: 2023

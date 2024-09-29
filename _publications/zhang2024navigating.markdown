@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Navigating User Experience of ChatGPT-based Conversational Recommender Systems The Effects of Prompt Guidance and Recommendation Domain
+title: Navigating User Experience Of Chatgpt-based Conversational Recommender Systems The Effects Of Prompt Guidance And Recommendation Domain
 authors: Zhang Yizhe, Jin Yucheng, Chen Li, Yang Ting
 conference: "Arxiv"
 year: 2024

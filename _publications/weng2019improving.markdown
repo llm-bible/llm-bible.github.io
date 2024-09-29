@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Neural Machine Translation with Pre-trained Representation
+title: Improving Neural Machine Translation With Pre-trained Representation
 authors: Weng Rongxiang, Yu Heng, Huang Shujian, Luo Weihua, Chen Jiajun
 conference: "Arxiv"
 year: 2019

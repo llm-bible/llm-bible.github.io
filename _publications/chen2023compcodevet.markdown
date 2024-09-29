@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CompCodeVet A Compiler-guided Validation and Enhancement Approach for Code Dataset
+title: Compcodevet A Compiler-guided Validation And Enhancement Approach For Code Dataset
 authors: Chen Le, Bhattacharjee Arijit, Ahmed Nesreen K., Hasabnis Niranjan, Oren Gal, Lei Bin, Jannesari Ali
 conference: "Arxiv"
 year: 2023

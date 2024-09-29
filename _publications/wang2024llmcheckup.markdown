@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLMCheckup Conversational Examination of Large Language Models via Interpretability Tools and Self-Explanations
+title: Llmcheckup Conversational Examination Of Large Language Models Via Interpretability Tools And Self-explanations
 authors: Wang Qianli, Anikina Tatiana, Feldhus Nils, Van Genabith Josef, Hennig Leonhard, Möller Sebastian
 conference: "Arxiv"
 year: 2024

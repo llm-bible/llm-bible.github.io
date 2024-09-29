@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MathChat Benchmarking Mathematical Reasoning and Instruction Following in Multi-Turn Interactions
+title: Mathchat Benchmarking Mathematical Reasoning And Instruction Following In Multi-turn Interactions
 authors: Liang Zhenwen, Yu Dian, Yu Wenhao, Yao Wenlin, Zhang Zhihan, Zhang Xiangliang, Yu Dong
 conference: "Arxiv"
 year: 2024

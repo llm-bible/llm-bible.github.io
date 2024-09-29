@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AgentQuest A Modular Benchmark Framework to Measure Progress and Improve LLM Agents
+title: Agentquest A Modular Benchmark Framework To Measure Progress And Improve LLM Agents
 authors: Gioacchini Luca, Siracusano Giuseppe, Sanvito Davide, Gashteovski Kiril, Friede David, Bifulco Roberto, Lawrence Carolin
 conference: "Arxiv"
 year: 2024

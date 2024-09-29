@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Probing Natural Language Inference Models through Semantic Fragments
+title: Probing Natural Language Inference Models Through Semantic Fragments
 authors: Richardson Kyle, Hu Hai, Moss Lawrence S., Sabharwal Ashish
 conference: "Arxiv"
 year: 2019

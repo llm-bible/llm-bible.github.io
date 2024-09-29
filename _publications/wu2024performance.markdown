@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Performance Law of Large Language Models
+title: Performance Law Of Large Language Models
 authors: Wu Chuhan, Tang Ruiming
 conference: "Arxiv"
 year: 2024

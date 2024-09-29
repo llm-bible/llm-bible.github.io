@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Neural Contextual Conversation Learning with Labeled Question-Answering Pairs
+title: Neural Contextual Conversation Learning With Labeled Question-answering Pairs
 authors: Xiong Kun, Cui Anqi, Zhang Zefeng, Li Ming
 conference: "Arxiv"
 year: 2016

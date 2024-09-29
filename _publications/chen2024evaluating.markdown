@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating large language models in medical applications a survey
+title: Evaluating Large Language Models In Medical Applications A Survey
 authors: Chen Xiaolan, Xiang Jiayang, Lu Shanfu, Liu Yexin, He Mingguang, Shi Danli
 conference: "Arxiv"
 year: 2024

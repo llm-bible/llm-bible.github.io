@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automatic Question-Answer Generation for Long-Tail Knowledge
+title: Automatic Question-answer Generation For Long-tail Knowledge
 authors: Kumar Rohan, Kim Youngmin, Ravi Sunitha, Sun Haitian, Faloutsos Christos, Salakhutdinov Ruslan, Yoon Minji
 conference: "Arxiv"
 year: 2024

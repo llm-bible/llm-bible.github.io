@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Supporting Sensemaking of Large Language Model Outputs at Scale
+title: Supporting Sensemaking Of Large Language Model Outputs At Scale
 authors: Gero Katy Ilonka, Swoopes Chelse, Gu Ziwei, Kummerfeld Jonathan K., Glassman Elena L.
 conference: "Arxiv"
 year: 2024

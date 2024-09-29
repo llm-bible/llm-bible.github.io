@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Empirical Study of Catastrophic Forgetting in Large Language Models During Continual Fine-tuning
+title: An Empirical Study Of Catastrophic Forgetting In Large Language Models During Continual Fine-tuning
 authors: Luo Yun, Yang Zhen, Meng Fandong, Li Yafu, Zhou Jie, Zhang Yue
 conference: "Arxiv"
 year: 2023

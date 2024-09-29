@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: InternalInspector I^2 Robust Confidence Estimation in LLMs through Internal States
+title: Internalinspector I^2 Robust Confidence Estimation In Llms Through Internal States
 authors: Beigi Mohammad, Shen Ying, Yang Runing, Lin Zihao, Wang Qifan, Mohan Ankith, He Jianfeng, Jin Ming, Lu Chang-tien, Huang Lifu
 conference: "Arxiv"
 year: 2024

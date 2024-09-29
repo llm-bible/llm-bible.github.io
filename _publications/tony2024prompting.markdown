@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompting Techniques for Secure Code Generation A Systematic Investigation
+title: Prompting Techniques For Secure Code Generation A Systematic Investigation
 authors: Tony Catherine, Ferreyra Nicolás E. Díaz, Mutas Markus, Dhiff Salem, Scandariato Riccardo
 conference: "Arxiv"
 year: 2024

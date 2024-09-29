@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EdiT5 Semi-Autoregressive Text-Editing with T5 Warm-Start
+title: Edit5 Semi-autoregressive Text-editing With T5 Warm-start
 authors: Mallinson Jonathan, Adamek Jakub, Malmi Eric, Severyn Aliaksei
 conference: "Arxiv"
 year: 2022

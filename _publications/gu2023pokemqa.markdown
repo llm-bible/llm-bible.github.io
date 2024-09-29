@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PokeMQA Programmable knowledge editing for Multi-hop Question Answering
+title: Pokemqa Programmable Knowledge Editing For Multi-hop Question Answering
 authors: Gu Hengrui, Zhou Kaixiong, Han Xiaotian, Liu Ninghao, Wang Ruobing, Wang Xin
 conference: "Arxiv"
 year: 2023

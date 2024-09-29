@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Andes Defining and Enhancing Quality-of-Experience in LLM-Based Text Streaming Services
+title: Andes Defining And Enhancing Quality-of-experience In Llm-based Text Streaming Services
 authors: Liu Jiachen, Wu Zhiyu, Chung Jae-won, Lai Fan, Lee Myungjin, Chowdhury Mosharaf
 conference: "Arxiv"
 year: 2024

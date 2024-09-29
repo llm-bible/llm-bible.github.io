@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: For Generated Text Is NLI-Neutral Text the Best Text
+title: For Generated Text Is Nli-neutral Text The Best Text
 authors: Mersinias Michail, Mahowald Kyle
 conference: "Arxiv"
 year: 2023

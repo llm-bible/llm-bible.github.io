@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SciEval A Multi-Level Large Language Model Evaluation Benchmark for Scientific Research
+title: Scieval A Multi-level Large Language Model Evaluation Benchmark For Scientific Research
 authors: Sun Liangtai, Han Yang, Zhao Zihan, Ma Da, Shen Zhennan, Chen Baocai, Chen Lu, Yu Kai
 conference: "Arxiv"
 year: 2023

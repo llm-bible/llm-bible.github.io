@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MixSumm Topic-based Data Augmentation using LLMs for Low-resource Extractive Text Summarization
+title: Mixsumm Topic-based Data Augmentation Using Llms For Low-resource Extractive Text Summarization
 authors: Sahu Gaurav, Laradji Issam H.
 conference: "Arxiv"
 year: 2024

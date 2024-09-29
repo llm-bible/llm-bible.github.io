@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CourseAssist Pedagogically Appropriate AI Tutor for Computer Science Education
+title: Courseassist Pedagogically Appropriate AI Tutor For Computer Science Education
 authors: Feng Ty, Liu Sa, Ghosal Dipak
 conference: "Arxiv"
 year: 2024

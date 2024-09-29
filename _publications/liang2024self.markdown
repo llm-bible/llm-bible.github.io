@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-evolving Agents with reflective and memory-augmented abilities
+title: Self-evolving Agents With Reflective And Memory-augmented Abilities
 authors: Liang Xuechen, Tao Meiling, Xia Yinghui, Shi Tianyu, Wang Jun, Yang Jingsong
 conference: "Arxiv"
 year: 2024

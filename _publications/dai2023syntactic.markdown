@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Syntactic Knowledge via Graph Attention with BERT in Machine Translation
+title: Syntactic Knowledge Via Graph Attention With BERT In Machine Translation
 authors: Dai Yuqian, Sharoff Serge, De Kamps Marc
 conference: "Arxiv"
 year: 2023

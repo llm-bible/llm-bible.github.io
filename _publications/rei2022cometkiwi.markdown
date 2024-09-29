@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CometKiwi IST-Unbabel 2022 Submission for the Quality Estimation Shared Task
+title: Cometkiwi Ist-unbabel 2022 Submission For The Quality Estimation Shared Task
 authors: Rei Ricardo, Treviso Marcos, Guerreiro Nuno M., Zerva Chrysoula, Farinha Ana C., Maroti Christine, De Souza José G. C., Glushkova Taisiya, Alves Duarte M., Lavie Alon, Coheur Luisa, Martins André F. T.
 conference: "Arxiv"
 year: 2022

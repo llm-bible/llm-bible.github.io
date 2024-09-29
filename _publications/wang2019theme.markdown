@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Theme-aware generation model for chinese lyrics
+title: Theme-aware Generation Model For Chinese Lyrics
 authors: Wang Jie, Zhao Xinyan
 conference: "Arxiv"
 year: 2019

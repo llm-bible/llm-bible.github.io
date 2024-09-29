@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Large Language Models for Pre-trained Recommender Systems
+title: Leveraging Large Language Models For Pre-trained Recommender Systems
 authors: Zhixuan Chu, Hongyan Hao, Xin Ouyang, Simeng Wang, Yan Wang, Yue Shen, Jinjie Gu, Qing Cui, Longfei Li, Siqiao Xue, James Y Zhang, Sheng Li
 conference: "Arxiv"
 year: 2023

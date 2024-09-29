@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating Symbolic Capabilities of Large Language Models
+title: Investigating Symbolic Capabilities Of Large Language Models
 authors: Dave Neisarg, Kifer Daniel, Giles C. Lee, Mali Ankur
 conference: "Arxiv"
 year: 2024

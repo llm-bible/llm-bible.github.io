@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Effectiveness of LLMs as Annotators A Comparative Overview and Empirical Analysis of Direct Representation
+title: The Effectiveness Of Llms As Annotators A Comparative Overview And Empirical Analysis Of Direct Representation
 authors: Pavlovic Maja, Poesio Massimo
 conference: "Arxiv"
 year: 2024

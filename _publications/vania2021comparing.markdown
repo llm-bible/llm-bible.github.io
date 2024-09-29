@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Comparing Test Sets with Item Response Theory
+title: Comparing Test Sets With Item Response Theory
 authors: Vania Clara, Htut Phu Mon, Huang William, Mungra Dhara, Pang Richard Yuanzhe, Phang Jason, Liu Haokun, Cho Kyunghyun, Bowman Samuel R.
 conference: "Arxiv"
 year: 2021

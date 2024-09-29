@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MEMORYLLM Towards Self-Updatable Large Language Models
+title: MEMORYLLM Towards Self-updatable Large Language Models
 authors: Wang Yu, Gao Yifan, Chen Xiusi, Jiang Haoming, Li Shiyang, Yang Jingfeng, Yin Qingyu, Li Zheng, Li Xian, Yin Bing, Shang Jingbo, Mcauley Julian
 conference: "Arxiv"
 year: 2024

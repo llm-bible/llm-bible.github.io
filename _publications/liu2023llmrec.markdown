@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLMRec Benchmarking Large Language Models on Recommendation Task
+title: Llmrec Benchmarking Large Language Models On Recommendation Task
 authors: Liu Junling, Liu Chao, Zhou Peilin, Ye Qichen, Chong Dading, Zhou Kang, Xie Yueqi, Cao Yuwei, Wang Shoujin, You Chenyu, Yu Philip S.
 conference: "Arxiv"
 year: 2023

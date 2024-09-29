@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TELeR A General Taxonomy of LLM Prompts for Benchmarking Complex Tasks
+title: Teler A General Taxonomy Of LLM Prompts For Benchmarking Complex Tasks
 authors: Santu Shubhra Kanti Karmaker, Feng Dongji
 conference: "Arxiv"
 year: 2023

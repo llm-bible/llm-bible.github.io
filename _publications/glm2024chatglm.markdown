@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChatGLM A Family of Large Language Models from GLM-130B to GLM-4 All Tools
+title: Chatglm A Family Of Large Language Models From GLM-130B To GLM-4 All Tools
 authors: Glm Team, :, Zeng Aohan, Xu Bin, Wang Bowen, Zhang Chenhui, Yin Da, Zhang Dan, Rojas Diego, Feng Guanyu, Zhao Hanlin, Lai Hanyu, Yu Hao, Wang Hongning, Sun Jiadai, Zhang Jiajie, Cheng Jiale, Gui Jiayi, Tang Jie, Zhang Jing, Sun Jingyu, Li Juanzi, Zhao Lei, Wu Lindong, Zhong Lucen, Liu Mingdao, Huang Minlie, Zhang Peng, Zheng Qinkai, Lu Rui, Duan Shuaiqi, Zhang Shudan, Cao Shulin, Yang Shuxun, Tam Weng Lam, Zhao Wenyi, Liu Xiao, Xia Xiao, Zhang Xiaohan, Gu Xiaotao, Lv Xin, Liu Xinghan, Liu Xinyi, Yang Xinyue, Song Xixuan, Zhang Xunkai, An Yifan, Xu Yifan, Niu Yilin, Yang Yuantao, Li Yueyan, Bai Yushi, Dong Yuxiao, Qi Zehan, Wang Zhaoyu, Yang Zhen, Du Zhengxiao, Hou Zhenyu, Wang Zihan
 conference: "Arxiv"
 year: 2024

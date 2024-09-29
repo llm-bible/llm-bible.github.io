@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Greedy Gradient Ensemble for Robust Visual Question Answering
+title: Greedy Gradient Ensemble For Robust Visual Question Answering
 authors: Han Xinzhe, Wang Shuhui, Su Chi, Huang Qingming, Tian Qi
 conference: "Arxiv"
 year: 2021

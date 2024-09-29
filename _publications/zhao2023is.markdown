@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is ChatGPT Equipped with Emotional Dialogue Capabilities
+title: Is Chatgpt Equipped With Emotional Dialogue Capabilities
 authors: Zhao Weixiang, Zhao Yanyan, Lu Xin, Wang Shilong, Tong Yanpeng, Qin Bing
 conference: "Arxiv"
 year: 2023

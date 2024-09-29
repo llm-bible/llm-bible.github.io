@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: adaptNMT an open-source language-agnostic development environment for Neural Machine Translation
+title: Adaptnmt An Open-source Language-agnostic Development Environment For Neural Machine Translation
 authors: Lankford Séamus, Afli Haithem, Way Andy
 conference: "Language Resources and Evaluation"
 year: 2024

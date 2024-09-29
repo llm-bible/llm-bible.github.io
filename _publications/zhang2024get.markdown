@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Get Confused Cautiously Textual Sequence Memorization Erasure with Selective Entropy Maximization
+title: Get Confused Cautiously Textual Sequence Memorization Erasure With Selective Entropy Maximization
 authors: Zhang Zhaohan, Liu Ziquan, Patras Ioannis
 conference: "Arxiv"
 year: 2024

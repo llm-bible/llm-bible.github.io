@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VQAttack Transferable Adversarial Attacks on Visual Question Answering via Pre-trained Models
+title: Vqattack Transferable Adversarial Attacks On Visual Question Answering Via Pre-trained Models
 authors: Yin Ziyi, Ye Muchao, Zhang Tianrong, Wang Jiaqi, Liu Han, Chen Jinghui, Wang Ting, Ma Fenglong
 conference: "Arxiv"
 year: 2024

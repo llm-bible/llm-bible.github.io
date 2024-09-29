@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Order Matters in Hallucination Reasoning Order as Benchmark and Reflexive Prompting for Large-Language-Models
+title: Order Matters In Hallucination Reasoning Order As Benchmark And Reflexive Prompting For Large-language-models
 authors: Xie Zikai
 conference: "Arxiv"
 year: 2024

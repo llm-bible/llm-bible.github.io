@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating the Semantic Profiling Abilities of LLMs for Natural Language Utterances in Data Visualization
+title: Evaluating The Semantic Profiling Abilities Of Llms For Natural Language Utterances In Data Visualization
 authors: Bako Hannah K., Bhutani Arshnoor, Liu Xinyi, Cobbina Kwesi A., Liu Zhicheng
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Giraffe Adventures in Expanding Context Lengths in LLMs
+title: Giraffe Adventures In Expanding Context Lengths In Llms
 authors: Pal Arka, Karkhanis Deep, Roberts Manley, Dooley Samuel, Sundararajan Arvind, Naidu Siddartha
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChatGPT Perpetuates Gender Bias in Machine Translation and Ignores Non-Gendered Pronouns Findings across Bengali and Five other Low-Resource Languages
+title: Chatgpt Perpetuates Gender Bias In Machine Translation And Ignores Non-gendered Pronouns Findings Across Bengali And Five Other Low-resource Languages
 authors: Ghosh Sourojit, Caliskan Aylin
 conference: "Arxiv"
 year: 2023

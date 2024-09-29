@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Detecting and Correcting Hate Speech in Multimodal Memes with Large Visual Language Model
+title: Detecting And Correcting Hate Speech In Multimodal Memes With Large Visual Language Model
 authors: Van Minh-hao, Wu Xintao
 conference: "Arxiv"
 year: 2023

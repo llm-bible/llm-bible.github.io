@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Be Like A Goldfish Donx27;t Memorize! Mitigating Memorization In Generative Llms
+title: Be Like A Goldfish Dont Memorize! Mitigating Memorization In Generative Llms
 authors: Hans Abhimanyu, Wen Yuxin, Jain Neel, Kirchenbauer John, Kazemi Hamid, Singhania Prajwal, Singh Siddharth, Somepalli Gowthami, Geiping Jonas, Bhatele Abhinav, Goldstein Tom
 conference: "Arxiv"
 year: 2024

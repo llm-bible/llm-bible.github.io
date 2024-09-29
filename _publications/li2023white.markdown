@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: White-Box Multi-Objective Adversarial Attack on Dialogue Generation
+title: White-box Multi-objective Adversarial Attack On Dialogue Generation
 authors: Li Yufei, Li Zexin, Gao Yingfan, Liu Cong
 conference: "Arxiv"
 year: 2023

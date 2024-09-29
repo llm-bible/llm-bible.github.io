@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Decoding Stumpers Large Language Models vs. Human Problem-Solvers
+title: Decoding Stumpers Large Language Models Vs. Human Problem-solvers
 authors: Goldstein Alon, Havin Miriam, Reichart Roi, Goldstein Ariel
 conference: "Arxiv"
 year: 2023

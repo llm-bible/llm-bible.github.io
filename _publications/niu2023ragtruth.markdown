@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RAGTruth A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models
+title: Ragtruth A Hallucination Corpus For Developing Trustworthy Retrieval-augmented Language Models
 authors: Niu Cheng, Wu Yuanhao, Zhu Juno, Xu Siliang, Shum Kashun, Zhong Randy, Song Juntong, Zhang Tong
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: OLoRA Orthonormal Low-Rank Adaptation of Large Language Models
+title: Olora Orthonormal Low-rank Adaptation Of Large Language Models
 authors: Büyükakyüz Kerim
 conference: "Arxiv"
 year: 2024

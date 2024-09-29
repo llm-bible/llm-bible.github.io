@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Graph Chain-of-Thought Augmenting Large Language Models by Reasoning on Graphs
+title: Graph Chain-of-thought Augmenting Large Language Models By Reasoning On Graphs
 authors: Jin Bowen, Xie Chulin, Zhang Jiawei, Roy Kashob Kumar, Zhang Yu, Li Zheng, Li Ruirui, Tang Xianfeng, Wang Suhang, Meng Yu, Han Jiawei
 conference: "Arxiv"
 year: 2024

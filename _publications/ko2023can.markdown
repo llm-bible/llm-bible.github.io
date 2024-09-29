@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Language Models Laugh at YouTube Short-form Videos
+title: Can Language Models Laugh At Youtube Short-form Videos
 authors: Ko Dayoon, Lee Sangho, Kim Gunhee
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ProSwitch Knowledge-Guided Instruction Tuning to Generate Professional and Non-Professional Styled Text
+title: Proswitch Knowledge-guided Instruction Tuning To Generate Professional And Non-professional Styled Text
 authors: Zong Chang, Chen Yuyan, Lu Weiming, Shao Jian, Zhuang Yueting
 conference: "Arxiv"
 year: 2024

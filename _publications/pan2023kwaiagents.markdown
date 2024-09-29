@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: KwaiAgents Generalized Information-seeking Agent System with Large Language Models
+title: Kwaiagents Generalized Information-seeking Agent System With Large Language Models
 authors: Pan Haojie, Zhai Zepeng, Yuan Hao, Lv Yaojia, Fu Ruiji, Liu Ming, Wang Zhongyuan, Qin Bing
 conference: "Arxiv"
 year: 2023

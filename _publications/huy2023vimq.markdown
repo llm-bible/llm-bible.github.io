@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ViMQ A Vietnamese Medical Question Dataset for Healthcare Dialogue System Development
+title: Vimq A Vietnamese Medical Question Dataset For Healthcare Dialogue System Development
 authors: Huy Ta Duc, Tu Nguyen Anh, Vu Tran Hoang, Minh Nguyen Phuc, Phan Nguyen, Bui Trung H., Truong Steven Q. H.
 conference: "Arxiv"
 year: 2023

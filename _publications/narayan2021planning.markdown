@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Planning with Learned Entity Prompts for Abstractive Summarization
+title: Planning With Learned Entity Prompts For Abstractive Summarization
 authors: Narayan Shashi, Zhao Yao, Maynez Joshua, Simoes Gonçalo, Nikolaev Vitaly, Mcdonald Ryan
 conference: "Arxiv"
 year: 2021

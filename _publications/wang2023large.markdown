@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Search Model Redefining Search Stack in the Era of LLMs
+title: Large Search Model Redefining Search Stack In The Era Of Llms
 authors: Wang Liang, Yang Nan, Huang Xiaolong, Yang Linjun, Majumder Rangan, Wei Furu
 conference: "Arxiv"
 year: 2023

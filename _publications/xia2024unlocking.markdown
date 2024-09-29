@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unlocking Efficiency in Large Language Model Inference A Comprehensive Survey of Speculative Decoding
+title: Unlocking Efficiency In Large Language Model Inference A Comprehensive Survey Of Speculative Decoding
 authors: Xia Heming, Yang Zhe, Dong Qingxiu, Wang Peiyi, Li Yongqi, Ge Tao, Liu Tianyu, Li Wenjie, Sui Zhifang
 conference: "Arxiv"
 year: 2024

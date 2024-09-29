@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: N-gram Prediction and Word Difference Representations for Language Modeling
+title: N-gram Prediction And Word Difference Representations For Language Modeling
 authors: Heo Dongnyeong, Rim Daniela Noemi, Choi Heeyoul
 conference: "Arxiv"
 year: 2024

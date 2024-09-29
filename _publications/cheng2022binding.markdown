@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Binding Language Models in Symbolic Languages
+title: Binding Language Models In Symbolic Languages
 authors: Zhoujun Cheng, Tianbao Xie, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu
 conference: "Arxiv"
 year: 2022

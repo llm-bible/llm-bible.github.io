@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hierarchical Continual Reinforcement Learning via Large Language Model
+title: Hierarchical Continual Reinforcement Learning Via Large Language Model
 authors: Pan Chaofan, Yang Xin, Wang Hao, Wei Wei, Li Tianrui
 conference: "Arxiv"
 year: 2024

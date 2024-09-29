@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Controlling Conditional Language Models without Catastrophic Forgetting
+title: Controlling Conditional Language Models Without Catastrophic Forgetting
 authors: Korbak Tomasz, Elsahar Hady, Kruszewski German, Dymetman Marc
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LoRAMoE Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin
+title: Loramoe Alleviate World Knowledge Forgetting In Large Language Models Via Moe-style Plugin
 authors: Dou Shihan, Zhou Enyu, Liu Yan, Gao Songyang, Zhao Jun, Shen Wei, Zhou Yuhao, Xi Zhiheng, Wang Xiao, Fan Xiaoran, Pu Shiliang, Zhu Jiang, Zheng Rui, Gui Tao, Zhang Qi, Huang Xuanjing
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM4SBR A Lightweight and Effective Framework for Integrating Large Language Models in Session-based Recommendation
+title: LLM4SBR A Lightweight And Effective Framework For Integrating Large Language Models In Session-based Recommendation
 authors: Qiao Shutong, Gao Chen, Wen Junhao, Zhou Wei, Luo Qun, Chen Peixuan, Li Yong
 conference: "Arxiv"
 year: 2024

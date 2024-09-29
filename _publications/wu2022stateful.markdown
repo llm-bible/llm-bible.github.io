@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Stateful Memory-Augmented Transformers for Efficient Dialogue Modeling
+title: Stateful Memory-augmented Transformers For Efficient Dialogue Modeling
 authors: Wu Qingyang, Yu Zhou
 conference: "Arxiv"
 year: 2022

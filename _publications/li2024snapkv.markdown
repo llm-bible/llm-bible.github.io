@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SnapKV LLM Knows What You are Looking for Before Generation
+title: Snapkv LLM Knows What You Are Looking For Before Generation
 authors: Li Yuhong, Huang Yingbing, Yang Bowen, Venkitesh Bharat, Locatelli Acyr, Ye Hanchen, Cai Tianle, Lewis Patrick, Chen Deming
 conference: "Arxiv"
 year: 2024

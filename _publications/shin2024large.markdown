@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Lack Understanding of Character Composition of Words
+title: Large Language Models Lack Understanding Of Character Composition Of Words
 authors: Shin Andrew, Kaneko Kunitake
 conference: "Arxiv"
 year: 2024

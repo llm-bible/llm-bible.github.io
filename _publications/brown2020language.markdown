@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Models are Few-Shot Learners
+title: Language Models Are Few-shot Learners
 authors: Brown Tom B., Mann Benjamin, Ryder Nick, Subbiah Melanie, Kaplan Jared, Dhariwal Prafulla, Neelakantan Arvind, Shyam Pranav, Sastry Girish, Askell Amanda, Agarwal Sandhini, Herbert-voss Ariel, Krueger Gretchen, Henighan Tom, Child Rewon, Ramesh Aditya, Ziegler Daniel M., Wu Jeffrey, Winter Clemens, Hesse Christopher, Chen Mark, Sigler Eric, Litwin Mateusz, Gray Scott, Chess Benjamin, Clark Jack, Berner Christopher, Mccandlish Sam, Radford Alec, Sutskever Ilya, Amodei Dario
 conference: "Arxiv"
 year: 2020

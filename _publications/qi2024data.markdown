@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Data Augmentation Integrating Dialogue Flow and Style to Adapt Spoken Dialogue Systems to Low-Resource User Groups
+title: Data Augmentation Integrating Dialogue Flow And Style To Adapt Spoken Dialogue Systems To Low-resource User Groups
 authors: Qi Zhiyang, Inaba Michimasa
 conference: "Arxiv"
 year: 2024

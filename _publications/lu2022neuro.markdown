@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Neuro-Symbolic Procedural Planning with Commonsense Prompting
+title: Neuro-symbolic Procedural Planning With Commonsense Prompting
 authors: Lu Yujie, Feng Weixi, Zhu Wanrong, Xu Wenda, Wang Xin Eric, Eckstein Miguel, Wang William Yang
 conference: "Arxiv"
 year: 2022

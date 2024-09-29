@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Repurposing Entailment for Multi-Hop Question Answering Tasks
+title: Repurposing Entailment For Multi-hop Question Answering Tasks
 authors: Trivedi Harsh, Kwon Heeyoung, Khot Tushar, Sabharwal Ashish, Balasubramanian Niranjan
 conference: "Arxiv"
 year: 2019

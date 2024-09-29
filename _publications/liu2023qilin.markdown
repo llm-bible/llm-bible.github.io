@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Qilin-Med-VL Towards Chinese Large Vision-Language Model for General Healthcare
+title: Qilin-med-vl Towards Chinese Large Vision-language Model For General Healthcare
 authors: Liu Junling, Wang Ziming, Ye Qichen, Chong Dading, Zhou Peilin, Hua Yining
 conference: "Arxiv"
 year: 2023

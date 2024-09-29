@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: XplainLLM A QA Explanation Dataset for Understanding LLM Decision-Making
+title: Xplainllm A QA Explanation Dataset For Understanding LLM Decision-making
 authors: Chen Zichen, Chen Jianda, Gaidhani Mitali, Singh Ambuj, Sra Misha
 conference: "Arxiv"
 year: 2023

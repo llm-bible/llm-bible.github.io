@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Frustratingly Simple Memory Efficiency for Pre-trained Language Models via Dynamic Embedding Pruning
+title: Frustratingly Simple Memory Efficiency For Pre-trained Language Models Via Dynamic Embedding Pruning
 authors: Williams Miles, Aletras Nikolaos
 conference: "Arxiv"
 year: 2023

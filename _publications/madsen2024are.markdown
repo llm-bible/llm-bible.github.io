@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are self-explanations from Large Language Models faithful
+title: Are Self-explanations From Large Language Models Faithful
 authors: Madsen Andreas, Chandar Sarath, Reddy Siva
 conference: "Arxiv"
 year: 2024

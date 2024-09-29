@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning the Effects of Physical Actions in a Multi-modal Environment
+title: Learning The Effects Of Physical Actions In A Multi-modal Environment
 authors: Dagan Gautier, Keller Frank, Lascarides Alex
 conference: "Arxiv"
 year: 2023

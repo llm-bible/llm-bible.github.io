@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dissecting Chain-of-Thought Compositionality through In-Context Filtering and Learning
+title: Dissecting Chain-of-thought Compositionality Through In-context Filtering And Learning
 authors: Li Yingcong, Sreenivasan Kartik, Giannou Angeliki, Papailiopoulos Dimitris, Oymak Samet
 conference: "Arxiv"
 year: 2023

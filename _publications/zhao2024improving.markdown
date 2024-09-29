@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving the Robustness of Large Language Models via Consistency Alignment
+title: Improving The Robustness Of Large Language Models Via Consistency Alignment
 authors: Zhao Yukun, Yan Lingyong, Sun Weiwei, Xing Guoliang, Wang Shuaiqiang, Meng Chong, Cheng Zhicong, Ren Zhaochun, Yin Dawei
 conference: "Arxiv"
 year: 2024

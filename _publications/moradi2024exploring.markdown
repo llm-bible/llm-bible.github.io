@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring the landscape of large language models Foundations techniques and challenges
+title: Exploring The Landscape Of Large Language Models Foundations Techniques And Challenges
 authors: Moradi Milad, Yan Ke, Colwell David, Samwald Matthias, Asgari Rhona
 conference: "Arxiv"
 year: 2024

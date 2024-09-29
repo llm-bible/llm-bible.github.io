@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AuroraActivating Chinese chat capability for Mixtral-8x7B sparse Mixture-of-Experts through Instruction-Tuning
+title: Auroraactivating Chinese Chat Capability For Mixtral-8x7b Sparse Mixture-of-experts Through Instruction-tuning
 authors: Wang Rongsheng, Chen Haoming, Zhou Ruizhe, Duan Yaofei, Cai Kunyan, Ma Han, Cui Jiaxi, Li Jian, Pang Patrick Cheong-iao, Wang Yapeng, Tan Tao
 conference: "Arxiv"
 year: 2023

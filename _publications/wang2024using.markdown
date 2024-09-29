@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Using Advanced LLMs to Enhance Smaller LLMs An Interpretable Knowledge Distillation Approach
+title: Using Advanced Llms To Enhance Smaller Llms An Interpretable Knowledge Distillation Approach
 authors: Wang Tong, Sudhir K., Hong Dat
 conference: "Arxiv"
 year: 2024

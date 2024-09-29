@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: WizardCoder Empowering Code Large Language Models with Evol-Instruct
+title: Wizardcoder Empowering Code Large Language Models With Evol-instruct
 authors: Luo Ziyang, Xu Can, Zhao Pu, Sun Qingfeng, Geng Xiubo, Hu Wenxiang, Tao Chongyang, Ma Jing, Lin Qingwei, Jiang Daxin
 conference: "Arxiv"
 year: 2023

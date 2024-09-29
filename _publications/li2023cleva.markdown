@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CLEVA Chinese Language Models EVAluation Platform
+title: CLEVA Chinese Language Models Evaluation Platform
 authors: Li Yanyang, Zhao Jianqiao, Zheng Duo, Hu Zi-yuan, Chen Zhi, Su Xiaohui, Huang Yongfeng, Huang Shijia, Lin Dahua, Lyu Michael R., Wang Liwei
 conference: "Arxiv"
 year: 2023

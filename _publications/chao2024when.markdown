@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: When large language models meet evolutionary algorithms
+title: When Large Language Models Meet Evolutionary Algorithms
 authors: Chao Wang, Zhao Jiaxuan, Jiao Licheng, Li Lingling, Liu Fang, Yang Shuyuan
 conference: "Arxiv"
 year: 2024

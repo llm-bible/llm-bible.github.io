@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Policy-Driven Neural Response Generation for Knowledge-Grounded Dialogue Systems
+title: Policy-driven Neural Response Generation For Knowledge-grounded Dialogue Systems
 authors: Hedayatnia Behnam, Gopalakrishnan Karthik, Kim Seokhwan, Liu Yang, Eric Mihail, Hakkani-tur Dilek
 conference: "Arxiv"
 year: 2020

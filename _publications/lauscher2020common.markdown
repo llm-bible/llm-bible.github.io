@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Common Sense or World Knowledge Investigating Adapter-Based Knowledge Injection into Pretrained Transformers
+title: Common Sense Or World Knowledge Investigating Adapter-based Knowledge Injection Into Pretrained Transformers
 authors: Lauscher Anne, Majewska Olga, Ribeiro Leonardo F. R., Gurevych Iryna, Rozanov Nikolai, Glavaš Goran
 conference: "Arxiv"
 year: 2020

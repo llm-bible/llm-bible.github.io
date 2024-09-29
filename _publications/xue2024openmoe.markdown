@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: OpenMoE An Early Effort on Open Mixture-of-Experts Language Models
+title: Openmoe An Early Effort On Open Mixture-of-experts Language Models
 authors: Xue Fuzhao, Zheng Zian, Fu Yao, Ni Jinjie, Zheng Zangwei, Zhou Wangchunshu, You Yang
 conference: "Arxiv"
 year: 2024

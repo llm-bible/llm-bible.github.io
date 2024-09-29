@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On LLM Wizards Identifying Large Language Modelsx27; Behaviors For Wizard Of Oz Experiments
+title: On LLM Wizards Identifying Large Language Models Behaviors For Wizard Of Oz Experiments
 authors: Fang Jingchao, Arechiga Nikos, Namaoshi Keiichi, Bravo Nayeli, Hogan Candice, Shamma David A.
 conference: "ACM International Conference on Intelligent Virtual Agents"
 year: 2024

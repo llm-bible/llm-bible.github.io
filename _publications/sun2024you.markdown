@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: You Only Cache Once Decoder-Decoder Architectures for Language Models
+title: You Only Cache Once Decoder-decoder Architectures For Language Models
 authors: Sun Yutao, Dong Li, Zhu Yi, Huang Shaohan, Wang Wenhui, Ma Shuming, Zhang Quanlu, Wang Jianyong, Wei Furu
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SpeechPrompt An Exploration of Prompt Tuning on Generative Spoken Language Model for Speech Processing Tasks
+title: Speechprompt An Exploration Of Prompt Tuning On Generative Spoken Language Model For Speech Processing Tasks
 authors: Chang Kai-wei, Tseng Wei-cheng, Li Shang-wen, Lee Hung-yi
 conference: "Arxiv"
 year: 2022

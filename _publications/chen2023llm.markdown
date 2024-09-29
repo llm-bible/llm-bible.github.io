@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM-empowered Chatbots for Psychiatrist and Patient Simulation Application and Evaluation
+title: Llm-empowered Chatbots For Psychiatrist And Patient Simulation Application And Evaluation
 authors: Chen Siyuan, Wu Mengyue, Zhu Kenny Q., Lan Kunyao, Zhang Zhiling, Cui Lyuchun
 conference: "Arxiv"
 year: 2023

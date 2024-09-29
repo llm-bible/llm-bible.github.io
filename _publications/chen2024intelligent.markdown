@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Intelligent Tutor Leveraging ChatGPT and Microsoft Copilot Studio to Deliver a Generative AI Student Support and Feedback System within Teams
+title: Intelligent Tutor Leveraging Chatgpt And Microsoft Copilot Studio To Deliver A Generative AI Student Support And Feedback System Within Teams
 authors: Chen Wei-yu
 conference: "Arxiv"
 year: 2024

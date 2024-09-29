@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Labels Aligning Large Language Models with Human-like Reasoning
+title: Beyond Labels Aligning Large Language Models With Human-like Reasoning
 authors: Kabir Muhammad Rafsan, Sultan Rafeed Mohammad, Asif Ihsanul Haque, Ahad Jawad Ibn, Rahman Fuad, Amin Mohammad Ruhul, Mohammed Nabeel, Rahman Shafin
 conference: "Arxiv"
 year: 2024

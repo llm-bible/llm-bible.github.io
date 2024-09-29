@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Current state of LLM Risks and AI Guardrails
+title: Current State Of LLM Risks And AI Guardrails
 authors: Ayyamperumal Suriya Ganesh, Ge Limin
 conference: "Arxiv"
 year: 2024

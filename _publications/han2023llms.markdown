@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLMs as Visual Explainers Advancing Image Classification with Evolving Visual Descriptions
+title: Llms As Visual Explainers Advancing Image Classification With Evolving Visual Descriptions
 authors: Han Songhao, Zhuo Le, Liao Yue, Liu Si
 conference: "Arxiv"
 year: 2023

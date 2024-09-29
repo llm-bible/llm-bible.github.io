@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hallucination Detection for Grounded Instruction Generation
+title: Hallucination Detection For Grounded Instruction Generation
 authors: Zhao Lingjun, Nguyen Khanh, Daumé Hal Iii
 conference: "Arxiv"
 year: 2023

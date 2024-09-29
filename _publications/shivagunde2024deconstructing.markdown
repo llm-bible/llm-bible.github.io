@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Deconstructing In-Context Learning Understanding Prompts via Corruption
+title: Deconstructing In-context Learning Understanding Prompts Via Corruption
 authors: Shivagunde Namrata, Lialin Vladislav, Muckatira Sherin, Rumshisky Anna
 conference: "Arxiv"
 year: 2024

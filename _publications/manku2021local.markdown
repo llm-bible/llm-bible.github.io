@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Local and Global Context-Based Pairwise Models for Sentence Ordering
+title: Local And Global Context-based Pairwise Models For Sentence Ordering
 authors: Manku Ruskin Raj, Paul Aditya Jyoti
 conference: "Knowledge-Based Systems Volume"
 year: 2021

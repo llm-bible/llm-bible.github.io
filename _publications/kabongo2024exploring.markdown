@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring the Latest LLMs for Leaderboard Extraction
+title: Exploring The Latest Llms For Leaderboard Extraction
 authors: Kabongo Salomon, D'souza Jennifer, Auer Sören
 conference: "Arxiv"
 year: 2024

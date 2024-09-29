@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: InfoBERT Improving Robustness of Language Models from An Information Theoretic Perspective
+title: Infobert Improving Robustness Of Language Models From An Information Theoretic Perspective
 authors: Wang Boxin, Wang Shuohang, Cheng Yu, Gan Zhe, Jia Ruoxi, Li Bo, Liu Jingjing
 conference: "Arxiv"
 year: 2020

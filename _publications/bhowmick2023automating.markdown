@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automating question generation from educational text
+title: Automating Question Generation From Educational Text
 authors: Bhowmick Ayan Kumar, Jagmohan Ashish, Vempaty Aditya, Dey Prasenjit, Hall Leigh, Hartman Jeremy, Kokku Ravi, Maheshwari Hema
 conference: "Arxiv"
 year: 2023

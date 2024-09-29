@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Weak-to-Strong Extrapolation Expedites Alignment
+title: Weak-to-strong Extrapolation Expedites Alignment
 authors: Zheng Chujie, Wang Ziqi, Ji Heng, Huang Minlie, Peng Nanyun
 conference: "Arxiv"
 year: 2024

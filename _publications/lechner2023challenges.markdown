@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Challenges of GPT-3-based Conversational Agents for Healthcare
+title: Challenges Of Gpt-3-based Conversational Agents For Healthcare
 authors: Lechner Fabian, Lahnala Allison, Welch Charles, Flek Lucie
 conference: "Arxiv"
 year: 2023

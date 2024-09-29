@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Predictions from language models for multiple-choice tasks are not robust under variation of scoring methods
+title: Predictions From Language Models For Multiple-choice Tasks Are Not Robust Under Variation Of Scoring Methods
 authors: Tsvilodub Polina, Wang Hening, Grosch Sharon, Franke Michael
 conference: "Arxiv"
 year: 2024

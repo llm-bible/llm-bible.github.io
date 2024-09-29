@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Task-agnostic Distillation of Encoder-Decoder Language Models
+title: Task-agnostic Distillation Of Encoder-decoder Language Models
 authors: Zhang Chen, Yang Yang, Wang Jingang, Song Dawei
 conference: "Arxiv"
 year: 2023

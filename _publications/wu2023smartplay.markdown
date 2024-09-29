@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SmartPlay A Benchmark for LLMs as Intelligent Agents
+title: Smartplay A Benchmark For Llms As Intelligent Agents
 authors: Wu Yue, Tang Xuan, Mitchell Tom M., Li Yuanzhi
 conference: "Arxiv"
 year: 2023

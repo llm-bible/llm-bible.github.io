@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MacBehaviour An R package for behavioural experimentation on large language models
+title: Macbehaviour An R Package For Behavioural Experimentation On Large Language Models
 authors: Duan Xufeng, Li Shixuan, Cai1 Zhenguang G.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: HiCLIP Contrastive Language-Image Pretraining with Hierarchy-aware Attention
+title: Hiclip Contrastive Language-image Pretraining With Hierarchy-aware Attention
 authors: Geng Shijie, Yuan Jianbo, Tian Yu, Chen Yuxiao, Zhang Yongfeng
 conference: "Arxiv"
 year: 2023

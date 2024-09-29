@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ALTER Augmentation for Large-Table-Based Reasoning
+title: ALTER Augmentation For Large-table-based Reasoning
 authors: Zhang Han, Ma Yuheng, Yang Hanfang
 conference: "Arxiv"
 year: 2024

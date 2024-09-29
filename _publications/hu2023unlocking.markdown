@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unlocking the Potential of User Feedback Leveraging Large Language Model as User Simulator to Enhance Dialogue System
+title: Unlocking The Potential Of User Feedback Leveraging Large Language Model As User Simulator To Enhance Dialogue System
 authors: Hu Zhiyuan, Feng Yue, Luu Anh Tuan, Hooi Bryan, Lipani Aldo
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sparse and Dense Approaches for the Full-rank Retrieval of Responses for Dialogues
+title: Sparse And Dense Approaches For The Full-rank Retrieval Of Responses For Dialogues
 authors: Penha Gustavo, Hauff Claudia
 conference: "Arxiv"
 year: 2022

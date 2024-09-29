@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RADE Reference-Assisted Dialogue Evaluation for Open-Domain Dialogue
+title: RADE Reference-assisted Dialogue Evaluation For Open-domain Dialogue
 authors: Shi Zhengliang, Sun Weiwei, Zhang Shuo, Zhang Zhen, Ren Pengjie, Ren Zhaochun
 conference: "Arxiv"
 year: 2023

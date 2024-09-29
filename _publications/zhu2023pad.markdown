@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PaD Program-aided Distillation Can Teach Small Models Reasoning Better than Chain-of-thought Fine-tuning
+title: Pad Program-aided Distillation Can Teach Small Models Reasoning Better Than Chain-of-thought Fine-tuning
 authors: Zhu Xuekai, Qi Biqing, Zhang Kaiyan, Long Xinwei, Lin Zhouhan, Zhou Bowen
 conference: "Arxiv"
 year: 2023

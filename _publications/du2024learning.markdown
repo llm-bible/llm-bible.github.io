@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: In-Context Learning with Reinforcement Learning for Incomplete Utterance Rewriting
+title: In-context Learning With Reinforcement Learning For Incomplete Utterance Rewriting
 authors: Du Haowei, Zhao Dongyan
 conference: "Arxiv"
 year: 2024

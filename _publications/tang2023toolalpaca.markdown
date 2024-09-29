@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ToolAlpaca Generalized Tool Learning for Language Models with 3000 Simulated Cases
+title: Toolalpaca Generalized Tool Learning For Language Models With 3000 Simulated Cases
 authors: Tang Qiaoyu, Deng Ziliang, Lin Hongyu, Han Xianpei, Liang Qiao, Cao Boxi, Sun Le
 conference: "Arxiv"
 year: 2023

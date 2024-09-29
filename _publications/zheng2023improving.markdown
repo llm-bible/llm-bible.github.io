@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Generalization of Alignment with Human Preferences through Group Invariant Learning
+title: Improving Generalization Of Alignment With Human Preferences Through Group Invariant Learning
 authors: Zheng Rui, Shen Wei, Hua Yuan, Lai Wenbin, Dou Shihan, Zhou Yuhao, Xi Zhiheng, Wang Xiao, Huang Haoran, Gui Tao, Zhang Qi, Huang Xuanjing
 conference: "Arxiv"
 year: 2023

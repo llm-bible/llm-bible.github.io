@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mind2Web Towards a Generalist Agent for the Web
+title: Mind2web Towards A Generalist Agent For The Web
 authors: Deng Xiang, Gu Yu, Zheng Boyuan, Chen Shijie, Stevens Samuel, Wang Boshi, Sun Huan, Su Yu
 conference: "Arxiv"
 year: 2023

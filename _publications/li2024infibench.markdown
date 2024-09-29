@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: InfiBench Evaluating the Question-Answering Capabilities of Code Large Language Models
+title: Infibench Evaluating The Question-answering Capabilities Of Code Large Language Models
 authors: Li Linyi, Geng Shijie, Li Zhenwen, He Yibo, Yu Hao, Hua Ziyue, Ning Guanghan, Wang Siwei, Xie Tao, Yang Hongxia
 conference: "Arxiv"
 year: 2024

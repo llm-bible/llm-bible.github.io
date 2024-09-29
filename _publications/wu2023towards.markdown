@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Robust Text Retrieval with Progressive Learning
+title: Towards Robust Text Retrieval With Progressive Learning
 authors: Wu Tong, Qin Yulei, Zhang Enwei, Xu Zihan, Gao Yuting, Li Ke, Sun Xing
 conference: "Arxiv"
 year: 2023

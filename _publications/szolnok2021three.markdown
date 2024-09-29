@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Three Step Training Approach with Data Augmentation for Morphological Inflection
+title: A Three Step Training Approach With Data Augmentation For Morphological Inflection
 authors: Szolnok Gabor, Barta Botond, Lakatos Dorina, Acs Judit
 conference: "Arxiv"
 year: 2021

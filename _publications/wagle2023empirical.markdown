@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Empirical evaluation of Uncertainty Quantification in Retrieval-Augmented Language Models for Science
+title: Empirical Evaluation Of Uncertainty Quantification In Retrieval-augmented Language Models For Science
 authors: Wagle Sridevi, Munikoti Sai, Acharya Anurag, Smith Sara, Horawalavithana Sameera
 conference: "Arxiv"
 year: 2023

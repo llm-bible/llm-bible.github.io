@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unified Questioner Transformer for Descriptive Question Generation in Goal-Oriented Visual Dialogue
+title: Unified Questioner Transformer For Descriptive Question Generation In Goal-oriented Visual Dialogue
 authors: Matsumori Shoya, Shingyouchi Kosuke, Abe Yuki, Fukuchi Yosuke, Sugiura Komei, Imai Michita
 conference: "Arxiv"
 year: 2021

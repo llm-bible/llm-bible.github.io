@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompting open-source and commercial language models for grammatical error correction of English learner text
+title: Prompting Open-source And Commercial Language Models For Grammatical Error Correction Of English Learner Text
 authors: Davis Christopher, Caines Andrew, Andersen Øistein, Taslimipoor Shiva, Yannakoudakis Helen, Yuan Zheng, Bryant Christopher, Rei Marek, Buttery Paula
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tab-CoT Zero-shot Tabular Chain of Thought
+title: Tab-cot Zero-shot Tabular Chain Of Thought
 authors: Ziqi Jin, Wei Lu
 conference: "Arxiv"
 year: 2023

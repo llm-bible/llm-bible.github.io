@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Context-based Transformer Models for Answer Sentence Selection
+title: Context-based Transformer Models For Answer Sentence Selection
 authors: Lauriola Ivano, Moschitti Alessandro
 conference: "Arxiv"
 year: 2020

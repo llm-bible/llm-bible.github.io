@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Approach Intelligent Writing Assistants Usability with Seven Stages of Action
+title: Approach Intelligent Writing Assistants Usability With Seven Stages Of Action
 authors: Bhat Avinash, Shrivastava Disha, Guo Jin L. C.
 conference: "Arxiv"
 year: 2023

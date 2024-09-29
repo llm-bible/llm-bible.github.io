@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: NTSEBENCH Cognitive Reasoning Benchmark for Vision Language Models
+title: NTSEBENCH Cognitive Reasoning Benchmark For Vision Language Models
 authors: Pandya Pranshu, Talwarr Agney S, Gupta Vatsal, Kataria Tushar, Gupta Vivek, Roth Dan
 conference: "Arxiv"
 year: 2024

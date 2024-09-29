@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Token-Picker Accelerating Attention in Text Generation with Minimized Memory Transfer via Probability Estimation
+title: Token-picker Accelerating Attention In Text Generation With Minimized Memory Transfer Via Probability Estimation
 authors: Park Junyoung, Kang Myeonggu, Han Yunki, Kim Yanggon, Shin Jaekang, Kim Lee-sup
 conference: "Arxiv"
 year: 2024

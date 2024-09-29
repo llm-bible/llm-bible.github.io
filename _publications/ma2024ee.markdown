@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EE-MLLM A Data-Efficient and Compute-Efficient Multimodal Large Language Model
+title: EE-MLLM A Data-efficient And Compute-efficient Multimodal Large Language Model
 authors: Ma Feipeng, Zhou Yizhou, Li Hebei, He Zilong, Wu Siying, Rao Fengyun, Zhang Yueyi, Sun Xiaoyan
 conference: "Arxiv"
 year: 2024

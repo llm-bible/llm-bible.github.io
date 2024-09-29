@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM Circuit Analyses Are Consistent Across Training and Scale
+title: LLM Circuit Analyses Are Consistent Across Training And Scale
 authors: Tigges Curt, Hanna Michael, Yu Qinan, Biderman Stella
 conference: "Arxiv"
 year: 2024

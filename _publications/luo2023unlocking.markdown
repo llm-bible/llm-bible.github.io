@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unlocking the Potential of Large Language Models for Explainable Recommendations
+title: Unlocking The Potential Of Large Language Models For Explainable Recommendations
 authors: Luo Yucong, Cheng Mingyue, Zhang Hao, Lu Junyu, Liu Qi, Chen Enhong
 conference: "Arxiv"
 year: 2023

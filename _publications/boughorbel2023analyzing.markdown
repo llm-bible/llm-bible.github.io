@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Analyzing Multilingual Competency of LLMs in Multi-Turn Instruction Following A Case Study of Arabic
+title: Analyzing Multilingual Competency Of Llms In Multi-turn Instruction Following A Case Study Of Arabic
 authors: Boughorbel Sabri, Hawasly Majd
 conference: "Arxiv"
 year: 2023

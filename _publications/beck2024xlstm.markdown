@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: xLSTM Extended Long Short-Term Memory
+title: Xlstm Extended Long Short-term Memory
 authors: Beck Maximilian, Pöppel Korbinian, Spanring Markus, Auer Andreas, Prudnikova Oleksandra, Kopp Michael, Klambauer Günter, Brandstetter Johannes, Hochreiter Sepp
 conference: "Arxiv"
 year: 2024

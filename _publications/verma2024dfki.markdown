@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DFKI-NLP at SemEval-2024 Task 2 Towards Robust LLMs Using Data Perturbations and MinMax Training
+title: DFKI-NLP At Semeval-2024 Task 2 Towards Robust Llms Using Data Perturbations And Minmax Training
 authors: Verma Bhuvanesh, Raithel Lisa
 conference: "Arxiv"
 year: 2024

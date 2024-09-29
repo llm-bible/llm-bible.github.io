@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BERT Based Multilingual Machine Comprehension in English and Hindi
+title: BERT Based Multilingual Machine Comprehension In English And Hindi
 authors: Gupta Somil, Khade Nilesh
 conference: "Arxiv"
 year: 2020

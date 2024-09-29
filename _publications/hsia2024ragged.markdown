@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RAGGED Towards Informed Design of Retrieval Augmented Generation Systems
+title: RAGGED Towards Informed Design Of Retrieval Augmented Generation Systems
 authors: Hsia Jennifer, Shaikh Afreen, Wang Zhiruo, Neubig Graham
 conference: "Arxiv"
 year: 2024

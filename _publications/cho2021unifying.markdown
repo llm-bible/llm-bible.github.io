@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unifying Vision-and-Language Tasks via Text Generation
+title: Unifying Vision-and-language Tasks Via Text Generation
 authors: Cho Jaemin, Lei Jie, Tan Hao, Bansal Mohit
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficient Pre-training for Localized Instruction Generation of Videos
+title: Efficient Pre-training For Localized Instruction Generation Of Videos
 authors: Batra Anil, Moltisanti Davide, Sevilla-lara Laura, Rohrbach Marcus, Keller Frank
 conference: "Arxiv"
 year: 2023

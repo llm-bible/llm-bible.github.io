@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How to think step-by-step A mechanistic understanding of chain-of-thought reasoning
+title: How To Think Step-by-step A Mechanistic Understanding Of Chain-of-thought Reasoning
 authors: Dutta Subhabrata, Singh Joykirat, Chakrabarti Soumen, Chakraborty Tanmoy
 conference: "Arxiv"
 year: 2024

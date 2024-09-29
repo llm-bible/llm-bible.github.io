@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Character-LLM A Trainable Agent for Role-Playing
+title: Character-llm A Trainable Agent For Role-playing
 authors: Shao Yunfan, Li Linyang, Dai Junqi, Qiu Xipeng
 conference: "Arxiv"
 year: 2023

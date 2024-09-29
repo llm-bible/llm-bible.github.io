@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Structured Prompting Scaling In-Context Learning to 1000 Examples
+title: Structured Prompting Scaling In-context Learning To 1000 Examples
 authors: Yaru Hao, Yutao Sun, Li Dong, Zhixiong Han, Yuxian Gu, Furu Wei
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Personalized Language Modeling from Personalized Human Feedback
+title: Personalized Language Modeling From Personalized Human Feedback
 authors: Li Xinyu, Lipton Zachary C., Leqi Liu
 conference: "Arxiv"
 year: 2024

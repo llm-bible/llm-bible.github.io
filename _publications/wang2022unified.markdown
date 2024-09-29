@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unified Multimodal Model with Unlikelihood Training for Visual Dialog
+title: Unified Multimodal Model With Unlikelihood Training For Visual Dialog
 authors: Wang Zihao, Wang Junli, Jiang Changjun
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prepacking A Simple Method for Fast Prefilling and Increased Throughput in Large Language Models
+title: Prepacking A Simple Method For Fast Prefilling And Increased Throughput In Large Language Models
 authors: Zhao Siyan, Israel Daniel, Broeck Guy Van Den, Grover Aditya
 conference: "Arxiv"
 year: 2024

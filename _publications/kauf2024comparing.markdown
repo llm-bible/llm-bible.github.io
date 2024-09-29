@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Comparing Plausibility Estimates in Base and Instruction-Tuned Large Language Models
+title: Comparing Plausibility Estimates In Base And Instruction-tuned Large Language Models
 authors: Kauf Carina, Chersoni Emmanuele, Lenci Alessandro, Fedorenko Evelina, Ivanova Anna A.
 conference: "Arxiv"
 year: 2024

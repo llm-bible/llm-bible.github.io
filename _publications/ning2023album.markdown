@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Album Storytelling with Iterative Story-aware Captioning and Large Language Models
+title: Album Storytelling With Iterative Story-aware Captioning And Large Language Models
 authors: Ning Munan, Xie Yujia, Chen Dongdong, Song Zeyin, Yuan Lu, Tian Yonghong, Ye Qixiang, Yuan Li
 conference: "Arxiv"
 year: 2023

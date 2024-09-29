@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Listen Again and Choose the Right Answer A New Paradigm for Automatic Speech Recognition with Large Language Models
+title: Listen Again And Choose The Right Answer A New Paradigm For Automatic Speech Recognition With Large Language Models
 authors: Hu Yuchen, Chen Chen, Qin Chengwei, Zhu Qiushi, Chng Eng Siong, Li Ruizhe
 conference: "Arxiv"
 year: 2024

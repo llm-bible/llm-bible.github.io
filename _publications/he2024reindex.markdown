@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reindex-Then-Adapt Improving Large Language Models for Conversational Recommendation
+title: Reindex-then-adapt Improving Large Language Models For Conversational Recommendation
 authors: He Zhankui, Xie Zhouhang, Steck Harald, Liang Dawen, Jha Rahul, Kallus Nathan, Mcauley Julian
 conference: "Arxiv"
 year: 2024

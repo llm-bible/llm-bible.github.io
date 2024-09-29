@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Oops Did I Just Say That Testing and Repairing Unethical Suggestions of Large Language Models with Suggest-Critique-Reflect Process
+title: oops Did I Just Say That Testing And Repairing Unethical Suggestions Of Large Language Models With Suggest-critique-reflect Process
 authors: Ma Pingchuan, Li Zongjie, Sun Ao, Wang Shuai
 conference: "Arxiv"
 year: 2023

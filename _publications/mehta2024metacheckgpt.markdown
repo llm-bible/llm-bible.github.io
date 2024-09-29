@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MetaCheckGPT -- A Multi-task Hallucination Detector Using LLM Uncertainty and Meta-models
+title: Metacheckgpt -- A Multi-task Hallucination Detector Using LLM Uncertainty And Meta-models
 authors: Mehta Rahul, Hoblitzell Andrew, O'keefe Jack, Jang Hyeju, Varma Vasudeva
 conference: "Arxiv"
 year: 2024

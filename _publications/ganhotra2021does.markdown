@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Does Dialog Length matter for Next Response Selection task An Empirical Study
+title: Does Dialog Length Matter For Next Response Selection Task An Empirical Study
 authors: Ganhotra Jatin, Joshi Sachindra
 conference: "Arxiv"
 year: 2021

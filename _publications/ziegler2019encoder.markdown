@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Encoder-Agnostic Adaptation for Conditional Language Generation
+title: Encoder-agnostic Adaptation For Conditional Language Generation
 authors: Ziegler Zachary M., Melas-kyriazi Luke, Gehrmann Sebastian, Rush Alexander M.
 conference: "Arxiv"
 year: 2019

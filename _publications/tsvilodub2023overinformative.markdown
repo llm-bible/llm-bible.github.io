@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Overinformative Question Answering by Humans and Machines
+title: Overinformative Question Answering By Humans And Machines
 authors: Tsvilodub Polina, Franke Michael, Hawkins Robert D., Goodman Noah D.
 conference: "Arxiv"
 year: 2023

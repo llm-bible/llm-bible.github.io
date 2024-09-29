@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Constructive Large Language Models Alignment with Diverse Feedback
+title: Constructive Large Language Models Alignment With Diverse Feedback
 authors: Yu Tianshu, Lin Ting-en, Wu Yuchuan, Yang Min, Huang Fei, Li Yongbin
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reinforcement Retrieval Leveraging Fine-grained Feedback for Fact Checking News Claims with Black-Box LLM
+title: Reinforcement Retrieval Leveraging Fine-grained Feedback For Fact Checking News Claims With Black-box LLM
 authors: Zhang Xuan, Gao Wei
 conference: "Arxiv"
 year: 2024

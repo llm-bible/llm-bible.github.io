@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rec-GPT4V Multimodal Recommendation with Large Vision-Language Models
+title: Rec-gpt4v Multimodal Recommendation With Large Vision-language Models
 authors: Yuqing Liu, Yu Wang, Lichao Sun, Philip S. Yu
 conference: "Arxiv"
 year: 2024

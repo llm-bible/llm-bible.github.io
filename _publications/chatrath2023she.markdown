@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: She had Cobalt Blue Eyes Prompt Testing to Create Aligned and Sustainable Language Models
+title: She Had Cobalt Blue Eyes Prompt Testing To Create Aligned And Sustainable Language Models
 authors: Chatrath Veronica, Bamgbose Oluwanifemi, Raza Shaina
 conference: "Arxiv"
 year: 2023

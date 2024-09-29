@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SkipDecode Autoregressive Skip Decoding with Batching and Caching for Efficient LLM Inference
+title: Skipdecode Autoregressive Skip Decoding With Batching And Caching For Efficient LLM Inference
 authors: Del Corro Luciano, Del Giorno Allie, Agarwal Sahaj, Yu Bin, Awadallah Ahmed, Mukherjee Subhabrata
 conference: "Arxiv"
 year: 2023

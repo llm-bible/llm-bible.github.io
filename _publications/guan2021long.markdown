@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence
+title: Long Text Generation By Modeling Sentence-level And Discourse-level Coherence
 authors: Guan Jian, Mao Xiaoxi, Fan Changjie, Liu Zitao, Ding Wenbiao, Huang Minlie
 conference: "Arxiv"
 year: 2021

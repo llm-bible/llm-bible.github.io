@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning on Graphs with Large Language Models(LLMs) A Deep Dive into Model Robustness
+title: Learning On Graphs With Large Language Models(llms) A Deep Dive Into Model Robustness
 authors: Guo Kai, Liu Zewen, Chen Zhikai, Wen Hongzhi, Jin Wei, Tang Jiliang, Chang Yi
 conference: "Arxiv"
 year: 2024

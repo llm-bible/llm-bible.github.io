@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PlaSma Making Small Language Models Better Procedural Knowledge Models for (Counterfactual) Planning
+title: Plasma Making Small Language Models Better Procedural Knowledge Models For (counterfactual) Planning
 authors: Brahman Faeze, Bhagavatula Chandra, Pyatkin Valentina, Hwang Jena D., Li Xiang Lorraine, Arai Hirona J., Sanyal Soumya, Sakaguchi Keisuke, Ren Xiang, Choi Yejin
 conference: "Arxiv"
 year: 2023

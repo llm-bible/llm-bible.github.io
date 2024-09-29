@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey on Responsible Generative AI What to Generate and What Not
+title: A Survey On Responsible Generative AI What To Generate And What Not
 authors: Gu Jindong
 conference: "Arxiv"
 year: 2024

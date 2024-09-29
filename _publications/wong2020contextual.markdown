@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Contextual Neural Machine Translation Improves Translation of Cataphoric Pronouns
+title: Contextual Neural Machine Translation Improves Translation Of Cataphoric Pronouns
 authors: Wong Kayyen, Maruf Sameen, Haffari Gholamreza
 conference: "Arxiv"
 year: 2020

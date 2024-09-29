@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Macaw-LLM Multi-Modal Language Modeling with Image Audio Video and Text Integration
+title: Macaw-llm Multi-modal Language Modeling With Image Audio Video And Text Integration
 authors: Lyu Chenyang, Wu Minghao, Wang Longyue, Huang Xinting, Liu Bingshuai, Du Zefeng, Shi Shuming, Tu Zhaopeng
 conference: "Arxiv"
 year: 2023

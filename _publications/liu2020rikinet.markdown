@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RikiNet Reading Wikipedia Pages for Natural Question Answering
+title: Rikinet Reading Wikipedia Pages For Natural Question Answering
 authors: Liu Dayiheng, Gong Yeyun, Fu Jie, Yan Yu, Chen Jiusheng, Jiang Daxin, Lv Jiancheng, Duan Nan
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PathOCL Path-Based Prompt Augmentation for OCL Generation with GPT-4
+title: Pathocl Path-based Prompt Augmentation For OCL Generation With GPT-4
 authors: Abukhalaf Seif, Hamdaqa Mohammad, Khomh Foutse
 conference: "Arxiv"
 year: 2024

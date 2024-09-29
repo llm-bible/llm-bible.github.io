@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aligned with LLM a new multi-modal training paradigm for encoding fMRI activity in visual cortex
+title: Aligned With LLM A New Multi-modal Training Paradigm For Encoding Fmri Activity In Visual Cortex
 authors: Ma Shuxiao, Wang Linyuan, Hou Senbao, Yan Bin
 conference: "Arxiv"
 year: 2024

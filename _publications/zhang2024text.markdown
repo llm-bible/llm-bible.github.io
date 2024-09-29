@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Text-Augmented Multimodal LLMs for Chemical Reaction Condition Recommendation
+title: Text-augmented Multimodal Llms For Chemical Reaction Condition Recommendation
 authors: Zhang Yu, Yu Ruijie, Zeng Kaipeng, Li Ding, Zhu Feng, Yang Xiaokang, Jin Yaohui, Xu Yanyan
 conference: "Arxiv"
 year: 2024

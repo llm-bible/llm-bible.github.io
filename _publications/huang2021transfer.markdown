@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transfer Learning for Sequence Generation from Single-source to Multi-source
+title: Transfer Learning For Sequence Generation From Single-source To Multi-source
 authors: Huang Xuancheng, Xu Jingfang, Sun Maosong, Liu Yang
 conference: "Arxiv"
 year: 2021

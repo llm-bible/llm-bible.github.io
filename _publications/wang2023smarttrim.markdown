@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SmartTrim Adaptive Tokens and Attention Pruning for Efficient Vision-Language Models
+title: Smarttrim Adaptive Tokens And Attention Pruning For Efficient Vision-language Models
 authors: Wang Zekun, Chen Jingchang, Zhou Wangchunshu, Zhu Haichao, Liang Jiafeng, Shan Liping, Liu Ming, Xu Dongliang, Yang Qing, Qin Bing
 conference: "Arxiv"
 year: 2023

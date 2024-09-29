@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Generative User Simulator with GPT-based Architecture and Goal State Tracking for Reinforced Multi-Domain Dialog Systems
+title: A Generative User Simulator With Gpt-based Architecture And Goal State Tracking For Reinforced Multi-domain Dialog Systems
 authors: Liu Hong, Cai Yucheng, Ou Zhijian, Huang Yi, Feng Junlan
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Psychologically-informed chain-of-thought prompts for metaphor understanding in large language models
+title: Psychologically-informed Chain-of-thought Prompts For Metaphor Understanding In Large Language Models
 authors: Prystawski Ben, Thibodeau Paul, Potts Christopher, Goodman Noah D.
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TIMEDIAL Temporal Commonsense Reasoning in Dialog
+title: TIMEDIAL Temporal Commonsense Reasoning In Dialog
 authors: Qin Lianhui, Gupta Aditya, Upadhyay Shyam, He Luheng, Choi Yejin, Faruqui Manaal
 conference: "Arxiv"
 year: 2021

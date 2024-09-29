@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Cross-Lingual Explanation of Artwork in Large-scale Vision Language Models
+title: Towards Cross-lingual Explanation Of Artwork In Large-scale Vision Language Models
 authors: Ozaki Shintaro, Hayashi Kazuki, Sakai Yusuke, Kamigaito Hidetaka, Hayashi Katsuhiko, Watanabe Taro
 conference: "Arxiv"
 year: 2024

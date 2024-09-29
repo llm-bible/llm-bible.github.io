@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Auto-Instruct Automatic Instruction Generation and Ranking for Black-Box Language Models
+title: Auto-instruct Automatic Instruction Generation And Ranking For Black-box Language Models
 authors: Zhang Zhihan, Wang Shuohang, Yu Wenhao, Xu Yichong, Iter Dan, Zeng Qingkai, Liu Yang, Zhu Chenguang, Jiang Meng
 conference: "Arxiv"
 year: 2023

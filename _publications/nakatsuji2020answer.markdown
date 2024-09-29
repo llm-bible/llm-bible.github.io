@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Answer Generation through Unified Memories over Multiple Passages
+title: Answer Generation Through Unified Memories Over Multiple Passages
 authors: Nakatsuji Makoto, Okui Sohei
 conference: "Arxiv"
 year: 2020

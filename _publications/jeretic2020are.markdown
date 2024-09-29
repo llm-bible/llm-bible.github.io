@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are Natural Language Inference Models IMPPRESsive Learning IMPlicature and PRESupposition
+title: Are Natural Language Inference Models Imppressive Learning Implicature And Presupposition
 authors: Jeretic Paloma, Warstadt Alex, Bhooshan Suvrat, Williams Adina
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LinkQ An LLM-Assisted Visual Interface for Knowledge Graph Question-Answering
+title: Linkq An Llm-assisted Visual Interface For Knowledge Graph Question-answering
 authors: Li Harry, Appleby Gabriel, Suh Ashley
 conference: "Arxiv"
 year: 2024

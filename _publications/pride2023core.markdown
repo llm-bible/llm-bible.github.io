@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CORE-GPT Combining Open Access research and large language models for credible trustworthy question answering
+title: CORE-GPT Combining Open Access Research And Large Language Models For Credible Trustworthy Question Answering
 authors: Pride David, Cancellieri Matteo, Knoth Petr
 conference: "Arxiv"
 year: 2023

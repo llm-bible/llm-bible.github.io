@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Answering Unseen Questions With Smaller Language Models Using Rationale Generation and Dense Retrieval
+title: Answering Unseen Questions With Smaller Language Models Using Rationale Generation And Dense Retrieval
 authors: Hartill Tim, Benavides-prado Diana, Witbrock Michael, Riddle Patricia J.
 conference: "Arxiv"
 year: 2023

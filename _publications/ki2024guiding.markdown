@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Guiding Large Language Models to Post-Edit Machine Translation with Error Annotations
+title: Guiding Large Language Models To Post-edit Machine Translation With Error Annotations
 authors: Ki Dayeon, Carpuat Marine
 conference: "NAACL"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLaVA-Med Training a Large Language-and-Vision Assistant for Biomedicine in One Day
+title: Llava-med Training A Large Language-and-vision Assistant For Biomedicine In One Day
 authors: Li Chunyuan, Wong Cliff, Zhang Sheng, Usuyama Naoto, Liu Haotian, Yang Jianwei, Naumann Tristan, Poon Hoifung, Gao Jianfeng
 conference: "Arxiv"
 year: 2023

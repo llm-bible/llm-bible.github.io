@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Developing generative AI chatbots conceptual framework for higher education
+title: Developing Generative AI Chatbots Conceptual Framework For Higher Education
 authors: Chukwuere Joshua Ebere
 conference: "Arxiv"
 year: 2024

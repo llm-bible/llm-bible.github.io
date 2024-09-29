@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring an LM to generate Prolog Predicates from Mathematics Questions
+title: Exploring An LM To Generate Prolog Predicates From Mathematics Questions
 authors: Yang Xiaocheng, Tam Yik-cheung
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mitigating LLM Hallucinations via Conformal Abstention
+title: Mitigating LLM Hallucinations Via Conformal Abstention
 authors: Yadkori Yasin Abbasi, Kuzborskij Ilja, Stutz David, György András, Fisch Adam, Doucet Arnaud, Beloshapka Iuliya, Weng Wei-hung, Yang Yao-yuan, Szepesvári Csaba, Cemgil Ali Taylan, Tomasev Nenad
 conference: "Arxiv"
 year: 2024

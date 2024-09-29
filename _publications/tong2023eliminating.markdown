@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Eliminating Reasoning Via Inferring With Planning A New Framework To Guide Llmsx27; Non-linear Thinking
+title: Eliminating Reasoning Via Inferring With Planning A New Framework To Guide Llms Non-linear Thinking
 authors: Tong Yongqi, Wang Yifan, Li Dawei, Wang Sizhe, Lin Zi, Han Simeng, Shang Jingbo
 conference: "Arxiv"
 year: 2023

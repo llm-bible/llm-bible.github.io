@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Its Not Easy Being Wrong Large Language Models Struggle with Process of Elimination Reasoning
+title: Its Not Easy Being Wrong Large Language Models Struggle With Process Of Elimination Reasoning
 authors: Balepur Nishant, Palta Shramay, Rudinger Rachel
 conference: "Arxiv"
 year: 2023

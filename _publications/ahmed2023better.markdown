@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Better patching using LLM prompting via Self-Consistency
+title: Better Patching Using LLM Prompting Via Self-consistency
 authors: Ahmed Toufique, Devanbu Premkumar
 conference: "Arxiv"
 year: 2023

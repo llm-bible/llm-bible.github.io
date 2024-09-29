@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mementos A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences
+title: Mementos A Comprehensive Benchmark For Multimodal Large Language Model Reasoning Over Image Sequences
 authors: Wang Xiyao, Zhou Yuhang, Liu Xiaoyu, Lu Hongjin, Xu Yuancheng, He Feihong, Yoon Jaehong, Lu Taixi, Bertasius Gedas, Bansal Mohit, Yao Huaxiu, Huang Furong
 conference: "Arxiv"
 year: 2024

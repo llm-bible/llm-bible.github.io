@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Stress Test Evaluation of Transformer-based Models in Natural Language Understanding Tasks
+title: Stress Test Evaluation Of Transformer-based Models In Natural Language Understanding Tasks
 authors: Aspillaga Carlos, Carvallo Andrés, Araujo Vladimir
 conference: "Arxiv"
 year: 2020

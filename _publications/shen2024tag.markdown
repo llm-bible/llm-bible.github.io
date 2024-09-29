@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tag-LLM Repurposing General-Purpose LLMs for Specialized Domains
+title: Tag-llm Repurposing General-purpose Llms For Specialized Domains
 authors: Shen Junhong, Tenenholtz Neil, Hall James Brian, Alvarez-melis David, Fusi Nicolo
 conference: "Arxiv"
 year: 2024

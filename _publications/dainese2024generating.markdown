@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generating Code World Models with Large Language Models Guided by Monte Carlo Tree Search
+title: Generating Code World Models With Large Language Models Guided By Monte Carlo Tree Search
 authors: Dainese Nicola, Merler Matteo, Alakuijala Minttu, Marttinen Pekka
 conference: "Arxiv"
 year: 2024

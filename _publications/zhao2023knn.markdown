@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: kNN-ICL Compositional Task-Oriented Parsing Generalization with Nearest Neighbor In-Context Learning
+title: Knn-icl Compositional Task-oriented Parsing Generalization With Nearest Neighbor In-context Learning
 authors: Zhao Wenting, Liu Ye, Wan Yao, Wang Yibo, Wu Qingyang, Deng Zhongfen, Du Jiangshu, Liu Shuaiqi, Xu Yunlong, Yu Philip S.
 conference: "Arxiv"
 year: 2023

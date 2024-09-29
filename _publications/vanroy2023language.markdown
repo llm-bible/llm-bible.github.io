@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Resources for Dutch Large Language Modelling
+title: Language Resources For Dutch Large Language Modelling
 authors: Vanroy Bram
 conference: "Arxiv"
 year: 2023

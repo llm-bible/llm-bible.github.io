@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Trustworthy are Open-Source LLMs An Assessment under Malicious Demonstrations Shows their Vulnerabilities
+title: How Trustworthy Are Open-source Llms An Assessment Under Malicious Demonstrations Shows Their Vulnerabilities
 authors: Mo Lingbo, Wang Boshi, Chen Muhao, Sun Huan
 conference: "Arxiv"
 year: 2023

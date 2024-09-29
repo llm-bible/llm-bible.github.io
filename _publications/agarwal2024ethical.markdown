@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ethical Reasoning and Moral Value Alignment of LLMs Depend on the Language we Prompt them in
+title: Ethical Reasoning And Moral Value Alignment Of Llms Depend On The Language We Prompt Them In
 authors: Agarwal Utkarsh, Tanmay Kumar, Khandelwal Aditi, Choudhury Monojit
 conference: "Arxiv"
 year: 2024

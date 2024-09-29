@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Response Generation for Cognitive Behavioral Therapy with Large Language Models Comparative Study with Socratic Questioning
+title: Response Generation For Cognitive Behavioral Therapy With Large Language Models Comparative Study With Socratic Questioning
 authors: Izumi Kenta, Tanaka Hiroki, Shidara Kazuhiro, Adachi Hiroyoshi, Kanayama Daisuke, Kudo Takashi, Nakamura Satoshi
 conference: "Arxiv"
 year: 2024

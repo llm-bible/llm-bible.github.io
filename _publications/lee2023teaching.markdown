@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Teaching Arithmetic to Small Transformers
+title: Teaching Arithmetic To Small Transformers
 authors: Lee Nayoung, Sreenivasan Kartik, Lee Jason D., Lee Kangwook, Papailiopoulos Dimitris
 conference: "Arxiv"
 year: 2023

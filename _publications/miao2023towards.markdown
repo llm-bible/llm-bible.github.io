@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Efficient Generative Large Language Model Serving A Survey from Algorithms to Systems
+title: Towards Efficient Generative Large Language Model Serving A Survey From Algorithms To Systems
 authors: Miao Xupeng, Oliaro Gabriele, Zhang Zhihao, Cheng Xinhao, Jin Hongyi, Chen Tianqi, Jia Zhihao
 conference: "Arxiv"
 year: 2023

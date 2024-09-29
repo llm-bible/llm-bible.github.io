@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bootstrapping LLM-based Task-Oriented Dialogue Agents via Self-Talk
+title: Bootstrapping Llm-based Task-oriented Dialogue Agents Via Self-talk
 authors: Ulmer Dennis, Mansimov Elman, Lin Kaixiang, Sun Justin, Gao Xibin, Zhang Yi
 conference: "Arxiv"
 year: 2024

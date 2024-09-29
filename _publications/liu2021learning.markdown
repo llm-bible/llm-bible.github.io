@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning to Ask Conversational Questions by Optimizing Levenshtein Distance
+title: Learning To Ask Conversational Questions By Optimizing Levenshtein Distance
 authors: Liu Zhongkun, Ren Pengjie, Chen Zhumin, Ren Zhaochun, De Rijke Maarten, Zhou Ming
 conference: "Arxiv"
 year: 2021

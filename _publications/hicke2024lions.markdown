@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lions 1 and Tigers 2 and Bears 3 Oh My! Literary Coreference Annotation with LLMs
+title: lions 1 And tigers 2 And bears 3 Oh My! Literary Coreference Annotation With Llms
 authors: Hicke Rebecca M. M., Mimno David
 conference: "Arxiv"
 year: 2024

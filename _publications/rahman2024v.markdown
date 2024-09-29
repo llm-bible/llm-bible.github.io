@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: V-Zen Efficient GUI Understanding and Precise Grounding With A Novel Multimodal LLM
+title: V-zen Efficient GUI Understanding And Precise Grounding With A Novel Multimodal LLM
 authors: Rahman Abdur, Chawla Rajat, Kumar Muskaan, Datta Arkajit, Jha Adarsh, Ns Mukunda, Bhola Ishaan
 conference: "Arxiv"
 year: 2024

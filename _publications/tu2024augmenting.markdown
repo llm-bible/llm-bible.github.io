@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Augmenting the Author Exploring the Potential of AI Collaboration in Academic Writing
+title: Augmenting The Author Exploring The Potential Of AI Collaboration In Academic Writing
 authors: Tu Joseph, Hadan Hilda, Wang Derrick M., Sgandurra Sabrina A, Mogavi Reza Hadi, Nacke Lennart E.
 conference: "Arxiv"
 year: 2024

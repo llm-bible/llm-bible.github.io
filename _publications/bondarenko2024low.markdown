@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Low-Rank Quantization-Aware Training for LLMs
+title: Low-rank Quantization-aware Training For Llms
 authors: Bondarenko Yelysei, Del Chiaro Riccardo, Nagel Markus
 conference: "Arxiv"
 year: 2024

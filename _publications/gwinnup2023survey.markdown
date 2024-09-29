@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey of Vision-Language Pre-training from the Lens of Multimodal Machine Translation
+title: A Survey Of Vision-language Pre-training From The Lens Of Multimodal Machine Translation
 authors: Gwinnup Jeremy, Duh Kevin
 conference: "Arxiv"
 year: 2023

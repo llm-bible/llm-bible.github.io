@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rethinking with Retrieval Faithful Large Language Model Inference
+title: Rethinking With Retrieval Faithful Large Language Model Inference
 authors: He Hangfeng, Zhang Hongming, Roth Dan
 conference: "Arxiv"
 year: 2022

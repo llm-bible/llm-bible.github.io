@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lifelong Robot Library Learning Bootstrapping Composable and Generalizable Skills for Embodied Control with Language Models
+title: Lifelong Robot Library Learning Bootstrapping Composable And Generalizable Skills For Embodied Control With Language Models
 authors: Tziafas Georgios, Kasaei Hamidreza
 conference: "Arxiv"
 year: 2024

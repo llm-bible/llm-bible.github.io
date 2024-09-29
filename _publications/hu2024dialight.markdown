@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DIALIGHT Lightweight Multilingual Development and Evaluation of Task-Oriented Dialogue Systems with Large Language Models
+title: DIALIGHT Lightweight Multilingual Development And Evaluation Of Task-oriented Dialogue Systems With Large Language Models
 authors: Hu Songbo, Wang Xiaobin, Yuan Zhangdie, Korhonen Anna, Vulić Ivan
 conference: "Arxiv"
 year: 2024

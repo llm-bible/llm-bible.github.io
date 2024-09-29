@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: StructEval Deepen and Broaden Large Language Model Assessment via Structured Evaluation
+title: Structeval Deepen And Broaden Large Language Model Assessment Via Structured Evaluation
 authors: Cao Boxi, Ren Mengjie, Lin Hongyu, Han Xianpei, Zhang Feng, Zhan Junfeng, Sun Le
 conference: "Arxiv"
 year: 2024

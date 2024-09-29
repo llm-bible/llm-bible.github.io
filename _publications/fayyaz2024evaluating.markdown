@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Human Alignment and Model Faithfulness of LLM Rationale
+title: Evaluating Human Alignment And Model Faithfulness Of LLM Rationale
 authors: Fayyaz Mohsen, Yin Fan, Sun Jiao, Peng Nanyun
 conference: "Arxiv"
 year: 2024

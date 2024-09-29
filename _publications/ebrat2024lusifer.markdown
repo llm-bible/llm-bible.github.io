@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lusifer LLM-based User SImulated Feedback Environment for online Recommender systems
+title: Lusifer Llm-based User Simulated Feedback Environment For Online Recommender Systems
 authors: Ebrat Danial, Rueda Luis
 conference: "Arxiv"
 year: 2024

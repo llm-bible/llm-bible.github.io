@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Weighted Sampling for Masked Language Modeling
+title: Weighted Sampling For Masked Language Modeling
 authors: Zhang Linhan, Chen Qian, Wang Wen, Deng Chong, Cao Xin, Hao Kongzhang, Jiang Yuxin, Wang Wei
 conference: ""
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning Shortcuts On the Misleading Promise of NLU in Language Models
+title: Learning Shortcuts On The Misleading Promise Of NLU In Language Models
 authors: Bihani Geetanjali, Rayz Julia Taylor
 conference: "Arxiv"
 year: 2024

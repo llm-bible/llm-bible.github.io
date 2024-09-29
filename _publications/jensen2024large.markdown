@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Enable Automated Formative Feedback in Human-Robot Interaction Tasks
+title: Large Language Models Enable Automated Formative Feedback In Human-robot Interaction Tasks
 authors: Jensen Emily, Sankaranarayanan Sriram, Hayes Bradley
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PERFECT Prompt-free and Efficient Few-shot Learning with Language Models
+title: PERFECT Prompt-free And Efficient Few-shot Learning With Language Models
 authors: Mahabadi Rabeeh Karimi, Zettlemoyer Luke, Henderson James, Saeidi Marzieh, Mathias Lambert, Stoyanov Veselin, Yazdani Majid
 conference: "Arxiv"
 year: 2022

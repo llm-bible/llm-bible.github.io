@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Survival of the Most Influential Prompts Efficient Black-Box Prompt Search via Clustering and Pruning
+title: Survival Of The Most Influential Prompts Efficient Black-box Prompt Search Via Clustering And Pruning
 authors: Zhou Han, Wan Xingchen, Vulić Ivan, Korhonen Anna
 conference: "Arxiv"
 year: 2023

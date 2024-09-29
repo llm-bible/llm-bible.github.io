@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rethinking Machine Unlearning for Large Language Models
+title: Rethinking Machine Unlearning For Large Language Models
 authors: Liu Sijia, Yao Yuanshun, Jia Jinghan, Casper Stephen, Baracaldo Nathalie, Hase Peter, Yao Yuguang, Liu Chris Yuhao, Xu Xiaojun, Li Hang, Varshney Kush R., Bansal Mohit, Koyejo Sanmi, Liu Yang
 conference: "Arxiv"
 year: 2024

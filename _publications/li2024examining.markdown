@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Examining Post-Training Quantization for Mixture-of-Experts A Benchmark
+title: Examining Post-training Quantization For Mixture-of-experts A Benchmark
 authors: Li Pingzhi, Jin Xiaolong, Cheng Yu, Chen Tianlong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The ART of LLM Refinement Ask Refine and Trust
+title: The ART Of LLM Refinement Ask Refine And Trust
 authors: Shridhar Kumar, Sinha Koustuv, Cohen Andrew, Wang Tianlu, Yu Ping, Pasunuru Ram, Sachan Mrinmaya, Weston Jason, Celikyilmaz Asli
 conference: "Arxiv"
 year: 2023

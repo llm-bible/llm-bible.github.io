@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: X-METRA-ADA Cross-lingual Meta-Transfer Learning Adaptation to Natural Language Understanding and Question Answering
+title: X-METRA-ADA Cross-lingual Meta-transfer Learning Adaptation To Natural Language Understanding And Question Answering
 authors: M'hamdi Meryem, Kim Doo Soon, Dernoncourt Franck, Bui Trung, Ren Xiang, May Jonathan
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Impact of Quantization on Retrieval-Augmented Generation An Analysis of Small LLMs
+title: The Impact Of Quantization On Retrieval-augmented Generation An Analysis Of Small Llms
 authors: Yazan Mert, Verberne Suzan, Situmeang Frederik
 conference: "Arxiv"
 year: 2024

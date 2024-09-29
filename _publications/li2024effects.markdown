@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Effects of Different Prompts on the Quality of GPT-4 Responses to Dementia Care Questions
+title: Effects Of Different Prompts On The Quality Of GPT-4 Responses To Dementia Care Questions
 authors: Li Zhuochun, Xie Bo, Hilsabeck Robin, Aguirre Alyssa, Zou Ning, Luo Zhimeng, He Daqing
 conference: "Arxiv"
 year: 2024

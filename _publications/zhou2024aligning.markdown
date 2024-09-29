@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aligning Modalities in Vision Large Language Models via Preference Fine-tuning
+title: Aligning Modalities In Vision Large Language Models Via Preference Fine-tuning
 authors: Zhou Yiyang, Cui Chenhang, Rafailov Rafael, Finn Chelsea, Yao Huaxiu
 conference: "Arxiv"
 year: 2024

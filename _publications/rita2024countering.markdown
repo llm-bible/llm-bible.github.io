@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Countering Reward Over-optimization in LLM with Demonstration-Guided Reinforcement Learning
+title: Countering Reward Over-optimization In LLM With Demonstration-guided Reinforcement Learning
 authors: Rita Mathieu, Strub Florian, Chaabouni Rahma, Michel Paul, Dupoux Emmanuel, Pietquin Olivier
 conference: "Arxiv"
 year: 2024

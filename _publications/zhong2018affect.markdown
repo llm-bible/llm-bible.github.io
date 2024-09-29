@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Affect-Rich Neural Conversational Model with Biased Attention and Weighted Cross-Entropy Loss
+title: An Affect-rich Neural Conversational Model With Biased Attention And Weighted Cross-entropy Loss
 authors: Zhong Peixiang, Wang Di, Miao Chunyan
 conference: "Arxiv"
 year: 2018

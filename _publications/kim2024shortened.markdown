@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Shortened LLaMA Depth Pruning for Large Language Models with Comparison of Retraining Methods
+title: Shortened Llama Depth Pruning For Large Language Models With Comparison Of Retraining Methods
 authors: Kim Bo-kyeong, Kim Geonmin, Kim Tae-ho, Castells Thibault, Choi Shinkook, Shin Junho, Song Hyoung-kyu
 conference: "Arxiv"
 year: 2024

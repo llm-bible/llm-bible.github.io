@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Position Engineering Boosting Large Language Models through Positional Information Manipulation
+title: Position Engineering Boosting Large Language Models Through Positional Information Manipulation
 authors: He Zhiyuan, Jiang Huiqiang, Wang Zilong, Yang Yuqing, Qiu Luna, Qiu Lili
 conference: "Arxiv"
 year: 2024

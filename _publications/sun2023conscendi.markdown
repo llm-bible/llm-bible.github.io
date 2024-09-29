@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CONSCENDI A Contrastive and Scenario-Guided Distillation Approach to Guardrail Models for Virtual Assistants
+title: CONSCENDI A Contrastive And Scenario-guided Distillation Approach To Guardrail Models For Virtual Assistants
 authors: Sun Albert Yu, Nair Varun, Schumacher Elliot, Kannan Anitha
 conference: "Arxiv"
 year: 2023

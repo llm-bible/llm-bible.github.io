@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cognitive Overload Jailbreaking Large Language Models with Overloaded Logical Thinking
+title: Cognitive Overload Jailbreaking Large Language Models With Overloaded Logical Thinking
 authors: Xu Nan, Wang Fei, Zhou Ben, Li Bang Zheng, Xiao Chaowei, Chen Muhao
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Testing AI on language comprehension tasks reveals insensitivity to underlying meaning
+title: Testing AI On Language Comprehension Tasks Reveals Insensitivity To Underlying Meaning
 authors: Dentella Vittoria, Guenther Fritz, Murphy Elliot, Marcus Gary, Leivada Evelina
 conference: "Arxiv"
 year: 2023

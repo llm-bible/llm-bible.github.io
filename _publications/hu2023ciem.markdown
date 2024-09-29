@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CIEM Contrastive Instruction Evaluation Method for Better Instruction Tuning
+title: CIEM Contrastive Instruction Evaluation Method For Better Instruction Tuning
 authors: Hongyu Hu, Jiyuan Zhang, Minyi Zhao, Zhenbang Sun
 conference: "Arxiv"
 year: 2023

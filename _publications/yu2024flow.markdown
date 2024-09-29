@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Flow of Reasoning Efficient Training of LLM Policy with Divergent Thinking
+title: Flow Of Reasoning Efficient Training Of LLM Policy With Divergent Thinking
 authors: Yu Fangxu, Jiang Lai, Kang Haoqiang, Hao Shibo, Qin Lianhui
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MMIDR Teaching Large Language Model to Interpret Multimodal Misinformation via Knowledge Distillation
+title: MMIDR Teaching Large Language Model To Interpret Multimodal Misinformation Via Knowledge Distillation
 authors: Wang Longzheng, Xu Xiaohan, Zhang Lei, Lu Jiarui, Xu Yongxiu, Xu Hongbo, Tang Minghao, Zhang Chuang
 conference: "Arxiv"
 year: 2024

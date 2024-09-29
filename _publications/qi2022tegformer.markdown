@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TegFormer Topic-to-Essay Generation with Good Topic Coverage and High Text Coherence
+title: Tegformer Topic-to-essay Generation With Good Topic Coverage And High Text Coherence
 authors: Qi Wang, Liu Rui, Zuo Yuan, Chen Yong, Zhang Dell
 conference: "Arxiv"
 year: 2022

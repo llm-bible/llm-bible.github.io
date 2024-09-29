@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Contrastive Learning with Bidirectional Transformers for Sequential Recommendation
+title: Contrastive Learning With Bidirectional Transformers For Sequential Recommendation
 authors: Du Hanwen, Shi Hui, Zhao Pengpeng, Wang Deqing, Sheng Victor S., Liu Yanchi, Liu Guanfeng, Zhao Lei
 conference: "Arxiv"
 year: 2022

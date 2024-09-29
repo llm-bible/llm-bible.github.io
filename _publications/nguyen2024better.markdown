@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Better Alignment with Instruction Back-and-Forth Translation
+title: Better Alignment With Instruction Back-and-forth Translation
 authors: Nguyen Thao, Li Jeffrey, Oh Sewoong, Schmidt Ludwig, Weston Jason, Zettlemoyer Luke, Li Xian
 conference: "Arxiv"
 year: 2024

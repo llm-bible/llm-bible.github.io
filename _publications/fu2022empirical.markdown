@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling
+title: An Empirical Study Of End-to-end Video-language Transformers With Masked Visual Modeling
 authors: Fu Tsu-jui, Li Linjie, Gan Zhe, Lin Kevin, Wang William Yang, Wang Lijuan, Liu Zicheng
 conference: "Arxiv"
 year: 2022

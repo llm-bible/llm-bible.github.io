@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pre-trained Language Models as Prior Knowledge for Playing Text-based Games
+title: Pre-trained Language Models As Prior Knowledge For Playing Text-based Games
 authors: Singh Ishika, Singh Gargi, Modi Ashutosh
 conference: "Arxiv"
 year: 2021

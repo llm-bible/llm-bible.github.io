@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChiMed-GPT A Chinese Medical Large Language Model with Full Training Regime and Better Alignment to Human Preferences
+title: Chimed-gpt A Chinese Medical Large Language Model With Full Training Regime And Better Alignment To Human Preferences
 authors: Tian Yuanhe, Gan Ruyi, Song Yan, Zhang Jiaxing, Zhang Yongdong
 conference: "Arxiv"
 year: 2023

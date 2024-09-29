@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Boosting of Thoughts Trial-and-Error Problem Solving with Large Language Models
+title: Boosting Of Thoughts Trial-and-error Problem Solving With Large Language Models
 authors: Chen Sijia, Li Baochun, Niu Di
 conference: "Arxiv"
 year: 2024

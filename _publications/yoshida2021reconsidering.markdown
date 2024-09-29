@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reconsidering the Past Optimizing Hidden States in Language Models
+title: Reconsidering The Past Optimizing Hidden States In Language Models
 authors: Yoshida Davis, Gimpel Kevin
 conference: "Findings of the Association for Computational Linguistics EMNLP"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DialoKG Knowledge-Structure Aware Task-Oriented Dialogue Generation
+title: Dialokg Knowledge-structure Aware Task-oriented Dialogue Generation
 authors: Rony Md Rashad Al Hasan, Usbeck Ricardo, Lehmann Jens
 conference: "Arxiv"
 year: 2022

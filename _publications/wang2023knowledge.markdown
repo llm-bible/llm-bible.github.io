@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Knowledge-tuning Large Language Models with Structured Medical Knowledge Bases for Reliable Response Generation in Chinese
+title: Knowledge-tuning Large Language Models With Structured Medical Knowledge Bases For Reliable Response Generation In Chinese
 authors: Wang Haochun, Zhao Sendong, Qiang Zewen, Li Zijian, Xi Nuwa, Du Yanrui, Cai Muzhen, Guo Haoqiang, Chen Yuhan, Xu Haoming, Qin Bing, Liu Ting
 conference: "Arxiv"
 year: 2023

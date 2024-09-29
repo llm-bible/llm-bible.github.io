@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hidden Question Representations Tell Non-Factuality Within and Across Large Language Models
+title: Hidden Question Representations Tell Non-factuality Within And Across Large Language Models
 authors: Wang Yanling, Li Haoyang, Zou Hao, Zhang Jing, He Xinlei, Li Qi, Xu Ke
 conference: "Arxiv"
 year: 2024

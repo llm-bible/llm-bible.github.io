@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Epi-Curriculum Episodic Curriculum Learning for Low-Resource Domain Adaptation in Neural Machine Translation
+title: Epi-curriculum Episodic Curriculum Learning For Low-resource Domain Adaptation In Neural Machine Translation
 authors: Chen Keyu, Zhuang Di, Li Mingchen, Chang J. Morris
 conference: "Arxiv"
 year: 2023

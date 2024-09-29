@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Power of Scale for Parameter-Efficient Prompt Tuning
+title: The Power Of Scale For Parameter-efficient Prompt Tuning
 authors: Brian Lester, Rami Al-rfou, Noah Constant
 conference: "Arxiv"
 year: 2021

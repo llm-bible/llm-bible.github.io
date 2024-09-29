@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Response-act Guided Reinforced Dialogue Generation for Mental Health Counseling
+title: Response-act Guided Reinforced Dialogue Generation For Mental Health Counseling
 authors: Srivastava Aseem, Pandey Ishan, Akhtar Md. Shad, Chakraborty Tanmoy
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Base of RoPE Bounds Context Length
+title: Base Of Rope Bounds Context Length
 authors: Men Xin, Xu Mingyu, Wang Bingning, Zhang Qingyu, Lin Hongyu, Han Xianpei, Chen Weipeng
 conference: "Arxiv"
 year: 2024

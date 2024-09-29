@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Languini Kitchen Enabling Language Modelling Research at Different Scales of Compute
+title: The Languini Kitchen Enabling Language Modelling Research At Different Scales Of Compute
 authors: Stanić Aleksandar, Ashley Dylan, Serikov Oleg, Kirsch Louis, Faccio Francesco, Schmidhuber Jürgen, Hofmann Thomas, Schlag Imanol
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey on Self-Evolution of Large Language Models
+title: A Survey On Self-evolution Of Large Language Models
 authors: Tao Zhengwei, Lin Ting-en, Chen Xiancai, Li Hangyu, Wu Yuchuan, Li Yongbin, Jin Zhi, Huang Fei, Tao Dacheng, Zhou Jingren
 conference: "Arxiv"
 year: 2024

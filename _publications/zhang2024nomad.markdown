@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: NoMAD-Attention Efficient LLM Inference on CPUs Through Multiply-add-free Attention
+title: Nomad-attention Efficient LLM Inference On Cpus Through Multiply-add-free Attention
 authors: Zhang Tianyi, Yi Jonah Wonkyu, Yao Bowen, Xu Zhaozhuo, Shrivastava Anshumali
 conference: "Arxiv"
 year: 2024

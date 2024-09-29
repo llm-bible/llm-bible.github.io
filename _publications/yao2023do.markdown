@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Physicians Know How to Prompt The Need for Automatic Prompt Optimization Help in Clinical Note Generation
+title: Do Physicians Know How To Prompt The Need For Automatic Prompt Optimization Help In Clinical Note Generation
 authors: Yao Zonghai, Jaafar Ahmed, Wang Beining, Yang Zhichao, Yu Hong
 conference: "Arxiv"
 year: 2023

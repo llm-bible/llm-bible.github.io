@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: UltraFeedback Boosting Language Models with Scaled AI Feedback
+title: Ultrafeedback Boosting Language Models With Scaled AI Feedback
 authors: Cui Ganqu, Yuan Lifan, Ding Ning, Yao Guanming, He Bingxiang, Zhu Wei, Ni Yuan, Xie Guotong, Xie Ruobing, Lin Yankai, Liu Zhiyuan, Sun Maosong
 conference: "Arxiv"
 year: 2023

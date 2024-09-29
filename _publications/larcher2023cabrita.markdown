@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cabrita closing the gap for foreign languages
+title: Cabrita Closing The Gap For Foreign Languages
 authors: Larcher Celio, Piau Marcos, Finardi Paulo, Gengo Pedro, Esposito Piero, Caridá Vinicius
 conference: "Arxiv"
 year: 2023

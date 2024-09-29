@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: InstUPR Instruction-based Unsupervised Passage Reranking with Large Language Models
+title: Instupr Instruction-based Unsupervised Passage Reranking With Large Language Models
 authors: Huang Chao-wei, Chen Yun-nung
 conference: "Arxiv"
 year: 2024

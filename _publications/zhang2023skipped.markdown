@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Skipped Beat A Study of Sociopragmatic Understanding in LLMs for 64 Languages
+title: The Skipped Beat A Study Of Sociopragmatic Understanding In Llms For 64 Languages
 authors: Zhang Chiyu, Doan Khai Duy, Liao Qisheng, Abdul-mageed Muhammad
 conference: "Arxiv"
 year: 2023

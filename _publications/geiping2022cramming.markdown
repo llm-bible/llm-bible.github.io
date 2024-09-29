@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cramming Training a Language Model on a Single GPU in One Day
+title: Cramming Training A Language Model On A Single GPU In One Day
 authors: Geiping Jonas, Goldstein Tom
 conference: "Arxiv"
 year: 2022

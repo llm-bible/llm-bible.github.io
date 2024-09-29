@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CREATER CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning
+title: CREATER Ctr-driven Advertising Text Generation With Controlled Pre-training And Contrastive Fine-tuning
 authors: Wei Penghui, Yang Xuanhua, Liu Shaoguo, Wang Liang, Zheng Bo
 conference: "Arxiv"
 year: 2022

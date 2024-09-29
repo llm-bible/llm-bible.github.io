@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Visual Question Answering through Ranking-Based Hybrid Training and Multimodal Fusion
+title: Enhancing Visual Question Answering Through Ranking-based Hybrid Training And Multimodal Fusion
 authors: Chen Peiyuan, Zhang Zecheng, Dong Yiping, Zhou Li, Wang Han
 conference: "Arxiv"
 year: 2024

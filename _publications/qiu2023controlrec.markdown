@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ControlRec Bridging the Semantic Gap between Language Model and Personalized Recommendation
+title: Controlrec Bridging The Semantic Gap Between Language Model And Personalized Recommendation
 authors: Qiu Junyan, Wang Haitao, Hong Zhaolin, Yang Yiping, Liu Qiang, Wang Xingxing
 conference: "Arxiv"
 year: 2023

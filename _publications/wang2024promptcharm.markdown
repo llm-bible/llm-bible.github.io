@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PromptCharm Text-to-Image Generation through Multi-modal Prompting and Refinement
+title: Promptcharm Text-to-image Generation Through Multi-modal Prompting And Refinement
 authors: Wang Zhijie, Huang Yuheng, Song Da, Ma Lei, Zhang Tianyi
 conference: "Arxiv"
 year: 2024

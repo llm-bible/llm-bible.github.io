@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DeepEdit Knowledge Editing as Decoding with Constraints
+title: Deepedit Knowledge Editing As Decoding With Constraints
 authors: Wang Yiwei, Chen Muhao, Peng Nanyun, Chang Kai-wei
 conference: "Arxiv"
 year: 2024

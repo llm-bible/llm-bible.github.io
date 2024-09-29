@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey of Large Language Models
+title: A Survey Of Large Language Models
 authors: Zhao Wayne Xin, Zhou Kun, Li Junyi, Tang Tianyi, Wang Xiaolei, Hou Yupeng, Min Yingqian, Zhang Beichen, Zhang Junjie, Dong Zican, Du Yifan, Yang Chen, Chen Yushuo, Chen Zhipeng, Jiang Jinhao, Ren Ruiyang, Li Yifan, Tang Xinyu, Liu Zikang, Liu Peiyu, Nie Jian-yun, Wen Ji-rong
 conference: "Arxiv"
 year: 2023

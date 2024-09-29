@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LANE Logic Alignment of Non-tuning Large Language Models and Online Recommendation Systems for Explainable Reason Generation
+title: LANE Logic Alignment Of Non-tuning Large Language Models And Online Recommendation Systems For Explainable Reason Generation
 authors: Zhao Hongke, Zheng Songming, Wu Likang, Yu Bowen, Wang Jing
 conference: "Arxiv"
 year: 2024

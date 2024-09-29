@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are LLMs Effective Negotiators Systematic Evaluation of the Multifaceted Capabilities of LLMs in Negotiation Dialogues
+title: Are Llms Effective Negotiators Systematic Evaluation Of The Multifaceted Capabilities Of Llms In Negotiation Dialogues
 authors: Kwon Deuksin, Weiss Emily, Kulshrestha Tara, Chawla Kushal, Lucas Gale M., Gratch Jonathan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AdaRefiner Refining Decisions of Language Models with Adaptive Feedback
+title: Adarefiner Refining Decisions Of Language Models With Adaptive Feedback
 authors: Zhang Wanpeng, Lu Zongqing
 conference: "Arxiv"
 year: 2023

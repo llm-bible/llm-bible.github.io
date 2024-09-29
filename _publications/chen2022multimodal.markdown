@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multimodal Dialog Systems with Dual Knowledge-enhanced Generative Pretrained Language Model
+title: Multimodal Dialog Systems With Dual Knowledge-enhanced Generative Pretrained Language Model
 authors: Chen Xiaolin, Song Xuemeng, Jing Liqiang, Li Shuo, Hu Linmei, Nie Liqiang
 conference: "Arxiv"
 year: 2022

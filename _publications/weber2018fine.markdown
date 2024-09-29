@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Fine Line between Linguistic Generalization and Failure in Seq2Seq-Attention Models
+title: The Fine Line Between Linguistic Generalization And Failure In Seq2seq-attention Models
 authors: Weber Noah, Shekhar Leena, Balasubramanian Niranjan
 conference: "Arxiv"
 year: 2018

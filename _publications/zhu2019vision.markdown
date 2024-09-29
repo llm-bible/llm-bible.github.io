@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vision-Language Navigation with Self-Supervised Auxiliary Reasoning Tasks
+title: Vision-language Navigation With Self-supervised Auxiliary Reasoning Tasks
 authors: Zhu Fengda, Zhu Yi, Chang Xiaojun, Liang Xiaodan
 conference: "Arxiv"
 year: 2019

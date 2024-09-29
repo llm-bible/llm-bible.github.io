@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dialog Action-Aware Transformer for Dialog Policy Learning
+title: Dialog Action-aware Transformer For Dialog Policy Learning
 authors: Wang Huimin, Kwan Wai-chung, Wong Kam-fai
 conference: "Arxiv"
 year: 2023

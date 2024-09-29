@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Model Displays Emergent Ability to Interpret Novel Literary Metaphors
+title: Large Language Model Displays Emergent Ability To Interpret Novel Literary Metaphors
 authors: Ichien Nicholas, Stamenković Dušan, Holyoak Keith J.
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: WorkArena++ Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks
+title: Workarena++ Towards Compositional Planning And Reasoning-based Common Knowledge Work Tasks
 authors: Boisvert Léo, Thakkar Megh, Gasse Maxime, Caccia Massimo, De Chezelles Thibault Le Sellier, Cappart Quentin, Chapados Nicolas, Lacoste Alexandre, Drouin Alexandre
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Creating Trustworthy LLMs Dealing with Hallucinations in Healthcare AI
+title: Creating Trustworthy Llms Dealing With Hallucinations In Healthcare AI
 authors: Ahmad Muhammad Aurangzeb, Yaramis Ilker, Roy Taposh Dutta
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Emergent AI-Assisted Discourse Case Study of a Second Language Writer Authoring with ChatGPT
+title: Emergent Ai-assisted Discourse Case Study Of A Second Language Writer Authoring With Chatgpt
 authors: Jacob Sharin, Tate Tamara, Warschauer Mark
 conference: "Arxiv"
 year: 2023

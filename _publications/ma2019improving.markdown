@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Question Generation with Sentence-level Semantic Matching and Answer Position Inferring
+title: Improving Question Generation With Sentence-level Semantic Matching And Answer Position Inferring
 authors: Ma Xiyao, Zhu Qile, Zhou Yanlin, Li Xiaolin, Wu Dapeng
 conference: "Arxiv"
 year: 2019

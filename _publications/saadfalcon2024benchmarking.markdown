@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Benchmarking and Building Long-Context Retrieval Models with LoCo and M2-BERT
+title: Benchmarking And Building Long-context Retrieval Models With Loco And M2-BERT
 authors: Saad-falcon Jon, Fu Daniel Y., Arora Simran, Guha Neel, Ré Christopher
 conference: "Arxiv"
 year: 2024

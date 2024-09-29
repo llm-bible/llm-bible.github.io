@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On the Multilingual Capabilities of Very Large-Scale English Language Models
+title: On The Multilingual Capabilities Of Very Large-scale English Language Models
 authors: Armengol-estapé Jordi, Bonet Ona De Gibert, Melero Maite
 conference: "Arxiv"
 year: 2021

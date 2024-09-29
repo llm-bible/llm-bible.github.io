@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RDBE Reasoning Distillation-Based Evaluation Enhances Automatic Essay Scoring
+title: RDBE Reasoning Distillation-based Evaluation Enhances Automatic Essay Scoring
 authors: Mohammadkhani Ali Ghiasvand
 conference: "Arxiv"
 year: 2024

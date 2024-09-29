@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MedDoc-Bot A Chat Tool for Comparative Analysis of Large Language Models in the Context of the Pediatric Hypertension Guideline
+title: Meddoc-bot A Chat Tool For Comparative Analysis Of Large Language Models In The Context Of The Pediatric Hypertension Guideline
 authors: Jabarulla Mohamed Yaseen, Oeltze-jafra Steffen, Beerbaum Philipp, Uden Theodor
 conference: "Arxiv"
 year: 2024

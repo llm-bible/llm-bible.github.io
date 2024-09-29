@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating the Limitations of Transformers with Simple Arithmetic Tasks
+title: Investigating The Limitations Of Transformers With Simple Arithmetic Tasks
 authors: Nogueira Rodrigo, Jiang Zhiying, Lin Jimmy
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LINGUIST Language Model Instruction Tuning to Generate Annotated Utterances for Intent Classification and Slot Tagging
+title: LINGUIST Language Model Instruction Tuning To Generate Annotated Utterances For Intent Classification And Slot Tagging
 authors: Rosenbaum Andy, Soltan Saleh, Hamza Wael, Versley Yannick, Boese Markus
 conference: "Arxiv"
 year: 2022

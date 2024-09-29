@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Various Lengths Constant Speed Efficient Language Modeling with Lightning Attention
+title: Various Lengths Constant Speed Efficient Language Modeling With Lightning Attention
 authors: Qin Zhen, Sun Weigao, Li Dong, Shen Xuyang, Sun Weixuan, Zhong Yiran
 conference: "Arxiv"
 year: 2024

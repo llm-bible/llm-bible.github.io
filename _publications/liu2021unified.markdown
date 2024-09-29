@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unified Multimodal Pre-training and Prompt-based Tuning for Vision-Language Understanding and Generation
+title: Unified Multimodal Pre-training And Prompt-based Tuning For Vision-language Understanding And Generation
 authors: Liu Tianyi, Wu Zuxuan, Xiong Wenhan, Chen Jingjing, Jiang Yu-gang
 conference: "Arxiv"
 year: 2021

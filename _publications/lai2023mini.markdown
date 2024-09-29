@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mini-DALLE3 Interactive Text to Image by Prompting Large Language Models
+title: Mini-dalle3 Interactive Text To Image By Prompting Large Language Models
 authors: Lai Zeqiang, Zhu Xizhou, Dai Jifeng, Qiao Yu, Wang Wenhai
 conference: "Arxiv"
 year: 2023

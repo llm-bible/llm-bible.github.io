@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Autonomous Agents through the Lens of Large Language Models A Review
+title: Exploring Autonomous Agents Through The Lens Of Large Language Models A Review
 authors: Barua Saikat
 conference: "Arxiv"
 year: 2024

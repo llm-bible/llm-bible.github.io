@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Revealing Fine-Grained Values and Opinions in Large Language Models
+title: Revealing Fine-grained Values And Opinions In Large Language Models
 authors: Wright Dustin, Arora Arnav, Borenstein Nadav, Yadav Srishti, Belongie Serge, Augenstein Isabelle
 conference: "Arxiv"
 year: 2024

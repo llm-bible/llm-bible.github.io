@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-Turn Context Jailbreak Attack on Large Language Models From First Principles
+title: Multi-turn Context Jailbreak Attack On Large Language Models From First Principles
 authors: Sun Xiongtao, Zhang Deyue, Yang Dongdong, Zou Quanchen, Li Hui
 conference: "Arxiv"
 year: 2024

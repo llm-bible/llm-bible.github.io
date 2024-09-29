@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sequencing Matters A Generate-Retrieve-Generate Model for Building Conversational Agents
+title: Sequencing Matters A Generate-retrieve-generate Model For Building Conversational Agents
 authors: Patwardhan Quinn, Yang Grace Hui
 conference: "Arxiv"
 year: 2023

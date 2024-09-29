@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Grad-SAM Explaining Transformers via Gradient Self-Attention Maps
+title: Grad-sam Explaining Transformers Via Gradient Self-attention Maps
 authors: Barkan Oren, Hauon Edan, Caciularu Avi, Katz Ori, Malkiel Itzik, Armstrong Omri, Koenigstein Noam
 conference: "Arxiv"
 year: 2022

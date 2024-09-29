@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sparks of Artificial General Intelligence Early experiments with GPT-4
+title: Sparks Of Artificial General Intelligence Early Experiments With GPT-4
 authors: Sébastien Bubeck, Varun Chandrasekaran, Ronen Eldan, Johannes Gehrke, Eric Horvitz, Ece Kamar, Peter Lee, Yin Tat Lee, Yuanzhi Li, Scott Lundberg, Harsha Nori, Hamid Palangi, Marco Tulio Ribeiro, Yi Zhang
 conference: "Arxiv"
 year: 2023

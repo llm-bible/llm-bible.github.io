@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Truncating Weights Improves Reasoning in Language Models
+title: How Truncating Weights Improves Reasoning In Language Models
 authors: Chen Lei, Bruna Joan, Bietti Alberto
 conference: "Arxiv"
 year: 2024

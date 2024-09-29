@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language-Image Models with 3D Understanding
+title: Language-image Models With 3D Understanding
 authors: Cho Jang Hyun, Ivanovic Boris, Cao Yulong, Schmerling Edward, Wang Yue, Weng Xinshuo, Li Boyi, You Yurong, Krähenbühl Philipp, Wang Yan, Pavone Marco
 conference: "Arxiv"
 year: 2024

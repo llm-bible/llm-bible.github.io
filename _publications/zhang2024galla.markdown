@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GALLa Graph Aligned Large Language Models for Improved Source Code Understanding
+title: Galla Graph Aligned Large Language Models For Improved Source Code Understanding
 authors: Zhang Ziyin, Yu Hang, Li Shijie, Di Peng, Li Jianguo, Wang Rui
 conference: "Arxiv"
 year: 2024

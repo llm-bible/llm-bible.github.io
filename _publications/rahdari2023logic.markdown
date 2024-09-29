@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Logic-Scaffolding Personalized Aspect-Instructed Recommendation Explanation Generation using LLMs
+title: Logic-scaffolding Personalized Aspect-instructed Recommendation Explanation Generation Using Llms
 authors: Rahdari Behnam, Ding Hao, Fan Ziwei, Ma Yifei, Chen Zhuotong, Deoras Anoop, Kveton Branislav
 conference: "Arxiv"
 year: 2023

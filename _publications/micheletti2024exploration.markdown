@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploration of Masked and Causal Language Modelling for Text Generation
+title: Exploration Of Masked And Causal Language Modelling For Text Generation
 authors: Micheletti Nicolo, Belkadi Samuel, Han Lifeng, Nenadic Goran
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PANGeA Procedural Artificial Narrative using Generative AI for Turn-Based Video Games
+title: Pangea Procedural Artificial Narrative Using Generative AI For Turn-based Video Games
 authors: Buongiorno Steph, Klinkert Lawrence Jake, Chawla Tanishq, Zhuang Zixin, Clark Corey
 conference: "Arxiv"
 year: 2024

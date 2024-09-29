@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Chatbots To Promote Usersx27; Trust -- Practices And Open Problems
+title: Evaluating Chatbots To Promote Users Trust -- Practices And Open Problems
 authors: Srivastava Biplav, Lakkaraju Kausik, Koppel Tarmo, Narayanan Vignesh, Kundu Ashish, Joshi Sachindra
 conference: "Arxiv"
 year: 2023

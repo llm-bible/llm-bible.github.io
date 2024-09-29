@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tram A Token-level Retrieval-augmented Mechanism for Source Code Summarization
+title: Tram A Token-level Retrieval-augmented Mechanism For Source Code Summarization
 authors: Ye Tong, Wu Lingfei, Ma Tengfei, Zhang Xuhong, Du Yangkai, Liu Peiyu, Ji Shouling, Wang Wenhai
 conference: "Arxiv"
 year: 2023

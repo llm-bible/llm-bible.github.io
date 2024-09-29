@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Contextualized Word Representations for Reading Comprehension
+title: Contextualized Word Representations For Reading Comprehension
 authors: Salant Shimi, Berant Jonathan
 conference: "Arxiv"
 year: 2017

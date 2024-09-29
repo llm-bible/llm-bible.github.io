@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Think Twice Before Trusting Self-Detection for Large Language Models through Comprehensive Answer Reflection
+title: Think Twice Before Trusting Self-detection For Large Language Models Through Comprehensive Answer Reflection
 authors: Li Moxin, Wang Wenjie, Feng Fuli, Zhu Fengbin, Wang Qifan, Chua Tat-seng
 conference: "Arxiv"
 year: 2024

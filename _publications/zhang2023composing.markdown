@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Composing Parameter-Efficient Modules with Arithmetic Operations
+title: Composing Parameter-efficient Modules With Arithmetic Operations
 authors: Zhang Jinghan, Chen Shiqi, Liu Junteng, He Junxian
 conference: "Arxiv"
 year: 2023

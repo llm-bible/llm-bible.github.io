@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BadGPT Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT
+title: Badgpt Exploring Security Vulnerabilities Of Chatgpt Via Backdoor Attacks To Instructgpt
 authors: Shi Jiawen, Liu Yixin, Zhou Pan, Sun Lichao
 conference: "Arxiv"
 year: 2023

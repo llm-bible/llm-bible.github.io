@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Call for Papers -- The BabyLM Challenge Sample-efficient pretraining on a developmentally plausible corpus
+title: Call For Papers -- The Babylm Challenge Sample-efficient Pretraining On A Developmentally Plausible Corpus
 authors: Warstadt Alex, Choshen Leshem, Mueller Aaron, Williams Adina, Wilcox Ethan, Zhuang Chengxu
 conference: "Arxiv"
 year: 2023

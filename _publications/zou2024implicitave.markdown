@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ImplicitAVE An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction
+title: Implicitave An Open-source Dataset And Multimodal Llms Benchmark For Implicit Attribute Value Extraction
 authors: Zou Henry Peng, Samuel Vinay, Zhou Yue, Zhang Weizhi, Fang Liancheng, Song Zihe, Yu Philip S., Caragea Cornelia
 conference: "Arxiv"
 year: 2024

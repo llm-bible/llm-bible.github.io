@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mission Impossible A Statistical Perspective on Jailbreaking LLMs
+title: Mission Impossible A Statistical Perspective On Jailbreaking Llms
 authors: Su Jingtong, Kempe Julia, Ullrich Karen
 conference: "Arxiv"
 year: 2024

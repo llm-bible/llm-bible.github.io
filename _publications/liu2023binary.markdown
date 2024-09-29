@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Binary and Ternary Natural Language Generation
+title: Binary And Ternary Natural Language Generation
 authors: Liu Zechun, Oguz Barlas, Pappu Aasish, Shi Yangyang, Krishnamoorthi Raghuraman
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLaVaOLMoBitnet1B Ternary LLM goes Multimodal!
+title: Llavaolmobitnet1b Ternary LLM Goes Multimodal!
 authors: Sundaram Jainaveen, Iyer Ravi
 conference: "Arxiv"
 year: 2024

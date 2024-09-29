@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Middleware for LLMs Tools Are Instrumental for Language Agents in Complex Environments
+title: Middleware For Llms Tools Are Instrumental For Language Agents In Complex Environments
 authors: Gu Yu, Shu Yiheng, Yu Hao, Liu Xiao, Dong Yuxiao, Tang Jie, Srinivasa Jayanth, Latapie Hugo, Su Yu
 conference: "Arxiv"
 year: 2024

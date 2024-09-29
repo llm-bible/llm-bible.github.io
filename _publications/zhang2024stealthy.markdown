@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Stealthy Attack on Large Language Model based Recommendation
+title: Stealthy Attack On Large Language Model Based Recommendation
 authors: Zhang Jinghao, Liu Yuting, Liu Qiang, Wu Shu, Guo Guibing, Wang Liang
 conference: "Arxiv"
 year: 2024

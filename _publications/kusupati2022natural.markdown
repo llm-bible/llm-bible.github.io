@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Natural Language to Code Using Transformers
+title: Natural Language To Code Using Transformers
 authors: Kusupati Uday, Ailavarapu Venkata Ravi Teja
 conference: "Arxiv"
 year: 2022

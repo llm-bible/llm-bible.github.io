@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Assessing Step-by-Step Reasoning against Lexical Negation A Case Study on Syllogism
+title: Assessing Step-by-step Reasoning Against Lexical Negation A Case Study On Syllogism
 authors: Ye Mengyu, Kuribayashi Tatsuki, Suzuki Jun, Kobayashi Goro, Funayama Hiroaki
 conference: "Arxiv"
 year: 2023

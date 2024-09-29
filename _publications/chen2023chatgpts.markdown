@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChatGPTs One-year Anniversary Are Open-Source Large Language Models Catching up
+title: Chatgpts One-year Anniversary Are Open-source Large Language Models Catching Up
 authors: Chen Hailin, Jiao Fangkai, Li Xingxuan, Qin Chengwei, Ravaut Mathieu, Zhao Ruochen, Xiong Caiming, Joty Shafiq
 conference: "Arxiv"
 year: 2023

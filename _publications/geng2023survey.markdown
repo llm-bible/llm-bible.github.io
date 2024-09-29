@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey of Confidence Estimation and Calibration in Large Language Models
+title: A Survey Of Confidence Estimation And Calibration In Large Language Models
 authors: Geng Jiahui, Cai Fengyu, Wang Yuxia, Koeppl Heinz, Nakov Preslav, Gurevych Iryna
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Open-LLM-Leaderboard From Multi-choice to Open-style Questions for LLMs Evaluation Benchmark and Arena
+title: Open-llm-leaderboard From Multi-choice To Open-style Questions For Llms Evaluation Benchmark And Arena
 authors: Myrzakhan Aidar, Bsharat Sondos Mahmoud, Shen Zhiqiang
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Potential and Challenges of Evaluating Attitudes Opinions and Values in Large Language Models
+title: The Potential And Challenges Of Evaluating Attitudes Opinions And Values In Large Language Models
 authors: Ma Bolei, Wang Xinpeng, Hu Tiancheng, Haensch Anna-carolina, Hedderich Michael A., Plank Barbara, Kreuter Frauke
 conference: "Arxiv"
 year: 2024

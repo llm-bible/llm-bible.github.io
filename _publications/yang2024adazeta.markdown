@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AdaZeta Adaptive Zeroth-Order Tensor-Train Adaption for Memory-Efficient Large Language Models Fine-Tuning
+title: Adazeta Adaptive Zeroth-order Tensor-train Adaption For Memory-efficient Large Language Models Fine-tuning
 authors: Yang Yifan, Zhen Kai, Banijamal Ershad, Mouchtaris Athanasios, Zhang Zheng
 conference: "Arxiv"
 year: 2024

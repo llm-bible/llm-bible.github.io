@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zero-shot Faithfulness Evaluation for Text Summarization with Foundation Language Model
+title: Zero-shot Faithfulness Evaluation For Text Summarization With Foundation Language Model
 authors: Jia Qi, Ren Siyu, Liu Yizhu, Zhu Kenny Q.
 conference: "Arxiv"
 year: 2023

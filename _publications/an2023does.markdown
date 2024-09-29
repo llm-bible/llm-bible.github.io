@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Does Deep Learning Learn to Abstract A Systematic Probing Framework
+title: Does Deep Learning Learn To Abstract A Systematic Probing Framework
 authors: An Shengnan, Lin Zeqi, Chen Bei, Fu Qiang, Zheng Nanning, Lou Jian-guang
 conference: "Arxiv"
 year: 2023

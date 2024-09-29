@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BERTs are Generative In-Context Learners
+title: Berts Are Generative In-context Learners
 authors: Samuel David
 conference: "Arxiv"
 year: 2024

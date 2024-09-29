@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Methodology of Adapting Large English Language Models for Specific Cultural Contexts
+title: Methodology Of Adapting Large English Language Models For Specific Cultural Contexts
 authors: Zhang Wenjing, Xiao Siqi, Lei Xuejiao, Wang Ning, Zhang Huazheng, An Meijuan, Yang Bikun, Liu Zhaoxiang, Wang Kai, Lian Shiguo
 conference: "Arxiv"
 year: 2024

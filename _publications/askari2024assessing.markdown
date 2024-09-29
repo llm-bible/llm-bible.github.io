@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Assessing LLMs for Zero-shot Abstractive Summarization Through the Lens of Relevance Paraphrasing
+title: Assessing Llms For Zero-shot Abstractive Summarization Through The Lens Of Relevance Paraphrasing
 authors: Askari Hadi, Chhabra Anshuman, Chen Muhao, Mohapatra Prasant
 conference: "Arxiv"
 year: 2024

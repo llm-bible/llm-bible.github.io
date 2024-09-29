@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChemDFM Dialogue Foundation Model for Chemistry
+title: Chemdfm Dialogue Foundation Model For Chemistry
 authors: Zhao Zihan, Ma Da, Chen Lu, Sun Liangtai, Li Zihao, Xu Hongshen, Zhu Zichen, Zhu Su, Fan Shuai, Shen Guodong, Chen Xin, Yu Kai
 conference: "Arxiv"
 year: 2024

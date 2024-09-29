@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Frontier of Data Erasure Machine Unlearning for Large Language Models
+title: The Frontier Of Data Erasure Machine Unlearning For Large Language Models
 authors: Qu Youyang, Ding Ming, Sun Nan, Thilakarathna Kanchana, Zhu Tianqing, Niyato Dusit
 conference: "Arxiv"
 year: 2024

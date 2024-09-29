@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Shaping Human-AI Collaboration Varied Scaffolding Levels in Co-writing with Language Models
+title: Shaping Human-ai Collaboration Varied Scaffolding Levels In Co-writing With Language Models
 authors: Dhillon Paramveer S., Molaei Somayeh, Li Jiaqi, Golub Maximilian, Zheng Shaochun, Robert Lionel P.
 conference: "Arxiv"
 year: 2024

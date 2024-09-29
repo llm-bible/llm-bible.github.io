@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Language Models Act as Knowledge Bases at Scale
+title: Can Language Models Act As Knowledge Bases At Scale
 authors: He Qiyuan, Wang Yizhong, Wang Wenya
 conference: "Arxiv"
 year: 2024

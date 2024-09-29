@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Language Models Enjoy Their Own Stories Prompting Large Language Models for Automatic Story Evaluation
+title: Do Language Models Enjoy Their Own Stories Prompting Large Language Models For Automatic Story Evaluation
 authors: Chhun Cyril, Suchanek Fabian M., Clavel Chloé
 conference: "Arxiv"
 year: 2024

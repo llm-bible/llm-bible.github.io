@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Demystifying Instruction Mixing for Fine-tuning Large Language Models
+title: Demystifying Instruction Mixing For Fine-tuning Large Language Models
 authors: Wang Renxi, Li Haonan, Wu Minghao, Wang Yuxia, Han Xudong, Zhang Chiyu, Baldwin Timothy
 conference: "Arxiv"
 year: 2023

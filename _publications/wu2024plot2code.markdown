@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Plot2Code A Comprehensive Benchmark for Evaluating Multi-modal Large Language Models in Code Generation from Scientific Plots
+title: Plot2code A Comprehensive Benchmark For Evaluating Multi-modal Large Language Models In Code Generation From Scientific Plots
 authors: Wu Chengyue, Ge Yixiao, Guo Qiushan, Wang Jiahao, Liang Zhixuan, Lu Zeyu, Shan Ying, Luo Ping
 conference: "Arxiv"
 year: 2024

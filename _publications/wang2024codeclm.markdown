@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CodecLM Aligning Language Models with Tailored Synthetic Data
+title: Codeclm Aligning Language Models With Tailored Synthetic Data
 authors: Wang Zifeng, Li Chun-liang, Perot Vincent, Le Long T., Miao Jin, Zhang Zizhao, Lee Chen-yu, Pfister Tomas
 conference: "Arxiv"
 year: 2024

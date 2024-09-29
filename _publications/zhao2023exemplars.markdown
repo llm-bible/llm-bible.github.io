@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: In-Context Exemplars as Clues to Retrieving from Large Associative Memory
+title: In-context Exemplars As Clues To Retrieving From Large Associative Memory
 authors: Zhao Jiachen
 conference: "Arxiv"
 year: 2023

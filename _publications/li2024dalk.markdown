@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DALK Dynamic Co-augmentation Of Llms And KG To Answer Alzheimerx27;s Disease Questions With Scientific Literature
+title: DALK Dynamic Co-augmentation Of Llms And KG To Answer Alzheimers Disease Questions With Scientific Literature
 authors: Li Dawei, Yang Shu, Tan Zhen, Baik Jae Young, Yun Sukwon, Lee Joseph, Chacko Aaron, Hou Bojian, Duong-tran Duy, Ding Ying, Liu Huan, Shen Li, Chen Tianlong
 conference: "Arxiv"
 year: 2024

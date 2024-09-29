@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Paradigm Shift The Future of Machine Translation Lies with Large Language Models
+title: A Paradigm Shift The Future Of Machine Translation Lies With Large Language Models
 authors: Lyu Chenyang, Du Zefeng, Xu Jitao, Duan Yitao, Wu Minghao, Lynn Teresa, Aji Alham Fikri, Wong Derek F., Liu Siyou, Wang Longyue
 conference: "Arxiv"
 year: 2023

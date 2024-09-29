@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On the Brittle Foundations of ReAct Prompting for Agentic Large Language Models
+title: On The Brittle Foundations Of React Prompting For Agentic Large Language Models
 authors: Verma Mudit, Bhambri Siddhant, Kambhampati Subbarao
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cycle Text-To-Image GAN with BERT
+title: Cycle Text-to-image GAN With BERT
 authors: Tsue Trevor, Sen Samir, Li Jason
 conference: "Arxiv"
 year: 2020

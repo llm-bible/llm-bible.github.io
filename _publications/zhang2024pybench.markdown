@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PyBench Evaluating LLM Agent on various real-world coding tasks
+title: Pybench Evaluating LLM Agent On Various Real-world Coding Tasks
 authors: Zhang Yaolun, Pan Yinxu, Wang Yudong, Cai Jie
 conference: "Arxiv"
 year: 2024

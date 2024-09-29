@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GoLLIE Annotation Guidelines improve Zero-Shot Information-Extraction
+title: Gollie Annotation Guidelines Improve Zero-shot Information-extraction
 authors: Sainz Oscar, García-ferrero Iker, Agerri Rodrigo, De Lacalle Oier Lopez, Rigau German, Agirre Eneko
 conference: "Arxiv"
 year: 2023

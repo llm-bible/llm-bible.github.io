@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What are the limits of cross-lingual dense passage retrieval for low-resource languages
+title: What Are The Limits Of Cross-lingual Dense Passage Retrieval For Low-resource Languages
 authors: Wu Jie, Ren Zhaochun, Verberne Suzan
 conference: "Arxiv"
 year: 2024

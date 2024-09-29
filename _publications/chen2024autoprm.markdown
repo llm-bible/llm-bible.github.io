@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AutoPRM Automating Procedural Supervision for Multi-Step Reasoning via Controllable Question Decomposition
+title: Autoprm Automating Procedural Supervision For Multi-step Reasoning Via Controllable Question Decomposition
 authors: Chen Zhaorun, Zhao Zhuokai, Zhu Zhihong, Zhang Ruiqi, Li Xiang, Raj Bhiksha, Yao Huaxiu
 conference: "Arxiv"
 year: 2024

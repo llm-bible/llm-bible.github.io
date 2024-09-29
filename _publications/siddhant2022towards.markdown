@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards the Next 1000 Languages in Multilingual Machine Translation Exploring the Synergy Between Supervised and Self-Supervised Learning
+title: Towards The Next 1000 Languages In Multilingual Machine Translation Exploring The Synergy Between Supervised And Self-supervised Learning
 authors: Siddhant Aditya, Bapna Ankur, Firat Orhan, Cao Yuan, Chen Mia Xu, Caswell Isaac, Garcia Xavier
 conference: "Arxiv"
 year: 2022

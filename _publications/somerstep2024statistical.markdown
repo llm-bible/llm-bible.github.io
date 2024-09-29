@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A statistical framework for weak-to-strong generalization
+title: A Statistical Framework For Weak-to-strong Generalization
 authors: Somerstep Seamus, Polo Felipe Maia, Banerjee Moulinath, Ritov Ya'acov, Yurochkin Mikhail, Sun Yuekai
 conference: "Arxiv"
 year: 2024

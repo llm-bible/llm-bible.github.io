@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Parallel Sentence-Level Explanation Generation for Real-World Low-Resource Scenarios
+title: Parallel Sentence-level Explanation Generation For Real-world Low-resource Scenarios
 authors: Liu Yan, Chen Xiaokang, Dai Qi
 conference: "Arxiv"
 year: 2023

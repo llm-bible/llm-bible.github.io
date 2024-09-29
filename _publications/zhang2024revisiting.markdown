@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Revisiting OPRO The Limitations of Small-Scale LLMs as Optimizers
+title: Revisiting OPRO The Limitations Of Small-scale Llms As Optimizers
 authors: Zhang Tuo, Yuan Jinyue, Avestimehr Salman
 conference: "ACL Findings"
 year: 2024

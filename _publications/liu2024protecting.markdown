@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Protecting Your LLMs with Information Bottleneck
+title: Protecting Your Llms With Information Bottleneck
 authors: Liu Zichuan, Wang Zefan, Xu Linjie, Wang Jinyu, Song Lei, Wang Tianchun, Chen Chunlin, Cheng Wei, Bian Jiang
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond the Hype A dispassionate look at vision-language models in medical scenario
+title: Beyond The Hype A Dispassionate Look At Vision-language Models In Medical Scenario
 authors: Nan Yang, Zhou Huichi, Xing Xiaodan, Yang Guang
 conference: "Arxiv"
 year: 2024

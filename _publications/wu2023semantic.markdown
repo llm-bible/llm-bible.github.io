@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Semantic Parsing by Large Language Models for Intricate Updating Strategies of Zero-Shot Dialogue State Tracking
+title: Semantic Parsing By Large Language Models For Intricate Updating Strategies Of Zero-shot Dialogue State Tracking
 authors: Wu Yuxiang, Dong Guanting, Xu Weiran
 conference: "Arxiv"
 year: 2023

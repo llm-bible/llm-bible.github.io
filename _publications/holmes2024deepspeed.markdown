@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DeepSpeed-FastGen High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference
+title: Deepspeed-fastgen High-throughput Text Generation For Llms Via MII And Deepspeed-inference
 authors: Holmes Connor, Tanaka Masahiro, Wyatt Michael, Awan Ammar Ahmad, Rasley Jeff, Rajbhandari Samyam, Aminabadi Reza Yazdani, Qin Heyang, Bakhtiari Arash, Kurilenko Lev, He Yuxiong
 conference: "Arxiv"
 year: 2024

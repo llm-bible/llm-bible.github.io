@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Show Human-like Social Desirability Biases in Survey Responses
+title: Large Language Models Show Human-like Social Desirability Biases In Survey Responses
 authors: Salecha Aadesh, Ireland Molly E., Subrahmanya Shashanka, Sedoc João, Ungar Lyle H., Eichstaedt Johannes C.
 conference: "Arxiv"
 year: 2024

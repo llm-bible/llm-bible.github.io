@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PeFoMed Parameter Efficient Fine-tuning of Multimodal Large Language Models for Medical Imaging
+title: Pefomed Parameter Efficient Fine-tuning Of Multimodal Large Language Models For Medical Imaging
 authors: Liu Gang, He Jinlong, Li Pengfei, He Genrong, Chen Zhaolin, Zhong Shenjun
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RePrompt Planning by Automatic Prompt Engineering for Large Language Models Agents
+title: Reprompt Planning By Automatic Prompt Engineering For Large Language Models Agents
 authors: Chen Weizhe, Koenig Sven, Dilkina Bistra
 conference: "Arxiv"
 year: 2024

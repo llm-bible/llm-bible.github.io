@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Composing Answer from Multi-spans for Reading Comprehension
+title: Composing Answer From Multi-spans For Reading Comprehension
 authors: Zhang Zhuosheng, Zhang Yiqing, Zhao Hai, Zhou Xi, Zhou Xiang
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding the Capabilities Limitations and Societal Impact of Large Language Models
+title: Understanding The Capabilities Limitations And Societal Impact Of Large Language Models
 authors: Tamkin Alex, Brundage Miles, Clark Jack, Ganguli Deep
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chain of Natural Language Inference for Reducing Large Language Model Ungrounded Hallucinations
+title: Chain Of Natural Language Inference For Reducing Large Language Model Ungrounded Hallucinations
 authors: Lei Deren, Li Yaxi, Hu Mengya, Wang Mingyu, Yun Vincent, Ching Emily, Kamal Eslam
 conference: "Arxiv"
 year: 2023

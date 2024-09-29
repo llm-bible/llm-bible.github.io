@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zero-Shot Next-Item Recommendation using Large Pretrained Language Models
+title: Zero-shot Next-item Recommendation Using Large Pretrained Language Models
 authors: Lei Wang, Ee-peng Lim
 conference: "Arxiv"
 year: 2023

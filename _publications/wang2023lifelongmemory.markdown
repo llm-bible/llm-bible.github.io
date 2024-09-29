@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LifelongMemory Leveraging LLMs for Answering Queries in Long-form Egocentric Videos
+title: Lifelongmemory Leveraging Llms For Answering Queries In Long-form Egocentric Videos
 authors: Wang Ying, Yang Yanlai, Ren Mengye
 conference: "Arxiv"
 year: 2023

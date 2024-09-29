@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models are Capable of Offering Cognitive Reappraisal if Guided
+title: Large Language Models Are Capable Of Offering Cognitive Reappraisal If Guided
 authors: Zhan Hongli, Zheng Allen, Lee Yoon Kyung, Suh Jina, Li Junyi Jessy, Ong Desmond C.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Examining the Influence of Political Bias on Large Language Model Performance in Stance Classification
+title: Examining The Influence Of Political Bias On Large Language Model Performance In Stance Classification
 authors: Ng Lynnette Hui Xian, Cruickshank Iain, Lee Roy Ka-wei
 conference: "Arxiv"
 year: 2024

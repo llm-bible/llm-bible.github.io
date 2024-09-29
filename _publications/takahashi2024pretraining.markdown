@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pretraining and Updating Language- and Domain-specific Large Language Model A Case Study in Japanese Business Domain
+title: Pretraining And Updating Language- And Domain-specific Large Language Model A Case Study In Japanese Business Domain
 authors: Takahashi Kosuke, Omi Takahiro, Arima Kosuke, Ishigaki Tatsuya
 conference: "Arxiv"
 year: 2024

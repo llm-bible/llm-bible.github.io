@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant A Review
+title: Large Language Models Illuminate A Progressive Pathway To Artificial Healthcare Assistant A Review
 authors: Yuan Mingze, Bao Peng, Yuan Jiajia, Shen Yunhao, Chen Zifan, Xie Yi, Zhao Jie, Chen Yang, Zhang Li, Shen Lin, Dong Bin
 conference: "Arxiv"
 year: 2023

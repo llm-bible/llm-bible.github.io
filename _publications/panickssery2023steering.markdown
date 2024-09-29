@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Steering Llama 2 via Contrastive Activation Addition
+title: Steering Llama 2 Via Contrastive Activation Addition
 authors: Panickssery Nina, Gabrieli Nick, Schulz Julian, Tong Meg, Hubinger Evan, Turner Alexander Matt
 conference: "Arxiv"
 year: 2023

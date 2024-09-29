@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RAGLAB A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation
+title: RAGLAB A Modular And Research-oriented Unified Framework For Retrieval-augmented Generation
 authors: Zhang Xuanwang, Song Yunze, Wang Yidong, Tang Shuyun, Li Xinfeng, Zeng Zhengran, Wu Zhen, Ye Wei, Xu Wenyuan, Zhang Yue, Dai Xinyu, Zhang Shikun, Wen Qingsong
 conference: "Arxiv"
 year: 2024

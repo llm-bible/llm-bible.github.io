@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Large Language Models Understand Verbal Indicators of Romantic Attraction
+title: Do Large Language Models Understand Verbal Indicators Of Romantic Attraction
 authors: Matz Sandra C., Peters Heinrich, Eastwick Paul W., Cerf Moran, Finkel Eli J.
 conference: "Arxiv"
 year: 2024

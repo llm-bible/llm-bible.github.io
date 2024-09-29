@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GANPrompt Enhancing Robustness in LLM-Based Recommendations with GAN-Enhanced Diversity Prompts
+title: Ganprompt Enhancing Robustness In Llm-based Recommendations With Gan-enhanced Diversity Prompts
 authors: Li Xinyu, Zhao Chuang, Zhao Hongke, Wu Likang, He Ming
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Effective Data Creation Pipeline to Generate High-quality Financial Instruction Data for Large Language Model
+title: An Effective Data Creation Pipeline To Generate High-quality Financial Instruction Data For Large Language Model
 authors: Wang Ziao, Wang Jianning, Wu Junda, Zhang Xiaofeng
 conference: "Arxiv"
 year: 2023

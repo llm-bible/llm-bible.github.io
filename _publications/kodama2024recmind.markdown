@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recmind Japanese Movie Recommendation Dialogue With Seekerx27;s Internal State
+title: Recmind Japanese Movie Recommendation Dialogue With Seekers Internal State
 authors: Kodama Takashi, Kiyomaru Hirokazu, Huang Yin Jou, Kurohashi Sadao
 conference: "Arxiv"
 year: 2024

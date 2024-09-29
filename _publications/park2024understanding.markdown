@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding LLM Development Through Longitudinal Study Insights from the Open Ko-LLM Leaderboard
+title: Understanding LLM Development Through Longitudinal Study Insights From The Open Ko-llm Leaderboard
 authors: Park Chanjun, Kim Hyeonwoo
 conference: "Arxiv"
 year: 2024

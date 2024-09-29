@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LongForm Effective Instruction Tuning with Reverse Instructions
+title: Longform Effective Instruction Tuning With Reverse Instructions
 authors: Köksal Abdullatif, Schick Timo, Korhonen Anna, Schütze Hinrich
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reinforced UI Instruction Grounding Towards a Generic UI Task Automation API
+title: Reinforced UI Instruction Grounding Towards A Generic UI Task Automation API
 authors: Zhang Zhizheng, Xie Wenxuan, Zhang Xiaoyi, Lu Yan
 conference: "Arxiv"
 year: 2023

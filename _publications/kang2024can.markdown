@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Large Language Models be Good Emotional Supporter Mitigating Preference Bias on Emotional Support Conversation
+title: Can Large Language Models Be Good Emotional Supporter Mitigating Preference Bias On Emotional Support Conversation
 authors: Kang Dongjin, Kim Sunghwan, Kwon Taeyoon, Moon Seungjun, Cho Hyunsouk, Yu Youngjae, Lee Dongha, Yeo Jinyoung
 conference: "Arxiv"
 year: 2024

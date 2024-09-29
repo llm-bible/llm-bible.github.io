@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Clover-2 Accurate Inference for Regressive Lightweight Speculative Decoding
+title: Clover-2 Accurate Inference For Regressive Lightweight Speculative Decoding
 authors: Xiao Bin, Gui Lujun, Su Lei, Chen Weipeng
 conference: "Arxiv"
 year: 2024

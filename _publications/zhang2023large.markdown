@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models in Medical Term Classification and Unexpected Misalignment Between Response and Reasoning
+title: Large Language Models In Medical Term Classification And Unexpected Misalignment Between Response And Reasoning
 authors: Zhang Xiaodan, Vemulapalli Sandeep, Talukdar Nabasmita, Ahn Sumyeong, Wang Jiankun, Meng Han, Murtaza Sardar Mehtab Bin, Dave Aakash Ajay, Leshchiner Dmitry, Joseph Dimitri F., Witteveen-lane Martin, Chesla Dave, Zhou Jiayu, Chen Bin
 conference: "Arxiv"
 year: 2023

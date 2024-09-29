@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Question-Agnostic Attention for Visual Question Answering
+title: Question-agnostic Attention For Visual Question Answering
 authors: Farazi Moshiur R, Khan Salman H, Barnes Nick
 conference: "Arxiv"
 year: 2019

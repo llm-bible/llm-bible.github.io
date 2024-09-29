@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Safety Alignment in NLP Tasks Weakly Aligned Summarization as an In-Context Attack
+title: Safety Alignment In NLP Tasks Weakly Aligned Summarization As An In-context Attack
 authors: Fu Yu, Li Yufei, Xiao Wen, Liu Cong, Dong Yue
 conference: "Arxiv"
 year: 2023

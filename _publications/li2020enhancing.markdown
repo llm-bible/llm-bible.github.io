@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Dialogue Generation via Multi-Level Contrastive Learning
+title: Enhancing Dialogue Generation Via Multi-level Contrastive Learning
 authors: Li Xin, Li Piji, Wang Yan, Liu Xiaojiang, Lam Wai
 conference: "Arxiv"
 year: 2020

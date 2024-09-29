@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating the Efficacy of Open-Source LLMs in Enterprise-Specific RAG Systems A Comparative Study of Performance and Scalability
+title: Evaluating The Efficacy Of Open-source Llms In Enterprise-specific RAG Systems A Comparative Study Of Performance And Scalability
 authors: B Gautam, Purwar Anupam
 conference: "Arxiv"
 year: 2024

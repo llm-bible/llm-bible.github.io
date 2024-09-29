@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Multi-Domain Automatic Short Answer Grading through an Explainable Neuro-Symbolic Pipeline
+title: Enhancing Multi-domain Automatic Short Answer Grading Through An Explainable Neuro-symbolic Pipeline
 authors: Künnecke Felix, Filighera Anna, Leong Colin, Steuer Tim
 conference: "Arxiv"
 year: 2024

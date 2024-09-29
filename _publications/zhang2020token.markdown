@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Token Drop mechanism for Neural Machine Translation
+title: Token Drop Mechanism For Neural Machine Translation
 authors: Zhang Huaao, Qiu Shigui, Duan Xiangyu, Zhang Min
 conference: "Arxiv"
 year: 2020

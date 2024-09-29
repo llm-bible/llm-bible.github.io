@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models for Telecom Forthcoming Impact on the Industry
+title: Large Language Models For Telecom Forthcoming Impact On The Industry
 authors: Maatouk Ali, Piovesan Nicola, Ayed Fadhel, De Domenico Antonio, Debbah Merouane
 conference: "Arxiv"
 year: 2023

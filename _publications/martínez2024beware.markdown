@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beware of Words Evaluating the Lexical Richness of Conversational Large Language Models
+title: Beware Of Words Evaluating The Lexical Richness Of Conversational Large Language Models
 authors: Martínez Gonzalo, Hernández José Alberto, Conde Javier, Reviriego Pedro, Merino Elena
 conference: "ACM Transactions on Intelligent Systems and Technology"
 year: 2024

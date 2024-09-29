@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: UQuAD1.0 Development of an Urdu Question Answering Training Data for Machine Reading Comprehension
+title: Uquad1.0 Development Of An Urdu Question Answering Training Data For Machine Reading Comprehension
 authors: Kazi Samreen, Khoja Shakeel
 conference: "Arxiv"
 year: 2021

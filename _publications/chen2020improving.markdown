@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving BERT with Self-Supervised Attention
+title: Improving BERT With Self-supervised Attention
 authors: Chen Yiren, Kou Xiaoyu, Bai Jiangang, Tong Yunhai
 conference: "Arxiv"
 year: 2020

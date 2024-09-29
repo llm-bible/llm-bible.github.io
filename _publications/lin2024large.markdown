@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Make Sample-Efficient Recommender Systems
+title: Large Language Models Make Sample-efficient Recommender Systems
 authors: Lin Jianghao, Dai Xinyi, Shan Rong, Chen Bo, Tang Ruiming, Yu Yong, Zhang Weinan
 conference: "Arxiv"
 year: 2024

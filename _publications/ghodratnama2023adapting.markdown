@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adapting LLMs for Efficient Personalized Information Retrieval Methods and Implications
+title: Adapting Llms For Efficient Personalized Information Retrieval Methods And Implications
 authors: Ghodratnama Samira, Zakershahrak Mehrdad
 conference: "Arxiv"
 year: 2023

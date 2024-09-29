@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Task Prompt Vectors Effective Initialization through Multi-Task Soft-Prompt Transfer
+title: Task Prompt Vectors Effective Initialization Through Multi-task Soft-prompt Transfer
 authors: Belanec Robert, Ostermann Simon, Srba Ivan, Bielikova Maria
 conference: "Arxiv"
 year: 2024

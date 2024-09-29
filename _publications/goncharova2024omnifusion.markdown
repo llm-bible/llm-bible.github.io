@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: OmniFusion Technical Report
+title: Omnifusion Technical Report
 authors: Goncharova Elizaveta, Razzhigaev Anton, Mikhalchuk Matvey, Kurkin Maxim, Abdullaeva Irina, Skripkin Matvey, Oseledets Ivan, Dimitrov Denis, Kuznetsov Andrey
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging the Inductive Bias of Large Language Models for Abstract Textual Reasoning
+title: Leveraging The Inductive Bias Of Large Language Models For Abstract Textual Reasoning
 authors: Rytting Christopher Michael, Wingate David
 conference: "Arxiv"
 year: 2021

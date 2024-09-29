@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficient Reinforcement Learning via Large Language Model-based Search
+title: Efficient Reinforcement Learning Via Large Language Model-based Search
 authors: Bhambri Siddhant, Bhattacharjee Amrita, Liu Huan, Kambhampati Subbarao
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GenRec Large Language Model for Generative Recommendation
+title: Genrec Large Language Model For Generative Recommendation
 authors: Ji Jianchao, Li Zelong, Xu Shuyuan, Hua Wenyue, Ge Yingqiang, Tan Juntao, Zhang Yongfeng
 conference: "Arxiv"
 year: 2023

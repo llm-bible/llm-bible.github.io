@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VCoder Versatile Vision Encoders for Multimodal Large Language Models
+title: Vcoder Versatile Vision Encoders For Multimodal Large Language Models
 authors: Jitesh Jain, Jianwei Yang, Humphrey Shi
 conference: "Arxiv"
 year: 2023

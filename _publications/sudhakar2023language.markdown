@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Model-In-The-Loop Data Optimal Approach to Learn-To-Recommend Actions in Text Games
+title: Language Model-in-the-loop Data Optimal Approach To Learn-to-recommend Actions In Text Games
 authors: Sudhakar Arjun Vaithilingam, Parthasarathi Prasanna, Rajendran Janarthanan, Chandar Sarath
 conference: "Arxiv"
 year: 2023

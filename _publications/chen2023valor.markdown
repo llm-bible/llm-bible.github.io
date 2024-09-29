@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VALOR Vision-Audio-Language Omni-Perception Pretraining Model and Dataset
+title: VALOR Vision-audio-language Omni-perception Pretraining Model And Dataset
 authors: Chen Sihan, He Xingjian, Guo Longteng, Zhu Xinxin, Wang Weining, Tang Jinhui, Liu Jing
 conference: "Arxiv"
 year: 2023

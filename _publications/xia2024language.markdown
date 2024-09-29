@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Models can Evaluate Themselves via Probability Discrepancy
+title: Language Models Can Evaluate Themselves Via Probability Discrepancy
 authors: Xia Tingyu, Yu Bowen, Wu Yuan, Chang Yi, Zhou Chang
 conference: "Arxiv"
 year: 2024

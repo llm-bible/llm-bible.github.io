@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multimodal Attention for Neural Machine Translation
+title: Multimodal Attention For Neural Machine Translation
 authors: Caglayan Ozan, Barrault Loïc, Bougares Fethi
 conference: "Arxiv"
 year: 2016

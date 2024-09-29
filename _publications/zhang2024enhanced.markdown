@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhanced Visual Question Answering A Comparative Analysis and Textual Feature Extraction Via Convolutions
+title: Enhanced Visual Question Answering A Comparative Analysis And Textual Feature Extraction Via Convolutions
 authors: Zhang Zhilin
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MTUncertainty Assessing the Need for Post-editing of Machine Translation Outputs by Fine-tuning OpenAI LLMs
+title: Mtuncertainty Assessing The Need For Post-editing Of Machine Translation Outputs By Fine-tuning Openai Llms
 authors: Gladkoff Serge, Han Lifeng, Erofeev Gleb, Sorokina Irina, Nenadic Goran
 conference: "Arxiv"
 year: 2023

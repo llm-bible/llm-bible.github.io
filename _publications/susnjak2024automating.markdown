@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automating Research Synthesis with Domain-Specific Large Language Model Fine-Tuning
+title: Automating Research Synthesis With Domain-specific Large Language Model Fine-tuning
 authors: Susnjak Teo, Hwang Peter, Reyes Napoleon H., Barczak Andre L. C., Mcintosh Timothy R., Ranathunga Surangika
 conference: "Arxiv"
 year: 2024

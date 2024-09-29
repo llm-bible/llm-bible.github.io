@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What can Large Language Models do in chemistry A comprehensive benchmark on eight tasks
+title: What Can Large Language Models Do In Chemistry A Comprehensive Benchmark On Eight Tasks
 authors: Guo Taicheng, Guo Kehan, Nan Bozhao, Liang Zhenwen, Guo Zhichun, Chawla Nitesh V., Wiest Olaf, Zhang Xiangliang
 conference: "Arxiv"
 year: 2023

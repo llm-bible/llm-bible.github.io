@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prior Knowledge Integration via LLM Encoding and Pseudo Event Regulation for Video Moment Retrieval
+title: Prior Knowledge Integration Via LLM Encoding And Pseudo Event Regulation For Video Moment Retrieval
 authors: Jiang Yiyang, Zhang Wengyu, Zhang Xulu, Wei Xiaoyong, Chen Chang Wen, Li Qing
 conference: "Arxiv"
 year: 2024

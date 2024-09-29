@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Simple linear attention language models balance the recall-throughput tradeoff
+title: Simple Linear Attention Language Models Balance The Recall-throughput Tradeoff
 authors: Arora Simran, Eyuboglu Sabri, Zhang Michael, Timalsina Aman, Alberti Silas, Zinsley Dylan, Zou James, Rudra Atri, Ré Christopher
 conference: "Arxiv"
 year: 2024

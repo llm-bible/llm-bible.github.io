@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are Large Language Models Really Good Logical Reasoners A Comprehensive Evaluation and Beyond
+title: Are Large Language Models Really Good Logical Reasoners A Comprehensive Evaluation And Beyond
 authors: Xu Fangzhi, Lin Qika, Han Jiawei, Zhao Tianzhe, Liu Jun, Cambria Erik
 conference: "Arxiv"
 year: 2023

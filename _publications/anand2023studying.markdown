@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Studying the impacts of pre-training using ChatGPT-generated text on downstream tasks
+title: Studying The Impacts Of Pre-training Using Chatgpt-generated Text On Downstream Tasks
 authors: Anand Sarthak
 conference: "Arxiv"
 year: 2023

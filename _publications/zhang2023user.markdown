@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: User-Controlled Knowledge Fusion in Large Language Models Balancing Creativity and Hallucination
+title: User-controlled Knowledge Fusion In Large Language Models Balancing Creativity And Hallucination
 authors: Zhang Chen
 conference: "Arxiv"
 year: 2023

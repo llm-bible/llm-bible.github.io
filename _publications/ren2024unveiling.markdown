@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unveiling and Mitigating Memorization in Text-to-image Diffusion Models through Cross Attention
+title: Unveiling And Mitigating Memorization In Text-to-image Diffusion Models Through Cross Attention
 authors: Ren Jie, Li Yaxin, Zeng Shenglai, Xu Han, Lyu Lingjuan, Xing Yue, Tang Jiliang
 conference: "Arxiv"
 year: 2024

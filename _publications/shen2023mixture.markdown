@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mixture-of-Experts Meets Instruction TuningA Winning Combination for Large Language Models
+title: Mixture-of-experts Meets Instruction Tuninga Winning Combination For Large Language Models
 authors: Shen Sheng, Hou Le, Zhou Yanqi, Du Nan, Longpre Shayne, Wei Jason, Chung Hyung Won, Zoph Barret, Fedus William, Chen Xinyun, Vu Tu, Wu Yuexin, Chen Wuyang, Webson Albert, Li Yunxuan, Zhao Vincent, Yu Hongkun, Keutzer Kurt, Darrell Trevor, Zhou Denny
 conference: "Arxiv"
 year: 2023

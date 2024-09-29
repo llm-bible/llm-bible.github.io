@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Binary Code Summarization Benchmarking ChatGPT/GPT-4 and Other Large Language Models
+title: Binary Code Summarization Benchmarking Chatgpt/gpt-4 And Other Large Language Models
 authors: Jin Xin, Larson Jonathan, Yang Weiwei, Lin Zhiqiang
 conference: "Arxiv"
 year: 2023

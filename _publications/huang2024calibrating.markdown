@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Calibrating Long-form Generations from Large Language Models
+title: Calibrating Long-form Generations From Large Language Models
 authors: Huang Yukun, Liu Yixin, Thirukovalluru Raghuveer, Cohan Arman, Dhingra Bhuwan
 conference: "Arxiv"
 year: 2024

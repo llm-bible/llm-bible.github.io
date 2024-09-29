@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multimodal Large Language Model Driven Scenario Testing for Autonomous Vehicles
+title: Multimodal Large Language Model Driven Scenario Testing For Autonomous Vehicles
 authors: Lu Qiujing, Wang Xuanhan, Jiang Yiwei, Zhao Guangming, Ma Mingyue, Feng Shuo
 conference: "Arxiv"
 year: 2024

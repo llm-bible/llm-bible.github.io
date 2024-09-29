@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Comparison of Large Language Models for Generating Contextually Relevant Questions
+title: Comparison Of Large Language Models For Generating Contextually Relevant Questions
 authors: Molina Ivo Lodovico, Švábenský Valdemar, Minematsu Tsubasa, Chen Li, Okubo Fumiya, Shimada Atsushi
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Global-to-local Memory Pointer Networks for Task-Oriented Dialogue
+title: Global-to-local Memory Pointer Networks For Task-oriented Dialogue
 authors: Wu Chien-sheng, Socher Richard, Xiong Caiming
 conference: "Arxiv"
 year: 2019

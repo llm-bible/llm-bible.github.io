@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ESRL Efficient Sampling-based Reinforcement Learning for Sequence Generation
+title: ESRL Efficient Sampling-based Reinforcement Learning For Sequence Generation
 authors: Wang Chenglong, Zhou Hang, Hu Yimin, Huo Yifu, Li Bei, Liu Tongran, Xiao Tong, Zhu Jingbo
 conference: "Arxiv"
 year: 2023

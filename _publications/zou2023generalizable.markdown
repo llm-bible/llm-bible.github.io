@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generalizable Chain-of-Thought Prompting in Mixed-task Scenarios with Large Language Models
+title: Generalizable Chain-of-thought Prompting In Mixed-task Scenarios With Large Language Models
 authors: Zou Anni, Zhang Zhuosheng, Zhao Hai, Tang Xiangru
 conference: "Arxiv"
 year: 2023

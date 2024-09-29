@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CritiqueLLM Towards an Informative Critique Generation Model for Evaluation of Large Language Model Generation
+title: Critiquellm Towards An Informative Critique Generation Model For Evaluation Of Large Language Model Generation
 authors: Ke Pei, Wen Bosi, Feng Zhuoer, Liu Xiao, Lei Xuanyu, Cheng Jiale, Wang Shengyuan, Zeng Aohan, Dong Yuxiao, Wang Hongning, Tang Jie, Huang Minlie
 conference: "Arxiv"
 year: 2023

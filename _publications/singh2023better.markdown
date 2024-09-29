@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Better Generalization with Semantic IDs A Case Study in Ranking for Recommendations
+title: Better Generalization With Semantic Ids A Case Study In Ranking For Recommendations
 authors: Singh Anima, Vu Trung, Mehta Nikhil, Keshavan Raghunandan, Sathiamoorthy Maheswaran, Zheng Yilin, Hong Lichan, Heldt Lukasz, Wei Li, Tandon Devansh, Chi Ed H., Yi Xinyang
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: In-Context Alignment Chat with Vanilla Language Models Before Fine-Tuning
+title: In-context Alignment Chat With Vanilla Language Models Before Fine-tuning
 authors: Han Xiaochuang
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models
+title: On The Role Of Long-tail Knowledge In Retrieval Augmented Large Language Models
 authors: Li Dongyang, Yan Junbing, Zhang Taolin, Wang Chengyu, He Xiaofeng, Huang Longtao, Xue Hui, Huang Jun
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Emptying the Ocean with a Spoon Should We Edit Models
+title: Emptying The Ocean With A Spoon Should We Edit Models
 authors: Pinter Yuval, Elhadad Michael
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Trustworthy Llms A Survey And Guideline For Evaluating Large Language Modelsx27; Alignment
+title: Trustworthy Llms A Survey And Guideline For Evaluating Large Language Models Alignment
 authors: Liu Yang, Yao Yuanshun, Ton Jean-francois, Zhang Xiaoying, Guo Ruocheng, Cheng Hao, Klochkov Yegor, Taufiq Muhammad Faaiz, Li Hang
 conference: "Arxiv"
 year: 2023

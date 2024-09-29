@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Model Selection for Cross-Lingual Transfer
+title: Model Selection For Cross-lingual Transfer
 authors: Chen Yang, Ritter Alan
 conference: "Arxiv"
 year: 2020

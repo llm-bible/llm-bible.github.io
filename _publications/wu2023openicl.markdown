@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: OpenICL An Open-Source Framework for In-context Learning
+title: Openicl An Open-source Framework For In-context Learning
 authors: Wu Zhenyu, Wang Yaoxiang, Ye Jiacheng, Feng Jiangtao, Xu Jingjing, Qiao Yu, Wu Zhiyong
 conference: "Arxiv"
 year: 2023

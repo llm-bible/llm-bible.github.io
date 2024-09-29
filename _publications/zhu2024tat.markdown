@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TAT-LLM A Specialized Language Model for Discrete Reasoning over Tabular and Textual Data
+title: TAT-LLM A Specialized Language Model For Discrete Reasoning Over Tabular And Textual Data
 authors: Zhu Fengbin, Liu Ziyang, Feng Fuli, Wang Chao, Li Moxin, Chua Tat-seng
 conference: "Arxiv"
 year: 2024

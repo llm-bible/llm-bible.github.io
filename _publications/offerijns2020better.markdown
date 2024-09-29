@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Better Distractions Transformer-based Distractor Generation and Multiple Choice Question Filtering
+title: Better Distractions Transformer-based Distractor Generation And Multiple Choice Question Filtering
 authors: Offerijns Jeroen, Verberne Suzan, Verhoef Tessa
 conference: "Arxiv"
 year: 2020

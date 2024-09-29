@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adversarial Attacks and Defense for Conversation Entailment Task
+title: Adversarial Attacks And Defense For Conversation Entailment Task
 authors: Yang Zhenning, Krawec Ryan, Wu Liang-yuan
 conference: "Arxiv"
 year: 2024

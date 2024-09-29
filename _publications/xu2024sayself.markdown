@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SaySelf Teaching LLMs to Express Confidence with Self-Reflective Rationales
+title: Sayself Teaching Llms To Express Confidence With Self-reflective Rationales
 authors: Xu Tianyang, Wu Shujin, Diao Shizhe, Liu Xiaoze, Wang Xingyao, Chen Yangyi, Gao Jing
 conference: "Arxiv"
 year: 2024

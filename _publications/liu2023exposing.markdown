@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exposing Attention Glitches with Flip-Flop Language Modeling
+title: Exposing Attention Glitches With Flip-flop Language Modeling
 authors: Liu Bingbin, Ash Jordan T., Goel Surbhi, Krishnamurthy Akshay, Zhang Cyril
 conference: "Arxiv"
 year: 2023

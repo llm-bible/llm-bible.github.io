@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Finding and Editing Multi-Modal Neurons in Pre-Trained Transformers
+title: Finding And Editing Multi-modal Neurons In Pre-trained Transformers
 authors: Pan Haowen, Cao Yixin, Wang Xiaozhi, Yang Xun, Wang Meng
 conference: "Arxiv"
 year: 2023

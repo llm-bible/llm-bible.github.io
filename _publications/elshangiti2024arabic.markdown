@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Arabic Automatic Story Generation with Large Language Models
+title: Arabic Automatic Story Generation With Large Language Models
 authors: El-shangiti Ahmed Oumar, Alwajih Fakhraddin, Abdul-mageed Muhammad
 conference: "Arxiv"
 year: 2024

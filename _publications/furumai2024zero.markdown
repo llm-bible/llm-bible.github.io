@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zero-shot Persuasive Chatbots with LLM-Generated Strategies and Information Retrieval
+title: Zero-shot Persuasive Chatbots With Llm-generated Strategies And Information Retrieval
 authors: Furumai Kazuaki, Legaspi Roberto, Vizcarra Julio, Yamazaki Yudai, Nishimura Yasutaka, Semnani Sina J., Ikeda Kazushi, Shi Weiyan, Lam Monica S.
 conference: "Arxiv"
 year: 2024

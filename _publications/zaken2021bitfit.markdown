@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BitFit Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models
+title: Bitfit Simple Parameter-efficient Fine-tuning For Transformer-based Masked Language-models
 authors: Zaken Elad Ben, Ravfogel Shauli, Goldberg Yoav
 conference: "Arxiv"
 year: 2021

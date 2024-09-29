@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Testing and Evaluation of Large Language Models Correctness Non-Toxicity and Fairness
+title: Testing And Evaluation Of Large Language Models Correctness Non-toxicity And Fairness
 authors: Wang Wenxuan
 conference: "Arxiv"
 year: 2024

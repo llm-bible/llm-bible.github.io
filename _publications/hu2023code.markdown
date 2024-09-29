@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Code Prompting a Neural Symbolic Method for Complex Reasoning in Large Language Models
+title: Code Prompting A Neural Symbolic Method For Complex Reasoning In Large Language Models
 authors: Hu Yi, Yang Haotong, Lin Zhouchen, Zhang Muhan
 conference: "Arxiv"
 year: 2023

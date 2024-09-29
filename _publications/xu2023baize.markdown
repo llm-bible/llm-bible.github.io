@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Baize An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data
+title: Baize An Open-source Chat Model With Parameter-efficient Tuning On Self-chat Data
 authors: Xu Canwen, Guo Daya, Duan Nan, Mcauley Julian
 conference: "Arxiv"
 year: 2023

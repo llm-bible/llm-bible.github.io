@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Calibration Gap between Model and Human Confidence in Large Language Models
+title: The Calibration Gap Between Model And Human Confidence In Large Language Models
 authors: Steyvers Mark, Tejeda Heliodoro, Kumar Aakriti, Belem Catarina, Karny Sheer, Hu Xinyue, Mayer Lukas, Smyth Padhraic
 conference: "Arxiv"
 year: 2024

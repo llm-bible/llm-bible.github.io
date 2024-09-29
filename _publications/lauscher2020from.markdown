@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Zero to Hero On the Limitations of Zero-Shot Cross-Lingual Transfer with Multilingual Transformers
+title: From Zero To Hero On The Limitations Of Zero-shot Cross-lingual Transfer With Multilingual Transformers
 authors: Lauscher Anne, Ravishankar Vinit, Vulić Ivan, Glavaš Goran
 conference: "Arxiv"
 year: 2020

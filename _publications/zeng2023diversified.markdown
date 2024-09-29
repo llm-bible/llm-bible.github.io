@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On Diversified Preferences of Large Language Model Alignment
+title: On Diversified Preferences Of Large Language Model Alignment
 authors: Zeng Dun, Dai Yong, Cheng Pengyu, Wang Longyue, Hu Tianhao, Chen Wanshun, Du Nan, Xu Zenglin
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SPELL Semantic Prompt Evolution based on a LLM
+title: SPELL Semantic Prompt Evolution Based On A LLM
 authors: Li Yujian Betterest, Wu Kai
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How do Large Language Models Navigate Conflicts between Honesty and Helpfulness
+title: How Do Large Language Models Navigate Conflicts Between Honesty And Helpfulness
 authors: Liu Ryan, Sumers Theodore R., Dasgupta Ishita, Griffiths Thomas L.
 conference: "Arxiv"
 year: 2024

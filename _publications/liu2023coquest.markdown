@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CoQuest Exploring Research Question Co-Creation with an LLM-based Agent
+title: Coquest Exploring Research Question Co-creation With An Llm-based Agent
 authors: Liu Yiren, Chen Si, Cheng Haocong, Yu Mengxia, Ran Xiao, Mo Andrew, Tang Yiliu, Huang Yun
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluation of the Programming Skills of Large Language Models
+title: Evaluation Of The Programming Skills Of Large Language Models
 authors: Heitz Luc Bryan, Chamas Joun, Scherb Christopher
 conference: "Arxiv"
 year: 2024

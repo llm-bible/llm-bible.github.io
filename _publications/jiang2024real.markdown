@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Real the Better Aligning Large Language Models with Online Human Behaviors
+title: The Real The Better Aligning Large Language Models With Online Human Behaviors
 authors: Jiang Guanying, Yan Lingyong, Shi Haibo, Yin Dawei
 conference: "Arxiv"
 year: 2024

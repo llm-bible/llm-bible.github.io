@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Block-Skim Efficient Question Answering for Transformer
+title: Block-skim Efficient Question Answering For Transformer
 authors: Guan Yue, Li Zhengyi, Leng Jingwen, Lin Zhouhan, Guo Minyi, Zhu Yuhao
 conference: "Arxiv"
 year: 2021

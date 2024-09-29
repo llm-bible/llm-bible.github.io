@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning-From-Mistakes Prompting for Indigenous Language Translation
+title: Learning-from-mistakes Prompting For Indigenous Language Translation
 authors: Liao You-cheng, Yu Chen-jui, Lin Chi-yi, Yun He-feng, Wang Yen-hsiang, Li Hsiao-min, Fan Yao-chung
 conference: "Arxiv"
 year: 2024

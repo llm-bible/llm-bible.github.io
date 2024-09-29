@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Importance of Prompt Tuning for Automated Neuron Explanations
+title: The Importance Of Prompt Tuning For Automated Neuron Explanations
 authors: Lee Justin, Oikarinen Tuomas, Chatha Arjun, Chang Keng-chi, Chen Yilan, Weng Tsui-wei
 conference: "Arxiv"
 year: 2023

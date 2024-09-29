@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mamba-PTQ Outlier Channels in Recurrent Large Language Models
+title: Mamba-ptq Outlier Channels In Recurrent Large Language Models
 authors: Pierro Alessandro, Abreu Steven
 conference: "Arxiv"
 year: 2024

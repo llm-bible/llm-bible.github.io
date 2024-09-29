@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MEGen Generative Backdoor in Large Language Models via Model Editing
+title: Megen Generative Backdoor In Large Language Models Via Model Editing
 authors: Qiu Jiyang, Ma Xinbei, Zhang Zhuosheng, Zhao Hai
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLMs Will Always Hallucinate and We Need to Live With This
+title: Llms Will Always Hallucinate And We Need To Live With This
 authors: Banerjee Sourav, Agarwal Ayushi, Singla Saloni
 conference: "Arxiv"
 year: 2024

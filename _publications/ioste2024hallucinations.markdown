@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hallucinations or Attention Misdirection The Path to Strategic Value Extraction in Business Using Large Language Models
+title: Hallucinations Or Attention Misdirection The Path To Strategic Value Extraction In Business Using Large Language Models
 authors: Ioste Aline
 conference: "Arxiv"
 year: 2024

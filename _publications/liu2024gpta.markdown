@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GPTA Generative Prompt Tuning Assistant for Synergistic Downstream Neural Network Enhancement with LLMs
+title: GPTA Generative Prompt Tuning Assistant For Synergistic Downstream Neural Network Enhancement With Llms
 authors: Liu Xiao, Zhang Jiawei
 conference: "Arxiv"
 year: 2024

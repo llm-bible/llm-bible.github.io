@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: IITK at SemEval-2024 Task 2 Exploring the Capabilities of LLMs for Safe Biomedical Natural Language Inference for Clinical Trials
+title: IITK At Semeval-2024 Task 2 Exploring The Capabilities Of Llms For Safe Biomedical Natural Language Inference For Clinical Trials
 authors: Mandal Shreyasi, Modi Ashutosh
 conference: "Arxiv"
 year: 2024

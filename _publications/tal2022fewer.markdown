@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fewer Errors but More Stereotypes The Effect of Model Size on Gender Bias
+title: Fewer Errors But More Stereotypes The Effect Of Model Size On Gender Bias
 authors: Tal Yarden, Magar Inbal, Schwartz Roy
 conference: "Arxiv"
 year: 2022

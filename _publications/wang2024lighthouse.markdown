@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LightHouse A Survey of AGI Hallucination
+title: Lighthouse A Survey Of AGI Hallucination
 authors: Wang Feng
 conference: "Arxiv"
 year: 2024

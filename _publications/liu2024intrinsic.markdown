@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On the Intrinsic Self-Correction Capability of LLMs Uncertainty and Latent Concept
+title: On The Intrinsic Self-correction Capability Of Llms Uncertainty And Latent Concept
 authors: Liu Guangliang, Mao Haitao, Cao Bochuan, Xue Zhiyu, Johnson Kristen, Tang Jiliang, Wang Rongrong
 conference: "Arxiv"
 year: 2024

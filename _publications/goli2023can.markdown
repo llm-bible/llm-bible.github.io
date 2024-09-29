@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can LLMs Capture Human Preferences
+title: Can Llms Capture Human Preferences
 authors: Goli Ali, Singh Amandeep
 conference: "Arxiv"
 year: 2023

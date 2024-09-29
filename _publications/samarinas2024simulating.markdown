@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Simulating Task-Oriented Dialogues with State Transition Graphs and Large Language Models
+title: Simulating Task-oriented Dialogues With State Transition Graphs And Large Language Models
 authors: Samarinas Chris, Promthaw Pracha, Nijasure Atharva, Zeng Hansi, Killingback Julian, Zamani Hamed
 conference: "Arxiv"
 year: 2024

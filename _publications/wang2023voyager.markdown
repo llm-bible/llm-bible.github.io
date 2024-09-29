@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Voyager An Open-Ended Embodied Agent with Large Language Models
+title: Voyager An Open-ended Embodied Agent With Large Language Models
 authors: Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar
 conference: "Arxiv"
 year: 2023

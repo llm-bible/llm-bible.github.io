@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CodeGen2 Lessons for Training LLMs on Programming and Natural Languages
+title: Codegen2 Lessons For Training Llms On Programming And Natural Languages
 authors: Nijkamp Erik, Hayashi Hiroaki, Xiong Caiming, Savarese Silvio, Zhou Yingbo
 conference: "Arxiv"
 year: 2023

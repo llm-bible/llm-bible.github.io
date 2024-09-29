@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Small LLMs Are Weak Tool Learners A Multi-LLM Agent
+title: Small Llms Are Weak Tool Learners A Multi-llm Agent
 authors: Shen Weizhou, Li Chenliang, Chen Hongzhan, Yan Ming, Quan Xiaojun, Chen Hehong, Zhang Ji, Huang Fei
 conference: "Arxiv"
 year: 2024

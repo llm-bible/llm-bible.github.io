@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Does In-Context Learning Really Learn Rethinking How Large Language Models Respond and Solve Tasks via In-Context Learning
+title: Does In-context Learning Really Learn Rethinking How Large Language Models Respond And Solve Tasks Via In-context Learning
 authors: Long Quanyu, Wu Yin, Wang Wenya, Pan Sinno Jialin
 conference: "Arxiv"
 year: 2024

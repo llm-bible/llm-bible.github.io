@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SemVLP Vision-Language Pre-training by Aligning Semantics at Multiple Levels
+title: Semvlp Vision-language Pre-training By Aligning Semantics At Multiple Levels
 authors: Li Chenliang, Yan Ming, Xu Haiyang, Luo Fuli, Wang Wei, Bi Bin, Huang Songfang
 conference: "Arxiv"
 year: 2021

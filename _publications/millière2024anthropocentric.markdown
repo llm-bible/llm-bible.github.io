@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Anthropocentric bias and the possibility of artificial cognition
+title: Anthropocentric Bias And The Possibility Of Artificial Cognition
 authors: Millière Raphaël, Rathkopf Charles
 conference: "Arxiv"
 year: 2024

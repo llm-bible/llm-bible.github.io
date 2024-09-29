@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MasonTigers at SemEval-2024 Task 9 Solving Puzzles with an Ensemble of Chain-of-Thoughts
+title: Masontigers At Semeval-2024 Task 9 Solving Puzzles With An Ensemble Of Chain-of-thoughts
 authors: Raihan Md Nishat, Goswami Dhiman, Emran Al Nahian Bin, Puspo Sadiya Sayara Chowdhury, Ganguly Amrita, Zampieri Marcos
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Mystery of In-Context Learning A Comprehensive Survey on Interpretation and Analysis
+title: The Mystery Of In-context Learning A Comprehensive Survey On Interpretation And Analysis
 authors: Zhou Yuxiang, Li Jiazheng, Xiang Yanzheng, Yan Hanqi, Gui Lin, He Yulan
 conference: "Arxiv"
 year: 2023

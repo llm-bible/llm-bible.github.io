@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Training-Free Consistent Text-to-Image Generation
+title: Training-free Consistent Text-to-image Generation
 authors: Tewel Yoad, Kaduri Omri, Gal Rinon, Kasten Yoni, Wolf Lior, Chechik Gal, Atzmon Yuval
 conference: "Arxiv"
 year: 2024

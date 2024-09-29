@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SkillGPT a RESTful API service for skill extraction and standardization using a Large Language Model
+title: Skillgpt A Restful API Service For Skill Extraction And Standardization Using A Large Language Model
 authors: Li Nan, Kang Bo, De Bie Tijl
 conference: "Arxiv"
 year: 2023

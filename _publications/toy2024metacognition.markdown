@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Metacognition is all you need Using Introspection in Generative Agents to Improve Goal-directed Behavior
+title: Metacognition Is All You Need Using Introspection In Generative Agents To Improve Goal-directed Behavior
 authors: Toy Jason, Macadam Josh, Tabor Phil
 conference: "Arxiv"
 year: 2024

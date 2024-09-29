@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieved In-Context Principles from Previous Mistakes
+title: Retrieved In-context Principles From Previous Mistakes
 authors: Sun Hao, Jiang Yong, Wang Bo, Hou Yingyan, Zhang Yan, Xie Pengjun, Huang Fei
 conference: "Arxiv"
 year: 2024

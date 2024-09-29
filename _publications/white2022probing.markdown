@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Probing of Quantitative Values in Abstractive Summarization Models
+title: Probing Of Quantitative Values In Abstractive Summarization Models
 authors: White Nathan M.
 conference: "Arxiv"
 year: 2022

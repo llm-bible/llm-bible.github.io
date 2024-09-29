@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Comparative Analysis of GPT-4 and Human Graders in Evaluating Praise Given to Students in Synthetic Dialogues
+title: Comparative Analysis Of GPT-4 And Human Graders In Evaluating Praise Given To Students In Synthetic Dialogues
 authors: Hirunyasiri Dollaya, Thomas Danielle R., Lin Jionghao, Koedinger Kenneth R., Aleven Vincent
 conference: "Arxiv"
 year: 2023

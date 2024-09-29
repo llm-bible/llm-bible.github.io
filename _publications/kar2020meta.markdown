@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Meta-Context Transformers for Domain-Specific Response Generation
+title: Meta-context Transformers For Domain-specific Response Generation
 authors: Kar Debanjana, Samanta Suranjana, Azad Amar Prakash
 conference: "Arxiv"
 year: 2020

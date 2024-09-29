@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are LLMs Effective Backbones for Fine-tuning An Experimental Investigation of Supervised LLMs on Chinese Short Text Matching
+title: Are Llms Effective Backbones For Fine-tuning An Experimental Investigation Of Supervised Llms On Chinese Short Text Matching
 authors: Liu Shulin, Xu Chengcheng, Liu Hao, Yu Tinghao, Yang Tao
 conference: "Arxiv"
 year: 2024

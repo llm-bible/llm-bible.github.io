@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Opening up ChatGPT Tracking openness transparency and accountability in instruction-tuned text generators
+title: Opening Up Chatgpt Tracking Openness Transparency And Accountability In Instruction-tuned Text Generators
 authors: Liesenfeld Andreas, Lopez Alianda, Dingemanse Mark
 conference: "Arxiv"
 year: 2023

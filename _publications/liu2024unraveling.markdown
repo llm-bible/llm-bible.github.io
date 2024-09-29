@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unraveling the Mechanics of Learning-Based Demonstration Selection for In-Context Learning
+title: Unraveling The Mechanics Of Learning-based Demonstration Selection For In-context Learning
 authors: Liu Hui, Wang Wenya, Sun Hao, Tian Chris Xing, Kong Chenqi, Dong Xin, Li Haoliang
 conference: "Arxiv"
 year: 2024

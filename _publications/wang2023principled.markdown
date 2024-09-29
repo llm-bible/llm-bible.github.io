@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Principled Framework for Knowledge-enhanced Large Language Model
+title: A Principled Framework For Knowledge-enhanced Large Language Model
 authors: Wang Saizhuo, Liu Zhihan, Wang Zhaoran, Guo Jian
 conference: "Arxiv"
 year: 2023

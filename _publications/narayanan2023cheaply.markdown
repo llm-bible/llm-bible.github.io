@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cheaply Evaluating Inference Efficiency Metrics for Autoregressive Transformer APIs
+title: Cheaply Evaluating Inference Efficiency Metrics For Autoregressive Transformer Apis
 authors: Narayanan Deepak, Santhanam Keshav, Henderson Peter, Bommasani Rishi, Lee Tony, Liang Percy
 conference: "Arxiv"
 year: 2023

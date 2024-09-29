@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SPOT Text Source Prediction from Originality Score Thresholding
+title: SPOT Text Source Prediction From Originality Score Thresholding
 authors: Yvinec Edouard, Kasser Gabriel
 conference: "Arxiv"
 year: 2024

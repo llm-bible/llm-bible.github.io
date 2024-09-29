@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Eight Methods to Evaluate Robust Unlearning in LLMs
+title: Eight Methods To Evaluate Robust Unlearning In Llms
 authors: Lynch Aengus, Guo Phillip, Ewart Aidan, Casper Stephen, Hadfield-menell Dylan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Distilling Reasoning Ability from Large Language Models with Adaptive Thinking
+title: Distilling Reasoning Ability From Large Language Models With Adaptive Thinking
 authors: Chen Xiaoshu, Zhou Sihang, Liang Ke, Liu Xinwang
 conference: "Arxiv"
 year: 2024

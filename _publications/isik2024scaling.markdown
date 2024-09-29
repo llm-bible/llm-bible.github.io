@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scaling Laws for Downstream Task Performance of Large Language Models
+title: Scaling Laws For Downstream Task Performance Of Large Language Models
 authors: Isik Berivan, Ponomareva Natalia, Hazimeh Hussein, Paparas Dimitris, Vassilvitskii Sergei, Koyejo Sanmi
 conference: "Arxiv"
 year: 2024

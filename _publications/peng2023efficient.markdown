@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficient End-to-End Video Question Answering with Pyramidal Multimodal Transformer
+title: Efficient End-to-end Video Question Answering With Pyramidal Multimodal Transformer
 authors: Peng Min, Wang Chongyang, Shi Yu, Zhou Xiang-dong
 conference: "Arxiv"
 year: 2023

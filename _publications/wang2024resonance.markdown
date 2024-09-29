@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Resonance RoPE Improving Context Length Generalization of Large Language Models
+title: Resonance Rope Improving Context Length Generalization Of Large Language Models
 authors: Wang Suyuchen, Kobyzev Ivan, Lu Peng, Rezagholizadeh Mehdi, Liu Bang
 conference: "https://aclanthology.org/"
 year: 2024

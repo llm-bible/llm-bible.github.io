@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Long-context LLMs Struggle with Long In-context Learning
+title: Long-context Llms Struggle With Long In-context Learning
 authors: Li Tianle, Zhang Ge, Do Quy Duc, Yue Xiang, Chen Wenhu
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey on Symbolic Knowledge Distillation of Large Language Models
+title: A Survey On Symbolic Knowledge Distillation Of Large Language Models
 authors: Acharya Kamal, Velasquez Alvaro, Song Houbing Herbert
 conference: "Arxiv"
 year: 2024

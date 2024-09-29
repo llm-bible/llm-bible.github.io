@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PromptRobust Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts
+title: Promptrobust Towards Evaluating The Robustness Of Large Language Models On Adversarial Prompts
 authors: Zhu Kaijie, Wang Jindong, Zhou Jiaheng, Wang Zichen, Chen Hao, Wang Yidong, Yang Linyi, Ye Wei, Zhang Yue, Gong Neil Zhenqiang, Xie Xing
 conference: "Arxiv"
 year: 2023

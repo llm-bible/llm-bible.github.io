@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Loops to Oops Fallback Behaviors of Language Models Under Uncertainty
+title: From Loops To Oops Fallback Behaviors Of Language Models Under Uncertainty
 authors: Ivgi Maor, Yoran Ori, Berant Jonathan, Geva Mor
 conference: "Arxiv"
 year: 2024

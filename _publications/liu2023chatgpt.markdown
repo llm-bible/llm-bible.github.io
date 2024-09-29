@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChatGPT-powered Conversational Drug Editing Using Retrieval and Domain Feedback
+title: Chatgpt-powered Conversational Drug Editing Using Retrieval And Domain Feedback
 authors: Liu Shengchao, Wang Jiongxiao, Yang Yijin, Wang Chengpeng, Liu Ling, Guo Hongyu, Xiao Chaowei
 conference: "Arxiv"
 year: 2023

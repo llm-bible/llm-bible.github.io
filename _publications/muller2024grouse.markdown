@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GroUSE A Benchmark to Evaluate Evaluators in Grounded Question Answering
+title: Grouse A Benchmark To Evaluate Evaluators In Grounded Question Answering
 authors: Muller Sacha, Loison António, Omrani Bilel, Viaud Gautier
 conference: "Arxiv"
 year: 2024

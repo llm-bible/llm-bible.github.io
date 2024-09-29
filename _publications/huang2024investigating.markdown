@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating Decoder-only Large Language Models for Speech-to-text Translation
+title: Investigating Decoder-only Large Language Models For Speech-to-text Translation
 authors: Huang Chao-wei, Lu Hui, Gong Hongyu, Inaguma Hirofumi, Kulikov Ilia, Mavlyutov Ruslan, Popuri Sravya
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models can Strategically Deceive their Users when Put Under Pressure
+title: Large Language Models Can Strategically Deceive Their Users When Put Under Pressure
 authors: Scheurer Jérémy, Balesni Mikita, Hobbhahn Marius
 conference: "Arxiv"
 year: 2023

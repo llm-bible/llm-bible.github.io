@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Benchmarking and In-depth Performance Study of Large Language Models on Habana Gaudi Processors
+title: Benchmarking And In-depth Performance Study Of Large Language Models On Habana Gaudi Processors
 authors: Zhang Chengming, Sun Baixi, Yu Xiaodong, Xie Zhen, Zheng Weijian, Iskra Kamil, Beckman Pete, Tao Dingwen
 conference: "Arxiv"
 year: 2023

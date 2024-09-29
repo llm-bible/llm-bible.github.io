@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Systematic Evaluation of LLM-as-a-Judge in LLM Alignment Tasks Explainable Metrics and Diverse Prompt Templates
+title: Systematic Evaluation Of Llm-as-a-judge In LLM Alignment Tasks Explainable Metrics And Diverse Prompt Templates
 authors: Wei Hui, He Shenghua, Xia Tian, Wong Andy, Lin Jingyang, Han Mei
 conference: "Arxiv"
 year: 2024

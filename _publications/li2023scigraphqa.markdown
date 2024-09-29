@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SciGraphQA A Large-Scale Synthetic Multi-Turn Question-Answering Dataset for Scientific Graphs
+title: Scigraphqa A Large-scale Synthetic Multi-turn Question-answering Dataset For Scientific Graphs
 authors: Li Shengzhi, Tajbakhsh Nima
 conference: "Arxiv"
 year: 2023

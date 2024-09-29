@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SuperCLUE A Comprehensive Chinese Large Language Model Benchmark
+title: Superclue A Comprehensive Chinese Large Language Model Benchmark
 authors: Xu Liang, Li Anqi, Zhu Lei, Xue Hang, Zhu Changtai, Zhao Kangkang, He Haonan, Zhang Xuanwei, Kang Qiyue, Lan Zhenzhong
 conference: "Arxiv"
 year: 2023

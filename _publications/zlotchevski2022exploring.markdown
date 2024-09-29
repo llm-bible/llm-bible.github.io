@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring and Evaluating Personalized Models for Code Generation
+title: Exploring And Evaluating Personalized Models For Code Generation
 authors: Zlotchevski Andrei, Drain Dawn, Svyatkovskiy Alexey, Clement Colin, Sundaresan Neel, Tufano Michele
 conference: "Arxiv"
 year: 2022

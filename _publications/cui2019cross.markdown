@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cross-Lingual Machine Reading Comprehension
+title: Cross-lingual Machine Reading Comprehension
 authors: Cui Yiming, Che Wanxiang, Liu Ting, Qin Bing, Wang Shijin, Hu Guoping
 conference: "EMNLP"
 year: 2019

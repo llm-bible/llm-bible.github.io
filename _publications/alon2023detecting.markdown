@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Detecting Language Model Attacks with Perplexity
+title: Detecting Language Model Attacks With Perplexity
 authors: Alon Gabriel, Kamfonas Michael
 conference: "Arxiv"
 year: 2023

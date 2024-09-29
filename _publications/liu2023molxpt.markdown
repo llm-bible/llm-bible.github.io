@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MolXPT Wrapping Molecules with Text for Generative Pre-training
+title: Molxpt Wrapping Molecules With Text For Generative Pre-training
 authors: Liu Zequn, Zhang Wei, Xia Yingce, Wu Lijun, Xie Shufang, Qin Tao, Zhang Ming, Liu Tie-yan
 conference: "Arxiv"
 year: 2023

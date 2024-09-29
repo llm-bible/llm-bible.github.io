@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LaiDA Linguistics-aware In-context Learning with Data Augmentation for Metaphor Components Identification
+title: Laida Linguistics-aware In-context Learning With Data Augmentation For Metaphor Components Identification
 authors: Liu Hongde, He Chenyuan, Meng Feiyang, Niu Changyong, Jia Yuxiang
 conference: "Arxiv"
 year: 2024

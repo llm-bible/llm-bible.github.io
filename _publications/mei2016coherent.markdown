@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Coherent Dialogue with Attention-based Language Models
+title: Coherent Dialogue With Attention-based Language Models
 authors: Mei Hongyuan, Bansal Mohit, Walter Matthew R.
 conference: "Arxiv"
 year: 2016

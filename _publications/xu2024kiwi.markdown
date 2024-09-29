@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: KIWI A Dataset of Knowledge-Intensive Writing Instructions for Answering Research Questions
+title: KIWI A Dataset Of Knowledge-intensive Writing Instructions For Answering Research Questions
 authors: Xu Fangyuan, Lo Kyle, Soldaini Luca, Kuehl Bailey, Choi Eunsol, Wadden David
 conference: "Arxiv"
 year: 2024

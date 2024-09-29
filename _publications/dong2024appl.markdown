@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: APPL A Prompt Programming Language for Harmonious Integration of Programs and Large Language Model Prompts
+title: APPL A Prompt Programming Language For Harmonious Integration Of Programs And Large Language Model Prompts
 authors: Dong Honghua, Su Qidong, Gao Yubo, Li Zhaoyu, Ruan Yangjun, Pekhimenko Gennady, Maddison Chris J., Si Xujie
 conference: "Arxiv"
 year: 2024

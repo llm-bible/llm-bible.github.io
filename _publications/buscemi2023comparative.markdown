@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Comparative Study of Code Generation using ChatGPT 3.5 across 10 Programming Languages
+title: A Comparative Study Of Code Generation Using Chatgpt 3.5 Across 10 Programming Languages
 authors: Buscemi Alessio
 conference: "Arxiv"
 year: 2023

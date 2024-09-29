@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-task Learning with Multi-head Attention for Multi-choice Reading Comprehension
+title: Multi-task Learning With Multi-head Attention For Multi-choice Reading Comprehension
 authors: Wan Hui
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Not all layers are equally as important Every Layer Counts BERT
+title: Not All Layers Are Equally As Important Every Layer Counts BERT
 authors: Charpentier Lucas Georges Gabriel, Samuel David
 conference: "Arxiv"
 year: 2023

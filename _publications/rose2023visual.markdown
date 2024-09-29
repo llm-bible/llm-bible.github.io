@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Visual Chain of Thought Bridging Logical Gaps with Multimodal Infillings
+title: Visual Chain Of Thought Bridging Logical Gaps With Multimodal Infillings
 authors: Daniel Rose, Vaishnavi Himakunthala, Andy Ouyang, Ryan He, Alex Mei, Yujie Lu, Michael Saxon, Chinmay Sonar, Diba Mirza, William Yang Wang
 conference: "Arxiv"
 year: 2023

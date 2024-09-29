@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring the Comprehension of ChatGPT in Traditional Chinese Medicine Knowledge
+title: Exploring The Comprehension Of Chatgpt In Traditional Chinese Medicine Knowledge
 authors: Yizhen Li, Shaohan Huang, Jiaxing Qi, Lei Quan, Dongran Han, Zhongzhi Luan
 conference: "Arxiv"
 year: 2024

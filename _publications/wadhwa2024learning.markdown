@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning to Refine with Fine-Grained Natural Language Feedback
+title: Learning To Refine With Fine-grained Natural Language Feedback
 authors: Wadhwa Manya, Zhao Xinyu, Li Junyi Jessy, Durrett Greg
 conference: "Arxiv"
 year: 2024

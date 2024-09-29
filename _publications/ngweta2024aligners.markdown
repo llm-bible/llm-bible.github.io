@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aligners Decoupling LLMs and Alignment
+title: Aligners Decoupling Llms And Alignment
 authors: Ngweta Lilian, Agarwal Mayank, Maity Subha, Gittens Alex, Sun Yuekai, Yurochkin Mikhail
 conference: "Arxiv"
 year: 2024

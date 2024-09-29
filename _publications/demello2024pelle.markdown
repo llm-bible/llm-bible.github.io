@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PeLLE Encoder-based language models for Brazilian Portuguese based on open data
+title: Pelle Encoder-based Language Models For Brazilian Portuguese Based On Open Data
 authors: De Mello Guilherme Lamartine, Finger Marcelo, Serras And Felipe, Carpi Miguel De Mello, Jose Marcos Menon, Domingues Pedro Henrique, Cavalim Paulo
 conference: "Arxiv"
 year: 2024

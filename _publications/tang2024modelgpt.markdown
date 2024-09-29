@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Modelgpt Unleashing Llmx27;s Capabilities For Tailored Model Generation
+title: Modelgpt Unleashing Llms Capabilities For Tailored Model Generation
 authors: Tang Zihao, Lv Zheqi, Zhang Shengyu, Wu Fei, Kuang Kun
 conference: "Arxiv"
 year: 2024

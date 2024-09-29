@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AttentionLego An Open-Source Building Block For Spatially-Scalable Large Language Model Accelerator With Processing-In-Memory Technology
+title: Attentionlego An Open-source Building Block For Spatially-scalable Large Language Model Accelerator With Processing-in-memory Technology
 authors: Cong Rongqing, He Wenyang, Li Mingxuan, Luo Bangning, Yang Zebin, Yang Yuchao, Huang Ru, Yan Bonan
 conference: "Arxiv"
 year: 2024

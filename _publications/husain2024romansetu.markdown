@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RomanSetu Efficiently unlocking multilingual capabilities of Large Language Models via Romanization
+title: Romansetu Efficiently Unlocking Multilingual Capabilities Of Large Language Models Via Romanization
 authors: Husain Jaavid Aktar, Dabre Raj, Kumar Aswanth, Gala Jay, Jayakumar Thanmay, Puduppully Ratish, Kunchukuttan Anoop
 conference: "Arxiv"
 year: 2024

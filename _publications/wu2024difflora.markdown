@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DiffLoRA Generating Personalized Low-Rank Adaptation Weights with Diffusion
+title: Difflora Generating Personalized Low-rank Adaptation Weights With Diffusion
 authors: Wu Yujia, Shi Yiming, Wei Jiwei, Sun Chengwei, Zhou Yuyang, Yang Yang, Shen Heng Tao
 conference: "Arxiv"
 year: 2024

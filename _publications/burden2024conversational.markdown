@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Conversational Complexity for Assessing Risk in Large Language Models
+title: Conversational Complexity For Assessing Risk In Large Language Models
 authors: Burden John, Cebrian Manuel, Hernandez-orallo Jose
 conference: "Arxiv"
 year: 2024

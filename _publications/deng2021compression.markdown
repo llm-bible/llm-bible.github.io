@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Compression Transduction and Creation A Unified Framework for Evaluating Natural Language Generation
+title: Compression Transduction And Creation A Unified Framework For Evaluating Natural Language Generation
 authors: Deng Mingkai, Tan Bowen, Liu Zhengzhong, Xing Eric P., Hu Zhiting
 conference: "Arxiv"
 year: 2021

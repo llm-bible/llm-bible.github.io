@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Augmenting Transformers with Recursively Composed Multi-grained Representations
+title: Augmenting Transformers With Recursively Composed Multi-grained Representations
 authors: Hu Xiang, Zhu Qingyang, Tu Kewei, Wu Wei
 conference: "Arxiv"
 year: 2023

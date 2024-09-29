@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: JORA JAX Tensor-Parallel LoRA Library for Retrieval Augmented Fine-Tuning
+title: JORA JAX Tensor-parallel Lora Library For Retrieval Augmented Fine-tuning
 authors: Tahir Anique, Cheng Lu, Liu Huan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLMs Are Few-Shot In-Context Low-Resource Language Learners
+title: Llms Are Few-shot In-context Low-resource Language Learners
 authors: Cahyawijaya Samuel, Lovenia Holy, Fung Pascale
 conference: "Arxiv"
 year: 2024

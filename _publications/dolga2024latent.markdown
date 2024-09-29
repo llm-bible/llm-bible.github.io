@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Latent Attention for Linear Time Transformers
+title: Latent Attention For Linear Time Transformers
 authors: Dolga Rares, Cobzarenco Marius, Barber David
 conference: "Arxiv"
 year: 2024

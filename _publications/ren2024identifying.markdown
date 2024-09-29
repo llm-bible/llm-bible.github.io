@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Identifying Semantic Induction Heads to Understand In-Context Learning
+title: Identifying Semantic Induction Heads To Understand In-context Learning
 authors: Ren Jie, Guo Qipeng, Yan Hang, Liu Dongrui, Zhang Quanshi, Qiu Xipeng, Lin Dahua
 conference: "Arxiv"
 year: 2024

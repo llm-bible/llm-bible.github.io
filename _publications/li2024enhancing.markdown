@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Robustness of Vision-Language Models through Orthogonality Learning and Cross-Regularization
+title: Enhancing Robustness Of Vision-language Models Through Orthogonality Learning And Cross-regularization
 authors: Li Jinlong, Jie Zequn, Ricci Elisa, Ma Lin, Sebe Nicu
 conference: "Arxiv"
 year: 2024

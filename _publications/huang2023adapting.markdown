@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adapting Pre-trained Language Models to Vision-Language Tasks via Dynamic Visual Prompting
+title: Adapting Pre-trained Language Models To Vision-language Tasks Via Dynamic Visual Prompting
 authors: Huang Shubin, Wu Qiong, Zhou Yiyi, Chen Weijie, Zhang Rongsheng, Sun Xiaoshuai, Ji Rongrong
 conference: "Arxiv"
 year: 2023

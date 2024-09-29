@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Machine Translation Meta Evaluation through Translation Accuracy Challenge Sets
+title: Machine Translation Meta Evaluation Through Translation Accuracy Challenge Sets
 authors: Moghe Nikita, Fazla Arnisa, Amrhein Chantal, Kocmi Tom, Steedman Mark, Birch Alexandra, Sennrich Rico, Guillou Liane
 conference: "Arxiv"
 year: 2024

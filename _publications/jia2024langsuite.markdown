@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LangSuitE Planning Controlling and Interacting with Large Language Models in Embodied Text Environments
+title: Langsuite Planning Controlling And Interacting With Large Language Models In Embodied Text Environments
 authors: Jia Zixia, Wang Mengmeng, Tong Baichen, Zhu Song-chun, Zheng Zilong
 conference: "Arxiv"
 year: 2024

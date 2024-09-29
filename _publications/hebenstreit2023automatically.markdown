@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An automatically discovered chain-of-thought prompt generalizes to novel models and datasets
+title: An Automatically Discovered Chain-of-thought Prompt Generalizes To Novel Models And Datasets
 authors: Hebenstreit Konstantin, Praas Robert, Kiesewetter Louis P, Samwald Matthias
 conference: "Arxiv"
 year: 2023

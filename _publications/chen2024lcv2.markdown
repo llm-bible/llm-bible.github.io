@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LCV2 An Efficient Pretraining-Free Framework for Grounded Visual Question Answering
+title: LCV2 An Efficient Pretraining-free Framework For Grounded Visual Question Answering
 authors: Chen Yuhan, Su Lumei, Chen Lihua, Lin Zhiwei
 conference: "Arxiv"
 year: 2024

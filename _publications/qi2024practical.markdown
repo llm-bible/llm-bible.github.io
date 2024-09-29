@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Practical token pruning for foundation models in few-shot conversational virtual assistant systems
+title: Practical Token Pruning For Foundation Models In Few-shot Conversational Virtual Assistant Systems
 authors: Qi Haode, Qian Cheng, Ni Jian, Singh Pratyush, Fazeli Reza, Wang Gengyu, Shu Zhongzheng, Wayne Eric, Bross Juergen
 conference: "Arxiv"
 year: 2024

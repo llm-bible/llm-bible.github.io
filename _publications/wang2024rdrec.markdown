@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RDRec Rationale Distillation for LLM-based Recommendation
+title: Rdrec Rationale Distillation For Llm-based Recommendation
 authors: Wang Xinfeng, Cui Jin, Suzuki Yoshimi, Fukumoto Fumiyo
 conference: "Arxiv"
 year: 2024

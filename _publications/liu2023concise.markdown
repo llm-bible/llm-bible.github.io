@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Concise and Organized Perception Facilitates Reasoning in Large Language Models
+title: Concise And Organized Perception Facilitates Reasoning In Large Language Models
 authors: Liu Junjie, Yan Shaotian, Shen Chen, Xie Liang, Wang Wenxiao, Ye Jieping
 conference: "Arxiv"
 year: 2023

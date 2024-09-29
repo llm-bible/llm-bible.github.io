@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On the Generation of Medical Dialogues for COVID-19
+title: On The Generation Of Medical Dialogues For COVID-19
 authors: Yang Wenmian, Zeng Guangtao, Tan Bowen, Ju Zeqian, Chakravorty Subrato, He Xuehai, Chen Shu, Yang Xingyi, Wu Qingyang, Yu Zhou, Xing Eric, Xie Pengtao
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RedAgent Red Teaming Large Language Models with Context-aware Autonomous Language Agent
+title: Redagent Red Teaming Large Language Models With Context-aware Autonomous Language Agent
 authors: Xu Huiyu, Zhang Wenhui, Wang Zhibo, Xiao Feng, Zheng Rui, Feng Yunhe, Ba Zhongjie, Ren Kui
 conference: "Arxiv"
 year: 2024

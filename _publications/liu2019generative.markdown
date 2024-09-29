@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative Question Refinement with Deep Reinforcement Learning in Retrieval-based QA System
+title: Generative Question Refinement With Deep Reinforcement Learning In Retrieval-based QA System
 authors: Liu Ye, Zhang Chenwei, Yan Xiaohui, Chang Yi, Yu Philip S.
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unveiling the Impact of Multi-Modal Interactions on User Engagement A Comprehensive Evaluation in AI-driven Conversations
+title: Unveiling The Impact Of Multi-modal Interactions On User Engagement A Comprehensive Evaluation In Ai-driven Conversations
 authors: Zhang Lichao, Yu Jia, Zhang Shuai, Li Long, Zhong Yangyang, Liang Guanbao, Yan Yuming, Ma Qing, Weng Fangsheng, Pan Fayu, Li Jing, Xu Renjun, Lan Zhenzhong
 conference: "Arxiv"
 year: 2024

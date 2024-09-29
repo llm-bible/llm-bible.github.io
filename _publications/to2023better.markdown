@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Better Language Models of Code through Self-Improvement
+title: Better Language Models Of Code Through Self-improvement
 authors: To Hung Quoc, Bui Nghi D. Q., Guo Jin, Nguyen Tien N.
 conference: "Arxiv"
 year: 2023

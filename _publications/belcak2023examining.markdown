@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Examining the Emergence of Deductive Reasoning in Generative Language Models
+title: Examining The Emergence Of Deductive Reasoning In Generative Language Models
 authors: Belcak Peter, Lanzendörfer Luca A., Wattenhofer Roger
 conference: "Arxiv"
 year: 2023

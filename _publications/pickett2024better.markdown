@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Better RAG using Relevant Information Gain
+title: Better RAG Using Relevant Information Gain
 authors: Pickett Marc, Hartman Jeremy, Bhowmick Ayan Kumar, Alam Raquib-ul, Vempaty Aditya
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gpt-4 A Review on Advancements and Opportunities in Natural Language Processing
+title: Gpt-4 A Review On Advancements And Opportunities In Natural Language Processing
 authors: Baktash Jawid Ahmad, Dawodi Mursal
 conference: "Arxiv"
 year: 2023

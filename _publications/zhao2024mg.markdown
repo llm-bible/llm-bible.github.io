@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MG-LLaVA Towards Multi-Granularity Visual Instruction Tuning
+title: Mg-llava Towards Multi-granularity Visual Instruction Tuning
 authors: Zhao Xiangyu, Li Xiangtai, Duan Haodong, Huang Haian, Li Yining, Chen Kai, Yang Hua
 conference: "Arxiv"
 year: 2024

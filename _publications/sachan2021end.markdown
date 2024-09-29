@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: End-to-End Training of Neural Retrievers for Open-Domain Question Answering
+title: End-to-end Training Of Neural Retrievers For Open-domain Question Answering
 authors: Sachan Devendra Singh, Patwary Mostofa, Shoeybi Mohammad, Kant Neel, Ping Wei, Hamilton William L, Catanzaro Bryan
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatgpt-crawler Find Out If Chatgpt Really Knows What Itx27;s Talking About
+title: Chatgpt-crawler Find Out If Chatgpt Really Knows What Its Talking About
 authors: Rangapur Aman, Wang Haoran
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Programming Refusal with Conditional Activation Steering
+title: Programming Refusal With Conditional Activation Steering
 authors: Lee Bruce W., Padhi Inkit, Ramamurthy Karthikeyan Natesan, Miehling Erik, Dognin Pierre, Nagireddy Manish, Dhurandhar Amit
 conference: "Arxiv"
 year: 2024

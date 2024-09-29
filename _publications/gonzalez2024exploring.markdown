@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Augmentation and Cognitive Strategies for AI based Synthetic Personae
+title: Exploring Augmentation And Cognitive Strategies For AI Based Synthetic Personae
 authors: Gonzalez Rafael Arias, Dipaola Steve
 conference: "Arxiv"
 year: 2024

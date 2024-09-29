@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attention Alignment and Flexible Positional Embeddings Improve Transformer Length Extrapolation
+title: Attention Alignment And Flexible Positional Embeddings Improve Transformer Length Extrapolation
 authors: Chi Ta-chung, Fan Ting-han, Rudnicky Alexander I.
 conference: "Arxiv"
 year: 2023

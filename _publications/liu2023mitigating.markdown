@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning
+title: Mitigating Hallucination In Large Multi-modal Models Via Robust Instruction Tuning
 authors: Fuxiao Liu, Kevin Lin, Linjie Li, Jianfeng Wang, Yaser Yacoob, Lijuan Wang
 conference: "Arxiv"
 year: 2023

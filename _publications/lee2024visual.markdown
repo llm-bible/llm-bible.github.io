@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Visual Question Answering Instruction Unlocking Multimodal Large Language Model To Domain-Specific Visual Multitasks
+title: Visual Question Answering Instruction Unlocking Multimodal Large Language Model To Domain-specific Visual Multitasks
 authors: Lee Jusung, Cha Sungguk, Lee Younghyun, Yang Cheoljong
 conference: "Arxiv"
 year: 2024

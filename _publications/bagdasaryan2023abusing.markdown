@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs
+title: Abusing Images And Sounds For Indirect Instruction Injection In Multi-modal Llms
 authors: Bagdasaryan Eugene, Hsieh Tsung-yin, Nassi Ben, Shmatikov Vitaly
 conference: "Arxiv"
 year: 2023

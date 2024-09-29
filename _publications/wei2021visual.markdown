@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Visual Question Rewriting for Increasing Response Rate
+title: Visual Question Rewriting For Increasing Response Rate
 authors: Wei Jiayi, Li Xilian, Zhang Yi, Wang Xin
 conference: "Arxiv"
 year: 2021

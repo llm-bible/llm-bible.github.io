@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Statically Contextualizing Large Language Models with Typed Holes
+title: Statically Contextualizing Large Language Models With Typed Holes
 authors: Blinn Andrew, Li Xiang, Kim June Hyung, Omar Cyrus
 conference: "Arxiv"
 year: 2024

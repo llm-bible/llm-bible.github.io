@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChainLM Empowering Large Language Models with Improved Chain-of-Thought Prompting
+title: Chainlm Empowering Large Language Models With Improved Chain-of-thought Prompting
 authors: Cheng Xiaoxue, Li Junyi, Zhao Wayne Xin, Wen Ji-rong
 conference: "Arxiv"
 year: 2024

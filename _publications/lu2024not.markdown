@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Not All Experts are Equal Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models
+title: Not All Experts Are Equal Efficient Expert Pruning And Skipping For Mixture-of-experts Large Language Models
 authors: Lu Xudong, Liu Qi, Xu Yuhui, Zhou Aojun, Huang Siyuan, Zhang Bo, Yan Junchi, Li Hongsheng
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Predicting Learning Performance with Large Language Models A Study in Adult Literacy
+title: Predicting Learning Performance With Large Language Models A Study In Adult Literacy
 authors: Zhang Liang, Lin Jionghao, Borchers Conrad, Sabatini John, Hollander John, Cao Meng, Hu Xiangen
 conference: "Arxiv"
 year: 2024

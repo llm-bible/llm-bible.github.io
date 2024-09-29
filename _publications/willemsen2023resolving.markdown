@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Resolving References in Visually-Grounded Dialogue via Text Generation
+title: Resolving References In Visually-grounded Dialogue Via Text Generation
 authors: Willemsen Bram, Qian Livia, Skantze Gabriel
 conference: "Arxiv"
 year: 2023

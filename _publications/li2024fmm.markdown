@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FMM-Attack A Flow-based Multi-modal Adversarial Attack on Video-based LLMs
+title: Fmm-attack A Flow-based Multi-modal Adversarial Attack On Video-based Llms
 authors: Li Jinmin, Gao Kuofeng, Bai Yang, Zhang Jingyun, Xia Shu-tao, Wang Yisen
 conference: "Arxiv"
 year: 2024

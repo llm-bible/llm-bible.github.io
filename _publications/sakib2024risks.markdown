@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Risks Causes and Mitigations of Widespread Deployments of Large Language Models (LLMs) A Survey
+title: Risks Causes And Mitigations Of Widespread Deployments Of Large Language Models (llms) A Survey
 authors: Sakib Md Nazmus, Islam Md Athikul, Pathak Royal, Arifin Md Mashrur
 conference: "Arxiv"
 year: 2024

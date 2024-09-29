@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Words to Worlds Compositionality for Cognitive Architectures
+title: From Words To Worlds Compositionality For Cognitive Architectures
 authors: Dhar Ruchira, Søgaard Anders
 conference: "Arxiv"
 year: 2024

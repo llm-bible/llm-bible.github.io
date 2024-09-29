@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt Generation Networks for Input-Space Adaptation of Frozen Vision Transformers
+title: Prompt Generation Networks For Input-space Adaptation Of Frozen Vision Transformers
 authors: Loedeman Jochem, Stol Maarten C., Han Tengda, Asano Yuki M.
 conference: "Arxiv"
 year: 2022

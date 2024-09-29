@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CogGPT Unleashing the Power of Cognitive Dynamics on Large Language Models
+title: Coggpt Unleashing The Power Of Cognitive Dynamics On Large Language Models
 authors: Lv Yaojia, Pan Haojie, Fu Ruiji, Liu Ming, Wang Zhongyuan, Qin Bing
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Temporal Understanding in Audio Question Answering for Large Audio Language Models
+title: Enhancing Temporal Understanding In Audio Question Answering For Large Audio Language Models
 authors: Sridhar Arvind Krishna, Guo Yinyi, Visser Erik
 conference: "Arxiv"
 year: 2024

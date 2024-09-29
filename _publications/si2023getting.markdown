@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Getting MoRE out of Mixture of Language Model Reasoning Experts
+title: Getting More Out Of Mixture Of Language Model Reasoning Experts
 authors: Si Chenglei, Shi Weijia, Zhao Chen, Zettlemoyer Luke, Boyd-graber Jordan
 conference: "Arxiv"
 year: 2023

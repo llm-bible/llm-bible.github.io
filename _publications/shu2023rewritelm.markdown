@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RewriteLM An Instruction-Tuned Large Language Model for Text Rewriting
+title: Rewritelm An Instruction-tuned Large Language Model For Text Rewriting
 authors: Shu Lei, Luo Liangchen, Hoskere Jayakumar, Zhu Yun, Liu Yinxiao, Tong Simon, Chen Jindong, Meng Lei
 conference: "AAAI"
 year: 2023

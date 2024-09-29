@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unveiling Factual Recall Behaviors of Large Language Models through Knowledge Neurons
+title: Unveiling Factual Recall Behaviors Of Large Language Models Through Knowledge Neurons
 authors: Wang Yifei, Chen Yuheng, Wen Wanting, Sheng Yu, Li Linjing, Zeng Daniel Dajun
 conference: "Arxiv"
 year: 2024

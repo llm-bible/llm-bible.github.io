@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can LLMs facilitate interpretation of pre-trained language models
+title: Can Llms Facilitate Interpretation Of Pre-trained Language Models
 authors: Mousi Basel, Durrani Nadir, Dalvi Fahim
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Divide and Prompt Chain of Thought Prompting for Text-to-SQL
+title: Divide And Prompt Chain Of Thought Prompting For Text-to-sql
 authors: Liu Xiping, Tan Zhao
 conference: "Arxiv"
 year: 2023

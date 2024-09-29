@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Factuality and Reasoning in Language Models through Multiagent Debate
+title: Improving Factuality And Reasoning In Language Models Through Multiagent Debate
 authors: Du Yilun, Li Shuang, Torralba Antonio, Tenenbaum Joshua B., Mordatch Igor
 conference: "Arxiv"
 year: 2023

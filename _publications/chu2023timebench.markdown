@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TimeBench A Comprehensive Evaluation of Temporal Reasoning Abilities in Large Language Models
+title: Timebench A Comprehensive Evaluation Of Temporal Reasoning Abilities In Large Language Models
 authors: Chu Zheng, Chen Jingchang, Chen Qianglong, Yu Weijiang, Wang Haotian, Liu Ming, Qin Bing
 conference: "Arxiv"
 year: 2023

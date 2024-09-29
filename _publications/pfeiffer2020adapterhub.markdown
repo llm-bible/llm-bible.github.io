@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AdapterHub A Framework for Adapting Transformers
+title: Adapterhub A Framework For Adapting Transformers
 authors: Pfeiffer Jonas, Rücklé Andreas, Poth Clifton, Kamath Aishwarya, Vulić Ivan, Ruder Sebastian, Cho Kyunghyun, Gurevych Iryna
 conference: "Arxiv"
 year: 2020

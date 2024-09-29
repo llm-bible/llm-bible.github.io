@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: mPLUG-Owl Modularization Empowers Large Language Models with Multimodality
+title: Mplug-owl Modularization Empowers Large Language Models With Multimodality
 authors: Qinghao Ye, Haiyang Xu, Guohai Xu, Jiabo Ye, Ming Yan, Yiyang Zhou, Junyang Wang, Anwen Hu, Pengcheng Shi, Yaya Shi, Chenliang Li, Yuanhong Xu, Hehong Chen, Junfeng Tian, Qi Qian, Ji Zhang, Fei Huang, Jingren Zhou
 conference: "Arxiv"
 year: 2023

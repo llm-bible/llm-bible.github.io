@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Comprehensive Evaluation of Large Language Models on Legal Judgment Prediction
+title: A Comprehensive Evaluation Of Large Language Models On Legal Judgment Prediction
 authors: Shui Ruihao, Cao Yixin, Wang Xiang, Chua Tat-seng
 conference: "Arxiv"
 year: 2023

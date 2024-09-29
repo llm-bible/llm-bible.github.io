@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Characterizing Learning Curves During Language Model Pre-Training Learning Forgetting and Stability
+title: Characterizing Learning Curves During Language Model Pre-training Learning Forgetting And Stability
 authors: Chang Tyler A., Tu Zhuowen, Bergen Benjamin K.
 conference: "Arxiv"
 year: 2023

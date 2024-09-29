@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BookGPT A General Framework for Book Recommendation Empowered by Large Language Model
+title: Bookgpt A General Framework For Book Recommendation Empowered By Large Language Model
 authors: Zhiyuli Aakas, Chen Yanfang, Zhang Xuan, Liang Xun
 conference: "Arxiv"
 year: 2023

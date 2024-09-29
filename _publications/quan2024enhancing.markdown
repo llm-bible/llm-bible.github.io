@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Ethical Explanations of Large Language Models through Iterative Symbolic Refinement
+title: Enhancing Ethical Explanations Of Large Language Models Through Iterative Symbolic Refinement
 authors: Quan Xin, Valentino Marco, Dennis Louise A., Freitas André
 conference: "Arxiv"
 year: 2024

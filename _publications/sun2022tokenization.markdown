@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tokenization Consistency Matters for Generative Models on Extractive NLP Tasks
+title: Tokenization Consistency Matters For Generative Models On Extractive NLP Tasks
 authors: Sun Kaiser, Qi Peng, Zhang Yuhao, Liu Lan, Wang William Yang, Huang Zhiheng
 conference: "Arxiv"
 year: 2022

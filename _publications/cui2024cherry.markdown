@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cherry on Top Parameter Heterogeneity and Quantization in Large Language Models
+title: Cherry On Top Parameter Heterogeneity And Quantization In Large Language Models
 authors: Cui Wanyun, Wang Qianle
 conference: "Arxiv"
 year: 2024

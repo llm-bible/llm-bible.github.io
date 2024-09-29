@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scalable Extraction of Training Data from (Production) Language Models
+title: Scalable Extraction Of Training Data From (production) Language Models
 authors: Nasr Milad, Carlini Nicholas, Hayase Jonathan, Jagielski Matthew, Cooper A. Feder, Ippolito Daphne, Choquette-choo Christopher A., Wallace Eric, Tramèr Florian, Lee Katherine
 conference: "Arxiv"
 year: 2023

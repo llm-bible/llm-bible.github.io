@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Blockwise Parallel Transformer for Large Context Models
+title: Blockwise Parallel Transformer For Large Context Models
 authors: Hao Liu, Pieter Abbeel
 conference: "Arxiv"
 year: 2023

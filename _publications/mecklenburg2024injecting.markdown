@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Injecting New Knowledge into Large Language Models via Supervised Fine-Tuning
+title: Injecting New Knowledge Into Large Language Models Via Supervised Fine-tuning
 authors: Mecklenburg Nick, Lin Yiyou, Li Xiaoxiao, Holstein Daniel, Nunes Leonardo, Malvar Sara, Silva Bruno, Chandra Ranveer, Aski Vijay, Yannam Pavan Kumar Reddy, Aktas Tolga, Hendry Todd
 conference: "Arxiv"
 year: 2024

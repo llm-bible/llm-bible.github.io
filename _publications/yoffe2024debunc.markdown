@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DebUnc Mitigating Hallucinations in Large Language Model Agent Communication with Uncertainty Estimations
+title: Debunc Mitigating Hallucinations In Large Language Model Agent Communication With Uncertainty Estimations
 authors: Yoffe Luke, Amayuelas Alfonso, Wang William Yang
 conference: "Arxiv"
 year: 2024

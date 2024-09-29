@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Next-Step Hint Generation for Introductory Programming Using Large Language Models
+title: Next-step Hint Generation For Introductory Programming Using Large Language Models
 authors: Roest Lianne, Keuning Hieke, Jeuring Johan
 conference: "Arxiv"
 year: 2023

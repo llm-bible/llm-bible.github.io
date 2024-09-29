@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Surprising Failure Multimodal LLMs and the NLVR Challenge
+title: A Surprising Failure Multimodal Llms And The NLVR Challenge
 authors: Wu Anne, Brantley Kianté, Artzi Yoav
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Integrating Large Language Models with Graph-based Reasoning for Conversational Question Answering
+title: Integrating Large Language Models With Graph-based Reasoning For Conversational Question Answering
 authors: Jain Parag, Lapata Mirella
 conference: "Arxiv"
 year: 2024

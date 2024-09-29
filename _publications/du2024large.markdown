@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Model with Graph Convolution for Recommendation
+title: Large Language Model With Graph Convolution For Recommendation
 authors: Yingpeng Du, Ziyan Wang, Zhu Sun, Haoyan Chua, Hongzhi Liu, Zhonghai Wu, Yining Ma, Jie Zhang, Youchen Sun
 conference: "Arxiv"
 year: 2024

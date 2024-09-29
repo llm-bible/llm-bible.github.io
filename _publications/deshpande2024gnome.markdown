@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GNOME Generating Negotiations through Open-Domain Mapping of Exchanges
+title: GNOME Generating Negotiations Through Open-domain Mapping Of Exchanges
 authors: Deshpande Darshan, Sinha Shambhavi, Kumar Anirudh Ravi, Pal Debaditya, May Jonathan
 conference: "Arxiv"
 year: 2024

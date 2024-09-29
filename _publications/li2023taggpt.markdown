@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TagGPT Large Language Models are Zero-shot Multimodal Taggers
+title: Taggpt Large Language Models Are Zero-shot Multimodal Taggers
 authors: Li Chen, Ge Yixiao, Mao Jiayong, Li Dian, Shan Ying
 conference: "Arxiv"
 year: 2023

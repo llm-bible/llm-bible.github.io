@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On Second Thought Letx27;s Not Think Step By Step! Bias And Toxicity In Zero-shot Reasoning
+title: On Second Thought Lets Not Think Step By Step! Bias And Toxicity In Zero-shot Reasoning
 authors: Shaikh Omar, Zhang Hongxin, Held William, Bernstein Michael, Yang Diyi
 conference: "Arxiv"
 year: 2022

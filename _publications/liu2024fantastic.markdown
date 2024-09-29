@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fantastic Semantics and Where to Find Them Investigating Which Layers of Generative LLMs Reflect Lexical Semantics
+title: Fantastic Semantics And Where To Find Them Investigating Which Layers Of Generative Llms Reflect Lexical Semantics
 authors: Liu Zhu, Kong Cunliang, Liu Ying, Sun Maosong
 conference: "Arxiv"
 year: 2024

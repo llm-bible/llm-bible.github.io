@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GraphTranslator Aligning Graph Model to Large Language Model for Open-ended Tasks
+title: Graphtranslator Aligning Graph Model To Large Language Model For Open-ended Tasks
 authors: Zhang Mengmei, Sun Mingwei, Wang Peng, Fan Shen, Mo Yanhu, Xu Xiaoxiao, Liu Hong, Yang Cheng, Shi Chuan
 conference: "Arxiv"
 year: 2024

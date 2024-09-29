@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring and Unleashing the Power of Large Language Models in Automated Code Translation
+title: Exploring And Unleashing The Power Of Large Language Models In Automated Code Translation
 authors: Yang Zhen, Liu Fang, Yu Zhongxing, Keung Jacky Wai, Li Jia, Liu Shuo, Hong Yifan, Ma Xiaoxue, Jin Zhi, Li Ge
 conference: "Arxiv"
 year: 2024

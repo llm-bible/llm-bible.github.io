@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-Tuning Instructing LLMs to Effectively Acquire New Knowledge through Self-Teaching
+title: Self-tuning Instructing Llms To Effectively Acquire New Knowledge Through Self-teaching
 authors: Zhang Xiaoying, Peng Baolin, Tian Ye, Zhou Jingyan, Zhang Yipeng, Mi Haitao, Meng Helen
 conference: "Arxiv"
 year: 2024

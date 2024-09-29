@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TableBench A Comprehensive and Complex Benchmark for Table Question Answering
+title: Tablebench A Comprehensive And Complex Benchmark For Table Question Answering
 authors: Wu Xianjie, Yang Jian, Chai Linzheng, Zhang Ge, Liu Jiaheng, Du Xinrun, Liang Di, Shu Daixin, Cheng Xianfu, Sun Tianzhen, Niu Guanglin, Li Tongliang, Li Zhoujun
 conference: "Arxiv"
 year: 2024

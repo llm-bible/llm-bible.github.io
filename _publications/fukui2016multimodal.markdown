@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding
+title: Multimodal Compact Bilinear Pooling For Visual Question Answering And Visual Grounding
 authors: Fukui Akira, Park Dong Huk, Yang Daylen, Rohrbach Anna, Darrell Trevor, Rohrbach Marcus
 conference: "Arxiv"
 year: 2016

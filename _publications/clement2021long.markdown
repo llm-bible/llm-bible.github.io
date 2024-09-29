@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Long-Range Modeling of Source Code Files with eWASH Extended Window Access by Syntax Hierarchy
+title: Long-range Modeling Of Source Code Files With Ewash Extended Window Access By Syntax Hierarchy
 authors: Clement Colin B., Lu Shuai, Liu Xiaoyu, Tufano Michele, Drain Dawn, Duan Nan, Sundaresan Neel, Svyatkovskiy Alexey
 conference: "Arxiv"
 year: 2021

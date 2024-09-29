@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards smaller faster decoder-only transformers Architectural variants and their implications
+title: Towards Smaller Faster Decoder-only Transformers Architectural Variants And Their Implications
 authors: Suresh Sathya Krishnan, P Shunmugapriya
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scaling Laws for Fact Memorization of Large Language Models
+title: Scaling Laws For Fact Memorization Of Large Language Models
 authors: Lu Xingyu, Li Xiaonan, Cheng Qinyuan, Ding Kai, Huang Xuanjing, Qiu Xipeng
 conference: "Arxiv"
 year: 2024

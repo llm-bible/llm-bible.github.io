@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ExplainCPE A Free-text Explanation Benchmark of Chinese Pharmacist Examination
+title: Explaincpe A Free-text Explanation Benchmark Of Chinese Pharmacist Examination
 authors: Li Dongfang, Yu Jindi, Hu Baotian, Xu Zhenran, Zhang Min
 conference: "Arxiv"
 year: 2023

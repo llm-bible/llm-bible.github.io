@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SemScore Automated Evaluation of Instruction-Tuned LLMs based on Semantic Textual Similarity
+title: Semscore Automated Evaluation Of Instruction-tuned Llms Based On Semantic Textual Similarity
 authors: Aynetdinov Ansar, Akbik Alan
 conference: "Arxiv"
 year: 2024

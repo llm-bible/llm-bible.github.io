@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Empirical Guidelines for Deploying LLMs onto Resource-constrained Edge Devices
+title: Empirical Guidelines For Deploying Llms Onto Resource-constrained Edge Devices
 authors: Qin Ruiyang, Liu Dancheng, Yan Zheyu, Tan Zhaoxuan, Pan Zixuan, Jia Zhenge, Jiang Meng, Abbasi Ahmed, Xiong Jinjun, Shi Yiyu
 conference: "Arxiv"
 year: 2024

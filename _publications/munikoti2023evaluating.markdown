@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating the Effectiveness of Retrieval-Augmented Large Language Models in Scientific Document Reasoning
+title: Evaluating The Effectiveness Of Retrieval-augmented Large Language Models In Scientific Document Reasoning
 authors: Munikoti Sai, Acharya Anurag, Wagle Sridevi, Horawalavithana Sameera
 conference: "Arxiv"
 year: 2023

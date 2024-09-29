@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Llms Know About Hallucination An Empirical Investigation Of Llmx27;s Hidden States
+title: Do Llms Know About Hallucination An Empirical Investigation Of Llms Hidden States
 authors: Duan Hanyu, Yang Yi, Tam Kar Yan
 conference: "Arxiv"
 year: 2024

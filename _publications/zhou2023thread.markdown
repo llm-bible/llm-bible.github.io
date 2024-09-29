@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Thread of Thought Unraveling Chaotic Contexts
+title: Thread Of Thought Unraveling Chaotic Contexts
 authors: Zhou Yucheng, Geng Xiubo, Shen Tao, Tao Chongyang, Long Guodong, Lou Jian-guang, Shen Jianbing
 conference: "Arxiv"
 year: 2023

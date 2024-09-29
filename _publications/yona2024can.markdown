@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Large Language Models Faithfully Express Their Intrinsic Uncertainty in Words
+title: Can Large Language Models Faithfully Express Their Intrinsic Uncertainty In Words
 authors: Yona Gal, Aharoni Roee, Geva Mor
 conference: "Arxiv"
 year: 2024

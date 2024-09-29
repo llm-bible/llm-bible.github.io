@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Facts2Story Controlling Text Generation by Key Facts
+title: Facts2story Controlling Text Generation By Key Facts
 authors: Orbach Eyal Bar Ilan University, Goldberg Yoav Bar Ilan University And Allen Institute For Artificial Intelligence
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ActionReasoningBench Reasoning about Actions with and without Ramification Constraints
+title: Actionreasoningbench Reasoning About Actions With And Without Ramification Constraints
 authors: Handa Divij, Dolin Pavel, Kumbhar Shrinidhi, Baral Chitta, Son Tran Cao
 conference: "Arxiv"
 year: 2024

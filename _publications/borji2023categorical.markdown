@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Categorical Archive of ChatGPT Failures
+title: A Categorical Archive Of Chatgpt Failures
 authors: Borji Ali
 conference: "Arxiv"
 year: 2023

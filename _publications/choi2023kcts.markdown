@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: KCTS Knowledge-Constrained Tree Search Decoding with Token-Level Hallucination Detection
+title: KCTS Knowledge-constrained Tree Search Decoding With Token-level Hallucination Detection
 authors: Choi Sehyun, Fang Tianqing, Wang Zhaowei, Song Yangqiu
 conference: "Arxiv"
 year: 2023

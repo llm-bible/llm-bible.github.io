@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CoE-SQL In-Context Learning for Multi-Turn Text-to-SQL with Chain-of-Editions
+title: Coe-sql In-context Learning For Multi-turn Text-to-sql With Chain-of-editions
 authors: Zhang Hanchong, Cao Ruisheng, Xu Hongshen, Chen Lu, Yu Kai
 conference: "Arxiv"
 year: 2024

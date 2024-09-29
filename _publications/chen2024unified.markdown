@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unified Hallucination Detection for Multimodal Large Language Models
+title: Unified Hallucination Detection For Multimodal Large Language Models
 authors: Xiang Chen, Chenxi Wang, Yida Xue, Ningyu Zhang, Xiaoyan Yang, Qiang Li, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen
 conference: "Arxiv"
 year: 2024

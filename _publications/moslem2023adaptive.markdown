@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adaptive Machine Translation with Large Language Models
+title: Adaptive Machine Translation With Large Language Models
 authors: Moslem Yasmin, Haque Rejwanul, Kelleher John D., Way Andy
 conference: "Arxiv"
 year: 2023

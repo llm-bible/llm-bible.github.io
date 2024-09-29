@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ProphetNet Predicting Future N-gram for Sequence-to-Sequence Pre-training
+title: Prophetnet Predicting Future N-gram For Sequence-to-sequence Pre-training
 authors: Qi Weizhen, Yan Yu, Gong Yeyun, Liu Dayiheng, Duan Nan, Chen Jiusheng, Zhang Ruofei, Zhou Ming
 conference: "Arxiv"
 year: 2020

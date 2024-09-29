@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: UniHD at TSAR-2022 Shared Task Is Compute All We Need for Lexical Simplification
+title: Unihd At TSAR-2022 Shared Task Is Compute All We Need For Lexical Simplification
 authors: Aumiller Dennis, Gertz Michael
 conference: "Arxiv"
 year: 2023

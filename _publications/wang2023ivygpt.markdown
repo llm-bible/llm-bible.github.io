@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: IvyGPT InteractiVe Chinese pathwaY language model in medical domain
+title: Ivygpt Interactive Chinese Pathway Language Model In Medical Domain
 authors: Wang Rongsheng, Duan Yaofei, Lam Chantong, Chen Jiexi, Xu Jiangsheng, Chen Haoming, Liu Xiaohong, Pang Patrick Cheong-iao, Tan Tao
 conference: "Arxiv"
 year: 2023

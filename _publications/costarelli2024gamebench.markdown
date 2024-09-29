@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GameBench Evaluating Strategic Reasoning Abilities of LLM Agents
+title: Gamebench Evaluating Strategic Reasoning Abilities Of LLM Agents
 authors: Costarelli Anthony, Allen Mat, Hauksson Roman, Sodunke Grace, Hariharan Suhas, Cheng Carlson, Li Wenjie, Clymer Joshua, Yadav Arjun
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLMs Are Zero-Shot Context-Aware Simultaneous Translators
+title: Llms Are Zero-shot Context-aware Simultaneous Translators
 authors: Koshkin Roman, Sudoh Katsuhito, Nakamura Satoshi
 conference: "Arxiv"
 year: 2024

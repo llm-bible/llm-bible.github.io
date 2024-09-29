@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automating Human Tutor-Style Programming Feedback Leveraging GPT-4 Tutor Model for Hint Generation and GPT-3.5 Student Model for Hint Validation
+title: Automating Human Tutor-style Programming Feedback Leveraging GPT-4 Tutor Model For Hint Generation And GPT-3.5 Student Model For Hint Validation
 authors: Phung Tung, Pădurean Victor-alexandru, Singh Anjali, Brooks Christopher, Cambronero José, Gulwani Sumit, Singla Adish, Soares Gustavo
 conference: "Arxiv"
 year: 2023

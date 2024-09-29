@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt Framework for Role-playing Generation and Evaluation
+title: Prompt Framework For Role-playing Generation And Evaluation
 authors: Liu Xun, Ni Zhengwei
 conference: "Arxiv"
 year: 2024

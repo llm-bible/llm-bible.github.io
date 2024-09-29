@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ECONET Effective Continual Pretraining of Language Models for Event Temporal Reasoning
+title: ECONET Effective Continual Pretraining Of Language Models For Event Temporal Reasoning
 authors: Han Rujun, Ren Xiang, Peng Nanyun
 conference: "Arxiv"
 year: 2020

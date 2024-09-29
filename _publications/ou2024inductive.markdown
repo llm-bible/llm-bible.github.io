@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Inductive-Deductive Strategy Reuse for Multi-Turn Instructional Dialogues
+title: Inductive-deductive Strategy Reuse For Multi-turn Instructional Dialogues
 authors: Ou Jiao, Wu Jiayu, Liu Che, Zhang Fuzheng, Zhang Di, Gai Kun
 conference: "Arxiv"
 year: 2024

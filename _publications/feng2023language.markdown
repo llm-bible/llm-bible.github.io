@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Models can be Logical Solvers
+title: Language Models Can Be Logical Solvers
 authors: Feng Jiazhan, Xu Ruochen, Hao Junheng, Sharma Hiteshi, Shen Yelong, Zhao Dongyan, Chen Weizhu
 conference: "Arxiv"
 year: 2023

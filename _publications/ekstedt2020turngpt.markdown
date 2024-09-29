@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TurnGPT a Transformer-based Language Model for Predicting Turn-taking in Spoken Dialog
+title: Turngpt A Transformer-based Language Model For Predicting Turn-taking In Spoken Dialog
 authors: Ekstedt Erik, Skantze Gabriel
 conference: "Arxiv"
 year: 2020

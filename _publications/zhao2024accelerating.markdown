@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Accelerating Greedy Coordinate Gradient via Probe Sampling
+title: Accelerating Greedy Coordinate Gradient Via Probe Sampling
 authors: Zhao Yiran, Zheng Wenyue, Cai Tianle, Do Xuan Long, Kawaguchi Kenji, Goyal Anirudh, Shieh Michael
 conference: "Arxiv"
 year: 2024

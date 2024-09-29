@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GPT-4 Understands Discourse at Least as Well as Humans Do
+title: GPT-4 Understands Discourse At Least As Well As Humans Do
 authors: Shultz Thomas, Wise Jamie, Nobandegani Ardavan Salehi
 conference: "Arxiv"
 year: 2024

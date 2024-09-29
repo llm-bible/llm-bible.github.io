@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Empowering Multi-step Reasoning across Languages via Tree-of-Thoughts
+title: Empowering Multi-step Reasoning Across Languages Via Tree-of-thoughts
 authors: Ranaldi Leonardo, Pucci Giulia, Ranaldi Federico, Ruzzetti Elena Sofia, Zanzotto Fabio Massimo
 conference: ""
 year: 2023

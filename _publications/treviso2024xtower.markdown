@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: xTower A Multilingual LLM for Explaining and Correcting Translation Errors
+title: Xtower A Multilingual LLM For Explaining And Correcting Translation Errors
 authors: Treviso Marcos, Guerreiro Nuno M., Agrawal Sweta, Rei Ricardo, Pombal José, Vaz Tania, Wu Helena, Silva Beatriz, Van Stigt Daan, Martins André F. T.
 conference: "Arxiv"
 year: 2024

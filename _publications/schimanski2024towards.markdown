@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Faithful and Robust LLM Specialists for Evidence-Based Question-Answering
+title: Towards Faithful And Robust LLM Specialists For Evidence-based Question-answering
 authors: Schimanski Tobias, Ni Jingwei, Kraus Mathias, Ash Elliott, Leippold Markus
 conference: "Arxiv"
 year: 2024

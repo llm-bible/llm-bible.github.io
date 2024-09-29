@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mitigating Open-Vocabulary Caption Hallucinations
+title: Mitigating Open-vocabulary Caption Hallucinations
 authors: Assaf Ben-kish, Moran Yanuka, Morris Alper, Raja Giryes, Hadar Averbuch-elor
 conference: "Arxiv"
 year: 2023

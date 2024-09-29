@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Crafting Customisable Characters with LLMs Introducing SimsChat a Persona-Driven Role-Playing Agent Framework
+title: Crafting Customisable Characters With Llms Introducing Simschat A Persona-driven Role-playing Agent Framework
 authors: Yang Bohao, Liu Dong, Tang Chen, Xiao Chenghao, Zhao Kun, Li Chao, Yuan Lin, Yang Guang, Huang Lanxiao, Lin Chenghua
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lets have a chat! A Conversation with ChatGPT Technology Applications and Limitations
+title: Lets Have A Chat! A Conversation With Chatgpt Technology Applications And Limitations
 authors: Shahriar Sakib, Hayawi Kadhim
 conference: "Arxiv"
 year: 2023

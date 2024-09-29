@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: JMedLoRAMedical Domain Adaptation on Japanese Large Language Models using Instruction-tuning
+title: Jmedloramedical Domain Adaptation On Japanese Large Language Models Using Instruction-tuning
 authors: Sukeda Issey, Suzuki Masahiro, Sakaji Hiroki, Kodera Satoshi
 conference: "Arxiv"
 year: 2023

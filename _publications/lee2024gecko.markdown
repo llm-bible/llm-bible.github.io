@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gecko Versatile Text Embeddings Distilled from Large Language Models
+title: Gecko Versatile Text Embeddings Distilled From Large Language Models
 authors: Lee Jinhyuk, Dai Zhuyun, Ren Xiaoqi, Chen Blair, Cer Daniel, Cole Jeremy R., Hui Kai, Boratko Michael, Kapadia Rajvi, Ding Wen, Luan Yi, Duddu Sai Meher Karthik, Abrego Gustavo Hernandez, Shi Weiqiang, Gupta Nithi, Kusupati Aditya, Jain Prateek, Jonnalagadda Siddhartha Reddy, Chang Ming-wei, Naim Iftekhar
 conference: "Arxiv"
 year: 2024

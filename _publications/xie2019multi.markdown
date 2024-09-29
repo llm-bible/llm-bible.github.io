@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Multi-Turn Emotionally Engaging Dialog Model
+title: A Multi-turn Emotionally Engaging Dialog Model
 authors: Xie Yubo, Svikhnushina Ekaterina, Pu Pearl
 conference: "Arxiv"
 year: 2019

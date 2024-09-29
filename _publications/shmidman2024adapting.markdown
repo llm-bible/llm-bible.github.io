@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adapting LLMs to Hebrew Unveiling DictaLM 2.0 with Enhanced Vocabulary and Instruction Capabilities
+title: Adapting Llms To Hebrew Unveiling Dictalm 2.0 With Enhanced Vocabulary And Instruction Capabilities
 authors: Shmidman Shaltiel, Shmidman Avi, Cohen Amir Dn, Koppel Moshe
 conference: "Arxiv"
 year: 2024

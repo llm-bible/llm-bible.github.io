@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Simple and Scalable Strategies to Continually Pre-train Large Language Models
+title: Simple And Scalable Strategies To Continually Pre-train Large Language Models
 authors: Ibrahim Adam, Thérien Benjamin, Gupta Kshitij, Richter Mats L., Anthony Quentin, Lesort Timothée, Belilovsky Eugene, Rish Irina
 conference: "Arxiv"
 year: 2024

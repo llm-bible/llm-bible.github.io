@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Probing Pretrained Language Models with Hierarchy Properties
+title: Probing Pretrained Language Models With Hierarchy Properties
 authors: Lovón-melgarejo Jesús, Moreno Jose G., Besançon Romaric, Ferret Olivier, Tamine Lynda
 conference: "Arxiv"
 year: 2023

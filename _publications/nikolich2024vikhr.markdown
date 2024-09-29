@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vikhr The Family of Open-Source Instruction-Tuned Large Language Models for Russian
+title: Vikhr The Family Of Open-source Instruction-tuned Large Language Models For Russian
 authors: Nikolich Aleksandr, Korolev Konstantin, Shelmanov Artem, Kiselev Igor
 conference: "Arxiv"
 year: 2024

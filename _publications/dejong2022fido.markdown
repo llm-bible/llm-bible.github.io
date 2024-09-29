@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FiDO Fusion-in-Decoder optimized for stronger performance and faster inference
+title: Fido Fusion-in-decoder Optimized For Stronger Performance And Faster Inference
 authors: De Jong Michiel, Zemlyanskiy Yury, Ainslie Joshua, Fitzgerald Nicholas, Sanghai Sumit, Sha Fei, Cohen William
 conference: "Arxiv"
 year: 2022

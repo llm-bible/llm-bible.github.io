@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SCITAB A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables
+title: SCITAB A Challenging Benchmark For Compositional Reasoning And Claim Verification On Scientific Tables
 authors: Lu Xinyuan, Pan Liangming, Liu Qian, Nakov Preslav, Kan Min-yen
 conference: "Arxiv"
 year: 2023

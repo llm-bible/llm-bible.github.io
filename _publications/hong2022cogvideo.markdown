@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CogVideo Large-scale Pretraining for Text-to-Video Generation via Transformers
+title: Cogvideo Large-scale Pretraining For Text-to-video Generation Via Transformers
 authors: Hong Wenyi, Ding Ming, Zheng Wendi, Liu Xinghan, Tang Jie
 conference: "Arxiv"
 year: 2022

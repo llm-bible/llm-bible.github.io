@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mitigating Object Hallucination in Large Vision-Language Models via Classifier-Free Guidance
+title: Mitigating Object Hallucination In Large Vision-language Models Via Classifier-free Guidance
 authors: Zhao Linxi, Deng Yihe, Zhang Weitong, Gu Quanquan
 conference: "Arxiv"
 year: 2024

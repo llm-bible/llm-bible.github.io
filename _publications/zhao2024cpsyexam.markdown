@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CPsyExam A Chinese Benchmark for Evaluating Psychology using Examinations
+title: Cpsyexam A Chinese Benchmark For Evaluating Psychology Using Examinations
 authors: Zhao Jiahao, Zhu Jingwei, Tan Minghuan, Yang Min, Yang Di, Zhang Chenhao, Ye Guancheng, Li Chengming, Hu Xiping
 conference: "Arxiv"
 year: 2024

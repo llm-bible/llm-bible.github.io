@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Prompt Log Analysis of Text-to-Image Generation Systems
+title: A Prompt Log Analysis Of Text-to-image Generation Systems
 authors: Xie Yutong, Pan Zhaoying, Ma Jinge, Jie Luo, Mei Qiaozhu
 conference: "Arxiv"
 year: 2023

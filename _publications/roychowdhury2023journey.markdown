@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Journey of Hallucination-minimized Generative AI Solutions for Financial Decision Makers
+title: Journey Of Hallucination-minimized Generative AI Solutions For Financial Decision Makers
 authors: Roychowdhury Sohini
 conference: "Arxiv"
 year: 2023

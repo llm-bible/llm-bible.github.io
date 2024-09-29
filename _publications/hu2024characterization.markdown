@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Characterization of Large Language Model Development in the Datacenter
+title: Characterization Of Large Language Model Development In The Datacenter
 authors: Hu Qinghao, Ye Zhisheng, Wang Zerui, Wang Guoteng, Zhang Meng, Chen Qiaoling, Sun Peng, Lin Dahua, Wang Xiaolin, Luo Yingwei, Wen Yonggang, Zhang Tianwei
 conference: "Arxiv"
 year: 2024

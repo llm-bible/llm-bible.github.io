@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reasoning with Language Model Prompting A Survey
+title: Reasoning With Language Model Prompting A Survey
 authors: Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen
 conference: "Arxiv"
 year: 2022

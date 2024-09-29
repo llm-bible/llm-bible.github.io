@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SLIDE A Framework Integrating Small and Large Language Models for Open-Domain Dialogues Evaluation
+title: SLIDE A Framework Integrating Small And Large Language Models For Open-domain Dialogues Evaluation
 authors: Zhao Kun, Yang Bohao, Tang Chen, Lin Chenghua, Zhan Liang
 conference: "Arxiv"
 year: 2024

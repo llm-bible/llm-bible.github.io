@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Tarzan to Tolkien Controlling the Language Proficiency Level of LLMs for Content Generation
+title: From Tarzan To Tolkien Controlling The Language Proficiency Level Of Llms For Content Generation
 authors: Malik Ali, Mayhew Stephen, Piech Chris, Bicknell Klinton
 conference: "In Findings of the Association for Computational Linguistics"
 year: 2024

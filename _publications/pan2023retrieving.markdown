@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieving-to-Answer Zero-Shot Video Question Answering with Frozen Large Language Models
+title: Retrieving-to-answer Zero-shot Video Question Answering With Frozen Large Language Models
 authors: Pan Junting, Lin Ziyi, Ge Yuying, Zhu Xiatian, Zhang Renrui, Wang Yi, Qiao Yu, Li Hongsheng
 conference: "Arxiv"
 year: 2023

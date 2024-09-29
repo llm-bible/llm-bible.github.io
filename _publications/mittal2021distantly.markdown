@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Distantly Supervised Transformers For E-Commerce Product QA
+title: Distantly Supervised Transformers For E-commerce Product QA
 authors: Mittal Happy, Chakrabarti Aniket, Bayar Belhassen, Sharma Animesh Anant, Rasiwasia Nikhil
 conference: "Arxiv"
 year: 2021

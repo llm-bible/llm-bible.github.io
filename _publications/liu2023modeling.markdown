@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Modeling Uncertainty and Using Post-fusion as Fallback Improves Retrieval Augmented Generation with LLMs
+title: Modeling Uncertainty And Using Post-fusion As Fallback Improves Retrieval Augmented Generation With Llms
 authors: Liu Ye, Yavuz Semih, Meng Rui, Moorthy Meghana, Joty Shafiq, Xiong Caiming, Zhou Yingbo
 conference: "Arxiv"
 year: 2023

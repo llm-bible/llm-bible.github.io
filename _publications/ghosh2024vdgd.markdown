@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VDGD Mitigating LVLM Hallucinations in Cognitive Prompts by Bridging the Visual Perception Gap
+title: VDGD Mitigating LVLM Hallucinations In Cognitive Prompts By Bridging The Visual Perception Gap
 authors: Sreyan Ghosh, Chandra Kiran Reddy Evuru, Sonal Kumar, Utkarsh Tyagi, Oriol Nieto, Zeyu Jin, Dinesh Manocha
 conference: "Arxiv"
 year: 2024

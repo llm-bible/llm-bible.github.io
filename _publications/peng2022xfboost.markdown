@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: XFBoost Improving Text Generation with Controllable Decoders
+title: Xfboost Improving Text Generation With Controllable Decoders
 authors: Peng Xiangyu, Sollami Michael
 conference: "Arxiv"
 year: 2022

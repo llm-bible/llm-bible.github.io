@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Impact of Reasoning Step Length on Large Language Models
+title: The Impact Of Reasoning Step Length On Large Language Models
 authors: Jin Mingyu, Yu Qinkai, Shu Dong, Zhao Haiyan, Hua Wenyue, Meng Yanda, Zhang Yongfeng, Du Mengnan
 conference: "Arxiv"
 year: 2024

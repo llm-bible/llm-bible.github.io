@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChatGPT as your Personal Data Scientist
+title: Chatgpt As Your Personal Data Scientist
 authors: Hassan Md Mahadi, Knipper Alex, Santu Shubhra Kanti Karmaker
 conference: "Arxiv"
 year: 2023

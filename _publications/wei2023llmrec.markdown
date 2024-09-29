@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLMRec Large Language Models with Graph Augmentation for Recommendation
+title: Llmrec Large Language Models With Graph Augmentation For Recommendation
 authors: Wei Wei, Xubin Ren, Jiabin Tang, Qinyong Wang, Lixin Su, Suqi Cheng, Junfeng Wang, Dawei Yin, Chao Huang
 conference: "Arxiv"
 year: 2023

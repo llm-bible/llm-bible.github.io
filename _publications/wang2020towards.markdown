@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Faithful Neural Table-to-Text Generation with Content-Matching Constraints
+title: Towards Faithful Neural Table-to-text Generation With Content-matching Constraints
 authors: Wang Zhenyi, Wang Xiaoyang, An Bang, Yu Dong, Chen Changyou
 conference: "Proceedings of the"
 year: 2020

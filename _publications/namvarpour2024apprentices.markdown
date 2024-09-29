@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Apprentices to Research Assistants Advancing Research with Large Language Models
+title: Apprentices To Research Assistants Advancing Research With Large Language Models
 authors: Namvarpour M., Razi A.
 conference: "Arxiv"
 year: 2024

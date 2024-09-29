@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks
+title: Knowledge-augmented Reasoning Distillation For Small Language Models In Knowledge-intensive Tasks
 authors: Kang Minki, Lee Seanie, Baek Jinheon, Kawaguchi Kenji, Hwang Sung Ju
 conference: "Arxiv"
 year: 2023

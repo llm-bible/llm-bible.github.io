@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Black-Box Few-Shot Text Classification with Prompt-Based Data Augmentation
+title: Enhancing Black-box Few-shot Text Classification With Prompt-based Data Augmentation
 authors: Luo Danqing, Zhang Chen, Xu Jiahui, Wang Bin, Chen Yiming, Zhang Yan, Li Haizhou
 conference: "Arxiv"
 year: 2023

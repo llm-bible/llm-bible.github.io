@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Q Improving Multi-step Reasoning for LLMs with Deliberative Planning
+title: Q Improving Multi-step Reasoning For Llms With Deliberative Planning
 authors: Wang Chaojie, Deng Yanchen, Lyu Zhiyi, Zeng Liang, He Jujie, Yan Shuicheng, An Bo
 conference: "Arxiv"
 year: 2024

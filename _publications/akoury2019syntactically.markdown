@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Syntactically Supervised Transformers for Faster Neural Machine Translation
+title: Syntactically Supervised Transformers For Faster Neural Machine Translation
 authors: Akoury Nader, Krishna Kalpesh, Iyyer Mohit
 conference: "Association for Computational Linguistics"
 year: 2019

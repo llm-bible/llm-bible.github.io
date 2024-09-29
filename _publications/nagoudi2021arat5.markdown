@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AraT5 Text-to-Text Transformers for Arabic Language Generation
+title: Arat5 Text-to-text Transformers For Arabic Language Generation
 authors: Nagoudi El Moatez Billah, Elmadany Abdelrahim, Abdul-mageed Muhammad
 conference: "Arxiv"
 year: 2021

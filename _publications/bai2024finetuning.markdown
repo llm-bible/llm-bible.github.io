@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Finetuning Large Language Model for Personalized Ranking
+title: Finetuning Large Language Model For Personalized Ranking
 authors: Bai Zhuoxi, Wu Ning, Cai Fengyu, Zhu Xinyi, Xiong Yun
 conference: "Arxiv"
 year: 2024

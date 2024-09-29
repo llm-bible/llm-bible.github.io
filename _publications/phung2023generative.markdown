@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative AI for Programming Education Benchmarking ChatGPT GPT-4 and Human Tutors
+title: Generative AI For Programming Education Benchmarking Chatgpt GPT-4 And Human Tutors
 authors: Phung Tung, Pădurean Victor-alexandru, Cambronero José, Gulwani Sumit, Kohn Tobias, Majumdar Rupak, Singla Adish, Soares Gustavo
 conference: "Arxiv"
 year: 2023

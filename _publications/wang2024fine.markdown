@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-Grained Self-Endorsement Improves Factuality and Reasoning
+title: Fine-grained Self-endorsement Improves Factuality And Reasoning
 authors: Wang Ante, Song Linfeng, Peng Baolin, Tian Ye, Jin Lifeng, Mi Haitao, Su Jinsong, Yu Dong
 conference: "Arxiv"
 year: 2024

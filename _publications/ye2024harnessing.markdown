@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation
+title: Harnessing Multimodal Large Language Models For Multimodal Sequential Recommendation
 authors: Ye Yuyang, Zheng Zhi, Shen Yishan, Wang Tianshu, Zhang Hengruo, Zhu Peijun, Yu Runlong, Zhang Kai, Xiong Hui
 conference: "Arxiv"
 year: 2024

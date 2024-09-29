@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ParGo Bridging Vision-Language with Partial and Global Views
+title: Pargo Bridging Vision-language With Partial And Global Views
 authors: Wang An-lan, Shan Bin, Shi Wei, Lin Kun-yu, Fei Xiang, Tang Guozhi, Liao Lei, Tang Jingqun, Huang Can, Zheng Wei-shi
 conference: "Arxiv"
 year: 2024

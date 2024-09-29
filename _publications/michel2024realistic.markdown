@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Realistic Evaluation of LLMs for Quotation Attribution in Literary Texts A Case Study of LLaMa3
+title: A Realistic Evaluation Of Llms For Quotation Attribution In Literary Texts A Case Study Of Llama3
 authors: Michel Gaspard, Epure Elena V., Hennequin Romain, Cerisara Christophe
 conference: "Arxiv"
 year: 2024

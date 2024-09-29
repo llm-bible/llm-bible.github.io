@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring the Impact of Instruction Data Scaling on Large Language Models An Empirical Study on Real-World Use Cases
+title: Exploring The Impact Of Instruction Data Scaling On Large Language Models An Empirical Study On Real-world Use Cases
 authors: Ji Yunjie, Deng Yong, Gong Yan, Peng Yiping, Niu Qiang, Zhang Lei, Ma Baochang, Li Xiangang
 conference: "Arxiv"
 year: 2023

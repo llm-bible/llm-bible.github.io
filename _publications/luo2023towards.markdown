@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards LogiGLUE A Brief Survey and A Benchmark for Analyzing Logical Reasoning Capabilities of Language Models
+title: Towards Logiglue A Brief Survey And A Benchmark For Analyzing Logical Reasoning Capabilities Of Language Models
 authors: Luo Man, Kumbhar Shrinidhi, Shen Ming, Parmar Mihir, Varshney Neeraj, Banerjee Pratyay, Aditya Somak, Baral Chitta
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multilingual Large Language Models Are Not (Yet) Code-Switchers
+title: Multilingual Large Language Models Are Not (yet) Code-switchers
 authors: Zhang Ruochen, Cahyawijaya Samuel, Cruz Jan Christian Blaise, Winata Genta Indra, Aji Alham Fikri
 conference: "Arxiv"
 year: 2023

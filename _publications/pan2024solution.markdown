@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Solution for the AIGC Inference Performance Optimization Competition
+title: The Solution For The AIGC Inference Performance Optimization Competition
 authors: Pan Sishun, Xu Haonan, Wan Zhonghua, Yang Yang
 conference: "Arxiv"
 year: 2024

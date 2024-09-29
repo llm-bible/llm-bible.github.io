@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LoRETTA Low-Rank Economic Tensor-Train Adaptation for Ultra-Low-Parameter Fine-Tuning of Large Language Models
+title: Loretta Low-rank Economic Tensor-train Adaptation For Ultra-low-parameter Fine-tuning Of Large Language Models
 authors: Yang Yifan, Zhou Jiajun, Wong Ngai, Zhang Zheng
 conference: "Arxiv"
 year: 2024

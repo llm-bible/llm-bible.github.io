@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GPT-Fathom Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond
+title: Gpt-fathom Benchmarking Large Language Models To Decipher The Evolutionary Path Towards GPT-4 And Beyond
 authors: Zheng Shen, Zhang Yuyu, Zhu Yijie, Xi Chenguang, Gao Pengyang, Zhou Xun, Chang Kevin Chen-chuan
 conference: "Arxiv"
 year: 2023

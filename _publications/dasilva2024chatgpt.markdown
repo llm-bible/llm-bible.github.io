@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChatGPT vs LLaMA Impact Reliability and Challenges in Stack Overflow Discussions
+title: Chatgpt Vs Llama Impact Reliability And Challenges In Stack Overflow Discussions
 authors: Da Silva Leuson, Samhi Jordan, Khomh Foutse
 conference: "Arxiv"
 year: 2024

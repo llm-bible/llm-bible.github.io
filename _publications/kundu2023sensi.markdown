@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sensi-BERT Towards Sensitivity Driven Fine-Tuning for Parameter-Efficient BERT
+title: Sensi-bert Towards Sensitivity Driven Fine-tuning For Parameter-efficient BERT
 authors: Kundu Souvik, Sridhar Sharath Nittur, Szankin Maciej, Sundaresan Sairam
 conference: "Arxiv"
 year: 2023

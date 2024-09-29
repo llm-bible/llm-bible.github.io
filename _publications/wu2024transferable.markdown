@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transferable speech-to-text large language model alignment module
+title: Transferable Speech-to-text Large Language Model Alignment Module
 authors: Wu Boyong, Yan Chao, Pu Haoran
 conference: "Arxiv"
 year: 2024

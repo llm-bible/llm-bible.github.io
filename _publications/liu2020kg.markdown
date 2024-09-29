@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: KG-BART Knowledge Graph-Augmented BART for Generative Commonsense Reasoning
+title: KG-BART Knowledge Graph-augmented BART For Generative Commonsense Reasoning
 authors: Liu Ye, Wan Yao, He Lifang, Peng Hao, Yu Philip S.
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: 3DMIT 3D Multi-modal Instruction Tuning for Scene Understanding
+title: 3DMIT 3D Multi-modal Instruction Tuning For Scene Understanding
 authors: Li Zeju, Zhang Chao, Wang Xiaoyan, Ren Ruilong, Xu Yifan, Ma Ruifei, Liu Xiangde
 conference: "Arxiv"
 year: 2024

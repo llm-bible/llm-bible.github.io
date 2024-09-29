@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AbsPyramid Benchmarking the Abstraction Ability of Language Models with a Unified Entailment Graph
+title: Abspyramid Benchmarking The Abstraction Ability Of Language Models With A Unified Entailment Graph
 authors: Wang Zhaowei, Shi Haochen, Wang Weiqi, Fang Tianqing, Zhang Hongming, Choi Sehyun, Liu Xin, Song Yangqiu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models are Learnable Planners for Long-Term Recommendation
+title: Large Language Models Are Learnable Planners For Long-term Recommendation
 authors: Shi Wentao, He Xiangnan, Zhang Yang, Gao Chongming, Li Xinyue, Zhang Jizhi, Wang Qifan, Feng Fuli
 conference: "Arxiv"
 year: 2024

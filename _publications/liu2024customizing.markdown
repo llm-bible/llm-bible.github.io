@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Customizing Large Language Model Generation Style using Parameter-Efficient Finetuning
+title: Customizing Large Language Model Generation Style Using Parameter-efficient Finetuning
 authors: Liu Xinyue, Diddee Harshita, Ippolito Daphne
 conference: "Arxiv"
 year: 2024

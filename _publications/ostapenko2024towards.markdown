@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Modular LLMs by Building and Reusing a Library of LoRAs
+title: Towards Modular Llms By Building And Reusing A Library Of Loras
 authors: Ostapenko Oleksiy, Su Zhan, Ponti Edoardo Maria, Charlin Laurent, Roux Nicolas Le, Pereira Matheus, Caccia Lucas, Sordoni Alessandro
 conference: "Arxiv"
 year: 2024

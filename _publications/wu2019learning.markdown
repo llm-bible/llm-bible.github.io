@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning to Memorize in Neural Task-Oriented Dialogue Systems
+title: Learning To Memorize In Neural Task-oriented Dialogue Systems
 authors: Wu Chien-sheng
 conference: "Arxiv"
 year: 2019

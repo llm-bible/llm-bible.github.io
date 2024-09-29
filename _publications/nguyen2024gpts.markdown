@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GPTs and Language Barrier A Cross-Lingual Legal QA Examination
+title: Gpts And Language Barrier A Cross-lingual Legal QA Examination
 authors: Nguyen Ha-thanh, Yamada Hiroaki, Satoh Ken
 conference: "Arxiv"
 year: 2024

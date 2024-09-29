@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automatic Distractor Generation for Multiple Choice Questions in Standard Tests
+title: Automatic Distractor Generation For Multiple Choice Questions In Standard Tests
 authors: Qiu Zhaopeng, Wu Xian, Fan Wei
 conference: "Arxiv"
 year: 2020

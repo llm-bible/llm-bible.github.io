@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Neurosymbolic AI for Enhancing Instructability in Generative AI
+title: Neurosymbolic AI For Enhancing Instructability In Generative AI
 authors: Sheth Amit, Pallagani Vishal, Roy Kaushik
 conference: "Arxiv"
 year: 2024

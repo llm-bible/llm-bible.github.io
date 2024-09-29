@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On the Stability of Fine-tuning BERT Misconceptions Explanations and Strong Baselines
+title: On The Stability Of Fine-tuning BERT Misconceptions Explanations And Strong Baselines
 authors: Mosbach Marius, Andriushchenko Maksym, Klakow Dietrich
 conference: "Arxiv"
 year: 2020

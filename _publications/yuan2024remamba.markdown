@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ReMamba Equip Mamba with Effective Long-Sequence Modeling
+title: Remamba Equip Mamba With Effective Long-sequence Modeling
 authors: Yuan Danlong, Liu Jiahao, Li Bei, Zhang Huishuai, Wang Jingang, Cai Xunliang, Zhao Dongyan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Controllable Text Generation with Language Constraints
+title: Controllable Text Generation With Language Constraints
 authors: Chen Howard, Li Huihan, Chen Danqi, Narasimhan Karthik
 conference: "Arxiv"
 year: 2022

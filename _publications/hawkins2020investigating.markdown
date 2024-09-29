@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating representations of verb bias in neural language models
+title: Investigating Representations Of Verb Bias In Neural Language Models
 authors: Hawkins Robert D., Yamakoshi Takateru, Griffiths Thomas L., Goldberg Adele E.
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Resurrecting Recurrent Neural Networks for Long Sequences
+title: Resurrecting Recurrent Neural Networks For Long Sequences
 authors: Antonio Orvieto, Samuel L Smith, Albert Gu, Anushan Fernando, Caglar Gulcehre, Razvan Pascanu, Soham De
 conference: "Arxiv"
 year: 2023

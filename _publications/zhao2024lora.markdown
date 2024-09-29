@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LoRA Land 310 Fine-tuned LLMs that Rival GPT-4 A Technical Report
+title: Lora Land 310 Fine-tuned Llms That Rival GPT-4 A Technical Report
 authors: Zhao Justin, Wang Timothy, Abid Wael, Angus Geoffrey, Garg Arnav, Kinnison Jeffery, Sherstinsky Alex, Molino Piero, Addair Travis, Rishi Devvret
 conference: "Arxiv"
 year: 2024

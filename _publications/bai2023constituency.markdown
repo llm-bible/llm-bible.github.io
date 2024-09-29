@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Constituency Parsing using LLMs
+title: Constituency Parsing Using Llms
 authors: Bai Xuefeng, Wu Jialong, Chen Yulong, Wang Zhongqing, Zhang Yue
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Stabilizing Transformers for Reinforcement Learning
+title: Stabilizing Transformers For Reinforcement Learning
 authors: Parisotto Emilio, Song H. Francis, Rae Jack W., Pascanu Razvan, Gulcehre Caglar, Jayakumar Siddhant M., Jaderberg Max, Kaufman Raphael Lopez, Clark Aidan, Noury Seb, Botvinick Matthew M., Heess Nicolas, Hadsell Raia
 conference: "Arxiv"
 year: 2019

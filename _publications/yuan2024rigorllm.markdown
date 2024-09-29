@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RigorLLM Resilient Guardrails for Large Language Models against Undesired Content
+title: Rigorllm Resilient Guardrails For Large Language Models Against Undesired Content
 authors: Yuan Zhuowen, Xiong Zidi, Zeng Yi, Yu Ning, Jia Ruoxi, Song Dawn, Li Bo
 conference: "Arxiv"
 year: 2024

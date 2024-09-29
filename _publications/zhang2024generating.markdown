@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generating Chain-of-Thoughts with a Pairwise-Comparison Approach to Searching for the Most Promising Intermediate Thought
+title: Generating Chain-of-thoughts With A Pairwise-comparison Approach To Searching For The Most Promising Intermediate Thought
 authors: Zhang Zhen-yu, Han Siwei, Yao Huaxiu, Niu Gang, Sugiyama Masashi
 conference: "Arxiv"
 year: 2024

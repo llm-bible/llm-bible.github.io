@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TC-LLaVA Rethinking the Transfer from Image to Video Understanding with Temporal Considerations
+title: Tc-llava Rethinking The Transfer From Image To Video Understanding With Temporal Considerations
 authors: Gao Mingze, Liu Jingyu, Li Mingda, Xie Jiangtao, Liu Qingbin, Zhao Bo, Chen Xi, Xiong Hui
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Socratic Models Composing Zero-Shot Multimodal Reasoning with Language
+title: Socratic Models Composing Zero-shot Multimodal Reasoning With Language
 authors: Andy Zeng, Maria Attarian, Brian Ichter, Krzysztof Choromanski, Adrian Wong, Stefan Welker, Federico Tombari, Aveek Purohit, Michael Ryoo, Vikas Sindhwani, Johnny Lee, Vincent Vanhoucke, Pete Florence
 conference: "Arxiv"
 year: 2022

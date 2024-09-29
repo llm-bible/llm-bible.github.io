@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TrustGPT A Benchmark for Trustworthy and Responsible Large Language Models
+title: Trustgpt A Benchmark For Trustworthy And Responsible Large Language Models
 authors: Huang Yue, Zhang Qihui, Y Philip S., Sun Lichao
 conference: "Arxiv"
 year: 2023

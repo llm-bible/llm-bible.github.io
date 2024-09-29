@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SafeDecoding Defending against Jailbreak Attacks via Safety-Aware Decoding
+title: Safedecoding Defending Against Jailbreak Attacks Via Safety-aware Decoding
 authors: Xu Zhangchen, Jiang Fengqing, Niu Luyao, Jia Jinyuan, Lin Bill Yuchen, Poovendran Radha
 conference: "Arxiv"
 year: 2024

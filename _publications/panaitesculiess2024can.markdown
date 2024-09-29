@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Watermarking Large Language Models Prevent Copyrighted Text Generation and Hide Training Data
+title: Can Watermarking Large Language Models Prevent Copyrighted Text Generation And Hide Training Data
 authors: Panaitescu-liess Michael-andrei, Che Zora, An Bang, Xu Yuancheng, Pathmanathan Pankayaraj, Chakraborty Souradip, Zhu Sicheng, Goldstein Tom, Huang Furong
 conference: "Arxiv"
 year: 2024

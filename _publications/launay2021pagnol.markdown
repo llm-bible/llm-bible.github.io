@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PAGnol An Extra-Large French Generative Model
+title: Pagnol An Extra-large French Generative Model
 authors: Launay Julien, Tommasone Elena, Pannier Baptiste, Boniface François, Chatelain Amélie, Cappelli Alessandro, Poli Iacopo, Seddah Djamé
 conference: "Arxiv"
 year: 2021

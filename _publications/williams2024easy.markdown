@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Easy Problems That LLMs Get Wrong
+title: Easy Problems That Llms Get Wrong
 authors: Williams Sean, Huckle James
 conference: "Arxiv"
 year: 2024

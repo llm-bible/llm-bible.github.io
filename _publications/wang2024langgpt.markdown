@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LangGPT Rethinking Structured Reusable Prompt Design Framework for LLMs from the Programming Language
+title: Langgpt Rethinking Structured Reusable Prompt Design Framework For Llms From The Programming Language
 authors: Wang Ming, Liu Yuanzhong, Liang Xiaoyu, Li Songlian, Huang Yijie, Zhang Xiaoming, Shen Sijia, Guan Chaofeng, Wang Daling, Feng Shi, Zhang Huaiwen, Zhang Yifei, Zheng Minghui, Zhang Chi
 conference: "Arxiv"
 year: 2024

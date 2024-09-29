@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Portability Strategies for Open-domain Dialogue with Pre-trained Language Models from High to Low Resource Languages
+title: Language Portability Strategies For Open-domain Dialogue With Pre-trained Language Models From High To Low Resource Languages
 authors: Njifenjou Ahmed, Sucal Virgile, Jabaian Bassam, Lefèvre Fabrice
 conference: "Arxiv"
 year: 2024

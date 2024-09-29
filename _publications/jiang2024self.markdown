@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SELF-INCORRECT LLMs Struggle with Discriminating Self-Generated Responses
+title: SELF-INCORRECT Llms Struggle With Discriminating Self-generated Responses
 authors: Jiang Dongwei, Zhang Jingyu, Weller Orion, Weir Nathaniel, Van Durme Benjamin, Khashabi Daniel
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Conversational Abilities of Quantized Large Language Models via Direct Preference Alignment
+title: Improving Conversational Abilities Of Quantized Large Language Models Via Direct Preference Alignment
 authors: Lee Janghwan, Park Seongmin, Hong Sukjin, Kim Minsoo, Chang Du-seong, Choi Jungwook
 conference: "Arxiv"
 year: 2024

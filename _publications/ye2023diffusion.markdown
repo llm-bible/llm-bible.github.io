@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning
+title: Diffusion Language Models Can Perform Many Tasks With Scaling And Instruction-finetuning
 authors: Ye Jiasheng, Zheng Zaixiang, Bao Yu, Qian Lihua, Gu Quanquan
 conference: "Arxiv"
 year: 2023

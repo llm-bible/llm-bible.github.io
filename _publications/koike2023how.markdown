@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How You Prompt Matters! Even Task-Oriented Constraints in Instructions Affect LLM-Generated Text Detection
+title: How You Prompt Matters! Even Task-oriented Constraints In Instructions Affect Llm-generated Text Detection
 authors: Koike Ryuto, Kaneko Masahiro, Okazaki Naoaki
 conference: "Arxiv"
 year: 2023

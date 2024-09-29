@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PEFTT Parameter-Efficient Fine-Tuning for low-resource Tibetan pre-trained language models
+title: PEFTT Parameter-efficient Fine-tuning For Low-resource Tibetan Pre-trained Language Models
 authors: Mingjun Zhou, Zhuoma Daiqing, Nuo Qun, Tashi Nyima
 conference: "Arxiv"
 year: 2023

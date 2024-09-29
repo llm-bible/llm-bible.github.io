@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SpeechGPT-Gen Scaling Chain-of-Information Speech Generation
+title: Speechgpt-gen Scaling Chain-of-information Speech Generation
 authors: Zhang Dong, Zhang Xin, Zhan Jun, Li Shimin, Zhou Yaqian, Qiu Xipeng
 conference: "Arxiv"
 year: 2024

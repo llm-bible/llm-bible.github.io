@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Interactive Text-to-Image Retrieval with Large Language Models A Plug-and-Play Approach
+title: Interactive Text-to-image Retrieval With Large Language Models A Plug-and-play Approach
 authors: Lee Saehyung, Yu Sangwon, Park Junsung, Yi Jihun, Yoon Sungroh
 conference: "Arxiv"
 year: 2024

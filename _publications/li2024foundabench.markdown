@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FoundaBench Evaluating Chinese Fundamental Knowledge Capabilities of Large Language Models
+title: Foundabench Evaluating Chinese Fundamental Knowledge Capabilities Of Large Language Models
 authors: Li Wei, Ma Ren, Wu Jiang, Gu Chenya, Peng Jiahui, Len Jinyang, Zhang Songyang, Yan Hang, Lin Dahua, He Conghui
 conference: "Arxiv"
 year: 2024

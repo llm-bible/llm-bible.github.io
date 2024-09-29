@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning to Compare for Better Training and Evaluation of Open Domain Natural Language Generation Models
+title: Learning To Compare For Better Training And Evaluation Of Open Domain Natural Language Generation Models
 authors: Zhou Wangchunshu, Xu Ke
 conference: "Arxiv"
 year: 2020

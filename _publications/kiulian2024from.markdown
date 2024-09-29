@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Bytes to Borsch Fine-Tuning Gemma and Mistral for the Ukrainian Language Representation
+title: From Bytes To Borsch Fine-tuning Gemma And Mistral For The Ukrainian Language Representation
 authors: Kiulian Artur, Polishko Anton, Khandoga Mykola, Chubych Oryna, Connor Jack, Ravishankar Raghav, Shirawalmath Adarsh
 conference: "Arxiv"
 year: 2024

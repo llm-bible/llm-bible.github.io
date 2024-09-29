@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Crosslingual Capabilities and Knowledge Barriers in Multilingual Large Language Models
+title: Crosslingual Capabilities And Knowledge Barriers In Multilingual Large Language Models
 authors: Chua Lynn, Ghazi Badih, Huang Yangsibo, Kamath Pritish, Kumar Ravi, Manurangsi Pasin, Sinha Amer, Xie Chulin, Zhang Chiyuan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On the Benchmarking of LLMs for Open-Domain Dialogue Evaluation
+title: On The Benchmarking Of Llms For Open-domain Dialogue Evaluation
 authors: Mendonça John, Lavie Alon, Trancoso Isabel
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Synergy between Data and Multi-Modal Large Language Models A Survey from Co-Development Perspective
+title: The Synergy Between Data And Multi-modal Large Language Models A Survey From Co-development Perspective
 authors: Qin Zhen, Chen Daoyuan, Zhang Wenhao, Yao Liuyi, Huang Yilun, Ding Bolin, Li Yaliang, Deng Shuiguang
 conference: "Arxiv"
 year: 2024

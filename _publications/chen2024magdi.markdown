@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MAGDi Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models
+title: Magdi Structured Distillation Of Multi-agent Interaction Graphs Improves Reasoning In Smaller Language Models
 authors: Chen Justin Chih-yao, Saha Swarnadeep, Stengel-eskin Elias, Bansal Mohit
 conference: "Arxiv"
 year: 2024

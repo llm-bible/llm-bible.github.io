@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DiscoDVT Generating Long Text with Discourse-Aware Discrete Variational Transformer
+title: Discodvt Generating Long Text With Discourse-aware Discrete Variational Transformer
 authors: Ji Haozhe, Huang Minlie
 conference: "Arxiv"
 year: 2021

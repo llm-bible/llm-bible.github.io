@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-Introspective Decoding Alleviating Hallucinations for Large Vision-Language Models
+title: Self-introspective Decoding Alleviating Hallucinations For Large Vision-language Models
 authors: Huo Fushuo, Xu Wenchao, Zhang Zhong, Wang Haozhao, Chen Zhicheng, Zhao Peilin
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can We Trust AI-Generated Educational Content Comparative Analysis of Human and AI-Generated Learning Resources
+title: Can We Trust Ai-generated Educational Content Comparative Analysis Of Human And Ai-generated Learning Resources
 authors: Denny Paul, Khosravi Hassan, Hellas Arto, Leinonen Juho, Sarsa Sami
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Robots are Here Navigating the Generative AI Revolution in Computing Education
+title: The Robots Are Here Navigating The Generative AI Revolution In Computing Education
 authors: Prather James, Denny Paul, Leinonen Juho, Becker Brett A., Albluwi Ibrahim, Craig Michelle, Keuning Hieke, Kiesler Natalie, Kohn Tobias, Luxton-reilly Andrew, Macneil Stephen, Peterson Andrew, Pettit Raymond, Reeves Brent N., Savelka Jaromir
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Closer Look into Mixture-of-Experts in Large Language Models
+title: A Closer Look Into Mixture-of-experts In Large Language Models
 authors: Lo Ka Man, Huang Zeyu, Qiu Zihan, Wang Zili, Fu Jie
 conference: "Arxiv"
 year: 2024

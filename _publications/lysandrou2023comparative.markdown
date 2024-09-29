@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Comparative Analysis of Drug-GPT and ChatGPT LLMs for Healthcare Insights Evaluating Accuracy and Relevance in Patient and HCP Contexts
+title: Comparative Analysis Of Drug-gpt And Chatgpt Llms For Healthcare Insights Evaluating Accuracy And Relevance In Patient And HCP Contexts
 authors: Lysandrou Giorgos, Owen Roma English, Mursec Kirsty, Brun Grant Le, Fairley Elizabeth A. L.
 conference: "Arxiv"
 year: 2023

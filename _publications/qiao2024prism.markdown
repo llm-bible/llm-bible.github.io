@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prism A Framework for Decoupling and Assessing the Capabilities of VLMs
+title: Prism A Framework For Decoupling And Assessing The Capabilities Of Vlms
 authors: Qiao Yuxuan, Duan Haodong, Fang Xinyu, Yang Junming, Chen Lin, Zhang Songyang, Wang Jiaqi, Lin Dahua, Chen Kai
 conference: "Arxiv"
 year: 2024

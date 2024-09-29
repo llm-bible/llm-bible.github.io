@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning to Imagine Visually-Augmented Natural Language Generation
+title: Learning To Imagine Visually-augmented Natural Language Generation
 authors: Tang Tianyi, Chen Yushuo, Du Yifan, Li Junyi, Zhao Wayne Xin, Wen Ji-rong
 conference: "Arxiv"
 year: 2023

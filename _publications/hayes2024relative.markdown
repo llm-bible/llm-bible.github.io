@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Relative Value Biases in Large Language Models
+title: Relative Value Biases In Large Language Models
 authors: Hayes William M., Yax Nicolas, Palminteri Stefano
 conference: "Arxiv"
 year: 2024

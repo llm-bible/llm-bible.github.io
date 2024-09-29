@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ocassionally Secure A Comparative Analysis of Code Generation Assistants
+title: Ocassionally Secure A Comparative Analysis Of Code Generation Assistants
 authors: Elgedawy Ran, Sadik John, Dutta Senjuti, Gautam Anuj, Georgiou Konstantinos, Gholamrezae Farzin, Ji Fujiao, Lim Kyungchan, Liu Qian, Ruoti Scott
 conference: "Arxiv"
 year: 2024

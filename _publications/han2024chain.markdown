@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chain-of-Interaction Enhancing Large Language Models for Psychiatric Behavior Understanding by Dyadic Contexts
+title: Chain-of-interaction Enhancing Large Language Models For Psychiatric Behavior Understanding By Dyadic Contexts
 authors: Han Guangzeng, Liu Weisi, Huang Xiaolei, Borsari Brian
 conference: "Arxiv"
 year: 2024

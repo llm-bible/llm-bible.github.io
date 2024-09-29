@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative Pretrained Structured Transformers Unsupervised Syntactic Language Models at Scale
+title: Generative Pretrained Structured Transformers Unsupervised Syntactic Language Models At Scale
 authors: Hu Xiang, Ji Pengyu, Zhu Qingyang, Wu Wei, Tu Kewei
 conference: "Arxiv"
 year: 2024

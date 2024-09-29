@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Math Multiple Choice Question Generation via Human-Large Language Model Collaboration
+title: Math Multiple Choice Question Generation Via Human-large Language Model Collaboration
 authors: Lee Jaewook, Smith Digory, Woodhead Simon, Lan Andrew
 conference: "Arxiv"
 year: 2024

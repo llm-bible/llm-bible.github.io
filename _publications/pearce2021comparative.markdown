@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Comparative Study of Transformer-Based Language Models on Extractive Question Answering
+title: A Comparative Study Of Transformer-based Language Models On Extractive Question Answering
 authors: Pearce Kate, Zhan Tiffany, Komanduri Aneesh, Zhan Justin
 conference: "Arxiv"
 year: 2021

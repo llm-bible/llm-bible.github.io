@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Human-Like Translation Strategy with Large Language Models
+title: Exploring Human-like Translation Strategy With Large Language Models
 authors: Zhiwei He, Tian Liang, Wenxiang Jiao, Zhuosheng Zhang, Yujiu Yang, Rui Wang, Zhaopeng Tu, Shuming Shi, Xing Wang
 conference: "Arxiv"
 year: 2023

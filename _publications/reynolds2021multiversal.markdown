@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multiversal views on language models
+title: Multiversal Views On Language Models
 authors: Reynolds Laria, Mcdonell Kyle
 conference: "Arxiv"
 year: 2021

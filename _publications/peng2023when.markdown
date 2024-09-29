@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: When does In-context Learning Fall Short and Why A Study on Specification-Heavy Tasks
+title: When Does In-context Learning Fall Short And Why A Study On Specification-heavy Tasks
 authors: Peng Hao, Wang Xiaozhi, Chen Jianhui, Li Weikai, Qi Yunjia, Wang Zimu, Wu Zhili, Zeng Kaisheng, Xu Bin, Hou Lei, Li Juanzi
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GISTEmbed Guided In-sample Selection of Training Negatives for Text Embedding Fine-tuning
+title: Gistembed Guided In-sample Selection Of Training Negatives For Text Embedding Fine-tuning
 authors: Solatorio Aivin V.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sketch-Guided Constrained Decoding for Boosting Blackbox Large Language Models without Logit Access
+title: Sketch-guided Constrained Decoding For Boosting Blackbox Large Language Models Without Logit Access
 authors: Geng Saibo, Döner Berkay, Wendler Chris, Josifoski Martin, West Robert
 conference: "Arxiv"
 year: 2024

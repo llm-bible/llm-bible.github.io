@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding the Learning Dynamics of Alignment with Human Feedback
+title: Understanding The Learning Dynamics Of Alignment With Human Feedback
 authors: Im Shawn, Li Yixuan
 conference: "Arxiv"
 year: 2024

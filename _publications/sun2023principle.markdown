@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision
+title: Principle-driven Self-alignment Of Language Models From Scratch With Minimal Human Supervision
 authors: Zhiqing Sun, Yikang Shen, Qinhong Zhou, Hongxin Zhang, Zhenfang Chen, David Cox, Yiming Yang, Chuang Gan
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Measuring memorization in RLHF for code completion
+title: Measuring Memorization In RLHF For Code Completion
 authors: Pappu Aneesh, Porter Billy, Shumailov Ilia, Hayes Jamie
 conference: "Arxiv"
 year: 2024

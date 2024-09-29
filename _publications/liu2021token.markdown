@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Token-level Reference-free Hallucination Detection Benchmark for Free-form Text Generation
+title: A Token-level Reference-free Hallucination Detection Benchmark For Free-form Text Generation
 authors: Liu Tianyu, Zhang Yizhe, Brockett Chris, Mao Yi, Sui Zhifang, Chen Weizhu, Dolan Bill
 conference: "Arxiv"
 year: 2021

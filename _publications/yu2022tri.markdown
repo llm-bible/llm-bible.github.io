@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tri-Attention Explicit Context-Aware Attention Mechanism for Natural Language Processing
+title: Tri-attention Explicit Context-aware Attention Mechanism For Natural Language Processing
 authors: Yu Rui, Li Yifeng, Lu Wenpeng, Cao Longbing
 conference: "Arxiv"
 year: 2022

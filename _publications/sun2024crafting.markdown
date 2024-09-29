@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Crafting Large Language Models for Enhanced Interpretability
+title: Crafting Large Language Models For Enhanced Interpretability
 authors: Sun Chung-en, Oikarinen Tuomas, Weng Tsui-wei
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring the Limits of Domain-Adaptive Training for Detoxifying Large-Scale Language Models
+title: Exploring The Limits Of Domain-adaptive Training For Detoxifying Large-scale Language Models
 authors: Wang Boxin, Ping Wei, Xiao Chaowei, Xu Peng, Patwary Mostofa, Shoeybi Mohammad, Li Bo, Anandkumar Anima, Catanzaro Bryan
 conference: "Arxiv"
 year: 2022

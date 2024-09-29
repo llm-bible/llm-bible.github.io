@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Active Label Correction for Building LLM-based Modular AI Systems
+title: Active Label Correction For Building Llm-based Modular AI Systems
 authors: Taneja Karan, Goel Ashok
 conference: "Arxiv"
 year: 2024

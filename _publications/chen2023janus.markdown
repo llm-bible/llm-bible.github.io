@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Janus Interface How Fine-Tuning in Large Language Models Amplifies the Privacy Risks
+title: The Janus Interface How Fine-tuning In Large Language Models Amplifies The Privacy Risks
 authors: Chen Xiaoyi, Tang Siyuan, Zhu Rui, Yan Shijun, Jin Lei, Wang Zihao, Su Liya, Zhang Zhikun, Wang Xiaofeng, Tang Haixu
 conference: "ACM CCS"
 year: 2023

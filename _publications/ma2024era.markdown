@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Era of 1-bit LLMs All Large Language Models are in 1.58 Bits
+title: The Era Of 1-bit Llms All Large Language Models Are In 1.58 Bits
 authors: Ma Shuming, Wang Hongyu, Ma Lingxiao, Wang Lei, Wang Wenhui, Huang Shaohan, Dong Li, Wang Ruiping, Xue Jilong, Wei Furu
 conference: "Arxiv"
 year: 2024

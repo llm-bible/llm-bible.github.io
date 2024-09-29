@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Comprehensive Analysis of the Effectiveness of Large Language Models as Automatic Dialogue Evaluators
+title: A Comprehensive Analysis Of The Effectiveness Of Large Language Models As Automatic Dialogue Evaluators
 authors: Zhang Chen, D'haro Luis Fernando, Chen Yiming, Zhang Malu, Li Haizhou
 conference: "Arxiv"
 year: 2023

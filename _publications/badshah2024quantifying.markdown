@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Quantifying the Capabilities of LLMs across Scale and Precision
+title: Quantifying The Capabilities Of Llms Across Scale And Precision
 authors: Badshah Sher, Sajjad Hassan
 conference: "Arxiv"
 year: 2024

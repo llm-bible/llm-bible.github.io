@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Effectively Fine-tune to Improve Large Multimodal Models for Radiology Report Generation
+title: Effectively Fine-tune To Improve Large Multimodal Models For Radiology Report Generation
 authors: Lu Yuzhe, Hong Sungmin, Shah Yash, Xu Panpan
 conference: "Arxiv"
 year: 2023

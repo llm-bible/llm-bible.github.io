@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Summarization is (Almost) Dead
+title: Summarization Is (almost) Dead
 authors: Pu Xiao, Gao Mingqi, Wan Xiaojun
 conference: "Arxiv"
 year: 2023

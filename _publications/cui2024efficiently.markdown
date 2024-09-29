@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficiently Exploring Large Language Models for Document-Level Machine Translation with In-context Learning
+title: Efficiently Exploring Large Language Models For Document-level Machine Translation With In-context Learning
 authors: Cui Menglong, Du Jiangcun, Zhu Shaolin, Xiong Deyi
 conference: "Arxiv"
 year: 2024

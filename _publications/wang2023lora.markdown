@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LoRA ensembles for large language model fine-tuning
+title: Lora Ensembles For Large Language Model Fine-tuning
 authors: Wang Xi, Aitchison Laurence, Rudolph Maja
 conference: "Arxiv"
 year: 2023

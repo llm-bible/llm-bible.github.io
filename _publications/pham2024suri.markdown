@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Suri Multi-constraint Instruction Following for Long-form Text Generation
+title: Suri Multi-constraint Instruction Following For Long-form Text Generation
 authors: Pham Chau Minh, Sun Simeng, Iyyer Mohit
 conference: "Arxiv"
 year: 2024

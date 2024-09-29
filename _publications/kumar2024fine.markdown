@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-Tuning Quantization and LLMs Navigating Unintended Outcomes
+title: Fine-tuning Quantization And Llms Navigating Unintended Outcomes
 authors: Kumar Divyanshu, Kumar Anurakt, Agarwal Sahil, Harshangi Prashanth
 conference: "Arxiv"
 year: 2024

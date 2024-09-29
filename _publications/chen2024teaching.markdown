@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Teaching Large Language Models to Express Knowledge Boundary from Their Own Signals
+title: Teaching Large Language Models To Express Knowledge Boundary From Their Own Signals
 authors: Chen Lida, Liang Zujie, Wang Xintao, Liang Jiaqing, Xiao Yanghua, Wei Feng, Chen Jinglei, Hao Zhenghong, Han Bing, Wang Wei
 conference: "Arxiv"
 year: 2024

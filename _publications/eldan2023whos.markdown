@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Whos Harry Potter Approximate Unlearning in alms
+title: Whos Harry Potter Approximate Unlearning In Llms
 authors: Eldan Ronen, Russinovich Mark
 conference: "Arxiv"
 year: 2023

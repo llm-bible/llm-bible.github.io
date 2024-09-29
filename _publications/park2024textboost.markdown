@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TextBoost Towards One-Shot Personalization of Text-to-Image Models via Fine-tuning Text Encoder
+title: Textboost Towards One-shot Personalization Of Text-to-image Models Via Fine-tuning Text Encoder
 authors: Park Nahyeon, Kim Kunhee, Shim Hyunjung
 conference: "Arxiv"
 year: 2024

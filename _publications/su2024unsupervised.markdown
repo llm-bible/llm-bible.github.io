@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unsupervised Real-Time Hallucination Detection based on the Internal States of Large Language Models
+title: Unsupervised Real-time Hallucination Detection Based On The Internal States Of Large Language Models
 authors: Su Weihang, Wang Changyue, Ai Qingyao, Hu Yiran, Wu Zhijing, Zhou Yujia, Liu Yiqun
 conference: "Arxiv"
 year: 2024

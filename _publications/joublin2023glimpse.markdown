@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Glimpse in ChatGPT Capabilities and its impact for AI research
+title: A Glimpse In Chatgpt Capabilities And Its Impact For AI Research
 authors: Joublin Frank, Ceravola Antonello, Deigmoeller Joerg, Gienger Michael, Franzius Mathias, Eggert Julian
 conference: "Arxiv"
 year: 2023

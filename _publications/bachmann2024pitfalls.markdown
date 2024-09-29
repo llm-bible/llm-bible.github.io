@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The pitfalls of next-token prediction
+title: The Pitfalls Of Next-token Prediction
 authors: Bachmann Gregor, Nagarajan Vaishnavh
 conference: "Arxiv"
 year: 2024

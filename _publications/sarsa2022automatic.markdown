@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automatic Generation of Programming Exercises and Code Explanations using Large Language Models
+title: Automatic Generation Of Programming Exercises And Code Explanations Using Large Language Models
 authors: Sarsa Sami, Denny Paul, Hellas Arto, Leinonen Juho
 conference: "Arxiv"
 year: 2022

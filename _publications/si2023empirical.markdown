@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Empirical Study of Instruction-tuning Large Language Models in Chinese
+title: An Empirical Study Of Instruction-tuning Large Language Models In Chinese
 authors: Si Qingyi, Wang Tong, Lin Zheng, Zhang Xu, Cao Yanan, Wang Weiping
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding the Role of Cross-Entropy Loss in Fairly Evaluating Large Language Model-based Recommendation
+title: Understanding The Role Of Cross-entropy Loss In Fairly Evaluating Large Language Model-based Recommendation
 authors: Xu Cong, Zhu Zhangchi, Wang Jun, Wang Jianyong, Zhang Wei
 conference: "Arxiv"
 year: 2024

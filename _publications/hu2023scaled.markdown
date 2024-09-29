@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scaled Prompt-Tuning for Few-Shot Natural Language Generation
+title: Scaled Prompt-tuning For Few-shot Natural Language Generation
 authors: Hu Ting, Meinel Christoph, Yang Haojin
 conference: "Arxiv"
 year: 2023

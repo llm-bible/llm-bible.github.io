@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MUFFIN Curating Multi-Faceted Instructions for Improving Instruction-Following
+title: MUFFIN Curating Multi-faceted Instructions For Improving Instruction-following
 authors: Lou Renze, Zhang Kai, Xie Jian, Sun Yuxuan, Ahn Janice, Xu Hanzi, Su Yu, Yin Wenpeng
 conference: "Arxiv"
 year: 2023

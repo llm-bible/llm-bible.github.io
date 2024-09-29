@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ILuvUI Instruction-tuned LangUage-Vision modeling of UIs from Machine Conversations
+title: Iluvui Instruction-tuned Language-vision Modeling Of Uis From Machine Conversations
 authors: Jiang Yue, Schoop Eldon, Swearngin Amanda, Nichols Jeffrey
 conference: "Arxiv"
 year: 2023

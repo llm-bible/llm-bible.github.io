@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Diverse and Fine-Grained Instruction-Following Ability Exploration with Synthetic Data
+title: Diverse And Fine-grained Instruction-following Ability Exploration With Synthetic Data
 authors: Gu Zihui, Sun Xingwu, Lian Fengzong, Kang Zhanhui, Xu Cheng-zhong, Fan Ju
 conference: "AAAI"
 year: 2024

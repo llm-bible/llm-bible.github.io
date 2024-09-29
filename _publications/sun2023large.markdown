@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models for Intent-Driven Session Recommendations
+title: Large Language Models For Intent-driven Session Recommendations
 authors: Sun Zhu, Liu Hongyang, Qu Xinghua, Feng Kaidong, Wang Yan, Ong Yew-soon
 conference: "Arxiv"
 year: 2023

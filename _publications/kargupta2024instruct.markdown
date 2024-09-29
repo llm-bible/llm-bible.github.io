@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instruct Not Assist LLM-based Multi-Turn Planning and Hierarchical Questioning for Socratic Code Debugging
+title: Instruct Not Assist Llm-based Multi-turn Planning And Hierarchical Questioning For Socratic Code Debugging
 authors: Kargupta Priyanka, Agarwal Ishika, Hakkani-tur Dilek, Han Jiawei
 conference: "Arxiv"
 year: 2024

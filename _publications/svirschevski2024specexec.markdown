@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SpecExec Massively Parallel Speculative Decoding for Interactive LLM Inference on Consumer Devices
+title: Specexec Massively Parallel Speculative Decoding For Interactive LLM Inference On Consumer Devices
 authors: Svirschevski Ruslan, May Avner, Chen Zhuoming, Chen Beidi, Jia Zhihao, Ryabinin Max
 conference: "Arxiv"
 year: 2024

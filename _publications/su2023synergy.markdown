@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Synergy of Speculative Decoding and Batching in Serving Large Language Models
+title: The Synergy Of Speculative Decoding And Batching In Serving Large Language Models
 authors: Su Qidong, Giannoula Christina, Pekhimenko Gennady
 conference: "Arxiv"
 year: 2023

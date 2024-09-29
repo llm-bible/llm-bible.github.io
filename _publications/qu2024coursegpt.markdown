@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CourseGPT-zh an Educational Large Language Model Based on Knowledge Distillation Incorporating Prompt Optimization
+title: Coursegpt-zh An Educational Large Language Model Based On Knowledge Distillation Incorporating Prompt Optimization
 authors: Qu Zheyan, Yin Lu, Yu Zitong, Wang Wenbo, Zhang Xing
 conference: "Arxiv"
 year: 2024

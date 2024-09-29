@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MerlinEmpowering Multimodal LLMs with Foresight Minds
+title: Merlinempowering Multimodal Llms With Foresight Minds
 authors: Yu En, Zhao Liang, Wei Yana, Yang Jinrong, Wu Dongming, Kong Lingyu, Wei Haoran, Wang Tiancai, Ge Zheng, Zhang Xiangyu, Tao Wenbing
 conference: "Arxiv"
 year: 2023

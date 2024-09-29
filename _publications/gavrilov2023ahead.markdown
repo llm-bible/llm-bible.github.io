@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ahead-of-Time P-Tuning
+title: Ahead-of-time P-tuning
 authors: Gavrilov Daniil, Balagansky Nikita
 conference: "Arxiv"
 year: 2023

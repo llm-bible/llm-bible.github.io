@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Visually Guided Generative Text-Layout Pre-training for Document Intelligence
+title: Visually Guided Generative Text-layout Pre-training For Document Intelligence
 authors: Mao Zhiming, Bai Haoli, Hou Lu, Wei Jiansheng, Jiang Xin, Liu Qun, Wong Kam-fai
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AI and Education An Investigation into the Use of ChatGPT for Systems Thinking
+title: AI And Education An Investigation Into The Use Of Chatgpt For Systems Thinking
 authors: Arndt Holger
 conference: "Arxiv"
 year: 2023

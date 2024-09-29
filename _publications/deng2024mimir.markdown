@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MIMIR A Streamlined Platform for Personalized Agent Tuning in Domain Expertise
+title: MIMIR A Streamlined Platform For Personalized Agent Tuning In Domain Expertise
 authors: Deng Chunyuan, Tang Xiangru, Zhao Yilun, Wang Hanming, Wang Haoran, Zhou Wangchunshu, Cohan Arman, Gerstein Mark
 conference: "Arxiv"
 year: 2024

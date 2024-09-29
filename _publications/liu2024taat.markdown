@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TAAT Enhancing Task-Oriented Dialog with Turn-Level Auxiliary Tasks and Action-Tree Based Scheduled Sampling
+title: Taamp;at Enhancing Task-oriented Dialog With Turn-level Auxiliary Tasks And Action-tree Based Scheduled Sampling
 authors: Liu Longxiang, Li Xiuxing, Feng Yang
 conference: "Arxiv"
 year: 2024

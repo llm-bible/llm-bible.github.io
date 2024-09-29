@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rethinking LLM Memorization through the Lens of Adversarial Compression
+title: Rethinking LLM Memorization Through The Lens Of Adversarial Compression
 authors: Schwarzschild Avi, Feng Zhili, Maini Pratyush, Lipton Zachary C., Kolter J. Zico
 conference: "Arxiv"
 year: 2024

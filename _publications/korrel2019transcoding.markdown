@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transcoding compositionally using attention to find more generalizable solutions
+title: Transcoding Compositionally Using Attention To Find More Generalizable Solutions
 authors: Korrel Kris, Hupkes Dieuwke, Dankers Verna, Bruni Elia
 conference: "Arxiv"
 year: 2019

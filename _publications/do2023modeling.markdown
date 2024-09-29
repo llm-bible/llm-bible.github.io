@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Modeling What-to-ask and How-to-ask for Answer-unaware Conversational Question Generation
+title: Modeling What-to-ask And How-to-ask For Answer-unaware Conversational Question Generation
 authors: Do Xuan Long, Zou Bowei, Joty Shafiq, Tran Anh Tai, Pan Liangming, Chen Nancy F., Aw Ai Ti
 conference: "Arxiv"
 year: 2023

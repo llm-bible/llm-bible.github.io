@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-Evaluation Improves Selective Generation in Large Language Models
+title: Self-evaluation Improves Selective Generation In Large Language Models
 authors: Ren Jie, Zhao Yao, Vu Tu, Liu Peter J., Lakshminarayanan Balaji
 conference: "Arxiv"
 year: 2023

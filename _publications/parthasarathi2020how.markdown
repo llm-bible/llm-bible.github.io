@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How To Evaluate Your Dialogue System Probe Tasks as an Alternative for Token-level Evaluation Metrics
+title: How To Evaluate Your Dialogue System Probe Tasks As An Alternative For Token-level Evaluation Metrics
 authors: Parthasarathi Prasanna, Pineau Joelle, Chandar Sarath
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Good Questions Help Zero-Shot Image Reasoning
+title: Good Questions Help Zero-shot Image Reasoning
 authors: Yang Kaiwen, Shen Tao, Tian Xinmei, Geng Xiubo, Tao Chongyang, Tao Dacheng, Zhou Tianyi
 conference: "Arxiv"
 year: 2023

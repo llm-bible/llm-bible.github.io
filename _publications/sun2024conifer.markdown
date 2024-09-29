@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Conifer Improving Complex Constrained Instruction-Following Ability of Large Language Models
+title: Conifer Improving Complex Constrained Instruction-following Ability Of Large Language Models
 authors: Sun Haoran, Liu Lixin, Li Junjie, Wang Fengyu, Dong Baohua, Lin Ran, Huang Ruohui
 conference: "Arxiv"
 year: 2024

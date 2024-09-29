@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hierarchical GPT with Congruent Transformers for Multi-Sentence Language Models
+title: Hierarchical GPT With Congruent Transformers For Multi-sentence Language Models
 authors: Roh Jihyeon, Gim Huiseong, Lee Soo-young
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EGCR Explanation Generation for Conversational Recommendation
+title: EGCR Explanation Generation For Conversational Recommendation
 authors: Wen Bingbing, Bu Xiaoning, Shah Chirag
 conference: "Arxiv"
 year: 2022

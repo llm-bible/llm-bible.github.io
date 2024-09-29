@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: OneLLM One Framework to Align All Modalities with Language
+title: Onellm One Framework To Align All Modalities With Language
 authors: Han Jiaming, Gong Kaixiong, Zhang Yiyuan, Wang Jiaqi, Zhang Kaipeng, Lin Dahua, Qiao Yu, Gao Peng, Yue Xiangyu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: nmT5 -- Is parallel data still relevant for pre-training massively multilingual language models
+title: Nmt5 -- Is Parallel Data Still Relevant For Pre-training Massively Multilingual Language Models
 authors: Kale Mihir, Siddhant Aditya, Constant Noah, Johnson Melvin, Al-rfou Rami, Xue Linting
 conference: "Arxiv"
 year: 2021

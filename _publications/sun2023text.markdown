@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Text Classification via Large Language Models
+title: Text Classification Via Large Language Models
 authors: Sun Xiaofei, Li Xiaoya, Li Jiwei, Wu Fei, Guo Shangwei, Zhang Tianwei, Wang Guoyin
 conference: "Arxiv"
 year: 2023

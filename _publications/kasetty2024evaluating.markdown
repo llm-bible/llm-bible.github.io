@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Interventional Reasoning Capabilities of Large Language Models
+title: Evaluating Interventional Reasoning Capabilities Of Large Language Models
 authors: Kasetty Tejas, Mahajan Divyat, Dziugaite Gintare Karolina, Drouin Alexandre, Sridhar Dhanya
 conference: "Arxiv"
 year: 2024

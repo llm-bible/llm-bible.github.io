@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dial-MAE ConTextual Masked Auto-Encoder for Retrieval-based Dialogue Systems
+title: Dial-mae Contextual Masked Auto-encoder For Retrieval-based Dialogue Systems
 authors: Su Zhenpeng, Wu Xing, Zhou Wei, Ma Guangyuan, Hu Songlin
 conference: "Arxiv"
 year: 2023

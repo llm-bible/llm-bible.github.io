@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EVE Efficient Vision-Language Pre-training with Masked Prediction and Modality-Aware MoE
+title: EVE Efficient Vision-language Pre-training With Masked Prediction And Modality-aware Moe
 authors: Chen Junyi, Guo Longteng, Sun Jia, Shao Shuai, Yuan Zehuan, Lin Liang, Zhang Dongyu
 conference: "Arxiv"
 year: 2023

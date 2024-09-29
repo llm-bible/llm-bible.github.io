@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning
+title: Self-distillation Bridges Distribution Gap In Language Model Fine-tuning
 authors: Yang Zhaorui, Pang Tianyu, Feng Haozhe, Wang Han, Chen Wei, Zhu Minfeng, Liu Qian
 conference: "Arxiv"
 year: 2024

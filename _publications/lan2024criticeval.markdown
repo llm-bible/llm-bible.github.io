@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CriticEval Evaluating Large Language Model as Critic
+title: Criticeval Evaluating Large Language Model As Critic
 authors: Lan Tian, Zhang Wenwei, Xu Chen, Huang Heyan, Lin Dahua, Chen Kai, Mao Xian-ling
 conference: "Arxiv"
 year: 2024

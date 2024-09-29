@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CommonGen A Constrained Text Generation Challenge for Generative Commonsense Reasoning
+title: Commongen A Constrained Text Generation Challenge For Generative Commonsense Reasoning
 authors: Lin Bill Yuchen, Zhou Wangchunshu, Shen Ming, Zhou Pei, Bhagavatula Chandra, Choi Yejin, Ren Xiang
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enterprise to Computer Star Trek chatbot
+title: Enterprise To Computer Star Trek Chatbot
 authors: Jena Grishma, Vashisht Mansi, Basu Abheek, Ungar Lyle, Sedoc João
 conference: "Arxiv"
 year: 2017

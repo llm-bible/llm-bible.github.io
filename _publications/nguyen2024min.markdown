@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Min P Sampling Balancing Creativity and Coherence at High Temperature
+title: Min P Sampling Balancing Creativity And Coherence At High Temperature
 authors: Nguyen Minh, Baker Andrew, Kirsch Andreas, Neo Clement
 conference: "Arxiv"
 year: 2024

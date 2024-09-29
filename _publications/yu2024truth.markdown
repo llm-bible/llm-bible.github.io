@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Truth-Aware Context Selection Mitigating Hallucinations of Large Language Models Being Misled by Untruthful Contexts
+title: Truth-aware Context Selection Mitigating Hallucinations Of Large Language Models Being Misled By Untruthful Contexts
 authors: Yu Tian, Zhang Shaolei, Feng Yang
 conference: "Arxiv"
 year: 2024

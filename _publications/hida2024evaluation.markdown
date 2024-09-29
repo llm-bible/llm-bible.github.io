@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluation of Instruction-Following Ability for Large Language Models on Story-Ending Generation
+title: Evaluation Of Instruction-following Ability For Large Language Models On Story-ending Generation
 authors: Hida Rem, Ohmura Junki, Sekiya Toshiyuki
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating ChatGPT and GPT-4 for Visual Programming
+title: Evaluating Chatgpt And GPT-4 For Visual Programming
 authors: Singla Adish
 conference: "Arxiv"
 year: 2023

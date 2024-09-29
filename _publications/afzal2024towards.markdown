@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Optimizing and Evaluating a Retrieval Augmented QA Chatbot using LLMs with Human in the Loop
+title: Towards Optimizing And Evaluating A Retrieval Augmented QA Chatbot Using Llms With Human In The Loop
 authors: Afzal Anum, Kowsik Alexander, Fani Rajna, Matthes Florian
 conference: "Arxiv"
 year: 2024

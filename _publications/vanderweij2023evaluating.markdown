@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Shutdown Avoidance of Language Models in Textual Scenarios
+title: Evaluating Shutdown Avoidance Of Language Models In Textual Scenarios
 authors: Van Der Weij Teun, Lermen Simon, Lang Leon
 conference: "Arxiv"
 year: 2023

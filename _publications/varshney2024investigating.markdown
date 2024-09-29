@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating and Addressing Hallucinations of LLMs in Tasks Involving Negation
+title: Investigating And Addressing Hallucinations Of Llms In Tasks Involving Negation
 authors: Varshney Neeraj, Raj Satyam, Mishra Venkatesh, Chatterjee Agneet, Sarkar Ritika, Saeidi Amir, Baral Chitta
 conference: "Arxiv"
 year: 2024

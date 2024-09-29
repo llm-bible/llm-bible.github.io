@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A review on the use of large language models as virtual tutors
+title: A Review On The Use Of Large Language Models As Virtual Tutors
 authors: García-méndez Silvia, De Arriba-pérez Francisco, Somoza-lópez María Del Carmen
 conference: "Science Education"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Empower Nested Boolean Logic via Self-Supervised Curriculum Learning
+title: Empower Nested Boolean Logic Via Self-supervised Curriculum Learning
 authors: Wu Hongqiu, Liu Linfeng, Zhao Hai, Zhang Min
 conference: "Arxiv"
 year: 2023

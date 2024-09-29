@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rethinking embedding coupling in pre-trained language models
+title: Rethinking Embedding Coupling In Pre-trained Language Models
 authors: Chung Hyung Won, Févry Thibault, Tsai Henry, Johnson Melvin, Ruder Sebastian
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Novel Paradigm Boosting Translation Capabilities of Large Language Models
+title: A Novel Paradigm Boosting Translation Capabilities Of Large Language Models
 authors: Guo Jiaxin, Yang Hao, Li Zongyao, Wei Daimeng, Shang Hengchao, Chen Xiaoyu
 conference: "Arxiv"
 year: 2024

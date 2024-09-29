@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TouchStone Evaluating Vision-Language Models by Language Models
+title: Touchstone Evaluating Vision-language Models By Language Models
 authors: Bai Shuai, Yang Shusheng, Bai Jinze, Wang Peng, Zhang Xingxuan, Lin Junyang, Wang Xinggang, Zhou Chang, Zhou Jingren
 conference: "Arxiv"
 year: 2023

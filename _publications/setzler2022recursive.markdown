@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recursive Decoding A Situated Cognition Approach to Compositional Generation in Grounded Language Understanding
+title: Recursive Decoding A Situated Cognition Approach To Compositional Generation In Grounded Language Understanding
 authors: Setzler Matthew, Howland Scott, Phillips Lauren
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: QUILL Query Intent with Large Language Models using Retrieval Augmentation and Multi-stage Distillation
+title: QUILL Query Intent With Large Language Models Using Retrieval Augmentation And Multi-stage Distillation
 authors: Srinivasan Krishna, Raman Karthik, Samanta Anupam, Liao Lingrui, Bertelli Luca, Bendersky Mike
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-Grained Human Feedback Gives Better Rewards for Language Model Training
+title: Fine-grained Human Feedback Gives Better Rewards For Language Model Training
 authors: Wu Zeqiu, Hu Yushi, Shi Weijia, Dziri Nouha, Suhr Alane, Ammanabrolu Prithviraj, Smith Noah A., Ostendorf Mari, Hajishirzi Hannaneh
 conference: "Arxiv"
 year: 2023

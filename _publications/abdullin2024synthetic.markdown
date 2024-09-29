@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Synthetic Dialogue Dataset Generation using LLM Agents
+title: Synthetic Dialogue Dataset Generation Using LLM Agents
 authors: Abdullin Yelaman, Molla-aliod Diego, Ofoghi Bahadorreza, Yearwood John, Li Qingyang
 conference: "Arxiv"
 year: 2024

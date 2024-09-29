@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Making the Most of your Model Methods for Finetuning and Applying Pretrained Transformers
+title: Making The Most Of Your Model Methods For Finetuning And Applying Pretrained Transformers
 authors: Yoshida Davis
 conference: "Arxiv"
 year: 2024

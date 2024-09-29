@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Open-Domain Text Evaluation via Contrastive Distribution Methods
+title: Open-domain Text Evaluation Via Contrastive Distribution Methods
 authors: Lu Sidi, Liu Hongyi, Celikyilmaz Asli, Wang Tianlu, Peng Nanyun
 conference: "Arxiv"
 year: 2023

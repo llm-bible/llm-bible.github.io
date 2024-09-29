@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Assessing Language Modelsx27; Worldview For Fiction Generation
+title: Assessing Language Models Worldview For Fiction Generation
 authors: Khatun Aisha, Brown Daniel G.
 conference: "Arxiv"
 year: 2024

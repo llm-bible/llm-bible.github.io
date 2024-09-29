@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Behavior of Large Language Models When Prompted to Generate Code Explanations
+title: The Behavior Of Large Language Models When Prompted To Generate Code Explanations
 authors: Oli Priti, Banjade Rabin, Chapagain Jeevan, Rus Vasile
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChatGPT as a commenter to the news can LLMs generate human-like opinions
+title: Chatgpt As A Commenter To The News Can Llms Generate Human-like Opinions
 authors: Tseng Rayden, Verberne Suzan, Van Der Putten Peter
 conference: "Arxiv"
 year: 2023

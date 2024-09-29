@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Large Language Models Follow Concept Annotation Guidelines A Case Study on Scientific and Financial Domains
+title: Can Large Language Models Follow Concept Annotation Guidelines A Case Study On Scientific And Financial Domains
 authors: Fonseca Marcio, Cohen Shay B.
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Large Language Models Exhibit Cognitive Dissonance Studying the Difference Between Revealed Beliefs and Stated Answers
+title: Do Large Language Models Exhibit Cognitive Dissonance Studying The Difference Between Revealed Beliefs And Stated Answers
 authors: Mondal Manuel, Dolamic Ljiljana, Bovet Gérôme, Cudré-mauroux Philippe, Audiffren Julien
 conference: "Arxiv"
 year: 2024

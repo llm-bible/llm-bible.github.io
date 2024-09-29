@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pattern-Aware Chain-of-Thought Prompting in Large Language Models
+title: Pattern-aware Chain-of-thought Prompting In Large Language Models
 authors: Zhang Yufeng, Wang Xuepeng, Wu Lingxiang, Wang Jinqiao
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AlchemistCoder Harmonizing and Eliciting Code Capability by Hindsight Tuning on Multi-source Data
+title: Alchemistcoder Harmonizing And Eliciting Code Capability By Hindsight Tuning On Multi-source Data
 authors: Song Zifan, Wang Yudong, Zhang Wenwei, Liu Kuikun, Lyu Chengqi, Song Demin, Guo Qipeng, Yan Hang, Lin Dahua, Chen Kai, Zhao Cairong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GlorIA -- A Generative and Open Large Language Model for Portuguese
+title: Gloria -- A Generative And Open Large Language Model For Portuguese
 authors: Lopes Ricardo, Magalhães João, Semedo David
 conference: "Arxiv"
 year: 2024

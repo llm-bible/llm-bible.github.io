@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Using Hallucinations To Bypass Gpt4x27;s Filter
+title: Using Hallucinations To Bypass Gpt4s Filter
 authors: Lemkin Benjamin
 conference: "Arxiv"
 year: 2024

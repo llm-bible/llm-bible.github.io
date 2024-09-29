@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Whats in an embedding Would a rose by any embedding smell as sweet
+title: Whats In An Embedding Would A Rose By Any Embedding Smell As Sweet
 authors: Venkatasubramanian Venkat
 conference: "Arxiv"
 year: 2024

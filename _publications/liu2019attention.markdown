@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attention-Informed Mixed-Language Training for Zero-shot Cross-lingual Task-oriented Dialogue Systems
+title: Attention-informed Mixed-language Training For Zero-shot Cross-lingual Task-oriented Dialogue Systems
 authors: Liu Zihan, Winata Genta Indra, Lin Zhaojiang, Xu Peng, Fung Pascale
 conference: "Arxiv"
 year: 2019

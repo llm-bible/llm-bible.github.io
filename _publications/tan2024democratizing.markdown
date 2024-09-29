@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Democratizing Large Language Models via Personalized Parameter-Efficient Fine-tuning
+title: Democratizing Large Language Models Via Personalized Parameter-efficient Fine-tuning
 authors: Tan Zhaoxuan, Zeng Qingkai, Tian Yijun, Liu Zheyuan, Yin Bing, Jiang Meng
 conference: "Arxiv"
 year: 2024

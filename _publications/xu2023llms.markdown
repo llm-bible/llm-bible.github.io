@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLMs and the Abstraction and Reasoning Corpus Successes Failures and the Importance of Object-based Representations
+title: Llms And The Abstraction And Reasoning Corpus Successes Failures And The Importance Of Object-based Representations
 authors: Xu Yudong, Li Wenhao, Vaezipoor Pashootan, Sanner Scott, Khalil Elias B.
 conference: "Arxiv"
 year: 2023

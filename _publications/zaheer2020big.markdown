@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Big Bird Transformers for Longer Sequences
+title: Big Bird Transformers For Longer Sequences
 authors: Zaheer Manzil, Guruganesh Guru, Dubey Avinava, Ainslie Joshua, Alberti Chris, Ontanon Santiago, Pham Philip, Ravula Anirudh, Wang Qifan, Yang Li, Ahmed Amr
 conference: "Neural Information Processing Systems"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChatGPT in Classrooms Transforming Challenges into Opportunities in Education
+title: Chatgpt In Classrooms Transforming Challenges Into Opportunities In Education
 authors: Munawar Harris Bin, Misirlis Nikolaos
 conference: "Arxiv"
 year: 2024

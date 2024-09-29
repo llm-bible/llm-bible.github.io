@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AltCLIP Altering the Language Encoder in CLIP for Extended Language Capabilities
+title: Altclip Altering The Language Encoder In CLIP For Extended Language Capabilities
 authors: Chen Zhongzhi, Liu Guang, Zhang Bo-wen, Ye Fulong, Yang Qinghong, Wu Ledell
 conference: "Arxiv"
 year: 2022

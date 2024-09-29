@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: End-to-End Multimodal Representation Learning for Video Dialog
+title: End-to-end Multimodal Representation Learning For Video Dialog
 authors: Alamri Huda, Bilic Anthony, Hu Michael, Beedu Apoorva, Essa Irfan
 conference: "Arxiv"
 year: 2022

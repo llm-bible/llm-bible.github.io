@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLMs for XAI Future Directions for Explaining Explanations
+title: Llms For XAI Future Directions For Explaining Explanations
 authors: Zytek Alexandra, Pidò Sara, Veeramachaneni Kalyan
 conference: "Arxiv"
 year: 2024

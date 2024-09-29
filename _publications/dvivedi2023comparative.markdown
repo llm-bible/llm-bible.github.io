@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Comparative Analysis of Large Language Models for Code Documentation Generation
+title: A Comparative Analysis Of Large Language Models For Code Documentation Generation
 authors: Dvivedi Shubhang Shekhar, Vijay Vyshnav, Pujari Sai Leela Rahul, Lodh Shoumik, Kumar Dhruv
 conference: "Arxiv"
 year: 2023

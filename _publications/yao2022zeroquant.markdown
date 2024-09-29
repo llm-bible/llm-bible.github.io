@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ZeroQuant Efficient and Affordable Post-Training Quantization for Large-Scale Transformers
+title: Zeroquant Efficient And Affordable Post-training Quantization For Large-scale Transformers
 authors: Yao Zhewei, Aminabadi Reza Yazdani, Zhang Minjia, Wu Xiaoxia, Li Conglong, He Yuxiong
 conference: "Arxiv"
 year: 2022

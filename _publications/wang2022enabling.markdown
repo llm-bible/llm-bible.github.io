@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enabling Conversational Interaction with Mobile UI using Large Language Models
+title: Enabling Conversational Interaction With Mobile UI Using Large Language Models
 authors: Wang Bryan, Li Gang, Li Yang
 conference: "Arxiv"
 year: 2022

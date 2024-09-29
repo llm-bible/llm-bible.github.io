@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Assigning AI Seven Approaches for Students with Prompts
+title: Assigning AI Seven Approaches For Students With Prompts
 authors: Mollick Ethan, Mollick Lilach
 conference: "Arxiv"
 year: 2023

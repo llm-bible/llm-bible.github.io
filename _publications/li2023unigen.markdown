@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: UniGen A Unified Generative Framework for Retrieval and Question Answering with Large Language Models
+title: Unigen A Unified Generative Framework For Retrieval And Question Answering With Large Language Models
 authors: Li Xiaoxi, Zhou Yujia, Dou Zhicheng
 conference: "Arxiv"
 year: 2023

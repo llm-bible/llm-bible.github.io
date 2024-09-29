@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How the Advent of Ubiquitous Large Language Models both Stymie and Turbocharge Dynamic Adversarial Question Generation
+title: How The Advent Of Ubiquitous Large Language Models Both Stymie And Turbocharge Dynamic Adversarial Question Generation
 authors: Sung Yoo Yeon, Mondal Ishani, Boyd-graber Jordan
 conference: "Arxiv"
 year: 2024

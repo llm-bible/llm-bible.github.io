@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VideoLLaMB Long-context Video Understanding with Recurrent Memory Bridges
+title: Videollamb Long-context Video Understanding With Recurrent Memory Bridges
 authors: Wang Yuxuan, Xie Cihang, Liu Yang, Zheng Zilong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: InfiniGen Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management
+title: Infinigen Efficient Generative Inference Of Large Language Models With Dynamic KV Cache Management
 authors: Lee Wonbeom, Lee Jungi, Seo Junghwan, Sim Jaewoong
 conference: "Arxiv"
 year: 2024

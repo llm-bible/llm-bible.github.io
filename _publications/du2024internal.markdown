@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Internal and External Knowledge Interactive Refinement Framework for Knowledge-Intensive Question Answering
+title: Internal And External Knowledge Interactive Refinement Framework For Knowledge-intensive Question Answering
 authors: Du Haowei, Zhao Dongyan
 conference: "Arxiv"
 year: 2024

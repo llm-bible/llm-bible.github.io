@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Piece of Theatre Investigating How Teachers Design LLM Chatbots to Assist Adolescent Cyberbullying Education
+title: A Piece Of Theatre Investigating How Teachers Design LLM Chatbots To Assist Adolescent Cyberbullying Education
 authors: Hedderich Michael A., Bazarova Natalie N., Zou Wenting, Shim Ryun, Ma Xinda, Yang Qian
 conference: "Arxiv"
 year: 2024

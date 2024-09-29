@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bridging Language and Items for Retrieval and Recommendation
+title: Bridging Language And Items For Retrieval And Recommendation
 authors: Hou Yupeng, Li Jiacheng, He Zhankui, Yan An, Chen Xiusi, Mcauley Julian
 conference: "Arxiv"
 year: 2024

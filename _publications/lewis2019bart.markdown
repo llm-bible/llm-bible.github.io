@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BART Denoising Sequence-to-Sequence Pre-training for Natural Language Generation Translation and Comprehension
+title: BART Denoising Sequence-to-sequence Pre-training For Natural Language Generation Translation And Comprehension
 authors: Lewis Mike, Liu Yinhan, Goyal Naman, Ghazvininejad Marjan, Mohamed Abdelrahman, Levy Omer, Stoyanov Ves, Zettlemoyer Luke
 conference: "Arxiv"
 year: 2019

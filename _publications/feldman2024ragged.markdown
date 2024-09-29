@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RAGged Edges The Double-Edged Sword of Retrieval-Augmented Chatbots
+title: Ragged Edges The Double-edged Sword Of Retrieval-augmented Chatbots
 authors: Feldman Philip, Foulds James R., Pan Shimei
 conference: "Arxiv"
 year: 2024

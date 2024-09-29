@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Future-proofing Education A Prototype for Simulating Oral Examinations Using Large Language Models
+title: Future-proofing Education A Prototype For Simulating Oral Examinations Using Large Language Models
 authors: Nitze André
 conference: "Arxiv"
 year: 2023

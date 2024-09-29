@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Pre-trained Models for Failure Analysis Triplets Generation
+title: Leveraging Pre-trained Models For Failure Analysis Triplets Generation
 authors: Ezukwoke Kenneth, Hoayek Anis, Batton-hubert Mireille, Boucher Xavier, Gounet Pascal, Adrian Jerome
 conference: "Arxiv"
 year: 2022

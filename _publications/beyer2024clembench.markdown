@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: clembench-2024 A Challenging Dynamic Complementary Multilingual Benchmark and Underlying Flexible Framework for LLMs as Multi-Action Agents
+title: Clembench-2024 A Challenging Dynamic Complementary Multilingual Benchmark And Underlying Flexible Framework For Llms As Multi-action Agents
 authors: Beyer Anne, Chalamalasetti Kranti, Hakimov Sherzod, Madureira Brielen, Sadler Philipp, Schlangen David
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Safety Arithmetic A Framework for Test-time Safety Alignment of Language Models by Steering Parameters and Activations
+title: Safety Arithmetic A Framework For Test-time Safety Alignment Of Language Models By Steering Parameters And Activations
 authors: Hazra Rima, Layek Sayan, Banerjee Somnath, Poria Soujanya
 conference: "Arxiv"
 year: 2024

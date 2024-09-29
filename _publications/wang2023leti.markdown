@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LeTI Learning to Generate from Textual Interactions
+title: Leti Learning To Generate From Textual Interactions
 authors: Wang Xingyao, Peng Hao, Jabbarvand Reyhaneh, Ji Heng
 conference: "Arxiv"
 year: 2023

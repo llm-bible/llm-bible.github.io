@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLASP Fine-tuning Large Language Models for Answer Set Programming
+title: LLASP Fine-tuning Large Language Models For Answer Set Programming
 authors: Coppolillo Erica, Calimeri Francesco, Manco Giuseppe, Perri Simona, Ricca Francesco
 conference: "Arxiv"
 year: 2024

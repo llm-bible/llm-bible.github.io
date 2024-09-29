@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Consistency Matters Explore LLMs Consistency From a Black-Box Perspective
+title: Consistency Matters Explore Llms Consistency From A Black-box Perspective
 authors: Zhao Fufangchen, Jin Guoqiang, Huang Jiaheng, Zhao Rui, Tan Fei
 conference: "Arxiv"
 year: 2024

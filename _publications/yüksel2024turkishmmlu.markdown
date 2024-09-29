@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TurkishMMLU Measuring Massive Multitask Language Understanding in Turkish
+title: Turkishmmlu Measuring Massive Multitask Language Understanding In Turkish
 authors: Yüksel Arda, Köksal Abdullatif, Şenel Lütfi Kerem, Korhonen Anna, Schütze Hinrich
 conference: "Arxiv"
 year: 2024

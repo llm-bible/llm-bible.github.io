@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Text-Tuple-Table Towards Information Integration in Text-to-Table Generation via Global Tuple Extraction
+title: Text-tuple-table Towards Information Integration In Text-to-table Generation Via Global Tuple Extraction
 authors: Deng Zheye, Chan Chunkit, Wang Weiqi, Sun Yuxi, Fan Wei, Zheng Tianshi, Yim Yauwai, Song Yangqiu
 conference: "Arxiv"
 year: 2024

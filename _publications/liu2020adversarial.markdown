@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adversarial Training for Large Neural Language Models
+title: Adversarial Training For Large Neural Language Models
 authors: Liu Xiaodong, Cheng Hao, He Pengcheng, Chen Weizhu, Wang Yu, Poon Hoifung, Gao Jianfeng
 conference: "Arxiv"
 year: 2020

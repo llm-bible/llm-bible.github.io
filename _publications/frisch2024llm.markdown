@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM Agents in Interaction Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models
+title: LLM Agents In Interaction Measuring Personality Consistency And Linguistic Alignment In Interacting Populations Of Large Language Models
 authors: Frisch Ivar, Giulianelli Mario
 conference: "Arxiv"
 year: 2024

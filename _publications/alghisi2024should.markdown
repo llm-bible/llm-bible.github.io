@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Should We Fine-Tune or RAG Evaluating Different Techniques to Adapt LLMs for Dialogue
+title: Should We Fine-tune Or RAG Evaluating Different Techniques To Adapt Llms For Dialogue
 authors: Alghisi Simone, Rizzoli Massimo, Roccabruna Gabriel, Mousavi Seyed Mahed, Riccardi Giuseppe
 conference: "Arxiv"
 year: 2024

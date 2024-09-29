@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LongLoRA Efficient Fine-tuning of Long-Context Large Language Models
+title: Longlora Efficient Fine-tuning Of Long-context Large Language Models
 authors: Chen Yukang, Qian Shengju, Tang Haotian, Lai Xin, Liu Zhijian, Han Song, Jia Jiaya
 conference: "Arxiv"
 year: 2023

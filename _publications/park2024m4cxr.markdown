@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: M4CXR Exploring Multi-task Potentials of Multi-modal Large Language Models for Chest X-ray Interpretation
+title: M4CXR Exploring Multi-task Potentials Of Multi-modal Large Language Models For Chest X-ray Interpretation
 authors: Park Jonggwon, Kim Soobum, Yoon Byungmu, Hyun Jihun, Choi Kyoyun
 conference: "Arxiv"
 year: 2024

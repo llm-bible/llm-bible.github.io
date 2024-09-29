@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Position Interpolation Improves ALiBi Extrapolation
+title: Position Interpolation Improves Alibi Extrapolation
 authors: Al-khateeb Faisal, Dey Nolan, Soboleva Daria, Hestness Joel
 conference: "Arxiv"
 year: 2023

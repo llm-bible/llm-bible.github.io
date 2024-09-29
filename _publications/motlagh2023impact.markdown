@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Impact of Artificial Intelligence on the Evolution of Digital Education A Comparative Study of OpenAI Text Generation Tools including ChatGPT Bing Chat Bard and Ernie
+title: The Impact Of Artificial Intelligence On The Evolution Of Digital Education A Comparative Study Of Openai Text Generation Tools Including Chatgpt Bing Chat Bard And Ernie
 authors: Motlagh Negin Yazdani, Khajavi Matin, Sharifi Abbas, Ahmadi Mohsen
 conference: "Arxiv"
 year: 2023

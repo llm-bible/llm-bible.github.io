@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Advancing GenAI Assisted Programming--A Comparative Study on Prompt Efficiency and Code Quality Between GPT-4 and GLM-4
+title: Advancing Genai Assisted Programming--a Comparative Study On Prompt Efficiency And Code Quality Between GPT-4 And GLM-4
 authors: Yang Angus, Li Zehan, Li Jie
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vamos Versatile Action Models for Video Understanding
+title: Vamos Versatile Action Models For Video Understanding
 authors: Wang Shijie, Zhao Qi, Do Minh Quan, Agarwal Nakul, Lee Kwonjoon, Sun Chen
 conference: "Arxiv"
 year: 2023

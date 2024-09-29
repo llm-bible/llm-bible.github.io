@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: KnowledgeNavigator Leveraging Large Language Models for Enhanced Reasoning over Knowledge Graph
+title: Knowledgenavigator Leveraging Large Language Models For Enhanced Reasoning Over Knowledge Graph
 authors: Guo Tiezheng, Yang Qingwen, Wang Chen, Liu Yanyi, Li Pan, Tang Jiawei, Li Dapeng, Wen Yingyou
 conference: "Complex Intelligent Systems"
 year: 2023

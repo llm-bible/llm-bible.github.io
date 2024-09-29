@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Not All Memories are Created Equal Learning to Forget by Expiring
+title: Not All Memories Are Created Equal Learning To Forget By Expiring
 authors: Sukhbaatar Sainbayar, Ju Da, Poff Spencer, Roller Stephen, Szlam Arthur, Weston Jason, Fan Angela
 conference: "Arxiv"
 year: 2021

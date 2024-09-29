@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LM4HPC Towards Effective Language Model Application in High-Performance Computing
+title: LM4HPC Towards Effective Language Model Application In High-performance Computing
 authors: Chen Le, Lin Pei-hung, Vanderbruggen Tristan, Liao Chunhua, Emani Murali, De Supinski Bronis
 conference: "Arxiv"
 year: 2023

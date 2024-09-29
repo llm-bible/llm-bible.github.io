@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sequence-to-Sequence Pre-training with Unified Modality Masking for Visual Document Understanding
+title: Sequence-to-sequence Pre-training With Unified Modality Masking For Visual Document Understanding
 authors: Feng Shuwei, Zhan Tianyang, Jie Zhanming, Luong Trung Quoc, Jin Xiaoran
 conference: "Arxiv"
 year: 2023

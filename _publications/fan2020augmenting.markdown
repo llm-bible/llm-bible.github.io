@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Augmenting Transformers with KNN-Based Composite Memory for Dialogue
+title: Augmenting Transformers With Knn-based Composite Memory For Dialogue
 authors: Fan Angela, Gardent Claire, Braud Chloe, Bordes Antoine
 conference: "Arxiv"
 year: 2020

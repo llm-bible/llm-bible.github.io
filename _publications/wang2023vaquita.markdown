@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VaQuitA Enhancing Alignment in LLM-Assisted Video Understanding
+title: Vaquita Enhancing Alignment In Llm-assisted Video Understanding
 authors: Wang Yizhou, Zhang Ruiyi, Wang Haoliang, Bhattacharya Uttaran, Fu Yun, Wu Gang
 conference: "Arxiv"
 year: 2023

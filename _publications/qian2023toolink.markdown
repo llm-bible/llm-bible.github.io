@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Toolink Linking Toolkit Creation and Using through Chain-of-Solving on Open-Source Model
+title: Toolink Linking Toolkit Creation And Using Through Chain-of-solving On Open-source Model
 authors: Qian Cheng, Xiong Chenyan, Liu Zhenghao, Liu Zhiyuan
 conference: "Arxiv"
 year: 2023

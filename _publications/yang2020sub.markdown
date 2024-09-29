@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On the Sub-Layer Functionalities of Transformer Decoder
+title: On The Sub-layer Functionalities Of Transformer Decoder
 authors: Yang Yilin, Wang Longyue, Shi Shuming, Tadepalli Prasad, Lee Stefan, Tu Zhaopeng
 conference: "Arxiv"
 year: 2020

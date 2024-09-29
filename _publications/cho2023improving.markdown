@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Zero-shot Reader by Reducing Distractions from Irrelevant Documents in Open-Domain Question Answering
+title: Improving Zero-shot Reader By Reducing Distractions From Irrelevant Documents In Open-domain Question Answering
 authors: Cho Sukmin, Seo Jeongyeon, Jeong Soyeong, Park Jong C.
 conference: "Arxiv"
 year: 2023

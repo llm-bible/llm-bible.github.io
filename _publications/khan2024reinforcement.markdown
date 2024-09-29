@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reinforcement of Explainability of ChatGPT Prompts by Embedding Breast Cancer Self-Screening Rules into AI Responses
+title: Reinforcement Of Explainability Of Chatgpt Prompts By Embedding Breast Cancer Self-screening Rules Into AI Responses
 authors: Khan Yousef, Hamed Ahmed Abdeen
 conference: "Arxiv"
 year: 2024

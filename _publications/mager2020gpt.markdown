@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GPT-too A language-model-first approach for AMR-to-text generation
+title: Gpt-too A Language-model-first Approach For Amr-to-text Generation
 authors: Mager Manuel, Astudillo Ramon Fernandez, Naseem Tahira, Sultan Md Arafat, Lee Young-suk, Florian Radu, Roukos Salim
 conference: "Arxiv"
 year: 2020

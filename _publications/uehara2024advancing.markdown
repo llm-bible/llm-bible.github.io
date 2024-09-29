@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Advancing Large Multi-modal Models with Explicit Chain-of-Reasoning and Visual Question Generation
+title: Advancing Large Multi-modal Models With Explicit Chain-of-reasoning And Visual Question Generation
 authors: Uehara Kohei, Goswami Nabarun, Wang Hanqin, Baba Toshiaki, Tanaka Kohtaro, Hashimoto Tomohiro, Wang Kai, Ito Rei, Naoya Takagi, Umagami Ryo, Wen Yingyi, Anakewat Tanachai, Harada Tatsuya
 conference: "Arxiv"
 year: 2024

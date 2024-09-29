@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BLEURT Learning Robust Metrics for Text Generation
+title: BLEURT Learning Robust Metrics For Text Generation
 authors: Sellam Thibault, Das Dipanjan, Parikh Ankur P.
 conference: "Arxiv"
 year: 2020

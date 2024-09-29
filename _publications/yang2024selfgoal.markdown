@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SelfGoal Your Language Agents Already Know How to Achieve High-level Goals
+title: Selfgoal Your Language Agents Already Know How To Achieve High-level Goals
 authors: Yang Ruihan, Chen Jiangjie, Zhang Yikai, Yuan Siyu, Chen Aili, Richardson Kyle, Xiao Yanghua, Yang Deqing
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Robust Temporal Reasoning of Large Language Models via a Multi-Hop QA Dataset and Pseudo-Instruction Tuning
+title: Towards Robust Temporal Reasoning Of Large Language Models Via A Multi-hop QA Dataset And Pseudo-instruction Tuning
 authors: Tan Qingyu, Ng Hwee Tou, Bing Lidong
 conference: "Arxiv"
 year: 2023

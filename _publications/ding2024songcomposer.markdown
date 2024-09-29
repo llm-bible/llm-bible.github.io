@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SongComposer A Large Language Model for Lyric and Melody Composition in Song Generation
+title: Songcomposer A Large Language Model For Lyric And Melody Composition In Song Generation
 authors: Ding Shuangrui, Liu Zihan, Dong Xiaoyi, Zhang Pan, Qian Rui, He Conghui, Lin Dahua, Wang Jiaqi
 conference: "Arxiv"
 year: 2024

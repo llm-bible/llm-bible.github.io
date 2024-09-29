@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Verb Knowledge Injection for Multilingual Event Processing
+title: Verb Knowledge Injection For Multilingual Event Processing
 authors: Majewska Olga, Vulić Ivan, Glavaš Goran, Ponti Edoardo M., Korhonen Anna
 conference: "Proceedings of ACL-IJCNLP"
 year: 2020

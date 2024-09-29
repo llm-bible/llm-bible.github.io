@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Multilingual Are Large Language Models Fine-Tuned for Translation
+title: How Multilingual Are Large Language Models Fine-tuned For Translation
 authors: Richburg Aquia, Carpuat Marine
 conference: "Arxiv"
 year: 2024

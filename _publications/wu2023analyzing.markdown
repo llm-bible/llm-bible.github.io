@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Analyzing Chain-of-Thought Prompting in Large Language Models via Gradient-based Feature Attributions
+title: Analyzing Chain-of-thought Prompting In Large Language Models Via Gradient-based Feature Attributions
 authors: Wu Skyler, Shen Eric Meng, Badrinath Charumathi, Ma Jiaqi, Lakkaraju Himabindu
 conference: "Arxiv"
 year: 2023

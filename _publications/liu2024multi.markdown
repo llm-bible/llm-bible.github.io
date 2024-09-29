@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-group Uncertainty Quantification for Long-form Text Generation
+title: Multi-group Uncertainty Quantification For Long-form Text Generation
 authors: Liu Terrance, Wu Zhiwei Steven
 conference: "Arxiv"
 year: 2024

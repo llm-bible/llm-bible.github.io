@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficient and Effective Vocabulary Expansion Towards Multilingual Large Language Models
+title: Efficient And Effective Vocabulary Expansion Towards Multilingual Large Language Models
 authors: Kim Seungduk, Choi Seungtaek, Jeong Myeongho
 conference: "Arxiv"
 year: 2024

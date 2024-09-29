@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dont Say No Jailbreaking LLM by Suppressing Refusal
+title: Dont Say No Jailbreaking LLM By Suppressing Refusal
 authors: Zhou Yukai, Wang Wenjie
 conference: "Arxiv"
 year: 2024

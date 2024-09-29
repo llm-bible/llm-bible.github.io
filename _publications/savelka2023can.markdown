@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can GPT-4 Support Analysis of Textual Data in Tasks Requiring Highly Specialized Domain Expertise
+title: Can GPT-4 Support Analysis Of Textual Data In Tasks Requiring Highly Specialized Domain Expertise
 authors: Savelka Jaromir, Ashley Kevin D., Gray Morgan A, Westermann Hannes, Xu Huihui
 conference: "ITiCSE"
 year: 2023

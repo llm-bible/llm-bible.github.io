@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Plug and Play with Prompts A Prompt Tuning Approach for Controlling Text Generation
+title: Plug And Play With Prompts A Prompt Tuning Approach For Controlling Text Generation
 authors: Ajwani Rohan Deepak, Zhu Zining, Rose Jonathan, Rudzicz Frank
 conference: "Presented at Deployable AI Workshop at AAAI-"
 year: 2024

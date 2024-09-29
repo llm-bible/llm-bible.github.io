@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: POP Prompt Of Prompts for Continual Learning
+title: POP Prompt Of Prompts For Continual Learning
 authors: Hu Zhiyuan, Lyu Jiancheng, Gao Dashan, Vasconcelos Nuno
 conference: "Arxiv"
 year: 2023

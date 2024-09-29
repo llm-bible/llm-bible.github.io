@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Chinchilla-Optimal Accounting for Inference in Language Model Scaling Laws
+title: Beyond Chinchilla-optimal Accounting For Inference In Language Model Scaling Laws
 authors: Sardana Nikhil, Portes Jacob, Doubov Sasha, Frankle Jonathan
 conference: "Arxiv"
 year: 2023

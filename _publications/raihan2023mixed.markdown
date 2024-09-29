@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mixed-Distil-BERT Code-mixed Language Modeling for Bangla English and Hindi
+title: Mixed-distil-bert Code-mixed Language Modeling For Bangla English And Hindi
 authors: Raihan Md Nishat, Goswami Dhiman, Mahmud Antara
 conference: "Arxiv"
 year: 2023

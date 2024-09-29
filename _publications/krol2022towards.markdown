@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards the Generation of Musical Explanations with GPT-3
+title: Towards The Generation Of Musical Explanations With GPT-3
 authors: Krol Stephen James, Llano Maria Teresa, Mccormack Jon
 conference: "Artificial Intelligence in Music Sound Art and Design -"
 year: 2022

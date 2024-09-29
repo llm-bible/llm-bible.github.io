@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generating medically-accurate summaries of patient-provider dialogue A multi-stage approach using large language models
+title: Generating Medically-accurate Summaries Of Patient-provider Dialogue A Multi-stage Approach Using Large Language Models
 authors: Nair Varun, Schumacher Elliot, Kannan Anitha
 conference: "Arxiv"
 year: 2023

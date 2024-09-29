@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Better Pre-Training by Reducing Representation Confusion
+title: Better Pre-training By Reducing Representation Confusion
 authors: Zhang Haojie, Liang Mingfei, Xie Ruobing, Sun Zhenlong, Zhang Bo, Lin Leyu
 conference: "Arxiv"
 year: 2022

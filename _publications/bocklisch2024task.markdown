@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Task-Oriented Dialogue with In-Context Learning
+title: Task-oriented Dialogue With In-context Learning
 authors: Bocklisch Tom, Werkmeister Thomas, Varshneya Daksh, Nichol Alan
 conference: "Arxiv"
 year: 2024

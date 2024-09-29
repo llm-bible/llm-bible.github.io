@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adapting Pre-trained Generative Models for Extractive Question Answering
+title: Adapting Pre-trained Generative Models For Extractive Question Answering
 authors: Mallick Prabir, Nayak Tapas, Bhattacharya Indrajit
 conference: "Arxiv"
 year: 2023

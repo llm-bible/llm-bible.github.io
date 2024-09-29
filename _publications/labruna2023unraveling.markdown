@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unraveling ChatGPT A Critical Analysis of AI-Generated Goal-Oriented Dialogues and Annotations
+title: Unraveling Chatgpt A Critical Analysis Of Ai-generated Goal-oriented Dialogues And Annotations
 authors: Labruna Tiziano, Brenna Sofia, Zaninello Andrea, Magnini Bernardo
 conference: "Arxiv"
 year: 2023

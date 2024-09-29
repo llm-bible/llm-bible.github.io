@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning From Free-Text Human Feedback -- Collect New Datasets Or Extend Existing Ones
+title: Learning From Free-text Human Feedback -- Collect New Datasets Or Extend Existing Ones
 authors: Petrak Dominic, Moosavi Nafise Sadat, Tian Ye, Rozanov Nikolai, Gurevych Iryna
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: InstructExcel A Benchmark for Natural Language Instruction in Excel
+title: Instructexcel A Benchmark For Natural Language Instruction In Excel
 authors: Payan Justin, Mishra Swaroop, Singh Mukul, Negreanu Carina, Poelitz Christian, Baral Chitta, Roy Subhro, Chakravarthy Rasika, Van Durme Benjamin, Nouri Elnaz
 conference: "Arxiv"
 year: 2023

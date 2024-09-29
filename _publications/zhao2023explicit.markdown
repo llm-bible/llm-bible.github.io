@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Explicit Planning Helps Language Models in Logical Reasoning
+title: Explicit Planning Helps Language Models In Logical Reasoning
 authors: Zhao Hongyu, Wang Kangrui, Yu Mo, Mei Hongyuan
 conference: "Arxiv"
 year: 2023

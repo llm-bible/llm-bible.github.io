@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Text-to-Drive Diverse Driving Behavior Synthesis via Large Language Models
+title: Text-to-drive Diverse Driving Behavior Synthesis Via Large Language Models
 authors: Nguyen Phat, Wang Tsun-hsuan, Hong Zhang-wei, Karaman Sertac, Rus Daniela
 conference: "Arxiv"
 year: 2024

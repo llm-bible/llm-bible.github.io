@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Linking In-context Learning in Transformers to Human Episodic Memory
+title: Linking In-context Learning In Transformers To Human Episodic Memory
 authors: Ji-an Li, Zhou Corey Y., Benna Marcus K., Mattar Marcelo G.
 conference: "Arxiv"
 year: 2024

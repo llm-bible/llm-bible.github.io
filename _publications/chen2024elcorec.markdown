@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ELCoRec Enhance Language Understanding with Co-Propagation of Numerical and Categorical Features for Recommendation
+title: Elcorec Enhance Language Understanding With Co-propagation Of Numerical And Categorical Features For Recommendation
 authors: Chen Jizheng, Du Kounianhua, Lin Jianghao, Chen Bo, Tang Ruiming, Zhang Weinan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Preference Ranking Optimization for Human Alignment
+title: Preference Ranking Optimization For Human Alignment
 authors: Song Feifan, Yu Bowen, Li Minghao, Yu Haiyang, Huang Fei, Li Yongbin, Wang Houfeng
 conference: "Arxiv"
 year: 2023

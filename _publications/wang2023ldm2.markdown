@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LDM^2 A Large Decision Model Imitating Human Cognition with Dynamic Memory Enhancement
+title: LDM^2 A Large Decision Model Imitating Human Cognition With Dynamic Memory Enhancement
 authors: Wang Xingjin, Li Linjing, Zeng Daniel
 conference: "Arxiv"
 year: 2023

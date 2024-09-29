@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TRAMS Training-free Memory Selection for Long-range Language Modeling
+title: TRAMS Training-free Memory Selection For Long-range Language Modeling
 authors: Yu Haofei, Wang Cunxiang, Zhang Yue, Bi Wei
 conference: "Arxiv"
 year: 2023

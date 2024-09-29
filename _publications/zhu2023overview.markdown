@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Overview of the PromptCBLUE Shared Task in CHIP2023
+title: Overview Of The Promptcblue Shared Task In CHIP2023
 authors: Zhu Wei, Wang Xiaoling, Chen Mosha, Tang Buzhou
 conference: "Arxiv"
 year: 2023

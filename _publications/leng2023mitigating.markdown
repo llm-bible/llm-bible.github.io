@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding
+title: Mitigating Object Hallucinations In Large Vision-language Models Through Visual Contrastive Decoding
 authors: Sicong Leng, Hang Zhang, Guanzheng Chen, Xin Li, Shijian Lu, Chunyan Miao, Lidong Bing
 conference: "Arxiv"
 year: 2023

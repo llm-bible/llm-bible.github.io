@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Complementary Explanations for Effective In-Context Learning
+title: Complementary Explanations For Effective In-context Learning
 authors: Ye Xi, Iyer Srinivasan, Celikyilmaz Asli, Stoyanov Ves, Durrett Greg, Pasunuru Ramakanth
 conference: "Arxiv"
 year: 2022

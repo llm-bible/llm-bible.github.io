@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automatic Prompt Selection for Large Language Models
+title: Automatic Prompt Selection For Large Language Models
 authors: Do Viet-tung, Hoang Van-khanh, Nguyen Duy-hung, Sabahi Shahab, Yang Jeff, Hotta Hajime, Nguyen Minh-tien, Le Hung
 conference: "Arxiv"
 year: 2024

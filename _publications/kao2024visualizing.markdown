@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Visualizing Dialogues Enhancing Image Selection through Dialogue Understanding with Large Language Models
+title: Visualizing Dialogues Enhancing Image Selection Through Dialogue Understanding With Large Language Models
 authors: Kao Chang-sheng, Chen Yun-nung
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Context-Aware Meta-Learning
+title: Context-aware Meta-learning
 authors: Fifty Christopher, Duan Dennis, Junkins Ronald G., Amid Ehsan, Leskovec Jure, Re Christopher, Thrun Sebastian
 conference: "Arxiv"
 year: 2023

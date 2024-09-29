@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What Are Large Language Models Mapping to in the Brain A Case Against Over-Reliance on Brain Scores
+title: What Are Large Language Models Mapping To In The Brain A Case Against Over-reliance On Brain Scores
 authors: Feghhi Ebrahim, Hadidi Nima, Song Bryan, Blank Idan A., Kao Jonathan C.
 conference: "Arxiv"
 year: 2024

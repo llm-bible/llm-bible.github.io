@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: HaluEval-Wild Evaluating Hallucinations of Language Models in the Wild
+title: Halueval-wild Evaluating Hallucinations Of Language Models In The Wild
 authors: Zhu Zhiying, Yang Yiming, Sun Zhiqing
 conference: "Arxiv"
 year: 2024

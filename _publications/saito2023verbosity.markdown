@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Verbosity Bias in Preference Labeling by Large Language Models
+title: Verbosity Bias In Preference Labeling By Large Language Models
 authors: Saito Keita, Wachi Akifumi, Wataoka Koki, Akimoto Youhei
 conference: "Arxiv"
 year: 2023

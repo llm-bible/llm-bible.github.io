@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can only LLMs do Reasoning Potential of Small Language Models in Task Planning
+title: Can Only Llms Do Reasoning Potential Of Small Language Models In Task Planning
 authors: Choi Gawon, Ahn Hyemin
 conference: "Arxiv"
 year: 2024

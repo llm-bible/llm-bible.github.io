@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding
+title: Prompt Optimizer Of Text-to-image Diffusion Models For Abstract Concept Understanding
 authors: Fan Zezhong, Li Xiaohan, Fang Chenhao, Biswas Topojoy, Nag Kaushiki, Xu Jianpeng, Achan Kannan
 conference: "Arxiv"
 year: 2024

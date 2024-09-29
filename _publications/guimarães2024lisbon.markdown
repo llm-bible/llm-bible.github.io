@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lisbon Computational Linguists at SemEval-2024 Task 2 Using A Mistral 7B Model and Data Augmentation
+title: Lisbon Computational Linguists At Semeval-2024 Task 2 Using A Mistral 7B Model And Data Augmentation
 authors: Guimarães Artur, Martins Bruno, Magalhães João
 conference: "Proceedings of the"
 year: 2024

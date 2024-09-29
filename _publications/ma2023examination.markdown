@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Examination of the Compositionality of Large Generative Vision-Language Models
+title: An Examination Of The Compositionality Of Large Generative Vision-language Models
 authors: Ma Teli, Li Rong, Liang Junwei
 conference: "Arxiv"
 year: 2023

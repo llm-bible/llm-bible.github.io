@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ObscurePrompt Jailbreaking Large Language Models via Obscure Input
+title: Obscureprompt Jailbreaking Large Language Models Via Obscure Input
 authors: Huang Yue, Tang Jingyu, Chen Dongping, Tang Bingda, Wan Yao, Sun Lichao, Zhang Xiangliang
 conference: "Arxiv"
 year: 2024

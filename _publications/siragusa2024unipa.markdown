@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unipa-GPT Large Language Models for university-oriented QA in Italian
+title: Unipa-gpt Large Language Models For University-oriented QA In Italian
 authors: Siragusa Irene, Pirrone Roberto
 conference: "Arxiv"
 year: 2024

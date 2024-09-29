@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LoRA-FA Memory-efficient Low-rank Adaptation for Large Language Models Fine-tuning
+title: Lora-fa Memory-efficient Low-rank Adaptation For Large Language Models Fine-tuning
 authors: Zhang Longteng, Zhang Lin, Shi Shaohuai, Chu Xiaowen, Li Bo
 conference: "Arxiv"
 year: 2023

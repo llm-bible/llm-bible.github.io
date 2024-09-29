@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VerilogEval Evaluating Large Language Models for Verilog Code Generation
+title: Verilogeval Evaluating Large Language Models For Verilog Code Generation
 authors: Liu Mingjie, Pinckney Nathaniel, Khailany Brucek, Ren Haoxing
 conference: "Arxiv"
 year: 2023

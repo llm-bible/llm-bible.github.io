@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LoRA Low-Rank Adaptation of Large Language Models
+title: Lora Low-rank Adaptation Of Large Language Models
 authors: Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-zhu, Yuanzhi Li, Shean Wang, Lu Wang, Weizhu Chen
 conference: "Arxiv"
 year: 2021

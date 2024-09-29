@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attention is not not Explanation
+title: Attention Is Not Not Explanation
 authors: Wiegreffe Sarah, Pinter Yuval
 conference: "Arxiv"
 year: 2019

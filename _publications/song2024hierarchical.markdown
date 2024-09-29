@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hierarchical Context Merging Better Long Context Understanding for Pre-trained LLMs
+title: Hierarchical Context Merging Better Long Context Understanding For Pre-trained Llms
 authors: Song Woomin, Oh Seunghyuk, Mo Sangwoo, Kim Jaehyung, Yun Sukmin, Ha Jung-woo, Shin Jinwoo
 conference: "Arxiv"
 year: 2024

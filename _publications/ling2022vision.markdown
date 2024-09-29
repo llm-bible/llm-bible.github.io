@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vision-Language Pre-Training for Multimodal Aspect-Based Sentiment Analysis
+title: Vision-language Pre-training For Multimodal Aspect-based Sentiment Analysis
 authors: Ling Yan, Yu Jianfei, Xia Rui
 conference: "Arxiv"
 year: 2022

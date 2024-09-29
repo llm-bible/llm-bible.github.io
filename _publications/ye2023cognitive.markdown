@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cognitive Mirage A Review of Hallucinations in Large Language Models
+title: Cognitive Mirage A Review Of Hallucinations In Large Language Models
 authors: Ye Hongbin, Liu Tong, Zhang Aijia, Hua Wei, Jia Weiqiang
 conference: "Arxiv"
 year: 2023

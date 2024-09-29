@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dont Half-listen Capturing Key-part Information in Continual Instruction Tuning
+title: Dont Half-listen Capturing Key-part Information In Continual Instruction Tuning
 authors: He Yongquan, Huang Xuancheng, Tang Minghao, Meng Lingxun, Li Xiang, Lin Wei, Zhang Wenyuan, Gao Yifu
 conference: "Arxiv"
 year: 2024

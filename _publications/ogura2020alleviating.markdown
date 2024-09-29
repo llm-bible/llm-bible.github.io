@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Alleviating the Burden of Labeling Sentence Generation by Attention Branch Encoder-Decoder Network
+title: Alleviating The Burden Of Labeling Sentence Generation By Attention Branch Encoder-decoder Network
 authors: Ogura Tadashi, Magassouba Aly, Sugiura Komei, Hirakawa Tsubasa, Yamashita Takayoshi, Fujiyoshi Hironobu, Kawai Hisashi
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Show Donx27;t Tell Evaluating Large Language Models Beyond Textual Understanding With Childplay
+title: Show Dont Tell Evaluating Large Language Models Beyond Textual Understanding With Childplay
 authors: De Carvalho Gonçalo Hora, Knap Oscar, Pollice Robert
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: InstructScene Instruction-Driven 3D Indoor Scene Synthesis with Semantic Graph Prior
+title: Instructscene Instruction-driven 3D Indoor Scene Synthesis With Semantic Graph Prior
 authors: Lin Chenguo, Mu Yadong
 conference: "Arxiv"
 year: 2024

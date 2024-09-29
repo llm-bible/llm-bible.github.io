@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Agent Planning with World Knowledge Model
+title: Agent Planning With World Knowledge Model
 authors: Qiao Shuofei, Fang Runnan, Zhang Ningyu, Zhu Yuqi, Chen Xiang, Deng Shumin, Jiang Yong, Xie Pengjun, Huang Fei, Chen Huajun
 conference: "Arxiv"
 year: 2024

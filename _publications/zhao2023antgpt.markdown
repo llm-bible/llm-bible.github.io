@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AntGPT Can Large Language Models Help Long-term Action Anticipation from Videos
+title: Antgpt Can Large Language Models Help Long-term Action Anticipation From Videos
 authors: Zhao Qi, Wang Shijie, Zhang Ce, Fu Changcheng, Do Minh Quan, Agarwal Nakul, Lee Kwonjoon, Sun Chen
 conference: "Arxiv"
 year: 2023

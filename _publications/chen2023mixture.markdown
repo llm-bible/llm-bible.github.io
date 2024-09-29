@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mixture of Soft Prompts for Controllable Data Generation
+title: Mixture Of Soft Prompts For Controllable Data Generation
 authors: Derek Chen, Celine Lee, Yunan Lu, Domenic Rosati, Zhou Yu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Synthetic Data Generation with Large Language Models for Text Classification Potential and Limitations
+title: Synthetic Data Generation With Large Language Models For Text Classification Potential And Limitations
 authors: Li Zhuoyan, Zhu Hangxiao, Lu Zhuoran, Yin Ming
 conference: "Arxiv"
 year: 2023

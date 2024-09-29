@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Theoretical Understanding of In-Context Learning in Shallow Transformers with Unstructured Data
+title: Theoretical Understanding Of In-context Learning In Shallow Transformers With Unstructured Data
 authors: Xing Yue, Lin Xiaofeng, Xu Chenheng, Suh Namjoon, Song Qifan, Cheng Guang
 conference: "Arxiv"
 year: 2024

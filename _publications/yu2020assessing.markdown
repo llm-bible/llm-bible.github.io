@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Assessing Phrasal Representation and Composition in Transformers
+title: Assessing Phrasal Representation And Composition In Transformers
 authors: Yu Lang, Ettinger Allyson
 conference: "Arxiv"
 year: 2020

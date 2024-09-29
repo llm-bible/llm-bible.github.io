@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do pretrained Transformers Learn In-Context by Gradient Descent
+title: Do Pretrained Transformers Learn In-context By Gradient Descent
 authors: Shen Lingfeng, Mishra Aayush, Khashabi Daniel
 conference: "Arxiv"
 year: 2023

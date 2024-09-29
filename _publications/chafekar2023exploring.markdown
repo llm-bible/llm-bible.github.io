@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Answer Information Methods for Question Generation with Transformers
+title: Exploring Answer Information Methods For Question Generation With Transformers
 authors: Chafekar Talha, Hussain Aafiya, Sharma Grishma, Sharma Deepak
 conference: "Arxiv"
 year: 2023

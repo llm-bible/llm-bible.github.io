@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Natural Language Processing (almost) from Scratch
+title: Natural Language Processing (almost) From Scratch
 authors: Ronan Collobert, Jason Weston, Leon Bottou, Michael Karlen, Koray Kavukcuoglu, Pavel Kuksa
 conference: "Arxiv"
 year: 2011

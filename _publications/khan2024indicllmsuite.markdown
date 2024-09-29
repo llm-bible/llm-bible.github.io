@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: IndicLLMSuite A Blueprint for Creating Pre-training and Fine-Tuning Datasets for Indian Languages
+title: Indicllmsuite A Blueprint For Creating Pre-training And Fine-tuning Datasets For Indian Languages
 authors: Khan Mohammed Safi Ur Rahman, Mehta Priyam, Sankar Ananth, Kumaravelan Umashankar, Doddapaneni Sumanth, G Suriyaprasaad, G Varun Balan, Jain Sparsh, Kunchukuttan Anoop, Kumar Pratyush, Dabre Raj, Khapra Mitesh M.
 conference: "Arxiv"
 year: 2024

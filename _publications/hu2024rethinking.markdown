@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rethinking LLM-based Preference Evaluation
+title: Rethinking Llm-based Preference Evaluation
 authors: Hu Zhengyu, Song Linxin, Zhang Jieyu, Xiao Zheyuan, Wang Jingang, Chen Zhenyu, Xiong Hui
 conference: "Arxiv"
 year: 2024

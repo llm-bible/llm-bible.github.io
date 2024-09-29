@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models are Good Prompt Learners for Low-Shot Image Classification
+title: Large Language Models Are Good Prompt Learners For Low-shot Image Classification
 authors: Zheng Zhaoheng, Wei Jingmin, Hu Xuefeng, Zhu Haidong, Nevatia Ram
 conference: "Arxiv"
 year: 2023

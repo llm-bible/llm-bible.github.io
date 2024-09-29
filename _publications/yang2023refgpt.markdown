@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RefGPT Dialogue Generation of GPT by GPT and for GPT
+title: Refgpt Dialogue Generation Of GPT By GPT And For GPT
 authors: Yang Dongjie, Yuan Ruifeng, Fan Yuantao, Yang Yifei, Wang Zili, Wang Shusen, Zhao Hai
 conference: "Arxiv"
 year: 2023

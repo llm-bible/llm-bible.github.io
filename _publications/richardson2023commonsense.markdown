@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Commonsense Reasoning for Conversational AI A Survey of the State of the Art
+title: Commonsense Reasoning For Conversational AI A Survey Of The State Of The Art
 authors: Richardson Christopher, Heck Larry
 conference: "Arxiv"
 year: 2023

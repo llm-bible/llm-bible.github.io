@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TensorGPT Efficient Compression of the Embedding Layer in LLMs based on the Tensor-Train Decomposition
+title: Tensorgpt Efficient Compression Of The Embedding Layer In Llms Based On The Tensor-train Decomposition
 authors: Xu Mingxue, Xu Yao Lei, Mandic Danilo P.
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Model Prompt Selection via Simulation Optimization
+title: Language Model Prompt Selection Via Simulation Optimization
 authors: Zhang Haoting, He Jinghai, Righter Rhonda, Zheng Zeyu
 conference: "Arxiv"
 year: 2024

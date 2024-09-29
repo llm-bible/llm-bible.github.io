@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SyntaxShap Syntax-aware Explainability Method for Text Generation
+title: Syntaxshap Syntax-aware Explainability Method For Text Generation
 authors: Amara Kenza, Sevastjanova Rita, El-assady Mennatallah
 conference: "Arxiv"
 year: 2024

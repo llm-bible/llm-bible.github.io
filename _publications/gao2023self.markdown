@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-Explanation Prompting Improves Dialogue Understanding in Large Language Models
+title: Self-explanation Prompting Improves Dialogue Understanding In Large Language Models
 authors: Gao Haoyu, Lin Ting-en, Li Hangyu, Yang Min, Wu Yuchuan, Ma Wentao, Li Yongbin
 conference: "Arxiv"
 year: 2023

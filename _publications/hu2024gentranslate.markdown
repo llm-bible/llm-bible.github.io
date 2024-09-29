@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GenTranslate Large Language Models are Generative Multilingual Speech and Machine Translators
+title: Gentranslate Large Language Models Are Generative Multilingual Speech And Machine Translators
 authors: Hu Yuchen, Chen Chen, Yang Chao-han Huck, Li Ruizhe, Zhang Dong, Chen Zhehuai, Chng Eng Siong
 conference: "Arxiv"
 year: 2024

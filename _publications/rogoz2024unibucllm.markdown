@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: UnibucLLM Harnessing LLMs for Automated Prediction of Item Difficulty and Response Time for Multiple-Choice Questions
+title: Unibucllm Harnessing Llms For Automated Prediction Of Item Difficulty And Response Time For Multiple-choice Questions
 authors: Rogoz Ana-cristina, Ionescu Radu Tudor
 conference: "Arxiv"
 year: 2024

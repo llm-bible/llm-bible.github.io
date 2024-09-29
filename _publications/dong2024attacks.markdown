@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attacks Defenses and Evaluations for LLM Conversation Safety A Survey
+title: Attacks Defenses And Evaluations For LLM Conversation Safety A Survey
 authors: Dong Zhichen, Zhou Zhanhui, Yang Chao, Shao Jing, Qiao Yu
 conference: "Arxiv"
 year: 2024

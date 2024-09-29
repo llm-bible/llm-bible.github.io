@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Iterative Enhancement for Improving Learnersourced Multiple-Choice Question Explanations with Large Language Models
+title: Exploring Iterative Enhancement For Improving Learnersourced Multiple-choice Question Explanations With Large Language Models
 authors: Bao Qiming, Leinonen Juho, Peng Alex Yuxuan, Zhong Wanjun, Gendron Gaël, Pistotti Timothy, Huang Alice, Denny Paul, Witbrock Michael, Liu Jiamou
 conference: "Arxiv"
 year: 2023

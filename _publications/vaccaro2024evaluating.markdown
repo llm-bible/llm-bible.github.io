@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating the capability of large language models to personalize science texts for diverse middle-school-age learners
+title: Evaluating The Capability Of Large Language Models To Personalize Science Texts For Diverse Middle-school-age Learners
 authors: Vaccaro Michael Jr, Friday Mikayla, Zaghi Arash
 conference: "Arxiv"
 year: 2024

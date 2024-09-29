@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating the Deductive Competence of Large Language Models
+title: Evaluating The Deductive Competence Of Large Language Models
 authors: Seals Spencer M., Shalin Valerie L.
 conference: "Arxiv"
 year: 2023

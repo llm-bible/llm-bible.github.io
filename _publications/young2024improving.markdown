@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Structural Diversity of Blackbox LLMs via Chain-of-Specification Prompting
+title: Improving Structural Diversity Of Blackbox Llms Via Chain-of-specification Prompting
 authors: Young Halley, Zeng Yimeng, Gardner Jacob, Bastani Osbert
 conference: "Arxiv"
 year: 2024

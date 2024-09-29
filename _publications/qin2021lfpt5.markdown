@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LFPT5 A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5
+title: LFPT5 A Unified Framework For Lifelong Few-shot Language Learning Based On Prompt Tuning Of T5
 authors: Qin Chengwei, Joty Shafiq
 conference: "Arxiv"
 year: 2021

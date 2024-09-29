@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Human-Interpretable Adversarial Prompt Attack on Large Language Models with Situational Context
+title: Human-interpretable Adversarial Prompt Attack On Large Language Models With Situational Context
 authors: Das Nilanjana, Raff Edward, Gaur Manas
 conference: "Arxiv"
 year: 2024

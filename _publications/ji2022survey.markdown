@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Survey of Hallucination in Natural Language Generation
+title: Survey Of Hallucination In Natural Language Generation
 authors: Ji Ziwei, Lee Nayeon, Frieske Rita, Yu Tiezheng, Su Dan, Xu Yan, Ishii Etsuko, Bang Yejin, Chen Delong, Dai Wenliang, Chan Ho Shu, Madotto Andrea, Fung Pascale
 conference: "ACM Computing Surveys"
 year: 2022

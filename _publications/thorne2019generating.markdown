@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generating Token-Level Explanations for Natural Language Inference
+title: Generating Token-level Explanations For Natural Language Inference
 authors: Thorne James, Vlachos Andreas, Christodoulopoulos Christos, Mittal Arpit
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving the Cross-Lingual Generalisation in Visual Question Answering
+title: Improving The Cross-lingual Generalisation In Visual Question Answering
 authors: Nooralahzadeh Farhad, Sennrich Rico
 conference: "Arxiv"
 year: 2022

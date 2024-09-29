@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Systematic Analysis of Large Language Models as Soft Reasoners The Case of Syllogistic Inferences
+title: A Systematic Analysis Of Large Language Models As Soft Reasoners The Case Of Syllogistic Inferences
 authors: Bertolazzi Leonardo, Gatt Albert, Bernardi Raffaella
 conference: "Arxiv"
 year: 2024

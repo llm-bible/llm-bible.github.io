@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models
+title: An Empirical Analysis Of Compute-optimal Inference For Problem-solving With Language Models
 authors: Yangzhen Wu, Zhiqing Sun, Shanda Li, Sean Welleck, Yiming Yang
 conference: "Arxiv"
 year: 2024

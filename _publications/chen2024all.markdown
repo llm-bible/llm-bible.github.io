@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: All Roads Lead to Rome Unveiling the Trajectory of Recommender Systems Across the LLM Era
+title: All Roads Lead To Rome Unveiling The Trajectory Of Recommender Systems Across The LLM Era
 authors: Chen Bo, Dai Xinyi, Guo Huifeng, Guo Wei, Liu Weiwen, Liu Yong, Qin Jiarui, Tang Ruiming, Wang Yichao, Wu Chuhan, Wu Yaxiong, Zhang Hao
 conference: "Arxiv"
 year: 2024

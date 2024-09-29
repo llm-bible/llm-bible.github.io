@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Revealing the structure of language model capabilities
+title: Revealing The Structure Of Language Model Capabilities
 authors: Burnell Ryan, Hao Han, Conway Andrew R. A., Orallo Jose Hernandez
 conference: "Arxiv"
 year: 2023

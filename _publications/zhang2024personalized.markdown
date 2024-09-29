@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Personalized LLM Response Generation with Parameterized Memory Injection
+title: Personalized LLM Response Generation With Parameterized Memory Injection
 authors: Zhang Kai, Qing Lizhi, Kang Yangyang, Liu Xiaozhong
 conference: "Arxiv"
 year: 2024

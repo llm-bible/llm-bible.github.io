@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-based Retrofitting
+title: Mitigating Large Language Model Hallucinations Via Autonomous Knowledge Graph-based Retrofitting
 authors: Guan Xinyan, Liu Yanjiang, Lin Hongyu, Lu Yaojie, He Ben, Han Xianpei, Sun Le
 conference: "Arxiv"
 year: 2023

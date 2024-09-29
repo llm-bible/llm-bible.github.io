@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Building a Question and Answer System for News Domain
+title: Building A Question And Answer System For News Domain
 authors: Basu Sandipan, Gaddala Aravind, Chetan Pooja, Tiwari Garima, Darapaneni Narayana, Parvathaneni Sadwik, Paduri Anwesh Reddy
 conference: "Arxiv"
 year: 2021

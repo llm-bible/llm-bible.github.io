@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Efficient Inference Framework for Early-exit Large Language Models
+title: An Efficient Inference Framework For Early-exit Large Language Models
 authors: Miao Ruijie, Yan Yihan, Yao Xinshuo, Yang Tong
 conference: "Arxiv"
 year: 2024

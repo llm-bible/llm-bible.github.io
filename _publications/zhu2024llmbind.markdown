@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLMBind A Unified Modality-Task Integration Framework
+title: Llmbind A Unified Modality-task Integration Framework
 authors: Zhu Bin, Ning Munan, Jin Peng, Lin Bin, Huang Jinfa, Song Qi, Zhang Junwu, Tang Zhenyu, Pan Mingjun, Zhou Xing, Yuan Li
 conference: "Arxiv"
 year: 2024

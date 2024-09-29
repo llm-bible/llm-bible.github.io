@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MeteoRA Multiple-tasks Embedded LoRA for Large Language Models
+title: Meteora Multiple-tasks Embedded Lora For Large Language Models
 authors: Xu Jingwei, Lai Junyu, Huang Yunpeng
 conference: "Arxiv"
 year: 2024

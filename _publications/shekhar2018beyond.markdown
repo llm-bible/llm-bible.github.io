@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond task success A closer look at jointly learning to see ask and GuessWhat
+title: Beyond Task Success A Closer Look At Jointly Learning To See Ask And Guesswhat
 authors: Shekhar Ravi, Venkatesh Aashish, Baumgärtner Tim, Bruni Elia, Plank Barbara, Bernardi Raffaella, Fernández Raquel
 conference: "Arxiv"
 year: 2018

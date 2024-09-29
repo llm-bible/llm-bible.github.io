@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-Task Learning with Language Modeling for Question Generation
+title: Multi-task Learning With Language Modeling For Question Generation
 authors: Zhou Wenjie, Zhang Minghua, Wu Yunfang
 conference: "Arxiv"
 year: 2019

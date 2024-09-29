@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dior-CVAE Pre-trained Language Models and Diffusion Priors for Variational Dialog Generation
+title: Dior-cvae Pre-trained Language Models And Diffusion Priors For Variational Dialog Generation
 authors: Yang Tianyu, Tran Thy Thy, Gurevych Iryna
 conference: "Arxiv"
 year: 2023

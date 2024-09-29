@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Joint Modeling of Dialogue Response and Speech Synthesis based on Large Language Model
+title: Towards Joint Modeling Of Dialogue Response And Speech Synthesis Based On Large Language Model
 authors: Zhou Xinyu, Chen Delong, Chen Yudong
 conference: "Arxiv"
 year: 2023

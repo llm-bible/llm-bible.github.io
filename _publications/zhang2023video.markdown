@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Video-LLaMA An Instruction-tuned Audio-Visual Language Model for Video Understanding
+title: Video-llama An Instruction-tuned Audio-visual Language Model For Video Understanding
 authors: Zhang Hang, Li Xin, Bing Lidong
 conference: "Arxiv"
 year: 2023

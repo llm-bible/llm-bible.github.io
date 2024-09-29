@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Web2Code A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs
+title: Web2code A Large-scale Webpage-to-code Dataset And Evaluation Framework For Multimodal Llms
 authors: Yun Sukmin, Lin Haokun, Thushara Rusiru, Bhat Mohammad Qazim, Wang Yongxin, Jiang Zutao, Deng Mingkai, Wang Jinhong, Tao Tianhua, Li Junbo, Li Haonan, Nakov Preslav, Baldwin Timothy, Liu Zhengzhong, Xing Eric P., Liang Xiaodan, Shen Zhiqiang
 conference: "Arxiv"
 year: 2024

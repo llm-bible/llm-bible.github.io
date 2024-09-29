@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evolution through Large Models
+title: Evolution Through Large Models
 authors: Lehman Joel, Gordon Jonathan, Jain Shawn, Ndousse Kamal, Yeh Cathy, Stanley Kenneth O.
 conference: "Arxiv"
 year: 2022

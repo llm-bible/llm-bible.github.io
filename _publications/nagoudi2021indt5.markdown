@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: IndT5 A Text-to-Text Transformer for 10 Indigenous Languages
+title: Indt5 A Text-to-text Transformer For 10 Indigenous Languages
 authors: Nagoudi El Moatez Billah, Chen Wei-rui, Abdul-mageed Muhammad, Cavusogl Hasan
 conference: "Arxiv"
 year: 2021

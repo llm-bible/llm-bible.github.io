@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Object Hallucination in Large Vision-Language Models
+title: Evaluating Object Hallucination In Large Vision-language Models
 authors: Yifan Li, Yifan Du, Kun Zhou, Jinpeng Wang, Wayne Xin Zhao, Ji-rong Wen
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On Large Language Models in National Security Applications
+title: On Large Language Models In National Security Applications
 authors: Caballero William N., Jenkins Phillip R.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-modal Latent Space Learning for Chain-of-Thought Reasoning in Language Models
+title: Multi-modal Latent Space Learning For Chain-of-thought Reasoning In Language Models
 authors: He Liqi, Li Zuchao, Cai Xiantao, Wang Ping
 conference: "Arxiv"
 year: 2023

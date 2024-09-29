@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PlagBench Exploring the Duality of Large Language Models in Plagiarism Generation and Detection
+title: Plagbench Exploring The Duality Of Large Language Models In Plagiarism Generation And Detection
 authors: Lee Jooyoung, Agrawal Toshini, Uchendu Adaku, Le Thai, Chen Jinghui, Lee Dongwon
 conference: "Arxiv"
 year: 2024

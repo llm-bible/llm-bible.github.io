@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Validating LLM-Generated Programs with Metamorphic Prompt Testing
+title: Validating Llm-generated Programs With Metamorphic Prompt Testing
 authors: Wang Xiaoyin, Zhu Dakai
 conference: "Arxiv"
 year: 2024

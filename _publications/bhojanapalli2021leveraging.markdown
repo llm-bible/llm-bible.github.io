@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging redundancy in attention with Reuse Transformers
+title: Leveraging Redundancy In Attention With Reuse Transformers
 authors: Bhojanapalli Srinadh, Chakrabarti Ayan, Veit Andreas, Lukasik Michal, Jain Himanshu, Liu Frederick, Chang Yin-wen, Kumar Sanjiv
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Talk the Walk Synthetic Data Generation for Conversational Music Recommendation
+title: Talk The Walk Synthetic Data Generation For Conversational Music Recommendation
 authors: Leszczynski Megan, Zhang Shu, Ganti Ravi, Balog Krisztian, Radlinski Filip, Pereira Fernando, Chaganty Arun Tejasvi
 conference: "Arxiv"
 year: 2023

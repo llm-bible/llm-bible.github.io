@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Intent-conditioned and Non-toxic Counterspeech Generation using Multi-Task Instruction Tuning with RLAIF
+title: Intent-conditioned And Non-toxic Counterspeech Generation Using Multi-task Instruction Tuning With RLAIF
 authors: Hengle Amey, Kumar Aswini, Singh Sahajpreet, Bandhakavi Anil, Akhtar Md Shad, Chakroborty Tanmoy
 conference: "Arxiv"
 year: 2024

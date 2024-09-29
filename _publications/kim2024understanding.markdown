@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding Large-Language Model (LLM)-powered Human-Robot Interaction
+title: Understanding Large-language Model (llm)-powered Human-robot Interaction
 authors: Kim Callie Y., Lee Christine P., Mutlu Bilge
 conference: "Arxiv"
 year: 2024

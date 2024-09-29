@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Disability Lens towards Biases in GPT-3 Generated Open-Ended Languages
+title: A Disability Lens Towards Biases In GPT-3 Generated Open-ended Languages
 authors: Amin Akhter Al, Kabir Kazi Sinthia
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Image Captioning with Deep Bidirectional LSTMs
+title: Image Captioning With Deep Bidirectional Lstms
 authors: Wang Cheng, Yang Haojin, Bartz Christian, Meinel Christoph
 conference: "Arxiv"
 year: 2016

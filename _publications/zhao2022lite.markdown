@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lite Unified Modeling for Discriminative Reading Comprehension
+title: Lite Unified Modeling For Discriminative Reading Comprehension
 authors: Zhao Yilin, Zhao Hai, Shen Libin, Zhao Yinggong
 conference: "Arxiv"
 year: 2022

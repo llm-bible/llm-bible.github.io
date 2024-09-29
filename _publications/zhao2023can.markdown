@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can ChatGPT-like Generative Models Guarantee Factual Accuracy On the Mistakes of New Generation Search Engines
+title: Can Chatgpt-like Generative Models Guarantee Factual Accuracy On The Mistakes Of New Generation Search Engines
 authors: Zhao Ruochen, Li Xingxuan, Chia Yew Ken, Ding Bosheng, Bing Lidong
 conference: "Arxiv"
 year: 2023

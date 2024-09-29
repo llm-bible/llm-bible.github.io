@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DetectBench Can Large Language Model Detect and Piece Together Implicit Evidence
+title: Detectbench Can Large Language Model Detect And Piece Together Implicit Evidence
 authors: Gu Zhouhong, Zhang Lin, Zhu Xiaoxuan, Chen Jiangjie, Huang Wenhao, Zhang Yikai, Wang Shusen, Ye Zheyu, Gao Yan, Feng Hongwei, Xiao Yanghua
 conference: "Arxiv"
 year: 2024

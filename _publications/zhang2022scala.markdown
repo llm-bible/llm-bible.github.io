@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ScaLA Accelerating Adaptation of Pre-Trained Transformer-Based Language Models via Efficient Large-Batch Adversarial Noise
+title: Scala Accelerating Adaptation Of Pre-trained Transformer-based Language Models Via Efficient Large-batch Adversarial Noise
 authors: Zhang Minjia, Naresh Niranjan Uma, He Yuxiong
 conference: "Arxiv"
 year: 2022

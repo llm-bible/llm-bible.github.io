@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Zero to Hero Examining the Power of Symbolic Tasks in Instruction Tuning
+title: From Zero To Hero Examining The Power Of Symbolic Tasks In Instruction Tuning
 authors: Liu Qian, Zhou Fan, Jiang Zhengbao, Dou Longxu, Lin Min
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Sequential Recommendation Consistency with Self-Supervised Imitation
+title: Improving Sequential Recommendation Consistency With Self-supervised Imitation
 authors: Yuan Xu, Chen Hongshen, Song Yonghao, Zhao Xiaofang, Ding Zhuoye, He Zhen, Long Bo
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TEncDM Understanding the Properties of Diffusion Model in the Space of Language Model Encodings
+title: Tencdm Understanding The Properties Of Diffusion Model In The Space Of Language Model Encodings
 authors: Shabalin Alexander, Meshchaninov Viacheslav, Chimbulatov Egor, Lapikov Vladislav, Kim Roman, Bartosh Grigory, Molchanov Dmitry, Markov Sergey, Vetrov Dmitry
 conference: "Arxiv"
 year: 2024

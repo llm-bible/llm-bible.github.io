@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Outcome-Constrained Large Language Models for Countering Hate Speech
+title: Outcome-constrained Large Language Models For Countering Hate Speech
 authors: Hong Lingzi, Luo Pengcheng, Blanco Eduardo, Song Xiaoying
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Few-Shot Cross-Lingual Transfer for Prompting Large Language Models in Low-Resource Languages
+title: Few-shot Cross-lingual Transfer For Prompting Large Language Models In Low-resource Languages
 authors: Toukmaji Christopher
 conference: "Arxiv"
 year: 2024

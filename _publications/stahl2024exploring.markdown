@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring LLM Prompting Strategies for Joint Essay Scoring and Feedback Generation
+title: Exploring LLM Prompting Strategies For Joint Essay Scoring And Feedback Generation
 authors: Stahl Maja, Biermann Leon, Nehring Andreas, Wachsmuth Henning
 conference: "Arxiv"
 year: 2024

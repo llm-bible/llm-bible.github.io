@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: HumanEval on Latest GPT Models -- 2024
+title: Humaneval On Latest GPT Models -- 2024
 authors: Li Daniel, Murr Lincoln
 conference: "Arxiv"
 year: 2024

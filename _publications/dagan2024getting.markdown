@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Getting the most out of your tokenizer for pre-training and domain adaptation
+title: Getting The Most Out Of Your Tokenizer For Pre-training And Domain Adaptation
 authors: Dagan Gautier, Synnaeve Gabriel, Rozière Baptiste
 conference: "Arxiv"
 year: 2024

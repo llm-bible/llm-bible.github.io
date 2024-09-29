@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Modeling Topical Relevance for Multi-Turn Dialogue Generation
+title: Modeling Topical Relevance For Multi-turn Dialogue Generation
 authors: Zhang Hainan, Lan Yanyan, Pang Liang, Chen Hongshen, Ding Zhuoye, Yin Dawei
 conference: "the"
 year: 2020

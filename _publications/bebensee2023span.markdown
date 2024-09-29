@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Span-Selective Linear Attention Transformers for Effective and Robust Schema-Guided Dialogue State Tracking
+title: Span-selective Linear Attention Transformers For Effective And Robust Schema-guided Dialogue State Tracking
 authors: Bebensee Björn, Lee Haejun
 conference: "Arxiv"
 year: 2023

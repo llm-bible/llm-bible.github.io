@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Making Task-Oriented Dialogue Datasets More Natural by Synthetically Generating Indirect User Requests
+title: Making Task-oriented Dialogue Datasets More Natural By Synthetically Generating Indirect User Requests
 authors: Mannekote Amogh, Nam Jinseok, Li Ziming, Gao Jian, Boyer Kristy Elizabeth, Dorr Bonnie J.
 conference: "Arxiv"
 year: 2024

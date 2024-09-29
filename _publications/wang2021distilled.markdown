@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Distilled Dual-Encoder Model for Vision-Language Understanding
+title: Distilled Dual-encoder Model For Vision-language Understanding
 authors: Wang Zekun, Wang Wenhui, Zhu Haichao, Liu Ming, Qin Bing, Wei Furu
 conference: "Arxiv"
 year: 2021

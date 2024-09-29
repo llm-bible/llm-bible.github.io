@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Probabilistically Masked Language Model Capable of Autoregressive Generation in Arbitrary Word Order
+title: Probabilistically Masked Language Model Capable Of Autoregressive Generation In Arbitrary Word Order
 authors: Liao Yi, Jiang Xin, Liu Qun
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Understanding and Improving Constrained Text Generation for Large Language Models
+title: Evaluating Understanding And Improving Constrained Text Generation For Large Language Models
 authors: Chen Xiang, Wan Xiaojun
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Marathon A Race Through the Realm of Long Context with Large Language Models
+title: Marathon A Race Through The Realm Of Long Context With Large Language Models
 authors: Zhang Lei, Li Yunshui, Liu Ziqiang, Yang Jiaxi, Liu Junhao, Chen Longze, Luo Run, Yang Min
 conference: "Arxiv"
 year: 2023

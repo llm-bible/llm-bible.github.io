@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Models Explain Themselves Counterfactual Simulatability of Natural Language Explanations
+title: Do Models Explain Themselves Counterfactual Simulatability Of Natural Language Explanations
 authors: Chen Yanda, Zhong Ruiqi, Ri Narutatsu, Zhao Chen, He He, Steinhardt Jacob, Yu Zhou, Mckeown Kathleen
 conference: "Arxiv"
 year: 2023

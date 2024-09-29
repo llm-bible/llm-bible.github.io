@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MM-Narrator Narrating Long-form Videos with Multimodal In-Context Learning
+title: Mm-narrator Narrating Long-form Videos With Multimodal In-context Learning
 authors: Zhang Chaoyi, Lin Kevin, Yang Zhengyuan, Wang Jianfeng, Li Linjie, Lin Chung-ching, Liu Zicheng, Wang Lijuan
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recursively Summarizing Enables Long-Term Dialogue Memory in Large Language Models
+title: Recursively Summarizing Enables Long-term Dialogue Memory In Large Language Models
 authors: Wang Qingyue, Ding Liang, Cao Yanan, Tian Zhiliang, Wang Shi, Tao Dacheng, Guo Li
 conference: "Arxiv"
 year: 2023

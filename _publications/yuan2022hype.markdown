@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: HyPe Better Pre-trained Language Model Fine-tuning with Hidden Representation Perturbation
+title: Hype Better Pre-trained Language Model Fine-tuning With Hidden Representation Perturbation
 authors: Yuan Hongyi, Yuan Zheng, Tan Chuanqi, Huang Fei, Huang Songfang
 conference: "Arxiv"
 year: 2022

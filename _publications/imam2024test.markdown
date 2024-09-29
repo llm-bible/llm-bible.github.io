@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Test-Time Low Rank Adaptation via Confidence Maximization for Zero-Shot Generalization of Vision-Language Models
+title: Test-time Low Rank Adaptation Via Confidence Maximization For Zero-shot Generalization Of Vision-language Models
 authors: Imam Raza, Gani Hanan, Huzaifa Muhammad, Nandakumar Karthik
 conference: "Arxiv"
 year: 2024

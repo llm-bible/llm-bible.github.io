@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: S3Eval A Synthetic Scalable Systematic Evaluation Suite for Large Language Models
+title: S3eval A Synthetic Scalable Systematic Evaluation Suite For Large Language Models
 authors: Lei Fangyu, Liu Qian, Huang Yiming, He Shizhu, Zhao Jun, Liu Kang
 conference: "Arxiv"
 year: 2023

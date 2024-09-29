@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LRP4RAG Detecting Hallucinations in Retrieval-Augmented Generation via Layer-wise Relevance Propagation
+title: LRP4RAG Detecting Hallucinations In Retrieval-augmented Generation Via Layer-wise Relevance Propagation
 authors: Hu Haichuan, Sun Yuhan, Zhang Quanjun
 conference: "Arxiv"
 year: 2024

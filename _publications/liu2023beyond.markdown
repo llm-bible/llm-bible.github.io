@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Text Unveiling Multimodal Proficiency of Large Language Models with MultiAPI Benchmark
+title: Beyond Text Unveiling Multimodal Proficiency Of Large Language Models With Multiapi Benchmark
 authors: Liu Xiao, Lin Jianfeng, Zhang Jiawei
 conference: "Arxiv"
 year: 2023

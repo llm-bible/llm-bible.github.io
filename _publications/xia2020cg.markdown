@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CG-BERT Conditional Text Generation with BERT for Generalized Few-shot Intent Detection
+title: CG-BERT Conditional Text Generation With BERT For Generalized Few-shot Intent Detection
 authors: Xia Congying, Zhang Chenwei, Nguyen Hoang, Zhang Jiawei, Yu Philip
 conference: "Arxiv"
 year: 2020

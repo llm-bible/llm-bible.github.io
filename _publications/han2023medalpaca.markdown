@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MedAlpaca -- An Open-Source Collection of Medical Conversational AI Models and Training Data
+title: Medalpaca -- An Open-source Collection Of Medical Conversational AI Models And Training Data
 authors: Han Tianyu, Adams Lisa C., Papaioannou Jens-michalis, Grundmann Paul, Oberhauser Tom, Löser Alexander, Truhn Daniel, Bressem Keno K.
 conference: "Arxiv"
 year: 2023

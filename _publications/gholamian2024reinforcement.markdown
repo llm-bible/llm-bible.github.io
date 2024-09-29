@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reinforcement Learning Problem Solving with Large Language Models
+title: Reinforcement Learning Problem Solving With Large Language Models
 authors: Gholamian Sina, Huh Domingo
 conference: "Arxiv"
 year: 2024

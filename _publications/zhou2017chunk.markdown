@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chunk-Based Bi-Scale Decoder for Neural Machine Translation
+title: Chunk-based Bi-scale Decoder For Neural Machine Translation
 authors: Zhou Hao, Tu Zhaopeng, Huang Shujian, Liu Xiaohua, Li Hang, Chen Jiajun
 conference: "Arxiv"
 year: 2017

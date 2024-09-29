@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LIDAO Towards Limited Interventions for Debiasing (Large) Language Models
+title: LIDAO Towards Limited Interventions For Debiasing (large) Language Models
 authors: Liu Tianci, Wang Haoyu, Wang Shiyang, Cheng Yu, Gao Jing
 conference: "Arxiv"
 year: 2024

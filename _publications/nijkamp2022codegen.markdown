@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CodeGen An Open Large Language Model for Code with Multi-Turn Program Synthesis
+title: Codegen An Open Large Language Model For Code With Multi-turn Program Synthesis
 authors: Erik Nijkamp, Bo Pang, Hiroaki Hayashi, Lifu Tu, Huan Wang, Yingbo Zhou, Silvio Savarese, Caiming Xiong
 conference: "Arxiv"
 year: 2022

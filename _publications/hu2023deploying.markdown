@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Deploying and Evaluating LLMs to Program Service Mobile Robots
+title: Deploying And Evaluating Llms To Program Service Mobile Robots
 authors: Hu Zichao, Lucchetti Francesca, Schlesinger Claire, Saxena Yash, Freeman Anders, Modak Sadanand, Guha Arjun, Biswas Joydeep
 conference: "IEEE Robotics and Automation Letters vol."
 year: 2023

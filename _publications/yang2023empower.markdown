@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Empower Large Language Model to Perform Better on Industrial Domain-Specific Question Answering
+title: Empower Large Language Model To Perform Better On Industrial Domain-specific Question Answering
 authors: Yang Fangkai, Zhao Pu, Wang Zezhong, Wang Lu, Zhang Jue, Garg Mohit, Lin Qingwei, Rajmohan Saravan, Zhang Dongmei
 conference: "Arxiv"
 year: 2023

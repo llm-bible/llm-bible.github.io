@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pre-train Prompt and Predict A Systematic Survey of Prompting Methods in Natural Language Processing
+title: Pre-train Prompt And Predict A Systematic Survey Of Prompting Methods In Natural Language Processing
 authors: Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, Graham Neubig
 conference: "Arxiv"
 year: 2021

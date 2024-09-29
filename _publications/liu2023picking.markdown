@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Picking the Underused Heads A Network Pruning Perspective of Attention Head Selection for Fusing Dialogue Coreference Information
+title: Picking The Underused Heads A Network Pruning Perspective Of Attention Head Selection For Fusing Dialogue Coreference Information
 authors: Liu Zhengyuan, Chen Nancy F.
 conference: "Arxiv"
 year: 2023

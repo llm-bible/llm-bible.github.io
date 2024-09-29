@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Information Theoretic Text-to-Image Alignment
+title: Information Theoretic Text-to-image Alignment
 authors: Wang Chao, Franzese Giulio, Finamore Alessandro, Gallo Massimo, Michiardi Pietro
 conference: "Arxiv"
 year: 2024

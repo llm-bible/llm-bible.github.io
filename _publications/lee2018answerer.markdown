@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Answerer In Questionerx27;s Mind Information Theoretic Approach To Goal-oriented Visual Dialog
+title: Answerer In Questioners Mind Information Theoretic Approach To Goal-oriented Visual Dialog
 authors: Lee Sang-woo, Heo Yu-jung, Zhang Byoung-tak
 conference: "Arxiv"
 year: 2018

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fishing for Magikarp Automatically Detecting Under-trained Tokens in Large Language Models
+title: Fishing For Magikarp Automatically Detecting Under-trained Tokens In Large Language Models
 authors: Land Sander, Bartolo Max
 conference: "Arxiv"
 year: 2024

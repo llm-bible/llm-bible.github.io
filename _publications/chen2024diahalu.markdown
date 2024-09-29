@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DiaHalu A Dialogue-level Hallucination Evaluation Benchmark for Large Language Models
+title: Diahalu A Dialogue-level Hallucination Evaluation Benchmark For Large Language Models
 authors: Chen Kedi, Chen Qin, Zhou Jie, He Yishen, He Liang
 conference: "Arxiv"
 year: 2024

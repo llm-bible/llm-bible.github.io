@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLMs can learn self-restraint through iterative self-reflection
+title: Llms Can Learn Self-restraint Through Iterative Self-reflection
 authors: Piché Alexandre, Milios Aristides, Bahdanau Dzmitry, Pal Chris
 conference: "Arxiv"
 year: 2024

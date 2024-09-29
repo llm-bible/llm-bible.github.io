@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLMRefine Pinpointing and Refining Large Language Models via Fine-Grained Actionable Feedback
+title: Llmrefine Pinpointing And Refining Large Language Models Via Fine-grained Actionable Feedback
 authors: Xu Wenda, Deutsch Daniel, Finkelstein Mara, Juraska Juraj, Zhang Biao, Liu Zhongtao, Wang William Yang, Li Lei, Freitag Markus
 conference: "Arxiv"
 year: 2023

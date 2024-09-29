@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring the Robustness of Large Language Models for Solving Programming Problems
+title: Exploring The Robustness Of Large Language Models For Solving Programming Problems
 authors: Shirafuji Atsushi, Watanobe Yutaka, Ito Takumi, Morishita Makoto, Nakamura Yuki, Oda Yusuke, Suzuki Jun
 conference: "Arxiv"
 year: 2023

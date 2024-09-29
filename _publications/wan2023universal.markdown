@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Universal Self-Adaptive Prompting
+title: Universal Self-adaptive Prompting
 authors: Wan Xingchen, Sun Ruoxi, Nakhost Hootan, Dai Hanjun, Eisenschlos Julian Martin, Arik Sercan O., Pfister Tomas
 conference: "Arxiv"
 year: 2023

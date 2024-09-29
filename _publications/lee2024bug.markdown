@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bug In the Code Stack Can LLMs Find Bugs in Large Python Code Stacks
+title: Bug In The Code Stack Can Llms Find Bugs In Large Python Code Stacks
 authors: Lee Hokyung, Sharma Sumanyu, Hu Bing
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CtrlA Adaptive Retrieval-Augmented Generation via Probe-Guided Control
+title: Ctrla Adaptive Retrieval-augmented Generation Via Probe-guided Control
 authors: Liu Huanshuo, Zhang Hao, Guo Zhijiang, Dong Kuicai, Li Xiangyang, Lee Yi Quan, Zhang Cong, Liu Yong
 conference: "Arxiv"
 year: 2024

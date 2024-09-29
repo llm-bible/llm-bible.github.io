@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Fire Thief Is Also the Keeper Balancing Usability and Privacy in Prompts
+title: The Fire Thief Is Also The Keeper Balancing Usability And Privacy In Prompts
 authors: Shen Zhili, Xi Zihang, He Ying, Tong Wei, Hua Jingyu, Zhong Sheng
 conference: "Arxiv"
 year: 2024

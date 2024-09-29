@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-Polish Enhance Reasoning in Large Language Models via Problem Refinement
+title: Self-polish Enhance Reasoning In Large Language Models Via Problem Refinement
 authors: Zhiheng Xi, Senjie Jin, Yuhao Zhou, Rui Zheng, Songyang Gao, Tao Gui, Qi Zhang, Xuanjing Huang
 conference: "Arxiv"
 year: 2023

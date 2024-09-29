@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models and the Reverse Turing Test
+title: Large Language Models And The Reverse Turing Test
 authors: Sejnowski Terrence
 conference: "Neural Computation"
 year: 2022

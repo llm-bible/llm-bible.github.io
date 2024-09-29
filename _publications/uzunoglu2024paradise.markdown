@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PARADISE Evaluating Implicit Planning Skills of Language Models with Procedural Warnings and Tips Dataset
+title: PARADISE Evaluating Implicit Planning Skills Of Language Models With Procedural Warnings And Tips Dataset
 authors: Uzunoglu Arda, Safa Abdalfatah Rashid, Şahin Gözde Gül
 conference: "Arxiv"
 year: 2024

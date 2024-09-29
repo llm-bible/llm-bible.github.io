@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-Instructed Derived Prompt Generation Meets In-Context Learning Unlocking New Potential of Black-Box LLMs
+title: Self-instructed Derived Prompt Generation Meets In-context Learning Unlocking New Potential Of Black-box Llms
 authors: Li Zhuo, Du Yuhao, Hu Jinpeng, Wan Xiang, Gao Anningzhe
 conference: "Arxiv"
 year: 2024

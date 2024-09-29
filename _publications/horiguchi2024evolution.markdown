@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evolution of Social Norms in LLM Agents using Natural Language
+title: Evolution Of Social Norms In LLM Agents Using Natural Language
 authors: Horiguchi Ilya, Yoshida Takahide, Ikegami Takashi
 conference: "Arxiv"
 year: 2024

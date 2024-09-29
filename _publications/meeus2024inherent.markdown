@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Inherent Challenges of Post-Hoc Membership Inference for Large Language Models
+title: Inherent Challenges Of Post-hoc Membership Inference For Large Language Models
 authors: Meeus Matthieu, Jain Shubham, Rei Marek, De Montjoye Yves-alexandre
 conference: "Arxiv"
 year: 2024

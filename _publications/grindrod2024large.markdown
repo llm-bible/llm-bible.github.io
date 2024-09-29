@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large language models and linguistic intentionality
+title: Large Language Models And Linguistic Intentionality
 authors: Grindrod Jumbly
 conference: "Arxiv"
 year: 2024

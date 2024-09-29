@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Capabilities of GPT-4 on Medical Challenge Problems
+title: Capabilities Of GPT-4 On Medical Challenge Problems
 authors: Nori Harsha, King Nicholas, Mckinney Scott Mayer, Carignan Dean, Horvitz Eric
 conference: "Arxiv"
 year: 2023

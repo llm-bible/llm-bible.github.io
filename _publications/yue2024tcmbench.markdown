@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TCMBench A Comprehensive Benchmark for Evaluating Large Language Models in Traditional Chinese Medicine
+title: Tcmbench A Comprehensive Benchmark For Evaluating Large Language Models In Traditional Chinese Medicine
 authors: Yue Wenjing, Wang Xiaoling, Zhu Wei, Guan Ming, Zheng Huanran, Wang Pengfei, Sun Changzhi, Ma Xin
 conference: "Arxiv"
 year: 2024

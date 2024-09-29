@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: APPLeNet Visual Attention Parameterized Prompt Learning for Few-Shot Remote Sensing Image Generalization using CLIP
+title: Applenet Visual Attention Parameterized Prompt Learning For Few-shot Remote Sensing Image Generalization Using CLIP
 authors: Singha Mainak, Jha Ankit, Solanki Bhupendra, Bose Shirsha, Banerjee Biplab
 conference: "Arxiv"
 year: 2023

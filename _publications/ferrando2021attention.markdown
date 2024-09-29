@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attention Weights in Transformer NMT Fail Aligning Words Between Sequences but Largely Explain Model Predictions
+title: Attention Weights In Transformer NMT Fail Aligning Words Between Sequences But Largely Explain Model Predictions
 authors: Ferrando Javier, Costa-jussà Marta R.
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Knowledge Prompting in Pre-trained Language Model for Natural Language Understanding
+title: Knowledge Prompting In Pre-trained Language Model For Natural Language Understanding
 authors: Wang Jianing, Huang Wenkang, Shi Qiuhui, Wang Hongbin, Qiu Minghui, Li Xiang, Gao Ming
 conference: "Arxiv"
 year: 2022

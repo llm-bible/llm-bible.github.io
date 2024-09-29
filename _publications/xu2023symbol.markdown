@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Symbol-LLM Towards Foundational Symbol-centric Interface For Large Language Models
+title: Symbol-llm Towards Foundational Symbol-centric Interface For Large Language Models
 authors: Xu Fangzhi, Wu Zhiyong, Sun Qiushi, Ren Siyu, Yuan Fei, Yuan Shuai, Lin Qika, Qiao Yu, Liu Jun
 conference: "Arxiv"
 year: 2023

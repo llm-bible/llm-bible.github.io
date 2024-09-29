@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Defending Jailbreak Prompts via In-Context Adversarial Game
+title: Defending Jailbreak Prompts Via In-context Adversarial Game
 authors: Zhou Yujun, Han Yufei, Zhuang Haomin, Guo Kehan, Liang Zhenwen, Bao Hongyan, Zhang Xiangliang
 conference: "Arxiv"
 year: 2024

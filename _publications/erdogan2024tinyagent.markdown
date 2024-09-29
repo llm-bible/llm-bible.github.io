@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TinyAgent Function Calling at the Edge
+title: Tinyagent Function Calling At The Edge
 authors: Erdogan Lutfi Eren, Lee Nicholas, Jha Siddharth, Kim Sehoon, Tabrizi Ryan, Moon Suhong, Hooper Coleman, Anumanchipalli Gopala, Keutzer Kurt, Gholami Amir
 conference: "Arxiv"
 year: 2024

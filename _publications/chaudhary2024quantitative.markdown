@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Quantitative Certification of Bias in Large Language Models
+title: Quantitative Certification Of Bias In Large Language Models
 authors: Chaudhary Isha, Hu Qian, Kumar Manoj, Ziyadi Morteza, Gupta Rahul, Singh Gagandeep
 conference: "Arxiv"
 year: 2024

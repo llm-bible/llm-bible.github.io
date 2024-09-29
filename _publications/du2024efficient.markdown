@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficient Personalized Text-to-image Generation by Leveraging Textual Subspace
+title: Efficient Personalized Text-to-image Generation By Leveraging Textual Subspace
 authors: Du Shian, Cheng Xiaotian, Qian Qi, Wei Henglu, Xu Yi, Ji Xiangyang
 conference: "Arxiv"
 year: 2024

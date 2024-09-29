@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: oBERTa Improving Sparse Transfer Learning via improved initialization distillation and pruning regimes
+title: Oberta Improving Sparse Transfer Learning Via Improved Initialization Distillation And Pruning Regimes
 authors: Campos Daniel, Marques Alexandre, Kurtz Mark, Zhai Chengxiang
 conference: "Arxiv"
 year: 2023

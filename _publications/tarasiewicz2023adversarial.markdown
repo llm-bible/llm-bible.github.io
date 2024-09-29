@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adversarial Conversational Shaping for Intelligent Agents
+title: Adversarial Conversational Shaping For Intelligent Agents
 authors: Tarasiewicz Piotr, Kenjeyev Sultan, Sebag Ilana, Alshehabi Shehab
 conference: "NeurIPS Workshop on Efficient Natural Language and Speech Processing"
 year: 2023

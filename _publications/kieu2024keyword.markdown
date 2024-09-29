@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Keyword-driven Retrieval-Augmented Large Language Models for Cold-start User Recommendations
+title: Keyword-driven Retrieval-augmented Large Language Models For Cold-start User Recommendations
 authors: Kieu Hai-dang, Nguyen Minh Duc, Nguyen Thanh-son, Le Dung D.
 conference: "Arxiv"
 year: 2024

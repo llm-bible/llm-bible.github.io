@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Human Behavioral Benchmarking Numeric Magnitude Comparison Effects in Large Language Models
+title: Human Behavioral Benchmarking Numeric Magnitude Comparison Effects In Large Language Models
 authors: Shah Raj Sanjay, Marupudi Vijay, Koenen Reba, Bhardwaj Khushi, Varma Sashank
 conference: "Arxiv"
 year: 2023

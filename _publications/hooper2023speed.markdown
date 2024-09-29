@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SPEED Speculative Pipelined Execution for Efficient Decoding
+title: SPEED Speculative Pipelined Execution For Efficient Decoding
 authors: Hooper Coleman, Kim Sehoon, Mohammadzadeh Hiva, Genc Hasan, Keutzer Kurt, Gholami Amir, Shao Sophia
 conference: "Arxiv"
 year: 2023

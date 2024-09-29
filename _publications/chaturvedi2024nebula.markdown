@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: NeBuLa A discourse aware Minecraft Builder
+title: Nebula A Discourse Aware Minecraft Builder
 authors: Chaturvedi Akshay, Thompson Kate, Asher Nicholas
 conference: "Arxiv"
 year: 2024

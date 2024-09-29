@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chain of Empathy Enhancing Empathetic Response of Large Language Models Based on Psychotherapy Models
+title: Chain Of Empathy Enhancing Empathetic Response Of Large Language Models Based On Psychotherapy Models
 authors: Lee Yoon Kyung, Lee Inju, Shin Minjung, Bae Seoyeon, Hahn Sowon
 conference: "Korean Journal of Cognitive Science."
 year: 2023

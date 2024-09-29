@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Inducing Grammars with and for Neural Machine Translation
+title: Inducing Grammars With And For Neural Machine Translation
 authors: Tran Ke, Bisk Yonatan
 conference: "Arxiv"
 year: 2018

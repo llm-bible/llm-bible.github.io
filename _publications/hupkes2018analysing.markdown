@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Analysing the potential of seq-to-seq models for incremental interpretation in task-oriented dialogue
+title: Analysing The Potential Of Seq-to-seq Models For Incremental Interpretation In Task-oriented Dialogue
 authors: Hupkes Dieuwke, Bouwmeester Sanne, Fernández Raquel
 conference: "Arxiv"
 year: 2018

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chain-of-Knowledge Grounding Large Language Models via Dynamic Knowledge Adapting over Heterogeneous Sources
+title: Chain-of-knowledge Grounding Large Language Models Via Dynamic Knowledge Adapting Over Heterogeneous Sources
 authors: Li Xingxuan, Zhao Ruochen, Chia Yew Ken, Ding Bosheng, Joty Shafiq, Poria Soujanya, Bing Lidong
 conference: "Arxiv"
 year: 2023

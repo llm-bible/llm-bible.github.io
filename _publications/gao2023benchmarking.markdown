@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Benchmarking Large Language Models with Augmented Instructions for Fine-grained Information Extraction
+title: Benchmarking Large Language Models With Augmented Instructions For Fine-grained Information Extraction
 authors: Gao Jun, Zhao Huan, Zhang Yice, Wang Wei, Yu Changlong, Xu Ruifeng
 conference: "Arxiv"
 year: 2023

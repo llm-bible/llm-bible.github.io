@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: First Align then Predict Understanding the Cross-Lingual Ability of Multilingual BERT
+title: First Align Then Predict Understanding The Cross-lingual Ability Of Multilingual BERT
 authors: Muller Benjamin, Elazar Yanai, Sagot Benoît, Seddah Djamé
 conference: "Arxiv"
 year: 2021

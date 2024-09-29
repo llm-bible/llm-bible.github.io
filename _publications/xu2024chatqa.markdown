@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChatQA 2 Bridging the Gap to Proprietary LLMs in Long Context and RAG Capabilities
+title: Chatqa 2 Bridging The Gap To Proprietary Llms In Long Context And RAG Capabilities
 authors: Xu Peng, Ping Wei, Wu Xianchao, Xu Chejian, Liu Zihan, Shoeybi Mohammad, Catanzaro Bryan
 conference: "Arxiv"
 year: 2024

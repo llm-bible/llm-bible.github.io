@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EcomGPT Instruction-tuning Large Language Models with Chain-of-Task Tasks for E-commerce
+title: Ecomgpt Instruction-tuning Large Language Models With Chain-of-task Tasks For E-commerce
 authors: Li Yangning, Ma Shirong, Wang Xiaobin, Huang Shen, Jiang Chengyue, Zheng Hai-tao, Xie Pengjun, Huang Fei, Jiang Yong
 conference: "Arxiv"
 year: 2023

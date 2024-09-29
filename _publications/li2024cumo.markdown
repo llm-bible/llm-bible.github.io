@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CuMo Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts
+title: Cumo Scaling Multimodal LLM With Co-upcycled Mixture-of-experts
 authors: Li Jiachen, Wang Xinyao, Zhu Sijie, Kuo Chia-wen, Xu Lu, Chen Fan, Jain Jitesh, Shi Humphrey, Wen Longyin
 conference: "Arxiv"
 year: 2024

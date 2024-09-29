@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Emu Generative Pretraining in Multimodality
+title: Emu Generative Pretraining In Multimodality
 authors: Sun Quan, Yu Qiying, Cui Yufeng, Zhang Fan, Zhang Xiaosong, Wang Yueze, Gao Hongcheng, Liu Jingjing, Huang Tiejun, Wang Xinlong
 conference: "Arxiv"
 year: 2023

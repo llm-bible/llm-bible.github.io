@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Case Study Exploiting Neural Machine Translation to Translate CUDA to OpenCL
+title: A Case Study Exploiting Neural Machine Translation To Translate CUDA To Opencl
 authors: Kim Yonghae, Kim Hyesoon
 conference: "Arxiv"
 year: 2019

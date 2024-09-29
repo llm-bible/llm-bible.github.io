@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning to Answer by Learning to Ask Getting the Best of GPT-2 and BERT Worlds
+title: Learning To Answer By Learning To Ask Getting The Best Of GPT-2 And BERT Worlds
 authors: Klein Tassilo, Nabi Moin
 conference: "Arxiv"
 year: 2019

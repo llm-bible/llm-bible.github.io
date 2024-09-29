@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On the Universal Truthfulness Hyperplane Inside LLMs
+title: On The Universal Truthfulness Hyperplane Inside Llms
 authors: Liu Junteng, Chen Shiqi, Cheng Yu, He Junxian
 conference: "Arxiv"
 year: 2024

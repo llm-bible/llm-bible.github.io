@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scavenging Hyena Distilling Transformers into Long Convolution Models
+title: Scavenging Hyena Distilling Transformers Into Long Convolution Models
 authors: Ralambomihanta Tokiniaina Raharison, Mohammadzadeh Shahrad, Islam Mohammad Sami Nur, Jabbour Wassim, Liang Laurence
 conference: "Arxiv"
 year: 2024

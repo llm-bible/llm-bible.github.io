@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Neural Data-to-Text Generation via Jointly Learning the Segmentation and Correspondence
+title: Neural Data-to-text Generation Via Jointly Learning The Segmentation And Correspondence
 authors: Shen Xiaoyu, Chang Ernie, Su Hui, Zhou Jie, Klakow Dietrich
 conference: "Arxiv"
 year: 2020

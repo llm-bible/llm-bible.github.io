@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gradient-Mask Tuning Elevates the Upper Limits of LLM Performance
+title: Gradient-mask Tuning Elevates The Upper Limits Of LLM Performance
 authors: Li Haoling, Zhang Xin, Liu Xiao, Gong Yeyun, Wang Yifan, Yang Yujiu, Chen Qi, Cheng Peng
 conference: "Arxiv"
 year: 2024

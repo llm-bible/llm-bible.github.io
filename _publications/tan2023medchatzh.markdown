@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MedChatZH a Better Medical Adviser Learns from Better Instructions
+title: Medchatzh A Better Medical Adviser Learns From Better Instructions
 authors: Tan Yang, Li Mingchen, Huang Zijie, Yu Huiqun, Fan Guisheng
 conference: "Arxiv"
 year: 2023

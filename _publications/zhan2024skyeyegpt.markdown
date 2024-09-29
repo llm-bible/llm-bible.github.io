@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SkyEyeGPT Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model
+title: Skyeyegpt Unifying Remote Sensing Vision-language Tasks Via Instruction Tuning With Large Language Model
 authors: Zhan Yang, Xiong Zhitong, Yuan Yuan
 conference: "Arxiv"
 year: 2024

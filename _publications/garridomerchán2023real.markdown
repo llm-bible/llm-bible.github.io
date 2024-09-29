@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Real Customization or Just Marketing Are Customized Versions of Chat GPT Useful
+title: Real Customization Or Just Marketing Are Customized Versions Of Chat GPT Useful
 authors: Garrido-merchán Eduardo C., Arroyo-barrigüete Jose L., Borrás-pala Francisco, Escobar-torres Leandro, De Ibarreta Carlos Martínez, Ortiz-lozano Jose María, Rua-vieites Antonio
 conference: "Arxiv"
 year: 2023

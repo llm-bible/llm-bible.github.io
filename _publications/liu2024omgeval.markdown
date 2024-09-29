@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: OMGEval An Open Multilingual Generative Evaluation Benchmark for Large Language Models
+title: Omgeval An Open Multilingual Generative Evaluation Benchmark For Large Language Models
 authors: Liu Yang, Xu Meng, Wang Shuo, Yang Liner, Wang Haoyu, Liu Zhenghao, Kong Cunliang, Chen Yun, Liu Yang, Sun Maosong, Yang Erhong
 conference: "Arxiv"
 year: 2024

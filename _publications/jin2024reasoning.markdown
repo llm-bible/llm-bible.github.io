@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reasoning Grasping via Multimodal Large Language Model
+title: Reasoning Grasping Via Multimodal Large Language Model
 authors: Jin Shiyu, Xu Jinxuan, Lei Yutian, Zhang Liangjun
 conference: "Arxiv"
 year: 2024

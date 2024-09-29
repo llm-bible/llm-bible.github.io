@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Efficient and Effective Adaptation of Large Language Models for Sequential Recommendation
+title: Towards Efficient And Effective Adaptation Of Large Language Models For Sequential Recommendation
 authors: Peng Bo, Burns Ben, Chen Ziqi, Parthasarathy Srinivasan, Ning Xia
 conference: "Arxiv"
 year: 2023

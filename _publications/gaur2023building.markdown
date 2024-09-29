@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Building Trustworthy NeuroSymbolic AI Systems Consistency Reliability Explainability and Safety
+title: Building Trustworthy Neurosymbolic AI Systems Consistency Reliability Explainability And Safety
 authors: Gaur Manas, Sheth Amit
 conference: "Arxiv"
 year: 2023

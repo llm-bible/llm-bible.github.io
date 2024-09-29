@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Few-shot training LLMs for project-specific code-summarization
+title: Few-shot Training Llms For Project-specific Code-summarization
 authors: Ahmed Toufique, Devanbu Premkumar
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scaling Laws for Neural Language Models
+title: Scaling Laws For Neural Language Models
 authors: Jared Kaplan, Sam Mccandlish, Tom Henighan, Tom B. Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, Dario Amodei
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RussianSuperGLUE A Russian Language Understanding Evaluation Benchmark
+title: Russiansuperglue A Russian Language Understanding Evaluation Benchmark
 authors: Shavrina Tatiana, Fenogenova Alena, Emelyanov Anton, Shevelev Denis, Artemova Ekaterina, Malykh Valentin, Mikhailov Vladislav, Tikhonova Maria, Chertok Andrey, Evlampiev Andrey
 conference: "Arxiv"
 year: 2020

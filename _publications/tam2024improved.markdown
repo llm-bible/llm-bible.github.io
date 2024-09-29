@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Improved Traditional Chinese Evaluation Suite for Foundation Model
+title: An Improved Traditional Chinese Evaluation Suite For Foundation Model
 authors: Tam Zhi-rui, Pai Ya-ting, Lee Yen-wei, Chen Jun-da, Chu Wei-min, Cheng Sega, Shuai Hong-han
 conference: "Arxiv"
 year: 2024

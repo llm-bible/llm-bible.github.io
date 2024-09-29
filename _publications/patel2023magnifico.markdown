@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MAGNIFICo Evaluating the In-Context Learning Ability of Large Language Models to Generalize to Novel Interpretations
+title: Magnifico Evaluating The In-context Learning Ability Of Large Language Models To Generalize To Novel Interpretations
 authors: Patel Arkil, Bhattamishra Satwik, Reddy Siva, Bahdanau Dzmitry
 conference: "Arxiv"
 year: 2023

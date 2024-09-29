@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MG-Verilog Multi-grained Dataset Towards Enhanced LLM-assisted Verilog Generation
+title: Mg-verilog Multi-grained Dataset Towards Enhanced Llm-assisted Verilog Generation
 authors: Zhang Yongan, Yu Zhongzhi, Fu Yonggan, Wan Cheng, Lin Yingyan Celine
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pre-training LLMs using human-like development data corpus
+title: Pre-training Llms Using Human-like Development Data Corpus
 authors: Bhardwaj Khushi, Shah Raj Sanjay, Varma Sashank
 conference: "Arxiv"
 year: 2023

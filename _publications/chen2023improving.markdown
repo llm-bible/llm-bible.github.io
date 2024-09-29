@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Translation Faithfulness of Large Language Models via Augmenting Instructions
+title: Improving Translation Faithfulness Of Large Language Models Via Augmenting Instructions
 authors: Chen Yijie, Liu Yijin, Meng Fandong, Chen Yufeng, Xu Jinan, Zhou Jie
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring the effectiveness of ChatGPT-based feedback compared with teacher feedback and self-feedback Evidence from Chinese to English translation
+title: Exploring The Effectiveness Of Chatgpt-based Feedback Compared With Teacher Feedback And Self-feedback Evidence From Chinese To English Translation
 authors: Cao Siyi, Zhong Linping
 conference: "Arxiv"
 year: 2023

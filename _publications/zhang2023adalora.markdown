@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AdaLoRA Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning
+title: Adalora Adaptive Budget Allocation For Parameter-efficient Fine-tuning
 authors: Qingru Zhang, Minshuo Chen, Alexander Bukharin, Nikos Karampatziakis, Pengcheng He, Yu Cheng, Weizhu Chen, Tuo Zhao
 conference: "Arxiv"
 year: 2023

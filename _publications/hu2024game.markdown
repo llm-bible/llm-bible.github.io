@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Game Generation via Large Language Models
+title: Game Generation Via Large Language Models
 authors: Hu Chengpeng, Zhao Yunlong, Liu Jialin
 conference: "Arxiv"
 year: 2024

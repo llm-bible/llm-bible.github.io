@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Just Ask Learning to Answer Questions from Millions of Narrated Videos
+title: Just Ask Learning To Answer Questions From Millions Of Narrated Videos
 authors: Yang Antoine, Miech Antoine, Sivic Josef, Laptev Ivan, Schmid Cordelia
 conference: "Arxiv"
 year: 2020

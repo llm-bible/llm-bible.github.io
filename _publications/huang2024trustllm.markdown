@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TrustLLM Trustworthiness in Large Language Models
+title: Trustllm Trustworthiness In Large Language Models
 authors: Huang Yue, Sun Lichao, Wang Haoran, Wu Siyuan, Zhang Qihui, Li Yuan, Gao Chujie, Huang Yixin, Lyu Wenhan, Zhang Yixuan, Li Xiner, Liu Zhengliang, Liu Yixin, Wang Yijue, Zhang Zhikun, Vidgen Bertie, Kailkhura Bhavya, Xiong Caiming, Xiao Chaowei, Li Chunyuan, Xing Eric, Huang Furong, Liu Hao, Ji Heng, Wang Hongyi, Zhang Huan, Yao Huaxiu, Kellis Manolis, Zitnik Marinka, Jiang Meng, Bansal Mohit, Zou James, Pei Jian, Liu Jian, Gao Jianfeng, Han Jiawei, Zhao Jieyu, Tang Jiliang, Wang Jindong, Vanschoren Joaquin, Mitchell John, Shu Kai, Xu Kaidi, Chang Kai-wei, He Lifang, Huang Lifu, Backes Michael, Gong Neil Zhenqiang, Yu Philip S., Chen Pin-yu, Gu Quanquan, Xu Ran, Ying Rex, Ji Shuiwang, Jana Suman, Chen Tianlong, Liu Tianming, Zhou Tianyi, Wang William, Li Xiang, Zhang Xiangliang, Wang Xiao, Xie Xing, Chen Xun, Wang Xuyu, Liu Yan, Ye Yanfang, Cao Yinzhi, Chen Yong, Zhao Yue
 conference: "Arxiv"
 year: 2024

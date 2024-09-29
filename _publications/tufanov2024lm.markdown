@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LM Transparency Tool Interactive Tool for Analyzing Transformer Language Models
+title: LM Transparency Tool Interactive Tool For Analyzing Transformer Language Models
 authors: Tufanov Igor, Hambardzumyan Karen, Ferrando Javier, Voita Elena
 conference: "Arxiv"
 year: 2024

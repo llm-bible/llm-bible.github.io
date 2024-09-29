@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Unlocking Spell on Base LLMs Rethinking Alignment via In-Context Learning
+title: The Unlocking Spell On Base Llms Rethinking Alignment Via In-context Learning
 authors: Lin Bill Yuchen, Ravichander Abhilasha, Lu Ximing, Dziri Nouha, Sclar Melanie, Chandu Khyathi, Bhagavatula Chandra, Choi Yejin
 conference: "Arxiv"
 year: 2023

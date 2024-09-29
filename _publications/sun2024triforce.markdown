@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TriForce Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding
+title: Triforce Lossless Acceleration Of Long Sequence Generation With Hierarchical Speculative Decoding
 authors: Sun Hanshi, Chen Zhuoming, Yang Xinyu, Tian Yuandong, Chen Beidi
 conference: "Arxiv"
 year: 2024

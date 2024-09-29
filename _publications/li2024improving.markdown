@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Faithfulness of Large Language Models in Summarization via Sliding Generation and Self-Consistency
+title: Improving Faithfulness Of Large Language Models In Summarization Via Sliding Generation And Self-consistency
 authors: Li Taiji, Li Zhi, Zhang Yin
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RepEval Effective Text Evaluation with LLM Representation
+title: Repeval Effective Text Evaluation With LLM Representation
 authors: Sheng Shuqian, Xu Yi, Zhang Tianhang, Shen Zanwei, Fu Luoyi, Ding Jiaxin, Zhou Lei, Wang Xinbing, Zhou Chenghu
 conference: "Arxiv"
 year: 2024

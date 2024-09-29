@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Empowering Large Language Models on Robotic Manipulation with Affordance Prompting
+title: Empowering Large Language Models On Robotic Manipulation With Affordance Prompting
 authors: Cheng Guangran, Zhang Chuheng, Cai Wenzhe, Zhao Li, Sun Changyin, Bian Jiang
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GECKO Generative Language Model for English Code and Korean
+title: GECKO Generative Language Model For English Code And Korean
 authors: Oh Sungwoo, Kim Donggyu
 conference: "Arxiv"
 year: 2024

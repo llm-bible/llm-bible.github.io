@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AIOS Compiler LLM as Interpreter for Natural Language Programming and Flow Programming of AI Agents
+title: AIOS Compiler LLM As Interpreter For Natural Language Programming And Flow Programming Of AI Agents
 authors: Xu Shuyuan, Li Zelong, Mei Kai, Zhang Yongfeng
 conference: "Arxiv"
 year: 2024

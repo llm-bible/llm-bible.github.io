@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Memory Model for Question Answering from Streaming Data Supported by Rehearsal and Anticipation of Coreference Information
+title: A Memory Model For Question Answering From Streaming Data Supported By Rehearsal And Anticipation Of Coreference Information
 authors: Araujo Vladimir, Soto Alvaro, Moens Marie-francine
 conference: "Arxiv"
 year: 2023

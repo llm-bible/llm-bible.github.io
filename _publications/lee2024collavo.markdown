@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CoLLaVO Crayon Large Language and Vision mOdel
+title: Collavo Crayon Large Language And Vision Model
 authors: Lee Byung-kwan, Park Beomchan, Kim Chae Won, Ro Yong Man
 conference: "Arxiv"
 year: 2024

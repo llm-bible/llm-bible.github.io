@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Long Context Alignment with Short Instructions and Synthesized Positions
+title: Long Context Alignment With Short Instructions And Synthesized Positions
 authors: Wu Wenhao, Wang Yizhong, Fu Yao, Yue Xiang, Zhu Dawei, Li Sujian
 conference: "Arxiv"
 year: 2024

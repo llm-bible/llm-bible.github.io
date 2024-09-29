@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Analyzing Large language models chatbots An experimental approach using a probability test
+title: Analyzing Large Language Models Chatbots An Experimental Approach Using A Probability Test
 authors: Peruchini Melise, Teixeira Julio Monteiro
 conference: "Arxiv"
 year: 2024

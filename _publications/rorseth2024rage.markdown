@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RAGE Against the Machine Retrieval-Augmented LLM Explanations
+title: RAGE Against The Machine Retrieval-augmented LLM Explanations
 authors: Rorseth Joel, Godfrey Parke, Golab Lukasz, Srivastava Divesh, Szlichta Jaroslaw
 conference: "Arxiv"
 year: 2024

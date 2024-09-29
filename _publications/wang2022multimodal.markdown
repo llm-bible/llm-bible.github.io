@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multimodal Adaptive Distillation for Leveraging Unimodal Encoders for Vision-Language Tasks
+title: Multimodal Adaptive Distillation For Leveraging Unimodal Encoders For Vision-language Tasks
 authors: Wang Zhecan, Codella Noel, Chen Yen-chun, Zhou Luowei, Dai Xiyang, Xiao Bin, Yang Jianwei, You Haoxuan, Chang Kai-wei, Chang Shih-fu, Yuan Lu
 conference: "Arxiv"
 year: 2022

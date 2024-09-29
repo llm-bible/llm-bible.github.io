@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recommender Systems in the Era of Large Language Models (LLMs)
+title: Recommender Systems In The Era Of Large Language Models (llms)
 authors: Zihuai Zhao, Wenqi Fan, Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Zhen Wen, Fei Wang, Xiangyu Zhao, Jiliang Tang, Qing Li
 conference: "Arxiv"
 year: 2023

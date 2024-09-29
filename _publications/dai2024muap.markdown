@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MuAP Multi-step Adaptive Prompt Learning for Vision-Language Model with Missing Modality
+title: Muap Multi-step Adaptive Prompt Learning For Vision-language Model With Missing Modality
 authors: Dai Ruiting, Tan Yuqiao, Mo Lisi, He Tao, Qin Ke, Liang Shuang
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Expanding Frozen Vision-Language Models without Retraining Towards Improved Robot Perception
+title: Expanding Frozen Vision-language Models Without Retraining Towards Improved Robot Perception
 authors: Tavassoli Riley, Amani Mani, Akhavian Reza
 conference: "Arxiv"
 year: 2023

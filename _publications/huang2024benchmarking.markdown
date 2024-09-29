@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Benchmarking Large Language Models on Communicative Medical Coaching a Novel System and Dataset
+title: Benchmarking Large Language Models On Communicative Medical Coaching A Novel System And Dataset
 authors: Huang Hengguan, Wang Songtao, Liu Hongfu, Wang Hao, Wang Ye
 conference: "Arxiv"
 year: 2024

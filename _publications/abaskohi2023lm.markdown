@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LM-CPPF Paraphrasing-Guided Data Augmentation for Contrastive Prompt-Based Few-Shot Fine-Tuning
+title: LM-CPPF Paraphrasing-guided Data Augmentation For Contrastive Prompt-based Few-shot Fine-tuning
 authors: Abaskohi Amirhossein, Rothe Sascha, Yaghoobzadeh Yadollah
 conference: "https://aclanthology.org/"
 year: 2023

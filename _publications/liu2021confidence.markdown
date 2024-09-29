@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Confidence-Aware Scheduled Sampling for Neural Machine Translation
+title: Confidence-aware Scheduled Sampling For Neural Machine Translation
 authors: Liu Yijin, Meng Fandong, Chen Yufeng, Xu Jinan, Zhou Jie
 conference: "Arxiv"
 year: 2021

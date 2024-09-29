@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Language Models to Practical Self-Improving Computer Agents
+title: From Language Models To Practical Self-improving Computer Agents
 authors: Sheng Alex
 conference: "Arxiv"
 year: 2024

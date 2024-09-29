@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mixture of insighTful Experts (MoTE) The Synergy of Thought Chains and Expert Mixtures in Self-Alignment
+title: Mixture Of Insightful Experts (mote) The Synergy Of Thought Chains And Expert Mixtures In Self-alignment
 authors: Liu Zhili, Gou Yunhao, Chen Kai, Hong Lanqing, Gao Jiahui, Mi Fei, Zhang Yu, Li Zhenguo, Jiang Xin, Liu Qun, Kwok James T.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Natural Language Generation and Understanding of Big Code for AI-Assisted Programming A Review
+title: Natural Language Generation And Understanding Of Big Code For Ai-assisted Programming A Review
 authors: Wong Man Fai, Guo Shangxin, Hang Ching Nam, Ho Siu Wai, Tan Chee Wei
 conference: "Entropy"
 year: 2023

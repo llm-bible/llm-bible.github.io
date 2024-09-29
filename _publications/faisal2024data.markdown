@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Data-Augmentation-Based Dialectal Adaptation for LLMs
+title: Data-augmentation-based Dialectal Adaptation For Llms
 authors: Faisal Fahim, Anastasopoulos Antonios
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: When Linear Attention Meets Autoregressive Decoding Towards More Effective and Efficient Linearized Large Language Models
+title: When Linear Attention Meets Autoregressive Decoding Towards More Effective And Efficient Linearized Large Language Models
 authors: You Haoran, Fu Yichao, Wang Zheng, Yazdanbakhsh Amir, Lin Yingyan Celine
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RecGPT Generative Personalized Prompts for Sequential Recommendation via ChatGPT Training Paradigm
+title: Recgpt Generative Personalized Prompts For Sequential Recommendation Via Chatgpt Training Paradigm
 authors: Zhang Yabin, Yu Wenhui, Zhang Erhan, Chen Xu, Hu Lantao, Jiang Peng, Gai Kun
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-Reflection in LLM Agents Effects on Problem-Solving Performance
+title: Self-reflection In LLM Agents Effects On Problem-solving Performance
 authors: Renze Matthew, Guven Erhan
 conference: "Arxiv"
 year: 2024

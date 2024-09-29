@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChatGPT and Beyond The Generative AI Revolution in Education
+title: Chatgpt And Beyond The Generative AI Revolution In Education
 authors: Al-smadi Mohammad
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models
+title: Interpreting Key Mechanisms Of Factual Recall In Transformer-based Language Models
 authors: Lv Ang, Chen Yuhan, Zhang Kaiyi, Wang Yulong, Liu Lifeng, Wen Ji-rong, Xie Jian, Yan Rui
 conference: "Arxiv"
 year: 2024

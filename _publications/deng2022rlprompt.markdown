@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RLPrompt Optimizing Discrete Text Prompts with Reinforcement Learning
+title: Rlprompt Optimizing Discrete Text Prompts With Reinforcement Learning
 authors: Deng Mingkai, Wang Jianyu, Hsieh Cheng-ping, Wang Yihan, Guo Han, Shu Tianmin, Song Meng, Xing Eric P., Hu Zhiting
 conference: "Arxiv"
 year: 2022

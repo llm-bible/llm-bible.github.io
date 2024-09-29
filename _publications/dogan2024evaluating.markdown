@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Linguistic Capabilities of Multimodal LLMs in the Lens of Few-Shot Learning
+title: Evaluating Linguistic Capabilities Of Multimodal Llms In The Lens Of Few-shot Learning
 authors: Dogan Mustafa, Kesen Ilker, Calixto Iacer, Erdem Aykut, Erdem Erkut
 conference: "Arxiv"
 year: 2024

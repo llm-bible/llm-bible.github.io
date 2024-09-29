@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Comparable Demonstrations are Important in In-Context Learning A Novel Perspective on Demonstration Selection
+title: Comparable Demonstrations Are Important In In-context Learning A Novel Perspective On Demonstration Selection
 authors: Fan Caoyun, Tian Jidong, Li Yitian, He Hao, Jin Yaohui
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fully Autonomous Programming with Large Language Models
+title: Fully Autonomous Programming With Large Language Models
 authors: Liventsev Vadim, Grishina Anastasiia, Härmä Aki, Moonen Leon
 conference: "Arxiv"
 year: 2023

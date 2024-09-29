@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DaG LLM ver 1.0 Pioneering Instruction-Tuned Language Modeling for Korean NLP
+title: Dag LLM Ver 1.0 Pioneering Instruction-tuned Language Modeling For Korean NLP
 authors: Jang Dongjun, Lee Sangah, Byun Sungjoo, Kim Jinwoong, Seo Jean, Kim Minseok, Kim Soyeon, Oh Chaeyoung, Kim Jaeyoon, Jo Hyemi, Shin Hyopil
 conference: "Arxiv"
 year: 2023

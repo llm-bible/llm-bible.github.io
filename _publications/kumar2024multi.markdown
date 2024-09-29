@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-modal Generation via Cross-Modal In-Context Learning
+title: Multi-modal Generation Via Cross-modal In-context Learning
 authors: Kumar Amandeep, Naseer Muzammal, Narayan Sanath, Anwer Rao Muhammad, Khan Salman, Cholakkal Hisham
 conference: "Arxiv"
 year: 2024

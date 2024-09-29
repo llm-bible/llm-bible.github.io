@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluation of ChatGPT Family of Models for Biomedical Reasoning and Classification
+title: Evaluation Of Chatgpt Family Of Models For Biomedical Reasoning And Classification
 authors: Chen Shan, Li Yingya, Lu Sheng, Van Hoang, Aerts Hugo Jwl, Savova Guergana K., Bitterman Danielle S.
 conference: "Arxiv"
 year: 2023

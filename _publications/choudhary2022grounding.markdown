@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Grounding in social media An approach to building a chit-chat dialogue model
+title: Grounding In Social Media An Approach To Building A Chit-chat Dialogue Model
 authors: Choudhary Ritvik, Kawahara Daisuke
 conference: "Arxiv"
 year: 2022

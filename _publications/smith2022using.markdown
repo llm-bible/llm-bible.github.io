@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B A Large-Scale Generative Language Model
+title: Using Deepspeed And Megatron To Train Megatron-turing NLG 530B A Large-scale Generative Language Model
 authors: Shaden Smith, Mostofa Patwary, Brandon Norick, Patrick Legresley, Samyam Rajbhandari, Jared Casper, Zhun Liu, Shrimai Prabhumoye, George Zerveas, Vijay Korthikanti, Elton Zhang, Rewon Child, Reza Yazdani Aminabadi, Julie Bernauer, Xia Song, Mohammad Shoeybi, Yuxiong He, Michael Houston, Saurabh Tiwary, Bryan Catanzaro
 conference: "Arxiv"
 year: 2022

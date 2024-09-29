@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MoA Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation
+title: Moa Mixture-of-attention For Subject-context Disentanglement In Personalized Image Generation
 authors: Wang Kuan-chieh, Ostashev Daniil, Fang Yuwei, Tulyakov Sergey, Aberman Kfir
 conference: "Arxiv"
 year: 2024

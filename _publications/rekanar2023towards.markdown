@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards a performance analysis on pre-trained Visual Question Answering models for autonomous driving
+title: Towards A Performance Analysis On Pre-trained Visual Question Answering Models For Autonomous Driving
 authors: Rekanar Kaavya, Eising Ciarán, Sistu Ganesh, Hayes Martin
 conference: "Proceedings of the Irish Machine Vision and Image Processing Conference"
 year: 2023

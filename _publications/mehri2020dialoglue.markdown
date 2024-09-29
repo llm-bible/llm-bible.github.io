@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DialoGLUE A Natural Language Understanding Benchmark for Task-Oriented Dialogue
+title: Dialoglue A Natural Language Understanding Benchmark For Task-oriented Dialogue
 authors: Mehri Shikib, Eric Mihail, Hakkani-tur Dilek
 conference: "Arxiv"
 year: 2020

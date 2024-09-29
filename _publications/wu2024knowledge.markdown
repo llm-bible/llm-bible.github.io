@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Knowledge-Infused Legal Wisdom Navigating LLM Consultation through the Lens of Diagnostics and Positive-Unlabeled Reinforcement Learning
+title: Knowledge-infused Legal Wisdom Navigating LLM Consultation Through The Lens Of Diagnostics And Positive-unlabeled Reinforcement Learning
 authors: Wu Yang, Wang Chenghao, Gumusel Ece, Liu Xiaozhong
 conference: "Arxiv"
 year: 2024

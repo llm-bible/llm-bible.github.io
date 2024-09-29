@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ExpNote Black-box Large Language Models are Better Task Solvers with Experience Notebook
+title: Expnote Black-box Large Language Models Are Better Task Solvers With Experience Notebook
 authors: Sun Wangtao, Yu Xuanqing, He Shizhu, Zhao Jun, Liu Kang
 conference: "Arxiv"
 year: 2023

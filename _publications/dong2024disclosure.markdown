@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Disclosure and Mitigation of Gender Bias in LLMs
+title: Disclosure And Mitigation Of Gender Bias In Llms
 authors: Dong Xiangjue, Wang Yibo, Yu Philip S., Caverlee James
 conference: "Arxiv"
 year: 2024

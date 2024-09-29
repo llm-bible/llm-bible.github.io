@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can multiple-choice questions really be useful in detecting the abilities of LLMs
+title: Can Multiple-choice Questions Really Be Useful In Detecting The Abilities Of Llms
 authors: Li Wangyue, Li Liangzhi, Xiang Tong, Liu Xiao, Deng Wei, Garcia Noa
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Models A Guide for the Perplexed
+title: Language Models A Guide For The Perplexed
 authors: Serrano Sofia, Brumbaugh Zander, Smith Noah A.
 conference: "Arxiv"
 year: 2023

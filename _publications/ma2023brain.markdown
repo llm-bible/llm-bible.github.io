@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Brain in a Vat On Missing Pieces Towards Artificial General Intelligence in Large Language Models
+title: Brain In A Vat On Missing Pieces Towards Artificial General Intelligence In Large Language Models
 authors: Ma Yuxi, Zhang Chi, Zhu Song-chun
 conference: "Arxiv"
 year: 2023

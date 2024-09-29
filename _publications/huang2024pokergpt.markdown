@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pokergpt An End-to-end Lightweight Solver For Multi-player Texas Holdx27;em Via Large Language Model
+title: Pokergpt An End-to-end Lightweight Solver For Multi-player Texas Holdem Via Large Language Model
 authors: Huang Chenghao, Cao Yanbo, Wen Yinlong, Zhou Tao, Zhang Yanru
 conference: "Arxiv"
 year: 2024

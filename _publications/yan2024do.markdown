@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Large Language Models Understand Logic or Just Mimick Context
+title: Do Large Language Models Understand Logic Or Just Mimick Context
 authors: Yan Junbing, Wang Chengyu, Huang Jun, Zhang Wei
 conference: "Arxiv"
 year: 2024

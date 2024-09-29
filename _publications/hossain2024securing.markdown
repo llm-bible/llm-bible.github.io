@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks
+title: Securing Vision-language Models With A Robust Encoder Against Jailbreak And Adversarial Attacks
 authors: Hossain Md Zarif, Imteaj Ahmed
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Challenges of Large Language Models for Mental Health Counseling
+title: Challenges Of Large Language Models For Mental Health Counseling
 authors: Chung Neo Christopher, Dyer George, Brocki Lennart
 conference: "Arxiv"
 year: 2023

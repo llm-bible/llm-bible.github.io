@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Frustratingly Short Attention Spans in Neural Language Modeling
+title: Frustratingly Short Attention Spans In Neural Language Modeling
 authors: Daniluk Michał, Rocktäschel Tim, Welbl Johannes, Riedel Sebastian
 conference: "Arxiv"
 year: 2017

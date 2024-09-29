@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Study on Multimodal and Interactive Explanations for Visual Question Answering
+title: A Study On Multimodal And Interactive Explanations For Visual Question Answering
 authors: Alipour Kamran, Schulze Jurgen P., Yao Yi, Ziskind Avi, Burachas Giedrius
 conference: "Proceedings of the Workshop on Artificial Intelligence Safety"
 year: 2020

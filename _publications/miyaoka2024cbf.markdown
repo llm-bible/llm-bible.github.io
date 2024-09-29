@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CBF-LLM Safe Control for LLM Alignment
+title: CBF-LLM Safe Control For LLM Alignment
 authors: Miyaoka Yuya, Inoue Masaki
 conference: "Arxiv"
 year: 2024

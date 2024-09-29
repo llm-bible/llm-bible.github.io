@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Outliers and Calibration Sets have Diminishing Effect on Quantization of Modern LLMs
+title: Outliers And Calibration Sets Have Diminishing Effect On Quantization Of Modern Llms
 authors: Paglieri Davide, Dash Saurabh, Rocktäschel Tim, Parker-holder Jack
 conference: "Arxiv"
 year: 2024

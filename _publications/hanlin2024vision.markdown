@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vision-and-Language Navigation Generative Pretrained Transformer
+title: Vision-and-language Navigation Generative Pretrained Transformer
 authors: Hanlin Wen
 conference: "Arxiv"
 year: 2024

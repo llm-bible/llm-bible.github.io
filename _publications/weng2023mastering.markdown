@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mastering Symbolic Operations Augmenting Language Models with Compiled Neural Networks
+title: Mastering Symbolic Operations Augmenting Language Models With Compiled Neural Networks
 authors: Weng Yixuan, Zhu Minjun, Xia Fei, Li Bin, He Shizhu, Liu Kang, Zhao Jun
 conference: "Arxiv"
 year: 2023

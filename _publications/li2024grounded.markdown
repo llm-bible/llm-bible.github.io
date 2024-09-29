@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Grounded Compositional and Diverse Text-to-3D with Pretrained Multi-View Diffusion Model
+title: Grounded Compositional And Diverse Text-to-3d With Pretrained Multi-view Diffusion Model
 authors: Li Xiaolong, Mo Jiawei, Wang Ying, Parameshwara Chethan, Fei Xiaohan, Swaminathan Ashwin, Taylor Cj, Tu Zhuowen, Favaro Paolo, Soatto Stefano
 conference: "Arxiv"
 year: 2024

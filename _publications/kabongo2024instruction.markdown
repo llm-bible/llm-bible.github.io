@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instruction Finetuning for Leaderboard Generation from Empirical AI Research
+title: Instruction Finetuning For Leaderboard Generation From Empirical AI Research
 authors: Kabongo Salomon, D'souza Jennifer
 conference: "Arxiv"
 year: 2024

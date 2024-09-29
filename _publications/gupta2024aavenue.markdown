@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AAVENUE Detecting LLM Biases on NLU Tasks in AAVE via a Novel Benchmark
+title: AAVENUE Detecting LLM Biases On NLU Tasks In AAVE Via A Novel Benchmark
 authors: Gupta Abhay, Meng Philip, Yurtseven Ece, O'brien Sean, Zhu Kevin
 conference: "Arxiv"
 year: 2024

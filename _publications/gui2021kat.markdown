@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: KAT A Knowledge Augmented Transformer for Vision-and-Language
+title: KAT A Knowledge Augmented Transformer For Vision-and-language
 authors: Gui Liangke, Wang Borui, Huang Qiuyuan, Hauptmann Alex, Bisk Yonatan, Gao Jianfeng
 conference: "Arxiv"
 year: 2021

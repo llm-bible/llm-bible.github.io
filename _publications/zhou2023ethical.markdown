@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ethical ChatGPT Concerns Challenges and Commandments
+title: Ethical Chatgpt Concerns Challenges And Commandments
 authors: Zhou Jianlong, Müller Heimo, Holzinger Andreas, Chen Fang
 conference: "Arxiv"
 year: 2023

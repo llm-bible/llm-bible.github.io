@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MLKV Multi-Layer Key-Value Heads for Memory Efficient Transformer Decoding
+title: MLKV Multi-layer Key-value Heads For Memory Efficient Transformer Decoding
 authors: Zuhri Zayd Muhammad Kawakibi, Adilazuarda Muhammad Farid, Purwarianti Ayu, Aji Alham Fikri
 conference: "Arxiv"
 year: 2024

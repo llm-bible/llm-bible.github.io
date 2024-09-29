@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Pretrained Transformer Models for Entity Linking in Task-Oriented Dialog
+title: Evaluating Pretrained Transformer Models For Entity Linking In Task-oriented Dialog
 authors: Jayanthi Sai Muralidhar, Embar Varsha, Raghunathan Karthik
 conference: "Arxiv"
 year: 2021

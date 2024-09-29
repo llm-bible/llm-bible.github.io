@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Models Encode Collaborative Signals in Recommendation
+title: Language Models Encode Collaborative Signals In Recommendation
 authors: Sheng Leheng, Zhang An, Zhang Yi, Chen Yuxin, Wang Xiang, Chua Tat-seng
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Large Language Models Possess Sensitive to Sentiment
+title: Do Large Language Models Possess Sensitive To Sentiment
 authors: Liu Yang, Zhu Xichou, Shen Zhou, Liu Yi, Li Min, Chen Yujun, John Benzi, Ma Zhenzhen, Hu Tao, Xu Zhiyang, Luo Wei, Wang Junhui
 conference: "Arxiv"
 year: 2024

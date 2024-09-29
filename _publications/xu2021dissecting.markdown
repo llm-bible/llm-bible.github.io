@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dissecting Generation Modes for Abstractive Summarization Models via Ablation and Attribution
+title: Dissecting Generation Modes For Abstractive Summarization Models Via Ablation And Attribution
 authors: Xu Jiacheng, Durrett Greg
 conference: "Arxiv"
 year: 2021

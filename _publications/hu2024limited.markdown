@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Limited Out-of-Context Knowledge Reasoning in Large Language Models
+title: Limited Out-of-context Knowledge Reasoning In Large Language Models
 authors: Hu Peng, Gao Changjiang, Gao Ruiqi, Chen Jiajun, Huang Shujian
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MoFO Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning
+title: Mofo Momentum-filtered Optimizer For Mitigating Forgetting In LLM Fine-tuning
 authors: Chen Yupeng, Wang Senmiao, Lin Zhihang, Qin Zeyu, Zhang Yushun, Ding Tian, Sun Ruoyu
 conference: "Arxiv"
 year: 2024

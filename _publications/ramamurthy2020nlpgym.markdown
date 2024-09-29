@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: NLPGym -- A toolkit for evaluating RL agents on Natural Language Processing Tasks
+title: Nlpgym -- A Toolkit For Evaluating RL Agents On Natural Language Processing Tasks
 authors: Ramamurthy Rajkumar, Sifa Rafet, Bauckhage Christian
 conference: "Arxiv"
 year: 2020

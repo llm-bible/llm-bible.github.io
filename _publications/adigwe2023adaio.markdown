@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The ADAIO System at the BEA-2023 Shared Task on Generating AI Teacher Responses in Educational Dialogues
+title: The ADAIO System At The BEA-2023 Shared Task On Generating AI Teacher Responses In Educational Dialogues
 authors: Adigwe Adaeze 2 And 3, Yuan Zheng 2 And 3
 conference: "Arxiv"
 year: 2023

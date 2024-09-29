@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fairytalecqa Integrating A Commonsense Knowledge Graph Into Childrenx27;s Storybook Narratives
+title: Fairytalecqa Integrating A Commonsense Knowledge Graph Into Childrens Storybook Narratives
 authors: Chen Jiaju, Lu Yuxuan, Zhang Shao, Yao Bingsheng, Dong Yuanzhe, Xu Ying, Li Yunyao, Wang Qianwen, Wang Dakuo, Sun Yuling
 conference: "Arxiv"
 year: 2023

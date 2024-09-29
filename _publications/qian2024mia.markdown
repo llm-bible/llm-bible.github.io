@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MIA-Bench Towards Better Instruction Following Evaluation of Multimodal LLMs
+title: Mia-bench Towards Better Instruction Following Evaluation Of Multimodal Llms
 authors: Qian Yusu, Ye Hanrong, Fauconnier Jean-philippe, Grasch Peter, Yang Yinfei, Gan Zhe
 conference: "Arxiv"
 year: 2024

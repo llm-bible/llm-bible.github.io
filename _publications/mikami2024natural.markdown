@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Natural Language as Policies Reasoning for Coordinate-Level Embodied Control with LLMs
+title: Natural Language As Policies Reasoning For Coordinate-level Embodied Control With Llms
 authors: Mikami Yusuke, Melnik Andrew, Miura Jun, Hautamäki Ville
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Audio Flamingo A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities
+title: Audio Flamingo A Novel Audio Language Model With Few-shot Learning And Dialogue Abilities
 authors: Kong Zhifeng, Goel Arushi, Badlani Rohan, Ping Wei, Valle Rafael, Catanzaro Bryan
 conference: "Arxiv"
 year: 2024

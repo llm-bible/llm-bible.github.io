@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models for Tuning Evolution Strategies
+title: Large Language Models For Tuning Evolution Strategies
 authors: Kramer Oliver
 conference: "Arxiv"
 year: 2024

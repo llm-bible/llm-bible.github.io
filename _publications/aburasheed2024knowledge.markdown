@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Knowledge Graphs as Context Sources for LLM-Based Explanations of Learning Recommendations
+title: Knowledge Graphs As Context Sources For Llm-based Explanations Of Learning Recommendations
 authors: Abu-rasheed Hasan, Weber Christian, Fathi Madjid
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vision-and-Language Pretrained Models A Survey
+title: Vision-and-language Pretrained Models A Survey
 authors: Long Siqu, Cao Feiqi, Han Soyeon Caren, Yang Haiqin
 conference: "Arxiv"
 year: 2022

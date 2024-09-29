@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GameEval Evaluating LLMs on Conversational Games
+title: Gameeval Evaluating Llms On Conversational Games
 authors: Qiao Dan, Wu Chenfei, Liang Yaobo, Li Juntao, Duan Nan
 conference: "Arxiv"
 year: 2023

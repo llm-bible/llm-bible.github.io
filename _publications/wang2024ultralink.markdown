@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: UltraLink An Open-Source Knowledge-Enhanced Multilingual Supervised Fine-tuning Dataset
+title: Ultralink An Open-source Knowledge-enhanced Multilingual Supervised Fine-tuning Dataset
 authors: Wang Haoyu, Wang Shuo, Yan Yukun, Wang Xujia, Yang Zhiyu, Xu Yuzhuang, Liu Zhenghao, Yang Liner, Ding Ning, Han Xu, Liu Zhiyuan, Sun Maosong
 conference: "Arxiv"
 year: 2024

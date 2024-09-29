@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Opening the Black Box of Neural Machine Translation Source and Target Interpretations of the Transformer
+title: Towards Opening The Black Box Of Neural Machine Translation Source And Target Interpretations Of The Transformer
 authors: Ferrando Javier, Gállego Gerard I., Alastruey Belen, Escolano Carlos, Costa-jussà Marta R.
 conference: "Arxiv"
 year: 2022

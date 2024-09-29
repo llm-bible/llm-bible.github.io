@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Non-autoregressive Neural Machine Translation with Monolingual Data
+title: Improving Non-autoregressive Neural Machine Translation With Monolingual Data
 authors: Zhou Jiawei, Keung Phillip
 conference: "Arxiv"
 year: 2020

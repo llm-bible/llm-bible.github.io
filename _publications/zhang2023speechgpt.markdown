@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SpeechGPT Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities
+title: Speechgpt Empowering Large Language Models With Intrinsic Cross-modal Conversational Abilities
 authors: Dong Zhang, Shimin Li, Xin Zhang, Jun Zhan, Pengyu Wang, Yaqian Zhou, Xipeng Qiu
 conference: "Arxiv"
 year: 2023

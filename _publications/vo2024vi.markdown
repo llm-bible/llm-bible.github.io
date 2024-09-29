@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vi-Mistral-X Building a Vietnamese Language Model with Advanced Continual Pre-training
+title: Vi-mistral-x Building A Vietnamese Language Model With Advanced Continual Pre-training
 authors: Vo James
 conference: "Arxiv"
 year: 2024

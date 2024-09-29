@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Surprising Efficacy of Fine-Tuned Transformers for Fact-Checking over Larger Language Models
+title: Surprising Efficacy Of Fine-tuned Transformers For Fact-checking Over Larger Language Models
 authors: Setty Vinay
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SEED Accelerating Reasoning Tree Construction via Scheduled Speculative Decoding
+title: SEED Accelerating Reasoning Tree Construction Via Scheduled Speculative Decoding
 authors: Wang Zhenglin, Wu Jialong, Lai Yilong, Zhang Congzhi, Zhou Deyu
 conference: "Arxiv"
 year: 2024

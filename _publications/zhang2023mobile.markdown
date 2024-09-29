@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mobile-Env Building Qualified Evaluation Benchmarks for LLM-GUI Interaction
+title: Mobile-env Building Qualified Evaluation Benchmarks For LLM-GUI Interaction
 authors: Zhang Danyang, Shen Zhennan, Xie Rui, Zhang Situo, Xie Tianbao, Zhao Zihan, Chen Siyuan, Chen Lu, Xu Hongshen, Cao Ruisheng, Yu Kai
 conference: "Arxiv"
 year: 2023

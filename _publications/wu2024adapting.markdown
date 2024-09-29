@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adapting Large Language Models for Document-Level Machine Translation
+title: Adapting Large Language Models For Document-level Machine Translation
 authors: Wu Minghao, Vu Thuy-trang, Qu Lizhen, Foster George, Haffari Gholamreza
 conference: "Arxiv"
 year: 2024

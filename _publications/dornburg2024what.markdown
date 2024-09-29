@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: To what extent is ChatGPT useful for language teacher lesson plan creation
+title: To What Extent Is Chatgpt Useful For Language Teacher Lesson Plan Creation
 authors: Dornburg Alex, Davin Kristin
 conference: "Arxiv"
 year: 2024

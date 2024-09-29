@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LAION-400M Open Dataset of CLIP-Filtered 400 Million Image-Text Pairs
+title: LAION-400M Open Dataset Of Clip-filtered 400 Million Image-text Pairs
 authors: Schuhmann Christoph, Vencu Richard, Beaumont Romain, Kaczmarczyk Robert, Mullis Clayton, Katta Aarush, Coombes Theo, Jitsev Jenia, Komatsuzaki Aran
 conference: "Arxiv"
 year: 2021

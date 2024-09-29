@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The language of prompting What linguistic properties make a prompt successful
+title: The Language Of Prompting What Linguistic Properties Make A Prompt Successful
 authors: Leidinger Alina, Van Rooij Robert, Shutova Ekaterina
 conference: "Arxiv"
 year: 2023

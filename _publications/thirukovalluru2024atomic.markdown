@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Atomic Self-Consistency for Better Long Form Generations
+title: Atomic Self-consistency For Better Long Form Generations
 authors: Thirukovalluru Raghuveer, Huang Yukun, Dhingra Bhuwan
 conference: "Arxiv"
 year: 2024

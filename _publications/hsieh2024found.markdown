@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Found in the Middle Calibrating Positional Attention Bias Improves Long Context Utilization
+title: Found In The Middle Calibrating Positional Attention Bias Improves Long Context Utilization
 authors: Hsieh Cheng-yu, Chuang Yung-sung, Li Chun-liang, Wang Zifeng, Le Long T., Kumar Abhishek, Glass James, Ratner Alexander, Lee Chen-yu, Krishna Ranjay, Pfister Tomas
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Verification and Refinement of Natural Language Explanations through LLM-Symbolic Theorem Proving
+title: Verification And Refinement Of Natural Language Explanations Through Llm-symbolic Theorem Proving
 authors: Quan Xin, Valentino Marco, Dennis Louise A., Freitas André
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CacheBlend Fast Large Language Model Serving for RAG with Cached Knowledge Fusion
+title: Cacheblend Fast Large Language Model Serving For RAG With Cached Knowledge Fusion
 authors: Yao Jiayi, Li Hanchen, Liu Yuhan, Ray Siddhant, Cheng Yihua, Zhang Qizheng, Du Kuntai, Lu Shan, Jiang Junchen
 conference: "Arxiv"
 year: 2024

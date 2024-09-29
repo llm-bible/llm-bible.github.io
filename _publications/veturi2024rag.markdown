@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RAG based Question-Answering for Contextual Response Prediction System
+title: RAG Based Question-answering For Contextual Response Prediction System
 authors: Veturi Sriram, Vaichal Saurabh, Jagadheesh Reshma Lal, Tripto Nafis Irtiza, Yan Nian
 conference: "Arxiv"
 year: 2024

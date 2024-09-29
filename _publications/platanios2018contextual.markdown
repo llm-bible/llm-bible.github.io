@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Contextual Parameter Generation for Universal Neural Machine Translation
+title: Contextual Parameter Generation For Universal Neural Machine Translation
 authors: Platanios Emmanouil Antonios, Sachan Mrinmaya, Neubig Graham, Mitchell Tom
 conference: "Arxiv"
 year: 2018

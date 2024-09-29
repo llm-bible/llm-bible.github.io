@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FlashBackEfficient Retrieval-Augmented Language Modeling for Long Context Inference
+title: Flashbackefficient Retrieval-augmented Language Modeling For Long Context Inference
 authors: Liu Runheng, Xiao Xingchen, Huang Heyan, Chi Zewen, Wu Zhijing
 conference: "Arxiv"
 year: 2024

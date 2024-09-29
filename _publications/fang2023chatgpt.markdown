@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChatGPT as Data Augmentation for Compositional Generalization A Case Study in Open Intent Detection
+title: Chatgpt As Data Augmentation For Compositional Generalization A Case Study In Open Intent Detection
 authors: Fang Yihao, Li Xianzhi, Thomas Stephen W., Zhu Xiaodan
 conference: "Proceedings of the Joint Workshop of the"
 year: 2023

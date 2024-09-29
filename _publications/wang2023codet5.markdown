@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CodeT5+ Open Code Large Language Models for Code Understanding and Generation
+title: Codet5+ Open Code Large Language Models For Code Understanding And Generation
 authors: Wang Yue, Le Hung, Gotmare Akhilesh Deepak, Bui Nghi D. Q., Li Junnan, Hoi Steven C. H.
 conference: "Arxiv"
 year: 2023

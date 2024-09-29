@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AutoM3L An Automated Multimodal Machine Learning Framework with Large Language Models
+title: Autom3l An Automated Multimodal Machine Learning Framework With Large Language Models
 authors: Luo Daqin, Feng Chengjian, Nong Yuxuan, Shen Yiqing
 conference: "Arxiv"
 year: 2024

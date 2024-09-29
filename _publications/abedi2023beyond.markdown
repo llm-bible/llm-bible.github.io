@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Traditional Teaching The Potential of Large Language Models and Chatbots in Graduate Engineering Education
+title: Beyond Traditional Teaching The Potential Of Large Language Models And Chatbots In Graduate Engineering Education
 authors: Abedi Mahyar, Alshybani Ibrahem, Shahadat Muhammad Rubayat Bin, Murillo Michael S.
 conference: "Arxiv"
 year: 2023

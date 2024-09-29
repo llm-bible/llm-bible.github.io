@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MaFeRw Query Rewriting with Multi-Aspect Feedbacks for Retrieval-Augmented Large Language Models
+title: Maferw Query Rewriting With Multi-aspect Feedbacks For Retrieval-augmented Large Language Models
 authors: Wang Yujing, Zhang Hainan, Pang Liang, Pang Liang, Zheng Hongwei, Zheng Zhiming
 conference: "Arxiv"
 year: 2024

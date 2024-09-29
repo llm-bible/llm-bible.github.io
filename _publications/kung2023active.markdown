@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Active Instruction Tuning Improving Cross-Task Generalization by Training on Prompt Sensitive Tasks
+title: Active Instruction Tuning Improving Cross-task Generalization By Training On Prompt Sensitive Tasks
 authors: Kung Po-nien, Yin Fan, Wu Di, Chang Kai-wei, Peng Nanyun
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Democratizing LLMs for Low-Resource Languages by Leveraging their English Dominant Abilities with Linguistically-Diverse Prompts
+title: Democratizing Llms For Low-resource Languages By Leveraging Their English Dominant Abilities With Linguistically-diverse Prompts
 authors: Nguyen Xuan-phi, Aljunied Sharifah Mahani, Joty Shafiq, Bing Lidong
 conference: "Arxiv"
 year: 2023

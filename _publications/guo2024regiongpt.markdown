@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RegionGPT Towards Region Understanding Vision Language Model
+title: Regiongpt Towards Region Understanding Vision Language Model
 authors: Guo Qiushan, De Mello Shalini, Yin Hongxu, Byeon Wonmin, Cheung Ka Chun, Yu Yizhou, Luo Ping, Liu Sifei
 conference: "Arxiv"
 year: 2024

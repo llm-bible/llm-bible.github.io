@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLMAuditor A Framework for Auditing Large Language Models Using Human-in-the-Loop
+title: Llmauditor A Framework For Auditing Large Language Models Using Human-in-the-loop
 authors: Amirizaniani Maryam, Yao Jihan, Lavergne Adrian, Okada Elizabeth Snell, Chadha Aman, Roosta Tanya, Shah Chirag
 conference: "Arxiv"
 year: 2024

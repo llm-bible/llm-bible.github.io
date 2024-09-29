@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: NLX-GPT A Model for Natural Language Explanations in Vision and Vision-Language Tasks
+title: NLX-GPT A Model For Natural Language Explanations In Vision And Vision-language Tasks
 authors: Sammani Fawaz, Mukherjee Tanmoy, Deligiannis Nikos
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Text to Emotion Unveiling the Emotion Annotation Capabilities of LLMs
+title: From Text To Emotion Unveiling The Emotion Annotation Capabilities Of Llms
 authors: Niu Minxue, Jaiswal Mimansa, Provost Emily Mower
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating LLM Applications in E-Commerce
+title: Investigating LLM Applications In E-commerce
 authors: Palen-michel Chester, Wang Ruixiang, Zhang Yipeng, Yu David, Xu Canran, Wu Zhe
 conference: "Arxiv"
 year: 2024

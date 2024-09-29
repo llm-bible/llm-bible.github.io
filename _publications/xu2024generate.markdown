@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generate-on-Graph Treat LLM as both Agent and KG in Incomplete Knowledge Graph Question Answering
+title: Generate-on-graph Treat LLM As Both Agent And KG In Incomplete Knowledge Graph Question Answering
 authors: Xu Yao, He Shizhu, Chen Jiabei, Wang Zihao, Song Yangqiu, Tong Hanghang, Liu Kang, Zhao Jun
 conference: "Arxiv"
 year: 2024

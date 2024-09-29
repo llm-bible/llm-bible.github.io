@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving In-context Learning via Bidirectional Alignment
+title: Improving In-context Learning Via Bidirectional Alignment
 authors: Qin Chengwei, Xia Wenhan, Jiao Fangkai, Chen Chen, Hu Yuchen, Ding Bosheng, Joty Shafiq
 conference: "Arxiv"
 year: 2023

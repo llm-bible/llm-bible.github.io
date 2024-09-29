@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pheme Efficient and Conversational Speech Generation
+title: Pheme Efficient And Conversational Speech Generation
 authors: Budzianowski Paweł, Sereda Taras, Cichy Tomasz, Vulić Ivan
 conference: "Arxiv"
 year: 2024

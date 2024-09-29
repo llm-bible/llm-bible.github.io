@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cue-CoT Chain-of-thought Prompting for Responding to In-depth Dialogue Questions with LLMs
+title: Cue-cot Chain-of-thought Prompting For Responding To In-depth Dialogue Questions With Llms
 authors: Wang Hongru, Wang Rui, Mi Fei, Deng Yang, Wang Zezhong, Liang Bin, Xu Ruifeng, Wong Kam-fai
 conference: "Arxiv"
 year: 2023

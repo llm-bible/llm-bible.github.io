@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MATTER Memory-Augmented Transformer Using Heterogeneous Knowledge Sources
+title: MATTER Memory-augmented Transformer Using Heterogeneous Knowledge Sources
 authors: Lee Dongkyu, Prakash Chandana Satya, Fitzgerald Jack, Lehmann Jens
 conference: "Arxiv"
 year: 2024

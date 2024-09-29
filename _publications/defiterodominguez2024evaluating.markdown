@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Large Language Models for automatic analysis of teacher simulations
+title: Evaluating Large Language Models For Automatic Analysis Of Teacher Simulations
 authors: De-fitero-dominguez David, Albaladejo-gonzález Mariano, Garcia-cabot Antonio, Garcia-lopez Eva, Moreno-cediel Antonio, Barno Erin, Reich Justin
 conference: "Arxiv"
 year: 2024

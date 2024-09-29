@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Empirical Study of In-context Learning in LLMs for Machine Translation
+title: An Empirical Study Of In-context Learning In Llms For Machine Translation
 authors: Chitale Pranjal A., Gala Jay, Dabre Raj
 conference: "Arxiv"
 year: 2024

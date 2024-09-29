@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ICL Markup Structuring In-Context Learning using Soft-Token Tags
+title: ICL Markup Structuring In-context Learning Using Soft-token Tags
 authors: Marc-etienne Brunet, Ashton Anderson, Richard Zemel
 conference: "Arxiv"
 year: 2023

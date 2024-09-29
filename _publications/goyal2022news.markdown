@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: News Summarization and Evaluation in the Era of GPT-3
+title: News Summarization And Evaluation In The Era Of GPT-3
 authors: Tanya Goyal, Junyi Jessy Li, Greg Durrett
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating the Translation Performance of a Large Multilingual Language Model the Case of BLOOM
+title: Investigating The Translation Performance Of A Large Multilingual Language Model The Case Of BLOOM
 authors: Bawden Rachel, Yvon François
 conference: "Arxiv"
 year: 2023

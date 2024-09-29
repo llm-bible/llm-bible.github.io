@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instruction-Following Speech Recognition
+title: Instruction-following Speech Recognition
 authors: Lai Cheng-i Jeff, Lu Zhiyun, Cao Liangliang, Pang Ruoming
 conference: "Arxiv"
 year: 2023

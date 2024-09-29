@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Glitch Tokens in Large Language Models Categorization Taxonomy and Effective Detection
+title: Glitch Tokens In Large Language Models Categorization Taxonomy And Effective Detection
 authors: Li Yuxi, Liu Yi, Deng Gelei, Zhang Ying, Song Wenjia, Shi Ling, Wang Kailong, Li Yuekang, Liu Yang, Wang Haoyu
 conference: "Arxiv"
 year: 2024

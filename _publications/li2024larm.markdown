@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LARM Large Auto-Regressive Model for Long-Horizon Embodied Intelligence
+title: LARM Large Auto-regressive Model For Long-horizon Embodied Intelligence
 authors: Li Zhuoling, Xu Xiaogang, Xu Zhenhua, Lim Sernam, Zhao Hengshuang
 conference: "Arxiv"
 year: 2024

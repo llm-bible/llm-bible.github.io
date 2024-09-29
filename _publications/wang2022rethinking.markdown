@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rethinking Textual Adversarial Defense for Pre-trained Language Models
+title: Rethinking Textual Adversarial Defense For Pre-trained Language Models
 authors: Wang Jiayi, Bao Rongzhou, Zhang Zhuosheng, Zhao Hai
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SelfIE Self-Interpretation of Large Language Model Embeddings
+title: Selfie Self-interpretation Of Large Language Model Embeddings
 authors: Chen Haozhe, Vondrick Carl, Mao Chengzhi
 conference: "Arxiv"
 year: 2024

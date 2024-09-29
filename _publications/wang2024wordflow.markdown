@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Wordflow Social Prompt Engineering for Large Language Models
+title: Wordflow Social Prompt Engineering For Large Language Models
 authors: Wang Zijie J., Chakravarthy Aishwarya, Munechika David, Chau Duen Horng
 conference: "Arxiv"
 year: 2024

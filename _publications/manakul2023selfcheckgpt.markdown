@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SelfCheckGPT Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models
+title: Selfcheckgpt Zero-resource Black-box Hallucination Detection For Generative Large Language Models
 authors: Potsawee Manakul, Adian Liusie, Mark J. F. Gales
 conference: "Arxiv"
 year: 2023

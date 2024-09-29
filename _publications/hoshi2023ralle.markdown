@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RaLLe A Framework for Developing and Evaluating Retrieval-Augmented Large Language Models
+title: Ralle A Framework For Developing And Evaluating Retrieval-augmented Large Language Models
 authors: Hoshi Yasuto, Miyashita Daisuke, Ng Youyang, Tatsuno Kento, Morioka Yasuhiro, Torii Osamu, Deguchi Jun
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Should we be going MAD A Look at Multi-Agent Debate Strategies for LLMs
+title: Should We Be Going MAD A Look At Multi-agent Debate Strategies For Llms
 authors: Smit Andries, Duckworth Paul, Grinsztajn Nathan, Barrett Thomas D., Pretorius Arnu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sparsity-Guided Holistic Explanation for LLMs with Interpretable Inference-Time Intervention
+title: Sparsity-guided Holistic Explanation For Llms With Interpretable Inference-time Intervention
 authors: Tan Zhen, Chen Tianlong, Zhang Zhenyu, Liu Huan
 conference: "Arxiv"
 year: 2023

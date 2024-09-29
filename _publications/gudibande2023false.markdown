@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The False Promise of Imitating Proprietary LLMs
+title: The False Promise Of Imitating Proprietary Llms
 authors: Gudibande Arnav, Wallace Eric, Snell Charlie, Geng Xinyang, Liu Hao, Abbeel Pieter, Levine Sergey, Song Dawn
 conference: "Arxiv"
 year: 2023

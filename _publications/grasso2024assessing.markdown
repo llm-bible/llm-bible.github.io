@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Assessing Generative Language Models in Classification Tasks Performance and Self-Evaluation Capabilities in the Environmental and Climate Change Domain
+title: Assessing Generative Language Models In Classification Tasks Performance And Self-evaluation Capabilities In The Environmental And Climate Change Domain
 authors: Grasso Francesca, Locci Stefano
 conference: "Arxiv"
 year: 2024

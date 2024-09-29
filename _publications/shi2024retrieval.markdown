@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieval-enhanced Knowledge Editing in Language Models for Multi-Hop Question Answering
+title: Retrieval-enhanced Knowledge Editing In Language Models For Multi-hop Question Answering
 authors: Shi Yucheng, Tan Qiaoyu, Wu Xuansheng, Zhong Shaochen, Zhou Kaixiong, Liu Ninghao
 conference: "Arxiv"
 year: 2024

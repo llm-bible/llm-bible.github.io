@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Counterfactual reasoning Do language models need world knowledge for causal understanding
+title: Counterfactual Reasoning Do Language Models Need World Knowledge For Causal Understanding
 authors: Li Jiaxuan, Yu Lang, Ettinger Allyson
 conference: "Arxiv"
 year: 2022

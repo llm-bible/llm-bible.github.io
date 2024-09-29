@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The BEA 2023 Shared Task on Generating AI Teacher Responses in Educational Dialogues
+title: The BEA 2023 Shared Task On Generating AI Teacher Responses In Educational Dialogues
 authors: Tack Anaïs, Kochmar Ekaterina, Yuan Zheng, Bibauw Serge, Piech Chris
 conference: "Arxiv"
 year: 2023

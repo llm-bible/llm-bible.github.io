@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LongIns A Challenging Long-context Instruction-based Exam for LLMs
+title: Longins A Challenging Long-context Instruction-based Exam For Llms
 authors: Gavin Shawn, Zheng Tuney, Liu Jiaheng, Que Quehry, Wang Noah, Yang Jian, Zhang Chenchen, Huang Wenhao, Chen Wenhu, Zhang Ge
 conference: "Arxiv"
 year: 2024

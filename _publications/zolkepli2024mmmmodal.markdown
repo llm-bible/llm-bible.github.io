@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MMMModal -- Multi-Images Multi-Audio Multi-turn Multi-Modal
+title: Mmmmodal -- Multi-images Multi-audio Multi-turn Multi-modal
 authors: Zolkepli Husein, Razak Aisyah, Adha Kamarul, Nazhan Ariff
 conference: "Arxiv"
 year: 2024

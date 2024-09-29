@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Direct Preference Optimization of Video Large Multimodal Models from Language Model Reward
+title: Direct Preference Optimization Of Video Large Multimodal Models From Language Model Reward
 authors: Zhang Ruohong, Gui Liangke, Sun Zhiqing, Feng Yihao, Xu Keyang, Zhang Yuanhan, Fu Di, Li Chunyuan, Hauptmann Alexander, Bisk Yonatan, Yang Yiming
 conference: "Arxiv"
 year: 2024

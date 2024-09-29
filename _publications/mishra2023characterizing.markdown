@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Characterizing Large Language Models as Rationalizers of Knowledge-intensive Tasks
+title: Characterizing Large Language Models As Rationalizers Of Knowledge-intensive Tasks
 authors: Mishra Aditi, Rahman Sajjadur, Kim Hannah, Mitra Kushan, Hruschka Estevam
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Bytes to Biases Investigating the Cultural Self-Perception of Large Language Models
+title: From Bytes To Biases Investigating The Cultural Self-perception Of Large Language Models
 authors: Messner Wolfgang, Greene Tatum, Matalone Josephine
 conference: "Arxiv"
 year: 2023

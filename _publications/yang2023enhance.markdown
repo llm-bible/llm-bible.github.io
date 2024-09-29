@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhance Reasoning Ability of Visual-Language Models via Large Language Models
+title: Enhance Reasoning Ability Of Visual-language Models Via Large Language Models
 authors: Yang Yueting, Zhang Xintong, Han Wenjuan
 conference: "Arxiv"
 year: 2023

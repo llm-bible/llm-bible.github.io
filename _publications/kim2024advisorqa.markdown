@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AdvisorQA Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence
+title: Advisorqa Towards Helpful And Harmless Advice-seeking Question Answering With Collective Intelligence
 authors: Kim Minbeom, Lee Hwanhee, Park Joonsuk, Lee Hwaran, Jung Kyomin
 conference: "Arxiv"
 year: 2024

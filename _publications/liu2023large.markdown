@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models are Few-Shot Health Learners
+title: Large Language Models Are Few-shot Health Learners
 authors: Liu Xin, Mcduff Daniel, Kovacs Geza, Galatzer-levy Isaac, Sunshine Jacob, Zhan Jiening, Poh Ming-zher, Liao Shun, Di Achille Paolo, Patel Shwetak
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Autoregressive Entity Generation for End-to-End Task-Oriented Dialog
+title: Autoregressive Entity Generation For End-to-end Task-oriented Dialog
 authors: Huang Guanhuan, Quan Xiaojun, Wang Qifan
 conference: "Arxiv"
 year: 2022

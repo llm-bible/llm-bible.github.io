@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CoEdIT Text Editing by Task-Specific Instruction Tuning
+title: Coedit Text Editing By Task-specific Instruction Tuning
 authors: Raheja Vipul, Kumar Dhruv, Koo Ryan, Kang Dongyeop
 conference: "Arxiv"
 year: 2023

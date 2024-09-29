@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reducing Transformer Key-Value Cache Size with Cross-Layer Attention
+title: Reducing Transformer Key-value Cache Size With Cross-layer Attention
 authors: Brandon William, Mishra Mayank, Nrusimha Aniruddha, Panda Rameswar, Kelly Jonathan Ragan
 conference: "Arxiv"
 year: 2024

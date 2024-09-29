@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Benchmark for Learning to Translate a New Language from One Grammar Book
+title: A Benchmark For Learning To Translate A New Language From One Grammar Book
 authors: Tanzer Garrett, Suzgun Mirac, Visser Eline, Jurafsky Dan, Melas-kyriazi Luke
 conference: "Arxiv"
 year: 2023

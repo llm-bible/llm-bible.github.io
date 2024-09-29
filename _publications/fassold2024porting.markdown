@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Porting Large Language Models to Mobile Devices for Question Answering
+title: Porting Large Language Models To Mobile Devices For Question Answering
 authors: Fassold Hannes
 conference: "Arxiv"
 year: 2024

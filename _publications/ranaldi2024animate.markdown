@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Animate or Inanimate That is the Question for Large Language Models
+title: Animate Or Inanimate That Is The Question For Large Language Models
 authors: Ranaldi Leonardo, Pucci Giulia, Zanzotto Fabio Massimo
 conference: "Arxiv"
 year: 2024

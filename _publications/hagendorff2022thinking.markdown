@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Thinking Fast and Slow in Large Language Models
+title: Thinking Fast And Slow In Large Language Models
 authors: Hagendorff Thilo, Fabi Sarah, Kosinski Michal
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Investigation of Language Model Interpretability via Sentence Editing
+title: An Investigation Of Language Model Interpretability Via Sentence Editing
 authors: Stevens Samuel, Su Yu
 conference: "Arxiv"
 year: 2020

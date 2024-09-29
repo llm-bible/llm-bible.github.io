@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is it Possible to Edit Large Language Models Robustly
+title: Is It Possible To Edit Large Language Models Robustly
 authors: Ma Xinbei, Ju Tianjie, Qiu Jiyang, Zhang Zhuosheng, Zhao Hai, Liu Lifeng, Wang Yulong
 conference: "Arxiv"
 year: 2024

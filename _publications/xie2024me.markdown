@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Me LLaMA Foundation Large Language Models for Medical Applications
+title: Me Llama Foundation Large Language Models For Medical Applications
 authors: Xie Qianqian, Chen Qingyu, Chen Aokun, Peng Cheng, Hu Yan, Lin Fongci, Peng Xueqing, Huang Jimin, Zhang Jeffrey, Keloth Vipina, Zhou Xinyu, He Huan, Ohno-machado Lucila, Wu Yonghui, Xu Hua, Bian Jiang
 conference: "Arxiv"
 year: 2024

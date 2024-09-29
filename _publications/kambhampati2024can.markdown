@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Large Language Models Reason and Plan
+title: Can Large Language Models Reason And Plan
 authors: Kambhampati Subbarao
 conference: "Annals of The New York Academy of Sciences; March"
 year: 2024

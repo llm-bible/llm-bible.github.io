@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Safety Fine-Tuning at (Almost) No Cost A Baseline for Vision Large Language Models
+title: Safety Fine-tuning At (almost) No Cost A Baseline For Vision Large Language Models
 authors: Yongshuo Zong, Ondrej Bohdal, Tingyang Yu, Yongxin Yang, Timothy Hospedales
 conference: "Arxiv"
 year: 2024

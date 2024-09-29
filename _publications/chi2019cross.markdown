@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cross-Lingual Natural Language Generation via Pre-Training
+title: Cross-lingual Natural Language Generation Via Pre-training
 authors: Chi Zewen, Dong Li, Wei Furu, Wang Wenhui, Mao Xian-ling, Huang Heyan
 conference: "Arxiv"
 year: 2019

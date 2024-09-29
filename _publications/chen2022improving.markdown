@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving In-Context Few-Shot Learning via Self-Supervised Training
+title: Improving In-context Few-shot Learning Via Self-supervised Training
 authors: Chen Mingda, Du Jingfei, Pasunuru Ramakanth, Mihaylov Todor, Iyer Srini, Stoyanov Veselin, Kozareva Zornitsa
 conference: "Arxiv"
 year: 2022

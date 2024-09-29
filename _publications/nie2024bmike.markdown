@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BMIKE-53 Investigating Cross-Lingual Knowledge Editing with In-Context Learning
+title: BMIKE-53 Investigating Cross-lingual Knowledge Editing With In-context Learning
 authors: Nie Ercong, Shao Bo, Ding Zifeng, Wang Mingyang, Schmid Helmut, Schütze Hinrich
 conference: "Arxiv"
 year: 2024

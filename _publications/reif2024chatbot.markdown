@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatbot-Based Ontology Interaction Using Large Language Models and Domain-Specific Standards
+title: Chatbot-based Ontology Interaction Using Large Language Models And Domain-specific Standards
 authors: Reif Jonathan, Jeleniewski Tom, Gill Milapji Singh, Gehlhoff Felix, Fay Alexander
 conference: "Arxiv"
 year: 2024

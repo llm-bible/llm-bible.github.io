@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SurgicalGPT End-to-End Language-Vision GPT for Visual Question Answering in Surgery
+title: Surgicalgpt End-to-end Language-vision GPT For Visual Question Answering In Surgery
 authors: Seenivasan Lalithkumar, Islam Mobarakol, Kannan Gokul, Ren Hongliang
 conference: "Arxiv"
 year: 2023

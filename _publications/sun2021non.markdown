@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A non-hierarchical attention network with modality dropout for textual response generation in multimodal dialogue systems
+title: A Non-hierarchical Attention Network With Modality Dropout For Textual Response Generation In Multimodal Dialogue Systems
 authors: Sun Rongyi, Chen Borun, Zhou Qingyu, Li Yinghui, Cao Yunbo, Zheng Hai-tao
 conference: "Arxiv"
 year: 2021

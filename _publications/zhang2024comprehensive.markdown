@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Comprehensive Study of Knowledge Editing for Large Language Models
+title: A Comprehensive Study Of Knowledge Editing For Large Language Models
 authors: Zhang Ningyu, Yao Yunzhi, Tian Bozhong, Wang Peng, Deng Shumin, Wang Mengru, Xi Zekun, Mao Shengyu, Zhang Jintian, Ni Yuansheng, Cheng Siyuan, Xu Ziwen, Xu Xin, Gu Jia-chen, Jiang Yong, Xie Pengjun, Huang Fei, Liang Lei, Zhang Zhiqiang, Zhu Xiaowei, Zhou Jun, Chen Huajun
 conference: "Arxiv"
 year: 2024

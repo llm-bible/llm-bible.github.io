@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Understanding-Oriented Robust Machine Reading Comprehension Model
+title: An Understanding-oriented Robust Machine Reading Comprehension Model
 authors: Ren Feiliang, Liu Yongkang, Li Bochao, Liu Shilei, Wang Bingchao, Wang Jiaqi, Liu Chunchao, Ma Qi
 conference: "Arxiv"
 year: 2022

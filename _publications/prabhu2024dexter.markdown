@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DEXTER A Benchmark for open-domain Complex Question Answering using LLMs
+title: DEXTER A Benchmark For Open-domain Complex Question Answering Using Llms
 authors: Prabhu Venktesh V. Deepali, Anand Avishek
 conference: "Arxiv"
 year: 2024

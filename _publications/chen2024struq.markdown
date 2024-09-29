@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: StruQ Defending Against Prompt Injection with Structured Queries
+title: Struq Defending Against Prompt Injection With Structured Queries
 authors: Chen Sizhe, Piet Julien, Sitawarin Chawin, Wagner David
 conference: "Arxiv"
 year: 2024

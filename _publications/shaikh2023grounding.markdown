@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Grounding Gaps in Language Model Generations
+title: Grounding Gaps In Language Model Generations
 authors: Shaikh Omar, Gligorić Kristina, Khetan Ashna, Gerstgrasser Matthias, Yang Diyi, Jurafsky Dan
 conference: "Arxiv"
 year: 2023

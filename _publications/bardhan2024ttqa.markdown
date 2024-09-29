@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TTQA-RS- A break-down prompting approach for Multi-hop Table-Text Question Answering with Reasoning and Summarization
+title: TTQA-RS- A Break-down Prompting Approach For Multi-hop Table-text Question Answering With Reasoning And Summarization
 authors: Bardhan Jayetri, Xiao Bushi, Wang Daisy Zhe
 conference: "Arxiv"
 year: 2024

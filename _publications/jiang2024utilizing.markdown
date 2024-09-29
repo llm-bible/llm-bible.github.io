@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Utilizing Large LanguageModels to Detect Privacy Leaks in Mini-App Code
+title: Utilizing Large Languagemodels To Detect Privacy Leaks In Mini-app Code
 authors: Jiang Liming
 conference: "Arxiv"
 year: 2024

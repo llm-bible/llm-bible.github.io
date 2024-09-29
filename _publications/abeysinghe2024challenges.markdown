@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Challenges of Evaluating LLM Applications An Analysis of Automated Human and LLM-Based Approaches
+title: The Challenges Of Evaluating LLM Applications An Analysis Of Automated Human And Llm-based Approaches
 authors: Abeysinghe Bhashithe, Circi Ruhan
 conference: "Arxiv"
 year: 2024

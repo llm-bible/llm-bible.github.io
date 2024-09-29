@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: InstructTODS Large Language Models for End-to-End Task-Oriented Dialogue Systems
+title: Instructtods Large Language Models For End-to-end Task-oriented Dialogue Systems
 authors: Chung Willy, Cahyawijaya Samuel, Wilie Bryan, Lovenia Holy, Fung Pascale
 conference: "Arxiv"
 year: 2023

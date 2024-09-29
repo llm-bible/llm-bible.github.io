@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PANDA Preference Adaptation for Enhancing Domain-Specific Abilities of LLMs
+title: PANDA Preference Adaptation For Enhancing Domain-specific Abilities Of Llms
 authors: Liu An, Yang Zonghan, Zhang Zhenhe, Hu Qingyuan, Li Peng, Yan Ming, Zhang Ji, Huang Fei, Liu Yang
 conference: "Arxiv"
 year: 2024

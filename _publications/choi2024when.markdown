@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: When Life gives you LLMs make LLM-ADE Large Language Models with Adaptive Data Engineering
+title: When Life Gives You Llms Make LLM-ADE Large Language Models With Adaptive Data Engineering
 authors: Choi Stephen, Gazeley William
 conference: "Arxiv"
 year: 2024

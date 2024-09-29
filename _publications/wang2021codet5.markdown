@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CodeT5 Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation
+title: Codet5 Identifier-aware Unified Pre-trained Encoder-decoder Models For Code Understanding And Generation
 authors: Wang Yue, Wang Weishi, Joty Shafiq, Hoi Steven C. H.
 conference: "Arxiv"
 year: 2021

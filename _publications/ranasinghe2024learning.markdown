@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning to Localize Objects Improves Spatial Reasoning in Visual-LLMs
+title: Learning To Localize Objects Improves Spatial Reasoning In Visual-llms
 authors: Ranasinghe Kanchana, Shukla Satya Narayan, Poursaeed Omid, Ryoo Michael S., Lin Tsung-yu
 conference: "Arxiv"
 year: 2024

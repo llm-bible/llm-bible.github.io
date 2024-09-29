@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: JASMINE Arabic GPT Models for Few-Shot Learning
+title: JASMINE Arabic GPT Models For Few-shot Learning
 authors: Nagoudi El Moatez Billah, Abdul-mageed Muhammad, Elmadany Abdelrahim, Inciarte Alcides Alcoba, Khondaker Md Tawkat Islam
 conference: "Arxiv"
 year: 2022

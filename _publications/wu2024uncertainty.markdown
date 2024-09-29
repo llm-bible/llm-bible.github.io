@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Uncertainty Estimation of Large Language Models in Medical Question Answering
+title: Uncertainty Estimation Of Large Language Models In Medical Question Answering
 authors: Wu Jiaxin, Yu Yizhou, Zhou Hong-yu
 conference: "Arxiv"
 year: 2024

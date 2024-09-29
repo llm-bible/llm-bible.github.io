@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Effectiveness of ChatGPT in explaining complex medical reports to patients
+title: Effectiveness Of Chatgpt In Explaining Complex Medical Reports To Patients
 authors: Sun Mengxuan, Reiter Ehud, Kiltie Anne E, Ramsay George, Duncan Lisa, Murchie Peter, Adam Rosalind
 conference: "Arxiv"
 year: 2024

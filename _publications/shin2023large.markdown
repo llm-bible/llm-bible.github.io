@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large language models can enhance persuasion through linguistic feature alignment
+title: Large Language Models Can Enhance Persuasion Through Linguistic Feature Alignment
 authors: Shin Minkyu, Kim Jin
 conference: "Arxiv"
 year: 2023

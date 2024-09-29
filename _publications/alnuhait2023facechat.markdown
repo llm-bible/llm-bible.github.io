@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FaceChat An Emotion-Aware Face-to-face Dialogue Framework
+title: Facechat An Emotion-aware Face-to-face Dialogue Framework
 authors: Deema Alnuhait, Qingyang Wu, Zhou Yu
 conference: "Arxiv"
 year: 2023

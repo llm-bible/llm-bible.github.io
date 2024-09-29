@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Asynchronous and Segmented Bidirectional Encoding for NMT
+title: Asynchronous And Segmented Bidirectional Encoding For NMT
 authors: Yang Jingpu, Han Zehua, Xiang Mengyu, Wang Helin, Huang Yuxiao, Fang Miao
 conference: "Arxiv"
 year: 2024

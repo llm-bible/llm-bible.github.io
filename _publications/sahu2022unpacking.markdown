@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unpacking Large Language Models with Conceptual Consistency
+title: Unpacking Large Language Models With Conceptual Consistency
 authors: Sahu Pritish, Cogswell Michael, Gong Yunye, Divakaran Ajay
 conference: "Arxiv"
 year: 2022

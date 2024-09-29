@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Verify-and-Edit A Knowledge-Enhanced Chain-of-Thought Framework
+title: Verify-and-edit A Knowledge-enhanced Chain-of-thought Framework
 authors: Zhao Ruochen, Li Xingxuan, Joty Shafiq, Qin Chengwei, Bing Lidong
 conference: "Arxiv"
 year: 2023

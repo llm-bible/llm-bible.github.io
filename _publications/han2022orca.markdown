@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ORCA Interpreting Prompted Language Models via Locating Supporting Data Evidence in the Ocean of Pretraining Data
+title: ORCA Interpreting Prompted Language Models Via Locating Supporting Data Evidence In The Ocean Of Pretraining Data
 authors: Han Xiaochuang, Tsvetkov Yulia
 conference: "Arxiv"
 year: 2022

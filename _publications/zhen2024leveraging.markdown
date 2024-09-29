@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Large Language Models with Chain-of-Thought and Prompt Engineering for Traffic Crash Severity Analysis and Inference
+title: Leveraging Large Language Models With Chain-of-thought And Prompt Engineering For Traffic Crash Severity Analysis And Inference
 authors: Zhen Hao, Shi Yucheng, Huang Yongcan, Yang Jidong J., Liu Ninghao
 conference: "Arxiv"
 year: 2024

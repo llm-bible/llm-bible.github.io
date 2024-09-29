@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Taiwan LLM Bridging the Linguistic Divide with a Culturally Aligned Language Model
+title: Taiwan LLM Bridging The Linguistic Divide With A Culturally Aligned Language Model
 authors: Lin Yen-ting, Chen Yun-nung
 conference: "Arxiv"
 year: 2023

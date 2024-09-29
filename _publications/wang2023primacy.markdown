@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Primacy Effect of ChatGPT
+title: Primacy Effect Of Chatgpt
 authors: Wang Yiwei, Cai Yujun, Chen Muhao, Liang Yuxuan, Hooi Bryan
 conference: "Arxiv"
 year: 2023

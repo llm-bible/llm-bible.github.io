@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recipes for Adapting Pre-trained Monolingual and Multilingual Models to Machine Translation
+title: Recipes For Adapting Pre-trained Monolingual And Multilingual Models To Machine Translation
 authors: Stickland Asa Cooper, Li Xian, Ghazvininejad Marjan
 conference: "Arxiv"
 year: 2020

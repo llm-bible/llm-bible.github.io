@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automatic Construction of a Korean Toxic Instruction Dataset for Ethical Tuning of Large Language Models
+title: Automatic Construction Of A Korean Toxic Instruction Dataset For Ethical Tuning Of Large Language Models
 authors: Byun Sungjoo, Jang Dongjun, Jo Hyemi, Shin Hyopil
 conference: "Arxiv"
 year: 2023

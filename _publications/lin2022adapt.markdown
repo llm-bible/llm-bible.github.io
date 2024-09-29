@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ADAPT Vision-Language Navigation with Modality-Aligned Action Prompts
+title: ADAPT Vision-language Navigation With Modality-aligned Action Prompts
 authors: Lin Bingqian, Zhu Yi, Chen Zicong, Liang Xiwen, Liu Jianzhuang, Liang Xiaodan
 conference: "Arxiv"
 year: 2022

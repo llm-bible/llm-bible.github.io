@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Teaching the Pre-trained Model to Generate Simple Texts for Text Simplification
+title: Teaching The Pre-trained Model To Generate Simple Texts For Text Simplification
 authors: Sun Renliang, Xu Wei, Wan Xiaojun
 conference: "Arxiv"
 year: 2023

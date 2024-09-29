@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Using LLMs to Model the Beliefs and Preferences of Targeted Populations
+title: Using Llms To Model The Beliefs And Preferences Of Targeted Populations
 authors: Namikoshi Keiichi, Filipowicz Alex, Shamma David A., Iliev Rumen, Hogan Candice L., Arechiga Nikos
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unraveling the Truth Do LLMs really Understand Charts A Deep Dive into Consistency and Robustness
+title: Unraveling The Truth Do Llms Really Understand Charts A Deep Dive Into Consistency And Robustness
 authors: Mukhopadhyay Srija, Qidwai Adnan, Garimella Aparna, Ramu Pritika, Gupta Vivek, Roth Dan
 conference: "Arxiv"
 year: 2024

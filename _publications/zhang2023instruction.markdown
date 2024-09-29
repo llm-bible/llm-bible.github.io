@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instruction Tuning for Large Language Models A Survey
+title: Instruction Tuning For Large Language Models A Survey
 authors: Zhang Shengyu, Dong Linfeng, Li Xiaoya, Zhang Sen, Sun Xiaofei, Wang Shuhe, Li Jiwei, Hu Runyi, Zhang Tianwei, Wu Fei, Wang Guoyin
 conference: "Arxiv"
 year: 2023

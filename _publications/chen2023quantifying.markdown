@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Quantifying Uncertainty in Answers from any Language Model and Enhancing their Trustworthiness
+title: Quantifying Uncertainty In Answers From Any Language Model And Enhancing Their Trustworthiness
 authors: Chen Jiuhai, Mueller Jonas
 conference: "Arxiv"
 year: 2023

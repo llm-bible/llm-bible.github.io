@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DecodingTrust A Comprehensive Assessment of Trustworthiness in GPT Models
+title: Decodingtrust A Comprehensive Assessment Of Trustworthiness In GPT Models
 authors: Wang Boxin, Chen Weixin, Pei Hengzhi, Xie Chulin, Kang Mintong, Zhang Chenhui, Xu Chejian, Xiong Zidi, Dutta Ritik, Schaeffer Rylan, Truong Sang T., Arora Simran, Mazeika Mantas, Hendrycks Dan, Lin Zinan, Cheng Yu, Koyejo Sanmi, Song Dawn, Li Bo
 conference: "Arxiv"
 year: 2023

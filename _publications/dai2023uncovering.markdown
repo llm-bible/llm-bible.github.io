@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Uncovering Chatgptx27;s Capabilities In Recommender Systems
+title: Uncovering Chatgpts Capabilities In Recommender Systems
 authors: Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, Zihua Si, Chen Xu, Zhongxiang Sun, Xiao Zhang, Jun Xu
 conference: "Arxiv"
 year: 2023

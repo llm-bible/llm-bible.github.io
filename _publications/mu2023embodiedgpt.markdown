@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EmbodiedGPT Vision-Language Pre-Training via Embodied Chain of Thought
+title: Embodiedgpt Vision-language Pre-training Via Embodied Chain Of Thought
 authors: Yao Mu, Qinglong Zhang, Mengkang Hu, Wenhai Wang, Mingyu Ding, Jun Jin, Bin Wang, Jifeng Dai, Yu Qiao, Ping Luo
 conference: "Arxiv"
 year: 2023

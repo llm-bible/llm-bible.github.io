@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey of Natural Language Generation Techniques with a Focus on Dialogue Systems - Past Present and Future Directions
+title: A Survey Of Natural Language Generation Techniques With A Focus On Dialogue Systems - Past Present And Future Directions
 authors: Santhanam Sashank, Shaikh Samira
 conference: "Arxiv"
 year: 2019

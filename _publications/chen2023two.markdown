@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs
+title: Two Failures Of Self-consistency In The Multi-step Reasoning Of Llms
 authors: Chen Angelica, Phang Jason, Parrish Alicia, Padmakumar Vishakh, Zhao Chen, Bowman Samuel R., Cho Kyunghyun
 conference: "Transactions on Machine Learning Research"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Challenges and Thrills of Legal Arguments
+title: Challenges And Thrills Of Legal Arguments
 authors: Pallaprolu Anurag, Vaidya Radha, Attawar Aditya Swaroop
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model
+title: Ontology-free General-domain Knowledge Graph-to-text Generation Dataset Synthesis Using Large Language Model
 authors: Kim Daehee, Kang Deokhyung, Ryu Sangwon, Lee Gary Geunbae
 conference: "Arxiv"
 year: 2024

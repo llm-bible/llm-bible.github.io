@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieval-Generation Alignment for End-to-End Task-Oriented Dialogue System
+title: Retrieval-generation Alignment For End-to-end Task-oriented Dialogue System
 authors: Shen Weizhou, Gao Yingqi, Huang Canbin, Wan Fanqi, Quan Xiaojun, Bi Wei
 conference: "Arxiv"
 year: 2023

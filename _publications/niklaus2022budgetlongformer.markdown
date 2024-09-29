@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BudgetLongformer Can we Cheaply Pretrain a SotA Legal Language Model From Scratch
+title: Budgetlongformer Can We Cheaply Pretrain A Sota Legal Language Model From Scratch
 authors: Niklaus Joel, Giofré Daniele
 conference: "Arxiv"
 year: 2022

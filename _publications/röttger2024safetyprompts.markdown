@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SafetyPrompts a Systematic Review of Open Datasets for Evaluating and Improving Large Language Model Safety
+title: Safetyprompts A Systematic Review Of Open Datasets For Evaluating And Improving Large Language Model Safety
 authors: Röttger Paul, Pernisi Fabio, Vidgen Bertie, Hovy Dirk
 conference: "Arxiv"
 year: 2024

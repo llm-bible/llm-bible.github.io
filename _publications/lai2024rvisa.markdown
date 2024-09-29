@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RVISA Reasoning and Verification for Implicit Sentiment Analysis
+title: RVISA Reasoning And Verification For Implicit Sentiment Analysis
 authors: Lai Wenna, Xie Haoran, Xu Guandong, Li Qing
 conference: "Arxiv"
 year: 2024

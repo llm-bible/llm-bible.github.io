@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On Evaluating the Integration of Reasoning and Action in LLM Agents with Database Question Answering
+title: On Evaluating The Integration Of Reasoning And Action In LLM Agents With Database Question Answering
 authors: Nan Linyong, Zhang Ellen, Zou Weijin, Zhao Yilun, Zhou Wenfei, Cohan Arman
 conference: "Arxiv"
 year: 2023

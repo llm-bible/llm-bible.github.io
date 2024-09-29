@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GPT-Based Models Meet Simulation How to Efficiently Use Large-Scale Pre-Trained Language Models Across Simulation Tasks
+title: Gpt-based Models Meet Simulation How To Efficiently Use Large-scale Pre-trained Language Models Across Simulation Tasks
 authors: Giabbanelli Philippe J.
 conference: "Arxiv"
 year: 2023

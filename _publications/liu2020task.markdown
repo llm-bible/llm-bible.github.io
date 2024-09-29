@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation
+title: Task-level Curriculum Learning For Non-autoregressive Neural Machine Translation
 authors: Liu Jinglin, Ren Yi, Tan Xu, Zhang Chen, Qin Tao, Zhao Zhou, Liu Tie-yan
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LHRS-Bot Empowering Remote Sensing with VGI-Enhanced Large Multimodal Language Model
+title: Lhrs-bot Empowering Remote Sensing With Vgi-enhanced Large Multimodal Language Model
 authors: Muhtar Dilxat, Li Zhenshi, Gu Feng, Zhang Xueliang, Xiao Pengfeng
 conference: "Arxiv"
 year: 2024

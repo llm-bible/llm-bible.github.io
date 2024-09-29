@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Universality and Limitations of Prompt Tuning
+title: Universality And Limitations Of Prompt Tuning
 authors: Wang Yihan, Chauhan Jatin, Wang Wei, Hsieh Cho-jui
 conference: "Arxiv"
 year: 2023

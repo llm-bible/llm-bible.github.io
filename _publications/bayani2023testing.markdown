@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Testing The Depth Of Chatgptx27;s Comprehension Via Cross-modal Tasks Based On Ascii-art Gpt3.5x27;s Abilities In Regard To Recognizing And Generating Ascii-art Are Not Totally Lacking
+title: Testing The Depth Of Chatgpts Comprehension Via Cross-modal Tasks Based On Ascii-art Gpt3.5s Abilities In Regard To Recognizing And Generating Ascii-art Are Not Totally Lacking
 authors: Bayani David
 conference: "Arxiv"
 year: 2023

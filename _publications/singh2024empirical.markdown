@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Empirical Study of Validating Synthetic Data for Formula Generation
+title: An Empirical Study Of Validating Synthetic Data For Formula Generation
 authors: Singh Usneek, Cambronero José, Gulwani Sumit, Kanade Aditya, Khatry Anirudh, Le Vu, Singh Mukul, Verbruggen Gust
 conference: "Arxiv"
 year: 2024

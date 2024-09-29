@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Knowledge-Augmented Large Language Models for Personalized Contextual Query Suggestion
+title: Knowledge-augmented Large Language Models For Personalized Contextual Query Suggestion
 authors: Jinheon Baek, Nirupama Chandrasekaran, Silviu Cucerzan, Allen Herring, Sujay Kumar Jauhar
 conference: "Arxiv"
 year: 2023

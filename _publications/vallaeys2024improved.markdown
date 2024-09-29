@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improved Baselines for Data-efficient Perceptual Augmentation of LLMs
+title: Improved Baselines For Data-efficient Perceptual Augmentation Of Llms
 authors: Vallaeys Théophane, Shukor Mustafa, Cord Matthieu, Verbeek Jakob
 conference: "Arxiv"
 year: 2024

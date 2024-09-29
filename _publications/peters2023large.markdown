@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Can Infer Psychological Dispositions of Social Media Users
+title: Large Language Models Can Infer Psychological Dispositions Of Social Media Users
 authors: Peters Heinrich, Matz Sandra
 conference: "Arxiv"
 year: 2023

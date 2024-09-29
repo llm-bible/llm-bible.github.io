@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-Task Instruction Tuning of LLaMa for Specific Scenarios A Preliminary Study on Writing Assistance
+title: Multi-task Instruction Tuning Of Llama For Specific Scenarios A Preliminary Study On Writing Assistance
 authors: Zhang Yue, Cui Leyang, Cai Deng, Huang Xinting, Fang Tao, Bi Wei
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Deception Abilities Emerged in Large Language Models
+title: Deception Abilities Emerged In Large Language Models
 authors: Hagendorff Thilo
 conference: "Arxiv"
 year: 2023

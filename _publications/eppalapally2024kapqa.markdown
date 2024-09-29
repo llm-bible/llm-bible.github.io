@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: KaPQA Knowledge-Augmented Product Question-Answering
+title: Kapqa Knowledge-augmented Product Question-answering
 authors: Eppalapally Swetha, Dangi Daksh, Bhat Chaithra, Gupta Ankita, Zhang Ruiyi, Agarwal Shubham, Bagga Karishma, Yoon Seunghyun, Lipka Nedim, Rossi Ryan A., Dernoncourt Franck
 conference: "Arxiv"
 year: 2024

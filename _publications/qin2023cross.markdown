@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cross-lingual Prompting Improving Zero-shot Chain-of-Thought Reasoning across Languages
+title: Cross-lingual Prompting Improving Zero-shot Chain-of-thought Reasoning Across Languages
 authors: Qin Libo, Chen Qiguang, Wei Fuxuan, Huang Shijue, Che Wanxiang
 conference: "Arxiv"
 year: 2023

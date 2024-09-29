@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models
+title: Measuring And Improving Chain-of-thought Reasoning In Vision-language Models
 authors: Chen Yangyi, Sikka Karan, Cogswell Michael, Ji Heng, Divakaran Ajay
 conference: "Arxiv"
 year: 2023

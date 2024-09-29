@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DiPlomat A Dialogue Dataset for Situated Pragmatic Reasoning
+title: Diplomat A Dialogue Dataset For Situated Pragmatic Reasoning
 authors: Li Hengli, Zhu Song-chun, Zheng Zilong
 conference: "Arxiv"
 year: 2023

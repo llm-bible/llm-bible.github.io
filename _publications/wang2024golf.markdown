@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GOLF Goal-Oriented Long-term liFe tasks supported by human-AI collaboration
+title: GOLF Goal-oriented Long-term Life Tasks Supported By Human-ai Collaboration
 authors: Wang Ben
 conference: "Proceedings of the"
 year: 2024

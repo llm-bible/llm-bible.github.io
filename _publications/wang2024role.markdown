@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Role Prompting Guided Domain Adaptation with General Capability Preserve for Large Language Models
+title: Role Prompting Guided Domain Adaptation With General Capability Preserve For Large Language Models
 authors: Wang Rui, Mi Fei, Chen Yi, Xue Boyang, Wang Hongru, Zhu Qi, Wong Kam-fai, Xu Ruifeng
 conference: "Arxiv"
 year: 2024

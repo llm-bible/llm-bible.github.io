@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instruct Large Language Models to Drive like Humans
+title: Instruct Large Language Models To Drive Like Humans
 authors: Zhang Ruijun, Guo Xianda, Zheng Wenzhao, Zhang Chenming, Keutzer Kurt, Chen Long
 conference: "Arxiv"
 year: 2024

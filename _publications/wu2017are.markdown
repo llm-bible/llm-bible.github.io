@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are You Talking to Me Reasoned Visual Dialog Generation through Adversarial Learning
+title: Are You Talking To Me Reasoned Visual Dialog Generation Through Adversarial Learning
 authors: Wu Qi, Wang Peng, Shen Chunhua, Reid Ian, Hengel Anton Van Den
 conference: "Arxiv"
 year: 2017

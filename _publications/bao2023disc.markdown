@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DISC-MedLLM Bridging General Large Language Models and Real-World Medical Consultation
+title: Disc-medllm Bridging General Large Language Models And Real-world Medical Consultation
 authors: Bao Zhijie, Chen Wei, Xiao Shengze, Ren Kuang, Wu Jiaao, Zhong Cheng, Peng Jiajie, Huang Xuanjing, Wei Zhongyu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SKILL Structured Knowledge Infusion for Large Language Models
+title: SKILL Structured Knowledge Infusion For Large Language Models
 authors: Moiseev Fedor, Dong Zhe, Alfonseca Enrique, Jaggi Martin
 conference: "Arxiv"
 year: 2022

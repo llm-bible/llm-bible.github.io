@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Alternating Recurrent Dialog Model with Large-scale Pre-trained Language Models
+title: Alternating Recurrent Dialog Model With Large-scale Pre-trained Language Models
 authors: Wu Qingyang, Zhang Yichi, Li Yu, Yu Zhou
 conference: "Arxiv"
 year: 2019

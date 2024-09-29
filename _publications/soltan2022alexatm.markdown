@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AlexaTM 20B Few-Shot Learning Using a Large-Scale Multilingual Seq2Seq Model
+title: Alexatm 20B Few-shot Learning Using A Large-scale Multilingual Seq2seq Model
 authors: Saleh Soltan, Shankar Ananthakrishnan, Jack Fitzgerald, Rahul Gupta, Wael Hamza, Haidar Khan, Charith Peris, Stephen Rawls, Andy Rosenbaum, Anna Rumshisky, Chandana Satya Prakash, Mukund Sridhar, Fabian Triefenbach, Apurv Verma, Gokhan Tur, Prem Natarajan
 conference: "Arxiv"
 year: 2022

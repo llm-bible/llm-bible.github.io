@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-Attentive Model for Headline Generation
+title: Self-attentive Model For Headline Generation
 authors: Gavrilov Daniil, Kalaidin Pavel, Malykh Valentin
 conference: "Arxiv"
 year: 2019

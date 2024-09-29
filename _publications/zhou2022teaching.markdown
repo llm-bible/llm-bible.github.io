@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Teaching Algorithmic Reasoning via In-context Learning
+title: Teaching Algorithmic Reasoning Via In-context Learning
 authors: Zhou Hattie, Nova Azade, Larochelle Hugo, Courville Aaron, Neyshabur Behnam, Sedghi Hanie
 conference: "Arxiv"
 year: 2022

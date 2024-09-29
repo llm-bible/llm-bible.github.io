@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SPA Towards A Computational Friendly Cloud-Base and On-Devices Collaboration Seq2seq Personalized Generation with Casual Inference
+title: SPA Towards A Computational Friendly Cloud-base And On-devices Collaboration Seq2seq Personalized Generation With Casual Inference
 authors: Liu Yanming, Peng Xinyue, Bo Shi, Sang Ningjing, Yan Yafeng, Ke Xiaolan, Zheng Zhiting, Liu Shaobo, Deng Songhang, Cao Jiannan, Dai Le, Liu Xingzu, Nong Ruilin, Liu Weihao
 conference: "Arxiv"
 year: 2024

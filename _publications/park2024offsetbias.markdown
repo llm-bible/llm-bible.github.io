@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: OffsetBias Leveraging Debiased Data for Tuning Evaluators
+title: Offsetbias Leveraging Debiased Data For Tuning Evaluators
 authors: Park Junsoo, Jwa Seungyeon, Ren Meiying, Kim Daeyoung, Choi Sanghyuk
 conference: "Arxiv"
 year: 2024

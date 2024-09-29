@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Next Chapter A Study of Large Language Models in Storytelling
+title: The Next Chapter A Study Of Large Language Models In Storytelling
 authors: Xie Zhuohan, Cohn Trevor, Lau Jey Han
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pay Attention to Your Tone Introducing a New Dataset for Polite Language Rewrite
+title: Pay Attention To Your Tone Introducing A New Dataset For Polite Language Rewrite
 authors: Wang Xun, Ge Tao, Mao Allen, Li Yuki, Wei Furu, Chen Si-qing
 conference: "Arxiv"
 year: 2022

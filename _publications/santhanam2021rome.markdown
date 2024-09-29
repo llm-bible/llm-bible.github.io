@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rome was built in 1776 A Case Study on Factual Correctness in Knowledge-Grounded Response Generation
+title: Rome Was Built In 1776 A Case Study On Factual Correctness In Knowledge-grounded Response Generation
 authors: Santhanam Sashank, Hedayatnia Behnam, Gella Spandana, Padmakumar Aishwarya, Kim Seokhwan, Liu Yang, Hakkani-tur Dilek
 conference: "Arxiv"
 year: 2021

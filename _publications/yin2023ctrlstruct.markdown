@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CTRLStruct Dialogue Structure Learning for Open-Domain Response Generation
+title: Ctrlstruct Dialogue Structure Learning For Open-domain Response Generation
 authors: Yin Congchi, Li Piji, Ren Zhaochun
 conference: "Arxiv"
 year: 2023

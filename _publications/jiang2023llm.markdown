@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM-Blender Ensembling Large Language Models with Pairwise Ranking and Generative Fusion
+title: Llm-blender Ensembling Large Language Models With Pairwise Ranking And Generative Fusion
 authors: Jiang Dongfu, Ren Xiang, Lin Bill Yuchen
 conference: "Arxiv"
 year: 2023

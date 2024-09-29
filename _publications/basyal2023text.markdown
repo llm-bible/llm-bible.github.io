@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Text Summarization Using Large Language Models A Comparative Study of MPT-7b-instruct Falcon-7b-instruct and OpenAI Chat-GPT Models
+title: Text Summarization Using Large Language Models A Comparative Study Of Mpt-7b-instruct Falcon-7b-instruct And Openai Chat-gpt Models
 authors: Basyal Lochan, Sanghvi Mihir
 conference: "Arxiv"
 year: 2023

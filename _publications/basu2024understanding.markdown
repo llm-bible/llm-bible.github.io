@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding Information Storage and Transfer in Multi-modal Large Language Models
+title: Understanding Information Storage And Transfer In Multi-modal Large Language Models
 authors: Basu Samyadeep, Grayson Martin, Morrison Cecily, Nushi Besmira, Feizi Soheil, Massiceti Daniela
 conference: "Arxiv"
 year: 2024

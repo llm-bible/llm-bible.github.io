@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: shs-nlp at RadSum23 Domain-Adaptive Pre-training of Instruction-tuned LLMs for Radiology Report Impression Generation
+title: Shs-nlp At Radsum23 Domain-adaptive Pre-training Of Instruction-tuned Llms For Radiology Report Impression Generation
 authors: Karn Sanjeev Kumar, Ghosh Rikhiya, P Kusuma, Farri Oladimeji
 conference: "BioNLP"
 year: 2023

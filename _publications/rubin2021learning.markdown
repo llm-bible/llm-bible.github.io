@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning To Retrieve Prompts for In-Context Learning
+title: Learning To Retrieve Prompts For In-context Learning
 authors: Ohad Rubin, Jonathan Herzig, Jonathan Berant
 conference: "Arxiv"
 year: 2021

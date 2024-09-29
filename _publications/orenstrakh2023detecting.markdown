@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Detecting LLM-Generated Text in Computing Education A Comparative Study for ChatGPT Cases
+title: Detecting Llm-generated Text In Computing Education A Comparative Study For Chatgpt Cases
 authors: Orenstrakh Michael Sheinman, Karnalim Oscar, Suarez Carlos Anibal, Liut Michael
 conference: "Arxiv"
 year: 2023

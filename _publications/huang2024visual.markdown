@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Visual Hallucinations of Multi-modal Large Language Models
+title: Visual Hallucinations Of Multi-modal Large Language Models
 authors: Huang Wen, Liu Hongbin, Guo Minxin, Gong Neil Zhenqiang
 conference: "Arxiv"
 year: 2024

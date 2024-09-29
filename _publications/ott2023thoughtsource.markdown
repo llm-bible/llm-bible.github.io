@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ThoughtSource A central hub for large language model reasoning data
+title: Thoughtsource A Central Hub For Large Language Model Reasoning Data
 authors: Ott Simon, Hebenstreit Konstantin, Liévin Valentin, Hother Christoffer Egeberg, Moradi Milad, Mayrhauser Maximilian, Praas Robert, Winther Ole, Samwald Matthias
 conference: "Scientific Data"
 year: 2023

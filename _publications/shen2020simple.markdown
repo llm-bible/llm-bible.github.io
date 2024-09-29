@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Simple but Tough-to-Beat Data Augmentation Approach for Natural Language Understanding and Generation
+title: A Simple But Tough-to-beat Data Augmentation Approach For Natural Language Understanding And Generation
 authors: Shen Dinghan, Zheng Mingzhi, Shen Yelong, Qu Yanru, Chen Weizhu
 conference: "Arxiv"
 year: 2020

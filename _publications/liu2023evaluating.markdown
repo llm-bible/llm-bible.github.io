@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Large Language Models on Graphs Performance Insights and Comparative Analysis
+title: Evaluating Large Language Models On Graphs Performance Insights And Comparative Analysis
 authors: Liu Chang, Wu Bo
 conference: "Arxiv"
 year: 2023

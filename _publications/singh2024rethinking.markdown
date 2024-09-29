@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rethinking Interpretability in the Era of Large Language Models
+title: Rethinking Interpretability In The Era Of Large Language Models
 authors: Singh Chandan, Inala Jeevana Priya, Galley Michel, Caruana Rich, Gao Jianfeng
 conference: "Arxiv"
 year: 2024

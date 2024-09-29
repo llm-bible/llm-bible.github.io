@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AI Chains Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts
+title: AI Chains Transparent And Controllable Human-ai Interaction By Chaining Large Language Model Prompts
 authors: Wu Tongshuang, Terry Michael, Cai Carrie J.
 conference: "Arxiv"
 year: 2021

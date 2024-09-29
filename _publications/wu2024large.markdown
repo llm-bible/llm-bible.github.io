@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Can Self-Correct with Minimal Effort
+title: Large Language Models Can Self-correct With Minimal Effort
 authors: Wu Zhenyu, Zeng Qingkai, Zhang Zhihan, Tan Zhaoxuan, Shen Chao, Jiang Meng
 conference: "Arxiv"
 year: 2024

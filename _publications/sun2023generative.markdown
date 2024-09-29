@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative Multimodal Models are In-Context Learners
+title: Generative Multimodal Models Are In-context Learners
 authors: Sun Quan, Cui Yufeng, Zhang Xiaosong, Zhang Fan, Yu Qiying, Luo Zhengxiong, Wang Yueze, Rao Yongming, Liu Jingjing, Huang Tiejun, Wang Xinlong
 conference: "Arxiv"
 year: 2023

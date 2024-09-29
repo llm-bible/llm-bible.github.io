@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CharBERT Character-aware Pre-trained Language Model
+title: Charbert Character-aware Pre-trained Language Model
 authors: Ma Wentao, Cui Yiming, Si Chenglei, Liu Ting, Wang Shijin, Hu Guoping
 conference: "Arxiv"
 year: 2020

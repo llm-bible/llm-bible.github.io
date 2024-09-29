@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Could a Large Language Model be Conscious
+title: Could A Large Language Model Be Conscious
 authors: David J. Chalmers
 conference: "Boston Review August"
 year: 2023

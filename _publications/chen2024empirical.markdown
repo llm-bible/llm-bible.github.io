@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Empirical Study Of Data Ability Boundary In Llmsx27; Math Reasoning
+title: An Empirical Study Of Data Ability Boundary In Llms Math Reasoning
 authors: Chen Zui, Chen Yezeng, Han Jiaqi, Huang Zhijie, Qi Ji, Zhou Yi
 conference: "Arxiv"
 year: 2024

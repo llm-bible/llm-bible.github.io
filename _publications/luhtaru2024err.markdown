@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: To Err Is Human but Llamas Can Learn It Too
+title: To Err Is Human But Llamas Can Learn It Too
 authors: Luhtaru Agnes, Purason Taido, Vainikko Martin, Del Maksym, Fishel Mark
 conference: "Arxiv"
 year: 2024

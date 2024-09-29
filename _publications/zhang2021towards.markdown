@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards More Efficient Insertion Transformer with Fractional Positional Encoding
+title: Towards More Efficient Insertion Transformer With Fractional Positional Encoding
 authors: Zhang Zhisong, Zhang Yizhe, Dolan Bill
 conference: "Arxiv"
 year: 2021

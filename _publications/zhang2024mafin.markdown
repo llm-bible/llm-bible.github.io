@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mafin Enhancing Black-Box Embeddings with Model Augmented Fine-Tuning
+title: Mafin Enhancing Black-box Embeddings With Model Augmented Fine-tuning
 authors: Zhang Mingtian, Lan Shawn, Hayes Peter, Barber David
 conference: "Arxiv"
 year: 2024

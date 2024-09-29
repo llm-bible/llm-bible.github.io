@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PsyCoT Psychological Questionnaire as Powerful Chain-of-Thought for Personality Detection
+title: Psycot Psychological Questionnaire As Powerful Chain-of-thought For Personality Detection
 authors: Yang Tao, Shi Tianyuan, Wan Fanqi, Quan Xiaojun, Wang Qifan, Wu Bingzhe, Wu Jiaxiang
 conference: "Arxiv"
 year: 2023

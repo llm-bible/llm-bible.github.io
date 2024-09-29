@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sowing the Wind Reaping the Whirlwind The Impact of Editing Language Models
+title: Sowing The Wind Reaping The Whirlwind The Impact Of Editing Language Models
 authors: Hazra Rima, Layek Sayan, Banerjee Somnath, Poria Soujanya
 conference: "Arxiv"
 year: 2024

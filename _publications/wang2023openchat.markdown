@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: OpenChat Advancing Open-source Language Models with Mixed-Quality Data
+title: Openchat Advancing Open-source Language Models With Mixed-quality Data
 authors: Wang Guan, Cheng Sijie, Zhan Xianyuan, Li Xiangang, Song Sen, Liu Yang
 conference: "Arxiv"
 year: 2023

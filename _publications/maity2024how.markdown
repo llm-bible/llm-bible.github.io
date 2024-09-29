@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Effective Is GPT-4 Turbo In Generating School-level Questions From Textbooks Based On Bloomx27;s Revised Taxonomy
+title: How Effective Is GPT-4 Turbo In Generating School-level Questions From Textbooks Based On Blooms Revised Taxonomy
 authors: Maity Subhankar, Deroy Aniket, Sarkar Sudeshna
 conference: "Arxiv"
 year: 2024

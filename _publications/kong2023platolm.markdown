@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PlatoLM Teaching LLMs in Multi-Round Dialogue via a User Simulator
+title: Platolm Teaching Llms In Multi-round Dialogue Via A User Simulator
 authors: Kong Chuyi, Fan Yaxin, Wan Xiang, Jiang Feng, Wang Benyou
 conference: "ACL"
 year: 2023

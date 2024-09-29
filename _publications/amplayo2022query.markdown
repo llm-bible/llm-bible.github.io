@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Query Refinement Prompts for Closed-Book Long-Form Question Answering
+title: Query Refinement Prompts For Closed-book Long-form Question Answering
 authors: Amplayo Reinald Kim, Webster Kellie, Collins Michael, Das Dipanjan, Narayan Shashi
 conference: "Arxiv"
 year: 2022

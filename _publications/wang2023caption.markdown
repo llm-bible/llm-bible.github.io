@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Caption Anything Interactive Image Description with Diverse Multimodal Controls
+title: Caption Anything Interactive Image Description With Diverse Multimodal Controls
 authors: Teng Wang, Jinrui Zhang, Junjie Fei, Hao Zheng, Yunlong Tang, Zhe Li, Mingqi Gao, Shanshan Zhao
 conference: "Arxiv"
 year: 2023

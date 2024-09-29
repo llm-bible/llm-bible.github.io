@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mini-GPTs Efficient Large Language Models through Contextual Pruning
+title: Mini-gpts Efficient Large Language Models Through Contextual Pruning
 authors: Valicenti Tim, Vidal Justice, Patnaik Ritik
 conference: "Arxiv"
 year: 2023

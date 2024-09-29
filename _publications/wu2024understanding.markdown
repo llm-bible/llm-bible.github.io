@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding the Role of User Profile in the Personalization of Large Language Models
+title: Understanding The Role Of User Profile In The Personalization Of Large Language Models
 authors: Wu Bin, Shi Zhengyan, Rahmani Hossein A., Ramineni Varsha, Yilmaz Emine
 conference: "Arxiv"
 year: 2024

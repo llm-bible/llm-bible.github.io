@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tokenization Falling Short The Curse of Tokenization
+title: Tokenization Falling Short The Curse Of Tokenization
 authors: Chai Yekun, Fang Yewei, Peng Qiwei, Li Xuhong
 conference: "Arxiv"
 year: 2024

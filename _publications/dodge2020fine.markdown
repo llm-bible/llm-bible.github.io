@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-Tuning Pretrained Language Models Weight Initializations Data Orders and Early Stopping
+title: Fine-tuning Pretrained Language Models Weight Initializations Data Orders And Early Stopping
 authors: Dodge Jesse, Ilharco Gabriel, Schwartz Roy, Farhadi Ali, Hajishirzi Hannaneh, Smith Noah
 conference: "Arxiv"
 year: 2020

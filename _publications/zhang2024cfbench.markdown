@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CFBench A Comprehensive Constraints-Following Benchmark for LLMs
+title: Cfbench A Comprehensive Constraints-following Benchmark For Llms
 authors: Zhang Tao, Shen Yanjun, Luo Wenjing, Zhang Yan, Liang Hao, Zhang Tao, Yang Fan, Lin Mingan, Qiao Yujing, Chen Weipeng, Cui Bin, Zhang Wentao, Zhou Zenan
 conference: "Arxiv"
 year: 2024

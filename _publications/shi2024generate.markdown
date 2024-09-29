@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generate-then-Ground in Retrieval-Augmented Generation for Multi-hop Question Answering
+title: Generate-then-ground In Retrieval-augmented Generation For Multi-hop Question Answering
 authors: Shi Zhengliang, Zhang Shuo, Sun Weiwei, Gao Shen, Ren Pengjie, Chen Zhumin, Ren Zhaochun
 conference: "Arxiv"
 year: 2024

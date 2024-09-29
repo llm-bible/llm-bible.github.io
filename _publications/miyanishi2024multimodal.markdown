@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multimodal Contrastive In-Context Learning
+title: Multimodal Contrastive In-context Learning
 authors: Miyanishi Yosuke, Nguyen Minh Le
 conference: "Arxiv"
 year: 2024

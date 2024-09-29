@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: D-NLP at SemEval-2024 Task 2 Evaluating Clinical Inference Capabilities of Large Language Models
+title: D-NLP At Semeval-2024 Task 2 Evaluating Clinical Inference Capabilities Of Large Language Models
 authors: Altinok Duygu
 conference: "Arxiv"
 year: 2024

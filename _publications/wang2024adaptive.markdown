@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adaptive Retrieval-Augmented Generation for Conversational Systems
+title: Adaptive Retrieval-augmented Generation For Conversational Systems
 authors: Wang Xi, Sen Procheta, Li Ruizhe, Yilmaz Emine
 conference: "Arxiv"
 year: 2024

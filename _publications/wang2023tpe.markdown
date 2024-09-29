@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TPE Towards Better Compositional Reasoning over Conceptual Tools with Multi-persona Collaboration
+title: TPE Towards Better Compositional Reasoning Over Conceptual Tools With Multi-persona Collaboration
 authors: Wang Hongru, Wang Huimin, Wang Lingzhi, Hu Minda, Wang Rui, Xue Boyang, Lu Hongyuan, Mi Fei, Wong Kam-fai
 conference: "Arxiv"
 year: 2023

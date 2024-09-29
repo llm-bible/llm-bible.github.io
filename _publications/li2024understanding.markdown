@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding and Patching Compositional Reasoning in LLMs
+title: Understanding And Patching Compositional Reasoning In Llms
 authors: Li Zhaoyi, Jiang Gangwei, Xie Hong, Song Linqi, Lian Defu, Wei Ying
 conference: "Arxiv"
 year: 2024

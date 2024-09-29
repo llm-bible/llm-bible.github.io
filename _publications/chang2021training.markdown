@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On Training Instance Selection for Few-Shot Neural Text Generation
+title: On Training Instance Selection For Few-shot Neural Text Generation
 authors: Chang Ernie, Shen Xiaoyu, Yeh Hui-syuan, Demberg Vera
 conference: "Arxiv"
 year: 2021

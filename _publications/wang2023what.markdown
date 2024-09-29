@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What Makes for Good Visual Tokenizers for Large Language Models
+title: What Makes For Good Visual Tokenizers For Large Language Models
 authors: Wang Guangzhi, Ge Yixiao, Ding Xiaohan, Kankanhalli Mohan, Shan Ying
 conference: "Arxiv"
 year: 2023

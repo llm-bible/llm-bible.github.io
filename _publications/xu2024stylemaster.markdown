@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: StyleMaster Towards Flexible Stylized Image Generation with Diffusion Models
+title: Stylemaster Towards Flexible Stylized Image Generation With Diffusion Models
 authors: Xu Chengming, Hu Kai, Luo Donghao, Zhang Jiangning, Li Wei, Ge Yanhao, Wang Chengjie
 conference: "Arxiv"
 year: 2024

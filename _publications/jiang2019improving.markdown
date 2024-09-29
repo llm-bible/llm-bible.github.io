@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Neural Response Diversity with Frequency-Aware Cross-Entropy Loss
+title: Improving Neural Response Diversity With Frequency-aware Cross-entropy Loss
 authors: Jiang Shaojie, Ren Pengjie, Monz Christof, De Rijke Maarten
 conference: "Arxiv"
 year: 2019

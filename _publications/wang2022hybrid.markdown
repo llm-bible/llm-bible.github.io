@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hybrid-Regressive Neural Machine Translation
+title: Hybrid-regressive Neural Machine Translation
 authors: Wang Qiang, Hu Xinhui, Chen Ming
 conference: "Arxiv"
 year: 2022

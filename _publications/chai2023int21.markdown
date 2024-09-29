@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: INT2.1 Towards Fine-Tunable Quantized Large Language Models with Error Correction through Low-Rank Adaptation
+title: INT2.1 Towards Fine-tunable Quantized Large Language Models With Error Correction Through Low-rank Adaptation
 authors: Chai Yuji, Gkountouras John, Ko Glenn G., Brooks David, Wei Gu-yeon
 conference: "Arxiv"
 year: 2023

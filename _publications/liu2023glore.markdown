@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GLoRE Evaluating Logical Reasoning of Large Language Models
+title: Glore Evaluating Logical Reasoning Of Large Language Models
 authors: Liu Hanmeng, Teng Zhiyang, Ning Ruoxi, Liu Jian, Zhou Qiji, Zhang Yue
 conference: "Arxiv"
 year: 2023

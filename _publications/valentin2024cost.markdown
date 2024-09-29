@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cost-Effective Hallucination Detection for LLMs
+title: Cost-effective Hallucination Detection For Llms
 authors: Valentin Simon, Fu Jinmiao, Detommaso Gianluca, Xu Shaoyuan, Zappella Giovanni, Wang Bryan
 conference: "Arxiv"
 year: 2024

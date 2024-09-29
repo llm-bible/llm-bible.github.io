@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Diffusion Glancing Transformer for Parallel Sequence to Sequence Learning
+title: Diffusion Glancing Transformer For Parallel Sequence To Sequence Learning
 authors: Qian Lihua, Wang Mingxuan, Liu Yang, Zhou Hao
 conference: "Arxiv"
 year: 2022

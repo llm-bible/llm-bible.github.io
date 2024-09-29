@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CIBench Evaluating Your LLMs with a Code Interpreter Plugin
+title: Cibench Evaluating Your Llms With A Code Interpreter Plugin
 authors: Zhang Songyang, Zhang Chuyu, Hu Yingfan, Shen Haowen, Liu Kuikun, Ma Zerun, Zhou Fengzhe, Zhang Wenwei, He Xuming, Lin Dahua, Chen Kai
 conference: "Arxiv"
 year: 2024

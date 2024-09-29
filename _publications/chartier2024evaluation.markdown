@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluation des capacites de reponse de larges mod`eles de langage (LLM) pour des questions dhistoriens
+title: evaluation Des Capacites De Reponse De Larges Mod`eles De Langage (LLM) Pour Des Questions Dhistoriens
 authors: Chartier Mathieu, Dakkoune Nabil, Bourgeois Guillaume, Jean Stéphane
 conference: "Arxiv"
 year: 2024

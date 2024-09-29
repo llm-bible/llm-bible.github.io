@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dual Modalities of Text Visual and Textual Generative Pre-training
+title: Dual Modalities Of Text Visual And Textual Generative Pre-training
 authors: Chai Yekun, Liu Qingyi, Xiao Jingwu, Wang Shuohuan, Sun Yu, Wu Hua
 conference: "Arxiv"
 year: 2024

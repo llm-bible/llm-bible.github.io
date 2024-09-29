@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Neural Machine Translation with Contrastive Translation Memories
+title: Neural Machine Translation With Contrastive Translation Memories
 authors: Cheng Xin, Gao Shen, Liu Lemao, Zhao Dongyan, Yan Rui
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large language models effectively leverage document-level context for literary translation but critical errors persist
+title: Large Language Models Effectively Leverage Document-level Context For Literary Translation But Critical Errors Persist
 authors: Karpinska Marzena, Iyyer Mohit
 conference: "Arxiv"
 year: 2023

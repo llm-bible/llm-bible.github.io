@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: HPC-GPT Integrating Large Language Model for High-Performance Computing
+title: HPC-GPT Integrating Large Language Model For High-performance Computing
 authors: Ding Xianzhong, Chen Le, Emani Murali, Liao Chunhua, Lin Pei-hung, Vanderbruggen Tristan, Xie Zhen, Cerpa Alberto E., Du Wan
 conference: "Arxiv"
 year: 2023

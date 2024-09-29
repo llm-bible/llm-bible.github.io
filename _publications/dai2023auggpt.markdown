@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AugGPT Leveraging ChatGPT for Text Data Augmentation
+title: Auggpt Leveraging Chatgpt For Text Data Augmentation
 authors: Dai Haixing, Liu Zhengliang, Liao Wenxiong, Huang Xiaoke, Cao Yihan, Wu Zihao, Zhao Lin, Xu Shaochen, Liu Wei, Liu Ninghao, Li Sheng, Zhu Dajiang, Cai Hongmin, Sun Lichao, Li Quanzheng, Shen Dinggang, Liu Tianming, Li Xiang
 conference: "Arxiv"
 year: 2023

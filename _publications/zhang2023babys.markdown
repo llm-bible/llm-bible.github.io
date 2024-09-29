@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Babys CoThought Leveraging Large Language Models for Enhanced Reasoning in Compact Models
+title: Babys Cothought Leveraging Large Language Models For Enhanced Reasoning In Compact Models
 authors: Zhang Zheyu, Yang Han, Ma Bolei, Rügamer David, Nie Ercong
 conference: "Arxiv"
 year: 2023

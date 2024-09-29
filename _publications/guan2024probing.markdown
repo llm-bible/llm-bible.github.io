@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Probing the Robustness of Vision-Language Pretrained Models A Multimodal Adversarial Attack Approach
+title: Probing The Robustness Of Vision-language Pretrained Models A Multimodal Adversarial Attack Approach
 authors: Guan Jiwei, Ding Tianyu, Cao Longbing, Pan Lei, Wang Chen, Zheng Xi
 conference: "Arxiv"
 year: 2024

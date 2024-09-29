@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The SelectGen Challenge Finding the Best Training Samples for Few-Shot Neural Text Generation
+title: The Selectgen Challenge Finding The Best Training Samples For Few-shot Neural Text Generation
 authors: Chang Ernie, Shen Xiaoyu, Marin Alex, Demberg Vera
 conference: "Arxiv"
 year: 2021

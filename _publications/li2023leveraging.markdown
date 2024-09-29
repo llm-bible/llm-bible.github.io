@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Structured Information for Explainable Multi-hop Question Answering and Reasoning
+title: Leveraging Structured Information For Explainable Multi-hop Question Answering And Reasoning
 authors: Li Ruosen, Du Xinya
 conference: "Arxiv"
 year: 2023

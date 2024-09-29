@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Transformerx27;s Ability To Learn Mildly Context-sensitive Languages
+title: Evaluating Transformers Ability To Learn Mildly Context-sensitive Languages
 authors: Wang Shunjie, Steinert-threlkeld Shane
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reasoning Abilities of Large Language Models In-Depth Analysis on the Abstraction and Reasoning Corpus
+title: Reasoning Abilities Of Large Language Models In-depth Analysis On The Abstraction And Reasoning Corpus
 authors: Lee Seungpil, Sim Woochang, Shin Donghyeon, Hwang Sanha, Seo Wongyu, Park Jiwon, Lee Seokki, Kim Sejin, Kim Sundong
 conference: "Arxiv"
 year: 2024

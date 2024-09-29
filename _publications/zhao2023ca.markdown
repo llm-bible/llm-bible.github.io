@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CA-LoRA Adapting Existing LoRA for Compressed LLMs to Enable Efficient Multi-Tasking on Personal Devices
+title: Ca-lora Adapting Existing Lora For Compressed Llms To Enable Efficient Multi-tasking On Personal Devices
 authors: Zhao Weilin, Huang Yuxiang, Han Xu, Liu Zhiyuan, Zhang Zhengyan, Li Kuai, Chen Chen, Yang Tao, Sun Maosong
 conference: "Arxiv"
 year: 2023

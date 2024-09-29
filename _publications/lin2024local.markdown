@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Local and Global Contexts for Conversation
+title: Local And Global Contexts For Conversation
 authors: Lin Zuoquan, Shen Xinyi
 conference: "Arxiv"
 year: 2024

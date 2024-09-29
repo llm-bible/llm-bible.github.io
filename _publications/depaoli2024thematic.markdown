@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Thematic Analysis with Large Language Models does it work with languages other than English A targeted test in Italian
+title: Thematic Analysis With Large Language Models Does It Work With Languages Other Than English A Targeted Test In Italian
 authors: De Paoli Stefano
 conference: "Arxiv"
 year: 2024

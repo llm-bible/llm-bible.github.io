@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pushing the Limits of ChatGPT on NLP Tasks
+title: Pushing The Limits Of Chatgpt On NLP Tasks
 authors: Sun Xiaofei, Dong Linfeng, Li Xiaoya, Wan Zhen, Wang Shuhe, Zhang Tianwei, Li Jiwei, Cheng Fei, Lyu Lingjuan, Wu Fei, Wang Guoyin
 conference: "Arxiv"
 year: 2023

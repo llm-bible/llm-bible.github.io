@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Narrow Transformer StarCoder-Based Java-LM For Desktop
+title: Narrow Transformer Starcoder-based Java-lm For Desktop
 authors: Rathinasamy Kamalkumar, J Balaji A, Kumar Ankush, Gayari Gagan, K Harshini, Mondal Rajab Ali, S Sreenivasa Raghavan K, Singh Swayam, Tarafdar Mohammed Rafee
 conference: "Arxiv"
 year: 2024

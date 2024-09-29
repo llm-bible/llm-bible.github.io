@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On the Role of Attention in Prompt-tuning
+title: On The Role Of Attention In Prompt-tuning
 authors: Oymak Samet, Rawat Ankit Singh, Soltanolkotabi Mahdi, Thrampoulidis Christos
 conference: "Arxiv"
 year: 2023

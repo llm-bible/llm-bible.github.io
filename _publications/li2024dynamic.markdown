@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dynamic data sampler for cross-language transfer learning in large language models
+title: Dynamic Data Sampler For Cross-language Transfer Learning In Large Language Models
 authors: Li Yudong, Feng Yuhao, Zhou Wen, Zhao Zhe, Shen Linlin, Hou Cheng, Hou Xianxu
 conference: "Arxiv"
 year: 2024

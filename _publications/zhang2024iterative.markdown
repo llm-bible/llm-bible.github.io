@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Iterative Utility Judgment Framework via LLMs Inspired by Relevance in Philosophy
+title: Iterative Utility Judgment Framework Via Llms Inspired By Relevance In Philosophy
 authors: Zhang Hengran, Bi Keping, Guo Jiafeng, Cheng Xueqi
 conference: "Arxiv"
 year: 2024

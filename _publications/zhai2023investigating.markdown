@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating the Catastrophic Forgetting in Multimodal Large Language Models
+title: Investigating The Catastrophic Forgetting In Multimodal Large Language Models
 authors: Zhai Yuexiang, Tong Shengbang, Li Xiao, Cai Mu, Qu Qing, Lee Yong Jae, Ma Yi
 conference: "Arxiv"
 year: 2023

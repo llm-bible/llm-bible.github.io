@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fairness of ChatGPT and the Role Of Explainable-Guided Prompts
+title: Fairness Of Chatgpt And The Role Of Explainable-guided Prompts
 authors: Deldjoo Yashar
 conference: "Arxiv"
 year: 2023

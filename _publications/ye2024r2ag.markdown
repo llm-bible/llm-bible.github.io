@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: R^2AG Incorporating Retrieval Information into Retrieval Augmented Generation
+title: R^2AG Incorporating Retrieval Information Into Retrieval Augmented Generation
 authors: Ye Fuda, Li Shuangyin, Zhang Yongqi, Chen Lei
 conference: "Arxiv"
 year: 2024

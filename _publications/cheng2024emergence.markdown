@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Emergence of a High-Dimensional Abstraction Phase in Language Transformers
+title: Emergence Of A High-dimensional Abstraction Phase In Language Transformers
 authors: Cheng Emily, Doimo Diego, Kervadec Corentin, Macocco Iuri, Yu Jade, Laio Alessandro, Baroni Marco
 conference: "Arxiv"
 year: 2024

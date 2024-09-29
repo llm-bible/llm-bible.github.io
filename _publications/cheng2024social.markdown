@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Social Debiasing for Fair Multi-modal LLMs
+title: Social Debiasing For Fair Multi-modal Llms
 authors: Cheng Harry, Guo Yangyang, Guo Qingpei, Yang Ming, Gan Tian, Nie Liqiang
 conference: "Arxiv"
 year: 2024

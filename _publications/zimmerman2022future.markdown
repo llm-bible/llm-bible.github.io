@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Future Sight Dynamic Story Generation with Large Pretrained Language Models
+title: Future Sight Dynamic Story Generation With Large Pretrained Language Models
 authors: Zimmerman Brian D., Sahu Gaurav, Vechtomova Olga
 conference: "Arxiv"
 year: 2022

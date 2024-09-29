@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: InstructMol Multi-Modal Integration for Building a Versatile and Reliable Molecular Assistant in Drug Discovery
+title: Instructmol Multi-modal Integration For Building A Versatile And Reliable Molecular Assistant In Drug Discovery
 authors: Cao He, Liu Zijing, Lu Xingyu, Yao Yuan, Li Yu
 conference: "Arxiv"
 year: 2023

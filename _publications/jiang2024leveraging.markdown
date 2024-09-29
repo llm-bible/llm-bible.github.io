@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Large Language Models for Learning Complex Legal Concepts through Storytelling
+title: Leveraging Large Language Models For Learning Complex Legal Concepts Through Storytelling
 authors: Jiang Hang, Zhang Xiajie, Mahari Robert, Kessler Daniel, Ma Eric, August Tal, Li Irene, Pentland Alex 'sandy', Kim Yoon, Roy Deb, Kabbara Jad
 conference: "Arxiv"
 year: 2024

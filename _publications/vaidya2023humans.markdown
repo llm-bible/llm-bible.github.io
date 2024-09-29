@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Humans and language models diverge when predicting repeating text
+title: Humans And Language Models Diverge When Predicting Repeating Text
 authors: Vaidya Aditya R., Turek Javier, Huth Alexander G.
 conference: "Arxiv"
 year: 2023

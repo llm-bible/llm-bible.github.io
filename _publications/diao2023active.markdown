@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Active Prompting with Chain-of-Thought for Large Language Models
+title: Active Prompting With Chain-of-thought For Large Language Models
 authors: Shizhe Diao, Pengcheng Wang, Yong Lin, Rui Pan, Xiang Liu, Tong Zhang
 conference: "Arxiv"
 year: 2023

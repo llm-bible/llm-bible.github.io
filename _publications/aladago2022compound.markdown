@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Compound Tokens Channel Fusion for Vision-Language Representation Learning
+title: Compound Tokens Channel Fusion For Vision-language Representation Learning
 authors: Aladago Maxwell Mbabilla, Piergiovanni Aj
 conference: "Arxiv"
 year: 2022

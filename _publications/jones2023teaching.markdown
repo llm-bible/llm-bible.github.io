@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Teaching Language Models to Hallucinate Less with Synthetic Tasks
+title: Teaching Language Models To Hallucinate Less With Synthetic Tasks
 authors: Jones Erik, Palangi Hamid, Simões Clarisse, Chandrasekaran Varun, Mukherjee Subhabrata, Mitra Arindam, Awadallah Ahmed, Kamar Ece
 conference: "Arxiv"
 year: 2023

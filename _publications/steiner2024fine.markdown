@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-tuning Large Language Models for Entity Matching
+title: Fine-tuning Large Language Models For Entity Matching
 authors: Steiner Aaron, Peeters Ralph, Bizer Christian
 conference: "Arxiv"
 year: 2024

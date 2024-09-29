@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fostering Natural Conversation in Large Language Models with NICO a Natural Interactive COnversation dataset
+title: Fostering Natural Conversation In Large Language Models With NICO A Natural Interactive Conversation Dataset
 authors: Sun Renliang, Liu Mengyuan, Yang Shiping, Wang Rui, He Junqing, Zhang Jiaxing
 conference: "Arxiv"
 year: 2024

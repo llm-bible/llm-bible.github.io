@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: mEdIT Multilingual Text Editing via Instruction Tuning
+title: Medit Multilingual Text Editing Via Instruction Tuning
 authors: Raheja Vipul, Alikaniotis Dimitris, Kulkarni Vivek, Alhafni Bashar, Kumar Dhruv
 conference: "Arxiv"
 year: 2024

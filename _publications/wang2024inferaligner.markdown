@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: InferAligner Inference-Time Alignment for Harmlessness through Cross-Model Guidance
+title: Inferaligner Inference-time Alignment For Harmlessness Through Cross-model Guidance
 authors: Wang Pengyu, Zhang Dong, Li Linyang, Tan Chenkun, Wang Xinghao, Ren Ke, Jiang Botian, Qiu Xipeng
 conference: "Arxiv"
 year: 2024

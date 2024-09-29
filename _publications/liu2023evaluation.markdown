@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Evaluation of GPT-4V and Gemini in Online VQA
+title: An Evaluation Of GPT-4V And Gemini In Online VQA
 authors: Liu Mengchen, Chen Chongyan, Gurari Danna
 conference: "Arxiv"
 year: 2023

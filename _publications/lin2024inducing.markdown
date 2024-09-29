@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Inducing Generalization across Languages and Tasks using Featurized Low-Rank Mixtures
+title: Inducing Generalization Across Languages And Tasks Using Featurized Low-rank Mixtures
 authors: Lin Chu-cheng, Wang Xinyi, Clark Jonathan H., Lu Han, Zhu Yun, Whitehouse Chenxi, Yu Hongkun
 conference: "Arxiv"
 year: 2024

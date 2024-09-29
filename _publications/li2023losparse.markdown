@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LoSparse Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation
+title: Losparse Structured Compression Of Large Language Models Based On Low-rank And Sparse Approximation
 authors: Li Yixiao, Yu Yifan, Zhang Qingru, Liang Chen, He Pengcheng, Chen Weizhu, Zhao Tuo
 conference: "Arxiv"
 year: 2023

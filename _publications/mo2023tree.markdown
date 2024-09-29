@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tree of Uncertain Thoughts Reasoning for Large Language Models
+title: Tree Of Uncertain Thoughts Reasoning For Large Language Models
 authors: Mo Shentong, Xin Miao
 conference: "Arxiv"
 year: 2023

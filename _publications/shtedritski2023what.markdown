@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What does CLIP know about a red circle Visual prompt engineering for VLMs
+title: What Does CLIP Know About A Red Circle Visual Prompt Engineering For Vlms
 authors: Shtedritski Aleksandar, Rupprecht Christian, Vedaldi Andrea
 conference: "Arxiv"
 year: 2023

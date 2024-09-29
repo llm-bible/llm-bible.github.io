@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reasoning or Simply Next Token Prediction A Benchmark for Stress-Testing Large Language Models
+title: Reasoning Or Simply Next Token Prediction A Benchmark For Stress-testing Large Language Models
 authors: Wang Wentian, Kantor Paul, Feldman Jacob, Gallos Lazaros, Wang Hao
 conference: "Arxiv"
 year: 2024

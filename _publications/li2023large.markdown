@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models for Generative Recommendation A Survey and Visionary Discussions
+title: Large Language Models For Generative Recommendation A Survey And Visionary Discussions
 authors: Lei Li, Yongfeng Zhang, Dugang Liu, Li Chen
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: QASE Enhanced PLMs Improved Control in Text Generation for MRC
+title: QASE Enhanced Plms Improved Control In Text Generation For MRC
 authors: Ai Lin, Hui Zheng, Liu Zizhou, Hirschberg Julia
 conference: "Arxiv"
 year: 2024

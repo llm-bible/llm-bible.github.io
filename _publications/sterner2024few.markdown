@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Few-Shot VQA with Frozen LLMs A Tale of Two Approaches
+title: Few-shot VQA With Frozen Llms A Tale Of Two Approaches
 authors: Sterner Igor, Lin Weizhe, Chen Jinghong, Byrne Bill
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TREC iKAT 2023 A Test Collection for Evaluating Conversational and Interactive Knowledge Assistants
+title: TREC Ikat 2023 A Test Collection For Evaluating Conversational And Interactive Knowledge Assistants
 authors: Aliannejadi Mohammad, Abbasiantaeb Zahra, Chatterjee Shubham, Dalton Jeffery, Azzopardi Leif
 conference: "Arxiv"
 year: 2024

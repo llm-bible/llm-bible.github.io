@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Long Context Document-Level Machine Translation
+title: Improving Long Context Document-level Machine Translation
 authors: Herold Christian, Ney Hermann
 conference: "Arxiv"
 year: 2023

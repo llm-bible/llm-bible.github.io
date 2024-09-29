@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mini Minds Exploring Bebeshka and Zlata Baby Models
+title: Mini Minds Exploring Bebeshka And Zlata Baby Models
 authors: Proskurina Irina, Metzler Guillaume, Velcin Julien
 conference: "Arxiv"
 year: 2023

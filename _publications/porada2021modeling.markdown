@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Modeling Event Plausibility with Consistent Conceptual Abstraction
+title: Modeling Event Plausibility With Consistent Conceptual Abstraction
 authors: Porada Ian, Suleman Kaheer, Trischler Adam, Cheung Jackie Chi Kit
 conference: "Arxiv"
 year: 2021

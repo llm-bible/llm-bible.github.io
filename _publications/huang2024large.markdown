@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Model Interaction Simulator for Cold-Start Item Recommendation
+title: Large Language Model Interaction Simulator For Cold-start Item Recommendation
 authors: Feiran Huang, Zhenghang Yang, Junyi Jiang, Yuanchen Bei, Yijie Zhang, Hao Chen
 conference: "Arxiv"
 year: 2024

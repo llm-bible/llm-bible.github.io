@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM-Enhanced User-Item Interactions Leveraging Edge Information for Optimized Recommendations
+title: Llm-enhanced User-item Interactions Leveraging Edge Information For Optimized Recommendations
 authors: Xinyuan Wang, Liang Wu, Liangjie Hong, Hao Liu, Yanjie Fu
 conference: "Arxiv"
 year: 2024

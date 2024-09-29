@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LM-Cocktail Resilient Tuning of Language Models via Model Merging
+title: Lm-cocktail Resilient Tuning Of Language Models Via Model Merging
 authors: Xiao Shitao, Liu Zheng, Zhang Peitian, Xing Xingrun
 conference: "Arxiv"
 year: 2023

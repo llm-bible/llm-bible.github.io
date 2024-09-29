@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LaViPLanguage-Grounded Visual Prompts
+title: Laviplanguage-grounded Visual Prompts
 authors: Kunananthaseelan Nilakshan, Zhang Jing, Harandi Mehrtash
 conference: "Arxiv"
 year: 2023

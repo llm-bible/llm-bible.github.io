@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Collaborative Large Language Model for Recommender Systems
+title: Collaborative Large Language Model For Recommender Systems
 authors: Yaochen Zhu, Liang Wu, Qi Guo, Liangjie Hong, Jundong Li
 conference: "Arxiv"
 year: 2023

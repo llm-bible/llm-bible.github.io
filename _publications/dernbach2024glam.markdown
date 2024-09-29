@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GLaM Fine-Tuning Large Language Models for Domain Knowledge Graph Alignment via Neighborhood Partitioning and Generative Subgraph Encoding
+title: Glam Fine-tuning Large Language Models For Domain Knowledge Graph Alignment Via Neighborhood Partitioning And Generative Subgraph Encoding
 authors: Dernbach Stefan, Agarwal Khushbu, Zuniga Alejandro, Henry Michael, Choudhury Sutanay
 conference: "Arxiv"
 year: 2024

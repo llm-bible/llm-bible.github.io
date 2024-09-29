@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Using large language models to estimate features of multi-word expressions Concreteness valence arousal
+title: Using Large Language Models To Estimate Features Of Multi-word Expressions Concreteness Valence Arousal
 authors: Martínez Gonzalo, Molero Juan Diego, González Sandra, Conde Javier, Brysbaert Marc, Reviriego Pedro
 conference: "Arxiv"
 year: 2024

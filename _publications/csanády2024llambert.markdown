@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LlamBERT Large-scale low-cost data annotation in NLP
+title: Llambert Large-scale Low-cost Data Annotation In NLP
 authors: Csanády Bálint, Muzsai Lajos, Vedres Péter, Nádasdy Zoltán, Lukács András
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jailbreaking LLMs with Arabic Transliteration and Arabizi
+title: Jailbreaking Llms With Arabic Transliteration And Arabizi
 authors: Ghanim Mansour Al, Almohaimeed Saleh, Zheng Mengxin, Solihin Yan, Lou Qian
 conference: "Arxiv"
 year: 2024

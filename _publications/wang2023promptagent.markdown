@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PromptAgent Strategic Planning with Language Models Enables Expert-level Prompt Optimization
+title: Promptagent Strategic Planning With Language Models Enables Expert-level Prompt Optimization
 authors: Wang Xinyuan, Li Chenxi, Wang Zhen, Bai Fan, Luo Haotian, Zhang Jiayou, Jojic Nebojsa, Xing Eric P., Hu Zhiting
 conference: "Arxiv"
 year: 2023

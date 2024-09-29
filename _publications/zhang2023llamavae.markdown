@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LlaMaVAE Guiding Large Language Model Generation via Continuous Latent Sentence Spaces
+title: Llamavae Guiding Large Language Model Generation Via Continuous Latent Sentence Spaces
 authors: Zhang Yingji, Carvalho Danilo S., Pratt-hartmann Ian, Freitas André
 conference: "Arxiv"
 year: 2023

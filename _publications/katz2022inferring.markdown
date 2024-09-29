@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Inferring Implicit Relations in Complex Questions with Language Models
+title: Inferring Implicit Relations In Complex Questions With Language Models
 authors: Uri Katz, Mor Geva, Jonathan Berant
 conference: "Arxiv"
 year: 2022

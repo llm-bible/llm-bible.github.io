@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: WeChat Neural Machine Translation Systems for WMT21
+title: Wechat Neural Machine Translation Systems For WMT21
 authors: Zeng Xianfeng, Liu Yijin, Li Ernan, Ran Qiu, Meng Fandong, Li Peng, Xu Jinan, Zhou Jie
 conference: "Arxiv"
 year: 2021

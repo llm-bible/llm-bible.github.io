@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DPP-Based Adversarial Prompt Searching for Lanugage Models
+title: Dpp-based Adversarial Prompt Searching For Lanugage Models
 authors: Zhang Xu, Wan Xiaojun
 conference: "Arxiv"
 year: 2024

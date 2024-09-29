@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Collaborative Performance Prediction for Large Language Models
+title: Collaborative Performance Prediction For Large Language Models
 authors: Zhang Qiyuan, Lyu Fuyuan, Liu Xue, Ma Chen
 conference: "Arxiv"
 year: 2024

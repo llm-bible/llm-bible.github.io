@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Emotional Manipulation Through Prompt Engineering Amplifies Disinformation Generation in AI Large Language Models
+title: Emotional Manipulation Through Prompt Engineering Amplifies Disinformation Generation In AI Large Language Models
 authors: Vinay Rasita, Spitale Giovanni, Biller-andorno Nikola, Germani Federico
 conference: "Arxiv"
 year: 2024

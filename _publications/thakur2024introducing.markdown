@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Introducing Super RAGs in Mistral 8x7B-v1
+title: Introducing Super Rags In Mistral 8x7b-v1
 authors: Thakur Ayush, Gupta Raghav
 conference: "Arxiv"
 year: 2024

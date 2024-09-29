@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Advanced Natural-based interaction for the ITAlian language LLaMAntino-3-ANITA
+title: Advanced Natural-based Interaction For The Italian Language Llamantino-3-anita
 authors: Polignano Marco, Basile Pierpaolo, Semeraro Giovanni
 conference: "Arxiv"
 year: 2024

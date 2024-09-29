@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: In-Context Learning Demonstration Selection via Influence Analysis
+title: In-context Learning Demonstration Selection Via Influence Analysis
 authors: S. Vinay M., Van Minh-hao, Wu Xintao
 conference: "Arxiv"
 year: 2024

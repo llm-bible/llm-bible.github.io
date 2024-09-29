@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Journalism with AI A Study of Contextualized Image Captioning for News Articles using LLMs and LMMs
+title: Enhancing Journalism With AI A Study Of Contextualized Image Captioning For News Articles Using Llms And Lmms
 authors: Anagnostopoulou Aliki, Gouvea Thiago, Sonntag Daniel
 conference: "Arxiv"
 year: 2024

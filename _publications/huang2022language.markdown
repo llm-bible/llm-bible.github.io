@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Models as Zero-Shot Planners Extracting Actionable Knowledge for Embodied Agents
+title: Language Models As Zero-shot Planners Extracting Actionable Knowledge For Embodied Agents
 authors: Wenlong Huang, Pieter Abbeel, Deepak Pathak, Igor Mordatch
 conference: "Arxiv"
 year: 2022

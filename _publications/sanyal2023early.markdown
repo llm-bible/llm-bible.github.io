@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Early Weight Averaging meets High Learning Rates for LLM Pre-training
+title: Early Weight Averaging Meets High Learning Rates For LLM Pre-training
 authors: Sanyal Sunny, Neerkaje Atula, Kaddour Jean, Kumar Abhishek, Sanghavi Sujay
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Systematic Task Exploration with LLMs A Study in Citation Text Generation
+title: Systematic Task Exploration With Llms A Study In Citation Text Generation
 authors: Şahinuç Furkan, Kuznetsov Ilia, Hou Yufang, Gurevych Iryna
 conference: "Arxiv"
 year: 2024

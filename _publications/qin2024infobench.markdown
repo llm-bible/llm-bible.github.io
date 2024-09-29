@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: InFoBench Evaluating Instruction Following Ability in Large Language Models
+title: Infobench Evaluating Instruction Following Ability In Large Language Models
 authors: Qin Yiwei, Song Kaiqiang, Hu Yebowen, Yao Wenlin, Cho Sangwoo, Wang Xiaoyang, Wu Xuansheng, Liu Fei, Liu Pengfei, Yu Dong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Natural Response Generation for Chinese Reading Comprehension
+title: Natural Response Generation For Chinese Reading Comprehension
 authors: Chen Nuo, Li Hongguang, Bao Yinan, Wang Baoyuan, Li Jia
 conference: "EMNLP"
 year: 2023

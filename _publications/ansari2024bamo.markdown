@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BAMO at SemEval-2024 Task 9 BRAINTEASER A Novel Task Defying Common Sense
+title: BAMO At Semeval-2024 Task 9 BRAINTEASER A Novel Task Defying Common Sense
 authors: Ansari Baktash, Rostamkhani Mohammadmostafa, Eetemadi Sauleh
 conference: "Arxiv"
 year: 2024

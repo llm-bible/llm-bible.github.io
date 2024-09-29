@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DocLLM A layout-aware generative language model for multimodal document understanding
+title: Docllm A Layout-aware Generative Language Model For Multimodal Document Understanding
 authors: Wang Dongsheng, Raman Natraj, Sibue Mathieu, Ma Zhiqiang, Babkin Petr, Kaur Simerjot, Pei Yulong, Nourbakhsh Armineh, Liu Xiaomo
 conference: "Arxiv"
 year: 2023

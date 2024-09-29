@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dual Ask-Answer Network for Machine Reading Comprehension
+title: Dual Ask-answer Network For Machine Reading Comprehension
 authors: Xiao Han, Wang Feng, Yan Jianfeng, Zheng Jingyao
 conference: "Arxiv"
 year: 2018

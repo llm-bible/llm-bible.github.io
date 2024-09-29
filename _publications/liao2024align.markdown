@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Align and Aggregate Compositional Reasoning with Video Alignment and Answer Aggregation for Video Question-Answering
+title: Align And Aggregate Compositional Reasoning With Video Alignment And Answer Aggregation For Video Question-answering
 authors: Liao Zhaohe, Li Jiangtong, Niu Li, Zhang Liqing
 conference: "CVPR"
 year: 2024

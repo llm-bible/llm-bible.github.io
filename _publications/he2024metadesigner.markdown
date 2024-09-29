@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MetaDesigner Advancing Artistic Typography through AI-Driven User-Centric and Multilingual WordArt Synthesis
+title: Metadesigner Advancing Artistic Typography Through Ai-driven User-centric And Multilingual Wordart Synthesis
 authors: He Jun-yan, Cheng Zhi-qi, Li Chenyang, Sun Jingdong, He Qi, Xiang Wangmeng, Chen Hanyuan, Lan Jin-peng, Lin Xianhui, Zhu Kang, Luo Bin, Geng Yifeng, Xie Xuansong, Hauptmann Alexander G.
 conference: "Arxiv"
 year: 2024

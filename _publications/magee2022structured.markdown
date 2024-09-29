@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Structured Like a Language Model Analysing AI as an Automated Subject
+title: Structured Like A Language Model Analysing AI As An Automated Subject
 authors: Magee Liam, Arora Vanicka, Munn Luke
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Interactive Teaching for Conversational AI
+title: Interactive Teaching For Conversational AI
 authors: Ping Qing, Niu Feiyang, Thattai Govind, Chengottusseriyil Joel, Gao Qiaozi, Reganti Aishwarya, Rajagopal Prashanth, Tur Gokhan, Hakkani-tur Dilek, Nataraja Prem
 conference: "Arxiv"
 year: 2020

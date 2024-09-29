@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring How Multiple Levels of GPT-Generated Programming Hints Support or Disappoint Novices
+title: Exploring How Multiple Levels Of Gpt-generated Programming Hints Support Or Disappoint Novices
 authors: Xiao Ruiwei, Hou Xinying, Stamper John
 conference: "Arxiv"
 year: 2024

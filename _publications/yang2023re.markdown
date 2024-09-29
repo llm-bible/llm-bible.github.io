@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Re-ViLM Retrieval-Augmented Visual Language Model for Zero and Few-Shot Image Captioning
+title: Re-vilm Retrieval-augmented Visual Language Model For Zero And Few-shot Image Captioning
 authors: Yang Zhuolin, Ping Wei, Liu Zihan, Korthikanti Vijay, Nie Weili, Huang De-an, Fan Linxi, Yu Zhiding, Lan Shiyi, Li Bo, Liu Ming-yu, Zhu Yuke, Shoeybi Mohammad, Catanzaro Bryan, Xiao Chaowei, Anandkumar Anima
 conference: "Arxiv"
 year: 2023

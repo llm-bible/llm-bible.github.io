@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unlocking Practical Applications in Legal Domain Evaluation of GPT for Zero-Shot Semantic Annotation of Legal Texts
+title: Unlocking Practical Applications In Legal Domain Evaluation Of GPT For Zero-shot Semantic Annotation Of Legal Texts
 authors: Savelka Jaromir
 conference: "Arxiv"
 year: 2023

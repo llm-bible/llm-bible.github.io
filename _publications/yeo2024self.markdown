@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-training Large Language Models through Knowledge Detection
+title: Self-training Large Language Models Through Knowledge Detection
 authors: Yeo Wei Jie, Ferdinan Teddy, Kazienko Przemyslaw, Satapathy Ranjan, Cambria Erik
 conference: "Arxiv"
 year: 2024

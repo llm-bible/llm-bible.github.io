@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Does Object Grounding Really Reduce Hallucination of Large Vision-Language Models
+title: Does Object Grounding Really Reduce Hallucination Of Large Vision-language Models
 authors: Geigle Gregor, Timofte Radu, Glavaš Goran
 conference: "Arxiv"
 year: 2024

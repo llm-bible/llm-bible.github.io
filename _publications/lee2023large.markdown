@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models can Share Images Too!
+title: Large Language Models Can Share Images Too!
 authors: Lee Young-jun, Lee Dokyong, Sung Joo Won, Hyeon Jonghwan, Choi Ho-jin
 conference: "Arxiv"
 year: 2023

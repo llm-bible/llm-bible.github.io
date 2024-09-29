@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pretraining on the Test Set Is All You Need
+title: Pretraining On The Test Set Is All You Need
 authors: Schaeffer Rylan
 conference: "Arxiv"
 year: 2023

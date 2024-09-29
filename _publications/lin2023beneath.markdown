@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beneath the Surface Unveiling Harmful Memes with Multimodal Reasoning Distilled from Large Language Models
+title: Beneath The Surface Unveiling Harmful Memes With Multimodal Reasoning Distilled From Large Language Models
 authors: Lin Hongzhan, Luo Ziyang, Ma Jing, Chen Long
 conference: "The"
 year: 2023

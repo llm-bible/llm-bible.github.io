@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hello Again! LLM-powered Personalized Agent for Long-term Dialogue
+title: Hello Again! Llm-powered Personalized Agent For Long-term Dialogue
 authors: Li Hao, Yang Chenghao, Zhang An, Deng Yang, Wang Xiang, Chua Tat-seng
 conference: "Arxiv"
 year: 2024

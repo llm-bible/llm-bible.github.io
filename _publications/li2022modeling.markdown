@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Modeling Coreference Relations in Visual Dialog
+title: Modeling Coreference Relations In Visual Dialog
 authors: Li Mingxiao, Moens Marie-francine
 conference: "Arxiv"
 year: 2022

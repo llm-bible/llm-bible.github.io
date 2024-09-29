@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CodeIE Large Code Generation Models are Better Few-Shot Information Extractors
+title: Codeie Large Code Generation Models Are Better Few-shot Information Extractors
 authors: Li Peng, Sun Tianxiang, Tang Qiong, Yan Hang, Wu Yuanbin, Huang Xuanjing, Qiu Xipeng
 conference: "Arxiv"
 year: 2023

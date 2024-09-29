@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Supporting Human-AI Collaboration in Auditing LLMs with LLMs
+title: Supporting Human-ai Collaboration In Auditing Llms With Llms
 authors: Rastogi Charvi, Ribeiro Marco Tulio, King Nicholas, Nori Harsha, Amershi Saleema
 conference: "In Proceedings of the"
 year: 2023

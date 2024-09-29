@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language and Task Arithmetic with Parameter-Efficient Layers for Zero-Shot Summarization
+title: Language And Task Arithmetic With Parameter-efficient Layers For Zero-shot Summarization
 authors: Chronopoulou Alexandra, Pfeiffer Jonas, Maynez Joshua, Wang Xinyi, Ruder Sebastian, Agrawal Priyanka
 conference: "Arxiv"
 year: 2023

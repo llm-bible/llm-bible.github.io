@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PreCog Exploring the Relation between Memorization and Performance in Pre-trained Language Models
+title: Precog Exploring The Relation Between Memorization And Performance In Pre-trained Language Models
 authors: Ranaldi Leonardo, Ruzzetti Elena Sofia, Zanzotto Fabio Massimo
 conference: ""
 year: 2023

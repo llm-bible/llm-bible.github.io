@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Preliminary Study on Incremental Learning for Large Language Model-based Recommender Systems
+title: Preliminary Study On Incremental Learning For Large Language Model-based Recommender Systems
 authors: Shi Tianhao, Zhang Yang, Xu Zhijian, Chen Chong, Feng Fuli, He Xiangnan, Tian Qi
 conference: "Arxiv"
 year: 2023

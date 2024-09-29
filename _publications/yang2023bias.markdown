@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bias A-head Analyzing Bias in Transformer-Based Language Model Attention Heads
+title: Bias A-head Analyzing Bias In Transformer-based Language Model Attention Heads
 authors: Yang Yi, Duan Hanyu, Abbasi Ahmed, Lalor John P., Tam Kar Yan
 conference: "Arxiv"
 year: 2023

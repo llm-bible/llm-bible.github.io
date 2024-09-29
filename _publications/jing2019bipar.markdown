@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BiPaR A Bilingual Parallel Dataset for Multilingual and Cross-lingual Reading Comprehension on Novels
+title: Bipar A Bilingual Parallel Dataset For Multilingual And Cross-lingual Reading Comprehension On Novels
 authors: Jing Yimin, Xiong Deyi, Zhen Yan
 conference: "Arxiv"
 year: 2019

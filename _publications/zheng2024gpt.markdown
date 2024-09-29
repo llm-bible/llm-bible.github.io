@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GPT-4V(ision) is a Generalist Web Agent if Grounded
+title: Gpt-4v(ision) Is A Generalist Web Agent If Grounded
 authors: Zheng Boyuan, Gou Boyu, Kil Jihyung, Sun Huan, Su Yu
 conference: "Arxiv"
 year: 2024

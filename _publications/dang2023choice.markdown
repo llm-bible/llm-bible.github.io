@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Choice Over Control How Users Write with Large Language Models using Diegetic and Non-Diegetic Prompting
+title: Choice Over Control How Users Write With Large Language Models Using Diegetic And Non-diegetic Prompting
 authors: Dang Hai, Goller Sven, Lehmann Florian, Buschek Daniel
 conference: "Arxiv"
 year: 2023

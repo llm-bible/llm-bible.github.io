@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating Efficiently Extending Transformers for Long Input Summarization
+title: Investigating Efficiently Extending Transformers For Long Input Summarization
 authors: Phang Jason, Zhao Yao, Liu Peter J.
 conference: "Arxiv"
 year: 2022

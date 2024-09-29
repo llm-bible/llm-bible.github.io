@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MemoChat Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation
+title: Memochat Tuning Llms To Use Memos For Consistent Long-range Open-domain Conversation
 authors: Lu Junru, An Siyu, Lin Mingbao, Pergola Gabriele, He Yulan, Yin Di, Sun Xing, Wu Yunsheng
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning to Answer Visual Questions from Web Videos
+title: Learning To Answer Visual Questions From Web Videos
 authors: Yang Antoine, Miech Antoine, Sivic Josef, Laptev Ivan, Schmid Cordelia
 conference: "Arxiv"
 year: 2022

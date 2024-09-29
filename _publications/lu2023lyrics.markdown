@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lyrics Boosting Fine-grained Language-Vision Alignment and Comprehension via Semantic-aware Visual Objects
+title: Lyrics Boosting Fine-grained Language-vision Alignment And Comprehension Via Semantic-aware Visual Objects
 authors: Lu Junyu, Zhang Dixiang, Zhang Songxin, Xie Zejian, Song Zhuoyang, Lin Cong, Zhang Jiaxing, Jing Bingyi, Zhang Pingjian
 conference: "Arxiv"
 year: 2023

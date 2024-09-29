@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unleashing the Creative Mind Language Model As Hierarchical Policy For Improved Exploration on Challenging Problem Solving
+title: Unleashing The Creative Mind Language Model As Hierarchical Policy For Improved Exploration On Challenging Problem Solving
 authors: Ling Zhan, Fang Yunhao, Li Xuanlin, Mu Tongzhou, Lee Mingu, Pourreza Reza, Memisevic Roland, Su Hao
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generating Informative Dialogue Responses with Keywords-Guided Networks
+title: Generating Informative Dialogue Responses With Keywords-guided Networks
 authors: Xu Heng-da, Mao Xian-ling, Chi Zewen, Zhu Jing-jing, Sun Fanshu, Huang Heyan
 conference: "Arxiv"
 year: 2020

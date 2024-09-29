@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Models can Solve Computer Tasks
+title: Language Models Can Solve Computer Tasks
 authors: Kim Geunwoo, Baldi Pierre, Mcaleer Stephen
 conference: "Arxiv"
 year: 2023

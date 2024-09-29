@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Linear Latent World Models in Simple Transformers A Case Study on Othello-GPT
+title: Linear Latent World Models In Simple Transformers A Case Study On Othello-gpt
 authors: Hazineh Dean S., Zhang Zechen, Chiu Jeffery
 conference: "Arxiv"
 year: 2023

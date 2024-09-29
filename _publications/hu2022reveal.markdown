@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: REVEAL Retrieval-Augmented Visual-Language Pre-Training with Multi-Source Multimodal Knowledge Memory
+title: REVEAL Retrieval-augmented Visual-language Pre-training With Multi-source Multimodal Knowledge Memory
 authors: Hu Ziniu, Iscen Ahmet, Sun Chen, Wang Zirui, Chang Kai-wei, Sun Yizhou, Schmid Cordelia, Ross David A., Fathi Alireza
 conference: "Arxiv"
 year: 2022

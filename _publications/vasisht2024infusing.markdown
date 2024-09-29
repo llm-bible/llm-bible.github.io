@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Infusing Knowledge into Large Language Models with Contextual Prompts
+title: Infusing Knowledge Into Large Language Models With Contextual Prompts
 authors: Vasisht Kinshuk, Ganesan Balaji, Kumar Vikas, Bhatnagar Vasudha
 conference: "Arxiv"
 year: 2024

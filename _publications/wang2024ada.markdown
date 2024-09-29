@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ada-LEval Evaluating long-context LLMs with length-adaptable benchmarks
+title: Ada-leval Evaluating Long-context Llms With Length-adaptable Benchmarks
 authors: Wang Chonghua, Duan Haodong, Zhang Songyang, Lin Dahua, Chen Kai
 conference: "Arxiv"
 year: 2024

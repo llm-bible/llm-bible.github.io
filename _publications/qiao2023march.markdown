@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: March in Chat Interactive Prompting for Remote Embodied Referring Expression
+title: March In Chat Interactive Prompting For Remote Embodied Referring Expression
 authors: Qiao Yanyuan, Qi Yuankai, Yu Zheng, Liu Jing, Wu Qi
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Personality testing of Large Language Models Limited temporal stability but highlighted prosociality
+title: Personality Testing Of Large Language Models Limited Temporal Stability But Highlighted Prosociality
 authors: Bodroza Bojana, Dinic Bojana M., Bojic Ljubisa
 conference: "Arxiv"
 year: 2023

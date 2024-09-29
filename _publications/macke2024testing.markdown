@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Testing the Effect of Code Documentation on Large Language Model Code Understanding
+title: Testing The Effect Of Code Documentation On Large Language Model Code Understanding
 authors: Macke William, Doyle Michael
 conference: "Arxiv"
 year: 2024

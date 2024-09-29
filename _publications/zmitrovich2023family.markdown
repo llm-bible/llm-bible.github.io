@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Family of Pretrained Transformer Language Models for Russian
+title: A Family Of Pretrained Transformer Language Models For Russian
 authors: Zmitrovich Dmitry, Abramov Alexander, Kalmykov Andrey, Tikhonova Maria, Taktasheva Ekaterina, Astafurov Danil, Baushenko Mark, Snegirev Artem, Kadulin Vitalii, Markov Sergey, Shavrina Tatiana, Mikhailov Vladislav, Fenogenova Alena
 conference: "https://aclanthology.org/"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Internet-augmented language models through few-shot prompting for open-domain question answering
+title: Internet-augmented Language Models Through Few-shot Prompting For Open-domain Question Answering
 authors: Lazaridou Angeliki, Gribovskaya Elena, Stokowiec Wojciech, Grigorev Nikolai
 conference: "Arxiv"
 year: 2022

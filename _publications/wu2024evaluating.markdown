@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating and Analyzing Relationship Hallucinations in Large Vision-Language Models
+title: Evaluating And Analyzing Relationship Hallucinations In Large Vision-language Models
 authors: Mingrui Wu, Jiayi Ji, Oucheng Huang, Jiale Li, Yuhang Wu, Xiaoshuai Sun, Rongrong Ji
 conference: "Arxiv"
 year: 2024

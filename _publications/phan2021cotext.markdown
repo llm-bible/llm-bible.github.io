@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CoTexT Multi-task Learning with Code-Text Transformer
+title: Cotext Multi-task Learning With Code-text Transformer
 authors: Phan Long, Tran Hieu, Le Daniel, Nguyen Hieu, Anibal James, Peltekian Alec, Ye Yanfang
 conference: "Arxiv"
 year: 2021

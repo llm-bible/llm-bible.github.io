@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RefuteBench Evaluating Refuting Instruction-Following for Large Language Models
+title: Refutebench Evaluating Refuting Instruction-following For Large Language Models
 authors: Yan Jianhao, Luo Yun, Zhang Yue
 conference: "Arxiv"
 year: 2024

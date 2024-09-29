@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TPTU Large Language Model-based AI Agents for Task Planning and Tool Usage
+title: TPTU Large Language Model-based AI Agents For Task Planning And Tool Usage
 authors: Ruan Jingqing, Chen Yihong, Zhang Bin, Xu Zhiwei, Bao Tianpeng, Du Guoqing, Shi Shiwei, Mao Hangyu, Li Ziyue, Zeng Xingyu, Zhao Rui
 conference: "Arxiv"
 year: 2023

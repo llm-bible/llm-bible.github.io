@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SuperCLUE-Math6 Graded Multi-Step Math Reasoning Benchmark for LLMs in Chinese
+title: Superclue-math6 Graded Multi-step Math Reasoning Benchmark For Llms In Chinese
 authors: Xu Liang, Xue Hang, Zhu Lei, Zhao Kangkang
 conference: "Arxiv"
 year: 2024

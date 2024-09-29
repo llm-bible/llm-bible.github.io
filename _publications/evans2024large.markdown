@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models as Evaluators for Scientific Synthesis
+title: Large Language Models As Evaluators For Scientific Synthesis
 authors: Evans Julia, D'souza Jennifer, Auer Sören
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Localized Text-to-Image Generation for Free via Cross Attention Control
+title: Localized Text-to-image Generation For Free Via Cross Attention Control
 authors: He Yutong, Salakhutdinov Ruslan, Kolter J. Zico
 conference: "Arxiv"
 year: 2023

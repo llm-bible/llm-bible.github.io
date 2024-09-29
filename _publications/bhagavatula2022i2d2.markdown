@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: I2D2 Inductive Knowledge Distillation with NeuroLogic and Self-Imitation
+title: I2D2 Inductive Knowledge Distillation With Neurologic And Self-imitation
 authors: Bhagavatula Chandra, Hwang Jena D., Downey Doug, Bras Ronan Le, Lu Ximing, Qin Lianhui, Sakaguchi Keisuke, Swayamdipta Swabha, West Peter, Choi Yejin
 conference: "Arxiv"
 year: 2022

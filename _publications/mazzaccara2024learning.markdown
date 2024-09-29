@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning to Ask Informative Questions Enhancing LLMs with Preference Optimization and Expected Information Gain
+title: Learning To Ask Informative Questions Enhancing Llms With Preference Optimization And Expected Information Gain
 authors: Mazzaccara Davide, Testoni Alberto, Bernardi Raffaella
 conference: "Arxiv"
 year: 2024

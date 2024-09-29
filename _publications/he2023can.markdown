@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Large Language Models Understand Real-World Complex Instructions
+title: Can Large Language Models Understand Real-world Complex Instructions
 authors: He Qianyu, Zeng Jie, Huang Wenhao, Chen Lina, Xiao Jin, He Qianxi, Zhou Xunzhe, Chen Lida, Wang Xintao, Huang Yuncheng, Ye Haoning, Li Zihan, Chen Shisong, Zhang Yikai, Gu Zhouhong, Liang Jiaqing, Xiao Yanghua
 conference: "Arxiv"
 year: 2023

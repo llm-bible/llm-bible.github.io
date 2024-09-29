@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On Prompt-Driven Safeguarding for Large Language Models
+title: On Prompt-driven Safeguarding For Large Language Models
 authors: Zheng Chujie, Yin Fan, Zhou Hao, Meng Fandong, Zhou Jie, Chang Kai-wei, Huang Minlie, Peng Nanyun
 conference: "Arxiv"
 year: 2024

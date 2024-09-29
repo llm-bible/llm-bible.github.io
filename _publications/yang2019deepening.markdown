@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Deepening Hidden Representations from Pre-trained Language Models
+title: Deepening Hidden Representations From Pre-trained Language Models
 authors: Yang Junjie, Zhao Hai
 conference: "Arxiv"
 year: 2019

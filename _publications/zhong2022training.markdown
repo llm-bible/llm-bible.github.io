@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Training Language Models with Memory Augmentation
+title: Training Language Models With Memory Augmentation
 authors: Zhong Zexuan, Lei Tao, Chen Danqi
 conference: "Arxiv"
 year: 2022

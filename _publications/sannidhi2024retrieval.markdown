@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieval-Augmented Generation Meets Data-Driven Tabula Rasa Approach for Temporal Knowledge Graph Forecasting
+title: Retrieval-augmented Generation Meets Data-driven Tabula Rasa Approach For Temporal Knowledge Graph Forecasting
 authors: Sannidhi Geethan, Sakhinana Sagar Srinivas, Runkana Venkataramana
 conference: "Arxiv"
 year: 2024

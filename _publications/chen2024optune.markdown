@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: OPTune Efficient Online Preference Tuning
+title: Optune Efficient Online Preference Tuning
 authors: Chen Lichang, Chen Jiuhai, Liu Chenxi, Kirchenbauer John, Soselia Davit, Zhu Chen, Goldstein Tom, Zhou Tianyi, Huang Heng
 conference: "Arxiv"
 year: 2024

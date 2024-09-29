@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Decompose Enrich and Extract! Schema-aware Event Extraction using LLMs
+title: Decompose Enrich And Extract! Schema-aware Event Extraction Using Llms
 authors: Shiri Fatemeh, Nguyen Van, Moghimifar Farhad, Yoo John, Haffari Gholamreza, Li Yuan-fang
 conference: "Arxiv"
 year: 2024

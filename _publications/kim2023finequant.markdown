@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FineQuant Unlocking Efficiency with Fine-Grained Weight-Only Quantization for LLMs
+title: Finequant Unlocking Efficiency With Fine-grained Weight-only Quantization For Llms
 authors: Kim Young Jin, Henry Rawn, Fahim Raffy, Awadalla Hany Hassan
 conference: "Arxiv"
 year: 2023

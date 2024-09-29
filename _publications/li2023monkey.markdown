@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Monkey Image Resolution and Text Label Are Important Things for Large Multi-modal Models
+title: Monkey Image Resolution And Text Label Are Important Things For Large Multi-modal Models
 authors: Li Zhang, Yang Biao, Liu Qiang, Ma Zhiyin, Zhang Shuo, Yang Jingxu, Sun Yabo, Liu Yuliang, Bai Xiang
 conference: "Arxiv"
 year: 2023

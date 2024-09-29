@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generate labeled training data using Prompt Programming and GPT-3. An example of Big Five Personality Classification
+title: Generate Labeled Training Data Using Prompt Programming And GPT-3. An Example Of Big Five Personality Classification
 authors: Chen Eason
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VisualWebBench How Far Have Multimodal LLMs Evolved in Web Page Understanding and Grounding
+title: Visualwebbench How Far Have Multimodal Llms Evolved In Web Page Understanding And Grounding
 authors: Liu Junpeng, Song Yifan, Lin Bill Yuchen, Lam Wai, Neubig Graham, Li Yuanzhi, Yue Xiang
 conference: "Arxiv"
 year: 2024

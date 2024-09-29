@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FANToM A Benchmark for Stress-testing Machine Theory of Mind in Interactions
+title: Fantom A Benchmark For Stress-testing Machine Theory Of Mind In Interactions
 authors: Kim Hyunwoo, Sclar Melanie, Zhou Xuhui, Bras Ronan Le, Kim Gunhee, Choi Yejin, Sap Maarten
 conference: "Arxiv"
 year: 2023

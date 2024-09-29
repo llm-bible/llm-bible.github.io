@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ERNIE-GEN An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation
+title: ERNIE-GEN An Enhanced Multi-flow Pre-training And Fine-tuning Framework For Natural Language Generation
 authors: Xiao Dongling, Zhang Han, Li Yukun, Sun Yu, Tian Hao, Wu Hua, Wang Haifeng
 conference: "Arxiv"
 year: 2020

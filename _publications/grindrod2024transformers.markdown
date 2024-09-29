@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transformers Contextualism and Polysemy
+title: Transformers Contextualism And Polysemy
 authors: Grindrod Jumbly
 conference: "Arxiv"
 year: 2024

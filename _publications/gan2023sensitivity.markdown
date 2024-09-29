@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sensitivity and Robustness of Large Language Models to Prompt Template in Japanese Text Classification Tasks
+title: Sensitivity And Robustness Of Large Language Models To Prompt Template In Japanese Text Classification Tasks
 authors: Gan Chengguang, Mori Tatsunori
 conference: "Arxiv"
 year: 2023

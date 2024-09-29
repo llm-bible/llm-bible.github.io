@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Robustness Challenges in Model Distillation and Pruning for Natural Language Understanding
+title: Robustness Challenges In Model Distillation And Pruning For Natural Language Understanding
 authors: Du Mengnan, Mukherjee Subhabrata, Cheng Yu, Shokouhi Milad, Hu Xia, Awadallah Ahmed Hassan
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bioinformatics and Biomedical Informatics with ChatGPT Year One Review
+title: Bioinformatics And Biomedical Informatics With Chatgpt Year One Review
 authors: Wang Jinge, Cheng Zien, Yao Qiuming, Liu Li, Xu Dong, Hu Gangqing
 conference: "Arxiv"
 year: 2024

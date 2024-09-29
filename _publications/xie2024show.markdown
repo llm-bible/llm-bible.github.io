@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Show-o One Single Transformer to Unify Multimodal Understanding and Generation
+title: Show-o One Single Transformer To Unify Multimodal Understanding And Generation
 authors: Xie Jinheng, Mao Weijia, Bai Zechen, Zhang David Junhao, Wang Weihao, Lin Kevin Qinghong, Gu Yuchao, Chen Zhijie, Yang Zhenheng, Shou Mike Zheng
 conference: "Arxiv"
 year: 2024

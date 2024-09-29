@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Meta In-Context Learning Makes Large Language Models Better Zero and Few-Shot Relation Extractors
+title: Meta In-context Learning Makes Large Language Models Better Zero And Few-shot Relation Extractors
 authors: Li Guozheng, Wang Peng, Liu Jiajun, Guo Yikai, Ji Ke, Shang Ziyu, Xu Zijie
 conference: "Arxiv"
 year: 2024

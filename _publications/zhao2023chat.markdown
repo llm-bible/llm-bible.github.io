@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chat with the Environment Interactive Multimodal Perception Using Large Language Models
+title: Chat With The Environment Interactive Multimodal Perception Using Large Language Models
 authors: Zhao Xufeng, Li Mengdi, Weber Cornelius, Hafez Muhammad Burhan, Wermter Stefan
 conference: "Arxiv"
 year: 2023

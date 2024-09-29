@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Data-Efficient Methods for Dialogue Systems
+title: Data-efficient Methods For Dialogue Systems
 authors: Shalyminov Igor
 conference: "Arxiv"
 year: 2020

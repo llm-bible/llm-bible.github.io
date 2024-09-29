@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Shortcut-Stacked Sentence Encoders for Multi-Domain Inference
+title: Shortcut-stacked Sentence Encoders For Multi-domain Inference
 authors: Nie Yixin, Bansal Mohit
 conference: "Arxiv"
 year: 2017

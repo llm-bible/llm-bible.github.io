@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models
+title: Open-ended Instructable Embodied Agents With Memory-augmented Large Language Models
 authors: Sarch Gabriel, Wu Yue, Tarr Michael J., Fragkiadaki Katerina
 conference: "Arxiv"
 year: 2023

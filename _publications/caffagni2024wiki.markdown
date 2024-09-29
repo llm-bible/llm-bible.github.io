@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Wiki-LLaVA Hierarchical Retrieval-Augmented Generation for Multimodal LLMs
+title: Wiki-llava Hierarchical Retrieval-augmented Generation For Multimodal Llms
 authors: Caffagni Davide, Cocchi Federico, Moratelli Nicholas, Sarto Sara, Cornia Marcella, Baraldi Lorenzo, Cucchiara Rita
 conference: "Arxiv"
 year: 2024

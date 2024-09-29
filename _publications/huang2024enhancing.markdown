@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing the Capability and Robustness of Large Language Models through Reinforcement Learning-Driven Query Refinement
+title: Enhancing The Capability And Robustness Of Large Language Models Through Reinforcement Learning-driven Query Refinement
 authors: Huang Zisu, Wang Xiaohua, Zhang Feiran, Xu Zhibo, Zhang Cenyuan, Zheng Xiaoqing, Huang Xuanjing
 conference: "Arxiv"
 year: 2024

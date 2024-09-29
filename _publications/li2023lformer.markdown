@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lformer Text-to-Image Generation with L-shape Block Parallel Decoding
+title: Lformer Text-to-image Generation With L-shape Block Parallel Decoding
 authors: Li Jiacheng, Wei Longhui, Zhan Zongyuan, He Xin, Tang Siliang, Tian Qi, Zhuang Yueting
 conference: "Arxiv"
 year: 2023

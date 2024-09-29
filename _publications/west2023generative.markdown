@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Generative AI Paradox quot;what It Can Create It May Not Understandquot;
+title: The Generative AI Paradox what It Can Create It May Not Understand
 authors: West Peter, Lu Ximing, Dziri Nouha, Brahman Faeze, Li Linjie, Hwang Jena D., Jiang Liwei, Fisher Jillian, Ravichander Abhilasha, Chandu Khyathi, Newman Benjamin, Koh Pang Wei, Ettinger Allyson, Choi Yejin
 conference: "Arxiv"
 year: 2023

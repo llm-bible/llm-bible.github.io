@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Intentional Biases in LLM Responses
+title: Intentional Biases In LLM Responses
 authors: Badyal Nicklaus, Jacoby Derek, Coady Yvonne
 conference: "Arxiv"
 year: 2023

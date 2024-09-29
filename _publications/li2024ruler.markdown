@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RuleR Improving LLM Controllability by Rule-based Data Recycling
+title: Ruler Improving LLM Controllability By Rule-based Data Recycling
 authors: Li Ming, Chen Han, Wang Chenguang, Nguyen Dang, Li Dianqi, Zhou Tianyi
 conference: "Arxiv"
 year: 2024

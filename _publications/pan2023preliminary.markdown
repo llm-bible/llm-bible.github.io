@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Preliminary Evaluation of ChatGPT for Zero-shot Dialogue Understanding
+title: A Preliminary Evaluation Of Chatgpt For Zero-shot Dialogue Understanding
 authors: Pan Wenbo, Chen Qiguang, Xu Xiao, Che Wanxiang, Qin Libo
 conference: "Arxiv"
 year: 2023

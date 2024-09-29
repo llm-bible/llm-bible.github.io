@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Complexity-Based Prompting for Multi-Step Reasoning
+title: Complexity-based Prompting For Multi-step Reasoning
 authors: Fu Yao, Peng Hao, Sabharwal Ashish, Clark Peter, Khot Tushar
 conference: "Arxiv"
 year: 2022

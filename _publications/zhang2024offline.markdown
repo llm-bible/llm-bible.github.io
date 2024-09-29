@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Offline Training of Language Model Agents with Functions as Learnable Weights
+title: Offline Training Of Language Model Agents With Functions As Learnable Weights
 authors: Zhang Shaokun, Zhang Jieyu, Liu Jiale, Song Linxin, Wang Chi, Krishna Ranjay, Wu Qingyun
 conference: "Arxiv"
 year: 2024

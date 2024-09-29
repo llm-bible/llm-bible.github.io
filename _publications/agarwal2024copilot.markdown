@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Copilot Evaluation Harness Evaluating LLM-Guided Software Programming
+title: Copilot Evaluation Harness Evaluating Llm-guided Software Programming
 authors: Agarwal Anisha, Chan Aaron, Chandel Shubham, Jang Jinu, Miller Shaun, Moghaddam Roshanak Zilouchian, Mohylevskyy Yevhen, Sundaresan Neel, Tufano Michele
 conference: "Arxiv"
 year: 2024

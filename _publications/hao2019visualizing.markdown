@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Visualizing and Understanding the Effectiveness of BERT
+title: Visualizing And Understanding The Effectiveness Of BERT
 authors: Hao Yaru, Dong Li, Wei Furu, Xu Ke
 conference: "Arxiv"
 year: 2019

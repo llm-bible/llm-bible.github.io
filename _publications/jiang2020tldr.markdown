@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TLDR Token Loss Dynamic Reweighting for Reducing Repetitive Utterance Generation
+title: TLDR Token Loss Dynamic Reweighting For Reducing Repetitive Utterance Generation
 authors: Jiang Shaojie, Wolf Thomas, Monz Christof, De Rijke Maarten
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EvEntS ReaLM Event Reasoning of Entity States via Language Models
+title: Events Realm Event Reasoning Of Entity States Via Language Models
 authors: Spiliopoulou Evangelia, Pagnoni Artidoro, Bisk Yonatan, Hovy Eduard
 conference: "Arxiv"
 year: 2022

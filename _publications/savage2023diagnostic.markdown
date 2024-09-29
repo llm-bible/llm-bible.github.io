@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Diagnostic Reasoning Prompts Reveal the Potential for Large Language Model Interpretability in Medicine
+title: Diagnostic Reasoning Prompts Reveal The Potential For Large Language Model Interpretability In Medicine
 authors: Savage Thomas, Nayak Ashwin, Gallo Robert, Rangan Ekanath, Chen Jonathan H
 conference: "Arxiv"
 year: 2023

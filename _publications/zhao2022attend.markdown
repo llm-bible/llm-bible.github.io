@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attend Memorize and Generate Towards Faithful Table-to-Text Generation in Few Shots
+title: Attend Memorize And Generate Towards Faithful Table-to-text Generation In Few Shots
 authors: Zhao Wenting, Liu Ye, Wan Yao, Yu Philip S.
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Every Language Counts Learn and Unlearn in Multilingual LLMs
+title: Every Language Counts Learn And Unlearn In Multilingual Llms
 authors: Lu Taiming, Koehn Philipp
 conference: "Arxiv"
 year: 2024

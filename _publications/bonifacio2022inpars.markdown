@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: InPars Data Augmentation for Information Retrieval using Large Language Models
+title: Inpars Data Augmentation For Information Retrieval Using Large Language Models
 authors: Bonifacio Luiz, Abonizio Hugo, Fadaee Marzieh, Nogueira Rodrigo
 conference: "Arxiv"
 year: 2022

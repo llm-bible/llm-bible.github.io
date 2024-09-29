@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Simple Contrastive Learning Objective for Alleviating Neural Text Degeneration
+title: A Simple Contrastive Learning Objective For Alleviating Neural Text Degeneration
 authors: Jiang Shaojie, Zhang Ruqing, Vakulenko Svitlana, De Rijke Maarten
 conference: "Arxiv"
 year: 2022

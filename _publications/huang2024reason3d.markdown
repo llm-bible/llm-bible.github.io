@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reason3D Searching and Reasoning 3D Segmentation via Large Language Model
+title: Reason3d Searching And Reasoning 3D Segmentation Via Large Language Model
 authors: Huang Kuan-chih, Li Xiangtai, Qi Lu, Yan Shuicheng, Yang Ming-hsuan
 conference: "Arxiv"
 year: 2024

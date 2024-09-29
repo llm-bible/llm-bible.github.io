@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing and Assessing Instruction-Following with Fine-Grained Instruction Variants
+title: Enhancing And Assessing Instruction-following With Fine-grained Instruction Variants
 authors: Yang Jiuding, Guo Weidong, Yang Kaitong, Li Xiangyang, Rao Zhuwei, Xu Yu, Niu Di
 conference: "Arxiv"
 year: 2024

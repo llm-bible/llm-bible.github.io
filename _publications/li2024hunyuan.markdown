@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hunyuan-DiT A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding
+title: Hunyuan-dit A Powerful Multi-resolution Diffusion Transformer With Fine-grained Chinese Understanding
 authors: Li Zhimin, Zhang Jianwei, Lin Qin, Xiong Jiangfeng, Long Yanxin, Deng Xinchi, Zhang Yingfang, Liu Xingchao, Huang Minbin, Xiao Zedong, Chen Dayou, He Jiajun, Li Jiahao, Li Wenyue, Zhang Chen, Quan Rongwei, Lu Jianxiang, Huang Jiabin, Yuan Xiaoyan, Zheng Xiaoxiao, Li Yixuan, Zhang Jihong, Zhang Chao, Chen Meng, Liu Jie, Fang Zheng, Wang Weiyan, Xue Jinbao, Tao Yangyu, Zhu Jianchen, Liu Kai, Lin Sihuan, Sun Yifu, Li Yun, Wang Dongdong, Chen Mingtao, Hu Zhichao, Xiao Xiao, Chen Yan, Liu Yuhong, Liu Wei, Wang Di, Yang Yong, Jiang Jie, Lu Qinglin
 conference: "Arxiv"
 year: 2024

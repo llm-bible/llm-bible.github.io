@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LongNet Scaling Transformers to 1000000000 Tokens
+title: Longnet Scaling Transformers To 1000000000 Tokens
 authors: Ding Jiayu, Ma Shuming, Dong Li, Zhang Xingxing, Huang Shaohan, Wang Wenhui, Zheng Nanning, Wei Furu
 conference: "Arxiv"
 year: 2023

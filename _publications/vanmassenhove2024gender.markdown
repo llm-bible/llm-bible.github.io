@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gender Bias in Machine Translation and The Era of Large Language Models
+title: Gender Bias In Machine Translation And The Era Of Large Language Models
 authors: Vanmassenhove Eva
 conference: "Arxiv"
 year: 2024

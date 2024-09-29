@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EgoThink Evaluating First-Person Perspective Thinking Capability of Vision-Language Models
+title: Egothink Evaluating First-person Perspective Thinking Capability Of Vision-language Models
 authors: Cheng Sijie, Guo Zhicheng, Wu Jingwen, Fang Kechen, Li Peng, Liu Huaping, Liu Yang
 conference: "Arxiv"
 year: 2023

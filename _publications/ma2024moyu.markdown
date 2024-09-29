@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MOYU A Theoretical Study on Massive Over-activation Yielded Uplifts in LLMs
+title: MOYU A Theoretical Study On Massive Over-activation Yielded Uplifts In Llms
 authors: Ma Chi, Huang Mincong, Wang Chao, Wang Yujie, Yu Lei
 conference: "Arxiv"
 year: 2024

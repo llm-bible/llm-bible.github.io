@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-tune Language Models to Approximate Unbiased In-context Learning
+title: Fine-tune Language Models To Approximate Unbiased In-context Learning
 authors: Timothy Chu, Zhao Song, Chiwun Yang
 conference: "Arxiv"
 year: 2023

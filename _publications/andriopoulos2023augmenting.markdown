@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Augmenting LLMs with Knowledge A survey on hallucination prevention
+title: Augmenting Llms With Knowledge A Survey On Hallucination Prevention
 authors: Andriopoulos Konstantinos, Pouwelse Johan
 conference: "Arxiv"
 year: 2023

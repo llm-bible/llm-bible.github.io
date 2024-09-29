@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ReALLM A general framework for LLM compression and fine-tuning
+title: Reallm A General Framework For LLM Compression And Fine-tuning
 authors: Leconte Louis, Bedin Lisa, Nguyen Van Minh, Moulines Eric
 conference: "Arxiv"
 year: 2024

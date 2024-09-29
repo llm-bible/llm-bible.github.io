@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Choose Your QA Model Wisely A Systematic Study of Generative and Extractive Readers for Question Answering
+title: Choose Your QA Model Wisely A Systematic Study Of Generative And Extractive Readers For Question Answering
 authors: Luo Man, Hashimoto Kazuma, Yavuz Semih, Liu Zhiwei, Baral Chitta, Zhou Yingbo
 conference: "Arxiv"
 year: 2022

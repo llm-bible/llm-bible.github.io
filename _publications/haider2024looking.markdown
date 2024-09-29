@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Looking into Black Box Code Language Models
+title: Looking Into Black Box Code Language Models
 authors: Haider Muhammad Umair, Farooq Umar, Siddique A. B., Marron Mark
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets
+title: A Systematic Study And Comprehensive Evaluation Of Chatgpt On Benchmark Datasets
 authors: Laskar Md Tahmid Rahman, Bari M Saiful, Rahman Mizanur, Bhuiyan Md Amran Hossen, Joty Shafiq, Huang Jimmy Xiangji
 conference: "Arxiv"
 year: 2023

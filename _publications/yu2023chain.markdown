@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chain-of-Note Enhancing Robustness in Retrieval-Augmented Language Models
+title: Chain-of-note Enhancing Robustness In Retrieval-augmented Language Models
 authors: Yu Wenhao, Zhang Hongming, Pan Xiaoman, Ma Kaixin, Wang Hongwei, Yu Dong
 conference: "Arxiv"
 year: 2023

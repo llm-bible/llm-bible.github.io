@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lifelong Knowledge Editing for LLMs with Retrieval-Augmented Continuous Prompt Learning
+title: Lifelong Knowledge Editing For Llms With Retrieval-augmented Continuous Prompt Learning
 authors: Chen Qizhou, Zhang Taolin, He Xiaofeng, Li Dongyang, Wang Chengyu, Huang Longtao, Xue Hui
 conference: "Arxiv"
 year: 2024

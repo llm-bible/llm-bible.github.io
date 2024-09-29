@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Can be Lazy Learners Analyze Shortcuts in In-Context Learning
+title: Large Language Models Can Be Lazy Learners Analyze Shortcuts In In-context Learning
 authors: Tang Ruixiang, Kong Dehan, Huang Longtao, Xue Hui
 conference: "Arxiv"
 year: 2023

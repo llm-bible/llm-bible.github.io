@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rewriter-Evaluator Architecture for Neural Machine Translation
+title: Rewriter-evaluator Architecture For Neural Machine Translation
 authors: Li Yangming, Yao Kaisheng
 conference: "Arxiv"
 year: 2020

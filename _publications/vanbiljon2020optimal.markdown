@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On Optimal Transformer Depth for Low-Resource Language Translation
+title: On Optimal Transformer Depth For Low-resource Language Translation
 authors: Van Biljon Elan, Pretorius Arnu, Kreutzer Julia
 conference: "Arxiv"
 year: 2020

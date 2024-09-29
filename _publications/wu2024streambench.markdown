@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: StreamBench Towards Benchmarking Continuous Improvement of Language Agents
+title: Streambench Towards Benchmarking Continuous Improvement Of Language Agents
 authors: Wu Cheng-kuang, Tam Zhi Rui, Lin Chieh-yen, Chen Yun-nung, Lee Hung-yi
 conference: "Arxiv"
 year: 2024

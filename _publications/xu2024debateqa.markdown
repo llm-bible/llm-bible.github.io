@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DebateQA Evaluating Question Answering on Debatable Knowledge
+title: Debateqa Evaluating Question Answering On Debatable Knowledge
 authors: Xu Rongwu, Qi Xuan, Qi Zehan, Xu Wei, Guo Zhijiang
 conference: "Arxiv"
 year: 2024

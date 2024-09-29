@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding the role of FFNs in driving multilingual behaviour in LLMs
+title: Understanding The Role Of Ffns In Driving Multilingual Behaviour In Llms
 authors: Bhattacharya Sunit, Bojar Ondřej
 conference: "Arxiv"
 year: 2024

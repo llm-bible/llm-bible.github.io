@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VISAR A Human-AI Argumentative Writing Assistant with Visual Programming and Rapid Draft Prototyping
+title: VISAR A Human-ai Argumentative Writing Assistant With Visual Programming And Rapid Draft Prototyping
 authors: Zhang Zheng, Gao Jie, Dhaliwal Ranjodh Singh, Li Toby Jia-jun
 conference: "Arxiv"
 year: 2023

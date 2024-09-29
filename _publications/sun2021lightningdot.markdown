@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LightningDOT Pre-training Visual-Semantic Embeddings for Real-Time Image-Text Retrieval
+title: Lightningdot Pre-training Visual-semantic Embeddings For Real-time Image-text Retrieval
 authors: Sun Siqi, Chen Yen-chun, Li Linjie, Wang Shuohang, Fang Yuwei, Liu Jingjing
 conference: "Arxiv"
 year: 2021

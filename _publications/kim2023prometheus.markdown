@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prometheus Inducing Fine-grained Evaluation Capability in Language Models
+title: Prometheus Inducing Fine-grained Evaluation Capability In Language Models
 authors: Kim Seungone, Shin Jamin, Cho Yejin, Jang Joel, Longpre Shayne, Lee Hwaran, Yun Sangdoo, Shin Seongjin, Kim Sungdong, Thorne James, Seo Minjoon
 conference: "Arxiv"
 year: 2023

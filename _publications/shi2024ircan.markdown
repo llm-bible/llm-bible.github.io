@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: IRCAN Mitigating Knowledge Conflicts in LLM Generation via Identifying and Reweighting Context-Aware Neurons
+title: IRCAN Mitigating Knowledge Conflicts In LLM Generation Via Identifying And Reweighting Context-aware Neurons
 authors: Shi Dan, Jin Renren, Shen Tianhao, Dong Weilong, Wu Xinwei, Xiong Deyi
 conference: "Arxiv"
 year: 2024

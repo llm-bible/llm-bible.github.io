@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Comparison of Large Language Model and Human Performance on Random Number Generation Tasks
+title: A Comparison Of Large Language Model And Human Performance On Random Number Generation Tasks
 authors: Harrison Rachel M.
 conference: "Arxiv"
 year: 2024

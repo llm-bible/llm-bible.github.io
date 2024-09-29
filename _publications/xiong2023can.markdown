@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can LLMs Express Their Uncertainty An Empirical Evaluation of Confidence Elicitation in LLMs
+title: Can Llms Express Their Uncertainty An Empirical Evaluation Of Confidence Elicitation In Llms
 authors: Xiong Miao, Hu Zhiyuan, Lu Xinyang, Li Yifei, Fu Jie, He Junxian, Hooi Bryan
 conference: "Arxiv"
 year: 2023

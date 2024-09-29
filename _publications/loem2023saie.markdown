@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SAIE Framework Support Alone Isnx27;t Enough -- Advancing LLM Training With Adversarial Remarks
+title: SAIE Framework Support Alone Isnt Enough -- Advancing LLM Training With Adversarial Remarks
 authors: Loem Mengsay, Kaneko Masahiro, Okazaki Naoaki
 conference: "Arxiv"
 year: 2023

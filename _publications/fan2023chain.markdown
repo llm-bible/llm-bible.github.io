@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chain-of-Thought Tuning Masked Language Models can also Think Step By Step in Natural Language Understanding
+title: Chain-of-thought Tuning Masked Language Models Can Also Think Step By Step In Natural Language Understanding
 authors: Fan Caoyun, Tian Jidong, Li Yitian, Chen Wenqing, He Hao, Jin Yaohui
 conference: "Arxiv"
 year: 2023

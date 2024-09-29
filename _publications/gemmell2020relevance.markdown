@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Relevance Transformer Generating Concise Code Snippets with Relevance Feedback
+title: Relevance Transformer Generating Concise Code Snippets With Relevance Feedback
 authors: Gemmell Carlos, Rossetto Federico, Dalton Jeffrey
 conference: "Arxiv"
 year: 2020

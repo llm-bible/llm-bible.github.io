@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ask Language Model to Clean Your Noisy Translation Data
+title: Ask Language Model To Clean Your Noisy Translation Data
 authors: Bolding Quinten, Liao Baohao, Denis Brandon James, Luo Jun, Monz Christof
 conference: "Arxiv"
 year: 2023

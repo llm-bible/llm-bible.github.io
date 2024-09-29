@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-Tuning or Fine-Failing Debunking Performance Myths in Large Language Models
+title: Fine-tuning Or Fine-failing Debunking Performance Myths In Large Language Models
 authors: Barnett Scott, Brannelly Zac, Kurniawan Stefanus, Wong Sheng
 conference: "Arxiv"
 year: 2024

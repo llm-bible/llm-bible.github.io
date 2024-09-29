@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Language Model Prompting in Support of Semi-autonomous Task Learning
+title: Improving Language Model Prompting In Support Of Semi-autonomous Task Learning
 authors: Kirk James R., Wray Robert E., Lindes Peter, Laird John E.
 conference: "Arxiv"
 year: 2022

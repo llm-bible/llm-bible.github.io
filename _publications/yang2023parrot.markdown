@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Parrot Mind Towards Explaining the Complex Task Reasoning of Pretrained Large Language Models with Template-Content Structure
+title: Parrot Mind Towards Explaining The Complex Task Reasoning Of Pretrained Large Language Models With Template-content Structure
 authors: Yang Haotong, Meng Fanxu, Lin Zhouchen, Zhang Muhan
 conference: "Arxiv"
 year: 2023

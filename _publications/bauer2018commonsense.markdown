@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Commonsense for Generative Multi-Hop Question Answering Tasks
+title: Commonsense For Generative Multi-hop Question Answering Tasks
 authors: Bauer Lisa, Wang Yicheng, Bansal Mohit
 conference: "Arxiv"
 year: 2018

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CoLLiE Collaborative Training of Large Language Models in an Efficient Way
+title: Collie Collaborative Training Of Large Language Models In An Efficient Way
 authors: Lv Kai, Zhang Shuo, Gu Tianle, Xing Shuhao, Hong Jiawei, Chen Keyu, Liu Xiaoran, Yang Yuqing, Guo Honglin, Liu Tengxiao, Sun Yu, Guo Qipeng, Yan Hang, Qiu Xipeng
 conference: "Arxiv"
 year: 2023

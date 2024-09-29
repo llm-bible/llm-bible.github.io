@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DialogConv A Lightweight Fully Convolutional Network for Multi-view Response Selection
+title: Dialogconv A Lightweight Fully Convolutional Network For Multi-view Response Selection
 authors: Liu Yongkang, Feng Shi, Gao Wei, Wang Daling, Zhang Yifei
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Explicit Inductive Inference using Large Language Models
+title: Explicit Inductive Inference Using Large Language Models
 authors: Liu Tianyang, Li Tianyi, Cheng Liang, Steedman Mark
 conference: "Arxiv"
 year: 2024

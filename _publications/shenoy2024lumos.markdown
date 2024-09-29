@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lumos Empowering Multimodal LLMs with Scene Text Recognition
+title: Lumos Empowering Multimodal Llms With Scene Text Recognition
 authors: Shenoy Ashish, Lu Yichao, Jayakumar Srihari, Chatterjee Debojeet, Moslehpour Mohsen, Chuang Pierce, Harpale Abhay, Bhardwaj Vikas, Xu Di, Zhao Shicong, Zhao Longfang, Ramchandani Ankit, Dong Xin Luna, Kumar Anuj
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SesameBERT Attention for Anywhere
+title: Sesamebert Attention For Anywhere
 authors: Su Ta-chun, Cheng Hsiang-chih
 conference: "Arxiv"
 year: 2019

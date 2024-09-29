@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TencentLLMEval A Hierarchical Evaluation of Real-World Capabilities for Human-Aligned LLMs
+title: Tencentllmeval A Hierarchical Evaluation Of Real-world Capabilities For Human-aligned Llms
 authors: Xie Shuyi, Yao Wenlin, Dai Yong, Wang Shaobo, Zhou Donlin, Jin Lifeng, Feng Xinhua, Wei Pengzhi, Lin Yujie, Hu Zhichao, Yu Dong, Zhang Zhengyou, Nie Jing, Liu Yuhong
 conference: "Arxiv"
 year: 2023

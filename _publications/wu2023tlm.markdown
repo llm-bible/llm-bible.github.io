@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TLM Token-Level Masking for Transformers
+title: TLM Token-level Masking For Transformers
 authors: Wu Yangjun, Fang Kebin, Zhang Dongxiang, Wang Han, Zhang Hao, Chen Gang
 conference: "Arxiv"
 year: 2023

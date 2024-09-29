@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understand What LLM Needs Dual Preference Alignment for Retrieval-Augmented Generation
+title: Understand What LLM Needs Dual Preference Alignment For Retrieval-augmented Generation
 authors: Dong Guanting, Zhu Yutao, Zhang Chenghao, Wang Zechen, Dou Zhicheng, Wen Ji-rong
 conference: "Arxiv"
 year: 2024

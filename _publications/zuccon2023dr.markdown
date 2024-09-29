@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dr ChatGPT tell me what I want to hear How prompt knowledge impacts health answer correctness
+title: Dr Chatgpt Tell Me What I Want To Hear How Prompt Knowledge Impacts Health Answer Correctness
 authors: Zuccon Guido, Koopman Bevan
 conference: "Arxiv"
 year: 2023

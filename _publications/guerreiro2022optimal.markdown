@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Optimal Transport for Unsupervised Hallucination Detection in Neural Machine Translation
+title: Optimal Transport For Unsupervised Hallucination Detection In Neural Machine Translation
 authors: Guerreiro Nuno M., Colombo Pierre, Piantanida Pablo, Martins André F. T.
 conference: "Arxiv"
 year: 2022

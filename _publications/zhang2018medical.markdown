@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Medical Exam Question Answering with Large-scale Reading Comprehension
+title: Medical Exam Question Answering With Large-scale Reading Comprehension
 authors: Zhang Xiao, Wu Ji, He Zhiyang, Liu Xien, Su Ying
 conference: "Arxiv"
 year: 2018

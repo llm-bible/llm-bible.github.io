@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Thinking Fair and Slow On the Efficacy of Structured Prompts for Debiasing Language Models
+title: Thinking Fair And Slow On The Efficacy Of Structured Prompts For Debiasing Language Models
 authors: Furniturewala Shaz, Jandial Surgan, Java Abhinav, Banerjee Pragyan, Shahid Simra, Bhatia Sumit, Jaidka Kokil
 conference: "Arxiv"
 year: 2024

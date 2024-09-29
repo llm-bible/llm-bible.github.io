@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Survey on Large Language Model-Enhanced Reinforcement Learning Concept Taxonomy and Methods
+title: Survey On Large Language Model-enhanced Reinforcement Learning Concept Taxonomy And Methods
 authors: Cao Yuji, Zhao Huan, Cheng Yuheng, Shu Ting, Liu Guolong, Liang Gaoqi, Zhao Junhua, Li Yun
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Test of Time A Benchmark for Evaluating LLMs on Temporal Reasoning
+title: Test Of Time A Benchmark For Evaluating Llms On Temporal Reasoning
 authors: Fatemi Bahare, Kazemi Mehran, Tsitsulin Anton, Malkan Karishma, Yim Jinyeong, Palowitch John, Seo Sungyong, Halcrow Jonathan, Perozzi Bryan
 conference: "Arxiv"
 year: 2024

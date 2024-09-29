@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AnyGPT Unified Multimodal LLM with Discrete Sequence Modeling
+title: Anygpt Unified Multimodal LLM With Discrete Sequence Modeling
 authors: Zhan Jun, Dai Junqi, Ye Jiasheng, Zhou Yunhua, Zhang Dong, Liu Zhigeng, Zhang Xin, Yuan Ruibin, Zhang Ge, Li Linyang, Yan Hang, Fu Jie, Gui Tao, Sun Tianxiang, Jiang Yugang, Qiu Xipeng
 conference: "Arxiv"
 year: 2024

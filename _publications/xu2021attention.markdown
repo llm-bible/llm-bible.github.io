@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attention-guided Generative Models for Extractive Question Answering
+title: Attention-guided Generative Models For Extractive Question Answering
 authors: Xu Peng, Liang Davis, Huang Zhiheng, Xiang Bing
 conference: "Arxiv"
 year: 2021

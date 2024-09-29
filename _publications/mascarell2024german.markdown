@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: German also Hallucinates! Inconsistency Detection in News Summaries with the Absinth Dataset
+title: German Also Hallucinates! Inconsistency Detection In News Summaries With The Absinth Dataset
 authors: Mascarell Laura, Chalumattu Ribin, Rios Annette
 conference: "Arxiv"
 year: 2024

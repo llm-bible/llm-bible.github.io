@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Conversational Question Answering with Reformulations over Knowledge Graph
+title: Conversational Question Answering With Reformulations Over Knowledge Graph
 authors: Liu Lihui, Hill Blaine, Du Boxin, Wang Fei, Tong Hanghang
 conference: "Arxiv"
 year: 2023

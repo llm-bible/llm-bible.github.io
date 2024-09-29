@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multimodal Question Answering for Unified Information Extraction
+title: Multimodal Question Answering For Unified Information Extraction
 authors: Sun Yuxuan, Zhang Kai, Su Yu
 conference: "Arxiv"
 year: 2023

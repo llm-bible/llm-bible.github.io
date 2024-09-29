@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LawLuo A Chinese Law Firm Co-run by LLM Agents
+title: Lawluo A Chinese Law Firm Co-run By LLM Agents
 authors: Sun Jingyun, Dai Chengxiao, Luo Zhongze, Chang Yangbo, Li Yang
 conference: "Arxiv"
 year: 2024

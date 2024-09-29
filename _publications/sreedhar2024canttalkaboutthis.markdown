@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CantTalkAboutThis Aligning Language Models to Stay on Topic in Dialogues
+title: Canttalkaboutthis Aligning Language Models To Stay On Topic In Dialogues
 authors: Sreedhar Makesh Narsimhan, Rebedea Traian, Ghosh Shaona, Zeng Jiaqi, Parisien Christopher
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Under the Surface Tracking the Artifactuality of LLM-Generated Data
+title: Under The Surface Tracking The Artifactuality Of Llm-generated Data
 authors: Das Debarati, De Langis Karin, Martin-boyle Anna, Kim Jaehyung, Lee Minhwa, Kim Zae Myung, Hayati Shirley Anugrah, Owan Risako, Hu Bin, Parkar Ritik, Koo Ryan, Park Jonginn, Tyagi Aahan, Ferland Libby, Roy Sanjali, Liu Vincent, Kang Dongyeop
 conference: "Arxiv"
 year: 2024

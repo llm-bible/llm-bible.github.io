@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating the Effectiveness of HyperTuning via Gisting
+title: Investigating The Effectiveness Of Hypertuning Via Gisting
 authors: Phang Jason
 conference: "Arxiv"
 year: 2024

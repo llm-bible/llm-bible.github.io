@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unmasking the Imposters In-Domain Detection of Human vs. Machine-Generated Tweets
+title: Unmasking The Imposters In-domain Detection Of Human Vs. Machine-generated Tweets
 authors: Tuck Bryan E., Verma Rakesh M.
 conference: "Arxiv"
 year: 2024

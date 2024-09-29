@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Cognitive Maps and Planning in Large Language Models with CogEval
+title: Evaluating Cognitive Maps And Planning In Large Language Models With Cogeval
 authors: Momennejad Ida, Hasanbeig Hosein, Vieira Felipe, Sharma Hiteshi, Ness Robert Osazuwa, Jojic Nebojsa, Palangi Hamid, Larson Jonathan
 conference: "Arxiv"
 year: 2023

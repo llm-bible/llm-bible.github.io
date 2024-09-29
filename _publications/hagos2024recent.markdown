@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recent Advances in Generative AI and Large Language Models Current Status Challenges and Perspectives
+title: Recent Advances In Generative AI And Large Language Models Current Status Challenges And Perspectives
 authors: Hagos Desta Haileselassie, Battle Rick, Rawat Danda B.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLaMA-Adapter Efficient Fine-tuning of Language Models with Zero-init Attention
+title: Llama-adapter Efficient Fine-tuning Of Language Models With Zero-init Attention
 authors: Zhang Renrui, Han Jiaming, Liu Chris, Gao Peng, Zhou Aojun, Hu Xiangfei, Yan Shilin, Lu Pan, Li Hongsheng, Qiao Yu
 conference: "Arxiv"
 year: 2023

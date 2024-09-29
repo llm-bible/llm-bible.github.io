@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DDCoT Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models
+title: Ddcot Duty-distinct Chain-of-thought Prompting For Multimodal Reasoning In Language Models
 authors: Ge Zheng, Bin Yang, Jiajin Tang, Hong-yu Zhou, Sibei Yang
 conference: "Arxiv"
 year: 2023

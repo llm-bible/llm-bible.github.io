@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Low-rank finetuning for LLMs A fairness perspective
+title: Low-rank Finetuning For Llms A Fairness Perspective
 authors: Das Saswat, Romanelli Marco, Tran Cuong, Reza Zarreen, Kailkhura Bhavya, Fioretto Ferdinando
 conference: "Arxiv"
 year: 2024

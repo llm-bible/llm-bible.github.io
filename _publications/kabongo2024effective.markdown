@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Effective Context Selection in LLM-based Leaderboard Generation An Empirical Study
+title: Effective Context Selection In Llm-based Leaderboard Generation An Empirical Study
 authors: Kabongo Salomon, D'souza Jennifer, Auer Sören
 conference: "Arxiv"
 year: 2024

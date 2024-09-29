@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Early Categorization of Prompt Injection Attacks on Large Language Models
+title: An Early Categorization Of Prompt Injection Attacks On Large Language Models
 authors: Rossi Sippo, Michel Alisia Marianne, Mukkamala Raghava Rao, Thatcher Jason Bennett
 conference: "Arxiv"
 year: 2024

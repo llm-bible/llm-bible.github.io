@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Overcoming Catastrophic Forgetting beyond Continual Learning Balanced Training for Neural Machine Translation
+title: Overcoming Catastrophic Forgetting Beyond Continual Learning Balanced Training For Neural Machine Translation
 authors: Shao Chenze, Feng Yang
 conference: "Arxiv"
 year: 2022

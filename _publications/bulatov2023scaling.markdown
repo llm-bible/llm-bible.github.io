@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scaling Transformer to 1M tokens and beyond with RMT
+title: Scaling Transformer To 1M Tokens And Beyond With RMT
 authors: Aydar Bulatov, Yuri Kuratov, Yermek Kapushev, Mikhail S. Burtsev
 conference: "Arxiv"
 year: 2023

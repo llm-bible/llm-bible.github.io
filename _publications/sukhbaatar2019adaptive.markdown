@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adaptive Attention Span in Transformers
+title: Adaptive Attention Span In Transformers
 authors: Sukhbaatar Sainbayar, Grave Edouard, Bojanowski Piotr, Joulin Armand
 conference: "Arxiv"
 year: 2019

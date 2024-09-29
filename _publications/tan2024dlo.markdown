@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DLO Dynamic Layer Operation for Efficient Vertical Scaling of LLMs
+title: DLO Dynamic Layer Operation For Efficient Vertical Scaling Of Llms
 authors: Tan Zhen, Dong Daize, Zhao Xinyu, Peng Jie, Cheng Yu, Chen Tianlong
 conference: "Arxiv"
 year: 2024

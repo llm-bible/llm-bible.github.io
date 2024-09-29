@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating Mysteries of CoT-Augmented Distillation
+title: Investigating Mysteries Of Cot-augmented Distillation
 authors: Wadhwa Somin, Amir Silvio, Wallace Byron C.
 conference: "Arxiv"
 year: 2024

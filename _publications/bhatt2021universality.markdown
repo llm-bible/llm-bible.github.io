@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On the Universality of Deep Contextual Language Models
+title: On The Universality Of Deep Contextual Language Models
 authors: Bhatt Shaily, Goyal Poonam, Dandapat Sandipan, Choudhury Monojit, Sitaram Sunayana
 conference: "Arxiv"
 year: 2021

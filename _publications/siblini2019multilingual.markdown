@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multilingual Question Answering from Formatted Text applied to Conversational Agents
+title: Multilingual Question Answering From Formatted Text Applied To Conversational Agents
 authors: Siblini Wissam, Pasqual Charlotte, Lavielle Axel, Challal Mohamed, Cauchois Cyril
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PCToolkit A Unified Plug-and-Play Prompt Compression Toolkit of Large Language Models
+title: Pctoolkit A Unified Plug-and-play Prompt Compression Toolkit Of Large Language Models
 authors: Li Jinyi, Lan Yihuai, Wang Lei, Wang Hao
 conference: "Arxiv"
 year: 2024

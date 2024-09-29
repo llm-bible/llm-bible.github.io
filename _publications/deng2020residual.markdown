@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Residual Energy-Based Models for Text Generation
+title: Residual Energy-based Models For Text Generation
 authors: Deng Yuntian, Bakhtin Anton, Ott Myle, Szlam Arthur, Ranzato Marc'aurelio
 conference: "ICLR"
 year: 2020

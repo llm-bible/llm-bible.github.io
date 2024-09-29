@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Visualizing Attention in Transformer-Based Language Representation Models
+title: Visualizing Attention In Transformer-based Language Representation Models
 authors: Vig Jesse
 conference: "Arxiv"
 year: 2019

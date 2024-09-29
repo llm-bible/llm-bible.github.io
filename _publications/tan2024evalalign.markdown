@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EVALALIGN Supervised Fine-Tuning Multimodal LLMs with Human-Aligned Data for Evaluating Text-to-Image Models
+title: EVALALIGN Supervised Fine-tuning Multimodal Llms With Human-aligned Data For Evaluating Text-to-image Models
 authors: Tan Zhiyu, Yang Xiaomeng, Qin Luozheng, Yang Mengping, Zhang Cheng, Li Hao
 conference: "Arxiv"
 year: 2024

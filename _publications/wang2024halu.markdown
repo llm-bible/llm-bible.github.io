@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Halu-J Critique-Based Hallucination Judge
+title: Halu-j Critique-based Hallucination Judge
 authors: Wang Binjie, Chern Steffi, Chern Ethan, Liu Pengfei
 conference: "Arxiv"
 year: 2024

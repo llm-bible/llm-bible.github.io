@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: InstructCoder Instruction Tuning Large Language Models for Code Editing
+title: Instructcoder Instruction Tuning Large Language Models For Code Editing
 authors: Li Kaixin, Hu Qisheng, Zhao Xu, Chen Hui, Xie Yuxi, Liu Tiedong, Xie Qizhe, He Junxian
 conference: "Arxiv"
 year: 2023

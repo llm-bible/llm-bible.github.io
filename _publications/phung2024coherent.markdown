@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Coherent Zero-Shot Visual Instruction Generation
+title: Coherent Zero-shot Visual Instruction Generation
 authors: Phung Quynh, Ge Songwei, Huang Jia-bin
 conference: "Arxiv"
 year: 2024

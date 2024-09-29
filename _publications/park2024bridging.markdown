@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bridging Vision and Language Spaces with Assignment Prediction
+title: Bridging Vision And Language Spaces With Assignment Prediction
 authors: Park Jungin, Lee Jiyoung, Sohn Kwanghoon
 conference: "Arxiv"
 year: 2024

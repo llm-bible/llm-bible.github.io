@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pushing Large Language Models to the 6G Edge Vision Challenges and Opportunities
+title: Pushing Large Language Models To The 6G Edge Vision Challenges And Opportunities
 authors: Lin Zheng, Qu Guanqiao, Chen Qiyuan, Chen Xianhao, Chen Zhe, Huang Kaibin
 conference: "Arxiv"
 year: 2023

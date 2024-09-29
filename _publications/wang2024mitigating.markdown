@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding
+title: Mitigating Hallucinations In Large Vision-language Models With Instruction Contrastive Decoding
 authors: Xintong Wang, Jingheng Pan, Liang Ding, Chris Biemann
 conference: "Arxiv"
 year: 2024

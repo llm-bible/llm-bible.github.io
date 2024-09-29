@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Augmenting Self-attention with Persistent Memory
+title: Augmenting Self-attention With Persistent Memory
 authors: Sukhbaatar Sainbayar, Grave Edouard, Lample Guillaume, Jegou Herve, Joulin Armand
 conference: "Arxiv"
 year: 2019

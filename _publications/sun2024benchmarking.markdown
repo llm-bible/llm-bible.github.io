@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Benchmarking Chinese Commonsense Reasoning of LLMs From Chinese-Specifics to Reasoning-Memorization Correlations
+title: Benchmarking Chinese Commonsense Reasoning Of Llms From Chinese-specifics To Reasoning-memorization Correlations
 authors: Sun Jiaxing, Huang Weiquan, Wu Jiang, Gu Chenya, Li Wei, Zhang Songyang, Yan Hang, He Conghui
 conference: "Arxiv"
 year: 2024

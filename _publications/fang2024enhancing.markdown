@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Noise Robustness of Retrieval-Augmented Language Models with Adaptive Adversarial Training
+title: Enhancing Noise Robustness Of Retrieval-augmented Language Models With Adaptive Adversarial Training
 authors: Fang Feiteng, Bai Yuelin, Ni Shiwen, Yang Min, Chen Xiaojun, Xu Ruifeng
 conference: "ACL"
 year: 2024

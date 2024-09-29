@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LlamaRec Two-Stage Recommendation using Large Language Models for Ranking
+title: Llamarec Two-stage Recommendation Using Large Language Models For Ranking
 authors: Zhenrui Yue, Sara Rabhi, Gabriel De Souza Pereira Moreira, Dong Wang, Even Oldridge
 conference: "Arxiv"
 year: 2023

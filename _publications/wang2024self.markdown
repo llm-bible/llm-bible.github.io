@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-Taught Evaluators
+title: Self-taught Evaluators
 authors: Wang Tianlu, Kulikov Ilia, Golovneva Olga, Yu Ping, Yuan Weizhe, Dwivedi-yu Jane, Pang Richard Yuanzhe, Fazel-zarandi Maryam, Weston Jason, Li Xian
 conference: "Arxiv"
 year: 2024

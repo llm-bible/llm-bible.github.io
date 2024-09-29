@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Generation GapExploring Age Bias in the Underlying Value Systems of Large Language Models
+title: The Generation Gapexploring Age Bias In The Underlying Value Systems Of Large Language Models
 authors: Liu Siyang, Maturi Trish, Yi Bowen, Shen Siqi, Mihalcea Rada
 conference: "Arxiv"
 year: 2024

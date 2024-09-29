@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MEMoE Enhancing Model Editing with Mixture of Experts Adaptors
+title: Memoe Enhancing Model Editing With Mixture Of Experts Adaptors
 authors: Wang Renzhi, Li Piji
 conference: "Arxiv"
 year: 2024

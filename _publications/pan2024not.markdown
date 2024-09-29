@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Not All Contexts Are Equal Teaching LLMs Credibility-aware Generation
+title: Not All Contexts Are Equal Teaching Llms Credibility-aware Generation
 authors: Pan Ruotong, Cao Boxi, Lin Hongyu, Han Xianpei, Zheng Jia, Wang Sirui, Cai Xunliang, Sun Le
 conference: "Arxiv"
 year: 2024

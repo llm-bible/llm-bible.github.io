@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating GPT-4 and ChatGPT on Japanese Medical Licensing Examinations
+title: Evaluating GPT-4 And Chatgpt On Japanese Medical Licensing Examinations
 authors: Kasai Jungo, Kasai Yuhei, Sakaguchi Keisuke, Yamada Yutaro, Radev Dragomir
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sorted LLaMA Unlocking the Potential of Intermediate Layers of Large Language Models for Dynamic Inference
+title: Sorted Llama Unlocking The Potential Of Intermediate Layers Of Large Language Models For Dynamic Inference
 authors: Kavehzadeh Parsa, Valipour Mojtaba, Tahaei Marzieh, Ghodsi Ali, Chen Boxing, Rezagholizadeh Mehdi
 conference: "Arxiv"
 year: 2023

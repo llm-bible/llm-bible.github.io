@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: N-Critics Self-Refinement of Large Language Models with Ensemble of Critics
+title: N-critics Self-refinement Of Large Language Models With Ensemble Of Critics
 authors: Mousavi Sajad, Gutiérrez Ricardo Luna, Rengarajan Desik, Gundecha Vineet, Babu Ashwin Ramesh, Naug Avisek, Guillen Antonio, Sarkar Soumyendu
 conference: "NeurIPS"
 year: 2023

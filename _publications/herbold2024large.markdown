@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models can impersonate politicians and other public figures
+title: Large Language Models Can Impersonate Politicians And Other Public Figures
 authors: Herbold Steffen, Trautsch Alexander, Kikteva Zlata, Hautli-janisz Annette
 conference: "Arxiv"
 year: 2024

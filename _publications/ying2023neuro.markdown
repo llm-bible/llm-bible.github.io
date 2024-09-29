@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Neuro-Symbolic Inverse Planning Engine (NIPE) Modeling Probabilistic Social Inferences from Linguistic Inputs
+title: The Neuro-symbolic Inverse Planning Engine (NIPE) Modeling Probabilistic Social Inferences From Linguistic Inputs
 authors: Ying Lance, Collins Katherine M., Wei Megan, Zhang Cedegao E., Zhi-xuan Tan, Weller Adrian, Tenenbaum Joshua B., Wong Lionel
 conference: "Arxiv"
 year: 2023

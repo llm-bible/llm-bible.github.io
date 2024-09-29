@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Effective and Efficient Conversation Retrieval for Dialogue State Tracking with Implicit Text Summaries
+title: Effective And Efficient Conversation Retrieval For Dialogue State Tracking With Implicit Text Summaries
 authors: Lee Seanie, Cheng Jianpeng, Driesen Joris, Coca Alexandru, Johannsen Anders
 conference: "Arxiv"
 year: 2024

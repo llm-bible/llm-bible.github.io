@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Read and Think An Efficient Step-wise Multimodal Language Model for Document Understanding and Reasoning
+title: Read And Think An Efficient Step-wise Multimodal Language Model For Document Understanding And Reasoning
 authors: Zhang Jinxu
 conference: "Arxiv"
 year: 2024

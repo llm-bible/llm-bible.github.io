@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Token-level Adaptive Training for Neural Machine Translation
+title: Token-level Adaptive Training For Neural Machine Translation
 authors: Gu Shuhao, Zhang Jinchao, Meng Fandong, Feng Yang, Xie Wanying, Zhou Jie, Yu Dong
 conference: "Arxiv"
 year: 2020

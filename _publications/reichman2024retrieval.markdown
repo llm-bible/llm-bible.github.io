@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieval-Augmented Generation Is Dense Passage Retrieval Retrieving
+title: Retrieval-augmented Generation Is Dense Passage Retrieval Retrieving
 authors: Reichman Benjamin, Heck Larry
 conference: "Arxiv"
 year: 2024

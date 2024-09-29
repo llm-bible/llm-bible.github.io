@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-Generated In-Context Learning Leveraging Auto-regressive Language Models as a Demonstration Generator
+title: Self-generated In-context Learning Leveraging Auto-regressive Language Models As A Demonstration Generator
 authors: Kim Hyuhng Joon, Cho Hyunsoo, Kim Junyeob, Kim Taeuk, Yoo Kang Min, Lee Sang-goo
 conference: "Arxiv"
 year: 2022

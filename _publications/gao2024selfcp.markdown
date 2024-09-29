@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SelfCP Compressing Over-Limit Prompt via the Frozen Large Language Model Itself
+title: Selfcp Compressing Over-limit Prompt Via The Frozen Large Language Model Itself
 authors: Gao Jun, Cao Ziqiang, Li Wenjie
 conference: "Arxiv"
 year: 2024

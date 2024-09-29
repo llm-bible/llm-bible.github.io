@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating Zero-Shot Generalizability on Mandarin-English Code-Switched ASR and Speech-to-text Translation of Recent Foundation Models with Self-Supervision and Weak Supervision
+title: Investigating Zero-shot Generalizability On Mandarin-english Code-switched ASR And Speech-to-text Translation Of Recent Foundation Models With Self-supervision And Weak Supervision
 authors: Yang Chih-kai, Huang Kuan-po, Lu Ke-han, Kuan Chun-yi, Hsiao Chi-yuan, Lee Hung-yi
 conference: "Arxiv"
 year: 2023

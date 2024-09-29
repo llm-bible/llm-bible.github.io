@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language-Specific Neurons The Key to Multilingual Capabilities in Large Language Models
+title: Language-specific Neurons The Key To Multilingual Capabilities In Large Language Models
 authors: Tang Tianyi, Luo Wenyang, Huang Haoyang, Zhang Dongdong, Wang Xiaolei, Zhao Xin, Wei Furu, Wen Ji-rong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ByteComposer a Human-like Melody Composition Method based on Language Model Agent
+title: Bytecomposer A Human-like Melody Composition Method Based On Language Model Agent
 authors: Liang Xia, Du Xingjian, Lin Jiaju, Zou Pei, Wan Yuan, Zhu Bilei
 conference: "Arxiv"
 year: 2024

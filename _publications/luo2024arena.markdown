@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Arena Learning Build Data Flywheel for LLMs Post-training via Simulated Chatbot Arena
+title: Arena Learning Build Data Flywheel For Llms Post-training Via Simulated Chatbot Arena
 authors: Luo Haipeng, Sun Qingfeng, Xu Can, Zhao Pu, Lin Qingwei, Lou Jianguang, Chen Shifeng, Tang Yansong, Chen Weizhu
 conference: "Arxiv"
 year: 2024

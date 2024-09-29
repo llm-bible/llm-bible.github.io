@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automating Behavioral Testing in Machine Translation
+title: Automating Behavioral Testing In Machine Translation
 authors: Ferrando Javier, Sperber Matthias, Setiawan Hendra, Telaar Dominic, Hasan Saša
 conference: "Arxiv"
 year: 2023

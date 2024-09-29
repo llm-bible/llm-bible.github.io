@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models
+title: Enhancing Chain-of-thoughts Prompting With Iterative Bootstrapping In Large Language Models
 authors: Sun Jiashuo, Luo Yi, Gong Yeyun, Lin Chen, Shen Yelong, Guo Jian, Duan Nan
 conference: "Arxiv"
 year: 2023

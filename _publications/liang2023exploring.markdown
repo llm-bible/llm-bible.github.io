@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Format Consistency for Instruction Tuning
+title: Exploring Format Consistency For Instruction Tuning
 authors: Liang Shihao, Tian Runchu, Zhu Kunlun, Qin Yujia, Wang Huadong, Cong Xin, Liu Zhiyuan, Liu Xiaojiang, Sun Maosong
 conference: "Arxiv"
 year: 2023

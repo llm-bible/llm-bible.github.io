@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Explain and Improve LRP-Inference Fine-Tuning for Image Captioning Models
+title: Explain And Improve Lrp-inference Fine-tuning For Image Captioning Models
 authors: Sun Jiamei, Lapuschkin Sebastian, Samek Wojciech, Binder Alexander
 conference: "Arxiv"
 year: 2020

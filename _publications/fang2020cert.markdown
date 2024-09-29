@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CERT Contrastive Self-supervised Learning for Language Understanding
+title: CERT Contrastive Self-supervised Learning For Language Understanding
 authors: Fang Hongchao, Wang Sicheng, Zhou Meng, Ding Jiayuan, Xie Pengtao
 conference: "Arxiv"
 year: 2020

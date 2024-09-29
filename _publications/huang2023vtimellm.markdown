@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VTimeLLM Empower LLM to Grasp Video Moments
+title: Vtimellm Empower LLM To Grasp Video Moments
 authors: Huang Bin, Wang Xin, Chen Hong, Song Zihan, Zhu Wenwu
 conference: "Arxiv"
 year: 2023

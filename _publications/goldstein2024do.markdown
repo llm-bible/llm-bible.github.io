@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Zombies Understand A Choose-Your-Own-Adventure Exploration of Machine Cognition
+title: Do Zombies Understand A Choose-your-own-adventure Exploration Of Machine Cognition
 authors: Goldstein Ariel, Stanovsky Gabriel
 conference: "Arxiv"
 year: 2024

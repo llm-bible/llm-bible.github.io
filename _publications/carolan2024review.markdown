@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Review of Multi-Modal Large Language and Vision Models
+title: A Review Of Multi-modal Large Language And Vision Models
 authors: Carolan Kilian, Fennelly Laura, Smeaton Alan F.
 conference: "Arxiv"
 year: 2024

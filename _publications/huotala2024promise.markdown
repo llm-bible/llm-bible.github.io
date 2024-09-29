@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Promise and Challenges of Using LLMs to Accelerate the Screening Process of Systematic Reviews
+title: The Promise And Challenges Of Using Llms To Accelerate The Screening Process Of Systematic Reviews
 authors: Huotala Aleksi, Kuutila Miikka, Ralph Paul, Mäntylä Mika
 conference: "Arxiv"
 year: 2024

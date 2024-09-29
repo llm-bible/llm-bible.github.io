@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Same Pre-training Loss Better Downstream Implicit Bias Matters for Language Models
+title: Same Pre-training Loss Better Downstream Implicit Bias Matters For Language Models
 authors: Liu Hong, Xie Sang Michael, Li Zhiyuan, Ma Tengyu
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dialogue Chain-of-Thought Distillation for Commonsense-aware Conversational Agents
+title: Dialogue Chain-of-thought Distillation For Commonsense-aware Conversational Agents
 authors: Chae Hyungjoo, Song Yongho, Ong Kai Tzu-iunn, Kwon Taeyoon, Kim Minjin, Yu Youngjae, Lee Dongha, Kang Dongyeop, Yeo Jinyoung
 conference: "Arxiv"
 year: 2023

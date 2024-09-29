@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Accuracy and Consistency of LLMs in the Registered Dietitian Exam The Impact of Prompt Engineering and Knowledge Retrieval
+title: Accuracy And Consistency Of Llms In The Registered Dietitian Exam The Impact Of Prompt Engineering And Knowledge Retrieval
 authors: Azimi Iman, Qi Mohan, Wang Li, Rahmani Amir M., Li Youlin
 conference: "Arxiv"
 year: 2024

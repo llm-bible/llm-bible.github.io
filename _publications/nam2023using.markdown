@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Using an LLM to Help With Code Understanding
+title: Using An LLM To Help With Code Understanding
 authors: Nam Daye, Macvean Andrew, Hellendoorn Vincent, Vasilescu Bogdan, Myers Brad
 conference: "Arxiv"
 year: 2023

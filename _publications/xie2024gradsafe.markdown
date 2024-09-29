@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GradSafe Detecting Jailbreak Prompts for LLMs via Safety-Critical Gradient Analysis
+title: Gradsafe Detecting Jailbreak Prompts For Llms Via Safety-critical Gradient Analysis
 authors: Xie Yueqi, Fang Minghong, Pi Renjie, Gong Neil
 conference: "Arxiv"
 year: 2024

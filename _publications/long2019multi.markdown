@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-hop Reading Comprehension via Deep Reinforcement Learning based Document Traversal
+title: Multi-hop Reading Comprehension Via Deep Reinforcement Learning Based Document Traversal
 authors: Long Alex, Mason Joel, Blair Alan, Wang Wei
 conference: "Arxiv"
 year: 2019

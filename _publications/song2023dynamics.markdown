@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dynamics of Instruction Tuning Each Ability of Large Language Models Has Its Own Growth Pace
+title: Dynamics Of Instruction Tuning Each Ability Of Large Language Models Has Its Own Growth Pace
 authors: Song Chiyu, Zhou Zhanchao, Yan Jianhao, Fei Yuejiao, Lan Zhenzhong, Zhang Yue
 conference: "Arxiv"
 year: 2023

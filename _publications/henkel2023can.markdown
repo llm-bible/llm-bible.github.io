@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can LLMs Grade Short-Answer Reading Comprehension Questions An Empirical Study with a Novel Dataset
+title: Can Llms Grade Short-answer Reading Comprehension Questions An Empirical Study With A Novel Dataset
 authors: Henkel Owen, Hills Libby, Roberts Bill, Mcgrane Joshua
 conference: "Arxiv"
 year: 2023

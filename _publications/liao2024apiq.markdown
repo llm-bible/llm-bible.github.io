@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ApiQ Finetuning of 2-Bit Quantized Large Language Model
+title: Apiq Finetuning Of 2-bit Quantized Large Language Model
 authors: Liao Baohao, Herold Christian, Khadivi Shahram, Monz Christof
 conference: "Arxiv"
 year: 2024

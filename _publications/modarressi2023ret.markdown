@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RET-LLM Towards a General Read-Write Memory for Large Language Models
+title: RET-LLM Towards A General Read-write Memory For Large Language Models
 authors: Ali Modarressi, Ayyoob Imani, Mohsen Fayyaz, Hinrich Schütze
 conference: "Arxiv"
 year: 2023

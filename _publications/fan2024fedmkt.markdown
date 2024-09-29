@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FedMKT Federated Mutual Knowledge Transfer for Large and Small Language Models
+title: Fedmkt Federated Mutual Knowledge Transfer For Large And Small Language Models
 authors: Fan Tao, Ma Guoqiang, Kang Yan, Gu Hanlin, Song Yuanfeng, Fan Lixin, Chen Kai, Yang Qiang
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-ICL Zero-Shot In-Context Learning with Self-Generated Demonstrations
+title: Self-icl Zero-shot In-context Learning With Self-generated Demonstrations
 authors: Chen Wei-lin, Wu Cheng-kuang, Chen Yun-nung, Chen Hsin-hsi
 conference: "Arxiv"
 year: 2023

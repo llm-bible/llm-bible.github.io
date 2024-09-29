@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Text-to-Audio Generation using Instruction-Tuned LLM and Latent Diffusion Model
+title: Text-to-audio Generation Using Instruction-tuned LLM And Latent Diffusion Model
 authors: Ghosal Deepanway, Majumder Navonil, Mehrish Ambuj, Poria Soujanya
 conference: "Arxiv"
 year: 2023

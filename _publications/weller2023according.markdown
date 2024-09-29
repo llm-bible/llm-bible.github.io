@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: According to ... Prompting Language Models Improves Quoting from Pre-Training Data
+title: according To ... Prompting Language Models Improves Quoting From Pre-training Data
 authors: Weller Orion, Marone Marc, Weir Nathaniel, Lawrie Dawn, Khashabi Daniel, Van Durme Benjamin
 conference: "Arxiv"
 year: 2023

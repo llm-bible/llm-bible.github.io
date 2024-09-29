@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: QDyLoRA Quantized Dynamic Low-Rank Adaptation for Efficient Large Language Model Tuning
+title: Qdylora Quantized Dynamic Low-rank Adaptation For Efficient Large Language Model Tuning
 authors: Rajabzadeh Hossein, Valipour Mojtaba, Zhu Tianshu, Tahaei Marzieh, Kwon Hyock Ju, Ghodsi Ali, Chen Boxing, Rezagholizadeh Mehdi
 conference: "Arxiv"
 year: 2024

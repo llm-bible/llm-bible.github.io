@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adapting Large Language Models for Education Foundational Capabilities Potentials and Challenges
+title: Adapting Large Language Models For Education Foundational Capabilities Potentials And Challenges
 authors: Li Qingyao, Fu Lingyue, Zhang Weiming, Chen Xianyu, Yu Jingwei, Xia Wei, Zhang Weinan, Tang Ruiming, Yu Yong
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Revisiting the Reliability of Psychological Scales on Large Language Models
+title: Revisiting The Reliability Of Psychological Scales On Large Language Models
 authors: Huang Jen-tse, Wang Wenxuan, Lam Man Ho, Li Eric John, Jiao Wenxiang, Lyu Michael R.
 conference: "Arxiv"
 year: 2023

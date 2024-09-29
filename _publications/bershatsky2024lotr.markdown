@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LoTR Low Tensor Rank Weight Adaptation
+title: Lotr Low Tensor Rank Weight Adaptation
 authors: Bershatsky Daniel, Cherniuk Daria, Daulbaev Talgat, Mikhalev Aleksandr, Oseledets Ivan
 conference: "Arxiv"
 year: 2024

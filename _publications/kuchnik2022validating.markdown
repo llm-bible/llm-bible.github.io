@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Validating Large Language Models with ReLM
+title: Validating Large Language Models With Relm
 authors: Kuchnik Michael, Smith Virginia, Amvrosiadis George
 conference: "Arxiv"
 year: 2022

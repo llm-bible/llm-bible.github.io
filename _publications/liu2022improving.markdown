@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Personality Consistency in Conversation by Persona Extending
+title: Improving Personality Consistency In Conversation By Persona Extending
 authors: Liu Yifan, Wei Wei, Liu Jiayi, Mao Xianling, Fang Rui, Chen Dangyang
 conference: "Arxiv"
 year: 2022

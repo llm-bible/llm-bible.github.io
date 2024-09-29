@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sentence-T5 Scalable Sentence Encoders from Pre-trained Text-to-Text Models
+title: Sentence-t5 Scalable Sentence Encoders From Pre-trained Text-to-text Models
 authors: Ni Jianmo, Ábrego Gustavo Hernández, Constant Noah, Ma Ji, Hall Keith B., Cer Daniel, Yang Yinfei
 conference: "Arxiv"
 year: 2021

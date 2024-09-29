@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: WebWISE Web Interface Control and Sequential Exploration with Large Language Models
+title: Webwise Web Interface Control And Sequential Exploration With Large Language Models
 authors: Tao Heyi, T Sethuraman V, Shlapentokh-rothman Michal, Hoiem Derek
 conference: "Arxiv"
 year: 2023

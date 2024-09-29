@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What matters when building vision-language models
+title: What Matters When Building Vision-language Models
 authors: Laurençon Hugo, Tronchon Léo, Cord Matthieu, Sanh Victor
 conference: "Arxiv"
 year: 2024

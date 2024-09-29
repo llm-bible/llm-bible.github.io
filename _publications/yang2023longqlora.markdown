@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LongQLoRA Efficient and Effective Method to Extend Context Length of Large Language Models
+title: Longqlora Efficient And Effective Method To Extend Context Length Of Large Language Models
 authors: Yang Jianxin
 conference: "Arxiv"
 year: 2023

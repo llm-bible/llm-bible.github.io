@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Long-Context Language Modeling with Parallel Context Encoding
+title: Long-context Language Modeling With Parallel Context Encoding
 authors: Yen Howard, Gao Tianyu, Chen Danqi
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Analyzing LLM Behavior in Dialogue Summarization Unveiling Circumstantial Hallucination Trends
+title: Analyzing LLM Behavior In Dialogue Summarization Unveiling Circumstantial Hallucination Trends
 authors: Ramprasad Sanjana, Ferracane Elisa, Lipton Zachary C.
 conference: "Arxiv"
 year: 2024

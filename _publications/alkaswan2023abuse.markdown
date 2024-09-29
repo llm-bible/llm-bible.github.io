@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The (ab)use of Open Source Code to Train Large Language Models
+title: The (ab)use Of Open Source Code To Train Large Language Models
 authors: Al-kaswan Ali, Izadi Maliheh
 conference: "Arxiv"
 year: 2023

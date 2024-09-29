@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey on Prompting Techniques in LLMs
+title: A Survey On Prompting Techniques In Llms
 authors: Bhandari Prabin
 conference: "Arxiv"
 year: 2023

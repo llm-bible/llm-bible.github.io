@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MSDF A General Open-Domain Multi-Skill Dialog Framework
+title: MSDF A General Open-domain Multi-skill Dialog Framework
 authors: Zhao Yu, Hu Xinshuo, Li Yunxin, Hu Baotian, Li Dongfang, Chen Sichao, Wang Xiaolong
 conference: "Arxiv"
 year: 2022

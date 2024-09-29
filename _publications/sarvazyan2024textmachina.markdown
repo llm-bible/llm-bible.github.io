@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TextMachina Seamless Generation of Machine-Generated Text Datasets
+title: Textmachina Seamless Generation Of Machine-generated Text Datasets
 authors: Sarvazyan Areg Mikael, González José Ángel, Franco-salvador Marc
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Code-Style In-Context Learning for Knowledge-Based Question Answering
+title: Code-style In-context Learning For Knowledge-based Question Answering
 authors: Nie Zhijie, Zhang Richong, Wang Zhongyuan, Liu Xudong
 conference: "Arxiv"
 year: 2023

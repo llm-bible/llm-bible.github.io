@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pearl A Review-driven Persona-Knowledge Grounded Conversational Recommendation Dataset
+title: Pearl A Review-driven Persona-knowledge Grounded Conversational Recommendation Dataset
 authors: Kim Minjin, Kim Minju, Kim Hana, Kwak Beong-woo, Chun Soyeon, Kim Hyunseo, Kang Seongku, Yu Youngjae, Yeo Jinyoung, Lee Dongha
 conference: "Arxiv"
 year: 2024

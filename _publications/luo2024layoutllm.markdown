@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LayoutLLM Layout Instruction Tuning with Large Language Models for Document Understanding
+title: Layoutllm Layout Instruction Tuning With Large Language Models For Document Understanding
 authors: Luo Chuwei, Shen Yufan, Zhu Zhaoqing, Zheng Qi, Yu Zhi, Yao Cong
 conference: "Arxiv"
 year: 2024

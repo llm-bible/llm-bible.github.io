@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Halo Estimation and Reduction of Hallucinations in Open-Source Weak Large Language Models
+title: Halo Estimation And Reduction Of Hallucinations In Open-source Weak Large Language Models
 authors: Elaraby Mohamed, Lu Mengyin, Dunn Jacob, Zhang Xueying, Wang Yu, Liu Shizhu, Tian Pingchuan, Wang Yuping, Wang Yuxuan
 conference: "Arxiv"
 year: 2023

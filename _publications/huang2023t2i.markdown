@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: T2I-CompBench A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation
+title: T2i-compbench A Comprehensive Benchmark For Open-world Compositional Text-to-image Generation
 authors: Huang Kaiyi, Sun Kaiyue, Xie Enze, Li Zhenguo, Liu Xihui
 conference: "Arxiv"
 year: 2023

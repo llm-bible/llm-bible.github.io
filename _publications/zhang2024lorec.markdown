@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LoRec Large Language Model for Robust Sequential Recommendation against Poisoning Attacks
+title: Lorec Large Language Model For Robust Sequential Recommendation Against Poisoning Attacks
 authors: Zhang Kaike, Cao Qi, Wu Yunfan, Sun Fei, Shen Huawei, Cheng Xueqi
 conference: "Arxiv"
 year: 2024

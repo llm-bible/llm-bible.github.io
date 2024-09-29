@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-correcting LLM-controlled Diffusion Models
+title: Self-correcting Llm-controlled Diffusion Models
 authors: Wu Tsung-han, Lian Long, Gonzalez Joseph E., Li Boyi, Darrell Trevor
 conference: "Arxiv"
 year: 2023

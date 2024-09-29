@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Okapi Instruction-tuned Large Language Models in Multiple Languages with Reinforcement Learning from Human Feedback
+title: Okapi Instruction-tuned Large Language Models In Multiple Languages With Reinforcement Learning From Human Feedback
 authors: Lai Viet Dac, Van Nguyen Chien, Ngo Nghia Trung, Nguyen Thuat, Dernoncourt Franck, Rossi Ryan A., Nguyen Thien Huu
 conference: "Arxiv"
 year: 2023

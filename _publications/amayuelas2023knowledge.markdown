@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Knowledge of Knowledge Exploring Known-Unknowns Uncertainty with Large Language Models
+title: Knowledge Of Knowledge Exploring Known-unknowns Uncertainty With Large Language Models
 authors: Amayuelas Alfonso, Wong Kyle, Pan Liangming, Chen Wenhu, Wang William
 conference: "Arxiv"
 year: 2023

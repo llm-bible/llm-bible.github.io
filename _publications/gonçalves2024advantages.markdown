@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The advantages of context specific language models the case of the Erasmian Language Model
+title: The Advantages Of Context Specific Language Models The Case Of The Erasmian Language Model
 authors: Gonçalves João, Jelicic Nick, Murgia Michele, Stamhuis Evert
 conference: "Arxiv"
 year: 2024

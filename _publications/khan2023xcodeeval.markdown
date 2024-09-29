@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: xCodeEval A Large Scale Multilingual Multitask Benchmark for Code Understanding Generation Translation and Retrieval
+title: Xcodeeval A Large Scale Multilingual Multitask Benchmark For Code Understanding Generation Translation And Retrieval
 authors: Khan Mohammad Abdullah Matin, Bari M Saiful, Do Xuan Long, Wang Weishi, Parvez Md Rizwan, Joty Shafiq
 conference: "Arxiv"
 year: 2023

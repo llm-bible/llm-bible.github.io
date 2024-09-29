@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The SIFo Benchmark Investigating the Sequential Instruction Following Ability of Large Language Models
+title: The Sifo Benchmark Investigating The Sequential Instruction Following Ability Of Large Language Models
 authors: Chen Xinyi, Liao Baohao, Qi Jirui, Eustratiadis Panagiotis, Monz Christof, Bisazza Arianna, De Rijke Maarten
 conference: "Arxiv"
 year: 2024

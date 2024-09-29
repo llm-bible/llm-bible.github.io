@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating the translation capabilities of Large Language Models trained on parallel data only
+title: Investigating The Translation Capabilities Of Large Language Models Trained On Parallel Data Only
 authors: Gilabert Javier García, Escolano Carlos, Savall Aleix Sant, Fornaciari Francesca De Luca, Mash Audrey, Liao Xixian, Melero Maite
 conference: "Arxiv"
 year: 2024

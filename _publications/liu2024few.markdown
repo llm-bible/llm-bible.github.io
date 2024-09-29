@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Few-Shot Class Incremental Learning with Attention-Aware Self-Adaptive Prompt
+title: Few-shot Class Incremental Learning With Attention-aware Self-adaptive Prompt
 authors: Liu Chenxi, Wang Zhenyi, Xiong Tianyi, Chen Ruibo, Wu Yihan, Guo Junfeng, Huang Heng
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: OpenLLM-Ro -- Technical Report on Open-source Romanian LLMs
+title: Openllm-ro -- Technical Report On Open-source Romanian Llms
 authors: Masala Mihai, Ilie-ablachim Denis C., Corlatescu Dragos, Zavelca Miruna, Leordeanu Marius, Velicu Horia, Popescu Marius, Dascalu Mihai, Rebedea Traian
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ParaICL Towards Robust Parallel In-Context Learning
+title: Paraicl Towards Robust Parallel In-context Learning
 authors: Li Xingxuan, Nguyen Xuan-phi, Joty Shafiq, Bing Lidong
 conference: "Arxiv"
 year: 2024

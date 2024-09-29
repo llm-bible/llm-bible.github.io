@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Extensible Prompts for Language Models on Zero-shot Language Style Customization
+title: Extensible Prompts For Language Models On Zero-shot Language Style Customization
 authors: Ge Tao, Hu Jing, Dong Li, Mao Shaoguang, Xia Yan, Wang Xun, Chen Si-qing, Wei Furu
 conference: "Arxiv"
 year: 2022

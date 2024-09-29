@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Automated Data Sciences with Natural Language and SageCopilot Practices and Lessons Learned
+title: Towards Automated Data Sciences With Natural Language And Sagecopilot Practices And Lessons Learned
 authors: Liao Yuan, Bian Jiang, Yun Yuhui, Wang Shuo, Zhang Yubo, Chu Jiaming, Wang Tao, Li Kewei, Li Yuchen, Li Xuhong, Ji Shilei, Xiong Haoyi
 conference: "Arxiv"
 year: 2024

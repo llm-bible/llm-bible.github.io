@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Llmx27;s Cognition Via Structurization
+title: Enhancing Llms Cognition Via Structurization
 authors: Liu Kai, Fu Zhihang, Chen Chao, Zhang Wei, Jiang Rongxin, Zhou Fan, Chen Yaowu, Wu Yue, Ye Jieping
 conference: "Arxiv"
 year: 2024

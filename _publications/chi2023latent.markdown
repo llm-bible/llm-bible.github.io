@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Latent Positional Information is in the Self-Attention Variance of Transformer Language Models Without Positional Embeddings
+title: Latent Positional Information Is In The Self-attention Variance Of Transformer Language Models Without Positional Embeddings
 authors: Chi Ta-chung, Fan Ting-han, Chen Li-wei, Rudnicky Alexander I., Ramadge Peter J.
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Philosophers Stone Trojaning Plugins of Large Language Models
+title: The Philosophers Stone Trojaning Plugins Of Large Language Models
 authors: Dong Tian, Xue Minhui, Chen Guoxing, Holland Rayne, Meng Yan, Li Shaofeng, Liu Zhen, Zhu Haojin
 conference: "Arxiv"
 year: 2023

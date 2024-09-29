@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zero- and Few-Shot Prompting with LLMs A Comparative Study with Fine-tuned Models for Bangla Sentiment Analysis
+title: Zero- And Few-shot Prompting With Llms A Comparative Study With Fine-tuned Models For Bangla Sentiment Analysis
 authors: Hasan Md. Arid, Das Shudipta, Anjum Afiyat, Alam Firoj, Anjum Anika, Sarker Avijit, Noori Sheak Rashed Haider
 conference: "Arxiv"
 year: 2023

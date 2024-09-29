@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Q-PEFT Query-dependent Parameter Efficient Fine-tuning for Text Reranking with Large Language Models
+title: Q-PEFT Query-dependent Parameter Efficient Fine-tuning For Text Reranking With Large Language Models
 authors: Peng Zhiyuan, Wu Xuyang, Wang Qifan, Rajanala Sravanthi, Fang Yi
 conference: "Arxiv"
 year: 2024

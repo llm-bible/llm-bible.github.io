@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-tuning large language models for domain adaptation Exploration of training strategies scaling model merging and synergistic capabilities
+title: Fine-tuning Large Language Models For Domain Adaptation Exploration Of Training Strategies Scaling Model Merging And Synergistic Capabilities
 authors: Lu Wei, Luu Rachel K., Buehler Markus J.
 conference: "Arxiv"
 year: 2024

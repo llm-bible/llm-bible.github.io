@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Answer-Me Multi-Task Open-Vocabulary Visual Question Answering
+title: Answer-me Multi-task Open-vocabulary Visual Question Answering
 authors: Piergiovanni Aj, Li Wei, Kuo Weicheng, Saffar Mohammad, Bertsch Fred, Angelova Anelia
 conference: "Arxiv"
 year: 2022

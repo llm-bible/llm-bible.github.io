@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Logically Consistent Language Models via Probabilistic Reasoning
+title: Towards Logically Consistent Language Models Via Probabilistic Reasoning
 authors: Calanzone Diego, Teso Stefano, Vergari Antonio
 conference: "Arxiv"
 year: 2024

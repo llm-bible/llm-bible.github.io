@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lift Yourself Up Retrieval-augmented Text Generation with Self Memory
+title: Lift Yourself Up Retrieval-augmented Text Generation With Self Memory
 authors: Cheng Xin, Luo Di, Chen Xiuying, Liu Lemao, Zhao Dongyan, Yan Rui
 conference: "Arxiv"
 year: 2023

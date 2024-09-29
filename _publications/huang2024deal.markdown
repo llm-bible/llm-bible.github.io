@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DeAL Decoding-time Alignment for Large Language Models
+title: Deal Decoding-time Alignment For Large Language Models
 authors: Huang James Y., Sengupta Sailik, Bonadiman Daniele, Lai Yi-an, Gupta Arshit, Pappas Nikolaos, Mansour Saab, Kirchhoff Katrin, Roth Dan
 conference: "Arxiv"
 year: 2024

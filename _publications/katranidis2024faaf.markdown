@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FaaF Facts as a Function for the evaluation of generated text
+title: Faaf Facts As A Function For The Evaluation Of Generated Text
 authors: Katranidis Vasileios, Barany Gabor
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Machine Translation with Large Language Models Prompt Engineering for Persian English and Russian Directions
+title: Machine Translation With Large Language Models Prompt Engineering For Persian English And Russian Directions
 authors: Pourkamali Nooshin, Sharifi Shler Ebrahim
 conference: "Arxiv"
 year: 2024

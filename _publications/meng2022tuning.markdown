@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning
+title: Tuning Language Models As Training Data Generators For Augmentation-enhanced Few-shot Learning
 authors: Meng Yu, Michalski Martin, Huang Jiaxin, Zhang Yu, Abdelzaher Tarek, Han Jiawei
 conference: "Arxiv"
 year: 2022

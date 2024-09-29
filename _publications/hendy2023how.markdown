@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Good Are GPT Models at Machine Translation A Comprehensive Evaluation
+title: How Good Are GPT Models At Machine Translation A Comprehensive Evaluation
 authors: Hendy Amr, Abdelrehim Mohamed, Sharaf Amr, Raunak Vikas, Gabr Mohamed, Matsushita Hitokazu, Kim Young Jin, Afify Mohamed, Awadalla Hany Hassan
 conference: "Arxiv"
 year: 2023

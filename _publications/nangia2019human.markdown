@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Human vs. Muppet A Conservative Estimate of Human Performance on the GLUE Benchmark
+title: Human Vs. Muppet A Conservative Estimate Of Human Performance On The GLUE Benchmark
 authors: Nangia Nikita, Bowman Samuel R.
 conference: "ACL"
 year: 2019

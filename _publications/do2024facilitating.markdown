@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Facilitating Human-LLM Collaboration through Factuality Scores and Source Attributions
+title: Facilitating Human-llm Collaboration Through Factuality Scores And Source Attributions
 authors: Do Hyo Jin, Ostrand Rachel, Weisz Justin D., Dugan Casey, Sattigeri Prasanna, Wei Dennis, Murugesan Keerthiram, Geyer Werner
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Empowering Large Language Model Agents through Action Learning
+title: Empowering Large Language Model Agents Through Action Learning
 authors: Zhao Haiteng, Ma Chang, Wang Guoyin, Su Jing, Kong Lingpeng, Xu Jingjing, Deng Zhi-hong, Yang Hongxia
 conference: "Arxiv"
 year: 2024

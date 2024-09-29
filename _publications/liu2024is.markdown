@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is Translation All You Need A Study on Solving Multilingual Tasks with Large Language Models
+title: Is Translation All You Need A Study On Solving Multilingual Tasks With Large Language Models
 authors: Liu Chaoqun, Zhang Wenxuan, Zhao Yiran, Luu Anh Tuan, Bing Lidong
 conference: "Arxiv"
 year: 2024

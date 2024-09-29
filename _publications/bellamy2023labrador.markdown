@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Labrador Exploring the Limits of Masked Language Modeling for Laboratory Data
+title: Labrador Exploring The Limits Of Masked Language Modeling For Laboratory Data
 authors: Bellamy David R., Kumar Bhawesh, Wang Cindy, Beam Andrew
 conference: "Arxiv"
 year: 2023

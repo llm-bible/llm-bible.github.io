@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MedAgents Large Language Models as Collaborators for Zero-shot Medical Reasoning
+title: Medagents Large Language Models As Collaborators For Zero-shot Medical Reasoning
 authors: Tang Xiangru, Zou Anni, Zhang Zhuosheng, Li Ziming, Zhao Yilun, Zhang Xingyao, Cohan Arman, Gerstein Mark
 conference: "Arxiv"
 year: 2023

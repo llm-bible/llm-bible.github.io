@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Introducing a new hyper-parameter for RAG Context Window Utilization
+title: Introducing A New Hyper-parameter For RAG Context Window Utilization
 authors: Juvekar Kush, Purwar Anupam
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bilaterally Slimmable Transformer for Elastic and Efficient Visual Question Answering
+title: Bilaterally Slimmable Transformer For Elastic And Efficient Visual Question Answering
 authors: Yu Zhou, Jin Zitian, Yu Jun, Xu Mingliang, Wang Hongbo, Fan Jianping
 conference: "Arxiv"
 year: 2022

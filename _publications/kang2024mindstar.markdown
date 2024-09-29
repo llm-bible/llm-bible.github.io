@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MindStar Enhancing Math Reasoning in Pre-trained LLMs at Inference Time
+title: Mindstar Enhancing Math Reasoning In Pre-trained Llms At Inference Time
 authors: Kang Jikun, Li Xin Zhe, Chen Xi, Kazemi Amirreza, Sun Qianyi, Chen Boxing, Li Dong, He Xu, He Quan, Wen Feng, Hao Jianye, Yao Jun
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CheckEmbed Effective Verification of LLM Solutions to Open-Ended Tasks
+title: Checkembed Effective Verification Of LLM Solutions To Open-ended Tasks
 authors: Besta Maciej, Paleari Lorenzo, Kubicek Ales, Nyczyk Piotr, Gerstenberger Robert, Iff Patrick, Lehmann Tomasz, Niewiadomski Hubert, Hoefler Torsten
 conference: "Arxiv"
 year: 2024

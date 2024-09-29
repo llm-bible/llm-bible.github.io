@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: KV-Runahead Scalable Causal LLM Inference by Parallel Key-Value Cache Generation
+title: Kv-runahead Scalable Causal LLM Inference By Parallel Key-value Cache Generation
 authors: Cho Minsik, Rastegari Mohammad, Naik Devang
 conference: "Arxiv"
 year: 2024

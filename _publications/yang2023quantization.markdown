@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Quantization-Aware and Tensor-Compressed Training of Transformers for Natural Language Understanding
+title: Quantization-aware And Tensor-compressed Training Of Transformers For Natural Language Understanding
 authors: Yang Zi, Choudhary Samridhi, Kunzmann Siegfried, Zhang Zheng
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ECR-Chain Advancing Generative Language Models to Better Emotion-Cause Reasoners through Reasoning Chains
+title: Ecr-chain Advancing Generative Language Models To Better Emotion-cause Reasoners Through Reasoning Chains
 authors: Huang Zhaopei, Zhao Jinming, Jin Qin
 conference: "Arxiv"
 year: 2024

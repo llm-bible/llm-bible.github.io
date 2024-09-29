@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Large Language Models Speak All Languages Equally A Comparative Study in Low-Resource Settings
+title: Do Large Language Models Speak All Languages Equally A Comparative Study In Low-resource Settings
 authors: Hasan Md. Arid, Tarannum Prerona, Dey Krishno, Razzak Imran, Naseem Usman
 conference: "Arxiv"
 year: 2024

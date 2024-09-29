@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Few-Shot Data Synthesis for Open Domain Multi-Hop Question Answering
+title: Few-shot Data Synthesis For Open Domain Multi-hop Question Answering
 authors: Chen Mingda, Chen Xilun, Yih Wen-tau
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving the Domain Adaptation of Retrieval Augmented Generation (RAG) Models for Open Domain Question Answering
+title: Improving The Domain Adaptation Of Retrieval Augmented Generation (RAG) Models For Open Domain Question Answering
 authors: Siriwardhana Shamane, Weerasekera Rivindu, Wen Elliott, Kaluarachchi Tharindu, Rana Rajib, Nanayakkara Suranga
 conference: "Arxiv"
 year: 2022

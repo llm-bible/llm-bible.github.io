@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieve-Rewrite-Answer A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering
+title: Retrieve-rewrite-answer A Kg-to-text Enhanced Llms Framework For Knowledge Graph Question Answering
 authors: Wu Yike, Hu Nan, Bi Sheng, Qi Guilin, Ren Jie, Xie Anhuan, Song Wei
 conference: "Arxiv"
 year: 2023

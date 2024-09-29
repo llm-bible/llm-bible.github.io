@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Using cognitive psychology to understand GPT-3
+title: Using Cognitive Psychology To Understand GPT-3
 authors: Binz Marcel, Schulz Eric
 conference: "Arxiv"
 year: 2022

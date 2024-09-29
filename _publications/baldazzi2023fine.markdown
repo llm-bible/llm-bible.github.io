@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-tuning Large Enterprise Language Models via Ontological Reasoning
+title: Fine-tuning Large Enterprise Language Models Via Ontological Reasoning
 authors: Baldazzi Teodoro, Bellomarini Luigi, Ceri Stefano, Colombo Andrea, Gentili Andrea, Sallinger Emanuel
 conference: "Arxiv"
 year: 2023

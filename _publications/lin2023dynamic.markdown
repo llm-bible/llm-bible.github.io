@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dynamic Scheduled Sampling with Imitation Loss for Neural Text Generation
+title: Dynamic Scheduled Sampling With Imitation Loss For Neural Text Generation
 authors: Lin Xiang, Jwalapuram Prathyusha, Joty Shafiq
 conference: "Arxiv"
 year: 2023

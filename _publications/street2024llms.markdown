@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLMs achieve adult human performance on higher-order theory of mind tasks
+title: Llms Achieve Adult Human Performance On Higher-order Theory Of Mind Tasks
 authors: Street Winnie, Siy John Oliver, Keeling Geoff, Baranes Adrien, Barnett Benjamin, Mckibben Michael, Kanyere Tatenda, Lentz Alison, Arcas Blaise Aguera Y, Dunbar Robin I. M.
 conference: "Arxiv"
 year: 2024

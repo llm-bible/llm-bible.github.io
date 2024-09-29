@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PolygloToxicityPrompts Multilingual Evaluation of Neural Toxic Degeneration in Large Language Models
+title: Polyglotoxicityprompts Multilingual Evaluation Of Neural Toxic Degeneration In Large Language Models
 authors: Jain Devansh, Kumar Priyanshu, Gehman Samuel, Zhou Xuhui, Hartvigsen Thomas, Sap Maarten
 conference: "Arxiv"
 year: 2024

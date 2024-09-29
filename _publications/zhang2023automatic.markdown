@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automatic Generation of Multiple-Choice Questions
+title: Automatic Generation Of Multiple-choice Questions
 authors: Zhang Cheng
 conference: "Arxiv"
 year: 2023

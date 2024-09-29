@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-modal Instruction Tuned LLMs with Fine-grained Visual Perception
+title: Multi-modal Instruction Tuned Llms With Fine-grained Visual Perception
 authors: He Junwen, Wang Yifan, Wang Lijun, Lu Huchuan, He Jun-yan, Lan Jin-peng, Luo Bin, Xie Xuansong
 conference: "Arxiv"
 year: 2024

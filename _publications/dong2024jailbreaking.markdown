@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jailbreaking Text-to-Image Models with LLM-Based Agents
+title: Jailbreaking Text-to-image Models With Llm-based Agents
 authors: Dong Yingkai, Li Zheng, Meng Xiangtao, Yu Ning, Guo Shanqing
 conference: "Arxiv"
 year: 2024

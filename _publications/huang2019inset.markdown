@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: INSET Sentence Infilling with INter-SEntential Transformer
+title: INSET Sentence Infilling With Inter-sentential Transformer
 authors: Huang Yichen, Zhang Yizhe, Elachqar Oussama, Cheng Yu
 conference: "Proceedings of the"
 year: 2019

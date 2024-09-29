@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reweighted Proximal Pruning for Large-Scale Language Representation
+title: Reweighted Proximal Pruning For Large-scale Language Representation
 authors: Guo Fu-ming, Liu Sijia, Mungall Finlay S., Lin Xue, Wang Yanzhi
 conference: "Arxiv"
 year: 2019

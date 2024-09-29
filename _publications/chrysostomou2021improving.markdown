@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving the Faithfulness of Attention-based Explanations with Task-specific Information for Text Classification
+title: Improving The Faithfulness Of Attention-based Explanations With Task-specific Information For Text Classification
 authors: Chrysostomou George, Aletras Nikolaos
 conference: "Arxiv"
 year: 2021

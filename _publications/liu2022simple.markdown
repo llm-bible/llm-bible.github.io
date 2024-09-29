@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Simple Meta-learning Paradigm for Zero-shot Intent Classification with Mixture Attention Mechanism
+title: A Simple Meta-learning Paradigm For Zero-shot Intent Classification With Mixture Attention Mechanism
 authors: Liu Han, Zhao Siyang, Zhang Xiaotong, Zhang Feng, Sun Junjie, Yu Hong, Zhang Xianchao
 conference: "Arxiv"
 year: 2022

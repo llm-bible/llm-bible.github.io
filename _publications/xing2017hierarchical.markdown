@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hierarchical Recurrent Attention Network for Response Generation
+title: Hierarchical Recurrent Attention Network For Response Generation
 authors: Xing Chen, Wu Wei, Wu Yu, Zhou Ming, Huang Yalou, Ma Wei-ying
 conference: "Arxiv"
 year: 2017

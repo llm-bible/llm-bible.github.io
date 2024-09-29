@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Human Days to Machine Seconds Automatically Answering and Generating Machine Learning Final Exams
+title: From Human Days To Machine Seconds Automatically Answering And Generating Machine Learning Final Exams
 authors: Iddo Drori, Sarah J. Zhang, Reece Shuttleworth, Sarah Zhang, Keith Tyser, Zad Chin, Pedro Lantigua, Saisamrit Surbehera, Gregory Hunter, Derek Austin, Leonard Tang, Yann Hicke, Sage Simhon, Sathwik Karnik, Darnell Granberry, Madeleine Udell
 conference: "Arxiv"
 year: 2022

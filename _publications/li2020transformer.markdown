@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transformer-Based Neural Text Generation with Syntactic Guidance
+title: Transformer-based Neural Text Generation With Syntactic Guidance
 authors: Li Yinghao Georgia Institute Of Technology, Feng Rui Georgia Institute Of Technology, Rehg Isaac Georgia Institute Of Technology, Zhang Chao Georgia Institute Of Technology
 conference: "Arxiv"
 year: 2020

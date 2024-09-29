@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-Perspective Consistency Enhances Confidence Estimation in Large Language Models
+title: Multi-perspective Consistency Enhances Confidence Estimation In Large Language Models
 authors: Wang Pei, Wang Yejie, Diao Muxi, He Keqing, Dong Guanting, Xu Weiran
 conference: "Arxiv"
 year: 2024

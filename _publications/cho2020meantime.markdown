@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MEANTIME Mixture of Attention Mechanisms with Multi-temporal Embeddings for Sequential Recommendation
+title: MEANTIME Mixture Of Attention Mechanisms With Multi-temporal Embeddings For Sequential Recommendation
 authors: Cho Sung Min, Park Eunhyeok, Yoo Sungjoo
 conference: "Arxiv"
 year: 2020

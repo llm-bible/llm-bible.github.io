@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Computer Programming Education with LLMs A Study on Effective Prompt Engineering for Python Code Generation
+title: Enhancing Computer Programming Education With Llms A Study On Effective Prompt Engineering For Python Code Generation
 authors: Wang Tianyu, Zhou Nianjun, Chen Zhixiong
 conference: "Arxiv"
 year: 2024

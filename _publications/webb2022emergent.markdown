@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Emergent Analogical Reasoning in Large Language Models
+title: Emergent Analogical Reasoning In Large Language Models
 authors: Webb Taylor, Holyoak Keith J., Lu Hongjing
 conference: "Arxiv"
 year: 2022

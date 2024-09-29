@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Plan-and-Solve Prompting Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models
+title: Plan-and-solve Prompting Improving Zero-shot Chain-of-thought Reasoning By Large Language Models
 authors: Wang Lei, Xu Wanyu, Lan Yihuai, Hu Zhiqiang, Lan Yunshi, Lee Roy Ka-wei, Lim Ee-peng
 conference: "Arxiv"
 year: 2023

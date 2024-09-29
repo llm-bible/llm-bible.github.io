@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Weakly Supervised Detection of Hallucinations in LLM Activations
+title: Weakly Supervised Detection Of Hallucinations In LLM Activations
 authors: Rateike Miriam, Cintas Celia, Wamburu John, Akumu Tanya, Speakman Skyler
 conference: "Arxiv"
 year: 2023

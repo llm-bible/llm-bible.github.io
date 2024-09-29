@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Position Towards Implicit Prompt For Text-To-Image Models
+title: Position Towards Implicit Prompt For Text-to-image Models
 authors: Yang Yue, Lin Yuqi, Liu Hong, Shao Wenqi, Chen Runjian, Shang Hailong, Wang Yu, Qiao Yu, Zhang Kaipeng, Luo Ping
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On Generative Agents in Recommendation
+title: On Generative Agents In Recommendation
 authors: An Zhang, Yuxin Chen, Leheng Sheng, Xiang Wang, Tat-seng Chua
 conference: "Arxiv"
 year: 2023

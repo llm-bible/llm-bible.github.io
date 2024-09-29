@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attention is Naturally Sparse with Gaussian Distributed Input
+title: Attention Is Naturally Sparse With Gaussian Distributed Input
 authors: Deng Yichuan, Song Zhao, Yang Chiwun
 conference: "Arxiv"
 year: 2024

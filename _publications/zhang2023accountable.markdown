@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation
+title: Accountable Textual-visual Chat Learns To Reject Human Instructions In Image Re-creation
 authors: Zhang Zhiwei, Liu Yuliang
 conference: "Arxiv"
 year: 2023

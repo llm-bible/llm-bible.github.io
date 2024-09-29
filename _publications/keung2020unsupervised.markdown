@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unsupervised Bitext Mining and Translation via Self-trained Contextual Embeddings
+title: Unsupervised Bitext Mining And Translation Via Self-trained Contextual Embeddings
 authors: Keung Phillip, Salazar Julian, Lu Yichao, Smith Noah A.
 conference: "Arxiv"
 year: 2020

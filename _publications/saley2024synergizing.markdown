@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Synergizing In-context Learning with Hints for End-to-end Task-oriented Dialog Systems
+title: Synergizing In-context Learning With Hints For End-to-end Task-oriented Dialog Systems
 authors: Saley Vishal Vivek, Das Rocktim Jyoti, Raghu Dinesh, Mausam
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Balancing Exploration and Exploitation in LLM using Soft RLLF for Enhanced Negation Understanding
+title: Balancing Exploration And Exploitation In LLM Using Soft RLLF For Enhanced Negation Understanding
 authors: Nguyen Ha-thanh, Satoh Ken
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Context-Aware Visual Policy Network for Fine-Grained Image Captioning
+title: Context-aware Visual Policy Network For Fine-grained Image Captioning
 authors: Zha Zheng-jun, Liu Daqing, Zhang Hanwang, Zhang Yongdong, Wu Feng
 conference: "Arxiv"
 year: 2019

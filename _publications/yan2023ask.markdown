@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ask more know better Reinforce-Learned Prompt Questions for Decision Making with Large Language Models
+title: Ask More Know Better Reinforce-learned Prompt Questions For Decision Making With Large Language Models
 authors: Yan Xue, Song Yan, Cui Xinyu, Christianos Filippos, Zhang Haifeng, Mguni David Henry, Wang Jun
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: It Ainx27;t That Bad Understanding The Mysterious Performance Drop In OOD Generalization For Generative Transformer Models
+title: It Aint That Bad Understanding The Mysterious Performance Drop In OOD Generalization For Generative Transformer Models
 authors: Xu Xingcheng, Pan Zihao, Zhang Haipeng, Yang Yanqing
 conference: "Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence"
 year: 2023

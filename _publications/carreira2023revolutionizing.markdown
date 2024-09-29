@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Revolutionizing Mobile Interaction Enabling a 3 Billion Parameter GPT LLM on Mobile
+title: Revolutionizing Mobile Interaction Enabling A 3 Billion Parameter GPT LLM On Mobile
 authors: Carreira Samuel, Marques Tomás, Ribeiro José, Grilo Carlos
 conference: "Arxiv"
 year: 2023

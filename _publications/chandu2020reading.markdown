@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reading Between the Lines Exploring Infilling in Visual Narratives
+title: Reading Between The Lines Exploring Infilling In Visual Narratives
 authors: Chandu Khyathi Raghavi, Dong Ruo-ping, Black Alan
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Diversity of Thought Improves Reasoning Abilities of LLMs
+title: Diversity Of Thought Improves Reasoning Abilities Of Llms
 authors: Naik Ranjita, Chandrasekaran Varun, Yuksekgonul Mert, Palangi Hamid, Nushi Besmira
 conference: "Arxiv"
 year: 2023

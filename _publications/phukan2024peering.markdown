@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Peering into the Mind of Language Models An Approach for Attribution in Contextual Question Answering
+title: Peering Into The Mind Of Language Models An Approach For Attribution In Contextual Question Answering
 authors: Phukan Anirudh, Somasundaram Shwetha, Saxena Apoorv, Goswami Koustava, Srinivasan Balaji Vasan
 conference: "Arxiv"
 year: 2024

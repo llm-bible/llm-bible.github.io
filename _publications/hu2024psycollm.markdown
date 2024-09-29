@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PsycoLLM Enhancing LLM for Psychological Understanding and Evaluation
+title: Psycollm Enhancing LLM For Psychological Understanding And Evaluation
 authors: Hu Jinpeng, Dong Tengteng, Gang Luo, Ma Hui, Zou Peng, Sun Xiao, Guo Dan, Wang Meng
 conference: "Arxiv"
 year: 2024

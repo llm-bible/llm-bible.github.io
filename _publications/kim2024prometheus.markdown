@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prometheus 2 An Open Source Language Model Specialized in Evaluating Other Language Models
+title: Prometheus 2 An Open Source Language Model Specialized In Evaluating Other Language Models
 authors: Kim Seungone, Suk Juyoung, Longpre Shayne, Lin Bill Yuchen, Shin Jamin, Welleck Sean, Neubig Graham, Lee Moontae, Lee Kyungjae, Seo Minjoon
 conference: "Arxiv"
 year: 2024

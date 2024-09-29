@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FollowBench A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models
+title: Followbench A Multi-level Fine-grained Constraints Following Benchmark For Large Language Models
 authors: Jiang Yuxin, Wang Yufei, Zeng Xingshan, Zhong Wanjun, Li Liangyou, Mi Fei, Shang Lifeng, Jiang Xin, Liu Qun, Wang Wei
 conference: "Arxiv"
 year: 2023

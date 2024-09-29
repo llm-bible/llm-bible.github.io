@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Curriculum-Driven Edubot A Framework for Developing Language Learning Chatbots Through Synthesizing Conversational Data
+title: Curriculum-driven Edubot A Framework For Developing Language Learning Chatbots Through Synthesizing Conversational Data
 authors: Li Yu, Qu Shang, Shen Jili, Min Shangchao, Yu Zhou
 conference: "Arxiv"
 year: 2023

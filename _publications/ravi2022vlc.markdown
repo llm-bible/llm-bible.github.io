@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VLC-BERT Visual Question Answering with Contextualized Commonsense Knowledge
+title: VLC-BERT Visual Question Answering With Contextualized Commonsense Knowledge
 authors: Ravi Sahithya, Chinchure Aditya, Sigal Leonid, Liao Renjie, Shwartz Vered
 conference: "Arxiv"
 year: 2022

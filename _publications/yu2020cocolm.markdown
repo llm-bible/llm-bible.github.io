@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CoCoLM COmplex COmmonsense Enhanced Language Model with Discourse Relations
+title: Cocolm Complex Commonsense Enhanced Language Model With Discourse Relations
 authors: Yu Changlong, Zhang Hongming, Song Yangqiu, Ng Wilfred
 conference: "Arxiv"
 year: 2020

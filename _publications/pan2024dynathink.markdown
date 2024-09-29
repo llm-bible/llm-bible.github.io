@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DynaThink Fast or Slow A Dynamic Decision-Making Framework for Large Language Models
+title: Dynathink Fast Or Slow A Dynamic Decision-making Framework For Large Language Models
 authors: Pan Jiabao, Zhang Yan, Zhang Chen, Liu Zuozhu, Wang Hongwei, Li Haizhou
 conference: "Arxiv"
 year: 2024

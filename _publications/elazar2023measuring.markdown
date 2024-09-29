@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Measuring and Improving Attentiveness to Partial Inputs with Counterfactuals
+title: Measuring And Improving Attentiveness To Partial Inputs With Counterfactuals
 authors: Elazar Yanai, Paranjape Bhargavi, Peng Hao, Wiegreffe Sarah, Raghavi Khyathi, Srikumar Vivek, Singh Sameer, Smith Noah A.
 conference: "Arxiv"
 year: 2023

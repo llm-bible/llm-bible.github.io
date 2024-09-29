@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sparsifying Transformer Models with Trainable Representation Pooling
+title: Sparsifying Transformer Models With Trainable Representation Pooling
 authors: Pietruszka Michał, Borchmann Łukasz, Garncarek Łukasz
 conference: "Arxiv"
 year: 2020

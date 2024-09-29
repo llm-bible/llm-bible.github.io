@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Not What Youx27;ve Signed Up For Compromising Real-world Llm-integrated Applications With Indirect Prompt Injection
+title: Not What Youve Signed Up For Compromising Real-world Llm-integrated Applications With Indirect Prompt Injection
 authors: Greshake Kai, Abdelnabi Sahar, Mishra Shailesh, Endres Christoph, Holz Thorsten, Fritz Mario
 conference: "Arxiv"
 year: 2023

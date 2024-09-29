@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Episodic Memory Reader Learning What to Remember for Question Answering from Streaming Data
+title: Episodic Memory Reader Learning What To Remember For Question Answering From Streaming Data
 authors: Han Moonsu, Kang Minki, Jung Hyunwoo, Hwang Sung Ju
 conference: "Arxiv"
 year: 2019

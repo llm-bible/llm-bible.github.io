@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Benchmarking LLMs for Translating Classical Chinese PoetryEvaluating Adequacy Fluency and Elegance
+title: Benchmarking Llms For Translating Classical Chinese Poetryevaluating Adequacy Fluency And Elegance
 authors: Chen Andong, Lou Lianzhang, Chen Kehai, Bai Xuefeng, Xiang Yang, Yang Muyun, Zhao Tiejun, Zhang Min
 conference: "Arxiv"
 year: 2024

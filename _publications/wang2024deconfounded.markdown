@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Deconfounded Causality-aware Parameter-Efficient Fine-Tuning for Problem-Solving Improvement of LLMs
+title: Deconfounded Causality-aware Parameter-efficient Fine-tuning For Problem-solving Improvement Of Llms
 authors: Wang Ruoyu, Li Xiaoxuan, Yao Lina
 conference: "Arxiv"
 year: 2024

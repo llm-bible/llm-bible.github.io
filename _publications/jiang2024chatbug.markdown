@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChatBug A Common Vulnerability of Aligned LLMs Induced by Chat Templates
+title: Chatbug A Common Vulnerability Of Aligned Llms Induced By Chat Templates
 authors: Jiang Fengqing, Xu Zhangchen, Niu Luyao, Lin Bill Yuchen, Poovendran Radha
 conference: "Arxiv"
 year: 2024

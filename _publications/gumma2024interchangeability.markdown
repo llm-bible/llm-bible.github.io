@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On the Interchangeability of Positional Embeddings in Multilingual Neural Machine Translation Models
+title: On The Interchangeability Of Positional Embeddings In Multilingual Neural Machine Translation Models
 authors: Gumma Varun, Chitale Pranjal A., Bali Kalika
 conference: "Arxiv"
 year: 2024

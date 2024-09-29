@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding the Effects of Iterative Prompting on Truthfulness
+title: Understanding The Effects Of Iterative Prompting On Truthfulness
 authors: Krishna Satyapriya, Agarwal Chirag, Lakkaraju Himabindu
 conference: "Arxiv"
 year: 2024

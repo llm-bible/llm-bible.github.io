@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-Directed Synthetic Dialogues and Revisions Technical Report
+title: Self-directed Synthetic Dialogues And Revisions Technical Report
 authors: Lambert Nathan, Schoelkopf Hailey, Gokaslan Aaron, Soldaini Luca, Pyatkin Valentina, Castricato Louis
 conference: "Arxiv"
 year: 2024

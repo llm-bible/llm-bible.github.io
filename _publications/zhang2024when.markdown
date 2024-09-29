@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: When Scaling Meets LLM Finetuning The Effect of Data Model and Finetuning Method
+title: When Scaling Meets LLM Finetuning The Effect Of Data Model And Finetuning Method
 authors: Zhang Biao, Liu Zhongtao, Cherry Colin, Firat Orhan
 conference: "Arxiv"
 year: 2024

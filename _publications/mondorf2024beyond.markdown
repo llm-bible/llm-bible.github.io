@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Accuracy Evaluating the Reasoning Behavior of Large Language Models -- A Survey
+title: Beyond Accuracy Evaluating The Reasoning Behavior Of Large Language Models -- A Survey
 authors: Mondorf Philipp, Plank Barbara
 conference: "Arxiv"
 year: 2024

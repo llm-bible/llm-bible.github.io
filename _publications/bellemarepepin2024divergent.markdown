@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Divergent Creativity in Humans and Large Language Models
+title: Divergent Creativity In Humans And Large Language Models
 authors: Bellemare-pepin Antoine 1 And 2, Lespinasse François 4 And 6, Thölke Philipp 4 And 6, Harel Yann 4 And 6, Mathewson Kory 4 And 6, Olson Jay A. 4 And 6, Bengio Yoshua 4 And 6, Jerbi Karim 1, 4 And 7
 conference: "Arxiv"
 year: 2024

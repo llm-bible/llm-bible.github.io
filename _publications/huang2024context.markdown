@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Context-Aware Assistant Selection for Improved Inference Acceleration with Large Language Models
+title: Context-aware Assistant Selection For Improved Inference Acceleration With Large Language Models
 authors: Huang Jerry, Parthasarathi Prasanna, Rezagholizadeh Mehdi, Chandar Sarath
 conference: "Arxiv"
 year: 2024

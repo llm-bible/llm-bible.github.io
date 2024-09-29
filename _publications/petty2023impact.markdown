@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Impact of Depth on Compositional Generalization in Transformer Language Models
+title: The Impact Of Depth On Compositional Generalization In Transformer Language Models
 authors: Petty Jackson, Van Steenkiste Sjoerd, Dasgupta Ishita, Sha Fei, Garrette Dan, Linzen Tal
 conference: "Arxiv"
 year: 2023

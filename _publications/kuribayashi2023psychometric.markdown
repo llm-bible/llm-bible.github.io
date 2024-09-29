@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Psychometric Predictive Power of Large Language Models
+title: Psychometric Predictive Power Of Large Language Models
 authors: Kuribayashi Tatsuki, Oseki Yohei, Baldwin Timothy
 conference: "Arxiv"
 year: 2023

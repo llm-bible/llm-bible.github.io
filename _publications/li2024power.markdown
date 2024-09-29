@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On the Power of Convolution Augmented Transformer
+title: On The Power Of Convolution Augmented Transformer
 authors: Li Mingchen, Zhang Xuechen, Huang Yixiao, Oymak Samet
 conference: "Arxiv"
 year: 2024

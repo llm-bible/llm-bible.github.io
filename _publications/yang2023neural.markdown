@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Neural Machine Translation Data Generation and Augmentation using ChatGPT
+title: Neural Machine Translation Data Generation And Augmentation Using Chatgpt
 authors: Yang Wayne, Nicolai Garrett
 conference: "Arxiv"
 year: 2023

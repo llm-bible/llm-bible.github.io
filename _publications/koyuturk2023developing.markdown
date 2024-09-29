@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Developing Effective Educational Chatbots with ChatGPT prompts Insights from Preliminary Tests in a Case Study on Social Media Literacy (with appendix)
+title: Developing Effective Educational Chatbots With Chatgpt Prompts Insights From Preliminary Tests In A Case Study On Social Media Literacy (with Appendix)
 authors: Koyuturk Cansu, Yavari Mona, Theophilou Emily, Bursic Sathya, Donabauer Gregor, Telari Alessia, Testa Alessia, Boiano Raffaele, Gabbiadini Alessandro, Hernandez-leo Davinia, Ruskov Martin, Ognibene Dimitri
 conference: "Arxiv"
 year: 2023

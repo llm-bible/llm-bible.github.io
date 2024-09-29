@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Transparency Exploring LLM Trainings Datasets through Visual Topic Modeling and Semantic Frame
+title: Towards Transparency Exploring LLM Trainings Datasets Through Visual Topic Modeling And Semantic Frame
 authors: De Dampierre Charles, Mogoutov Andrei, Baumard Nicolas
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MMRo Are Multimodal LLMs Eligible as the Brain for In-Home Robotics
+title: Mmro Are Multimodal Llms Eligible As The Brain For In-home Robotics
 authors: Li Jinming, Zhu Yichen, Xu Zhiyuan, Gu Jindong, Zhu Minjie, Liu Xin, Liu Ning, Peng Yaxin, Feng Feifei, Tang Jian
 conference: "Arxiv"
 year: 2024

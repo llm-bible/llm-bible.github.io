@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DIALOG-22 RuATD Generated Text Detection
+title: DIALOG-22 Ruatd Generated Text Detection
 authors: Maloyan Narek, Nutfullin Bulat, Ilyushin Eugene
 conference: "Arxiv"
 year: 2022

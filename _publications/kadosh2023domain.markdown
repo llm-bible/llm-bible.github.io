@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Domain-Specific Code Language Models Unraveling the Potential for HPC Codes and Tasks
+title: Domain-specific Code Language Models Unraveling The Potential For HPC Codes And Tasks
 authors: Kadosh Tal, Hasabnis Niranjan, Vo Vy A., Schneider Nadav, Krien Neva, Capota Mihai, Wasay Abdul, Ahmed Nesreen, Willke Ted, Tamir Guy, Pinter Yuval, Mattson Timothy, Oren Gal
 conference: "Arxiv"
 year: 2023

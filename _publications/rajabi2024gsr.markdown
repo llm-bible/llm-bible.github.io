@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GSR-BENCH A Benchmark for Grounded Spatial Reasoning Evaluation via Multimodal LLMs
+title: GSR-BENCH A Benchmark For Grounded Spatial Reasoning Evaluation Via Multimodal Llms
 authors: Rajabi Navid, Kosecka Jana
 conference: "Arxiv"
 year: 2024

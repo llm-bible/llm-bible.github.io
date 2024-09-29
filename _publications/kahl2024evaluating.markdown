@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating the Impact of Advanced LLM Techniques on AI-Lecture Tutors for a Robotics Course
+title: Evaluating The Impact Of Advanced LLM Techniques On Ai-lecture Tutors For A Robotics Course
 authors: Kahl Sebastian, Löffler Felix, Maciol Martin, Ridder Fabian, Schmitz Marius, Spanagel Jennifer, Wienkamp Jens, Burgahn Christopher, Schilling Malte
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TransformerFAM Feedback attention is working memory
+title: Transformerfam Feedback Attention Is Working Memory
 authors: Hwang Dongseong, Wang Weiran, Huo Zhuoyuan, Sim Khe Chai, Mengibar Pedro Moreno
 conference: "Arxiv"
 year: 2024

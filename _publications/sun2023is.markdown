@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is ChatGPT Good at Search Investigating Large Language Models as Re-Ranking Agents
+title: Is Chatgpt Good At Search Investigating Large Language Models As Re-ranking Agents
 authors: Weiwei Sun, Lingyong Yan, Xinyu Ma, Shuaiqiang Wang, Pengjie Ren, Zhumin Chen, Dawei Yin, Zhaochun Ren
 conference: "Arxiv"
 year: 2023

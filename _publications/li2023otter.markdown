@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Otter A Multi-Modal Model with In-Context Instruction Tuning
+title: Otter A Multi-modal Model With In-context Instruction Tuning
 authors: Li Bo, Zhang Yuanhan, Chen Liangyu, Wang Jinghao, Yang Jingkang, Liu Ziwei
 conference: "Arxiv"
 year: 2023

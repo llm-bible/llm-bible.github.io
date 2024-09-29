@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Characteristic AI Agents via Large Language Models
+title: Characteristic AI Agents Via Large Language Models
 authors: Wang Xi, Dai Hongliang, Gao Shen, Li Piji
 conference: "Arxiv"
 year: 2024

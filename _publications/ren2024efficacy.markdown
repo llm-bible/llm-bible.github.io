@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On the Efficacy of Eviction Policy for Key-Value Constrained Generative Language Model Inference
+title: On The Efficacy Of Eviction Policy For Key-value Constrained Generative Language Model Inference
 authors: Ren Siyu, Zhu Kenny Q.
 conference: "Arxiv"
 year: 2024

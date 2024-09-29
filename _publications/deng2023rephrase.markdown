@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rephrase and Respond Let Large Language Models Ask Better Questions for Themselves
+title: Rephrase And Respond Let Large Language Models Ask Better Questions For Themselves
 authors: Deng Yihe, Zhang Weitong, Chen Zixiang, Gu Quanquan
 conference: "Arxiv"
 year: 2023

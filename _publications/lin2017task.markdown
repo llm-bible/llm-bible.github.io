@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Task-driven Visual Saliency and Attention-based Visual Question Answering
+title: Task-driven Visual Saliency And Attention-based Visual Question Answering
 authors: Lin Yuetan, Pang Zhangyang, Wang Donghui, Zhuang Yueting
 conference: "Arxiv"
 year: 2017

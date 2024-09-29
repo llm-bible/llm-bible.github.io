@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Found in the Middle How Language Models Use Long Contexts Better via Plug-and-Play Positional Encoding
+title: Found In The Middle How Language Models Use Long Contexts Better Via Plug-and-play Positional Encoding
 authors: Zhang Zhenyu, Chen Runjin, Liu Shiwei, Yao Zhewei, Ruwase Olatunji, Chen Beidi, Wu Xiaoxia, Wang Zhangyang
 conference: "Arxiv"
 year: 2024

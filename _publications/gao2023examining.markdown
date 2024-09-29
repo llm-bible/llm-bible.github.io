@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Examining User-Friendly and Open-Sourced Large GPT Models A Survey on Language Multimodal and Scientific GPT Models
+title: Examining User-friendly And Open-sourced Large GPT Models A Survey On Language Multimodal And Scientific GPT Models
 authors: Gao Kaiyuan, He Sunan, He Zhenyu, Lin Jiacheng, Pei Qizhi, Shao Jie, Zhang Wei
 conference: "Arxiv"
 year: 2023

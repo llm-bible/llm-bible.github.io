@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Frugal LMs Trained to Invoke Symbolic Solvers Achieve Parameter-Efficient Arithmetic Reasoning
+title: Frugal Lms Trained To Invoke Symbolic Solvers Achieve Parameter-efficient Arithmetic Reasoning
 authors: Dutta Subhabrata, Singh Joykirat, Pandey Ishan, Manchanda Sunny, Chakrabarti Soumen, Chakraborty Tanmoy
 conference: "Arxiv"
 year: 2023

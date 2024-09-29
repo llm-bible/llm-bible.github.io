@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GLaPE Gold Label-agnostic Prompt Evaluation and Optimization for Large Language Model
+title: Glape Gold Label-agnostic Prompt Evaluation And Optimization For Large Language Model
 authors: Zhang Xuanchang, Zhang Zhuosheng, Zhao Hai
 conference: "Arxiv"
 year: 2024

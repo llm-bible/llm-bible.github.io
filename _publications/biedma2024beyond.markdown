@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Human Norms Unveiling Unique Values of Large Language Models through Interdisciplinary Approaches
+title: Beyond Human Norms Unveiling Unique Values Of Large Language Models Through Interdisciplinary Approaches
 authors: Biedma Pablo, Yi Xiaoyuan, Huang Linus, Sun Maosong, Xie Xing
 conference: "Arxiv"
 year: 2024

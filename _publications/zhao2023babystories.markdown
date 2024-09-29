@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BabyStories Can Reinforcement Learning Teach Baby Language Models to Write Better Stories
+title: Babystories Can Reinforcement Learning Teach Baby Language Models To Write Better Stories
 authors: Zhao Xingmeng, Wang Tongnian, Osborn Sheri, Rios Anthony
 conference: "Arxiv"
 year: 2023

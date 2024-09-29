@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Too Many Frames not all UsefulEfficient Strategies for Long-Form Video QA
+title: Too Many Frames Not All Usefulefficient Strategies For Long-form Video QA
 authors: Park Jongwoo, Ranasinghe Kanchana, Kahatapitiya Kumara, Ryoo Wonjeong, Kim Donghyun, Ryoo Michael S.
 conference: "Arxiv"
 year: 2024

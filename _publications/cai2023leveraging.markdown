@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Large Language Models for Scalable Vector Graphics-Driven Image Understanding
+title: Leveraging Large Language Models For Scalable Vector Graphics-driven Image Understanding
 authors: Cai Mu, Huang Zeyi, Li Yuheng, Ojha Utkarsh, Wang Haohan, Lee Yong Jae
 conference: "Arxiv"
 year: 2023

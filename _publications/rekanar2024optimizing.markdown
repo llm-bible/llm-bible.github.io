@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Optimizing Visual Question Answering Models for Driving Bridging the Gap Between Human and Machine Attention Patterns
+title: Optimizing Visual Question Answering Models For Driving Bridging The Gap Between Human And Machine Attention Patterns
 authors: Rekanar Kaavya, Hayes Martin, Sistu Ganesh, Eising Ciaran
 conference: "Arxiv"
 year: 2024

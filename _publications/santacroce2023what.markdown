@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What Matters In The Structured Pruning of Generative Language Models
+title: What Matters In The Structured Pruning Of Generative Language Models
 authors: Santacroce Michael, Wen Zixin, Shen Yelong, Li Yuanzhi
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Osprey Pixel Understanding with Visual Instruction Tuning
+title: Osprey Pixel Understanding With Visual Instruction Tuning
 authors: Yuan Yuqian, Li Wentong, Liu Jian, Tang Dongqi, Luo Xinjie, Qin Chi, Zhang Lei, Zhu Jianke
 conference: "Arxiv"
 year: 2023

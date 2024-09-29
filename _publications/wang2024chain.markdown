@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chain-of-Thought Reasoning Without Prompting
+title: Chain-of-thought Reasoning Without Prompting
 authors: Wang Xuezhi, Zhou Denny
 conference: "Arxiv"
 year: 2024

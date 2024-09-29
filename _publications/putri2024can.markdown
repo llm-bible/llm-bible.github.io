@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can LLM Generate Culturally Relevant Commonsense QA Data Case Study in Indonesian and Sundanese
+title: Can LLM Generate Culturally Relevant Commonsense QA Data Case Study In Indonesian And Sundanese
 authors: Putri Rifki Afina, Haznitrama Faiz Ghifari, Adhista Dea, Oh Alice
 conference: "Arxiv"
 year: 2024

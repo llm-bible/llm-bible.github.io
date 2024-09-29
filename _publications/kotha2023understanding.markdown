@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding Catastrophic Forgetting in Language Models via Implicit Inference
+title: Understanding Catastrophic Forgetting In Language Models Via Implicit Inference
 authors: Kotha Suhas, Springer Jacob Mitchell, Raghunathan Aditi
 conference: "Arxiv"
 year: 2023

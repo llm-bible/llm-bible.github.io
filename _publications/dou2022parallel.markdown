@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Parallel Attention Forcing for Machine Translation
+title: Parallel Attention Forcing For Machine Translation
 authors: Dou Qingyun, Gales Mark
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PermitQA A Benchmark for Retrieval Augmented Generation in Wind Siting and Permitting domain
+title: Permitqa A Benchmark For Retrieval Augmented Generation In Wind Siting And Permitting Domain
 authors: Meyur Rounak, Phan Hung, Wagle Sridevi, Strube Jan, Halappanavar Mahantesh, Horawalavithana Sameera, Acharya Anurag, Munikoti Sai
 conference: "Arxiv"
 year: 2024

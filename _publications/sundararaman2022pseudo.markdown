@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pseudo-OOD training for robust language models
+title: Pseudo-ood Training For Robust Language Models
 authors: Sundararaman Dhanasekar, Mehta Nikhil, Carin Lawrence
 conference: "Arxiv"
 year: 2022

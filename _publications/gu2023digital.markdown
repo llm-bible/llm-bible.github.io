@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Digital Socrates Evaluating LLMs through Explanation Critiques
+title: Digital Socrates Evaluating Llms Through Explanation Critiques
 authors: Gu Yuling, Tafjord Oyvind, Clark Peter
 conference: "Arxiv"
 year: 2023

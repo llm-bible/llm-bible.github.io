@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Universal and Transferable Adversarial Attacks on Aligned Language Models
+title: Universal And Transferable Adversarial Attacks On Aligned Language Models
 authors: Zou Andy, Wang Zifan, Carlini Nicholas, Nasr Milad, Kolter J. Zico, Fredrikson Matt
 conference: "Arxiv"
 year: 2023

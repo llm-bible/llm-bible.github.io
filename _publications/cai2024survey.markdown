@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey on Mixture of Experts
+title: A Survey On Mixture Of Experts
 authors: Cai Weilin, Jiang Juyong, Wang Fan, Tang Jing, Kim Sunghun, Huang Jiayi
 conference: "Arxiv"
 year: 2024

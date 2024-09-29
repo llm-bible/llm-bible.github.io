@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attention is not Explanation
+title: Attention Is Not Explanation
 authors: Jain Sarthak, Wallace Byron C.
 conference: "Arxiv"
 year: 2019

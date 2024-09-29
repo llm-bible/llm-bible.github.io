@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Controlled Text Generation via Language Model Arithmetic
+title: Controlled Text Generation Via Language Model Arithmetic
 authors: Dekoninck Jasper, Fischer Marc, Beurer-kellner Luca, Vechev Martin
 conference: "Arxiv"
 year: 2023

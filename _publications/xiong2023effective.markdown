@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Effective Long-Context Scaling of Foundation Models
+title: Effective Long-context Scaling Of Foundation Models
 authors: Xiong Wenhan, Liu Jingyu, Molybog Igor, Zhang Hejia, Bhargava Prajjwal, Hou Rui, Martin Louis, Rungta Rashi, Sankararaman Karthik Abinav, Oguz Barlas, Khabsa Madian, Fang Han, Mehdad Yashar, Narang Sharan, Malik Kshitiz, Fan Angela, Bhosale Shruti, Edunov Sergey, Lewis Mike, Wang Sinong, Ma Hao
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: NV-Embed Improved Techniques for Training LLMs as Generalist Embedding Models
+title: Nv-embed Improved Techniques For Training Llms As Generalist Embedding Models
 authors: Lee Chankyu, Roy Rajarshi, Xu Mengyao, Raiman Jonathan, Shoeybi Mohammad, Catanzaro Bryan, Ping Wei
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Long-Context Language Models Subsume Retrieval RAG SQL and More
+title: Can Long-context Language Models Subsume Retrieval RAG SQL And More
 authors: Lee Jinhyuk, Chen Anthony, Dai Zhuyun, Dua Dheeru, Sachan Devendra Singh, Boratko Michael, Luan Yi, Arnold Sébastien M. R., Perot Vincent, Dalmia Siddharth, Hu Hexiang, Lin Xudong, Pasupat Panupong, Amini Aida, Cole Jeremy R., Riedel Sebastian, Naim Iftekhar, Chang Ming-wei, Guu Kelvin
 conference: "Arxiv"
 year: 2024

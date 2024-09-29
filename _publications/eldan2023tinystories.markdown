@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TinyStories How Small Can Language Models Be and Still Speak Coherent English
+title: Tinystories How Small Can Language Models Be And Still Speak Coherent English
 authors: Eldan Ronen, Li Yuanzhi
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Boosting Lossless Speculative Decoding via Feature Sampling and Partial Alignment Distillation
+title: Boosting Lossless Speculative Decoding Via Feature Sampling And Partial Alignment Distillation
 authors: Gui Lujun, Xiao Bin, Su Lei, Chen Weipeng
 conference: "Arxiv"
 year: 2024

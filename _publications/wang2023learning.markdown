@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning Hierarchical Prompt with Structured Linguistic Knowledge for Vision-Language Models
+title: Learning Hierarchical Prompt With Structured Linguistic Knowledge For Vision-language Models
 authors: Wang Yubin, Jiang Xinyang, Cheng De, Li Dongsheng, Zhao Cairong
 conference: "Arxiv"
 year: 2023

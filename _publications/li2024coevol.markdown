@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CoEvol Constructing Better Responses for Instruction Finetuning through Multi-Agent Cooperation
+title: Coevol Constructing Better Responses For Instruction Finetuning Through Multi-agent Cooperation
 authors: Li Renhao, Tan Minghuan, Wong Derek F., Yang Min
 conference: "Arxiv"
 year: 2024

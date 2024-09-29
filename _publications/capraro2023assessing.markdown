@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Assessing Large Language Modelsx27; Ability To Predict How Humans Balance Self-interest And The Interest Of Others
+title: Assessing Large Language Models Ability To Predict How Humans Balance Self-interest And The Interest Of Others
 authors: Capraro Valerio, Di Paolo Roberto, Pizziol Veronica
 conference: "Arxiv"
 year: 2023

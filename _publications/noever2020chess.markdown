@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Chess Transformer Mastering Play using Generative Language Models
+title: The Chess Transformer Mastering Play Using Generative Language Models
 authors: Noever David, Ciolino Matt, Kalin Josh
 conference: "Arxiv"
 year: 2020

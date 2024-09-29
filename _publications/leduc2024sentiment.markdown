@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sentiment Reasoning for Healthcare
+title: Sentiment Reasoning For Healthcare
 authors: Le-duc Khai, Nguyen Khai-nguyen, Tat Bach Phan, Le Duy, Ngo Jerry, Vo-dang Long, Nguyen Anh Totti, Hy Truong-son
 conference: "Arxiv"
 year: 2024

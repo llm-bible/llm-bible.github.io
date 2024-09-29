@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning to Plan Long-Term for Language Modeling
+title: Learning To Plan Long-term For Language Modeling
 authors: Mai Florian, Cornille Nathan, Moens Marie-francine
 conference: "Arxiv"
 year: 2024

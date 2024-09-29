@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vision Model Pre-training on Interleaved Image-Text Data via Latent Compression Learning
+title: Vision Model Pre-training On Interleaved Image-text Data Via Latent Compression Learning
 authors: Yang Chenyu, Zhu Xizhou, Zhu Jinguo, Su Weijie, Wang Junjie, Dong Xuan, Wang Wenhai, Lu Lewei, Li Bin, Zhou Jie, Qiao Yu, Dai Jifeng
 conference: "Arxiv"
 year: 2024

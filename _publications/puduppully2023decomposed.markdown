@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Decomposed Prompting for Machine Translation Between Related Languages using Large Language Models
+title: Decomposed Prompting For Machine Translation Between Related Languages Using Large Language Models
 authors: Puduppully Ratish, Kunchukuttan Anoop, Dabre Raj, Aw Ai Ti, Chen Nancy F.
 conference: "Arxiv"
 year: 2023

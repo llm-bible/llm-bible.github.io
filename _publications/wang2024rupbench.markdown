@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RUPBench Benchmarking Reasoning Under Perturbations for Robustness Evaluation in Large Language Models
+title: Rupbench Benchmarking Reasoning Under Perturbations For Robustness Evaluation In Large Language Models
 authors: Wang Yuqing, Zhao Yun
 conference: "Arxiv"
 year: 2024

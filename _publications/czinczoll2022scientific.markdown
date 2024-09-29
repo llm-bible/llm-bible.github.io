@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scientific and Creative Analogies in Pretrained Language Models
+title: Scientific And Creative Analogies In Pretrained Language Models
 authors: Czinczoll Tamara, Yannakoudakis Helen, Mishra Pushkar, Shutova Ekaterina
 conference: "Arxiv"
 year: 2022

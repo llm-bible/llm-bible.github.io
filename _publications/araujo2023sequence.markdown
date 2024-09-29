@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sequence-to-Sequence Spanish Pre-trained Language Models
+title: Sequence-to-sequence Spanish Pre-trained Language Models
 authors: Araujo Vladimir, Trusca Maria Mihaela, Tufiño Rodrigo, Moens Marie-francine
 conference: "Arxiv"
 year: 2023

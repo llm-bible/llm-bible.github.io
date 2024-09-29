@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Balancing Rigor and Utility Mitigating Cognitive Biases in Large Language Models for Multiple-Choice Questions
+title: Balancing Rigor And Utility Mitigating Cognitive Biases In Large Language Models For Multiple-choice Questions
 authors: Wang Liman, Zhong Hanyang, Cao Wenting, Sun Zeyuan
 conference: "Arxiv"
 year: 2024

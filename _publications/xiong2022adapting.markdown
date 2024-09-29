@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adapting Pretrained Text-to-Text Models for Long Text Sequences
+title: Adapting Pretrained Text-to-text Models For Long Text Sequences
 authors: Xiong Wenhan, Gupta Anchit, Toshniwal Shubham, Mehdad Yashar, Yih Wen-tau
 conference: "Arxiv"
 year: 2022

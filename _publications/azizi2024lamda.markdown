@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LaMDA Large Model Fine-Tuning via Spectrally Decomposed Low-Dimensional Adaptation
+title: Lamda Large Model Fine-tuning Via Spectrally Decomposed Low-dimensional Adaptation
 authors: Azizi Seyedarmin, Kundu Souvik, Pedram Massoud
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: M^3IT A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning
+title: M^3IT A Large-scale Dataset Towards Multi-modal Multilingual Instruction Tuning
 authors: Li Lei, Yin Yuwei, Li Shicheng, Chen Liang, Wang Peiyi, Ren Shuhuai, Li Mukai, Yang Yazheng, Xu Jingjing, Sun Xu, Kong Lingpeng, Liu Qi
 conference: "Arxiv"
 year: 2023

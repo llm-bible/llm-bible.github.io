@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unmemorization in Large Language Models via Self-Distillation and Deliberate Imagination
+title: Unmemorization In Large Language Models Via Self-distillation And Deliberate Imagination
 authors: Dong Yijiang River, Lin Hongzhou, Belkin Mikhail, Huerta Ramon, Vulić Ivan
 conference: "Arxiv"
 year: 2024

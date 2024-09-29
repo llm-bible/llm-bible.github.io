@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Experimental Study on Pretraining Transformers from Scratch for IR
+title: An Experimental Study On Pretraining Transformers From Scratch For IR
 authors: Lassance Carlos, Déjean Hervé, Clinchant Stéphane
 conference: "Arxiv"
 year: 2023

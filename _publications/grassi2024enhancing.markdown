@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing LLM-Based Human-Robot Interaction with Nuances for Diversity Awareness
+title: Enhancing Llm-based Human-robot Interaction With Nuances For Diversity Awareness
 authors: Grassi Lucrezia, Recchiuto Carmine Tommaso, Sgorbissa Antonio
 conference: "Arxiv"
 year: 2024

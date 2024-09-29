@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieval-Augmented Generation for Natural Language Processing A Survey
+title: Retrieval-augmented Generation For Natural Language Processing A Survey
 authors: Wu Shangyu, Xiong Ying, Cui Yufei, Wu Haolun, Chen Can, Yuan Ye, Huang Lianming, Liu Xue, Kuo Tei-wei, Guan Nan, Xue Chun Jason
 conference: "Arxiv"
 year: 2024

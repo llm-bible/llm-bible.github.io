@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Optimus Organizing Sentences via Pre-trained Modeling of a Latent Space
+title: Optimus Organizing Sentences Via Pre-trained Modeling Of A Latent Space
 authors: Li Chunyuan, Gao Xiang, Li Yuan, Peng Baolin, Li Xiujun, Zhang Yizhe, Gao Jianfeng
 conference: "Arxiv"
 year: 2020

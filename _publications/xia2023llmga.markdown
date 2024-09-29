@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLMGA Multimodal Large Language Model based Generation Assistant
+title: LLMGA Multimodal Large Language Model Based Generation Assistant
 authors: Xia Bin, Wang Shiyin, Tao Yingfan, Wang Yitong, Jia Jiaya
 conference: "Arxiv"
 year: 2023

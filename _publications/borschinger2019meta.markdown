@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Meta Answering for Machine Reading
+title: Meta Answering For Machine Reading
 authors: Borschinger Benjamin, Boyd-graber Jordan, Buck Christian, Bulian Jannis, Ciaramita Massimiliano, Huebscher Michelle Chen, Gajewski Wojciech, Kilcher Yannic, Nogueira Rodrigo, Saralegu Lierni Sestorain
 conference: "Arxiv"
 year: 2019

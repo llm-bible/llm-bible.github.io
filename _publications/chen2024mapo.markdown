@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MAPO Boosting Large Language Model Performance with Model-Adaptive Prompt Optimization
+title: MAPO Boosting Large Language Model Performance With Model-adaptive Prompt Optimization
 authors: Chen Yuyan, Wen Zhihao, Fan Ge, Chen Zhengyu, Wu Wei, Liu Dayiheng, Li Zhixu, Liu Bang, Xiao Yanghua
 conference: "Arxiv"
 year: 2024

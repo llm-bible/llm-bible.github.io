@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Overview of Dialogue Robot Competition 2023
+title: Overview Of Dialogue Robot Competition 2023
 authors: Minato Takashi, Higashinaka Ryuichiro, Sakai Kurima, Funayama Tomo, Nishizaki Hiromitsu, Naga Takayuki
 conference: "Arxiv"
 year: 2024

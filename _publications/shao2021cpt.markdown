@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CPT A Pre-Trained Unbalanced Transformer for Both Chinese Language Understanding and Generation
+title: CPT A Pre-trained Unbalanced Transformer For Both Chinese Language Understanding And Generation
 authors: Shao Yunfan, Geng Zhichao, Liu Yitao, Dai Junqi, Yan Hang, Yang Fei, Zhe Li, Bao Hujun, Qiu Xipeng
 conference: "Arxiv"
 year: 2021

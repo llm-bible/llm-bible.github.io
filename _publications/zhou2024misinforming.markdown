@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Misinforming LLMs vulnerabilities challenges and opportunities
+title: Misinforming Llms Vulnerabilities Challenges And Opportunities
 authors: Zhou Bo, Geißler Daniel, Lukowicz Paul
 conference: "Arxiv"
 year: 2024

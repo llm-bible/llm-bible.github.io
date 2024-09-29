@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DiPT Enhancing LLM reasoning through diversified perspective-taking
+title: Dipt Enhancing LLM Reasoning Through Diversified Perspective-taking
 authors: Just Hoang Anh, Dabas Mahavir, Huang Lifu, Jin Ming, Jia Ruoxi
 conference: "Arxiv"
 year: 2024

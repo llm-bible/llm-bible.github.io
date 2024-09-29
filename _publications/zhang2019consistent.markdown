@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Consistent Dialogue Generation with Self-supervised Feature Learning
+title: Consistent Dialogue Generation With Self-supervised Feature Learning
 authors: Zhang Yizhe, Gao Xiang, Lee Sungjin, Brockett Chris, Galley Michel, Gao Jianfeng, Dolan Bill
 conference: "Arxiv"
 year: 2019

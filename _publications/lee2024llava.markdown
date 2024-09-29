@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLaVA-Docent Instruction Tuning with Multimodal Large Language Model to Support Art Appreciation Education
+title: Llava-docent Instruction Tuning With Multimodal Large Language Model To Support Art Appreciation Education
 authors: Lee Unggi, Jeon Minji, Lee Yunseo, Byun Gyuri, Son Yoorim, Shin Jaeyoon, Ko Hongkyu, Kim Hyeoncheol
 conference: "Arxiv"
 year: 2024

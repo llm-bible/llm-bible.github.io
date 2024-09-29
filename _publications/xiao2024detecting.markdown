@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Detecting and Mitigating Hallucination in Large Vision Language Models via Fine-Grained AI Feedback
+title: Detecting And Mitigating Hallucination In Large Vision Language Models Via Fine-grained AI Feedback
 authors: Wenyi Xiao, Ziwei Huang, Leilei Gan, Wanggui He, Haoyuan Li, Zhelun Yu, Hao Jiang, Fei Wu, Linchao Zhu
 conference: "Arxiv"
 year: 2024

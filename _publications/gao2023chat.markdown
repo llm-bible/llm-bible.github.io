@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chat-REC Towards Interactive and Explainable LLMs-Augmented Recommender System
+title: Chat-rec Towards Interactive And Explainable Llms-augmented Recommender System
 authors: Yunfan Gao, Tao Sheng, Youlin Xiang, Yun Xiong, Haofen Wang, Jiawei Zhang
 conference: "Arxiv"
 year: 2023

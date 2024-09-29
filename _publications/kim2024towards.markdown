@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Full Authorship with AI Supporting Revision with AI-Generated Views
+title: Towards Full Authorship With AI Supporting Revision With Ai-generated Views
 authors: Kim Jiho, Flanagan Ray C., Haviland Noelle E., Sun Zeai, Yakubu Souad N., Maru Edom A., Arnold Kenneth C.
 conference: "Arxiv"
 year: 2024

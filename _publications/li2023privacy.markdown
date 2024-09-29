@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Privacy in Large Language Models Attacks Defenses and Future Directions
+title: Privacy In Large Language Models Attacks Defenses And Future Directions
 authors: Li Haoran, Chen Yulin, Luo Jinglong, Kang Yan, Zhang Xiaojin, Hu Qi, Chan Chunkit, Song Yangqiu
 conference: "Arxiv"
 year: 2023

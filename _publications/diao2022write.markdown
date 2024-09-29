@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Write and Paint Generative Vision-Language Models are Unified Modal Learners
+title: Write And Paint Generative Vision-language Models Are Unified Modal Learners
 authors: Diao Shizhe, Zhou Wangchunshu, Zhang Xinsong, Wang Jiawei
 conference: "Arxiv"
 year: 2022

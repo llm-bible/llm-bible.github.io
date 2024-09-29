@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Linguistically-Informed Transformations (LIT) A Method for Automatically Generating Contrast Sets
+title: Linguistically-informed Transformations (LIT) A Method For Automatically Generating Contrast Sets
 authors: Li Chuanrong, Shengshuo Lin, Liu Leo Z., Wu Xinyi, Zhou Xuhui, Steinert-threlkeld Shane
 conference: "Arxiv"
 year: 2020

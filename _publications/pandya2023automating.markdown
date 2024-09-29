@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automating Customer Service using LangChain Building custom open-source GPT Chatbot for organizations
+title: Automating Customer Service Using Langchain Building Custom Open-source GPT Chatbot For Organizations
 authors: Pandya Keivalya, Holia Mehfuza
 conference: "Arxiv"
 year: 2023

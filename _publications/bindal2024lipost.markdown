@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LiPost Improved Content Understanding With Effective Use of Multi-task Contrastive Learning
+title: Lipost Improved Content Understanding With Effective Use Of Multi-task Contrastive Learning
 authors: Bindal Akanksha, Ramanujam Sudarshan, Golland Dave, Hazen Tj, Jiang Tina, Zhang Fengyu, Yan Peng
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Keypoint-based Progressive Chain-of-Thought Distillation for LLMs
+title: Keypoint-based Progressive Chain-of-thought Distillation For Llms
 authors: Feng Kaituo, Li Changsheng, Zhang Xiaolu, Zhou Jun, Yuan Ye, Wang Guoren
 conference: "Arxiv"
 year: 2024

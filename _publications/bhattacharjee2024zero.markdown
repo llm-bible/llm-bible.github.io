@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zero-shot LLM-guided Counterfactual Generation for Text
+title: Zero-shot Llm-guided Counterfactual Generation For Text
 authors: Bhattacharjee Amrita, Moraffah Raha, Garland Joshua, Liu Huan
 conference: "Arxiv"
 year: 2024

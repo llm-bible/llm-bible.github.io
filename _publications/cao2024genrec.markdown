@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GenRec Generative Sequential Recommendation with Large Language Models
+title: Genrec Generative Sequential Recommendation With Large Language Models
 authors: Cao Panfeng, Lio Pietro
 conference: "Arxiv"
 year: 2024

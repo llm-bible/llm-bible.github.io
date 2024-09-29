@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Comprehensive Overview of Large Language Models
+title: A Comprehensive Overview Of Large Language Models
 authors: Naveed Humza, Khan Asad Ullah, Qiu Shi, Saqib Muhammad, Anwar Saeed, Usman Muhammad, Akhtar Naveed, Barnes Nick, Mian Ajmal
 conference: "Arxiv"
 year: 2023

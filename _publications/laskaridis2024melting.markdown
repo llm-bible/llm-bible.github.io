@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MELTing point Mobile Evaluation of Language Transformers
+title: Melting Point Mobile Evaluation Of Language Transformers
 authors: Laskaridis Stefanos, Katevas Kleomenis, Minto Lorenzo, Haddadi Hamed
 conference: "Arxiv"
 year: 2024

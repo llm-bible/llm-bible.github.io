@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Breaking the Length Barrier LLM-Enhanced CTR Prediction in Long Textual User Behaviors
+title: Breaking The Length Barrier Llm-enhanced CTR Prediction In Long Textual User Behaviors
 authors: Geng Binzong, Huan Zhaoxin, Zhang Xiaolu, He Yong, Zhang Liang, Yuan Fajie, Zhou Jun, Mo Linjian
 conference: "Arxiv"
 year: 2024

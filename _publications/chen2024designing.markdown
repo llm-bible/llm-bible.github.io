@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Designing a Dashboard for Transparency and Control of Conversational AI
+title: Designing A Dashboard For Transparency And Control Of Conversational AI
 authors: Chen Yida, Wu Aoyu, Depodesta Trevor, Yeh Catherine, Li Kenneth, Marin Nicholas Castillo, Patel Oam, Riecke Jan, Raval Shivam, Seow Olivia, Wattenberg Martin, Viégas Fernanda
 conference: "Arxiv"
 year: 2024

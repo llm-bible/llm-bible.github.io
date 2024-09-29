@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LaMPilot An Open Benchmark Dataset for Autonomous Driving with Language Model Programs
+title: Lampilot An Open Benchmark Dataset For Autonomous Driving With Language Model Programs
 authors: Ma Yunsheng, Cui Can, Cao Xu, Ye Wenqian, Liu Peiran, Lu Juanwu, Abdelraouf Amr, Gupta Rohit, Han Kyungtae, Bera Aniket, Rehg James M., Wang Ziran
 conference: "Arxiv"
 year: 2023

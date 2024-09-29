@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VideoLLM Modeling Video Sequence with Large Language Models
+title: Videollm Modeling Video Sequence With Large Language Models
 authors: Chen Guo, Zheng Yin-dong, Wang Jiahao, Xu Jilan, Huang Yifei, Pan Junting, Wang Yi, Wang Yali, Qiao Yu, Lu Tong, Wang Limin
 conference: "Arxiv"
 year: 2023

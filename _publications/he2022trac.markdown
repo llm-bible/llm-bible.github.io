@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TRAC A Textual Benchmark for Reasoning about Actions and Change
+title: TRAC A Textual Benchmark For Reasoning About Actions And Change
 authors: He Weinan, Huang Canming, Xiao Zhanhao, Liu Yongmei
 conference: "Arxiv"
 year: 2022

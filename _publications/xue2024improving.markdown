@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Audio Codec-based Zero-Shot Text-to-Speech Synthesis with Multi-Modal Context and Large Language Model
+title: Improving Audio Codec-based Zero-shot Text-to-speech Synthesis With Multi-modal Context And Large Language Model
 authors: Xue Jinlong, Deng Yayue, Han Yicheng, Gao Yingming, Li Ya
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: IBD Alleviating Hallucinations in Large Vision-Language Models via Image-Biased Decoding
+title: IBD Alleviating Hallucinations In Large Vision-language Models Via Image-biased Decoding
 authors: Lanyun Zhu, Deyi Ji, Tianrun Chen, Peng Xu, Jieping Ye, Jun Liu
 conference: "Arxiv"
 year: 2024

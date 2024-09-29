@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Small Language Models Fine-tuned to Coordinate Larger Language Models improve Complex Reasoning
+title: Small Language Models Fine-tuned To Coordinate Larger Language Models Improve Complex Reasoning
 authors: Juneja Gurusha, Dutta Subhabrata, Chakrabarti Soumen, Manchanda Sunny, Chakraborty Tanmoy
 conference: "Arxiv"
 year: 2023

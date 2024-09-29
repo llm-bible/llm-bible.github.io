@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Harnessing the Zero-Shot Power of Instruction-Tuned Large Language Model in End-to-End Speech Recognition
+title: Harnessing The Zero-shot Power Of Instruction-tuned Large Language Model In End-to-end Speech Recognition
 authors: Higuchi Yosuke, Ogawa Tetsuji, Kobayashi Tetsunori
 conference: "Arxiv"
 year: 2023

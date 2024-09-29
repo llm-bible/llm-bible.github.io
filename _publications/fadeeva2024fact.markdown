@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fact-Checking the Output of Large Language Models via Token-Level Uncertainty Quantification
+title: Fact-checking The Output Of Large Language Models Via Token-level Uncertainty Quantification
 authors: Fadeeva Ekaterina, Rubashevskii Aleksandr, Shelmanov Artem, Petrakov Sergey, Li Haonan, Mubarak Hamdy, Tsymbalov Evgenii, Kuzmin Gleb, Panchenko Alexander, Baldwin Timothy, Nakov Preslav, Panov Maxim
 conference: "Arxiv"
 year: 2024

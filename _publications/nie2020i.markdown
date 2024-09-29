@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: I like fish especially dolphins Addressing Contradictions in Dialogue Modeling
+title: I Like Fish Especially Dolphins Addressing Contradictions In Dialogue Modeling
 authors: Nie Yixin, Williamson Mary, Bansal Mohit, Kiela Douwe, Weston Jason
 conference: "Arxiv"
 year: 2020

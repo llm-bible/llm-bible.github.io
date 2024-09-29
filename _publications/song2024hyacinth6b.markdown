@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hyacinth6B A large language model for Traditional Chinese
+title: Hyacinth6b A Large Language Model For Traditional Chinese
 authors: Song Chih-wei, Tsai Yin-te
 conference: "Arxiv"
 year: 2024

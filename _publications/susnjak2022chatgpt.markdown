@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChatGPT The End of Online Exam Integrity
+title: Chatgpt The End Of Online Exam Integrity
 authors: Susnjak Teo
 conference: "Arxiv"
 year: 2022

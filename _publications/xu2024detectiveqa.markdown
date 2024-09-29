@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DetectiveQA Evaluating Long-Context Reasoning on Detective Novels
+title: Detectiveqa Evaluating Long-context Reasoning On Detective Novels
 authors: Xu Zhe, Ye Jiasheng, Liu Xiangyang, Sun Tianxiang, Liu Xiaoran, Guo Qipeng, Li Linlin, Liu Qun, Huang Xuanjing, Qiu Xipeng
 conference: "Arxiv"
 year: 2024

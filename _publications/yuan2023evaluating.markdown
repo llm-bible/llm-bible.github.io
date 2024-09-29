@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Instruction-Tuned Large Language Models on Code Comprehension and Generation
+title: Evaluating Instruction-tuned Large Language Models On Code Comprehension And Generation
 authors: Yuan Zhiqiang, Liu Junwei, Zi Qiancheng, Liu Mingwei, Peng Xin, Lou Yiling
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scheduled Sampling Based on Decoding Steps for Neural Machine Translation
+title: Scheduled Sampling Based On Decoding Steps For Neural Machine Translation
 authors: Liu Yijin, Meng Fandong, Chen Yufeng, Xu Jinan, Zhou Jie
 conference: "Arxiv"
 year: 2021

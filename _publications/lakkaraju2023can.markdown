@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can LLMs be Good Financial Advisors An Initial Study in Personal Decision Making for Optimized Outcomes
+title: Can Llms Be Good Financial Advisors An Initial Study In Personal Decision Making For Optimized Outcomes
 authors: Lakkaraju Kausik, Vuruma Sai Krishna Revanth, Pallagani Vishal, Muppasani Bharath, Srivastava Biplav
 conference: "Arxiv"
 year: 2023

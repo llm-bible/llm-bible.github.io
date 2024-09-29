@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Interpretable Catastrophic Forgetting of Large Language Model Fine-tuning via Instruction Vector
+title: Interpretable Catastrophic Forgetting Of Large Language Model Fine-tuning Via Instruction Vector
 authors: Jiang Gangwei, Jiang Caigao, Li Zhaoyi, Xue Siqiao, Zhou Jun, Song Linqi, Lian Defu, Wei Ying
 conference: "Arxiv"
 year: 2024

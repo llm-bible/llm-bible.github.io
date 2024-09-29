@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BLADE Enhancing Black-box Large Language Models with Small Domain-Specific Models
+title: BLADE Enhancing Black-box Large Language Models With Small Domain-specific Models
 authors: Li Haitao, Ai Qingyao, Chen Jia, Dong Qian, Wu Zhijing, Liu Yiqun, Chen Chong, Tian Qi
 conference: "Arxiv"
 year: 2024

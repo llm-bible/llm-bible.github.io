@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can ChatGPT Assess Human Personalities A General Evaluation Framework
+title: Can Chatgpt Assess Human Personalities A General Evaluation Framework
 authors: Rao Haocong, Leung Cyril, Miao Chunyan
 conference: "Arxiv"
 year: 2023

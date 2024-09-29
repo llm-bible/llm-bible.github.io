@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PixLore A Dataset-driven Approach to Rich Image Captioning
+title: Pixlore A Dataset-driven Approach To Rich Image Captioning
 authors: Bonilla Diego
 conference: "Arxiv"
 year: 2023

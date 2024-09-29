@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Examining the robustness of LLM evaluation to the distributional assumptions of benchmarks
+title: Examining The Robustness Of LLM Evaluation To The Distributional Assumptions Of Benchmarks
 authors: Ailem Melissa, Marazopoulou Katerina, Siska Charlotte, Bono James
 conference: "Arxiv"
 year: 2024

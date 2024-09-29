@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enabling Language Models to Implicitly Learn Self-Improvement
+title: Enabling Language Models To Implicitly Learn Self-improvement
 authors: Wang Ziqi, Hou Le, Lu Tianjian, Wu Yuexin, Li Yunxuan, Yu Hongkun, Ji Heng
 conference: "Arxiv"
 year: 2023

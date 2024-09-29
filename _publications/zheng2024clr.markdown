@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CLR-Fact Evaluating the Complex Logical Reasoning Capability of Large Language Models over Factual Knowledge
+title: Clr-fact Evaluating The Complex Logical Reasoning Capability Of Large Language Models Over Factual Knowledge
 authors: Zheng Tianshi, Bai Jiaxin, Wang Yicheng, Fang Tianqing, Guo Yue, Yim Yauwai, Song Yangqiu
 conference: "Arxiv"
 year: 2024

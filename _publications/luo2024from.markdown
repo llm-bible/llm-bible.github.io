@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Understanding to Utilization A Survey on Explainability for Large Language Models
+title: From Understanding To Utilization A Survey On Explainability For Large Language Models
 authors: Luo Haoyan, Specia Lucia
 conference: "Arxiv"
 year: 2024

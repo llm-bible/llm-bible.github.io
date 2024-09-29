@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Brief History of Prompt Leveraging Language Models. (Through Advanced Prompting)
+title: A Brief History Of Prompt Leveraging Language Models. (through Advanced Prompting)
 authors: Muktadir Golam Md
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Attentional Neural Conversation Model with Improved Specificity
+title: An Attentional Neural Conversation Model With Improved Specificity
 authors: Yao Kaisheng, Peng Baolin, Zweig Geoffrey, Wong Kam-fai
 conference: "Arxiv"
 year: 2016

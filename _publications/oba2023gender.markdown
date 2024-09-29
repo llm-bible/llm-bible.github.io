@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: In-Contextual Gender Bias Suppression for Large Language Models
+title: In-contextual Gender Bias Suppression For Large Language Models
 authors: Oba Daisuke, Kaneko Masahiro, Bollegala Danushka
 conference: "Arxiv"
 year: 2023

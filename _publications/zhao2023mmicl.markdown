@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MMICL Empowering Vision-language Model with Multi-Modal In-Context Learning
+title: MMICL Empowering Vision-language Model With Multi-modal In-context Learning
 authors: Zhao Haozhe, Cai Zefan, Si Shuzheng, Ma Xiaojian, An Kaikai, Chen Liang, Liu Zixuan, Wang Sheng, Han Wenjuan, Chang Baobao
 conference: "Arxiv"
 year: 2023

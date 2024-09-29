@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PythonSaga Redefining the Benchmark to Evaluate Code Generating LLMs
+title: Pythonsaga Redefining The Benchmark To Evaluate Code Generating Llms
 authors: Yadav Ankit, Beniwal Himanshu, Singh Mayank
 conference: "Arxiv"
 year: 2024

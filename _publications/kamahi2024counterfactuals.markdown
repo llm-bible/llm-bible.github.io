@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Counterfactuals As a Means for Evaluating Faithfulness of Attribution Methods in Autoregressive Language Models
+title: Counterfactuals As A Means For Evaluating Faithfulness Of Attribution Methods In Autoregressive Language Models
 authors: Kamahi Sepehr, Yaghoobzadeh Yadollah
 conference: "Arxiv"
 year: 2024

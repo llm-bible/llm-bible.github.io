@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automatic Generation and Evaluation of Reading Comprehension Test Items with Large Language Models
+title: Automatic Generation And Evaluation Of Reading Comprehension Test Items With Large Language Models
 authors: Säuberli Andreas, Clematide Simon
 conference: "Arxiv"
 year: 2024

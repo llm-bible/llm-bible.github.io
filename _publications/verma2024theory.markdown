@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Theory of Mind abilities of Large Language Models in Human-Robot Interaction An Illusion
+title: Theory Of Mind Abilities Of Large Language Models In Human-robot Interaction An Illusion
 authors: Verma Mudit, Bhambri Siddhant, Kambhampati Subbarao
 conference: "Arxiv"
 year: 2024

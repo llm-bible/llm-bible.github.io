@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MediaGPT A Large Language Model For Chinese Media
+title: Mediagpt A Large Language Model For Chinese Media
 authors: Wang Zhonghao, Lu Zijia, Jin Bo, Deng Haiying
 conference: "Arxiv"
 year: 2023

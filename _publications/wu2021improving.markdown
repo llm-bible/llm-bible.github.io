@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Low-resource Reading Comprehension via Cross-lingual Transposition Rethinking
+title: Improving Low-resource Reading Comprehension Via Cross-lingual Transposition Rethinking
 authors: Wu Gaochen, Xu Bin, Qin Yuxin, Kong Fei, Liu Bangchang, Zhao Hongwen, Chang Dejie
 conference: "Arxiv"
 year: 2021

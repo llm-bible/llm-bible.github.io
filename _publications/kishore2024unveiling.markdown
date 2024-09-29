@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unveiling Divergent Inductive Biases of LLMs on Temporal Data
+title: Unveiling Divergent Inductive Biases Of Llms On Temporal Data
 authors: Kishore Sindhu, He Hangfeng
 conference: "Arxiv"
 year: 2024

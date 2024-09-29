@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning to Reduce Optimal Representations of Structured Data in Prompting Large Language Models
+title: Learning To Reduce Optimal Representations Of Structured Data In Prompting Large Language Models
 authors: Lee Younghun, Kim Sungchul, Yu Tong, Rossi Ryan A., Chen Xiang
 conference: "Arxiv"
 year: 2024

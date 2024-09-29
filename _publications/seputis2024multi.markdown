@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-Modal Adapter for Vision-Language Models
+title: Multi-modal Adapter For Vision-language Models
 authors: Seputis Dominykas, Mihailov Serghei, Chatterjee Soham, Xiao Zehao
 conference: "Arxiv"
 year: 2024

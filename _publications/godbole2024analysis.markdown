@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Analysis of Plan-based Retrieval for Grounded Text Generation
+title: Analysis Of Plan-based Retrieval For Grounded Text Generation
 authors: Godbole Ameya, Monath Nicholas, Kim Seungyeon, Rawat Ankit Singh, Mccallum Andrew, Zaheer Manzil
 conference: "Arxiv"
 year: 2024

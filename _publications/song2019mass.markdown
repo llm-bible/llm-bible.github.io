@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MASS Masked Sequence to Sequence Pre-training for Language Generation
+title: MASS Masked Sequence To Sequence Pre-training For Language Generation
 authors: Song Kaitao, Tan Xu, Qin Tao, Lu Jianfeng, Liu Tie-yan
 conference: "Arxiv"
 year: 2019

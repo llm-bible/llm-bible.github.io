@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models for Behavioral Economics Internal Validity and Elicitation of Mental Models
+title: Large Language Models For Behavioral Economics Internal Validity And Elicitation Of Mental Models
 authors: Jabarian Brian
 conference: "Arxiv"
 year: 2024

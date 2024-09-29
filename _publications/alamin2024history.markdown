@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: History of generative Artificial Intelligence (AI) chatbots past present and future development
+title: History Of Generative Artificial Intelligence (AI) Chatbots Past Present And Future Development
 authors: Al-amin Md., Ali Mohammad Shazed, Salam Abdus, Khan Arif, Ali Ashraf, Ullah Ahsan, Alam Md Nur, Chowdhury Shamsul Kabir
 conference: "Arxiv"
 year: 2024

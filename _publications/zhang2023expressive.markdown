@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Expressive TTS Driven by Natural Language Prompts Using Few Human Annotations
+title: Expressive TTS Driven By Natural Language Prompts Using Few Human Annotations
 authors: Zhang Hanglei, Guo Yiwei, Liu Sen, Chen Xie, Yu Kai
 conference: "Arxiv"
 year: 2023

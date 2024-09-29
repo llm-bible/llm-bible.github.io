@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VCD Visual Causality Discovery for Cross-Modal Question Reasoning
+title: VCD Visual Causality Discovery For Cross-modal Question Reasoning
 authors: Liu Yang, Tan Ying, Luo Jingzhou, Chen Weixing
 conference: "Arxiv"
 year: 2023

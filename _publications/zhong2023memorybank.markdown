@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MemoryBank Enhancing Large Language Models with Long-Term Memory
+title: Memorybank Enhancing Large Language Models With Long-term Memory
 authors: Wanjun Zhong, Lianghong Guo, Qiqi Gao, He Ye, Yanlin Wang
 conference: "Arxiv"
 year: 2023

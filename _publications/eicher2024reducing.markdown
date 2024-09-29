@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reducing Selection Bias in Large Language Models
+title: Reducing Selection Bias In Large Language Models
 authors: Eicher J. E., Irgolič R. F.
 conference: "Arxiv"
 year: 2024

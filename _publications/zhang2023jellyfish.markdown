@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jellyfish A Large Language Model for Data Preprocessing
+title: Jellyfish A Large Language Model For Data Preprocessing
 authors: Zhang Haochen, Dong Yuyang, Xiao Chuan, Oyamada Masafumi
 conference: "Arxiv"
 year: 2023

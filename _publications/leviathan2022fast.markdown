@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fast Inference from Transformers via Speculative Decoding
+title: Fast Inference From Transformers Via Speculative Decoding
 authors: Leviathan Yaniv, Kalman Matan, Matias Yossi
 conference: "Arxiv"
 year: 2022

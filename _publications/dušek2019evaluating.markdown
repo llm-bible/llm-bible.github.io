@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating the State-of-the-Art of End-to-End Natural Language Generation The E2E NLG Challenge
+title: Evaluating The State-of-the-art Of End-to-end Natural Language Generation The E2E NLG Challenge
 authors: Dušek Ondřej, Novikova Jekaterina, Rieser Verena
 conference: "Arxiv"
 year: 2019

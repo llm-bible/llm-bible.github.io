@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Demystifying Embedding Spaces using Large Language Models
+title: Demystifying Embedding Spaces Using Large Language Models
 authors: Tennenholtz Guy, Chow Yinlam, Hsu Chih-wei, Jeong Jihwan, Shani Lior, Tulepbergenov Azamat, Ramachandran Deepak, Mladenov Martin, Boutilier Craig
 conference: "Arxiv"
 year: 2023

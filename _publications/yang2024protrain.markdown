@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ProTrain Efficient LLM Training via Memory-Aware Techniques
+title: Protrain Efficient LLM Training Via Memory-aware Techniques
 authors: Yang Hanmei, Zhou Jin, Fu Yao, Wang Xiaoqun, Roane Ramine, Guan Hui, Liu Tongping
 conference: "Arxiv"
 year: 2024

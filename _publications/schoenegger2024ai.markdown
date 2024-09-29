@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AI-Augmented Predictions LLM Assistants Improve Human Forecasting Accuracy
+title: Ai-augmented Predictions LLM Assistants Improve Human Forecasting Accuracy
 authors: Schoenegger Philipp, Park Peter S., Karger Ezra, Trott Sean, Tetlock Philip E.
 conference: "Arxiv"
 year: 2024

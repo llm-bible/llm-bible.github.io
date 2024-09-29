@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VD-BERT A Unified Vision and Dialog Transformer with BERT
+title: VD-BERT A Unified Vision And Dialog Transformer With BERT
 authors: Wang Yue, Joty Shafiq, Lyu Michael R., King Irwin, Xiong Caiming, Hoi Steven C. H.
 conference: "Arxiv"
 year: 2020

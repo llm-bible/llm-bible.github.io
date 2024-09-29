@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hybrid Alignment Training for Large Language Models
+title: Hybrid Alignment Training For Large Language Models
 authors: Wang Chenglong, Zhou Hang, Chang Kaiyan, Li Bei, Mu Yongyu, Xiao Tong, Liu Tongran, Zhu Jingbo
 conference: "Arxiv"
 year: 2024

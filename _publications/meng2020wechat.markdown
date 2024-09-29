@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: WeChat Neural Machine Translation Systems for WMT20
+title: Wechat Neural Machine Translation Systems For WMT20
 authors: Meng Fandong, Yan Jianhao, Liu Yijin, Gao Yuan, Zeng Xianfeng, Zeng Qinsong, Li Peng, Chen Ming, Zhou Jie, Liu Sifan, Zhou Hao
 conference: "Arxiv"
 year: 2020

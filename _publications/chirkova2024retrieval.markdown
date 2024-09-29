@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieval-augmented generation in multilingual settings
+title: Retrieval-augmented Generation In Multilingual Settings
 authors: Chirkova Nadezhda, Rau David, Déjean Hervé, Formal Thibault, Clinchant Stéphane, Nikoulina Vassilina
 conference: "Arxiv"
 year: 2024

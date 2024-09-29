@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating the Robustness to Instructions of Large Language Models
+title: Evaluating The Robustness To Instructions Of Large Language Models
 authors: Ni Yuansheng, Jiang Sichao, Wu Xinyu, Shen Hui, Zhou Yuli
 conference: "Arxiv"
 year: 2023

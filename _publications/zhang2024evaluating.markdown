@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating the External and Parametric Knowledge Fusion of Large Language Models
+title: Evaluating The External And Parametric Knowledge Fusion Of Large Language Models
 authors: Zhang Hao, Zhang Yuyang, Li Xiaoguang, Shi Wenxuan, Xu Haonan, Liu Huanshuo, Wang Yasheng, Shang Lifeng, Liu Qun, Liu Yong, Tang Ruiming
 conference: "Arxiv"
 year: 2024

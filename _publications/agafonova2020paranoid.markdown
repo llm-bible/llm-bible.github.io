@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Paranoid Transformer Reading Narrative of Madness as Computational Approach to Creativity
+title: Paranoid Transformer Reading Narrative Of Madness As Computational Approach To Creativity
 authors: Agafonova Yana, Tikhonov Alexey, Yamshchikov Ivan P.
 conference: "Future Internet."
 year: 2020

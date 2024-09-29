@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Span Selection Pre-training for Question Answering
+title: Span Selection Pre-training For Question Answering
 authors: Glass Michael, Gliozzo Alfio, Chakravarti Rishav, Ferritto Anthony, Pan Lin, Bhargav G P Shrivatsa, Garg Dinesh, Sil Avirup
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: HuatuoGPT-II One-stage Training for Medical Adaption of LLMs
+title: Huatuogpt-ii One-stage Training For Medical Adaption Of Llms
 authors: Chen Junying, Wang Xidong, Gao Anningzhe, Jiang Feng, Chen Shunian, Zhang Hongbo, Song Dingjie, Xie Wenya, Kong Chuyi, Li Jianquan, Wan Xiang, Li Haizhou, Wang Benyou
 conference: "Arxiv"
 year: 2023

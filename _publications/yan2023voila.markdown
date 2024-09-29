@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Voila-a Aligning Vision-language Models With Userx27;s Gaze Attention
+title: Voila-a Aligning Vision-language Models With Users Gaze Attention
 authors: Yan Kun, Ji Lei, Wang Zeyu, Wang Yuntao, Duan Nan, Ma Shuai
 conference: "Arxiv"
 year: 2023

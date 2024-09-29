@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reframing Human-AI Collaboration for Generating Free-Text Explanations
+title: Reframing Human-ai Collaboration For Generating Free-text Explanations
 authors: Wiegreffe Sarah, Hessel Jack, Swayamdipta Swabha, Riedl Mark, Choi Yejin
 conference: "Arxiv"
 year: 2021

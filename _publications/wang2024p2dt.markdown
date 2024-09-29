@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: P2DT Mitigating Forgetting in task-incremental Learning with progressive prompt Decision Transformer
+title: P2DT Mitigating Forgetting In Task-incremental Learning With Progressive Prompt Decision Transformer
 authors: Wang Zhiyuan, Qu Xiaoyang, Xiao Jing, Chen Bokui, Wang Jianzong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zero-Shot Video Question Answering via Frozen Bidirectional Language Models
+title: Zero-shot Video Question Answering Via Frozen Bidirectional Language Models
 authors: Yang Antoine, Miech Antoine, Sivic Josef, Laptev Ivan, Schmid Cordelia
 conference: "Arxiv"
 year: 2022

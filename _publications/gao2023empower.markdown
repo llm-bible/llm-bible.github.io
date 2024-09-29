@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Empower Your Model with Longer and Better Context Comprehension
+title: Empower Your Model With Longer And Better Context Comprehension
 authors: Gao Yifei, Wang Lei, Fang Jun, Hu Longhua, Cheng Jun
 conference: "Arxiv"
 year: 2023

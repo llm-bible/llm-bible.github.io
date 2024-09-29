@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Logical Reasoning in Large Language Models to Facilitate Legal Applications
+title: Enhancing Logical Reasoning In Large Language Models To Facilitate Legal Applications
 authors: Nguyen Ha-thanh, Fungwacharakorn Wachara, Satoh Ken
 conference: "Arxiv"
 year: 2023

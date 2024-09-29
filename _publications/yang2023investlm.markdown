@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: InvestLM A Large Language Model for Investment using Financial Domain Instruction Tuning
+title: Investlm A Large Language Model For Investment Using Financial Domain Instruction Tuning
 authors: Yang Yi, Tang Yixuan, Tam Kar Yan
 conference: "Arxiv"
 year: 2023

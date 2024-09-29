@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: User Simulation with Large Language Models for Evaluating Task-Oriented Dialogue
+title: User Simulation With Large Language Models For Evaluating Task-oriented Dialogue
 authors: Davidson Sam, Romeo Salvatore, Shu Raphael, Gung James, Gupta Arshit, Mansour Saab, Zhang Yi
 conference: "Arxiv"
 year: 2023

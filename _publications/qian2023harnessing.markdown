@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Harnessing the Power of Large Language Models for Empathetic Response Generation Empirical Investigations and Improvements
+title: Harnessing The Power Of Large Language Models For Empathetic Response Generation Empirical Investigations And Improvements
 authors: Qian Yushan, Zhang Wei-nan, Liu Ting
 conference: "Arxiv"
 year: 2023

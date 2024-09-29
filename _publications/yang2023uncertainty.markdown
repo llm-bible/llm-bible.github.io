@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Uncertainty-aware Language Modeling for Selective Question Answering
+title: Uncertainty-aware Language Modeling For Selective Question Answering
 authors: Yang Qi, Ravikumar Shreya, Schmitt-ulms Fynn, Lolla Satvik, Demir Ege, Elistratov Iaroslav, Lavaee Alex, Lolla Sadhana, Ahmadi Elaheh, Rus Daniela, Amini Alexander, Perez Alejandro
 conference: "Arxiv"
 year: 2023

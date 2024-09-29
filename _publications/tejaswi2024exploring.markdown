@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Design Choices for Building Language-Specific LLMs
+title: Exploring Design Choices For Building Language-specific Llms
 authors: Tejaswi Atula, Gupta Nilesh, Choi Eunsol
 conference: "Arxiv"
 year: 2024

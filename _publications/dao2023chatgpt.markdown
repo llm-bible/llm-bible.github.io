@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChatGPT is Good but Bing Chat is Better for Vietnamese Students
+title: Chatgpt Is Good But Bing Chat Is Better For Vietnamese Students
 authors: Dao Xuan-quy, Le Ngoc-bich
 conference: "Arxiv"
 year: 2023

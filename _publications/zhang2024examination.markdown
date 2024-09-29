@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Examination on the Effectiveness of Divide-and-Conquer Prompting in Large Language Models
+title: An Examination On The Effectiveness Of Divide-and-conquer Prompting In Large Language Models
 authors: Zhang Yizhou, Du Lun, Cao Defu, Fu Qiang, Liu Yan
 conference: "Arxiv"
 year: 2024

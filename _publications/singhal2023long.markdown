@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Long Way to Go Investigating Length Correlations in RLHF
+title: A Long Way To Go Investigating Length Correlations In RLHF
 authors: Singhal Prasann, Goyal Tanya, Xu Jiacheng, Durrett Greg
 conference: "Arxiv"
 year: 2023

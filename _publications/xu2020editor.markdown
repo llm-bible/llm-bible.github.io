@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EDITOR an Edit-Based Transformer with Repositioning for Neural Machine Translation with Soft Lexical Constraints
+title: EDITOR An Edit-based Transformer With Repositioning For Neural Machine Translation With Soft Lexical Constraints
 authors: Xu Weijia, Carpuat Marine
 conference: "Arxiv"
 year: 2020

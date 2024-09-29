@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Dialogue Dodecathlon Open-Domain Knowledge and Image Grounded Conversational Agents
+title: The Dialogue Dodecathlon Open-domain Knowledge And Image Grounded Conversational Agents
 authors: Shuster Kurt, Ju Da, Roller Stephen, Dinan Emily, Boureau Y-lan, Weston Jason
 conference: "Arxiv"
 year: 2019

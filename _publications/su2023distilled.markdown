@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Distilled GPT for Source Code Summarization
+title: Distilled GPT For Source Code Summarization
 authors: Su Chia-yi, Mcmillan Collin
 conference: "Arxiv"
 year: 2023

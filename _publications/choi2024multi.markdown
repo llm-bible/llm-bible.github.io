@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-Granularity Guided Fusion-in-Decoder
+title: Multi-granularity Guided Fusion-in-decoder
 authors: Choi Eunseong, Lee Hyeri, Lee Jongwuk
 conference: "Arxiv"
 year: 2024

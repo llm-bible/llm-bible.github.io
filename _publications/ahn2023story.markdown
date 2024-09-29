@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Story Visualization by Online Text Augmentation with Context Memory
+title: Story Visualization By Online Text Augmentation With Context Memory
 authors: Ahn Daechul, Kim Daneul, Song Gwangmo, Kim Seung Hwan, Lee Honglak, Kang Dongyeop, Choi Jonghyun
 conference: "Arxiv"
 year: 2023

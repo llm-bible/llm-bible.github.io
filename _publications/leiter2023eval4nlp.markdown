@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Eval4NLP 2023 Shared Task on Prompting Large Language Models as Explainable Metrics
+title: The Eval4nlp 2023 Shared Task On Prompting Large Language Models As Explainable Metrics
 authors: Leiter Christoph, Opitz Juri, Deutsch Daniel, Gao Yang, Dror Rotem, Eger Steffen
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Early Evaluation of GPT-4V(ision)
+title: An Early Evaluation Of Gpt-4v(ision)
 authors: Wu Yang, Wang Shilong, Yang Hao, Zheng Tian, Zhang Hongbo, Zhao Yanyan, Qin Bing
 conference: "Arxiv"
 year: 2023

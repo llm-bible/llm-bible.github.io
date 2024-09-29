@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative AI for Synthetic Data Generation Methods Challenges and the Future
+title: Generative AI For Synthetic Data Generation Methods Challenges And The Future
 authors: Guo Xu, Chen Yiqiang
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generating Distractors for Reading Comprehension Questions from Real Examinations
+title: Generating Distractors For Reading Comprehension Questions From Real Examinations
 authors: Gao Yifan, Bing Lidong, Li Piji, King Irwin, Lyu Michael R.
 conference: "Arxiv"
 year: 2018

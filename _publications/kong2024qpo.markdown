@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: QPO Query-dependent Prompt Optimization via Multi-Loop Offline Reinforcement Learning
+title: QPO Query-dependent Prompt Optimization Via Multi-loop Offline Reinforcement Learning
 authors: Kong Yilun, Mao Hangyu, Zhao Qi, Zhang Bin, Ruan Jingqing, Shen Li, Chang Yongzhe, Wang Xueqian, Zhao Rui, Tao Dacheng
 conference: "Arxiv"
 year: 2024

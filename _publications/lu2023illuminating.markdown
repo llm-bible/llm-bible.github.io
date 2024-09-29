@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Illuminating the Black Box A Psychometric Investigation into the Multifaceted Nature of Large Language Models
+title: Illuminating The Black Box A Psychometric Investigation Into The Multifaceted Nature Of Large Language Models
 authors: Lu Yang, Yu Jordan, Huang Shou-hsuan Stephen
 conference: "Arxiv"
 year: 2023

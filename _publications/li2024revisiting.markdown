@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Revisiting Catastrophic Forgetting in Large Language Model Tuning
+title: Revisiting Catastrophic Forgetting In Large Language Model Tuning
 authors: Li Hongyu, Ding Liang, Fang Meng, Tao Dacheng
 conference: "Arxiv"
 year: 2024

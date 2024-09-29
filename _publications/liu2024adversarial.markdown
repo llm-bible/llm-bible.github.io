@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adversarial Tuning Defending Against Jailbreak Attacks for LLMs
+title: Adversarial Tuning Defending Against Jailbreak Attacks For Llms
 authors: Liu Fan, Xu Zhao, Liu Hao
 conference: "Arxiv"
 year: 2024

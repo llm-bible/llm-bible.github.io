@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Democratizing Reasoning Ability Tailored Learning from Large Language Model
+title: Democratizing Reasoning Ability Tailored Learning From Large Language Model
 authors: Wang Zhaoyang, Huang Shaohan, Liu Yuxuan, Wang Jiahai, Song Minghui, Zhang Zihan, Huang Haizhen, Wei Furu, Deng Weiwei, Sun Feng, Zhang Qi
 conference: "Arxiv"
 year: 2023

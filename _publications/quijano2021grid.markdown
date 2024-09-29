@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Grid Search Hyperparameter Benchmarking of BERT ALBERT and LongFormer on DuoRC
+title: Grid Search Hyperparameter Benchmarking Of BERT ALBERT And Longformer On Duorc
 authors: Quijano Alex John, Nguyen Sam, Ordonez Juanita
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DataStates-LLM Lazy Asynchronous Checkpointing for Large Language Models
+title: Datastates-llm Lazy Asynchronous Checkpointing For Large Language Models
 authors: Maurya Avinash, Underwood Robert, Rafique M. Mustafa, Cappello Franck, Nicolae Bogdan
 conference: "Arxiv"
 year: 2024

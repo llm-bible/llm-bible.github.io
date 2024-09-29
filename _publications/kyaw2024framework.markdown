@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Framework for Synthetic Audio Conversations Generation using Large Language Models
+title: A Framework For Synthetic Audio Conversations Generation Using Large Language Models
 authors: Kyaw Kaung Myat, Chan Jonathan Hoyin
 conference: "Arxiv"
 year: 2024

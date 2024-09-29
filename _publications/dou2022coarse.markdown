@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone
+title: Coarse-to-fine Vision-language Pre-training With Fusion In The Backbone
 authors: Dou Zi-yi, Kamath Aishwarya, Gan Zhe, Zhang Pengchuan, Wang Jianfeng, Li Linjie, Liu Zicheng, Liu Ce, Lecun Yann, Peng Nanyun, Gao Jianfeng, Wang Lijuan
 conference: "Arxiv"
 year: 2022

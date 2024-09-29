@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Quick Starting Dialog Systems with Paraphrase Generation
+title: Quick Starting Dialog Systems With Paraphrase Generation
 authors: Marceau Louis, Belbahar Raouf, Queudot Marc, Naji Nada, Charton Eric, Meurs Marie-jean
 conference: "Arxiv"
 year: 2022

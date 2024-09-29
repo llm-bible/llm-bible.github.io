@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ReCaLL Membership Inference via Relative Conditional Log-Likelihoods
+title: Recall Membership Inference Via Relative Conditional Log-likelihoods
 authors: Xie Roy, Wang Junlin, Huang Ruomin, Zhang Minxing, Ge Rong, Pei Jian, Gong Neil Zhenqiang, Dhingra Bhuwan
 conference: "Arxiv"
 year: 2024

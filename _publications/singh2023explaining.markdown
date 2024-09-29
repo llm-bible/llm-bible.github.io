@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Explaining black box text modules in natural language with language models
+title: Explaining Black Box Text Modules In Natural Language With Language Models
 authors: Singh Chandan, Hsu Aliyah R., Antonello Richard, Jain Shailee, Huth Alexander G., Yu Bin, Gao Jianfeng
 conference: "Arxiv"
 year: 2023

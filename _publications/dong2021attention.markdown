@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On-the-Fly Attention Modulation for Neural Generation
+title: On-the-fly Attention Modulation For Neural Generation
 authors: Dong Yue, Bhagavatula Chandra, Lu Ximing, Hwang Jena D., Bosselut Antoine, Cheung Jackie Chi Kit, Choi Yejin
 conference: "Arxiv"
 year: 2021

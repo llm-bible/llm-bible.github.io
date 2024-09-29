@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Token-wise Influential Training Data Retrieval for Large Language Models
+title: Token-wise Influential Training Data Retrieval For Large Language Models
 authors: Lin Huawei, Long Jikai, Xu Zhaozhuo, Zhao Weijie
 conference: "Arxiv"
 year: 2024

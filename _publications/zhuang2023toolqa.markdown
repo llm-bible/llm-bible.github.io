@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ToolQA A Dataset for LLM Question Answering with External Tools
+title: Toolqa A Dataset For LLM Question Answering With External Tools
 authors: Zhuang Yuchen, Yu Yue, Wang Kuan, Sun Haotian, Zhang Chao
 conference: "Arxiv"
 year: 2023

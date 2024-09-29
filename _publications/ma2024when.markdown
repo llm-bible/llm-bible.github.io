@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: When Emotional Stimuli meet Prompt Designing An Auto-Prompt Graphical Paradigm
+title: When Emotional Stimuli Meet Prompt Designing An Auto-prompt Graphical Paradigm
 authors: Ma Chenggian, Zhao Xiangyu, Zhang Chunhui, Qin Yanzhao, Zhang Wentao
 conference: "Arxiv"
 year: 2024

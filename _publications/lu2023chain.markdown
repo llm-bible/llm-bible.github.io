@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chain-of-Dictionary Prompting Elicits Translation in Large Language Models
+title: Chain-of-dictionary Prompting Elicits Translation In Large Language Models
 authors: Lu Hongyuan, Yang Haoran, Huang Haoyang, Zhang Dongdong, Lam Wai, Wei Furu
 conference: "Arxiv"
 year: 2023

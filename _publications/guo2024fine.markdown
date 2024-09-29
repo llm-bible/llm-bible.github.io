@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-Tuning Large Language Models for Stock Return Prediction Using Newsflow
+title: Fine-tuning Large Language Models For Stock Return Prediction Using Newsflow
 authors: Guo Tian, Hauptmann Emmanuel
 conference: "Arxiv"
 year: 2024

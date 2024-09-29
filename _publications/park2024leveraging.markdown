@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Large Language Models (LLMs) to Support Collaborative Human-AI Online Risk Data Annotation
+title: Leveraging Large Language Models (llms) To Support Collaborative Human-ai Online Risk Data Annotation
 authors: Park Jinkyung, Wisniewski Pamela, Singh Vivek
 conference: "Arxiv"
 year: 2024

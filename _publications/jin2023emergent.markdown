@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Emergent Representations of Program Semantics in Language Models Trained on Programs
+title: Emergent Representations Of Program Semantics In Language Models Trained On Programs
 authors: Jin Charles, Rinard Martin
 conference: "PMLR"
 year: 2023

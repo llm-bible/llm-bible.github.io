@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EasyGen Easing Multimodal Generation with BiDiffuser and LLMs
+title: Easygen Easing Multimodal Generation With Bidiffuser And Llms
 authors: Zhao Xiangyu, Liu Bo, Liu Qijiong, Shi Guangyuan, Wu Xiao-ming
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Out-of-distribution generalization via composition a lens through induction heads in Transformers
+title: Out-of-distribution Generalization Via Composition A Lens Through Induction Heads In Transformers
 authors: Song Jiajun, Xu Zhuoyan, Zhong Yiqiao
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-tuned network relies on generic representation to solve unseen cognitive task
+title: Fine-tuned Network Relies On Generic Representation To Solve Unseen Cognitive Task
 authors: Lin Dongyan
 conference: "Arxiv"
 year: 2024

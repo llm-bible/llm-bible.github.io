@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Logits-based Detector without Logits from Black-box LLMs
+title: Improving Logits-based Detector Without Logits From Black-box Llms
 authors: Zeng Cong, Tang Shengkun, Yang Xianjun, Chen Yuanzhou, Sun Yiyou, Xu Zhiqiang, Li Yao, Chen Haifeng, Cheng Wei, Xu Dongkuan
 conference: "Arxiv"
 year: 2024

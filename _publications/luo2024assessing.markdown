@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Assessing Empathy in Large Language Models with Real-World Physician-Patient Interactions
+title: Assessing Empathy In Large Language Models With Real-world Physician-patient Interactions
 authors: Luo Man, Warren Christopher J., Cheng Lu, Abdul-muhsin Haidar M., Banerjee Imon
 conference: "Arxiv"
 year: 2024

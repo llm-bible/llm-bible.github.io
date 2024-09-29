@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Effective Structured Prompting by Meta-Learning and Representative Verbalizer
+title: Effective Structured Prompting By Meta-learning And Representative Verbalizer
 authors: Jiang Weisen, Zhang Yu, Kwok James T.
 conference: "Arxiv"
 year: 2023

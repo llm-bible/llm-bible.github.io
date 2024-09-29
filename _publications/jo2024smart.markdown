@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SMART Automatically Scaling Down Language Models with Accuracy Guarantees for Reduced Processing Fees
+title: SMART Automatically Scaling Down Language Models With Accuracy Guarantees For Reduced Processing Fees
 authors: Jo Saehan, Trummer Immanuel
 conference: "Arxiv"
 year: 2024

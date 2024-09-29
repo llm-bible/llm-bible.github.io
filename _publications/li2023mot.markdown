@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MoT Memory-of-Thought Enables ChatGPT to Self-Improve
+title: Mot Memory-of-thought Enables Chatgpt To Self-improve
 authors: Li Xiaonan, Qiu Xipeng
 conference: "Arxiv"
 year: 2023

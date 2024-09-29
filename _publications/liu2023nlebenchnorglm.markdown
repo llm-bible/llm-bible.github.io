@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: NLEBench+NorGLM A Comprehensive Empirical Analysis and Benchmark Dataset for Generative Language Models in Norwegian
+title: Nlebench+norglm A Comprehensive Empirical Analysis And Benchmark Dataset For Generative Language Models In Norwegian
 authors: Liu Peng, Zhang Lemei, Farup Terje Nissen, Lauvrak Even W., Ingvaldsen Jon Espen, Eide Simen, Gulla Jon Atle, Yang Zhirong
 conference: "Arxiv"
 year: 2023

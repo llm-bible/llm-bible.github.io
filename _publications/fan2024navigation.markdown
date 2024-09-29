@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Navigation Instruction Generation with BEV Perception and Large Language Models
+title: Navigation Instruction Generation With BEV Perception And Large Language Models
 authors: Fan Sheng, Liu Rui, Wang Wenguan, Yang Yi
 conference: "Arxiv"
 year: 2024

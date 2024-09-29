@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Context-Aware Prompt Tuning for Vision-Language Model with Dual-Alignment
+title: Context-aware Prompt Tuning For Vision-language Model With Dual-alignment
 authors: Hu Hongyu, Lin Tiancheng, Wang Jie, Sun Zhenbang, Xu Yi
 conference: "Arxiv"
 year: 2023

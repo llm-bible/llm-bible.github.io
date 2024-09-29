@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Collaborative Semantics of Language Model-Driven Recommendations via Graph-Aware Learning
+title: Enhancing Collaborative Semantics Of Language Model-driven Recommendations Via Graph-aware Learning
 authors: Guan Zhong, Wu Likang, Zhao Hongke, He Ming, Fan Jianpin
 conference: "Arxiv"
 year: 2024

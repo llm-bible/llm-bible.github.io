@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RedCoast A Lightweight Tool to Automate Distributed Training of LLMs on Any GPU/TPUs
+title: Redcoast A Lightweight Tool To Automate Distributed Training Of Llms On Any Gpu/tpus
 authors: Tan Bowen, Zhu Yun, Liu Lijuan, Wang Hongyi, Zhuang Yonghao, Chen Jindong, Xing Eric, Hu Zhiting
 conference: "Arxiv"
 year: 2023

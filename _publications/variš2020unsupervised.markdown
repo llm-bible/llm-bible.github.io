@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unsupervised Pretraining for Neural Machine Translation Using Elastic Weight Consolidation
+title: Unsupervised Pretraining For Neural Machine Translation Using Elastic Weight Consolidation
 authors: Variš Dušan, Bojar Ondřej
 conference: "Arxiv"
 year: 2020

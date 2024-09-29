@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Algorithmic Language Models with Neurally Compiled Libraries
+title: Algorithmic Language Models With Neurally Compiled Libraries
 authors: Saldyt Lucas, Kambhampati Subbarao
 conference: "Arxiv"
 year: 2024

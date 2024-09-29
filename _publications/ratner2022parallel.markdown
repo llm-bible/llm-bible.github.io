@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Parallel Context Windows for Large Language Models
+title: Parallel Context Windows For Large Language Models
 authors: Ratner Nir, Levine Yoav, Belinkov Yonatan, Ram Ori, Magar Inbal, Abend Omri, Karpas Ehud, Shashua Amnon, Leyton-brown Kevin, Shoham Yoav
 conference: "Arxiv"
 year: 2022

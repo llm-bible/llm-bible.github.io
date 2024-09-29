@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Biases In Large Language Models quot;bias-knnx27;x27; For Effective Few-shot Learning
+title: Leveraging Biases In Large Language Models bias-knn For Effective Few-shot Learning
 authors: Zhang Yong, Li Hanzhang, Li Zhitao, Cheng Ning, Li Ming, Xiao Jing, Wang Jianzong
 conference: "Arxiv"
 year: 2024

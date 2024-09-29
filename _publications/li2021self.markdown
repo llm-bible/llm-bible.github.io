@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-Supervised Bot Play for Conversational Recommendation with Justifications
+title: Self-supervised Bot Play For Conversational Recommendation With Justifications
 authors: Li Shuyang, Majumder Bodhisattwa Prasad, Mcauley Julian
 conference: "Arxiv"
 year: 2021

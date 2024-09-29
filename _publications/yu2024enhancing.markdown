@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Healthcare through Large Language Models A Study on Medical Question Answering
+title: Enhancing Healthcare Through Large Language Models A Study On Medical Question Answering
 authors: Yu Haoran, Yu Chang, Wang Zihan, Zou Dongxian, Qin Hao
 conference: "Arxiv"
 year: 2024

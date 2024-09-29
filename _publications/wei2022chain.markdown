@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+title: Chain-of-thought Prompting Elicits Reasoning In Large Language Models
 authors: Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DistiLRR Transferring Code Repair for Low-Resource Programming Languages
+title: Distilrr Transferring Code Repair For Low-resource Programming Languages
 authors: Wong Kyle, Amayuelas Alfonso, Pan Liangming, Wang William Yang
 conference: "Arxiv"
 year: 2024

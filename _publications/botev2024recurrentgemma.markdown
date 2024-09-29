@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RecurrentGemma Moving Past Transformers for Efficient Open Language Models
+title: Recurrentgemma Moving Past Transformers For Efficient Open Language Models
 authors: Botev Aleksandar, De Soham, Smith Samuel L, Fernando Anushan, Muraru George-cristian, Haroun Ruba, Berrada Leonard, Pascanu Razvan, Sessa Pier Giuseppe, Dadashi Robert, Hussenot Léonard, Ferret Johan, Girgin Sertan, Bachem Olivier, Andreev Alek, Kenealy Kathleen, Mesnard Thomas, Hardin Cassidy, Bhupatiraju Surya, Pathak Shreya, Sifre Laurent, Rivière Morgane, Kale Mihir Sanjay, Love Juliette, Tafti Pouya, Joulin Armand, Fiedel Noah, Senter Evan, Chen Yutian, Srinivasan Srivatsan, Desjardins Guillaume, Budden David, Doucet Arnaud, Vikram Sharad, Paszke Adam, Gale Trevor, Borgeaud Sebastian, Chen Charlie, Brock Andy, Paterson Antonia, Brennan Jenny, Risdal Meg, Gundluru Raj, Devanathan Nesh, Mooney Paul, Chauhan Nilay, Culliton Phil, Martins Luiz Gustavo, Bandy Elisa, Huntsperger David, Cameron Glenn, Zucker Arthur, Warkentin Tris, Peran Ludovic, Giang Minh, Ghahramani Zoubin, Farabet Clément, Kavukcuoglu Koray, Hassabis Demis, Hadsell Raia, Teh Yee Whye, De Frietas Nando
 conference: "Arxiv"
 year: 2024

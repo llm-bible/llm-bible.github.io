@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Analyzing the Efficacy of an LLM-Only Approach for Image-based Document Question Answering
+title: Analyzing The Efficacy Of An Llm-only Approach For Image-based Document Question Answering
 authors: Hegde Nidhi, Paul Sujoy, Madan Gagan, Aggarwal Gaurav
 conference: "Arxiv"
 year: 2023

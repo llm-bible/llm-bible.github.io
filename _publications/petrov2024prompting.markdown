@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompting a Pretrained Transformer Can Be a Universal Approximator
+title: Prompting A Pretrained Transformer Can Be A Universal Approximator
 authors: Petrov Aleksandar, Torr Philip H. S., Bibi Adel
 conference: "Arxiv"
 year: 2024

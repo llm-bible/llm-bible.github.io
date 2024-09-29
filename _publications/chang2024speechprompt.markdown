@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SpeechPrompt Prompting Speech Language Models for Speech Processing Tasks
+title: Speechprompt Prompting Speech Language Models For Speech Processing Tasks
 authors: Chang Kai-wei, Wu Haibin, Wang Yu-kai, Wu Yuan-kuei, Shen Hua, Tseng Wei-cheng, Kang Iu-thing, Li Shang-wen, Lee Hung-yi
 conference: "in IEEE/ACM Transactions on Audio Speech and Language Processing vol."
 year: 2024

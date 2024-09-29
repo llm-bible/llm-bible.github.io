@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Optimizing Transformer for Low-Resource Neural Machine Translation
+title: Optimizing Transformer For Low-resource Neural Machine Translation
 authors: Araabi Ali, Monz Christof
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TofuEval Evaluating Hallucinations of LLMs on Topic-Focused Dialogue Summarization
+title: Tofueval Evaluating Hallucinations Of Llms On Topic-focused Dialogue Summarization
 authors: Tang Liyan, Shalyminov Igor, Wong Amy Wing-mei, Burnsky Jon, Vincent Jake W., Yang Yu'an, Singh Siffi, Feng Song, Song Hwanjun, Su Hang, Sun Lijia, Zhang Yi, Mansour Saab, Mckeown Kathleen
 conference: "Arxiv"
 year: 2024

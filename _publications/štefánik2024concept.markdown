@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Concept-aware Data Construction Improves In-context Learning of Language Models
+title: Concept-aware Data Construction Improves In-context Learning Of Language Models
 authors: Štefánik Michal, Kadlčík Marek, Sojka Petr
 conference: "Arxiv"
 year: 2024

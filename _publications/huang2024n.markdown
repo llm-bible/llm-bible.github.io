@@ -1,12 +1,13 @@
 ---
 layout: publication
-title: The N+ Implementation Details of RLHF with PPO A Case Study on TL;DR Summarization
+title: The N+ Implementation Details Of RLHF With PPO A Case Study On TL;DR Summarization
 authors: Huang Shengyi, Noukhovitch Michael, Hosseini Arian, Rasul Kashif, Wang Weixun, Tunstall Lewis
 conference: "Arxiv"
 year: 2024
 bibkey: huang2024n
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.17031"}
-tags: ['Agentic', 'Applications', 'Reinforcement Learning']
+  - {name: "Code", url: "https://github.com/vwxyzjn/summarize_from_feedback_details})"}
+tags: ['Agentic', 'Applications', 'Has Code', 'Reinforcement Learning']
 ---
-This work is the first to openly reproduce the Reinforcement Learning from Human Feedback (RLHF) scaling behaviors reported in OpenAIs seminal TL;DR summarization work. We create an RLHF pipeline from scratch enumerate over 20 key implementation details and share key insights during the reproduction. Our RLHF-trained Pythia models demonstrate significant gains in response quality that scale with model size with our 2.8B 6.9B models outperforming OpenAIs released 1.3B checkpoint. We publicly release the trained model checkpoints and code to facilitate further research and accelerate progress in the field ().
+This work is the first to openly reproduce the Reinforcement Learning from Human Feedback (RLHF) scaling behaviors reported in OpenAIs seminal TL;DR summarization work. We create an RLHF pipeline from scratch enumerate over 20 key implementation details and share key insights during the reproduction. Our RLHF-trained Pythia models demonstrate significant gains in response quality that scale with model size with our 2.8B 6.9B models outperforming OpenAIs released 1.3B checkpoint. We publicly release the trained model checkpoints and code to facilitate further research and accelerate progress in the field (urlhttps://github.com/vwxyzjn/summarize_from_feedback_details}).

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tell Me How to Ask Again Question Data Augmentation with Controllable Rewriting in Continuous Space
+title: Tell Me How To Ask Again Question Data Augmentation With Controllable Rewriting In Continuous Space
 authors: Liu Dayiheng, Gong Yeyun, Fu Jie, Yan Yu, Chen Jiusheng, Lv Jiancheng, Duan Nan, Zhou Ming
 conference: "Arxiv"
 year: 2020

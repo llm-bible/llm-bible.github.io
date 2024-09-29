@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM in a flash Efficient Large Language Model Inference with Limited Memory
+title: LLM In A Flash Efficient Large Language Model Inference With Limited Memory
 authors: Alizadeh Keivan, Mirzadeh Iman, Belenko Dmitry, Khatamifard Karen, Cho Minsik, Del Mundo Carlo C, Rastegari Mohammad, Farajtabar Mehrdad
 conference: "Arxiv"
 year: 2023

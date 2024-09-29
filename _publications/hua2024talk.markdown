@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Talk Less Interact Better Evaluating In-context Conversational Adaptation in Multimodal LLMs
+title: Talk Less Interact Better Evaluating In-context Conversational Adaptation In Multimodal Llms
 authors: Hua Yilun, Artzi Yoav
 conference: "Arxiv"
 year: 2024

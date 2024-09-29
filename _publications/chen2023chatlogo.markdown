@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChatLogo A Large Language Model-Driven Hybrid Natural-Programming Language Interface for Agent-based Modeling and Programming
+title: Chatlogo A Large Language Model-driven Hybrid Natural-programming Language Interface For Agent-based Modeling And Programming
 authors: Chen John, Wilensky Uri
 conference: "Arxiv"
 year: 2023

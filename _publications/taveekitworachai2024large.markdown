@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models are Null-Shot Learners
+title: Large Language Models Are Null-shot Learners
 authors: Taveekitworachai Pittawat, Abdullah Febri, Thawonmas Ruck
 conference: "Arxiv"
 year: 2024

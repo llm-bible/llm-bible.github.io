@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sparse Rewards Can Self-Train Dialogue Agents
+title: Sparse Rewards Can Self-train Dialogue Agents
 authors: Lattimer Barrett Martin, Gangal Varun, Mcdonald Ryan, Yang Yi
 conference: "Arxiv"
 year: 2024

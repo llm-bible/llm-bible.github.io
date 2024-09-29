@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Assessing the Reasoning Abilities of ChatGPT in the Context of Claim Verification
+title: Assessing The Reasoning Abilities Of Chatgpt In The Context Of Claim Verification
 authors: Dougrez-lewis John, Akhter Mahmud Elahi, He Yulan, Liakata Maria
 conference: "Arxiv"
 year: 2024

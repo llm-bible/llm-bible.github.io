@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Explicit Sentence Compression for Neural Machine Translation
+title: Explicit Sentence Compression For Neural Machine Translation
 authors: Li Zuchao, Wang Rui, Chen Kehai, Utiyama Masao, Sumita Eiichiro, Zhang Zhuosheng, Zhao Hai
 conference: "Arxiv"
 year: 2019

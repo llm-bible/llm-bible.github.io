@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is ChatGPT a Good Recommender A Preliminary Study
+title: Is Chatgpt A Good Recommender A Preliminary Study
 authors: Junling Liu, Chao Liu, Peilin Zhou, Renjie Lv, Kang Zhou, Yan Zhang
 conference: "Arxiv"
 year: 2023

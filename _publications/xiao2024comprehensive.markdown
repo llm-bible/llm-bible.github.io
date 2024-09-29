@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Comprehensive Survey of Large Language Models and Multimodal Large Language Models in Medicine
+title: A Comprehensive Survey Of Large Language Models And Multimodal Large Language Models In Medicine
 authors: Xiao Hanguang, Zhou Feizhong, Liu Xingyue, Liu Tianqi, Li Zhipeng, Liu Xin, Huang Xiaoxuan
 conference: "Arxiv"
 year: 2024

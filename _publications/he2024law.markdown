@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Law of Next-Token Prediction in Large Language Models
+title: A Law Of Next-token Prediction In Large Language Models
 authors: He Hangfeng, Su Weijie J.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Conversational SimulMT Efficient Simultaneous Translation with Large Language Models
+title: Conversational Simulmt Efficient Simultaneous Translation With Large Language Models
 authors: Wang Minghan, Vu Thuy-trang, Wang Yuxia, Shareghi Ehsan, Haffari Gholamreza
 conference: "Arxiv"
 year: 2024

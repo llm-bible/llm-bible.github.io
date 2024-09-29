@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Assessing the nature of large language models A caution against anthropocentrism
+title: Assessing The Nature Of Large Language Models A Caution Against Anthropocentrism
 authors: Speed Ann
 conference: "Arxiv"
 year: 2023

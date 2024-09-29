@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cross-Lingual Supervision improves Large Language Models Pre-training
+title: Cross-lingual Supervision Improves Large Language Models Pre-training
 authors: Schioppa Andrea, Garcia Xavier, Firat Orhan
 conference: "Arxiv"
 year: 2023

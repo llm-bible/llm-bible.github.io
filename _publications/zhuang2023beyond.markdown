@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Yes and No Improving Zero-Shot LLM Rankers via Scoring Fine-Grained Relevance Labels
+title: Beyond Yes And No Improving Zero-shot LLM Rankers Via Scoring Fine-grained Relevance Labels
 authors: Zhuang Honglei, Qin Zhen, Hui Kai, Wu Junru, Yan Le, Wang Xuanhui, Bendersky Michael
 conference: "Arxiv"
 year: 2023

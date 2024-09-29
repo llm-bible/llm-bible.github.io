@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: UniBias Unveiling and Mitigating LLM Bias through Internal Attention and FFN Manipulation
+title: Unibias Unveiling And Mitigating LLM Bias Through Internal Attention And FFN Manipulation
 authors: Zhou Hanzhang, Feng Zijian, Zhu Zixiao, Qian Junlang, Mao Kezhi
 conference: "Arxiv"
 year: 2024

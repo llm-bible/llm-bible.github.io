@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt Injection attack against LLM-integrated Applications
+title: Prompt Injection Attack Against Llm-integrated Applications
 authors: Liu Yi, Deng Gelei, Li Yuekang, Wang Kailong, Wang Zihao, Wang Xiaofeng, Zhang Tianwei, Liu Yepang, Wang Haoyu, Zheng Yan, Liu Yang
 conference: "Arxiv"
 year: 2023

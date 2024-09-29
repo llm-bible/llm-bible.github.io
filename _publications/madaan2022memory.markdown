@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Memory-assisted prompt editing to improve GPT-3 after deployment
+title: Memory-assisted Prompt Editing To Improve GPT-3 After Deployment
 authors: Madaan Aman, Tandon Niket, Clark Peter, Yang Yiming
 conference: "Arxiv"
 year: 2022

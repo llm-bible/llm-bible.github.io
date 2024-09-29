@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Reality check of the benefits of LLM in business
+title: A Reality Check Of The Benefits Of LLM In Business
 authors: Cheung Ming
 conference: "Arxiv"
 year: 2024

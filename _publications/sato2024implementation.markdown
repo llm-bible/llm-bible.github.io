@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Implementation of Werewolf Agent That does not Truly Trust LLMs
+title: An Implementation Of Werewolf Agent That Does Not Truly Trust Llms
 authors: Sato Takehiro, Ozaki Shintaro, Yokoyama Daisaku
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-Attentional Models Application in Task-Oriented Dialogue Generation Systems
+title: Self-attentional Models Application In Task-oriented Dialogue Generation Systems
 authors: Mehrjardi Mansour Saffar, Trabelsi Amine, Zaiane Osmar R.
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-Grained Detoxification via Instance-Level Prefixes for Large Language Models
+title: Fine-grained Detoxification Via Instance-level Prefixes For Large Language Models
 authors: Yi Xin, Wang Linlin, Wang Xiaoling, He Liang
 conference: "Arxiv"
 year: 2024

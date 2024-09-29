@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Devil is in the Details On Models and Training Regimes for Few-Shot Intent Classification
+title: The Devil Is In The Details On Models And Training Regimes For Few-shot Intent Classification
 authors: Mesgar Mohsen, Tran Thy Thy, Glavas Goran, Gurevych Iryna
 conference: "Arxiv"
 year: 2022

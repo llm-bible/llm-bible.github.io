@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A New Path Scaling Vision-and-Language Navigation with Synthetic Instructions and Imitation Learning
+title: A New Path Scaling Vision-and-language Navigation With Synthetic Instructions And Imitation Learning
 authors: Kamath Aishwarya, Anderson Peter, Wang Su, Koh Jing Yu, Ku Alexander, Waters Austin, Yang Yinfei, Baldridge Jason, Parekh Zarana
 conference: "Arxiv"
 year: 2022

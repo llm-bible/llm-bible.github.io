@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Planting a SEED of Vision in Large Language Model
+title: Planting A SEED Of Vision In Large Language Model
 authors: Yuying Ge, Yixiao Ge, Ziyun Zeng, Xintao Wang, Ying Shan
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs
+title: Latent Adversarial Training Improves Robustness To Persistent Harmful Behaviors In Llms
 authors: Sheshadri Abhay, Ewart Aidan, Guo Phillip, Lynch Aengus, Wu Cindy, Hebbar Vivek, Sleight Henry, Stickland Asa Cooper, Perez Ethan, Hadfield-menell Dylan, Casper Stephen
 conference: "Arxiv"
 year: 2024

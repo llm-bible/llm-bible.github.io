@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mass-Editing Memory in a Transformer
+title: Mass-editing Memory In A Transformer
 authors: Meng Kevin, Sharma Arnab Sen, Andonian Alex, Belinkov Yonatan, Bau David
 conference: "Arxiv"
 year: 2022

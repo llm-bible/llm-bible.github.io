@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scaffolding Language Learning via Multi-modal Tutoring Systems with Pedagogical Instructions
+title: Scaffolding Language Learning Via Multi-modal Tutoring Systems With Pedagogical Instructions
 authors: Liu Zhengyuan, Yin Stella Xin, Lee Carolyn, Chen Nancy F.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Interpreting and learning voice commands with a Large Language Model for a robot system
+title: Interpreting And Learning Voice Commands With A Large Language Model For A Robot System
 authors: Stankevich Stanislau, Dudek Wojciech
 conference: "Arxiv"
 year: 2024

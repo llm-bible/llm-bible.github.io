@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Probing for Incremental Parse States in Autoregressive Language Models
+title: Probing For Incremental Parse States In Autoregressive Language Models
 authors: Eisape Tiwalayo, Gangireddy Vineet, Levy Roger P., Kim Yoon
 conference: "Arxiv"
 year: 2022

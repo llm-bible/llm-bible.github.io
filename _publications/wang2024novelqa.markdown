@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: NovelQA Benchmarking Question Answering on Documents Exceeding 200K Tokens
+title: Novelqa Benchmarking Question Answering On Documents Exceeding 200K Tokens
 authors: Wang Cunxiang, Ning Ruoxi, Pan Boqi, Wu Tonghui, Guo Qipeng, Deng Cheng, Bao Guangsheng, Hu Xiangkun, Zhang Zheng, Wang Qian, Zhang Yue
 conference: "Arxiv"
 year: 2024

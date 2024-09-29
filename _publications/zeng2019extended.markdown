@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Extended Answer and Uncertainty Aware Neural Question Generation
+title: Extended Answer And Uncertainty Aware Neural Question Generation
 authors: Zeng Hongwei, Zhi Zhuo, Liu Jun, Wei Bifan
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey on Evaluation of Multimodal Large Language Models
+title: A Survey On Evaluation Of Multimodal Large Language Models
 authors: Huang Jiaxing, Zhang Jingyi
 conference: "Arxiv"
 year: 2024

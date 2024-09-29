@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Position Key Claims in LLM Research Have a Long Tail of Footnotes
+title: Position Key Claims In LLM Research Have A Long Tail Of Footnotes
 authors: Rogers Anna, Luccioni Alexandra Sasha
 conference: "Arxiv"
 year: 2023

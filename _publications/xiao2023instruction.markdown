@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instruction-ViT Multi-Modal Prompts for Instruction Learning in ViT
+title: Instruction-vit Multi-modal Prompts For Instruction Learning In Vit
 authors: Xiao Zhenxiang, Chen Yuzhong, Zhang Lu, Yao Junjie, Wu Zihao, Yu Xiaowei, Pan Yi, Zhao Lin, Ma Chong, Liu Xinyu, Liu Wei, Li Xiang, Yuan Yixuan, Shen Dinggang, Zhu Dajiang, Liu Tianming, Jiang Xi
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Large Language Models for Relevance Judgments in Legal Case Retrieval
+title: Leveraging Large Language Models For Relevance Judgments In Legal Case Retrieval
 authors: Ma Shengjie, Chen Chong, Chu Qi, Mao Jiaxin
 conference: "Arxiv"
 year: 2024

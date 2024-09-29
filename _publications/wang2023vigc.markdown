@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VIGC Visual Instruction Generation and Correction
+title: VIGC Visual Instruction Generation And Correction
 authors: Bin Wang, Fan Wu, Xiao Han, Jiahui Peng, Huaping Zhong, Pan Zhang, Xiaoyi Dong, Weijia Li, Wei Li, Jiaqi Wang, Conghui He
 conference: "Arxiv"
 year: 2023

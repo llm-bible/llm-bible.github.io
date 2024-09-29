@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TALLRec An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation
+title: Tallrec An Effective And Efficient Tuning Framework To Align Large Language Model With Recommendation
 authors: Bao Keqin, Zhang Jizhi, Zhang Yang, Wang Wenjie, Feng Fuli, He Xiangnan
 conference: "Arxiv"
 year: 2023

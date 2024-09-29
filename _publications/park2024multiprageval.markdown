@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MultiPragEval Multilingual Pragmatic Evaluation of Large Language Models
+title: Multiprageval Multilingual Pragmatic Evaluation Of Large Language Models
 authors: Park Dojun, Lee Jiwoo, Park Seohyun, Jeong Hyeyun, Koo Youngeun, Hwang Soonha, Park Seonwoo, Lee Sungeun
 conference: "Arxiv"
 year: 2024

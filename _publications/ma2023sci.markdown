@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sci-CoT Leveraging Large Language Models for Enhanced Knowledge Distillation in Small Models for Scientific QA
+title: Sci-cot Leveraging Large Language Models For Enhanced Knowledge Distillation In Small Models For Scientific QA
 authors: Ma Yuhan, Jiang Haiqi, Fan Chenyou
 conference: "Arxiv"
 year: 2023

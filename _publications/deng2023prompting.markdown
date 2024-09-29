@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompting and Evaluating Large Language Models for Proactive Dialogues Clarification Target-guided and Non-collaboration
+title: Prompting And Evaluating Large Language Models For Proactive Dialogues Clarification Target-guided And Non-collaboration
 authors: Deng Yang, Liao Lizi, Chen Liang, Wang Hongru, Lei Wenqiang, Chua Tat-seng
 conference: "Arxiv"
 year: 2023

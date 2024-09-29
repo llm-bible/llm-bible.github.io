@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Real-time Animation Generation and Control on Rigged Models via Large Language Models
+title: Real-time Animation Generation And Control On Rigged Models Via Large Language Models
 authors: Huang Han, De La Torre Fernanda, Fang Cathy Mengying, Banburski-fahey Andrzej, Amores Judith, Lanier Jaron
 conference: "Arxiv"
 year: 2023

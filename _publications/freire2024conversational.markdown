@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Conversational Assistants in Knowledge-Intensive Contexts An Evaluation of LLM- versus Intent-based Systems
+title: Conversational Assistants In Knowledge-intensive Contexts An Evaluation Of LLM- Versus Intent-based Systems
 authors: Freire Samuel Kernan, Wang Chaofan, Niforatos Evangelos
 conference: "Arxiv"
 year: 2024

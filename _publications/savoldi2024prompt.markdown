@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Prompt Response to the Demand for Automatic Gender-Neutral Translation
+title: A Prompt Response To The Demand For Automatic Gender-neutral Translation
 authors: Savoldi Beatrice, Piergentili Andrea, Fucci Dennis, Negri Matteo, Bentivogli Luisa
 conference: "Arxiv"
 year: 2024

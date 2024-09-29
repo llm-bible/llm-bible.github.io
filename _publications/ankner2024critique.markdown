@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Critique-out-Loud Reward Models
+title: Critique-out-loud Reward Models
 authors: Ankner Zachary, Paul Mansheej, Cui Brandon, Chang Jonathan D., Ammanabrolu Prithviraj
 conference: "Arxiv"
 year: 2024

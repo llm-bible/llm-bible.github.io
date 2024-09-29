@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Robust Training for Conversational Question Answering Models with Reinforced Reformulation Generation
+title: Robust Training For Conversational Question Answering Models With Reinforced Reformulation Generation
 authors: Kaiser Magdalena, Roy Rishiraj Saha, Weikum Gerhard
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MambaByte Token-free Selective State Space Model
+title: Mambabyte Token-free Selective State Space Model
 authors: Wang Junxiong, Gangavarapu Tushaar, Yan Jing Nathan, Rush Alexander M.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SALSA-TEXT self attentive latent space based adversarial text generation
+title: SALSA-TEXT Self Attentive Latent Space Based Adversarial Text Generation
 authors: Gagnon-marchand Jules, Sadeghi Hamed, Haidar Md. Akmal, Rezagholizadeh Mehdi
 conference: "Canadian AI"
 year: 2018

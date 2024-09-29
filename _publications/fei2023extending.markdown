@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Extending Context Window of Large Language Models via Semantic Compression
+title: Extending Context Window Of Large Language Models Via Semantic Compression
 authors: Fei Weizhi, Niu Xueyan, Zhou Pingyi, Hou Lu, Bai Bo, Deng Lei, Han Wei
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BiasAlert A Plug-and-play Tool for Social Bias Detection in LLMs
+title: Biasalert A Plug-and-play Tool For Social Bias Detection In Llms
 authors: Fan Zhiting, Chen Ruizhe, Xu Ruiling, Liu Zuozhu
 conference: "Arxiv"
 year: 2024

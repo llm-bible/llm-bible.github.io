@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Pitfalls of Defining Hallucination
+title: The Pitfalls Of Defining Hallucination
 authors: Van Deemter Kees
 conference: "Arxiv"
 year: 2024

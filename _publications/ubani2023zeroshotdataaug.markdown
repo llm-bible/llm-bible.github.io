@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ZeroShotDataAug Generating and Augmenting Training Data with ChatGPT
+title: Zeroshotdataaug Generating And Augmenting Training Data With Chatgpt
 authors: Ubani Solomon, Polat Suleyman Olcay, Nielsen Rodney
 conference: "Arxiv"
 year: 2023

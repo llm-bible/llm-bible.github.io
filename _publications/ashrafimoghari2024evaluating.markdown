@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Large Language Models on the GMAT Implications for the Future of Business Education
+title: Evaluating Large Language Models On The GMAT Implications For The Future Of Business Education
 authors: Ashrafimoghari Vahid, Gürkan Necdet, Suchow Jordan W.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ExoViP Step-by-step Verification and Exploration with Exoskeleton Modules for Compositional Visual Reasoning
+title: Exovip Step-by-step Verification And Exploration With Exoskeleton Modules For Compositional Visual Reasoning
 authors: Wang Yuxuan, Yuille Alan, Li Zhuowan, Zheng Zilong
 conference: "Arxiv"
 year: 2024

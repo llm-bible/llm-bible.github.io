@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Have We Reached AGI Comparing ChatGPT Claude and Gemini to Human Literacy and Education Benchmarks
+title: Have We Reached AGI Comparing Chatgpt Claude And Gemini To Human Literacy And Education Benchmarks
 authors: Akpan Mfon
 conference: "Arxiv"
 year: 2024

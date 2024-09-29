@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sight Beyond Text Multi-Modal Training Enhances LLMs in Truthfulness and Ethics
+title: Sight Beyond Text Multi-modal Training Enhances Llms In Truthfulness And Ethics
 authors: Tu Haoqin, Zhao Bingchen, Wei Chen, Xie Cihang
 conference: "Arxiv"
 year: 2023

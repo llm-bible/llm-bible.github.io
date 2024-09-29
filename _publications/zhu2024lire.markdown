@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LIRE listwise reward enhancement for preference alignment
+title: LIRE Listwise Reward Enhancement For Preference Alignment
 authors: Zhu Mingye, Liu Yi, Zhang Lei, Guo Junbo, Mao Zhendong
 conference: "Arxiv"
 year: 2024

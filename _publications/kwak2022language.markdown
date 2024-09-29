@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Detoxification with Attribute-Discriminative Latent Space
+title: Language Detoxification With Attribute-discriminative Latent Space
 authors: Kwak Jin Myung, Kim Minseon, Hwang Sung Ju
 conference: "Arxiv"
 year: 2022

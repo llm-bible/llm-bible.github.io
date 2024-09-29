@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: WebApp1K A Practical Code-Generation Benchmark for Web App Development
+title: Webapp1k A Practical Code-generation Benchmark For Web App Development
 authors: Cui Yi
 conference: "Arxiv"
 year: 2024

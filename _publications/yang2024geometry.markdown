@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Geometry of Queries Query-Based Innovations in Retrieval-Augmented Generation
+title: The Geometry Of Queries Query-based Innovations In Retrieval-augmented Generation
 authors: Yang Eric, Amar Jonathan, Lee Jong Ha, Kumar Bhawesh, Jia Yugang
 conference: "Arxiv"
 year: 2024

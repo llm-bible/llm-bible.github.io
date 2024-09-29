@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Emergent and Predictable Memorization in Large Language Models
+title: Emergent And Predictable Memorization In Large Language Models
 authors: Stella Biderman, Usvsn Sai Prashanth, Lintang Sutawika, Hailey Schoelkopf, Quentin Anthony, Shivanshu Purohit, Edward Raff
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aligning Translation-Specific Understanding to General Understanding in Large Language Models
+title: Aligning Translation-specific Understanding To General Understanding In Large Language Models
 authors: Huang Yichong, Feng Xiaocheng, Li Baohang, Fu Chengpeng, Huo Wenshuai, Liu Ting, Qin Bing
 conference: "Arxiv"
 year: 2024

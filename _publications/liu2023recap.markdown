@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RECAP Retrieval-Enhanced Context-Aware Prefix Encoder for Personalized Dialogue Response Generation
+title: RECAP Retrieval-enhanced Context-aware Prefix Encoder For Personalized Dialogue Response Generation
 authors: Liu Shuai, Cho Hyundong J., Freedman Marjorie, Ma Xuezhe, May Jonathan
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: API-Bank A Comprehensive Benchmark for Tool-Augmented LLMs
+title: Api-bank A Comprehensive Benchmark For Tool-augmented Llms
 authors: Li Minghao, Zhao Yingxiu, Yu Bowen, Song Feifan, Li Hangyu, Yu Haiyang, Li Zhoujun, Huang Fei, Li Yongbin
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DecipherPref Analyzing Influential Factors in Human Preference Judgments via GPT-4
+title: Decipherpref Analyzing Influential Factors In Human Preference Judgments Via GPT-4
 authors: Hu Yebowen, Song Kaiqiang, Cho Sangwoo, Wang Xiaoyang, Foroosh Hassan, Liu Fei
 conference: "Arxiv"
 year: 2023

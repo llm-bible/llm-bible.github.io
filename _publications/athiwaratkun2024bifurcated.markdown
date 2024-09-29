@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bifurcated Attention Accelerating Massively Parallel Decoding with Shared Prefixes in LLMs
+title: Bifurcated Attention Accelerating Massively Parallel Decoding With Shared Prefixes In Llms
 authors: Athiwaratkun Ben, Gonugondla Sujan Kumar, Gouda Sanjay Krishna, Qian Haifeng, Ding Hantian, Sun Qing, Wang Jun, Guo Jiacheng, Chen Liangfu, Bhatia Parminder, Nallapati Ramesh, Sengupta Sudipta, Xiang Bing
 conference: "Arxiv"
 year: 2024

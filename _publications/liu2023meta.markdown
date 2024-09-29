@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Meta Semantic Template for Evaluation of Large Language Models
+title: Meta Semantic Template For Evaluation Of Large Language Models
 authors: Liu Yachuan, Chen Liang, Wang Jindong, Mei Qiaozhu, Xie Xing
 conference: "Arxiv"
 year: 2023

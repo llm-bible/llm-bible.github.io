@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LIG-CRIStAL System for the WMT17 Automatic Post-Editing Task
+title: Lig-cristal System For The WMT17 Automatic Post-editing Task
 authors: Berard Alexandre, Pietquin Olivier, Besacier Laurent
 conference: "Arxiv"
 year: 2017

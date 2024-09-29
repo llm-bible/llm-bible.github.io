@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Natural Language Decomposition and Interpretation of Complex Utterances
+title: Natural Language Decomposition And Interpretation Of Complex Utterances
 authors: Jhamtani Harsh, Fang Hao, Xia Patrick, Levy Eran, Andreas Jacob, Van Durme Ben
 conference: "Arxiv"
 year: 2023

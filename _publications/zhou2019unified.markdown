@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unified Vision-Language Pre-Training for Image Captioning and VQA
+title: Unified Vision-language Pre-training For Image Captioning And VQA
 authors: Zhou Luowei, Palangi Hamid, Zhang Lei, Hu Houdong, Corso Jason J., Gao Jianfeng
 conference: "Arxiv"
 year: 2019

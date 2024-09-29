@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Moral Judgment and Reasoning Capability of LLMs Change with Language A Study using the Multilingual Defining Issues Test
+title: Do Moral Judgment And Reasoning Capability Of Llms Change With Language A Study Using The Multilingual Defining Issues Test
 authors: Khandelwal Aditi, Agarwal Utkarsh, Tanmay Kumar, Choudhury Monojit
 conference: "Arxiv"
 year: 2024

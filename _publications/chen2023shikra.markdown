@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Shikra Unleashing Multimodal Llmx27;s Referential Dialogue Magic
+title: Shikra Unleashing Multimodal Llms Referential Dialogue Magic
 authors: Keqin Chen, Zhao Zhang, Weili Zeng, Richong Zhang, Feng Zhu, Rui Zhao
 conference: "Arxiv"
 year: 2023

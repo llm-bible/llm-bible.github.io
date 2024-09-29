@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TorchScale Transformers at Scale
+title: Torchscale Transformers At Scale
 authors: Ma Shuming, Wang Hongyu, Huang Shaohan, Wang Wenhui, Chi Zewen, Dong Li, Benhaim Alon, Patra Barun, Chaudhary Vishrav, Song Xia, Wei Furu
 conference: "Arxiv"
 year: 2022

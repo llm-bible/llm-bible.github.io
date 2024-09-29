@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Transformers without Self-supervised Learning A Loss Landscape Perspective in Sequential Recommendation
+title: Enhancing Transformers Without Self-supervised Learning A Loss Landscape Perspective In Sequential Recommendation
 authors: Lai Vivian, Chen Huiyuan, Yeh Chin-chia Michael, Xu Minghua, Cai Yiwei, Yang Hao
 conference: "Arxiv"
 year: 2023

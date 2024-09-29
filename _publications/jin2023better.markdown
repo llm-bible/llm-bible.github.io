@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Better to Ask in English Cross-Lingual Evaluation of Large Language Models for Healthcare Queries
+title: Better To Ask In English Cross-lingual Evaluation Of Large Language Models For Healthcare Queries
 authors: Jin Yiqiao, Chandra Mohit, Verma Gaurav, Hu Yibo, De Choudhury Munmun, Kumar Srijan
 conference: "Arxiv"
 year: 2023

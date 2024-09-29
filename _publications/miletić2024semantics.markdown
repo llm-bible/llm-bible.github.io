@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Semantics of Multiword Expressions in Transformer-Based Models A Survey
+title: Semantics Of Multiword Expressions In Transformer-based Models A Survey
 authors: Miletić Filip, Walde Sabine Schulte Im
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring User Retrieval Integration towards Large Language Models for Cross-Domain Sequential Recommendation
+title: Exploring User Retrieval Integration Towards Large Language Models For Cross-domain Sequential Recommendation
 authors: Shen Tingjia, Wang Hao, Zhang Jiaqing, Zhao Sirui, Li Liangyue, Chen Zulong, Lian Defu, Chen Enhong
 conference: "Arxiv"
 year: 2024

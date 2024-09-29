@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Worst of Both Worlds Biases Compound in Pre-trained Vision-and-Language Models
+title: Worst Of Both Worlds Biases Compound In Pre-trained Vision-and-language Models
 authors: Srinivasan Tejas, Bisk Yonatan
 conference: "Arxiv"
 year: 2021

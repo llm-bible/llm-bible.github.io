@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning to Transfer Prompts for Text Generation
+title: Learning To Transfer Prompts For Text Generation
 authors: Li Junyi, Tang Tianyi, Nie Jian-yun, Wen Ji-rong, Zhao Wayne Xin
 conference: "Arxiv"
 year: 2022

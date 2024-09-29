@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Mathematical Abstraction for Balancing the Trade-off Between Creativity and Reality in Large Language Models
+title: A Mathematical Abstraction For Balancing The Trade-off Between Creativity And Reality In Large Language Models
 authors: Sinha Ritwik, Song Zhao, Zhou Tianyi
 conference: "Arxiv"
 year: 2023

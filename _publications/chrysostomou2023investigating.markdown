@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization
+title: Investigating Hallucinations In Pruned Large Language Models For Abstractive Summarization
 authors: Chrysostomou George, Zhao Zhixue, Williams Miles, Aletras Nikolaos
 conference: "Arxiv"
 year: 2023

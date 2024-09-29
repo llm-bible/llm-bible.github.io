@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CogVLM Visual Expert for Pretrained Language Models
+title: Cogvlm Visual Expert For Pretrained Language Models
 authors: Wang Weihan, Lv Qingsong, Yu Wenmeng, Hong Wenyi, Qi Ji, Wang Yan, Ji Junhui, Yang Zhuoyi, Zhao Lei, Song Xixuan, Xu Jiazheng, Xu Bin, Li Juanzi, Dong Yuxiao, Ding Ming, Tang Jie
 conference: "Arxiv"
 year: 2023

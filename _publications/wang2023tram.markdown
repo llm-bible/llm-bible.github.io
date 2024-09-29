@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TRAM Benchmarking Temporal Reasoning for Large Language Models
+title: TRAM Benchmarking Temporal Reasoning For Large Language Models
 authors: Wang Yuqing, Zhao Yun
 conference: "Arxiv"
 year: 2023

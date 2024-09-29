@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Controllable and Diverse Data Augmentation with Large Language Model for Low-Resource Open-Domain Dialogue Generation
+title: Controllable And Diverse Data Augmentation With Large Language Model For Low-resource Open-domain Dialogue Generation
 authors: Liu Zhenhua, Zhu Tong, Xiang Jianxiang, Chen Wenliang
 conference: "Arxiv"
 year: 2024

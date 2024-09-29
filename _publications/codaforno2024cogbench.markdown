@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CogBench a large language model walks into a psychology lab
+title: Cogbench A Large Language Model Walks Into A Psychology Lab
 authors: Coda-forno Julian, Binz Marcel, Wang Jane X., Schulz Eric
 conference: "Arxiv"
 year: 2024

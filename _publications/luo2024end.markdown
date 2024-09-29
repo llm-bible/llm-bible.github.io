@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: End-to-End Neuro-Symbolic Reinforcement Learning with Textual Explanations
+title: End-to-end Neuro-symbolic Reinforcement Learning With Textual Explanations
 authors: Luo Lirui, Zhang Guoxi, Xu Hongming, Yang Yaodong, Fang Cong, Li Qing
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Self-enhancement Approach for Domain-specific Chatbot Training via Knowledge Mining and Digest
+title: A Self-enhancement Approach For Domain-specific Chatbot Training Via Knowledge Mining And Digest
 authors: Zhang Ruohong, Gao Luyu, Zheng Chen, Fan Zhen, Lai Guokun, Zhang Zheng, Ai Fangzhou, Yang Yiming, Yang Hongxia
 conference: "Arxiv"
 year: 2023

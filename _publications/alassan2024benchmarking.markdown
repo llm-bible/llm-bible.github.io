@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Benchmarking Open-Source Language Models for Efficient Question Answering in Industrial Applications
+title: Benchmarking Open-source Language Models For Efficient Question Answering In Industrial Applications
 authors: Alassan Mahaman Sanoussi Yahaya, Espejel Jessica López, Bouhandi Merieme, Dahhane Walid, Ettifouri El Hassane
 conference: "Arxiv"
 year: 2024

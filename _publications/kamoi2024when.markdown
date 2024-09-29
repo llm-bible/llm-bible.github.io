@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: When Can LLMs Actually Correct Their Own Mistakes A Critical Survey of Self-Correction of LLMs
+title: When Can Llms Actually Correct Their Own Mistakes A Critical Survey Of Self-correction Of Llms
 authors: Kamoi Ryo, Zhang Yusen, Zhang Nan, Han Jiawei, Zhang Rui
 conference: "Arxiv"
 year: 2024

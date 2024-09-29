@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning to Generate Questions by Learning What not to Generate
+title: Learning To Generate Questions By Learning What Not To Generate
 authors: Liu Bang, Zhao Mingjun, Niu Di, Lai Kunfeng, He Yancheng, Wei Haojie, Xu Yu
 conference: "Arxiv"
 year: 2019

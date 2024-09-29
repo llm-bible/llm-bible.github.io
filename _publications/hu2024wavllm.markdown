@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: WavLLM Towards Robust and Adaptive Speech Large Language Model
+title: Wavllm Towards Robust And Adaptive Speech Large Language Model
 authors: Hu Shujie, Zhou Long, Liu Shujie, Chen Sanyuan, Meng Lingwei, Hao Hongkun, Pan Jing, Liu Xunying, Li Jinyu, Sivasankaran Sunit, Liu Linquan, Wei Furu
 conference: "Arxiv"
 year: 2024

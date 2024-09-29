@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can ChatGPT pass the Vietnamese National High School Graduation Examination
+title: Can Chatgpt Pass The Vietnamese National High School Graduation Examination
 authors: Dao Xuan-quy, Le Ngoc-bich, Phan Xuan-dung, Ngo Bac-bien
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MKD a Multi-Task Knowledge Distillation Approach for Pretrained Language Models
+title: MKD A Multi-task Knowledge Distillation Approach For Pretrained Language Models
 authors: Liu Linqing, Wang Huan, Lin Jimmy, Socher Richard, Xiong Caiming
 conference: "Arxiv"
 year: 2019

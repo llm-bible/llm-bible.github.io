@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llama meets EU Investigating the European Political Spectrum through the Lens of LLMs
+title: Llama Meets EU Investigating The European Political Spectrum Through The Lens Of Llms
 authors: Chalkidis Ilias, Brandl Stephanie
 conference: "Arxiv"
 year: 2024

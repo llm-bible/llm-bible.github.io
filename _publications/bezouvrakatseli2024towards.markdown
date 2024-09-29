@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Dialogues for Joint Human-AI Reasoning and Value Alignment
+title: Towards Dialogues For Joint Human-ai Reasoning And Value Alignment
 authors: Bezou-vrakatseli Elfia, Cocarascu Oana, Modgil Sanjay
 conference: "Arxiv"
 year: 2024

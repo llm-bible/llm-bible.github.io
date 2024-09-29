@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: End-to-End Synthetic Data Generation for Domain Adaptation of Question Answering Systems
+title: End-to-end Synthetic Data Generation For Domain Adaptation Of Question Answering Systems
 authors: Shakeri Siamak, Santos Cicero Nogueira Dos, Zhu Henry, Ng Patrick, Nan Feng, Wang Zhiguo, Nallapati Ramesh, Xiang Bing
 conference: "Arxiv"
 year: 2020

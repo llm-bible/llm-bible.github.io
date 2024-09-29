@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Meta-Task Prompting Elicits Embeddings from Large Language Models
+title: Meta-task Prompting Elicits Embeddings From Large Language Models
 authors: Lei Yibin, Wu Di, Zhou Tianyi, Shen Tao, Cao Yu, Tao Chongyang, Yates Andrew
 conference: "Arxiv"
 year: 2024

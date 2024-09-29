@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Regressive Side Effects of Training Language Models to Mimic Student Misconceptions
+title: Regressive Side Effects Of Training Language Models To Mimic Student Misconceptions
 authors: Sonkar Shashank, Liu Naiming, Baraniuk Richard G.
 conference: "Arxiv"
 year: 2024

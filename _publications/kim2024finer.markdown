@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Finer Investigating and Enhancing Fine-Grained Visual Concept Recognition in Large Vision Language Models
+title: Finer Investigating And Enhancing Fine-grained Visual Concept Recognition In Large Vision Language Models
 authors: Kim Jeonghwan, Ji Heng
 conference: "Arxiv"
 year: 2024

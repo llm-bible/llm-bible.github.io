@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FIAT Fusing learning paradigms with Instruction-Accelerated Tuning
+title: FIAT Fusing Learning Paradigms With Instruction-accelerated Tuning
 authors: Wang Xinyi, Wieting John, Clark Jonathan H.
 conference: "Arxiv"
 year: 2023

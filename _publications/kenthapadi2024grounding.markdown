@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Grounding and Evaluation for Large Language Models Practical Challenges and Lessons Learned (Survey)
+title: Grounding And Evaluation For Large Language Models Practical Challenges And Lessons Learned (survey)
 authors: Kenthapadi Krishnaram, Sameki Mehrnoosh, Taly Ankur
 conference: "Proceedings of the"
 year: 2024

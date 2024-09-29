@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating Instruction Tuning Large Language Models on Graphs
+title: Investigating Instruction Tuning Large Language Models On Graphs
 authors: Zhu Kerui, Huang Bo-wei, Jin Bowen, Jiao Yizhu, Zhong Ming, Chang Kevin, Lin Shou-de, Han Jiawei
 conference: "Arxiv"
 year: 2024

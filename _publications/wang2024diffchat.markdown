@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DiffChat Learning to Chat with Text-to-Image Synthesis Models for Interactive Image Creation
+title: Diffchat Learning To Chat With Text-to-image Synthesis Models For Interactive Image Creation
 authors: Wang Jiapeng, Wang Chengyu, Cao Tingfeng, Huang Jun, Jin Lianwen
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM4PM A case study on using Large Language Models for Process Modeling in Enterprise Organizations
+title: LLM4PM A Case Study On Using Large Language Models For Process Modeling In Enterprise Organizations
 authors: Ziche Clara, Apruzzese Giovanni
 conference: "Business Process Management Blockchain Robotic Process Automation Central and Eastern European Educators and Industry Forum. BPM"
 year: 2024

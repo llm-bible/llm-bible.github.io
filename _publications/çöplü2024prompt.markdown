@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt-Time Ontology-Driven Symbolic Knowledge Capture with Large Language Models
+title: Prompt-time Ontology-driven Symbolic Knowledge Capture With Large Language Models
 authors: Çöplü Tolga, Bendiken Arto, Skomorokhov Andrii, Bateiko Eduard, Cobb Stephen
 conference: "Arxiv"
 year: 2024

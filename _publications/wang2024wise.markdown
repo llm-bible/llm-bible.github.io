@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: WISE Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models
+title: WISE Rethinking The Knowledge Memory For Lifelong Model Editing Of Large Language Models
 authors: Wang Peng, Li Zexi, Zhang Ningyu, Xu Ziwen, Yao Yunzhi, Jiang Yong, Xie Pengjun, Huang Fei, Chen Huajun
 conference: "Arxiv"
 year: 2024

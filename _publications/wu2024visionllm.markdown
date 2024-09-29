@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VisionLLM v2 An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks
+title: Visionllm V2 An End-to-end Generalist Multimodal Large Language Model For Hundreds Of Vision-language Tasks
 authors: Wu Jiannan, Zhong Muyan, Xing Sen, Lai Zeqiang, Liu Zhaoyang, Wang Wenhai, Chen Zhe, Zhu Xizhou, Lu Lewei, Lu Tong, Luo Ping, Qiao Yu, Dai Jifeng
 conference: "Arxiv"
 year: 2024

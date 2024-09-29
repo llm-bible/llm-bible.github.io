@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Benchmarking Large Language Models for Math Reasoning Tasks
+title: Benchmarking Large Language Models For Math Reasoning Tasks
 authors: Seßler Kathrin, Rong Yao, Gözlüklü Emek, Kasneci Enkelejda
 conference: "Arxiv"
 year: 2024

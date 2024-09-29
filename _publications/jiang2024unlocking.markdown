@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unlocking the Power of Large Language Models for Entity Alignment
+title: Unlocking The Power Of Large Language Models For Entity Alignment
 authors: Jiang Xuhui, Shen Yinghan, Shi Zhichao, Xu Chengjin, Li Wei, Li Zixuan, Guo Jian, Shen Huawei, Wang Yuanzhuo
 conference: "Arxiv"
 year: 2024

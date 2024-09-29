@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Advances in apparent conceptual physics reasoning in GPT-4
+title: Advances In Apparent Conceptual Physics Reasoning In GPT-4
 authors: West Colin G.
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LeanQuant Accurate Large Language Model Quantization with Loss-Error-Aware Grid
+title: Leanquant Accurate Large Language Model Quantization With Loss-error-aware Grid
 authors: Zhang Tianyi, Shrivastava Anshumali
 conference: "Arxiv"
 year: 2024

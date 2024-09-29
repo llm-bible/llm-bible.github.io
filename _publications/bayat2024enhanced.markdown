@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhanced Language Model Truthfulness with Learnable Intervention and Uncertainty Expression
+title: Enhanced Language Model Truthfulness With Learnable Intervention And Uncertainty Expression
 authors: Bayat Farima Fatahi, Liu Xin, Jagadish H. V., Wang Lu
 conference: "Arxiv"
 year: 2024

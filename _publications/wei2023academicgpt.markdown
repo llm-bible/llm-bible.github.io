@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AcademicGPT Empowering Academic Research
+title: Academicgpt Empowering Academic Research
 authors: Wei Shufa, Xu Xiaolong, Qi Xianbiao, Yin Xi, Xia Jun, Ren Jingyi, Tang Peijun, Zhong Yuxiang, Chen Yihao, Ren Xiaoqin, Liang Yuxin, Huang Liankai, Xie Kai, Gui Weikang, Tan Wei, Sun Shuanglong, Hu Yongquan, Liu Qinxian, Li Nanjin, Dai Chihao, Wang Lihua, Liu Xiaohui, Zhang Lei, Xie Yutao
 conference: "Arxiv"
 year: 2023

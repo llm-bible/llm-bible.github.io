@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Why Would You Suggest That Human Trust in Language Model Responses
+title: Why Would You Suggest That Human Trust In Language Model Responses
 authors: Sharma Manasi, Siu Ho Chit, Paleja Rohan, Peña Jaime D.
 conference: "Arxiv"
 year: 2024

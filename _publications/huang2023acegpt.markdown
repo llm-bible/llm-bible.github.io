@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AceGPT Localizing Large Language Models in Arabic
+title: Acegpt Localizing Large Language Models In Arabic
 authors: Huang Huang, Yu Fei, Zhu Jianqing, Sun Xuening, Cheng Hao, Song Dingjie, Chen Zhihong, Alharthi Abdulmohsen, An Bang, He Juncai, Liu Ziche, Zhang Zhiyi, Chen Junying, Li Jianquan, Wang Benyou, Zhang Lian, Sun Ruoyu, Wan Xiang, Li Haizhou, Xu Jinchao
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Stepwise Verification and Remediation of Student Reasoning Errors with Large Language Model Tutors
+title: Stepwise Verification And Remediation Of Student Reasoning Errors With Large Language Model Tutors
 authors: Daheim Nico, Macina Jakub, Kapur Manu, Gurevych Iryna, Sachan Mrinmaya
 conference: "Arxiv"
 year: 2024

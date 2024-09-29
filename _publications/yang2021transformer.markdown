@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transformer-based Korean Pretrained Language Models A Survey on Three Years of Progress
+title: Transformer-based Korean Pretrained Language Models A Survey On Three Years Of Progress
 authors: Yang Kichang
 conference: "Arxiv"
 year: 2021

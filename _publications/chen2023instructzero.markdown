@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: InstructZero Efficient Instruction Optimization for Black-Box Large Language Models
+title: Instructzero Efficient Instruction Optimization For Black-box Large Language Models
 authors: Chen Lichang, Chen Jiuhai, Goldstein Tom, Huang Heng, Zhou Tianyi
 conference: "Arxiv"
 year: 2023

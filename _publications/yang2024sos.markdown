@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SOS! Soft Prompt Attack Against Open-Source Large Language Models
+title: SOS! Soft Prompt Attack Against Open-source Large Language Models
 authors: Yang Ziqing, Backes Michael, Zhang Yang, Salem Ahmed
 conference: "Arxiv"
 year: 2024

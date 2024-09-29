@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Non-Autoregressive Translation by Learning Target Categorical Codes
+title: Non-autoregressive Translation By Learning Target Categorical Codes
 authors: Bao Yu, Huang Shujian, Xiao Tong, Wang Dongqi, Dai Xinyu, Chen Jiajun
 conference: "Arxiv"
 year: 2021

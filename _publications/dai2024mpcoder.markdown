@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MPCODER Multi-user Personalized Code Generator with Explicit and Implicit Style Representation Learning
+title: MPCODER Multi-user Personalized Code Generator With Explicit And Implicit Style Representation Learning
 authors: Dai Zhenlong, Yao Chang, Han Wenkang, Yuan Ying, Gao Zhipeng, Chen Jingyuan
 conference: "Arxiv"
 year: 2024

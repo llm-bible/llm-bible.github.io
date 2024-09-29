@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DuetSim Building User Simulator with Dual Large Language Models for Task-Oriented Dialogues
+title: Duetsim Building User Simulator With Dual Large Language Models For Task-oriented Dialogues
 authors: Luo Xiang, Tang Zhiwen, Wang Jin, Zhang Xuejie
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Empirical Comparison on Imitation Learning and Reinforcement Learning for Paraphrase Generation
+title: An Empirical Comparison On Imitation Learning And Reinforcement Learning For Paraphrase Generation
 authors: Du Wanyu, Ji Yangfeng
 conference: "Arxiv"
 year: 2019

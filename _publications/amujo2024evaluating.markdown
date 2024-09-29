@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating the Efficacy of Foundational Models Advancing Benchmarking Practices to Enhance Fine-Tuning Decision-Making
+title: Evaluating The Efficacy Of Foundational Models Advancing Benchmarking Practices To Enhance Fine-tuning Decision-making
 authors: Amujo Oluyemi Enoch, Yang Shanchieh Jay
 conference: "Arxiv"
 year: 2024

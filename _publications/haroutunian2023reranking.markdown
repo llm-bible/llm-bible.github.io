@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reranking for Natural Language Generation from Logical Forms A Study based on Large Language Models
+title: Reranking For Natural Language Generation From Logical Forms A Study Based On Large Language Models
 authors: Haroutunian Levon, Li Zhuang, Galescu Lucian, Cohen Philip, Tumuluri Raj, Haffari Gholamreza
 conference: "Arxiv"
 year: 2023

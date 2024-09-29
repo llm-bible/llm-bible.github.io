@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Butterfly Effect of Model Editing Few Edits Can Trigger Large Language Models Collapse
+title: The Butterfly Effect Of Model Editing Few Edits Can Trigger Large Language Models Collapse
 authors: Yang Wanli, Sun Fei, Ma Xinyu, Liu Xun, Yin Dawei, Cheng Xueqi
 conference: "Arxiv"
 year: 2024

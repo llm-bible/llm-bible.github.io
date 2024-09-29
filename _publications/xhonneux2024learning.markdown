@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: In-Context Learning Can Re-learn Forbidden Tasks
+title: In-context Learning Can Re-learn Forbidden Tasks
 authors: Xhonneux Sophie, Dobre David, Tang Jian, Gidel Gauthier, Sridhar Dhanya
 conference: "Arxiv"
 year: 2024

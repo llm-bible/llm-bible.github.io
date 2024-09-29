@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChatMusician Understanding and Generating Music Intrinsically with LLM
+title: Chatmusician Understanding And Generating Music Intrinsically With LLM
 authors: Yuan Ruibin, Lin Hanfeng, Wang Yi, Tian Zeyue, Wu Shangda, Shen Tianhao, Zhang Ge, Wu Yuhang, Liu Cong, Zhou Ziya, Ma Ziyang, Xue Liumeng, Wang Ziyu, Liu Qin, Zheng Tianyu, Li Yizhi, Ma Yinghao, Liang Yiming, Chi Xiaowei, Liu Ruibo, Wang Zili, Li Pengfei, Wu Jingcheng, Lin Chenghua, Liu Qifeng, Jiang Tao, Huang Wenhao, Chen Wenhu, Benetos Emmanouil, Fu Jie, Xia Gus, Dannenberg Roger, Xue Wei, Kang Shiyin, Guo Yike
 conference: "Arxiv"
 year: 2024

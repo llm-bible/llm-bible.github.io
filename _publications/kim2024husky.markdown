@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Husky A Unified Open-Source Language Agent for Multi-Step Reasoning
+title: Husky A Unified Open-source Language Agent For Multi-step Reasoning
 authors: Kim Joongwon, Paranjape Bhargavi, Khot Tushar, Hajishirzi Hannaneh
 conference: "Arxiv"
 year: 2024

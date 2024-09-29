@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Taking the Next Step with Generative Artificial Intelligence The Transformative Role of Multimodal Large Language Models in Science Education
+title: Taking The Next Step With Generative Artificial Intelligence The Transformative Role Of Multimodal Large Language Models In Science Education
 authors: Bewersdorff Arne, Hartmann Christian, Hornberger Marie, Seßler Kathrin, Bannert Maria, Kasneci Enkelejda, Kasneci Gjergji, Zhai Xiaoming, Nerdel Claudia
 conference: "Arxiv"
 year: 2024

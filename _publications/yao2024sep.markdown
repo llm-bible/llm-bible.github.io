@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SEP Self-Enhanced Prompt Tuning for Visual-Language Model
+title: SEP Self-enhanced Prompt Tuning For Visual-language Model
 authors: Yao Hantao, Zhang Rui, Yu Lu, Xu Changsheng
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Verifiable Generation with Subsentence-Level Fine-Grained Citations
+title: Verifiable Generation With Subsentence-level Fine-grained Citations
 authors: Cao Shuyang, Wang Lu
 conference: "Arxiv"
 year: 2024

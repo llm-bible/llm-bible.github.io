@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gaining Wisdom from Setbacks Aligning Large Language Models via Mistake Analysis
+title: Gaining Wisdom From Setbacks Aligning Large Language Models Via Mistake Analysis
 authors: Chen Kai, Wang Chunwei, Yang Kuo, Han Jianhua, Hong Lanqing, Mi Fei, Xu Hang, Liu Zhengying, Huang Wenyong, Li Zhenguo, Yeung Dit-yan, Shang Lifeng, Jiang Xin, Liu Qun
 conference: "Arxiv"
 year: 2023

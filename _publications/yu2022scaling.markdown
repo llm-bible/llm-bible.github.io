@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scaling Autoregressive Models for Content-Rich Text-to-Image Generation
+title: Scaling Autoregressive Models For Content-rich Text-to-image Generation
 authors: Yu Jiahui, Xu Yuanzhong, Koh Jing Yu, Luong Thang, Baid Gunjan, Wang Zirui, Vasudevan Vijay, Ku Alexander, Yang Yinfei, Ayan Burcu Karagol, Hutchinson Ben, Han Wei, Parekh Zarana, Li Xin, Zhang Han, Baldridge Jason, Wu Yonghui
 conference: "Arxiv"
 year: 2022

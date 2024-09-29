@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLoCO Learning Long Contexts Offline
+title: Lloco Learning Long Contexts Offline
 authors: Tan Sijun, Li Xiuyu, Patil Shishir, Wu Ziyang, Zhang Tianjun, Keutzer Kurt, Gonzalez Joseph E., Popa Raluca Ada
 conference: "Arxiv"
 year: 2024

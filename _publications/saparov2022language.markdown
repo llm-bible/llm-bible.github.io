@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Models Are Greedy Reasoners A Systematic Formal Analysis of Chain-of-Thought
+title: Language Models Are Greedy Reasoners A Systematic Formal Analysis Of Chain-of-thought
 authors: Saparov Abulhair, He He
 conference: "Arxiv"
 year: 2022

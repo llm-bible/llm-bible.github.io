@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unleashing GPT on the Metaverse Savior or Destroyer
+title: Unleashing GPT On The Metaverse Savior Or Destroyer
 authors: Zhou Pengyuan
 conference: "Arxiv"
 year: 2023

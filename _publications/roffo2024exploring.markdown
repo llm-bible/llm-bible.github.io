@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Advanced Large Language Models with LLMsuite
+title: Exploring Advanced Large Language Models With Llmsuite
 authors: Roffo Giorgio
 conference: "Arxiv"
 year: 2024

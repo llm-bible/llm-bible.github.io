@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LayoutLLM Large Language Model Instruction Tuning for Visually Rich Document Understanding
+title: Layoutllm Large Language Model Instruction Tuning For Visually Rich Document Understanding
 authors: Fujitake Masato
 conference: "Arxiv"
 year: 2024

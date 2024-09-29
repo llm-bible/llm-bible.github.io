@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: INDIC QA BENCHMARK A Multilingual Benchmark to Evaluate Question Answering capability of LLMs for Indic Languages
+title: INDIC QA BENCHMARK A Multilingual Benchmark To Evaluate Question Answering Capability Of Llms For Indic Languages
 authors: Singh Abhishek Kumar, Murthy Rudra, Kumar Vishwajeet, Sen Jaydeep, Ramakrishnan Ganesh
 conference: "Arxiv"
 year: 2024

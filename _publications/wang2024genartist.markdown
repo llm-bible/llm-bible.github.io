@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GenArtist Multimodal LLM as an Agent for Unified Image Generation and Editing
+title: Genartist Multimodal LLM As An Agent For Unified Image Generation And Editing
 authors: Wang Zhenyu, Li Aoxue, Li Zhenguo, Liu Xihui
 conference: "Arxiv"
 year: 2024

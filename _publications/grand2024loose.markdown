@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Loose LIPS Sink Ships Asking Questions in Battleship with Language-Informed Program Sampling
+title: Loose LIPS Sink Ships Asking Questions In Battleship With Language-informed Program Sampling
 authors: Grand Gabriel, Pepe Valerio, Andreas Jacob, Tenenbaum Joshua B.
 conference: "Arxiv"
 year: 2024

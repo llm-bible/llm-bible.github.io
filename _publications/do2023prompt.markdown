@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt Optimization via Adversarial In-Context Learning
+title: Prompt Optimization Via Adversarial In-context Learning
 authors: Do Xuan Long, Zhao Yiran, Brown Hannah, Xie Yuxi, Zhao James Xu, Chen Nancy F., Kawaguchi Kenji, Shieh Michael, He Junxian
 conference: "Arxiv"
 year: 2023

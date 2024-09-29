@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Harnessing Large Language Models for Multimodal Product Bundling
+title: Harnessing Large Language Models For Multimodal Product Bundling
 authors: Liu Xiaohao, Wu Jie, Tao Zhulin, Ma Yunshan, Wei Yinwei, Chua Tat-seng
 conference: "Arxiv"
 year: 2024

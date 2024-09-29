@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gradient-Based Word Substitution for Obstinate Adversarial Examples Generation in Language Models
+title: Gradient-based Word Substitution For Obstinate Adversarial Examples Generation In Language Models
 authors: Wang Yimu, Shi Peng, Zhang Hongyang
 conference: "Arxiv"
 year: 2023

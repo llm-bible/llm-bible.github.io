@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GROVE A Retrieval-augmented Complex Story Generation Framework with A Forest of Evidence
+title: GROVE A Retrieval-augmented Complex Story Generation Framework With A Forest Of Evidence
 authors: Wen Zhihua, Tian Zhiliang, Wu Wei, Yang Yuxin, Shi Yanqi, Huang Zhen, Li Dongsheng
 conference: "Arxiv"
 year: 2023

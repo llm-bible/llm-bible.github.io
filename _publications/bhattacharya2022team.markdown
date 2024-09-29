@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Team x27;ufal At CMCL 2022 Shared Task Figuring Out The Correct Recipe For Predicting Eye-tracking Features Using Pretrained Language Models
+title: Team UFAL At CMCL 2022 Shared Task Figuring Out The Correct Recipe For Predicting Eye-tracking Features Using Pretrained Language Models
 authors: Bhattacharya Sunit, Kumar Rishu, Bojar Ondrej
 conference: "Arxiv"
 year: 2022

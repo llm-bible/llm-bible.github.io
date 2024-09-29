@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: UI Layout Generation with LLMs Guided by UI Grammar
+title: UI Layout Generation With Llms Guided By UI Grammar
 authors: Lu Yuwen, Tong Ziang, Zhao Qinyi, Zhang Chengzhi, Li Toby Jia-jun
 conference: "Arxiv"
 year: 2023

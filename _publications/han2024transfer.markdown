@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transfer Learning for Text Diffusion Models
+title: Transfer Learning For Text Diffusion Models
 authors: Han Kehang, Kenealy Kathleen, Barua Aditya, Fiedel Noah, Constant Noah
 conference: "Arxiv"
 year: 2024

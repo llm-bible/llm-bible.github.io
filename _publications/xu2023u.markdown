@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: u-LLaVA Unifying Multi-Modal Tasks via Large Language Model
+title: U-llava Unifying Multi-modal Tasks Via Large Language Model
 authors: Xu Jinjin, Xu Liwu, Yang Yuzhe, Li Xiang, Wang Fanyi, Xie Yanchun, Huang Yi-jie, Li Yaqian
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: REFINER Reasoning Feedback on Intermediate Representations
+title: REFINER Reasoning Feedback On Intermediate Representations
 authors: Paul Debjit, Ismayilzada Mete, Peyrard Maxime, Borges Beatriz, Bosselut Antoine, West Robert, Faltings Boi
 conference: "Arxiv"
 year: 2023

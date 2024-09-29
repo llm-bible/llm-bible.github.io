@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Embodied BERT A Transformer Model for Embodied Language-guided Visual Task Completion
+title: Embodied BERT A Transformer Model For Embodied Language-guided Visual Task Completion
 authors: Suglia Alessandro, Gao Qiaozi, Thomason Jesse, Thattai Govind, Sukhatme Gaurav
 conference: "Arxiv"
 year: 2021

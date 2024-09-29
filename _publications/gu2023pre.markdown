@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pre-Training to Learn in Context
+title: Pre-training To Learn In Context
 authors: Yuxian Gu, Li Dong, Furu Wei, Minlie Huang
 conference: "Arxiv"
 year: 2023

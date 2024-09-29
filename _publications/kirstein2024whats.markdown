@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Whats Wrong Refining Meeting Summaries with lam Feedback
+title: Whats Wrong Refining Meeting Summaries With LLM Feedback
 authors: Kirstein Frederic, Ruas Terry, Gipp Bela
 conference: "Arxiv"
 year: 2024

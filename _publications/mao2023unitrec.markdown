@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: UniTRec A Unified Text-to-Text Transformer and Joint Contrastive Learning Framework for Text-based Recommendation
+title: Unitrec A Unified Text-to-text Transformer And Joint Contrastive Learning Framework For Text-based Recommendation
 authors: Mao Zhiming, Wang Huimin, Du Yiming, Wong Kam-fai
 conference: "Arxiv"
 year: 2023

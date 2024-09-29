@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficiently Aligned Cross-Lingual Transfer Learning for Conversational Tasks using Prompt-Tuning
+title: Efficiently Aligned Cross-lingual Transfer Learning For Conversational Tasks Using Prompt-tuning
 authors: Tu Lifu, Qu Jin, Yavuz Semih, Joty Shafiq, Liu Wenhao, Xiong Caiming, Zhou Yingbo
 conference: "Arxiv"
 year: 2023

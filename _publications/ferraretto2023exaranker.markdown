@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ExaRanker Explanation-Augmented Neural Ranker
+title: Exaranker Explanation-augmented Neural Ranker
 authors: Ferraretto Fernando, Laitz Thiago, Lotufo Roberto, Nogueira Rodrigo
 conference: "Arxiv"
 year: 2023

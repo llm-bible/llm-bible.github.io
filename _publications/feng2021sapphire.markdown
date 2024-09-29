@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SAPPHIRE Approaches for Enhanced Concept-to-Text Generation
+title: SAPPHIRE Approaches For Enhanced Concept-to-text Generation
 authors: Feng Steven Y., Huynh Jessica, Narisetty Chaitanya, Hovy Eduard, Gangal Varun
 conference: "Arxiv"
 year: 2021

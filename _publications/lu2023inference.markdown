@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Inference-Time Policy Adapters (IPA) Tailoring Extreme-Scale LMs without Fine-tuning
+title: Inference-time Policy Adapters (IPA) Tailoring Extreme-scale Lms Without Fine-tuning
 authors: Lu Ximing, Brahman Faeze, West Peter, Jang Jaehun, Chandu Khyathi, Ravichander Abhilasha, Qin Lianhui, Ammanabrolu Prithviraj, Jiang Liwei, Ramnath Sahana, Dziri Nouha, Fisher Jillian, Lin Bill Yuchen, Hallinan Skyler, Ren Xiang, Welleck Sean, Choi Yejin
 conference: "Arxiv"
 year: 2023

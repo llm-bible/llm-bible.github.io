@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Landmark Attention Random-Access Infinite Context Length for Transformers
+title: Landmark Attention Random-access Infinite Context Length For Transformers
 authors: Mohtashami Amirkeivan, Jaggi Martin
 conference: "Arxiv"
 year: 2023

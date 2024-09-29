@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FreeLM Fine-Tuning-Free Language Model
+title: Freelm Fine-tuning-free Language Model
 authors: Li Xiang, Jiang Xin, Meng Xuying, Sun Aixin, Wang Yequan
 conference: "Arxiv"
 year: 2023

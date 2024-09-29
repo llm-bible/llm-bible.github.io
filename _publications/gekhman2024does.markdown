@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations
+title: Does Fine-tuning Llms On New Knowledge Encourage Hallucinations
 authors: Gekhman Zorik, Yona Gal, Aharoni Roee, Eyal Matan, Feder Amir, Reichart Roi, Herzig Jonathan
 conference: "Arxiv"
 year: 2024

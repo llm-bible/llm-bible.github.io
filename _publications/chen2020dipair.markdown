@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DiPair Fast and Accurate Distillation for Trillion-Scale Text Matching and Pair Modeling
+title: Dipair Fast And Accurate Distillation For Trillion-scale Text Matching And Pair Modeling
 authors: Chen Jiecao, Yang Liu, Raman Karthik, Bendersky Michael, Yeh Jung-jung, Zhou Yun, Najork Marc, Cai Danyang, Emadzadeh Ehsan
 conference: "Arxiv"
 year: 2020

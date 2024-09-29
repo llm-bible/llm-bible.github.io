@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Preparing Lessons for Progressive Training on Language Models
+title: Preparing Lessons For Progressive Training On Language Models
 authors: Pan Yu, Yuan Ye, Yin Yichun, Shi Jiaxin, Xu Zenglin, Zhang Ming, Shang Lifeng, Jiang Xin, Liu Qun
 conference: "Arxiv"
 year: 2024

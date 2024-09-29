@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Domain-Specific Text Generation for Machine Translation
+title: Domain-specific Text Generation For Machine Translation
 authors: Moslem Yasmin, Haque Rejwanul, Kelleher John D., Way Andy
 conference: "Proceedings of the"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: KnowledGPT Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases
+title: Knowledgpt Enhancing Large Language Models With Retrieval And Storage Access On Knowledge Bases
 authors: Wang Xintao, Yang Qianwen, Qiu Yongting, Liang Jiaqing, He Qianyu, Gu Zhouhong, Xiao Yanghua, Wang Wei
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SoK Memorization in General-Purpose Large Language Models
+title: Sok Memorization In General-purpose Large Language Models
 authors: Hartmann Valentin, Suri Anshuman, Bindschaedler Vincent, Evans David, Tople Shruti, West Robert
 conference: "Arxiv"
 year: 2023

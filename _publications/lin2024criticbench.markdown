@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CriticBench Benchmarking LLMs for Critique-Correct Reasoning
+title: Criticbench Benchmarking Llms For Critique-correct Reasoning
 authors: Lin Zicheng, Gou Zhibin, Liang Tian, Luo Ruilin, Liu Haowei, Yang Yujiu
 conference: "Arxiv"
 year: 2024

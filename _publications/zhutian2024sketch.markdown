@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sketch Then Generate Providing Incremental User Feedback and Guiding LLM Code Generation through Language-Oriented Code Sketches
+title: Sketch Then Generate Providing Incremental User Feedback And Guiding LLM Code Generation Through Language-oriented Code Sketches
 authors: Zhu-tian Chen, Xiong Zeyu, Yao Xiaoshuo, Glassman Elena
 conference: "Arxiv"
 year: 2024

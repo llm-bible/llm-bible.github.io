@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is A Picture Worth A Thousand Words Delving Into Spatial Reasoning for Vision Language Models
+title: Is A Picture Worth A Thousand Words Delving Into Spatial Reasoning For Vision Language Models
 authors: Wang Jiayu, Ming Yifei, Shi Zhenmei, Vineet Vibhav, Wang Xin, Joshi Neel
 conference: "Arxiv"
 year: 2024

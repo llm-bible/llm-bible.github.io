@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AutoTutor meets Large Language Models A Language Model Tutor with Rich Pedagogy and Guardrails
+title: Autotutor Meets Large Language Models A Language Model Tutor With Rich Pedagogy And Guardrails
 authors: Chowdhury Sankalan Pal, Zouhar Vilém, Sachan Mrinmaya
 conference: "Arxiv"
 year: 2024

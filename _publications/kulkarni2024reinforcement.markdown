@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reinforcement Learning for Optimizing RAG for Domain Chatbots
+title: Reinforcement Learning For Optimizing RAG For Domain Chatbots
 authors: Kulkarni Mandar, Tangarajan Praveen, Kim Kyung, Trivedi Anusua
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Large Language Models for Code Explanation
+title: Exploring Large Language Models For Code Explanation
 authors: Bhattacharya Paheli, Chakraborty Manojit, Palepu Kartheek N S N, Pandey Vikas, Dindorkar Ishan, Rajpurohit Rakesh, Gupta Rishabh
 conference: "Arxiv"
 year: 2023

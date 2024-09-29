@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Explainable AI Reloaded Challenging the XAI Status Quo in the Era of Large Language Models
+title: Explainable AI Reloaded Challenging The XAI Status Quo In The Era Of Large Language Models
 authors: Ehsan Upol, Riedl Mark O.
 conference: "Arxiv"
 year: 2024

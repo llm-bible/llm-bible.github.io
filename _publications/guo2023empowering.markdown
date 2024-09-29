@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Empowering Working Memory for Large Language Model Agents
+title: Empowering Working Memory For Large Language Model Agents
 authors: Guo Jing, Li Nan, Qi Jianchuan, Yang Hang, Li Ruiqiao, Feng Yuzhen, Zhang Si, Xu Ming
 conference: "Arxiv"
 year: 2023

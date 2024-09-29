@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Token-Level Adversarial Prompt Detection Based on Perplexity Measures and Contextual Information
+title: Token-level Adversarial Prompt Detection Based On Perplexity Measures And Contextual Information
 authors: Hu Zhengmian, Wu Gang, Mitra Saayan, Zhang Ruiyi, Sun Tong, Huang Heng, Swaminathan Viswanathan
 conference: "Arxiv"
 year: 2023

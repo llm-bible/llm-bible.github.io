@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Using Adaptive Empathetic Responses for Teaching English
+title: Using Adaptive Empathetic Responses For Teaching English
 authors: Siyan Li, Shao Teresa, Yu Zhou, Hirschberg Julia
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLaRA Large Language-Recommendation Assistant
+title: Llara Large Language-recommendation Assistant
 authors: Jiayi Liao, Sihang Li, Zhengyi Yang, Jiancan Wu, Yancheng Yuan, Xiang Wang, Xiangnan He
 conference: "Arxiv"
 year: 2023

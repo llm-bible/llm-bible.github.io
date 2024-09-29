@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Fine-tuning ChatGPT for News Recommendation
+title: Exploring Fine-tuning Chatgpt For News Recommendation
 authors: Li Xinyi, Zhang Yongfeng, Malthouse Edward C
 conference: "Arxiv"
 year: 2023

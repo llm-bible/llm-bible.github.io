@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Larimar Large Language Models with Episodic Memory Control
+title: Larimar Large Language Models With Episodic Memory Control
 authors: Das Payel, Chaudhury Subhajit, Nelson Elliot, Melnyk Igor, Swaminathan Sarath, Dai Sihui, Lozano Aurélie, Kollias Georgios, Chenthamarakshan Vijil, Jiří, Navrátil, Dan Soham, Chen Pin-yu
 conference: "Arxiv"
 year: 2024

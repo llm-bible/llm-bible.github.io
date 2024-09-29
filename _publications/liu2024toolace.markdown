@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ToolACE Winning the Points of LLM Function Calling
+title: Toolace Winning The Points Of LLM Function Calling
 authors: Liu Weiwen, Huang Xu, Zeng Xingshan, Hao Xinlong, Yu Shuai, Li Dexun, Wang Shuai, Gan Weinan, Liu Zhengying, Yu Yuanqing, Wang Zezhong, Wang Yuxian, Ning Wu, Hou Yutai, Wang Bin, Wu Chuhan, Wang Xinzhi, Liu Yong, Wang Yasheng, Tang Duyu, Tu Dandan, Shang Lifeng, Jiang Xin, Tang Ruiming, Lian Defu, Liu Qun, Chen Enhong
 conference: "Arxiv"
 year: 2024

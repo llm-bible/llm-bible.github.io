@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding Linear Probing then Fine-tuning Language Models from NTK Perspective
+title: Understanding Linear Probing Then Fine-tuning Language Models From NTK Perspective
 authors: Tomihari Akiyoshi, Sato Issei
 conference: "Arxiv"
 year: 2024

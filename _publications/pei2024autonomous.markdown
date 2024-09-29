@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Autonomous Workflow for Multimodal Fine-Grained Training Assistants Towards Mixed Reality
+title: Autonomous Workflow For Multimodal Fine-grained Training Assistants Towards Mixed Reality
 authors: Pei Jiahuan, Viola Irene, Huang Haochen, Wang Junxiao, Ahsan Moonisa, Ye Fanghua, Yiming Jiang, Sai Yao, Wang Di, Chen Zhumin, Ren Pengjie, Cesar Pablo
 conference: "Arxiv"
 year: 2024

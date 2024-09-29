@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Comprehensive Survey on Evaluating Large Language Model Applications in the Medical Industry
+title: A Comprehensive Survey On Evaluating Large Language Model Applications In The Medical Industry
 authors: Huang Yining, Tang Keke, Chen Meilian, Wang Boyuan
 conference: "Arxiv"
 year: 2024

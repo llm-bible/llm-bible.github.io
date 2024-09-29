@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluation of Language Models in the Medical Context Under Resource-Constrained Settings
+title: Evaluation Of Language Models In The Medical Context Under Resource-constrained Settings
 authors: Posada Andrea, Rueckert Daniel, Meissen Felix, Müller Philip
 conference: "Arxiv"
 year: 2024

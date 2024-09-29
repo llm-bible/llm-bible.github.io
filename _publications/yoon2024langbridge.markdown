@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LangBridge Multilingual Reasoning Without Multilingual Supervision
+title: Langbridge Multilingual Reasoning Without Multilingual Supervision
 authors: Yoon Dongkeun, Jang Joel, Kim Sungdong, Kim Seungone, Shafayat Sheikh, Seo Minjoon
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: exBERT A Visual Analysis Tool to Explore Learned Representations in Transformers Models
+title: Exbert A Visual Analysis Tool To Explore Learned Representations In Transformers Models
 authors: Hoover Benjamin, Strobelt Hendrik, Gehrmann Sebastian
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DExperts Decoding-Time Controlled Text Generation with Experts and Anti-Experts
+title: Dexperts Decoding-time Controlled Text Generation With Experts And Anti-experts
 authors: Liu Alisa, Sap Maarten, Lu Ximing, Swayamdipta Swabha, Bhagavatula Chandra, Smith Noah A., Choi Yejin
 conference: "Arxiv"
 year: 2021

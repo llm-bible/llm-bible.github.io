@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Comparing LLM prompting with Cross-lingual transfer performance on Indigenous and Low-resource Brazilian Languages
+title: Comparing LLM Prompting With Cross-lingual Transfer Performance On Indigenous And Low-resource Brazilian Languages
 authors: Adelani David Ifeoluwa, Doğruöz A. Seza, Coneglian André, Ojha Atul Kr.
 conference: "Arxiv"
 year: 2024

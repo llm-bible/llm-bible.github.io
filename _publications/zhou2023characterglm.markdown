@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CharacterGLM Customizing Chinese Conversational AI Characters with Large Language Models
+title: Characterglm Customizing Chinese Conversational AI Characters With Large Language Models
 authors: Zhou Jinfeng, Chen Zhuang, Wan Dazhen, Wen Bosi, Song Yi, Yu Jifan, Huang Yongkang, Peng Libiao, Yang Jiaming, Xiao Xiyao, Sabour Sahand, Zhang Xiaohan, Hou Wenjing, Zhang Yijia, Dong Yuxiao, Tang Jie, Huang Minlie
 conference: "Arxiv"
 year: 2023

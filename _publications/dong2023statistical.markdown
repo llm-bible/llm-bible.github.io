@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Statistical Knowledge Assessment for Large Language Models
+title: Statistical Knowledge Assessment For Large Language Models
 authors: Dong Qingxiu, Xu Jingjing, Kong Lingpeng, Sui Zhifang, Li Lei
 conference: "Arxiv"
 year: 2023

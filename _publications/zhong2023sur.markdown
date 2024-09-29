@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SUR-adapter Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models
+title: Sur-adapter Enhancing Text-to-image Pre-trained Diffusion Models With Large Language Models
 authors: Zhong Shanshan, Huang Zhongzhan, Wen Wushao, Qin Jinghui, Lin Liang
 conference: "Arxiv"
 year: 2023

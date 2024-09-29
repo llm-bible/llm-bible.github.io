@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A LLM Benchmark based on the Minecraft Builder Dialog Agent Task
+title: A LLM Benchmark Based On The Minecraft Builder Dialog Agent Task
 authors: Madge Chris, Poesio Massimo
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatbot is Not All You Need Information-rich Prompting for More Realistic Responses
+title: Chatbot Is Not All You Need Information-rich Prompting For More Realistic Responses
 authors: Jeong Seokhoon, Makhmud Assentay
 conference: "Arxiv"
 year: 2023

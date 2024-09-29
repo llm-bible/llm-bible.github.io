@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey on Integration of Large Language Models with Intelligent Robots
+title: A Survey On Integration Of Large Language Models With Intelligent Robots
 authors: Kim Yeseung, Kim Dohyun, Choi Jieun, Park Jisang, Oh Nayoung, Park Daehyung
 conference: "Arxiv"
 year: 2024

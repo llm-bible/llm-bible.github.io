@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Integrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives
+title: An Integrative Survey On Mental Health Conversational Agents To Bridge Computer Science And Medical Perspectives
 authors: Cho Young Min, Rai Sunny, Ungar Lyle, Sedoc João, Guntuku Sharath Chandra
 conference: "Arxiv"
 year: 2023

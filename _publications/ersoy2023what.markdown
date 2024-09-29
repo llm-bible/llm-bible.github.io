@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: In What Languages are Generative Language Models the Most Formal Analyzing Formality Distribution across Languages
+title: In What Languages Are Generative Language Models The Most Formal Analyzing Formality Distribution Across Languages
 authors: Ersoy Asım, Vizcarra Gerson, Mayeesha Tasmiah Tahsin, Muller Benjamin
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CoAScore Chain-of-Aspects Prompting for NLG Evaluation
+title: Coascore Chain-of-aspects Prompting For NLG Evaluation
 authors: Gong Peiyuan, Mao Jiaxin
 conference: "Arxiv"
 year: 2023

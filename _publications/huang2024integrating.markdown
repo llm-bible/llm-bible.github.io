@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Integrating Multi-scale Contextualized Information for Byte-based Neural Machine Translation
+title: Integrating Multi-scale Contextualized Information For Byte-based Neural Machine Translation
 authors: Huang Langlin, Feng Yang
 conference: "Arxiv"
 year: 2024

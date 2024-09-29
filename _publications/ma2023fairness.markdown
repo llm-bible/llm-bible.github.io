@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fairness-guided Few-shot Prompting for Large Language Models
+title: Fairness-guided Few-shot Prompting For Large Language Models
 authors: Ma Huan, Zhang Changqing, Bian Yatao, Liu Lemao, Zhang Zhirui, Zhao Peilin, Zhang Shu, Fu Huazhu, Hu Qinghua, Wu Bingzhe
 conference: "Arxiv"
 year: 2023

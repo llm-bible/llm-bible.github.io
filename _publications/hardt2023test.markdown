@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Test-Time Training on Nearest Neighbors for Large Language Models
+title: Test-time Training On Nearest Neighbors For Large Language Models
 authors: Hardt Moritz, Sun Yu
 conference: "Arxiv"
 year: 2023

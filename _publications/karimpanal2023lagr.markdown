@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LaGR-SEQ Language-Guided Reinforcement Learning with Sample-Efficient Querying
+title: Lagr-seq Language-guided Reinforcement Learning With Sample-efficient Querying
 authors: Karimpanal Thommen George, Semage Laknath Buddhika, Rana Santu, Le Hung, Tran Truyen, Gupta Sunil, Venkatesh Svetha
 conference: "Arxiv"
 year: 2023

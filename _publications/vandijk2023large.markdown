@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models The Need for Nuance in Current Debates and a Pragmatic Perspective on Understanding
+title: Large Language Models The Need For Nuance In Current Debates And A Pragmatic Perspective On Understanding
 authors: Van Dijk Bram M. A., Kouwenhoven Tom, Spruit Marco R., Van Duijn Max J.
 conference: "Arxiv"
 year: 2023

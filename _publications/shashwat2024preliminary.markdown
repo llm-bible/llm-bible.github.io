@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Preliminary Study on Using Large Language Models in Software Pentesting
+title: A Preliminary Study On Using Large Language Models In Software Pentesting
 authors: Shashwat Kumar, Hahn Francis, Ou Xinming, Goldgof Dmitry, Hall Lawrence, Ligatti Jay, Rajgopalan S. Raj, Tabari Armin Ziaie
 conference: "Arxiv"
 year: 2024

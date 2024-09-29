@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Development of the ChatGPT Generative Artificial Intelligence and Natural Large Language Models for Accountable Reporting and Use (CANGARU) Guidelines
+title: Development Of The Chatgpt Generative Artificial Intelligence And Natural Large Language Models For Accountable Reporting And Use (CANGARU) Guidelines
 authors: Cacciamani Giovanni E., Eppler Michael B., Ganjavi Conner, Pekan Asli, Biedermann Brett, Collins Gary S., Gill Inderbir S.
 conference: "Arxiv"
 year: 2023

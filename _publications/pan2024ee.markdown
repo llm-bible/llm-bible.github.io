@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EE-Tuning An Economical yet Scalable Solution for Tuning Early-Exit Large Language Models
+title: Ee-tuning An Economical Yet Scalable Solution For Tuning Early-exit Large Language Models
 authors: Pan Xuchen, Chen Yanxi, Li Yaliang, Ding Bolin, Zhou Jingren
 conference: "Arxiv"
 year: 2024

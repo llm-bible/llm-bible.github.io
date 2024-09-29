@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompting a Large Language Model to Generate Diverse Motivational Messages A Comparison with Human-Written Messages
+title: Prompting A Large Language Model To Generate Diverse Motivational Messages A Comparison With Human-written Messages
 authors: Cox Samuel Rhys, Abdul Ashraf, Ooi Wei Tsang
 conference: "Arxiv"
 year: 2023

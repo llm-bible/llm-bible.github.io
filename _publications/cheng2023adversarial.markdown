@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adversarial Preference Optimization Enhancing Your Alignment via RM-LLM Game
+title: Adversarial Preference Optimization Enhancing Your Alignment Via RM-LLM Game
 authors: Cheng Pengyu, Yang Yifan, Li Jian, Dai Yong, Hu Tianhao, Cao Peixin, Du Nan, Li Xiaolong
 conference: "Arxiv"
 year: 2023

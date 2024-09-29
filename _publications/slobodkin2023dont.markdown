@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dont Add dont Miss Effective Content Preserving Generation from Pre-Selected Text Spans
+title: Dont Add Dont Miss Effective Content Preserving Generation From Pre-selected Text Spans
 authors: Slobodkin Aviv, Caciularu Avi, Hirsch Eran, Dagan Ido
 conference: "Arxiv"
 year: 2023

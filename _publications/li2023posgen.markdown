@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: POSGen Personalized Opening Sentence Generation for Online Insurance Sales
+title: Posgen Personalized Opening Sentence Generation For Online Insurance Sales
 authors: Li Yu, Zhang Yi, Wu Weijia, Zhou Zimu, Li Qiang
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChEDDAR Student-ChatGPT Dialogue in EFL Writing Education
+title: Cheddar Student-chatgpt Dialogue In EFL Writing Education
 authors: Han Jieun, Yoo Haneul, Myung Junho, Kim Minsun, Lee Tak Yeon, Ahn So-yeon, Oh Alice
 conference: "Arxiv"
 year: 2023

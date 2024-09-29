@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is ChatGPT Fair for Recommendation Evaluating Fairness in Large Language Model Recommendation
+title: Is Chatgpt Fair For Recommendation Evaluating Fairness In Large Language Model Recommendation
 authors: Jizhi Zhang, Keqin Bao, Yang Zhang, Wenjie Wang, Fuli Feng, Xiangnan He
 conference: "Arxiv"
 year: 2023

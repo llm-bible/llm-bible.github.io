@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-tuning with HED-IT The impact of human post-editing for dialogical language models
+title: Fine-tuning With HED-IT The Impact Of Human Post-editing For Dialogical Language Models
 authors: Occhipinti Daniela, Marchi Michele, Mondella Irene, Lai Huiyuan, Dell'orletta Felice, Nissim Malvina, Guerini Marco
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring the Relationship between LLM Hallucinations and Prompt Linguistic Nuances Readability Formality and Concreteness
+title: Exploring The Relationship Between LLM Hallucinations And Prompt Linguistic Nuances Readability Formality And Concreteness
 authors: Rawte Vipula, Priya Prachi, Tonmoy S. M Towhidul Islam, Zaman S M Mehedi, Sheth Amit, Das Amitava
 conference: "Arxiv"
 year: 2023

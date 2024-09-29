@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instruction-following Evaluation through Verbalizer Manipulation
+title: Instruction-following Evaluation Through Verbalizer Manipulation
 authors: Li Shiyang, Yan Jun, Wang Hai, Tang Zheng, Ren Xiang, Srinivasan Vijay, Jin Hongxia
 conference: "Arxiv"
 year: 2023

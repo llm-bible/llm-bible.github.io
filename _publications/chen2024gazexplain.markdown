@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GazeXplain Learning to Predict Natural Language Explanations of Visual Scanpaths
+title: Gazexplain Learning To Predict Natural Language Explanations Of Visual Scanpaths
 authors: Chen Xianyu, Jiang Ming, Zhao Qi
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Triggering Multi-Hop Reasoning for Question Answering in Language Models using Soft Prompts and Random Walks
+title: Triggering Multi-hop Reasoning For Question Answering In Language Models Using Soft Prompts And Random Walks
 authors: Misra Kanishka, Santos Cicero Nogueira Dos, Shakeri Siamak
 conference: "Arxiv"
 year: 2023

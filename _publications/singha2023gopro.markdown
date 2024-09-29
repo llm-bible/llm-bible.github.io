@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GOPro Generate and Optimize Prompts in CLIP using Self-Supervised Learning
+title: Gopro Generate And Optimize Prompts In CLIP Using Self-supervised Learning
 authors: Singha Mainak, Jha Ankit, Banerjee Biplab
 conference: "Arxiv"
 year: 2023

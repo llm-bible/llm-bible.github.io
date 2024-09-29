@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Taking a Deep Breath Enhancing Language Modeling of Large Language Models with Sentinel Tokens
+title: Taking A Deep Breath Enhancing Language Modeling Of Large Language Models With Sentinel Tokens
 authors: Luo Weiyao, Zheng Suncong, Xia Heming, Wang Weikang, Lei Yan, Liu Tianyu, Chen Shuang, Sui Zhifang
 conference: "Arxiv"
 year: 2024

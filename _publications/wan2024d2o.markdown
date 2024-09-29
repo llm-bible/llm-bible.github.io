@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: D2O Dynamic Discriminative Operations for Efficient Generative Inference of Large Language Models
+title: D2O Dynamic Discriminative Operations For Efficient Generative Inference Of Large Language Models
 authors: Wan Zhongwei, Wu Xinjian, Zhang Yu, Xin Yi, Tao Chaofan, Zhu Zhihong, Wang Xin, Luo Siqi, Xiong Jing, Zhang Mi
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: InstructAlign High-and-Low Resource Language Alignment via Continual Crosslingual Instruction Tuning
+title: Instructalign High-and-low Resource Language Alignment Via Continual Crosslingual Instruction Tuning
 authors: Cahyawijaya Samuel, Lovenia Holy, Yu Tiezheng, Chung Willy, Fung Pascale
 conference: "Arxiv"
 year: 2023

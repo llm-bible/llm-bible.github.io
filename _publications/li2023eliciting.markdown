@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Eliciting the Translation Ability of Large Language Models via Multilingual Finetuning with Translation Instructions
+title: Eliciting The Translation Ability Of Large Language Models Via Multilingual Finetuning With Translation Instructions
 authors: Li Jiahuan, Zhou Hao, Huang Shujian, Cheng Shanbo, Chen Jiajun
 conference: "Arxiv"
 year: 2023

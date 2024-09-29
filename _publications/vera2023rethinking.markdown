@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rethinking the Evaluating Framework for Natural Language Understanding in AI Systems Language Acquisition as a Core for Future Metrics
+title: Rethinking The Evaluating Framework For Natural Language Understanding In AI Systems Language Acquisition As A Core For Future Metrics
 authors: Vera Patricio, Moya Pedro, Barraza Lisa
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Plausibility Processing in Transformer Language Models Focusing on the Role of Attention Heads in GPT
+title: Plausibility Processing In Transformer Language Models Focusing On The Role Of Attention Heads In GPT
 authors: Ryu Soo Hyun
 conference: "Arxiv"
 year: 2023

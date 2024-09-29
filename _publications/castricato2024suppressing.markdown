@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Suppressing Pink Elephants with Direct Principle Feedback
+title: Suppressing Pink Elephants With Direct Principle Feedback
 authors: Castricato Louis, Lile Nathan, Anand Suraj, Schoelkopf Hailey, Verma Siddharth, Biderman Stella
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zero-Shot Goal-Directed Dialogue via RL on Imagined Conversations
+title: Zero-shot Goal-directed Dialogue Via RL On Imagined Conversations
 authors: Hong Joey, Levine Sergey, Dragan Anca
 conference: "Arxiv"
 year: 2023

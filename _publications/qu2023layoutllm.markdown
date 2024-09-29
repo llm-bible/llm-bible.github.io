@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LayoutLLM-T2I Eliciting Layout Guidance from LLM for Text-to-Image Generation
+title: Layoutllm-t2i Eliciting Layout Guidance From LLM For Text-to-image Generation
 authors: Qu Leigang, Wu Shengqiong, Fei Hao, Nie Liqiang, Chua Tat-seng
 conference: "Arxiv"
 year: 2023

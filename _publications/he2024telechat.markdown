@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TeleChat Technical Report
+title: Telechat Technical Report
 authors: He Zhongjiang, Wang Zihan, Liu Xinzhang, Liu Shixuan, Yao Yitong, Huang Yuyao, Li Xuelong, Li Yongxiang, Che Zhonghao, Zhang Zhaoxi, Wang Yan, Wang Xin, Pu Luwen, Xu Huinan, Fang Ruiyu, Zhao Yu, Zhang Jie, Huang Xiaomeng, Lu Zhilong, Peng Jiaxin, Zheng Wenjun, Wang Shiquan, Yang Bingkai, He Xuewei, Jiang Zhuoru, Xie Qiyi, Zhang Yanhan, Li Zhongqiu, Shi Lingling, Fu Weiwei, Zhang Yin, Huang Zilu, Xiong Sishi, Zhang Yuxiang, Wang Chao, Song Shuangyong
 conference: "Arxiv"
 year: 2024

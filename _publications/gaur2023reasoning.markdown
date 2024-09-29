@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reasoning in Large Language Models Through Symbolic Math Word Problems
+title: Reasoning In Large Language Models Through Symbolic Math Word Problems
 authors: Gaur Vedant, Saunshi Nikunj
 conference: "Arxiv"
 year: 2023

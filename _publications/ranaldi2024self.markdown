@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-Refine Instruction-Tuning for Aligning Reasoning in Language Models
+title: Self-refine Instruction-tuning For Aligning Reasoning In Language Models
 authors: Ranaldi Leonardo, Freitas Andrè
 conference: "Arxiv"
 year: 2024

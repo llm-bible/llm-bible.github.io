@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unleashing the Potential of Large Language Models for Predictive Tabular Tasks in Data Science
+title: Unleashing The Potential Of Large Language Models For Predictive Tabular Tasks In Data Science
 authors: Yang Yazheng, Wang Yuqi, Sen Sankalok, Li Lei, Liu Qi
 conference: "Arxiv"
 year: 2024

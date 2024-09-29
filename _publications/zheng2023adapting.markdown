@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation
+title: Adapting Large Language Models By Integrating Collaborative Semantics For Recommendation
 authors: Zheng Bowen, Hou Yupeng, Lu Hongyu, Chen Yu, Zhao Wayne Xin, Chen Ming, Wen Ji-rong
 conference: "Arxiv"
 year: 2023

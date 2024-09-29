@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attention-likelihood relationship in transformers
+title: Attention-likelihood Relationship In Transformers
 authors: Ruscio Valeria, Maiorca Valentino, Silvestri Fabrizio
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLaVA-Chef A Multi-modal Generative Model for Food Recipes
+title: Llava-chef A Multi-modal Generative Model For Food Recipes
 authors: Mohbat Fnu, Zaki Mohammed J.
 conference: "Arxiv"
 year: 2024

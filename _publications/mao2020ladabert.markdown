@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LadaBERT Lightweight Adaptation of BERT through Hybrid Model Compression
+title: Ladabert Lightweight Adaptation Of BERT Through Hybrid Model Compression
 authors: Mao Yihuan, Wang Yujing, Wu Chufan, Zhang Chen, Wang Yang, Yang Yaming, Zhang Quanlu, Tong Yunhai, Bai Jing
 conference: "Arxiv"
 year: 2020

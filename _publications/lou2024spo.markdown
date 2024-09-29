@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SPO Multi-Dimensional Preference Sequential Alignment With Implicit Reward Modeling
+title: SPO Multi-dimensional Preference Sequential Alignment With Implicit Reward Modeling
 authors: Lou Xingzhou, Zhang Junge, Xie Jian, Liu Lifeng, Yan Dong, Huang Kaiqi
 conference: "Arxiv"
 year: 2024

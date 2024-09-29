@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models are Superpositions of All Characters Attaining Arbitrary Role-play via Self-Alignment
+title: Large Language Models Are Superpositions Of All Characters Attaining Arbitrary Role-play Via Self-alignment
 authors: Lu Keming, Yu Bowen, Zhou Chang, Zhou Jingren
 conference: "Arxiv"
 year: 2024

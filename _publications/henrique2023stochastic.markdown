@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Stochastic Parrots Looking for Stochastic Parrots LLMs are Easy to Fine-Tune and Hard to Detect with other LLMs
+title: Stochastic Parrots Looking For Stochastic Parrots Llms Are Easy To Fine-tune And Hard To Detect With Other Llms
 authors: Henrique Da Silva Gameiro, Kucharavy Andrei, Guerraoui Rachid
 conference: "Arxiv"
 year: 2023

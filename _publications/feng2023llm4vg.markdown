@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM4VG Large Language Models Evaluation for Video Grounding
+title: LLM4VG Large Language Models Evaluation For Video Grounding
 authors: Feng Wei, Wang Xin, Chen Hong, Zhang Zeyang, Chen Houlun, Song Zihan, Zhou Yuwei, Yang Yuekui, Wu Haiyang, Zhu Wenwu
 conference: "Arxiv"
 year: 2023

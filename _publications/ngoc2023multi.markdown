@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-dimensional data refining strategy for effective fine-tuning LLMs
+title: Multi-dimensional Data Refining Strategy For Effective Fine-tuning Llms
 authors: Ngoc Thanh Nguyen, Tran Quang Nhat, Tang Arthur, Nguyen Bao, Nguyen Thuy, Pham Thanh
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Studying and improving reasoning in humans and machines
+title: Studying And Improving Reasoning In Humans And Machines
 authors: Yax Nicolas, Anlló Hernan, Palminteri Stefano
 conference: "Arxiv"
 year: 2023

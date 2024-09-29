@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Yuan 1.0 Large-Scale Pre-trained Language Model in Zero-Shot and Few-Shot Learning
+title: Yuan 1.0 Large-scale Pre-trained Language Model In Zero-shot And Few-shot Learning
 authors: Wu Shaohua, Zhao Xudong, Yu Tong, Zhang Rongguo, Shen Chong, Liu Hongli, Li Feng, Zhu Hong, Luo Jiangang, Xu Liang, Zhang Xuanwei
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Larger They Are the Harder They Fail Language Models do not Recognize Identifier Swaps in Python
+title: The Larger They Are The Harder They Fail Language Models Do Not Recognize Identifier Swaps In Python
 authors: Miceli-barone Antonio Valerio, Barez Fazl, Konstas Ioannis, Cohen Shay B.
 conference: "Arxiv"
 year: 2023

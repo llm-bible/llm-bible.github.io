@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Measuring and Narrowing the Compositionality Gap in Language Models
+title: Measuring And Narrowing The Compositionality Gap In Language Models
 authors: Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, Mike Lewis
 conference: "Arxiv"
 year: 2022

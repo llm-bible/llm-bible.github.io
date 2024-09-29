@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating Data Contamination for Pre-training Language Models
+title: Investigating Data Contamination For Pre-training Language Models
 authors: Jiang Minhao, Liu Ken Ziyu, Zhong Ming, Schaeffer Rylan, Ouyang Siru, Han Jiawei, Koyejo Sanmi
 conference: "Arxiv"
 year: 2024

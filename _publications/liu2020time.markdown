@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TIME Text and Image Mutual-Translation Adversarial Networks
+title: TIME Text And Image Mutual-translation Adversarial Networks
 authors: Liu Bingchen, Song Kunpeng, Zhu Yizhe, De Melo Gerard, Elgammal Ahmed
 conference: "Arxiv"
 year: 2020

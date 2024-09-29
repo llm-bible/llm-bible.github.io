@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: POUF Prompt-oriented unsupervised fine-tuning for large pre-trained models
+title: POUF Prompt-oriented Unsupervised Fine-tuning For Large Pre-trained Models
 authors: Tanwisuth Korawat, Zhang Shujian, Zheng Huangjie, He Pengcheng, Zhou Mingyuan
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Static to Dynamic A Continual Learning Framework for Large Language Models
+title: From Static To Dynamic A Continual Learning Framework For Large Language Models
 authors: Du Mingzhe, Luu Anh Tuan, Ji Bin, Ng See-kiong
 conference: "Arxiv"
 year: 2023

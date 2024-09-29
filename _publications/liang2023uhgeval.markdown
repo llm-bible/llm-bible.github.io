@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: UHGEval Benchmarking the Hallucination of Chinese Large Language Models via Unconstrained Generation
+title: Uhgeval Benchmarking The Hallucination Of Chinese Large Language Models Via Unconstrained Generation
 authors: Liang Xun, Song Shichao, Niu Simin, Li Zhiyu, Xiong Feiyu, Tang Bo, Wang Yezhaohui, He Dawei, Cheng Peng, Wang Zhonghao, Deng Haiying
 conference: "Arxiv"
 year: 2023

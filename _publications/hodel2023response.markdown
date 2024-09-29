@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Response Emergent analogical reasoning in large language models
+title: Response Emergent Analogical Reasoning In Large Language Models
 authors: Hodel Damian, West Jevin
 conference: "Arxiv"
 year: 2023

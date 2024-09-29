@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA
+title: An Empirical Study Of GPT-3 For Few-shot Knowledge-based VQA
 authors: Yang Zhengyuan, Gan Zhe, Wang Jianfeng, Hu Xiaowei, Lu Yumao, Liu Zicheng, Wang Lijuan
 conference: "Arxiv"
 year: 2021

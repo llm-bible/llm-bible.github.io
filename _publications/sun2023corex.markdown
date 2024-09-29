@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Corex Pushing the Boundaries of Complex Reasoning through Multi-Model Collaboration
+title: Corex Pushing The Boundaries Of Complex Reasoning Through Multi-model Collaboration
 authors: Sun Qiushi, Yin Zhangyue, Li Xiang, Wu Zhiyong, Qiu Xipeng, Kong Lingpeng
 conference: "Arxiv"
 year: 2023

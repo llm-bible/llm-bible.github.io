@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: HARE HumAn pRiors a key to small language model Efficiency
+title: HARE Human Priors A Key To Small Language Model Efficiency
 authors: Zhang Lingyun, Jin Bin, Ge Gaojian, Liu Lunhui, Shen Xuewen, Wu Mingyong, Zhang Houqian, Jiang Yongneng, Chen Shiqi, Pu Shi
 conference: "Arxiv"
 year: 2024

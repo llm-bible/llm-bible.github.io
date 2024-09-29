@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recent Advances in Natural Language Processing via Large Pre-Trained Language Models A Survey
+title: Recent Advances In Natural Language Processing Via Large Pre-trained Language Models A Survey
 authors: Min Bonan, Ross Hayley, Sulem Elior, Veyseh Amir Pouran Ben, Nguyen Thien Huu, Sainz Oscar, Agirre Eneko, Heinz Ilana, Roth Dan
 conference: "Arxiv"
 year: 2021

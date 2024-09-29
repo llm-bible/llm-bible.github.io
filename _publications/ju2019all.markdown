@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: All-in-One Image-Grounded Conversational Agents
+title: All-in-one Image-grounded Conversational Agents
 authors: Ju Da, Shuster Kurt, Boureau Y-lan, Weston Jason
 conference: "Arxiv"
 year: 2019

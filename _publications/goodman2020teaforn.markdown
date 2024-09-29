@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TeaForN Teacher-Forcing with N-grams
+title: Teaforn Teacher-forcing With N-grams
 authors: Goodman Sebastian, Ding Nan, Soricut Radu
 conference: "Arxiv"
 year: 2020

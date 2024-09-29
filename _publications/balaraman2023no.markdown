@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: No Thatx27;s Not What I Meant Handling Third Position Repair In Conversational Question Answering
+title: No Thats Not What I Meant Handling Third Position Repair In Conversational Question Answering
 authors: Balaraman Vevake, Eshghi Arash, Konstas Ioannis, Papaioannou Ioannis
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RE-AdaptIR Improving Information Retrieval through Reverse Engineered Adaptation
+title: Re-adaptir Improving Information Retrieval Through Reverse Engineered Adaptation
 authors: Fleshman William, Van Durme Benjamin
 conference: "Arxiv"
 year: 2024

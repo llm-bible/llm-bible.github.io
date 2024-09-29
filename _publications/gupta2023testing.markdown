@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Testing LLM performance on the Physics GRE some observations
+title: Testing LLM Performance On The Physics GRE Some Observations
 authors: Gupta Pranav
 conference: "Arxiv"
 year: 2023

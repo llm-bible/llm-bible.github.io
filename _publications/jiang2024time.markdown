@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Time Matters Enhancing Pre-trained News Recommendation Models with Robust User Dwell Time Injection
+title: Time Matters Enhancing Pre-trained News Recommendation Models With Robust User Dwell Time Injection
 authors: Jiang Hao, Li Chuanzhen, An Mingxiao
 conference: "Arxiv"
 year: 2024

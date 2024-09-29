@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generating Training Data with Language Models Towards Zero-Shot Language Understanding
+title: Generating Training Data With Language Models Towards Zero-shot Language Understanding
 authors: Meng Yu, Huang Jiaxin, Zhang Yu, Han Jiawei
 conference: "Arxiv"
 year: 2022

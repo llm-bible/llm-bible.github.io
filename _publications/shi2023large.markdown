@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Can Be Easily Distracted by Irrelevant Context
+title: Large Language Models Can Be Easily Distracted By Irrelevant Context
 authors: Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, Denny Zhou
 conference: "Arxiv"
 year: 2023

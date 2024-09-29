@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PixT3 Pixel-based Table-To-Text Generation
+title: Pixt3 Pixel-based Table-to-text Generation
 authors: Alonso Iñigo, Agirre Eneko, Lapata Mirella
 conference: "Arxiv"
 year: 2023

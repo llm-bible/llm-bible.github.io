@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding and Improving In-Context Learning on Vision-language Models
+title: Understanding And Improving In-context Learning On Vision-language Models
 authors: Chen Shuo, Han Zhen, He Bailan, Buckley Mark, Torr Philip, Tresp Volker, Gu Jindong
 conference: "Arxiv"
 year: 2023

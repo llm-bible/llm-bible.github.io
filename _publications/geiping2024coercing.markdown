@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Coercing LLMs to do and reveal (almost) anything
+title: Coercing Llms To Do And Reveal (almost) Anything
 authors: Geiping Jonas, Stein Alex, Shu Manli, Saifullah Khalid, Wen Yuxin, Goldstein Tom
 conference: "Arxiv"
 year: 2024

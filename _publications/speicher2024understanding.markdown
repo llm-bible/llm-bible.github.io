@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding Memorisation in LLMs Dynamics Influencing Factors and Implications
+title: Understanding Memorisation In Llms Dynamics Influencing Factors And Implications
 authors: Speicher Till, Khan Mohammad Aflah, Wu Qinyuan, Nanda Vedant, Das Soumi, Ghosh Bishwamittra, Gummadi Krishna P., Terzi Evimaria
 conference: "Arxiv"
 year: 2024

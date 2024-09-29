@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Long Story Short a Summarize-then-Search Method for Long Video Question Answering
+title: Long Story Short A Summarize-then-search Method For Long Video Question Answering
 authors: Chung Jiwan, Yu Youngjae
 conference: "Arxiv"
 year: 2023

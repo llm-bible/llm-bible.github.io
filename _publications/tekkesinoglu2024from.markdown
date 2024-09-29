@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Feature Importance to Natural Language Explanations Using LLMs with RAG
+title: From Feature Importance To Natural Language Explanations Using Llms With RAG
 authors: Tekkesinoglu Sule, Kunze Lars
 conference: "Arxiv"
 year: 2024

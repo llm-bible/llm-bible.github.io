@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Controllable Text Generation with Residual Memory Transformer
+title: Controllable Text Generation With Residual Memory Transformer
 authors: Zhang Hanqing, Si Sun, Wu Haiming, Song Dawei
 conference: "ACL"
 year: 2023

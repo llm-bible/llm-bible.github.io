@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PREFER Prompt Ensemble Learning via Feedback-Reflect-Refine
+title: PREFER Prompt Ensemble Learning Via Feedback-reflect-refine
 authors: Zhang Chenrui, Liu Lin, Wang Jinpeng, Wang Chuyuan, Sun Xiao, Wang Hongyu, Cai Mingchen
 conference: "Arxiv"
 year: 2023

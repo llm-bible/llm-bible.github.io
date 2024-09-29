@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Control-DAG Constrained Decoding for Non-Autoregressive Directed Acyclic T5 using Weighted Finite State Automata
+title: Control-dag Constrained Decoding For Non-autoregressive Directed Acyclic T5 Using Weighted Finite State Automata
 authors: Chen Jinghong, Lin Weizhe, Mei Jingbiao, Byrne Bill
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MoqaGPT Zero-Shot Multi-modal Open-domain Question Answering with Large Language Model
+title: Moqagpt Zero-shot Multi-modal Open-domain Question Answering With Large Language Model
 authors: Zhang Le, Wu Yihong, Mo Fengran, Nie Jian-yun, Agrawal Aishwarya
 conference: "Arxiv"
 year: 2023

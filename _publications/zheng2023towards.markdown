@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Unified Token Learning for Vision-Language Tracking
+title: Towards Unified Token Learning For Vision-language Tracking
 authors: Zheng Yaozong, Zhong Bineng, Liang Qihua, Li Guorong, Ji Rongrong, Li Xianxian
 conference: "Arxiv"
 year: 2023

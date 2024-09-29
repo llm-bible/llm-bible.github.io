@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Residual Tree Aggregation of Layers for Neural Machine Translation
+title: Residual Tree Aggregation Of Layers For Neural Machine Translation
 authors: Li Guoliang, Li Yiyang
 conference: "Arxiv"
 year: 2021

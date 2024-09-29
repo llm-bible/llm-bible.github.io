@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Models are Universal Embedders
+title: Language Models Are Universal Embedders
 authors: Zhang Xin, Li Zehan, Zhang Yanzhao, Long Dingkun, Xie Pengjun, Zhang Meishan, Zhang Min
 conference: "Arxiv"
 year: 2023

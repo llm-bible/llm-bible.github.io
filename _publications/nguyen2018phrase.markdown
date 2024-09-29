@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Phrase-Based Attentions
+title: Phrase-based Attentions
 authors: Nguyen Phi Xuan, Joty Shafiq
 conference: "Arxiv"
 year: 2018

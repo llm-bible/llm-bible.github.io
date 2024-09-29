@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LightLM A Lightweight Deep and Narrow Language Model for Generative Recommendation
+title: Lightlm A Lightweight Deep And Narrow Language Model For Generative Recommendation
 authors: Mei Kai, Zhang Yongfeng
 conference: "Arxiv"
 year: 2023

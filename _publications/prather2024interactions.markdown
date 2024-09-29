@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Interactions with Prompt Problems A New Way to Teach Programming with Large Language Models
+title: Interactions With Prompt Problems A New Way To Teach Programming With Large Language Models
 authors: Prather James, Denny Paul, Leinonen Juho, Smith David H. Iv, Reeves Brent N., Macneil Stephen, Becker Brett A., Luxton-reilly Andrew, Amarouche Thezyrie, Kimmel Bailey
 conference: "Arxiv"
 year: 2024

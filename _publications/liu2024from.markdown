@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Summary to Action Enhancing Large Language Models for Complex Tasks with Open World APIs
+title: From Summary To Action Enhancing Large Language Models For Complex Tasks With Open World Apis
 authors: Liu Yulong, Yuan Yunlong, Wang Chunwei, Han Jianhua, Ma Yongqiang, Zhang Li, Zheng Nanning, Xu Hang
 conference: "Arxiv"
 year: 2024

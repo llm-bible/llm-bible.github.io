@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aligning Large Language Models for Enhancing Psychiatric Interviews through Symptom Delineation and Summarization
+title: Aligning Large Language Models For Enhancing Psychiatric Interviews Through Symptom Delineation And Summarization
 authors: So Jae-hee, Chang Joonhwan, Kim Eunji, Na Junho, Choi Jiyeon, Sohn Jy-yong, Kim Byung-hoon, Chu Sang Hui
 conference: "Arxiv"
 year: 2024

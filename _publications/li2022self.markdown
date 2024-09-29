@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-Prompting Large Language Models for Zero-Shot Open-Domain QA
+title: Self-prompting Large Language Models For Zero-shot Open-domain QA
 authors: Junlong Li, Jinyuan Wang, Zhuosheng Zhang, Hai Zhao
 conference: "Arxiv"
 year: 2022

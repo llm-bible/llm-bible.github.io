@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Parameter-Efficient Finetuning of Transformers for Source Code
+title: Parameter-efficient Finetuning Of Transformers For Source Code
 authors: Ayupov Shamil, Chirkova Nadezhda
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How to Prompt LLMs for Text-to-SQL A Study in Zero-shot Single-domain and Cross-domain Settings
+title: How To Prompt Llms For Text-to-sql A Study In Zero-shot Single-domain And Cross-domain Settings
 authors: Chang Shuaichen, Fosler-lussier Eric
 conference: "NeurIPS"
 year: 2023

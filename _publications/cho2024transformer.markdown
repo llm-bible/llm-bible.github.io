@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transformer Explainer Interactive Learning of Text-Generative Models
+title: Transformer Explainer Interactive Learning Of Text-generative Models
 authors: Cho Aeree, Kim Grace C., Karpekov Alexander, Helbling Alec, Wang Zijie J., Lee Seongmin, Hoover Benjamin, Chau Duen Horng
 conference: "Arxiv"
 year: 2024

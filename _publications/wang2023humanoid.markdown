@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Humanoid Agents Platform for Simulating Human-like Generative Agents
+title: Humanoid Agents Platform For Simulating Human-like Generative Agents
 authors: Zhilin Wang, Yu Ying Chiu, Yu Cheung Chiu
 conference: "Arxiv"
 year: 2023

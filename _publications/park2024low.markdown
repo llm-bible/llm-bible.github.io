@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Low-Resource Cross-Lingual Summarization through Few-Shot Learning with Large Language Models
+title: Low-resource Cross-lingual Summarization Through Few-shot Learning With Large Language Models
 authors: Park Gyutae, Hwang Seojin, Lee Hwanhee
 conference: "Arxiv"
 year: 2024

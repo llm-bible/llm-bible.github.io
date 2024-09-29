@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Effective Large Language Model Adaptation for Improved Grounding and Citation Generation
+title: Effective Large Language Model Adaptation For Improved Grounding And Citation Generation
 authors: Ye Xi, Sun Ruoxi, Arik Sercan Ö., Pfister Tomas
 conference: "Arxiv"
 year: 2023

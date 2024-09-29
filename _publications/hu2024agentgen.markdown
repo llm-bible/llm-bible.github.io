@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AgentGen Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation
+title: Agentgen Enhancing Planning Abilities For Large Language Model Based Agent Via Environment And Task Generation
 authors: Hu Mengkang, Zhao Pu, Xu Can, Sun Qingfeng, Lou Jianguang, Lin Qingwei, Luo Ping, Rajmohan Saravan, Zhang Dongmei
 conference: "Arxiv"
 year: 2024

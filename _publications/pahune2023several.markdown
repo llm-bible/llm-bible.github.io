@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Several categories of Large Language Models (LLMs) A Short Survey
+title: Several Categories Of Large Language Models (llms) A Short Survey
 authors: Pahune Saurabh, Chandrasekharan Manoj
 conference: "Arxiv"
 year: 2023

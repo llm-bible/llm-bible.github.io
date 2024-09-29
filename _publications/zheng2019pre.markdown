@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data
+title: A Pre-training Based Personalized Dialogue Generation Model With Persona-sparse Data
 authors: Zheng Yinhe, Zhang Rongsheng, Mao Xiaoxi, Huang Minlie
 conference: "Arxiv"
 year: 2019

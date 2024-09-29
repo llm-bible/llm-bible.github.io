@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Optimizing Psychological Counseling with Instruction-Tuned Large Language Models
+title: Optimizing Psychological Counseling With Instruction-tuned Large Language Models
 authors: Li Wenjie, Sun Tianyu, Qian Kun, Wang Wenhong
 conference: "Arxiv"
 year: 2024

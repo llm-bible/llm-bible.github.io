@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Integration of Large Language Models within Cognitive Architectures for Autonomous Robots
+title: Integration Of Large Language Models Within Cognitive Architectures For Autonomous Robots
 authors: González-santamarta Miguel Á., Rodríguez-lera Francisco J., Guerrero-higueras Ángel Manuel, Matellán-olivera Vicente
 conference: "Arxiv"
 year: 2023

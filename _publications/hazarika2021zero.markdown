@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zero-Shot Controlled Generation with Encoder-Decoder Transformers
+title: Zero-shot Controlled Generation With Encoder-decoder Transformers
 authors: Hazarika Devamanyu, Namazifar Mahdi, Hakkani-tür Dilek
 conference: "Arxiv"
 year: 2021

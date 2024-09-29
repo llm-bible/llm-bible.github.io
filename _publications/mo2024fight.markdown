@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fight Back Against Jailbreaking via Prompt Adversarial Tuning
+title: Fight Back Against Jailbreaking Via Prompt Adversarial Tuning
 authors: Mo Yichuan, Wang Yuji, Wei Zeming, Wang Yisen
 conference: "Arxiv"
 year: 2024

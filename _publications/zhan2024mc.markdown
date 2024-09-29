@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MC-GPT Empowering Vision-and-Language Navigation with Memory Map and Reasoning Chains
+title: MC-GPT Empowering Vision-and-language Navigation With Memory Map And Reasoning Chains
 authors: Zhan Zhaohuan, Yu Lisha, Yu Sijie, Tan Guang
 conference: "Arxiv"
 year: 2024

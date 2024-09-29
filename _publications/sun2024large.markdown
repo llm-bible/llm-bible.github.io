@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models as Conversational Movie Recommenders A User Study
+title: Large Language Models As Conversational Movie Recommenders A User Study
 authors: Sun Ruixuan, Li Xinyi, Akella Avinash, Konstan Joseph A.
 conference: "Arxiv"
 year: 2024

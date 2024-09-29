@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: iVQA Inverse Visual Question Answering
+title: Ivqa Inverse Visual Question Answering
 authors: Liu Feng, Xiang Tao, Hospedales Timothy M., Yang Wankou, Sun Changyin
 conference: "Arxiv"
 year: 2017

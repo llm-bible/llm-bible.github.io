@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recursion of Thought A Divide-and-Conquer Approach to Multi-Context Reasoning with Language Models
+title: Recursion Of Thought A Divide-and-conquer Approach To Multi-context Reasoning With Language Models
 authors: Soochan Lee, Gunhee Kim
 conference: "Arxiv"
 year: 2023

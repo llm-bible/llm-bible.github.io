@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models and Games A Survey and Roadmap
+title: Large Language Models And Games A Survey And Roadmap
 authors: Gallotta Roberto, Todd Graham, Zammit Marvin, Earle Sam, Liapis Antonios, Togelius Julian, Yannakakis Georgios N.
 conference: "Arxiv"
 year: 2024

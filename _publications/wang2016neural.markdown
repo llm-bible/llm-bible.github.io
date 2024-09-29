@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Neural Machine Translation Advised by Statistical Machine Translation
+title: Neural Machine Translation Advised By Statistical Machine Translation
 authors: Wang Xing, Lu Zhengdong, Tu Zhaopeng, Li Hang, Xiong Deyi, Zhang Min
 conference: "Arxiv"
 year: 2016

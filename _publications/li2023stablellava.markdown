@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: StableLLaVA Enhanced Visual Instruction Tuning with Synthesized Image-Dialogue Data
+title: Stablellava Enhanced Visual Instruction Tuning With Synthesized Image-dialogue Data
 authors: Li Yanda, Zhang Chi, Yu Gang, Wang Zhibin, Fu Bin, Lin Guosheng, Shen Chunhua, Chen Ling, Wei Yunchao
 conference: "Arxiv"
 year: 2023

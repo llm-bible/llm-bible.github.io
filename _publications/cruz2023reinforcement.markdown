@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reinforcement Learning Fine-tuning of Language Models is Biased Towards More Extractable Features
+title: Reinforcement Learning Fine-tuning Of Language Models Is Biased Towards More Extractable Features
 authors: Cruz Diogo, Pona Edoardo, Holness-tofts Alex, Schmied Elias, Alonso Víctor Abia, Griffin Charlie, Cirstea Bogdan-ionut
 conference: "Arxiv"
 year: 2023

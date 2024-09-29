@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Precisely the Point Adversarial Augmentations for Faithful and Informative Text Generation
+title: Precisely The Point Adversarial Augmentations For Faithful And Informative Text Generation
 authors: Wu Wenhao, Li Wei, Liu Jiachen, Xiao Xinyan, Li Sujian, Lyu Yajuan
 conference: "Arxiv"
 year: 2022

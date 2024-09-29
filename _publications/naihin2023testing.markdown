@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Testing Language Model Agents Safely in the Wild
+title: Testing Language Model Agents Safely In The Wild
 authors: Naihin Silen, Atkinson David, Green Marc, Hamadi Merwane, Swift Craig, Schonholtz Douglas, Kalai Adam Tauman, Bau David
 conference: "Arxiv"
 year: 2023

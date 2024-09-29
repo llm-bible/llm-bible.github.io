@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Synthetic Imitation Edit Feedback for Factual Alignment in Clinical Summarization
+title: Synthetic Imitation Edit Feedback For Factual Alignment In Clinical Summarization
 authors: Mishra Prakamya, Yao Zonghai, Chen Shuwei, Wang Beining, Mittal Rohan, Yu Hong
 conference: "Arxiv"
 year: 2023

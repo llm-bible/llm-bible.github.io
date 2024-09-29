@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Large Language Models know what humans know
+title: Do Large Language Models Know What Humans Know
 authors: Trott Sean, Jones Cameron, Chang Tyler, Michaelov James, Bergen Benjamin
 conference: "Arxiv"
 year: 2022

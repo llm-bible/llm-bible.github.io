@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models (GPT) Struggle to Answer Multiple-Choice Questions about Code
+title: Large Language Models (GPT) Struggle To Answer Multiple-choice Questions About Code
 authors: Savelka Jaromir, Agarwal Arav, Bogart Christopher, Sakr Majd
 conference: "Arxiv"
 year: 2023

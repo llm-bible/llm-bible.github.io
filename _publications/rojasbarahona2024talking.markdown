@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Talking to Machines do you read me
+title: Talking To Machines Do You Read Me
 authors: Rojas-barahona Lina M.
 conference: "Arxiv"
 year: 2024

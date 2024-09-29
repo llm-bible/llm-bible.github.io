@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt Sketching for Large Language Models
+title: Prompt Sketching For Large Language Models
 authors: Beurer-kellner Luca, Müller Mark Niklas, Fischer Marc, Vechev Martin
 conference: "Arxiv"
 year: 2023

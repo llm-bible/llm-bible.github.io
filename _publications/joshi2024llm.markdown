@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM-Based Open-Domain Integrated Task and Knowledge Assistants with Programmable Policies
+title: Llm-based Open-domain Integrated Task And Knowledge Assistants With Programmable Policies
 authors: Joshi Harshit, Liu Shicheng, Chen James, Weigle Robert, Lam Monica S.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Accurate Word Alignment Induction from Neural Machine Translation
+title: Accurate Word Alignment Induction From Neural Machine Translation
 authors: Chen Yun, Liu Yang, Chen Guanhua, Jiang Xin, Liu Qun
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLaMA Rider Spurring Large Language Models to Explore the Open World
+title: Llama Rider Spurring Large Language Models To Explore The Open World
 authors: Feng Yicheng, Wang Yuxuan, Liu Jiazheng, Zheng Sipeng, Lu Zongqing
 conference: "Arxiv"
 year: 2023

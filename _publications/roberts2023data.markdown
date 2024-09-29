@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Data Contamination Through the Lens of Time
+title: Data Contamination Through The Lens Of Time
 authors: Roberts Manley, Thakur Himanshu, Herlihy Christine, White Colin, Dooley Samuel
 conference: "Arxiv"
 year: 2023

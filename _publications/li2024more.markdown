@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: More RLHF More Trust On The Impact of Human Preference Alignment On Language Model Trustworthiness
+title: More RLHF More Trust On The Impact Of Human Preference Alignment On Language Model Trustworthiness
 authors: Li Aaron J., Krishna Satyapriya, Lakkaraju Himabindu
 conference: "Arxiv"
 year: 2024

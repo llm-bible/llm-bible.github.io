@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Monolingual or Multilingual Instruction Tuning Which Makes a Better Alpaca
+title: Monolingual Or Multilingual Instruction Tuning Which Makes A Better Alpaca
 authors: Chen Pinzhen, Ji Shaoxiong, Bogoychev Nikolay, Kutuzov Andrey, Haddow Barry, Heafield Kenneth
 conference: "Arxiv"
 year: 2023

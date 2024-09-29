@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: StreamingDialogue Prolonged Dialogue Learning via Long Context Compression with Minimal Losses
+title: Streamingdialogue Prolonged Dialogue Learning Via Long Context Compression With Minimal Losses
 authors: Li Jia-nan, Tu Quan, Mao Cunli, Yu Zhengtao, Wen Ji-rong, Yan Rui
 conference: "Arxiv"
 year: 2024

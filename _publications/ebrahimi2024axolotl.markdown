@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AXOLOTL Fairness through Assisted Self-Debiasing of Large Language Model Outputs
+title: AXOLOTL Fairness Through Assisted Self-debiasing Of Large Language Model Outputs
 authors: Ebrahimi Sana, Chen Kaiwen, Asudeh Abolfazl, Das Gautam, Koudas Nick
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers
+title: Neural Codec Language Models Are Zero-shot Text To Speech Synthesizers
 authors: Chengyi Wang, Sanyuan Chen, Yu Wu, Ziqiang Zhang, Long Zhou, Shujie Liu, Zhuo Chen, Yanqing Liu, Huaming Wang, Jinyu Li, Lei He, Sheng Zhao, Furu Wei
 conference: "Arxiv"
 year: 2023

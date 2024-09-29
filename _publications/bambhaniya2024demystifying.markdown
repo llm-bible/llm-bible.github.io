@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Demystifying Platform Requirements for Diverse LLM Inference Use Cases
+title: Demystifying Platform Requirements For Diverse LLM Inference Use Cases
 authors: Bambhaniya Abhimanyu, Raj Ritik, Jeong Geonhwa, Kundu Souvik, Srinivasan Sudarshan, Elavazhagan Midhilesh, Kumar Madhu, Krishna Tushar
 conference: "Arxiv"
 year: 2024

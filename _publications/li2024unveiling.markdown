@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unveiling the Magic Investigating Attention Distillation in Retrieval-augmented Generation
+title: Unveiling The Magic Investigating Attention Distillation In Retrieval-augmented Generation
 authors: Li Zizhong, Zhang Haopeng, Zhang Jiawei
 conference: "Arxiv"
 year: 2024

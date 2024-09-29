@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Long-Range Language Models Actually Use Long-Range Context
+title: Do Long-range Language Models Actually Use Long-range Context
 authors: Sun Simeng, Krishna Kalpesh, Mattarella-micke Andrew, Iyyer Mohit
 conference: "Arxiv"
 year: 2021

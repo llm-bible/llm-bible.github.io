@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Image as a Foreign Language BEiT Pretraining for All Vision and Vision-Language Tasks
+title: Image As A Foreign Language Beit Pretraining For All Vision And Vision-language Tasks
 authors: Wang Wenhui, Bao Hangbo, Dong Li, Bjorck Johan, Peng Zhiliang, Liu Qiang, Aggarwal Kriti, Mohammed Owais Khan, Singhal Saksham, Som Subhojit, Wei Furu
 conference: "Arxiv"
 year: 2022

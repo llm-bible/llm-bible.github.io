@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Neural Machine Translation with Adequacy-Oriented Learning
+title: Neural Machine Translation With Adequacy-oriented Learning
 authors: Kong Xiang, Tu Zhaopeng, Shi Shuming, Hovy Eduard, Zhang Tong
 conference: "Arxiv"
 year: 2018

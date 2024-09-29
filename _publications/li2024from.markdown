@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Text to Insight Leveraging Large Language Models for Performance Evaluation in Management
+title: From Text To Insight Leveraging Large Language Models For Performance Evaluation In Management
 authors: Li Ning, Zhou Huaikang, Xu Mingze
 conference: "Arxiv"
 year: 2024

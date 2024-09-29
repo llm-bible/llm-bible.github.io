@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Closer Look at Few-Shot Crosslingual Transfer The Choice of Shots Matters
+title: A Closer Look At Few-shot Crosslingual Transfer The Choice Of Shots Matters
 authors: Zhao Mengjie, Zhu Yi, Shareghi Ehsan, Vulić Ivan, Reichart Roi, Korhonen Anna, Schütze Hinrich
 conference: "Arxiv"
 year: 2020

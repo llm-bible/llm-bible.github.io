@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pandoras Box or Aladdins Lamp A Comprehensive Analysis Revealing the Role of RAG Noise in Large Language Models
+title: Pandoras Box Or Aladdins Lamp A Comprehensive Analysis Revealing The Role Of RAG Noise In Large Language Models
 authors: Wu Jinyang, Che Feihu, Zhang Chuyuan, Tao Jianhua, Zhang Shuai, Shao Pengpeng
 conference: "Arxiv"
 year: 2024

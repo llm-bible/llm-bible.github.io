@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CPSDBench A Large Language Model Evaluation Benchmark and Baseline for Chinese Public Security Domain
+title: Cpsdbench A Large Language Model Evaluation Benchmark And Baseline For Chinese Public Security Domain
 authors: Tong Xin, Jin Bo, Lin Zhi, Wang Binjun, Yu Ting, Cheng Qiang
 conference: "Arxiv"
 year: 2024

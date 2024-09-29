@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Quiz-Style Question Generation for News Stories
+title: Quiz-style Question Generation For News Stories
 authors: Lelkes Adam D., Tran Vinh Q., Yu Cong
 conference: "Arxiv"
 year: 2021

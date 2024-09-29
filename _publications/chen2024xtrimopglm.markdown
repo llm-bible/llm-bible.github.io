@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: xTrimoPGLM Unified 100B-Scale Pre-trained Transformer for Deciphering the Language of Protein
+title: Xtrimopglm Unified 100b-scale Pre-trained Transformer For Deciphering The Language Of Protein
 authors: Chen Bo, Cheng Xingyi, Li Pan, Geng Yangli-ao, Gong Jing, Li Shen, Bei Zhilei, Tan Xu, Wang Boyan, Zeng Xin, Liu Chiming, Zeng Aohan, Dong Yuxiao, Tang Jie, Song Le
 conference: "Arxiv"
 year: 2024

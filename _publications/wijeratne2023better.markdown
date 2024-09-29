@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Better Question-Answering Models on a Budget
+title: Better Question-answering Models On A Budget
 authors: Wijeratne Yudhanjaya, Marikar Ishan
 conference: "Arxiv"
 year: 2023

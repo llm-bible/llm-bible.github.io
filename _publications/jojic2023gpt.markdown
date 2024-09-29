@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GPT is becoming a Turing machine Here are some ways to program it
+title: GPT Is Becoming A Turing Machine Here Are Some Ways To Program It
 authors: Jojic Ana, Wang Zhen, Jojic Nebojsa
 conference: "Arxiv"
 year: 2023

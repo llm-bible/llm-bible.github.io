@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Uncertainty-Aware Unlikelihood Learning Improves Generative Aspect Sentiment Quad Prediction
+title: Uncertainty-aware Unlikelihood Learning Improves Generative Aspect Sentiment Quad Prediction
 authors: Hu Mengting, Bai Yinhao, Wu Yike, Zhang Zhen, Zhang Liqi, Gao Hang, Zhao Shiwan, Huang Minlie
 conference: "Arxiv"
 year: 2023

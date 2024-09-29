@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Well-Read Students Learn Better On the Importance of Pre-training Compact Models
+title: Well-read Students Learn Better On The Importance Of Pre-training Compact Models
 authors: Turc Iulia, Chang Ming-wei, Lee Kenton, Toutanova Kristina
 conference: "Arxiv"
 year: 2019

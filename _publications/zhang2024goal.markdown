@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Goal-guided Generative Prompt Injection Attack on Large Language Models
+title: Goal-guided Generative Prompt Injection Attack On Large Language Models
 authors: Zhang Chong, Jin Mingyu, Yu Qinkai, Liu Chengzhi, Xue Haochen, Jin Xiaobo
 conference: "Arxiv"
 year: 2024

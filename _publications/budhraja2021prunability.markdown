@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On the Prunability of Attention Heads in Multilingual BERT
+title: On The Prunability Of Attention Heads In Multilingual BERT
 authors: Budhraja Aakriti, Pande Madhura, Kumar Pratyush, Khapra Mitesh M.
 conference: "Arxiv"
 year: 2021

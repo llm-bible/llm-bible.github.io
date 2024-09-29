@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bridging the Gap between Language Model and Reading Comprehension Unsupervised MRC via Self-Supervision
+title: Bridging The Gap Between Language Model And Reading Comprehension Unsupervised MRC Via Self-supervision
 authors: Bian Ning, Han Xianpei, Chen Bo, Lin Hongyu, He Ben, Sun Le
 conference: "Arxiv"
 year: 2021

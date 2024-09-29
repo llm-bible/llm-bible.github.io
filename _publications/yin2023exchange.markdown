@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exchange-of-Thought Enhancing Large Language Model Capabilities through Cross-Model Communication
+title: Exchange-of-thought Enhancing Large Language Model Capabilities Through Cross-model Communication
 authors: Yin Zhangyue, Sun Qiushi, Chang Cheng, Guo Qipeng, Dai Junqi, Huang Xuanjing, Qiu Xipeng
 conference: "Arxiv"
 year: 2023

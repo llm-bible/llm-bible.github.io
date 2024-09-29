@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Data Generation Using Large Language Models for Text Classification An Empirical Case Study
+title: Data Generation Using Large Language Models For Text Classification An Empirical Case Study
 authors: Li Yinheng, Bonatti Rogerio, Abdali Sara, Wagle Justin, Koishida Kazuhito
 conference: "Arxiv"
 year: 2024

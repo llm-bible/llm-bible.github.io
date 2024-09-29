@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Data Augmentation for BERT Fine-Tuning in Open-Domain Question Answering
+title: Data Augmentation For BERT Fine-tuning In Open-domain Question Answering
 authors: Yang Wei, Xie Yuqing, Tan Luchen, Xiong Kun, Li Ming, Lin Jimmy
 conference: "Arxiv"
 year: 2019

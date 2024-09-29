@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LoQT Low-Rank Adapters for Quantized Pre-Training
+title: Loqt Low-rank Adapters For Quantized Pre-training
 authors: Loeschcke Sebastian, Toftrup Mads, Kastoryano Michael J., Belongie Serge, Snæbjarnarson Vésteinn
 conference: "Arxiv"
 year: 2024

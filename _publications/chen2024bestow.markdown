@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BESTOW Efficient and Streamable Speech Language Model with the Best of Two Worlds in GPT and T5
+title: BESTOW Efficient And Streamable Speech Language Model With The Best Of Two Worlds In GPT And T5
 authors: Chen Zhehuai, Huang He, Hrinchuk Oleksii, Puvvada Krishna C., Koluguri Nithin Rao, Żelasko Piotr, Balam Jagadeesh, Ginsburg Boris
 conference: "Arxiv"
 year: 2024

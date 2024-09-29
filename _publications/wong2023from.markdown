@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Word Models to World Models Translating from Natural Language to the Probabilistic Language of Thought
+title: From Word Models To World Models Translating From Natural Language To The Probabilistic Language Of Thought
 authors: Wong Lionel, Grand Gabriel, Lew Alexander K., Goodman Noah D., Mansinghka Vikash K., Andreas Jacob, Tenenbaum Joshua B.
 conference: "Arxiv"
 year: 2023

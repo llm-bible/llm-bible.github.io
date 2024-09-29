@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating Context Effects in Similarity Judgements in Large Language Models
+title: Investigating Context Effects In Similarity Judgements In Large Language Models
 authors: Uprety Sagar, Jaiswal Amit Kumar, Liu Haiming, Song Dawei
 conference: "Arxiv"
 year: 2024

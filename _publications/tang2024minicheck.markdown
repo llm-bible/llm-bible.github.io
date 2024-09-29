@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MiniCheck Efficient Fact-Checking of LLMs on Grounding Documents
+title: Minicheck Efficient Fact-checking Of Llms On Grounding Documents
 authors: Tang Liyan, Laban Philippe, Durrett Greg
 conference: "Arxiv"
 year: 2024

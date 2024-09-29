@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Simple Yet Strong Pipeline for HotpotQA
+title: A Simple Yet Strong Pipeline For Hotpotqa
 authors: Groeneveld Dirk, Khot Tushar, Mausam, Sabharwal Ashish
 conference: "Arxiv"
 year: 2020

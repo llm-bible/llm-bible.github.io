@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: HalluDial A Large-Scale Benchmark for Automatic Dialogue-Level Hallucination Evaluation
+title: Halludial A Large-scale Benchmark For Automatic Dialogue-level Hallucination Evaluation
 authors: Luo Wen, Shen Tianshu, Li Wei, Peng Guangyue, Xuan Richeng, Wang Houfeng, Yang Xi
 conference: "Arxiv"
 year: 2024

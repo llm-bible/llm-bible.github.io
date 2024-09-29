@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GShard Scaling Giant Models with Conditional Computation and Automatic Sharding
+title: Gshard Scaling Giant Models With Conditional Computation And Automatic Sharding
 authors: Dmitry Lepikhin, Hyoukjoong Lee, Yuanzhong Xu, Dehao Chen, Orhan Firat, Yanping Huang, Maxim Krikun, Noam Shazeer, Zhifeng Chen
 conference: "Arxiv"
 year: 2020

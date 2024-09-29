@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: WSI-VQA Interpreting Whole Slide Images by Generative Visual Question Answering
+title: WSI-VQA Interpreting Whole Slide Images By Generative Visual Question Answering
 authors: Chen Pingyi, Zhu Chenglu, Zheng Sunyi, Li Honglin, Yang Lin
 conference: "Arxiv"
 year: 2024

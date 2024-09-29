@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing the General Agent Capabilities of Low-Parameter LLMs through Tuning and Multi-Branch Reasoning
+title: Enhancing The General Agent Capabilities Of Low-parameter Llms Through Tuning And Multi-branch Reasoning
 authors: Zhou Qinhao, Zhang Zihan, Xiang Xiang, Wang Ke, Wu Yuchuan, Li Yongbin
 conference: "Arxiv"
 year: 2024

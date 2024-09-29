@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Monotonic Paraphrasing Improves Generalization of Language Model Prompting
+title: Monotonic Paraphrasing Improves Generalization Of Language Model Prompting
 authors: Liu Qin, Wang Fei, Xu Nan, Yan Tianyi, Meng Tao, Chen Muhao
 conference: "Arxiv"
 year: 2024

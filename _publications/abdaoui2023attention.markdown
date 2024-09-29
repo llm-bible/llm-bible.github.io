@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attention over pre-trained Sentence Embeddings for Long Document Classification
+title: Attention Over Pre-trained Sentence Embeddings For Long Document Classification
 authors: Abdaoui Amine, Dutta Sourav
 conference: "Arxiv"
 year: 2023

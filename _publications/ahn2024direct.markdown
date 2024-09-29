@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Direct-inverse Prompting Analyzing Llmsx27; Discriminative Capacity In Self-improving Generation
+title: Direct-inverse Prompting Analyzing Llms Discriminative Capacity In Self-improving Generation
 authors: Ahn Jihyun Janice, Kamoi Ryo, Cheng Lu, Zhang Rui, Yin Wenpeng
 conference: "Arxiv"
 year: 2024

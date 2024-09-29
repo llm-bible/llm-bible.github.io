@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Data Augmentation of Multi-turn Psychological Dialogue via Knowledge-driven Progressive Thought Prompting
+title: Data Augmentation Of Multi-turn Psychological Dialogue Via Knowledge-driven Progressive Thought Prompting
 authors: Jiang Jiyue, Chen Liheng, Wang Sheng, Kong Lingpeng, Li Yu, Wu Chuan
 conference: "Arxiv"
 year: 2024

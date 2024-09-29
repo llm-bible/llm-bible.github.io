@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cascade Speculative Drafting for Even Faster LLM Inference
+title: Cascade Speculative Drafting For Even Faster LLM Inference
 authors: Chen Ziyi, Yang Xiaocong, Lin Jiacheng, Sun Chenkai, Chang Kevin Chen-chuan, Huang Jie
 conference: "Arxiv"
 year: 2023

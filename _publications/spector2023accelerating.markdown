@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Accelerating LLM Inference with Staged Speculative Decoding
+title: Accelerating LLM Inference With Staged Speculative Decoding
 authors: Spector Benjamin, Re Chris
 conference: "Arxiv"
 year: 2023

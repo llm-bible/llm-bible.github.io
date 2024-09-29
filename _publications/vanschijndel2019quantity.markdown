@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Quantity Doesnx27;t Buy Quality Syntax With Neural Language Models
+title: Quantity Doesnt Buy Quality Syntax With Neural Language Models
 authors: Van Schijndel Marten, Mueller Aaron, Linzen Tal
 conference: "Arxiv"
 year: 2019

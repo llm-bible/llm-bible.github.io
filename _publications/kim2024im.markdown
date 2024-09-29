@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Im Not Sure But... Examining the Impact of Large Language Models Uncertainty Expression on User Reliance and Trust
+title: im Not Sure But... Examining The Impact Of Large Language Models Uncertainty Expression On User Reliance And Trust
 authors: Kim Sunnie S. Y., Liao Q. Vera, Vorvoreanu Mihaela, Ballard Stephanie, Vaughan Jennifer Wortman
 conference: "Arxiv"
 year: 2024

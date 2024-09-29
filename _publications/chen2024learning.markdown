@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning to Clarify Multi-turn Conversations with Action-Based Contrastive Self-Training
+title: Learning To Clarify Multi-turn Conversations With Action-based Contrastive Self-training
 authors: Chen Maximillian, Sun Ruoxi, Arık Sercan Ö., Pfister Tomas
 conference: "Arxiv"
 year: 2024

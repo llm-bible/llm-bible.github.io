@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Very Deep Transformers for Neural Machine Translation
+title: Very Deep Transformers For Neural Machine Translation
 authors: Liu Xiaodong, Duh Kevin, Liu Liyuan, Gao Jianfeng
 conference: "Arxiv"
 year: 2020

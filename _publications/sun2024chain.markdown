@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chain-of-Strategy Planning with LLMs Aligning the Generation of Psychotherapy Dialogue with Strategy in Motivational Interviewing
+title: Chain-of-strategy Planning With Llms Aligning The Generation Of Psychotherapy Dialogue With Strategy In Motivational Interviewing
 authors: Sun Xin, Tang Xiao, Ali Abdallah El, Li Zhuying, Shen Xiaoyu, Ren Pengjie, De Wit Jan, Pei Jiahuan, Bosch Jos A.
 conference: "Arxiv"
 year: 2024

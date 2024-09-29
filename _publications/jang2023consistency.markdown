@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Consistency Analysis of ChatGPT
+title: Consistency Analysis Of Chatgpt
 authors: Jang Myeongjun Erik, Lukasiewicz Thomas
 conference: "The"
 year: 2023

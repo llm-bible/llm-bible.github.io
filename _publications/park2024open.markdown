@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Open Ko-LLM Leaderboard Evaluating Large Language Models in Korean with Ko-H5 Benchmark
+title: Open Ko-llm Leaderboard Evaluating Large Language Models In Korean With Ko-h5 Benchmark
 authors: Park Chanjun, Kim Hyeonwoo, Kim Dahyun, Cho Seonghwan, Kim Sanghoon, Lee Sukyung, Kim Yungi, Lee Hwalsuk
 conference: "Arxiv"
 year: 2024

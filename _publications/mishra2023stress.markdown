@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Stress Testing Chain-of-Thought Prompting for Large Language Models
+title: Stress Testing Chain-of-thought Prompting For Large Language Models
 authors: Mishra Aayush, Thakkar Karan
 conference: "Arxiv"
 year: 2023

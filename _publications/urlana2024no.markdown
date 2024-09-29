@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: No Size Fits All The Perils and Pitfalls of Leveraging LLMs Vary with Company Size
+title: No Size Fits All The Perils And Pitfalls Of Leveraging Llms Vary With Company Size
 authors: Urlana Ashok, Kumar Charaka Vinayak, Garlapati Bala Mallikarjunarao, Singh Ajeet Kumar, Mishra Rahul
 conference: "Arxiv"
 year: 2024

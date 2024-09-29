@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Encoder Representations of Generative Dialogue Models Encode Sufficient Information about the Task
+title: Do Encoder Representations Of Generative Dialogue Models Encode Sufficient Information About The Task
 authors: Parthasarathi Prasanna, Pineau Joelle, Chandar Sarath
 conference: "Arxiv"
 year: 2021

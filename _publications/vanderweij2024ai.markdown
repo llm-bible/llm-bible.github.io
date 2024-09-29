@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AI Sandbagging Language Models can Strategically Underperform on Evaluations
+title: AI Sandbagging Language Models Can Strategically Underperform On Evaluations
 authors: Van Der Weij Teun, Hofstätter Felix, Jaffe Ollie, Brown Samuel F., Ward Francis Rhys
 conference: "Arxiv"
 year: 2024

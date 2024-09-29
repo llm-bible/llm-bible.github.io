@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are Large Language Model-based Evaluators the Solution to Scaling Up Multilingual Evaluation
+title: Are Large Language Model-based Evaluators The Solution To Scaling Up Multilingual Evaluation
 authors: Hada Rishav, Gumma Varun, De Wynter Adrian, Diddee Harshita, Ahmed Mohamed, Choudhury Monojit, Bali Kalika, Sitaram Sunayana
 conference: "Arxiv"
 year: 2023

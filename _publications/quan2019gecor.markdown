@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GECOR An End-to-End Generative Ellipsis and Co-reference Resolution Model for Task-Oriented Dialogue
+title: GECOR An End-to-end Generative Ellipsis And Co-reference Resolution Model For Task-oriented Dialogue
 authors: Quan Jun, Xiong Deyi, Webber Bonnie, Hu Changjian
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning vs Retrieval The Role of In-Context Examples in Regression with LLMs
+title: Learning Vs Retrieval The Role Of In-context Examples In Regression With Llms
 authors: Nafar Aliakbar, Venable Kristen Brent, Kordjamshidi Parisa
 conference: "Arxiv"
 year: 2024

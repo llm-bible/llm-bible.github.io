@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Decoding AI The inside story of data analysis in ChatGPT
+title: Decoding AI The Inside Story Of Data Analysis In Chatgpt
 authors: Evkaya Ozan, De Carvalho Miguel
 conference: "Arxiv"
 year: 2024

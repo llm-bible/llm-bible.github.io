@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scaling Behavior of Machine Translation with Large Language Models under Prompt Injection Attacks
+title: Scaling Behavior Of Machine Translation With Large Language Models Under Prompt Injection Attacks
 authors: Sun Zhifan, Miceli-barone Antonio Valerio
 conference: "Arxiv"
 year: 2024

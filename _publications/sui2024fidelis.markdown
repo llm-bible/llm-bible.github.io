@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FiDeLiS Faithful Reasoning in Large Language Model for Knowledge Graph Question Answering
+title: Fidelis Faithful Reasoning In Large Language Model For Knowledge Graph Question Answering
 authors: Sui Yuan, He Yufei, Liu Nian, He Xiaoxin, Wang Kun, Hooi Bryan
 conference: "Arxiv"
 year: 2024

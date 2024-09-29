@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PAS Data-Efficient Plug-and-Play Prompt Augmentation System
+title: PAS Data-efficient Plug-and-play Prompt Augmentation System
 authors: Zheng Miao, Liang Hao, Yang Fan, Sun Haoze, Li Tianpeng, Xiong Lingchu, Zhang Yan, Wu Youzhen, Li Kun, Shen Yanjun, Lin Mingan, Zhang Tao, Dong Guosheng, Qiao Yujing, Fang Kun, Chen Weipeng, Cui Bin, Zhang Wentao, Zhou Zenan
 conference: "Arxiv"
 year: 2024

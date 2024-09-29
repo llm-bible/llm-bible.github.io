@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Language Barrier Dissecting Safety Challenges of LLMs in Multilingual Contexts
+title: The Language Barrier Dissecting Safety Challenges Of Llms In Multilingual Contexts
 authors: Shen Lingfeng, Tan Weiting, Chen Sihao, Chen Yunmo, Zhang Jingyu, Xu Haoran, Zheng Boyuan, Koehn Philipp, Khashabi Daniel
 conference: "Arxiv"
 year: 2024

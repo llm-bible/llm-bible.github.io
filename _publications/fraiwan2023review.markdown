@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Review of ChatGPT Applications in Education Marketing Software Engineering and Healthcare Benefits Drawbacks and Research Directions
+title: A Review Of Chatgpt Applications In Education Marketing Software Engineering And Healthcare Benefits Drawbacks And Research Directions
 authors: Fraiwan Mohammad, Khasawneh Natheer
 conference: "Arxiv"
 year: 2023

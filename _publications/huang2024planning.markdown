@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Planning and Editing What You Retrieve for Enhanced Tool Learning
+title: Planning And Editing What You Retrieve For Enhanced Tool Learning
 authors: Huang Tenghao, Jung Dongwon, Chen Muhao
 conference: "Arxiv"
 year: 2024

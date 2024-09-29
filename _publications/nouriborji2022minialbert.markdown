@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MiniALBERT Model Distillation via Parameter-Efficient Recursive Transformers
+title: Minialbert Model Distillation Via Parameter-efficient Recursive Transformers
 authors: Nouriborji Mohammadmahdi, Rohanian Omid, Kouchaki Samaneh, Clifton David A.
 conference: "Arxiv"
 year: 2022

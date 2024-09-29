@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhance Lifelong Model Editing with Continuous Data-Adapter Association
+title: Enhance Lifelong Model Editing With Continuous Data-adapter Association
 authors: Li Jiaang, Wang Quan, Wang Zhongnan, Zhang Yongdong, Mao Zhendong
 conference: "Arxiv"
 year: 2024

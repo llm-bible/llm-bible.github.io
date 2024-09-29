@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Distilling Algorithmic Reasoning from LLMs via Explaining Solution Programs
+title: Distilling Algorithmic Reasoning From Llms Via Explaining Solution Programs
 authors: Li Jierui, Mooney Raymond
 conference: "Arxiv"
 year: 2024

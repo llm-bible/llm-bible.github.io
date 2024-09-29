@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LiteVL Efficient Video-Language Learning with Enhanced Spatial-Temporal Modeling
+title: Litevl Efficient Video-language Learning With Enhanced Spatial-temporal Modeling
 authors: Chen Dongsheng, Tao Chaofan, Hou Lu, Shang Lifeng, Jiang Xin, Liu Qun
 conference: "Arxiv"
 year: 2022

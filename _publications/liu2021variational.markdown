@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Variational Latent-State GPT for Semi-Supervised Task-Oriented Dialog Systems
+title: Variational Latent-state GPT For Semi-supervised Task-oriented Dialog Systems
 authors: Liu Hong, Cai Yucheng, Lin Zhenru, Ou Zhijian, Huang Yi, Feng Junlan
 conference: "Arxiv"
 year: 2021

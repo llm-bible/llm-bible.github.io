@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLMs Could Autonomously Learn Without External Supervision
+title: Llms Could Autonomously Learn Without External Supervision
 authors: Ji Ke, Chen Junying, Gao Anningzhe, Xie Wenya, Wan Xiang, Wang Benyou
 conference: "Arxiv"
 year: 2024

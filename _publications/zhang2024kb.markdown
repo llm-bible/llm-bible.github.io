@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: KB-Plugin A Plug-and-play Framework for Large Language Models to Induce Programs over Low-resourced Knowledge Bases
+title: Kb-plugin A Plug-and-play Framework For Large Language Models To Induce Programs Over Low-resourced Knowledge Bases
 authors: Zhang Jiajie, Cao Shulin, Hu Linmei, Feng Ling, Hou Lei, Li Juanzi
 conference: "Arxiv"
 year: 2024

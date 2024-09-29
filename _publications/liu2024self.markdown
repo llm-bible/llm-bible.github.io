@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-Reflection Outcome is Sensitive to Prompt Construction
+title: Self-reflection Outcome Is Sensitive To Prompt Construction
 authors: Liu Fengyuan, Aldahoul Nouar, Eady Gregory, Zaki Yasir, Alshebli Bedoor, Rahwan Talal
 conference: "Arxiv"
 year: 2024

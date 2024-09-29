@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PromptCARE Prompt Copyright Protection by Watermark Injection and Verification
+title: Promptcare Prompt Copyright Protection By Watermark Injection And Verification
 authors: Yao Hongwei, Lou Jian, Ren Kui, Qin Zhan
 conference: "Arxiv"
 year: 2023

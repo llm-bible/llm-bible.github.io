@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Diagnosing Transformers in Task-Oriented Semantic Parsing
+title: Diagnosing Transformers In Task-oriented Semantic Parsing
 authors: Desai Shrey, Aly Ahmed
 conference: "Arxiv"
 year: 2021

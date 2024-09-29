@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Q How to Specialize Large Vision-Language Models to Data-Scarce VQA Tasks A Self-Train on Unlabeled Images!
+title: Q How To Specialize Large Vision-language Models To Data-scarce VQA Tasks A Self-train On Unlabeled Images!
 authors: Khan Zaid, Bg Vijay Kumar, Schulter Samuel, Yu Xiang, Fu Yun, Chandraker Manmohan
 conference: "Arxiv"
 year: 2023

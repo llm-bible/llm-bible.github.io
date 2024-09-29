@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Using Large Language Models for Cybersecurity Capture-The-Flag Challenges and Certification Questions
+title: Using Large Language Models For Cybersecurity Capture-the-flag Challenges And Certification Questions
 authors: Tann Wesley, Liu Yuancheng, Sim Jun Heng, Seah Choon Meng, Chang Ee-chien
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reinforcement Learning from LLM Feedback to Counteract Goal Misgeneralization
+title: Reinforcement Learning From LLM Feedback To Counteract Goal Misgeneralization
 authors: Barj Houda Nait El, Sautory Theophile
 conference: "Arxiv"
 year: 2024

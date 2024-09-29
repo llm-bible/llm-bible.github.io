@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Uncertainty-Aware Evaluation for Vision-Language Models
+title: Uncertainty-aware Evaluation For Vision-language Models
 authors: Kostumov Vasily, Nutfullin Bulat, Pilipenko Oleg, Ilyushin Eugene
 conference: "Arxiv"
 year: 2024

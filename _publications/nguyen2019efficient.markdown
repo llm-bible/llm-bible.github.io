@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficient Attention Mechanism for Visual Dialog that can Handle All the Interactions between Multiple Inputs
+title: Efficient Attention Mechanism For Visual Dialog That Can Handle All The Interactions Between Multiple Inputs
 authors: Nguyen Van-quang, Suganuma Masanori, Okatani Takayuki
 conference: "Arxiv"
 year: 2019

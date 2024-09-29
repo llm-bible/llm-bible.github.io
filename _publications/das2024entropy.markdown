@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Entropy Guided Extrapolative Decoding to Improve Factuality in Large Language Models
+title: Entropy Guided Extrapolative Decoding To Improve Factuality In Large Language Models
 authors: Das Souvik, Jin Lifeng, Song Linfeng, Mi Haitao, Peng Baolin, Yu Dong
 conference: "Arxiv"
 year: 2024

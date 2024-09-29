@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Yi Open Foundation Models by 01.AI
+title: Yi Open Foundation Models By 01.AI
 authors: Ai 01., :, Young Alex, Chen Bei, Li Chao, Huang Chengen, Zhang Ge, Zhang Guanwei, Li Heng, Zhu Jiangcheng, Chen Jianqun, Chang Jing, Yu Kaidong, Liu Peng, Liu Qiang, Yue Shawn, Yang Senbin, Yang Shiming, Yu Tao, Xie Wen, Huang Wenhao, Hu Xiaohui, Ren Xiaoyi, Niu Xinyao, Nie Pengcheng, Xu Yuchi, Liu Yudong, Wang Yue, Cai Yuxuan, Gu Zhenyu, Liu Zhiyuan, Dai Zonghong
 conference: "Arxiv"
 year: 2024

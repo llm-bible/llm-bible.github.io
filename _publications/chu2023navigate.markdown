@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Navigate through Enigmatic Labyrinth A Survey of Chain of Thought Reasoning Advances Frontiers and Future
+title: Navigate Through Enigmatic Labyrinth A Survey Of Chain Of Thought Reasoning Advances Frontiers And Future
 authors: Chu Zheng, Chen Jingchang, Chen Qianglong, Yu Weijiang, He Tao, Wang Haotian, Peng Weihua, Liu Ming, Qin Bing, Liu Ting
 conference: "Arxiv"
 year: 2023

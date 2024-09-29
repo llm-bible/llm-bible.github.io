@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fact-aware Sentence Split and Rephrase with Permutation Invariant Training
+title: Fact-aware Sentence Split And Rephrase With Permutation Invariant Training
 authors: Guo Yinuo, Ge Tao, Wei Furu
 conference: "Arxiv"
 year: 2020

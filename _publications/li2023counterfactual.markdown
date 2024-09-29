@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Counterfactual Reasoning Testing Language Modelsx27; Understanding Of Hypothetical Scenarios
+title: Counterfactual Reasoning Testing Language Models Understanding Of Hypothetical Scenarios
 authors: Li Jiaxuan, Yu Lang, Ettinger Allyson
 conference: "Arxiv"
 year: 2023

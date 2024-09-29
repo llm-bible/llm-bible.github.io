@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChatBridge Bridging Modalities with Large Language Model as a Language Catalyst
+title: Chatbridge Bridging Modalities With Large Language Model As A Language Catalyst
 authors: Zhao Zijia, Guo Longteng, Yue Tongtian, Chen Sihan, Shao Shuai, Zhu Xinxin, Yuan Zehuan, Liu Jing
 conference: "Arxiv"
 year: 2023

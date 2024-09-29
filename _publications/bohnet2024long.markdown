@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Long-Span Question-Answering Automatic Question Generation and QA-System Ranking via Side-by-Side Evaluation
+title: Long-span Question-answering Automatic Question Generation And Qa-system Ranking Via Side-by-side Evaluation
 authors: Bohnet Bernd, Swersky Kevin, Liu Rosanne, Awasthi Pranjal, Nova Azade, Snaider Javier, Sedghi Hanie, Parisi Aaron T, Collins Michael, Lazaridou Angeliki, Firat Orhan, Fiedel Noah
 conference: "Arxiv"
 year: 2024

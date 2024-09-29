@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: O3D Offline Data-driven Discovery and Distillation for Sequential Decision-Making with Large Language Models
+title: O3D Offline Data-driven Discovery And Distillation For Sequential Decision-making With Large Language Models
 authors: Xiao Yuchen, Sun Yanchao, Xu Mengda, Madhushani Udari, Vann Jared, Garg Deepeka, Ganesh Sumitra
 conference: "Arxiv"
 year: 2023

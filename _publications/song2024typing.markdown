@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Typing Cure Experiences with Large Language Model Chatbots for Mental Health Support
+title: The Typing Cure Experiences With Large Language Model Chatbots For Mental Health Support
 authors: Song Inhwa, Pendse Sachin R., Kumar Neha, De Choudhury Munmun
 conference: "Arxiv"
 year: 2024

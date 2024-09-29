@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM-Aided Compilation for Tensor Accelerators
+title: Llm-aided Compilation For Tensor Accelerators
 authors: Hong Charles, Bhatia Sahil, Haan Altan, Dong Shengjun Kris, Nikiforov Dima, Cheung Alvin, Shao Yakun Sophia
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ExT5 Towards Extreme Multi-Task Scaling for Transfer Learning
+title: Ext5 Towards Extreme Multi-task Scaling For Transfer Learning
 authors: Aribandi Vamsi, Tay Yi, Schuster Tal, Rao Jinfeng, Zheng Huaixiu Steven, Mehta Sanket Vaibhav, Zhuang Honglei, Tran Vinh Q., Bahri Dara, Ni Jianmo, Gupta Jai, Hui Kai, Ruder Sebastian, Metzler Donald
 conference: "Arxiv"
 year: 2021

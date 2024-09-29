@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cross-Lingual Knowledge Editing in Large Language Models
+title: Cross-lingual Knowledge Editing In Large Language Models
 authors: Wang Jiaan, Liang Yunlong, Sun Zengkui, Cao Yuxuan, Xu Jiarong, Meng Fandong
 conference: "Arxiv"
 year: 2023

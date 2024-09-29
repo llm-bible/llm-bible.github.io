@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative AI for Enhancing Active Learning in Education A Comparative Study of GPT-3.5 and GPT-4 in Crafting Customized Test Questions
+title: Generative AI For Enhancing Active Learning In Education A Comparative Study Of GPT-3.5 And GPT-4 In Crafting Customized Test Questions
 authors: Rouzegar Hamdireza, Makrehchi Masoud
 conference: "Proceedings of The"
 year: 2024

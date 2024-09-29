@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Seq2RDF An end-to-end application for deriving Triples from Natural Language Text
+title: Seq2rdf An End-to-end Application For Deriving Triples From Natural Language Text
 authors: Liu Yue, Zhang Tongtao, Liang Zhicheng, Ji Heng, Mcguinness Deborah L.
 conference: "Arxiv"
 year: 2018

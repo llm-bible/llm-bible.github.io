@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Muse Text-To-Image Generation via Masked Generative Transformers
+title: Muse Text-to-image Generation Via Masked Generative Transformers
 authors: Chang Huiwen, Zhang Han, Barber Jarred, Maschinot Aj, Lezama Jose, Jiang Lu, Yang Ming-hsuan, Murphy Kevin, Freeman William T., Rubinstein Michael, Li Yuanzhen, Krishnan Dilip
 conference: "Arxiv"
 year: 2023

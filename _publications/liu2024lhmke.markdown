@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LHMKE A Large-scale Holistic Multi-subject Knowledge Evaluation Benchmark for Chinese Large Language Models
+title: LHMKE A Large-scale Holistic Multi-subject Knowledge Evaluation Benchmark For Chinese Large Language Models
 authors: Liu Chuang, Jin Renren, Ren Yuqi, Xiong Deyi
 conference: "Arxiv"
 year: 2024

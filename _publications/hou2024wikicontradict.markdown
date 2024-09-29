@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: WikiContradict A Benchmark for Evaluating LLMs on Real-World Knowledge Conflicts from Wikipedia
+title: Wikicontradict A Benchmark For Evaluating Llms On Real-world Knowledge Conflicts From Wikipedia
 authors: Hou Yufang, Pascale Alessandra, Carnerero-cano Javier, Tchrakian Tigran, Marinescu Radu, Daly Elizabeth, Padhi Inkit, Sattigeri Prasanna
 conference: "Arxiv"
 year: 2024

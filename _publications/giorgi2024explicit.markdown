@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Explicit and Implicit Large Language Model Personas Generate Opinions but Fail to Replicate Deeper Perceptions and Biases
+title: Explicit And Implicit Large Language Model Personas Generate Opinions But Fail To Replicate Deeper Perceptions And Biases
 authors: Giorgi Salvatore, Liu Tingting, Aich Ankit, Isman Kelsey, Sherman Garrick, Fried Zachary, Sedoc João, Ungar Lyle H., Curtis Brenda
 conference: "Arxiv"
 year: 2024

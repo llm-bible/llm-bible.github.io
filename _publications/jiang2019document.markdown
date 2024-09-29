@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Document-level Neural Machine Translation with Associated Memory Network
+title: Document-level Neural Machine Translation With Associated Memory Network
 authors: Jiang Shu, Wang Rui, Li Zuchao, Utiyama Masao, Chen Kehai, Sumita Eiichiro, Zhao Hai, Lu Bao-liang
 conference: "Arxiv"
 year: 2019

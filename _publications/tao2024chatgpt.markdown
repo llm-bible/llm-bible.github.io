@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChatGPT Role-play Dataset Analysis of User Motives and Model Naturalness
+title: Chatgpt Role-play Dataset Analysis Of User Motives And Model Naturalness
 authors: Tao Yufei, Agrawal Ameeta, Dombi Judit, Sydorenko Tetyana, Lee Jung In
 conference: "Arxiv"
 year: 2024

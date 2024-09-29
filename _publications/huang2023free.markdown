@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Free-Bloom Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator
+title: Free-bloom Zero-shot Text-to-video Generator With LLM Director And LDM Animator
 authors: Huang Hanzhuo, Feng Yufan, Shi Cheng, Xu Lan, Yu Jingyi, Yang Sibei
 conference: "Arxiv"
 year: 2023

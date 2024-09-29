@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BadLlama cheaply removing safety fine-tuning from Llama 2-Chat 13B
+title: Badllama Cheaply Removing Safety Fine-tuning From Llama 2-chat 13B
 authors: Gade Pranav, Lermen Simon, Rogers-smith Charlie, Ladish Jeffrey
 conference: "Arxiv"
 year: 2023

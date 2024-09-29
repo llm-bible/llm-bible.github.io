@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tree-Structured Semantic Encoder with Knowledge Sharing for Domain Adaptation in Natural Language Generation
+title: Tree-structured Semantic Encoder With Knowledge Sharing For Domain Adaptation In Natural Language Generation
 authors: Tseng Bo-hsiang, Budzianowski Paweł, Wu Yen-chen, Gašić Milica
 conference: "Arxiv"
 year: 2019

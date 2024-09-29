@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Structured flexible and robust benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks
+title: Structured Flexible And Robust Benchmarking And Improving Large Language Models Towards More Human-like Behavior In Out-of-distribution Reasoning Tasks
 authors: Collins Katherine M., Wong Catherine, Feng Jiahai, Wei Megan, Tenenbaum Joshua B.
 conference: "Arxiv"
 year: 2022

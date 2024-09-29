@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Interpreting Conversational Dense Retrieval by Rewriting-Enhanced Inversion of Session Embedding
+title: Interpreting Conversational Dense Retrieval By Rewriting-enhanced Inversion Of Session Embedding
 authors: Cheng Yiruo, Mao Kelong, Dou Zhicheng
 conference: "Arxiv"
 year: 2024

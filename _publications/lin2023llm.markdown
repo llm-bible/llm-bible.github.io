@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM-Eval Unified Multi-Dimensional Automatic Evaluation for Open-Domain Conversations with Large Language Models
+title: Llm-eval Unified Multi-dimensional Automatic Evaluation For Open-domain Conversations With Large Language Models
 authors: Yen-ting Lin, Yun-nung Chen
 conference: "Arxiv"
 year: 2023

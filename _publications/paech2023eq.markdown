@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EQ-Bench An Emotional Intelligence Benchmark for Large Language Models
+title: Eq-bench An Emotional Intelligence Benchmark For Large Language Models
 authors: Paech Samuel J.
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Check Your Facts and Try Again Improving Large Language Models with External Knowledge and Automated Feedback
+title: Check Your Facts And Try Again Improving Large Language Models With External Knowledge And Automated Feedback
 authors: Baolin Peng, Michel Galley, Pengcheng He, Hao Cheng, Yujia Xie, Yu Hu, Qiuyuan Huang, Lars Liden, Zhou Yu, Weizhu Chen, Jianfeng Gao
 conference: "Arxiv"
 year: 2023

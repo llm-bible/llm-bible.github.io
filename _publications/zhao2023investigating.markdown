@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating Table-to-Text Generation Capabilities of LLMs in Real-World Information Seeking Scenarios
+title: Investigating Table-to-text Generation Capabilities Of Llms In Real-world Information Seeking Scenarios
 authors: Zhao Yilun, Zhang Haowei, Si Shengyun, Nan Linyong, Tang Xiangru, Cohan Arman
 conference: "Arxiv"
 year: 2023

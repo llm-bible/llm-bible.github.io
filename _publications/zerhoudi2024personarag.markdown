@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PersonaRAG Enhancing Retrieval-Augmented Generation Systems with User-Centric Agents
+title: Personarag Enhancing Retrieval-augmented Generation Systems With User-centric Agents
 authors: Zerhoudi Saber, Granitzer Michael
 conference: "Arxiv"
 year: 2024

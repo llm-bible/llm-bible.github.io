@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: COCOA CBT-based Conversational Counseling Agent using Memory Specialized in Cognitive Distortions and Dynamic Prompt
+title: COCOA Cbt-based Conversational Counseling Agent Using Memory Specialized In Cognitive Distortions And Dynamic Prompt
 authors: Lee Suyeon, Kang Jieun, Kim Harim, Chung Kyoung-mee, Lee Dongha, Yeo Jinyoung
 conference: "Arxiv"
 year: 2024

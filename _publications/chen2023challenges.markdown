@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Challenges and Contributing Factors in the Utilization of Large Language Models (LLMs)
+title: Challenges And Contributing Factors In The Utilization Of Large Language Models (llms)
 authors: Chen Xiaoliang, Li Liangbin, Chang Le, Huang Yunhe, Zhao Yuxuan, Zhang Yuxiao, Li Dinuo
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PLATO-XL Exploring the Large-scale Pre-training of Dialogue Generation
+title: PLATO-XL Exploring The Large-scale Pre-training Of Dialogue Generation
 authors: Bao Siqi, He Huang, Wang Fan, Wu Hua, Wang Haifeng, Wu Wenquan, Wu Zhihua, Guo Zhen, Lu Hua, Huang Xinxian, Tian Xin, Xu Xinchao, Lin Yingzhan, Niu Zheng-yu
 conference: "Arxiv"
 year: 2021

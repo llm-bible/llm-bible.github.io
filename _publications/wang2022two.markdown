@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Two-stage LLM Fine-tuning with Less Specialization and More Generalization
+title: Two-stage LLM Fine-tuning With Less Specialization And More Generalization
 authors: Wang Yihan, Si Si, Li Daliang, Lukasik Michal, Yu Felix, Hsieh Cho-jui, Dhillon Inderjit S, Kumar Sanjiv
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Context-Guided BERT for Targeted Aspect-Based Sentiment Analysis
+title: Context-guided BERT For Targeted Aspect-based Sentiment Analysis
 authors: Wu Zhengxuan, Ong Desmond C.
 conference: "AAAI"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Teaching a Multilingual Large Language Model to Understand Multilingual Speech via Multi-Instructional Training
+title: Teaching A Multilingual Large Language Model To Understand Multilingual Speech Via Multi-instructional Training
 authors: Denisov Pavel, Vu Ngoc Thang
 conference: "Arxiv"
 year: 2024

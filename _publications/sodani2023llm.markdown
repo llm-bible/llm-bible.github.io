@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM Guided Inductive Inference for Solving Compositional Problems
+title: LLM Guided Inductive Inference For Solving Compositional Problems
 authors: Sodani Abhigya, Moos Lauren, Mirman Matthew
 conference: "Arxiv"
 year: 2023

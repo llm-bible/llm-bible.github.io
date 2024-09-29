@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can LLMs Follow Simple Rules
+title: Can Llms Follow Simple Rules
 authors: Mu Norman, Chen Sarah, Wang Zifan, Chen Sizhe, Karamardian David, Aljeraisy Lulwa, Alomair Basel, Hendrycks Dan, Wagner David
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gemini in Reasoning Unveiling Commonsense in Multimodal Large Language Models
+title: Gemini In Reasoning Unveiling Commonsense In Multimodal Large Language Models
 authors: Wang Yuqing, Zhao Yun
 conference: "Arxiv"
 year: 2023

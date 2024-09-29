@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-grained Contract NER using instruction based model
+title: Fine-grained Contract NER Using Instruction Based Model
 authors: Adibhatla Hiranmai Sri, Baswani Pavan, Shrivastava Manish
 conference: "Arxiv"
 year: 2024

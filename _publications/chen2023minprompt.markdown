@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MinPrompt Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering
+title: Minprompt Graph-based Minimal Prompt Data Augmentation For Few-shot Question Answering
 authors: Chen Xiusi, Jiang Jyun-yu, Chang Wei-cheng, Hsieh Cho-jui, Yu Hsiang-fu, Wang Wei
 conference: "Arxiv"
 year: 2023

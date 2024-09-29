@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chain-of-Spot Interactive Reasoning Improves Large Vision-Language Models
+title: Chain-of-spot Interactive Reasoning Improves Large Vision-language Models
 authors: Liu Zuyan, Dong Yuhao, Rao Yongming, Zhou Jie, Lu Jiwen
 conference: "Arxiv"
 year: 2024

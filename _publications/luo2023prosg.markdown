@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ProSG Using Prompt Synthetic Gradients to Alleviate Prompt Forgetting of RNN-like Language Models
+title: Prosg Using Prompt Synthetic Gradients To Alleviate Prompt Forgetting Of Rnn-like Language Models
 authors: Luo Haotian, Wu Kunming, Dai Cheng, Ding Sixian, Chen Xinhao
 conference: "Arxiv"
 year: 2023

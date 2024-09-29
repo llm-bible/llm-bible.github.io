@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aint Misbehavin -- Using LLMs to Generate Expressive Robot Behavior in Conversations with the Tabletop Robot Haru
+title: Aint Misbehavin -- Using Llms To Generate Expressive Robot Behavior In Conversations With The Tabletop Robot Haru
 authors: Wang Zining, Reisert Paul, Nichols Eric, Gomez Randy
 conference: "Companion of HRI"
 year: 2024

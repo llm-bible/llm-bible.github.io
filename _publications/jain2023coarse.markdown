@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Coarse-Tuning Models of Code with Reinforcement Learning Feedback
+title: Coarse-tuning Models Of Code With Reinforcement Learning Feedback
 authors: Jain Abhinav, Adiole Chima, Chaudhuri Swarat, Reps Thomas, Jermaine Chris
 conference: "Arxiv"
 year: 2023

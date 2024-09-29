@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Making the Most of Context in Neural Machine Translation
+title: Towards Making The Most Of Context In Neural Machine Translation
 authors: Zheng Zaixiang, Yue Xiang, Huang Shujian, Chen Jiajun, Birch Alexandra
 conference: "Arxiv"
 year: 2020

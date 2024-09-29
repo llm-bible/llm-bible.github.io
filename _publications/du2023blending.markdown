@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Blending Reward Functions via Few Expert Demonstrations for Faithful and Accurate Knowledge-Grounded Dialogue Generation
+title: Blending Reward Functions Via Few Expert Demonstrations For Faithful And Accurate Knowledge-grounded Dialogue Generation
 authors: Du Wanyu, Ji Yangfeng
 conference: "Arxiv"
 year: 2023

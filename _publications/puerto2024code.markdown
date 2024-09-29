@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Code Prompting Elicits Conditional Reasoning Abilities in Text+Code LLMs
+title: Code Prompting Elicits Conditional Reasoning Abilities In Text+code Llms
 authors: Puerto Haritz, Tutek Martin, Aditya Somak, Zhu Xiaodan, Gurevych Iryna
 conference: "Arxiv"
 year: 2024

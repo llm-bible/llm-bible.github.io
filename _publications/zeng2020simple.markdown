@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Simple and Efficient Multi-Task Learning Approach for Conditioned Dialogue Generation
+title: A Simple And Efficient Multi-task Learning Approach For Conditioned Dialogue Generation
 authors: Zeng Yan, Nie Jian-yun
 conference: "Arxiv"
 year: 2020

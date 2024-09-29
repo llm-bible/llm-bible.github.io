@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MBBQ A Dataset for Cross-Lingual Comparison of Stereotypes in Generative LLMs
+title: MBBQ A Dataset For Cross-lingual Comparison Of Stereotypes In Generative Llms
 authors: Neplenbroek Vera, Bisazza Arianna, Fernández Raquel
 conference: "Arxiv"
 year: 2024

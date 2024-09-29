@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Embedding Large Language Models into Extended Reality Opportunities and Challenges for Inclusion Engagement and Privacy
+title: Embedding Large Language Models Into Extended Reality Opportunities And Challenges For Inclusion Engagement And Privacy
 authors: Bozkir Efe, Özdel Süleyman, Lau Ka Hei Carrie, Wang Mengdi, Gao Hong, Kasneci Enkelejda
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Faithful Chain-of-Thought Large Language Models are Bridging Reasoners
+title: Towards Faithful Chain-of-thought Large Language Models Are Bridging Reasoners
 authors: Li Jiachun, Cao Pengfei, Chen Yubo, Liu Kang, Zhao Jun
 conference: "Arxiv"
 year: 2024

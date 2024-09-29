@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: End-to-End Answer Chunk Extraction and Ranking for Reading Comprehension
+title: End-to-end Answer Chunk Extraction And Ranking For Reading Comprehension
 authors: Yu Yang, Zhang Wei, Hasan Kazi, Yu Mo, Xiang Bing, Zhou Bowen
 conference: "Arxiv"
 year: 2016

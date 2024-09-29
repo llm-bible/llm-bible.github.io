@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LightMBERT A Simple Yet Effective Method for Multilingual BERT Distillation
+title: Lightmbert A Simple Yet Effective Method For Multilingual BERT Distillation
 authors: Jiao Xiaoqi, Yin Yichun, Shang Lifeng, Jiang Xin, Chen Xiao, Li Linlin, Wang Fang, Liu Qun
 conference: "Arxiv"
 year: 2021

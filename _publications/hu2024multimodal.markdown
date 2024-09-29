@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multimodal Chain-of-Thought Reasoning via ChatGPT to Protect Children from Age-Inappropriate Apps
+title: Multimodal Chain-of-thought Reasoning Via Chatgpt To Protect Children From Age-inappropriate Apps
 authors: Hu Chuanbo, Liu Bin, Yin Minglei, Zhou Yilu, Li Xin
 conference: "Arxiv"
 year: 2024

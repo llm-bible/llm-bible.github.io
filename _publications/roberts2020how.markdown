@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Much Knowledge Can You Pack Into the Parameters of a Language Model
+title: How Much Knowledge Can You Pack Into The Parameters Of A Language Model
 authors: Adam Roberts, Colin Raffel, Noam Shazeer
 conference: "Arxiv"
 year: 2020

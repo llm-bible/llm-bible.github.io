@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enabling Large Language Models to Learn from Rules
+title: Enabling Large Language Models To Learn From Rules
 authors: Yang Wenkai, Lin Yankai, Zhou Jie, Wen Jirong
 conference: "Arxiv"
 year: 2023

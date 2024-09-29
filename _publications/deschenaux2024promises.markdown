@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Promises Outlooks and Challenges of Diffusion Language Modeling
+title: Promises Outlooks And Challenges Of Diffusion Language Modeling
 authors: Deschenaux Justin, Gulcehre Caglar
 conference: "Arxiv"
 year: 2024

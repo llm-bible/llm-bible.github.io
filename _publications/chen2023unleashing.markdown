@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unleashing the potential of prompt engineering in Large Language Models a comprehensive review
+title: Unleashing The Potential Of Prompt Engineering In Large Language Models A Comprehensive Review
 authors: Chen Banghao, Zhang Zhaofeng, Langrené Nicolas, Zhu Shengxin
 conference: "Arxiv"
 year: 2023

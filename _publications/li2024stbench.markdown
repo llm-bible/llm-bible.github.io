@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: STBench Assessing the Ability of Large Language Models in Spatio-Temporal Analysis
+title: Stbench Assessing The Ability Of Large Language Models In Spatio-temporal Analysis
 authors: Li Wenbin, Yao Di, Zhao Ruibo, Chen Wenjie, Xu Zijie, Luo Chengxue, Gong Chang, Jing Quanliang, Tan Haining, Bi Jingping
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring ChatGPT and its Impact on Society
+title: Exploring Chatgpt And Its Impact On Society
 authors: Haque Md. Asraful, Li Shuai
 conference: "AI and Ethics"
 year: 2024

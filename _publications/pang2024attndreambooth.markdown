@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AttnDreamBooth Towards Text-Aligned Personalized Text-to-Image Generation
+title: Attndreambooth Towards Text-aligned Personalized Text-to-image Generation
 authors: Pang Lianyu, Yin Jian, Zhao Baoquan, Wu Feize, Wang Fu Lee, Li Qing, Mao Xudong
 conference: "Arxiv"
 year: 2024

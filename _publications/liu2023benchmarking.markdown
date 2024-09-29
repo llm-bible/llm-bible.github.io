@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Benchmarking Generation and Evaluation Capabilities of Large Language Models for Instruction Controllable Summarization
+title: Benchmarking Generation And Evaluation Capabilities Of Large Language Models For Instruction Controllable Summarization
 authors: Liu Yixin, Fabbri Alexander R., Chen Jiawen, Zhao Yilun, Han Simeng, Joty Shafiq, Liu Pengfei, Radev Dragomir, Wu Chien-sheng, Cohan Arman
 conference: "Arxiv"
 year: 2023

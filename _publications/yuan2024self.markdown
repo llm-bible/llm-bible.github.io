@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-Rewarding Language Models
+title: Self-rewarding Language Models
 authors: Yuan Weizhe, Pang Richard Yuanzhe, Cho Kyunghyun, Li Xian, Sukhbaatar Sainbayar, Xu Jing, Weston Jason
 conference: "Arxiv"
 year: 2024

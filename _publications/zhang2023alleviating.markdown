@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Alleviating Hallucinations of Large Language Models through Induced Hallucinations
+title: Alleviating Hallucinations Of Large Language Models Through Induced Hallucinations
 authors: Zhang Yue, Cui Leyang, Bi Wei, Shi Shuming
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Long Context Question Answering via Supervised Contrastive Learning
+title: Long Context Question Answering Via Supervised Contrastive Learning
 authors: Caciularu Avi, Dagan Ido, Goldberger Jacob, Cohan Arman
 conference: "Arxiv"
 year: 2021

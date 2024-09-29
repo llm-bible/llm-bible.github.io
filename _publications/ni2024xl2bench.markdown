@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: XL^2Bench A Benchmark for Extremely Long Context Understanding with Long-range Dependencies
+title: Xl^2bench A Benchmark For Extremely Long Context Understanding With Long-range Dependencies
 authors: Ni Xuanfan, Cai Hengyi, Wei Xiaochi, Wang Shuaiqiang, Yin Dawei, Li Piji
 conference: "Arxiv"
 year: 2024

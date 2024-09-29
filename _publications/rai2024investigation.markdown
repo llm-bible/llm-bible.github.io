@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Investigation of Neuron Activation as a Unified Lens to Explain Chain-of-Thought Eliciting Arithmetic Reasoning of LLMs
+title: An Investigation Of Neuron Activation As A Unified Lens To Explain Chain-of-thought Eliciting Arithmetic Reasoning Of Llms
 authors: Rai Daking, Yao Ziyu
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SPAR Personalized Content-Based Recommendation via Long Engagement Attention
+title: SPAR Personalized Content-based Recommendation Via Long Engagement Attention
 authors: Chiyu Zhang, Yifei Sun, Jun Chen, Jie Lei, Muhammad Abdul-mageed, Sinong Wang, Rong Jin, Sem Park, Ning Yao, Bo Long
 conference: "Arxiv"
 year: 2024

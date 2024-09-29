@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unmasking The Giant A Comprehensive Evaluation Of Chatgptx27;s Proficiency In Coding Algorithms And Data Structures
+title: Unmasking The Giant A Comprehensive Evaluation Of Chatgpts Proficiency In Coding Algorithms And Data Structures
 authors: Arefin Sayed Erfan, Heya Tasnia Ashrafi, Al-qudah Hasan, Ineza Ynes, Serwadda Abdul
 conference: "Proceedings of the"
 year: 2023

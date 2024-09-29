@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Falcon Series of Open Language Models
+title: The Falcon Series Of Open Language Models
 authors: Almazrouei Ebtesam, Alobeidli Hamza, Alshamsi Abdulaziz, Cappelli Alessandro, Cojocaru Ruxandra, Debbah Mérouane, Goffinet Étienne, Hesslow Daniel, Launay Julien, Malartic Quentin, Mazzotta Daniele, Noune Badreddine, Pannier Baptiste, Penedo Guilherme
 conference: "Arxiv"
 year: 2023

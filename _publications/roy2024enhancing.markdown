@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Low-Resource NMT with a Multilingual Encoder and Knowledge Distillation A Case Study
+title: Enhancing Low-resource NMT With A Multilingual Encoder And Knowledge Distillation A Case Study
 authors: Roy Aniruddha, Ray Pretam, Maheshwari Ayush, Sarkar Sudeshna, Goyal Pawan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Prompting Large Language Models as Explainable Metrics
+title: Exploring Prompting Large Language Models As Explainable Metrics
 authors: Mahmoudi Ghazaleh
 conference: "Proceedings of the"
 year: 2023

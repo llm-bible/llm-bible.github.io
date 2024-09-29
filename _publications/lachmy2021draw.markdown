@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Draw Me a Flower Processing and Grounding Abstraction in Natural Language
+title: Draw Me A Flower Processing And Grounding Abstraction In Natural Language
 authors: Lachmy Royi, Pyatkin Valentina, Manevich Avshalom, Tsarfaty Reut
 conference: "Arxiv"
 year: 2021

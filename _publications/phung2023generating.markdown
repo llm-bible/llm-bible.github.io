@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generating High-Precision Feedback for Programming Syntax Errors using Large Language Models
+title: Generating High-precision Feedback For Programming Syntax Errors Using Large Language Models
 authors: Phung Tung, Cambronero José, Gulwani Sumit, Kohn Tobias, Majumdar Rupak, Singla Adish, Soares Gustavo
 conference: "Arxiv"
 year: 2023

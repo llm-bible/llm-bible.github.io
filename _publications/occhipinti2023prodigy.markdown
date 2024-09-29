@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PRODIGy a PROfile-based DIalogue Generation dataset
+title: Prodigy A Profile-based Dialogue Generation Dataset
 authors: Occhipinti Daniela, Tekiroglu Serra Sinem, Guerini Marco
 conference: "Arxiv"
 year: 2023

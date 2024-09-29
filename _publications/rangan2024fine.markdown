@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Fine-tuning Enhanced RAG System with Quantized Influence Measure as AI Judge
+title: A Fine-tuning Enhanced RAG System With Quantized Influence Measure As AI Judge
 authors: Rangan Keshav, Yin Yiqiao
 conference: "Arxiv"
 year: 2024

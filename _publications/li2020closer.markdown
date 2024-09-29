@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Closer Look at the Robustness of Vision-and-Language Pre-trained Models
+title: A Closer Look At The Robustness Of Vision-and-language Pre-trained Models
 authors: Li Linjie, Gan Zhe, Liu Jingjing
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On the Calibration of Multilingual Question Answering LLMs
+title: On The Calibration Of Multilingual Question Answering Llms
 authors: Yang Yahan, Dan Soham, Roth Dan, Lee Insup
 conference: "Arxiv"
 year: 2023

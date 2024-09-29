@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ERNIE-ViLG Unified Generative Pre-training for Bidirectional Vision-Language Generation
+title: Ernie-vilg Unified Generative Pre-training For Bidirectional Vision-language Generation
 authors: Zhang Han, Yin Weichong, Fang Yewei, Li Lanxin, Duan Boqiang, Wu Zhihua, Sun Yu, Tian Hao, Wu Hua, Wang Haifeng
 conference: "Arxiv"
 year: 2021

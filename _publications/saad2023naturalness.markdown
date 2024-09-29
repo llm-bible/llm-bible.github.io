@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Naturalness of Attention Revisiting Attention in Code Language Models
+title: Naturalness Of Attention Revisiting Attention In Code Language Models
 authors: Saad Mootez, Sharma Tushar
 conference: "Arxiv"
 year: 2023

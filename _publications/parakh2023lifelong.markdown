@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lifelong Robot Learning with Human Assisted Language Planners
+title: Lifelong Robot Learning With Human Assisted Language Planners
 authors: Parakh Meenal, Fong Alisha, Simeonov Anthony, Chen Tao, Gupta Abhishek, Agrawal Pulkit
 conference: "Arxiv"
 year: 2023

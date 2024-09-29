@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Creating Arabic LLM Prompts at Scale
+title: Creating Arabic LLM Prompts At Scale
 authors: El-sheikh Abdelrahman, Elmogtaba Ahmed, Darwish Kareem, Elmallah Muhammad, Elneima Ashraf, Sawaf Hassan
 conference: "Arxiv"
 year: 2024

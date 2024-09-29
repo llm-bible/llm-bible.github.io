@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AutoDAN Interpretable Gradient-Based Adversarial Attacks on Large Language Models
+title: Autodan Interpretable Gradient-based Adversarial Attacks On Large Language Models
 authors: Zhu Sicheng, Zhang Ruiyi, An Bang, Wu Gang, Barrow Joe, Wang Zichao, Huang Furong, Nenkova Ani, Sun Tong
 conference: "Arxiv"
 year: 2023

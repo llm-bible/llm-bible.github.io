@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DeepThought An Architecture for Autonomous Self-motivated Systems
+title: Deepthought An Architecture For Autonomous Self-motivated Systems
 authors: Oliveira Arlindo L., Domingos Tiago, Figueiredo Mário, Lima Pedro U.
 conference: "Arxiv"
 year: 2023

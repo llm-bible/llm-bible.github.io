@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Presentation Slide Generation by LLMs with a Multi-Staged End-to-End Approach
+title: Enhancing Presentation Slide Generation By Llms With A Multi-staged End-to-end Approach
 authors: Bandyopadhyay Sambaran, Maheshwari Himanshu, Natarajan Anandhavelu, Saxena Apoorv
 conference: "Arxiv"
 year: 2024

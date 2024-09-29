@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lite Training Strategies for Portuguese-English and English-Portuguese Translation
+title: Lite Training Strategies For Portuguese-english And English-portuguese Translation
 authors: Lopes Alexandre, Nogueira Rodrigo, Lotufo Roberto, Pedrini Helio
 conference: "Arxiv"
 year: 2020

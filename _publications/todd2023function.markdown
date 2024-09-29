@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Function Vectors in Large Language Models
+title: Function Vectors In Large Language Models
 authors: Todd Eric, Li Millicent L., Sharma Arnab Sen, Mueller Aaron, Wallace Byron C., Bau David
 conference: "Arxiv"
 year: 2023

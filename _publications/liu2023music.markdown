@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Music Understanding LLaMA Advancing Text-to-Music Generation with Question Answering and Captioning
+title: Music Understanding Llama Advancing Text-to-music Generation With Question Answering And Captioning
 authors: Liu Shansong, Hussain Atin Sakkeer, Sun Chenshuo, Shan Ying
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Abductive Reasoning with the GPT-4 Language Model Case studies from criminal investigation medical practice scientific research
+title: Abductive Reasoning With The GPT-4 Language Model Case Studies From Criminal Investigation Medical Practice Scientific Research
 authors: Pareschi Remo
 conference: "Arxiv"
 year: 2023

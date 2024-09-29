@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Large Language Models with fmeval
+title: Evaluating Large Language Models With Fmeval
 authors: Schwöbel Pola, Franceschi Luca, Zafar Muhammad Bilal, Vasist Keerthan, Malhotra Aman, Shenhar Tomer, Tailor Pinal, Yilmaz Pinar, Diamond Michael, Donini Michele
 conference: "Arxiv"
 year: 2024

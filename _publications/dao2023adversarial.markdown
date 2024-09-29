@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Adversarial Example for Direct Logit Attribution Memory Management in gelu-4l
+title: An Adversarial Example For Direct Logit Attribution Memory Management In Gelu-4l
 authors: Dao James, Lau Yeu-tong, Rager Can, Janiak Jett
 conference: "Arxiv"
 year: 2023

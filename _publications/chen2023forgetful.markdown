@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Forgetful Large Language Models Lessons Learned from Using LLMs in Robot Programming
+title: Forgetful Large Language Models Lessons Learned From Using Llms In Robot Programming
 authors: Chen Juo-tung, Huang Chien-ming
 conference: "Arxiv"
 year: 2023

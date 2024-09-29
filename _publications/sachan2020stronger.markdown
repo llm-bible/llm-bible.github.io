@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Stronger Transformers for Neural Multi-Hop Question Generation
+title: Stronger Transformers For Neural Multi-hop Question Generation
 authors: Sachan Devendra Singh, Wu Lingfei, Sachan Mrinmaya, Hamilton William
 conference: "Arxiv"
 year: 2020

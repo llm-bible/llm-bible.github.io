@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Advances of Transformer-Based Models for News Headline Generation
+title: Advances Of Transformer-based Models For News Headline Generation
 authors: Bukhtiyarov Alexey, Gusev Ilya
 conference: "Arxiv"
 year: 2020

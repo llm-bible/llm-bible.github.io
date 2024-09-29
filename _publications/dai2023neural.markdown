@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Neural Retrievers are Biased Towards LLM-Generated Content
+title: Neural Retrievers Are Biased Towards Llm-generated Content
 authors: Dai Sunhao, Zhou Yuqi, Pang Liang, Liu Weihao, Hu Xiaolin, Liu Yong, Zhang Xiao, Wang Gang, Xu Jun
 conference: "Arxiv"
 year: 2023

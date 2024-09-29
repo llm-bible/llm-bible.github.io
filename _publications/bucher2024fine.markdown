@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-tuned x27;smallx27; Llms (still) Significantly Outperform Zero-shot Generative AI Models In Text Classification
+title: Fine-tuned small Llms (still) Significantly Outperform Zero-shot Generative AI Models In Text Classification
 authors: Bucher Martin Juan José, Martini Marco
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChatGPT vs Human-authored Text Insights into Controllable Text Summarization and Sentence Style Transfer
+title: Chatgpt Vs Human-authored Text Insights Into Controllable Text Summarization And Sentence Style Transfer
 authors: Pu Dongqi, Demberg Vera
 conference: "Arxiv"
 year: 2023

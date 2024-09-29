@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Toward Self-Improvement of LLMs via Imagination Searching and Criticizing
+title: Toward Self-improvement Of Llms Via Imagination Searching And Criticizing
 authors: Tian Ye, Peng Baolin, Song Linfeng, Jin Lifeng, Yu Dian, Mi Haitao, Yu Dong
 conference: "Arxiv"
 year: 2024

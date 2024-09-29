@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Potential Benefits of Employing Large Language Models in Research in Moral Education and Development
+title: Potential Benefits Of Employing Large Language Models In Research In Moral Education And Development
 authors: Han Hyemin
 conference: "Arxiv"
 year: 2023

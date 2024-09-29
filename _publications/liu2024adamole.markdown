@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AdaMoLE Fine-Tuning Large Language Models with Adaptive Mixture of Low-Rank Adaptation Experts
+title: Adamole Fine-tuning Large Language Models With Adaptive Mixture Of Low-rank Adaptation Experts
 authors: Liu Zefang, Luo Jiahua
 conference: "Arxiv"
 year: 2024

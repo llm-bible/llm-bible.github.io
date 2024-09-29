@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Conversational Search Large Language Model-Aided Informative Query Rewriting
+title: Enhancing Conversational Search Large Language Model-aided Informative Query Rewriting
 authors: Ye Fanghua, Fang Meng, Li Shenghui, Yilmaz Emine
 conference: "Arxiv"
 year: 2023

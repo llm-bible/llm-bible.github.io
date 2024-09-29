@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Interactive Learning of Hierarchical Tasks from Dialog with GPT
+title: Interactive Learning Of Hierarchical Tasks From Dialog With GPT
 authors: Lawley Lane, Maclellan Christopher J.
 conference: "Arxiv"
 year: 2023

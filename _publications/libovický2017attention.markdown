@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attention Strategies for Multi-Source Sequence-to-Sequence Learning
+title: Attention Strategies For Multi-source Sequence-to-sequence Learning
 authors: Libovický Jindřich, Helcl Jindřich
 conference: "Arxiv"
 year: 2017

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-MoE Towards Compositional Large Language Models with Self-Specialized Experts
+title: Self-moe Towards Compositional Large Language Models With Self-specialized Experts
 authors: Kang Junmo, Karlinsky Leonid, Luo Hongyin, Wang Zhen, Hansen Jacob, Glass James, Cox David, Panda Rameswar, Feris Rogerio, Ritter Alan
 conference: "Arxiv"
 year: 2024

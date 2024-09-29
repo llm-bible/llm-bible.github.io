@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: OpenBA An Open-sourced 15B Bilingual Asymmetric seq2seq Model Pre-trained from Scratch
+title: Openba An Open-sourced 15B Bilingual Asymmetric Seq2seq Model Pre-trained From Scratch
 authors: Li Juntao, Tang Zecheng, Ding Yuyang, Wang Pinzheng, Guo Pei, You Wangjie, Qiao Dan, Chen Wenliang, Fu Guohong, Zhu Qiaoming, Zhou Guodong, Zhang Min
 conference: "Arxiv"
 year: 2023

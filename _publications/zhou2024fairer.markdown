@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fairer Preferences Elicit Improved Human-Aligned Large Language Model Judgments
+title: Fairer Preferences Elicit Improved Human-aligned Large Language Model Judgments
 authors: Zhou Han, Wan Xingchen, Liu Yinhong, Collier Nigel, Vulić Ivan, Korhonen Anna
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MM-Instruct Generated Visual Instructions for Large Multimodal Model Alignment
+title: Mm-instruct Generated Visual Instructions For Large Multimodal Model Alignment
 authors: Liu Jihao, Huang Xin, Zheng Jinliang, Liu Boxiao, Wang Jia, Yoshie Osamu, Liu Yu, Li Hongsheng
 conference: "Arxiv"
 year: 2024

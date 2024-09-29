@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Uncertainty-Aware Explainable Recommendation with Large Language Models
+title: Uncertainty-aware Explainable Recommendation With Large Language Models
 authors: Peng Yicui, Chen Hao, Lin Chingsheng, Huang Guo, Hu Jinrong, Guo Hui, Kong Bin, Hu Shu, Wu Xi, Wang Xin
 conference: "Arxiv"
 year: 2024

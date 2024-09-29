@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Toward the Evaluation of Large Language Models Considering Score Variance across Instruction Templates
+title: Toward The Evaluation Of Large Language Models Considering Score Variance Across Instruction Templates
 authors: Sakai Yusuke, Nohejl Adam, Hang Jiangnan, Kamigaito Hidetaka, Watanabe Taro
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MetaAligner Towards Generalizable Multi-Objective Alignment of Language Models
+title: Metaaligner Towards Generalizable Multi-objective Alignment Of Language Models
 authors: Yang Kailai, Liu Zhiwei, Xie Qianqian, Huang Jimin, Zhang Tianlin, Ananiadou Sophia
 conference: "Arxiv"
 year: 2024

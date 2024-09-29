@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Benchmarking LLM powered Chatbots Methods and Metrics
+title: Benchmarking LLM Powered Chatbots Methods And Metrics
 authors: Banerjee Debarag, Singh Pooja, Avadhanam Arjun, Srivastava Saksham
 conference: "Arxiv"
 year: 2023

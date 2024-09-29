@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChatGPT Incorrectness Detection in Software Reviews
+title: Chatgpt Incorrectness Detection In Software Reviews
 authors: Tanzil Minaoar Hossain, Khan Junaed Younus, Uddin Gias
 conference: "IEEE/ACM"
 year: 2024

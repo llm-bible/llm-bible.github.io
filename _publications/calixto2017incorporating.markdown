@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Incorporating Global Visual Features into Attention-Based Neural Machine Translation
+title: Incorporating Global Visual Features Into Attention-based Neural Machine Translation
 authors: Calixto Iacer, Liu Qun, Campbell Nick
 conference: "Arxiv"
 year: 2017

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Visual Question Answering based on Local-Scene-Aware Referring Expression Generation
+title: Visual Question Answering Based On Local-scene-aware Referring Expression Generation
 authors: Kim Jung-jun, Lee Dong-gyu, Wu Jialin, Jung Hong-gyu, Lee Seong-whan
 conference: "Arxiv"
 year: 2021

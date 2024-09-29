@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chain-Of-Thought Prompting Under Streaming Batch A Case Study
+title: Chain-of-thought Prompting Under Streaming Batch A Case Study
 authors: Yuxin Tang
 conference: "Arxiv"
 year: 2023

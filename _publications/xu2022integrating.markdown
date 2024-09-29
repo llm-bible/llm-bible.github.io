@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Integrating Translation Memories into Non-Autoregressive Machine Translation
+title: Integrating Translation Memories Into Non-autoregressive Machine Translation
 authors: Xu Jitao, Crego Josep, Yvon François
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards General Conceptual Model Editing via Adversarial Representation Engineering
+title: Towards General Conceptual Model Editing Via Adversarial Representation Engineering
 authors: Zhang Yihao, Wei Zeming, Sun Jun, Sun Meng
 conference: "Arxiv"
 year: 2024

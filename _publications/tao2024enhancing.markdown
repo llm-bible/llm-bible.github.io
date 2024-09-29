@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Commentary Strategies for Imperfect Information Card Games A Study of Large Language Models in Guandan Commentary
+title: Enhancing Commentary Strategies For Imperfect Information Card Games A Study Of Large Language Models In Guandan Commentary
 authors: Tao Meiling, Liang Xuechen, Wang Ziyi, Tao Yiling, Shi Tianyu
 conference: "Arxiv"
 year: 2024

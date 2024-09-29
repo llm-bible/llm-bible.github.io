@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Estimating Knowledge in Large Language Models Without Generating a Single Token
+title: Estimating Knowledge In Large Language Models Without Generating A Single Token
 authors: Gottesman Daniela, Geva Mor
 conference: "Arxiv"
 year: 2024

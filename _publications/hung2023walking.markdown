@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Walking a Tightrope -- Evaluating Large Language Models in High-Risk Domains
+title: Walking A Tightrope -- Evaluating Large Language Models In High-risk Domains
 authors: Hung Chia-chien, Rim Wiem Ben, Frost Lindsay, Bruckner Lars, Lawrence Carolin
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Judging the Judges A Systematic Investigation of Position Bias in Pairwise Comparative Assessments by LLMs
+title: Judging The Judges A Systematic Investigation Of Position Bias In Pairwise Comparative Assessments By Llms
 authors: Shi Lin, Ma Chiyu, Ma Weicheng, Vosoughi Soroush
 conference: "Arxiv"
 year: 2024

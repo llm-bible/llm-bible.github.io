@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mixture-of-Instructions Comprehensive Alignment of a Large Language Model through the Mixture of Diverse System Prompting Instructions
+title: Mixture-of-instructions Comprehensive Alignment Of A Large Language Model Through The Mixture Of Diverse System Prompting Instructions
 authors: Xu Bowen, Wu Shaoyu, Liu Kai, Hu Lulu
 conference: "Arxiv"
 year: 2024

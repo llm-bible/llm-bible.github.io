@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The elephant in the interpretability room Why use attention as explanation when we have saliency methods
+title: The Elephant In The Interpretability Room Why Use Attention As Explanation When We Have Saliency Methods
 authors: Bastings Jasmijn, Filippova Katja
 conference: "Proceedings of the"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FunAudioLLM Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs
+title: Funaudiollm Voice Understanding And Generation Foundation Models For Natural Interaction Between Humans And Llms
 authors: An Keyu, Chen Qian, Deng Chong, Du Zhihao, Gao Changfeng, Gao Zhifu, Gu Yue, He Ting, Hu Hangrui, Hu Kai, Ji Shengpeng, Li Yabin, Li Zerui, Lu Heng, Luo Haoneng, Lv Xiang, Ma Bin, Ma Ziyang, Ni Chongjia, Song Changhe, Shi Jiaqi, Shi Xian, Wang Hao, Wang Wen, Wang Yuxuan, Xiao Zhangyu, Yan Zhijie, Yang Yexin, Zhang Bin, Zhang Qinglin, Zhang Shiliang, Zhao Nan, Zheng Siqi
 conference: "Arxiv"
 year: 2024

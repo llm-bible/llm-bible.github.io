@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Watermarking LLMs with Weight Quantization
+title: Watermarking Llms With Weight Quantization
 authors: Li Linyang, Jiang Botian, Wang Pengyu, Ren Ke, Yan Hang, Qiu Xipeng
 conference: "Arxiv"
 year: 2023

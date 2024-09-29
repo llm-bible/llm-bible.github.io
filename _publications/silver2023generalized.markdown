@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generalized Planning in PDDL Domains with Pretrained Large Language Models
+title: Generalized Planning In PDDL Domains With Pretrained Large Language Models
 authors: Silver Tom, Dan Soham, Srinivas Kavitha, Tenenbaum Joshua B., Kaelbling Leslie Pack, Katz Michael
 conference: "Arxiv"
 year: 2023

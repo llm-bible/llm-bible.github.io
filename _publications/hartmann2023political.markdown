@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Political Ideology Of Conversational AI Converging Evidence On Chatgptx27;s Pro-environmental Left-libertarian Orientation
+title: The Political Ideology Of Conversational AI Converging Evidence On Chatgpts Pro-environmental Left-libertarian Orientation
 authors: Hartmann Jochen, Schwenzow Jasper, Witte Maximilian
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments
+title: Llm-based Multi-hop Question Answering With Knowledge Graph Integration In Evolving Environments
 authors: Chen Ruirui, Jiang Weifeng, Qin Chengwei, Rawal Ishaan Singh, Tan Cheston, Choi Dongkyu, Xiong Bo, Ai Bo
 conference: "Arxiv"
 year: 2024
