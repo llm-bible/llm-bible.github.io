@@ -109,7 +109,7 @@ Below is a collection of university and online courses that offer a deep dive in
 
 4. [GPT-3: Building Innovative NLP Products Using Large Language Models](https://www.amazon.co.uk/Gpt-3-Building-Innovative-Products-Language/dp/1098113624) by Sandra Kublik, Shubham Saboo, and Dhaval Pattani: A hands-on guide for building applications using GPT-3, covering everything from prompt engineering to integrating GPT-3 into real-world products.
 
-5. [Neural Networks and Deep Learning][(http://neuralnetworksanddeeplearning.com/) by Michael Nielsen: A classic introduction to neural networks and deep learning, providing a step-by-step guide to building and understanding deep models, which serve as the foundation for LLMs.
+5. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen: A classic introduction to neural networks and deep learning, providing a step-by-step guide to building and understanding deep models, which serve as the foundation for LLMs.
 
 6. [Hands-On Large Language Models: Language Understanding and Generation ](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/): provides practical tools for using LLMs in tasks like copywriting, summarization, and semantic search. It covers transformer architecture, generative models, and fine-tuning techniques to optimize LLMs for specific applications.
 
@@ -117,4 +117,4 @@ Below is a collection of university and online courses that offer a deep dive in
 
 1. [Awesome-LLM: a curated list of Large Language Mode](https://github.com/Hannibal046/Awesome-LLM): A comprehensive and well-maintained repository that curates resources, papers, tools, and frameworks related to Large Language Models (LLMs). It covers a wide range of topics including model architectures, training techniques, and applications.
 
-Please, feel free to submit a [contribution](Contributions.html) to adding more links in this page.
+Please, feel free to submit a [web form](contributing.html) to add more links in this page.
