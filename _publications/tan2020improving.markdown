@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Vokenization Improving Language Understanding With Contextualized Visual45;grounded Supervision
+authors: Tan Hao, Bansal Mohit
+conference: "Arxiv"
+year: 2020
+bibkey: tan2020improving
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2010.06775"}
+  - {name: "Code", url: "https://github.com/airsplay/vokenization"}
+tags: ['Fine Tuning', 'Has Code', 'Multimodal Models', 'Reinforcement Learning', 'Tools', 'Training Techniques']
+---
+Humans learn language by listening speaking writing reading and also via interaction with the multimodal real world. Existing language pre45;training frameworks show the effectiveness of text45;only self45;supervision while we explore the idea of a visually45;supervised language model in this paper. We find that the main reason hindering this exploration is the large divergence in magnitude and distributions between the visually45;grounded language datasets and pure45;language corpora. Therefore we develop a technique named vokenization that extrapolates multimodal alignments to language45;only data by contextually mapping language tokens to their related images (which we call vokens). The vokenizer is trained on relatively small image captioning datasets and we then apply it to generate vokens for large language corpora. Trained with these contextually generated vokens our visually45;supervised language models show consistent improvements over self45;supervised alternatives on multiple pure45;language tasks such as GLUE SQuAD and SWAG. Code and pre45;trained models publicly available at https://github.com/airsplay/vokenization

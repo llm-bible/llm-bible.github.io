@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Dynamic Clue Bottlenecks Towards Interpretable45;by45;design Visual Question Answering
+authors: Fu Xingyu, Zhou Ben, Chen Sihao, Yatskar Mark, Roth Dan
+conference: "Arxiv"
+year: 2023
+bibkey: fu2023dynamic
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2305.14882"}
+tags: ['Applications', 'Interpretability And Explainability', 'Multimodal Models']
+---
+Recent advances in multimodal large language models (LLMs) have shown extreme effectiveness in visual question answering (VQA). However the design nature of these end45;to45;end models prevents them from being interpretable to humans undermining trust and applicability in critical domains. While post45;hoc rationales offer certain insight into understanding model behavior these explanations are not guaranteed to be faithful to the model. In this paper we address these shortcomings by introducing an interpretable by design model that factors model decisions into intermediate human45;legible explanations and allows people to easily understand why a model fails or succeeds. We propose the Dynamic Clue Bottleneck Model ( (DCLUB) a method that is designed towards an inherently interpretable VQA system. DCLUB provides an explainable intermediate space before the VQA decision and is faithful from the beginning while maintaining comparable performance to black45;box systems. Given a question DCLUB first returns a set of visual clues natural language statements of visually salient evidence from the image and then generates the output based solely on the visual clues. To supervise and evaluate the generation of VQA explanations within DCLUB we collect a dataset of 1.7k reasoning45;focused questions with visual clues. Evaluations show that our inherently interpretable system can improve 4.6437; over a comparable black45;box system in reasoning45;focused questions while preserving 99.4337; of performance on VQA45;v2.

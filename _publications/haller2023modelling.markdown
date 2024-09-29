@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Opiniongpt Modelling Explicit Biases In Instruction45;tuned Llms
+authors: Haller Patrick, Aynetdinov Ansar, Akbik Alan
+conference: "Arxiv"
+year: 2023
+bibkey: haller2023modelling
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2309.03876"}
+tags: ['Ethics And Bias', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+---
+Instruction45;tuned Large Language Models (LLMs) have recently showcased remarkable ability to generate fitting responses to natural language instructions. However an open research question concerns the inherent biases of trained models and their responses. For instance if the data used to tune an LLM is dominantly written by persons with a specific political bias we might expect generated answers to share this bias. Current research work seeks to de45;bias such models or suppress potentially biased answers. With this demonstration we take a different view on biases in instruction45;tuning Rather than aiming to suppress them we aim to make them explicit and transparent. To this end we present OpinionGPT a web demo in which users can ask questions and select all biases they wish to investigate. The demo will answer this question using a model fine45;tuned on text representing each of the selected biases allowing side45;by45;side comparison. To train the underlying model we identified 11 different biases (political geographic gender age) and derived an instruction45;tuning corpus in which each answer was written by members of one of these demographics. This paper presents OpinionGPT illustrates how we trained the bias45;aware model and showcases the web application (available at https://opiniongpt.informatik.hu&#45;berlin.de).

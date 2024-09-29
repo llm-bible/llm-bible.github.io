@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Empowering Large Language Models For Textual Data Augmentation
+authors: Li Yichuan, Ding Kaize, Wang Jianling, Lee Kyumin
+conference: "Arxiv"
+year: 2024
+bibkey: li2024empowering
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2404.17642"}
+tags: ['Pretraining Methods']
+---
+With the capabilities of understanding and executing natural language instructions Large language models (LLMs) can potentially act as a powerful tool for textual data augmentation. However the quality of augmented data depends heavily on the augmentation instructions provided and the effectiveness can fluctuate across different downstream tasks. While manually crafting and selecting instructions can offer some improvement this approach faces scalability and consistency issues in practice due to the diversity of downstream tasks. In this work we address these limitations by proposing a new solution which can automatically generate a large pool of augmentation instructions and select the most suitable task45;informed instructions thereby empowering LLMs to create high45;quality augmented data for different downstream tasks. Empirically the proposed approach consistently generates augmented data with better quality compared to non45;LLM and LLM45;based data augmentation methods leading to the best performance on 26 few45;shot learning tasks sourced from a wide range of application domains.

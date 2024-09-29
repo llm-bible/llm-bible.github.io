@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Ep45;alm Efficient Perceptual Augmentation Of Language Models
+authors: Shukor Mustafa, Dancette Corentin, Cord Matthieu
+conference: "Arxiv"
+year: 2023
+bibkey: shukor2023ep
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2303.11403"}
+  - {name: "Code", url: "https://github.com/mshukor/eP&#45;ALM"}
+tags: ['Efficiency And Optimization', 'Has Code', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods', 'Reinforcement Learning', 'Training Techniques', 'Transformer']
+---
+Large Language Models (LLMs) have so far impressed the world with unprecedented capabilities that emerge in models at large scales. On the vision side transformer models (i.e. ViT) are following the same trend achieving the best performance on challenging benchmarks. With the abundance of such unimodal models a natural question arises; do we need also to follow this trend to tackle multimodal tasks In this work we propose to rather direct effort to efficient adaptations of existing models and propose to augment Language Models with perception. Existing approaches for adapting pretrained models for vision45;language tasks still rely on several key components that hinder their efficiency. In particular they still train a large number of parameters rely on large multimodal pretraining use encoders (e.g. CLIP) trained on huge image45;text datasets and add significant inference overhead. In addition most of these approaches have focused on Zero45;Shot and In Context Learning with little to no effort on direct finetuning. We investigate the minimal computational effort needed to adapt unimodal models for multimodal tasks and propose a new challenging setup alongside different approaches that efficiently adapts unimodal pretrained models. We show that by freezing more than 9937; of total parameters training only one linear projection layer and prepending only one trainable token our approach (dubbed eP45;ALM) significantly outperforms other baselines on VQA and Captioning across Image Video and Audio modalities following the proposed setup. The code is available here https://github.com/mshukor/eP&#45;ALM.

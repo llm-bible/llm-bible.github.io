@@ -1,0 +1,12 @@
+---
+layout: publication
+title: LANE Logic Alignment Of Non45;tuning Large Language Models And Online Recommendation Systems For Explainable Reason Generation
+authors: Zhao Hongke, Zheng Songming, Wu Likang, Yu Bowen, Wang Jing
+conference: "Arxiv"
+year: 2024
+bibkey: zhao2024logic
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2407.02833"}
+tags: ['Attention Mechanism', 'GPT', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Transformer']
+---
+The explainability of recommendation systems is crucial for enhancing user trust and satisfaction. Leveraging large language models (LLMs) offers new opportunities for comprehensive recommendation logic generation. However in existing related studies fine45;tuning LLM models for recommendation tasks incurs high computational costs and alignment issues with existing systems limiting the application potential of proven proprietary/closed45;source LLM models such as GPT45;4. In this work our proposed effective strategy LANE aligns LLMs with online recommendation systems without additional LLMs tuning reducing costs and improving explainability. This innovative approach addresses key challenges in integrating language models with recommendation systems while fully utilizing the capabilities of powerful proprietary models. Specifically our strategy operates through several key components semantic embedding user multi45;preference extraction using zero45;shot prompting semantic alignment and explainable recommendation generation using Chain of Thought (CoT) prompting. By embedding item titles instead of IDs and utilizing multi45;head attention mechanisms our approach aligns the semantic features of user preferences with those of candidate items ensuring coherent and user45;aligned recommendations. Sufficient experimental results including performance comparison questionnaire voting and visualization cases prove that our method can not only ensure recommendation performance but also provide easy45;to45;understand and reasonable recommendation logic.

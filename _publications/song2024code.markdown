@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Code Needs Comments Enhancing Code Llms With Comment Augmentation
+authors: Song Demin, Guo Honglin, Zhou Yunhua, Xing Shuhao, Wang Yudong, Song Zifan, Zhang Wenwei, Guo Qipeng, Yan Hang, Qiu Xipeng, Lin Dahua
+conference: "Arxiv"
+year: 2024
+bibkey: song2024code
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2402.13013"}
+tags: ['Pretraining Methods', 'Reinforcement Learning', 'Training Techniques']
+---
+The programming skill is one crucial ability for Large Language Models (LLMs) necessitating a deep understanding of programming languages (PLs) and their correlation with natural languages (NLs). We examine the impact of pre45;training data on code45;focused LLMs performance by assessing the comment density as a measure of PL45;NL alignment. Given the scarcity of code45;comment aligned data in pre45;training corpora we introduce a novel data augmentation method that generates comments for existing code coupled with a data filtering strategy that filters out code data poorly correlated with natural language. We conducted experiments on three code45;focused LLMs and observed consistent improvements in performance on two widely45;used programming skill benchmarks. Notably the model trained on the augmented data outperformed both the model used for generating comments and the model further trained on the data without augmentation.

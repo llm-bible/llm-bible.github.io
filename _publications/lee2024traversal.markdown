@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Trol Traversal Of Layers For Large Language And Vision Models
+authors: Lee Byung-kwan, Chung Sangyun, Kim Chae Won, Park Beomchan, Ro Yong Man
+conference: "Arxiv"
+year: 2024
+bibkey: lee2024traversal
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.12246"}
+tags: ['GPT', 'Model Architecture', 'Multimodal Models', 'Training Techniques']
+---
+Large language and vision models (LLVMs) have been driven by the generalization power of large language models (LLMs) and the advent of visual instruction tuning. Along with scaling them up directly these models enable LLVMs to showcase powerful vision language (VL) performances by covering diverse tasks via natural language instructions. However existing open45;source LLVMs that perform comparably to closed45;source LLVMs such as GPT45;4V are often considered too large (e.g. 26B 34B and 110B parameters) having a larger number of layers. These large models demand costly high45;end resources for both training and inference. To address this issue we present a new efficient LLVM family with 1.8B 3.8B and 7B LLM model sizes Traversal of Layers (TroL) which enables the reuse of layers in a token45;wise manner. This layer traversing technique simulates the effect of looking back and retracing the answering stream while increasing the number of forward propagation layers without physically adding more layers. We demonstrate that TroL employs a simple layer traversing approach yet efficiently outperforms the open45;source LLVMs with larger model sizes and rivals the performances of the closed45;source LLVMs with substantial sizes.

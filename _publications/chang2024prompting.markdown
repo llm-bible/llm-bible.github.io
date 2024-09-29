@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Speechprompt Prompting Speech Language Models For Speech Processing Tasks
+authors: Chang Kai-wei, Wu Haibin, Wang Yu-kai, Wu Yuan-kuei, Shen Hua, Tseng Wei-cheng, Kang Iu-thing, Li Shang-wen, Lee Hung-yi
+conference: "in IEEE/ACM Transactions on Audio Speech and Language Processing vol."
+year: 2024
+bibkey: chang2024prompting
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2408.13040"}
+tags: ['Efficiency And Optimization', 'Language Modeling', 'Pretraining Methods', 'Prompting', 'RAG', 'Tools', 'Training Techniques']
+---
+Prompting has become a practical method for utilizing pre45;trained language models (LMs). This approach offers several advantages. It allows an LM to adapt to new tasks with minimal training and parameter updates thus achieving efficiency in both storage and computation. Additionally prompting modifies only the LMs inputs and harnesses the generative capabilities of language models to address various downstream tasks in a unified manner. This significantly reduces the need for human labor in designing task45;specific models. These advantages become even more evident as the number of tasks served by the LM scales up. Motivated by the strengths of prompting we are the first to explore the potential of prompting speech LMs in the domain of speech processing. Recently there has been a growing interest in converting speech into discrete units for language modeling. Our pioneer research demonstrates that these quantized speech units are highly versatile within our unified prompting framework. Not only can they serve as class labels but they also contain rich phonetic information that can be re45;synthesized back into speech signals for speech generation tasks. Specifically we reformulate speech processing tasks into speech45;to45;unit generation tasks. As a result we can seamlessly integrate tasks such as speech classification sequence generation and speech generation within a single unified prompting framework. The experiment results show that the prompting method can achieve competitive performance compared to the strong fine45;tuning method based on self45;supervised learning models with a similar number of trainable parameters. The prompting method also shows promising results in the few45;shot setting. Moreover with the advanced speech LMs coming into the stage the proposed prompting framework attains great potential.

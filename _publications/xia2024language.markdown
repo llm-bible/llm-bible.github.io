@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Language Models Can Evaluate Themselves Via Probability Discrepancy
+authors: Xia Tingyu, Yu Bowen, Wu Yuan, Chang Yi, Zhou Chang
+conference: "Arxiv"
+year: 2024
+bibkey: xia2024language
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2405.10516"}
+tags: ['Applications', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+---
+In this paper we initiate our discussion by demonstrating how Large Language Models (LLMs) when tasked with responding to queries display a more even probability distribution in their answers if they are more adept as opposed to their less skilled counterparts. Expanding on this foundational insight we propose a new self45;evaluation method ProbDiff for assessing the efficacy of various LLMs. This approach obviates the necessity for an additional evaluation model or the dependence on external proprietary models like GPT45;4 for judgment. It uniquely utilizes the LLMs being tested to compute the probability discrepancy between the initial response and its revised versions. A higher discrepancy for a given query between two LLMs indicates a relatively weaker capability. Our findings reveal that ProbDiff achieves results on par with those obtained from evaluations based on GPT45;4 spanning a range of scenarios that include natural language generation (NLG) tasks such as translation summarization and our proposed Xiaohongshu blog writing task and benchmarks for LLM evaluation like AlignBench MT45;Bench and AlpacaEval across LLMs of varying magnitudes.

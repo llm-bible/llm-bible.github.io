@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Llm2loss Leveraging Language Models For Explainable Model Diagnostics
+authors: Ardeshir Shervin
+conference: "Arxiv"
+year: 2023
+bibkey: ardeshir2023leveraging
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2305.03212"}
+tags: ['Ethics And Bias', 'RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques']
+---
+Trained on a vast amount of data Large Language models (LLMs) have achieved unprecedented success and generalization in modeling fairly complex textual inputs in the abstract space making them powerful tools for zero45;shot learning. Such capability is extended to other modalities such as the visual domain using cross45;modal foundation models such as CLIP and as a result semantically meaningful representation are extractable from visual inputs. In this work we leverage this capability and propose an approach that can provide semantic insights into a models patterns of failures and biases. Given a black box model its training data and task definition we first calculate its task45;related loss for each data point. We then extract a semantically meaningful representation for each training data point (such as CLIP embeddings from its visual encoder) and train a lightweight diagnosis model which maps this semantically meaningful representation of a data point to its task loss. We show that an ensemble of such lightweight models can be used to generate insights on the performance of the black45;box model in terms of identifying its patterns of failures and biases.

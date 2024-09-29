@@ -1,0 +1,12 @@
+---
+layout: publication
+title: A Million Tweets Are Worth A Few Points Tuning Transformers For Customer Service Tasks
+authors: Hadifar Amir, Labat Sofie, Hoste Véronique, Develder Chris, Demeester Thomas
+conference: "Arxiv"
+year: 2021
+bibkey: hadifar2021million
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2104.07944"}
+tags: ['Applications', 'Model Architecture', 'Pretraining Methods', 'Training Techniques', 'Transformer']
+---
+In online domain45;specific customer service applications many companies struggle to deploy advanced NLP models successfully due to the limited availability of and noise in their datasets. While prior research demonstrated the potential of migrating large open45;domain pretrained models for domain45;specific tasks the appropriate (pre)training strategies have not yet been rigorously evaluated in such social media customer service settings especially under multilingual conditions. We address this gap by collecting a multilingual social media corpus containing customer service conversations (865k tweets) comparing various pipelines of pretraining and finetuning approaches applying them on 5 different end tasks. We show that pretraining a generic multilingual transformer model on our in45;domain dataset before finetuning on specific end tasks consistently boosts performance especially in non45;English settings.

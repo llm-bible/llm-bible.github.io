@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Accelerating Training Of Transformer45;based Language Models With Progressive Layer Dropping
+authors: Zhang Minjia, He Yuxiong
+conference: "Arxiv"
+year: 2020
+bibkey: zhang2020accelerating
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2010.13369"}
+tags: ['BERT', 'Efficiency And Optimization', 'Language Modeling', 'Model Architecture', 'Pretraining Methods', 'RAG', 'Training Techniques', 'Transformer']
+---
+Recently Transformer45;based language models have demonstrated remarkable performance across many NLP domains. However the unsupervised pre45;training step of these models suffers from unbearable overall computational expenses. Current methods for accelerating the pre45;training either rely on massive parallelism with advanced hardware or are not applicable to language modeling. In this work we propose a method based on progressive layer dropping that speeds the training of Transformer45;based language models not at the cost of excessive hardware resources but from model architecture change and training technique boosted efficiency. Extensive experiments on BERT show that the proposed method achieves a 2437; time reduction on average per sample and allows the pre45;training to be 2.5 times faster than the baseline to get a similar accuracy on downstream tasks. While being faster our pre45;trained models are equipped with strong knowledge transferability achieving comparable and sometimes higher GLUE score than the baseline when pre45;trained with the same number of samples.

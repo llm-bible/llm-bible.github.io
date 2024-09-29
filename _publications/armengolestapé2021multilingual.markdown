@@ -1,0 +1,12 @@
+---
+layout: publication
+title: On The Multilingual Capabilities Of Very Large45;scale English Language Models
+authors: Armengol-estapé Jordi, Bonet Ona De Gibert, Melero Maite
+conference: "Arxiv"
+year: 2021
+bibkey: armengolestapé2021multilingual
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2108.13349"}
+tags: ['GPT', 'Language Modeling', 'Model Architecture', 'Pretraining Methods', 'Reinforcement Learning', 'Training Techniques', 'Transformer']
+---
+Generative Pre45;trained Transformers (GPTs) have recently been scaled to unprecedented sizes in the history of machine learning. These models solely trained on the language modeling objective have been shown to exhibit outstanding few45;shot learning capabilities in a number of different tasks. Nevertheless aside from anecdotal experiences little is known regarding their multilingual capabilities given the fact that the pre45;training corpus is almost entirely composed of English text. In this work we investigate the multilingual skills of GPT45;3 focusing on one language that barely appears in the pre45;training corpus Catalan which makes the results especially meaningful; we assume that our results may be relevant for other languages as well. We find that the model shows an outstanding performance particularly in generative tasks with predictable limitations mostly in language understanding tasks but still with remarkable results given the zero45;shot scenario. We investigate its potential and limits in extractive question45;answering and natural language generation as well as the effect of scale in terms of model size.

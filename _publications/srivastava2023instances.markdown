@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Instances Need More Care Rewriting Prompts For Instances With Llms In The Loop Yields Better Zero45;shot Performance
+authors: Srivastava Saurabh, Huang Chengyue, Fan Weiguo, Yao Ziyu
+conference: "Arxiv"
+year: 2023
+bibkey: srivastava2023instances
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.02107"}
+tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG']
+---
+Large language models (LLMs) have revolutionized zero45;shot task performance mitigating the need for task45;specific annotations while enhancing task generalizability. Despite its advancements current methods using trigger phrases such as Lets think step by step remain limited. This study introduces PRomPTed an approach that optimizes the zero45;shot prompts for individual task instances following an innovative manner of LLMs in the loop. Our comprehensive evaluation across 13 datasets and 10 task types based on GPT45;4 reveals that PRomPTed significantly outperforms both the naive zero45;shot approaches and a strong baseline (i.e. Output Refinement) which refines the task output instead of the input prompt. Our experimental results also confirmed the generalization of this advantage to the relatively weaker GPT45;3.5. Even more intriguingly we found that leveraging GPT45;3.5 to rewrite prompts for the stronger GPT45;4 not only matches but occasionally exceeds the efficacy of using GPT45;4 as the prompt rewriter. Our research thus presents a huge value in not only enhancing zero45;shot LLM performance but also potentially enabling supervising LLMs with their weaker counterparts a capability attracting much interest recently. Finally our additional experiments confirm the generalization of the advantages to open45;source LLMs such as Mistral 7B and Mixtral 8x7B.

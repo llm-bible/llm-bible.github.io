@@ -1,0 +1,12 @@
+---
+layout: publication
+title: End45;to45;end Answer Chunk Extraction And Ranking For Reading Comprehension
+authors: Yu Yang, Zhang Wei, Hasan Kazi, Yu Mo, Xiang Bing, Zhou Bowen
+conference: "Arxiv"
+year: 2016
+bibkey: yu2016end
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/1610.09996"}
+tags: ['Attention Mechanism', 'Model Architecture', 'Transformer']
+---
+This paper proposes dynamic chunk reader (DCR) an end45;to45;end neural reading comprehension (RC) model that is able to extract and rank a set of answer candidates from a given document to answer questions. DCR is able to predict answers of variable lengths whereas previous neural RC models primarily focused on predicting single tokens or entities. DCR encodes a document and an input question with recurrent neural networks and then applies a word45;by45;word attention mechanism to acquire question45;aware representations for the document followed by the generation of chunk representations and a ranking module to propose the top45;ranked chunk as the answer. Experimental results show that DCR achieves state45;of45;the45;art exact match and F1 scores on the SQuAD dataset.

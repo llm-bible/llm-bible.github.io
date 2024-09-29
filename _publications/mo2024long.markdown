@@ -1,0 +1,12 @@
+---
+layout: publication
+title: LSPT Long45;term Spatial Prompt Tuning For Visual Representation Learning
+authors: Mo Shentong, Wang Yansen, Luo Xufang, Li Dongsheng
+conference: "Arxiv"
+year: 2024
+bibkey: mo2024long
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2402.17406"}
+tags: ['Model Architecture', 'Multimodal Models', 'Pretraining Methods', 'Prompting', 'Reinforcement Learning', 'Transformer']
+---
+Visual Prompt Tuning (VPT) techniques have gained prominence for their capacity to adapt pre45;trained Vision Transformers (ViTs) to downstream visual tasks using specialized learnable tokens termed as prompts. Contemporary VPT methodologies especially when employed with self45;supervised vision transformers often default to the introduction of new learnable prompts or gated prompt tokens predominantly sourced from the models previous block. A pivotal oversight in such approaches is their failure to harness the potential of long45;range previous blocks as sources of prompts within each self45;supervised ViT. To bridge this crucial gap we introduce Long45;term Spatial Prompt Tuning (LSPT) 45; a revolutionary approach to visual representation learning. Drawing inspiration from the intricacies of the human brain LSPT ingeniously incorporates long45;term gated prompts. This feature serves as temporal coding curbing the risk of forgetting parameters acquired from earlier blocks. Further enhancing its prowess LSPT brings into play patch tokens serving as spatial coding. This is strategically designed to perpetually amass class45;conscious features thereby fortifying the models prowess in distinguishing and identifying visual categories. To validate the efficacy of our proposed method we engaged in rigorous experimentation across 5 FGVC and 19 VTAB45;1K benchmarks. Our empirical findings underscore the superiority of LSPT showcasing its ability to set new benchmarks in visual prompt tuning performance.

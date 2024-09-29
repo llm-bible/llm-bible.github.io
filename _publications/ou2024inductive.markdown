@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Inductive45;deductive Strategy Reuse For Multi45;turn Instructional Dialogues
+authors: Ou Jiao, Wu Jiayu, Liu Che, Zhang Fuzheng, Zhang Di, Gai Kun
+conference: "Arxiv"
+year: 2024
+bibkey: ou2024inductive
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2404.11095"}
+tags: ['Pretraining Methods']
+---
+Aligning large language models (LLMs) with human expectations requires high45;quality instructional dialogues which can be achieved by raising diverse in45;depth and insightful instructions that deepen interactions. Existing methods target instructions from real instruction dialogues as a learning goal and fine45;tune a user simulator for posing instructions. However the user simulator struggles to implicitly model complex dialogue flows and pose high45;quality instructions. In this paper we take inspiration from the cognitive abilities inherent in human learning and propose the explicit modeling of complex dialogue flows through instructional strategy reuse. Specifically we first induce high45;level strategies from various real instruction dialogues. These strategies are applied to new dialogue scenarios deductively where the instructional strategies facilitate high45;quality instructions. Experimental results show that our method can generate diverse in45;depth and insightful instructions for a given dialogue history. The constructed multi45;turn instructional dialogues can outperform competitive baselines on the downstream chat model.

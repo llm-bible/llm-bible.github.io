@@ -1,0 +1,12 @@
+---
+layout: publication
+title: L45;eval Instituting Standardized Evaluation For Long Context Language Models
+authors: An Chenxin, Gong Shansan, Zhong Ming, Zhao Xingjian, Li Mukai, Zhang Jun, Kong Lingpeng, Qiu Xipeng
+conference: "Arxiv"
+year: 2023
+bibkey: an2023l
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2307.11088"}
+tags: ['Ethics And Bias', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Survey Paper']
+---
+Recently there has been growing interest in extending the context length of large language models (LLMs) aiming to effectively process long inputs of one turn or conversations with more extensive histories. While proprietary models such as GPT45;4 and Claude can largely preserve the reasoning ability in an extended context open45;source models are still progressing through the early stages of development. To bridge this gap we propose L45;Eval to institute a more standardized evaluation for long context language models (LCLMs) addressing two key aspects dataset construction and evaluation metrics. On the one hand we build a new evaluation suite containing 20 sub45;tasks 508 long documents and over 2000 human45;labeled query45;response pairs encompassing diverse question styles domains and input length (3ksim200k tokens). On the other hand we investigate the effectiveness in evalution metrics for LCLMs. Results show that popular n45;gram matching metrics generally can not correlate well with human judgment and thus we strongly advocate for length45;instruction45;enhanced (LIE) evaluation and employing LLM judges. We conducted a comprehensive study of 4 popular commercial LLMs and 12 open45;source counterparts using the L45;Eval benchmark. Our empirical findings offer useful insights into the study of LCLMs and lay the groundwork for the development of more principled evaluation of these models.

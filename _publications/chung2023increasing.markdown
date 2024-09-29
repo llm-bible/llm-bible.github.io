@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Increasing Diversity While Maintaining Accuracy Text Data Generation With Large Language Models And Human Interventions
+authors: Chung John Joon Young, Kamar Ece, Amershi Saleema
+conference: "Arxiv"
+year: 2023
+bibkey: chung2023increasing
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2306.04140"}
+tags: ['Applications', 'Language Modeling', 'Training Techniques']
+---
+Large language models (LLMs) can be used to generate text data for training and evaluating other models. However creating high45;quality datasets with LLMs can be challenging. In this work we explore human45;AI partnerships to facilitate high diversity and accuracy in LLM45;based text data generation. We first examine two approaches to diversify text generation 1) logit suppression which minimizes the generation of languages that have already been frequently generated and 2) temperature sampling which flattens the token sampling probability. We found that diversification approaches can increase data diversity but often at the cost of data accuracy (i.e. text and labels being appropriate for the target domain). To address this issue we examined two human interventions 1) label replacement (LR) correcting misaligned labels and 2) out45;of45;scope filtering (OOSF) removing instances that are out of the users domain of interest or to which no considered label applies. With oracle studies we found that LR increases the absolute accuracy of models trained with diversified datasets by 14.437;. Moreover we found that some models trained with data generated with LR interventions outperformed LLM45;based few45;shot classification. In contrast OOSF was not effective in increasing model accuracy implying the need for future work in human45;in45;the45;loop text data generation.

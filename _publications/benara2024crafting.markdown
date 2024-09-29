@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Crafting Interpretable Embeddings By Asking Llms Questions
+authors: Benara Vinamra, Singh Chandan, Morris John X., Antonello Richard, Stoica Ion, Huth Alexander G., Gao Jianfeng
+conference: "Arxiv"
+year: 2024
+bibkey: benara2024crafting
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2405.16714"}
+tags: ['Applications', 'Interpretability And Explainability', 'Prompting', 'Reinforcement Learning', 'Tools', 'Training Techniques']
+---
+Large language models (LLMs) have rapidly improved text embeddings for a growing array of natural45;language processing tasks. However their opaqueness and proliferation into scientific domains such as neuroscience have created a growing need for interpretability. Here we ask whether we can obtain interpretable embeddings through LLM prompting. We introduce question45;answering embeddings (QA45;Emb) embeddings where each feature represents an answer to a yes/no question asked to an LLM. Training QA45;Emb reduces to selecting a set of underlying questions rather than learning model weights. We use QA45;Emb to flexibly generate interpretable models for predicting fMRI voxel responses to language stimuli. QA45;Emb significantly outperforms an established interpretable baseline and does so while requiring very few questions. This paves the way towards building flexible feature spaces that can concretize and evaluate our understanding of semantic brain representations. We additionally find that QA45;Emb can be effectively approximated with an efficient model and we explore broader applications in simple NLP tasks.

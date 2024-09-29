@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Benchmarking Large Language Models On CFLUE 45;45; A Chinese Financial Language Understanding Evaluation Dataset
+authors: Zhu Jie, Li Junhui, Wen Yalong, Guo Lifan
+conference: "The"
+year: 2024
+bibkey: zhu2024benchmarking
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2405.10542"}
+  - {name: "Code", url: "https://github.com/aliyun/cflue"}
+tags: ['Applications', 'GPT', 'Has Code', 'Interpretability And Explainability', 'Language Modeling', 'Model Architecture']
+---
+In light of recent breakthroughs in large language models (LLMs) that have revolutionized natural language processing (NLP) there is an urgent need for new benchmarks to keep pace with the fast development of LLMs. In this paper we propose CFLUE the Chinese Financial Language Understanding Evaluation benchmark designed to assess the capability of LLMs across various dimensions. Specifically CFLUE provides datasets tailored for both knowledge assessment and application assessment. In knowledge assessment it consists of 38K+ multiple45;choice questions with associated solution explanations. These questions serve dual purposes answer prediction and question reasoning. In application assessment CFLUE features 16K+ test instances across distinct groups of NLP tasks such as text classification machine translation relation extraction reading comprehension and text generation. Upon CFLUE we conduct a thorough evaluation of representative LLMs. The results reveal that only GPT45;4 and GPT45;445;turbo achieve an accuracy exceeding 6037; in answer prediction for knowledge assessment suggesting that there is still substantial room for improvement in current LLMs. In application assessment although GPT45;4 and GPT45;445;turbo are the top two performers their considerable advantage over lightweight LLMs is noticeably diminished. The datasets and scripts associated with CFLUE are openly accessible at https://github.com/aliyun/cflue.

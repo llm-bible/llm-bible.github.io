@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Prompt Chaining Or Stepwise Prompt Refinement In Text Summarization
+authors: Sun Shichao, Yuan Ruifeng, Cao Ziqiang, Li Wenjie, Liu Pengfei
+conference: "Arxiv"
+year: 2024
+bibkey: sun2024prompt
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.00507"}
+tags: ['Applications', 'Prompting']
+---
+Large language models (LLMs) have demonstrated the capacity to improve summary quality by mirroring a human45;like iterative process of critique and refinement starting from the initial draft. Two strategies are designed to perform this iterative process Prompt Chaining and Stepwise Prompt. Prompt chaining orchestrates the drafting critiquing and refining phases through a series of three discrete prompts while Stepwise prompt integrates these phases within a single prompt. However the relative effectiveness of the two methods has not been extensively studied. This paper is dedicated to examining and comparing these two methods in the context of text summarization to ascertain which method stands out as the most effective. Experimental results show that the prompt chaining method can produce a more favorable outcome. This might be because stepwise prompt might produce a simulated refinement process according to our various experiments. Since refinement is adaptable to diverse tasks our conclusions have the potential to be extrapolated to other applications thereby offering insights that may contribute to the broader development of LLMs.

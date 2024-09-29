@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Enabling Language Models To Implicitly Learn Self45;improvement
+authors: Wang Ziqi, Hou Le, Lu Tianjian, Wu Yuexin, Li Yunxuan, Yu Hongkun, Ji Heng
+conference: "Arxiv"
+year: 2023
+bibkey: wang2023enabling
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.00898"}
+tags: ['Agentic', 'Applications', 'Efficiency And Optimization', 'Language Modeling', 'Prompting', 'Reinforcement Learning', 'Tools', 'Training Techniques']
+---
+Large Language Models (LLMs) have demonstrated remarkable capabilities in open45;ended text generation tasks. However the inherent open45;ended nature of these tasks implies that there is always room for improvement in the quality of model responses. To address this challenge various approaches have been proposed to enhance the performance of LLMs. There has been a growing focus on enabling LLMs to self45;improve their response quality thereby reducing the reliance on extensive human annotation efforts for collecting diverse and high45;quality training data. Recently prompting45;based methods have been widely explored among self45;improvement methods owing to their effectiveness efficiency and convenience. However those methods usually require explicitly and thoroughly written rubrics as inputs to LLMs. It is expensive and challenging to manually derive and provide all necessary rubrics with a real45;world complex goal for improvement (e.g. being more helpful and less harmful). To this end we propose an ImPlicit Self45;ImprovemenT (PIT) framework that implicitly learns the improvement goal from human preference data. PIT only requires preference data that are used to train reward models without extra human efforts. Specifically we reformulate the training objective of reinforcement learning from human feedback (RLHF) 45;45; instead of maximizing response quality for a given input we maximize the quality gap of the response conditioned on a reference response. In this way PIT is implicitly trained with the improvement goal of better aligning with human preferences. Experiments on two real45;world datasets and one synthetic dataset show that our method significantly outperforms prompting45;based methods.

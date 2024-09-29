@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Video Question Generation Via Cross45;modal Self45;attention Networks Learning
+authors: Wang Yu-siang, Su Hung-ting, Chang Chen-hsi, Liu Zhe-yu, Hsu Winston H.
+conference: "Arxiv"
+year: 2019
+bibkey: wang2019video
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/1907.03049"}
+tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
+---
+We introduce a novel task Video Question Generation (Video QG). A Video QG model automatically generates questions given a video clip and its corresponding dialogues. Video QG requires a range of skills 45;45; sentence comprehension temporal relation the interplay between vision and language and the ability to ask meaningful questions. To address this we propose a novel semantic rich cross45;modal self45;attention (SRCMSA) network to aggregate the multi45;modal and diverse features. To be more precise we enhance the video frames semantic by integrating the object45;level information and we jointly consider the cross45;modal attention for the video question generation task. Excitingly our proposed model remarkably improves the baseline from 7.58 to 14.48 in the BLEU45;4 score on the TVQA dataset. Most of all we arguably pave a novel path toward understanding the challenging video input and we provide detailed analysis in terms of diversity which ushers the avenues for future investigations.

@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Incorporating External Knowledge And Goal Guidance For Llm45;based Conversational Recommender Systems
+authors: Li Chuang, Deng Yang, Hu Hengchang, Kan Min-yen, Li Haizhou
+conference: "Arxiv"
+year: 2024
+bibkey: li2024incorporating
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2405.01868"}
+tags: ['Agentic', 'GPT', 'Model Architecture', 'RAG', 'Tools']
+---
+This paper aims to efficiently enable large language models (LLMs) to use external knowledge and goal guidance in conversational recommender system (CRS) tasks. Advanced LLMs (e.g. ChatGPT) are limited in domain45;specific CRS tasks for 1) generating grounded responses with recommendation45;oriented knowledge or 2) proactively leading the conversations through different dialogue goals. In this work we first analyze those limitations through a comprehensive evaluation showing the necessity of external knowledge and goal guidance which contribute significantly to the recommendation accuracy and language quality. In light of this finding we propose a novel ChatCRS framework to decompose the complex CRS task into several sub45;tasks through the implementation of 1) a knowledge retrieval agent using a tool45;augmented approach to reason over external Knowledge Bases and 2) a goal45;planning agent for dialogue goal prediction. Experimental results on two multi45;goal CRS datasets reveal that ChatCRS sets new state45;of45;the45;art benchmarks improving language quality of informativeness by 1737; and proactivity by 2737; and achieving a tenfold enhancement in recommendation accuracy.

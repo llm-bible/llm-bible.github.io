@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Putting Gpt45;3s Creativity To The (alternative Uses) Test
+authors: Stevenson Claire, Smal Iris, Baas Matthijs, Grasman Raoul, Van Der Maas Han
+conference: "Arxiv"
+year: 2022
+bibkey: stevenson2022putting
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2206.08932"}
+tags: ['GPT', 'Model Architecture', 'Pretraining Methods', 'RAG']
+---
+AI large language models have (co45;)produced amazing written works from newspaper articles to novels and poetry. These works meet the standards of the standard definition of creativity being original and useful and sometimes even the additional element of surprise. But can a large language model designed to predict the next text fragment provide creative out45;of45;the45;box responses that still solve the problem at hand We put Open AIs generative natural language model GPT45;3 to the test. Can it provide creative solutions to one of the most commonly used tests in creativity research We assessed GPT45;3s creativity on Guilfords Alternative Uses Test and compared its performance to previously collected human responses on expert ratings of originality usefulness and surprise of responses flexibility of each set of ideas as well as an automated method to measure creativity based on the semantic distance between a response and the AUT object in question. Our results show that 45;45; on the whole 45;45; humans currently outperform GPT45;3 when it comes to creative output. But we believe it is only a matter of time before GPT45;3 catches up on this particular task. We discuss what this work reveals about human and AI creativity creativity testing and our definition of creativity.

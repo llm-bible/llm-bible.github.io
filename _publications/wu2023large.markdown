@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Large Language Models Leverage External Knowledge To Extend Clinical Insight Beyond Language Boundaries
+authors: Wu Jiageng, Wu Xian, Qiu Zhaopeng, Li Minghui, Zhang Yingying, Zheng Yefeng, Yuan Changzheng, Yang Jie
+conference: "Arxiv"
+year: 2023
+bibkey: wu2023large
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2305.10163"}
+tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Tools', 'Training Techniques']
+---
+textbf123;Objectives125; Large Language Models (LLMs) such as ChatGPT and Med45;PaLM have excelled in various medical question45;answering tasks. However these English45;centric models encounter challenges in non45;English clinical settings primarily due to limited clinical knowledge in respective languages a consequence of imbalanced training corpora. We systematically evaluate LLMs in the Chinese medical context and develop a novel in45;context learning framework to enhance their performance. textbf123;Materials and Methods125; The latest China National Medical Licensing Examination (CNMLE45;2022) served as the benchmark. We collected 53 medical books and 381149 medical questions to construct the medical knowledge base and question bank. The proposed Knowledge and Few45;shot Enhancement In45;context Learning (KFE) framework leverages the in45;context learning ability of LLMs to integrate diverse external clinical knowledge sources. We evaluated KFE with ChatGPT(GPT3.5) GPT4 Baichuan2(BC2)45;7B and BC245;13B in CNMLE45;2022 and investigated the effectiveness of different pathways for incorporating LLMs with medical knowledge from 7 perspectives. textbf123;Results125; Directly applying ChatGPT failed to qualify for the CNMLE45;2022 at a score of 51. Cooperated with the KFE the LLMs with varying sizes yielded consistent and significant improvements. The ChatGPTs performance surged to 70.04 and GPT45;4 achieved the highest score of 82.59. This surpasses the qualification threshold (60) and exceeds the average human score of 68.70. It also enabled a smaller BC245;13B to pass the examination showcasing the great potential in low45;resource settings. textbf123;Conclusion125; By synergizing medical knowledge through in45;context learning LLM can extend clinical insight beyond language barriers significantly reducing language45;related disparities of LLM applications and ensuring global benefit in healthcare.

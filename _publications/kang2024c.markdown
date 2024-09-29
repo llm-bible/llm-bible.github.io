@@ -1,0 +1,12 @@
+---
+layout: publication
+title: C45;RAG Certified Generation Risks For Retrieval45;augmented Language Models
+authors: Kang Mintong, Gürel Nezihe Merve, Yu Ning, Song Dawn, Li Bo
+conference: "Arxiv"
+year: 2024
+bibkey: kang2024c
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2402.03181"}
+tags: ['Applications', 'Model Architecture', 'Pretraining Methods', 'RAG', 'Tools', 'Transformer']
+---
+Despite the impressive capabilities of large language models (LLMs) across diverse applications they still suffer from trustworthiness issues such as hallucinations and misalignments. Retrieval45;augmented language models (RAG) have been proposed to enhance the credibility of generations by grounding external knowledge but the theoretical understandings of their generation risks remains unexplored. In this paper we answer 1) whether RAG can indeed lead to low generation risks 2) how to provide provable guarantees on the generation risks of RAG and vanilla LLMs and 3) what sufficient conditions enable RAG models to reduce generation risks. We propose C45;RAG the first framework to certify generation risks for RAG models. Specifically we provide conformal risk analysis for RAG models and certify an upper confidence bound of generation risks which we refer to as conformal generation risk. We also provide theoretical guarantees on conformal generation risks for general bounded risk functions under test distribution shifts. We prove that RAG achieves a lower conformal generation risk than that of a single LLM when the quality of the retrieval model and transformer is non45;trivial. Our intensive empirical results demonstrate the soundness and tightness of our conformal generation risk guarantees across four widely45;used NLP datasets on four state45;of45;the45;art retrieval models.

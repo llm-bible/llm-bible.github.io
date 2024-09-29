@@ -1,0 +1,12 @@
+---
+layout: publication
+title: G45;transformer For Document45;level Machine Translation
+authors: Bao Guangsheng, Zhang Yue, Teng Zhiyang, Chen Boxing, Luo Weihua
+conference: "Arxiv"
+year: 2021
+bibkey: bao2021g
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2105.14761"}
+tags: ['Applications', 'Attention Mechanism', 'Ethics And Bias', 'Model Architecture', 'Pretraining Methods', 'Training Techniques', 'Transformer']
+---
+Document45;level MT models are still far from satisfactory. Existing work extend translation unit from single sentence to multiple sentences. However study shows that when we further enlarge the translation unit to a whole document supervised training of Transformer can fail. In this paper we find such failure is not caused by overfitting but by sticking around local minima during training. Our analysis shows that the increased complexity of target45;to45;source attention is a reason for the failure. As a solution we propose G45;Transformer introducing locality assumption as an inductive bias into Transformer reducing the hypothesis space of the attention from target to source. Experiments show that G45;Transformer converges faster and more stably than Transformer achieving new state45;of45;the45;art BLEU scores for both non45;pretraining and pre45;training settings on three benchmark datasets.

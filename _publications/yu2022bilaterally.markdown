@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Bilaterally Slimmable Transformer For Elastic And Efficient Visual Question Answering
+authors: Yu Zhou, Jin Zitian, Yu Jun, Xu Mingliang, Wang Hongbo, Fan Jianping
+conference: "Arxiv"
+year: 2022
+bibkey: yu2022bilaterally
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2203.12814"}
+tags: ['Applications', 'Efficiency And Optimization', 'Model Architecture', 'Pretraining Methods', 'Pruning', 'Reinforcement Learning', 'Tools', 'Transformer']
+---
+Recent advances in Transformer architectures 1 have brought remarkable improvements to visual question answering (VQA). Nevertheless Transformer45;based VQA models are usually deep and wide to guarantee good performance so they can only run on powerful GPU servers and cannot run on capacity45;restricted platforms such as mobile phones. Therefore it is desirable to learn an elastic VQA model that supports adaptive pruning at runtime to meet the efficiency constraints of different platforms. To this end we present the bilaterally slimmable Transformer (BST) a general framework that can be seamlessly integrated into arbitrary Transformer45;based VQA models to train a single model once and obtain various slimmed submodels of different widths and depths. To verify the effectiveness and generality of this method we integrate the proposed BST framework with three typical Transformer45;based VQA approaches namely MCAN 2 UNITER 3 and CLIP45;ViL 4 and conduct extensive experiments on two commonly45;used benchmark datasets. In particular one slimmed MCAN45;BST submodel achieves comparable accuracy on VQA45;v2 while being 0.38x smaller in model size and having 0.27x fewer FLOPs than the reference MCAN model. The smallest MCAN45;BST submodel only has 9M parameters and 0.16G FLOPs during inference making it possible to deploy it on a mobile device with less than 60 ms latency.

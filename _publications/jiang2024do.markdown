@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Do Llms Dream Of Elephants (when Told Not To) Latent Concept Association And Associative Memory In Transformers
+authors: Jiang Yibo, Rajendran Goutham, Ravikumar Pradeep, Aragam Bryon
+conference: "Arxiv"
+year: 2024
+bibkey: jiang2024do
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.18400"}
+tags: ['Attention Mechanism', 'Model Architecture', 'Pretraining Methods', 'Transformer']
+---
+Large Language Models (LLMs) have the capacity to store and recall facts. Through experimentation with open45;source models we observe that this ability to retrieve facts can be easily manipulated by changing contexts even without altering their factual meanings. These findings highlight that LLMs might behave like an associative memory model where certain tokens in the contexts serve as clues to retrieving facts. We mathematically explore this property by studying how transformers the building blocks of LLMs can complete such memory tasks. We study a simple latent concept association problem with a one45;layer transformer and we show theoretically and empirically that the transformer gathers information using self45;attention and uses the value matrix for associative memory.

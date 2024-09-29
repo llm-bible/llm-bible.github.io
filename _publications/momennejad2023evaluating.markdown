@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Evaluating Cognitive Maps And Planning In Large Language Models With Cogeval
+authors: Momennejad Ida, Hasanbeig Hosein, Vieira Felipe, Sharma Hiteshi, Ness Robert Osazuwa, Jojic Nebojsa, Palangi Hamid, Larson Jonathan
+conference: "Arxiv"
+year: 2023
+bibkey: momennejad2023evaluating
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2309.15129"}
+tags: ['GPT', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'Reinforcement Learning', 'Security', 'Training Techniques']
+---
+Recently an influx of studies claim emergent cognitive abilities in large language models (LLMs). Yet most rely on anecdotes overlook contamination of training sets or lack systematic Evaluation involving multiple tasks control conditions multiple iterations and statistical robustness tests. Here we make two major contributions. First we propose CogEval a cognitive science45;inspired protocol for the systematic evaluation of cognitive capacities in Large Language Models. The CogEval protocol can be followed for the evaluation of various abilities. Second here we follow CogEval to systematically evaluate cognitive maps and planning ability across eight LLMs (OpenAI GPT45;4 GPT45;3.545;turbo45;175B davinci45;00345;175B Google Bard Cohere45;xlarge45;52.4B Anthropic Claude45;145;52B LLaMA45;13B and Alpaca45;7B). We base our task prompts on human experiments which offer both established construct validity for evaluating planning and are absent from LLM training sets. We find that while LLMs show apparent competence in a few planning tasks with simpler structures systematic evaluation reveals striking failure modes in planning tasks including hallucinations of invalid trajectories and getting trapped in loops. These findings do not support the idea of emergent out45;of45;the45;box planning ability in LLMs. This could be because LLMs do not understand the latent relational structures underlying planning problems known as cognitive maps and fail at unrolling goal45;directed trajectories based on the underlying structure. Implications for application and future directions are discussed.

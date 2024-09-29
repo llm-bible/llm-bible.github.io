@@ -1,0 +1,12 @@
+---
+layout: publication
+title: The Pile An 800GB Dataset Of Diverse Text For Language Modeling
+authors: Gao Leo, Biderman Stella, Black Sid, Golding Laurence, Hoppe Travis, Foster Charles, Phang Jason, He Horace, Thite Anish, Nabeshima Noa, Presser Shawn, Leahy Connor
+conference: "Arxiv"
+year: 2020
+bibkey: gao2020dataset
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2101.00027"}
+tags: ['Fine Tuning', 'GPT', 'Language Modeling', 'Model Architecture', 'Pretraining Methods', 'Training Techniques']
+---
+Recent work has demonstrated that increased training dataset diversity improves general cross45;domain knowledge and downstream generalization capability for large45;scale language models. With this in mind we present textit123;the Pile125; an 825 GiB English text corpus targeted at training large45;scale language models. The Pile is constructed from 22 diverse high45;quality subsets 45;45; both existing and newly constructed 45;45; many of which derive from academic or professional sources. Our evaluation of the untuned performance of GPT45;2 and GPT45;3 on the Pile shows that these models struggle on many of its components such as academic writing. Conversely models trained on the Pile improve significantly over both Raw CC and CC45;100 on all components of the Pile while improving performance on downstream evaluations. Through an in45;depth exploratory analysis we document potentially concerning aspects of the data for prospective users. We make publicly available the code used in its construction.

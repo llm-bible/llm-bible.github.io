@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Deepprobe Information Directed Sequence Understanding And Chatbot Design Via Recurrent Neural Networks
+authors: Yin Zi, Chang Keng-hao, Zhang Ruofei
+conference: "Arxiv"
+year: 2017
+bibkey: yin2017information
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/1707.05470"}
+tags: ['Applications', 'Attention Mechanism', 'Model Architecture', 'RAG', 'Tools']
+---
+Information extraction and user intention identification are central topics in modern query understanding and recommendation systems. In this paper we propose DeepProbe a generic information45;directed interaction framework which is built around an attention45;based sequence to sequence (seq2seq) recurrent neural network. DeepProbe can rephrase evaluate and even actively ask questions leveraging the generative ability and likelihood estimation made possible by seq2seq models. DeepProbe makes decisions based on a derived uncertainty (entropy) measure conditioned on user inputs possibly with multiple rounds of interactions. Three applications namely a rewritter a relevance scorer and a chatbot for ad recommendation were built around DeepProbe with the first two serving as precursory building blocks for the third. We first use the seq2seq model in DeepProbe to rewrite a user query into one of standard query form which is submitted to an ordinary recommendation system. Secondly we evaluate DeepProbes seq2seq model45;based relevance scoring. Finally we build a chatbot prototype capable of making active user interactions which can ask questions that maximize information gain allowing for a more efficient user intention idenfication process. We evaluate first two applications by 1) comparing with baselines by BLEU and AUC and 2) human judge evaluation. Both demonstrate significant improvements compared with current state45;of45;the45;art systems proving their values as useful tools on their own and at the same time laying a good foundation for the ongoing chatbot application.

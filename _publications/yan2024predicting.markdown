@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Predicting The Big Five Personality Traits In Chinese Counselling Dialogues Using Large Language Models
+authors: Yan Yang, Ma Lizhi, Li Anqi, Ma Jingsong, Lan Zhenzhong
+conference: "Arxiv"
+year: 2024
+bibkey: yan2024predicting
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.17287"}
+  - {name: "Code", url: "https://github.com/kuri&#45;leo/BigFive&#45;LLM&#45;Predictor&#125;,"}
+tags: ['Efficiency And Optimization', 'Ethics And Bias', 'Has Code', 'Prompting', 'Reinforcement Learning', 'Tools']
+---
+Accurate assessment of personality traits is crucial for effective psycho45;counseling yet traditional methods like self45;report questionnaires are time45;consuming and biased. This study exams whether Large Language Models (LLMs) can predict the Big Five personality traits directly from counseling dialogues and introduces an innovative framework to perform the task. Our framework applies role45;play and questionnaire45;based prompting to condition LLMs on counseling sessions simulating client responses to the Big Five Inventory. We evaluated our framework on 853 real45;world counseling sessions finding a significant correlation between LLM45;predicted and actual Big Five traits proving the validity of framework. Moreover ablation studies highlight the importance of role45;play simulations and task simplification via questionnaires in enhancing prediction accuracy. Meanwhile our fine45;tuned Llama345;8B model utilizing Direct Preference Optimization with Supervised Fine45;Tuning achieves a 130.9537; improvement surpassing the state45;of45;the45;art Qwen1.545;110B by 36.9437; in personality prediction validity. In conclusion LLMs can predict personality based on counseling dialogues. Our code and model are publicly available at url123;https://github.com/kuri&#45;leo/BigFive&#45;LLM&#45;Predictor&#125;, providing a valuable tool for future research in computational psychometrics.

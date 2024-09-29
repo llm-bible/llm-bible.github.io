@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Revisiting Zero45;shot Abstractive Summarization In The Era Of Large Language Models From The Perspective Of Position Bias
+authors: Chhabra Anshuman, Askari Hadi, Mohapatra Prasant
+conference: "Arxiv"
+year: 2024
+bibkey: chhabra2024revisiting
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2401.01989"}
+tags: ['Applications', 'Ethics And Bias', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+---
+We characterize and study zero45;shot abstractive summarization in Large Language Models (LLMs) by measuring position bias which we propose as a general formulation of the more restrictive lead bias phenomenon studied previously in the literature. Position bias captures the tendency of a model unfairly prioritizing information from certain parts of the input text over others leading to undesirable behavior. Through numerous experiments on four diverse real45;world datasets we study position bias in multiple LLM models such as GPT 3.545;Turbo Llama45;2 and Dolly45;v2 as well as state45;of45;the45;art pretrained encoder45;decoder abstractive summarization models such as Pegasus and BART. Our findings lead to novel insights and discussion on performance and position bias of models for zero45;shot summarization tasks.

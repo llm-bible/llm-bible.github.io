@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Melting Point Mobile Evaluation Of Language Transformers
+authors: Laskaridis Stefanos, Katevas Kleomenis, Minto Lorenzo, Haddadi Hamed
+conference: "Arxiv"
+year: 2024
+bibkey: laskaridis2024melting
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2403.12844"}
+tags: ['Applications', 'Efficiency And Optimization', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'Quantization', 'RAG', 'Reinforcement Learning', 'Tools', 'Transformer']
+---
+Transformers have revolutionized the machine learning landscape gradually making their way into everyday tasks and equipping our computers with sparks of intelligence. However their runtime requirements have prevented them from being broadly deployed on mobile. As personal devices become increasingly powerful and prompt privacy becomes an ever more pressing issue we explore the current state of mobile execution of Large Language Models (LLMs). To achieve this we have created our own automation infrastructure MELT which supports the headless execution and benchmarking of LLMs on device supporting different models devices and frameworks including Android iOS and Nvidia Jetson devices. We evaluate popular instruction fine45;tuned LLMs and leverage different frameworks to measure their end45;to45;end and granular performance tracing their memory and energy requirements along the way. Our analysis is the first systematic study of on45;device LLM execution quantifying performance energy efficiency and accuracy across various state45;of45;the45;art models and showcases the state of on45;device intelligence in the era of hyperscale models. Results highlight the performance heterogeneity across targets and corroborates that LLM inference is largely memory45;bound. Quantization drastically reduces memory requirements and renders execution viable but at a non45;negligible accuracy cost. Drawing from its energy footprint and thermal behavior the continuous execution of LLMs remains elusive as both factors negatively affect user experience. Last our experience shows that the ecosystem is still in its infancy and algorithmic as well as hardware breakthroughs can significantly shift the execution cost. We expect NPU acceleration and framework45;hardware co45;design to be the biggest bet towards efficient standalone execution with the alternative of offloading tailored towards edge deployments.

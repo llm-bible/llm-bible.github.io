@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Uncertainty Guided Global Memory Improves Multi45;hop Question Answering
+authors: Sagirova Alsu, Burtsev Mikhail
+conference: "Arxiv"
+year: 2023
+bibkey: sagirova2023uncertainty
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2311.18151"}
+tags: ['Applications', 'Attention Mechanism', 'Model Architecture', 'Pretraining Methods', 'Reinforcement Learning', 'Training Techniques', 'Transformer']
+---
+Transformers have become the gold standard for many natural language processing tasks and in particular for multi45;hop question answering (MHQA). This task includes processing a long document and reasoning over the multiple parts of it. The landscape of MHQA approaches can be classified into two primary categories. The first group focuses on extracting supporting evidence thereby constraining the QA models context to predicted facts. Conversely the second group relies on the attention mechanism of the long input encoding model to facilitate multi45;hop reasoning. However attention45;based token representations lack explicit global contextual information to connect reasoning steps. To address these issues we propose GEMFormer a two45;stage method that first collects relevant information over the entire document to the memory and then combines it with local context to solve the task. Our experimental results show that fine45;tuning a pre45;trained model with memory45;augmented input including the most certain global elements improves the models performance on three MHQA datasets compared to the baseline. We also found that the global explicit memory contains information from supporting facts required for the correct answer.

@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Sweeping Heterogeneity With Smart Mops Mixture Of Prompts For LLM Task Adaptation
+authors: Dun Chen, Garcia Mirian Hipolito, Zheng Guoqing, Awadallah Ahmed Hassan, Kyrillidis Anastasios, Sim Robert
+conference: "Arxiv"
+year: 2023
+bibkey: dun2023sweeping
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.02842"}
+tags: ['Applications', 'Efficiency And Optimization', 'Prompting', 'Quantization', 'Training Techniques']
+---
+Large Language Models (LLMs) have the ability to solve a variety of tasks such as text summarization and mathematical questions just out of the box but they are often trained with a single task in mind. Due to high computational costs the current trend is to use prompt instruction tuning to better adjust monolithic pretrained LLMs for new 45;45; but often individual 45;45; downstream tasks. Thus how one would expand prompt tuning to handle 45;45; concomitantly 45;45; heterogeneous tasks and data distributions is a widely open question. To address this gap we suggest the use of emph123;Mixture of Prompts125; or MoPs associated with smart gating functionality the latter 45;45; whose design is one of the contributions of this paper 45;45; can identify relevant skills embedded in different groups of prompts and dynamically assign combined experts (i.e. collection of prompts) based on the target task. Additionally MoPs are empirically agnostic to any model compression technique applied 45;45; for efficiency reasons 45;45; as well as instruction data source and task composition. In practice MoPs can simultaneously mitigate prompt training interference in multi45;task multi45;source scenarios (e.g. task and data heterogeneity across sources) as well as possible implications from model approximations. As a highlight MoPs manage to decrease final perplexity from sim2037; up to sim7037; as compared to baselines in the federated scenario and from sim 337; up to sim3037; in the centralized scenario.

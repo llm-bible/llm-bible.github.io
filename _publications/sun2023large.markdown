@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Large Language Models For Intent45;driven Session Recommendations
+authors: Sun Zhu, Liu Hongyang, Qu Xinghua, Feng Kaidong, Wang Yan, Ong Yew-soon
+conference: "Arxiv"
+year: 2023
+bibkey: sun2023large
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2312.07552"}
+tags: ['Efficiency And Optimization', 'Ethics And Bias', 'Prompting', 'Reinforcement Learning']
+---
+Intent45;aware session recommendation (ISR) is pivotal in discerning user intents within sessions for precise predictions. Traditional approaches however face limitations due to their presumption of a uniform number of intents across all sessions. This assumption overlooks the dynamic nature of user sessions where the number and type of intentions can significantly vary. In addition these methods typically operate in latent spaces thus hinder the models transparency.Addressing these challenges we introduce a novel ISR approach utilizing the advanced reasoning capabilities of large language models (LLMs). First this approach begins by generating an initial prompt that guides LLMs to predict the next item in a session based on the varied intents manifested in user sessions. Then to refine this process we introduce an innovative prompt optimization mechanism that iteratively self45;reflects and adjusts prompts. Furthermore our prompt selection module built upon the LLMs broad adaptability swiftly selects the most optimized prompts across diverse domains. This new paradigm empowers LLMs to discern diverse user intents at a semantic level leading to more accurate and interpretable session recommendations. Our extensive experiments on three real45;world datasets demonstrate the effectiveness of our method marking a significant advancement in ISR systems.

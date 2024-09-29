@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Evograd A Dynamic Take On The Winograd Schema Challenge With Human Adversaries
+authors: Sun Jing Han, Emami Ali
+conference: "Arxiv"
+year: 2024
+bibkey: sun2024dynamic
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2402.13372"}
+tags: ['GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Tools']
+---
+While Large Language Models (LLMs) excel at the Winograd Schema Challenge (WSC) a coreference resolution task testing common45;sense reasoning through pronoun disambiguation they struggle with instances that feature minor alterations or rewording. To address this we introduce EvoGrad an open45;source platform that harnesses a human45;in45;the45;loop approach to create a dynamic dataset tailored to such altered WSC instances. Leveraging ChatGPTs capabilities we expand our task instances from 182 to 3691 setting a new benchmark for diverse common45;sense reasoning datasets. Additionally we introduce the error depth metric assessing model stability in dynamic tasks. Our results emphasize the challenge posed by EvoGrad Even the best performing LLM GPT45;3.5 achieves an accuracy of 65.037; with an average error depth of 7.2 a stark contrast to human performance of 92. 837; accuracy without perturbation errors. This highlights ongoing model limitations and the value of dynamic datasets in uncovering them.

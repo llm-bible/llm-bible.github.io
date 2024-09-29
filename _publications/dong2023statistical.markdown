@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Statistical Knowledge Assessment For Large Language Models
+authors: Dong Qingxiu, Xu Jingjing, Kong Lingpeng, Sui Zhifang, Li Lei
+conference: "Arxiv"
+year: 2023
+bibkey: dong2023statistical
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2305.10519"}
+tags: ['Model Architecture', 'Prompting']
+---
+Given varying prompts regarding a factoid question can a large language model (LLM) reliably generate factually correct answers Existing LLMs may generate distinct responses for different prompts. In this paper we study the problem of quantifying knowledge contained in an LLM regarding a given set of facts. We propose KaRR a statistical approach to assess factual knowledge for LLMs. The main idea is to estimate the ratio of LLM generating text corresponding to the answer entity given diverse prompts of the subject and the querying relation versus it generating by random chances. Our assessment suite contains a comprehensive set of 994123 entities and 600 relations with 1395905 text aliases. We use our method to evaluate 20 LLMs of various sizes including LLaMA Alpaca OPT etc. Experiments show that our results have a strong correlation (0.43 Kendalls τ) with the results of human assessment on LLMs. Our results reveal that the knowledge in LLMs with the same backbone architecture adheres to the scaling law while tuning on instruction45;following data sometimes compromises the models capability to generate factually correct text reliably.

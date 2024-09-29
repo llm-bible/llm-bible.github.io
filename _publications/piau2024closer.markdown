@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Ptt545;v2 A Closer Look At Continued Pretraining Of T5 Models For The Portuguese Language
+authors: Piau Marcos, Lotufo Roberto, Nogueira Rodrigo
+conference: "Arxiv"
+year: 2024
+bibkey: piau2024closer
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.10806"}
+tags: ['Efficiency And Optimization', 'Pretraining Methods', 'Training Techniques']
+---
+Despite advancements in Natural Language Processing (NLP) and the growing availability of pretrained models the English language remains the primary focus of model development. Continued pretraining on language45;specific corpora provides a practical solution for adapting models to other languages. However the impact of different pretraining settings on downstream tasks remains underexplored. This work introduces texttt123;ptt545;v2125; investigating the continued pretraining of T5 models for Portuguese. We first develop a baseline set of settings and pretrain models with sizes up to 3B parameters. Finetuning on three Portuguese downstream tasks (assin2 STS assin2 RTE and TweetSentBR) yields SOTA results on the latter two. We then explore the effects of different pretraining configurations including quality filters optimization strategies and multi45;epoch pretraining. Perhaps surprisingly their impact remains subtle compared to our baseline. We release texttt123;ptt545;v2125; pretrained checkpoints and the finetuned MonoT5 rerankers on HuggingFace at https://huggingface.co/collections/unicamp&#45;dl/ptt5&#45;v2&#45;666538a650188ba00aa8d2d0 and https://huggingface.co/collections/unicamp&#45;dl/monoptt5&#45;66653981877df3ea727f720d.

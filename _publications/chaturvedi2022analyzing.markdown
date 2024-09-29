@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Analyzing Semantic Faithfulness Of Language Models Via Input Intervention On Question Answering
+authors: Chaturvedi Akshay, Bhar Swarnadeep, Saha Soumadeep, Garain Utpal, Asher Nicholas
+conference: "Computational Linguistics"
+year: 2022
+bibkey: chaturvedi2022analyzing
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2212.10696"}
+tags: ['Applications', 'BERT', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'Training Techniques', 'Transformer']
+---
+Transformer45;based language models have been shown to be highly effective for several NLP tasks. In this paper we consider three transformer models BERT RoBERTa and XLNet in both small and large versions and investigate how faithful their representations are with respect to the semantic content of texts. We formalize a notion of semantic faithfulness in which the semantic content of a text should causally figure in a models inferences in question answering. We then test this notion by observing a models behavior on answering questions about a story after performing two novel semantic interventions deletion intervention and negation intervention. While transformer models achieve high performance on standard question answering tasks we show that they fail to be semantically faithful once we perform these interventions for a significant number of cases (~5037; for deletion intervention and ~2037; drop in accuracy for negation intervention). We then propose an intervention45;based training regime that can mitigate the undesirable effects for deletion intervention by a significant margin (from ~ 5037; to ~637;). We analyze the inner45;workings of the models to better understand the effectiveness of intervention45;based training for deletion intervention. But we show that this training does not attenuate other aspects of semantic unfaithfulness such as the models inability to deal with negation intervention or to capture the predicate45;argument structure of texts. We also test InstructGPT via prompting for its ability to handle the two interventions and to capture predicate45;argument structure. While InstructGPT models do achieve very high performance on predicate45;argument structure task they fail to respond adequately to our deletion and negation interventions.

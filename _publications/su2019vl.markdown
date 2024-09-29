@@ -1,0 +1,13 @@
+---
+layout: publication
+title: VL45;BERT Pre45;training Of Generic Visual45;linguistic Representations
+authors: Su Weijie, Zhu Xizhou, Cao Yue, Li Bin, Lu Lewei, Wei Furu, Dai Jifeng
+conference: "Arxiv"
+year: 2019
+bibkey: su2019vl
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/1908.08530"}
+  - {name: "Code", url: "https://github.com/jackroos/VL&#45;BERT&#125;"}
+tags: ['Applications', 'BERT', 'Has Code', 'Model Architecture', 'Pretraining Methods', 'Reinforcement Learning', 'Training Techniques', 'Transformer']
+---
+We introduce a new pre45;trainable generic representation for visual45;linguistic tasks called Visual45;Linguistic BERT (VL45;BERT for short). VL45;BERT adopts the simple yet powerful Transformer model as the backbone and extends it to take both visual and linguistic embedded features as input. In it each element of the input is either of a word from the input sentence or a region45;of45;interest (RoI) from the input image. It is designed to fit for most of the visual45;linguistic downstream tasks. To better exploit the generic representation we pre45;train VL45;BERT on the massive45;scale Conceptual Captions dataset together with text45;only corpus. Extensive empirical analysis demonstrates that the pre45;training procedure can better align the visual45;linguistic clues and benefit the downstream tasks such as visual commonsense reasoning visual question answering and referring expression comprehension. It is worth noting that VL45;BERT achieved the first place of single model on the leaderboard of the VCR benchmark. Code is released at url123;https://github.com/jackroos/VL&#45;BERT&#125;.

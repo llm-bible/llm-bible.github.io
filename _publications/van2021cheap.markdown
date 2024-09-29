@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Cheap And Good Simple And Effective Data Augmentation For Low Resource Machine Reading
+authors: Van Hoang, Yadav Vikas, Surdeanu Mihai
+conference: "Arxiv"
+year: 2021
+bibkey: van2021cheap
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2106.04134"}
+tags: ['BERT', 'Model Architecture', 'Pretraining Methods', 'Training Techniques']
+---
+We propose a simple and effective strategy for data augmentation for low45;resource machine reading comprehension (MRC). Our approach first pretrains the answer extraction components of a MRC system on the augmented data that contains approximate context of the correct answers before training it on the exact answer spans. The approximate context helps the QA method components in narrowing the location of the answers. We demonstrate that our simple strategy substantially improves both document retrieval and answer extraction performance by providing larger context of the answers and additional training data. In particular our method significantly improves the performance of BERT based retriever (15.1237;) and answer extractor (4.3337; F1) on TechQA a complex low45;resource MRC task. Further our data augmentation strategy yields significant improvements of up to 3.937; exact match (EM) and 2.737; F1 for answer extraction on PolicyQA another practical but moderate sized QA dataset that also contains long answer spans.

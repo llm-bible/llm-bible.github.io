@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Matryoshka Query Transformer For Large Vision45;language Models
+authors: Hu Wenbo, Dou Zi-yi, Li Liunian Harold, Kamath Amita, Peng Nanyun, Chang Kai-wei
+conference: "Arxiv"
+year: 2024
+bibkey: hu2024matryoshka
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2405.19315"}
+tags: ['Fine Tuning', 'Model Architecture', 'Pretraining Methods', 'Reinforcement Learning', 'Training Techniques', 'Transformer']
+---
+Large Vision45;Language Models (LVLMs) typically encode an image into a fixed number of visual tokens (e.g. 576) and process these tokens with a language model. Despite their strong performance LVLMs face challenges in adapting to varying computational constraints. This raises the question can we achieve flexibility in the number of visual tokens to suit different tasks and computational resources We answer this with an emphatic yes. Inspired by Matryoshka Representation Learning we introduce the Matryoshka Query Transformer (MQT) capable of encoding an image into m visual tokens during inference where m can be any number up to a predefined maximum. This is achieved by employing a query transformer with M latent query tokens to compress the visual embeddings. During each training step we randomly select m <= M latent query tokens and train the model using only these first m tokens discarding the rest. Combining MQT with LLaVA we train a single model once and flexibly and drastically reduce the number of inference45;time visual tokens while maintaining similar or better performance compared to training independent models for each number of tokens. Our model MQT45;LLAVA matches LLaVA45;1.5 performance across 11 benchmarks using a maximum of 256 tokens instead of LLaVAs fixed 576. Reducing to 16 tokens (8x less TFLOPs) only sacrifices the performance by 2.4 points on MMBench. On certain tasks such as ScienceQA and MMMU we can even go down to only 2 visual tokens with performance drops of just 337; and 637; each. Our exploration of the trade45;off between the accuracy and computational cost brought about by the number of visual tokens facilitates future research to achieve the best of both worlds.

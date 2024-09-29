@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Tender Accelerating Large Language Models Via Tensor Decomposition And Runtime Requantization
+authors: Lee Jungi, Lee Wonbeom, Sim Jaewoong
+conference: "Arxiv"
+year: 2024
+bibkey: lee2024accelerating
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.12930"}
+tags: ['Efficiency And Optimization', 'Quantization']
+---
+Large language models (LLMs) demonstrate outstanding performance in various tasks in machine learning and have thus become one of the most important workloads in todays computing landscape. However deploying LLM inference poses challenges due to the high compute and memory requirements stemming from the enormous model size and the difficulty of running it in the integer pipelines. In this paper we present Tender an algorithm45;hardware co45;design solution that enables efficient deployment of LLM inference at low precision. Based on our analysis of outlier values in LLMs we propose a decomposed quantization technique in which the scale factors of decomposed matrices are powers of two apart. The proposed scheme allows us to avoid explicit requantization (i.e. dequantization/quantization) when accumulating the partial sums from the decomposed matrices with a minimal extension to the commodity tensor compute hardware. Our evaluation shows that Tender achieves higher accuracy and inference performance compared to the state45;of45;the45;art methods while also being significantly less intrusive to the existing accelerators.

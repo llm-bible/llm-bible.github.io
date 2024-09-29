@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Do Vision45;language Transformers Exhibit Visual Commonsense An Empirical Study Of VCR
+authors: Li Zhenyang, Guo Yangyang, Wang Kejie, Chen Xiaolin, Nie Liqiang, Kankanhalli Mohan
+conference: "Arxiv"
+year: 2024
+bibkey: li2024do
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2405.16934"}
+tags: ['Applications', 'Ethics And Bias', 'Model Architecture', 'Pretraining Methods', 'Training Techniques', 'Transformer']
+---
+Visual Commonsense Reasoning (VCR) calls for explanatory reasoning behind question answering over visual scenes. To achieve this goal a model is required to provide an acceptable rationale as the reason for the predicted answers. Progress on the benchmark dataset stems largely from the recent advancement of Vision45;Language Transformers (VL Transformers). These models are first pre45;trained on some generic large45;scale vision45;text datasets and then the learned representations are transferred to the downstream VCR task. Despite their attractive performance this paper posits that the VL Transformers do not exhibit visual commonsense which is the key to VCR. In particular our empirical results pinpoint several shortcomings of existing VL Transformers small gains from pre45;training unexpected language bias limited model architecture for the two inseparable sub45;tasks and neglect of the important object45;tag correlation. With these findings we tentatively suggest some future directions from the aspect of dataset evaluation metric and training tricks. We believe this work could make researchers revisit the intuition and goals of VCR and thus help tackle the remaining challenges in visual reasoning.

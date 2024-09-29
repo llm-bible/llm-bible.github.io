@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Comparative Analysis Of Different Efficient Fine Tuning Methods Of Large Language Models (llms) In Low45;resource Setting
+authors: Srinivasan Krishna Prasad Varadarajan, Gumpena Prasanth, Yattapu Madhusudhana, Brahmbhatt Vishal H.
+conference: "Arxiv"
+year: 2024
+bibkey: srinivasan2024comparative
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2405.13181"}
+tags: ['Distillation', 'Efficiency And Optimization', 'Fine Tuning', 'Prompting', 'Reinforcement Learning']
+---
+In the domain of large language models (LLMs) arXiv2305.16938 showed that few45;shot full45;model fine45;tuning 45;45; namely Vanilla Fine Tuning (FT) and Pattern45;Based Fine Tuning (PBFT) 45;45; and In45;Context Learning (ICL) generalize similarly on Out45;Of45;Domain (OOD) datasets but vary in terms of task adaptation. However they both pose challenges especially in term of memory requirements. In this paper we further try to push the understanding of different fine45;tuning strategies for LLM and aim to bring a myriad of these on the same pedestal for an elaborate comparison with full45;model fine45;tuning on two diverse datasets. To that end we conducted a series of experiments beginning with state45;of45;the45;art methods like vanilla fine45;tuning and Pattern45;Based Fine45;Tuning (PBFT) on pre45;trained models across two datasets COLA and MNLI. We then investigate adaptive fine45;tuning and the efficiency of LoRA adapters in a few45;shot setting. Finally we also compare an alternative approach that has gained recent popularity 45;45; context distillation 45;45; with the vanilla FT and PBFT with and without few45;shot setup. Our findings suggest that these alternative strategies that we explored can exhibit out45;of45;domain generalization comparable to that of vanilla FT and PBFT. PBFT under45;performs Vanilla FT on out45;of45;domain (OOD) data emphasizing the need for effective prompts. Further our adaptive45;fine tuning and LoRA experiments perform comparable or slightly worse than the standard fine45;tunings as anticipated since standard fine45;tunings involve tuning the entire model. Finally our context distillation experiments out45;perform the standard fine45;tuning methods. These findings underscore that eventually the choice of an appropriate fine45;tuning method depends on the available resources (memory compute data) and task adaptability.

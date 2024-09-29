@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Examining The Robustness Of LLM Evaluation To The Distributional Assumptions Of Benchmarks
+authors: Ailem Melissa, Marazopoulou Katerina, Siska Charlotte, Bono James
+conference: "Arxiv"
+year: 2024
+bibkey: ailem2024examining
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2404.16966"}
+tags: ['Pretraining Methods', 'Prompting', 'RAG', 'Reinforcement Learning', 'Security']
+---
+Benchmarks have emerged as the central approach for evaluating Large Language Models (LLMs). The research community often relies on a models average performance across the test prompts of a benchmark to evaluate the models performance. This is consistent with the assumption that the test prompts within a benchmark represent a random sample from a real45;world distribution of interest. We note that this is generally not the case; instead we hold that the distribution of interest varies according to the specific use case. We find that (1) the correlation in model performance across test prompts is non45;random (2) accounting for correlations across test prompts can change model rankings on major benchmarks (3) explanatory factors for these correlations include semantic similarity and common LLM failure points.

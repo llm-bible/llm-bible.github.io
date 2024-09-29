@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Slim45;llm Salience45;driven Mixed45;precision Quantization For Large Language Models
+authors: Huang Wei, Qin Haotong, Liu Yangdong, Li Yawei, Liu Xianglong, Benini Luca, Magno Michele, Qi Xiaojuan
+conference: "Arxiv"
+year: 2024
+bibkey: huang2024slim
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2405.14917"}
+tags: ['Applications', 'Efficiency And Optimization', 'Quantization', 'Training Techniques']
+---
+Large language models (LLMs) achieve remarkable performance in natural language understanding but require substantial computation and memory resources. Post45;training quantization (PTQ) is a powerful compression technique extensively investigated in LLMs. However existing PTQ methods are still not ideal in terms of accuracy and efficiency especially with below 4 bit45;widths. Standard PTQ methods using group45;wise quantization suffer difficulties in quantizing LLMs accurately to such low45;bit but advanced methods remaining high45;precision weights element45;wisely are hard to realize their theoretical hardware efficiency. This paper presents a Salience45;Driven Mixed45;Precision Quantization scheme for LLMs namely SliM45;LLM. The scheme exploits the salience distribution of weights to determine optimal bit45;width and quantizers for accurate LLM quantization while aligning bit45;width partition to groups for compact memory usage and fast integer inference. Specifically the proposed SliM45;LLM mainly relies on two novel techniques (1) Salience45;Determined Bit Allocation utilizes the clustering characteristics of salience distribution to allocate the bit45;widths of each group increasing the accuracy of quantized LLMs and maintaining the inference efficiency; (2) Salience45;Weighted Quantizer Calibration optimizes the parameters of the quantizer by considering the element45;wise salience within the group balancing the maintenance of salient information and minimization of errors. Comprehensive experiments show that SliM45;LLM significantly improves the accuracy of LLMs at ultra45;low bits e.g. 245;bit LLaMA45;7B achieves a 5.545;times memory45;saving than original model on NVIDIA A800 GPUs and 4837; decrease of perplexity compared to the state45;of45;the45;art gradient45;free PTQ method. Moreover SliM45;LLM+ which is integrated from the extension of SliM45;LLM with gradient45;based quantizers further reduces perplexity by 35.137;.

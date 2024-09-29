@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Advancing LLM Reasoning Generalists With Preference Trees
+authors: Yuan Lifan, Cui Ganqu, Wang Hanbin, Ding Ning, Wang Xingyao, Deng Jia, Shan Boji, Chen Huimin, Xie Ruobing, Lin Yankai, Liu Zhenghao, Zhou Bowen, Peng Hao, Liu Zhiyuan, Sun Maosong
+conference: "Arxiv"
+year: 2024
+bibkey: yuan2024advancing
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2404.02078"}
+tags: ['Applications', 'Fine Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+---
+We introduce Eurus a suite of large language models (LLMs) optimized for reasoning. Finetuned from Mistral45;7B and CodeLlama45;70B Eurus models achieve state45;of45;the45;art results among open45;source models on a diverse set of benchmarks covering mathematics code generation and logical reasoning problems. Notably Eurus45;70B beats GPT45;3.5 Turbo in reasoning through a comprehensive benchmarking across 12 tests covering five tasks and achieves a 33.337; pass35;64;1 accuracy on LeetCode and 32.637; on TheoremQA two challenging benchmarks substantially outperforming existing open45;source models by margins more than 13.337;. The strong performance of Eurus can be primarily attributed to UltraInteract our newly45;curated large45;scale high45;quality alignment dataset specifically designed for complex reasoning tasks. UltraInteract can be used in both supervised fine45;tuning and preference learning. For each instruction it includes a preference tree consisting of (1) reasoning chains with diverse planning strategies in a unified format (2) multi45;turn interaction trajectories with the environment and the critique and (3) pairwise data to facilitate preference learning. UltraInteract allows us to conduct an in45;depth exploration of preference learning for reasoning tasks. Our investigation reveals that some well45;established preference learning algorithms may be less suitable for reasoning tasks compared to their effectiveness in general conversations. Inspired by this we derive a novel reward modeling objective which together with UltraInteract leads to a strong reward model.

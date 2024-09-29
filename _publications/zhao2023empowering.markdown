@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Genixer Empowering Multimodal Large Language Models As A Powerful Data Generator
+authors: Zhao Henry Hengyuan, Zhou Pan, Shou Mike Zheng
+conference: "Arxiv"
+year: 2023
+bibkey: zhao2023empowering
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2312.06731"}
+  - {name: "Code", url: "https://github.com/zhaohengyuan1/Genixer"}
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Multimodal Models']
+---
+Multimodal Large Language Models (MLLMs) demonstrate exceptional problem45;solving capabilities but few research studies aim to gauge the ability to generate visual instruction tuning data. This paper proposes to explore the potential of empowering MLLMs to generate data independently without relying on GPT45;4. We introduce Genixer a comprehensive data generation pipeline consisting of four key steps (i) instruction data collection (ii) instruction template design (iii) empowering MLLMs and (iv) data generation and filtering. Additionally we outline two modes of data generation task45;agnostic and task45;specific enabling controllable output. We demonstrate that a synthetic VQA45;like dataset trained with LLaVA1.5 enhances performance on 10 out of 12 multimodal benchmarks. Additionally the grounding MLLM Shikra when trained with a REC45;like synthetic dataset shows improvements on 7 out of 8 REC datasets. Through experiments and synthetic data analysis our findings are (1) current MLLMs can serve as robust data generators without assistance from GPT45;4V; (2) MLLMs trained with task45;specific datasets can surpass GPT45;4V in generating complex instruction tuning data; (3) synthetic datasets enhance performance across various multimodal benchmarks and help mitigate model hallucinations. The data code and models can be found at https://github.com/zhaohengyuan1/Genixer.

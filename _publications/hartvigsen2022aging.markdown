@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Aging With GRACE Lifelong Model Editing With Discrete Key45;value Adaptors
+authors: Hartvigsen Thomas, Sankaranarayanan Swami, Palangi Hamid, Kim Yoon, Ghassemi Marzyeh
+conference: "Arxiv"
+year: 2022
+bibkey: hartvigsen2022aging
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2211.11031"}
+  - {name: "Code", url: "https://www.github.com/thartvigsen/grace&#125;"}
+tags: ['BERT', 'GPT', 'Has Code', 'Model Architecture', 'Pretraining Methods', 'Reinforcement Learning', 'Training Techniques']
+---
+Deployed language models decay over time due to shifting inputs changing user needs or emergent world45;knowledge gaps. When such problems are identified we want to make targeted edits while avoiding expensive retraining. However current model editors which modify such behaviors of pre45;trained models degrade model performance quickly across multiple sequential edits. We propose GRACE a lifelong model editing method which implements spot45;fixes on streaming errors of a deployed model ensuring minimal impact on unrelated inputs. GRACE writes new mappings into a pre45;trained models latent space creating a discrete local codebook of edits without altering model weights. This is the first method enabling thousands of sequential edits using only streaming errors. Our experiments on T5 BERT and GPT models show GRACEs state45;of45;the45;art performance in making and retaining edits while generalizing to unseen inputs. Our code is available at https://www.github.com/thartvigsen/grace&#125;.

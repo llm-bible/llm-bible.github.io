@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Deepseek45;vl Towards Real45;world Vision45;language Understanding
+authors: Lu Haoyu, Liu Wen, Zhang Bo, Wang Bingxuan, Dong Kai, Liu Bo, Sun Jingxiang, Ren Tongzheng, Li Zhuoshu, Yang Hao, Sun Yaofeng, Deng Chengqi, Xu Hanwei, Xie Zhenda, Ruan Chong
+conference: "Arxiv"
+year: 2024
+bibkey: lu2024deepseek
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2403.05525"}
+tags: ['Applications', 'Efficiency And Optimization', 'Pretraining Methods', 'Reinforcement Learning', 'Training Techniques']
+---
+We present DeepSeek45;VL an open45;source Vision45;Language (VL) Model designed for real45;world vision and language understanding applications. Our approach is structured around three key dimensions We strive to ensure our data is diverse scalable and extensively covers real45;world scenarios including web screenshots PDFs OCR charts and knowledge45;based content aiming for a comprehensive representation of practical contexts. Further we create a use case taxonomy from real user scenarios and construct an instruction tuning dataset accordingly. The fine45;tuning with this dataset substantially improves the models user experience in practical applications. Considering efficiency and the demands of most real45;world scenarios DeepSeek45;VL incorporates a hybrid vision encoder that efficiently processes high45;resolution images (1024 x 1024) while maintaining a relatively low computational overhead. This design choice ensures the models ability to capture critical semantic and detailed information across various visual tasks. We posit that a proficient Vision45;Language Model should foremost possess strong language abilities. To ensure the preservation of LLM capabilities during pretraining we investigate an effective VL pretraining strategy by integrating LLM training from the beginning and carefully managing the competitive dynamics observed between vision and language modalities. The DeepSeek45;VL family (both 1.3B and 7B models) showcases superior user experiences as a vision45;language chatbot in real45;world applications achieving state45;of45;the45;art or competitive performance across a wide range of visual45;language benchmarks at the same model size while maintaining robust performance on language45;centric benchmarks. We have made both 1.3B and 7B models publicly accessible to foster innovations based on this foundation model.

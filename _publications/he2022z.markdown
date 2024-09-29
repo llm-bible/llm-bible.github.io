@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Z45;code++ A Pre45;trained Language Model Optimized For Abstractive Summarization
+authors: He Pengcheng, Peng Baolin, Lu Liyang, Wang Song, Mei Jie, Liu Yang, Xu Ruochen, Awadalla Hany Hassan, Shi Yu, Zhu Chenguang, Xiong Wayne, Zeng Michael, Gao Jianfeng, Huang Xuedong
+conference: "Arxiv"
+year: 2022
+bibkey: he2022z
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2208.09770"}
+tags: ['Applications', 'Attention Mechanism', 'GPT', 'Language Modeling', 'Merging', 'Model Architecture', 'Training Techniques']
+---
+This paper presents Z45;Code++ a new pre45;trained language model optimized for abstractive text summarization. The model extends the state of the art encoder45;decoder model using three techniques. First we use a two45;phase pre45;training process to improve models performance on low45;resource summarization tasks. The model is first pre45;trained using text corpora for language understanding and then is continually pre45;trained on summarization corpora for grounded text generation. Second we replace self45;attention layers in the encoder with disentangled attention layers where each word is represented using two vectors that encode its content and position respectively. Third we use fusion45;in45;encoder a simple yet effective method of encoding long sequences in a hierarchical manner. Z45;Code++ creates new state of the art on 9 out of 13 text summarization tasks across 5 languages. Our model is parameter45;efficient in that it outperforms the 600x larger PaLM45;540B on XSum and the finetuned 200x larger GPT345;175B on SAMSum. In zero45;shot and few45;shot settings our model substantially outperforms the competing models.

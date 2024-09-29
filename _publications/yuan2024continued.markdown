@@ -1,0 +1,12 @@
+---
+layout: publication
+title: A Continued Pretrained LLM Approach For Automatic Medical Note Generation
+authors: Yuan Dong, Rastogi Eti, Naik Gautam, Rajagopal Sree Prasanna, Goyal Sagar, Zhao Fen, Chintagunta Bharath, Ward Jeff
+conference: "Arxiv"
+year: 2024
+bibkey: yuan2024continued
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2403.09057"}
+tags: ['Applications', 'GPT', 'Model Architecture']
+---
+LLMs are revolutionizing NLP tasks. However the use of the most advanced LLMs such as GPT45;4 is often prohibitively expensive for most specialized fields. We introduce HEAL the first continuously trained 13B LLaMA245;based LLM that is purpose45;built for medical conversations and measured on automated scribing. Our results demonstrate that HEAL outperforms GPT45;4 and PMC45;LLaMA in PubMedQA with an accuracy of 78.437;. It also achieves parity with GPT45;4 in generating medical notes. Remarkably HEAL surpasses GPT45;4 and Med45;PaLM 2 in identifying more correct medical concepts and exceeds the performance of human scribes and other comparable models in correctness and completeness.

@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Transkimmer Transformer Learns To Layer45;wise Skim
+authors: Guan Yue, Li Zhengyi, Leng Jingwen, Lin Zhouhan, Guo Minyi
+conference: "Arxiv"
+year: 2022
+bibkey: guan2022transformer
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2205.07324"}
+tags: ['BERT', 'Efficiency And Optimization', 'Model Architecture', 'Pretraining Methods', 'RAG', 'Training Techniques', 'Transformer']
+---
+Transformer architecture has become the de45;facto model for many machine learning tasks from natural language processing and computer vision. As such improving its computational efficiency becomes paramount. One of the major computational inefficiency of Transformer45;based models is that they spend the identical amount of computation throughout all layers. Prior works have proposed to augment the Transformer model with the capability of skimming tokens to improve its computational efficiency. However they suffer from not having effectual and end45;to45;end optimization of the discrete skimming predictor. To address the above limitations we propose the Transkimmer architecture which learns to identify hidden state tokens that are not required by each layer. The skimmed tokens are then forwarded directly to the final output thus reducing the computation of the successive layers. The key idea in Transkimmer is to add a parameterized predictor before each layer that learns to make the skimming decision. We also propose to adopt reparameterization trick and add skim loss for the end45;to45;end training of Transkimmer. Transkimmer achieves 10.97x average speedup on GLUE benchmark compared with vanilla BERT45;base baseline with less than 137; accuracy degradation.

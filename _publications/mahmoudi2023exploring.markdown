@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Exploring Prompting Large Language Models As Explainable Metrics
+authors: Mahmoudi Ghazaleh
+conference: "Proceedings of the"
+year: 2023
+bibkey: mahmoudi2023exploring
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2311.11552"}
+tags: ['Applications', 'Prompting', 'Reinforcement Learning']
+---
+This paper describes the IUST NLP Lab submission to the Prompting Large Language Models as Explainable Metrics Shared Task at the Eval4NLP 2023 Workshop on Evaluation amp; Comparison of NLP Systems. We have proposed a zero45;shot prompt45;based strategy for explainable evaluation of the summarization task using Large Language Models (LLMs). The conducted experiments demonstrate the promising potential of LLMs as evaluation metrics in Natural Language Processing (NLP) particularly in the field of summarization. Both few45;shot and zero45;shot approaches are employed in these experiments. The performance of our best provided prompts achieved a Kendall correlation of 0.477 with human evaluations in the text summarization task on the test data. Code and results are publicly available on GitHub.

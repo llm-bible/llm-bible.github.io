@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Toward Conversational Agents With Context And Time Sensitive Long45;term Memory
+authors: Alonso Nick, Figliolia Tomás, Ndirango Anthony, Millidge Beren
+conference: "Arxiv"
+year: 2024
+bibkey: alonso2024toward
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.00057"}
+tags: ['Agentic', 'Applications', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools']
+---
+There has recently been growing interest in conversational agents with long45;term memory which has led to the rapid development of language models that use retrieval45;augmented generation (RAG). Until recently most work on RAG has focused on information retrieval from large databases of texts like Wikipedia rather than information from long45;form conversations. In this paper we argue that effective retrieval from long45;form conversational data faces two unique problems compared to static database retrieval 1) time/event45;based queries which requires the model to retrieve information about previous conversations based on time or the order of a conversational event (e.g. the third conversation on Tuesday) and 2) ambiguous queries that require surrounding conversational context to understand. To better develop RAG45;based agents that can deal with these challenges we generate a new dataset of ambiguous and time45;based questions that build upon a recent dataset of long45;form simulated conversations and demonstrate that standard RAG based approaches handle such questions poorly. We then develop a novel retrieval model which combines chained45;of45;table search methods standard vector45;database retrieval and a prompting method to disambiguate queries and demonstrate that this approach substantially improves over current methods at solving these tasks. We believe that this new dataset and more advanced RAG agent can act as a key benchmark and stepping stone towards effective memory augmented conversational agents that can be used in a wide variety of AI applications.

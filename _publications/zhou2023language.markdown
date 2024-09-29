@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Language Agent Tree Search Unifies Reasoning Acting And Planning In Language Models
+authors: Zhou Andy, Yan Kai, Shlapentokh-rothman Michal, Wang Haohan, Wang Yu-xiong
+conference: "Arxiv"
+year: 2023
+bibkey: zhou2023language
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.04406"}
+  - {name: "Code", url: "https://github.com/lapisrocks/LanguageAgentTreeSearch"}
+tags: ['Agent', 'Agentic', 'Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Tools']
+---
+While language models (LMs) have shown potential across a range of decision45;making tasks their reliance on simple acting processes limits their broad deployment as autonomous agents. In this paper we introduce Language Agent Tree Search (LATS) 45;45; the first general framework that synergizes the capabilities of LMs in reasoning acting and planning. By leveraging the in45;context learning ability of LMs we integrate Monte Carlo Tree Search into LATS to enable LMs as agents along with LM45;powered value functions and self45;reflections for proficient exploration and enhanced decision45;making. A key feature of our approach is the incorporation of an environment for external feedback which offers a more deliberate and adaptive problem45;solving mechanism that surpasses the constraints of existing techniques. Our experimental evaluation across diverse domains including programming interactive question45;answering (QA) web navigation and math validates the effectiveness and generality of LATS in decision45;making while maintaining competitive or improved reasoning performance. Notably LATS achieves state45;of45;the45;art pass35;64;1 accuracy (92.737;) for programming on HumanEval with GPT45;4 and demonstrates gradient45;free performance (average score of 75.9) comparable to gradient45;based fine45;tuning for web navigation on WebShop with GPT45;3.5. Code can be found at https://github.com/lapisrocks/LanguageAgentTreeSearch

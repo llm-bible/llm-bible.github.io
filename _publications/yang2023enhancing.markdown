@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Zhongjing Enhancing The Chinese Medical Capabilities Of Large Language Model Through Expert Feedback And Real45;world Multi45;turn Dialogue
+authors: Yang Songhua, Zhao Hanjie, Zhu Senbin, Zhou Guangyu, Xu Hongfei, Jia Yuxiang, Zan Hongying
+conference: "Arxiv"
+year: 2023
+bibkey: yang2023enhancing
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2308.03549"}
+  - {name: "Code", url: "https://github.com/SupritYoung/Zhongjing"}
+tags: ['Agentic', 'Applications', 'Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Responsible AI', 'Training Techniques']
+---
+Recent advances in Large Language Models (LLMs) have achieved remarkable breakthroughs in understanding and responding to user intents. However their performance lag behind general use cases in some expertise domains such as Chinese medicine. Existing efforts to incorporate Chinese medicine into LLMs rely on Supervised Fine45;Tuning (SFT) with single45;turn and distilled dialogue data. These models lack the ability for doctor45;like proactive inquiry and multi45;turn comprehension and cannot align responses with experts intentions. In this work we introduce Zhongjing the first Chinese medical LLaMA45;based LLM that implements an entire training pipeline from continuous pre45;training SFT to Reinforcement Learning from Human Feedback (RLHF). Additionally we construct a Chinese multi45;turn medical dialogue dataset of 70000 authentic doctor45;patient dialogues CMtMedQA which significantly enhances the models capability for complex dialogue and proactive inquiry initiation. We also define a refined annotation rule and evaluation criteria given the unique characteristics of the biomedical domain. Extensive experimental results show that Zhongjing outperforms baselines in various capacities and matches the performance of ChatGPT in some abilities despite the 100x parameters. Ablation studies also demonstrate the contributions of each component pre45;training enhances medical knowledge and RLHF further improves instruction45;following ability and safety. Our code datasets and models are available at https://github.com/SupritYoung/Zhongjing.

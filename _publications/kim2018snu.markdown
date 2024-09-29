@@ -1,0 +1,12 @@
+---
+layout: publication
+title: SNU95;IDS At Semeval45;2018 Task 12 Sentence Encoder With Contextualized Vectors For Argument Reasoning Comprehension
+authors: Kim Taeuk, Choi Jihun, Lee Sang-goo
+conference: "Arxiv"
+year: 2018
+bibkey: kim2018snu
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/1805.07049"}
+tags: ['Applications', 'Fine Tuning', 'Model Architecture', 'RAG', 'Training Techniques']
+---
+We present a novel neural architecture for the Argument Reasoning Comprehension task of SemEval 2018. It is a simple neural network consisting of three parts collectively judging whether the logic built on a set of given sentences (a claim reason and warrant) is plausible or not. The model utilizes contextualized word vectors pre45;trained on large machine translation (MT) datasets as a form of transfer learning which can help to mitigate the lack of training data. Quantitative analysis shows that simply leveraging LSTMs trained on MT datasets outperforms several baselines and non45;transferred models achieving accuracies of about 7037; on the development set and about 6037; on the test set.

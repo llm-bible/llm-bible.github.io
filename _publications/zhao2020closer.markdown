@@ -1,0 +1,12 @@
+---
+layout: publication
+title: A Closer Look At Few45;shot Crosslingual Transfer The Choice Of Shots Matters
+authors: Zhao Mengjie, Zhu Yi, Shareghi Ehsan, Vulić Ivan, Reichart Roi, Korhonen Anna, Schütze Hinrich
+conference: "Arxiv"
+year: 2020
+bibkey: zhao2020closer
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2012.15682"}
+tags: ['Attention Mechanism', 'BERT', 'Model Architecture', 'Pretraining Methods']
+---
+Few45;shot crosslingual transfer has been shown to outperform its zero45;shot counterpart with pretrained encoders like multilingual BERT. Despite its growing popularity little to no attention has been paid to standardizing and analyzing the design of few45;shot experiments. In this work we highlight a fundamental risk posed by this shortcoming illustrating that the model exhibits a high degree of sensitivity to the selection of few shots. We conduct a large45;scale experimental study on 40 sets of sampled few shots for six diverse NLP tasks across up to 40 languages. We provide an analysis of success and failure cases of few45;shot transfer which highlights the role of lexical features. Additionally we show that a straightforward full model finetuning approach is quite effective for few45;shot transfer outperforming several state45;of45;the45;art few45;shot approaches. As a step towards standardizing few45;shot crosslingual experimental designs we make our sampled few shots publicly available.

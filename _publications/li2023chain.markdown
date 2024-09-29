@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Chain45;of45;knowledge Grounding Large Language Models Via Dynamic Knowledge Adapting Over Heterogeneous Sources
+authors: Li Xingxuan, Zhao Ruochen, Chia Yew Ken, Ding Bosheng, Joty Shafiq, Poria Soujanya, Bing Lidong
+conference: "Arxiv"
+year: 2023
+bibkey: li2023chain
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2305.13269"}
+tags: ['Applications', 'RAG', 'Tools']
+---
+We present chain45;of45;knowledge (CoK) a novel framework that augments large language models (LLMs) by dynamically incorporating grounding information from heterogeneous sources. It results in more factual rationales and reduced hallucination in generation. Specifically CoK consists of three stages reasoning preparation dynamic knowledge adapting and answer consolidation. Given a knowledge45;intensive question CoK first prepares several preliminary rationales and answers while identifying the relevant knowledge domains. If there is no majority consensus among the answers from samples CoK corrects the rationales step by step by adapting knowledge from the identified domains. These corrected rationales can plausibly serve as a better foundation for the final answer consolidation. Unlike prior studies that primarily use unstructured data CoK also leverages structured knowledge sources such as Wikidata and tables that provide more reliable factual information. To access both unstructured and structured knowledge sources in the dynamic knowledge adapting stage we propose an adaptive query generator that allows the generation of queries for various types of query languages including SPARQL SQL and natural sentences. Moreover to minimize error propagation between rationales CoK corrects the rationales progressively using preceding corrected rationales to generate and correct subsequent rationales. Extensive experiments show that CoK consistently improves the performance of LLMs on knowledge45;intensive tasks across different domains.

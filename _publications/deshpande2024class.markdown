@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Class45;level Code Generation From Natural Language Using Iterative Tool45;enhanced Reasoning Over Repository
+authors: Deshpande Ajinkya, Agarwal Anmol, Shet Shashank, Iyer Arun, Kanade Aditya, Bairi Ramakrishna, Parthasarathy Suresh
+conference: "Arxiv"
+year: 2024
+bibkey: deshpande2024class
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2405.01573"}
+tags: ['Agentic', 'Applications', 'RAG', 'Reinforcement Learning', 'Tools']
+---
+LLMs have demonstrated significant potential in code generation tasks achieving promising results at the function or statement level across various benchmarks. However the complexities associated with creating code artifacts like classes particularly within the context of real45;world software repositories remain underexplored. Prior research treats class45;level generation as an isolated task neglecting the intricate dependencies amp; interactions that characterize real45;world software environments. To address this gap we introduce RepoClassBench a comprehensive benchmark designed to rigorously evaluate LLMs in generating complex class45;level code within real45;world repositories. RepoClassBench includes Natural Language to Class generation tasks across Java Python amp; C35; from a selection of repositories. We ensure that each class in our dataset not only has cross45;file dependencies within the repository but also includes corresponding test cases to verify its functionality. We find that current models struggle with the realistic challenges posed by our benchmark primarily due to their limited exposure to relevant repository contexts. To address this shortcoming we introduce Retrieve45;Repotools45;Reflect (RRR) a novel approach that equips LLMs with static analysis tools to iteratively navigate amp; reason about repository45;level context in an agent45;based framework. Our experiments demonstrate that RRR significantly outperforms existing baselines on RepoClassBench showcasing its effectiveness across programming languages amp; under various settings. Our findings emphasize the critical need for code45;generation benchmarks to incorporate repo45;level dependencies to more accurately reflect the complexities of software development. Our work shows the benefits of leveraging specialized tools to enhance LLMs understanding of repository context. We plan to make our dataset amp; evaluation harness public.

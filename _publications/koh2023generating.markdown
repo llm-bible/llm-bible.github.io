@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Generating Images With Multimodal Language Models
+authors: Koh Jing Yu, Fried Daniel, Salakhutdinov Ruslan
+conference: "Arxiv"
+year: 2023
+bibkey: koh2023generating
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2305.17216"}
+tags: ['Multimodal Models', 'RAG', 'Reinforcement Learning']
+---
+We propose a method to fuse frozen text45;only large language models (LLMs) with pre45;trained image encoder and decoder models by mapping between their embedding spaces. Our model demonstrates a wide suite of multimodal capabilities image retrieval novel image generation and multimodal dialogue. Ours is the first approach capable of conditioning on arbitrarily interleaved image and text inputs to generate coherent image (and text) outputs. To achieve strong performance on image generation we propose an efficient mapping network to ground the LLM to an off45;the45;shelf text45;to45;image generation model. This mapping network translates hidden representations of text into the embedding space of the visual models enabling us to leverage the strong text representations of the LLM for visual outputs. Our approach outperforms baseline generation models on tasks with longer and more complex language. In addition to novel image generation our model is also capable of image retrieval from a prespecified dataset and decides whether to retrieve or generate at inference time. This is done with a learnt decision module which conditions on the hidden representations of the LLM. Our model exhibits a wider range of capabilities compared to prior multimodal language models. It can process image45;and45;text inputs and produce retrieved images generated images and generated text 45;45; outperforming non45;LLM based generation models across several text45;to45;image tasks that measure context dependence.

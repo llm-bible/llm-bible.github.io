@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Focused Large Language Models Are Stable Many45;shot Learners
+authors: Yuan Peiwen, Feng Shaoxiong, Li Yiwei, Wang Xinglin, Zhang Yueqi, Tan Chuyi, Pan Boyuan, Wang Heda, Hu Yao, Li Kan
+conference: "Arxiv"
+year: 2024
+bibkey: yuan2024focused
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2408.13987"}
+tags: ['Attention Mechanism', 'Model Architecture', 'Prompting', 'RAG', 'Tools', 'Training Techniques']
+---
+In45;Context Learning (ICL) enables large language models (LLMs) to achieve rapid task adaptation by learning from demonstrations. With the increase in available context length of LLMs recent experiments have shown that the performance of ICL does not necessarily scale well in many45;shot (demonstration) settings. We theoretically and experimentally confirm that the reason lies in more demonstrations dispersing the model attention from the query hindering its understanding of key content. Inspired by how humans learn from examples we propose a training45;free method FocusICL which conducts triviality filtering to avoid attention being diverted by unimportant contents at token45;level and operates hierarchical attention to further ensure sufficient attention towards current query at demonstration45;level. We also design an efficient hyperparameter searching strategy for FocusICL based on model perplexity of demonstrations. Comprehensive experiments validate that FocusICL achieves an average performance improvement of 5.237; over vanilla ICL and scales well with many45;shot demonstrations.

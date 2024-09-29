@@ -1,0 +1,12 @@
+---
+layout: publication
+title: From Chatbots To Phishbots 45;45; Preventing Phishing Scams Created Using Chatgpt Google Bard And Claude
+authors: Roy Sayak Saha, Thota Poojitha, Naragam Krishna Vamsi, Nilizadeh Shirin
+conference: "Arxiv"
+year: 2023
+bibkey: roy2023from
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.19181"}
+tags: ['Agentic', 'Applications', 'BERT', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Security', 'Tools']
+---
+The advanced capabilities of Large Language Models (LLMs) have made them invaluable across various applications from conversational agents and content creation to data analysis research and innovation. However their effectiveness and accessibility also render them susceptible to abuse for generating malicious content including phishing attacks. This study explores the potential of using four popular commercially available LLMs i.e. ChatGPT (GPT 3.5 Turbo) GPT 4 Claude and Bard to generate functional phishing attacks using a series of malicious prompts. We discover that these LLMs can generate both phishing websites and emails that can convincingly imitate well45;known brands and also deploy a range of evasive tactics that are used to elude detection mechanisms employed by anti45;phishing systems. These attacks can be generated using unmodified or vanilla versions of these LLMs without requiring any prior adversarial exploits such as jailbreaking. We evaluate the performance of the LLMs towards generating these attacks and find that they can also be utilized to create malicious prompts that in turn can be fed back to the model to generate phishing scams 45; thus massively reducing the prompt45;engineering effort required by attackers to scale these threats. As a countermeasure we build a BERT45;based automated detection tool that can be used for the early detection of malicious prompts to prevent LLMs from generating phishing content. Our model is transferable across all four commercial LLMs attaining an average accuracy of 9637; for phishing website prompts and 9437; for phishing email prompts. We also disclose the vulnerabilities to the concerned LLMs with Google acknowledging it as a severe issue. Our detection model is available for use at Hugging Face as well as a ChatGPT Actions plugin.

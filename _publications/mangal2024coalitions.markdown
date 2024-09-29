@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Coalitions Of Large Language Models Increase The Robustness Of AI Agents
+authors: Mangal Prattyush, Mak Carol, Kanakis Theo, Donovan Timothy, Braines Dave, Pyzer-knapp Edward
+conference: "Arxiv"
+year: 2024
+bibkey: mangal2024coalitions
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2408.01380"}
+tags: ['Agentic', 'Pretraining Methods', 'RAG', 'Security', 'Training Techniques']
+---
+The emergence of Large Language Models (LLMs) have fundamentally altered the way we interact with digital systems and have led to the pursuit of LLM powered AI agents to assist in daily workflows. LLMs whilst powerful and capable of demonstrating some emergent properties are not logical reasoners and often struggle to perform well at all sub45;tasks carried out by an AI agent to plan and execute a workflow. While existing studies tackle this lack of proficiency by generalised pretraining at a huge scale or by specialised fine45;tuning for tool use we assess if a system comprising of a coalition of pretrained LLMs each exhibiting specialised performance at individual sub45;tasks can match the performance of single model agents. The coalition of models approach showcases its potential for building robustness and reducing the operational costs of these AI agents by leveraging traits exhibited by specific models. Our findings demonstrate that fine45;tuning can be mitigated by considering a coalition of pretrained models and believe that this approach can be applied to other non45;agentic systems which utilise LLMs.

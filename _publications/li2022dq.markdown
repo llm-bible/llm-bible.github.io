@@ -1,0 +1,12 @@
+---
+layout: publication
+title: DQ45;BART Efficient Sequence45;to45;sequence Model Via Joint Distillation And Quantization
+authors: Li Zheng, Wang Zijian, Tan Ming, Nallapati Ramesh, Bhatia Parminder, Arnold Andrew, Xiang Bing, Roth Dan
+conference: "Arxiv"
+year: 2022
+bibkey: li2022dq
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2203.11239"}
+tags: ['Applications', 'Distillation', 'Efficiency And Optimization', 'Quantization']
+---
+Large45;scale pre45;trained sequence45;to45;sequence models like BART and T5 achieve state45;of45;the45;art performance on many generative NLP tasks. However such models pose a great challenge in resource45;constrained scenarios owing to their large memory requirements and high latency. To alleviate this issue we propose to jointly distill and quantize the model where knowledge is transferred from the full45;precision teacher model to the quantized and distilled low45;precision student model. Empirical analyses show that despite the challenging nature of generative tasks we were able to achieve a 16.5x model footprint compression ratio with little performance drop relative to the full45;precision counterparts on multiple summarization and QA datasets. We further pushed the limit of compression ratio to 27.7x and presented the performance45;efficiency trade45;off for generative tasks using pre45;trained models. To the best of our knowledge this is the first work aiming to effectively distill and quantize sequence45;to45;sequence pre45;trained models for language generation tasks.

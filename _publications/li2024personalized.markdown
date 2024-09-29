@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Personalized Language Modeling From Personalized Human Feedback
+authors: Li Xinyu, Lipton Zachary C., Leqi Liu
+conference: "Arxiv"
+year: 2024
+bibkey: li2024personalized
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2402.05133"}
+tags: ['Agentic', 'Efficiency And Optimization', 'GPT', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Tools']
+---
+Reinforcement Learning from Human Feedback (RLHF) is commonly used to fine45;tune large language models to better align with human preferences. However the underlying premise of algorithms developed under this framework can be problematic when user preferences encoded in human feedback are diverse. In this work we aim to address this problem by developing methods for building personalized language models. We first formally introduce the task of learning from personalized human feedback and explain why vanilla RLHF can be ineffective in this context. We then propose a general Personalized45;RLHF (P45;RLHF) framework including a user model that maps user information to user representations and can flexibly encode our assumptions on user preferences. We develop new learning objectives to perform personalized Direct Preference Optimization that jointly learns a user model and a personalized language model. We demonstrate the efficacy of our proposed method through (1) a synthetic task where we fine45;tune a GPT45;J 6B model to align with users with conflicting preferences on generation length; and (2) an instruction following task where we fine45;tune a Tulu45;7B model to generate responses for users with diverse preferences on the style of responses. In both cases our learned models can generate personalized responses that are better aligned with the preferences of individual users.

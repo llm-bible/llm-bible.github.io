@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Salespeople Vs Salesbot Exploring The Role Of Educational Value In Conversational Recommender Systems
+authors: Murakhovs'ka Lidiya, Laban Philippe, Xie Tian, Xiong Caiming, Wu Chien-sheng
+conference: "Arxiv"
+year: 2023
+bibkey: murakhovska2023salespeople
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.17749"}
+tags: ['Agentic', 'Pretraining Methods', 'RAG', 'Reinforcement Learning', 'Tools']
+---
+Making big purchases requires consumers to research or consult a salesperson to gain domain expertise. However existing conversational recommender systems (CRS) often overlook users lack of background knowledge focusing solely on gathering preferences. In this work we define a new problem space for conversational agents that aim to provide both product recommendations and educational value through mixed45;type mixed45;initiative dialog. We introduce SalesOps a framework that facilitates the simulation and evaluation of such systems by leveraging recent advancements in large language models (LLMs). We build SalesBot and ShopperBot a pair of LLM45;powered agents that can simulate either side of the framework. A comprehensive human study compares SalesBot against professional salespeople revealing that although SalesBot approaches professional performance in terms of fluency and informativeness it lags behind in recommendation quality. We emphasize the distinct limitations both face in providing truthful information highlighting the challenges of ensuring faithfulness in the CRS context. We release our code and make all data available.

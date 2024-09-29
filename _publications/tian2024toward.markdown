@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Toward Self45;improvement Of Llms Via Imagination Searching And Criticizing
+authors: Tian Ye, Peng Baolin, Song Linfeng, Jin Lifeng, Yu Dian, Mi Haitao, Yu Dong
+conference: "Arxiv"
+year: 2024
+bibkey: tian2024toward
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2404.12253"}
+tags: ['Prompting', 'Reinforcement Learning']
+---
+Despite the impressive capabilities of Large Language Models (LLMs) on various tasks they still struggle with scenarios that involves complex reasoning and planning. Recent work proposed advanced prompting techniques and the necessity of fine45;tuning with high45;quality data to augment LLMs reasoning abilities. However these approaches are inherently constrained by data availability and quality. In light of this self45;correction and self45;learning emerge as viable solutions employing strategies that allow LLMs to refine their outputs and learn from self45;assessed rewards. Yet the efficacy of LLMs in self45;refining its response particularly in complex reasoning and planning task remains dubious. In this paper we introduce AlphaLLM for the self45;improvements of LLMs which integrates Monte Carlo Tree Search (MCTS) with LLMs to establish a self45;improving loop thereby enhancing the capabilities of LLMs without additional annotations. Drawing inspiration from the success of AlphaGo AlphaLLM addresses the unique challenges of combining MCTS with LLM for self45;improvement including data scarcity the vastness search spaces of language tasks and the subjective nature of feedback in language tasks. AlphaLLM is comprised of prompt synthesis component an efficient MCTS approach tailored for language tasks and a trio of critic models for precise feedback. Our experimental results in mathematical reasoning tasks demonstrate that AlphaLLM significantly enhances the performance of LLMs without additional annotations showing the potential for self45;improvement in LLMs.

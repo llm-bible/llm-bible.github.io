@@ -1,0 +1,12 @@
+---
+layout: publication
+title: No Train Still Gain. Unleash Mathematical Reasoning Of Large Language Models With Monte Carlo Tree Search Guided By Energy Function
+authors: Xu Haotian
+conference: "Arxiv"
+year: 2023
+bibkey: xu2023no
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2309.03224"}
+tags: ['Agentic', 'Reinforcement Learning']
+---
+Large language models (LLMs) demonstrate impressive language understanding and contextual learning abilities making them suitable for natural language processing (NLP) tasks and complex mathematical reasoning. However when applied to mathematical reasoning tasks LLMs often struggle to generate correct reasoning steps and answers despite having high probabilities for the solutions. To overcome this limitation and enhance the mathematical reasoning capabilities of fine45;tuned LLMs without additional fine45;tuning steps we propose a method that incorporates Monte Carlo Tree Search (MCTS) and a lightweight energy function to rank decision steps and enable immediate reaction and precise reasoning. Specifically we re45;formulate the fine45;tuned LLMs into a Residual45;based Energy Model (Residual45;EBM) and employ noise contrastive estimation to estimate the energy functions parameters. We then utilize MCTS with the energy function as a path verifier to search the output space and evaluate the reasoning path. Through extensive experiments on two mathematical reasoning benchmarks GSM8k and AQUA45;RAT we demonstrate the exceptional capabilities of our method which significantly improves the pass35;64;1 metric of the fine45;tuned model without requiring additional fine45;tuning or reinforcement learning with human feedback alignment.

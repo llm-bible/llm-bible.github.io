@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Ladder45;of45;thought Using Knowledge As Steps To Elevate Stance Detection
+authors: Hu Kairui, Yan Ming, Zhou Joey Tianyi, Tsang Ivor W., Chong Wen Haw, Yap Yong Keong
+conference: "Arxiv"
+year: 2023
+bibkey: hu2023ladder
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2308.16763"}
+tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'Tools']
+---
+Stance detection aims to identify the attitude expressed in a document towards a given target. Techniques such as Chain45;of45;Thought (CoT) prompting have advanced this task enhancing a models reasoning capabilities through the derivation of intermediate rationales. However CoT relies primarily on a models pre45;trained internal knowledge during reasoning thereby neglecting the valuable external information that is previously unknown to the model. This omission especially within the unsupervised reasoning process can affect the models overall performance. Moreover while CoT enhances Large Language Models (LLMs) smaller LMs though efficient operationally face challenges in delivering nuanced reasoning. In response to these identified gaps we introduce the Ladder45;of45;Thought (LoT) for the stance detection task. Constructed through a dual45;phase Progressive Optimization Framework LoT directs the small LMs to assimilate high45;quality external knowledge refining the intermediate rationales produced. These bolstered rationales subsequently serve as the foundation for more precise predictions 45; akin to how a ladder facilitates reaching elevated goals. LoT achieves a balance between efficiency and performance. Our empirical evaluations underscore LoTs efficacy marking a 1637; improvement over GPT45;3.5 and a 1037; enhancement compared to GPT45;3.5 with CoT on stance detection task.

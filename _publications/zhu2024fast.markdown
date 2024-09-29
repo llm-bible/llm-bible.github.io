@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Fastmem Fast Memorization Of Prompt Improves Context Awareness Of Large Language Models
+authors: Zhu Junyi, Liu Shuochen, Yu Yu, Tang Bo, Yan Yibo, Li Zhiyu, Xiong Feiyu, Xu Tong, Blaschko Matthew B.
+conference: "Arxiv"
+year: 2024
+bibkey: zhu2024fast
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.16069"}
+  - {name: "Code", url: "https://github.com/IAAR&#45;Shanghai/FastMem"}
+tags: ['Applications', 'Efficiency And Optimization', 'Has Code', 'Prompting']
+---
+Large language models (LLMs) excel in generating coherent text but they often struggle with context awareness leading to inaccuracies in tasks requiring faithful adherence to provided information. We introduce FastMem a novel method designed to enhance instruction fine45;tuned LLMs context awareness through fast memorization of the prompt. FastMem maximizes the likelihood of the prompt before inference by fine45;tuning only the last Feed45;Forward Network (FFN) module. This targeted approach ensures efficient optimization without overfitting significantly improving the models ability to comprehend and accurately follow the context. Our experiments demonstrate substantial gains in reading comprehension text summarization and adherence to output structures. For instance FastMem improves the accuracy of Llama 345;8B45;Inst on the NQ45;SWAP dataset from 59.137; to 71.637; and reduces the output structure failure rate of Qwen 1.545;4B45;Chat from 34.937; to 25.537;. Extensive experimental results highlight FastMems potential to offer a robust solution to enhance the reliability and accuracy of LLMs in various applications. Our code is available at https://github.com/IAAR&#45;Shanghai/FastMem

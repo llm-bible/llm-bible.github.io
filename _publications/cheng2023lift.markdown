@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Lift Yourself Up Retrieval45;augmented Text Generation With Self Memory
+authors: Cheng Xin, Luo Di, Chen Xiuying, Liu Lemao, Zhao Dongyan, Yan Rui
+conference: "Arxiv"
+year: 2023
+bibkey: cheng2023lift
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2305.02437"}
+tags: ['Applications', 'Language Modeling', 'Prompting', 'RAG', 'Tools']
+---
+With direct access to human45;written reference as memory retrieval45;augmented generation has achieved much progress in a wide range of text generation tasks. Since better memory would typically prompt better generation~(we define this as primal problem). The traditional approach for memory retrieval involves selecting memory that exhibits the highest similarity to the input. However this method is constrained by the quality of the fixed corpus from which memory is retrieved. In this paper by exploring the duality of the primal problem better generation also prompts better memory we propose a novel framework selfmem which addresses this limitation by iteratively employing a retrieval45;augmented generator to create an unbounded memory pool and using a memory selector to choose one output as memory for the subsequent generation round. This enables the model to leverage its own output referred to as self45;memory for improved generation. We evaluate the effectiveness of selfmem on three distinct text generation tasks neural machine translation abstractive text summarization and dialogue generation under two generation paradigms fine45;tuned small model and few45;shot LLM. Our approach achieves state45;of45;the45;art results in four directions in JRC45;Acquis XSum (50.3 ROUGE45;1) and BigPatent (62.9 ROUGE45;1) demonstrating the potential of self45;memory in enhancing retrieval45;augmented generation models. Furthermore we conduct thorough analyses of each component in the selfmem framework to identify bottlenecks and provide insights for future research.

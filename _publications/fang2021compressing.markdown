@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Compressing Visual45;linguistic Model Via Knowledge Distillation
+authors: Fang Zhiyuan, Wang Jianfeng, Hu Xiaowei, Wang Lijuan, Yang Yezhou, Liu Zicheng
+conference: "Arxiv"
+year: 2021
+bibkey: fang2021compressing
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2104.02096"}
+tags: ['Applications', 'Attention Mechanism', 'Distillation', 'Efficiency And Optimization', 'Model Architecture', 'Pretraining Methods', 'Training Techniques', 'Transformer']
+---
+Despite exciting progress in pre45;training for visual45;linguistic (VL) representations very few aspire to a small VL model. In this paper we study knowledge distillation (KD) to effectively compress a transformer45;based large VL model into a small VL model. The major challenge arises from the inconsistent regional visual tokens extracted from different detectors of Teacher and Student resulting in the misalignment of hidden representations and attention distributions. To address the problem we retrain and adapt the Teacher by using the same region proposals from Students detector while the features are from Teachers own object detector. With aligned network inputs the adapted Teacher is capable of transferring the knowledge through the intermediate representations. Specifically we use the mean square error loss to mimic the attention distribution inside the transformer block and present a token45;wise noise contrastive loss to align the hidden state by contrasting with negative representations stored in a sample queue. To this end we show that our proposed distillation significantly improves the performance of small VL models on image captioning and visual question answering tasks. It reaches 120.8 in CIDEr score on COCO captioning an improvement of 5.1 over its non45;distilled counterpart; and an accuracy of 69.8 on VQA 2.0 a 0.8 gain from the baseline. Our extensive experiments and ablations confirm the effectiveness of VL distillation in both pre45;training and fine45;tuning stages.

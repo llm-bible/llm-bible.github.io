@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Clembench Using Game Play To Evaluate Chat45;optimized Language Models As Conversational Agents
+authors: Chalamalasetti Kranti, Götze Jana, Hakimov Sherzod, Madureira Brielen, Sadler Philipp, Schlangen David
+conference: "Arxiv"
+year: 2023
+bibkey: chalamalasetti2023using
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2305.13455"}
+  - {name: "Code", url: "https://github.com/clembench"}
+tags: ['Agentic', 'Applications', 'Has Code', 'Tools']
+---
+Recent work has proposed a methodology for the systematic evaluation of Situated Language Understanding Agents45;agents that operate in rich linguistic and non45;linguistic contexts45;through testing them in carefully constructed interactive settings. Other recent work has argued that Large Language Models (LLMs) if suitably set up can be understood as (simulators of) such agents. A connection suggests itself which this paper explores Can LLMs be evaluated meaningfully by exposing them to constrained game45;like settings that are built to challenge specific capabilities As a proof of concept this paper investigates five interaction settings showing that current chat45;optimised LLMs are to an extent capable to follow game45;play instructions. Both this capability and the quality of the game play measured by how well the objectives of the different games are met follows the development cycle with newer models performing better. The metrics even for the comparatively simple example games are far from being saturated suggesting that the proposed instrument will remain to have diagnostic value. Our general framework for implementing and evaluating games with LLMs is available at https://github.com/clembench .

@@ -1,0 +1,12 @@
+---
+layout: publication
+title: its Not Like Jarvis But Its Pretty Close! 45;45; Examining Chatgpts Usage Among Undergraduate Students In Computer Science
+authors: Joshi Ishika, Budhiraja Ritvik, Akolekar Harshal D, Challa Jagat Sesh, Kumar Dhruv
+conference: "Arxiv"
+year: 2023
+bibkey: joshi2023not
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2311.09651"}
+tags: ['Applications', 'Attention Mechanism', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Survey Paper']
+---
+Large language models (LLMs) such as ChatGPT and Google Bard have garnered significant attention in the academic community. Previous research has evaluated these LLMs for various applications such as generating programming exercises and solutions. However these evaluations have predominantly been conducted by instructors and researchers not considering the actual usage of LLMs by students. This study adopts a student45;first approach to comprehensively understand how undergraduate computer science students utilize ChatGPT a popular LLM released by OpenAI. We employ a combination of student surveys and interviews to obtain valuable insights into the benefits challenges and suggested improvements related to ChatGPT. Our findings suggest that a majority of students (over 5737;) have a convincingly positive outlook towards adopting ChatGPT as an aid in coursework45;related tasks. However our research also highlights various challenges that must be resolved for long45;term acceptance of ChatGPT amongst students. The findings from this investigation have broader implications and may be applicable to other LLMs and their role in computing education.

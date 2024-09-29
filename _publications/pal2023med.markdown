@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Med45;halt Medical Domain Hallucination Test For Large Language Models
+authors: Pal Ankit, Umapathi Logesh Kumar, Sankarasubbu Malaikannan
+conference: "Arxiv"
+year: 2023
+bibkey: pal2023med
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2307.15343"}
+tags: ['Applications', 'Ethics And Bias', 'GPT', 'Model Architecture', 'Reinforcement Learning']
+---
+This research paper focuses on the challenges posed by hallucinations in large language models (LLMs) particularly in the context of the medical domain. Hallucination wherein these models generate plausible yet unverified or incorrect information can have serious consequences in healthcare applications. We propose a new benchmark and dataset Med45;HALT (Medical Domain Hallucination Test) designed specifically to evaluate and reduce hallucinations. Med45;HALT provides a diverse multinational dataset derived from medical examinations across various countries and includes multiple innovative testing modalities. Med45;HALT includes two categories of tests reasoning and memory45;based hallucination tests designed to assess LLMss problem45;solving and information retrieval abilities. Our study evaluated leading LLMs including Text Davinci GPT45;3.5 LlaMa45;2 MPT and Falcon revealing significant differences in their performance. The paper provides detailed insights into the dataset promoting transparency and reproducibility. Through this work we aim to contribute to the development of safer and more reliable language models in healthcare. Our benchmark can be found at medhalt.github.io

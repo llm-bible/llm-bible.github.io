@@ -1,0 +1,12 @@
+---
+layout: publication
+title: I45;tuning Tuning Frozen Language Models With Image For Lightweight Image Captioning
+authors: Luo Ziyang, Hu Zhipeng, Xi Yadong, Zhang Rongsheng, Ma Jing
+conference: "Arxiv"
+year: 2022
+bibkey: luo2022i
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2202.06574"}
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Tools', 'Training Techniques']
+---
+Image Captioning is a traditional vision45;and45;language task that aims to generate the language description of an image. Recent studies focus on scaling up the model size and the number of training data which significantly increase the cost of model training. Different to these heavy45;cost models we introduce a lightweight image captioning framework (I45;Tuning) which contains a small number of trainable parameters. We design a novel I45;Tuning cross45;attention module to connect the non45;trainable pre45;trained language decoder GPT2 and vision encoder CLIP45;ViT. Since most parameters are not required to be updated during training our framework is lightweight and fast. Experimental results conducted on three image captioning benchmarks reveal that our framework achieves comparable or better performance than the large45;scale baseline systems. But our models contain up to 10 times fewer trainable parameters and require much fewer data for training compared with state45;of45;the45;art baselines.

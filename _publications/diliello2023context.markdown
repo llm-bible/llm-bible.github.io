@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Context45;aware Transformer Pre45;training For Answer Sentence Selection
+authors: Di Liello Luca, Garg Siddhant, Moschitti Alessandro
+conference: "Arxiv"
+year: 2023
+bibkey: diliello2023context
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2305.15358"}
+tags: ['Applications', 'BERT', 'Model Architecture', 'Pretraining Methods', 'Training Techniques', 'Transformer']
+---
+Answer Sentence Selection (AS2) is a core component for building an accurate Question Answering pipeline. AS2 models rank a set of candidate sentences based on how likely they answer a given question. The state of the art in AS2 exploits pre45;trained transformers by transferring them on large annotated datasets while using local contextual information around the candidate sentence. In this paper we propose three pre45;training objectives designed to mimic the downstream fine45;tuning task of contextual AS2. This allows for specializing LMs when fine45;tuning for contextual AS2. Our experiments on three public and two large45;scale industrial datasets show that our pre45;training approaches (applied to RoBERTa and ELECTRA) can improve baseline contextual AS2 accuracy by up to 837; on some datasets.

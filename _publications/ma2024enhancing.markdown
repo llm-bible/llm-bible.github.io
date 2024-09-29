@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Enhancing Programming Education With Chatgpt A Case Study On Student Perceptions And Interactions In A Python Course
+authors: Ma Boxaun, Chen Li, Konomi Shin'ichi
+conference: "Arxiv"
+year: 2024
+bibkey: ma2024enhancing
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2403.15472"}
+tags: ['Applications', 'GPT', 'Interpretability And Explainability', 'Model Architecture', 'Reinforcement Learning', 'Survey Paper']
+---
+The integration of ChatGPT as a supportive tool in education notably in programming courses addresses the unique challenges of programming education by providing assistance with debugging code generation and explanations. Despite existing research validating ChatGPTs effectiveness its application in university45;level programming education and a detailed understanding of student interactions and perspectives remain limited. This paper explores ChatGPTs impact on learning in a Python programming course tailored for first45;year students over eight weeks. By analyzing responses from surveys open45;ended questions and student45;ChatGPT dialog data we aim to provide a comprehensive view of ChatGPTs utility and identify both its advantages and limitations as perceived by students. Our study uncovers a generally positive reception toward ChatGPT and offers insights into its role in enhancing the programming education experience. These findings contribute to the broader discourse on AIs potential in education suggesting paths for future research and application.

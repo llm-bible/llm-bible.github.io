@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Calibration Of Pre45;trained Transformers
+authors: Desai Shrey, Durrett Greg
+conference: "Arxiv"
+year: 2020
+bibkey: desai2020calibration
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2003.07892"}
+tags: ['BERT', 'Model Architecture', 'Pretraining Methods', 'Transformer']
+---
+Pre45;trained Transformers are now ubiquitous in natural language processing but despite their high end45;task performance little is known empirically about whether they are calibrated. Specifically do these models posterior probabilities provide an accurate empirical measure of how likely the model is to be correct on a given example We focus on BERT and RoBERTa in this work and analyze their calibration across three tasks natural language inference paraphrase detection and commonsense reasoning. For each task we consider in45;domain as well as challenging out45;of45;domain settings where models face more examples they should be uncertain about. We show that (1) when used out45;of45;the45;box pre45;trained models are calibrated in45;domain and compared to baselines their calibration error out45;of45;domain can be as much as 3.5x lower; (2) temperature scaling is effective at further reducing calibration error in45;domain and using label smoothing to deliberately increase empirical uncertainty helps calibrate posteriors out45;of45;domain.

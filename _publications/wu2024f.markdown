@@ -1,0 +1,12 @@
+---
+layout: publication
+title: F45;LMM Grounding Frozen Large Multimodal Models
+authors: Wu Size, Jin Sheng, Zhang Wenwei, Xu Lumin, Liu Wentao, Li Wei, Loy Chen Change
+conference: "Arxiv"
+year: 2024
+bibkey: wu2024f
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.05821"}
+tags: ['Attention Mechanism', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
+---
+Endowing Large Multimodal Models (LMMs) with visual grounding capability can significantly enhance AIs understanding of the visual world and their interaction with humans. However existing methods typically fine45;tune the parameters of LMMs to learn additional segmentation tokens and overfit grounding and segmentation datasets. Such a design would inevitably cause a catastrophic diminution in the indispensable conversational capability of general AI assistants. In this paper we comprehensively evaluate state45;of45;the45;art grounding LMMs across a suite of multimodal question45;answering benchmarks observing pronounced performance drops that indicate vanishing general knowledge comprehension and weakened instruction following ability. To address this issue we present F45;LMM 45;45; grounding frozen off45;the45;shelf LMMs in human45;AI conversations 45;45; a straightforward yet effective design based on the fact that word45;pixel correspondences conducive to visual grounding inherently exist in the attention weights of well45;trained LMMs. Using only a few trainable CNN layers we can translate word45;pixel attention weights to mask logits which a SAM45;based mask refiner can further optimise. Our F45;LMM neither learns special segmentation tokens nor utilises high45;quality grounded instruction45;tuning data but achieves competitive performance on referring expression segmentation and panoptic narrative grounding benchmarks while completely preserving LMMs original conversational ability. Additionally with instruction45;following ability preserved and grounding ability obtained our F45;LMM can perform visual chain45;of45;thought reasoning and better resist object hallucinations.

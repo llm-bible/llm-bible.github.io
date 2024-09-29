@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Agentgen Enhancing Planning Abilities For Large Language Model Based Agent Via Environment And Task Generation
+authors: Hu Mengkang, Zhao Pu, Xu Can, Sun Qingfeng, Lou Jianguang, Lin Qingwei, Luo Ping, Rajmohan Saravan, Zhang Dongmei
+conference: "Arxiv"
+year: 2024
+bibkey: hu2024enhancing
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2408.00764"}
+tags: ['Agentic', 'Applications', 'Attention Mechanism', 'GPT', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques']
+---
+Large Language Model (LLM) based agents have garnered significant attention and are becoming increasingly popular. Furthermore planning ability is a crucial component of an LLM45;based agent involving interaction with the environment and executing actions to complete a planning task which generally entails achieving a desired goal from an initial state. This paper investigates enhancing the planning abilities of LLMs through instruction tuning referred to as agent training. Recent studies have demonstrated that utilizing expert45;level trajectory for instruction45;tuning LLMs effectively enhances their planning capabilities. However existing work primarily focuses on synthesizing trajectories from manually designed planning tasks and environments. The labor45;intensive nature of creating these environments and tasks impedes the generation of sufficiently varied and extensive trajectories. To address this limitation this paper explores the automated synthesis of diverse environments and a gradual range of planning tasks from easy to difficult. We introduce a framework AgentGen that leverages LLMs first to generate environments and subsequently generate planning tasks conditioned on these environments. Specifically to improve environmental diversity we propose using an inspiration corpus composed of various domain45;specific text segments as the context for synthesizing environments. Moreover to increase the difficulty diversity of generated planning tasks we propose a bidirectional evolution method Bi45;Evol that evolves planning tasks from easier and harder directions to synthesize a task set with a smoother difficulty curve. The evaluation results derived from AgentBoard show that AgentGen greatly improves LLMs planning ability e.g. the AgentGen instruction45;tuned Llama45;3 8B surpasses GPT45;3.5 in overall performance. Moreover in certain tasks it even outperforms GPT45;4.

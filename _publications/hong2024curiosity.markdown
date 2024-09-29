@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Curiosity45;driven Red45;teaming For Large Language Models
+authors: Hong Zhang-wei, Shenfeld Idan, Wang Tsun-hsuan, Chuang Yung-sung, Pareja Aldo, Glass James, Srivastava Akash, Agrawal Pulkit
+conference: "Arxiv"
+year: 2024
+bibkey: hong2024curiosity
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2402.19464"}
+  - {name: "Code", url: "https://github.com/Improbable&#45;AI/curiosity&#95;redteam&#125;"}
+tags: ['Agentic', 'Applications', 'Fine Tuning', 'Has Code', 'Prompting', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+---
+Large language models (LLMs) hold great potential for many natural language applications but risk generating incorrect or toxic content. To probe when an LLM generates unwanted content the current paradigm is to recruit a textit123;red team125; of human testers to design input prompts (i.e. test cases) that elicit undesirable responses from LLMs. However relying solely on human testers is expensive and time45;consuming. Recent works automate red teaming by training a separate red team LLM with reinforcement learning (RL) to generate test cases that maximize the chance of eliciting undesirable responses from the target LLM. However current RL methods are only able to generate a small number of effective test cases resulting in a low coverage of the span of prompts that elicit undesirable responses from the target LLM. To overcome this limitation we draw a connection between the problem of increasing the coverage of generated test cases and the well45;studied approach of curiosity45;driven exploration that optimizes for novelty. Our method of curiosity45;driven red teaming (CRT) achieves greater coverage of test cases while mantaining or increasing their effectiveness compared to existing methods. Our method CRT successfully provokes toxic responses from LLaMA2 model that has been heavily fine45;tuned using human preferences to avoid toxic outputs. Code is available at url123;https://github.com/Improbable&#45;AI/curiosity&#95;redteam&#125;

@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Evaluating The Zero45;shot Robustness Of Instruction45;tuned Language Models
+authors: Sun Jiuding, Shaib Chantal, Wallace Byron C.
+conference: "Arxiv"
+year: 2023
+bibkey: sun2023evaluating
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2306.11270"}
+tags: ['Pretraining Methods', 'Prompting', 'RAG', 'Security']
+---
+Instruction fine45;tuning has recently emerged as a promising approach for improving the zero45;shot capabilities of Large Language Models (LLMs) on new tasks. This technique has shown particular strength in improving the performance of modestly sized LLMs sometimes inducing performance competitive with much larger model variants. In this paper we ask two questions (1) How sensitive are instruction45;tuned models to the particular phrasings of instructions and (2) How can we make them more robust to such natural language variation To answer the former we collect a set of 319 instructions manually written by NLP practitioners for over 80 unique tasks included in widely used benchmarks and we evaluate the variance and average performance of these instructions as compared to instruction phrasings observed during instruction fine45;tuning. We find that using novel (unobserved) but appropriate instruction phrasings consistently degrades model performance sometimes substantially so. Further such natural instructions yield a wide variance in downstream performance despite their semantic equivalence. Put another way instruction45;tuned models are not especially robust to instruction re45;phrasings. We propose a simple method to mitigate this issue by introducing soft prompt embedding parameters and optimizing these to maximize the similarity between representations of semantically equivalent instructions. We show that this method consistently improves the robustness of instruction45;tuned models.

@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Towards Interpretable Mental Health Analysis With Large Language Models
+authors: Yang Kailai, Ji Shaoxiong, Zhang Tianlin, Xie Qianqian, Kuang Ziyan, Ananiadou Sophia
+conference: "Arxiv"
+year: 2023
+bibkey: yang2023towards
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2304.03347"}
+tags: ['GPT', 'Interpretability And Explainability', 'Model Architecture', 'Prompting']
+---
+The latest large language models (LLMs) such as ChatGPT exhibit strong capabilities in automated mental health analysis. However existing relevant studies bear several limitations including inadequate evaluations lack of prompting strategies and ignorance of exploring LLMs for explainability. To bridge these gaps we comprehensively evaluate the mental health analysis and emotional reasoning ability of LLMs on 11 datasets across 5 tasks. We explore the effects of different prompting strategies with unsupervised and distantly supervised emotional information. Based on these prompts we explore LLMs for interpretable mental health analysis by instructing them to generate explanations for each of their decisions. We convey strict human evaluations to assess the quality of the generated explanations leading to a novel dataset with 163 human45;assessed explanations. We benchmark existing automatic evaluation metrics on this dataset to guide future related works. According to the results ChatGPT shows strong in45;context learning ability but still has a significant gap with advanced task45;specific methods. Careful prompt engineering with emotional cues and expert45;written few45;shot examples can also effectively improve performance on mental health analysis. In addition ChatGPT generates explanations that approach human performance showing its great potential in explainable mental health analysis.

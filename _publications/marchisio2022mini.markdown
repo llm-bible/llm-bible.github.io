@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Mini45;model Adaptation Efficiently Extending Pretrained Models To New Languages Via Aligned Shallow Training
+authors: Marchisio Kelly, Lewis Patrick, Chen Yihong, Artetxe Mikel
+conference: "Arxiv"
+year: 2022
+bibkey: marchisio2022mini
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2212.10503"}
+tags: ['BERT', 'Fine Tuning', 'Masked Language Model', 'Model Architecture', 'Pretraining Methods', 'RAG', 'Tools', 'Training Techniques', 'Transformer']
+---
+Prior work shows that it is possible to expand pretrained Masked Language Models (MLMs) to new languages by learning a new set of embeddings while keeping the transformer body frozen. Despite learning a small subset of parameters this approach is not compute45;efficient as training the new embeddings requires a full forward and backward pass over the entire model. We propose mini45;model adaptation a compute45;efficient alternative that builds a shallow mini45;model from a fraction of a large models parameters. New language45;specific embeddings can then be efficiently trained over the mini45;model and plugged into the aligned large model for rapid cross45;lingual transfer. We explore two approaches to learn mini45;models MiniJoint which jointly pretrains the primary model and the mini45;model using a single transformer with a secondary MLM head at a middle layer; and MiniPost where we start from a regular pretrained model build a mini45;model by extracting and freezing a few layers and learn a small number of parameters on top. Experiments on XNLI MLQA and PAWS45;X show that mini45;model adaptation matches the performance of the standard approach using 2.3x less compute on average.

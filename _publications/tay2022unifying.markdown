@@ -1,0 +1,12 @@
+---
+layout: publication
+title: UL2 Unifying Language Learning Paradigms
+authors: Yi Tay, Mostafa Dehghani, Vinh Q. Tran, Xavier Garcia, Jason Wei, Xuezhi Wang, Hyung Won Chung, Siamak Shakeri, Dara Bahri, Tal Schuster, Huaixiu Steven Zheng, Denny Zhou, Neil Houlsby, Donald Metzler
+conference: "Arxiv"
+year: 2022
+bibkey: tay2022unifying
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2205.05131v3"}
+tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting', 'Tools', 'Training Techniques']
+---
+Existing pre45;trained models are generally geared towards a particular class of problems. To date there seems to be still no consensus on what the right architecture and pre45;training setup should be. This paper presents a unified framework for pre45;training models that are universally effective across datasets and setups. We begin by disentangling architectural archetypes with pre45;training objectives 45;45; two concepts that are commonly conflated. Next we present a generalized amp; unified perspective for self45;supervision in NLP and show how different pre45;training objectives can be cast as one another and how interpolating between different objectives can be effective. We then propose Mixture45;of45;Denoisers (MoD) a pre45;training objective that combines diverse pre45;training paradigms together. We furthermore introduce a notion of mode switching wherein downstream fine45;tuning is associated with specific pre45;training schemes. We conduct extensive ablative experiments to compare multiple pre45;training objectives and find that our method pushes the Pareto45;frontier by outperforming T5 amp; GPT45;like models across multiple diverse setups. By scaling our model up to 20B parameters we achieve SOTA performance on 50 well45;established supervised finetuning based NLP tasks. Our model also achieve strong results at in45;context learning outperforming 175B GPT45;3 on zero45;shot SuperGLUE and tripling the performance of T545;XXL on one45;shot summarization. On 045;shot MMLU UL2 20B outperforms T0 and T5 models. UL2 20B also works well with chain45;of45;thought prompting and reasoning making it an appealing choice for research into reasoning at a small to medium scale of 20B parameters. Finally we apply FLAN instruction tuning to the UL2 20B model achieving MMLU and Big45;Bench scores competitive to FLAN45;PaLM 62B. We release Flax45;based T5X checkpoints for the UL2 20B amp; Flan45;UL2 20B.

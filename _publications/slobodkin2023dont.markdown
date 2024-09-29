@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Dont Add Dont Miss Effective Content Preserving Generation From Pre45;selected Text Spans
+authors: Slobodkin Aviv, Caciularu Avi, Hirsch Eran, Dagan Ido
+conference: "Arxiv"
+year: 2023
+bibkey: slobodkin2023dont
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.09017"}
+tags: ['Applications', 'Distillation', 'Efficiency And Optimization', 'GPT', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
+---
+The recently introduced Controlled Text Reduction (CTR) task isolates the text generation step within typical summarization45;style tasks. It does so by challenging models to generate coherent text conforming to pre45;selected content within the input text (highlights). This framing enables increased modularity in summarization45;like tasks allowing to couple a single CTR model with various content45;selection setups and modules. However there are currently no reliable CTR models while the performance of the existing baseline for the task is mediocre falling short of practical utility. Here we address this gap by introducing a high45;quality open45;source CTR model that tackles two prior key limitations inadequate enforcement of the content45;preservation constraint and suboptimal silver training data. Addressing these we amplify the content45;preservation constraint in both training via RL and inference via a controlled decoding strategy. Further we substantially improve the silver training data quality via GPT45;4 distillation. Overall pairing the distilled dataset with the highlight45;adherence strategies yields marked gains over the current baseline of up to 30 ROUGE45;L points providing a reliable CTR model for downstream use.

@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Contrastive Perplexity For Controlled Generation An Application In Detoxifying Large Language Models
+authors: Klein Tassilo, Nabi Moin
+conference: "Arxiv"
+year: 2024
+bibkey: klein2024contrastive
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2401.08491"}
+tags: ['Applications', 'Language Modeling', 'Pretraining Methods', 'RAG', 'Training Techniques']
+---
+The generation of undesirable and factually incorrect content of large language models poses a significant challenge and remains largely an unsolved issue. This paper studies the integration of a contrastive learning objective for fine45;tuning LLMs for implicit knowledge editing and controlled text generation. Optimizing the training objective entails aligning text perplexities in a contrastive fashion. To facilitate training the model in a self45;supervised fashion we leverage an off45;the45;shelf LLM for training data generation. We showcase applicability in the domain of detoxification. Herein the proposed approach leads to a significant decrease in the generation of toxic content while preserving general utility for downstream tasks such as commonsense reasoning and reading comprehension. The proposed approach is conceptually simple but empirically powerful.

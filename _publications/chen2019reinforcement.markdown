@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Reinforcement Learning Based Graph45;to45;sequence Model For Natural Question Generation
+authors: Chen Yu, Wu Lingfei, Zaki Mohammed J.
+conference: "Arxiv"
+year: 2019
+bibkey: chen2019reinforcement
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/1908.04942"}
+tags: ['Agentic', 'Ethics And Bias', 'Reinforcement Learning']
+---
+Natural question generation (QG) aims to generate questions from a passage and an answer. Previous works on QG either (i) ignore the rich structure information hidden in text (ii) solely rely on cross45;entropy loss that leads to issues like exposure bias and inconsistency between train/test measurement or (iii) fail to fully exploit the answer information. To address these limitations in this paper we propose a reinforcement learning (RL) based graph45;to45;sequence (Graph2Seq) model for QG. Our model consists of a Graph2Seq generator with a novel Bidirectional Gated Graph Neural Network based encoder to embed the passage and a hybrid evaluator with a mixed objective combining both cross45;entropy and RL losses to ensure the generation of syntactically and semantically valid text. We also introduce an effective Deep Alignment Network for incorporating the answer information into the passage at both the word and contextual levels. Our model is end45;to45;end trainable and achieves new state45;of45;the45;art scores outperforming existing methods by a significant margin on the standard SQuAD benchmark.

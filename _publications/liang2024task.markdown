@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Task Oriented In45;domain Data Augmentation
+authors: Liang Xiao, Hu Xinyu, Zuo Simiao, Gong Yeyun, Lou Qiang, Liu Yi, Huang Shao-lun, Jiao Jian
+conference: "Arxiv"
+year: 2024
+bibkey: liang2024task
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.16694"}
+tags: ['Applications', 'Pretraining Methods', 'RAG', 'Tools', 'Training Techniques']
+---
+Large Language Models (LLMs) have shown superior performance in various applications and fields. To achieve better performance on specialized domains such as law and advertisement LLMs are often continue pre45;trained on in45;domain data. However existing approaches suffer from two major issues. First in45;domain data are scarce compared with general domain45;agnostic data. Second data used for continual pre45;training are not task45;aware such that they may not be helpful to downstream applications. We propose TRAIT a task45;oriented in45;domain data augmentation framework. Our framework is divided into two parts in45;domain data selection and task45;oriented synthetic passage generation. The data selection strategy identifies and selects a large amount of in45;domain data from general corpora and thus significantly enriches domain knowledge in the continual pre45;training data. The synthetic passages contain guidance on how to use domain knowledge to answer questions about downstream tasks. By training on such passages the model aligns with the need of downstream applications. We adapt LLMs to two domains advertisement and math. On average TRAIT improves LLM performance by 837; in the advertisement domain and 7.537; in the math domain.

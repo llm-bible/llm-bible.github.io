@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Training Large45;scale News Recommenders With Pretrained Language Models In The Loop
+authors: Xiao Shitao, Liu Zheng, Shao Yingxia, Di Tao, Xie Xing
+conference: "Arxiv"
+year: 2021
+bibkey: xiao2021training
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2102.09268"}
+tags: ['BERT', 'Efficiency And Optimization', 'Model Architecture', 'Pretraining Methods', 'RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques']
+---
+News recommendation calls for deep insights of news articles underlying semantics. Therefore pretrained language models (PLMs) like BERT and RoBERTa may substantially contribute to the recommendation quality. However its extremely challenging to have news recommenders trained together with such big models the learning of news recommenders requires intensive news encoding operations whose cost is prohibitive if PLMs are used as the news encoder. In this paper we propose a novel framework 123;SpeedyFeed125; which efficiently trains PLMs45;based news recommenders of superior quality. SpeedyFeed is highlighted for its light45;weighted encoding pipeline which gives rise to three major advantages. Firstly it makes the intermedia results fully reusable for the training workflow which removes most of the repetitive but redundant encoding operations. Secondly it improves the data efficiency of the training workflow where non45;informative data can be eliminated from encoding. Thirdly it further saves the cost by leveraging simplified news encoding and compact news representation. Extensive experiments show that SpeedyFeed leads to more than 100× acceleration of the training process which enables big models to be trained efficiently and effectively over massive user data. The well45;trained PLMs45;based model from SpeedyFeed demonstrates highly competitive performance where it outperforms the state45;of45;the45;art news recommenders with significant margins. SpeedyFeed is also a model45;agnostic framework which is potentially applicable to a wide spectrum of content45;based recommender systems; therefore the whole framework is open45;sourced to facilitate the progress in related areas.

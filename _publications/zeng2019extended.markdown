@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Extended Answer And Uncertainty Aware Neural Question Generation
+authors: Zeng Hongwei, Zhi Zhuo, Liu Jun, Wei Bifan
+conference: "Arxiv"
+year: 2019
+bibkey: zeng2019extended
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/1911.08112"}
+tags: ['Applications', 'Attention Mechanism', 'Model Architecture', 'RAG', 'Training Techniques']
+---
+In this paper we study automatic question generation the task of creating questions from corresponding text passages where some certain spans of the text can serve as the answers. We propose an Extended Answer45;aware Network (EAN) which is trained with Word45;based Coverage Mechanism (WCM) and decodes with Uncertainty45;aware Beam Search (UBS). The EAN represents the target answer by its surrounding sentence with an encoder and incorporates the information of the extended answer into paragraph representation with gated paragraph45;to45;answer attention to tackle the problem of the inadequate representation of the target answer. To reduce undesirable repetition the WCM penalizes repeatedly attending to the same words at different time45;steps in the training stage. The UBS aims to seek a better balance between the model confidence in copying words from an input text paragraph and the confidence in generating words from a vocabulary. We conduct experiments on the SQuAD dataset and the results show our approach achieves significant performance improvement.

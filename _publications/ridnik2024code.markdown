@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Code Generation With Alphacodium From Prompt Engineering To Flow Engineering
+authors: Ridnik Tal, Kredo Dedy, Friedman Itamar
+conference: "Arxiv"
+year: 2024
+bibkey: ridnik2024code
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2401.08500"}
+  - {name: "Code", url: "https://github.com/Codium&#45;ai/AlphaCodium"}
+tags: ['Applications', 'Attention Mechanism', 'Efficiency And Optimization', 'GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Tools']
+---
+Code generation problems differ from common natural language problems 45; they require matching the exact syntax of the target language identifying happy paths and edge cases paying attention to numerous small details in the problem spec and addressing other code45;specific issues and requirements. Hence many of the optimizations and tricks that have been successful in natural language generation may not be effective for code tasks. In this work we propose a new approach to code generation by LLMs which we call AlphaCodium 45; a test45;based multi45;stage code45;oriented iterative flow that improves the performances of LLMs on code problems. We tested AlphaCodium on a challenging code generation dataset called CodeContests which includes competitive programming problems from platforms such as Codeforces. The proposed flow consistently and significantly improves results. On the validation set for example GPT45;4 accuracy (pass35;64;5) increased from 1937; with a single well45;designed direct prompt to 4437; with the AlphaCodium flow. Many of the principles and best practices acquired in this work we believe are broadly applicable to general code generation tasks. Full implementation is available at https://github.com/Codium&#45;ai/AlphaCodium

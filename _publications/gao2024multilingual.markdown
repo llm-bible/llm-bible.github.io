@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Multilingual Pretraining And Instruction Tuning Improve Cross45;lingual Knowledge Alignment But Only Shallowly
+authors: Gao Changjiang, Hu Hongda, Hu Peng, Chen Jiajun, Li Jixing, Huang Shujian
+conference: "Arxiv"
+year: 2024
+bibkey: gao2024multilingual
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2404.04659"}
+tags: ['Pretraining Methods', 'Tools', 'Training Techniques']
+---
+Despite their strong ability to retrieve knowledge in English current large language models show imbalance abilities in different languages. Two approaches are proposed to address this i.e. multilingual pretraining and multilingual instruction tuning. However whether and how do such methods contribute to the cross45;lingual knowledge alignment inside the models is unknown. In this paper we propose CLiKA a systematic framework to assess the cross45;lingual knowledge alignment of LLMs in the Performance Consistency and Conductivity levels and explored the effect of multilingual pretraining and instruction tuning on the degree of alignment. Results show that while both multilingual pretraining and instruction tuning are beneficial for cross45;lingual knowledge alignment the training strategy needs to be carefully designed. Namely continued pretraining improves the alignment of the target language at the cost of other languages while mixed pretraining affect other languages less. Also the overall cross45;lingual knowledge alignment especially in the conductivity level is unsatisfactory for all tested LLMs and neither multilingual pretraining nor instruction tuning can substantially improve the cross45;lingual knowledge conductivity.

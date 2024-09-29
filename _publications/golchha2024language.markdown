@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Language Guided Exploration For RL Agents In Text Environments
+authors: Golchha Hitesh, Yerawar Sahil, Patel Dhruvesh, Dan Soham, Murugesan Keerthiram
+conference: "Arxiv"
+year: 2024
+bibkey: golchha2024language
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2403.03141"}
+tags: ['Agentic', 'Fine Tuning', 'Model Architecture', 'Pretraining Methods', 'Reinforcement Learning', 'Tools', 'Transformer']
+---
+Real45;world sequential decision making is characterized by sparse rewards and large decision spaces posing significant difficulty for experiential learning systems like textit123;tabula rasa125; reinforcement learning (RL) agents. Large Language Models (LLMs) with a wealth of world knowledge can help RL agents learn quickly and adapt to distribution shifts. In this work we introduce Language Guided Exploration (LGE) framework which uses a pre45;trained language model (called GUIDE ) to provide decision45;level guidance to an RL agent (called EXPLORER). We observe that on ScienceWorld (Wang et al.2022) a challenging text environment LGE outperforms vanilla RL agents significantly and also outperforms other sophisticated methods like Behaviour Cloning and Text Decision Transformer.

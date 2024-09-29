@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Attention Is Not Not Explanation
+authors: Wiegreffe Sarah, Pinter Yuval
+conference: "Arxiv"
+year: 2019
+bibkey: wiegreffe2019attention
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/1908.04626"}
+tags: ['Attention Mechanism', 'Interpretability And Explainability', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Tools', 'Training Techniques', 'Transformer']
+---
+Attention mechanisms play a central role in NLP systems especially within recurrent neural network (RNN) models. Recently there has been increasing interest in whether or not the intermediate representations offered by these modules may be used to explain the reasoning for a models prediction and consequently reach insights regarding the models decision45;making process. A recent paper claims that Attention is not Explanation (Jain and Wallace 2019). We challenge many of the assumptions underlying this work arguing that such a claim depends on ones definition of explanation and that testing it needs to take into account all elements of the model using a rigorous experimental design. We propose four alternative tests to determine when/whether attention can be used as explanation a simple uniform45;weights baseline; a variance calibration based on multiple random seed runs; a diagnostic framework using frozen weights from pretrained models; and an end45;to45;end adversarial attention training protocol. Each allows for meaningful interpretation of attention mechanisms in RNN models. We show that even when reliable adversarial distributions can be found they dont perform well on the simple diagnostic indicating that prior work does not disprove the usefulness of attention mechanisms for explainability.

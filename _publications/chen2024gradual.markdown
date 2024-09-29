@@ -1,0 +1,12 @@
+---
+layout: publication
+title: GRATH Gradual Self45;truthifying For Large Language Models
+authors: Chen Weixin, Song Dawn, Li Bo
+conference: "Arxiv"
+year: 2024
+bibkey: chen2024gradual
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2401.12292"}
+tags: ['Applications', 'Efficiency And Optimization', 'Prompting', 'Reinforcement Learning', 'Training Techniques']
+---
+Truthfulness is paramount for large language models (LLMs) as they are increasingly deployed in real45;world applications. However existing LLMs still struggle with generating truthful content as evidenced by their modest performance on benchmarks like TruthfulQA. To address this issue we propose GRAdual self45;truTHifying (GRATH) a novel post45;processing method to enhance truthfulness of LLMs. GRATH utilizes out45;of45;domain question prompts to generate pairwise truthfulness training data with each pair containing a question and its correct and incorrect answers and then optimizes the model via direct preference optimization (DPO) to learn from the truthfulness difference between answer pairs. GRATH iteratively refines truthfulness data and updates the model leading to a gradual improvement in model truthfulness in a self45;supervised manner. Empirically we evaluate GRATH using different 7B45;LLMs and compare with LLMs with similar or even larger sizes on benchmark datasets. Our results show that GRATH effectively improves LLMs truthfulness without compromising other core capabilities. Notably GRATH achieves state45;of45;the45;art performance on TruthfulQA with MC1 accuracy of 54.7137; and MC2 accuracy of 69.1037; which even surpass those on 70B45;LLMs.

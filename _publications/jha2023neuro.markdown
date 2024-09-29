@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Neuro Symbolic Reasoning For Planning Counterexample Guided Inductive Synthesis Using Large Language Models And Satisfiability Solving
+authors: Jha Sumit Kumar, Jha Susmit, Lincoln Patrick, Bastian Nathaniel D., Velasquez Alvaro, Ewetz Rickard, Neema Sandeep
+conference: "Arxiv"
+year: 2023
+bibkey: jha2023neuro
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2309.16436"}
+tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting', 'Responsible AI', 'Training Techniques']
+---
+Generative large language models (LLMs) with instruct training such as GPT45;4 can follow human45;provided instruction prompts and generate human45;like responses to these prompts. Apart from natural language responses they have also been found to be effective at generating formal artifacts such as code plans and logical specifications from natural language prompts. Despite their remarkably improved accuracy these models are still known to produce factually incorrect or contextually inappropriate results despite their syntactic coherence 45; a phenomenon often referred to as hallucination. This limitation makes it difficult to use these models to synthesize formal artifacts that are used in safety45;critical applications. Unlike tasks such as text summarization and question45;answering bugs in code plan and other formal artifacts produced by LLMs can be catastrophic. We posit that we can use the satisfiability modulo theory (SMT) solvers as deductive reasoning engines to analyze the generated solutions from the LLMs produce counterexamples when the solutions are incorrect and provide that feedback to the LLMs exploiting the dialog capability of instruct45;trained LLMs. This interaction between inductive LLMs and deductive SMT solvers can iteratively steer the LLM to generate the correct response. In our experiments we use planning over the domain of blocks as our synthesis task for evaluating our approach. We use GPT45;4 GPT3.5 Turbo Davinci Curie Babbage and Ada as the LLMs and Z3 as the SMT solver. Our method allows the user to communicate the planning problem in natural language; even the formulation of queries to SMT solvers is automatically generated from natural language. Thus the proposed technique can enable non45;expert users to describe their problems in natural language and the combination of LLMs and SMT solvers can produce provably correct solutions.

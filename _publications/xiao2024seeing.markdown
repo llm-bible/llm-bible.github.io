@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Seeing The Image Prioritizing Visual Correlation By Contrastive Alignment
+authors: Xiao Xin, Wu Bohong, Wang Jiacong, Li Chunyuan, Zhou Xun, Guo Haoyuan
+conference: "Arxiv"
+year: 2024
+bibkey: xiao2024seeing
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2405.17871"}
+  - {name: "Code", url: "https://github.com/foundation&#45;multimodal&#45;models/CAL"}
+tags: ['GPT', 'Has Code', 'Multimodal Models', 'Pretraining Methods', 'Training Techniques']
+---
+Existing image45;text modality alignment in Vision Language Models (VLMs) treats each text token equally in an autoregressive manner. Despite being simple and effective this method results in sub45;optimal cross45;modal alignment by over45;emphasizing the text tokens that are less correlated with or even contradictory with the input images. In this paper we advocate for assigning distinct contributions for each text token based on its visual correlation. Specifically we present by contrasting image inputs the difference in prediction logits on each text token provides strong guidance of visual correlation. We therefore introduce Contrastive ALignment (CAL) a simple yet effective re45;weighting strategy that prioritizes training visually correlated tokens. Our experimental results demonstrate that CAL consistently improves different types of VLMs across different resolutions and model sizes on various benchmark datasets. Importantly our method incurs minimal additional computational overhead rendering it highly efficient compared to alternative data scaling strategies. Codes are available at https://github.com/foundation&#45;multimodal&#45;models/CAL.

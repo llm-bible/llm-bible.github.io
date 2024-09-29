@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Lamemo Language Modeling With Look45;ahead Memory
+authors: Ji Haozhe, Zhang Rongsheng, Yang Zhenyu, Hu Zhipeng, Huang Minlie
+conference: "Arxiv"
+year: 2022
+bibkey: ji2022language
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2204.07341"}
+tags: ['Attention Mechanism', 'Language Modeling', 'Model Architecture', 'Pretraining Methods', 'Reinforcement Learning', 'Transformer']
+---
+Although Transformers with fully connected self45;attentions are powerful to model long45;term dependencies they are struggling to scale to long texts with thousands of words in language modeling. One of the solutions is to equip the model with a recurrence memory. However existing approaches directly reuse hidden states from the previous segment that encodes contexts in a uni45;directional way. As a result this prohibits the memory to dynamically interact with the current context that provides up45;to45;date information for token prediction. To remedy this issue we propose Look45;Ahead Memory (LaMemo) that enhances the recurrence memory by incrementally attending to the right45;side tokens and interpolating with the old memory states to maintain long45;term information in the history. LaMemo embraces bi45;directional attention and segment recurrence with an additional computation overhead only linearly proportional to the memory length. Experiments on widely used language modeling benchmarks demonstrate its superiority over the baselines equipped with different types of memory.

@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Clongeval A Chinese Benchmark For Evaluating Long45;context Large Language Models
+authors: Qiu Zexuan, Li Jingjing, Huang Shijue, Zhong Wanjun, King Irwin
+conference: "Arxiv"
+year: 2024
+bibkey: qiu2024chinese
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2403.03514"}
+tags: ['Pretraining Methods']
+---
+Developing Large Language Models (LLMs) with robust long45;context capabilities has been the recent research focus resulting in the emergence of long45;context LLMs proficient in Chinese. However the evaluation of these models remains underdeveloped due to a lack of benchmarks. To address this gap we present CLongEval a comprehensive Chinese benchmark for evaluating long45;context LLMs. CLongEval is characterized by three key features (1) Sufficient data volume comprising 7 distinct tasks and 7267 examples; (2) Broad applicability accommodating to models with context windows size from 1K to 100K; (3) High quality with over 2000 manually annotated question45;answer pairs in addition to the automatically constructed labels. With CLongEval we undertake a comprehensive assessment of 6 open45;source long45;context LLMs and 2 leading commercial counterparts that feature both long45;context abilities and proficiency in Chinese. We also provide in45;depth analysis based on the empirical results trying to shed light on the critical capabilities that present challenges in long45;context settings. The dataset evaluation scripts and model outputs will be released.

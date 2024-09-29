@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Codeattack Revealing Safety Generalization Challenges Of Large Language Models Via Code Completion
+authors: Ren Qibing, Gao Chang, Shao Jing, Yan Junchi, Tan Xin, Lam Wai, Ma Lizhuang
+conference: "Arxiv"
+year: 2024
+bibkey: ren2024revealing
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2403.07865"}
+tags: ['Agentic', 'Ethics And Bias', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Responsible AI', 'Security', 'Tools', 'Training Techniques']
+---
+The rapid advancement of Large Language Models (LLMs) has brought about remarkable generative capabilities but also raised concerns about their potential misuse. While strategies like supervised fine45;tuning and reinforcement learning from human feedback have enhanced their safety these methods primarily focus on natural languages which may not generalize to other domains. This paper introduces CodeAttack a framework that transforms natural language inputs into code inputs presenting a novel environment for testing the safety generalization of LLMs. Our comprehensive studies on state45;of45;the45;art LLMs including GPT45;4 Claude45;2 and Llama45;2 series reveal a new and universal safety vulnerability of these models against code input CodeAttack bypasses the safety guardrails of all models more than 8037; of the time. We find that a larger distribution gap between CodeAttack and natural language leads to weaker safety generalization such as encoding natural language input with data structures. Furthermore we give our hypotheses about the success of CodeAttack the misaligned bias acquired by LLMs during code training prioritizing code completion over avoiding the potential safety risk. Finally we analyze potential mitigation measures. These findings highlight new safety risks in the code domain and the need for more robust safety alignment algorithms to match the code capabilities of LLMs.

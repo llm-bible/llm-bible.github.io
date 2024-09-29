@@ -1,0 +1,12 @@
+---
+layout: publication
+title: CLOVA A Closed45;loop Visual Assistant With Tool Usage And Update
+authors: Gao Zhi, Du Yuntao, Zhang Xintong, Ma Xiaojian, Han Wenjuan, Zhu Song-chun, Li Qing
+conference: "Arxiv"
+year: 2023
+bibkey: gao2023closed
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2312.10908"}
+tags: ['Applications', 'Multimodal Models', 'Prompting', 'Reinforcement Learning', 'Tools', 'Training Techniques']
+---
+Utilizing large language models (LLMs) to compose off45;the45;shelf visual tools represents a promising avenue of research for developing robust visual assistants capable of addressing diverse visual tasks. However these methods often overlook the potential for continual learning typically by freezing the utilized tools thus limiting their adaptation to environments requiring new knowledge. To tackle this challenge we propose CLOVA a Closed45;Loop Visual Assistant which operates within a framework encompassing inference reflection and learning phases. During the inference phase LLMs generate programs and execute corresponding tools to complete assigned tasks. In the reflection phase a multimodal global45;local reflection scheme analyzes human feedback to determine which tools require updating. Lastly the learning phase employs three flexible approaches to automatically gather training data and introduces a novel prompt tuning scheme to update the tools allowing CLOVA to efficiently acquire new knowledge. Experimental findings demonstrate that CLOVA surpasses existing tool45;usage methods by 537; in visual question answering and multiple45;image reasoning by 1037; in knowledge tagging and by 2037; in image editing. These results underscore the significance of the continual learning capability in general visual assistants.

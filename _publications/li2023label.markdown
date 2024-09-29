@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Label Supervised Llama Finetuning
+authors: Li Zongxi, Li Xianming, Liu Yuzhang, Xie Haoran, Li Jing, Wang Fu-lee, Li Qing, Zhong Xiaoqin
+conference: "Arxiv"
+year: 2023
+bibkey: li2023label
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.01208"}
+tags: ['Applications', 'Attention Mechanism', 'BERT', 'Fine Tuning', 'Language Modeling', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning']
+---
+The recent success of Large Language Models (LLMs) has gained significant attention in both academia and industry. Substantial efforts have been made to enhance the zero45; and few45;shot generalization capabilities of open45;source LLMs through finetuning. Currently the prevailing approach is instruction45;tuning which trains LLMs to complete real45;world tasks by generating responses guided by natural language instructions. It is worth noticing that such an approach may underperform in sequence and token classification tasks. Unlike text generation tasks classification tasks have a limited label space where precise label prediction is more appreciated than generating diverse and human45;like responses. Prior research has unveiled that instruction45;tuned LLMs cannot outperform BERT prompting us to explore the potential of leveraging latent representations from LLMs for supervised label prediction. In this paper we introduce a label45;supervised adaptation for LLMs which aims to finetuning the model with discriminant labels. We evaluate this approach with Label Supervised LLaMA (LS45;LLaMA) based on LLaMA45;245;7B a relatively small45;scale LLM and can be finetuned on a single GeForce RTX4090 GPU. We extract latent representations from the final LLaMA layer and project them into the label space to compute the cross45;entropy loss. The model is finetuned by Low45;Rank Adaptation (LoRA) to minimize this loss. Remarkably without intricate prompt engineering or external knowledge LS45;LLaMA substantially outperforms LLMs ten times its size in scale and demonstrates consistent improvements compared to robust baselines like BERT45;Large and RoBERTa45;Large in text classification. Moreover by removing the causal mask from decoders LS45;unLLaMA achieves the state45;of45;the45;art performance in named entity recognition (NER). Our work will shed light on a novel approach to adapting LLMs for various downstream tasks.

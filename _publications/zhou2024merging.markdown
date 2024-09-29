@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Metagpt Merging Large Language Models Using Model Exclusive Task Arithmetic
+authors: Zhou Yuyan, Song Liang, Wang Bingning, Chen Weipeng
+conference: "Arxiv"
+year: 2024
+bibkey: zhou2024merging
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.11385"}
+tags: ['Efficiency And Optimization', 'Fine Tuning', 'GPT', 'Merging', 'Model Architecture', 'Pretraining Methods', 'RAG', 'Tools', 'Training Techniques']
+---
+The advent of large language models (LLMs) like GPT45;4 has catalyzed the exploration of multi45;task learning (MTL) in which a single model demonstrates proficiency across diverse tasks. Task arithmetic has emerged as a cost45;effective approach for MTL. It enables performance enhancement across multiple tasks by adding their corresponding task vectors to a pre45;trained model. However the current lack of a method that can simultaneously achieve optimal performance computational efficiency and data privacy limits their application to LLMs. In this paper we propose textbf123;M125;odel textbf123;E125;xclusive textbf123;T125;ask textbf123;A125;rithmetic for merging textbf123;GPT125;45;scale models which formalizes the objective of model merging into a multi45;task learning framework aiming to minimize the average loss difference between the merged model and each individual task model. Since data privacy limits the use of multi45;task training data we leverage LLMs local linearity and task vectors orthogonality to separate the data term and scaling coefficients term and derive a model45;exclusive task arithmetic method. Our proposed MetaGPT is data45;agnostic and bypasses the heavy search process making it cost45;effective and easy to implement for LLMs.Extensive experiments demonstrate that MetaGPT leads to improvements in task arithmetic and achieves state45;of45;the45;art performance on multiple tasks.

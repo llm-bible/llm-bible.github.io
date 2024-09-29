@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Biomedical Knowledge Graph45;optimized Prompt Generation For Large Language Models
+authors: Soman Karthik, Rose Peter W, Morris John H, Akbas Rabia E, Smith Brett, Peetoom Braian, Villouta-reyes Catalina, Cerono Gabriel, Shi Yongmei, Rizk-jackson Angela, Israni Sharat, Nelson Charlotte A, Huang Sui, Baranzini Sergio E
+conference: "Arxiv"
+year: 2023
+bibkey: soman2023biomedical
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2311.17330"}
+tags: ['Applications', 'Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting', 'Pruning', 'RAG', 'Tools', 'Training Techniques']
+---
+Large Language Models (LLMs) are being adopted at an unprecedented rate yet still face challenges in knowledge45;intensive domains like biomedicine. Solutions such as pre45;training and domain45;specific fine45;tuning add substantial computational overhead requiring further domain expertise. Here we introduce a token45;optimized and robust Knowledge Graph45;based Retrieval Augmented Generation (KG45;RAG) framework by leveraging a massive biomedical KG (SPOKE) with LLMs such as Llama45;245;13b GPT45;3.545;Turbo and GPT45;4 to generate meaningful biomedical text rooted in established knowledge. Compared to the existing RAG technique for Knowledge Graphs the proposed method utilizes minimal graph schema for context extraction and uses embedding methods for context pruning. This optimization in context extraction results in more than 5037; reduction in token consumption without compromising the accuracy making a cost45;effective and robust RAG implementation on proprietary LLMs. KG45;RAG consistently enhanced the performance of LLMs across diverse biomedical prompts by generating responses rooted in established knowledge accompanied by accurate provenance and statistical evidence (if available) to substantiate the claims. Further benchmarking on human curated datasets such as biomedical true/false and multiple45;choice questions (MCQ) showed a remarkable 7137; boost in the performance of the Llama45;2 model on the challenging MCQ dataset demonstrating the frameworks capacity to empower open45;source models with fewer parameters for domain specific questions. Furthermore KG45;RAG enhanced the performance of proprietary GPT models such as GPT45;3.5 and GPT45;4. In summary the proposed framework combines explicit and implicit knowledge of KG and LLM in a token optimized fashion thus enhancing the adaptability of general45;purpose LLMs to tackle domain45;specific questions in a cost45;effective fashion.

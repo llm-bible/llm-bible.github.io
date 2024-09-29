@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Cappy Outperforming And Boosting Large Multi45;task Lms With A Small Scorer
+authors: Tan Bowen, Zhu Yun, Liu Lijuan, Xing Eric, Hu Zhiting, Chen Jindong
+conference: "Arxiv"
+year: 2023
+bibkey: tan2023outperforming
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2311.06720"}
+tags: ['Applications', 'Efficiency And Optimization', 'Pretraining Methods', 'Prompting', 'Reinforcement Learning', 'Training Techniques']
+---
+Large language models (LLMs) such as T0 FLAN and OPT45;IML excel in multi45;tasking under a unified instruction45;following paradigm where they also exhibit remarkable generalization abilities to unseen tasks. Despite their impressive performance these LLMs with sizes ranging from several billion to hundreds of billions of parameters demand substantial computational resources making their training and inference expensive and inefficient. Furthermore adapting these models to downstream applications particularly complex tasks is often unfeasible due to the extensive hardware requirements for finetuning even when utilizing parameter45;efficient approaches such as prompt tuning. Additionally the most powerful multi45;task LLMs such as OPT45;IML45;175B and FLAN45;PaLM45;540B are not publicly accessible severely limiting their customization potential. To address these challenges we introduce a pretrained small scorer Cappy designed to enhance the performance and efficiency of multi45;task LLMs. With merely 360 million parameters Cappy functions either independently on classification tasks or serve as an auxiliary component for LLMs boosting their performance. Moreover Cappy enables efficiently integrating downstream supervision without requiring LLM finetuning nor the access to their parameters. Our experiments demonstrate that when working independently on 11 language understanding tasks from PromptSource Cappy outperforms LLMs that are several orders of magnitude larger. Besides on 45 complex tasks from BIG45;Bench Cappy boosts the performance of the advanced multi45;task LLM FLAN45;T5 by a large margin. Furthermore Cappy is flexible to cooperate with other LLM adaptations including finetuning and in45;context learning offering additional performance enhancement.

@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Cat45;bench Benchmarking Language Model Understanding Of Causal And Temporal Dependencies In Plans
+authors: Lal Yash Kumar, Cohen Vanya, Chambers Nathanael, Balasubramanian Niranjan, Mooney Raymond
+conference: "Arxiv"
+year: 2024
+bibkey: lal2024cat
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.15823"}
+tags: ['Ethics And Bias', 'Interpretability And Explainability', 'Prompting', 'RAG', 'Reinforcement Learning']
+---
+Understanding the abilities of LLMs to reason about natural language plans such as instructional text and recipes is critical to reliably using them in decision45;making systems. A fundamental aspect of plans is the temporal order in which their steps needs to be executed which reflects the underlying causal dependencies between them. We introduce CaT45;Bench a benchmark of Step Order Prediction questions which test whether a step must necessarily occur before or after another in cooking recipe plans. We use this to evaluate how well frontier LLMs understand causal and temporal dependencies. We find that SOTA LLMs are underwhelming (best zero45;shot is only 0.59 in F1) and are biased towards predicting dependence more often perhaps relying on temporal order of steps as a heuristic. While prompting for explanations and using few45;shot examples improve performance the best F1 result is only 0.73. Further human evaluation of explanations along with answer correctness show that on average humans do not agree with model reasoning. Surprisingly we also find that explaining after answering leads to better performance than normal chain45;of45;thought prompting and LLM answers are not consistent across questions about the same step pairs. Overall results show that LLMs ability to detect dependence between steps has significant room for improvement.

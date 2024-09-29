@@ -1,0 +1,12 @@
+---
+layout: publication
+title: K45;PLUG Knowledge45;injected Pre45;trained Language Model For Natural Language Understanding And Generation In E45;commerce
+authors: Xu Song, Li Haoran, Yuan Peng, Wang Yujia, Wu Youzheng, He Xiaodong, Liu Ying, Zhou Bowen
+conference: "Arxiv"
+year: 2021
+bibkey: xu2021k
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2104.06960"}
+tags: ['Applications', 'Model Architecture', 'Pretraining Methods', 'Training Techniques', 'Transformer']
+---
+Existing pre45;trained language models (PLMs) have demonstrated the effectiveness of self45;supervised learning for a broad range of natural language processing (NLP) tasks. However most of them are not explicitly aware of domain45;specific knowledge which is essential for downstream tasks in many domains such as tasks in e45;commerce scenarios. In this paper we propose K45;PLUG a knowledge45;injected pre45;trained language model based on the encoder45;decoder transformer that can be transferred to both natural language understanding and generation tasks. We verify our method in a diverse range of e45;commerce scenarios that require domain45;specific knowledge. Specifically we propose five knowledge45;aware self45;supervised pre45;training objectives to formulate the learning of domain45;specific knowledge including e45;commerce domain45;specific knowledge45;bases aspects of product entities categories of product entities and unique selling propositions of product entities. K45;PLUG achieves new state45;of45;the45;art results on a suite of domain45;specific NLP tasks including product knowledge base completion abstractive product summarization and multi45;turn dialogue significantly outperforms baselines across the board which demonstrates that the proposed method effectively learns a diverse set of domain45;specific knowledge for both language understanding and generation tasks.

@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Does Fine45;tuning GPT45;3 With The Openai API Leak Personally45;identifiable Information
+authors: Sun Albert Yu, Zemour Eliott, Saxena Arushi, Vaidyanathan Udith, Lin Eric, Lau Christian, Mugunthan Vaikkunth
+conference: "Arxiv"
+year: 2023
+bibkey: sun2023does
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2307.16382"}
+  - {name: "Code", url: "https://github.com/albertsun1/gpt3&#45;pii&#45;attacks"}
+tags: ['Applications', 'BERT', 'GPT', 'Has Code', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Security', 'Tools']
+---
+Machine learning practitioners often fine45;tune generative pre45;trained models like GPT45;3 to improve model performance at specific tasks. Previous works however suggest that fine45;tuned machine learning models memorize and emit sensitive information from the original fine45;tuning dataset. Companies such as OpenAI offer fine45;tuning services for their models but no prior work has conducted a memorization attack on any closed45;source models. In this work we simulate a privacy attack on GPT45;3 using OpenAIs fine45;tuning API. Our objective is to determine if personally identifiable information (PII) can be extracted from this model. We (1) explore the use of naive prompting methods on a GPT45;3 fine45;tuned classification model and (2) we design a practical word generation task called Autocomplete to investigate the extent of PII memorization in fine45;tuned GPT45;3 within a real45;world context. Our findings reveal that fine45;tuning GPT3 for both tasks led to the model memorizing and disclosing critical personally identifiable information (PII) obtained from the underlying fine45;tuning dataset. To encourage further research we have made our codes and datasets publicly available on GitHub at https://github.com/albertsun1/gpt3&#45;pii&#45;attacks

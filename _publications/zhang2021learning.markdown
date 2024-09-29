@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Learning To Rehearse In Long Sequence Memorization
+authors: Zhang Zhu, Zhou Chang, Ma Jianxin, Lin Zhijie, Zhou Jingren, Yang Hongxia, Zhao Zhou
+conference: "Arxiv"
+year: 2021
+bibkey: zhang2021learning
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2106.01096"}
+tags: ['Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+---
+Existing reasoning tasks often have an important assumption that the input contents can be always accessed while reasoning requiring unlimited storage resources and suffering from severe time delay on long sequences. To achieve efficient reasoning on long sequences with limited storage resources memory augmented neural networks introduce a human45;like write45;read memory to compress and memorize the long input sequence in one pass trying to answer subsequent queries only based on the memory. But they have two serious drawbacks 1) they continually update the memory from current information and inevitably forget the early contents; 2) they do not distinguish what information is important and treat all contents equally. In this paper we propose the Rehearsal Memory (RM) to enhance long45;sequence memorization by self45;supervised rehearsal with a history sampler. To alleviate the gradual forgetting of early information we design self45;supervised rehearsal training with recollection and familiarity tasks. Further we design a history sampler to select informative fragments for rehearsal training making the memory focus on the crucial information. We evaluate the performance of our rehearsal memory by the synthetic bAbI task and several downstream tasks including text/video question answering and recommendation on long sequences.

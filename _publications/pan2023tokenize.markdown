@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Tokenize Anything Via Prompting
+authors: Pan Ting, Tang Lulu, Wang Xinlong, Shan Shiguang
+conference: "Arxiv"
+year: 2023
+bibkey: pan2023tokenize
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2312.09128"}
+  - {name: "Code", url: "https://github.com/baaivision/tokenize&#45;anything&#125;&#125;"}
+tags: ['Efficiency And Optimization', 'Ethics And Bias', 'Has Code', 'Prompting', 'Reinforcement Learning']
+---
+We present a unified promptable model capable of simultaneously segmenting recognizing and captioning anything. Unlike SAM we aim to build a versatile region representation in the wild via visual prompting. To achieve this we train a generalizable model with massive segmentation masks eg SA45;1B masks and semantic priors from a pre45;trained CLIP model with 5 billion parameters. Specifically we construct a promptable image decoder by adding a semantic token to each mask token. The semantic token is responsible for learning the semantic priors in a predefined concept space. Through joint optimization of segmentation on mask tokens and concept prediction on semantic tokens our model exhibits strong regional recognition and localization capabilities. For example an additional 38M45;parameter causal text decoder trained from scratch sets a new record with a CIDEr score of 164.7 on the Visual Genome region captioning task. We believe this model can be a versatile region45;level image tokenizer capable of encoding general45;purpose region context for a broad range of visual perception tasks. Code and models are available at 123;footnotesize url123;https://github.com/baaivision/tokenize&#45;anything&#125;&#125;.

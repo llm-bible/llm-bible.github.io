@@ -1,0 +1,12 @@
+---
+layout: publication
+title: DIVKNOWQA Assessing The Reasoning Ability Of Llms Via Open45;domain Question Answering Over Knowledge Base And Text
+authors: Zhao Wenting, Liu Ye, Niu Tong, Wan Yao, Yu Philip S., Joty Shafiq, Zhou Yingbo, Yavuz Semih
+conference: "Arxiv"
+year: 2023
+bibkey: zhao2023assessing
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.20170"}
+tags: ['Applications', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools']
+---
+Large Language Models (LLMs) have exhibited impressive generation capabilities but they suffer from hallucinations when solely relying on their internal knowledge especially when answering questions that require less commonly known information. Retrieval45;augmented LLMs have emerged as a potential solution to ground LLMs in external knowledge. Nonetheless recent approaches have primarily emphasized retrieval from unstructured text corpora owing to its seamless integration into prompts. When using structured data such as knowledge graphs most methods simplify it into natural text neglecting the underlying structures. Moreover a significant gap in the current landscape is the absence of a realistic benchmark for evaluating the effectiveness of grounding LLMs on heterogeneous knowledge sources (e.g. knowledge base and text). To fill this gap we have curated a comprehensive dataset that poses two unique challenges (1) Two45;hop multi45;source questions that require retrieving information from both open45;domain structured and unstructured knowledge sources; retrieving information from structured knowledge sources is a critical component in correctly answering the questions. (2) The generation of symbolic queries (e.g. SPARQL for Wikidata) is a key requirement which adds another layer of challenge. Our dataset is created using a combination of automatic generation through predefined reasoning chains and human annotation. We also introduce a novel approach that leverages multiple retrieval tools including text passage retrieval and symbolic language45;assisted retrieval. Our model outperforms previous approaches by a significant margin demonstrating its effectiveness in addressing the above45;mentioned reasoning challenges.

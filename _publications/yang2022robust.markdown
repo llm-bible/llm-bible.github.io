@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Tableformer Robust Transformer Modeling For Table45;text Encoding
+authors: Yang Jingfeng, Gupta Aditya, Upadhyay Shyam, He Luheng, Goel Rahul, Paul Shachi
+conference: "Arxiv"
+year: 2022
+bibkey: yang2022robust
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2203.00274"}
+tags: ['Applications', 'Attention Mechanism', 'Ethics And Bias', 'Model Architecture', 'Pretraining Methods', 'Transformer']
+---
+Understanding tables is an important aspect of natural language understanding. Existing models for table understanding require linearization of the table structure where row or column order is encoded as an unwanted bias. Such spurious biases make the model vulnerable to row and column order perturbations. Additionally prior work has not thoroughly modeled the table structures or table45;text alignments hindering the table45;text understanding ability. In this work we propose a robust and structurally aware table45;text encoding architecture TableFormer where tabular structural biases are incorporated completely through learnable attention biases. TableFormer is (1) strictly invariant to row and column orders and (2) could understand tables better due to its tabular inductive biases. Our evaluations showed that TableFormer outperforms strong baselines in all settings on SQA WTQ and TabFact table reasoning datasets and achieves state45;of45;the45;art performance on SQA especially when facing answer45;invariant row and column order perturbations (637; improvement over the best baseline) because previous SOTA models performance drops by 437; 45; 637; when facing such perturbations while TableFormer is not affected.

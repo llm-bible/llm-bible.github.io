@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Improving Token45;based World Models With Parallel Observation Prediction
+authors: Cohen Lior, Wang Kaixin, Kang Bingyi, Mannor Shie
+conference: "Arxiv"
+year: 2024
+bibkey: cohen2024improving
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2402.05643"}
+  - {name: "Code", url: "https://github.com/leor&#45;c/REM&#125;"}
+tags: ['Agentic', 'Has Code', 'Model Architecture', 'Pretraining Methods', 'Reinforcement Learning', 'Training Techniques', 'Transformer']
+---
+Motivated by the success of Transformers when applied to sequences of discrete symbols token45;based world models (TBWMs) were recently proposed as sample45;efficient methods. In TBWMs the world model consumes agent experience as a language45;like sequence of tokens where each observation constitutes a sub45;sequence. However during imagination the sequential token45;by45;token generation of next observations results in a severe bottleneck leading to long training times poor GPU utilization and limited representations. To resolve this bottleneck we devise a novel Parallel Observation Prediction (POP) mechanism. POP augments a Retentive Network (RetNet) with a novel forward mode tailored to our reinforcement learning setting. We incorporate POP in a novel TBWM agent named REM (Retentive Environment Model) showcasing a 15.4x faster imagination compared to prior TBWMs. REM attains superhuman performance on 12 out of 26 games of the Atari 100K benchmark while training in less than 12 hours. Our code is available at url123;https://github.com/leor&#45;c/REM&#125;.

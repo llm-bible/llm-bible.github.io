@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Navigation Instruction Generation With BEV Perception And Large Language Models
+authors: Fan Sheng, Liu Rui, Wang Wenguan, Yang Yi
+conference: "Arxiv"
+year: 2024
+bibkey: fan2024navigation
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2407.15087"}
+tags: ['Agentic', 'Efficiency And Optimization', 'Prompting', 'RAG', 'Reinforcement Learning']
+---
+Navigation instruction generation which requires embodied agents to describe the navigation routes has been of great interest in robotics and human45;computer interaction. Existing studies directly map the sequence of 2D perspective observations to route descriptions. Though straightforward they overlook the geometric information and object semantics of the 3D environment. To address these challenges we propose BEVInstructor which incorporates Birds Eye View (BEV) features into Multi45;Modal Large Language Models (MLLMs) for instruction generation. Specifically BEVInstructor constructs a PerspectiveBEVVisual Encoder for the comprehension of 3D environments through fusing BEV and perspective features. To leverage the powerful language capabilities of MLLMs the fused representations are used as visual prompts for MLLMs and perspective45;BEV prompt tuning is proposed for parameter45;efficient updating. Based on the perspective45;BEV prompts BEVInstructor further adopts an instance45;guided iterative refinement pipeline which improves the instructions in a progressive manner. BEVInstructor achieves impressive performance across diverse datasets (i.e. R2R REVERIE and UrbanWalk).

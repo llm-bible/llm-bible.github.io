@@ -1,0 +1,12 @@
+---
+layout: publication
+title: The Hedgehog amp; The Porcupine Expressive Linear Attentions With Softmax Mimicry
+authors: Zhang Michael, Bhatia Kush, Kumbong Hermann, Ré Christopher
+conference: "Arxiv"
+year: 2024
+bibkey: zhang2024hedgehog
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2402.04347"}
+tags: ['Attention Mechanism', 'BERT', 'Efficiency And Optimization', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Training Techniques', 'Transformer']
+---
+Linear attentions have shown potential for improving Transformer efficiency reducing attentions quadratic complexity to linear in sequence length. This holds exciting promise for (1) training linear Transformers from scratch (2) finetuned45;conversion of task45;specific Transformers into linear versions that recover task performance and (3) pretrained45;conversion of Transformers such as large language models into linear versions finetunable on downstream tasks. However linear attentions often underperform standard softmax attention in quality. To close this performance gap we find prior linear attentions lack key properties of softmax attention tied to good performance low45;entropy (or spiky) weights and dot45;product monotonicity. We further observe surprisingly simple feature maps that retain these properties and match softmax performance but are inefficient to compute in linear attention. We thus propose Hedgehog a learnable linear attention that retains the spiky and monotonic properties of softmax attention while maintaining linear complexity. Hedgehog uses simple trainable MLPs to produce attention weights mimicking softmax attention. Experiments show Hedgehog recovers over 9937; of standard Transformer quality in train45;from45;scratch and finetuned45;conversion settings outperforming prior linear attentions up to 6 perplexity points on WikiText45;103 with causal GPTs and up to 8.7 GLUE score points on finetuned bidirectional BERTs. Hedgehog also enables pretrained45;conversion. Converting a pretrained GPT45;2 into a linear attention variant achieves state45;of45;the45;art 16.7 perplexity on WikiText45;103 for 125M subquadratic decoder models. We finally turn a pretrained Llama45;2 7B into a viable linear attention Llama. With low45;rank adaptation Hedgehog45;Llama2 7B achieves 28.1 higher ROUGE45;1 points over the base standard attention model where prior linear attentions lead to 16.5 point drops.

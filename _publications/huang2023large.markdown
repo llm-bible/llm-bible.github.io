@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Large Language Models Cannot Self45;correct Reasoning Yet
+authors: Huang Jie, Chen Xinyun, Mishra Swaroop, Zheng Huaixiu Steven, Yu Adams Wei, Song Xinying, Zhou Denny
+conference: "Arxiv"
+year: 2023
+bibkey: huang2023large
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.01798"}
+tags: ['Applications', 'Language Modeling']
+---
+Large Language Models (LLMs) have emerged as a groundbreaking technology with their unparalleled text generation capabilities across various applications. Nevertheless concerns persist regarding the accuracy and appropriateness of their generated content. A contemporary methodology self45;correction has been proposed as a remedy to these issues. Building upon this premise this paper critically examines the role and efficacy of self45;correction within LLMs shedding light on its true potential and limitations. Central to our investigation is the notion of intrinsic self45;correction whereby an LLM attempts to correct its initial responses based solely on its inherent capabilities without the crutch of external feedback. In the context of reasoning our research indicates that LLMs struggle to self45;correct their responses without external feedback and at times their performance even degrades after self45;correction. Drawing from these insights we offer suggestions for future research and practical applications in this field.

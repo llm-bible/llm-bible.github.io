@@ -1,0 +1,12 @@
+---
+layout: publication
+title: R^2AG Incorporating Retrieval Information Into Retrieval Augmented Generation
+authors: Ye Fuda, Li Shuangyin, Zhang Yongqi, Chen Lei
+conference: "Arxiv"
+year: 2024
+bibkey: ye2024incorporating
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.13249"}
+tags: ['Efficiency And Optimization', 'Model Architecture', 'Prompting', 'RAG', 'Security', 'Tools', 'Training Techniques']
+---
+Retrieval augmented generation (RAG) has been applied in many scenarios to augment large language models (LLMs) with external documents provided by retrievers. However a semantic gap exists between LLMs and retrievers due to differences in their training objectives and architectures. This misalignment forces LLMs to passively accept the documents provided by the retrievers leading to incomprehension in the generation process where the LLMs are burdened with the task of distinguishing these documents using their inherent knowledge. This paper proposes R^2AG a novel enhanced RAG framework to fill this gap by incorporating Retrieval information into Retrieval Augmented Generation. Specifically R^2AG utilizes the nuanced features from the retrievers and employs a R^245;Former to capture retrieval information. Then a retrieval45;aware prompting strategy is designed to integrate retrieval information into LLMs generation. Notably R^2AG suits low45;source scenarios where LLMs and retrievers are frozen. Extensive experiments across five datasets validate the effectiveness robustness and efficiency of R^2AG. Our analysis reveals that retrieval information serves as an anchor to aid LLMs in the generation process thereby filling the semantic gap.

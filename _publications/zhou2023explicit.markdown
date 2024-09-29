@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Navgpt Explicit Reasoning In Vision45;and45;language Navigation With Large Language Models
+authors: Zhou Gengze, Hong Yicong, Wu Qi
+conference: "Arxiv"
+year: 2023
+bibkey: zhou2023explicit
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2305.16986"}
+tags: ['Agentic', 'Fine Tuning', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Scaling Laws', 'Training Techniques']
+---
+Trained with an unprecedented scale of data large language models (LLMs) like ChatGPT and GPT45;4 exhibit the emergence of significant reasoning abilities from model scaling. Such a trend underscored the potential of training LLMs with unlimited language data advancing the development of a universal embodied agent. In this work we introduce the NavGPT a purely LLM45;based instruction45;following navigation agent to reveal the reasoning capability of GPT models in complex embodied scenes by performing zero45;shot sequential action prediction for vision45;and45;language navigation (VLN). At each step NavGPT takes the textual descriptions of visual observations navigation history and future explorable directions as inputs to reason the agents current status and makes the decision to approach the target. Through comprehensive experiments we demonstrate NavGPT can explicitly perform high45;level planning for navigation including decomposing instruction into sub45;goal integrating commonsense knowledge relevant to navigation task resolution identifying landmarks from observed scenes tracking navigation progress and adapting to exceptions with plan adjustment. Furthermore we show that LLMs is capable of generating high45;quality navigational instructions from observations and actions along a path as well as drawing accurate top45;down metric trajectory given the agents navigation history. Despite the performance of using NavGPT to zero45;shot R2R tasks still falling short of trained models we suggest adapting multi45;modality inputs for LLMs to use as visual navigation agents and applying the explicit reasoning of LLMs to benefit learning45;based models.

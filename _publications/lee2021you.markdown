@@ -1,0 +1,12 @@
+---
+layout: publication
+title: You Only Need One Model For Open45;domain Question Answering
+authors: Lee Haejun, Kedia Akhil, Lee Jongwon, Paranjape Ashwin, Manning Christopher D., Woo Kyoung-gu
+conference: "Arxiv"
+year: 2021
+bibkey: lee2021you
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2112.07381"}
+tags: ['Applications', 'Attention Mechanism', 'Model Architecture', 'Pretraining Methods', 'Training Techniques', 'Transformer']
+---
+Recent approaches to Open45;domain Question Answering refer to an external knowledge base using a retriever model optionally rerank passages with a separate reranker model and generate an answer using another reader model. Despite performing related tasks the models have separate parameters and are weakly45;coupled during training. We propose casting the retriever and the reranker as internal passage45;wise attention mechanisms applied sequentially within the transformer architecture and feeding computed representations to the reader with the hidden representations progressively refined at each stage. This allows us to use a single question answering model trained end45;to45;end which is a more efficient use of model capacity and also leads to better gradient flow. We present a pre45;training method to effectively train this architecture and evaluate our model on the Natural Questions and TriviaQA open datasets. For a fixed parameter budget our model outperforms the previous state45;of45;the45;art model by 1.0 and 0.7 exact match scores.

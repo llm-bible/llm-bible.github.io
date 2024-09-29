@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Llmscore Unveiling The Power Of Large Language Models In Text45;to45;image Synthesis Evaluation
+authors: Lu Yujie, Yang Xianjun, Li Xiujun, Wang Xin Eric, Wang William Yang
+conference: "Arxiv"
+year: 2023
+bibkey: lu2023unveiling
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2305.11116"}
+tags: ['Ethics And Bias', 'RAG', 'Tools']
+---
+Existing automatic evaluation on text45;to45;image synthesis can only provide an image45;text matching score without considering the object45;level compositionality which results in poor correlation with human judgments. In this work we propose LLMScore a new framework that offers evaluation scores with multi45;granularity compositionality. LLMScore leverages the large language models (LLMs) to evaluate text45;to45;image models. Initially it transforms the image into image45;level and object45;level visual descriptions. Then an evaluation instruction is fed into the LLMs to measure the alignment between the synthesized image and the text ultimately generating a score accompanied by a rationale. Our substantial analysis reveals the highest correlation of LLMScore with human judgments on a wide range of datasets (Attribute Binding Contrast Concept Conjunction MSCOCO DrawBench PaintSkills). Notably our LLMScore achieves Kendalls tau correlation with human evaluations that is 58.837; and 31.237; higher than the commonly45;used text45;image matching metrics CLIP and BLIP respectively.

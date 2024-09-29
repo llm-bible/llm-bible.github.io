@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Contextual Object Detection With Multimodal Large Language Models
+authors: Yuhang Zang, Wei Li, Jun Han, Kaiyang Zhou, Chen Change Loy
+conference: "Arxiv"
+year: 2023
+bibkey: zang2023contextual
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2305.18279v2"}
+  - {name: "Code", url: "https://github.com/yuhangzang/ContextDET"}
+tags: ['Applications', 'Has Code', 'Multimodal Models', 'Tools']
+---
+Recent Multimodal Large Language Models (MLLMs) are remarkable in vision45;language tasks such as image captioning and question answering but lack the essential perception ability i.e. object detection. In this work we address this limitation by introducing a novel research problem of contextual object detection 45;45; understanding visible objects within different human45;AI interactive contexts. Three representative scenarios are investigated including the language cloze test visual captioning and question answering. Moreover we present ContextDET a unified multimodal model that is capable of end45;to45;end differentiable modeling of visual45;language contexts so as to locate identify and associate visual objects with language inputs for human45;AI interaction. Our ContextDET involves three key submodels (i) a visual encoder for extracting visual representations (ii) a pre45;trained LLM for multimodal context decoding and (iii) a visual decoder for predicting bounding boxes given contextual object words. The new generate45;then45;detect framework enables us to detect object words within human vocabulary. Extensive experiments show the advantages of ContextDET on our proposed CODE benchmark open45;vocabulary detection and referring image segmentation. Github https://github.com/yuhangzang/ContextDET.

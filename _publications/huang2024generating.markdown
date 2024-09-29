@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Generating Educational Materials With Different Levels Of Readability Using Llms
+authors: Huang Chieh-yang, Wei Jing, Huang Ting-hao 'kenneth'
+conference: "Arxiv"
+year: 2024
+bibkey: huang2024generating
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.12787"}
+tags: ['Applications', 'GPT', 'Language Modeling', 'Model Architecture', 'Prompting']
+---
+This study introduces the leveled45;text generation task aiming to rewrite educational materials to specific readability levels while preserving meaning. We assess the capability of GPT45;3.5 LLaMA45;2 70B and Mixtral 8x7B to generate content at various readability levels through zero45;shot and few45;shot prompting. Evaluating 100 processed educational materials reveals that few45;shot prompting significantly improves performance in readability manipulation and information preservation. LLaMA45;2 70B performs better in achieving the desired difficulty range while GPT45;3.5 maintains original meaning. However manual inspection highlights concerns such as misinformation introduction and inconsistent edit distribution. These findings emphasize the need for further research to ensure the quality of generated educational content.

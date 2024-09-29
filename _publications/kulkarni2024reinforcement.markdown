@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Reinforcement Learning For Optimizing RAG For Domain Chatbots
+authors: Kulkarni Mandar, Tangarajan Praveen, Kim Kyung, Trivedi Anusua
+conference: "Arxiv"
+year: 2024
+bibkey: kulkarni2024reinforcement
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2401.06800"}
+tags: ['Agentic', 'Applications', 'BERT', 'Efficiency And Optimization', 'GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques']
+---
+With the advent of Large Language Models (LLM) conversational assistants have become prevalent for domain use cases. LLMs acquire the ability to contextual question answering through training and Retrieval Augmented Generation (RAG) further enables the bot to answer domain45;specific questions. This paper describes a RAG45;based approach for building a chatbot that answers users queries using Frequently Asked Questions (FAQ) data. We train an in45;house retrieval embedding model using infoNCE loss and experimental results demonstrate that the in45;house model works significantly better than the well45;known general45;purpose public embedding model both in terms of retrieval accuracy and Out45;of45;Domain (OOD) query detection. As an LLM we use an open API45;based paid ChatGPT model. We noticed that a previously retrieved45;context could be used to generate an answer for specific patterns/sequences of queries (e.g. follow45;up queries). Hence there is a scope to optimize the number of LLM tokens and cost. Assuming a fixed retrieval model and an LLM we optimize the number of LLM tokens using Reinforcement Learning (RL). Specifically we propose a policy45;based model external to the RAG which interacts with the RAG pipeline through policy actions and updates the policy to optimize the cost. The policy model can perform two actions to fetch FAQ context or skip retrieval. We use the open API45;based GPT45;4 as the reward model. We then train a policy model using policy gradient on multiple training chat sessions. As a policy model we experimented with a public gpt45;2 model and an in45;house BERT model. With the proposed RL45;based optimization combined with similarity threshold we are able to achieve significant cost savings while getting a slightly improved accuracy. Though we demonstrate results for the FAQ chatbot the proposed RL approach is generic and can be experimented with any existing RAG pipeline.

@@ -1,0 +1,12 @@
+---
+layout: publication
+title: MINT Evaluating Llms In Multi45;turn Interaction With Tools And Language Feedback
+authors: Wang Xingyao, Wang Zihan, Liu Jiateng, Chen Yangyi, Yuan Lifan, Peng Hao, Ji Heng
+conference: "Arxiv"
+year: 2023
+bibkey: wang2023evaluating
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2309.10691"}
+tags: ['Agentic', 'Applications', 'GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Tools']
+---
+To solve complex tasks large language models (LLMs) often require multiple rounds of interactions with the user sometimes assisted by external tools. However current evaluation protocols often emphasize benchmark performance with single45;turn exchanges neglecting the nuanced interactions among the user LLMs and external tools while also underestimating the importance of natural language feedback from users. These oversights contribute to discrepancies between research benchmark evaluations and real45;world use cases. We introduce MINT a benchmark that evaluates LLMs ability to solve tasks with multi45;turn interactions by (1) using tools and (2) leveraging natural language feedback. To ensure reproducibility we provide an evaluation framework where LLMs can access tools by executing Python code and receive users natural language feedback simulated by GPT45;4. We repurpose a diverse set of established evaluation datasets focusing on reasoning coding and decision45;making and carefully curate them into a compact subset for efficient evaluation. Our analysis of 20 open45; and closed45;source LLMs offers intriguing findings. (a) LLMs generally benefit from tools and language feedback with performance gains (absolute same below) of 145;837; for each turn of tool use and 245;1737; with natural language feedback. (b) Better single45;turn performance does not guarantee better multi45;turn performance. (c) Surprisingly on the LLMs evaluated supervised instruction45;finetuning (SIFT) and reinforcement learning from human feedback (RLHF) generally hurt multi45;turn capabilities. We expect MINT can help measure progress and incentivize research in improving LLMs capabilities in multi45;turn interactions especially for open45;source communities where multi45;turn human evaluation can be less accessible compared to commercial LLMs with a larger user base.

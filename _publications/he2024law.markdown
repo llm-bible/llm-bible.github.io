@@ -1,0 +1,12 @@
+---
+layout: publication
+title: A Law Of Next45;token Prediction In Large Language Models
+authors: He Hangfeng, Su Weijie J.
+conference: "Arxiv"
+year: 2024
+bibkey: he2024law
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2408.13442"}
+tags: ['Applications', 'Model Architecture', 'Pretraining Methods', 'Scaling Laws', 'Training Techniques', 'Transformer']
+---
+Large language models (LLMs) have been widely employed across various application domains yet their black45;box nature poses significant challenges to understanding how these models process input data internally to make predictions. In this paper we introduce a precise and quantitative law that governs the learning of contextualized token embeddings through intermediate layers in pre45;trained LLMs for next45;token prediction. Our findings reveal that each layer contributes equally to enhancing prediction accuracy from the lowest to the highest layer 45;45; a universal phenomenon observed across a diverse array of open45;source LLMs built on architectures such as Transformer RWKV and Mamba. We demonstrate that this law offers new perspectives and insights to inform and guide practices in LLM development and applications including model scaling pre45;training tasks and information flow. Overall our law enables more fine45;grained approaches to the design training and interpretation of LLMs through scrutinizing their internal data processing mechanisms.

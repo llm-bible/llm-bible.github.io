@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Harnessing The Power Of Large Language Models For Empathetic Response Generation Empirical Investigations And Improvements
+authors: Qian Yushan, Zhang Wei-nan, Liu Ting
+conference: "Arxiv"
+year: 2023
+bibkey: qian2023harnessing
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.05140"}
+tags: ['Applications', 'Attention Mechanism', 'GPT', 'Model Architecture']
+---
+Empathetic dialogue is an indispensable part of building harmonious social relationships and contributes to the development of a helpful AI. Previous approaches are mainly based on fine small45;scale language models. With the advent of ChatGPT the application effect of large language models (LLMs) in this field has attracted great attention. This work empirically investigates the performance of LLMs in generating empathetic responses and proposes three improvement methods of semantically similar in45;context learning two45;stage interactive generation and combination with the knowledge base. Extensive experiments show that LLMs can significantly benefit from our proposed methods and is able to achieve state45;of45;the45;art performance in both automatic and human evaluations. Additionally we explore the possibility of GPT45;4 simulating human evaluators.

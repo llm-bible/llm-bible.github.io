@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Aligning Large Language Models With Self45;generated Preference Data
+authors: Kim Dongyoung, Lee Kimin, Shin Jinwoo, Kim Jaehyung
+conference: "Arxiv"
+year: 2024
+bibkey: kim2024aligning
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.04412"}
+tags: ['RAG', 'Reinforcement Learning', 'Tools']
+---
+Aligning large language models (LLMs) with human preferences becomes a key component to obtaining state45;of45;the45;art performance but it yields a huge cost to construct a large human45;annotated preference dataset. To tackle this problem we propose a new framework that boosts the alignment of LLMs through Self45;generated Preference data (Selfie) using only a very small amount of human45;annotated preference data. Our key idea is leveraging the human prior knowledge within the small (seed) data and progressively improving the alignment of LLM by iteratively generating the responses and learning from them with the self45;annotated preference data. To be specific we propose to derive the preference label from the logits of LLM to explicitly extract the models inherent preference. Compared to the previous approaches using external reward models or implicit in45;context learning we observe that the proposed approach is significantly more effective. In addition we introduce a noise45;aware preference learning algorithm to mitigate the risk of low quality within generated preference data. Our experimental results demonstrate that the proposed framework significantly boosts the alignment of LLMs. For example we achieve superior alignment performance on AlpacaEval 2.0 with only 3.337; of the ground45;truth preference labels in the Ultrafeedback data compared to the cases using the entire data or state45;of45;the45;art baselines.

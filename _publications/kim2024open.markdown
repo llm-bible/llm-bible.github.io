@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Openvla An Open45;source Vision45;language45;action Model
+authors: Kim Moo Jin, Pertsch Karl, Karamcheti Siddharth, Xiao Ted, Balakrishna Ashwin, Nair Suraj, Rafailov Rafael, Foster Ethan, Lam Grace, Sanketi Pannag, Vuong Quan, Kollar Thomas, Burchfiel Benjamin, Tedrake Russ, Sadigh Dorsa, Levine Sergey, Liang Percy, Finn Chelsea
+conference: "Arxiv"
+year: 2024
+bibkey: kim2024open
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.09246"}
+tags: ['Efficiency And Optimization', 'Merging', 'Quantization', 'Reinforcement Learning', 'Training Techniques']
+---
+Large policies pretrained on a combination of Internet45;scale vision45;language data and diverse robot demonstrations have the potential to change how we teach robots new skills rather than training new behaviors from scratch we can fine45;tune such vision45;language45;action (VLA) models to obtain robust generalizable policies for visuomotor control. Yet widespread adoption of VLAs for robotics has been challenging as 1) existing VLAs are largely closed and inaccessible to the public and 2) prior work fails to explore methods for efficiently fine45;tuning VLAs for new tasks a key component for adoption. Addressing these challenges we introduce OpenVLA a 7B45;parameter open45;source VLA trained on a diverse collection of 970k real45;world robot demonstrations. OpenVLA builds on a Llama 2 language model combined with a visual encoder that fuses pretrained features from DINOv2 and SigLIP. As a product of the added data diversity and new model components OpenVLA demonstrates strong results for generalist manipulation outperforming closed models such as RT45;245;X (55B) by 16.537; in absolute task success rate across 29 tasks and multiple robot embodiments with 7x fewer parameters. We further show that we can effectively fine45;tune OpenVLA for new settings with especially strong generalization results in multi45;task environments involving multiple objects and strong language grounding abilities and outperform expressive from45;scratch imitation learning methods such as Diffusion Policy by 20.437;. We also explore compute efficiency; as a separate contribution we show that OpenVLA can be fine45;tuned on consumer GPUs via modern low45;rank adaptation methods and served efficiently via quantization without a hit to downstream success rate. Finally we release model checkpoints fine45;tuning notebooks and our PyTorch codebase with built45;in support for training VLAs at scale on Open X45;Embodiment datasets.

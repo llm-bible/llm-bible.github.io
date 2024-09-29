@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Tell Me How To Ask Again Question Data Augmentation With Controllable Rewriting In Continuous Space
+authors: Liu Dayiheng, Gong Yeyun, Fu Jie, Yan Yu, Chen Jiusheng, Lv Jiancheng, Duan Nan, Zhou Ming
+conference: "Arxiv"
+year: 2020
+bibkey: liu2020tell
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2010.01475"}
+tags: ['Efficiency And Optimization', 'Model Architecture', 'Pretraining Methods', 'Transformer']
+---
+In this paper we propose a novel data augmentation method referred to as Controllable Rewriting based Question Data Augmentation (CRQDA) for machine reading comprehension (MRC) question generation and question45;answering natural language inference tasks. We treat the question data augmentation task as a constrained question rewriting problem to generate context45;relevant high45;quality and diverse question data samples. CRQDA utilizes a Transformer autoencoder to map the original discrete question into a continuous embedding space. It then uses a pre45;trained MRC model to revise the question representation iteratively with gradient45;based optimization. Finally the revised question representations are mapped back into the discrete space which serve as additional question data. Comprehensive experiments on SQuAD 2.0 SQuAD 1.1 question generation and QNLI tasks demonstrate the effectiveness of CRQDA

@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Ra45;rec An Efficient ID Representation Alignment Framework For Llm45;based Recommendation
+authors: Yu Xiaohan, Zhang Li, Zhao Xin, Wang Yue, Ma Zhongrui
+conference: "Arxiv"
+year: 2024
+bibkey: yu2024ra
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2402.04527"}
+tags: ['Model Architecture', 'Pretraining Methods', 'Prompting', 'Tools', 'Training Techniques']
+---
+Large language models (LLM) have recently emerged as a powerful tool for a variety of natural language processing tasks bringing a new surge of combining LLM with recommendation systems termed as LLM45;based RS. Current approaches generally fall into two main paradigms the ID direct usage paradigm and the ID translation paradigm noting their core weakness stems from lacking recommendation knowledge and uniqueness. To address this limitation we propose a new paradigm ID representation which incorporates pre45;trained ID embeddings into LLMs in a complementary manner. In this work we present RA45;Rec an efficient ID representation alignment framework for LLM45;based recommendation which is compatible with multiple ID45;based methods and LLM architectures. Specifically we treat ID embeddings as soft prompts and design an innovative alignment module and an efficient tuning method with tailored data construction for alignment. Extensive experiments demonstrate RA45;Rec substantially outperforms current state45;of45;the45;art methods achieving up to 3.037; absolute HitRate35;64;100 improvements while utilizing less than 10x training data.

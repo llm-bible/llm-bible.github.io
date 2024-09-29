@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Llms Cant Plan But Can Help Planning In Llm45;modulo Frameworks
+authors: Kambhampati Subbarao, Valmeekam Karthik, Guan Lin, Verma Mudit, Stechly Kaya, Bhambri Siddhant, Saldyt Lucas, Murthy Anil
+conference: "Proceedings of the"
+year: 2024
+bibkey: kambhampati2024llms
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2402.01817"}
+tags: ['Merging', 'Pretraining Methods', 'Prompting', 'Tools']
+---
+There is considerable confusion about the role of Large Language Models (LLMs) in planning and reasoning tasks. On one side are over45;optimistic claims that LLMs can indeed do these tasks with just the right prompting or self45;verification strategies. On the other side are perhaps over45;pessimistic claims that all that LLMs are good for in planning/reasoning tasks are as mere translators of the problem specification from one syntactic format to another and ship the problem off to external symbolic solvers. In this position paper we take the view that both these extremes are misguided. We argue that auto45;regressive LLMs cannot by themselves do planning or self45;verification (which is after all a form of reasoning) and shed some light on the reasons for misunderstandings in the literature. We will also argue that LLMs should be viewed as universal approximate knowledge sources that have much more meaningful roles to play in planning/reasoning tasks beyond simple front45;end/back45;end format translators. We present a vision of 123;bf LLM45;Modulo Frameworks125; that combine the strengths of LLMs with external model45;based verifiers in a tighter bi45;directional interaction regime. We will show how the models driving the external verifiers themselves can be acquired with the help of LLMs. We will also argue that rather than simply pipelining LLMs and symbolic components this LLM45;Modulo Framework provides a better neuro45;symbolic approach that offers tighter integration between LLMs and symbolic components and allows extending the scope of model45;based planning/reasoning regimes towards more flexible knowledge problem and preference specifications.

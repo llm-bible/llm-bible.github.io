@@ -1,0 +1,12 @@
+---
+layout: publication
+title: A Zero45;shot Language Agent For Computer Control With Structured Reflection
+authors: Li Tao, Li Gang, Deng Zhiwei, Wang Bryan, Li Yang
+conference: "Arxiv"
+year: 2023
+bibkey: li2023zero
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.08740"}
+tags: ['Agentic', 'Pretraining Methods', 'Prompting']
+---
+Large language models (LLMs) have shown increasing capacity at planning and executing a high45;level goal in a live computer environment (e.g. MiniWoB++). To perform a task recent works often require a model to learn from trace examples of the task via either supervised learning or few/many45;shot prompting. Without these trace examples it remains a challenge how an agent can autonomously learn and improve its control on a computer which limits the ability of an agent to perform a new task. We approach this problem with a zero45;shot agent that requires no given expert traces. Our agent plans for executable actions on a partially observed environment and iteratively progresses a task by identifying and learning from its mistakes via self45;reflection and structured thought management. On the easy tasks of MiniWoB++ we show that our zero45;shot agent often outperforms recent SoTAs with more efficient reasoning. For tasks with more complexity our reflective agent performs on par with prior best models even though previous works had the advantages of accessing expert traces or additional screen information.

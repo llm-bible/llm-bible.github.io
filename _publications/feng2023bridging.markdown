@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Chessgpt Bridging Policy Learning And Language Modeling
+authors: Feng Xidong, Luo Yicheng, Wang Ziyan, Tang Hongrui, Yang Mengyue, Shao Kun, Mguni David, Du Yali, Wang Jun
+conference: "Arxiv"
+year: 2023
+bibkey: feng2023bridging
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2306.09200"}
+  - {name: "Code", url: "https://github.com/waterhorse1/ChessGPT"}
+tags: ['Agent', 'Agentic', 'GPT', 'Has Code', 'Language Modeling', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques']
+---
+When solving decision45;making tasks humans typically depend on information from two key sources (1) Historical policy data which provides interaction replay from the environment and (2) Analytical insights in natural language form exposing the invaluable thought process or strategic considerations. Despite this the majority of preceding research focuses on only one source they either use historical replay exclusively to directly learn policy or value functions or engaged in language model training utilizing mere language corpus. In this paper we argue that a powerful autonomous agent should cover both sources. Thus we propose ChessGPT a GPT model bridging policy learning and language modeling by integrating data from these two sources in Chess games. Specifically we build a large45;scale game and language dataset related to chess. Leveraging the dataset we showcase two model examples ChessCLIP and ChessGPT integrating policy learning and language modeling. Finally we propose a full evaluation framework for evaluating language models chess ability. Experimental results validate our model and datasets effectiveness. We open source our code model and dataset at https://github.com/waterhorse1/ChessGPT.

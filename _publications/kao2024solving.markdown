@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Solving For X And Beyond Can Large Language Models Solve Complex Math Problems With More45;than45;two Unknowns
+authors: Kao Kuei-chun, Wang Ruochen, Hsieh Cho-jui
+conference: "Arxiv"
+year: 2024
+bibkey: kao2024solving
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2407.05134"}
+tags: ['GPT', 'Model Architecture', 'Pretraining Methods', 'Prompting']
+---
+Large Language Models (LLMs) have demonstrated remarkable performance in solving math problems a hallmark of human intelligence. Despite high success rates on current benchmarks; however these often feature simple problems with only one or two unknowns which do not sufficiently challenge their reasoning capacities. This paper introduces a novel benchmark BeyondX designed to address these limitations by incorporating problems with multiple unknowns. Recognizing the challenges in proposing multi45;unknown problems from scratch we developed BeyondX using an innovative automated pipeline that progressively increases complexity by expanding the number of unknowns in simpler problems. Empirical study on BeyondX reveals that the performance of existing LLMs even those fine45;tuned specifically on math tasks significantly decreases as the number of unknowns increases 45; with a performance drop of up to 7037; observed in GPT45;4. To tackle these challenges we propose the Formulate45;and45;Solve strategy a generalized prompting approach that effectively handles problems with an arbitrary number of unknowns. Our findings reveal that this strategy not only enhances LLM performance on the BeyondX benchmark but also provides deeper insights into the computational limits of LLMs when faced with more complex mathematical challenges.

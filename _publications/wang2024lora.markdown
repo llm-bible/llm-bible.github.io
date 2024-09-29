@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Lora Meets Dropout Under A Unified Framework
+authors: Wang Sheng, Chen Liheng, Jiang Jiyue, Xue Boyang, Kong Lingpeng, Wu Chuan
+conference: "Arxiv"
+year: 2024
+bibkey: wang2024lora
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2403.00812"}
+tags: ['Applications', 'Fine Tuning', 'Model Architecture', 'Pretraining Methods', 'Reinforcement Learning', 'Tools', 'Transformer']
+---
+With the remarkable capabilities large language models (LLMs) have emerged as essential elements in numerous NLP applications while parameter45;efficient finetuning especially LoRA has gained popularity as a lightweight approach for model customization. Meanwhile various dropout methods initially designed for full finetuning with all the parameters updated alleviates overfitting associated with excessive parameter redundancy. Hence a possible contradiction arises from negligible trainable parameters of LoRA and the effectiveness of previous dropout methods which has been largely overlooked. To fill this gap we first confirm that parameter45;efficient LoRA is also overfitting45;prone. We then revisit transformer45;specific dropout methods and establish their equivalence and distinctions mathematically and empirically. Building upon this comparative analysis we introduce a unified framework for a comprehensive investigation which instantiates these methods based on dropping position structural pattern and compensation measure. Through this framework we reveal the new preferences and performance comparisons of them when involved with limited trainable parameters. This framework also allows us to amalgamate the most favorable aspects into a novel dropout method named HiddenKey. Extensive experiments verify the remarkable superiority and sufficiency of HiddenKey across multiple models and tasks which highlights it as the preferred approach for high45;performance and parameter45;efficient finetuning of LLMs.

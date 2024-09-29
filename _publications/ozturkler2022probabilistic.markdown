@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Thinksum Probabilistic Reasoning Over Sets Using Large Language Models
+authors: Ozturkler Batu, Malkin Nikolay, Wang Zhen, Jojic Nebojsa
+conference: "Arxiv"
+year: 2022
+bibkey: ozturkler2022probabilistic
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2210.01293"}
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Training Techniques']
+---
+Large language models (LLMs) have a substantial capacity for high45;level analogical reasoning reproducing patterns in linear text that occur in their training data (zero45;shot evaluation) or in the provided context (few45;shot in45;context learning). However recent studies show that even the more advanced LLMs fail in scenarios that require reasoning over multiple objects or facts and making sequences of logical deductions. We propose a two45;stage probabilistic inference paradigm ThinkSum which reasons over sets of objects or facts in a structured manner. In the first stage (Think 45; retrieval of associations) a LLM is queried in parallel over a set of phrases extracted from the prompt or an auxiliary model call. In the second stage (Sum 45; probabilistic inference or reasoning) the results of these queries are aggregated to make the final prediction. We demonstrate the possibilities and advantages of ThinkSum on the BIG45;bench suite of LLM evaluation tasks achieving improvements over the state of the art using GPT45;family models on thirteen difficult tasks often with far smaller model variants. We also compare and contrast ThinkSum with other proposed modifications to direct prompting of LLMs such as variants of chain45;of45;thought prompting. Our results suggest that because the probabilistic inference in ThinkSum is performed outside of calls to the LLM ThinkSum is less sensitive to prompt design yields more interpretable predictions and can be flexibly combined with latent variable models to extract structured knowledge from LLMs. Overall our proposed paradigm represents a promising approach for enhancing the reasoning capabilities of LLMs.

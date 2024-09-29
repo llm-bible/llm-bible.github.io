@@ -1,0 +1,12 @@
+---
+layout: publication
+title: P45;adapters Robustly Extracting Factual Information From Language Models With Diverse Prompts
+authors: Newman Benjamin, Choubey Prafulla Kumar, Rajani Nazneen
+conference: "Arxiv"
+year: 2021
+bibkey: newman2021p
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2110.07280"}
+tags: ['Attention Mechanism', 'BERT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
+---
+Recent work (e.g. LAMA (Petroni et al. 2019)) has found that the quality of the factual information extracted from Large Language Models (LLMs) depends on the prompts used to query them. This inconsistency is problematic because different users will query LLMs for the same information using different wording but should receive the same accurate responses regardless. In this work we aim to address this shortcoming by introducing P45;Adapters lightweight models that sit between the embedding layer and first attention layer of LLMs. They take LLM embeddings as input and output continuous prompts that are used to query the LLM. Additionally we investigate Mixture of Experts (MoE) models that learn a set of continuous prompts (experts) and select one to query the LLM. They require a separate classifier trained on human45;annotated data to map natural language prompts to the continuous ones. P45;Adapters perform comparably to the more complex MoE models in extracting factual information from BERT and RoBERTa while eliminating the need for additional annotations. P45;Adapters show between 1245;2637; absolute improvement in precision and 3645;5037; absolute improvement in consistency over a baseline of only using natural language queries. Finally we investigate what makes P45;Adapters successful and conclude that a significant factor is access to the LLMs embeddings of the original natural language prompt particularly the subject of the entity pair being queried.

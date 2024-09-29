@@ -1,0 +1,13 @@
+---
+layout: publication
+title: Zero45;shot Cross45;domain Dialogue State Tracking Via Dual Low45;rank Adaptation
+authors: Luo Xiang, Tang Zhiwen, Wang Jin, Zhang Xuejie
+conference: "Arxiv"
+year: 2024
+bibkey: luo2024zero
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2407.21633"}
+  - {name: "Code", url: "https://github.com/suntea233/DualLoRA&#125;"}
+tags: ['Applications', 'Efficiency And Optimization', 'Fine Tuning', 'Has Code', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'Reinforcement Learning', 'Training Techniques', 'Transformer']
+---
+Zero45;shot dialogue state tracking (DST) seeks to enable dialogue systems to transition to unfamiliar domains without manual annotation or extensive retraining. Prior research has approached this objective by embedding prompts into language models (LMs). Common methodologies include integrating prompts at the input layer or introducing learnable variables at each transformer layer. Nonetheless each strategy exhibits inherent limitations. Prompts integrated at the input layer risk underutilization with their impact potentially diminishing across successive transformer layers. Conversely the addition of learnable variables to each layer can complicate the training process and increase inference latency. To tackle the issues mentioned above this paper proposes Dual Low45;Rank Adaptation (DualLoRA) a plug45;and45;play architecture designed for zero45;shot DST. DualLoRA incorporates two distinct Low45;Rank Adaptation (LoRA) components targeting both dialogue context processing and prompt optimization to ensure the comprehensive influence of prompts throughout the transformer model layers. This is achieved without incurring additional inference latency showcasing an efficient integration into existing architectures. Through rigorous evaluation on the MultiWOZ and SGD datasets DualLoRA demonstrates notable improvements across multiple domains outperforming traditional baseline methods in zero45;shot settings. Our code is accessible at url123;https://github.com/suntea233/DualLoRA&#125;.

@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Exposing The Achilles Heel Evaluating Llms Ability To Handle Mistakes In Mathematical Reasoning
+authors: Singh Joykirat, Nambi Akshay, Vineet Vibhav
+conference: "Arxiv"
+year: 2024
+bibkey: singh2024exposing
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.10834"}
+tags: ['Applications', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Reinforcement Learning', 'Security']
+---
+Large Language Models (LLMs) have been applied to Math Word Problems (MWPs) with transformative impacts revolutionizing how these complex problems are approached and solved in various domains including educational settings. However the evaluation of these models often prioritizes final accuracy overlooking the crucial aspect of reasoning capabilities. This work addresses this gap by focusing on the ability of LLMs to detect and correct reasoning mistakes. We introduce a novel dataset MWP45;MISTAKE incorporating MWPs with both correct and incorrect reasoning steps generated through rule45;based methods and smaller language models. Our comprehensive benchmarking reveals significant insights into the strengths and weaknesses of state45;of45;the45;art models such as GPT45;4o GPT45;4 GPT45;3.5Turbo and others. We highlight GPT45;os superior performance in mistake detection and rectification and the persistent challenges faced by smaller models. Additionally we identify issues related to data contamination and memorization impacting the reliability of LLMs in real45;world applications. Our findings emphasize the importance of rigorous evaluation of reasoning processes and propose future directions to enhance the generalization and robustness of LLMs in mathematical problem45;solving.

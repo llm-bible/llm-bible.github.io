@@ -1,0 +1,12 @@
+---
+layout: publication
+title: MC45;BERT Efficient Language Pre45;training Via A Meta Controller
+authors: Xu Zhenhui, Gong Linyuan, Ke Guolin, He Di, Zheng Shuxin, Wang Liwei, Bian Jiang, Liu Tie-yan
+conference: "Arxiv"
+year: 2020
+bibkey: xu2020mc
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2006.05744"}
+tags: ['Applications', 'BERT', 'Efficiency And Optimization', 'Language Modeling', 'Masked Language Model', 'Model Architecture', 'Pretraining Methods', 'Reinforcement Learning', 'Tools', 'Training Techniques']
+---
+Pre45;trained contextual representations (e.g. BERT) have become the foundation to achieve state45;of45;the45;art results on many NLP tasks. However large45;scale pre45;training is computationally expensive. ELECTRA an early attempt to accelerate pre45;training trains a discriminative model that predicts whether each input token was replaced by a generator. Our studies reveal that ELECTRAs success is mainly due to its reduced complexity of the pre45;training task the binary classification (replaced token detection) is more efficient to learn than the generation task (masked language modeling). However such a simplified task is less semantically informative. To achieve better efficiency and effectiveness we propose a novel meta45;learning framework MC45;BERT. The pre45;training task is a multi45;choice cloze test with a reject option where a meta controller network provides training input and candidates. Results over GLUE natural language understanding benchmark demonstrate that our proposed method is both efficient and effective it outperforms baselines on GLUE semantic tasks given the same computational budget.

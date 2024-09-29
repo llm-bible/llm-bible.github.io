@@ -1,0 +1,12 @@
+---
+layout: publication
+title: How Trustworthy Are Open45;source Llms An Assessment Under Malicious Demonstrations Shows Their Vulnerabilities
+authors: Mo Lingbo, Wang Boshi, Chen Muhao, Sun Huan
+conference: "Arxiv"
+year: 2023
+bibkey: mo2023how
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2311.09447"}
+tags: ['Bias Mitigation', 'Ethics And Bias', 'Fairness', 'Prompting', 'Responsible AI', 'Security', 'Tools']
+---
+The rapid progress in open45;source Large Language Models (LLMs) is significantly driving AI development forward. However there is still a limited understanding of their trustworthiness. Deploying these models at scale without sufficient trustworthiness can pose significant risks highlighting the need to uncover these issues promptly. In this work we conduct an adversarial assessment of open45;source LLMs on trustworthiness scrutinizing them across eight different aspects including toxicity stereotypes ethics hallucination fairness sycophancy privacy and robustness against adversarial demonstrations. We propose advCoU an extended Chain of Utterances45;based (CoU) prompting strategy by incorporating carefully crafted malicious demonstrations for trustworthiness attack. Our extensive experiments encompass recent and representative series of open45;source LLMs including Vicuna MPT Falcon Mistral and Llama 2. The empirical outcomes underscore the efficacy of our attack strategy across diverse aspects. More interestingly our result analysis reveals that models with superior performance in general NLP tasks do not always have greater trustworthiness; in fact larger models can be more vulnerable to attacks. Additionally models that have undergone instruction tuning focusing on instruction following tend to be more susceptible although fine45;tuning LLMs for safety alignment proves effective in mitigating adversarial trustworthiness attacks.

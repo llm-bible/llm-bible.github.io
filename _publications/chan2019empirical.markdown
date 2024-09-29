@@ -1,0 +1,12 @@
+---
+layout: publication
+title: An Empirical Study Of Generation Order For Machine Translation
+authors: Chan William, Stern Mitchell, Kiros Jamie, Uszkoreit Jakob
+conference: "Arxiv"
+year: 2019
+bibkey: chan2019empirical
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/1910.13437"}
+tags: ['Applications', 'Model Architecture', 'Pretraining Methods', 'Reinforcement Learning', 'Tools', 'Transformer']
+---
+In this work we present an empirical study of generation order for machine translation. Building on recent advances in insertion45;based modeling we first introduce a soft order45;reward framework that enables us to train models to follow arbitrary oracle generation policies. We then make use of this framework to explore a large variety of generation orders including uninformed orders location45;based orders frequency45;based orders content45;based orders and model45;based orders. Curiously we find that for the WMT14 English to German translation task order does not have a substantial impact on output quality with unintuitive orderings such as alphabetical and shortest45;first matching the performance of a standard Transformer. This demonstrates that traditional left45;to45;right generation is not strictly necessary to achieve high performance. On the other hand results on the WMT18 English to Chinese task tend to vary more widely suggesting that translation for less well45;aligned language pairs may be more sensitive to generation order.

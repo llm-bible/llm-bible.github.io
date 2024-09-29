@@ -1,0 +1,12 @@
+---
+layout: publication
+title: OPT45;IML Scaling Language Model Instruction Meta Learning Through The Lens Of Generalization
+authors: Srinivasan Iyer, Xi Victoria Lin, Ramakanth Pasunuru, Todor Mihaylov, Daniel Simig, Ping Yu, Kurt Shuster, Tianlu Wang, Qing Liu, Punit Singh Koura, Xian Li, Brian O'horo, Gabriel Pereyra, Jeff Wang, Christopher Dewan, Asli Celikyilmaz, Luke Zettlemoyer, Ves Stoyanov
+conference: "Arxiv"
+year: 2022
+bibkey: iyer2022opt
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2212.12017v3"}
+tags: ['Pretraining Methods', 'Prompting', 'Tools', 'Training Techniques']
+---
+Recent work has shown that fine45;tuning large pre45;trained language models on a collection of tasks described via instructions a.k.a. instruction45;tuning improves their zero and few45;shot generalization to unseen tasks. However there is a limited understanding of the performance trade45;offs of different decisions made during the instruction45;tuning process. These decisions include the scale and diversity of the instruction45;tuning benchmark different task sampling strategies fine45;tuning with and without demonstrations training using specialized datasets for reasoning and dialogue and finally the fine45;tuning objectives themselves. In this paper we characterize the effect of instruction45;tuning decisions on downstream task performance when scaling both model and benchmark sizes. To this end we create OPT45;IML Bench a large benchmark for Instruction Meta45;Learning (IML) of 2000 NLP tasks consolidated into task categories from 8 existing benchmarks and prepare an evaluation framework to measure three types of model generalizations to tasks from fully held45;out categories to held45;out tasks from seen categories and to held45;out instances from seen tasks. Through the lens of this framework we first present insights about instruction45;tuning decisions as applied to OPT45;30B and further exploit these insights to train OPT45;IML 30B and 175B which are instruction45;tuned versions of OPT. OPT45;IML demonstrates all three generalization abilities at both scales on four different evaluation benchmarks with diverse tasks and input formats 45;45; PromptSource FLAN Super45;NaturalInstructions and UnifiedSKG. Not only does it significantly outperform OPT on all benchmarks but is also highly competitive with existing models fine45;tuned on each specific benchmark. We release OPT45;IML at both scales together with the OPT45;IML Bench evaluation framework.

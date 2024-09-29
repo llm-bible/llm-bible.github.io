@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Ext5 Towards Extreme Multi45;task Scaling For Transfer Learning
+authors: Aribandi Vamsi, Tay Yi, Schuster Tal, Rao Jinfeng, Zheng Huaixiu Steven, Mehta Sanket Vaibhav, Zhuang Honglei, Tran Vinh Q., Bahri Dara, Ni Jianmo, Gupta Jai, Hui Kai, Ruder Sebastian, Metzler Donald
+conference: "Arxiv"
+year: 2021
+bibkey: aribandi2021towards
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2111.10952"}
+tags: ['Efficiency And Optimization', 'Fine Tuning', 'Training Techniques']
+---
+Despite the recent success of multi45;task learning and transfer learning for natural language processing (NLP) few works have systematically studied the effect of scaling up the number of tasks during pre45;training. Towards this goal this paper introduces ExMix (Extreme Mixture) a massive collection of 107 supervised NLP tasks across diverse domains and task45;families. Using ExMix we study the effect of multi45;task pre45;training at the largest scale to date and analyze co45;training transfer amongst common families of tasks. Through this analysis we show that manually curating an ideal set of tasks for multi45;task pre45;training is not straightforward and that multi45;task scaling can vastly improve models on its own. Finally we propose ExT5 a model pre45;trained using a multi45;task objective of self45;supervised span denoising and supervised ExMix. Via extensive experiments we show that ExT5 outperforms strong T5 baselines on SuperGLUE GEM Rainbow Closed45;Book QA tasks and several tasks outside of ExMix. ExT5 also significantly improves sample efficiency while pre45;training.

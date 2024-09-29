@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Razorattention Efficient KV Cache Compression Through Retrieval Heads
+authors: Tang Hanlin, Lin Yang, Lin Jing, Han Qingsen, Hong Shikuan, Yao Yiwu, Wang Gongyi
+conference: "Arxiv"
+year: 2024
+bibkey: tang2024efficient
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2407.15891"}
+tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Model Architecture', 'Pretraining Methods', 'Training Techniques']
+---
+The memory and computational demands of Key45;Value (KV) cache present significant challenges for deploying long45;context language models. Previous approaches attempt to mitigate this issue by selectively dropping tokens which irreversibly erases critical information that might be needed for future queries. In this paper we propose a novel compression technique for KV cache that preserves all token information. Our investigation reveals that i) Most attention heads primarily focus on the local context; ii) Only a few heads denoted as retrieval heads can essentially pay attention to all input tokens. These key observations motivate us to use separate caching strategy for attention heads. Therefore we propose RazorAttention a training45;free KV cache compression algorithm which maintains a full cache for these crucial retrieval heads and discards the remote tokens in non45;retrieval heads. Furthermore we introduce a novel mechanism involving a compensation token to further recover the information in the dropped tokens. Extensive evaluations across a diverse set of large language models (LLMs) demonstrate that RazorAttention achieves a reduction in KV cache size by over 7037; without noticeable impacts on performance. Additionally RazorAttention is compatible with FlashAttention rendering it an efficient and plug45;and45;play solution that enhances LLM inference efficiency without overhead or retraining of the original model.

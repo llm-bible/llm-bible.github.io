@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Attention Alignment And Flexible Positional Embeddings Improve Transformer Length Extrapolation
+authors: Chi Ta-chung, Fan Ting-han, Rudnicky Alexander I.
+conference: "Arxiv"
+year: 2023
+bibkey: chi2023attention
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2311.00684"}
+tags: ['Applications', 'Attention Mechanism', 'Language Modeling', 'Model Architecture', 'Pretraining Methods', 'Training Techniques', 'Transformer']
+---
+An ideal length45;extrapolatable Transformer language model can handle sequences longer than the training length without any fine45;tuning. Such long45;context utilization capability relies heavily on a flexible positional embedding design. Upon investigating the flexibility of existing large pre45;trained Transformer language models we find that the T5 family deserves a closer look as its positional embeddings capture rich and flexible attention patterns. However T5 suffers from the dispersed attention issue the longer the input sequence the flatter the attention distribution. To alleviate the issue we propose two attention alignment strategies via temperature scaling. Our findings show improvement on the long45;context utilization capability of T5 on language modeling retrieval multi45;document question answering and code completion tasks without any fine45;tuning. This suggests that a flexible positional embedding design and attention alignment can go a long way toward Transformer length extrapolation.

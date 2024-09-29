@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Breaking Language Barriers In Multilingual Mathematical Reasoning Insights And Observations
+authors: Chen Nuo, Zheng Zinan, Wu Ning, Gong Ming, Song Yangqiu, Zhang Dongmei, Li Jia
+conference: "Arxiv"
+year: 2023
+bibkey: chen2023breaking
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.20246"}
+tags: ['Ethics And Bias', 'Fine Tuning', 'GPT', 'Model Architecture', 'Training Techniques']
+---
+Existing research predominantly focuses on developing powerful language learning models (LLMs) for mathematical reasoning within monolingual languages with few explorations in preserving efficacy in a multilingual context. To bridge this gap this paper pioneers exploring and training powerful Multilingual Math Reasoning (xMR) LLMs. Firstly by utilizing translation we construct the first multilingual math reasoning instruction dataset MGSM8KInstruct encompassing ten distinct languages thus addressing the issue of training data scarcity in xMR tasks. Based on the collected dataset we propose different training strategies to build powerful xMR LLMs named MathOctopus notably outperform conventional open45;source LLMs and exhibit superiority over ChatGPT in few45;shot scenarios. Notably MathOctopus45;13B reaches 47.637; accuracy which exceeds ChatGPT 46.337; on MGSM testset. Beyond remarkable results we unearth several pivotal observations and insights from extensive experiments (1) When extending the rejection sampling strategy to the multilingual context it proves effective for model performances albeit limited. (2) Employing parallel corpora for math Supervised Fine45;Tuning (SFT) across multiple languages not only significantly enhances model performance multilingually but also elevates their monolingual performance. This indicates that crafting multilingual corpora can be regarded as a vital strategy for enhancing model performance in a specific language especially in mathematical reasoning tasks. For instance MathOctopus45;7B improves its counterparts that trained on English from 42.237; to 50.837; on GSM8K testset.

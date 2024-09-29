@@ -1,0 +1,12 @@
+---
+layout: publication
+title: PACE Improving Prompt With Actor45;critic Editing For Large Language Model
+authors: Dong Yihong, Luo Kangcheng, Jiang Xue, Jin Zhi, Li Ge
+conference: "Arxiv"
+year: 2023
+bibkey: dong2023improving
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2308.10088"}
+tags: ['Agentic', 'Prompting', 'RAG', 'Reinforcement Learning']
+---
+Large language models (LLMs) have showcased remarkable potential across various tasks by conditioning on prompts. However the quality of different human45;written prompts leads to substantial discrepancies in LLMs performance and improving prompts usually necessitates considerable human effort and expertise. To this end this paper proposes Prompt with Actor45;Critic Editing (PACE) for LLMs to enable automatic prompt editing. Drawing inspiration from the actor45;critic algorithm in reinforcement learning PACE leverages LLMs as the dual roles of actors and critics conceptualizing prompt as a type of policy. PACE refines prompt taking into account the feedback from both actors performing prompt and critics criticizing response. This process helps LLMs better align prompt to a specific task thanks to real responses and thinking from LLMs. We conduct extensive experiments on 24 instruction induction tasks and 21 big45;bench tasks. Experimental results indicate that PACE elevates the relative performance of medium/low45;quality human45;written prompts by up to 9837; which has comparable performance to high45;quality human45;written prompts. Moreover PACE also exhibits notable efficacy for prompt generation.

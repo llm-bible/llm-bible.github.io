@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Nlebench+norglm A Comprehensive Empirical Analysis And Benchmark Dataset For Generative Language Models In Norwegian
+authors: Liu Peng, Zhang Lemei, Farup Terje Nissen, Lauvrak Even W., Ingvaldsen Jon Espen, Eide Simen, Gulla Jon Atle, Yang Zhirong
+conference: "Arxiv"
+year: 2023
+bibkey: liu2023comprehensive
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2312.01314"}
+tags: ['Applications', 'BERT', 'Ethics And Bias', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'Reinforcement Learning', 'Transformer']
+---
+Recent advancements in Generative Language Models (GLMs) have transformed Natural Language Processing (NLP) by showcasing the effectiveness of the pre45;train prompt and predict paradigm in utilizing pre45;trained GLM knowledge for diverse applications. Despite their potential these capabilities lack adequate quantitative characterization due to the absence of comprehensive benchmarks particularly for low45;resource languages. Existing low45;resource benchmarks focus on discriminative language models like BERT neglecting the evaluation of generative language models. Moreover current benchmarks often overlook measuring generalization performance across multiple tasks a crucial metric for GLMs. To bridge these gaps we introduce NLEBench a comprehensive benchmark tailored for evaluating natural language generation capabilities in Norwegian a low45;resource language. We use Norwegian as a case study to explore whether current GLMs and benchmarks in mainstream languages like English can reveal the unique characteristics of underrepresented languages. NLEBench encompasses a suite of real45;world NLP tasks ranging from news storytelling summarization open45;domain conversation natural language understanding instruction fine45;tuning toxicity and bias evaluation to self45;curated Chain45;of45;Thought investigation. It features two high45;quality human45;annotated datasets an instruction dataset covering traditional Norwegian cultures idioms slang and special expressions and a document45;grounded multi45;label dataset for topic classification question answering and summarization. This paper also introduces foundational Norwegian Generative Language Models (NorGLMs) developed with diverse parameter scales and Transformer45;based architectures. Systematic evaluations on the proposed benchmark suite provide insights into the capabilities and scalability of NorGLMs across various downstream tasks.
