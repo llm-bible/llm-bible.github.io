@@ -1,0 +1,12 @@
+---
+layout: publication
+title: "Unified Discrete Diffusion For Simultaneous Vision-language Generation"
+authors: Hu Minghui, Zheng Chuanxia, Zheng Heliang, Cham Tat-jen, Wang Chaoyue, Yang Zuopeng, Tao Dacheng, Suganthan Ponnuthurai N.
+conference: "Arxiv"
+year: 2022
+bibkey: hu2022unified
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2211.14842"}
+tags: ['Attention Mechanism', 'Merging', 'Model Architecture', 'Multimodal Models']
+---
+The recently developed discrete diffusion models perform extraordinarily well in the text-to-image task showing significant promise for handling the multi-modality signals. In this work we harness these traits and present a unified multimodal generation model that can conduct both the modality translation and multi-modality generation tasks using a single model performing text-based image-based and even vision-language simultaneous generation. Specifically we unify the discrete diffusion process for multimodal signals by proposing a unified transition matrix. Moreover we design a mutual attention module with fused embedding layer and a unified objective function to emphasise the inter-modal linkages which are vital for multi-modality generation. Extensive experiments indicate that our proposed method can perform comparably to the state-of-the-art solutions in various generation tasks.

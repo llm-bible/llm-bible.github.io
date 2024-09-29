@@ -1,0 +1,12 @@
+---
+layout: publication
+title: "Benchmarking Causal Study To Interpret Large Language Models For Source Code"
+authors: Rodriguez-cardenas Daniel, Palacio David N., Khati Dipin, Burke Henry, Poshyvanyk Denys
+conference: "Arxiv"
+year: 2023
+bibkey: rodriguezcardenas2023benchmarking
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2308.12415"}
+tags: ['Applications', 'Ethics And Bias', 'GPT', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+---
+One of the most common solutions adopted by software researchers to address code generation is by training Large Language Models (LLMs) on massive amounts of source code. Although a number of studies have shown that LLMs have been effectively evaluated on popular accuracy metrics (e.g. BLEU CodeBleu) previous research has largely overlooked the role of Causal Inference as a fundamental component of the interpretability of LLMs performance. Existing benchmarks and datasets are meant to highlight the difference between the expected and the generated outcome but do not take into account confounding variables (e.g. lines of code prompt size) that equally influence the accuracy metrics. The fact remains that when dealing with generative software tasks by LLMs no benchmark is available to tell researchers how to quantify neither the causal effect of SE-based treatments nor the correlation of confounders to the models performance. In an effort to bring statistical rigor to the evaluation of LLMs this paper introduces a benchmarking strategy named Galeras comprised of curated testbeds for three SE tasks (i.e. code completion code summarization and commit generation) to help aid the interpretation of LLMs performance. We illustrate the insights of our benchmarking strategy by conducting a case study on the performance of ChatGPT under distinct prompt engineering methods. The results of the case study demonstrate the positive causal influence of prompt semantics on ChatGPTs generative performance by an average treatment effect of (approx) 337;. Moreover it was found that confounders such as prompt size are highly correlated with accuracy metrics ((approx) 0.41237;). The end result of our case study is to showcase causal inference evaluations in practice to reduce confounding bias. By reducing the bias we offer an interpretable solution for the accuracy metric under analysis.

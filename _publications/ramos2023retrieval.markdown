@@ -1,0 +1,12 @@
+---
+layout: publication
+title: "Retrieval-augmented Image Captioning"
+authors: Ramos Rita, Elliott Desmond, Martins Bruno
+conference: "EACL"
+year: 2023
+bibkey: ramos2023retrieval
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2302.08268"}
+tags: ['BERT', 'Model Architecture', 'Multimodal Models', 'RAG', 'Reinforcement Learning', 'Training Techniques']
+---
+Inspired by retrieval-augmented language generation and pretrained Vision and Language (Vamp;L) encoders we present a new approach to image captioning that generates sentences given the input image and a set of captions retrieved from a datastore as opposed to the image alone. The encoder in our model jointly processes the image and retrieved captions using a pretrained Vamp;L BERT while the decoder attends to the multimodal encoder representations benefiting from the extra textual evidence from the retrieved captions. Experimental results on the COCO dataset show that image captioning can be effectively formulated from this new perspective. Our model named EXTRA benefits from using captions retrieved from the training dataset and it can also benefit from using an external dataset without the need for retraining. Ablation studies show that retrieving a sufficient number of captions (e.g. k=5) can improve captioning quality. Our work contributes towards using pretrained Vamp;L encoders for generative tasks instead of standard classification tasks.

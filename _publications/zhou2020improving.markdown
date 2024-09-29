@@ -1,0 +1,12 @@
+---
+layout: publication
+title: "Improving Non-autoregressive Neural Machine Translation With Monolingual Data"
+authors: Zhou Jiawei, Keung Phillip
+conference: "Arxiv"
+year: 2020
+bibkey: zhou2020improving
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2005.00932"}
+tags: ['Applications', 'Distillation', 'Efficiency And Optimization', 'GPT', 'Pretraining Methods', 'RAG', 'Tools', 'Training Techniques']
+---
+Non-autoregressive (NAR) neural machine translation is usually done via knowledge distillation from an autoregressive (AR) model. Under this framework we leverage large monolingual corpora to improve the NAR models performance with the goal of transferring the AR models generalization ability while preventing overfitting. On top of a strong NAR baseline our experimental results on the WMT14 En-De and WMT16 En-Ro news translation tasks confirm that monolingual data augmentation consistently improves the performance of the NAR model to approach the teacher AR models performance yields comparable or better results than the best non-iterative NAR methods in the literature and helps reduce overfitting in the training process.

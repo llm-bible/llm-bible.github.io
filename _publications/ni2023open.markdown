@@ -1,0 +1,12 @@
+---
+layout: publication
+title: "ORES: Open-vocabulary Responsible Visual Synthesis"
+authors: Ni Minheng, Wu Chenfei, Wang Xiaodong, Yin Shengming, Wang Lijuan, Liu Zicheng, Duan Nan
+conference: "Arxiv"
+year: 2023
+bibkey: ni2023open
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2308.13785"}
+tags: ['Merging', 'Pretraining Methods', 'Prompting', 'Tools']
+---
+Avoiding synthesizing specific visual concepts is an essential challenge in responsible visual synthesis. However the visual concept that needs to be avoided for responsible visual synthesis tends to be diverse depending on the region context and usage scenarios. In this work we formalize a new task Open-vocabulary Responsible Visual Synthesis (ORES) where the synthesis model is able to avoid forbidden visual concepts while allowing users to input any desired content. To address this problem we present a Two-stage Intervention (TIN) framework. By introducing 1) rewriting with learnable instruction through a large-scale language model (LLM) and 2) synthesizing with prompt intervention on a diffusion synthesis model it can effectively synthesize images avoiding any concepts but following the users query as much as possible. To evaluate on ORES we provide a publicly available dataset baseline models and benchmark. Experimental results demonstrate the effectiveness of our method in reducing risks of image generation. Our work highlights the potential of LLMs in responsible visual synthesis. Our code and dataset is public available.

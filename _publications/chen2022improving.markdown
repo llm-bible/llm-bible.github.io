@@ -1,0 +1,12 @@
+---
+layout: publication
+title: "Improving In-context Few-shot Learning Via Self-supervised Training"
+authors: Chen Mingda, Du Jingfei, Pasunuru Ramakanth, Mihaylov Todor, Iyer Srini, Stoyanov Veselin, Kozareva Zornitsa
+conference: "Arxiv"
+year: 2022
+bibkey: chen2022improving
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2205.01703"}
+tags: ['Few Shot', 'Pretraining Methods', 'Training Techniques']
+---
+Self-supervised pretraining has made few-shot learning possible for many NLP tasks. But the pretraining objectives are not typically adapted specifically for in-context few-shot learning. In this paper we propose to use self-supervision in an intermediate training stage between pretraining and downstream few-shot usage with the goal to teach the model to perform in-context few shot learning. We propose and evaluate four self-supervised objectives on two benchmarks. We find that the intermediate self-supervision stage produces models that outperform strong baselines. Ablation study shows that several factors affect the downstream performance such as the amount of training data and the diversity of the self-supervised objectives. Human-annotated cross-task supervision and self-supervision are complementary. Qualitative analysis suggests that the self-supervised-trained models are better at following task requirements.

@@ -1,0 +1,13 @@
+---
+layout: publication
+title: "Video-chatgpt: Towards Detailed Video Understanding Via Large Vision And Language Models"
+authors: Maaz Muhammad, Rasheed Hanoona, Khan Salman, Khan Fahad Shahbaz
+conference: "Arxiv"
+year: 2023
+bibkey: maaz2023video
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2306.05424"}
+  - {name: "Code", url: "https://github.com/mbzuai-oryx/Video-ChatGPT"}
+tags: ['Agentic', 'GPT', 'Has Code', 'Model Architecture', 'Multimodal Models', 'Tools']
+---
+Conversation agents fueled by Large Language Models (LLMs) are providing a new way to interact with visual data. While there have been initial attempts for image-based conversation models this work addresses the under-explored field of (emph)video-based conversation by introducing Video-ChatGPT. It is a multimodal model that merges a video-adapted visual encoder with an LLM. The resulting model is capable of understanding and generating detailed conversations about videos. We introduce a new dataset of 100000 video-instruction pairs used to train Video-ChatGPT acquired via manual and semi-automated pipeline that is easily scalable and robust to label noise. We also develop a quantitative evaluation framework for video-based dialogue models to objectively analyze the strengths and weaknesses of video-based dialogue models. Code https://github.com/mbzuai-oryx/Video-ChatGPT."

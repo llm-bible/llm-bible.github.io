@@ -1,0 +1,12 @@
+---
+layout: publication
+title: "Chain Of Empathy: Enhancing Empathetic Response Of Large Language Models Based On Psychotherapy Models"
+authors: Lee Yoon Kyung, Lee Inju, Shin Minjung, Bae Seoyeon, Hahn Sowon
+conference: "Korean Journal of Cognitive Science."
+year: 2023
+bibkey: lee2023chain
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2311.04915"}
+tags: ['Applications', 'Fine Tuning', 'Prompting']
+---
+We present a novel method the Chain of Empathy (CoE) prompting that utilizes insights from psychotherapy to induce Large Language Models (LLMs) to reason about human emotional states. This method is inspired by various psychotherapy approaches including Cognitive Behavioral Therapy (CBT) Dialectical Behavior Therapy (DBT) Person Centered Therapy (PCT) and Reality Therapy (RT) each leading to different patterns of interpreting clients mental states. LLMs without reasoning generated predominantly exploratory responses. However when LLMs used CoE reasoning we found a more comprehensive range of empathetic responses aligned with the different reasoning patterns of each psychotherapy model. The CBT based CoE resulted in the most balanced generation of empathetic responses. The findings underscore the importance of understanding the emotional context and how it affects human and AI communication. Our research contributes to understanding how psychotherapeutic models can be incorporated into LLMs facilitating the development of context-specific safer and empathetic AI.

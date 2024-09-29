@@ -1,0 +1,12 @@
+---
+layout: publication
+title: "Ouroboros: Generating Longer Drafts Phrase By Phrase For Faster Speculative Decoding"
+authors: Zhao Weilin, Huang Yuxiang, Han Xu, Xu Wang, Xiao Chaojun, Zhang Xinrong, Fang Yewei, Zhang Kaihuo, Liu Zhiyuan, Sun Maosong
+conference: "Arxiv"
+year: 2024
+bibkey: zhao2024generating
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2402.13720"}
+tags: ['Applications', 'Efficiency And Optimization', 'Fine Tuning', 'Language Modeling', 'Pretraining Methods', 'Tools', 'Training Techniques']
+---
+Speculative decoding is a widely used method that accelerates the generation process of large language models (LLMs) with no compromise in model performance. It achieves this goal by using an existing smaller model for drafting and then employing the target LLM to verify the draft in a low-cost parallel manner. Under such a drafting-verification framework drafting efficiency has become a bottleneck in the final speedup of speculative decoding. Therefore generating longer drafts at less cost can lead to better decoding speedup. To achieve this we introduce Ouroboros which can generate draft phrases to parallelize the drafting process and meanwhile lengthen drafts in a training-free manner. The experimental results on various typical text generation tasks show that Ouroboros can achieve speedups of up to 2.4(times) over speculative decoding and 3.9(times) over vanilla decoding without fine-tuning draft and target models.

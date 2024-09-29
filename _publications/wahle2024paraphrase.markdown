@@ -1,0 +1,12 @@
+---
+layout: publication
+title: "Paraphrase Types Elicit Prompt Engineering Capabilities"
+authors: Wahle Jan Philip, Ruas Terry, Xu Yang, Gipp Bela
+conference: "Arxiv"
+year: 2024
+bibkey: wahle2024paraphrase
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.19898"}
+tags: ['Prompting', 'Training Techniques']
+---
+Much of the success of modern language models depends on finding a suitable prompt to instruct the model. Until now it has been largely unknown how variations in the linguistic expression of prompts affect these models. This study systematically and empirically evaluates which linguistic features influence models through paraphrase types i.e. different linguistic changes at particular positions. We measure behavioral changes for five models across 120 tasks and six families of paraphrases (i.e. morphology syntax lexicon lexico-syntax discourse and others). We also control for other prompt engineering factors (e.g. prompt length lexical diversity and proximity to training data). Our results show a potential for language models to improve tasks when their prompts are adapted in specific paraphrase types (e.g. 6.737; median gain in Mixtral 8x7B; 5.537; in LLaMA 3 8B). In particular changes in morphology and lexicon i.e. the vocabulary used showed promise in improving prompts. These findings contribute to developing more robust language models capable of handling variability in linguistic expression.

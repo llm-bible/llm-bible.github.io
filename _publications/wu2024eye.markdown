@@ -1,0 +1,12 @@
+---
+layout: publication
+title: "Mind's Eye Of Llms: Visualization-of-thought Elicits Spatial Reasoning In Large Language Models"
+authors: Wu Wenshan, Mao Shaoguang, Zhang Yadong, Xia Yan, Dong Li, Cui Lei, Wei Furu
+conference: "Arxiv"
+year: 2024
+bibkey: wu2024eye
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2404.03622"}
+tags: ['Multimodal Models', 'Prompting', 'Reinforcement Learning']
+---
+Large language models (LLMs) have exhibited impressive performance in language comprehension and various reasoning tasks. However their abilities in spatial reasoning a crucial aspect of human cognition remain relatively unexplored. Human possess a remarkable ability to create mental images of unseen objects and actions through a process known as the Minds Eye enabling the imagination of the unseen world. Inspired by this cognitive capacity we propose Visualization-of-Thought (VoT) prompting. VoT aims to elicit spatial reasoning of LLMs by visualizing their reasoning traces thereby guiding subsequent reasoning steps. We employed VoT for multi-hop spatial reasoning tasks including natural language navigation visual navigation and visual tiling in 2D grid worlds. Experimental results demonstrated that VoT significantly enhances the spatial reasoning abilities of LLMs. Notably VoT outperformed existing multimodal large language models (MLLMs) in these tasks. While VoT works surprisingly well on LLMs the ability to generate mental images to facilitate spatial reasoning resembles the minds eye process suggesting its potential viability in MLLMs.

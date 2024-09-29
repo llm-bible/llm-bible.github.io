@@ -1,0 +1,13 @@
+---
+layout: publication
+title: "Living In The Moment: Can Large Language Models Grasp Co-temporal Reasoning?"
+authors: Su Zhaochen, Li Juntao, Zhang Jun, Zhu Tong, Qu Xiaoye, Zhou Pan, Bowen Yan, Cheng Yu, Zhang Min
+conference: "Arxiv"
+year: 2024
+bibkey: su2024living
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.09072"}
+  - {name: "Code", url: "https://github.com/zhaochen0110/Cotempqa"}
+tags: ['Applications', 'Fine Tuning', 'Has Code', 'RAG', 'Reinforcement Learning']
+---
+Temporal reasoning is fundamental for large language models (LLMs) to comprehend the world. Current temporal reasoning datasets are limited to questions about single or isolated events falling short in mirroring the realistic temporal characteristics involving concurrent nature and intricate temporal interconnections. In this paper we introduce CoTempQA a comprehensive co-temporal Question Answering (QA) benchmark containing four co-temporal scenarios (Equal Overlap During Mix) with 4748 samples for evaluating the co-temporal comprehension and reasoning abilities of LLMs. Our extensive experiments reveal a significant gap between the performance of current LLMs and human-level reasoning on CoTempQA tasks. Even when enhanced with Chain of Thought (CoT) methodologies models consistently struggle with our task. In our preliminary exploration we discovered that mathematical reasoning plays a significant role in handling co-temporal events and proposed a strategy to boost LLMs co-temporal reasoning from a mathematical perspective. We hope that our CoTempQA datasets will encourage further advancements in improving the co-temporal reasoning capabilities of LLMs. Our code is available at https://github.com/zhaochen0110/Cotempqa."

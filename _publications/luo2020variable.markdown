@@ -1,0 +1,12 @@
+---
+layout: publication
+title: "VECO: Variable And Flexible Cross-lingual Pre-training For Language Understanding And Generation"
+authors: Luo Fuli, Wang Wei, Liu Jiahao, Liu Yijia, Bi Bin, Huang Songfang, Huang Fei, Si Luo
+conference: "Arxiv"
+year: 2020
+bibkey: luo2020variable
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2010.16046"}
+tags: ['Applications', 'Attention Mechanism', 'Fine Tuning', 'Model Architecture', 'Pretraining Methods', 'RAG', 'Training Techniques', 'Transformer']
+---
+Existing work in multilingual pretraining has demonstrated the potential of cross-lingual transferability by training a unified Transformer encoder for multiple languages. However much of this work only relies on the shared vocabulary and bilingual contexts to encourage the correlation across languages which is loose and implicit for aligning the contextual representations between languages. In this paper we plug a cross-attention module into the Transformer encoder to explicitly build the interdependence between languages. It can effectively avoid the degeneration of predicting masked words only conditioned on the context in its own language. More importantly when fine-tuning on downstream tasks the cross-attention module can be plugged in or out on-demand thus naturally benefiting a wider range of cross-lingual tasks from language understanding to generation. As a result the proposed cross-lingual model delivers new state-of-the-art results on various cross-lingual understanding tasks of the XTREME benchmark covering text classification sequence labeling question answering and sentence retrieval. For cross-lingual generation tasks it also outperforms all existing cross-lingual models and state-of-the-art Transformer variants on WMT14 English-to-German and English-to-French translation datasets with gains of up to 1~2 BLEU.

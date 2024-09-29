@@ -1,0 +1,12 @@
+---
+layout: publication
+title: "Surprising Efficacy Of Fine-tuned Transformers For Fact-checking Over Larger Language Models"
+authors: Setty Vinay
+conference: "Arxiv"
+year: 2024
+bibkey: setty2024surprising
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2402.12147"}
+tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Reinforcement Learning', 'Training Techniques', 'Transformer']
+---
+In this paper we explore the challenges associated with establishing an end-to-end fact-checking pipeline in a real-world context covering over 90 languages. Our real-world experimental benchmarks demonstrate that fine-tuning Transformer models specifically for fact-checking tasks such as claim detection and veracity prediction provide superior performance over large language models (LLMs) like GPT-4 GPT-3.5-Turbo and Mistral-7b. However we illustrate that LLMs excel in generative tasks such as question decomposition for evidence retrieval. Through extensive evaluation we show the efficacy of fine-tuned models for fact-checking in a multilingual setting and complex claims that include numerical quantities.

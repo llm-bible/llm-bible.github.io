@@ -1,0 +1,12 @@
+---
+layout: publication
+title: "Dolphcoder: Echo-locating Code Large Language Models With Diverse And Multi-objective Instruction Tuning"
+authors: Wang Yejie, He Keqing, Dong Guanting, Wang Pei, Zeng Weihao, Diao Muxi, Mou Yutao, Zhang Mengdi, Wang Jingang, Cai Xunliang, Xu Weiran
+conference: "Arxiv"
+year: 2024
+bibkey: wang2024echo
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2402.09136"}
+tags: ['Applications']
+---
+Code Large Language Models (Code LLMs) have demonstrated outstanding performance in code-related tasks. Several instruction tuning approaches have been proposed to boost the code generation performance of pre-trained Code LLMs. In this paper we introduce a diverse instruction model (DolphCoder) with self-evaluating for code generation. It learns diverse instruction targets and combines a code evaluation objective to enhance its code generation ability. Our model achieves superior performance on the HumanEval and MBPP benchmarks demonstrating new insights for future code instruction tuning work. Our key findings are (1) Augmenting more diverse responses with distinct reasoning paths increases the code capability of LLMs. (2) Improving ones ability to evaluate the correctness of code solutions also enhances their ability to create it.

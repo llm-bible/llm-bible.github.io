@@ -1,0 +1,12 @@
+---
+layout: publication
+title: "Unveiling Imitation Learning: Exploring The Impact Of Data Falsity To Large Language Model"
+authors: Cho Hyunsoo
+conference: "Arxiv"
+year: 2024
+bibkey: cho2024unveiling
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2404.09717"}
+tags: ['GPT', 'Model Architecture', 'Pretraining Methods', 'Training Techniques']
+---
+Many recent studies endeavor to improve open-source language models through imitation learning and re-training on the synthetic instruction data from state-of-the-art proprietary models like ChatGPT and GPT-4. However the innate nature of synthetic data inherently contains noisy data giving rise to a substantial presence of low-quality data replete with erroneous responses and flawed reasoning. Although we intuitively grasp the potential harm of noisy data we lack a quantitative understanding of its impact. To this end this paper explores the correlation between the degree of noise and its impact on language models through instruction tuning. We first introduce the Falsity-Controllable (FACO) dataset which comprises pairs of true answers with corresponding reasoning as well as false pairs to manually control the falsity ratio of the dataset.Through our extensive experiments we found multiple intriguing findings of the correlation between the factuality of the dataset and instruction tuning Specifically we verified falsity of the instruction is highly relevant to various benchmark scores. Moreover when LLMs are trained with false instructions they learn to lie and generate fake unfaithful answers even though they know the correct answer for the user request. Additionally we noted that once the language model is trained with a dataset contaminated by noise restoring its original performance is possible but it failed to reach full performance.

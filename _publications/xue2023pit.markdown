@@ -1,0 +1,12 @@
+---
+layout: publication
+title: "Pit One Against Many: Leveraging Attention-head Embeddings For Parameter-efficient Multi-head Attention"
+authors: Xue Huiyin, Aletras Nikolaos
+conference: "Arxiv"
+year: 2023
+bibkey: xue2023pit
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.07911"}
+tags: ['Attention Mechanism', 'Model Architecture', 'Pretraining Methods', 'RAG', 'Transformer']
+---
+Scaling pre-trained language models has resulted in large performance gains in various natural language processing tasks but comes with a large cost in memory requirements. Inspired by the position embeddings in transformers we aim to simplify and reduce the memory footprint of the multi-head attention (MHA) mechanism. We propose an alternative module that uses only a single shared projection matrix and multiple head embeddings (MHE) i.e. one per head. We empirically demonstrate that our MHE attention is substantially more memory efficient compared to alternative attention mechanisms while achieving high predictive performance retention ratio to vanilla MHA on several downstream tasks. MHE attention only requires a negligible fraction of additional parameters (3nd where n is the number of attention heads and d the size of the head embeddings) compared to a single-head attention while MHA requires (3n^2-3n)d^2-3nd additional parameters.

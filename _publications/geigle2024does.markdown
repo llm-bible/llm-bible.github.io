@@ -1,0 +1,12 @@
+---
+layout: publication
+title: "Does Object Grounding Really Reduce Hallucination Of Large Vision-language Models?"
+authors: Geigle Gregor, Timofte Radu, Glavaš Goran
+conference: "Arxiv"
+year: 2024
+bibkey: geigle2024does
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.14492"}
+tags: ['Applications', 'Multimodal Models', 'TACL', 'Training Techniques']
+---
+Large vision-language models (LVLMs) have recently dramatically pushed the state of the art in image captioning and many image understanding tasks (e.g. visual question answering). LVLMs however often (textithallucinate) and produce captions that mention concepts that cannot be found in the image. These hallucinations erode the trustworthiness of LVLMs and are arguably among the main obstacles to their ubiquitous adoption. Recent work suggests that addition of grounding objectives -- those that explicitly align image regions or objects to text spans -- reduces the amount of LVLM hallucination. Although intuitive this claim is not empirically justified as the reduction effects have been established we argue with flawed evaluation protocols that (i) rely on data (i.e. MSCOCO) that has been extensively used in LVLM training and (ii) measure hallucination via question answering rather than open-ended caption generation. In this work in contrast we offer the first systematic analysis of the effect of fine-grained object grounding on LVLM hallucination under an evaluation protocol that more realistically captures LVLM hallucination in open generation. Our extensive experiments over three backbone LLMs reveal that grounding objectives have little to no effect on object hallucination in open caption generation.

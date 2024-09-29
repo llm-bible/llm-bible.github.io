@@ -1,0 +1,12 @@
+---
+layout: publication
+title: "Timechara: Evaluating Point-in-time Character Hallucination Of Role-playing Large Language Models"
+authors: Ahn Jaewoo, Lee Taehyun, Lim Junyoung, Kim Jin-hwa, Yun Sangdoo, Lee Hwaran, Kim Gunhee
+conference: "Arxiv"
+year: 2024
+bibkey: ahn2024evaluating
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2405.18027"}
+tags: ['Agentic', 'Ethics And Bias', 'GPT', 'Model Architecture']
+---
+While Large Language Models (LLMs) can serve as agents to simulate human behaviors (i.e. role-playing agents) we emphasize the importance of point-in-time role-playing. This situates characters at specific moments in the narrative progression for three main reasons (i) enhancing users narrative immersion (ii) avoiding spoilers and (iii) fostering engagement in fandom role-playing. To accurately represent characters at specific time points agents must avoid character hallucination where they display knowledge that contradicts their characters identities and historical timelines. We introduce TimeChara a new benchmark designed to evaluate point-in-time character hallucination in role-playing LLMs. Comprising 10895 instances generated through an automated pipeline this benchmark reveals significant hallucination issues in current state-of-the-art LLMs (e.g. GPT-4o). To counter this challenge we propose Narrative-Experts a method that decomposes the reasoning steps and utilizes narrative experts to reduce point-in-time character hallucinations effectively. Still our findings with TimeChara highlight the ongoing challenges of point-in-time character hallucination calling for further study.

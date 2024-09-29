@@ -1,0 +1,12 @@
+---
+layout: publication
+title: "Improving Zero-shot Reader By Reducing Distractions From Irrelevant Documents In Open-domain Question Answering"
+authors: Cho Sukmin, Seo Jeongyeon, Jeong Soyeong, Park Jong C.
+conference: "Arxiv"
+year: 2023
+bibkey: cho2023improving
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.17490"}
+tags: ['Applications', 'Training Techniques']
+---
+Large language models (LLMs) enable zero-shot approaches in open-domain question answering (ODQA) yet with limited advancements as the reader is compared to the retriever. This study aims at the feasibility of a zero-shot reader that addresses the challenges of computational cost and the need for labeled data. We find that LLMs are distracted due to irrelevant documents in the retrieved set and the overconfidence of the generated answers when they are exploited as zero-shot readers. To tackle these problems we mitigate the impact of such documents via Distraction-aware Answer Selection (DAS) with a negation-based instruction and score adjustment for proper answer selection. Experimental results show that our approach successfully handles distraction across diverse scenarios enhancing the performance of zero-shot readers. Furthermore unlike supervised readers struggling with unseen data zero-shot readers demonstrate outstanding transferability without any training.

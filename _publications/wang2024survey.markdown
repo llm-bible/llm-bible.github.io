@@ -1,0 +1,12 @@
+---
+layout: publication
+title: "A Survey For Large Language Models In Biomedicine"
+authors: Wang Chong, Li Mengyao, He Junjun, Wang Zhongruo, Darzi Erfan, Chen Zan, Ye Jin, Li Tianbin, Su Yanzhou, Ke Jing, Qu Kaili, Li Shuxin, Yu Yi, Liò Pietro, Wang Tianyun, Wang Yu Guang, Shen Yiqing
+conference: "Arxiv"
+year: 2024
+bibkey: wang2024survey
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2409.00133"}
+tags: ['Applications', 'Ethics And Bias', 'Fine Tuning', 'Interpretability And Explainability', 'Model Architecture', 'Pretraining Methods', 'Reinforcement Learning', 'Responsible AI', 'Survey Paper', 'Training Techniques']
+---
+Recent breakthroughs in large language models (LLMs) offer unprecedented natural language understanding and generation capabilities. However existing surveys on LLMs in biomedicine often focus on specific applications or model architectures lacking a comprehensive analysis that integrates the latest advancements across various biomedical domains. This review based on an analysis of 484 publications sourced from databases including PubMed Web of Science and arXiv provides an in-depth examination of the current landscape applications challenges and prospects of LLMs in biomedicine distinguishing itself by focusing on the practical implications of these models in real-world biomedical contexts. Firstly we explore the capabilities of LLMs in zero-shot learning across a broad spectrum of biomedical tasks including diagnostic assistance drug discovery and personalized medicine among others with insights drawn from 137 key studies. Then we discuss adaptation strategies of LLMs including fine-tuning methods for both uni-modal and multi-modal LLMs to enhance their performance in specialized biomedical contexts where zero-shot fails to achieve such as medical question answering and efficient processing of biomedical literature. Finally we discuss the challenges that LLMs face in the biomedicine domain including data privacy concerns limited model interpretability issues with dataset quality and ethics due to the sensitive nature of biomedical data the need for highly reliable model outputs and the ethical implications of deploying AI in healthcare. To address these challenges we also identify future research directions of LLM in biomedicine including federated learning methods to preserve data privacy and integrating explainable AI methodologies to enhance the transparency of LLMs.

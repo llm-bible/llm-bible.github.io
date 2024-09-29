@@ -1,0 +1,13 @@
+---
+layout: publication
+title: "Multilingual Contrastive Decoding Via Language-agnostic Layers Skipping"
+authors: Zhu Wenhao, Liu Sizhe, Huang Shujian, She Shuaijie, Wendler Chris, Chen Jiajun
+conference: "Arxiv"
+year: 2024
+bibkey: zhu2024multilingual
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2407.10795"}
+  - {name: "Code", url: "https://github.com/NJUNLP/SkipLayerCD"}
+tags: ['Applications', 'Has Code', 'Interpretability And Explainability', 'Reinforcement Learning']
+---
+Decoding by contrasting layers (DoLa) is designed to improve the generation quality of large language models (LLMs) by contrasting the prediction probabilities between an early exit output (amateur logits) and the final output (expert logits). However we find that this approach does not work well on non-English tasks. Inspired by previous interpretability work on language transition during the models forward pass we discover that this issue arises from a language mismatch between early exit output and final output. In this work we propose an improved contrastive decoding algorithm that is effective for diverse languages beyond English. To obtain more helpful amateur logits we devise two strategies to skip a set of bottom language-agnostic layers based on our preliminary analysis. Experimental results on multilingual reasoning benchmarks demonstrate that our proposed method outperforms previous contrastive decoding baselines and substantially improves LLMs chain-of-thought reasoning accuracy across 11 languages. The project will be available at https://github.com/NJUNLP/SkipLayerCD."

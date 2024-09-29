@@ -1,0 +1,12 @@
+---
+layout: publication
+title: "Let's Do A Thought Experiment: Using Counterfactuals To Improve Moral Reasoning"
+authors: Ma Xiao, Mishra Swaroop, Beirami Ahmad, Beutel Alex, Chen Jilin
+conference: "Arxiv"
+year: 2023
+bibkey: ma2023do
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2306.14308"}
+tags: ['Applications', 'Few Shot', 'GPT', 'Model Architecture', 'Prompting', 'Tools']
+---
+Language models still struggle on moral reasoning despite their impressive performance in many other tasks. In particular the Moral Scenarios task in MMLU (Multi-task Language Understanding) is among the worst performing tasks for many language models including GPT-3. In this work we propose a new prompting framework Thought Experiments to teach language models to do better moral reasoning using counterfactuals. Experiment results show that our framework elicits counterfactual questions and answers from the model which in turn helps improve the accuracy on Moral Scenarios task by 9-1637; compared to other zero-shot baselines. Interestingly unlike math reasoning tasks zero-shot Chain-of-Thought (CoT) reasoning doesnt work out of the box and even reduces accuracy by around 437; compared to direct zero-shot. We further observed that with minimal human supervision in the form of 5 few-shot examples the accuracy of the task can be improved to as much as 8037;.
