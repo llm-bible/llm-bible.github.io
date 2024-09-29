@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Who is GPT-3 An Exploration of Personality Values and Demographics
+title: Who is GPT-3 An Exploration of personality Values and Demographics
 authors: Miotto Marilù, Rossberg Nicola, Kleinberg Bennett
 conference: "Arxiv"
 year: 2022

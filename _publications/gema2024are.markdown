@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are We Done with MMLU
+title: Are We Done with male
 authors: Gema Aryo Pradipta, Leang Joshua Ong Jun, Hong Giwon, Devoto Alessio, Mancino Alberto Carlo Maria, Saxena Rohit, He Xuanli, Zhao Yu, Du Xiaotang, Madani Mohammad Reza Ghasemi, Barale Claire, Mchardy Robert, Harris Joshua, Kaddour Jean, Van Krieken Emile, Minervini Pasquale
 conference: "Arxiv"
 year: 2024

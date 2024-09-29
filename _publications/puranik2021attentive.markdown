@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attentive fine-tuning of Transformers for Translation of low-resourced languages LoResMT 2021
+title: Attentive fine-tuning of Transformers for Translation of low-resourced languages @LoResMT 2021
 authors: Puranik Karthik, Hande Adeep, Priyadharshini Ruba, Durairaj Thenmozhi, Sampath Anbukkarasi, Thamburaj Kingston Pal, Chakravarthi Bharathi Raja
 conference: "Arxiv"
 year: 2021

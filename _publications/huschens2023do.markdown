@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do You Trust ChatGPT -- Perceived Credibility of Human and AI-Generated Content
+title: Do You Trust catgut i Perceived Credibility of Human and AI-Generated Content
 authors: Huschens Martin, Briesch Martin, Sobania Dominik, Rothlauf Franz
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: John is 50 years old can his son be 65 Evaluating NLP Models Understanding of Feasibility
+title: john is 50 years old can his son be 65 Evaluating nap models Understanding of Feasibility
 authors: Gupta Himanshu, Varshney Neeraj, Mishra Swaroop, Pal Kuntal Kumar, Sawant Saurabh Arjun, Scaria Kevin, Goyal Siddharth, Baral Chitta
 conference: "Arxiv"
 year: 2022

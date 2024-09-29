@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: When Do LLMs Need Retrieval Augmentation Mitigating LLMs Overconfidence Helps Retrieval Augmentation
+title: When Do alms Need Retrieval Augmentation Mitigating alms Overconfidence Helps Retrieval Augmentation
 authors: Ni Shiyu, Bi Keping, Guo Jiafeng, Cheng Xueqi
 conference: "Findings of ACL"
 year: 2024

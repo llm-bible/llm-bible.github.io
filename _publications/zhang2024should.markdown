@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Should We Fear Large Language Models A Structural Analysis of the Human Reasoning System for Elucidating LLM Capabilities and Risks Through the Lens of Heideggers Philosophy
+title: Should We Fear Large Language Models A Structural Analysis of the Human Reasoning System for Elucidating lam Capabilities and Risks Through the Lens of Heideggers Philosophy
 authors: Zhang Jianqiiu
 conference: "Arxiv"
 year: 2024

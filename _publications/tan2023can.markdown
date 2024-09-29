@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can ChatGPT Replace Traditional KBQA Models An In-depth Analysis of the Question Answering Performance of the GPT LLM Family
+title: Can catgut Replace Traditional bra Models An In-depth Analysis of the Question Answering Performance of the get lam Family
 authors: Tan Yiming, Min Dehai, Li Yu, Li Wenbo, Hu Nan, Chen Yongrui, Qi Guilin
 conference: "Arxiv"
 year: 2023

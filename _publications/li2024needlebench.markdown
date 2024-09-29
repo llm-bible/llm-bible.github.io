@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: NeedleBench Can LLMs Do Retrieval and Reasoning in 1 Million Context Window
+title: NeedleBench Can alms Do Retrieval and Reasoning in 1 Million Context Window
 authors: Li Mo, Zhang Songyang, Liu Yunxin, Chen Kai
 conference: "Arxiv"
 year: 2024

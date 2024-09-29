@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cleared for Takeoff Compositional Conditional Reasoning may be the Achilles Heel to (Flight-Booking) Language Agents
+title: Cleared for Takeoff Compositional Conditional Reasoning may be the chilled Heel to (Flight-Booking) Language Agents
 authors: Kohli Harsh, Sun Huan
 conference: "Arxiv"
 year: 2024

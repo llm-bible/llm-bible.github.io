@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Transformer Models Measure Coherence In Text Re-Thinking the Shuffle Test
+title: Can Transformer Models Measure Coherence In Text rethinking the Shuffle Test
 authors: Laban Philippe, Dai Luke, Bandarkar Lucas, Hearst Marti A.
 conference: "Association for Computational Linguistics"
 year: 2021

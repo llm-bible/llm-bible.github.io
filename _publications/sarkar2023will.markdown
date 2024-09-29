@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Will Code Remain a Relevant User Interface for End-User Programming with Generative AI Models
+title: Will Code Remain a Relevant User Interface for endorser Programming with Generative AI Models
 authors: Sarkar Advait
 conference: "Proceedings of the"
 year: 2023

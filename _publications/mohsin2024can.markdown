@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can We Trust Large Language Models Generated Code A Framework for In-Context Learning Security Patterns and Code Evaluations Across Diverse LLMs
+title: Can We Trust Large Language Models Generated Code A Framework for In-Context learning Security patterns and Code Evaluations Across Diverse alms
 authors: Mohsin Ahmad, Janicke Helge, Wood Adrian, Sarker Iqbal H., Maglaras Leandros, Janjua Naeem
 conference: "Arxiv"
 year: 2024

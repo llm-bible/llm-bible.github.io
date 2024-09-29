@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is ChatGPT better than Human Annotators Potential and Limitations of ChatGPT in Explaining Implicit Hate Speech
+title: Is catgut better than Human Annotators Potential and Limitations of catgut in Explaining Implicit Hate Speech
 authors: Huang Fan, Kwak Haewoon, An Jisun
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can LLMs perform structured graph reasoning
+title: Can alms perform structured graph reasoning
 authors: Agrawal Palaash, Vasania Shavak, Tan Cheston
 conference: "Arxiv"
 year: 2024

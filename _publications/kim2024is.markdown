@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is GPT-4 Alone Sufficient for Automated Essay Scoring A Comparative Judgment Approach Based on Rater Cognition
+title: Is GPT-4 Alone Sufficient for Automated Essay scoring A Comparative Judgment Approach Based on Rater Cognition
 authors: Kim Seungju, Jo Meounggun
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What do MLLMs hear Examining reasoning with text and sound components in Multimodal Large Language Models
+title: What do miles hear Examining reasoning with text and sound components in multivocal Large Language Models
 authors: Çoban Enis Berk, Mandel Michael I., Devaney Johanna
 conference: "Arxiv"
 year: 2024

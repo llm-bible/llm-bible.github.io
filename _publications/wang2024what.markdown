@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What is the Best Way for ChatGPT to Translate Poetry
+title: What is the Best Way for catgut to Translate Poetry
 authors: Wang Shanshan, Wong Derek F., Yao Jingming, Chao Lidia S.
 conference: "Arxiv"
 year: 2024

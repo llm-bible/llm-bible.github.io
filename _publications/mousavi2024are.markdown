@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are LLMs Robust for Spoken Dialogues
+title: Are alms Robust for Spoken Dialogues
 authors: Mousavi Seyed Mahed, Roccabruna Gabriel, Alghisi Simone, Rizzoli Massimo, Ravanelli Mirco, Riccardi Giuseppe
 conference: "Arxiv"
 year: 2024

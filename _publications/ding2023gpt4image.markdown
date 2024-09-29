@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GPT4Image Can Large Pre-trained Models Help Vision Models on Perception Tasks
+title: GPT4Image Can Large restrained Models Help Vision Models on Perception Tasks
 authors: Ning Ding, Yehui Tang, Zhongqian Fu, Chao Xu, Kai Han, Yunhe Wang
 conference: "Arxiv"
 year: 2023

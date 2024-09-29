@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Could We Have Had Better Multilingual LLMs If English Was Not the Central Language
+title: Could We Have Had Better Multilingual alms If English Was Not the Central Language
 authors: Diandaru Ryandito, Susanto Lucky, Tang Zilu, Purwarianti Ayu, Wijaya Derry
 conference: "Arxiv"
 year: 2024

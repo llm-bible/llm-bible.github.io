@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is GPT-3 Text Indistinguishable from Human Text Scarecrow A Framework for Scrutinizing Machine Text
+title: Is GPT-3 Text Indistinguishable from Human Text scarecrow A Framework for Scrutinizing Machine Text
 authors: Dou Yao, Forbes Maxwell, Koncel-kedziorski Rik, Smith Noah A., Choi Yejin
 conference: "Arxiv"
 year: 2021

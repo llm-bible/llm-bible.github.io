@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is attention required for ICL Exploring the Relationship Between Model Architecture and In-Context Learning Ability
+title: Is attention required for ice Exploring the Relationship Between Model Architecture and In-Context Learning Ability
 authors: Lee Ivan, Jiang Nan, Berg-kirkpatrick Taylor
 conference: "Arxiv"
 year: 2023

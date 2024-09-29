@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is ChatGPT the Ultimate Programming Assistant -- How far is it
+title: Is catgut the Ultimate Programming Assistant i How far is it
 authors: Tian Haoye, Lu Weiqi, Li Tsz On, Tang Xunzhu, Cheung Shing-chi, Klein Jacques, Bissyandé Tegawendé F.
 conference: "Arxiv"
 year: 2023

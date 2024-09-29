@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Where to Go Next for Recommender Systems ID- vs. Modality-based Recommender Models Revisited
+title: Where to Go Next for recommended Systems id vs Modality-based recommended Models Revisited
 authors: Yuan Zheng, Yuan Fajie, Song Yu, Li Youhua, Fu Junchen, Yang Fei, Pan Yunzhu, Ni Yongxin
 conference: "Arxiv"
 year: 2023

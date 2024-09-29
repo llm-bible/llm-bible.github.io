@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Remarkable Robustness of LLMs Stages of Inference
+title: The Remarkable Robustness of alms Stages of Inference
 authors: Lad Vedang, Gurnee Wes, Tegmark Max
 conference: "Arxiv"
 year: 2024

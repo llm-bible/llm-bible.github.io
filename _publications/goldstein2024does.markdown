@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Does ChatGPT Have a Mind
+title: Does catgut Have a Mind
 authors: Goldstein Simon, Levinstein Benjamin A.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Blinded by Generated Contexts How Language Models Merge Generated and Retrieved Contexts When Knowledge Conflicts
+title: Blinded by Generated contexts How Language Models Merge Generated and Retrieved Contexts When Knowledge Conflicts
 authors: Tan Hexiang, Sun Fei, Yang Wanli, Wang Yuanzhuo, Cao Qi, Cheng Xueqi
 conference: "Arxiv"
 year: 2024

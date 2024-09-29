@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can ChatGPT be Your Personal Medical Assistant
+title: Can catgut be Your Personal Medical Assistant
 authors: Biswas Md. Rafiul, Islam Ashhadul, Shah Zubair, Zaghouani Wajdi, Belhaouari Samir Brahim
 conference: "The International Symposium on Foundation and Large Language Models"
 year: 2023

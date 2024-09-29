@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Too Late to Train Too Early To Use A Study on Necessity and Viability of Low-Resource Bengali LLMs
+title: Too Late to train Too Early To Use A Study on Necessity and Viability of Low-Resource bengaline alms
 authors: Mahfuz Tamzeed, Dey Satak Kumar, Naswan Ruwad, Adil Hasnaen, Sayeed Khondker Salman, Shahgir Haz Sameen
 conference: "Arxiv"
 year: 2024

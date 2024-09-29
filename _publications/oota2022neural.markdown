@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Neural Language Taskonomy Which NLP Tasks are the most Predictive of fMRI Brain Activity
+title: Neural Language Taskonomy Which nap Tasks are the most Predictive of for Brain Activity
 authors: Oota Subba Reddy, Arora Jashn, Agarwal Veeral, Marreddy Mounika, Gupta Manish, Surampudi Bapi Raju
 conference: "Arxiv"
 year: 2022

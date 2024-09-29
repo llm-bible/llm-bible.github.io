@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can ChatGPT Make Explanatory Inferences Benchmarks for Abductive Reasoning
+title: Can catgut Make Explanatory Inferences Benchmarks for abduction Reasoning
 authors: Thagard Paul
 conference: "Arxiv"
 year: 2024

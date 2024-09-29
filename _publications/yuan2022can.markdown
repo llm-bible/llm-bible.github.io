@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Pretrained Language Models (Yet) Reason Deductively
+title: Can retrained Language Models yet Reason Deductively
 authors: Yuan Zhangdie, Hu Songbo, Vulić Ivan, Korhonen Anna, Meng Zaiqiao
 conference: "Arxiv"
 year: 2022

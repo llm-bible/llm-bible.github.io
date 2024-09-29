@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are Large Vision Language Models up to the Challenge of Chart Comprehension and Reasoning An Extensive Investigation into the Capabilities and Limitations of LVLMs
+title: Are Large Vision Language Models up to the Challenge of Chart Comprehension and Reasoning An Extensive Investigation into the Capabilities and Limitations of films
 authors: Islam Mohammed Saidul, Rahman Raian, Masry Ahmed, Laskar Md Tahmid Rahman, Nayeem Mir Tafseer, Hoque Enamul
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fine-tuning vs Prompting Can Language Models Understand Human Values
+title: Fine-tuning vs prompting Can Language Models Understand Human Values
 authors: Sun Pingwei
 conference: "Arxiv"
 year: 2024

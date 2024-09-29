@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can We Edit Multimodal Large Language Models
+title: Can We Edit multivocal Large Language Models
 authors: Cheng Siyuan, Tian Bozhong, Liu Qingbin, Chen Xi, Wang Yongheng, Chen Huajun, Zhang Ningyu
 conference: "Arxiv"
 year: 2023

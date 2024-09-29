@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are You Sure Challenging LLMs Leads to Performance Drops in The FlipFlop Experiment
+title: Are You Sure Challenging alms Leads to Performance Drops in The slipslop Experiment
 authors: Laban Philippe, Murakhovs'ka Lidiya, Xiong Caiming, Wu Chien-sheng
 conference: "Arxiv"
 year: 2023

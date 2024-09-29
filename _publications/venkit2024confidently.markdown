@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Confidently Nonsensical A Critical Survey on the Perspectives and Challenges of Hallucinations in NLP
+title: confidently Nonsensical A Critical Survey on the Perspectives and Challenges of hallucinations in nap
 authors: Venkit Pranav Narayanan, Chakravorti Tatiana, Gupta Vipul, Biggs Heidi, Srinath Mukund, Goswami Koustava, Rajtmajer Sarah, Wilson Shomir
 conference: "Arxiv"
 year: 2024

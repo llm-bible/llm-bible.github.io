@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can LLM be a Good Path Planner based on Prompt Engineering Mitigating the Hallucination for Path Planning
+title: Can lam be a Good Path Planner based on Prompt Engineering Mitigating the Hallucination for Path Planning
 authors: Deng Hourui, Zhang Hongjie, Ou Jie, Feng Chaosheng
 conference: "Arxiv"
 year: 2024

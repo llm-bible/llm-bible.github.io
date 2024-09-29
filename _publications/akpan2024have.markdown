@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Have We Reached AGI Comparing ChatGPT Claude and Gemini to Human Literacy and Education Benchmarks
+title: Have We Reached ago Comparing ChatGPT clause and remind to Human Literacy and Education Benchmarks
 authors: Akpan Mfon
 conference: "Arxiv"
 year: 2024

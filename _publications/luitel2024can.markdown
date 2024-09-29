@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Perplexity Predict Fine-Tuning Performance An Investigation of Tokenization Effects on Sequential Language Models for Nepali
+title: Can Perplexity Predict Fine-Tuning Performance An Investigation of Tokenization Effects on Sequential Language Models for nepal
 authors: Luitel Nishant, Bekoju Nirajan, Sah Anand Kumar, Shakya Subarna
 conference: "Arxiv"
 year: 2024

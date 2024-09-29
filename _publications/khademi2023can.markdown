@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can ChatGPT and Bard Generate Aligned Assessment Items A Reliability Analysis against Human Performance
+title: Can catgut and Bard Generate Aligned Assessment Items A Reliability Analysis against Human Performance
 authors: Khademi Abdolvahab
 conference: "Journal of Applied Learning and Teaching"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How does the pre-training objective affect what large language models learn about linguistic properties
+title: How does the restraining objective affect what large language models learn about linguistic properties
 authors: Alajrami Ahmed, Aletras Nikolaos
 conference: "Arxiv"
 year: 2022

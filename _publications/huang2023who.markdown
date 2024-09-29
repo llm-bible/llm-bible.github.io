@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Who is ChatGPT Benchmarking LLMs Psychological Portrayal Using PsychoBench
+title: Who is catgut Benchmarking alms Psychological Portrayal Using PsychoBench
 authors: Huang Jen-tse, Wang Wenxuan, Li Eric John, Lam Man Ho, Ren Shujie, Yuan Youliang, Jiao Wenxiang, Tu Zhaopeng, Lyu Michael R.
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vision-and-Language or Vision-for-Language On Cross-Modal Influence in Multimodal Transformers
+title: Vision-and-Language or Vision-for-Language On Cross-Modal Influence in multivocal Transformers
 authors: Frank Stella, Bugliarello Emanuele, Elliott Desmond
 conference: "Arxiv"
 year: 2021

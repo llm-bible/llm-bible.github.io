@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is English the New Programming Language How About Pseudo-code Engineering
+title: Is English the New Programming Language How About pseudoscope Engineering
 authors: Michaelsen Gian Alexandre, Santos Renato P. Dos
 conference: "Acta Sci."
 year: 2024

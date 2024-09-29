@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GlitchBench Can large multimodal models detect video game glitches
+title: GlitchBench Can large multivocal models detect video game glitches
 authors: Taesiri Mohammad Reza, Feng Tianjun, Nguyen Anh, Bezemer Cor-paul
 conference: "Arxiv"
 year: 2023

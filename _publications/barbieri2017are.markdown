@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are Emojis Predictable
+title: Are emesis Predictable
 authors: Barbieri Francesco, Ballesteros Miguel, Saggion Horacio
 conference: "Arxiv"
 year: 2017

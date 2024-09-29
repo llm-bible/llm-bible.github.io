@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Much Data is Enough Data Fine-Tuning Large Language Models for In-House Translation Performance Evaluation Across Multiple Dataset Sizes
+title: How Much Data is Enough Data Fine-Tuning Large Language Models for icehouse translation Performance Evaluation Across Multiple Dataset Sizes
 authors: Vieira Inacio, Allred Will, Lankford Séamus, Castilho Sheila, Way Andy
 conference: "Arxiv"
 year: 2024

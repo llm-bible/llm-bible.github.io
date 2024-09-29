@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Helpful or Harmful Data Fine-tuning-free Shapley Attribution for Explaining Language Model Predictions
+title: Helpful or Harmful Data Fine-tuning-free shapely Attribution for Explaining Language Model Predictions
 authors: Wang Jingtan, Lin Xiaoqiang, Qiao Rui, Foo Chuan-sheng, Low Bryan Kian Hsiang
 conference: "Arxiv"
 year: 2024

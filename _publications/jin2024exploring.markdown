@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Concept Depth How Large Language Models Acquire Knowledge at Different Layers
+title: Exploring Concept depth How Large Language Models Acquire Knowledge at Different Layers
 authors: Jin Mingyu, Yu Qinkai, Huang Jingyuan, Zeng Qingcheng, Wang Zhenting, Hua Wenyue, Zhao Haiyan, Mei Kai, Meng Yanda, Ding Kaize, Yang Fan, Du Mengnan, Zhang Yongfeng
 conference: "Arxiv"
 year: 2024

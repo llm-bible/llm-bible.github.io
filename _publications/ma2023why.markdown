@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: (Why) Is My Prompt Getting Worse Rethinking Regression Testing for Evolving LLM APIs
+title: why Is My Prompt Getting Worse Rethinking Regression Testing for Evolving lam apes
 authors: Ma Wanqin, Yang Chenyang, Kästner Christian
 conference: "Arxiv"
 year: 2023

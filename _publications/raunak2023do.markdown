@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do GPTs Produce Less Literal Translations
+title: Do gets Produce Less Literal Translations
 authors: Raunak Vikas, Menezes Arul, Post Matt, Awadalla Hany Hassan
 conference: "Arxiv"
 year: 2023

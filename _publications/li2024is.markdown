@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is ChatGPT a Better Explainer than My Professor Evaluating the Explanation Capabilities of LLMs in Conversation Compared to a Human Baseline
+title: is catgut a Better Explainer than My professor Evaluating the Explanation Capabilities of alms in Conversation Compared to a Human Baseline
 authors: Li Grace, Alshomary Milad, Muresan Smaranda
 conference: "Arxiv"
 year: 2024

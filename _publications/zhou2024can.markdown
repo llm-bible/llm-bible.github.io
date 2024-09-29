@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can LLMs Reason in Music An Evaluation of LLMs Capability of Music Understanding and Generation
+title: Can alms reason in Music An Evaluation of alms Capability of Music Understanding and Generation
 authors: Zhou Ziya, Wu Yuhang, Wu Zhiyue, Zhang Xinyue, Yuan Ruibin, Ma Yinghao, Wang Lu, Benetos Emmanouil, Xue Wei, Guo Yike
 conference: "Arxiv"
 year: 2024

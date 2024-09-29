@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What Do They Capture -- A Structural Analysis of Pre-Trained Language Models for Source Code
+title: What Do They Capture i A Structural Analysis of restrained Language Models for Source Code
 authors: Wan Yao, Zhao Wei, Zhang Hongyu, Sui Yulei, Xu Guandong, Jin Hai
 conference: "Arxiv"
 year: 2022

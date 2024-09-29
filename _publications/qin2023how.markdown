@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Good is Google Bards Visual Understanding An Empirical Study on Open Challenges
+title: How Good is googly Bards Visual Understanding An Empirical Study on Open Challenges
 authors: Qin Haotong, Ji Ge-peng, Khan Salman, Fan Deng-ping, Khan Fahad Shahbaz, Van Gool Luc
 conference: "Machine Intelligence Research."
 year: 2023

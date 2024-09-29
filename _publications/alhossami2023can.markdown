@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Language Models Employ the Socratic Method Experiments with Code Debugging
+title: Can Language Models Employ the sciatic Method Experiments with Code Debugging
 authors: Al-hossami Erfan, Bunescu Razvan, Smith Justin, Teehan Ryan
 conference: "Arxiv"
 year: 2023

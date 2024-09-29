@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do BERTs Learn to Use Browser User Interface Exploring Multi-Step Tasks with Unified Vision-and-Language BERTs
+title: Do beats Learn to Use Browser User Interface Exploring Multi-Step Tasks with Unified Vision-and-Language beats
 authors: Iki Taichi, Aizawa Akiko
 conference: "Arxiv"
 year: 2022

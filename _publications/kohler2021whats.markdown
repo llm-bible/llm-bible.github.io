@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Whats in a Measurement Using GPT-3 on SemEval 2021 Task 8 -- MeasEval
+title: Whats in a Measurement Using GPT-3 on several 2021 Task 8 i medieval
 authors: Kohler Curt, Daniel Ron Jr
 conference: "Arxiv"
 year: 2021

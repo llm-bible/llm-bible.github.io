@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is the Pope Catholic Yes the Pope is Catholic. Generative Evaluation of Non-Literal Intent Resolution in LLMs
+title: Is the Pope Catholic yes the Pope is catholic Generative Evaluation of Non-Literal Intent Resolution in alms
 authors: Yerukola Akhila, Vaduguru Saujas, Fried Daniel, Sap Maarten
 conference: "Arxiv"
 year: 2024

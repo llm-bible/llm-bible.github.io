@@ -440,7 +440,7 @@
 - {bibkey: golden2023generative, categories: ['Model Architecture']}
 - {bibkey: chwang2023do, categories: ['Model Architecture']}
 - {bibkey: sardana2023beyond, categories: ['Model Architecture']}
-- {bibkey: zhou2024mlps, categories: ['Model Architecture']}
+- {bibkey: zhou2024maps, categories: ['Model Architecture']}
 - {bibkey: zheng2024exploring, categories: ['Model Architecture']}
 - {bibkey: wu2024llama, categories: ['Model Architecture']}
 - {bibkey: arcan2024assessment, categories: ['Model Architecture']}
@@ -798,7 +798,7 @@
 - {bibkey: raunak2019leveraging, categories: ['Applications']}
 - {bibkey: siblini2019multilingual, categories: ['Applications']}
 - {bibkey: mccarley2019structured, categories: ['Applications']}
-- {bibkey: arkhangelskaia2019whatcha, categories: ['Applications']}
+- {bibkey: arkhangelskaia2019watch, categories: ['Applications']}
 - {bibkey: qi2019answering, categories: ['Applications']}
 - {bibkey: bao2019plato, categories: ['Applications']}
 - {bibkey: fisch2019mrqa, categories: ['Applications']}
@@ -912,7 +912,7 @@
 - {bibkey: ye2020contrastive, categories: ['Applications']}
 - {bibkey: schick2020its, categories: ['Applications']}
 - {bibkey: guan2020union, categories: ['Applications']}
-- {bibkey: moussallem2020nabu, categories: ['Applications']}
+- {bibkey: moussallem2020nab, categories: ['Applications']}
 - {bibkey: cho2020x, categories: ['Applications']}
 - {bibkey: liu2020kg, categories: ['Applications']}
 - {bibkey: zheng2020stylized, categories: ['Applications']}
@@ -1009,7 +1009,7 @@
 - {bibkey: vania2021comparing, categories: ['Applications']}
 - {bibkey: zhang2021learning, categories: ['Applications']}
 - {bibkey: xu2021dissecting, categories: ['Applications']}
-- {bibkey: kale2021nmt5, categories: ['Applications']}
+- {bibkey: kale2021not, categories: ['Applications']}
 - {bibkey: gao2021scalable, categories: ['Applications']}
 - {bibkey: baziotis2021exploring, categories: ['Applications']}
 - {bibkey: parthasarathi2021do, categories: ['Applications']}
@@ -1118,7 +1118,7 @@
 - {bibkey: yu2022bilaterally, categories: ['Applications']}
 - {bibkey: aflalo2022vl, categories: ['Applications']}
 - {bibkey: sun2022metaphorical, categories: ['Applications']}
-- {bibkey: bao2022textitlatent, categories: ['Applications']}
+- {bibkey: bao2022glancing, categories: ['Applications']}
 - {bibkey: marceau2022quick, categories: ['Applications']}
 - {bibkey: gupta2022show, categories: ['Applications']}
 - {bibkey: honovich2022true, categories: ['Applications']}
@@ -1434,7 +1434,7 @@
 - {bibkey: cabello2023pokemonchat, categories: ['Applications']}
 - {bibkey: liu2023benchmarking, categories: ['Applications']}
 - {bibkey: karn2023shs, categories: ['Applications']}
-- {bibkey: khan2023q, categories: ['Applications']}
+- {bibkey: khan2023qi, categories: ['Applications']}
 - {bibkey: misra2023triggering, categories: ['Applications']}
 - {bibkey: chung2023increasing, categories: ['Applications']}
 - {bibkey: zhu2023promptrobust, categories: ['Applications']}
@@ -1652,7 +1652,7 @@
 - {bibkey: zhou2023can, categories: ['Applications']}
 - {bibkey: zuo2023incorporating, categories: ['Applications']}
 - {bibkey: chiu2023symbolic, categories: ['Applications']}
-- {bibkey: khatry2023tstmathrmr, categories: ['Applications']}
+- {bibkey: khatry2023tst, categories: ['Applications']}
 - {bibkey: cho2023improving, categories: ['Applications']}
 - {bibkey: vejvar2023aspiro, categories: ['Applications']}
 - {bibkey: lee2023knowledge, categories: ['Applications']}
@@ -2043,7 +2043,7 @@
 - {bibkey: simhi2024constructing, categories: ['Applications']}
 - {bibkey: siddiq2024fault, categories: ['Applications']}
 - {bibkey: khan2024consistency, categories: ['Applications']}
-- {bibkey: wang2024ladic, categories: ['Applications']}
+- {bibkey: wang2024ladies, categories: ['Applications']}
 - {bibkey: wu2024which, categories: ['Applications']}
 - {bibkey: espejel2024low, categories: ['Applications']}
 - {bibkey: hua2024v2xum, categories: ['Applications']}
@@ -2198,6 +2198,7 @@
 - {bibkey: beigi2024internalinspector, categories: ['Applications']}
 - {bibkey: guo2024attention, categories: ['Applications']}
 - {bibkey: mitsui2024pslm, categories: ['Applications']}
+- {bibkey: bhandari2024robustness, categories: ['Applications']}
 - {bibkey: schmidt2024self, categories: ['Applications']}
 - {bibkey: liu2024shield, categories: ['Applications']}
 - {bibkey: wang2024qrmem, categories: ['Applications']}
@@ -2241,7 +2242,7 @@
 - {bibkey: low2024answering, categories: ['Applications']}
 - {bibkey: engländer2024m2qa, categories: ['Applications']}
 - {bibkey: giovannotti2024calibrated, categories: ['Applications']}
-- {bibkey: yuan2024kv, categories: ['Applications']}
+- {bibkey: yuan2024ka, categories: ['Applications']}
 - {bibkey: lu2024bounding, categories: ['Applications']}
 - {bibkey: shang2024end, categories: ['Applications']}
 - {bibkey: kabongo2024effective, categories: ['Applications']}
@@ -2298,6 +2299,7 @@
 - {bibkey: zhou2024shared, categories: ['Applications']}
 - {bibkey: lloret2024towards, categories: ['Applications']}
 - {bibkey: ding2024boosting, categories: ['Applications']}
+- {bibkey: panaitesculiess2024can, categories: ['Applications']}
 - {bibkey: zhao2024i, categories: ['Applications']}
 - {bibkey: ukai2024adacoder, categories: ['Applications']}
 - {bibkey: saba2024llms, categories: ['Applications']}
@@ -2351,7 +2353,7 @@
 - {bibkey: li2024backdoorllm, categories: ['Applications']}
 - {bibkey: du2024internal, categories: ['Applications']}
 - {bibkey: li2024iqa, categories: ['Applications']}
-- {bibkey: wang2024dhp, categories: ['Applications']}
+- {bibkey: wang2024dip, categories: ['Applications']}
 - {bibkey: xu2024evaluating, categories: ['Applications']}
 - {bibkey: du2024evidence, categories: ['Applications']}
 - {bibkey: miyaoka2024cbf, categories: ['Applications']}
@@ -2382,7 +2384,7 @@
 - {bibkey: kour2024exploring, categories: ['Applications']}
 - {bibkey: pantazopoulos2024shaking, categories: ['Applications']}
 - {bibkey: banerjee2024llms, categories: ['Applications']}
-- {bibkey: wang2024mathbbuscd, categories: ['Applications']}
+- {bibkey: wang2024improving, categories: ['Applications']}
 - {bibkey: prakriya2024accelerating, categories: ['Applications']}
 - {bibkey: sridhar2024enhancing, categories: ['Applications']}
 - {bibkey: zhu2024lime, categories: ['Applications']}
@@ -2604,6 +2606,7 @@
 - {bibkey: xiang2024pandora, categories: ['Pretraining Methods']}
 - {bibkey: deshpande2024gnome, categories: ['Pretraining Methods']}
 - {bibkey: piau2024ptt5, categories: ['Pretraining Methods']}
+- {bibkey: deschenaux2024promises, categories: ['Pretraining Methods']}
 - {bibkey: chang2024how, categories: ['Pretraining Methods']}
 - {bibkey: tang2024vilco, categories: ['Pretraining Methods']}
 - {bibkey: li2024amphista, categories: ['Pretraining Methods']}
@@ -2620,7 +2623,6 @@
 - {bibkey: wenyi2024how, categories: ['Pretraining Methods']}
 - {bibkey: zhang2024understanding, categories: ['Pretraining Methods']}
 - {bibkey: antoniades2024generalization, categories: ['Pretraining Methods']}
-- {bibkey: panaitesculiess2024can, categories: ['Pretraining Methods']}
 - {bibkey: fang2024vila2, categories: ['Pretraining Methods']}
 - {bibkey: tan202415, categories: ['Pretraining Methods']}
 - {bibkey: doosterlinck2024anchored, categories: ['Pretraining Methods']}
@@ -2784,7 +2786,6 @@
 - {bibkey: chen2023shikra, categories: ['Multimodal Models']}
 - {bibkey: ganz2023clipag, categories: ['Multimodal Models']}
 - {bibkey: horawalavithana2023scitune, categories: ['Multimodal Models']}
-- {bibkey: zeng2023what, categories: ['Multimodal Models']}
 - {bibkey: zhang2023gpt4roi, categories: ['Multimodal Models']}
 - {bibkey: geigle2023mblip, categories: ['Multimodal Models']}
 - {bibkey: jian2023bootstrapping, categories: ['Multimodal Models']}
@@ -3102,7 +3103,7 @@
 - {bibkey: peng2024dreambench, categories: ['Multimodal Models']}
 - {bibkey: zhao2024mg, categories: ['Multimodal Models']}
 - {bibkey: she2024mammothmoda, categories: ['Multimodal Models']}
-- {bibkey: li2024mmro, categories: ['Multimodal Models']}
+- {bibkey: li2024moron, categories: ['Multimodal Models']}
 - {bibkey: he2024metadesigner, categories: ['Multimodal Models']}
 - {bibkey: li2024llara, categories: ['Multimodal Models']}
 - {bibkey: wu2024curriculum, categories: ['Multimodal Models']}
@@ -3314,7 +3315,7 @@
 - {bibkey: zhong2023can, categories: [94.44444444444444]}
 - {bibkey: zuccon2023dr, categories: [94.44444444444444]}
 - {bibkey: vaghefi2023chatclimate, categories: [94.44444444444444]}
-- {bibkey: shen2023chatgpt, categories: [94.44444444444444]}
+- {bibkey: shen2023catgut, categories: [94.44444444444444]}
 - {bibkey: wijeratne2023better, categories: [94.44444444444444]}
 - {bibkey: zhao2023verify, categories: [94.44444444444444]}
 - {bibkey: schlag2023large, categories: [94.44444444444444]}
@@ -3669,7 +3670,7 @@
 - {bibkey: du2024revisiting, categories: [75.0]}
 - {bibkey: leidinger2024are, categories: [75.0]}
 - {bibkey: chaturvedi2024nebula, categories: [75.0]}
-- {bibkey: bavaresco2024llms, categories: [75.0]}
+- {bibkey: bavaresco2024alms, categories: [75.0]}
 - {bibkey: joshi2024llm, categories: [75.0]}
 - {bibkey: zhang2024cibench, categories: [75.0]}
 - {bibkey: mendonça2024ecoh, categories: [75.0]}
@@ -3690,7 +3691,7 @@
 - {bibkey: he2019exposure, categories: ['Ethics and Bias']}
 - {bibkey: zhang2019recosa, categories: ['Ethics and Bias']}
 - {bibkey: shen2019scene, categories: ['Ethics and Bias']}
-- {bibkey: stahlberg2019nmt, categories: ['Ethics and Bias']}
+- {bibkey: stahlberg2019not, categories: ['Ethics and Bias']}
 - {bibkey: olabiyi2019adversarial, categories: ['Ethics and Bias']}
 - {bibkey: pruthi2019learning, categories: ['Ethics and Bias']}
 - {bibkey: hoover2019exbert, categories: ['Ethics and Bias']}
@@ -3818,7 +3819,7 @@
 - {bibkey: gao2023llama, categories: ['Ethics and Bias']}
 - {bibkey: li2023summarizing, categories: ['Ethics and Bias']}
 - {bibkey: calderon2023systematic, categories: ['Ethics and Bias']}
-- {bibkey: ma2023oops, categories: ['Ethics and Bias']}
+- {bibkey: ma2023hoops, categories: ['Ethics and Bias']}
 - {bibkey: ardeshir2023llm2loss, categories: ['Ethics and Bias']}
 - {bibkey: suri2023do, categories: ['Ethics and Bias']}
 - {bibkey: mikula2023think, categories: ['Ethics and Bias']}
@@ -4123,7 +4124,6 @@
 - {bibkey: vijjini2024exploring, categories: ['Ethics and Bias']}
 - {bibkey: yang2024large, categories: ['Ethics and Bias']}
 - {bibkey: wang2024mfc, categories: ['Ethics and Bias']}
-- {bibkey: deschenaux2024promises, categories: ['Ethics and Bias']}
 - {bibkey: chai2024tokenization, categories: ['Ethics and Bias']}
 - {bibkey: meng2024phybench, categories: ['Ethics and Bias']}
 - {bibkey: ma2024exploring, categories: ['Ethics and Bias']}
@@ -4928,9 +4928,9 @@
 - {bibkey: chronopoulou2023language, categories: ['Fine-Tuning']}
 - {bibkey: mo2023how, categories: ['Fine-Tuning']}
 - {bibkey: ye2023effective, categories: ['Fine-Tuning']}
-- {bibkey: blairstanek2023blt, categories: ['Fine-Tuning']}
+- {bibkey: blairstanek2023can, categories: ['Fine-Tuning']}
 - {bibkey: liu2023examining, categories: ['Fine-Tuning']}
-- {bibkey: razumovskaia2023textitdial, categories: ['Fine-Tuning']}
+- {bibkey: razumovskaia2023improving, categories: ['Fine-Tuning']}
 - {bibkey: pandya2023peft, categories: ['Fine-Tuning']}
 - {bibkey: yao2023knowledge, categories: ['Fine-Tuning']}
 - {bibkey: upadhayay2023taco, categories: ['Fine-Tuning']}
@@ -5493,7 +5493,7 @@
 - {bibkey: su2024investigating, categories: ['Fine-Tuning']}
 - {bibkey: hu2024mitigating, categories: ['Fine-Tuning']}
 - {bibkey: cheng2024small, categories: ['Fine-Tuning']}
-- {bibkey: chen2024textttmoe, categories: ['Fine-Tuning']}
+- {bibkey: chen2024towards, categories: ['Fine-Tuning']}
 - {bibkey: devoto2024simple, categories: ['Fine-Tuning']}
 - {bibkey: xu2024interactive, categories: ['Fine-Tuning']}
 - {bibkey: herold2024lilium, categories: ['Fine-Tuning']}
@@ -5508,7 +5508,7 @@
 - {bibkey: liu2024synthetic, categories: ['Fine-Tuning']}
 - {bibkey: druart2024investigating, categories: ['Fine-Tuning']}
 - {bibkey: koshkin2024llms, categories: ['Fine-Tuning']}
-- {bibkey: wu2024gui, categories: ['Fine-Tuning']}
+- {bibkey: wu2024guy, categories: ['Fine-Tuning']}
 - {bibkey: sawhney2024robust, categories: ['Fine-Tuning']}
 - {bibkey: wadhwa2024investigating, categories: ['Fine-Tuning']}
 - {bibkey: ning2024can, categories: ['Fine-Tuning']}
@@ -6055,7 +6055,6 @@
 - {bibkey: li2023ecomgpt, categories: [83.33333333333334]}
 - {bibkey: rogers2023position, categories: [83.33333333333334]}
 - {bibkey: liu2023robustness, categories: [83.33333333333334]}
-- {bibkey: lei2023boosting, categories: [83.33333333333334]}
 - {bibkey: bhardwaj2023red, categories: [83.33333333333334]}
 - {bibkey: qiao2023march, categories: [83.33333333333334]}
 - {bibkey: hou2023large, categories: [83.33333333333334]}
@@ -6132,6 +6131,7 @@
 - {bibkey: schulhoff2023ignore, categories: [83.33333333333334]}
 - {bibkey: zhou2023avatargpt, categories: [83.33333333333334]}
 - {bibkey: serrano2023language, categories: [83.33333333333334]}
+- {bibkey: guo2023arthmodel, categories: [83.33333333333334]}
 - {bibkey: cao2023unnatural, categories: [83.33333333333334]}
 - {bibkey: lee2023explore, categories: [83.33333333333334]}
 - {bibkey: shanahan2023evaluating, categories: [83.33333333333334]}
@@ -6298,7 +6298,7 @@
 - {bibkey: beyer2024clembench, categories: [83.33333333333334]}
 - {bibkey: li2024evaluating, categories: [83.33333333333334]}
 - {bibkey: lai2024mcot, categories: [83.33333333333334]}
-- {bibkey: roewerdesprés2024textttaccord, categories: [83.33333333333334]}
+- {bibkey: roewerdesprés2024closing, categories: [83.33333333333334]}
 - {bibkey: zhang2024text, categories: [83.33333333333334]}
 - {bibkey: gema2024are, categories: [83.33333333333334]}
 - {bibkey: welivita2024are, categories: [83.33333333333334]}
@@ -6384,7 +6384,6 @@
 - {bibkey: romero2024do, categories: [83.33333333333334]}
 - {bibkey: qiu2024can, categories: [83.33333333333334]}
 - {bibkey: chen2024lower, categories: [83.33333333333334]}
-- {bibkey: chen2024benchmarking, categories: [83.33333333333334]}
 - {bibkey: jiang2024enhancing, categories: [83.33333333333334]}
 - {bibkey: wang2024probing, categories: [83.33333333333334]}
 - {bibkey: qiu2024megen, categories: [83.33333333333334]}
@@ -6426,6 +6425,7 @@
 - {bibkey: pudipeddi2020training, categories: ['Training Techniques']}
 - {bibkey: yang2020just, categories: ['Training Techniques']}
 - {bibkey: li2021terapipe, categories: ['Training Techniques']}
+- {bibkey: zeng2021pangu, categories: ['Training Techniques']}
 - {bibkey: zemlyanskiy2021readtwice, categories: ['Training Techniques']}
 - {bibkey: lamypoirier2021layered, categories: ['Training Techniques']}
 - {bibkey: zhang2021improving, categories: ['Training Techniques']}
@@ -6461,6 +6461,8 @@
 - {bibkey: xu2024accelerating, categories: ['Training Techniques']}
 - {bibkey: shoeybi2019megatron, categories: ['Training Techniques']}
 - {bibkey: rajbhandari2019zero, categories: ['Training Techniques']}
+- {bibkey: zeng2021pangu, categories: ['Training Techniques']}
+- {bibkey: zeng2021pangu, categories: ['Training Techniques']}
 # Reinforcement Learning
 - {bibkey: hu2017reinforced, categories: ['Reinforcement Learning']}
 - {bibkey: miller2017parlai, categories: ['Reinforcement Learning']}
@@ -6720,7 +6722,7 @@
 - {bibkey: nguyen2023enhancing, categories: ['Reinforcement Learning']}
 - {bibkey: goodson2023intention, categories: ['Reinforcement Learning']}
 - {bibkey: zhou2023large, categories: ['Reinforcement Learning']}
-- {bibkey: chen2023chatgpts, categories: ['Reinforcement Learning']}
+- {bibkey: chen2023catguts, categories: ['Reinforcement Learning']}
 - {bibkey: wen2023unveiling, categories: ['Reinforcement Learning']}
 - {bibkey: nath2023reinforcement, categories: ['Reinforcement Learning']}
 - {bibkey: abdulhai2023lmrl, categories: ['Reinforcement Learning']}
@@ -6757,7 +6759,7 @@
 - {bibkey: cao2024beyond, categories: ['Reinforcement Learning']}
 - {bibkey: kong2024prewrite, categories: ['Reinforcement Learning']}
 - {bibkey: luong2024reft, categories: ['Reinforcement Learning']}
-- {bibkey: li2024llms, categories: ['Reinforcement Learning']}
+- {bibkey: li2024alms, categories: ['Reinforcement Learning']}
 - {bibkey: yuan2024self, categories: ['Reinforcement Learning']}
 - {bibkey: wang2024inferaligner, categories: ['Reinforcement Learning']}
 - {bibkey: kassem2024finding, categories: ['Reinforcement Learning']}
@@ -7134,7 +7136,7 @@
 - {bibkey: abdelghani2022gpt, categories: [81.81818181818181]}
 - {bibkey: song2022llm, categories: [81.81818181818181]}
 - {bibkey: wang2022pay, categories: [81.81818181818181]}
-- {bibkey: aumiller2023unihd, categories: [81.81818181818181]}
+- {bibkey: aumiller2023unit, categories: [81.81818181818181]}
 - {bibkey: leszczynski2023talk, categories: [81.81818181818181]}
 - {bibkey: arunkumar2023real, categories: [81.81818181818181]}
 - {bibkey: feng2023sentence, categories: [81.81818181818181]}
@@ -7295,7 +7297,7 @@
 - {bibkey: li2024banishing, categories: [81.81818181818181]}
 - {bibkey: meeus2024inherent, categories: [81.81818181818181]}
 - {bibkey: zhang2024methodology, categories: [81.81818181818181]}
-- {bibkey: masala2024vorbecsti, categories: [81.81818181818181]}
+- {bibkey: masala2024vorbeti, categories: [81.81818181818181]}
 - {bibkey: chen2024bestow, categories: [81.81818181818181]}
 - {bibkey: zhang2024toolbehonest, categories: [81.81818181818181]}
 - {bibkey: yang2024sos, categories: [81.81818181818181]}
@@ -7321,6 +7323,7 @@
 - {bibkey: yang2024report, categories: [81.81818181818181]}
 - {bibkey: kyaw2024framework, categories: [81.81818181818181]}
 - {bibkey: liu2024do, categories: [81.81818181818181]}
+- {bibkey: zheng2024attention, categories: [81.81818181818181]}
 - {bibkey: drori2022from, categories: [81.81818181818181]}
 - {bibkey: drozdov2022compositional, categories: [81.81818181818181]}
 - {bibkey: cheng2022binding, categories: [81.81818181818181]}
@@ -7502,7 +7505,7 @@
 - {bibkey: xiong2024meaningful, categories: ['Interpretability']}
 - {bibkey: chen2024selfie, categories: ['Interpretability']}
 - {bibkey: han2024chain, categories: ['Interpretability']}
-- {bibkey: huang2024chatgpt, categories: ['Interpretability']}
+- {bibkey: huang2024catgut, categories: ['Interpretability']}
 - {bibkey: he2024bp4er, categories: ['Interpretability']}
 - {bibkey: niklaus2024flawn, categories: ['Interpretability']}
 - {bibkey: liu2024delta, categories: ['Interpretability']}
@@ -7737,7 +7740,6 @@
 - {bibkey: yuan2024rhyme, categories: [85.71428571428572]}
 - {bibkey: hu2024slm, categories: [85.71428571428572]}
 - {bibkey: banerjee2024llms, categories: [85.71428571428572]}
-- {bibkey: zheng2024attention, categories: [85.71428571428572]}
 - {bibkey: bhuiya2024seemingly, categories: [85.71428571428572]}
 - {bibkey: chakraborty2024detoxbench, categories: [85.71428571428572]}
 - {bibkey: nastase2024exploring, categories: [85.71428571428572]}
@@ -7756,7 +7758,7 @@
 - {bibkey: li2020optimus, categories: [90.9090909090909]}
 - {bibkey: zhang2020cpm, categories: [90.9090909090909]}
 - {bibkey: zhao2020closer, categories: [90.9090909090909]}
-- {bibkey: yang2021nt5, categories: [90.9090909090909]}
+- {bibkey: yang2021nth, categories: [90.9090909090909]}
 - {bibkey: jiao2021rept, categories: [90.9090909090909]}
 - {bibkey: van2021cheap, categories: [90.9090909090909]}
 - {bibkey: yoran2021turning, categories: [90.9090909090909]}
@@ -7828,6 +7830,7 @@
 - {bibkey: raihan2023mixed, categories: [90.9090909090909]}
 - {bibkey: yang2023baichuan, categories: [90.9090909090909]}
 - {bibkey: samuel2023can, categories: [90.9090909090909]}
+- {bibkey: shen2023large, categories: [90.9090909090909]}
 - {bibkey: hoang2023do, categories: [90.9090909090909]}
 - {bibkey: eldan2023whos, categories: [90.9090909090909]}
 - {bibkey: mirzadeh2023relu, categories: [90.9090909090909]}
@@ -7852,7 +7855,6 @@
 - {bibkey: zhang2023plug, categories: [90.9090909090909]}
 - {bibkey: ivison2023camels, categories: [90.9090909090909]}
 - {bibkey: jha2023limit, categories: [90.9090909090909]}
-- {bibkey: guo2023arthmodel, categories: [90.9090909090909]}
 - {bibkey: aw2023instruction, categories: [90.9090909090909]}
 - {bibkey: yin2023exchange, categories: [90.9090909090909]}
 - {bibkey: li2023e4srec, categories: [90.9090909090909]}
@@ -8010,7 +8012,7 @@
 - {bibkey: hu2022reveal, categories: ['RAG']}
 - {bibkey: dejong2022fido, categories: ['RAG']}
 - {bibkey: ratner2022parallel, categories: ['RAG']}
-- {bibkey: dejong2023pre, categories: ['RAG']}
+- {bibkey: dejong2023precomputed, categories: ['RAG']}
 - {bibkey: shi2023replug, categories: ['RAG']}
 - {bibkey: yang2023re, categories: ['RAG']}
 - {bibkey: aksitov2023characterizing, categories: ['RAG']}
@@ -8242,7 +8244,7 @@
 - {bibkey: su2024sk, categories: ['RAG']}
 - {bibkey: chu2024beamaggr, categories: ['RAG']}
 - {bibkey: kim2024learning, categories: ['RAG']}
-- {bibkey: yang2024textmemory3, categories: ['RAG']}
+- {bibkey: yang20243, categories: ['RAG']}
 - {bibkey: wang2024searching, categories: ['RAG']}
 - {bibkey: chirkova2024retrieval, categories: ['RAG']}
 - {bibkey: yu2024rankrag, categories: ['RAG']}
@@ -8381,7 +8383,7 @@
 - {bibkey: wang2023shepherd, categories: [93.33333333333333]}
 - {bibkey: sumers2023cognitive, categories: [93.33333333333333]}
 - {bibkey: mo2023tree, categories: [93.33333333333333]}
-- {bibkey: lozić2023chatgpt, categories: [93.33333333333333]}
+- {bibkey: lozić2023catgut, categories: [93.33333333333333]}
 - {bibkey: feng2023alphazero, categories: [93.33333333333333]}
 - {bibkey: yue2023large, categories: [93.33333333333333]}
 - {bibkey: shashidhar2023democratizing, categories: [93.33333333333333]}
@@ -8393,7 +8395,7 @@
 - {bibkey: mehrabi2023jab, categories: [93.33333333333333]}
 - {bibkey: farn2023tooltalk, categories: [93.33333333333333]}
 - {bibkey: sheng2023can, categories: [93.33333333333333]}
-- {bibkey: mavrepis2024xai, categories: [93.33333333333333]}
+- {bibkey: mavrepis2024ai, categories: [93.33333333333333]}
 - {bibkey: ryan2024code, categories: [93.33333333333333]}
 - {bibkey: li2024formal, categories: [93.33333333333333]}
 - {bibkey: bonagiri2024measuring, categories: [93.33333333333333]}
@@ -8629,6 +8631,7 @@
 - {bibkey: kong2023better, categories: [80.95238095238095]}
 - {bibkey: lu2023memochat, categories: [80.95238095238095]}
 - {bibkey: sun2023test, categories: [80.95238095238095]}
+- {bibkey: lei2023boosting, categories: [80.95238095238095]}
 - {bibkey: li2023evaluating, categories: [80.95238095238095]}
 - {bibkey: wang2023self, categories: [80.95238095238095]}
 - {bibkey: elaraby2023halo, categories: [80.95238095238095]}
@@ -8800,7 +8803,7 @@
 - {bibkey: wang2023empowering, categories: [80.95238095238095]}
 - {bibkey: huang2023speech, categories: [80.95238095238095]}
 - {bibkey: yoshimaru2023asyncmld, categories: [80.95238095238095]}
-- {bibkey: tseng2023chatgpt, categories: [80.95238095238095]}
+- {bibkey: tseng2023catgut, categories: [80.95238095238095]}
 - {bibkey: chen2023t, categories: [80.95238095238095]}
 - {bibkey: lu2023illuminating, categories: [80.95238095238095]}
 - {bibkey: gulati2023efficacy, categories: [80.95238095238095]}
@@ -8889,7 +8892,7 @@
 - {bibkey: fu2024preact, categories: [80.95238095238095]}
 - {bibkey: wang2024aint, categories: [80.95238095238095]}
 - {bibkey: shao2024extensible, categories: [80.95238095238095]}
-- {bibkey: son2024multi, categories: [80.95238095238095]}
+- {bibkey: son2024multitask, categories: [80.95238095238095]}
 - {bibkey: dhillon2024shaping, categories: [80.95238095238095]}
 - {bibkey: lissak2024colorful, categories: [80.95238095238095]}
 - {bibkey: zhong2024rose, categories: [80.95238095238095]}
@@ -8979,7 +8982,7 @@
 - {bibkey: kim2024evalverse, categories: [80.95238095238095]}
 - {bibkey: seegmiller2024do, categories: [80.95238095238095]}
 - {bibkey: mirza2024are, categories: [80.95238095238095]}
-- {bibkey: juneja2024textttlmtexttt2, categories: [80.95238095238095]}
+- {bibkey: juneja2024simple, categories: [80.95238095238095]}
 - {bibkey: abaskohi2024benchmarking, categories: [80.95238095238095]}
 - {bibkey: gupta2024integrating, categories: [80.95238095238095]}
 - {bibkey: li2024reason, categories: [80.95238095238095]}
@@ -9312,6 +9315,7 @@
 - {bibkey: biggie2023tell, categories: [90.0]}
 - {bibkey: yager2023domain, categories: [90.0]}
 - {bibkey: zhang2023llavar, categories: [90.0]}
+- {bibkey: zeng2023what, categories: [90.0]}
 - {bibkey: bagdasaryan2023abusing, categories: [90.0]}
 - {bibkey: qin2023how, categories: [90.0]}
 - {bibkey: park202315, categories: [90.0]}
@@ -9320,7 +9324,7 @@
 - {bibkey: xuan2023pink, categories: [90.0]}
 - {bibkey: wang2023llm4vis, categories: [90.0]}
 - {bibkey: khaokaew2023zzzgpt, categories: [90.0]}
-- {bibkey: abdessaied2023mathbbvd, categories: [90.0]}
+- {bibkey: abdessaied2023boosting, categories: [90.0]}
 - {bibkey: guo2023pptc, categories: [90.0]}
 - {bibkey: ye2023mplug, categories: [90.0]}
 - {bibkey: xu2023u, categories: [90.0]}
@@ -9421,11 +9425,11 @@
 - {bibkey: neupane2024medinsight, categories: [94.73684210526316]}
 - {bibkey: roychowdhury2024eratta, categories: [94.73684210526316]}
 - {bibkey: afzal2024towards, categories: [94.73684210526316]}
+- {bibkey: chen2024benchmarking, categories: [94.73684210526316]}
 - {bibkey: xiao2024detecting, categories: [94.73684210526316]}
 - {bibkey: xiao2024detecting, categories: [94.73684210526316]}
 # 76.47058823529412
 - {bibkey: digiovanni2020efsg, categories: [76.47058823529412]}
-- {bibkey: wang2023is, categories: [76.47058823529412]}
 # 85.0
 - {bibkey: lester2021power, categories: [85.0]}
 - {bibkey: mehri2022lad, categories: [85.0]}
@@ -9445,7 +9449,6 @@
 - {bibkey: chen2023mixture, categories: [85.0]}
 - {bibkey: lester2021power, categories: [85.0]}
 # Prompting
-- {bibkey: zeng2021pangu, categories: ['Prompting']}
 - {bibkey: sun2021nsp, categories: ['Prompting']}
 - {bibkey: kim2021what, categories: ['Prompting']}
 - {bibkey: wang2021list, categories: ['Prompting']}
@@ -9618,7 +9621,7 @@
 - {bibkey: li2023deliberate, categories: ['Prompting']}
 - {bibkey: zhang2023responsible, categories: ['Prompting']}
 - {bibkey: monajatipoor2023metavl, categories: ['Prompting']}
-- {bibkey: heck2023chatgpt, categories: ['Prompting']}
+- {bibkey: heck2023catgut, categories: ['Prompting']}
 - {bibkey: mysore2023large, categories: ['Prompting']}
 - {bibkey: shi2023prompt, categories: ['Prompting']}
 - {bibkey: wang2023steps, categories: ['Prompting']}
@@ -9792,7 +9795,7 @@
 - {bibkey: pan2023cosmic, categories: ['Prompting']}
 - {bibkey: xiao2023instructed, categories: ['Prompting']}
 - {bibkey: zhao2023exemplars, categories: ['Prompting']}
-- {bibkey: li2023loogle, categories: ['Prompting']}
+- {bibkey: li2023zooglea, categories: ['Prompting']}
 - {bibkey: feng2023language, categories: ['Prompting']}
 - {bibkey: zhou2023llms, categories: ['Prompting']}
 - {bibkey: liu2023vectors, categories: ['Prompting']}
@@ -10016,7 +10019,7 @@
 - {bibkey: raihan2024masontigers, categories: ['Prompting']}
 - {bibkey: shaaban2024medpromptx, categories: ['Prompting']}
 - {bibkey: vöge2024leveraging, categories: ['Prompting']}
-- {bibkey: xu2024textitlinkprompt, categories: ['Prompting']}
+- {bibkey: xu2024natural, categories: ['Prompting']}
 - {bibkey: cahyawijaya2024llms, categories: ['Prompting']}
 - {bibkey: yang2024metaaligner, categories: ['Prompting']}
 - {bibkey: macedo2024exploring, categories: ['Prompting']}
@@ -10144,7 +10147,6 @@
 - {bibkey: iourovitski2024grade, categories: ['Prompting']}
 - {bibkey: borazjanizadeh2024navigating, categories: ['Prompting']}
 - {bibkey: mohsin2024can, categories: ['Prompting']}
-- {bibkey: bhandari2024robustness, categories: ['Prompting']}
 - {bibkey: huang2024generating, categories: ['Prompting']}
 - {bibkey: yang2024can, categories: ['Prompting']}
 - {bibkey: bohnet2024exploring, categories: ['Prompting']}
@@ -10286,11 +10288,9 @@
 - {bibkey: du2021glam, categories: ['Prompting']}
 - {bibkey: tay2022ul2, categories: ['Prompting']}
 - {bibkey: hao2022language, categories: ['Prompting']}
-- {bibkey: zeng2021pangu, categories: ['Prompting']}
 - {bibkey: tay2022ul2, categories: ['Prompting']}
 - {bibkey: kim2021what, categories: ['Prompting']}
 - {bibkey: du2021glam, categories: ['Prompting']}
-- {bibkey: zeng2021pangu, categories: ['Prompting']}
 - {bibkey: tay2022ul2, categories: ['Prompting']}
 - {bibkey: kim2021what, categories: ['Prompting']}
 - {bibkey: du2021glam, categories: ['Prompting']}
@@ -10536,6 +10536,7 @@
 # 72.72727272727273
 - {bibkey: ye2023language, categories: [72.72727272727273]}
 - {bibkey: dejong2023glimmer, categories: [72.72727272727273]}
+- {bibkey: wang2023is, categories: [72.72727272727273]}
 - {bibkey: qiao2022reasoning, categories: [72.72727272727273]}
 # 87.17948717948718
 - {bibkey: saha2023can, categories: [87.17948717948718]}
@@ -10554,8 +10555,6 @@
 # 87.8048780487805
 - {bibkey: luo2023zero, categories: [87.8048780487805]}
 - {bibkey: kim2024small, categories: [87.8048780487805]}
-# 95.45454545454545
-- {bibkey: shen2023large, categories: [95.45454545454545]}
 # 89.28571428571429
 - {bibkey: han2023dialcot, categories: [89.28571428571429]}
 # 82.75862068965517

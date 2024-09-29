@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Easy is It to Fool Your Multimodal LLMs An Empirical Analysis on Deceptive Prompts
+title: How Easy is It to Fool Your multivocal alms An Empirical Analysis on Deceptive Prompts
 authors: Qian Yusu, Zhang Haotian, Yang Yinfei, Gan Zhe
 conference: "Arxiv"
 year: 2024

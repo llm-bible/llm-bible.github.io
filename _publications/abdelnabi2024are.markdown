@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are you still on track! Catching LLM Task Drift with Activations
+title: Are you still on track Catching lam Task Drift with Activations
 authors: Abdelnabi Sahar, Fay Aideen, Cherubin Giovanni, Salem Ahmed, Fritz Mario, Paverd Andrew
 conference: "Arxiv"
 year: 2024

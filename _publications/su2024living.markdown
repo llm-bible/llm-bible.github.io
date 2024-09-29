@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Living in the Moment Can Large Language Models Grasp Co-Temporal Reasoning
+title: Living in the moment Can Large Language Models Grasp nontemporal Reasoning
 authors: Su Zhaochen, Li Juntao, Zhang Jun, Zhu Tong, Qu Xiaoye, Zhou Pan, Bowen Yan, Cheng Yu, Zhang Min
 conference: "Arxiv"
 year: 2024

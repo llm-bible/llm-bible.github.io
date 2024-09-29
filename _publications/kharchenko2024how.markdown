@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Well Do LLMs Represent Values Across Cultures Empirical Analysis of LLM Responses Based on Hofstede Cultural Dimensions
+title: How Well Do alms Represent Values Across Cultures Empirical Analysis of lam Responses Based on hosted Cultural Dimensions
 authors: Kharchenko Julia, Roosta Tanya, Chadha Aman, Shah Chirag
 conference: "Arxiv"
 year: 2024

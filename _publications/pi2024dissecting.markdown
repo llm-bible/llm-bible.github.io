@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dissecting the Ullman Variations with a SCALPEL Why do LLMs fail at Trivial Alterations to the False Belief Task
+title: Dissecting the bellman Variations with a scalpel Why do alms fail at Trivial Alterations to the False Belief Task
 authors: Pi Zhiqiang, Vadaparty Annapurna, Bergen Benjamin K., Jones Cameron R.
 conference: "Arxiv"
 year: 2024

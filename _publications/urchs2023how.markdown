@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Prevalent is Gender Bias in ChatGPT -- Exploring German and English ChatGPT Responses
+title: How Prevalent is Gender Bias in catgut i Exploring German and English catgut Responses
 authors: Urchs Stefanie, Thurner Veronika, Aßenmacher Matthias, Heumann Christian, Thiemichen Stephanie
 conference: "Arxiv"
 year: 2023

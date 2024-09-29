@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Life after BERT What do Other Muppets Understand about Language
+title: Life after berth What do Other puppets Understand about Language
 authors: Lialin Vladislav, Zhao Kevin, Shivagunde Namrata, Rumshisky Anna
 conference: "Proceedings of the"
 year: 2022

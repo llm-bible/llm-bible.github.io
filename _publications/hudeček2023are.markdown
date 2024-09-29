@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are LLMs All You Need for Task-Oriented Dialogue
+title: Are alms All You Need for Task-Oriented Dialogue
 authors: Hudeček Vojtěch, Dušek Ondřej
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Large Language Models Assess Serendipity in Recommender Systems
+title: Can Large Language Models Assess Serendipity in recommended Systems
 authors: Tokutake Yu, Okamoto Kazushi
 conference: "The paper is under consideration at Journal of Advanced Computational Intelligence and Intelligent Informatics Fuji Technology Press"
 year: 2024

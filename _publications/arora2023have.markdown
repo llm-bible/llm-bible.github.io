@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Have LLMs Advanced Enough A Challenging Problem Solving Benchmark For Large Language Models
+title: Have alms Advanced Enough A Challenging Problem Solving Benchmark For Large Language Models
 authors: Arora Daman, Singh Himanshu Gaurav, Mausam
 conference: "Arxiv"
 year: 2023

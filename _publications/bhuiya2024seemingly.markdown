@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Seemingly Plausible Distractors in Multi-Hop Reasoning Are Large Language Models Attentive Readers
+title: Seemingly Plausible distractions in Multi-Hop reasoning Are Large Language Models Attentive Readers
 authors: Bhuiya Neeladri, Schlegel Viktor, Winkler Stefan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tired of Plugins Large Language Models Can Be End-To-End Recommenders
+title: Tired of Plugins Large Language Models Can Be End-To-End recommended
 authors: Zhang Wenlin, Wu Chuhan, Li Xiangyang, Wang Yuhao, Dong Kuicai, Wang Yichao, Dai Xinyi, Zhao Xiangyu, Guo Huifeng, Tang Ruiming
 conference: "Arxiv"
 year: 2024

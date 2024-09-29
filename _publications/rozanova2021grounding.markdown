@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Grounding Natural Language Instructions Can Large Language Models Capture Spatial Information
+title: Grounding Natural Language instructions Can Large Language Models Capture Spatial Information
 authors: Rozanova Julia, Ferreira Deborah, Dubba Krishna, Cheng Weiwei, Zhang Dell, Freitas Andre
 conference: "Arxiv"
 year: 2021

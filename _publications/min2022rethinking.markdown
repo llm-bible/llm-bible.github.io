@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rethinking the Role of Demonstrations What Makes In-Context Learning Work
+title: Rethinking the Role of demonstrations What Makes In-Context Learning Work
 authors: Min Sewon, Lyu Xinxi, Holtzman Ari, Artetxe Mikel, Lewis Mike, Hajishirzi Hannaneh, Zettlemoyer Luke
 conference: "Arxiv"
 year: 2022

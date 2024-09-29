@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sorry Come Again Prompting -- Enhancing Comprehension and Diminishing Hallucination with PAUSE-injected Optimal Paraphrasing
+title: sorry Come again Prompting i Enhancing Comprehension and Diminishing Hallucination with PAUSE-injected Optimal Paraphrasing
 authors: Rawte Vipula, Tonmoy S. M Towhidul Islam, Zaman S M Mehedi, Priya Prachi, Chadha Aman, Sheth Amit P., Das Amitava
 conference: "Arxiv"
 year: 2024

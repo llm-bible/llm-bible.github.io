@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can You Tell Me How to Get Past Sesame Street Sentence-Level Pretraining Beyond Language Modeling
+title: Can You Tell Me How to Get Past Sesame Street Sentence-Level retraining Beyond Language Modeling
 authors: Wang Alex, Hula Jan, Xia Patrick, Pappagari Raghavendra, Mccoy R. Thomas, Patel Roma, Kim Najoung, Tenney Ian, Huang Yinghui, Yu Katherin, Jin Shuning, Chen Berlin, Van Durme Benjamin, Grave Edouard, Pavlick Ellie, Bowman Samuel R.
 conference: "Arxiv"
 year: 2018

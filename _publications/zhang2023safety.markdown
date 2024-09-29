@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On the Safety of Open-Sourced Large Language Models Does Alignment Really Prevent Them From Being Misused
+title: On the Safety of Open-Sourced Large Language models Does Alignment Really Prevent Them From Being Misused
 authors: Zhang Hangfan, Guo Zhimeng, Zhu Huaisheng, Cao Bochuan, Lin Lu, Jia Jinyuan, Chen Jinghui, Wu Dinghao
 conference: "Arxiv"
 year: 2023

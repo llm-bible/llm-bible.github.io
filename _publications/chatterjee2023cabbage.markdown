@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cabbage Sweeter than Cake Analysing the Potential of Large Language Models for Learning Conceptual Spaces
+title: Cabbage Sweeter than Cake analyzing the Potential of Large Language Models for Learning Conceptual Spaces
 authors: Chatterjee Usashi, Gajbhiye Amit, Schockaert Steven
 conference: "Arxiv"
 year: 2023

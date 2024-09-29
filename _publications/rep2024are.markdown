@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are ELECTRAs Sentence Embeddings Beyond Repair The Case of Semantic Textual Similarity
+title: Are electrons Sentence Embeddings Beyond Repair The Case of Semantic Textual Similarity
 authors: Rep Ivan, Dukić David, Šnajder Jan
 conference: "Arxiv"
 year: 2024

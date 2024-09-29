@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AI and the FCI Can ChatGPT Project an Understanding of Introductory Physics
+title: AI and the fix Can catgut Project an Understanding of Introductory Physics
 authors: West Colin G.
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cross-Modal Safety Alignment Is textual unlearning all you need
+title: Cross-Modal Safety alignment Is textual unlearning all you need
 authors: Chakraborty Trishna, Shayegani Erfan, Cai Zikui, Abu-ghazaleh Nael, Asif M. Salman, Dong Yue, Roy-chowdhury Amit K., Song Chengyu
 conference: "Arxiv"
 year: 2024

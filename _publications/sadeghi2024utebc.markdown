@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: uTeBC-NLP at SemEval-2024 Task 9 Can LLMs be Lateral Thinkers
+title: uTeBC-NLP at SemEval-2024 Task i Can alms be Lateral Thinkers
 authors: Sadeghi Pouya, Abaskohi Amirhossein, Yaghoobzadeh Yadollah
 conference: "Arxiv"
 year: 2024

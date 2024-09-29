@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do LLMs Have Distinct and Consistent Personality TRAIT Personality Testset designed for LLMs with Psychometrics
+title: Do alms Have Distinct and Consistent Personality traits Personality tests designed for alms with Psychometrics
 authors: Lee Seungbeen, Lim Seungwon, Han Seungju, Oh Giyeong, Chae Hyungjoo, Chung Jiwan, Kim Minju, Kwak Beong-woo, Lee Yeonsoo, Lee Dongha, Yeo Jinyoung, Yu Youngjae
 conference: "Arxiv"
 year: 2024
