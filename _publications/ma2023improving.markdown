@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VOLTA\: Improving Generative Diversity By Variational Mutual Information Maximizing Autoencoder
+title: VOLTA&#58; Improving Generative Diversity By Variational Mutual Information Maximizing Autoencoder
 authors: Ma Yueen, Chi Dafeng, Li Jingjing, Song Kai, Zhuang Yuzheng, King Irwin
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MARIO\: Math Reasoning With Code Interpreter Output -- A Reproducible Pipeline
+title: MARIO&#58; Math Reasoning With Code Interpreter Output -- A Reproducible Pipeline
 authors: Liao Minpeng, Luo Wei, Li Chengxi, Wu Jing, Fan Kai
 conference: "Arxiv"
 year: 2024

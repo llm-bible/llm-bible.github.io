@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Banglanlg And Banglat5\: Benchmarks And Resources For Evaluating Low-resource Natural Language Generation In Bangla
+title: Banglanlg And Banglat5&#58; Benchmarks And Resources For Evaluating Low-resource Natural Language Generation In Bangla
 authors: Bhattacharjee Abhik, Hasan Tahmid, Ahmad Wasi Uddin, Shahriyar Rifat
 conference: "Arxiv"
 year: 2022

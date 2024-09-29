@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zamba\: A Compact 7B SSM Hybrid Model
+title: Zamba&#58; A Compact 7B SSM Hybrid Model
 authors: Glorioso Paolo, Anthony Quentin, Tokpanov Yury, Whittington James, Pilault Jonathan, Ibrahim Adam, Millidge Beren
 conference: "Arxiv"
 year: 2024

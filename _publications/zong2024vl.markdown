@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VL-ICL Bench\: The Devil In The Details Of Benchmarking Multimodal In-context Learning
+title: VL-ICL Bench&#58; The Devil In The Details Of Benchmarking Multimodal In-context Learning
 authors: Zong Yongshuo, Bohdal Ondrej, Hospedales Timothy
 conference: "Arxiv"
 year: 2024

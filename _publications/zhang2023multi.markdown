@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zhujiu\: A Multi-dimensional, Multi-faceted Chinese Benchmark For Large Language Models
+title: Zhujiu&#58; A Multi-dimensional, Multi-faceted Chinese Benchmark For Large Language Models
 authors: Zhang Baoli, Xie Haining, Du Pengfan, Chen Junhao, Cao Pengfei, Chen Yubo, Liu Shengping, Liu Kang, Zhao Jun
 conference: "Arxiv"
 year: 2023

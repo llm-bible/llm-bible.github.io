@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Precision Empowers, Excess Distracts\: Visual Question Answering With Dynamically Infused Knowledge In Language Models
+title: Precision Empowers, Excess Distracts&#58; Visual Question Answering With Dynamically Infused Knowledge In Language Models
 authors: Jhalani Manas, M Annervaz K, Bhattacharyya Pushpak
 conference: "Arxiv"
 year: 2024

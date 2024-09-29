@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Nevermind\: Instruction Override And Moderation In Large Language Models
+title: Nevermind&#58; Instruction Override And Moderation In Large Language Models
 authors: Kim Edward
 conference: "Arxiv"
 year: 2024

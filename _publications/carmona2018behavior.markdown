@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Behavior Analysis Of NLI Models\: Uncovering The Influence Of Three Factors On Robustness
+title: Behavior Analysis Of NLI Models&#58; Uncovering The Influence Of Three Factors On Robustness
 authors: Carmona Vicente Ivan Sanchez, Mitchell Jeff, Riedel Sebastian
 conference: "Arxiv"
 year: 2018

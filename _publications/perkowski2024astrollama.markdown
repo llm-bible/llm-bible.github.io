@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Astrollama-chat\: Scaling Astrollama With Conversational And Diverse Datasets
+title: Astrollama-chat&#58; Scaling Astrollama With Conversational And Diverse Datasets
 authors: Perkowski Ernest, Pan Rui, Nguyen Tuan Dung, Ting Yuan-sen, Kruk Sandor, Zhang Tong, O'neill Charlie, Jablonska Maja, Sun Zechang, Smith Michael J., Liu Huiling, Schawinski Kevin, Iyer Kartheik, Universetbd Ioana Ciucă For
 conference: "Arxiv"
 year: 2024

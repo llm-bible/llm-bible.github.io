@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SPHINX-X\: Scaling Data And Parameters For A Family Of Multi-modal Large Language Models
+title: SPHINX-X&#58; Scaling Data And Parameters For A Family Of Multi-modal Large Language Models
 authors: Liu Dongyang, Zhang Renrui, Qiu Longtian, Huang Siyuan, Lin Weifeng, Zhao Shitian, Geng Shijie, Lin Ziyi, Jin Peng, Zhang Kaipeng, Shao Wenqi, Xu Chao, He Conghui, He Junjun, Shao Hao, Lu Pan, Li Hongsheng, Qiao Yu, Gao Peng
 conference: "Arxiv"
 year: 2024

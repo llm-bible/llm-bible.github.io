@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CYGENT\: A Cybersecurity Conversational Agent With Log Summarization Powered By GPT-3
+title: CYGENT&#58; A Cybersecurity Conversational Agent With Log Summarization Powered By GPT-3
 authors: Balasubramanian Prasasthy, Seby Justin, Kostakos Panos
 conference: "Arxiv"
 year: 2024

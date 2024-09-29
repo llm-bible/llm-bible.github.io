@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Raw Text Is All You Need\: Knowledge-intensive Multi-turn Instruction Tuning For Large Language Model
+title: Raw Text Is All You Need&#58; Knowledge-intensive Multi-turn Instruction Tuning For Large Language Model
 authors: Hou Xia, Li Qifeng, Yang Jian, Li Tongliang, Chai Linzheng, Wu Xianjie, Ji Hangyuan, Li Zhoujun, Nie Jixuan, Dun Jingbo, Song Wenfeng
 conference: "Arxiv"
 year: 2024

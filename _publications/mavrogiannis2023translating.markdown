@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cook2ltl\: Translating Cooking Recipes To LTL Formulae Using Large Language Models
+title: Cook2ltl&#58; Translating Cooking Recipes To LTL Formulae Using Large Language Models
 authors: Mavrogiannis Angelos, Mavrogiannis Christoforos, Aloimonos Yiannis
 conference: "Arxiv"
 year: 2023

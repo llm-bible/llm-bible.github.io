@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Talking Nonsense\: Probing Large Language Models' Understanding Of Adversarial Gibberish Inputs
+title: Talking Nonsense&#58; Probing Large Language Models' Understanding Of Adversarial Gibberish Inputs
 authors: Cherepanova Valeriia, Zou James
 conference: "Arxiv"
 year: 2024

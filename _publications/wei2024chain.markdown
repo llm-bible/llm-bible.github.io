@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chain-of-specificity\: An Iteratively Refining Method For Eliciting Knowledge From Large Language Models
+title: Chain-of-specificity&#58; An Iteratively Refining Method For Eliciting Knowledge From Large Language Models
 authors: Wei Kaiwen, Zhang Jingyuan, Zhang Hongzhi, Zhang Fuzheng, Zhang Di, Jin Li, Yu Yue
 conference: "Arxiv"
 year: 2024

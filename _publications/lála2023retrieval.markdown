@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Paperqa\: Retrieval-augmented Generative Agent For Scientific Research
+title: Paperqa&#58; Retrieval-augmented Generative Agent For Scientific Research
 authors: Lála Jakub, O'donoghue Odhran, Shtedritski Aleksandar, Cox Sam, Rodriques Samuel G., White Andrew D.
 conference: "Arxiv"
 year: 2023

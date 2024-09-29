@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llms Beyond English\: Scaling The Multilingual Capability Of Llms With Cross-lingual Feedback
+title: Llms Beyond English&#58; Scaling The Multilingual Capability Of Llms With Cross-lingual Feedback
 authors: Lai Wen, Mesgar Mohsen, Fraser Alexander
 conference: "Arxiv"
 year: 2024

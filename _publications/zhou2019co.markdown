@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Co-attention Hierarchical Network\: Generating Coherent Long Distractors For Reading Comprehension
+title: Co-attention Hierarchical Network&#58; Generating Coherent Long Distractors For Reading Comprehension
 authors: Zhou Xiaorui, Luo Senlin, Wu Yunfang
 conference: "Arxiv"
 year: 2019

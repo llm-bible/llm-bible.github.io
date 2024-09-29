@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SCREWS\: A Modular Framework For Reasoning With Revisions
+title: SCREWS&#58; A Modular Framework For Reasoning With Revisions
 authors: Shridhar Kumar, Jhamtani Harsh, Fang Hao, Van Durme Benjamin, Eisner Jason, Xia Patrick
 conference: "Arxiv"
 year: 2023

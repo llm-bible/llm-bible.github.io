@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Graph-free Multi-hop Reading Comprehension\: A Select-to-guide Strategy
+title: Graph-free Multi-hop Reading Comprehension&#58; A Select-to-guide Strategy
 authors: Wu Bohong, Zhang Zhuosheng, Zhao Hai
 conference: "Arxiv"
 year: 2021

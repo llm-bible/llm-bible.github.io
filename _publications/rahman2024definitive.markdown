@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Defan\: Definitive Answer Dataset For Llms Hallucination Evaluation
+title: Defan&#58; Definitive Answer Dataset For Llms Hallucination Evaluation
 authors: Rahman A B M Ashikur, Anwar Saeed, Usman Muhammad, Mian Ajmal
 conference: "Arxiv"
 year: 2024

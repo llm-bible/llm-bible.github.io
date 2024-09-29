@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: WESE\: Weak Exploration To Strong Exploitation For LLM Agents
+title: WESE&#58; Weak Exploration To Strong Exploitation For LLM Agents
 authors: Huang Xu, Liu Weiwen, Chen Xiaolong, Wang Xingmei, Lian Defu, Wang Yasheng, Tang Ruiming, Chen Enhong
 conference: "Arxiv"
 year: 2024

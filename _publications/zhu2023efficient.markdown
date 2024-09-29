@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pose\: Efficient Context Window Extension Of Llms Via Positional Skip-wise Training
+title: Pose&#58; Efficient Context Window Extension Of Llms Via Positional Skip-wise Training
 authors: Zhu Dawei, Yang Nan, Wang Liang, Song Yifan, Wu Wenhao, Wei Furu, Li Sujian
 conference: "Arxiv"
 year: 2023

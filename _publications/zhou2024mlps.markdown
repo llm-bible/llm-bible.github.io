@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mlps Compass\: What Is Learned When Mlps Are Combined With Plms?
+title: Mlps Compass&#58; What Is Learned When Mlps Are Combined With Plms?
 authors: Zhou Li, Chen Wenyu, Cao Yong, Zeng Dingyi, Liu Wanlong, Qu Hong
 conference: "Arxiv"
 year: 2024

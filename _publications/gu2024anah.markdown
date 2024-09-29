@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Anah-v2\: Scaling Analytical Hallucination Annotation Of Large Language Models
+title: Anah-v2&#58; Scaling Analytical Hallucination Annotation Of Large Language Models
 authors: Gu Yuzhe, Ji Ziwei, Zhang Wenwei, Lyu Chengqi, Lin Dahua, Chen Kai
 conference: "Arxiv"
 year: 2024

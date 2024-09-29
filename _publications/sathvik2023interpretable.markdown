@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Interprompt\: Interpretable Prompting For Interrelated Interpersonal Risk Factors In Reddit Posts
+title: Interprompt&#58; Interpretable Prompting For Interrelated Interpersonal Risk Factors In Reddit Posts
 authors: Sathvik Msvpj, Sarkar Surjodeep, Saxena Chandni, Sohn Sunghwan, Garg Muskan
 conference: "Arxiv"
 year: 2023

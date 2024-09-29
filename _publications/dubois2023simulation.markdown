@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Alpacafarm\: A Simulation Framework For Methods That Learn From Human Feedback
+title: Alpacafarm&#58; A Simulation Framework For Methods That Learn From Human Feedback
 authors: Dubois Yann, Li Xuechen, Taori Rohan, Zhang Tianyi, Gulrajani Ishaan, Ba Jimmy, Guestrin Carlos, Liang Percy, Hashimoto Tatsunori B.
 conference: "Arxiv"
 year: 2023

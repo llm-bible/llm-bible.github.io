@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: M-RAG\: Reinforcing Large Language Model Performance Through Retrieval-augmented Generation With Multiple Partitions
+title: M-RAG&#58; Reinforcing Large Language Model Performance Through Retrieval-augmented Generation With Multiple Partitions
 authors: Wang Zheng, Teo Shu Xian, Ouyang Jieer, Xu Yongjun, Shi Wei
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Proofread\: Fixes All Errors With One Tap
+title: Proofread&#58; Fixes All Errors With One Tap
 authors: Liu Renjie, Zhang Yanxiang, Zhu Yun, Sun Haicheng, Zhang Yuanbo, Huang Michael Xuelin, Cai Shanqing, Meng Lei, Zhai Shumin
 conference: "Arxiv"
 year: 2024

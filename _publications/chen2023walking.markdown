@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Walking Down The Memory Maze\: Beyond Context Limit Through Interactive Reading
+title: Walking Down The Memory Maze&#58; Beyond Context Limit Through Interactive Reading
 authors: Chen Howard, Pasunuru Ramakanth, Weston Jason, Celikyilmaz Asli
 conference: "Arxiv"
 year: 2023

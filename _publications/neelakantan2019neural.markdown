@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Neural Assistant\: Joint Action Prediction, Response Generation, And Latent Knowledge Reasoning
+title: Neural Assistant&#58; Joint Action Prediction, Response Generation, And Latent Knowledge Reasoning
 authors: Neelakantan Arvind, Yavuz Semih, Narang Sharan, Prasad Vishaal, Goodrich Ben, Duckworth Daniel, Sankar Chinnadhurai, Yan Xifeng
 conference: "Arxiv"
 year: 2019

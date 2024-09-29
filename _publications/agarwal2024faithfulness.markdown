@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Faithfulness Vs. Plausibility\: On The (un)reliability Of Explanations From Large Language Models
+title: Faithfulness Vs. Plausibility&#58; On The (un)reliability Of Explanations From Large Language Models
 authors: Agarwal Chirag, Tanneru Sree Harsha, Lakkaraju Himabindu
 conference: "Arxiv"
 year: 2024

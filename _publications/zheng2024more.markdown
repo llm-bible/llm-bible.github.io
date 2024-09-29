@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: More-3s\:multimodal-based Offline Reinforcement Learning With Shared Semantic Spaces
+title: More-3s&#58;multimodal-based Offline Reinforcement Learning With Shared Semantic Spaces
 authors: Zheng Tianyu, Zhang Ge, Qu Xingwei, Kuang Ming, Huang Stephen W., He Zhaofeng
 conference: "Arxiv"
 year: 2024

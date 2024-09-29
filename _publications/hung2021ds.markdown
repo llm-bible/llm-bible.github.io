@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DS-TOD\: Efficient Domain Specialization For Task Oriented Dialog
+title: DS-TOD&#58; Efficient Domain Specialization For Task Oriented Dialog
 authors: Hung Chia-chien, Lauscher Anne, Ponzetto Simone Paolo, Glavaš Goran
 conference: "Arxiv"
 year: 2021

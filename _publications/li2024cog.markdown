@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cog-ga\: A Large Language Models-based Generative Agent For Vision-language Navigation In Continuous Environments
+title: Cog-ga&#58; A Large Language Models-based Generative Agent For Vision-language Navigation In Continuous Environments
 authors: Li Zhiyuan, Lu Yanfeng, Mu Yao, Qiao Hong
 conference: "Arxiv"
 year: 2024

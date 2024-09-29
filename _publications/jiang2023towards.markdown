@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tigerscore\: Towards Building Explainable Metric For All Text Generation Tasks
+title: Tigerscore&#58; Towards Building Explainable Metric For All Text Generation Tasks
 authors: Jiang Dongfu, Li Yishan, Zhang Ge, Huang Wenhao, Lin Bill Yuchen, Chen Wenhu
 conference: "Arxiv"
 year: 2023

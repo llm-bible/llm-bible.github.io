@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On-device Language Models\: A Comprehensive Review
+title: On-device Language Models&#58; A Comprehensive Review
 authors: Xu Jiajun, Li Zhiyuan, Chen Wei, Wang Qun, Gao Xin, Cai Qi, Ling Ziyuan
 conference: "Arxiv"
 year: 2024

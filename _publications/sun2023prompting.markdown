@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PEARL\: Prompting Large Language Models To Plan And Execute Actions Over Long Documents
+title: PEARL&#58; Prompting Large Language Models To Plan And Execute Actions Over Long Documents
 authors: Sun Simeng, Liu Yang, Wang Shuohang, Zhu Chenguang, Iyyer Mohit
 conference: "Arxiv"
 year: 2023

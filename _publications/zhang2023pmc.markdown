@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PMC-VQA\: Visual Instruction Tuning For Medical Visual Question Answering
+title: PMC-VQA&#58; Visual Instruction Tuning For Medical Visual Question Answering
 authors: Zhang Xiaoman, Wu Chaoyi, Zhao Ziheng, Lin Weixiong, Zhang Ya, Wang Yanfeng, Xie Weidi
 conference: "Arxiv"
 year: 2023

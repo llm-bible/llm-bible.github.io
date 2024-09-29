@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mammoth\: Building Math Generalist Models Through Hybrid Instruction Tuning
+title: Mammoth&#58; Building Math Generalist Models Through Hybrid Instruction Tuning
 authors: Yue Xiang, Qu Xingwei, Zhang Ge, Fu Yao, Huang Wenhao, Sun Huan, Su Yu, Chen Wenhu
 conference: "Arxiv"
 year: 2023

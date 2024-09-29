@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Litetransformersearch\: Training-free Neural Architecture Search For Efficient Language Models
+title: Litetransformersearch&#58; Training-free Neural Architecture Search For Efficient Language Models
 authors: Javaheripi Mojan, De Rosa Gustavo H., Mukherjee Subhabrata, Shah Shital, Religa Tomasz L., Mendes Caio C. T., Bubeck Sebastien, Koushanfar Farinaz, Dey Debadeepta
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatgpt For GTFS\: Benchmarking Llms On GTFS Understanding And Retrieval
+title: Chatgpt For GTFS&#58; Benchmarking Llms On GTFS Understanding And Retrieval
 authors: Devunuri Saipraneeth, Qiam Shirin, Lehe Lewis
 conference: "Arxiv"
 year: 2023

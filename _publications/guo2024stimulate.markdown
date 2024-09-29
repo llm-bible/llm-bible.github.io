@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SGSH\: Stimulate Large Language Models With Skeleton Heuristics For Knowledge Base Question Generation
+title: SGSH&#58; Stimulate Large Language Models With Skeleton Heuristics For Knowledge Base Question Generation
 authors: Guo Shasha, Liao Lizi, Zhang Jing, Wang Yanling, Li Cuiping, Chen Hong
 conference: "Arxiv"
 year: 2024

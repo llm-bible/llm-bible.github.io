@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Machine Translation With Large Language Models\: A Preliminary Study With Cooperative Decoding
+title: Improving Machine Translation With Large Language Models&#58; A Preliminary Study With Cooperative Decoding
 authors: Zeng Jiali, Meng Fandong, Yin Yongjing, Zhou Jie
 conference: "Arxiv"
 year: 2023

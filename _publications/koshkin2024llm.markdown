@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transllama\: Llm-based Simultaneous Translation System
+title: Transllama&#58; Llm-based Simultaneous Translation System
 authors: Koshkin Roman, Sudoh Katsuhito, Nakamura Satoshi
 conference: "Arxiv"
 year: 2024

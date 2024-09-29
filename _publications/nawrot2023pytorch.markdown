@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Nanot5\: A Pytorch Framework For Pre-training And Fine-tuning T5-style Models With Limited Resources
+title: Nanot5&#58; A Pytorch Framework For Pre-training And Fine-tuning T5-style Models With Limited Resources
 authors: Nawrot Piotr
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SAPT\: A Shared Attention Framework For Parameter-efficient Continual Learning Of Large Language Models
+title: SAPT&#58; A Shared Attention Framework For Parameter-efficient Continual Learning Of Large Language Models
 authors: Zhao Weixiang, Wang Shilong, Hu Yulin, Zhao Yanyan, Qin Bing, Zhang Xuanyu, Yang Qing, Xu Dongliang, Che Wanxiang
 conference: "Arxiv"
 year: 2024

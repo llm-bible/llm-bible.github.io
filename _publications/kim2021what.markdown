@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What Changes Can Large-scale Language Models Bring? Intensive Study On Hyperclova\: Billions-scale Korean Generative Pretrained Transformers
+title: What Changes Can Large-scale Language Models Bring? Intensive Study On Hyperclova&#58; Billions-scale Korean Generative Pretrained Transformers
 authors: Boseop Kim, Hyoungseok Kim, Sang-woo Lee, Gichang Lee, Donghyun Kwak, Dong Hyeon Jeon, Sunghyun Park, Sungju Kim, Seonhoon Kim, Dongpil Seo, Heungsub Lee, Minyoung Jeong, Sungjae Lee, Minsub Kim, Suk Hyun Ko, Seokhun Kim, Taeyong Park, Jinuk Kim, Soyoung Kang, Na-hyeon Ryu, Kang Min Yoo, Minsuk Chang, Soobin Suh, Sookyo In, Jinseong Park, Kyungduk Kim, Hiun Kim, Jisu Jeong, Yong Goo Yeo, Donghoon Ham, Dongju Park, Min Young Lee, Jaewook Kang, Inho Kang, Jung-woo Ha, Woomyoung Park, Nako Sung
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-lingual Malaysian Embedding\: Leveraging Large Language Models For Semantic Representations
+title: Multi-lingual Malaysian Embedding&#58; Leveraging Large Language Models For Semantic Representations
 authors: Zolkepli Husein, Razak Aisyah, Adha Kamarul, Nazhan Ariff
 conference: "Arxiv"
 year: 2024

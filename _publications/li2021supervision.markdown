@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Supervision Exists Everywhere\: A Data Efficient Contrastive Language-image Pre-training Paradigm
+title: Supervision Exists Everywhere&#58; A Data Efficient Contrastive Language-image Pre-training Paradigm
 authors: Li Yangguang, Liang Feng, Zhao Lichen, Cui Yufeng, Ouyang Wanli, Shao Jing, Yu Fengwei, Yan Junjie
 conference: "Arxiv"
 year: 2021

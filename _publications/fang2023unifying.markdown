@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instructseq\: Unifying Vision Tasks With Instruction-conditioned Multi-modal Sequence Generation
+title: Instructseq&#58; Unifying Vision Tasks With Instruction-conditioned Multi-modal Sequence Generation
 authors: Fang Rongyao, Yan Shilin, Huang Zhaoyang, Zhou Jingqiu, Tian Hao, Dai Jifeng, Li Hongsheng
 conference: "Arxiv"
 year: 2023

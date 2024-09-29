@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: (A)I Am Not A Lawyer, But...\: Engaging Legal Experts Towards Responsible LLM Policies For Legal Advice
+title: (A)I Am Not A Lawyer, But...&#58; Engaging Legal Experts Towards Responsible LLM Policies For Legal Advice
 authors: Cheong Inyoung, Xia King, Feng K. J. Kevin, Chen Quan Ze, Zhang Amy X.
 conference: "Arxiv"
 year: 2024

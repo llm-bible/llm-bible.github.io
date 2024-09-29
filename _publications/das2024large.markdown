@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Speechverse\: A Large-scale Generalizable Audio Language Model
+title: Speechverse&#58; A Large-scale Generalizable Audio Language Model
 authors: Das Nilaksh, Dingliwal Saket, Ronanki Srikanth, Paturi Rohit, Huang Zhaocheng, Mathur Prashant, Yuan Jie, Bekal Dhanush, Niu Xing, Jayanthi Sai Muralidhar, Li Xilai, Mundnich Karel, Sunkara Monica, Srinivasan Sundararajan, Han Kyu J, Kirchhoff Katrin
 conference: "Arxiv"
 year: 2024

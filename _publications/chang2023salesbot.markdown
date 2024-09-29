@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Salesbot 2.0\: A Human-like Intent-guided Chit-chat Dataset
+title: Salesbot 2.0&#58; A Human-like Intent-guided Chit-chat Dataset
 authors: Chang Wen-yu, Chen Yun-nung
 conference: "Arxiv"
 year: 2023

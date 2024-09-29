@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Relative Preference Optimization\: Enhancing LLM Alignment Through Contrasting Responses Across Identical And Diverse Prompts
+title: Relative Preference Optimization&#58; Enhancing LLM Alignment Through Contrasting Responses Across Identical And Diverse Prompts
 authors: Yin Yueqin, Wang Zhendong, Gu Yi, Huang Hai, Chen Weizhu, Zhou Mingyuan
 conference: "Arxiv"
 year: 2024

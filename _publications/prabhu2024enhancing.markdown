@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PEDAL\: Enhancing Greedy Decoding With Large Language Models Using Diverse Exemplars
+title: PEDAL&#58; Enhancing Greedy Decoding With Large Language Models Using Diverse Exemplars
 authors: Prabhu Sumanth
 conference: "Arxiv"
 year: 2024

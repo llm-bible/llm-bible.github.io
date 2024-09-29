@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: R-eval\: A Unified Toolkit For Evaluating Domain Knowledge Of Retrieval Augmented Large Language Models
+title: R-eval&#58; A Unified Toolkit For Evaluating Domain Knowledge Of Retrieval Augmented Large Language Models
 authors: Tu Shangqing, Wang Yuanchun, Yu Jifan, Xie Yuyang, Shi Yaran, Wang Xiaozhi, Zhang Jing, Hou Lei, Li Juanzi
 conference: "Arxiv"
 year: 2024

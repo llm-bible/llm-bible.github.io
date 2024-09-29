@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Big To Small Without Losing It All\: Text Augmentation With Chatgpt For Efficient Sentiment Analysis
+title: From Big To Small Without Losing It All&#58; Text Augmentation With Chatgpt For Efficient Sentiment Analysis
 authors: Woźniak Stanisław, Kocoń Jan
 conference: "Arxiv"
 year: 2023

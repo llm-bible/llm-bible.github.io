@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Slicegpt\: Compress Large Language Models By Deleting Rows And Columns
+title: Slicegpt&#58; Compress Large Language Models By Deleting Rows And Columns
 authors: Ashkboos Saleh, Croci Maximilian L., Nascimento Marcelo Gennari Do, Hoefler Torsten, Hensman James
 conference: "Arxiv"
 year: 2024

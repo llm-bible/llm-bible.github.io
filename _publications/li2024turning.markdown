@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tutorly\: Turning Programming Videos Into Apprenticeship Learning Environments With Llms
+title: Tutorly&#58; Turning Programming Videos Into Apprenticeship Learning Environments With Llms
 authors: Li Wengxi, Pea Roy, Haber Nick, Subramonyam Hari
 conference: "Arxiv"
 year: 2024

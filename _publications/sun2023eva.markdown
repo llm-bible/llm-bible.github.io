@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EVA-CLIP\: Improved Training Techniques For CLIP At Scale
+title: EVA-CLIP&#58; Improved Training Techniques For CLIP At Scale
 authors: Sun Quan, Fang Yuxin, Wu Ledell, Wang Xinlong, Cao Yue
 conference: "Arxiv"
 year: 2023

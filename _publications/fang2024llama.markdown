@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llama-omni\: Seamless Speech Interaction With Large Language Models
+title: Llama-omni&#58; Seamless Speech Interaction With Large Language Models
 authors: Fang Qingkai, Guo Shoutao, Zhou Yan, Ma Zhengrui, Zhang Shaolei, Feng Yang
 conference: "Arxiv"
 year: 2024

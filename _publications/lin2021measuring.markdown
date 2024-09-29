@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Truthfulqa\: Measuring How Models Mimic Human Falsehoods
+title: Truthfulqa&#58; Measuring How Models Mimic Human Falsehoods
 authors: Lin Stephanie, Hilton Jacob, Evans Owain
 conference: "Arxiv"
 year: 2021

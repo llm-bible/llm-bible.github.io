@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pushing Paraphrase Away From Original Sentence\: A Multi-round Paraphrase Generation Approach
+title: Pushing Paraphrase Away From Original Sentence&#58; A Multi-round Paraphrase Generation Approach
 authors: Lin Zhe, Wan Xiaojun
 conference: "Arxiv"
 year: 2021

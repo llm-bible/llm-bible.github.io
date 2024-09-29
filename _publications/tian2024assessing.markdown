@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Assessing Large Language Models In Mechanical Engineering Education\: A Study On Mechanics-focused Conceptual Understanding
+title: Assessing Large Language Models In Mechanical Engineering Education&#58; A Study On Mechanics-focused Conceptual Understanding
 authors: Tian Jie, Hou Jixin, Wu Zihao, Shu Peng, Liu Zhengliang, Xiang Yujie, Gu Beikang, Filla Nicholas, Li Yiwei, Liu Ning, Chen Xianyan, Tang Keke, Liu Tianming, Wang Xianqiao
 conference: "Arxiv"
 year: 2024

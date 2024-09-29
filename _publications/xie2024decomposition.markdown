@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Decomposition For Enhancing Attention\: Improving Llm-based Text-to-sql Through Workflow Paradigm
+title: Decomposition For Enhancing Attention&#58; Improving Llm-based Text-to-sql Through Workflow Paradigm
 authors: Xie Yuanzhen, Jin Xinzhou, Xie Tao, Lin Mingxiong, Chen Liang, Yu Chenyun, Cheng Lei, Zhuo Chengxiang, Hu Bo, Li Zang
 conference: "Arxiv"
 year: 2024

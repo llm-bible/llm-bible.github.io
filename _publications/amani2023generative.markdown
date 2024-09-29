@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative AI Perceptions\: A Survey To Measure The Perceptions Of Faculty, Staff, And Students On Generative AI Tools In Academia
+title: Generative AI Perceptions&#58; A Survey To Measure The Perceptions Of Faculty, Staff, And Students On Generative AI Tools In Academia
 authors: Amani Sara, White Lance, Balart Trini, Arora Laksha, Shryock Kristi J., Brumbelow Kelly, Watson Karan L.
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Momentor\: Advancing Video Large Language Model With Fine-grained Temporal Reasoning
+title: Momentor&#58; Advancing Video Large Language Model With Fine-grained Temporal Reasoning
 authors: Qian Long, Li Juncheng, Wu Yu, Ye Yaobo, Fei Hao, Chua Tat-seng, Zhuang Yueting, Tang Siliang
 conference: "Arxiv"
 year: 2024

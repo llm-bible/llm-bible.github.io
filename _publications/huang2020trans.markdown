@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TRANS-BLSTM\: Transformer With Bidirectional LSTM For Language Understanding
+title: TRANS-BLSTM&#58; Transformer With Bidirectional LSTM For Language Understanding
 authors: Huang Zhiheng, Xu Peng, Liang Davis, Mishra Ajay, Xiang Bing
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Improving Document Understanding\: An Exploration On Text-grounding Via Mllms
+title: Towards Improving Document Understanding&#58; An Exploration On Text-grounding Via Mllms
 authors: Wang Yonghui, Zhou Wengang, Feng Hao, Zhou Keyi, Li Houqiang
 conference: "Arxiv"
 year: 2023

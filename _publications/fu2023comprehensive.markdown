@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MME\: A Comprehensive Evaluation Benchmark For Multimodal Large Language Models
+title: MME&#58; A Comprehensive Evaluation Benchmark For Multimodal Large Language Models
 authors: Chaoyou Fu, Peixian Chen, Yunhang Shen, Yulei Qin, Mengdan Zhang, Xu Lin, Jinrui Yang, Xiawu Zheng, Ke Li, Xing Sun, Yunsheng Wu, Rongrong Ji
 conference: "Arxiv"
 year: 2023

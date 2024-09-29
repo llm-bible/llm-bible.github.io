@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Spqr\: A Sparse-quantized Representation For Near-lossless LLM Weight Compression
+title: Spqr&#58; A Sparse-quantized Representation For Near-lossless LLM Weight Compression
 authors: Dettmers Tim, Svirschevski Ruslan, Egiazarian Vage, Kuznedelev Denis, Frantar Elias, Ashkboos Saleh, Borzunov Alexander, Hoefler Torsten, Alistarh Dan
 conference: "Arxiv"
 year: 2023

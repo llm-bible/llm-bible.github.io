@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Driving With Llms\: Fusing Object-level Vector Modality For Explainable Autonomous Driving
+title: Driving With Llms&#58; Fusing Object-level Vector Modality For Explainable Autonomous Driving
 authors: Chen Long, Sinavski Oleg, Hünermann Jan, Karnsund Alice, Willmott Andrew James, Birch Danny, Maund Daniel, Shotton Jamie
 conference: "Arxiv"
 year: 2023

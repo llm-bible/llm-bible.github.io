@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Autohint\: Automatic Prompt Optimization With Hint Generation
+title: Autohint&#58; Automatic Prompt Optimization With Hint Generation
 authors: Sun Hong, Li Xue, Xu Yinchuan, Homma Youkow, Cao Qi, Wu Min, Jiao Jian, Charles Denis
 conference: "Arxiv"
 year: 2023

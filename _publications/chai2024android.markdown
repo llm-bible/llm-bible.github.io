@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AMEX\: Android Multi-annotation Expo Dataset For Mobile GUI Agents
+title: AMEX&#58; Android Multi-annotation Expo Dataset For Mobile GUI Agents
 authors: Chai Yuxiang, Huang Siyuan, Niu Yazhe, Xiao Han, Liu Liang, Zhang Dingyu, Gao Peng, Ren Shuai, Li Hongsheng
 conference: "Arxiv"
 year: 2024

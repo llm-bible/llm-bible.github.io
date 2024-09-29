@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Contextual AI Journaling\: Integrating LLM And Time Series Behavioral Sensing Technology To Promote Self-reflection And Well-being Using The Mindscape App
+title: Contextual AI Journaling&#58; Integrating LLM And Time Series Behavioral Sensing Technology To Promote Self-reflection And Well-being Using The Mindscape App
 authors: Nepal Subigya, Pillai Arvind, Campbell William, Massachi Talie, Choi Eunsol Soul, Xu Orson, Kuc Joanna, Huckins Jeremy, Holden Jason, Depp Colin, Jacobson Nicholas, Czerwinski Mary, Granholm Eric, Campbell Andrew T.
 conference: "Arxiv"
 year: 2024

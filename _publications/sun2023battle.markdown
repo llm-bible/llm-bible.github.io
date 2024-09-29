@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Battle Of The Large Language Models\: Dolly Vs Llama Vs Vicuna Vs Guanaco Vs Bard Vs Chatgpt -- A Text-to-sql Parsing Comparison
+title: Battle Of The Large Language Models&#58; Dolly Vs Llama Vs Vicuna Vs Guanaco Vs Bard Vs Chatgpt -- A Text-to-sql Parsing Comparison
 authors: Sun Shuo, Zhang Yuchen, Yan Jiahuan, Gao Yuze, Ong Donovan, Chen Bin, Su Jian
 conference: "Arxiv"
 year: 2023

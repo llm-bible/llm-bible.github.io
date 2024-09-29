@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cocobo\: Exploring Large Language Models As The Engine For End-user Robot Programming
+title: Cocobo&#58; Exploring Large Language Models As The Engine For End-user Robot Programming
 authors: Ge Yate, Dai Yi, Shan Run, Li Kechun, Hu Yuanda, Sun Xiaohua
 conference: "Arxiv"
 year: 2024

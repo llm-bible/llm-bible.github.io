@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LIME-M\: Less Is More For Evaluation Of Mllms
+title: LIME-M&#58; Less Is More For Evaluation Of Mllms
 authors: Zhu Kang, Zang Qianbo, Jia Shian, Wu Siwei, Fang Feiteng, Li Yizhi, Guo Shuyue, Zheng Tianyu, Li Bo, Wu Haoning, Qu Xingwei, Yang Jian, Liu Zachary, Yue Xiang, Liu J. H., Lin Chenghua, Yang Min, Ni Shiwen, Huang Wenhao, Zhang Ge
 conference: "Arxiv"
 year: 2024

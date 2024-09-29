@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bridging The Gap\: Exploring The Capabilities Of Bridge-architectures For Complex Visual Reasoning Tasks
+title: Bridging The Gap&#58; Exploring The Capabilities Of Bridge-architectures For Complex Visual Reasoning Tasks
 authors: Rajesh Kousik, Raman Mrigank, Karim Mohammed Asad, Chawla Pranit
 conference: "Arxiv"
 year: 2023

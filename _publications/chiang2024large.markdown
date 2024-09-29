@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Model As An Assignment Evaluator\: Insights, Feedback, And Challenges In A 1000+ Student Course
+title: Large Language Model As An Assignment Evaluator&#58; Insights, Feedback, And Challenges In A 1000+ Student Course
 authors: Chiang Cheng-han, Chen Wei-chih, Kuan Chun-yi, Yang Chienchou, Lee Hung-yi
 conference: "Arxiv"
 year: 2024

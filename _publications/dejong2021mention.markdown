@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mention Memory\: Incorporating Textual Knowledge Into Transformers Through Entity Mention Attention
+title: Mention Memory&#58; Incorporating Textual Knowledge Into Transformers Through Entity Mention Attention
 authors: De Jong Michiel, Zemlyanskiy Yury, Fitzgerald Nicholas, Sha Fei, Cohen William
 conference: "Arxiv"
 year: 2021

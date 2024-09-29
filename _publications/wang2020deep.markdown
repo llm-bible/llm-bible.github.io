@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Minilm\: Deep Self-attention Distillation For Task-agnostic Compression Of Pre-trained Transformers
+title: Minilm&#58; Deep Self-attention Distillation For Task-agnostic Compression Of Pre-trained Transformers
 authors: Wang Wenhui, Wei Furu, Dong Li, Bao Hangbo, Yang Nan, Zhou Ming
 conference: "Arxiv"
 year: 2020

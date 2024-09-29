@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Clinical Camel\: An Open Expert-level Medical Language Model With Dialogue-based Knowledge Encoding
+title: Clinical Camel&#58; An Open Expert-level Medical Language Model With Dialogue-based Knowledge Encoding
 authors: Toma Augustin, Lawler Patrick R., Ba Jimmy, Krishnan Rahul G., Rubin Barry B., Wang Bo
 conference: "Arxiv"
 year: 2023

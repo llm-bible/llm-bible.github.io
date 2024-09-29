@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Baby Llama\: Knowledge Distillation From An Ensemble Of Teachers Trained On A Small Dataset With No Performance Penalty
+title: Baby Llama&#58; Knowledge Distillation From An Ensemble Of Teachers Trained On A Small Dataset With No Performance Penalty
 authors: Timiryasov Inar, Tastet Jean-loup
 conference: "Arxiv"
 year: 2023

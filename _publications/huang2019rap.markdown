@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rap-net\: Recurrent Attention Pooling Networks For Dialogue Response Selection
+title: Rap-net&#58; Recurrent Attention Pooling Networks For Dialogue Response Selection
 authors: Huang Chao-wei, Chiang Ting-rui, Su Shang-yu, Chen Yun-nung
 conference: "Arxiv"
 year: 2019

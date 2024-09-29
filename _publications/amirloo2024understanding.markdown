@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding Alignment In Multimodal Llms\: A Comprehensive Study
+title: Understanding Alignment In Multimodal Llms&#58; A Comprehensive Study
 authors: Amirloo Elmira, Fauconnier Jean-philippe, Roesmann Christoph, Kerl Christian, Boney Rinu, Qian Yusu, Wang Zirui, Dehghan Afshin, Yang Yinfei, Gan Zhe, Grasch Peter
 conference: "Arxiv"
 year: 2024

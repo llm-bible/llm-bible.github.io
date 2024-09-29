@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MMICT\: Boosting Multi-modal Fine-tuning With In-context Examples
+title: MMICT&#58; Boosting Multi-modal Fine-tuning With In-context Examples
 authors: Chen Tao, Zhang Enwei, Gao Yuting, Li Ke, Sun Xing, Zhang Yan, Li Hui, Ji Rongrong
 conference: "Arxiv"
 year: 2023

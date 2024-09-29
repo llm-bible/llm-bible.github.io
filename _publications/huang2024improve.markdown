@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fastfid\: Improve Inference Efficiency Of Open Domain Question Answering Via Sentence Selection
+title: Fastfid&#58; Improve Inference Efficiency Of Open Domain Question Answering Via Sentence Selection
 authors: Huang Yufei, Han Xu, Sun Maosong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pruner-zero\: Evolving Symbolic Pruning Metric From Scratch For Large Language Models
+title: Pruner-zero&#58; Evolving Symbolic Pruning Metric From Scratch For Large Language Models
 authors: Dong Peijie, Li Lujun, Tang Zhenheng, Liu Xiang, Pan Xinglin, Wang Qiang, Chu Xiaowen
 conference: "Arxiv"
 year: 2024

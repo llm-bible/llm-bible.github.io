@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: INSTRUCTSCORE\: Explainable Text Generation Evaluation With Finegrained Feedback
+title: INSTRUCTSCORE&#58; Explainable Text Generation Evaluation With Finegrained Feedback
 authors: Xu Wenda, Wang Danqing, Pan Liangming, Song Zhenqiao, Freitag Markus, Wang William Yang, Li Lei
 conference: "Arxiv"
 year: 2023

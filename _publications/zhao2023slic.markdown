@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Slic-hf\: Sequence Likelihood Calibration With Human Feedback
+title: Slic-hf&#58; Sequence Likelihood Calibration With Human Feedback
 authors: Zhao Yao, Joshi Rishabh, Liu Tianqi, Khalman Misha, Saleh Mohammad, Liu Peter J.
 conference: "Arxiv"
 year: 2023

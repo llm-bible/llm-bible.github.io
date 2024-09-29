@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RWKV-CLIP\: A Robust Vision-language Representation Learner
+title: RWKV-CLIP&#58; A Robust Vision-language Representation Learner
 authors: Gu Tiancheng, Yang Kaicheng, An Xiang, Feng Ziyong, Liu Dongnan, Cai Weidong, Deng Jiankang
 conference: "Arxiv"
 year: 2024

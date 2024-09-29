@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Seed-story\: Multimodal Long Story Generation With Large Language Model
+title: Seed-story&#58; Multimodal Long Story Generation With Large Language Model
 authors: Yang Shuai, Ge Yuying, Li Yang, Chen Yukang, Ge Yixiao, Shan Ying, Chen Yingcong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Penetrative AI\: Making Llms Comprehend The Physical World
+title: Penetrative AI&#58; Making Llms Comprehend The Physical World
 authors: Xu Huatao, Han Liying, Yang Qirui, Li Mo, Srivastava Mani
 conference: "Arxiv"
 year: 2023

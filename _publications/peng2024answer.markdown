@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Answer Is All You Need\: Instruction-following Text Embedding Via Answering The Question
+title: Answer Is All You Need&#58; Instruction-following Text Embedding Via Answering The Question
 authors: Peng Letian, Zhang Yuwei, Wang Zilong, Srinivasa Jayanth, Liu Gaowen, Wang Zihan, Shang Jingbo
 conference: "Arxiv"
 year: 2024

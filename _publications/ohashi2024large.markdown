@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jmultiwoz\: A Large-scale Japanese Multi-domain Task-oriented Dialogue Dataset
+title: Jmultiwoz&#58; A Large-scale Japanese Multi-domain Task-oriented Dialogue Dataset
 authors: Ohashi Atsumoto, Hirai Ryu, Iizuka Shinya, Higashinaka Ryuichiro
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: More Robots Are Coming\: Large Multimodal Models (chatgpt) Can Solve Visually Diverse Images Of Parsons Problems
+title: More Robots Are Coming&#58; Large Multimodal Models (chatgpt) Can Solve Visually Diverse Images Of Parsons Problems
 authors: Hou Irene, Man Owen, Mettille Sophie, Gutierrez Sebastian, Angelikas Kenneth, Macneil Stephen
 conference: "Arxiv"
 year: 2023

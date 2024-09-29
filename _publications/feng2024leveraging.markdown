@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Legend\: Leveraging Representation Engineering To Annotate Safety Margin For Preference Datasets
+title: Legend&#58; Leveraging Representation Engineering To Annotate Safety Margin For Preference Datasets
 authors: Feng Duanyu, Qin Bowen, Huang Chen, Huang Youcheng, Zhang Zheng, Lei Wenqiang
 conference: "Arxiv"
 year: 2024

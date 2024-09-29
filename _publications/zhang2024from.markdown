@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Redundancy To Relevance\: Enhancing Explainability In Multimodal Large Language Models
+title: From Redundancy To Relevance&#58; Enhancing Explainability In Multimodal Large Language Models
 authors: Zhang Xiaofeng, Shen Chen, Yuan Xiaosong, Yan Shaotian, Xie Liang, Wang Wenxiao, Gu Chaochen, Tang Hao, Ye Jieping
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Seeing The Image\: Prioritizing Visual Correlation By Contrastive Alignment
+title: Seeing The Image&#58; Prioritizing Visual Correlation By Contrastive Alignment
 authors: Xiao Xin, Wu Bohong, Wang Jiacong, Li Chunyuan, Zhou Xun, Guo Haoyuan
 conference: "Arxiv"
 year: 2024

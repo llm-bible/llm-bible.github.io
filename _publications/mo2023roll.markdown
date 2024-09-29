@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Roll Up Your Sleeves\: Working With A Collaborative And Engaging Task-oriented Dialogue System
+title: Roll Up Your Sleeves&#58; Working With A Collaborative And Engaging Task-oriented Dialogue System
 authors: Mo Lingbo, Chen Shijie, Chen Ziru, Deng Xiang, Lewis Ashley, Singh Sunit, Stevens Samuel, Tai Chang-you, Wang Zhen, Yue Xiang, Zhang Tianshu, Su Yu, Sun Huan
 conference: "Arxiv"
 year: 2023

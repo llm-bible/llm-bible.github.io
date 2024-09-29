@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Moe-lpr\: Multilingual Extension Of Large Language Models Through Mixture-of-experts With Language Priors Routing
+title: Moe-lpr&#58; Multilingual Extension Of Large Language Models Through Mixture-of-experts With Language Priors Routing
 authors: Zhou Hao, Wang Zhijun, Huang Shujian, Huang Xin, Han Xue, Feng Junlan, Deng Chao, Luo Weihua, Chen Jiajun
 conference: "Arxiv"
 year: 2024

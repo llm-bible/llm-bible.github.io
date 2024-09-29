@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieval-augmented Code Generation For Situated Action Generation\: A Case Study On Minecraft
+title: Retrieval-augmented Code Generation For Situated Action Generation&#58; A Case Study On Minecraft
 authors: Kranti Chalamalasetti, Hakimov Sherzod, Schlangen David
 conference: "Arxiv"
 year: 2024

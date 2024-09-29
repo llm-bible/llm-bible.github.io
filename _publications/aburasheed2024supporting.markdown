@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Supporting Student Decisions On Learning Recommendations\: An Llm-based Chatbot With Knowledge Graph Contextualization For Conversational Explainability And Mentoring
+title: Supporting Student Decisions On Learning Recommendations&#58; An Llm-based Chatbot With Knowledge Graph Contextualization For Conversational Explainability And Mentoring
 authors: Abu-rasheed Hasan, Abdulsalam Mohamad Hussam, Weber Christian, Fathi Madjid
 conference: "Arxiv"
 year: 2024

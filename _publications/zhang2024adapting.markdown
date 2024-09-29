@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RAFT\: Adapting Language Model To Domain Specific RAG
+title: RAFT&#58; Adapting Language Model To Domain Specific RAG
 authors: Zhang Tianjun, Patil Shishir G., Jain Naman, Shen Sheng, Zaharia Matei, Stoica Ion, Gonzalez Joseph E.
 conference: "Arxiv"
 year: 2024

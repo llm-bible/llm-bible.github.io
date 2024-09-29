@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cogergllm\: Exploring Large Language Model Systems Design Perspective Using Cognitive Ergonomics
+title: Cogergllm&#58; Exploring Large Language Model Systems Design Perspective Using Cognitive Ergonomics
 authors: Wasi Azmine Toushik
 conference: "ICML"
 year: 2024

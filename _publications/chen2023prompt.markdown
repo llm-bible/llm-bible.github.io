@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt To GPT-3\: Step-by-step Thinking Instructions For Humor Generation
+title: Prompt To GPT-3&#58; Step-by-step Thinking Instructions For Humor Generation
 authors: Chen Yuetian, Shi Bowen, Si Mei
 conference: "Arxiv"
 year: 2023

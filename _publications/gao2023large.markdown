@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Strategyllm\: Large Language Models As Strategy Generators, Executors, Optimizers, And Evaluators For Problem Solving
+title: Strategyllm&#58; Large Language Models As Strategy Generators, Executors, Optimizers, And Evaluators For Problem Solving
 authors: Gao Chang, Jiang Haiyun, Cai Deng, Shi Shuming, Lam Wai
 conference: "Arxiv"
 year: 2023

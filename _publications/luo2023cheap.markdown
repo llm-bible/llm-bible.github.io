@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cheap And Quick\: Efficient Vision-language Instruction Tuning For Large Language Models
+title: Cheap And Quick&#58; Efficient Vision-language Instruction Tuning For Large Language Models
 authors: Luo Gen, Zhou Yiyi, Ren Tianhe, Chen Shengxin, Sun Xiaoshuai, Ji Rongrong
 conference: "Arxiv"
 year: 2023

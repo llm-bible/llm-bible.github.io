@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AST-T5\: Structure-aware Pretraining For Code Generation And Understanding
+title: AST-T5&#58; Structure-aware Pretraining For Code Generation And Understanding
 authors: Gong Linyuan, Elhoushi Mostafa, Cheung Alvin
 conference: "Arxiv"
 year: 2024

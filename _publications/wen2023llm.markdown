@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Autodroid\: Llm-powered Task Automation In Android
+title: Autodroid&#58; Llm-powered Task Automation In Android
 authors: Wen Hao, Li Yuanchun, Liu Guohong, Zhao Shanhui, Yu Tao, Li Toby Jia-jun, Jiang Shiqi, Liu Yunhao, Zhang Yaqin, Liu Yunxin
 conference: "Arxiv"
 year: 2023

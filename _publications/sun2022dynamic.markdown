@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dynamar\: Dynamic Prompt With Mask Token Representation
+title: Dynamar&#58; Dynamic Prompt With Mask Token Representation
 authors: Sun Xiaodi, Rajagopalan Sunny, Nigam Priyanka, Lu Weiyi, Xu Yi, Zeng Belinda, Chilimbi Trishul
 conference: "Arxiv"
 year: 2022

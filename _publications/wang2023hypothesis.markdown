@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hypothesis Search\: Inductive Reasoning With Language Models
+title: Hypothesis Search&#58; Inductive Reasoning With Language Models
 authors: Wang Ruocheng, Zelikman Eric, Poesia Gabriel, Pu Yewen, Haber Nick, Goodman Noah D.
 conference: "Arxiv"
 year: 2023

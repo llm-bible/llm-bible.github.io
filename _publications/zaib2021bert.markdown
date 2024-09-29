@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bert-coqac\: Bert-based Conversational Question Answering In Context
+title: Bert-coqac&#58; Bert-based Conversational Question Answering In Context
 authors: Zaib Munazza, Tran Dai Hoang, Sagar Subhash, Mahmood Adnan, Zhang Wei E., Sheng Quan Z.
 conference: "Arxiv"
 year: 2021

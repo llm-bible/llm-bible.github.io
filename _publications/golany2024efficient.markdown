@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficient Data Generation For Source-grounded Information-seeking Dialogs\: A Use Case For Meeting Transcripts
+title: Efficient Data Generation For Source-grounded Information-seeking Dialogs&#58; A Use Case For Meeting Transcripts
 authors: Golany Lotem, Galgani Filippo, Mamo Maya, Parasol Nimrod, Vandsburger Omer, Bar Nadav, Dagan Ido
 conference: "Arxiv"
 year: 2024

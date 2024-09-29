@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Knowledge-prompted Estimator\: A Novel Approach To Explainable Machine Translation Assessment
+title: Knowledge-prompted Estimator&#58; A Novel Approach To Explainable Machine Translation Assessment
 authors: Yang Hao, Zhang Min, Tao Shimin, Wang Minghan, Wei Daimeng, Jiang Yanfei
 conference: "Arxiv"
 year: 2023

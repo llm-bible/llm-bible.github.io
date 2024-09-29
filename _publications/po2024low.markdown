@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sbora\: Low-rank Adaptation With Regional Weight Updates
+title: Sbora&#58; Low-rank Adaptation With Regional Weight Updates
 authors: Po Lai-man, Liu Yuyang, Wu Haoxuan, Zhang Tianqi, Yu Wing-yin, Jiang Zeyu, Li Kun
 conference: "Arxiv"
 year: 2024

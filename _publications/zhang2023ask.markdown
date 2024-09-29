@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ask An Expert\: Leveraging Language Models To Improve Strategic Reasoning In Goal-oriented Dialogue Models
+title: Ask An Expert&#58; Leveraging Language Models To Improve Strategic Reasoning In Goal-oriented Dialogue Models
 authors: Zhang Qiang, Naradowsky Jason, Miyao Yusuke
 conference: "Arxiv"
 year: 2023

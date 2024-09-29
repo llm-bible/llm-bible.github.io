@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: G-DIG\: Towards Gradient-based Diverse And High-quality Instruction Data Selection For Machine Translation
+title: G-DIG&#58; Towards Gradient-based Diverse And High-quality Instruction Data Selection For Machine Translation
 authors: Pan Xingyuan, Huang Luyang, Kang Liyan, Liu Zhicheng, Lu Yu, Cheng Shanbo
 conference: "Arxiv"
 year: 2024

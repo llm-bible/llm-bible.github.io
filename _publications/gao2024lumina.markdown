@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lumina-t2x\: Transforming Text Into Any Modality, Resolution, And Duration Via Flow-based Large Diffusion Transformers
+title: Lumina-t2x&#58; Transforming Text Into Any Modality, Resolution, And Duration Via Flow-based Large Diffusion Transformers
 authors: Gao Peng, Zhuo Le, Liu Dongyang, Du Ruoyi, Luo Xu, Qiu Longtian, Zhang Yuhang, Lin Chen, Huang Rongjie, Geng Shijie, Zhang Renrui, Xi Junlin, Shao Wenqi, Jiang Zhengkai, Yang Tianshuo, Ye Weicai, Tong He, He Jingwen, Qiao Yu, Li Hongsheng
 conference: "Arxiv"
 year: 2024

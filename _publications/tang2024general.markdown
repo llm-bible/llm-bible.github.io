@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A + B\: A General Generator-reader Framework For Optimizing Llms To Unleash Synergy Potential
+title: A + B&#58; A General Generator-reader Framework For Optimizing Llms To Unleash Synergy Potential
 authors: Tang Wei, Cao Yixin, Ying Jiahao, Wang Bo, Zhao Yuyue, Liao Yong, Zhou Pengyuan
 conference: "Arxiv"
 year: 2024

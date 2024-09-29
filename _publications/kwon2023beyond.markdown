@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond English\: Evaluating Llms For Arabic Grammatical Error Correction
+title: Beyond English&#58; Evaluating Llms For Arabic Grammatical Error Correction
 authors: Kwon Sang Yun, Bhatia Gagan, Nagoudi El Moatez Billah, Abdul-mageed Muhammad
 conference: "Arxiv"
 year: 2023

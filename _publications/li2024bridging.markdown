@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bridging The Language Gap\: Enhancing Multilingual Prompt-based Code Generation In Llms Via Zero-shot Cross-lingual Transfer
+title: Bridging The Language Gap&#58; Enhancing Multilingual Prompt-based Code Generation In Llms Via Zero-shot Cross-lingual Transfer
 authors: Li Mingda, Mishra Abhijit, Mujumdar Utkarsh
 conference: "Arxiv"
 year: 2024

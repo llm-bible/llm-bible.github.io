@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Inference-time Decontamination\: Reusing Leaked Benchmarks For Large Language Model Evaluation
+title: Inference-time Decontamination&#58; Reusing Leaked Benchmarks For Large Language Model Evaluation
 authors: Zhu Qin, Cheng Qingyuan, Peng Runyu, Li Xiaonan, Liu Tengxiao, Peng Ru, Qiu Xipeng, Huang Xuanjing
 conference: "Arxiv"
 year: 2024

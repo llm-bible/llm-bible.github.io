@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: M2lingual\: Enhancing Multilingual, Multi-turn Instruction Alignment In Large Language Models
+title: M2lingual&#58; Enhancing Multilingual, Multi-turn Instruction Alignment In Large Language Models
 authors: Maheshwary Rishabh, Yadav Vikas, Nguyen Hoang, Mahajan Khyati, Madhusudhan Sathwik Tejaswi
 conference: "Arxiv"
 year: 2024

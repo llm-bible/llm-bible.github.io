@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aligner\: Efficient Alignment By Learning To Correct
+title: Aligner&#58; Efficient Alignment By Learning To Correct
 authors: Ji Jiaming, Chen Boyuan, Lou Hantao, Hong Donghai, Zhang Borong, Pan Xuehai, Dai Juntao, Qiu Tianyi, Yang Yaodong
 conference: "Arxiv"
 year: 2024

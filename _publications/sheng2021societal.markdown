@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Societal Biases In Language Generation\: Progress And Challenges
+title: Societal Biases In Language Generation&#58; Progress And Challenges
 authors: Sheng Emily, Chang Kai-wei, Natarajan Premkumar, Peng Nanyun
 conference: "Arxiv"
 year: 2021

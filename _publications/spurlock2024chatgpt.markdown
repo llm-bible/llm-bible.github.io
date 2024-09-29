@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatgpt For Conversational Recommendation\: Refining Recommendations By Reprompting With Feedback
+title: Chatgpt For Conversational Recommendation&#58; Refining Recommendations By Reprompting With Feedback
 authors: Spurlock Kyle Dylan, Acun Cagla, Saka Esin, Nasraoui Olfa
 conference: "Arxiv"
 year: 2024

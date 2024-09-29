@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Genqa\: Generating Millions Of Instructions From A Handful Of Prompts
+title: Genqa&#58; Generating Millions Of Instructions From A Handful Of Prompts
 authors: Chen Jiuhai, Qadri Rifaa, Wen Yuxin, Jain Neel, Kirchenbauer John, Zhou Tianyi, Goldstein Tom
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bigtranslate\: Augmenting Large Language Models With Multilingual Translation Capability Over 100 Languages
+title: Bigtranslate&#58; Augmenting Large Language Models With Multilingual Translation Capability Over 100 Languages
 authors: Yang Wen, Li Chong, Zhang Jiajun, Zong Chengqing
 conference: "Arxiv"
 year: 2023

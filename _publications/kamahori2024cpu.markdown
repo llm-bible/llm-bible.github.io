@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fiddler\: CPU-GPU Orchestration For Fast Inference Of Mixture-of-experts Models
+title: Fiddler&#58; CPU-GPU Orchestration For Fast Inference Of Mixture-of-experts Models
 authors: Kamahori Keisuke, Gu Yile, Zhu Kan, Kasikci Baris
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Batchprompt\: Accomplish More With Less
+title: Batchprompt&#58; Accomplish More With Less
 authors: Lin Jianzhe, Diesendruck Maurice, Du Liang, Abraham Robin
 conference: "Arxiv"
 year: 2023

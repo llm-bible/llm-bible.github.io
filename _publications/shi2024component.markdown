@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Opex\: A Component-wise Analysis Of Llm-centric Agents In Embodied Instruction Following
+title: Opex&#58; A Component-wise Analysis Of Llm-centric Agents In Embodied Instruction Following
 authors: Shi Haochen, Sun Zhiyuan, Yuan Xingdi, Côté Marc-alexandre, Liu Bang
 conference: "Arxiv"
 year: 2024

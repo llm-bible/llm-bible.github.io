@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Designprobe\: A Graphic Design Benchmark For Multimodal Large Language Models
+title: Designprobe&#58; A Graphic Design Benchmark For Multimodal Large Language Models
 authors: Lin Jieru, Huang Danqing, Zhao Tiejun, Zhan Dechen, Lin Chin-yew
 conference: "Arxiv"
 year: 2024

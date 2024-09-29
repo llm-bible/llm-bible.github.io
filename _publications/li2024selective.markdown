@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Selective Reflection-tuning\: Student-selected Data Recycling For LLM Instruction-tuning
+title: Selective Reflection-tuning&#58; Student-selected Data Recycling For LLM Instruction-tuning
 authors: Li Ming, Chen Lichang, Chen Jiuhai, He Shwai, Gu Jiuxiang, Zhou Tianyi
 conference: "Arxiv"
 year: 2024

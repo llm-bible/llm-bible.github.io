@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Refiner\: Restructure Retrieval Content Efficiently To Advance Question-answering Capabilities
+title: Refiner&#58; Restructure Retrieval Content Efficiently To Advance Question-answering Capabilities
 authors: Li Zhonghao, Hu Xuming, Liu Aiwei, Zheng Kening, Huang Sirui, Xiong Hui
 conference: "Arxiv"
 year: 2024

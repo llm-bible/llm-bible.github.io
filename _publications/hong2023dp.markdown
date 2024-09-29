@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DP-OPT\: Make Large Language Model Your Privacy-preserving Prompt Engineer
+title: DP-OPT&#58; Make Large Language Model Your Privacy-preserving Prompt Engineer
 authors: Hong Junyuan, Wang Jiachen T., Zhang Chenhui, Li Zhangheng, Li Bo, Wang Zhangyang
 conference: "Arxiv"
 year: 2023

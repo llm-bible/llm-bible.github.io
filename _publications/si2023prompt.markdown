@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mondrian\: Prompt Abstraction Attack Against Large Language Models For Cheaper API Pricing
+title: Mondrian&#58; Prompt Abstraction Attack Against Large Language Models For Cheaper API Pricing
 authors: Si Wai Man, Backes Michael, Zhang Yang
 conference: "Arxiv"
 year: 2023

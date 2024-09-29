@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Let GPT Be A Math Tutor\: Teaching Math Word Problem Solvers With Customized Exercise Generation
+title: Let GPT Be A Math Tutor&#58; Teaching Math Word Problem Solvers With Customized Exercise Generation
 authors: Liang Zhenwen, Yu Wenhao, Rajpurohit Tanmay, Clark Peter, Zhang Xiangliang, Kaylan Ashwin
 conference: "Arxiv"
 year: 2023

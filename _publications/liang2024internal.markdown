@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Internal Consistency And Self-feedback In Large Language Models\: A Survey
+title: Internal Consistency And Self-feedback In Large Language Models&#58; A Survey
 authors: Liang Xun, Song Shichao, Zheng Zifan, Wang Hanyu, Yu Qingchen, Li Xunkai, Li Rong-hua, Cheng Peng, Wang Zhonghao, Xiong Feiyu, Li Zhiyu
 conference: "Arxiv"
 year: 2024

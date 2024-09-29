@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Know Deeper\: Knowledge-conversation Cyclic Utilization Mechanism For Open-domain Dialogue Generation
+title: Know Deeper&#58; Knowledge-conversation Cyclic Utilization Mechanism For Open-domain Dialogue Generation
 authors: Sun Yajing, Hu Yue, Xing Luxi, Xie Yuqiang, Wei Xiangpeng
 conference: "Arxiv"
 year: 2021

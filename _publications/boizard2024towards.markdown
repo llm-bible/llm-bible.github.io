@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Cross-tokenizer Distillation\: The Universal Logit Distillation Loss For Llms
+title: Towards Cross-tokenizer Distillation&#58; The Universal Logit Distillation Loss For Llms
 authors: Boizard Nicolas, Haddad Kevin El, Hudelot Céline, Colombo Pierre
 conference: "Arxiv"
 year: 2024

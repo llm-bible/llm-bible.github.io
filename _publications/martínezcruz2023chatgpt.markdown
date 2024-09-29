@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatgpt Vs State-of-the-art Models\: A Benchmarking Study In Keyphrase Generation Task
+title: Chatgpt Vs State-of-the-art Models&#58; A Benchmarking Study In Keyphrase Generation Task
 authors: Martínez-cruz Roberto, López-lópez Alvaro J., Portela José
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DORY\: Deliberative Prompt Recovery For LLM
+title: DORY&#58; Deliberative Prompt Recovery For LLM
 authors: Gao Lirong, Peng Ru, Zhang Yiming, Zhao Junbo
 conference: "Arxiv"
 year: 2024

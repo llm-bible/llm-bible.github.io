@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Timechara\: Evaluating Point-in-time Character Hallucination Of Role-playing Large Language Models
+title: Timechara&#58; Evaluating Point-in-time Character Hallucination Of Role-playing Large Language Models
 authors: Ahn Jaewoo, Lee Taehyun, Lim Junyoung, Kim Jin-hwa, Yun Sangdoo, Lee Hwaran, Kim Gunhee
 conference: "Arxiv"
 year: 2024

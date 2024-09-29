@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lmflow\: An Extensible Toolkit For Finetuning And Inference Of Large Foundation Models
+title: Lmflow&#58; An Extensible Toolkit For Finetuning And Inference Of Large Foundation Models
 authors: Diao Shizhe, Pan Rui, Dong Hanze, Shum Ka Shun, Zhang Jipeng, Xiong Wei, Zhang Tong
 conference: "Arxiv"
 year: 2023

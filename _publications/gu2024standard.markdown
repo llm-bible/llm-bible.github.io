@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: OLMES\: A Standard For Language Model Evaluations
+title: OLMES&#58; A Standard For Language Model Evaluations
 authors: Gu Yuling, Tafjord Oyvind, Kuehl Bailey, Haddad Dany, Dodge Jesse, Hajishirzi Hannaneh
 conference: "Arxiv"
 year: 2024

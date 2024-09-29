@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scaling Autoregressive Multi-modal Models\: Pretraining And Instruction Tuning
+title: Scaling Autoregressive Multi-modal Models&#58; Pretraining And Instruction Tuning
 authors: Yu Lili, Shi Bowen, Pasunuru Ramakanth, Muller Benjamin, Golovneva Olga, Wang Tianlu, Babu Arun, Tang Binh, Karrer Brian, Sheynin Shelly, Ross Candace, Polyak Adam, Howes Russell, Sharma Vasu, Xu Puxin, Tamoyan Hovhannes, Ashual Oron, Singer Uriel, Li Shang-wen, Zhang Susan, James Richard, Ghosh Gargi, Taigman Yaniv, Fazel-zarandi Maryam, Celikyilmaz Asli, Zettlemoyer Luke, Aghajanyan Armen
 conference: "Arxiv"
 year: 2023

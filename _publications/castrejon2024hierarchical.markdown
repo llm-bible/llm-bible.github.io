@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: HAMMR\: Hierarchical Multimodal React Agents For Generic VQA
+title: HAMMR&#58; Hierarchical Multimodal React Agents For Generic VQA
 authors: Castrejon Lluis, Mensink Thomas, Zhou Howard, Ferrari Vittorio, Araujo Andre, Uijlings Jasper
 conference: "Arxiv"
 year: 2024

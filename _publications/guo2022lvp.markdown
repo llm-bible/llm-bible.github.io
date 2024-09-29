@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LVP-M3\: Language-aware Visual Prompt For Multilingual Multimodal Machine Translation
+title: LVP-M3&#58; Language-aware Visual Prompt For Multilingual Multimodal Machine Translation
 authors: Guo Hongcheng, Liu Jiaheng, Huang Haoyang, Yang Jian, Li Zhoujun, Zhang Dongdong, Cui Zheng, Wei Furu
 conference: "Arxiv"
 year: 2022

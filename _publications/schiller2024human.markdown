@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Human Factor In Detecting Errors Of Large Language Models\: A Systematic Literature Review And Future Research Directions
+title: The Human Factor In Detecting Errors Of Large Language Models&#58; A Systematic Literature Review And Future Research Directions
 authors: Schiller Christian A.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: $\(\beta\)$-dpo\: Direct Preference Optimization With Dynamic $\(\beta\)$
+title: $\(\beta\)$-dpo&#58; Direct Preference Optimization With Dynamic $\(\beta\)$
 authors: Wu Junkang, Xie Yuexiang, Yang Zhengyi, Wu Jiancan, Gao Jinyang, Ding Bolin, Wang Xiang, He Xiangnan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dylora\: Parameter Efficient Tuning Of Pre-trained Models Using Dynamic Search-free Low-rank Adaptation
+title: Dylora&#58; Parameter Efficient Tuning Of Pre-trained Models Using Dynamic Search-free Low-rank Adaptation
 authors: Valipour Mojtaba, Rezagholizadeh Mehdi, Kobyzev Ivan, Ghodsi Ali
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rolora\: Fine-tuning Rotated Outlier-free Llms For Effective Weight-activation Quantization
+title: Rolora&#58; Fine-tuning Rotated Outlier-free Llms For Effective Weight-activation Quantization
 authors: Huang Xijie, Liu Zechun, Liu Shih-yang, Cheng Kwang-ting
 conference: "Arxiv"
 year: 2024

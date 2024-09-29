@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rejection Improves Reliability\: Training Llms To Refuse Unknown Questions Using RL From Knowledge Feedback
+title: Rejection Improves Reliability&#58; Training Llms To Refuse Unknown Questions Using RL From Knowledge Feedback
 authors: Xu Hongshen, Zhu Zichen, Zhang Situo, Ma Da, Fan Shuai, Chen Lu, Yu Kai
 conference: "Arxiv"
 year: 2024

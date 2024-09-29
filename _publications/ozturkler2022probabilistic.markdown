@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Thinksum\: Probabilistic Reasoning Over Sets Using Large Language Models
+title: Thinksum&#58; Probabilistic Reasoning Over Sets Using Large Language Models
 authors: Ozturkler Batu, Malkin Nikolay, Wang Zhen, Jojic Nebojsa
 conference: "Arxiv"
 year: 2022

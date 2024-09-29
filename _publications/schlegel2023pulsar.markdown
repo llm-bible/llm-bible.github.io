@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PULSAR At Mediqa-sum 2023\: Large Language Models Augmented By Synthetic Dialogue Convert Patient Dialogues To Medical Records
+title: PULSAR At Mediqa-sum 2023&#58; Large Language Models Augmented By Synthetic Dialogue Convert Patient Dialogues To Medical Records
 authors: Schlegel Viktor, Li Hao, Wu Yuping, Subramanian Anand, Nguyen Thanh-tung, Kashyap Abhinav Ramesh, Beck Daniel, Zeng Xiaojun, Batista-navarro Riza Theresa, Winkler Stefan, Nenadic Goran
 conference: "Arxiv"
 year: 2023

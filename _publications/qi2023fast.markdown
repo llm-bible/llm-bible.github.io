@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vidcom\: Fast Video Comprehension Through Large Language Models With Multimodal Tools
+title: Vidcom&#58; Fast Video Comprehension Through Large Language Models With Multimodal Tools
 authors: Qi Ji, Ji Kaixuan, Yu Jifan, Wang Duokang, Xu Bin, Hou Lei, Li Juanzi
 conference: "Arxiv"
 year: 2023

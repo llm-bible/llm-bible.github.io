@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BLISS\: Robust Sequence-to-sequence Learning Via Self-supervised Input Representation
+title: BLISS&#58; Robust Sequence-to-sequence Learning Via Self-supervised Input Representation
 authors: Zhang Zheng, Ding Liang, Cheng Dazhao, Liu Xuebo, Zhang Min, Tao Dacheng
 conference: "Arxiv"
 year: 2022

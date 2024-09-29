@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: OPT-R\: Exploring The Role Of Explanations In Finetuning And Prompting For Reasoning Skills Of Large Language Models
+title: OPT-R&#58; Exploring The Role Of Explanations In Finetuning And Prompting For Reasoning Skills Of Large Language Models
 authors: Alkhamissi Badr, Verma Siddharth, Yu Ping, Jin Zhijing, Celikyilmaz Asli, Diab Mona
 conference: "Arxiv"
 year: 2023

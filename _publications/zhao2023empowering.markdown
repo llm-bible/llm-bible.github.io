@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Genixer\: Empowering Multimodal Large Language Models As A Powerful Data Generator
+title: Genixer&#58; Empowering Multimodal Large Language Models As A Powerful Data Generator
 authors: Zhao Henry Hengyuan, Zhou Pan, Shou Mike Zheng
 conference: "Arxiv"
 year: 2023

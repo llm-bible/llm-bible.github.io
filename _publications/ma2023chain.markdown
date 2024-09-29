@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chain-of-skills\: A Configurable Model For Open-domain Question Answering
+title: Chain-of-skills&#58; A Configurable Model For Open-domain Question Answering
 authors: Ma Kaixin, Cheng Hao, Zhang Yu, Liu Xiaodong, Nyberg Eric, Gao Jianfeng
 conference: "Arxiv"
 year: 2023

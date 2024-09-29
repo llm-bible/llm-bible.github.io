@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Roleplay-doh\: Enabling Domain-experts To Create Llm-simulated Patients Via Eliciting And Adhering To Principles
+title: Roleplay-doh&#58; Enabling Domain-experts To Create Llm-simulated Patients Via Eliciting And Adhering To Principles
 authors: Louie Ryan, Nandi Ananjan, Fang William, Chang Cheng, Brunskill Emma, Yang Diyi
 conference: "Arxiv"
 year: 2024

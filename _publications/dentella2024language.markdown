@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language In Vivo Vs. In Silico\: Size Matters But Larger Language Models Still Do Not Comprehend Language On A Par With Humans
+title: Language In Vivo Vs. In Silico&#58; Size Matters But Larger Language Models Still Do Not Comprehend Language On A Par With Humans
 authors: Dentella Vittoria, Guenther Fritz, Leivada Evelina
 conference: "Arxiv"
 year: 2024

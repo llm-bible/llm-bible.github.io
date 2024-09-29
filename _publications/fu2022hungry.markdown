@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hungry Hungry Hippos\: Towards Language Modeling With State Space Models
+title: Hungry Hungry Hippos&#58; Towards Language Modeling With State Space Models
 authors: Fu Daniel Y., Dao Tri, Saab Khaled K., Thomas Armin W., Rudra Atri, Ré Christopher
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Absinstruct\: Eliciting Abstraction Ability From Llms Through Explanation Tuning With Plausibility Estimation
+title: Absinstruct&#58; Eliciting Abstraction Ability From Llms Through Explanation Tuning With Plausibility Estimation
 authors: Wang Zhaowei, Fan Wei, Zong Qing, Zhang Hongming, Choi Sehyun, Fang Tianqing, Liu Xin, Song Yangqiu, Wong Ginny Y., See Simon
 conference: "Arxiv"
 year: 2024

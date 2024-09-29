@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lightpaff\: A Two-stage Distillation Framework For Pre-training And Fine-tuning
+title: Lightpaff&#58; A Two-stage Distillation Framework For Pre-training And Fine-tuning
 authors: Song Kaitao, Sun Hao, Tan Xu, Qin Tao, Lu Jianfeng, Liu Hongzhi, Liu Tie-yan
 conference: "Arxiv"
 year: 2020

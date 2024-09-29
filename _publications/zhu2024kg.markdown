@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: KG-FPQ\: Evaluating Factuality Hallucination In Llms With Knowledge Graph-based False Premise Questions
+title: KG-FPQ&#58; Evaluating Factuality Hallucination In Llms With Knowledge Graph-based False Premise Questions
 authors: Zhu Yanxu, Xiao Jinlin, Wang Yuhang, Sang Jitao
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Benchmark Self-evolving\: A Multi-agent Framework For Dynamic LLM Evaluation
+title: Benchmark Self-evolving&#58; A Multi-agent Framework For Dynamic LLM Evaluation
 authors: Wang Siyuan, Long Zhuohan, Fan Zhihao, Wei Zhongyu, Huang Xuanjing
 conference: "Arxiv"
 year: 2024

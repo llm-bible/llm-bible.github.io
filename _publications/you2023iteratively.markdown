@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Idealgpt\: Iteratively Decomposing Vision And Language Reasoning Via Large Language Models
+title: Idealgpt&#58; Iteratively Decomposing Vision And Language Reasoning Via Large Language Models
 authors: Haoxuan You, Rui Sun, Zhecan Wang, Long Chen, Gengyu Wang, Hammad A. Ayyubi, Kai-wei Chang, Shih-fu Chang
 conference: "Arxiv"
 year: 2023

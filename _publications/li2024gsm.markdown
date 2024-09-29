@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gsm-plus\: A Comprehensive Benchmark For Evaluating The Robustness Of Llms As Mathematical Problem Solvers
+title: Gsm-plus&#58; A Comprehensive Benchmark For Evaluating The Robustness Of Llms As Mathematical Problem Solvers
 authors: Li Qintong, Cui Leyang, Zhao Xueliang, Kong Lingpeng, Bi Wei
 conference: "Arxiv"
 year: 2024

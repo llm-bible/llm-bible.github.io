@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Probabilities\: Unveiling The Misalignment In Evaluating Large Language Models
+title: Beyond Probabilities&#58; Unveiling The Misalignment In Evaluating Large Language Models
 authors: Lyu Chenyang, Wu Minghao, Aji Alham Fikri
 conference: "Arxiv"
 year: 2024

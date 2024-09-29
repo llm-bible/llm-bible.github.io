@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Distilbert, A Distilled Version Of BERT\: Smaller, Faster, Cheaper And Lighter
+title: Distilbert, A Distilled Version Of BERT&#58; Smaller, Faster, Cheaper And Lighter
 authors: Sanh Victor, Debut Lysandre, Chaumond Julien, Wolf Thomas
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SAFETY-J\: Evaluating Safety With Critique
+title: SAFETY-J&#58; Evaluating Safety With Critique
 authors: Liu Yixiu, Zheng Yuxiang, Xia Shijie, Li Jiajun, Tu Yi, Song Chaoling, Liu Pengfei
 conference: "Arxiv"
 year: 2024

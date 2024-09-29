@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Doing Personal LAPS\: Llm-augmented Dialogue Construction For Personalized Multi-session Conversational Search
+title: Doing Personal LAPS&#58; Llm-augmented Dialogue Construction For Personalized Multi-session Conversational Search
 authors: Joko Hideaki, Chatterjee Shubham, Ramsay Andrew, De Vries Arjen P., Dalton Jeff, Hasibi Faegheh
 conference: "Arxiv"
 year: 2024

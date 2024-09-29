@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Finmem\: A Performance-enhanced LLM Trading Agent With Layered Memory And Character Design
+title: Finmem&#58; A Performance-enhanced LLM Trading Agent With Layered Memory And Character Design
 authors: Yu Yangyang, Li Haohang, Chen Zhi, Jiang Yuechen, Li Yang, Zhang Denghui, Liu Rong, Suchow Jordan W., Khashanah Khaldoun
 conference: "Arxiv"
 year: 2023

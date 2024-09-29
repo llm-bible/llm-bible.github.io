@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Truthx\: Alleviating Hallucinations By Editing Large Language Models In Truthful Space
+title: Truthx&#58; Alleviating Hallucinations By Editing Large Language Models In Truthful Space
 authors: Zhang Shaolei, Yu Tian, Feng Yang
 conference: "Arxiv"
 year: 2024

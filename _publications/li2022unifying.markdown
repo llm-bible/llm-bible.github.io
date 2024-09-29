@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LAVENDER\: Unifying Video-language Understanding As Masked Language Modeling
+title: LAVENDER&#58; Unifying Video-language Understanding As Masked Language Modeling
 authors: Li Linjie, Gan Zhe, Lin Kevin, Lin Chung-ching, Liu Zicheng, Liu Ce, Wang Lijuan
 conference: "Arxiv"
 year: 2022

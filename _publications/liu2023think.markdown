@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Think-in-memory\: Recalling And Post-thinking Enable Llms With Long-term Memory
+title: Think-in-memory&#58; Recalling And Post-thinking Enable Llms With Long-term Memory
 authors: Liu Lei, Yang Xiaoyan, Shen Yue, Hu Binbin, Zhang Zhiqiang, Gu Jinjie, Zhang Guannan
 conference: "Arxiv"
 year: 2023

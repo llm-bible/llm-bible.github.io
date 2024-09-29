@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mind The Instructions\: A Holistic Evaluation Of Consistency And Interactions In Prompt-based Learning
+title: Mind The Instructions&#58; A Holistic Evaluation Of Consistency And Interactions In Prompt-based Learning
 authors: Weber Lucas, Bruni Elia, Hupkes Dieuwke
 conference: "Arxiv"
 year: 2023

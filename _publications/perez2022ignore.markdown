@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ignore Previous Prompt\: Attack Techniques For Language Models
+title: Ignore Previous Prompt&#58; Attack Techniques For Language Models
 authors: Perez Fábio, Ribeiro Ian
 conference: "Arxiv"
 year: 2022

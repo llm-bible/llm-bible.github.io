@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Convsdg\: Session Data Generation For Conversational Search
+title: Convsdg&#58; Session Data Generation For Conversational Search
 authors: Mo Fengran, Yi Bole, Mao Kelong, Qu Chen, Huang Kaiyu, Nie Jian-yun
 conference: "Arxiv"
 year: 2024

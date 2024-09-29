@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Whispers That Shake Foundations\: Analyzing And Mitigating False Premise Hallucinations In Large Language Models
+title: Whispers That Shake Foundations&#58; Analyzing And Mitigating False Premise Hallucinations In Large Language Models
 authors: Yuan Hongbang, Cao Pengfei, Jin Zhuoran, Chen Yubo, Zeng Daojian, Liu Kang, Zhao Jun
 conference: "Arxiv"
 year: 2024

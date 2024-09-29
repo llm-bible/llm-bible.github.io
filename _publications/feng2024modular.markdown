@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Modular Pluralism\: Pluralistic Alignment Via Multi-llm Collaboration
+title: Modular Pluralism&#58; Pluralistic Alignment Via Multi-llm Collaboration
 authors: Feng Shangbin, Sorensen Taylor, Liu Yuhan, Fisher Jillian, Park Chan Young, Choi Yejin, Tsvetkov Yulia
 conference: "Arxiv"
 year: 2024

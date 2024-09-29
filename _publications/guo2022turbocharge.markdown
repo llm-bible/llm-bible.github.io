@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: STI\: Turbocharge NLP Inference At The Edge Via Elastic Pipelining
+title: STI&#58; Turbocharge NLP Inference At The Edge Via Elastic Pipelining
 authors: Guo Liwei, Choe Wonkyo, Lin Felix Xiaozhu
 conference: "Arxiv"
 year: 2022

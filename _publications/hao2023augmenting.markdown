@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Toolkengpt\: Augmenting Frozen Language Models With Massive Tools Via Tool Embeddings
+title: Toolkengpt&#58; Augmenting Frozen Language Models With Massive Tools Via Tool Embeddings
 authors: Hao Shibo, Liu Tianyang, Wang Zhen, Hu Zhiting
 conference: "Arxiv"
 year: 2023

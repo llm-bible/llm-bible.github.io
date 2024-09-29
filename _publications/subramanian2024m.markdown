@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: M-QALM\: A Benchmark To Assess Clinical Reading Comprehension And Knowledge Recall In Large Language Models Via Question Answering
+title: M-QALM&#58; A Benchmark To Assess Clinical Reading Comprehension And Knowledge Recall In Large Language Models Via Question Answering
 authors: Subramanian Anand, Schlegel Viktor, Kashyap Abhinav Ramesh, Nguyen Thanh-tung, Dwivedi Vijay Prakash, Winkler Stefan
 conference: "Arxiv"
 year: 2024

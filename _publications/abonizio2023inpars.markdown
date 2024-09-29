@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Inpars Toolkit\: A Unified And Reproducible Synthetic Data Generation Pipeline For Neural Information Retrieval
+title: Inpars Toolkit&#58; A Unified And Reproducible Synthetic Data Generation Pipeline For Neural Information Retrieval
 authors: Abonizio Hugo, Bonifacio Luiz, Jeronymo Vitor, Lotufo Roberto, Zavrel Jakub, Nogueira Rodrigo
 conference: "Arxiv"
 year: 2023

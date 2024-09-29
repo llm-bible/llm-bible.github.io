@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Refchecker\: Reference-based Fine-grained Hallucination Checker And Benchmark For Large Language Models
+title: Refchecker&#58; Reference-based Fine-grained Hallucination Checker And Benchmark For Large Language Models
 authors: Hu Xiangkun, Ru Dongyu, Qiu Lin, Guo Qipeng, Zhang Tianhang, Xu Yang, Luo Yun, Liu Pengfei, Zhang Yue, Zhang Zheng
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Deciphering The Factors Influencing The Efficacy Of Chain-of-thought\: Probability, Memorization, And Noisy Reasoning
+title: Deciphering The Factors Influencing The Efficacy Of Chain-of-thought&#58; Probability, Memorization, And Noisy Reasoning
 authors: Prabhakar Akshara, Griffiths Thomas L., Mccoy R. Thomas
 conference: "Arxiv"
 year: 2024

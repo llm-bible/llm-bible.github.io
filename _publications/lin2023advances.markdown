@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Advances In Embodied Navigation Using Large Language Models\: A Survey
+title: Advances In Embodied Navigation Using Large Language Models&#58; A Survey
 authors: Lin Jinzhou, Gao Han, Feng Xuxiang, Xu Rongtao, Wang Changwei, Zhang Man, Guo Li, Xu Shibiao
 conference: "Arxiv"
 year: 2023

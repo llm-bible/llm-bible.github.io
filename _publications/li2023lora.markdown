@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Loftq\: Lora-fine-tuning-aware Quantization For Large Language Models
+title: Loftq&#58; Lora-fine-tuning-aware Quantization For Large Language Models
 authors: Li Yixiao, Yu Yifan, Liang Chen, He Pengcheng, Karampatziakis Nikos, Chen Weizhu, Zhao Tuo
 conference: "Arxiv"
 year: 2023

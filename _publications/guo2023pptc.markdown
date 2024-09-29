@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PPTC Benchmark\: Evaluating Large Language Models For Powerpoint Task Completion
+title: PPTC Benchmark&#58; Evaluating Large Language Models For Powerpoint Task Completion
 authors: Guo Yiduo, Zhang Zekai, Liang Yaobo, Zhao Dongyan, Duan Nan
 conference: "Arxiv"
 year: 2023

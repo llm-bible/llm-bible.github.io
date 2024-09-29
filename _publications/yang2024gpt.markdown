@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GPT-4 As Evaluator\: Evaluating Large Language Models On Pest Management In Agriculture
+title: GPT-4 As Evaluator&#58; Evaluating Large Language Models On Pest Management In Agriculture
 authors: Yang Shanglong, Yuan Zhipeng, Li Shunbao, Peng Ruoling, Liu Kang, Yang Po
 conference: "Arxiv"
 year: 2024

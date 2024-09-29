@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Shared Imagination\: Llms Hallucinate Alike
+title: Shared Imagination&#58; Llms Hallucinate Alike
 authors: Zhou Yilun, Xiong Caiming, Savarese Silvio, Wu Chien-sheng
 conference: "Arxiv"
 year: 2024

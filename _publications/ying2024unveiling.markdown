@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unveiling The Safety Of Gpt-4o\: An Empirical Study Using Jailbreak Attacks
+title: Unveiling The Safety Of Gpt-4o&#58; An Empirical Study Using Jailbreak Attacks
 authors: Ying Zonghao, Liu Aishan, Liu Xianglong, Tao Dacheng
 conference: "Arxiv"
 year: 2024

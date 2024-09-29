@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Team UTSA-NLP At Semeval 2024 Task 5\: Prompt Ensembling For Argument Reasoning In Civil Procedures With GPT4
+title: Team UTSA-NLP At Semeval 2024 Task 5&#58; Prompt Ensembling For Argument Reasoning In Civil Procedures With GPT4
 authors: Schumacher Dan, Rios Anthony
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Glitchprober\: Advancing Effective Detection And Mitigation Of Glitch Tokens In Large Language Models
+title: Glitchprober&#58; Advancing Effective Detection And Mitigation Of Glitch Tokens In Large Language Models
 authors: Zhang Zhibo, Bai Wuxia, Li Yuxi, Meng Mark Huasong, Wang Kailong, Shi Ling, Li Li, Wang Jun, Wang Haoyu
 conference: "Arxiv"
 year: 2024

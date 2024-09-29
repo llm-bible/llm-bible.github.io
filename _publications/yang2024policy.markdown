@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: P3\: A Policy-driven, Pace-adaptive, And Diversity-promoted Framework For Optimizing LLM Training
+title: P3&#58; A Policy-driven, Pace-adaptive, And Diversity-promoted Framework For Optimizing LLM Training
 authors: Yang Yingxuan, Wang Huayi, Wen Muning, Zhang Weinan
 conference: "Arxiv"
 year: 2024

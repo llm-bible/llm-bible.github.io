@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pushing Boundaries\: Exploring Zero Shot Object Classification With Large Multimodal Models
+title: Pushing Boundaries&#58; Exploring Zero Shot Object Classification With Large Multimodal Models
 authors: Islam Ashhadul, Biswas Md. Rafiul, Zaghouani Wajdi, Belhaouari Samir Brahim, Shah Zubair
 conference: "https://fllm-conference.org/"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LIMA\: Less Is More For Alignment
+title: LIMA&#58; Less Is More For Alignment
 authors: Chunting Zhou, Pengfei Liu, Puxin Xu, Srini Iyer, Jiao Sun, Yuning Mao, Xuezhe Ma, Avia Efrat, Ping Yu, Lili Yu, Susan Zhang, Gargi Ghosh, Mike Lewis, Luke Zettlemoyer, Omer Levy
 conference: "Arxiv"
 year: 2023

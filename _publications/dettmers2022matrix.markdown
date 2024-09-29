@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llm.int8()\: 8-bit Matrix Multiplication For Transformers At Scale
+title: Llm.int8()&#58; 8-bit Matrix Multiplication For Transformers At Scale
 authors: Dettmers Tim, Lewis Mike, Belkada Younes, Zettlemoyer Luke
 conference: "Arxiv"
 year: 2022

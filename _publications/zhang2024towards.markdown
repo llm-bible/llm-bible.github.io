@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Autocap\: Towards Automatic Cross-lingual Alignment Planning For Zero-shot Chain-of-thought
+title: Autocap&#58; Towards Automatic Cross-lingual Alignment Planning For Zero-shot Chain-of-thought
 authors: Zhang Yongheng, Chen Qiguang, Li Min, Che Wanxiang, Qin Libo
 conference: "Arxiv"
 year: 2024

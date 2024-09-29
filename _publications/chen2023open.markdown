@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tigerbot\: An Open Multilingual Multitask LLM
+title: Tigerbot&#58; An Open Multilingual Multitask LLM
 authors: Chen Ye, Cai Wei, Wu Liangmin, Li Xiaowei, Xin Zhanxuan, Fu Cong
 conference: "Arxiv"
 year: 2023

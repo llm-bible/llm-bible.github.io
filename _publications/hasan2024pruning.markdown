@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pruning For Protection\: Increasing Jailbreak Resistance In Aligned Llms Without Fine-tuning
+title: Pruning For Protection&#58; Increasing Jailbreak Resistance In Aligned Llms Without Fine-tuning
 authors: Hasan Adib, Rugina Ileana, Wang Alex
 conference: "Arxiv"
 year: 2024

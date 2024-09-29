@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prefix Text As A Yarn\: Eliciting Non-english Alignment In Foundation Language Model
+title: Prefix Text As A Yarn&#58; Eliciting Non-english Alignment In Foundation Language Model
 authors: Zhan Runzhe, Yang Xinyi, Wong Derek F., Chao Lidia S., Zhang Yue
 conference: "Arxiv"
 year: 2024

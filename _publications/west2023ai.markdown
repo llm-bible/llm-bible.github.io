@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AI And The FCI\: Can Chatgpt Project An Understanding Of Introductory Physics?
+title: AI And The FCI&#58; Can Chatgpt Project An Understanding Of Introductory Physics?
 authors: West Colin G.
 conference: "Arxiv"
 year: 2023

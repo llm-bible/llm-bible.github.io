@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mistral-c2f\: Coarse To Fine Actor For Analytical And Reasoning Enhancement In RLHF And Effective-merged Llms
+title: Mistral-c2f&#58; Coarse To Fine Actor For Analytical And Reasoning Enhancement In RLHF And Effective-merged Llms
 authors: Zheng Chen, Sun Ke, Zhou Xun
 conference: "Arxiv"
 year: 2024

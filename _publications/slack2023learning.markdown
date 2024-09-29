@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TABLET\: Learning From Instructions For Tabular Data
+title: TABLET&#58; Learning From Instructions For Tabular Data
 authors: Slack Dylan, Singh Sameer
 conference: "Arxiv"
 year: 2023

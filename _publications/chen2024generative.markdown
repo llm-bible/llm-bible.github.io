@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: OMPGPT\: A Generative Pre-trained Transformer Model For Openmp
+title: OMPGPT&#58; A Generative Pre-trained Transformer Model For Openmp
 authors: Chen Le, Bhattacharjee Arijit, Ahmed Nesreen, Hasabnis Niranjan, Oren Gal, Vo Vy, Jannesari Ali
 conference: "Arxiv"
 year: 2024

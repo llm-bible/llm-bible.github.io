@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RAG Foundry\: A Framework For Enhancing Llms For Retrieval Augmented Generation
+title: RAG Foundry&#58; A Framework For Enhancing Llms For Retrieval Augmented Generation
 authors: Fleischer Daniel, Berchansky Moshe, Wasserblat Moshe, Izsak Peter
 conference: "Arxiv"
 year: 2024

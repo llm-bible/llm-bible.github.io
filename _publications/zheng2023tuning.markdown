@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Trafficsafetygpt\: Tuning A Pre-trained Large Language Model To A Domain-specific Expert In Transportation Safety
+title: Trafficsafetygpt&#58; Tuning A Pre-trained Large Language Model To A Domain-specific Expert In Transportation Safety
 authors: Zheng Ou, Abdel-aty Mohamed, Wang Dongdong, Wang Chenzhu, Ding Shengxuan
 conference: "Arxiv"
 year: 2023

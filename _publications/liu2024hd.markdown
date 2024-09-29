@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hd-eval\: Aligning Large Language Model Evaluators Through Hierarchical Criteria Decomposition
+title: Hd-eval&#58; Aligning Large Language Model Evaluators Through Hierarchical Criteria Decomposition
 authors: Liu Yuxuan, Yang Tianchi, Huang Shaohan, Zhang Zihan, Huang Haizhen, Wei Furu, Deng Weiwei, Sun Feng, Zhang Qi
 conference: "Arxiv"
 year: 2024

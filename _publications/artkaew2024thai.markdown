@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Thai Winograd Schemas\: A Benchmark For Thai Commonsense Reasoning
+title: Thai Winograd Schemas&#58; A Benchmark For Thai Commonsense Reasoning
 authors: Artkaew Phakphum
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GTA\: Gated Toxicity Avoidance For LM Performance Preservation
+title: GTA&#58; Gated Toxicity Avoidance For LM Performance Preservation
 authors: Kim Heegyu, Cho Hyunsouk
 conference: "Arxiv"
 year: 2023

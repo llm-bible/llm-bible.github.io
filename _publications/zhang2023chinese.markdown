@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CGCE\: A Chinese Generative Chat Evaluation Benchmark For General And Financial Domains
+title: CGCE&#58; A Chinese Generative Chat Evaluation Benchmark For General And Financial Domains
 authors: Zhang Xuanyu, Li Bingbing, Yang Qing
 conference: "Arxiv"
 year: 2023

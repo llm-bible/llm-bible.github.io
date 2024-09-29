@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Personalized Autonomous Driving With Large Language Models\: Field Experiments
+title: Personalized Autonomous Driving With Large Language Models&#58; Field Experiments
 authors: Cui Can, Yang Zichong, Zhou Yupeng, Ma Yunsheng, Lu Juanwu, Li Lingxi, Chen Yaobin, Panchal Jitesh, Wang Ziran
 conference: "Arxiv"
 year: 2023

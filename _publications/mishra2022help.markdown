@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: HELP ME THINK\: A Simple Prompting Strategy For Non-experts To Create Customized Content With Models
+title: HELP ME THINK&#58; A Simple Prompting Strategy For Non-experts To Create Customized Content With Models
 authors: Mishra Swaroop, Nouri Elnaz
 conference: "Arxiv"
 year: 2022

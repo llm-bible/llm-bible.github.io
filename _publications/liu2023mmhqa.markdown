@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MMHQA-ICL\: Multimodal In-context Learning For Hybrid Question Answering Over Text, Tables And Images
+title: MMHQA-ICL&#58; Multimodal In-context Learning For Hybrid Question Answering Over Text, Tables And Images
 authors: Liu Weihao, Lei Fangyu, Luo Tongxu, Lei Jiahe, He Shizhu, Zhao Jun, Liu Kang
 conference: "Arxiv"
 year: 2023

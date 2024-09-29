@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatqa\: Surpassing GPT-4 On Conversational QA And RAG
+title: Chatqa&#58; Surpassing GPT-4 On Conversational QA And RAG
 authors: Liu Zihan, Ping Wei, Roy Rajarshi, Xu Peng, Lee Chankyu, Shoeybi Mohammad, Catanzaro Bryan
 conference: "Arxiv"
 year: 2024

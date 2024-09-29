@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Speechgen\: Unlocking The Generative Power Of Speech Language Models With Prompts
+title: Speechgen&#58; Unlocking The Generative Power Of Speech Language Models With Prompts
 authors: Wu Haibin, Chang Kai-wei, Wu Yuan-kuei, Lee Hung-yi
 conference: "Arxiv"
 year: 2023

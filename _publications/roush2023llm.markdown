@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM As An Art Director (ladi)\: Using Llms To Improve Text-to-media Generators
+title: LLM As An Art Director (ladi)&#58; Using Llms To Improve Text-to-media Generators
 authors: Roush Allen, Zakirov Emil, Shirokov Artemiy, Lunina Polina, Gane Jack, Duffy Alexander, Basil Charlie, Whitcomb Aber, Benedetto Jim, Dewolfe Chris
 conference: "Arxiv"
 year: 2023

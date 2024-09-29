@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Medadapter\: Efficient Test-time Adaptation Of Large Language Models Towards Medical Reasoning
+title: Medadapter&#58; Efficient Test-time Adaptation Of Large Language Models Towards Medical Reasoning
 authors: Shi Wenqi, Xu Ran, Zhuang Yuchen, Yu Yue, Wu Hang, Yang Carl, Wang May D.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Repetition In Repetition Out\: Towards Understanding Neural Text Degeneration From The Data Perspective
+title: Repetition In Repetition Out&#58; Towards Understanding Neural Text Degeneration From The Data Perspective
 authors: Li Huayang, Lan Tian, Fu Zihao, Cai Deng, Liu Lemao, Collier Nigel, Watanabe Taro, Su Yixuan
 conference: "Arxiv"
 year: 2023

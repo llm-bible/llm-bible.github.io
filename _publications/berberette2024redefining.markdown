@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Redefining "hallucination" In Llms\: Towards A Psychology-informed Framework For Mitigating Misinformation
+title: Redefining "hallucination" In Llms&#58; Towards A Psychology-informed Framework For Mitigating Misinformation
 authors: Berberette Elijah, Hutchins Jack, Sadovnik Amir
 conference: "Arxiv"
 year: 2024

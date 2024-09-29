@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transformer Grammars\: Augmenting Transformer Language Models With Syntactic Inductive Biases At Scale
+title: Transformer Grammars&#58; Augmenting Transformer Language Models With Syntactic Inductive Biases At Scale
 authors: Sartran Laurent, Barrett Samuel, Kuncoro Adhiguna, Stanojević Miloš, Blunsom Phil, Dyer Chris
 conference: "Arxiv"
 year: 2022

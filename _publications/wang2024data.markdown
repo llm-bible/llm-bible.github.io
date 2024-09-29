@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Inscl\: A Data-efficient Continual Learning Paradigm For Fine-tuning Large Language Models With Instructions
+title: Inscl&#58; A Data-efficient Continual Learning Paradigm For Fine-tuning Large Language Models With Instructions
 authors: Wang Yifan, Liu Yafei, Shi Chufan, Li Haoling, Chen Chen, Lu Haonan, Yang Yujiu
 conference: "Arxiv"
 year: 2024

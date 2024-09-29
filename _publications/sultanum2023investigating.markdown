@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Datatales\: Investigating The Use Of Large Language Models For Authoring Data-driven Articles
+title: Datatales&#58; Investigating The Use Of Large Language Models For Authoring Data-driven Articles
 authors: Sultanum Nicole, Srinivasan Arjun
 conference: "Arxiv"
 year: 2023

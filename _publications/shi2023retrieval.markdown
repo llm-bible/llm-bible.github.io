@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: REPLUG\: Retrieval-augmented Black-box Language Models
+title: REPLUG&#58; Retrieval-augmented Black-box Language Models
 authors: Weijia Shi, Sewon Min, Michihiro Yasunaga, Minjoon Seo, Rich James, Mike Lewis, Luke Zettlemoyer, Wen-tau Yih
 conference: "Arxiv"
 year: 2023

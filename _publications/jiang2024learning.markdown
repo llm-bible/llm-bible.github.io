@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning To Edit\: Aligning Llms With Knowledge Editing
+title: Learning To Edit&#58; Aligning Llms With Knowledge Editing
 authors: Jiang Yuxin, Wang Yufei, Wu Chuhan, Zhong Wanjun, Zeng Xingshan, Gao Jiahui, Li Liangyou, Jiang Xin, Shang Lifeng, Tang Ruiming, Liu Qun, Wang Wei
 conference: "Arxiv"
 year: 2024

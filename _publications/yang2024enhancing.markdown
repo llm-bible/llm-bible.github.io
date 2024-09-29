@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MAPLE\: Enhancing Review Generation With Multi-aspect Prompt Learning In Explainable Recommendation
+title: MAPLE&#58; Enhancing Review Generation With Multi-aspect Prompt Learning In Explainable Recommendation
 authors: Yang Ching-wen, Chen Che Wei, Wu Kun-da, Xu Hao, Yao Jui-feng, Kao Hung-yu
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Medexqa\: Medical Question Answering Benchmark With Multiple Explanations
+title: Medexqa&#58; Medical Question Answering Benchmark With Multiple Explanations
 authors: Kim Yunsoo, Wu Jinge, Abdulle Yusuf, Wu Honghan
 conference: "Arxiv"
 year: 2024

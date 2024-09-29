@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Incremental Transformers\: An Empirical Analysis Of Transformer Models For Incremental NLU
+title: Towards Incremental Transformers&#58; An Empirical Analysis Of Transformer Models For Incremental NLU
 authors: Kahardipraja Patrick, Madureira Brielen, Schlangen David
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instances Need More Care\: Rewriting Prompts For Instances With Llms In The Loop Yields Better Zero-shot Performance
+title: Instances Need More Care&#58; Rewriting Prompts For Instances With Llms In The Loop Yields Better Zero-shot Performance
 authors: Srivastava Saurabh, Huang Chengyue, Fan Weiguo, Yao Ziyu
 conference: "Arxiv"
 year: 2023

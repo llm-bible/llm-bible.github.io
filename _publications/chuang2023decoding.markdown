@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dola\: Decoding By Contrasting Layers Improves Factuality In Large Language Models
+title: Dola&#58; Decoding By Contrasting Layers Improves Factuality In Large Language Models
 authors: Chuang Yung-sung, Xie Yujia, Luo Hongyin, Kim Yoon, Glass James, He Pengcheng
 conference: "Arxiv"
 year: 2023

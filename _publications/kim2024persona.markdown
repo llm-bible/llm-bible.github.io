@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Persona Is A Double-edged Sword\: Enhancing The Zero-shot Reasoning By Ensembling The Role-playing And Neutral Prompts
+title: Persona Is A Double-edged Sword&#58; Enhancing The Zero-shot Reasoning By Ensembling The Role-playing And Neutral Prompts
 authors: Kim Junseok, Yang Nakyeong, Jung Kyomin
 conference: "Arxiv"
 year: 2024

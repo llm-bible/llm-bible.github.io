@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Visconde\: Multi-document QA With GPT-3 And Neural Reranking
+title: Visconde&#58; Multi-document QA With GPT-3 And Neural Reranking
 authors: Pereira Jayr, Fidalgo Robson, Lotufo Roberto, Nogueira Rodrigo
 conference: "Arxiv"
 year: 2022

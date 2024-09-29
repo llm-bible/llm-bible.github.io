@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Not All Languages Are Created Equal In Llms\: Improving Multilingual Capability By Cross-lingual-thought Prompting
+title: Not All Languages Are Created Equal In Llms&#58; Improving Multilingual Capability By Cross-lingual-thought Prompting
 authors: Huang Haoyang, Tang Tianyi, Zhang Dongdong, Zhao Wayne Xin, Song Ting, Xia Yan, Wei Furu
 conference: "Arxiv"
 year: 2023

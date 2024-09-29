@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt-rag\: Pioneering Vector Embedding-free Retrieval-augmented Generation In Niche Domains, Exemplified By Korean Medicine
+title: Prompt-rag&#58; Pioneering Vector Embedding-free Retrieval-augmented Generation In Niche Domains, Exemplified By Korean Medicine
 authors: Kang Bongsu, Kim Jundong, Yun Tae-rim, Kim Chang-eop
 conference: "Arxiv"
 year: 2024

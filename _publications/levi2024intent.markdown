@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Intent-based Prompt Calibration\: Enhancing Prompt Optimization With Synthetic Boundary Cases
+title: Intent-based Prompt Calibration&#58; Enhancing Prompt Optimization With Synthetic Boundary Cases
 authors: Levi Elad, Brosh Eli, Friedmann Matan
 conference: "Arxiv"
 year: 2024

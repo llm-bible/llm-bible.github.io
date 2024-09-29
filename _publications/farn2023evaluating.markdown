@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tooltalk\: Evaluating Tool-usage In A Conversational Setting
+title: Tooltalk&#58; Evaluating Tool-usage In A Conversational Setting
 authors: Farn Nicholas, Shin Richard
 conference: "Arxiv"
 year: 2023

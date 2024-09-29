@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring The Nexus Of Large Language Models And Legal Systems\: A Short Survey
+title: Exploring The Nexus Of Large Language Models And Legal Systems&#58; A Short Survey
 authors: Qin Weicong, Sun Zhongxiang
 conference: "Arxiv"
 year: 2024

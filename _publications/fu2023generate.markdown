@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generate Then Select\: Open-ended Visual Question Answering Guided By World Knowledge
+title: Generate Then Select&#58; Open-ended Visual Question Answering Guided By World Knowledge
 authors: Fu Xingyu, Zhang Sheng, Kwon Gukyeong, Perera Pramuditha, Zhu Henghui, Zhang Yuhao, Li Alexander Hanbo, Wang William Yang, Wang Zhiguo, Castelli Vittorio, Ng Patrick, Roth Dan, Xiang Bing
 conference: "Arxiv"
 year: 2023

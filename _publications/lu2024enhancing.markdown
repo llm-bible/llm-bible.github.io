@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Desta\: Enhancing Speech Language Models Through Descriptive Speech-text Alignment
+title: Desta&#58; Enhancing Speech Language Models Through Descriptive Speech-text Alignment
 authors: Lu Ke-han, Chen Zhehuai, Fu Szu-wei, Huang He, Ginsburg Boris, Wang Yu-chiang Frank, Lee Hung-yi
 conference: "Arxiv"
 year: 2024

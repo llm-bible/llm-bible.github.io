@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MALTO At Semeval-2024 Task 6\: Leveraging Synthetic Data For LLM Hallucination Detection
+title: MALTO At Semeval-2024 Task 6&#58; Leveraging Synthetic Data For LLM Hallucination Detection
 authors: Borra Federico, Savelli Claudio, Rosso Giacomo, Koudounas Alkis, Giobergia Flavio
 conference: "Arxiv"
 year: 2024

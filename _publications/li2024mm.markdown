@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MM-TTS\: A Unified Framework For Multimodal, Prompt-induced Emotional Text-to-speech Synthesis
+title: MM-TTS&#58; A Unified Framework For Multimodal, Prompt-induced Emotional Text-to-speech Synthesis
 authors: Li Xiang, Cheng Zhi-qi, He Jun-yan, Peng Xiaojiang, Hauptmann Alexander G.
 conference: "Arxiv"
 year: 2024

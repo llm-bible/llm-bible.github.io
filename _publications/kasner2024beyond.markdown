@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Traditional Benchmarks\: Analyzing Behaviors Of Open Llms On Data-to-text Generation
+title: Beyond Traditional Benchmarks&#58; Analyzing Behaviors Of Open Llms On Data-to-text Generation
 authors: Kasner Zdeněk, Dušek Ondřej
 conference: "Arxiv"
 year: 2024

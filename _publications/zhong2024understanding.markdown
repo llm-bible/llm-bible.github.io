@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding The Rope Extensions Of Long-context Llms\: An Attention Perspective
+title: Understanding The Rope Extensions Of Long-context Llms&#58; An Attention Perspective
 authors: Zhong Meizhi, Zhang Chen, Lei Yikun, Liu Xikai, Gao Yan, Hu Yao, Chen Kehai, Zhang Min
 conference: "Arxiv"
 year: 2024

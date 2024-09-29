@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dissecting Multiplication In Transformers\: Insights Into Llms
+title: Dissecting Multiplication In Transformers&#58; Insights Into Llms
 authors: Qiu Luyu, Li Jianing, Su Chi, Zhang Chen Jason, Chen Lei
 conference: "Arxiv"
 year: 2024

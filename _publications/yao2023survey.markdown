@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey On Large Language Model (LLM) Security And Privacy\: The Good, The Bad, And The Ugly
+title: A Survey On Large Language Model (LLM) Security And Privacy&#58; The Good, The Bad, And The Ugly
 authors: Yao Yifan, Duan Jinhao, Xu Kaidi, Cai Yuanfang, Sun Zhibo, Zhang Yue
 conference: "Arxiv"
 year: 2023

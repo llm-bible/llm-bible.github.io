@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Challenges In Procedural Multimodal Machine Comprehension\:a Novel Way To Benchmark
+title: Challenges In Procedural Multimodal Machine Comprehension&#58;a Novel Way To Benchmark
 authors: Sahu Pritish, Sikka Karan, Divakaran Ajay
 conference: "Arxiv"
 year: 2021

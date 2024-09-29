@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: THREAD\: Thinking Deeper With Recursive Spawning
+title: THREAD&#58; Thinking Deeper With Recursive Spawning
 authors: Schroeder Philip, Morgan Nathaniel, Luo Hongyin, Glass James
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Moviellm\: Enhancing Long Video Understanding With Ai-generated Movies
+title: Moviellm&#58; Enhancing Long Video Understanding With Ai-generated Movies
 authors: Song Zhende, Wang Chenchen, Sheng Jiamu, Zhang Chi, Yu Gang, Fan Jiayuan, Chen Tao
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Breaking The Token Barrier\: Chunking And Convolution For Efficient Long Text Classification With BERT
+title: Breaking The Token Barrier&#58; Chunking And Convolution For Efficient Long Text Classification With BERT
 authors: Jaiswal Aman, Milios Evangelos
 conference: "Arxiv"
 year: 2023

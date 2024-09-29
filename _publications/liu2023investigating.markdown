@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Alltogether\: Investigating The Efficacy Of Spliced Prompt For Web Navigation Using Large Language Models
+title: Alltogether&#58; Investigating The Efficacy Of Spliced Prompt For Web Navigation Using Large Language Models
 authors: Liu Jiarun, Hu Wentao, Zhang Chunhong
 conference: "Arxiv"
 year: 2023

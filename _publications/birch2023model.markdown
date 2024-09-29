@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Model Leeching\: An Extraction Attack Targeting Llms
+title: Model Leeching&#58; An Extraction Attack Targeting Llms
 authors: Birch Lewis, Hackett William, Trawicki Stefan, Suri Neeraj, Garraghan Peter
 conference: "Arxiv"
 year: 2023

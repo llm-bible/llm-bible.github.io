@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Codeultrafeedback\: An Llm-as-a-judge Dataset For Aligning Large Language Models To Coding Preferences
+title: Codeultrafeedback&#58; An Llm-as-a-judge Dataset For Aligning Large Language Models To Coding Preferences
 authors: Weyssow Martin, Kamanda Aton, Sahraoui Houari
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attnlrp\: Attention-aware Layer-wise Relevance Propagation For Transformers
+title: Attnlrp&#58; Attention-aware Layer-wise Relevance Propagation For Transformers
 authors: Achtibat Reduan, Hatefi Sayed Mohammad Vakilzadeh, Dreyer Maximilian, Jain Aakriti, Wiegand Thomas, Lapuschkin Sebastian, Samek Wojciech
 conference: "Arxiv"
 year: 2024

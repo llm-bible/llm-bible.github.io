@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Benchmarking And Explaining Large Language Model-based Code Generation\: A Causality-centric Approach
+title: Benchmarking And Explaining Large Language Model-based Code Generation&#58; A Causality-centric Approach
 authors: Ji Zhenlan, Ma Pingchuan, Li Zongjie, Wang Shuai
 conference: "Arxiv"
 year: 2023

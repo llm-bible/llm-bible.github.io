@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Clinical Reading Comprehension\: A Thorough Analysis Of The Emrqa Dataset
+title: Clinical Reading Comprehension&#58; A Thorough Analysis Of The Emrqa Dataset
 authors: Yue Xiang, Gutierrez Bernal Jimenez, Sun Huan
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Generalist To Specialist\: Improving Large Language Models For Medical Physics Using Arcot
+title: From Generalist To Specialist&#58; Improving Large Language Models For Medical Physics Using Arcot
 authors: Grandinetti Jace, Mcbeth Rafe
 conference: "Arxiv"
 year: 2024

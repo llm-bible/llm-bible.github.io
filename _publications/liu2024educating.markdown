@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Educating Llms Like Human Students\: Structure-aware Injection Of Domain Knowledge
+title: Educating Llms Like Human Students&#58; Structure-aware Injection Of Domain Knowledge
 authors: Liu Kai, Chen Ze, Fu Zhihang, Jiang Rongxin, Zhou Fan, Chen Yaowu, Wu Yue, Ye Jieping
 conference: "Arxiv"
 year: 2024

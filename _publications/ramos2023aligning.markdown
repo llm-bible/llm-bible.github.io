@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aligning Neural Machine Translation Models\: Human Feedback In Training And Inference
+title: Aligning Neural Machine Translation Models&#58; Human Feedback In Training And Inference
 authors: Ramos Miguel Moura, Fernandes Patrick, Farinhas António, Martins André F. T.
 conference: "Arxiv"
 year: 2023

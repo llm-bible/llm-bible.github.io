@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aligning Model Evaluations With Human Preferences\: Mitigating Token Count Bias In Language Model Assessments
+title: Aligning Model Evaluations With Human Preferences&#58; Mitigating Token Count Bias In Language Model Assessments
 authors: Daynauth Roland, Mars Jason
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Get An A In Math\: Progressive Rectification Prompting
+title: Get An A In Math&#58; Progressive Rectification Prompting
 authors: Wu Zhenyu, Jiang Meng, Shen Chao
 conference: "Arxiv"
 year: 2023

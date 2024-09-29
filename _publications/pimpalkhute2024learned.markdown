@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Softqe\: Learned Representations Of Queries Expanded By Llms
+title: Softqe&#58; Learned Representations Of Queries Expanded By Llms
 authors: Pimpalkhute Varad, Heyer John, Yin Xusen, Gupta Sameer
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative AI As A Metacognitive Agent\: A Comparative Mixed-method Study With Human Participants On Icf-mimicking Exam Performance
+title: Generative AI As A Metacognitive Agent&#58; A Comparative Mixed-method Study With Human Participants On Icf-mimicking Exam Performance
 authors: Pavlovic Jelena University Of Belgrade, Faculty Of Philosophy And Koucing Centar Resarch Lab, Krstic Jugoslav Koucing Centar Research Lab, Mitrovic Luka Koucing Centar Research Lab, Babic Djordje Koucing Centar Research Lab, Milosavljevic Adrijana Koucing Centar Research Lab, Nikolic Milena Koucing Centar Research Lab, Karaklic Tijana Koucing Centar Research Lab, Mitrovic Tijana Koucing Centar Research Lab
 conference: "Arxiv"
 year: 2024

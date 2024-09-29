@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jailbreaker In Jail\: Moving Target Defense For Large Language Models
+title: Jailbreaker In Jail&#58; Moving Target Defense For Large Language Models
 authors: Chen Bocheng, Paliwal Advait, Yan Qiben
 conference: "Arxiv"
 year: 2023

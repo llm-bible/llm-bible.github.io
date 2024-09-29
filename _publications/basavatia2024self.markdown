@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: STARLING\: Self-supervised Training Of Text-based Reinforcement Learning Agent With Large Language Models
+title: STARLING&#58; Self-supervised Training Of Text-based Reinforcement Learning Agent With Large Language Models
 authors: Basavatia Shreyas, Murugesan Keerthiram, Ratnakar Shivam
 conference: "Arxiv"
 year: 2024

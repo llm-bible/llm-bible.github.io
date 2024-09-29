@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Utebc-nlp At Semeval-2024 Task 9\: Can Llms Be Lateral Thinkers?
+title: Utebc-nlp At Semeval-2024 Task 9&#58; Can Llms Be Lateral Thinkers?
 authors: Sadeghi Pouya, Abaskohi Amirhossein, Yaghoobzadeh Yadollah
 conference: "Arxiv"
 year: 2024

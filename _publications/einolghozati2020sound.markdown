@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sound Natural\: Content Rephrasing In Dialog Systems
+title: Sound Natural&#58; Content Rephrasing In Dialog Systems
 authors: Einolghozati Arash, Gupta Anchit, Diedrick Keith, Gupta Sonal
 conference: "Arxiv"
 year: 2020

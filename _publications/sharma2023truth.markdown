@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Truth Is In There\: Improving Reasoning In Language Models With Layer-selective Rank Reduction
+title: The Truth Is In There&#58; Improving Reasoning In Language Models With Layer-selective Rank Reduction
 authors: Sharma Pratyusha, Ash Jordan T., Misra Dipendra
 conference: "Arxiv"
 year: 2023

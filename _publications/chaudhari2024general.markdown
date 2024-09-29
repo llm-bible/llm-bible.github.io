@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Phantom\: General Trigger Attacks On Retrieval Augmented Language Generation
+title: Phantom&#58; General Trigger Attacks On Retrieval Augmented Language Generation
 authors: Chaudhari Harsh, Severi Giorgio, Abascal John, Jagielski Matthew, Choquette-choo Christopher A., Nasr Milad, Nita-rotaru Cristina, Oprea Alina
 conference: "Arxiv"
 year: 2024

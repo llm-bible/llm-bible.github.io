@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MMC\: Advancing Multimodal Chart Understanding With Large-scale Instruction Tuning
+title: MMC&#58; Advancing Multimodal Chart Understanding With Large-scale Instruction Tuning
 authors: Liu Fuxiao, Wang Xiaoyang, Yao Wenlin, Chen Jianshu, Song Kaiqiang, Cho Sangwoo, Yacoob Yaser, Yu Dong
 conference: "Arxiv"
 year: 2023

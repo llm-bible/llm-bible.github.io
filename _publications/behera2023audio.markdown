@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AQUALLM\: Audio Question Answering Data Generation Using Large Language Models
+title: AQUALLM&#58; Audio Question Answering Data Generation Using Large Language Models
 authors: Behera Swarup Ranjan, Injeti Krishna Mohan, Patibandla Jaya Sai Kiran, Pokala Praveen Kumar, Pailla Balakrishna Reddy
 conference: "Arxiv"
 year: 2023

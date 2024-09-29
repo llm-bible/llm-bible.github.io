@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Nemo-aligner\: Scalable Toolkit For Efficient Model Alignment
+title: Nemo-aligner&#58; Scalable Toolkit For Efficient Model Alignment
 authors: Shen Gerald, Wang Zhilin, Delalleau Olivier, Zeng Jiaqi, Dong Yi, Egert Daniel, Sun Shengyang, Zhang Jimmy, Jain Sahil, Taghibakhshi Ali, Ausin Markel Sanz, Aithal Ashwath, Kuchaiev Oleksii
 conference: "Arxiv"
 year: 2024

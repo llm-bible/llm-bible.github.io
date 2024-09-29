@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AIM\: Let Any Multi-modal Large Language Models Embrace Efficient In-context Learning
+title: AIM&#58; Let Any Multi-modal Large Language Models Embrace Efficient In-context Learning
 authors: Gao Jun, Qiao Qian, Cao Ziqiang, Wang Zili, Li Wenjie
 conference: "Arxiv"
 year: 2024

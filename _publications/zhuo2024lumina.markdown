@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lumina-next\: Making Lumina-t2x Stronger And Faster With Next-dit
+title: Lumina-next&#58; Making Lumina-t2x Stronger And Faster With Next-dit
 authors: Zhuo Le, Du Ruoyi, Xiao Han, Li Yangguang, Liu Dongyang, Huang Rongjie, Liu Wenze, Zhao Lirui, Wang Fu-yun, Ma Zhanyu, Luo Xu, Wang Zehan, Zhang Kaipeng, Zhu Xiangyang, Liu Si, Yue Xiangyu, Liu Dingning, Ouyang Wanli, Liu Ziwei, Qiao Yu, Li Hongsheng, Gao Peng
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sltrain\: A Sparse Plus Low-rank Approach For Parameter And Memory Efficient Pretraining
+title: Sltrain&#58; A Sparse Plus Low-rank Approach For Parameter And Memory Efficient Pretraining
 authors: Han Andi, Li Jiaxiang, Huang Wei, Hong Mingyi, Takeda Akiko, Jawanpuria Pratik, Mishra Bamdev
 conference: "Arxiv"
 year: 2024

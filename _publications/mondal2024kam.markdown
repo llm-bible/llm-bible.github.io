@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Kam-cot\: Knowledge Augmented Multimodal Chain-of-thoughts Reasoning
+title: Kam-cot&#58; Knowledge Augmented Multimodal Chain-of-thoughts Reasoning
 authors: Mondal Debjyoti, Modi Suraj, Panda Subhadarshi, Singh Rituraj, Rao Godawari Sudhakar
 conference: "Arxiv"
 year: 2024

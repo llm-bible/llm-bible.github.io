@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: News Verifiers Showdown\: A Comparative Performance Evaluation Of Chatgpt 3.5, Chatgpt 4.0, Bing AI, And Bard In News Fact-checking
+title: News Verifiers Showdown&#58; A Comparative Performance Evaluation Of Chatgpt 3.5, Chatgpt 4.0, Bing AI, And Bard In News Fact-checking
 authors: Caramancion Kevin Matthe
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Megascale\: Scaling Large Language Model Training To More Than 10,000 Gpus
+title: Megascale&#58; Scaling Large Language Model Training To More Than 10,000 Gpus
 authors: Jiang Ziheng, Lin Haibin, Zhong Yinmin, Huang Qi, Chen Yangrui, Zhang Zhi, Peng Yanghua, Li Xiang, Xie Cong, Nong Shibiao, Jia Yulu, He Sun, Chen Hongmin, Bai Zhihao, Hou Qi, Yan Shipeng, Zhou Ding, Sheng Yiyao, Jiang Zhuo, Xu Haohan, Wei Haoran, Zhang Zhang, Nie Pengfei, Zou Leqi, Zhao Sida, Xiang Liang, Liu Zherui, Li Zhe, Jia Xiaoying, Ye Jianxi, Jin Xin, Liu Xin
 conference: "Arxiv"
 year: 2024

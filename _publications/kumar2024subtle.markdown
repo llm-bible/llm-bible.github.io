@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Subtle Biases Need Subtler Measures\: Dual Metrics For Evaluating Representative And Affinity Bias In Large Language Models
+title: Subtle Biases Need Subtler Measures&#58; Dual Metrics For Evaluating Representative And Affinity Bias In Large Language Models
 authors: Kumar Abhishek, Yunusov Sarfaroz, Emami Ali
 conference: "Arxiv"
 year: 2024

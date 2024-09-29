@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sparq Attention\: Bandwidth-efficient LLM Inference
+title: Sparq Attention&#58; Bandwidth-efficient LLM Inference
 authors: Ribar Luka, Chelombiev Ivan, Hudlass-galley Luke, Blake Charlie, Luschi Carlo, Orr Douglas
 conference: "Arxiv"
 year: 2023

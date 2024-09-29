@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dubo-sql\: Diverse Retrieval-augmented Generation And Fine Tuning For Text-to-sql
+title: Dubo-sql&#58; Diverse Retrieval-augmented Generation And Fine Tuning For Text-to-sql
 authors: Thorpe Dayton G., Duberstein Andrew J., Kinsey Ian A.
 conference: "Arxiv"
 year: 2024

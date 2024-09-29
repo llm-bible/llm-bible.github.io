@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GUI Action Narrator\: Where And When Did That Action Take Place?
+title: GUI Action Narrator&#58; Where And When Did That Action Take Place?
 authors: Wu Qinchen, Gao Difei, Lin Kevin Qinghong, Wu Zhuoyu, Guo Xiangwu, Li Peiran, Zhang Weichen, Wang Hengxu, Shou Mike Zheng
 conference: "Arxiv"
 year: 2024

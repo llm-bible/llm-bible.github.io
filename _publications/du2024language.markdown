@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CLEFT\: Language-image Contrastive Learning With Efficient Large Language Model And Prompt Fine-tuning
+title: CLEFT&#58; Language-image Contrastive Learning With Efficient Large Language Model And Prompt Fine-tuning
 authors: Du Yuexi, Chang Brian, Dvornek Nicha C.
 conference: "Arxiv"
 year: 2024

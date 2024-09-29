@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Think Big, Generate Quick\: Llm-to-slm For Fast Autoregressive Decoding
+title: Think Big, Generate Quick&#58; Llm-to-slm For Fast Autoregressive Decoding
 authors: Bergner Benjamin, Skliar Andrii, Royer Amelie, Blankevoort Tijmen, Asano Yuki, Bejnordi Babak Ehteshami
 conference: "Arxiv"
 year: 2024

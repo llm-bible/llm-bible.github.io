@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Agentohana\: Design Unified Data And Training Pipeline For Effective Agent Learning
+title: Agentohana&#58; Design Unified Data And Training Pipeline For Effective Agent Learning
 authors: Zhang Jianguo, Lan Tian, Murthy Rithesh, Liu Zhiwei, Yao Weiran, Tan Juntao, Hoang Thai, Yang Liangwei, Feng Yihao, Liu Zuxin, Awalgaonkar Tulika, Niebles Juan Carlos, Savarese Silvio, Heinecke Shelby, Wang Huan, Xiong Caiming
 conference: "Arxiv"
 year: 2024

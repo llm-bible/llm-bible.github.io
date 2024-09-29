@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VP-LLM\: Text-driven 3D Volume Completion With Large Language Models Through Patchification
+title: VP-LLM&#58; Text-driven 3D Volume Completion With Large Language Models Through Patchification
 authors: Liu Jianmeng, Liu Yichen, Zhang Yuyao, Meng Zeyuan, Tai Yu-wing, Tang Chi-keung
 conference: "Arxiv"
 year: 2024

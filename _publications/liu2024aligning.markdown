@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aligning With Human Judgement\: The Role Of Pairwise Preference In Large Language Model Evaluators
+title: Aligning With Human Judgement&#58; The Role Of Pairwise Preference In Large Language Model Evaluators
 authors: Liu Yinhong, Zhou Han, Guo Zhijiang, Shareghi Ehsan, Vulić Ivan, Korhonen Anna, Collier Nigel
 conference: "Arxiv"
 year: 2024

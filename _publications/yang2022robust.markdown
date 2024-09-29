@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tableformer\: Robust Transformer Modeling For Table-text Encoding
+title: Tableformer&#58; Robust Transformer Modeling For Table-text Encoding
 authors: Yang Jingfeng, Gupta Aditya, Upadhyay Shyam, He Luheng, Goel Rahul, Paul Shachi
 conference: "Arxiv"
 year: 2022

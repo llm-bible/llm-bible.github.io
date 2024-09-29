@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatglm-math\: Improving Math Problem-solving In Large Language Models With A Self-critique Pipeline
+title: Chatglm-math&#58; Improving Math Problem-solving In Large Language Models With A Self-critique Pipeline
 authors: Xu Yifan, Liu Xiao, Liu Xinghan, Hou Zhenyu, Li Yueyan, Zhang Xiaohan, Wang Zihan, Zeng Aohan, Du Zhengxiao, Zhao Wenyi, Tang Jie, Dong Yuxiao
 conference: "Arxiv"
 year: 2024

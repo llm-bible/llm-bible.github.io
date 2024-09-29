@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative AI And Large Language Models For Cyber Security\: All Insights You Need
+title: Generative AI And Large Language Models For Cyber Security&#58; All Insights You Need
 authors: Ferrag Mohamed Amine, Alwahedi Fatima, Battah Ammar, Cherif Bilel, Mechri Abdechakour, Tihanyi Norbert
 conference: "Arxiv"
 year: 2024

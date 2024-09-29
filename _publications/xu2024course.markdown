@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Course-correction\: Safety Alignment Using Synthetic Preferences
+title: Course-correction&#58; Safety Alignment Using Synthetic Preferences
 authors: Xu Rongwu, Cai Yishuo, Zhou Zhenhong, Gu Renjie, Weng Haiqin, Liu Yan, Zhang Tianwei, Xu Wei, Qiu Han
 conference: "Arxiv"
 year: 2024

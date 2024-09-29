@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Impact Of Hyperparameters On Large Language Model Inference Performance\: An Evaluation Of Vllm And Huggingface Pipelines
+title: The Impact Of Hyperparameters On Large Language Model Inference Performance&#58; An Evaluation Of Vllm And Huggingface Pipelines
 authors: Martinez Matias
 conference: "Arxiv"
 year: 2024

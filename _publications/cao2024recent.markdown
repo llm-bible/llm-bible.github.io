@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recent Advances In Text Embedding\: A Comprehensive Review Of Top-performing Methods On The MTEB Benchmark
+title: Recent Advances In Text Embedding&#58; A Comprehensive Review Of Top-performing Methods On The MTEB Benchmark
 authors: Cao Hongliu
 conference: "Arxiv"
 year: 2024

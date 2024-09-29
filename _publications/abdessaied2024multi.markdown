@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Olvit\: Multi-modal State Tracking Via Attention-based Embeddings For Video-grounded Dialog
+title: Olvit&#58; Multi-modal State Tracking Via Attention-based Embeddings For Video-grounded Dialog
 authors: Abdessaied Adnen, Von Hochmeister Manuel, Bulling Andreas
 conference: "Arxiv"
 year: 2024

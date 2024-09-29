@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Polyrating\: A Cost-effective And Bias-aware Rating System For LLM Evaluation
+title: Polyrating&#58; A Cost-effective And Bias-aware Rating System For LLM Evaluation
 authors: Dekoninck Jasper, Baader Maximilian, Vechev Martin
 conference: "Arxiv"
 year: 2024

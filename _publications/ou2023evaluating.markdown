@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dialogbench\: Evaluating Llms As Human-like Dialogue Systems
+title: Dialogbench&#58; Evaluating Llms As Human-like Dialogue Systems
 authors: Ou Jiao, Lu Junda, Liu Che, Tang Yihong, Zhang Fuzheng, Zhang Di, Gai Kun
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Direct Preference Optimization\: Your Language Model Is Secretly A Reward Model
+title: Direct Preference Optimization&#58; Your Language Model Is Secretly A Reward Model
 authors: Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D. Manning, Chelsea Finn
 conference: "Arxiv"
 year: 2023

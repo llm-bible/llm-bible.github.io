@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Editable Fairness\: Fine-grained Bias Mitigation In Language Models
+title: Editable Fairness&#58; Fine-grained Bias Mitigation In Language Models
 authors: Chen Ruizhe, Li Yichen, Yang Jianfei, Zhou Joey Tianyi, Liu Zuozhu
 conference: "Arxiv"
 year: 2024

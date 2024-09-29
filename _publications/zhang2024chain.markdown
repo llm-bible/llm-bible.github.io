@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chain Of Preference Optimization\: Improving Chain-of-thought Reasoning In Llms
+title: Chain Of Preference Optimization&#58; Improving Chain-of-thought Reasoning In Llms
 authors: Zhang Xuan, Du Chao, Pang Tianyu, Liu Qian, Gao Wei, Lin Min
 conference: "Arxiv"
 year: 2024

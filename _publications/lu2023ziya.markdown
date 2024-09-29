@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ziya-visual\: Bilingual Large Vision-language Model Via Multi-task Instruction Tuning
+title: Ziya-visual&#58; Bilingual Large Vision-language Model Via Multi-task Instruction Tuning
 authors: Lu Junyu, Zhang Dixiang, Wu Xiaojun, Gao Xinyu, Gan Ruyi, Zhang Jiaxing, Song Yan, Zhang Pingjian
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Convkgyarn\: Spinning Configurable And Scalable Conversational Knowledge Graph QA Datasets With Large Language Models
+title: Convkgyarn&#58; Spinning Configurable And Scalable Conversational Knowledge Graph QA Datasets With Large Language Models
 authors: Pradeep Ronak, Lee Daniel, Mousavi Ali, Pound Jeff, Sang Yisi, Lin Jimmy, Ilyas Ihab, Potdar Saloni, Arefiyan Mostafa, Li Yunyao
 conference: "Arxiv"
 year: 2024

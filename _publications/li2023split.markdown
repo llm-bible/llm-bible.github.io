@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Split And Merge\: Aligning Position Biases In Large Language Model Based Evaluators
+title: Split And Merge&#58; Aligning Position Biases In Large Language Model Based Evaluators
 authors: Li Zongjie, Wang Chaozheng, Ma Pingchuan, Wu Daoyuan, Wang Shuai, Gao Cuiyun, Liu Yang
 conference: "Arxiv"
 year: 2023

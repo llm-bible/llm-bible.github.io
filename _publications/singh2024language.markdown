@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LGR2\: Language Guided Reward Relabeling For Accelerating Hierarchical Reinforcement Learning
+title: LGR2&#58; Language Guided Reward Relabeling For Accelerating Hierarchical Reinforcement Learning
 authors: Singh Utsav, Bhattacharyya Pramit, Namboodiri Vinay P.
 conference: "Arxiv"
 year: 2024

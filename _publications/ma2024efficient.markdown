@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Megalodon\: Efficient LLM Pretraining And Inference With Unlimited Context Length
+title: Megalodon&#58; Efficient LLM Pretraining And Inference With Unlimited Context Length
 authors: Ma Xuezhe, Yang Xiaomeng, Xiong Wenhan, Chen Beidi, Yu Lili, Zhang Hao, May Jonathan, Zettlemoyer Luke, Levy Omer, Zhou Chunting
 conference: "Arxiv"
 year: 2024

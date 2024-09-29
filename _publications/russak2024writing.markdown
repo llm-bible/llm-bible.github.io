@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Writing In The Margins\: Better Inference Pattern For Long Context Retrieval
+title: Writing In The Margins&#58; Better Inference Pattern For Long Context Retrieval
 authors: Russak Melisa, Jamil Umar, Bryant Christopher, Kamble Kiran, Magnuson Axel, Russak Mateusz, Alshikh Waseem
 conference: "Arxiv"
 year: 2024

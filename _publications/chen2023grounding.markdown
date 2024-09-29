@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lmexplainer\: Grounding Knowledge And Explaining Language Models
+title: Lmexplainer&#58; Grounding Knowledge And Explaining Language Models
 authors: Chen Zichen, Chen Jianda, Chen Yuanyuan, Yu Han, Singh Ambuj K, Sra Misha
 conference: "Arxiv"
 year: 2023

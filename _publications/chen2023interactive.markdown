@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: See, Think, Confirm\: Interactive Prompting Between Vision And Language Models For Knowledge-based Visual Reasoning
+title: See, Think, Confirm&#58; Interactive Prompting Between Vision And Language Models For Knowledge-based Visual Reasoning
 authors: Chen Zhenfang, Zhou Qinhong, Shen Yikang, Hong Yining, Zhang Hao, Gan Chuang
 conference: "Arxiv"
 year: 2023

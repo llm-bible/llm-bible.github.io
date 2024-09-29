@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LUNA\: A Framework For Language Understanding And Naturalness Assessment
+title: LUNA&#58; A Framework For Language Understanding And Naturalness Assessment
 authors: Saidov Marat, Bakalova Aleksandra, Taktasheva Ekaterina, Mikhailov Vladislav, Artemova Ekaterina
 conference: "Arxiv"
 year: 2024

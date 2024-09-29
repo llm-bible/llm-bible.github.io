@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Images To Textual Prompts\: Zero-shot VQA With Frozen Large Language Models
+title: From Images To Textual Prompts&#58; Zero-shot VQA With Frozen Large Language Models
 authors: Jiaxian Guo, Junnan Li, Dongxu Li, Anthony Meng Huat Tiong, Boyang Li, Dacheng Tao, Steven C. H. Hoi
 conference: "Arxiv"
 year: 2022

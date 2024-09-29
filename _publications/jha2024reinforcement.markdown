@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RLSF\: Reinforcement Learning Via Symbolic Feedback
+title: RLSF&#58; Reinforcement Learning Via Symbolic Feedback
 authors: Jha Piyush, Jana Prithwish, Arora Arnav, Ganesh Vijay
 conference: "Arxiv"
 year: 2024

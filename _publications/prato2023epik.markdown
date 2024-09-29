@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Epik-eval\: Evaluation For Language Models As Epistemic Models
+title: Epik-eval&#58; Evaluation For Language Models As Epistemic Models
 authors: Prato Gabriele, Huang Jerry, Parthasarathi Prasannna, Sodhani Shagun, Chandar Sarath
 conference: "Arxiv"
 year: 2023

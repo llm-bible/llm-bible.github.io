@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SPDF\: Sparse Pre-training And Dense Fine-tuning For Large Language Models
+title: SPDF&#58; Sparse Pre-training And Dense Fine-tuning For Large Language Models
 authors: Thangarasa Vithursan, Gupta Abhay, Marshall William, Li Tianda, Leong Kevin, Decoste Dennis, Lie Sean, Saxena Shreyas
 conference: "Arxiv"
 year: 2023

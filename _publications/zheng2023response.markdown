@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Response Length Perception And Sequence Scheduling\: An Llm-empowered LLM Inference Pipeline
+title: Response Length Perception And Sequence Scheduling&#58; An Llm-empowered LLM Inference Pipeline
 authors: Zheng Zangwei, Ren Xiaozhe, Xue Fuzhao, Luo Yang, Jiang Xin, You Yang
 conference: "Arxiv"
 year: 2023

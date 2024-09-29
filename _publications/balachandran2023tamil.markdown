@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tamil-llama\: A New Tamil Language Model Based On Llama 2
+title: Tamil-llama&#58; A New Tamil Language Model Based On Llama 2
 authors: Balachandran Abhinand
 conference: "Arxiv"
 year: 2023

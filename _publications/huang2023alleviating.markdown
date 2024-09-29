@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: OPERA\: Alleviating Hallucination In Multi-modal Large Language Models Via Over-trust Penalty And Retrospection-allocation
+title: OPERA&#58; Alleviating Hallucination In Multi-modal Large Language Models Via Over-trust Penalty And Retrospection-allocation
 authors: Qidong Huang, Xiaoyi Dong, Pan Zhang, Bin Wang, Conghui He, Jiaqi Wang, Dahua Lin, Weiming Zhang, Nenghai Yu
 conference: "Arxiv"
 year: 2023

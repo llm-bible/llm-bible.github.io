@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-task Inference\: Can Large Language Models Follow Multiple Instructions At Once?
+title: Multi-task Inference&#58; Can Large Language Models Follow Multiple Instructions At Once?
 authors: Son Guijin, Baek Sangwon, Nam Sangdae, Jeong Ilgyun, Kim Seungone
 conference: "Arxiv"
 year: 2024

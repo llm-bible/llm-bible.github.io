@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Face4rag\: Factual Consistency Evaluation For Retrieval Augmented Generation In Chinese
+title: Face4rag&#58; Factual Consistency Evaluation For Retrieval Augmented Generation In Chinese
 authors: Xu Yunqi, Cai Tianchi, Jiang Jiyan, Song Xierui
 conference: "KDD"
 year: 2024

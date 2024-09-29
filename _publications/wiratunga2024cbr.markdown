@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CBR-RAG\: Case-based Reasoning For Retrieval Augmented Generation In Llms For Legal Question Answering
+title: CBR-RAG&#58; Case-based Reasoning For Retrieval Augmented Generation In Llms For Legal Question Answering
 authors: Wiratunga Nirmalie, Abeyratne Ramitha, Jayawardena Lasal, Martin Kyle, Massie Stewart, Nkisi-orji Ikechukwu, Weerasinghe Ruvan, Liret Anne, Fleisch Bruno
 conference: "Arxiv"
 year: 2024

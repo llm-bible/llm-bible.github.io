@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: OWL\: A Large Language Model For IT Operations
+title: OWL&#58; A Large Language Model For IT Operations
 authors: Guo Hongcheng, Yang Jian, Liu Jiaheng, Yang Liqun, Chai Linzheng, Bai Jiaqi, Peng Junran, Hu Xiaorong, Chen Chao, Zhang Dongfeng, Shi Xu, Zheng Tieqiao, Zheng Liangfan, Zhang Bo, Xu Ke, Li Zhoujun
 conference: "Arxiv"
 year: 2023

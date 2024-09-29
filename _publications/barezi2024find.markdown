@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Find The Gap\: Knowledge Base Reasoning For Visual Question Answering
+title: Find The Gap&#58; Knowledge Base Reasoning For Visual Question Answering
 authors: Barezi Elham J., Kordjamshidi Parisa
 conference: "Arxiv"
 year: 2024

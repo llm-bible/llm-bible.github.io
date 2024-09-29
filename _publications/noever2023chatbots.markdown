@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatbots As Problem Solvers\: Playing Twenty Questions With Role Reversals
+title: Chatbots As Problem Solvers&#58; Playing Twenty Questions With Role Reversals
 authors: Noever David, Mckee Forrest
 conference: "Arxiv"
 year: 2023

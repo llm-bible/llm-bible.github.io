@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Impact Of Demonstrations On Multilingual In-context Learning\: A Multidimensional Analysis
+title: The Impact Of Demonstrations On Multilingual In-context Learning&#58; A Multidimensional Analysis
 authors: Zhang Miaoran, Gautam Vagrant, Wang Mingyang, Alabi Jesujoba O., Shen Xiaoyu, Klakow Dietrich, Mosbach Marius
 conference: "Arxiv"
 year: 2024

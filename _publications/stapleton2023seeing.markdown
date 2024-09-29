@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Seeing Seeds Beyond Weeds\: Green Teaming Generative AI For Beneficial Uses
+title: Seeing Seeds Beyond Weeds&#58; Green Teaming Generative AI For Beneficial Uses
 authors: Stapleton Logan, Taylor Jordan, Fox Sarah, Wu Tongshuang, Zhu Haiyi
 conference: "Arxiv"
 year: 2023

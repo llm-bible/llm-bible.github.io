@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Intermediate Distillation\: Data-efficient Distillation From Black-box Llms For Information Retrieval
+title: Intermediate Distillation&#58; Data-efficient Distillation From Black-box Llms For Information Retrieval
 authors: Li Zizhong, Zhang Haopeng, Zhang Jiawei
 conference: "Arxiv"
 year: 2024

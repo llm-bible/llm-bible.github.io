@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Using Large Language Models To Estimate Features Of Multi-word Expressions\: Concreteness, Valence, Arousal
+title: Using Large Language Models To Estimate Features Of Multi-word Expressions&#58; Concreteness, Valence, Arousal
 authors: Martínez Gonzalo, Molero Juan Diego, González Sandra, Conde Javier, Brysbaert Marc, Reviriego Pedro
 conference: "Arxiv"
 year: 2024

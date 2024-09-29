@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mapcoder\: Multi-agent Code Generation For Competitive Problem Solving
+title: Mapcoder&#58; Multi-agent Code Generation For Competitive Problem Solving
 authors: Islam Md. Ashraful, Ali Mohammed Eunus, Parvez Md Rizwan
 conference: "Arxiv"
 year: 2024

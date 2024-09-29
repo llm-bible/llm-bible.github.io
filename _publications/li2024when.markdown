@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: When Hindsight Is Not 20/20\: Testing Limits On Reflective Thinking In Large Language Models
+title: When Hindsight Is Not 20/20&#58; Testing Limits On Reflective Thinking In Large Language Models
 authors: Li Yanhong, Yang Chenghao, Ettinger Allyson
 conference: "Arxiv"
 year: 2024

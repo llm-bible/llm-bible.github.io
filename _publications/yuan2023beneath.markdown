@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beneath Surface Similarity\: Large Language Models Make Reasonable Scientific Analogies After Structure Abduction
+title: Beneath Surface Similarity&#58; Large Language Models Make Reasonable Scientific Analogies After Structure Abduction
 authors: Yuan Siyu, Chen Jiangjie, Ge Xuyang, Xiao Yanghua, Yang Deqing
 conference: "Arxiv"
 year: 2023

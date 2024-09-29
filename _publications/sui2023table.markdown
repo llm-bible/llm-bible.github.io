@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TAP4LLM\: Table Provider On Sampling, Augmenting, And Packing Semi-structured Data For Large Language Model Reasoning
+title: TAP4LLM&#58; Table Provider On Sampling, Augmenting, And Packing Semi-structured Data For Large Language Model Reasoning
 authors: Sui Yuan, Zou Jiaru, Zhou Mengyu, He Xinyi, Du Lun, Han Shi, Zhang Dongmei
 conference: "Arxiv"
 year: 2023

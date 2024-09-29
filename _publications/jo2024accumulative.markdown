@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A2SF\: Accumulative Attention Scoring With Forgetting Factor For Token Pruning In Transformer Decoder
+title: A2SF&#58; Accumulative Attention Scoring With Forgetting Factor For Token Pruning In Transformer Decoder
 authors: Jo Hyun-rae, Shin Dongkun
 conference: "Arxiv"
 year: 2024

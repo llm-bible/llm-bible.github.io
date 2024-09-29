@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MEDITRON-70B\: Scaling Medical Pretraining For Large Language Models
+title: MEDITRON-70B&#58; Scaling Medical Pretraining For Large Language Models
 authors: Chen Zeming, Cano Alejandro Hernández, Romanou Angelika, Bonnet Antoine, Matoba Kyle, Salvi Francesco, Pagliardini Matteo, Fan Simin, Köpf Andreas, Mohtashami Amirkeivan, Sallinen Alexandre, Sakhaeirad Alireza, Swamy Vinitra, Krawczuk Igor, Bayazit Deniz, Marmet Axel, Montariol Syrielle, Hartley Mary-anne, Jaggi Martin, Bosselut Antoine
 conference: "Arxiv"
 year: 2023

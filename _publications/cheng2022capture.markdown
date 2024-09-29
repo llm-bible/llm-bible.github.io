@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Capture Salient Historical Information\: A Fast And Accurate Non-autoregressive Model For Multi-turn Spoken Language Understanding
+title: Capture Salient Historical Information&#58; A Fast And Accurate Non-autoregressive Model For Multi-turn Spoken Language Understanding
 authors: Cheng Lizhi, Jia Weijia, Yang Wenmian
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Logicvista\: Multimodal LLM Logical Reasoning Benchmark In Visual Contexts
+title: Logicvista&#58; Multimodal LLM Logical Reasoning Benchmark In Visual Contexts
 authors: Xiao Yijia, Sun Edward, Liu Tianyu, Wang Wei
 conference: "Arxiv"
 year: 2024

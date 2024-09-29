@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: To Repeat Or Not To Repeat\: Insights From Scaling LLM Under Token-crisis
+title: To Repeat Or Not To Repeat&#58; Insights From Scaling LLM Under Token-crisis
 authors: Xue Fuzhao, Fu Yao, Zhou Wangchunshu, Zheng Zangwei, You Yang
 conference: "Arxiv"
 year: 2023

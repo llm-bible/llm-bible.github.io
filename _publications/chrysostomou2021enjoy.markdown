@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enjoy The Salience\: Towards Better Transformer-based Faithful Explanations With Word Salience
+title: Enjoy The Salience&#58; Towards Better Transformer-based Faithful Explanations With Word Salience
 authors: Chrysostomou George, Aletras Nikolaos
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Granite-function Calling Model\: Introducing Function Calling Abilities Via Multi-task Learning Of Granular Tasks
+title: Granite-function Calling Model&#58; Introducing Function Calling Abilities Via Multi-task Learning Of Granular Tasks
 authors: Abdelaziz Ibrahim, Basu Kinjal, Agarwal Mayank, Kumaravel Sadhana, Stallone Matthew, Panda Rameswar, Rizk Yara, Bhargav Gp, Crouse Maxwell, Gunasekara Chulaka, Ikbal Shajith, Joshi Sachin, Karanam Hima, Kumar Vineet, Munawar Asim, Neelam Sumit, Raghu Dinesh, Sharma Udit, Soria Adriana Meza, Sreedhar Dheeraj, Venkateswaran Praveen, Unuvar Merve, Cox David, Roukos Salim, Lastras Luis, Kapanipathi Pavan
 conference: "Arxiv"
 year: 2024

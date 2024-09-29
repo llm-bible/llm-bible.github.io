@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chainpoll\: A High Efficacy Method For LLM Hallucination Detection
+title: Chainpoll&#58; A High Efficacy Method For LLM Hallucination Detection
 authors: Friel Robert, Sanyal Atindriyo
 conference: "Arxiv"
 year: 2023

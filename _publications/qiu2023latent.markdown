@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Latent Jailbreak\: A Benchmark For Evaluating Text Safety And Output Robustness Of Large Language Models
+title: Latent Jailbreak&#58; A Benchmark For Evaluating Text Safety And Output Robustness Of Large Language Models
 authors: Qiu Huachuan, Zhang Shuai, Li Anqi, He Hongliang, Lan Zhenzhong
 conference: "Arxiv"
 year: 2023

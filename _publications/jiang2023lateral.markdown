@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BRAINTEASER\: Lateral Thinking Puzzles For Large Language Models
+title: BRAINTEASER&#58; Lateral Thinking Puzzles For Large Language Models
 authors: Jiang Yifan, Ilievski Filip, Ma Kaixin, Sourati Zhivar
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zzzgpt\: An Interactive GPT Approach To Enhance Sleep Quality
+title: Zzzgpt&#58; An Interactive GPT Approach To Enhance Sleep Quality
 authors: Khaokaew Yonchanok, Ji Kaixin, Nguyen Thuc Hanh, Kegalle Hiruni, Alaofi Marwah, Xue Hao, Salim Flora D.
 conference: "Arxiv"
 year: 2023

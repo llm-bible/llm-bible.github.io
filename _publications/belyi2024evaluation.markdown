@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Luna\: An Evaluation Foundation Model To Catch Language Model Hallucinations With High Accuracy And Low Cost
+title: Luna&#58; An Evaluation Foundation Model To Catch Language Model Hallucinations With High Accuracy And Low Cost
 authors: Belyi Masha, Friel Robert, Shao Shuai, Sanyal Atindriyo
 conference: "Arxiv"
 year: 2024

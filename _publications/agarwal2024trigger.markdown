@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tricy\: Trigger-guided Data-to-text Generation With Intent Aware Attention-copy
+title: Tricy&#58; Trigger-guided Data-to-text Generation With Intent Aware Attention-copy
 authors: Agarwal Vibhav, Ghosh Sourav, Bss Harichandana, Arora Himanshu, Raja Barath Raj Kandur
 conference: "IEEE/ACM Transactions on Audio Speech and Language Processing vol."
 year: 2024

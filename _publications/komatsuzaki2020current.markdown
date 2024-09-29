@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Current Limitations Of Language Models\: What You Need Is Retrieval
+title: Current Limitations Of Language Models&#58; What You Need Is Retrieval
 authors: Komatsuzaki Aran
 conference: "Arxiv"
 year: 2020

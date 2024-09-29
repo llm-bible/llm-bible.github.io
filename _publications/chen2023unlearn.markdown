@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unlearn What You Want To Forget\: Efficient Unlearning For Llms
+title: Unlearn What You Want To Forget&#58; Efficient Unlearning For Llms
 authors: Chen Jiaao, Yang Diyi
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pelican\: Correcting Hallucination In Vision-llms Via Claim Decomposition And Program Of Thought Verification
+title: Pelican&#58; Correcting Hallucination In Vision-llms Via Claim Decomposition And Program Of Thought Verification
 authors: Sahu Pritish, Sikka Karan, Divakaran Ajay
 conference: "Arxiv"
 year: 2024

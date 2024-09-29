@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mindfuldiary\: Harnessing Large Language Model To Support Psychiatric Patients' Journaling
+title: Mindfuldiary&#58; Harnessing Large Language Model To Support Psychiatric Patients' Journaling
 authors: Kim Taewan, Bae Seolyeong, Kim Hyun Ah, Lee Su-woo, Hong Hwajung, Yang Chanmo, Kim Young-ho
 conference: "In Proceedings of the CHI Conference on Human Factors in Computing Systems"
 year: 2023

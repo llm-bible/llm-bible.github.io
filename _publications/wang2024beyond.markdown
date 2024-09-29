@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond The Known\: Investigating Llms Performance On Out-of-domain Intent Detection
+title: Beyond The Known&#58; Investigating Llms Performance On Out-of-domain Intent Detection
 authors: Wang Pei, He Keqing, Wang Yejie, Song Xiaoshuai, Mou Yutao, Wang Jingang, Xian Yunsen, Cai Xunliang, Xu Weiran
 conference: "LREC-COLING"
 year: 2024

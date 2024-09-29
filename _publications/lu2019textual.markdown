@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Good, Better, Best\: Textual Distractors Generation For Multiple-choice Visual Question Answering Via Reinforcement Learning
+title: Good, Better, Best&#58; Textual Distractors Generation For Multiple-choice Visual Question Answering Via Reinforcement Learning
 authors: Lu Jiaying, Ye Xin, Ren Yi, Yang Yezhou
 conference: "CVPR"
 year: 2019

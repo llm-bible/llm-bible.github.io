@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cat-bench\: Benchmarking Language Model Understanding Of Causal And Temporal Dependencies In Plans
+title: Cat-bench&#58; Benchmarking Language Model Understanding Of Causal And Temporal Dependencies In Plans
 authors: Lal Yash Kumar, Cohen Vanya, Chambers Nathanael, Balasubramanian Niranjan, Mooney Raymond
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SEMQA\: Semi-extractive Multi-source Question Answering
+title: SEMQA&#58; Semi-extractive Multi-source Question Answering
 authors: Schuster Tal, Lelkes Adam D., Sun Haitian, Gupta Jai, Berant Jonathan, Cohen William W., Metzler Donald
 conference: "Arxiv"
 year: 2023

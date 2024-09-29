@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CLIP Also Understands Text\: Prompting CLIP For Phrase Understanding
+title: CLIP Also Understands Text&#58; Prompting CLIP For Phrase Understanding
 authors: Yan An, Li Jiacheng, Zhu Wanrong, Lu Yujie, Wang William Yang, Mcauley Julian
 conference: "Arxiv"
 year: 2022

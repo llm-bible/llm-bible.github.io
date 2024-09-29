@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attention Score Is Not All You Need For Token Importance Indicator In KV Cache Reduction\: Value Also Matters
+title: Attention Score Is Not All You Need For Token Importance Indicator In KV Cache Reduction&#58; Value Also Matters
 authors: Guo Zhiyu, Kamigaito Hidetaka, Watanabe Taro
 conference: "Arxiv"
 year: 2024

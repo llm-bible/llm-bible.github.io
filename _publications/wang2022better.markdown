@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Qrelscore\: Better Evaluating Generated Questions With Deeper Understanding Of Context-aware Relevance
+title: Qrelscore&#58; Better Evaluating Generated Questions With Deeper Understanding Of Context-aware Relevance
 authors: Wang Xiaoqiang, Liu Bang, Tang Siliang, Wu Lingfei
 conference: "Arxiv"
 year: 2022

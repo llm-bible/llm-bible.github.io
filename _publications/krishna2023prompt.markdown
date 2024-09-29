@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt Generate Train (PGT)\: Few-shot Domain Adaption Of Retrieval Augmented Generation Models For Open Book Question-answering
+title: Prompt Generate Train (PGT)&#58; Few-shot Domain Adaption Of Retrieval Augmented Generation Models For Open Book Question-answering
 authors: Krishna C. S.
 conference: "Arxiv"
 year: 2023

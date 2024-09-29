@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cmm-math\: A Chinese Multimodal Math Dataset To Evaluate And Enhance The Mathematics Reasoning Of Large Multimodal Models
+title: Cmm-math&#58; A Chinese Multimodal Math Dataset To Evaluate And Enhance The Mathematics Reasoning Of Large Multimodal Models
 authors: Liu Wentao, Pan Qianjun, Zhang Yi, Liu Zhuo, Wu Ji, Zhou Jie, Zhou Aimin, Chen Qin, Jiang Bo, He Liang
 conference: "Arxiv"
 year: 2024

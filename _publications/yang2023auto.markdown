@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Auto-gpt For Online Decision Making\: Benchmarks And Additional Opinions
+title: Auto-gpt For Online Decision Making&#58; Benchmarks And Additional Opinions
 authors: Yang Hui, Yue Sifu, He Yunzhong
 conference: "Arxiv"
 year: 2023

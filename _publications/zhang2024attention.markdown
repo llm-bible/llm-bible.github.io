@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attention Instruction\: Amplifying Attention In The Middle Via Prompting
+title: Attention Instruction&#58; Amplifying Attention In The Middle Via Prompting
 authors: Zhang Meiru, Meng Zaiqiao, Collier Nigel
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: COSMO\: Contrastive Streamlined Multimodal Model With Interleaved Pre-training
+title: COSMO&#58; Contrastive Streamlined Multimodal Model With Interleaved Pre-training
 authors: Wang Alex Jinpeng, Li Linjie, Lin Kevin Qinghong, Wang Jianfeng, Lin Kevin, Yang Zhengyuan, Wang Lijuan, Shou Mike Zheng
 conference: "Arxiv"
 year: 2024

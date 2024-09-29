@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Murar\: A Simple And Effective Multimodal Retrieval And Answer Refinement Framework For Multimodal Question Answering
+title: Murar&#58; A Simple And Effective Multimodal Retrieval And Answer Refinement Framework For Multimodal Question Answering
 authors: Zhu Zhengyuan, Lee Daniel, Zhang Hong, Harsha Sai Sree, Feujio Loic, Maharaj Akash, Li Yunyao
 conference: "Arxiv"
 year: 2024

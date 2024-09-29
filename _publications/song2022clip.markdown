@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CLIP Models Are Few-shot Learners\: Empirical Studies On VQA And Visual Entailment
+title: CLIP Models Are Few-shot Learners&#58; Empirical Studies On VQA And Visual Entailment
 authors: Song Haoyu, Dong Li, Zhang Wei-nan, Liu Ting, Wei Furu
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: STEPS\: A Benchmark For Order Reasoning In Sequential Tasks
+title: STEPS&#58; A Benchmark For Order Reasoning In Sequential Tasks
 authors: Wang Weizhi, Wang Hong, Yan Xifeng
 conference: "Arxiv"
 year: 2023

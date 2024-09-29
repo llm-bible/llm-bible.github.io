@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PERSOMA\: Personalized Soft Prompt Adapter Architecture For Personalized Language Prompting
+title: PERSOMA&#58; Personalized Soft Prompt Adapter Architecture For Personalized Language Prompting
 authors: Hebert Liam, Sayana Krishna, Jash Ambarish, Karatzoglou Alexandros, Sodhi Sukhdeep, Doddapaneni Sumanth, Cai Yanli, Kuzmin Dima
 conference: "Arxiv"
 year: 2024

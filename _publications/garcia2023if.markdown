@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: If The Sources Could Talk\: Evaluating Large Language Models For Research Assistance In History
+title: If The Sources Could Talk&#58; Evaluating Large Language Models For Research Assistance In History
 authors: Garcia Giselle Gonzalez, Weilbach Christian
 conference: "Arxiv"
 year: 2023

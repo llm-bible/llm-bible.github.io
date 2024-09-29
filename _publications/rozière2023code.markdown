@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Code Llama\: Open Foundation Models For Code
+title: Code Llama&#58; Open Foundation Models For Code
 authors: Rozière Baptiste, Gehring Jonas, Gloeckle Fabian, Sootla Sten, Gat Itai, Tan Xiaoqing Ellen, Adi Yossi, Liu Jingyu, Sauvestre Romain, Remez Tal, Rapin Jérémy, Kozhevnikov Artyom, Evtimov Ivan, Bitton Joanna, Bhatt Manish, Ferrer Cristian Canton, Grattafiori Aaron, Xiong Wenhan, Défossez Alexandre, Copet Jade, Azhar Faisal, Touvron Hugo, Martin Louis, Usunier Nicolas, Scialom Thomas, Synnaeve Gabriel
 conference: "Arxiv"
 year: 2023

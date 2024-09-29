@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Model-driven Classroom Flipping\: Empowering Student-centric Peer Questioning With Flipped Interaction
+title: Large Language Model-driven Classroom Flipping&#58; Empowering Student-centric Peer Questioning With Flipped Interaction
 authors: Tan Chee Wei
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CORM\: Cache Optimization With Recent Message For Large Language Model Inference
+title: CORM&#58; Cache Optimization With Recent Message For Large Language Model Inference
 authors: Dai Jincheng, Huang Zhuowei, Jiang Haiyun, Chen Chen, Cai Deng, Bi Wei, Shi Shuming
 conference: "Arxiv"
 year: 2024

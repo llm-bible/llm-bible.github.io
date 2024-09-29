@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CERES\: Pretraining Of Graph-conditioned Transformer For Semi-structured Session Data
+title: CERES&#58; Pretraining Of Graph-conditioned Transformer For Semi-structured Session Data
 authors: Feng Rui, Luo Chen, Yin Qingyu, Yin Bing, Zhao Tuo, Zhang Chao
 conference: "Arxiv"
 year: 2022

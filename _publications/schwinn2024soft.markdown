@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Soft Prompt Threats\: Attacking Safety Alignment And Unlearning In Open-source Llms Through The Embedding Space
+title: Soft Prompt Threats&#58; Attacking Safety Alignment And Unlearning In Open-source Llms Through The Embedding Space
 authors: Schwinn Leo, Dobre David, Xhonneux Sophie, Gidel Gauthier, Gunnemann Stephan
 conference: "Arxiv"
 year: 2024

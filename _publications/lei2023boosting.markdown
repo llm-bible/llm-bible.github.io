@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Boosting Logical Reasoning In Large Language Models Through A New Framework\: The Graph Of Thought
+title: Boosting Logical Reasoning In Large Language Models Through A New Framework&#58; The Graph Of Thought
 authors: Lei Bin, Lin Pei-hung, Liao Chunhua, Ding Caiwen
 conference: "Arxiv"
 year: 2023

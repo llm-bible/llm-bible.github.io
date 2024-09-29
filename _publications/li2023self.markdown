@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-checker\: Plug-and-play Modules For Fact-checking With Large Language Models
+title: Self-checker&#58; Plug-and-play Modules For Fact-checking With Large Language Models
 authors: Miaoran Li, Baolin Peng, Michel Galley, Jianfeng Gao, Zhu Zhang
 conference: "Arxiv"
 year: 2023

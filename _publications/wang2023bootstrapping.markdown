@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BLSP\: Bootstrapping Language-speech Pre-training Via Behavior Alignment Of Continuation Writing
+title: BLSP&#58; Bootstrapping Language-speech Pre-training Via Behavior Alignment Of Continuation Writing
 authors: Wang Chen, Liao Minpeng, Huang Zhongqiang, Lu Jinliang, Wu Junhong, Liu Yuchen, Zong Chengqing, Zhang Jiajun
 conference: "Arxiv"
 year: 2023

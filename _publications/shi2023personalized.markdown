@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instantbooth\: Personalized Text-to-image Generation Without Test-time Finetuning
+title: Instantbooth&#58; Personalized Text-to-image Generation Without Test-time Finetuning
 authors: Shi Jing, Xiong Wei, Lin Zhe, Jung Hyun Joon
 conference: "Arxiv"
 year: 2023

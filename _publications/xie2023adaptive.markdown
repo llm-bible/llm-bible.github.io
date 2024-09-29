@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adaptive Chameleon Or Stubborn Sloth\: Revealing The Behavior Of Large Language Models In Knowledge Conflicts
+title: Adaptive Chameleon Or Stubborn Sloth&#58; Revealing The Behavior Of Large Language Models In Knowledge Conflicts
 authors: Xie Jian, Zhang Kai, Chen Jiangjie, Lou Renze, Su Yu
 conference: "Arxiv"
 year: 2023

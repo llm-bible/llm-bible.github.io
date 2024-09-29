@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tinylvlm-ehub\: Towards Comprehensive And Efficient Evaluation For Large Vision-language Models
+title: Tinylvlm-ehub&#58; Towards Comprehensive And Efficient Evaluation For Large Vision-language Models
 authors: Shao Wenqi, Lei Meng, Hu Yutao, Gao Peng, Zhang Kaipeng, Meng Fanqing, Xu Peng, Huang Siyuan, Li Hongsheng, Qiao Yu, Luo Ping
 conference: "Arxiv"
 year: 2023

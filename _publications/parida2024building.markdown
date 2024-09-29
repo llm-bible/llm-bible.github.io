@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Building Pre-train LLM Dataset For The INDIC Languages\: A Case Study On Hindi
+title: Building Pre-train LLM Dataset For The INDIC Languages&#58; A Case Study On Hindi
 authors: Parida Shantipriya, Panwar Shakshi, Lata Kusum, Mishra Sanskruti, Sekhar Sambit
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DACBERT\: Leveraging Dependency Agreement For Cost-efficient Bert Pretraining
+title: DACBERT&#58; Leveraging Dependency Agreement For Cost-efficient Bert Pretraining
 authors: Kuo Martin, Zhang Jianyi, Chen Yiran
 conference: "Arxiv"
 year: 2023

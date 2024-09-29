@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DSI++\: Updating Transformer Memory With New Documents
+title: DSI++&#58; Updating Transformer Memory With New Documents
 authors: Mehta Sanket Vaibhav, Gupta Jai, Tay Yi, Dehghani Mostafa, Tran Vinh Q., Rao Jinfeng, Najork Marc, Strubell Emma, Metzler Donald
 conference: "Arxiv"
 year: 2022

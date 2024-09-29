@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pumer\: Pruning And Merging Tokens For Efficient Vision Language Models
+title: Pumer&#58; Pruning And Merging Tokens For Efficient Vision Language Models
 authors: Cao Qingqing, Paranjape Bhargavi, Hajishirzi Hannaneh
 conference: "Arxiv"
 year: 2023

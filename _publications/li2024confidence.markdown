@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Confidence Matters\: Revisiting Intrinsic Self-correction Capabilities Of Large Language Models
+title: Confidence Matters&#58; Revisiting Intrinsic Self-correction Capabilities Of Large Language Models
 authors: Li Loka, Chen Zhenhao, Chen Guangyi, Zhang Yixuan, Su Yusheng, Xing Eric, Zhang Kun
 conference: "Arxiv"
 year: 2024

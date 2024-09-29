@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Putting People In Llms' Shoes\: Generating Better Answers Via Question Rewriter
+title: Putting People In Llms' Shoes&#58; Generating Better Answers Via Question Rewriter
 authors: Chen Junhao, Wang Bowen, Jiang Zhouqiang, Nakashima Yuta
 conference: "Arxiv"
 year: 2024

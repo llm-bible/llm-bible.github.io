@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Training Optimus Prime, M.D.\: Generating Medical Certification Items By Fine-tuning Openai's Gpt2 Transformer Model
+title: Training Optimus Prime, M.D.&#58; Generating Medical Certification Items By Fine-tuning Openai's Gpt2 Transformer Model
 authors: Von Davier Matthias
 conference: "Arxiv"
 year: 2019

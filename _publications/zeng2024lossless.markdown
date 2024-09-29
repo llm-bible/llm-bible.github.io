@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chimera\: A Lossless Decoding Method For Accelerating Large Language Models Inference By Fusing All Tokens
+title: Chimera&#58; A Lossless Decoding Method For Accelerating Large Language Models Inference By Fusing All Tokens
 authors: Zeng Ziqian, Yu Jiahong, Pang Qianshi, Wang Zihao, Zhuang Huiping, Shao Hongen, Zou Xiaofeng
 conference: "Arxiv"
 year: 2024

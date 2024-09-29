@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Debate On Graph\: A Flexible And Reliable Reasoning Framework For Large Language Models
+title: Debate On Graph&#58; A Flexible And Reliable Reasoning Framework For Large Language Models
 authors: Ma Jie, Gao Zhitao, Chai Qi, Sun Wangchun, Wang Pinghui, Pei Hongbin, Tao Jing, Song Lingyun, Liu Jun, Zhang Chen, Cui Lizhen
 conference: "Arxiv"
 year: 2024

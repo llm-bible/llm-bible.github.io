@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BLIP-2\: Bootstrapping Language-image Pre-training With Frozen Image Encoders And Large Language Models
+title: BLIP-2&#58; Bootstrapping Language-image Pre-training With Frozen Image Encoders And Large Language Models
 authors: Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Trojanrag\: Retrieval-augmented Generation Can Be Backdoor Driver In Large Language Models
+title: Trojanrag&#58; Retrieval-augmented Generation Can Be Backdoor Driver In Large Language Models
 authors: Cheng Pengzhou, Ding Yidong, Ju Tianjie, Wu Zongru, Du Wei, Yi Ping, Zhang Zhuosheng, Liu Gongshen
 conference: "Arxiv"
 year: 2024

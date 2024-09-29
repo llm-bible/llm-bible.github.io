@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ASPEN\: High-throughput Lora Fine-tuning Of Large Language Models With A Single GPU
+title: ASPEN&#58; High-throughput Lora Fine-tuning Of Large Language Models With A Single GPU
 authors: Ye Zhengmao, Li Dengchun, Tian Jingqi, Lan Tingfeng, Zuo Jie, Duan Lei, Lu Hui, Jiang Yexi, Sha Jian, Zhang Ke, Tang Mingjie
 conference: "Arxiv"
 year: 2023

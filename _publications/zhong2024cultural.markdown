@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cultural Value Differences Of Llms\: Prompt, Language, And Model Size
+title: Cultural Value Differences Of Llms&#58; Prompt, Language, And Model Size
 authors: Zhong Qishuai, Yun Yike, Sun Aixin
 conference: "Arxiv"
 year: 2024

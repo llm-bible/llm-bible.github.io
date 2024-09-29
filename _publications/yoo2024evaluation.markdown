@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CSRT\: Evaluation And Analysis Of Llms Using Code-switching Red-teaming Dataset
+title: CSRT&#58; Evaluation And Analysis Of Llms Using Code-switching Red-teaming Dataset
 authors: Yoo Haneul, Yang Yongjin, Lee Hwaran
 conference: "Arxiv"
 year: 2024

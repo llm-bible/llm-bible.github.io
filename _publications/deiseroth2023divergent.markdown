@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Divergent Token Metrics\: Measuring Degradation To Prune Away LLM Components -- And Optimize Quantization
+title: Divergent Token Metrics&#58; Measuring Degradation To Prune Away LLM Components -- And Optimize Quantization
 authors: Deiseroth Björn, Meuer Max, Gritsch Nikolas, Eichenberg Constantin, Schramowski Patrick, Aßenmacher Matthias, Kersting Kristian
 conference: "Arxiv"
 year: 2023

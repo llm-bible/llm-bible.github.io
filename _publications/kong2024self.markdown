@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-prompt Tuning\: Enable Autonomous Role-playing In Llms
+title: Self-prompt Tuning&#58; Enable Autonomous Role-playing In Llms
 authors: Kong Aobo, Zhao Shiwan, Chen Hao, Li Qicheng, Qin Yong, Sun Ruiqi, Zhou Xin, Zhou Jiaming, Sun Haoqin
 conference: "Arxiv"
 year: 2024

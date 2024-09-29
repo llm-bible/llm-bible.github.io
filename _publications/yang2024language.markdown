@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: $\(\text{memory}\)^3$\: Language Modeling With Explicit Memory
+title: $\(\text{memory}\)^3$&#58; Language Modeling With Explicit Memory
 authors: Yang Hongkang, Lin Zehao, Wang Wenjin, Wu Hao, Li Zhiyu, Tang Bo, Wei Wenqiang, Wang Jinbo, Tang Zeyun, Song Shichao, Xi Chenyang, Yu Yu, Chen Kai, Xiong Feiyu, Tang Linpeng, E Weinan
 conference: "Arxiv"
 year: 2024

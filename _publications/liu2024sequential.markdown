@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: $se^2$\: Sequential Example Selection For In-context Learning
+title: $se^2$&#58; Sequential Example Selection For In-context Learning
 authors: Liu Haoyu, Liu Jianfeng, Huang Shaohan, Zhan Yuefeng, Sun Hao, Deng Weiwei, Wei Furu, Zhang Qi
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mindspeech\: Continuous Imagined Speech Decoding Using High-density Fnirs And Prompt Tuning For Advanced Human-ai Interaction
+title: Mindspeech&#58; Continuous Imagined Speech Decoding Using High-density Fnirs And Prompt Tuning For Advanced Human-ai Interaction
 authors: Zhang Suyi, Alam Ekram, Baber Jack, Bianco Francesca, Turner Edward, Chamanzar Maysam, Dehghani Hamid
 conference: "Arxiv"
 year: 2024

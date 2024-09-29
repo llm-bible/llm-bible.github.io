@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mixture-of-skills\: Learning To Optimize Data Usage For Fine-tuning Large Language Models
+title: Mixture-of-skills&#58; Learning To Optimize Data Usage For Fine-tuning Large Language Models
 authors: Wu Minghao, Vu Thuy-trang, Qu Lizhen, Haffari Gholamreza
 conference: "Arxiv"
 year: 2024

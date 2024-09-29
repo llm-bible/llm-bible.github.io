@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FPT\: Improving Prompt Tuning Efficiency Via Progressive Training
+title: FPT&#58; Improving Prompt Tuning Efficiency Via Progressive Training
 authors: Huang Yufei, Qin Yujia, Wang Huadong, Yin Yichun, Sun Maosong, Liu Zhiyuan, Liu Qun
 conference: "Arxiv"
 year: 2022

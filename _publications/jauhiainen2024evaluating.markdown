@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Students' Open-ended Written Responses With Llms\: Using The RAG Framework For GPT-3.5, GPT-4, Claude-3, And Mistral-large
+title: Evaluating Students' Open-ended Written Responses With Llms&#58; Using The RAG Framework For GPT-3.5, GPT-4, Claude-3, And Mistral-large
 authors: Jauhiainen Jussi S., Guerra Agustín Garagorry
 conference: "Arxiv"
 year: 2024

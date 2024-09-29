@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RLHF-V\: Towards Trustworthy Mllms Via Behavior Alignment From Fine-grained Correctional Human Feedback
+title: RLHF-V&#58; Towards Trustworthy Mllms Via Behavior Alignment From Fine-grained Correctional Human Feedback
 authors: Tianyu Yu, Yuan Yao, Haoye Zhang, Taiwen He, Yifeng Han, Ganqu Cui, Jinyi Hu, Zhiyuan Liu, Hai-tao Zheng, Maosong Sun, Tat-seng Chua
 conference: "Arxiv"
 year: 2023

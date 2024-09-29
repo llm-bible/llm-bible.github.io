@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bioinstruct\: Instruction Tuning Of Large Language Models For Biomedical Natural Language Processing
+title: Bioinstruct&#58; Instruction Tuning Of Large Language Models For Biomedical Natural Language Processing
 authors: Tran Hieu, Yang Zhichao, Yao Zonghai, Yu Hong
 conference: "Arxiv"
 year: 2023

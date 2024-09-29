@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Promptmm\: Multi-modal Knowledge Distillation For Recommendation With Prompt-tuning
+title: Promptmm&#58; Multi-modal Knowledge Distillation For Recommendation With Prompt-tuning
 authors: Wei Wei, Tang Jiabin, Jiang Yangqin, Xia Lianghao, Huang Chao
 conference: "Arxiv"
 year: 2024

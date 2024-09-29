@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Skills-in-context Prompting\: Unlocking Compositionality In Large Language Models
+title: Skills-in-context Prompting&#58; Unlocking Compositionality In Large Language Models
 authors: Chen Jiaao, Pan Xiaoman, Yu Dian, Song Kaiqiang, Wang Xiaoyang, Yu Dong, Chen Jianshu
 conference: "Arxiv"
 year: 2023

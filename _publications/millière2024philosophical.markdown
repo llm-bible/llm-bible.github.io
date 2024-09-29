@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Philosophical Introduction To Language Models - Part II\: The Way Forward
+title: A Philosophical Introduction To Language Models - Part II&#58; The Way Forward
 authors: Millière Raphaël, Buckner Cameron
 conference: "Arxiv"
 year: 2024

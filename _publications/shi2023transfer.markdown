@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TOAST\: Transfer Learning Via Attention Steering
+title: TOAST&#58; Transfer Learning Via Attention Steering
 authors: Shi Baifeng, Gai Siyu, Darrell Trevor, Wang Xin
 conference: "Arxiv"
 year: 2023

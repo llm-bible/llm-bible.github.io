@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multimodal Chatgpt For Medical Applications\: An Experimental Study Of GPT-4V
+title: Multimodal Chatgpt For Medical Applications&#58; An Experimental Study Of GPT-4V
 authors: Yan Zhiling, Zhang Kai, Zhou Rong, He Lifang, Li Xiang, Sun Lichao
 conference: "Arxiv"
 year: 2023

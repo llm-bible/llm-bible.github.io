@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llast\: Improved End-to-end Speech Translation System Leveraged By Large Language Models
+title: Llast&#58; Improved End-to-end Speech Translation System Leveraged By Large Language Models
 authors: Chen Xi, Zhang Songyang, Bai Qibing, Chen Kai, Nakamura Satoshi
 conference: "Arxiv"
 year: 2024

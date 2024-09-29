@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tree Transformer\: Integrating Tree Structures Into Self-attention
+title: Tree Transformer&#58; Integrating Tree Structures Into Self-attention
 authors: Wang Yau-shian, Lee Hung-yi, Chen Yun-nung
 conference: "Arxiv"
 year: 2019

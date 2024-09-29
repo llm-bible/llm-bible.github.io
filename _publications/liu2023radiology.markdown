@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Radiology-gpt\: A Large Language Model For Radiology
+title: Radiology-gpt&#58; A Large Language Model For Radiology
 authors: Liu Zhengliang, Zhong Aoxiao, Li Yiwei, Yang Longtao, Ju Chao, Wu Zihao, Ma Chong, Shu Peng, Chen Cheng, Kim Sekeun, Dai Haixing, Zhao Lin, Sun Lichao, Zhu Dajiang, Liu Jun, Liu Wei, Shen Dinggang, Li Xiang, Li Quanzheng, Liu Tianming
 conference: "Arxiv"
 year: 2023

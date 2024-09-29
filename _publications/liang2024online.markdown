@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Online Training Of Large Language Models\: Learn While Chatting
+title: Online Training Of Large Language Models&#58; Learn While Chatting
 authors: Liang Juhao, Wang Ziwei, Ma Zhuoheng, Li Jianquan, Zhang Zhiyi, Wu Xiangbo, Wang Benyou
 conference: "Arxiv"
 year: 2024

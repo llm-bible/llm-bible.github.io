@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: X-VILA\: Cross-modality Alignment For Large Language Model
+title: X-VILA&#58; Cross-modality Alignment For Large Language Model
 authors: Ye Hanrong, Huang De-an, Lu Yao, Yu Zhiding, Ping Wei, Tao Andrew, Kautz Jan, Han Song, Xu Dan, Molchanov Pavlo, Yin Hongxu
 conference: "Arxiv"
 year: 2024

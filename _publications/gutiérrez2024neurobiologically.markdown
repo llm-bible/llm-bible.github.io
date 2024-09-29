@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hipporag\: Neurobiologically Inspired Long-term Memory For Large Language Models
+title: Hipporag&#58; Neurobiologically Inspired Long-term Memory For Large Language Models
 authors: Gutiérrez Bernal Jiménez, Shu Yiheng, Gu Yu, Yasunaga Michihiro, Su Yu
 conference: "Arxiv"
 year: 2024

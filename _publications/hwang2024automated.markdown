@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MP2D\: An Automated Topic Shift Dialogue Generation Framework Leveraging Knowledge Graphs
+title: MP2D&#58; An Automated Topic Shift Dialogue Generation Framework Leveraging Knowledge Graphs
 authors: Hwang Yerin, Kim Yongil, Jang Yunah, Bang Jeesoo, Bae Hyunkyung, Jung Kyomin
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Iteralign\: Iterative Constitutional Alignment Of Large Language Models
+title: Iteralign&#58; Iterative Constitutional Alignment Of Large Language Models
 authors: Chen Xiusi, Wen Hongzhi, Nag Sreyashi, Luo Chen, Yin Qingyu, Li Ruirui, Li Zheng, Wang Wei
 conference: "Arxiv"
 year: 2024

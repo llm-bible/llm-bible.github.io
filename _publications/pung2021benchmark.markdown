@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ORCHARD\: A Benchmark For Measuring Systematic Generalization Of Multi-hierarchical Reasoning
+title: ORCHARD&#58; A Benchmark For Measuring Systematic Generalization Of Multi-hierarchical Reasoning
 authors: Pung Bill Tuck Weng, Chan Alvin
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LIMIT\: Less Is More For Instruction Tuning Across Evaluation Paradigms
+title: LIMIT&#58; Less Is More For Instruction Tuning Across Evaluation Paradigms
 authors: Jha Aditi, Havens Sam, Dohmann Jeremy, Trott Alex, Portes Jacob
 conference: "Arxiv"
 year: 2023

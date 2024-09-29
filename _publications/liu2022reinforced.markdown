@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rainier\: Reinforced Knowledge Introspector For Commonsense Question Answering
+title: Rainier&#58; Reinforced Knowledge Introspector For Commonsense Question Answering
 authors: Liu Jiacheng, Hallinan Skyler, Lu Ximing, He Pengfei, Welleck Sean, Hajishirzi Hannaneh, Choi Yejin
 conference: "Arxiv"
 year: 2022

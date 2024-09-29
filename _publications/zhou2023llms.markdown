@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llms Learn Task Heuristics From Demonstrations\: A Heuristic-driven Prompting Strategy For Document-level Event Argument Extraction
+title: Llms Learn Task Heuristics From Demonstrations&#58; A Heuristic-driven Prompting Strategy For Document-level Event Argument Extraction
 authors: Zhou Hanzhang, Qian Junlang, Feng Zijian, Lu Hui, Zhu Zixiao, Mao Kezhi
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reinforcement Replaces Supervision\: Query Focused Summarization Using Deep Reinforcement Learning
+title: Reinforcement Replaces Supervision&#58; Query Focused Summarization Using Deep Reinforcement Learning
 authors: Nath Swaroop, Khadilkar Harshad, Bhattacharyya Pushpak
 conference: "Arxiv"
 year: 2023

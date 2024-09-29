@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Layered Gradient Accumulation And Modular Pipeline Parallelism\: Fast And Efficient Training Of Large Language Models
+title: Layered Gradient Accumulation And Modular Pipeline Parallelism&#58; Fast And Efficient Training Of Large Language Models
 authors: Lamy-poirier Joel
 conference: "Arxiv"
 year: 2021

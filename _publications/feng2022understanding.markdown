@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llmeffichecker\: Understanding And Testing Efficiency Degradation Of Large Language Models
+title: Llmeffichecker&#58; Understanding And Testing Efficiency Degradation Of Large Language Models
 authors: Feng Xiaoning, Han Xiaohong, Chen Simin, Yang Wei
 conference: "Arxiv"
 year: 2022

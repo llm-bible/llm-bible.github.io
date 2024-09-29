@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Promptcap\: Prompt-guided Task-aware Image Captioning
+title: Promptcap&#58; Prompt-guided Task-aware Image Captioning
 authors: Hu Yushi, Hua Hang, Yang Zhengyuan, Shi Weijia, Smith Noah A, Luo Jiebo
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM2LLM\: Boosting Llms With Novel Iterative Data Enhancement
+title: LLM2LLM&#58; Boosting Llms With Novel Iterative Data Enhancement
 authors: Lee Nicholas, Wattanawong Thanakul, Kim Sehoon, Mangalam Karttikeya, Shen Sheng, Anumanchipalli Gopala, Mahoney Michael W., Keutzer Kurt, Gholami Amir
 conference: "Arxiv"
 year: 2024

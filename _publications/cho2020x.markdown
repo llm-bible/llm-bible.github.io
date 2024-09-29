@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: X-LXMERT\: Paint, Caption And Answer Questions With Multi-modal Transformers
+title: X-LXMERT&#58; Paint, Caption And Answer Questions With Multi-modal Transformers
 authors: Cho Jaemin, Lu Jiasen, Schwenk Dustin, Hajishirzi Hannaneh, Kembhavi Aniruddha
 conference: "Arxiv"
 year: 2020

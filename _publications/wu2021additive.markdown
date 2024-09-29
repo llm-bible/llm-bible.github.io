@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fastformer\: Additive Attention Can Be All You Need
+title: Fastformer&#58; Additive Attention Can Be All You Need
 authors: Wu Chuhan, Wu Fangzhao, Qi Tao, Huang Yongfeng, Xie Xing
 conference: "Arxiv"
 year: 2021

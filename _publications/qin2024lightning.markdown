@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lightning Attention-2\: A Free Lunch For Handling Unlimited Sequence Lengths In Large Language Models
+title: Lightning Attention-2&#58; A Free Lunch For Handling Unlimited Sequence Lengths In Large Language Models
 authors: Qin Zhen, Sun Weigao, Li Dong, Shen Xuyang, Sun Weixuan, Zhong Yiran
 conference: "Arxiv"
 year: 2024

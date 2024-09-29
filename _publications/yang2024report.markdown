@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Report Cards\: Qualitative Evaluation Of Language Models Using Natural Language Summaries
+title: Report Cards&#58; Qualitative Evaluation Of Language Models Using Natural Language Summaries
 authors: Yang Blair, Cui Fuyang, Paster Keiran, Ba Jimmy, Vaezipoor Pashootan, Pitis Silviu, Zhang Michael R.
 conference: "Arxiv"
 year: 2024

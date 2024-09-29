@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: E2E-VLP\: End-to-end Vision-language Pre-training Enhanced By Visual Learning
+title: E2E-VLP&#58; End-to-end Vision-language Pre-training Enhanced By Visual Learning
 authors: Xu Haiyang, Yan Ming, Li Chenliang, Bi Bin, Huang Songfang, Xiao Wenming, Huang Fei
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Symbolic Prompt Program Search\: A Structure-aware Approach To Efficient Compile-time Prompt Optimization
+title: Symbolic Prompt Program Search&#58; A Structure-aware Approach To Efficient Compile-time Prompt Optimization
 authors: Schnabel Tobias, Neville Jennifer
 conference: "Arxiv"
 year: 2024

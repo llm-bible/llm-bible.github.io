@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rankrag\: Unifying Context Ranking With Retrieval-augmented Generation In Llms
+title: Rankrag&#58; Unifying Context Ranking With Retrieval-augmented Generation In Llms
 authors: Yu Yue, Ping Wei, Liu Zihan, Wang Boxin, You Jiaxuan, Zhang Chao, Shoeybi Mohammad, Catanzaro Bryan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Guiding Llms The Right Way\: Fast, Non-invasive Constrained Generation
+title: Guiding Llms The Right Way&#58; Fast, Non-invasive Constrained Generation
 authors: Beurer-kellner Luca, Fischer Marc, Vechev Martin
 conference: "Arxiv"
 year: 2024

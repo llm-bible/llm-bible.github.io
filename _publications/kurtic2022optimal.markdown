@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Optimal BERT Surgeon\: Scalable And Accurate Second-order Pruning For Large Language Models
+title: The Optimal BERT Surgeon&#58; Scalable And Accurate Second-order Pruning For Large Language Models
 authors: Kurtic Eldar, Campos Daniel, Nguyen Tuan, Frantar Elias, Kurtz Mark, Fineran Benjamin, Goin Michael, Alistarh Dan
 conference: "Arxiv"
 year: 2022

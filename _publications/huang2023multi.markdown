@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Agentcoder\: Multi-agent-based Code Generation With Iterative Testing And Optimisation
+title: Agentcoder&#58; Multi-agent-based Code Generation With Iterative Testing And Optimisation
 authors: Huang Dong, Zhang Jie M., Luck Michael, Bu Qingwen, Qing Yuhao, Cui Heming
 conference: "Arxiv"
 year: 2023

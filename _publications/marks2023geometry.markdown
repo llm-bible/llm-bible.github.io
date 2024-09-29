@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Geometry Of Truth\: Emergent Linear Structure In Large Language Model Representations Of True/false Datasets
+title: The Geometry Of Truth&#58; Emergent Linear Structure In Large Language Model Representations Of True/false Datasets
 authors: Marks Samuel, Tegmark Max
 conference: "Arxiv"
 year: 2023

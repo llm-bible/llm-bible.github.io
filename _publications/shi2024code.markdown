@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ehragent\: Code Empowers Large Language Models For Few-shot Complex Tabular Reasoning On Electronic Health Records
+title: Ehragent&#58; Code Empowers Large Language Models For Few-shot Complex Tabular Reasoning On Electronic Health Records
 authors: Shi Wenqi, Xu Ran, Zhuang Yuchen, Yu Yue, Zhang Jieyu, Wu Hang, Zhu Yuanda, Ho Joyce, Yang Carl, Wang May D.
 conference: "Arxiv"
 year: 2024

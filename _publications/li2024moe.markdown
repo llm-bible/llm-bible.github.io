@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Moe-ct\: A Novel Approach For Large Language Models Training With Resistance To Catastrophic Forgetting
+title: Moe-ct&#58; A Novel Approach For Large Language Models Training With Resistance To Catastrophic Forgetting
 authors: Li Tianhao, Li Shangjie, Xie Binbin, Xiong Deyi, Yang Baosong
 conference: "Arxiv"
 year: 2024

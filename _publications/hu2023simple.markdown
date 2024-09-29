@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BLIVA\: A Simple Multimodal LLM For Better Handling Of Text-rich Visual Questions
+title: BLIVA&#58; A Simple Multimodal LLM For Better Handling Of Text-rich Visual Questions
 authors: Hu Wenbo, Xu Yifan, Li Yi, Li Weiyue, Chen Zeyuan, Tu Zhuowen
 conference: "Arxiv"
 year: 2023

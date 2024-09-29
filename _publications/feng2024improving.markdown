@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tear\: Improving Llm-based Machine Translation With Systematic Self-refinement
+title: Tear&#58; Improving Llm-based Machine Translation With Systematic Self-refinement
 authors: Feng Zhaopeng, Zhang Yan, Li Hao, Wu Bei, Liao Jiayu, Liu Wenqiang, Lang Jun, Feng Yang, Wu Jian, Liu Zuozhu
 conference: "Arxiv"
 year: 2024

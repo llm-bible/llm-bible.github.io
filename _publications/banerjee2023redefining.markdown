@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Redefining Developer Assistance\: Through Large Language Models In Software Ecosystem
+title: Redefining Developer Assistance&#58; Through Large Language Models In Software Ecosystem
 authors: Banerjee Somnath, Dutta Avik, Layek Sayan, Sahoo Amruit, Joyce Sam Conrad, Hazra Rima
 conference: "Arxiv"
 year: 2023

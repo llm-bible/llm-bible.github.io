@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-driven Grounding\: Large Language Model Agents With Automatical Language-aligned Skill Learning
+title: Self-driven Grounding&#58; Large Language Model Agents With Automatical Language-aligned Skill Learning
 authors: Peng Shaohui, Hu Xing, Yi Qi, Zhang Rui, Guo Jiaming, Huang Di, Tian Zikang, Chen Ruizhi, Du Zidong, Guo Qi, Chen Yunji, Li Ling
 conference: "Arxiv"
 year: 2023

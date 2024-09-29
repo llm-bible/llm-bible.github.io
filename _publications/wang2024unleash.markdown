@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Qrmem\: Unleash The Length Limitation Through Question Then Reflection Memory Mechanism
+title: Qrmem&#58; Unleash The Length Limitation Through Question Then Reflection Memory Mechanism
 authors: Wang Bo, Huang Heyan, Cao Yixin, Ying Jiahao, Tang Wei, Feng Chong
 conference: "Arxiv"
 year: 2024

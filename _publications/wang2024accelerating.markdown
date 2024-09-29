@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: QUITO\: Accelerating Long-context Reasoning Through Query-guided Context Compression
+title: QUITO&#58; Accelerating Long-context Reasoning Through Query-guided Context Compression
 authors: Wang Wenshan, Wang Yihang, Fan Yixing, Liao Huaming, Guo Jiafeng
 conference: "Arxiv"
 year: 2024

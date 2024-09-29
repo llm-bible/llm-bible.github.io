@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LSTP\: Language-guided Spatial-temporal Prompt Learning For Long-form Video-text Understanding
+title: LSTP&#58; Language-guided Spatial-temporal Prompt Learning For Long-form Video-text Understanding
 authors: Wang Yuxuan, Wang Yueqian, Wu Pengfei, Liang Jianxin, Zhao Dongyan, Zheng Zilong
 conference: "Arxiv"
 year: 2024

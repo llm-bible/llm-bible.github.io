@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TRACE The Evidence\: Constructing Knowledge-grounded Reasoning Chains For Retrieval-augmented Generation
+title: TRACE The Evidence&#58; Constructing Knowledge-grounded Reasoning Chains For Retrieval-augmented Generation
 authors: Fang Jinyuan, Meng Zaiqiao, Macdonald Craig
 conference: "Arxiv"
 year: 2024

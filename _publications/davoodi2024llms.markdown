@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llms Are Not Intelligent Thinkers\: Introducing Mathematical Topic Tree Benchmark For Comprehensive Evaluation Of Llms
+title: Llms Are Not Intelligent Thinkers&#58; Introducing Mathematical Topic Tree Benchmark For Comprehensive Evaluation Of Llms
 authors: Davoodi Arash Gholami, Davoudi Seyed Pouyan Mousavi, Pezeshkpour Pouya
 conference: "Arxiv"
 year: 2024

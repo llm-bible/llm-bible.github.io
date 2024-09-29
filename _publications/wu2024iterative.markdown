@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ITERTL\: An Iterative Framework For Fine-tuning Llms For RTL Code Generation
+title: ITERTL&#58; An Iterative Framework For Fine-tuning Llms For RTL Code Generation
 authors: Wu Peiyang, Guo Nan, Xiao Xiao, Li Wenming, Ye Xiaochun, Fan Dongrui
 conference: "Arxiv"
 year: 2024

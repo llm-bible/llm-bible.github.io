@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Robust Recommender System\: A Survey And Future Directions
+title: Robust Recommender System&#58; A Survey And Future Directions
 authors: Kaike Zhang, Qi Cao, Fei Sun, Yunfan Wu, Shuchang Tao, Huawei Shen, Xueqi Cheng
 conference: "Arxiv"
 year: 2023

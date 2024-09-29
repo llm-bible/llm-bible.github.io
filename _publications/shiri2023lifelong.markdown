@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: L3 Ensembles\: Lifelong Learning Approach For Ensemble Of Foundational Language Models
+title: L3 Ensembles&#58; Lifelong Learning Approach For Ensemble Of Foundational Language Models
 authors: Shiri Aidin, Roy Kaushik, Sheth Amit, Gaur Manas
 conference: "Arxiv"
 year: 2023

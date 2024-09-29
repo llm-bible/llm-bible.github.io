@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Power Of Prompts\: Evaluating And Mitigating Gender Bias In MT With Llms
+title: The Power Of Prompts&#58; Evaluating And Mitigating Gender Bias In MT With Llms
 authors: Sant Aleix, Escolano Carlos, Mash Audrey, Fornaciari Francesca De Luca, Melero Maite
 conference: "Arxiv"
 year: 2024

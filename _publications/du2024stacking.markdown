@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Stacking Your Transformers\: A Closer Look At Model Growth For Efficient LLM Pre-training
+title: Stacking Your Transformers&#58; A Closer Look At Model Growth For Efficient LLM Pre-training
 authors: Du Wenyu, Luo Tongxu, Qiu Zihan, Huang Zeyu, Shen Yikang, Cheng Reynold, Guo Yike, Fu Jie
 conference: "Arxiv"
 year: 2024

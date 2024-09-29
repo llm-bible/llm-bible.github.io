@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gentus\: Simulating User Behaviour And Language In Task-oriented Dialogues With Generative Transformers
+title: Gentus&#58; Simulating User Behaviour And Language In Task-oriented Dialogues With Generative Transformers
 authors: Lin Hsien-chin, Geishauser Christian, Feng Shutong, Lubis Nurul, Van Niekerk Carel, Heck Michael, Gašić Milica
 conference: "Arxiv"
 year: 2022

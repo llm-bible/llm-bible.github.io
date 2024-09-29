@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Doremi\: Grounding Language Model By Detecting And Recovering From Plan-execution Misalignment
+title: Doremi&#58; Grounding Language Model By Detecting And Recovering From Plan-execution Misalignment
 authors: Guo Yanjiang, Wang Yen-jen, Zha Lihan, Jiang Zheyuan, Chen Jianyu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chain-of-translation Prompting (cotr)\: A Novel Prompting Technique For Low Resource Languages
+title: Chain-of-translation Prompting (cotr)&#58; A Novel Prompting Technique For Low Resource Languages
 authors: Deshpande Tejas, Kowtal Nidhi, Joshi Raviraj
 conference: "Arxiv"
 year: 2024

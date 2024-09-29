@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Separate-and-enhance\: Compositional Finetuning For Text2image Diffusion Models
+title: Separate-and-enhance&#58; Compositional Finetuning For Text2image Diffusion Models
 authors: Bao Zhipeng, Li Yijun, Singh Krishna Kumar, Wang Yu-xiong, Hebert Martial
 conference: "Arxiv"
 year: 2023

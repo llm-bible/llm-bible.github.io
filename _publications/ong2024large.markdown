@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Are Self-taught Reasoners\: Enhancing LLM Applications Via Tailored Problem-solving Demonstrations
+title: Large Language Models Are Self-taught Reasoners&#58; Enhancing LLM Applications Via Tailored Problem-solving Demonstrations
 authors: Ong Kai Tzu-iunn, Kwon Taeyoon, Yeo Jinyoung
 conference: "Arxiv"
 year: 2024

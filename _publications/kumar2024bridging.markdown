@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bridging The Gap\: Dynamic Learning Strategies For Improving Multilingual Performance In Llms
+title: Bridging The Gap&#58; Dynamic Learning Strategies For Improving Multilingual Performance In Llms
 authors: Kumar Somnath, Balloli Vaibhav, Ranjit Mercy, Ahuja Kabir, Ganu Tanuja, Sitaram Sunayana, Bali Kalika, Nambi Akshay
 conference: "Arxiv"
 year: 2024

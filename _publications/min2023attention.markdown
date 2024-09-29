@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attention Link\: An Efficient Attention-based Low Resource Machine Translation Architecture
+title: Attention Link&#58; An Efficient Attention-based Low Resource Machine Translation Architecture
 authors: Min Zeping
 conference: "Arxiv"
 year: 2023

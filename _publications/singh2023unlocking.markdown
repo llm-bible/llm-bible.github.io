@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unlocking Model Insights\: A Dataset For Automated Model Card Generation
+title: Unlocking Model Insights&#58; A Dataset For Automated Model Card Generation
 authors: Singh Shruti, Lodwal Hitesh, Malwat Husain, Thakur Rakesh, Singh Mayank
 conference: "Arxiv"
 year: 2023

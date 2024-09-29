@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mmgrec\: Multimodal Generative Recommendation With Transformer Model
+title: Mmgrec&#58; Multimodal Generative Recommendation With Transformer Model
 authors: Liu Han, Wei Yinwei, Song Xuemeng, Guan Weili, Li Yuan-fang, Nie Liqiang
 conference: "Arxiv"
 year: 2024

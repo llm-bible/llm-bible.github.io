@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mani-gpt\: A Generative Model For Interactive Robotic Manipulation
+title: Mani-gpt&#58; A Generative Model For Interactive Robotic Manipulation
 authors: Zhang Zhe, Chai Wei, Wang Jiankun
 conference: "Arxiv"
 year: 2023

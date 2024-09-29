@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BOLT\: Fast Energy-based Controlled Text Generation With Tunable Biases
+title: BOLT&#58; Fast Energy-based Controlled Text Generation With Tunable Biases
 authors: Liu Xin, Khalifa Muhammad, Wang Lu
 conference: "Arxiv"
 year: 2023

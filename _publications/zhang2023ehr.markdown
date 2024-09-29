@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EHR Interaction Between Patients And AI\: Noteaid EHR Interaction
+title: EHR Interaction Between Patients And AI&#58; Noteaid EHR Interaction
 authors: Zhang Xiaocheng, Yao Zonghai, Yu Hong
 conference: "Arxiv"
 year: 2023

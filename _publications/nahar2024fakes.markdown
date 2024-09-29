@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fakes Of Varying Shades\: How Warning Affects Human Perception And Engagement Regarding LLM Hallucinations
+title: Fakes Of Varying Shades&#58; How Warning Affects Human Perception And Engagement Regarding LLM Hallucinations
 authors: Nahar Mahjabin, Seo Haeseung, Lee Eun-ju, Xiong Aiping, Lee Dongwon
 conference: "Arxiv"
 year: 2024

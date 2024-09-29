@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Say More With Less\: Understanding Prompt Learning Behaviors Through Gist Compression
+title: Say More With Less&#58; Understanding Prompt Learning Behaviors Through Gist Compression
 authors: Li Xinze, Liu Zhenghao, Xiong Chenyan, Yu Shi, Yan Yukun, Wang Shuo, Yu Ge
 conference: "Arxiv"
 year: 2024

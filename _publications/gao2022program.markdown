@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PAL\: Program-aided Language Models
+title: PAL&#58; Program-aided Language Models
 authors: Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig
 conference: "Arxiv"
 year: 2022

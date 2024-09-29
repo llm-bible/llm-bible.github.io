@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CLAP\: Isolating Content From Style Through Contrastive Learning With Augmented Prompts
+title: CLAP&#58; Isolating Content From Style Through Contrastive Learning With Augmented Prompts
 authors: Cai Yichao, Liu Yuhang, Zhang Zhen, Shi Javen Qinfeng
 conference: "Arxiv"
 year: 2023

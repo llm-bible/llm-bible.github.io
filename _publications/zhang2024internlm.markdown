@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Internlm-xcomposer-2.5\: A Versatile Large Vision Language Model Supporting Long-contextual Input And Output
+title: Internlm-xcomposer-2.5&#58; A Versatile Large Vision Language Model Supporting Long-contextual Input And Output
 authors: Zhang Pan, Dong Xiaoyi, Zang Yuhang, Cao Yuhang, Qian Rui, Chen Lin, Guo Qipeng, Duan Haodong, Wang Bin, Ouyang Linke, Zhang Songyang, Zhang Wenwei, Li Yining, Gao Yang, Sun Peng, Zhang Xinyue, Li Wei, Li Jingwen, Wang Wenhai, Yan Hang, He Conghui, Zhang Xingcheng, Chen Kai, Dai Jifeng, Qiao Yu, Lin Dahua, Wang Jiaqi
 conference: "Arxiv"
 year: 2024

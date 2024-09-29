@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Infovisdial\: An Informative Visual Dialogue Dataset By Bridging Large Multimodal And Language Models
+title: Infovisdial&#58; An Informative Visual Dialogue Dataset By Bridging Large Multimodal And Language Models
 authors: Wen Bingbing, Yang Zhengyuan, Wang Jianfeng, Gan Zhe, Howe Bill, Wang Lijuan
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: E-sparse\: Boosting The Large Language Model Inference Through Entropy-based N\:M Sparsity
+title: E-sparse&#58; Boosting The Large Language Model Inference Through Entropy-based N&#58;M Sparsity
 authors: Li Yun, Niu Lin, Zhang Xipeng, Liu Kai, Zhu Jianchen, Kang Zhanhui
 conference: "Arxiv"
 year: 2023

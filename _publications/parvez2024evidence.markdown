@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evidence To Generate (E2G)\: A Single-agent Two-step Prompting For Context Grounded And Retrieval Augmented Reasoning
+title: Evidence To Generate (E2G)&#58; A Single-agent Two-step Prompting For Context Grounded And Retrieval Augmented Reasoning
 authors: Parvez Md Rizwan
 conference: "Arxiv"
 year: 2024

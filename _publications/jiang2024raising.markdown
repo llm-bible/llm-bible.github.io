@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Raising The Bar\: Investigating The Values Of Large Language Models Via Generative Evolving Testing
+title: Raising The Bar&#58; Investigating The Values Of Large Language Models Via Generative Evolving Testing
 authors: Jiang Han, Yi Xiaoyuan, Wei Zhihua, Wang Shu, Xie Xing
 conference: "Arxiv"
 year: 2024

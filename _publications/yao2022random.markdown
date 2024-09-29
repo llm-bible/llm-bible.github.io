@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Random-ltd\: Random And Layerwise Token Dropping Brings Efficient Training For Large-scale Transformers
+title: Random-ltd&#58; Random And Layerwise Token Dropping Brings Efficient Training For Large-scale Transformers
 authors: Yao Zhewei, Wu Xiaoxia, Li Conglong, Holmes Connor, Zhang Minjia, Li Cheng, He Yuxiong
 conference: "Arxiv"
 year: 2022

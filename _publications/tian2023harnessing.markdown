@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BOOST\: Harnessing Black-box Control To Boost Commonsense In Lms' Generation
+title: BOOST&#58; Harnessing Black-box Control To Boost Commonsense In Lms' Generation
 authors: Tian Yufei, Zhang Felix, Peng Nanyun
 conference: "Arxiv"
 year: 2023

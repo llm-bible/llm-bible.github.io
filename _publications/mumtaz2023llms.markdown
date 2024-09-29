@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llms-healthcare \: Current Applications And Challenges Of Large Language Models In Various Medical Specialties
+title: Llms-healthcare &#58; Current Applications And Challenges Of Large Language Models In Various Medical Specialties
 authors: Mumtaz Ummara, Ahmed Awais, Mumtaz Summaya
 conference: "Arxiv"
 year: 2023

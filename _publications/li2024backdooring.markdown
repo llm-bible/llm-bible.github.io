@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Badedit\: Backdooring Large Language Models By Model Editing
+title: Badedit&#58; Backdooring Large Language Models By Model Editing
 authors: Li Yanzhou, Li Tianlin, Chen Kangjie, Zhang Jian, Liu Shangqing, Wang Wenhan, Zhang Tianwei, Liu Yang
 conference: "Arxiv"
 year: 2024

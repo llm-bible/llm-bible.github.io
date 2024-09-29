@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automatic Generation Of Model And Data Cards\: A Step Towards Responsible AI
+title: Automatic Generation Of Model And Data Cards&#58; A Step Towards Responsible AI
 authors: Liu Jiarui, Li Wenkai, Jin Zhijing, Diab Mona
 conference: "Arxiv"
 year: 2024

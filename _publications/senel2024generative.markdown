@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative Explore-exploit\: Training-free Optimization Of Generative Recommender Systems Using LLM Optimizers
+title: Generative Explore-exploit&#58; Training-free Optimization Of Generative Recommender Systems Using LLM Optimizers
 authors: Senel Lütfi Kerem, Fetahu Besnik, Yoshida Davis, Chen Zhiyu, Castellucci Giuseppe, Vedula Nikhita, Choi Jason, Malmasi Shervin
 conference: "Arxiv"
 year: 2024

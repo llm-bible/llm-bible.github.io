@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Promptkd\: Distilling Student-friendly Knowledge For Generative Language Models Via Prompt Tuning
+title: Promptkd&#58; Distilling Student-friendly Knowledge For Generative Language Models Via Prompt Tuning
 authors: Kim Gyeongman, Jang Doohyuk, Yang Eunho
 conference: "Arxiv"
 year: 2024

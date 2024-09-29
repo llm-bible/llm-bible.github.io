@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mobileflow\: A Multimodal LLM For Mobile GUI Agent
+title: Mobileflow&#58; A Multimodal LLM For Mobile GUI Agent
 authors: Nong Songqin, Zhu Jiali, Wu Rui, Jin Jiongchao, Shan Shuo, Huang Xiutian, Xu Wenhao
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Walledeval\: A Comprehensive Safety Evaluation Toolkit For Large Language Models
+title: Walledeval&#58; A Comprehensive Safety Evaluation Toolkit For Large Language Models
 authors: Gupta Prannaya, Yau Le Qi, Low Hao Han, Lee I-shiang, Lim Hugo Maximus, Teoh Yu Xin, Koh Jia Hng, Liew Dar Win, Bhardwaj Rishabh, Bhardwaj Rajat, Poria Soujanya
 conference: "Arxiv"
 year: 2024

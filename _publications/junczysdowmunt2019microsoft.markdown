@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Microsoft Translator At WMT 2019\: Towards Large-scale Document-level Neural Machine Translation
+title: Microsoft Translator At WMT 2019&#58; Towards Large-scale Document-level Neural Machine Translation
 authors: Junczys-dowmunt Marcin
 conference: "Arxiv"
 year: 2019

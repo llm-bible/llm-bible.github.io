@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Longcite\: Enabling Llms To Generate Fine-grained Citations In Long-context QA
+title: Longcite&#58; Enabling Llms To Generate Fine-grained Citations In Long-context QA
 authors: Zhang Jiajie, Bai Yushi, Lv Xin, Gu Wanjun, Liu Danqing, Zou Minhao, Cao Shulin, Hou Lei, Dong Yuxiao, Feng Ling, Li Juanzi
 conference: "Arxiv"
 year: 2024

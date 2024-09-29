@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM Comparative Assessment\: Zero-shot NLG Evaluation Through Pairwise Comparisons Using Large Language Models
+title: LLM Comparative Assessment&#58; Zero-shot NLG Evaluation Through Pairwise Comparisons Using Large Language Models
 authors: Liusie Adian, Manakul Potsawee, Gales Mark J. F.
 conference: "Arxiv"
 year: 2023

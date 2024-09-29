@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: HFT\: Half Fine-tuning For Large Language Models
+title: HFT&#58; Half Fine-tuning For Large Language Models
 authors: Hui Tingfeng, Zhang Zhenyu, Wang Shuohuan, Xu Weiran, Sun Yu, Wu Hua
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Layoutgpt\: Compositional Visual Planning And Generation With Large Language Models
+title: Layoutgpt&#58; Compositional Visual Planning And Generation With Large Language Models
 authors: Weixi Feng, Wanrong Zhu, Tsu-jui Fu, Varun Jampani, Arjun Akula, Xuehai He, Sugato Basu, Xin Eric Wang, William Yang Wang
 conference: "Arxiv"
 year: 2023

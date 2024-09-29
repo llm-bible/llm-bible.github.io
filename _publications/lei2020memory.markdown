@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MART\: Memory-augmented Recurrent Transformer For Coherent Video Paragraph Captioning
+title: MART&#58; Memory-augmented Recurrent Transformer For Coherent Video Paragraph Captioning
 authors: Lei Jie, Wang Liwei, Shen Yelong, Yu Dong, Berg Tamara L., Bansal Mohit
 conference: "Arxiv"
 year: 2020

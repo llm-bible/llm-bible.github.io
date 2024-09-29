@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FP6-LLM\: Efficiently Serving Large Language Models Through Fp6-centric Algorithm-system Co-design
+title: FP6-LLM&#58; Efficiently Serving Large Language Models Through Fp6-centric Algorithm-system Co-design
 authors: Xia Haojun, Zheng Zhen, Wu Xiaoxia, Chen Shiyang, Yao Zhewei, Youn Stephen, Bakhtiari Arash, Wyatt Michael, Zhuang Donglin, Zhou Zhongzhu, Ruwase Olatunji, He Yuxiong, Song Shuaiwen Leon
 conference: "Arxiv"
 year: 2024

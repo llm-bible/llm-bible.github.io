@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Confabulation\: The Surprising Value Of Large Language Model Hallucinations
+title: Confabulation&#58; The Surprising Value Of Large Language Model Hallucinations
 authors: Sui Peiqi, Duede Eamon, Wu Sophie, So Richard Jean
 conference: "Arxiv"
 year: 2024

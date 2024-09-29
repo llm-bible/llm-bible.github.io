@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unite\: Unified Translation Evaluation
+title: Unite&#58; Unified Translation Evaluation
 authors: Wan Yu, Liu Dayiheng, Yang Baosong, Zhang Haibo, Chen Boxing, Wong Derek F., Chao Lidia S.
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-specialization\: Uncovering Latent Expertise Within Large Language Models
+title: Self-specialization&#58; Uncovering Latent Expertise Within Large Language Models
 authors: Kang Junmo, Luo Hongyin, Zhu Yada, Hansen Jacob, Glass James, Cox David, Ritter Alan, Feris Rogerio, Karlinsky Leonid
 conference: "Arxiv"
 year: 2023

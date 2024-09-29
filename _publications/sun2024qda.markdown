@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: QDA-SQL\: Questions Enhanced Dialogue Augmentation For Multi-turn Text-to-sql
+title: QDA-SQL&#58; Questions Enhanced Dialogue Augmentation For Multi-turn Text-to-sql
 authors: Sun Yinggang, Guo Ziming, Yu Haining, Liu Chuanyi, Li Xiang, Wang Bingxuan, Yu Xiangzhan, Zhao Tiancheng
 conference: "Arxiv"
 year: 2024

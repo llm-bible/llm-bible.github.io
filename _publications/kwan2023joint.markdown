@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jotr\: A Joint Transformer And Reinforcement Learning Framework For Dialog Policy Learning
+title: Jotr&#58; A Joint Transformer And Reinforcement Learning Framework For Dialog Policy Learning
 authors: Kwan Wai-chung, Wang Huimin, Wang Hongru, Wang Zezhong, Wu Xian, Zheng Yefeng, Wong Kam-fai
 conference: "Arxiv"
 year: 2023

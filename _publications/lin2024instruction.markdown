@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instructlayout\: Instruction-driven 2D And 3D Layout Synthesis With Semantic Graph Prior
+title: Instructlayout&#58; Instruction-driven 2D And 3D Layout Synthesis With Semantic Graph Prior
 authors: Lin Chenguo, Lin Yuchen, Pan Panwang, Zhang Xuanyang, Mu Yadong
 conference: "Arxiv"
 year: 2024

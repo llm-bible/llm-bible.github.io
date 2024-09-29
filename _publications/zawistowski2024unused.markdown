@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unused Information In Token Probability Distribution Of Generative LLM\: Improving LLM Reading Comprehension Through Calculation Of Expected Values
+title: Unused Information In Token Probability Distribution Of Generative LLM&#58; Improving LLM Reading Comprehension Through Calculation Of Expected Values
 authors: Zawistowski Krystian
 conference: "Arxiv"
 year: 2024

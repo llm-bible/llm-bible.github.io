@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SPACE-3\: Unified Dialog Model Pre-training For Task-oriented Dialog Understanding And Generation
+title: SPACE-3&#58; Unified Dialog Model Pre-training For Task-oriented Dialog Understanding And Generation
 authors: He Wanwei, Dai Yinpei, Yang Min, Sun Jian, Huang Fei, Si Luo, Li Yongbin
 conference: "Arxiv"
 year: 2022

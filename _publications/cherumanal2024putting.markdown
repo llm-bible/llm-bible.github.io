@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Walert\: Putting Conversational Search Knowledge Into Action By Building And Evaluating A Large Language Model-powered Chatbot
+title: Walert&#58; Putting Conversational Search Knowledge Into Action By Building And Evaluating A Large Language Model-powered Chatbot
 authors: Cherumanal Sachin Pathiyan, Tian Lin, Abushaqra Futoon M., De Paula Angel Felipe Magnossao, Ji Kaixin, Hettiachchi Danula, Trippas Johanne R., Ali Halil, Scholer Falk, Spina Damiano
 conference: "Arxiv"
 year: 2024

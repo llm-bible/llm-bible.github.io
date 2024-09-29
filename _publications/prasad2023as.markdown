@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adapt\: As-needed Decomposition And Planning With Language Models
+title: Adapt&#58; As-needed Decomposition And Planning With Language Models
 authors: Prasad Archiki, Koller Alexander, Hartmann Mareike, Clark Peter, Sabharwal Ashish, Bansal Mohit, Khot Tushar
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Moa\: Mixture Of Sparse Attention For Automatic Large Language Model Compression
+title: Moa&#58; Mixture Of Sparse Attention For Automatic Large Language Model Compression
 authors: Fu Tianyu, Huang Haofeng, Ning Xuefei, Zhang Genghan, Chen Boju, Wu Tianqi, Wang Hongyi, Huang Zixiao, Li Shiyao, Yan Shengen, Dai Guohao, Yang Huazhong, Wang Yu
 conference: "Arxiv"
 year: 2024

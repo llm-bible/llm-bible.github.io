@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Medalign\: A Clinician-generated Dataset For Instruction Following With Electronic Medical Records
+title: Medalign&#58; A Clinician-generated Dataset For Instruction Following With Electronic Medical Records
 authors: Fleming Scott L., Lozano Alejandro, Haberkorn William J., Jindal Jenelle A., Reis Eduardo P., Thapa Rahul, Blankemeier Louis, Genkins Julian Z., Steinberg Ethan, Nayak Ashwin, Patel Birju S., Chiang Chia-chun, Callahan Alison, Huo Zepeng, Gatidis Sergios, Adams Scott J., Fayanju Oluseyi, Shah Shreya J., Savage Thomas, Goh Ethan, Chaudhari Akshay S., Aghaeepour Nima, Sharp Christopher, Pfeffer Michael A., Liang Percy, Chen Jonathan H., Morse Keith E., Brunskill Emma P., Fries Jason A., Shah Nigam H.
 conference: "Arxiv"
 year: 2023

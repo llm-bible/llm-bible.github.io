@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Spectra\: A Comprehensive Study Of Ternary, Quantized, And FP16 Language Models
+title: Spectra&#58; A Comprehensive Study Of Ternary, Quantized, And FP16 Language Models
 authors: Kaushal Ayush, Pandey Tejas, Vaidhya Tejas, Bhagat Aaryan, Rish Irina
 conference: "Arxiv"
 year: 2024

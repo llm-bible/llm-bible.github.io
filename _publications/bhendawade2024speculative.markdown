@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Speculative Streaming\: Fast LLM Inference Without Auxiliary Models
+title: Speculative Streaming&#58; Fast LLM Inference Without Auxiliary Models
 authors: Bhendawade Nikhil, Belousova Irina, Fu Qichen, Mason Henry, Rastegari Mohammad, Najibi Mahyar
 conference: "Arxiv"
 year: 2024

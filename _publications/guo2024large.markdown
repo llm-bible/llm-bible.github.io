@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sillm\: Large Language Models For Simultaneous Machine Translation
+title: Sillm&#58; Large Language Models For Simultaneous Machine Translation
 authors: Guo Shoutao, Zhang Shaolei, Ma Zhengrui, Zhang Min, Feng Yang
 conference: "Arxiv"
 year: 2024

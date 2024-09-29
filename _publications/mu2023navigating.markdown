@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Navigating Prompt Complexity For Zero-shot Classification\: A Study Of Large Language Models In Computational Social Science
+title: Navigating Prompt Complexity For Zero-shot Classification&#58; A Study Of Large Language Models In Computational Social Science
 authors: Mu Yida, Wu Ben P., Thorne William, Robinson Ambrose, Aletras Nikolaos, Scarton Carolina, Bontcheva Kalina, Song Xingyi
 conference: "Arxiv"
 year: 2023

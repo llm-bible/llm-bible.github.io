@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Triplenet\: Triple Attention Network For Multi-turn Response Selection In Retrieval-based Chatbots
+title: Triplenet&#58; Triple Attention Network For Multi-turn Response Selection In Retrieval-based Chatbots
 authors: Ma Wentao, Cui Yiming, Shao Nan, He Su, Zhang Wei-nan, Liu Ting, Wang Shijin, Hu Guoping
 conference: "CoNLL"
 year: 2019

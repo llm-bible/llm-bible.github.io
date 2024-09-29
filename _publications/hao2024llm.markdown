@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM Reasoners\: New Evaluation, Library, And Analysis Of Step-by-step Reasoning With Large Language Models
+title: LLM Reasoners&#58; New Evaluation, Library, And Analysis Of Step-by-step Reasoning With Large Language Models
 authors: Hao Shibo, Gu Yi, Luo Haotian, Liu Tianyang, Shao Xiyan, Wang Xinyuan, Xie Shuhua, Ma Haodi, Samavedhi Adithya, Gao Qiyue, Wang Zhen, Hu Zhiting
 conference: "Arxiv"
 year: 2024

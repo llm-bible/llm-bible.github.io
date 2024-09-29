@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Contextualized Sequence Likelihood\: Enhanced Confidence Scores For Natural Language Generation
+title: Contextualized Sequence Likelihood&#58; Enhanced Confidence Scores For Natural Language Generation
 authors: Lin Zhen, Trivedi Shubhendu, Sun Jimeng
 conference: "Arxiv"
 year: 2024

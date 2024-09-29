@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MAQA\: A Multimodal QA Benchmark For Negation
+title: MAQA&#58; A Multimodal QA Benchmark For Negation
 authors: Li Judith Yue, Jansen Aren, Huang Qingqing, Lee Joonseok, Ganti Ravi, Kuzmin Dima
 conference: "Arxiv"
 year: 2023

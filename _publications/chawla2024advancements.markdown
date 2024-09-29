@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Veagle\: Advancements In Multimodal Representation Learning
+title: Veagle&#58; Advancements In Multimodal Representation Learning
 authors: Chawla Rajat, Datta Arkajit, Verma Tushar, Jha Adarsh, Gautam Anmol, Vatsal Ayush, Chaterjee Sukrit, Ns Mukunda, Bhola Ishaan
 conference: "Arxiv"
 year: 2024

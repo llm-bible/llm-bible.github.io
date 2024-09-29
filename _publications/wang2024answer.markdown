@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "my Answer Is C"\: First-token Probabilities Do Not Match Text Answers In Instruction-tuned Language Models
+title: "my Answer Is C"&#58; First-token Probabilities Do Not Match Text Answers In Instruction-tuned Language Models
 authors: Wang Xinpeng, Ma Bolei, Hu Chengzhi, Weber-genzel Leon, Röttger Paul, Kreuter Frauke, Hovy Dirk, Plank Barbara
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generate, Annotate, And Learn\: NLP With Synthetic Text
+title: Generate, Annotate, And Learn&#58; NLP With Synthetic Text
 authors: He Xuanli, Nassar Islam, Kiros Jamie, Haffari Gholamreza, Norouzi Mohammad
 conference: "Arxiv"
 year: 2021

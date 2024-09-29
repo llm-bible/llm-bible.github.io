@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vista-llama\: Reliable Video Narrator Via Equal Distance To Visual Tokens
+title: Vista-llama&#58; Reliable Video Narrator Via Equal Distance To Visual Tokens
 authors: Ma Fan, Jin Xiaojie, Wang Heng, Xian Yuchen, Feng Jiashi, Yang Yi
 conference: "Arxiv"
 year: 2023

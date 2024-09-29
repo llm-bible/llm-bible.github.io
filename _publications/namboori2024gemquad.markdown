@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gemquad \: Generating Multilingual Question Answering Datasets From Large Language Models Using Few Shot Learning
+title: Gemquad &#58; Generating Multilingual Question Answering Datasets From Large Language Models Using Few Shot Learning
 authors: Namboori Amani, Mangale Shivam, Rosenbaum Andy, Soltan Saleh
 conference: "Arxiv"
 year: 2024

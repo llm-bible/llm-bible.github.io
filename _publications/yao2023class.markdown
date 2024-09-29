@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tcp\:textual-based Class-aware Prompt Tuning For Visual-language Model
+title: Tcp&#58;textual-based Class-aware Prompt Tuning For Visual-language Model
 authors: Yao Hantao, Zhang Rui, Xu Changsheng
 conference: "Arxiv"
 year: 2023

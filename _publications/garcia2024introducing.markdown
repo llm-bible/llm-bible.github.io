@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Introducing Bode\: A Fine-tuned Large Language Model For Portuguese Prompt-based Task
+title: Introducing Bode&#58; A Fine-tuned Large Language Model For Portuguese Prompt-based Task
 authors: Garcia Gabriel Lino, Paiola Pedro Henrique, Morelli Luis Henrique, Candido Giovani, Júnior Arnaldo Cândido, Jodas Danilo Samuel, Afonso Luis C. S., Guilherme Ivan Rizzo, Penteado Bruno Elias, Papa João Paulo
 conference: "Arxiv"
 year: 2024

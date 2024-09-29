@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Qanet\: Combining Local Convolution With Global Self-attention For Reading Comprehension
+title: Qanet&#58; Combining Local Convolution With Global Self-attention For Reading Comprehension
 authors: Yu Adams Wei, Dohan David, Luong Minh-thang, Zhao Rui, Chen Kai, Norouzi Mohammad, Le Quoc V.
 conference: "Arxiv"
 year: 2018

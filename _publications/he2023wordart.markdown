@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Wordart Designer\: User-driven Artistic Typography Synthesis Using Large Language Models
+title: Wordart Designer&#58; User-driven Artistic Typography Synthesis Using Large Language Models
 authors: He Jun-yan, Cheng Zhi-qi, Li Chenyang, Sun Jingdong, Xiang Wangmeng, Lin Xianhui, Kang Xiaoyang, Jin Zengke, Hu Yusen, Luo Bin, Geng Yifeng, Xie Xuansong, Zhou Jingren
 conference: "Arxiv"
 year: 2023

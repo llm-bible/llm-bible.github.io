@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transformer-xl\: Attentive Language Models Beyond A Fixed-length Context
+title: Transformer-xl&#58; Attentive Language Models Beyond A Fixed-length Context
 authors: Dai Zihang, Yang Zhilin, Yang Yiming, Carbonell Jaime, Le Quoc V., Salakhutdinov Ruslan
 conference: "Arxiv"
 year: 2019

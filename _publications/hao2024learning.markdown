@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning To Rewrite\: Generalized Llm-generated Text Detection
+title: Learning To Rewrite&#58; Generalized Llm-generated Text Detection
 authors: Hao Wei, Li Ran, Zhao Weiliang, Yang Junfeng, Mao Chengzhi
 conference: "Arxiv"
 year: 2024

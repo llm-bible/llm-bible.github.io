@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Let's Learn Step By Step\: Enhancing In-context Learning Ability With Curriculum Learning
+title: Let's Learn Step By Step&#58; Enhancing In-context Learning Ability With Curriculum Learning
 authors: Liu Yinpeng, Liu Jiawei, Shi Xiang, Cheng Qikai, Huang Yong, Lu Wei
 conference: "Arxiv"
 year: 2024

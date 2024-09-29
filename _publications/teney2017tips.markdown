@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tips And Tricks For Visual Question Answering\: Learnings From The 2017 Challenge
+title: Tips And Tricks For Visual Question Answering&#58; Learnings From The 2017 Challenge
 authors: Teney Damien, Anderson Peter, He Xiaodong, Hengel Anton Van Den
 conference: "Arxiv"
 year: 2017

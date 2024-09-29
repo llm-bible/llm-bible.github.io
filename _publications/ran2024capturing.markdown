@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Capturing Minds, Not Just Words\: Enhancing Role-playing Language Models With Personality-indicative Data
+title: Capturing Minds, Not Just Words&#58; Enhancing Role-playing Language Models With Personality-indicative Data
 authors: Ran Yiting, Wang Xintao, Xu Rui, Yuan Xinfeng, Liang Jiaqing, Xiao Yanghua, Yang Deqing
 conference: "Arxiv"
 year: 2024

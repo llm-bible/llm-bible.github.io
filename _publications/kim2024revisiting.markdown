@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: THEANINE\: Revisiting Memory Management In Long-term Conversations With Timeline-augmented Response Generation
+title: THEANINE&#58; Revisiting Memory Management In Long-term Conversations With Timeline-augmented Response Generation
 authors: Kim Seo Hyun, Ong Kai Tzu-iunn, Kwon Taeyoon, Kim Namyoung, Ka Keummin, Bae Seonghyeon, Jo Yohan, Hwang Seung-won, Lee Dongha, Yeo Jinyoung
 conference: "Arxiv"
 year: 2024

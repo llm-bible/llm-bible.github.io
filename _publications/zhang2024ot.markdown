@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: OT-VP\: Optimal Transport-guided Visual Prompting For Test-time Adaptation
+title: OT-VP&#58; Optimal Transport-guided Visual Prompting For Test-time Adaptation
 authors: Zhang Yunbei, Mehra Akshay, Hamm Jihun
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EFSG\: Evolutionary Fooling Sentences Generator
+title: EFSG&#58; Evolutionary Fooling Sentences Generator
 authors: Di Giovanni Marco, Brambilla Marco
 conference: "Arxiv"
 year: 2020

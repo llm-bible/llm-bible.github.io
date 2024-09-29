@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ernie-code\: Beyond English-centric Cross-lingual Pretraining For Programming Languages
+title: Ernie-code&#58; Beyond English-centric Cross-lingual Pretraining For Programming Languages
 authors: Chai Yekun, Wang Shuohuan, Pang Chao, Sun Yu, Tian Hao, Wu Hua
 conference: "Arxiv"
 year: 2022

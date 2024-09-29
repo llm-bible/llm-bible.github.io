@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Point-bind & Point-llm\: Aligning Point Cloud With Multi-modality For 3D Understanding, Generation, And Instruction Following
+title: Point-bind & Point-llm&#58; Aligning Point Cloud With Multi-modality For 3D Understanding, Generation, And Instruction Following
 authors: Guo Ziyu, Zhang Renrui, Zhu Xiangyang, Tang Yiwen, Ma Xianzheng, Han Jiaming, Chen Kexin, Gao Peng, Li Xianzhi, Li Hongsheng, Heng Pheng-ann
 conference: "Arxiv"
 year: 2023

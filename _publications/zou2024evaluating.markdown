@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vgbench\: Evaluating Large Language Models On Vector Graphics Understanding And Generation
+title: Vgbench&#58; Evaluating Large Language Models On Vector Graphics Understanding And Generation
 authors: Zou Bocheng, Cai Mu, Zhang Jianrui, Lee Yong Jae
 conference: "Arxiv"
 year: 2024

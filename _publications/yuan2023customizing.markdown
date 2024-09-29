@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CRAFT\: Customizing Llms By Creating And Retrieving From Specialized Toolsets
+title: CRAFT&#58; Customizing Llms By Creating And Retrieving From Specialized Toolsets
 authors: Yuan Lifan, Chen Yangyi, Wang Xingyao, Fung Yi R., Peng Hao, Ji Heng
 conference: "Arxiv"
 year: 2023

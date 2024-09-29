@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Targeted Data Generation\: Finding And Fixing Model Weaknesses
+title: Targeted Data Generation&#58; Finding And Fixing Model Weaknesses
 authors: He Zexue, Ribeiro Marco Tulio, Khani Fereshte
 conference: "Arxiv"
 year: 2023

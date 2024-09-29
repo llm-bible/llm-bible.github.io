@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Faithlm\: Towards Faithful Explanations For Large Language Models
+title: Faithlm&#58; Towards Faithful Explanations For Large Language Models
 authors: Chuang Yu-neng, Wang Guanchu, Chang Chia-yuan, Tang Ruixiang, Zhong Shaochen, Yang Fan, Du Mengnan, Cai Xuanting, Hu Xia
 conference: "Arxiv"
 year: 2024

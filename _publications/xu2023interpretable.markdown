@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Drivegpt4\: Interpretable End-to-end Autonomous Driving Via Large Language Model
+title: Drivegpt4&#58; Interpretable End-to-end Autonomous Driving Via Large Language Model
 authors: Xu Zhenhua, Zhang Yujia, Xie Enze, Zhao Zhen, Guo Yong, Wong Kwan-yee. K., Li Zhenguo, Zhao Hengshuang
 conference: "Arxiv"
 year: 2023

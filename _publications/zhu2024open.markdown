@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Yulan\: An Open-source Large Language Model
+title: Yulan&#58; An Open-source Large Language Model
 authors: Zhu Yutao, Zhou Kun, Mao Kelong, Chen Wentong, Sun Yiding, Chen Zhipeng, Cao Qian, Wu Yihan, Chen Yushuo, Wang Feng, Zhang Lei, Li Junyi, Wang Xiaolei, Wang Lei, Zhang Beichen, Dong Zican, Cheng Xiaoxue, Chen Yuhan, Tang Xinyu, Hou Yupeng, Ren Qiangqiang, Pang Xincheng, Xie Shufang, Zhao Wayne Xin, Dou Zhicheng, Mao Jiaxin, Lin Yankai, Song Ruihua, Xu Jun, Chen Xu, Yan Rui, Wei Zhewei, Hu Di, Huang Wenbing, Gao Ze-feng, Chen Yueguo, Lu Weizheng, Wen Ji-rong
 conference: "Arxiv"
 year: 2024

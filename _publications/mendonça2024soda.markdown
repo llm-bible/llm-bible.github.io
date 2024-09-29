@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Soda-eval\: Open-domain Dialogue Evaluation In The Age Of Llms
+title: Soda-eval&#58; Open-domain Dialogue Evaluation In The Age Of Llms
 authors: Mendonça John, Trancoso Isabel, Lavie Alon
 conference: "Arxiv"
 year: 2024

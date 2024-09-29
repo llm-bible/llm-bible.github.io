@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prophet\: Prompting Large Language Models With Complementary Answer Heuristics For Knowledge-based Visual Question Answering
+title: Prophet&#58; Prompting Large Language Models With Complementary Answer Heuristics For Knowledge-based Visual Question Answering
 authors: Yu Zhou, Ouyang Xuecheng, Shao Zhenwei, Wang Meng, Yu Jun
 conference: "Arxiv"
 year: 2023

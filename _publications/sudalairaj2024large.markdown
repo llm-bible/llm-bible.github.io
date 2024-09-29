@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LAB\: Large-scale Alignment For Chatbots
+title: LAB&#58; Large-scale Alignment For Chatbots
 authors: Sudalairaj Shivchander, Bhandwaldar Abhishek, Pareja Aldo, Xu Kai, Cox David D., Srivastava Akash
 conference: "Arxiv"
 year: 2024

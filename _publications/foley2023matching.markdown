@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Matching Pairs\: Attributing Fine-tuned Models To Their Pre-trained Large Language Models
+title: Matching Pairs&#58; Attributing Fine-tuned Models To Their Pre-trained Large Language Models
 authors: Foley Myles, Rawat Ambrish, Lee Taesung, Hou Yufang, Picco Gabriele, Zizzo Giulio
 conference: "Arxiv"
 year: 2023

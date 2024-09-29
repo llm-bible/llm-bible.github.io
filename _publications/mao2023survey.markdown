@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gpteval\: A Survey On Assessments Of Chatgpt And GPT-4
+title: Gpteval&#58; A Survey On Assessments Of Chatgpt And GPT-4
 authors: Mao Rui, Chen Guanyi, Zhang Xulang, Guerin Frank, Cambria Erik
 conference: "Arxiv"
 year: 2023

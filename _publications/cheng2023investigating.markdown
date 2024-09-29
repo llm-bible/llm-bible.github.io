@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RELIC\: Investigating Large Language Model Responses Using Self-consistency
+title: RELIC&#58; Investigating Large Language Model Responses Using Self-consistency
 authors: Cheng Furui, Zouhar Vilém, Arora Simran, Sachan Mrinmaya, Strobelt Hendrik, El-assady Mennatallah
 conference: "Arxiv"
 year: 2023

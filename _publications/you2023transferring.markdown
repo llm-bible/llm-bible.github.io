@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: $P^{3}O$\: Transferring Visual Representations For Reinforcement Learning Via Prompting
+title: $P^{3}O$&#58; Transferring Visual Representations For Reinforcement Learning Via Prompting
 authors: You Guoliang, Chu Xiaomeng, Duan Yifan, Peng Jie, Ji Jianmin, Zhang Yu, Zhang Yanyong
 conference: "Arxiv"
 year: 2023

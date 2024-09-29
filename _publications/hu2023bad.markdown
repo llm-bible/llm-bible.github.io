@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bad Actor, Good Advisor\: Exploring The Role Of Large Language Models In Fake News Detection
+title: Bad Actor, Good Advisor&#58; Exploring The Role Of Large Language Models In Fake News Detection
 authors: Hu Beizhe, Sheng Qiang, Cao Juan, Shi Yuhui, Li Yang, Wang Danding, Qi Peng
 conference: "AAAI"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Xc-cache\: Cross-attending To Cached Context For Efficient LLM Inference
+title: Xc-cache&#58; Cross-attending To Cached Context For Efficient LLM Inference
 authors: Monteiro João, Marcotte Étienne, Noël Pierre-andré, Zantedeschi Valentina, Vázquez David, Chapados Nicolas, Pal Christopher, Taslakian Perouz
 conference: "Arxiv"
 year: 2024

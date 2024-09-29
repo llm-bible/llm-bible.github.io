@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Onegen\: Efficient One-pass Unified Generation And Retrieval For Llms
+title: Onegen&#58; Efficient One-pass Unified Generation And Retrieval For Llms
 authors: Zhang Jintian, Peng Cheng, Sun Mengshu, Chen Xiang, Liang Lei, Zhang Zhiqiang, Zhou Jun, Chen Huajun, Zhang Ningyu
 conference: "Arxiv"
 year: 2024

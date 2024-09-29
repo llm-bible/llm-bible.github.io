@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hypertuning\: Toward Adapting Large Language Models Without Back-propagation
+title: Hypertuning&#58; Toward Adapting Large Language Models Without Back-propagation
 authors: Phang Jason, Mao Yi, He Pengcheng, Chen Weizhu
 conference: "Arxiv"
 year: 2022

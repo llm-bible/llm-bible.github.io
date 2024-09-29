@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TRAQ\: Trustworthy Retrieval Augmented Question Answering Via Conformal Prediction
+title: TRAQ&#58; Trustworthy Retrieval Augmented Question Answering Via Conformal Prediction
 authors: Li Shuo, Park Sangdon, Lee Insup, Bastani Osbert
 conference: "Arxiv"
 year: 2023

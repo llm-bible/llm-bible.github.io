@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Weaver\: Foundation Models For Creative Writing
+title: Weaver&#58; Foundation Models For Creative Writing
 authors: Wang Tiannan, Chen Jiamin, Jia Qingrui, Wang Shuai, Fang Ruoyu, Wang Huilin, Gao Zhaowei, Xie Chunzhao, Xu Chuou, Dai Jihong, Liu Yibin, Wu Jialong, Ding Shengwei, Li Long, Huang Zhiwei, Deng Xinle, Yu Teng, Ma Gangan, Xiao Han, Chen Zixin, Xiang Danjun, Wang Yunxia, Zhu Yuanyuan, Xiao Yi, Wang Jing, Wang Yiru, Ding Siran, Huang Jiayang, Xu Jiayi, Tayier Yilihamu, Hu Zhenyu, Gao Yuan, Zheng Chengfeng, Ye Yueshu, Li Yihang, Wan Lei, Jiang Xinyue, Wang Yujie, Cheng Siyu, Song Zhule, Tang Xiangru, Xu Xiaohua, Zhang Ningyu, Chen Huajun, Jiang Yuchen Eleanor, Zhou Wangchunshu
 conference: "Arxiv"
 year: 2024

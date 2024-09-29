@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Seallms 3\: Open Foundation And Chat Multilingual Large Language Models For Southeast Asian Languages
+title: Seallms 3&#58; Open Foundation And Chat Multilingual Large Language Models For Southeast Asian Languages
 authors: Zhang Wenxuan, Chan Hou Pong, Zhao Yiran, Aljunied Mahani, Wang Jianyu, Liu Chaoqun, Deng Yue, Hu Zhiqiang, Xu Weiwen, Chia Yew Ken, Li Xin, Bing Lidong
 conference: "Arxiv"
 year: 2024

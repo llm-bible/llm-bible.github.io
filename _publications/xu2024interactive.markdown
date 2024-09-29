@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Interactive Evolution\: A Neural-symbolic Self-training Framework For Large Language Models
+title: Interactive Evolution&#58; A Neural-symbolic Self-training Framework For Large Language Models
 authors: Xu Fangzhi, Sun Qiushi, Cheng Kanzhi, Liu Jun, Qiao Yu, Wu Zhiyong
 conference: "Arxiv"
 year: 2024

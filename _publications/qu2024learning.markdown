@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tokenrec\: Learning To Tokenize ID For Llm-based Generative Recommendation
+title: Tokenrec&#58; Learning To Tokenize ID For Llm-based Generative Recommendation
 authors: Qu Haohao, Fan Wenqi, Zhao Zihuai, Li Qing
 conference: "Arxiv"
 year: 2024

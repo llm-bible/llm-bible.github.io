@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Semantic Entropy Probes\: Robust And Cheap Hallucination Detection In Llms
+title: Semantic Entropy Probes&#58; Robust And Cheap Hallucination Detection In Llms
 authors: Kossen Jannik, Han Jiatong, Razzak Muhammed, Schut Lisa, Malik Shreshth, Gal Yarin
 conference: "Arxiv"
 year: 2024

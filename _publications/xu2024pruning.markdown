@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BESA\: Pruning Large Language Models With Blockwise Parameter-efficient Sparsity Allocation
+title: BESA&#58; Pruning Large Language Models With Blockwise Parameter-efficient Sparsity Allocation
 authors: Xu Peng, Shao Wenqi, Chen Mengzhao, Tang Shitao, Zhang Kaipeng, Gao Peng, An Fengwei, Qiao Yu, Luo Ping
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Remi\: A Dataset For Reasoning With Multiple Images
+title: Remi&#58; A Dataset For Reasoning With Multiple Images
 authors: Kazemi Mehran, Dikkala Nishanth, Anand Ankit, Devic Petar, Dasgupta Ishita, Liu Fangyu, Fatemi Bahare, Awasthi Pranjal, Guo Dee, Gollapudi Sreenivas, Qureshi Ahmed
 conference: "Arxiv"
 year: 2024

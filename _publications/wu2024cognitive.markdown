@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cognitive Llms\: Towards Integrating Cognitive Architectures And Large Language Models For Manufacturing Decision-making
+title: Cognitive Llms&#58; Towards Integrating Cognitive Architectures And Large Language Models For Manufacturing Decision-making
 authors: Wu Siyu, Oltramari Alessandro, Francis Jonathan, Giles C. Lee, Ritter Frank E.
 conference: "Arxiv"
 year: 2024

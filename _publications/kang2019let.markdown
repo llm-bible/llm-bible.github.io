@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Let Me Know What To Ask\: Interrogative-word-aware Question Generation
+title: Let Me Know What To Ask&#58; Interrogative-word-aware Question Generation
 authors: Kang Junmo, Roman Haritz Puerto San, Myaeng Sung-hyon
 conference: "Arxiv"
 year: 2019

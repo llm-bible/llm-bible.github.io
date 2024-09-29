@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Xdoc\: Unified Pre-training For Cross-format Document Understanding
+title: Xdoc&#58; Unified Pre-training For Cross-format Document Understanding
 authors: Chen Jingye, Lv Tengchao, Cui Lei, Zhang Cha, Wei Furu
 conference: "Arxiv"
 year: 2022

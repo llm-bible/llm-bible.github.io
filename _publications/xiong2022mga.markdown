@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MGA-VQA\: Multi-granularity Alignment For Visual Question Answering
+title: MGA-VQA&#58; Multi-granularity Alignment For Visual Question Answering
 authors: Xiong Peixi, Shen Yilin, Jin Hongxia
 conference: "Arxiv"
 year: 2022

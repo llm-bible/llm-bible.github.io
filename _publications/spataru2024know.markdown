@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Know When To Stop\: A Study Of Semantic Drift In Text Generation
+title: Know When To Stop&#58; A Study Of Semantic Drift In Text Generation
 authors: Spataru Ava, Hambro Eric, Voita Elena, Cancedda Nicola
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tem-adapter\: Adapting Image-text Pretraining For Video Question Answer
+title: Tem-adapter&#58; Adapting Image-text Pretraining For Video Question Answer
 authors: Chen Guangyi, Liu Xiao, Wang Guangrun, Zhang Kun, Torr Philip H. S., Zhang Xiao-ping, Tang Yansong
 conference: "Arxiv"
 year: 2023

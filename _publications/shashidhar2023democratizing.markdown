@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Democratizing Llms\: An Exploration Of Cost-performance Trade-offs In Self-refined Open-source Models
+title: Democratizing Llms&#58; An Exploration Of Cost-performance Trade-offs In Self-refined Open-source Models
 authors: Shashidhar Sumuk, Chinta Abhinav, Sahai Vaibhav, Wang Zhenhailong, Ji Heng
 conference: "Arxiv"
 year: 2023

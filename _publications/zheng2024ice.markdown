@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ICE-GRT\: Instruction Context Enhancement By Generative Reinforcement Based Transformers
+title: ICE-GRT&#58; Instruction Context Enhancement By Generative Reinforcement Based Transformers
 authors: Zheng Chen, Sun Ke, Tang Da, Ma Yukun, Zhang Yuyu, Xi Chenguang, Zhou Xun
 conference: "Arxiv"
 year: 2024

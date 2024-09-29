@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Promptagator\: Few-shot Dense Retrieval From 8 Examples
+title: Promptagator&#58; Few-shot Dense Retrieval From 8 Examples
 authors: Dai Zhuyun, Zhao Vincent Y., Ma Ji, Luan Yi, Ni Jianmo, Lu Jing, Bakalov Anton, Guu Kelvin, Hall Keith B., Chang Ming-wei
 conference: "Arxiv"
 year: 2022

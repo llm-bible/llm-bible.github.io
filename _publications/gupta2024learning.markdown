@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: METAREFLECTION\: Learning Instructions For Language Agents Using Past Reflections
+title: METAREFLECTION&#58; Learning Instructions For Language Agents Using Past Reflections
 authors: Gupta Priyanshu, Kirtania Shashank, Singha Ananya, Gulwani Sumit, Radhakrishna Arjun, Shi Sherry, Soares Gustavo
 conference: "Arxiv"
 year: 2024

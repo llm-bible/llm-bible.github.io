@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ehrtutor\: Enhancing Patient Understanding Of Discharge Instructions
+title: Ehrtutor&#58; Enhancing Patient Understanding Of Discharge Instructions
 authors: Zhang Zihao, Yao Zonghai, Zhou Huixue, Ouyang Feiyun, Yu Hong
 conference: "Arxiv"
 year: 2023

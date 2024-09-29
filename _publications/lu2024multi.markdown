@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Longheads\: Multi-head Attention Is Secretly A Long Context Processor
+title: Longheads&#58; Multi-head Attention Is Secretly A Long Context Processor
 authors: Lu Yi, Zhou Xin, He Wei, Zhao Jun, Ji Tao, Gui Tao, Zhang Qi, Huang Xuanjing
 conference: "Arxiv"
 year: 2024

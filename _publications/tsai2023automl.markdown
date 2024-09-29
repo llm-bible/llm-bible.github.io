@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automl-gpt\: Large Language Model For Automl
+title: Automl-gpt&#58; Large Language Model For Automl
 authors: Tsai Yun-da, Tsai Yu-che, Huang Bo-wei, Yang Chun-pai, Lin Shou-de
 conference: "Arxiv"
 year: 2023

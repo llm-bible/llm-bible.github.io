@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Readctrl\: Personalizing Text Generation With Readability-controlled Instruction Learning
+title: Readctrl&#58; Personalizing Text Generation With Readability-controlled Instruction Learning
 authors: Tran Hieu, Yao Zonghai, Li Lingxi, Yu Hong
 conference: "Arxiv"
 year: 2024

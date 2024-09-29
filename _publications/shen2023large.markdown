@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Model Alignment\: A Survey
+title: Large Language Model Alignment&#58; A Survey
 authors: Shen Tianhao, Jin Renren, Huang Yufei, Liu Chuang, Dong Weilong, Guo Zishan, Wu Xinwei, Liu Yan, Xiong Deyi
 conference: "Arxiv"
 year: 2023

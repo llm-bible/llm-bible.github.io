@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TEAL\: Tokenize And Embed ALL For Multi-modal Large Language Models
+title: TEAL&#58; Tokenize And Embed ALL For Multi-modal Large Language Models
 authors: Yang Zhen, Zhang Yingxue, Meng Fandong, Zhou Jie
 conference: "Arxiv"
 year: 2023

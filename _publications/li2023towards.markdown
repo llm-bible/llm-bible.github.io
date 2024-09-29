@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Vision Enhancing Llms\: Empowering Multimodal Knowledge Storage And Sharing In Llms
+title: Towards Vision Enhancing Llms&#58; Empowering Multimodal Knowledge Storage And Sharing In Llms
 authors: Li Yunxin, Hu Baotian, Wang Wei, Cao Xiaochun, Zhang Min
 conference: "Arxiv"
 year: 2023

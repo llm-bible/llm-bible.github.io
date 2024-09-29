@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jailbreak In Pieces\: Compositional Adversarial Attacks On Multi-modal Language Models
+title: Jailbreak In Pieces&#58; Compositional Adversarial Attacks On Multi-modal Language Models
 authors: Shayegani Erfan, Dong Yue, Abu-ghazaleh Nael
 conference: "Arxiv"
 year: 2023

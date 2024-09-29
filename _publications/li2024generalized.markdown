@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: 500xcompressor\: Generalized Prompt Compression For Large Language Models
+title: 500xcompressor&#58; Generalized Prompt Compression For Large Language Models
 authors: Li Zongqian, Su Yixuan, Collier Nigel
 conference: "Arxiv"
 year: 2024

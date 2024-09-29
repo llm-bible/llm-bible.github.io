@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Magpie\: Alignment Data Synthesis From Scratch By Prompting Aligned Llms With Nothing
+title: Magpie&#58; Alignment Data Synthesis From Scratch By Prompting Aligned Llms With Nothing
 authors: Xu Zhangchen, Jiang Fengqing, Niu Luyao, Deng Yuntian, Poovendran Radha, Choi Yejin, Lin Bill Yuchen
 conference: "Arxiv"
 year: 2024

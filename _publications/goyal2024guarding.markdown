@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llmguard\: Guarding Against Unsafe LLM Behavior
+title: Llmguard&#58; Guarding Against Unsafe LLM Behavior
 authors: Goyal Shubh, Hira Medha, Mishra Shubham, Goyal Sukriti, Goel Arnav, Dadu Niharika, Db Kirushikesh, Mehta Sameep, Madaan Nishtha
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning To Decompose\: Hypothetical Question Decomposition Based On Comparable Texts
+title: Learning To Decompose&#58; Hypothetical Question Decomposition Based On Comparable Texts
 authors: Zhou Ben, Richardson Kyle, Yu Xiaodong, Roth Dan
 conference: "Arxiv"
 year: 2022

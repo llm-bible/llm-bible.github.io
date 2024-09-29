@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt, Generate, Then Cache\: Cascade Of Foundation Models Makes Strong Few-shot Learners
+title: Prompt, Generate, Then Cache&#58; Cascade Of Foundation Models Makes Strong Few-shot Learners
 authors: Renrui Zhang, Xiangfei Hu, Bohao Li, Siyuan Huang, Hanqiu Deng, Hongsheng Li, Yu Qiao, Peng Gao
 conference: "Arxiv"
 year: 2023

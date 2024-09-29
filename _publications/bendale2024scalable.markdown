@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SUTRA\: Scalable Multilingual Language Model Architecture
+title: SUTRA&#58; Scalable Multilingual Language Model Architecture
 authors: Bendale Abhijit, Sapienza Michael, Ripplinger Steven, Gibbs Simon, Lee Jaewon, Mistry Pranav
 conference: "Arxiv"
 year: 2024

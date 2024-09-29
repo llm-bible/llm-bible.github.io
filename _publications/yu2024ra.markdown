@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ra-rec\: An Efficient ID Representation Alignment Framework For Llm-based Recommendation
+title: Ra-rec&#58; An Efficient ID Representation Alignment Framework For Llm-based Recommendation
 authors: Yu Xiaohan, Zhang Li, Zhao Xin, Wang Yue, Ma Zhongrui
 conference: "Arxiv"
 year: 2024

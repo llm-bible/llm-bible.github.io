@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Contradoc\: Understanding Self-contradictions In Documents With Large Language Models
+title: Contradoc&#58; Understanding Self-contradictions In Documents With Large Language Models
 authors: Li Jierui, Raheja Vipul, Kumar Dhruv
 conference: "Arxiv"
 year: 2023

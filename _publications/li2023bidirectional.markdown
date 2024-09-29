@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Batgpt\: A Bidirectional Autoregessive Talker From Generative Pre-trained Transformer
+title: Batgpt&#58; A Bidirectional Autoregessive Talker From Generative Pre-trained Transformer
 authors: Li Zuchao, Zhang Shitou, Zhao Hai, Yang Yifei, Yang Dongjie
 conference: "Arxiv"
 year: 2023

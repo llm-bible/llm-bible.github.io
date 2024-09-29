@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Biomistral\: A Collection Of Open-source Pretrained Large Language Models For Medical Domains
+title: Biomistral&#58; A Collection Of Open-source Pretrained Large Language Models For Medical Domains
 authors: Labrak Yanis, Bazoge Adrien, Morin Emmanuel, Gourraud Pierre-antoine, Rouvier Mickael, Dufour Richard
 conference: "Proceedings of the"
 year: 2024

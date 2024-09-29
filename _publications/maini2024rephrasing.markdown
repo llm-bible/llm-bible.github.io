@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rephrasing The Web\: A Recipe For Compute And Data-efficient Language Modeling
+title: Rephrasing The Web&#58; A Recipe For Compute And Data-efficient Language Modeling
 authors: Maini Pratyush, Seto Skyler, Bai He, Grangier David, Zhang Yizhe, Jaitly Navdeep
 conference: "Arxiv"
 year: 2024

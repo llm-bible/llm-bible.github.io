@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lost In Space\: Probing Fine-grained Spatial Understanding In Vision And Language Resamplers
+title: Lost In Space&#58; Probing Fine-grained Spatial Understanding In Vision And Language Resamplers
 authors: Pantazopoulos Georgios, Suglia Alessandro, Lemon Oliver, Eshghi Arash
 conference: "Arxiv"
 year: 2024

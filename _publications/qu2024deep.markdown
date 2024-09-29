@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DEEP-ICL\: Definition-enriched Experts For Language Model In-context Learning
+title: DEEP-ICL&#58; Definition-enriched Experts For Language Model In-context Learning
 authors: Qu Xingwei, Liang Yiming, Wang Yucheng, Zheng Tianyu, Yue Tommy, Ma Lei, Huang Stephen W., Zhang Jiajun, Shi Yinan, Lin Chenghua, Fu Jie, Zhang Ge
 conference: "Arxiv"
 year: 2024

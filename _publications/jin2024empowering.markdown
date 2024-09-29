@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Crimson\: Empowering Strategic Reasoning In Cybersecurity Through Large Language Models
+title: Crimson&#58; Empowering Strategic Reasoning In Cybersecurity Through Large Language Models
 authors: Jin Jiandong, Tang Bowen, Ma Mingxuan, Liu Xiao, Wang Yunfei, Lai Qingnan, Yang Jia, Zhou Changling
 conference: "Arxiv"
 year: 2024

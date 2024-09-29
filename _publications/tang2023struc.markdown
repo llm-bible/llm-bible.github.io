@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Struc-bench\: Are Large Language Models Really Good At Generating Complex Structured Data?
+title: Struc-bench&#58; Are Large Language Models Really Good At Generating Complex Structured Data?
 authors: Tang Xiangru, Zong Yiming, Phang Jason, Zhao Yilun, Zhou Wangchunshu, Cohan Arman, Gerstein Mark
 conference: "Arxiv"
 year: 2023

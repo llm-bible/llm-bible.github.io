@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GPTQ\: Accurate Post-training Quantization For Generative Pre-trained Transformers
+title: GPTQ&#58; Accurate Post-training Quantization For Generative Pre-trained Transformers
 authors: Frantar Elias, Ashkboos Saleh, Hoefler Torsten, Alistarh Dan
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gpt4video\: A Unified Multimodal Large Language Model For Lnstruction-followed Understanding And Safety-aware Generation
+title: Gpt4video&#58; A Unified Multimodal Large Language Model For Lnstruction-followed Understanding And Safety-aware Generation
 authors: Wang Zhanyu, Wang Longyue, Zhao Zhen, Wu Minghao, Lyu Chenyang, Li Huayang, Cai Deng, Zhou Luping, Shi Shuming, Tu Zhaopeng
 conference: "Arxiv"
 year: 2023

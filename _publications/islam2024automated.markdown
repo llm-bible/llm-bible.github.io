@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Datanarrative\: Automated Data-driven Storytelling With Visualizations And Texts
+title: Datanarrative&#58; Automated Data-driven Storytelling With Visualizations And Texts
 authors: Islam Mohammed Saidul, Laskar Md Tahmid Rahman, Parvez Md Rizwan, Hoque Enamul, Joty Shafiq
 conference: "Arxiv"
 year: 2024

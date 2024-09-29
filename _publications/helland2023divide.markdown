@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Divide Et Impera\: Multi-transformer Architectures For Complex Nlp-tasks
+title: Divide Et Impera&#58; Multi-transformer Architectures For Complex Nlp-tasks
 authors: Helland Solveig, Gavagnin Elena, De Spindler Alexandre
 conference: "Proceedings of the"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BERT-JAM\: Boosting Bert-enhanced Neural Machine Translation With Joint Attention
+title: BERT-JAM&#58; Boosting Bert-enhanced Neural Machine Translation With Joint Attention
 authors: Zhang Zhebin, Wu Sai, Jiang Dawei, Chen Gang
 conference: "Arxiv"
 year: 2020

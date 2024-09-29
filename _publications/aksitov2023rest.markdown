@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rest Meets React\: Self-improvement For Multi-step Reasoning LLM Agent
+title: Rest Meets React&#58; Self-improvement For Multi-step Reasoning LLM Agent
 authors: Aksitov Renat, Miryoosefi Sobhan, Li Zonglin, Li Daliang, Babayan Sheila, Kopparapu Kavya, Fisher Zachary, Guo Ruiqi, Prakash Sushant, Srinivasan Pranesh, Zaheer Manzil, Yu Felix, Kumar Sanjiv
 conference: "Arxiv"
 year: 2023

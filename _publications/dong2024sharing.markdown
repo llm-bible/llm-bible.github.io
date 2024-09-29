@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Baichuanseed\: Sharing The Potential Of Extensive Data Collection And Deduplication By Introducing A Competitive Large Language Model Baseline
+title: Baichuanseed&#58; Sharing The Potential Of Extensive Data Collection And Deduplication By Introducing A Competitive Large Language Model Baseline
 authors: Dong Guosheng, Pan Da, Sun Yiding, Zhang Shusen, Liang Zheng, Wu Xin, Shen Yanjun, Yang Fan, Sun Haoze, Li Tianpeng, Lin Mingan, Xu Jianhua, Zhang Yufan, Nie Xiaonan, Su Lei, Wang Bingning, Zhang Wentao, Mao Jiaxin, Zhou Zenan, Chen Weipeng
 conference: "Arxiv"
 year: 2024

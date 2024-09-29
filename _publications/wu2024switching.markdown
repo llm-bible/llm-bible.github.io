@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Switchcit\: Switching For Continual Instruction Tuning Of Large Language Models
+title: Switchcit&#58; Switching For Continual Instruction Tuning Of Large Language Models
 authors: Wu Xinbo, Hartman Max, Jayaraman Vidhata Arjun, Varshney Lav R.
 conference: "Arxiv"
 year: 2024

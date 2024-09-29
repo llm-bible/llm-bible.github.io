@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multilingual Machine Translation With Large Language Models\: Empirical Results And Analysis
+title: Multilingual Machine Translation With Large Language Models&#58; Empirical Results And Analysis
 authors: Zhu Wenhao, Liu Hongyi, Dong Qingxiu, Xu Jingjing, Huang Shujian, Kong Lingpeng, Chen Jiajun, Li Lei
 conference: "Arxiv"
 year: 2023

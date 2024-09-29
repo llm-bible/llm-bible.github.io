@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DGL\: Dynamic Global-local Prompt Tuning For Text-video Retrieval
+title: DGL&#58; Dynamic Global-local Prompt Tuning For Text-video Retrieval
 authors: Yang Xiangpeng, Zhu Linchao, Wang Xiaohan, Yang Yi
 conference: "Arxiv"
 year: 2024

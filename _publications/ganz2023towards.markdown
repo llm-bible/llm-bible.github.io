@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CLIPAG\: Towards Generator-free Text-to-image Generation
+title: CLIPAG&#58; Towards Generator-free Text-to-image Generation
 authors: Ganz Roy, Elad Michael
 conference: "Arxiv"
 year: 2023

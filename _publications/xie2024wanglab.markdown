@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Wanglab At MEDIQA-M3G 2024\: Multimodal Medical Answer Generation Using Large Language Models
+title: Wanglab At MEDIQA-M3G 2024&#58; Multimodal Medical Answer Generation Using Large Language Models
 authors: Xie Ronald, Palayew Steven, Toma Augustin, Bader Gary, Wang Bo
 conference: "Arxiv"
 year: 2024

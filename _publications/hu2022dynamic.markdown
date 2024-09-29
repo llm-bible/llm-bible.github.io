@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PLANET\: Dynamic Content Planning In Autoregressive Transformers For Long-form Text Generation
+title: PLANET&#58; Dynamic Content Planning In Autoregressive Transformers For Long-form Text Generation
 authors: Hu Zhe, Chan Hou Pong, Liu Jiachen, Xiao Xinyan, Wu Hua, Huang Lifu
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prefix Guidance\: A Steering Wheel For Large Language Models To Defend Against Jailbreak Attacks
+title: Prefix Guidance&#58; A Steering Wheel For Large Language Models To Defend Against Jailbreak Attacks
 authors: Zhao Jiawei, Chen Kejiang, Yuan Xiaojian, Zhang Weiming
 conference: "Arxiv"
 year: 2024

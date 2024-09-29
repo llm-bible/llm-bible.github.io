@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Swectrl-mini\: A Data-transparent Transformer-based Large Language Model For Controllable Text Generation In Swedish
+title: Swectrl-mini&#58; A Data-transparent Transformer-based Large Language Model For Controllable Text Generation In Swedish
 authors: Kalpakchi Dmytro, Boye Johan
 conference: "Arxiv"
 year: 2023

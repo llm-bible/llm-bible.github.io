@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Incomplete Loop\: Instruction Inference, Instruction Following, And In-context Learning In Language Models
+title: An Incomplete Loop&#58; Instruction Inference, Instruction Following, And In-context Learning In Language Models
 authors: Liu Emmy, Neubig Graham, Andreas Jacob
 conference: "Arxiv"
 year: 2024

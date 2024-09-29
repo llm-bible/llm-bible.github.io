@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learn To Refuse\: Making Large Language Models More Controllable And Reliable Through Knowledge Scope Limitation And Refusal Mechanism
+title: Learn To Refuse&#58; Making Large Language Models More Controllable And Reliable Through Knowledge Scope Limitation And Refusal Mechanism
 authors: Cao Lang
 conference: "Arxiv"
 year: 2023

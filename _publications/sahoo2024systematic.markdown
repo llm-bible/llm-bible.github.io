@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Systematic Survey Of Prompt Engineering In Large Language Models\: Techniques And Applications
+title: A Systematic Survey Of Prompt Engineering In Large Language Models&#58; Techniques And Applications
 authors: Sahoo Pranab, Singh Ayush Kumar, Saha Sriparna, Jain Vinija, Mondal Samrat, Chadha Aman
 conference: "Arxiv"
 year: 2024

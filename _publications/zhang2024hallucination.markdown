@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Knowhalu\: Hallucination Detection Via Multi-form Knowledge Based Factual Checking
+title: Knowhalu&#58; Hallucination Detection Via Multi-form Knowledge Based Factual Checking
 authors: Zhang Jiawei, Xu Chejian, Gai Yu, Lecue Freddy, Song Dawn, Li Bo
 conference: "Arxiv"
 year: 2024

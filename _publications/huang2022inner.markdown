@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Inner Monologue\: Embodied Reasoning Through Planning With Language Models
+title: Inner Monologue&#58; Embodied Reasoning Through Planning With Language Models
 authors: Huang Wenlong, Xia Fei, Xiao Ted, Chan Harris, Liang Jacky, Florence Pete, Zeng Andy, Tompson Jonathan, Mordatch Igor, Chebotar Yevgen, Sermanet Pierre, Brown Noah, Jackson Tomas, Luu Linda, Levine Sergey, Hausman Karol, Ichter Brian
 conference: "Arxiv"
 year: 2022

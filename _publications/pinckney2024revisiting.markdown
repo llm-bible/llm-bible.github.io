@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Revisiting Verilogeval\: Newer Llms, In-context Learning, And Specification-to-rtl Tasks
+title: Revisiting Verilogeval&#58; Newer Llms, In-context Learning, And Specification-to-rtl Tasks
 authors: Pinckney Nathaniel, Batten Christopher, Liu Mingjie, Ren Haoxing, Khailany Brucek
 conference: "Arxiv"
 year: 2024

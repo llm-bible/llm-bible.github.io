@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Xeroalign\: Zero-shot Cross-lingual Transformer Alignment
+title: Xeroalign&#58; Zero-shot Cross-lingual Transformer Alignment
 authors: Gritta Milan, Iacobacci Ignacio
 conference: "Arxiv"
 year: 2021

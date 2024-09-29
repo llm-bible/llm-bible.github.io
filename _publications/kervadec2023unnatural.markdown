@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unnatural Language Processing\: How Do Language Models Handle Machine-generated Prompts?
+title: Unnatural Language Processing&#58; How Do Language Models Handle Machine-generated Prompts?
 authors: Kervadec Corentin, Franzon Francesca, Baroni Marco
 conference: "Arxiv"
 year: 2023

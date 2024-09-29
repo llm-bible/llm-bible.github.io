@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: POINTER\: Constrained Progressive Text Generation Via Insertion-based Generative Pre-training
+title: POINTER&#58; Constrained Progressive Text Generation Via Insertion-based Generative Pre-training
 authors: Zhang Yizhe, Wang Guoyin, Li Chunyuan, Gan Zhe, Brockett Chris, Dolan Bill
 conference: "Arxiv"
 year: 2020

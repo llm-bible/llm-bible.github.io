@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Natural Language Rationales With Full-stack Visual Reasoning\: From Pixels To Semantic Frames To Commonsense Graphs
+title: Natural Language Rationales With Full-stack Visual Reasoning&#58; From Pixels To Semantic Frames To Commonsense Graphs
 authors: Marasović Ana, Bhagavatula Chandra, Park Jae Sung, Bras Ronan Le, Smith Noah A., Choi Yejin
 conference: "Arxiv"
 year: 2020

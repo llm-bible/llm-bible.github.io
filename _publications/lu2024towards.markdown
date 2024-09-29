@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Transfer Unlearning\: Empirical Evidence Of Cross-domain Bias Mitigation
+title: Towards Transfer Unlearning&#58; Empirical Evidence Of Cross-domain Bias Mitigation
 authors: Lu Huimin, Isonuma Masaru, Mori Junichiro, Sakata Ichiro
 conference: "Arxiv"
 year: 2024

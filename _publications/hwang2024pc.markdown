@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pc-lora\: Low-rank Adaptation For Progressive Model Compression With Knowledge Distillation
+title: Pc-lora&#58; Low-rank Adaptation For Progressive Model Compression With Knowledge Distillation
 authors: Hwang Injoon, Park Haewon, Lee Youngwan, Yang Jooyoung, Maeng Sunjae
 conference: "Arxiv"
 year: 2024

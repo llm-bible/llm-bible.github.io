@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Soaring From 4K To 400K\: Extending Llm's Context With Activation Beacon
+title: Soaring From 4K To 400K&#58; Extending Llm's Context With Activation Beacon
 authors: Zhang Peitian, Liu Zheng, Xiao Shitao, Shao Ninglu, Ye Qiwei, Dou Zhicheng
 conference: "Arxiv"
 year: 2024

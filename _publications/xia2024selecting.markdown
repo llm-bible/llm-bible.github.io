@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LESS\: Selecting Influential Data For Targeted Instruction Tuning
+title: LESS&#58; Selecting Influential Data For Targeted Instruction Tuning
 authors: Xia Mengzhou, Malladi Sadhika, Gururangan Suchin, Arora Sanjeev, Chen Danqi
 conference: "Arxiv"
 year: 2024

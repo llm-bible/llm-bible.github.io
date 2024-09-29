@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Grade Score\: Quantifying LLM Performance In Option Selection
+title: Grade Score&#58; Quantifying LLM Performance In Option Selection
 authors: Iourovitski Dmitri
 conference: "Arxiv"
 year: 2024

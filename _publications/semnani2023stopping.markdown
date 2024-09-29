@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Wikichat\: Stopping The Hallucination Of Large Language Model Chatbots By Few-shot Grounding On Wikipedia
+title: Wikichat&#58; Stopping The Hallucination Of Large Language Model Chatbots By Few-shot Grounding On Wikipedia
 authors: Semnani Sina J., Yao Violet Z., Zhang Heidi C., Lam Monica S.
 conference: "Arxiv"
 year: 2023

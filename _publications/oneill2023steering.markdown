@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Steering Language Generation\: Harnessing Contrastive Expert Guidance And Negative Prompting For Coherent And Diverse Synthetic Data Generation
+title: Steering Language Generation&#58; Harnessing Contrastive Expert Guidance And Negative Prompting For Coherent And Diverse Synthetic Data Generation
 authors: O'neill Charles, Ting Yuan-sen, Ciuca Ioana, Miller Jack, Bui Thang
 conference: "Arxiv"
 year: 2023

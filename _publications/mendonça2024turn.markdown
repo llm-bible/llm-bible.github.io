@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ecoh\: Turn-level Coherence Evaluation For Multilingual Dialogues
+title: Ecoh&#58; Turn-level Coherence Evaluation For Multilingual Dialogues
 authors: Mendonça John, Trancoso Isabel, Lavie Alon
 conference: "Arxiv"
 year: 2024

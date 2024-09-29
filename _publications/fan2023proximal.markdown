@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Proximal Policy Optimization Actual Combat\: Manipulating Output Tokenizer Length
+title: Proximal Policy Optimization Actual Combat&#58; Manipulating Output Tokenizer Length
 authors: Fan Miao, Hu Chen, Zhou Shuchang
 conference: "Arxiv"
 year: 2023

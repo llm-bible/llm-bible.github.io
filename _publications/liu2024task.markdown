@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TOAD\: Task-oriented Automatic Dialogs With Diverse Response Styles
+title: TOAD&#58; Task-oriented Automatic Dialogs With Diverse Response Styles
 authors: Liu Yinhong, Fang Yimai, Vandyke David, Collier Nigel
 conference: "Arxiv"
 year: 2024

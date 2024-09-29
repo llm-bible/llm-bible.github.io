@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Verigen\: A Large Language Model For Verilog Code Generation
+title: Verigen&#58; A Large Language Model For Verilog Code Generation
 authors: Thakur Shailja, Ahmad Baleegh, Pearce Hammond, Tan Benjamin, Dolan-gavitt Brendan, Karri Ramesh, Garg Siddharth
 conference: "Arxiv"
 year: 2023

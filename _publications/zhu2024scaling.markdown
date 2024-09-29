@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Collectivesft\: Scaling Large Language Models For Chinese Medical Benchmark With Collective Instructions In Healthcare
+title: Collectivesft&#58; Scaling Large Language Models For Chinese Medical Benchmark With Collective Instructions In Healthcare
 authors: Zhu Jingwei, Tan Minghuan, Yang Min, Li Ruixue, Alinejad-rokny Hamid
 conference: "Arxiv"
 year: 2024

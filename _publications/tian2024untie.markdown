@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Untie The Knots\: An Efficient Data Augmentation Strategy For Long-context Pre-training In Language Models
+title: Untie The Knots&#58; An Efficient Data Augmentation Strategy For Long-context Pre-training In Language Models
 authors: Tian Junfeng, Zheng Da, Cheng Yang, Wang Rui, Zhang Colin, Zhang Debing
 conference: "Arxiv"
 year: 2024

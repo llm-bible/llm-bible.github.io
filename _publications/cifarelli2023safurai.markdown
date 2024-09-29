@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Safurai 001\: New Qualitative Approach For Code LLM Evaluation
+title: Safurai 001&#58; New Qualitative Approach For Code LLM Evaluation
 authors: Cifarelli Davide, Boiardi Leonardo, Puppo Alessandro
 conference: "Arxiv"
 year: 2023

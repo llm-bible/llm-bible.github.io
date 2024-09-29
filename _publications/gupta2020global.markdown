@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GMAT\: Global Memory Augmentation For Transformers
+title: GMAT&#58; Global Memory Augmentation For Transformers
 authors: Gupta Ankit, Berant Jonathan
 conference: "Arxiv"
 year: 2020

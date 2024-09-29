@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Breaking Down The Defenses\: A Comparative Survey Of Attacks On Large Language Models
+title: Breaking Down The Defenses&#58; A Comparative Survey Of Attacks On Large Language Models
 authors: Chowdhury Arijit Ghosh, Islam Md Mofijul, Kumar Vaibhav, Shezan Faysal Hossain, Kumar Vaibhav, Jain Vinija, Chadha Aman
 conference: "Arxiv"
 year: 2024

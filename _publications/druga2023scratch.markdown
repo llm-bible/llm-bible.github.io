@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scratch Copilot Evaluation\: Assessing Ai-assisted Creative Coding For Families
+title: Scratch Copilot Evaluation&#58; Assessing Ai-assisted Creative Coding For Families
 authors: Druga Stefania, Otero Nancy
 conference: "Arxiv"
 year: 2023

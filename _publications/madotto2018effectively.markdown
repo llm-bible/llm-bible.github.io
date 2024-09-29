@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mem2seq\: Effectively Incorporating Knowledge Bases Into End-to-end Task-oriented Dialog Systems
+title: Mem2seq&#58; Effectively Incorporating Knowledge Bases Into End-to-end Task-oriented Dialog Systems
 authors: Madotto Andrea, Wu Chien-sheng, Fung Pascale
 conference: "Arxiv"
 year: 2018

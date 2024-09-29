@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MM-REACT\: Prompting Chatgpt For Multimodal Reasoning And Action
+title: MM-REACT&#58; Prompting Chatgpt For Multimodal Reasoning And Action
 authors: Zhengyuan Yang, Linjie Li, Jianfeng Wang, Kevin Lin, Ehsan Azarnasab, Faisal Ahmed, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang
 conference: "Arxiv"
 year: 2023

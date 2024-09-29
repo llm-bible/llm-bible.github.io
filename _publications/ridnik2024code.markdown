@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Code Generation With Alphacodium\: From Prompt Engineering To Flow Engineering
+title: Code Generation With Alphacodium&#58; From Prompt Engineering To Flow Engineering
 authors: Ridnik Tal, Kredo Dedy, Friedman Itamar
 conference: "Arxiv"
 year: 2024

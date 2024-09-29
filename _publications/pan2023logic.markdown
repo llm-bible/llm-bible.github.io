@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Logic-lm\: Empowering Large Language Models With Symbolic Solvers For Faithful Logical Reasoning
+title: Logic-lm&#58; Empowering Large Language Models With Symbolic Solvers For Faithful Logical Reasoning
 authors: Pan Liangming, Albalak Alon, Wang Xinyi, Wang William Yang
 conference: "Arxiv"
 year: 2023

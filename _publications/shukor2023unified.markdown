@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unival\: Unified Model For Image, Video, Audio And Language Tasks
+title: Unival&#58; Unified Model For Image, Video, Audio And Language Tasks
 authors: Mustafa Shukor, Corentin Dancette, Alexandre Rame, Matthieu Cord
 conference: "Arxiv"
 year: 2023

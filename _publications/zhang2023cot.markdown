@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cot-bert\: Enhancing Unsupervised Sentence Representation Through Chain-of-thought
+title: Cot-bert&#58; Enhancing Unsupervised Sentence Representation Through Chain-of-thought
 authors: Zhang Bowen, Chang Kehua, Li Chunping
 conference: "Arxiv"
 year: 2023

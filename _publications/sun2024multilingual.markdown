@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fuxitranyu\: A Multilingual Large Language Model Trained With Balanced Data
+title: Fuxitranyu&#58; A Multilingual Large Language Model Trained With Balanced Data
 authors: Sun Haoran, Jin Renren, Xu Shaoyang, Pan Leiyu, Supryadi, Cui Menglong, Du Jiangcun, Lei Yikun, Yang Lei, Shi Ling, Xiao Juesi, Zhu Shaolin, Xiong Deyi
 conference: "Arxiv"
 year: 2024

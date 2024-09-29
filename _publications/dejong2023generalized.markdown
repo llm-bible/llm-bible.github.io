@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GLIMMER\: Generalized Late-interaction Memory Reranker
+title: GLIMMER&#58; Generalized Late-interaction Memory Reranker
 authors: De Jong Michiel, Zemlyanskiy Yury, Fitzgerald Nicholas, Sanghai Sumit, Cohen William W., Ainslie Joshua
 conference: "Arxiv"
 year: 2023

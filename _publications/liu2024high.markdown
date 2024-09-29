@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Synthvlm\: High-efficiency And High-quality Synthetic Data For Vision Language Models
+title: Synthvlm&#58; High-efficiency And High-quality Synthetic Data For Vision Language Models
 authors: Liu Zheng, Liang Hao, Huang Xijie, Xiong Wentao, Yu Qinhan, Sun Linzhuang, Chen Chong, He Conghui, Cui Bin, Zhang Wentao
 conference: "Arxiv"
 year: 2024

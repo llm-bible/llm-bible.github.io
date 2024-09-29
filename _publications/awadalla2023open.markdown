@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Openflamingo\: An Open-source Framework For Training Large Autoregressive Vision-language Models
+title: Openflamingo&#58; An Open-source Framework For Training Large Autoregressive Vision-language Models
 authors: Awadalla Anas, Gao Irena, Gardner Josh, Hessel Jack, Hanafy Yusuf, Zhu Wanrong, Marathe Kalyani, Bitton Yonatan, Gadre Samir, Sagawa Shiori, Jitsev Jenia, Kornblith Simon, Koh Pang Wei, Ilharco Gabriel, Wortsman Mitchell, Schmidt Ludwig
 conference: "Arxiv"
 year: 2023

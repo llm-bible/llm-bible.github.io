@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models As Tax Attorneys\: A Case Study In Legal Capabilities Emergence
+title: Large Language Models As Tax Attorneys&#58; A Case Study In Legal Capabilities Emergence
 authors: Nay John J., Karamardian David, Lawsky Sarah B., Tao Wenting, Bhat Meghana, Jain Raghav, Lee Aaron Travis, Choi Jonathan H., Kasai Jungo
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Boundary Of GPT-4V On Marine Analysis\: A Preliminary Case Study
+title: Exploring Boundary Of GPT-4V On Marine Analysis&#58; A Preliminary Case Study
 authors: Zheng Ziqiang, Chen Yiwei, Zhang Jipeng, Vu Tuan-anh, Zeng Huimin, Tim Yue Him Wong, Yeung Sai-kit
 conference: "Arxiv"
 year: 2024

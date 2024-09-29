@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PSLM\: Parallel Generation Of Text And Speech With Llms For Low-latency Spoken Dialogue Systems
+title: PSLM&#58; Parallel Generation Of Text And Speech With Llms For Low-latency Spoken Dialogue Systems
 authors: Mitsui Kentaro, Mitsuda Koh, Wakatsuki Toshiaki, Hono Yukiya, Sawada Kei
 conference: "Arxiv"
 year: 2024

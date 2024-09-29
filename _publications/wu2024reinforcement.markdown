@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RLPF\: Reinforcement Learning From Prediction Feedback For User Summarization With Llms
+title: RLPF&#58; Reinforcement Learning From Prediction Feedback For User Summarization With Llms
 authors: Wu Jiaxing, Ning Lin, Liu Luyang, Lee Harrison, Wu Neo, Wang Chao, Prakash Sushant, O'banion Shawn, Green Bradley, Xie Jun
 conference: "Arxiv"
 year: 2024

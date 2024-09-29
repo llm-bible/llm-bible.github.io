@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Navgpt-2\: Unleashing Navigational Reasoning Capability For Large Vision-language Models
+title: Navgpt-2&#58; Unleashing Navigational Reasoning Capability For Large Vision-language Models
 authors: Zhou Gengze, Hong Yicong, Wang Zun, Wang Xin Eric, Wu Qi
 conference: "Arxiv"
 year: 2024

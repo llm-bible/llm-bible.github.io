@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Best Of Both Worlds\: Transferring Knowledge From Discriminative Learning To A Generative Visual Dialog Model
+title: Best Of Both Worlds&#58; Transferring Knowledge From Discriminative Learning To A Generative Visual Dialog Model
 authors: Lu Jiasen, Kannan Anitha, Yang Jianwei, Parikh Devi, Batra Dhruv
 conference: "Arxiv"
 year: 2017

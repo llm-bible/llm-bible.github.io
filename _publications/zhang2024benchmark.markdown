@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Geoeval\: Benchmark For Evaluating Llms And Multi-modal Models On Geometry Problem-solving
+title: Geoeval&#58; Benchmark For Evaluating Llms And Multi-modal Models On Geometry Problem-solving
 authors: Zhang Jiaxin, Li Zhongzhi, Zhang Mingliang, Yin Fei, Liu Chenglin, Moshfeghi Yashar
 conference: "Arxiv"
 year: 2024

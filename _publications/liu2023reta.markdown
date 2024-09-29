@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RETA-LLM\: A Retrieval-augmented Large Language Model Toolkit
+title: RETA-LLM&#58; A Retrieval-augmented Large Language Model Toolkit
 authors: Liu Jiongnan, Jin Jiajie, Wang Zihan, Cheng Jiehan, Dou Zhicheng, Wen Ji-rong
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Legal Fictions\: Profiling Legal Hallucinations In Large Language Models
+title: Large Legal Fictions&#58; Profiling Legal Hallucinations In Large Language Models
 authors: Dahl Matthew, Magesh Varun, Suzgun Mirac, Ho Daniel E.
 conference: "Journal of Legal Analysis"
 year: 2024

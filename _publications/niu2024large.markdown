@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models And Cognitive Science\: A Comprehensive Review Of Similarities, Differences, And Challenges
+title: Large Language Models And Cognitive Science&#58; A Comprehensive Review Of Similarities, Differences, And Challenges
 authors: Niu Qian, Liu Junyu, Bi Ziqian, Feng Pohsun, Peng Benji, Chen Keyu, Li Ming
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SPP\: Sparsity-preserved Parameter-efficient Fine-tuning For Large Language Models
+title: SPP&#58; Sparsity-preserved Parameter-efficient Fine-tuning For Large Language Models
 authors: Lu Xudong, Zhou Aojun, Xu Yuhui, Zhang Renrui, Gao Peng, Li Hongsheng
 conference: "Arxiv"
 year: 2024

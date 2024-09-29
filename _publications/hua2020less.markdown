@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Less Is More\: Data-efficient Complex Question Answering Over Knowledge Bases
+title: Less Is More&#58; Data-efficient Complex Question Answering Over Knowledge Bases
 authors: Hua Yuncheng, Li Yuan-fang, Qi Guilin, Wu Wei, Zhang Jingyao, Qi Daiqing
 conference: "Arxiv"
 year: 2020

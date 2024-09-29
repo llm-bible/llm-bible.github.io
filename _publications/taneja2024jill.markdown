@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jill Watson\: A Virtual Teaching Assistant Powered By Chatgpt
+title: Jill Watson&#58; A Virtual Teaching Assistant Powered By Chatgpt
 authors: Taneja Karan, Maiti Pratyusha, Kakar Sandeep, Guruprasad Pranav, Rao Sanjeev, Goel Ashok K.
 conference: "Arxiv"
 year: 2024

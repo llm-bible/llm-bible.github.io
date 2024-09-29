@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Experimental Study\: Assessing The Combined Framework Of Wavlm And BEST-RQ For Text-to-speech Synthesis
+title: An Experimental Study&#58; Assessing The Combined Framework Of Wavlm And BEST-RQ For Text-to-speech Synthesis
 authors: Nielson Via, Hillis Steven
 conference: "Arxiv"
 year: 2023

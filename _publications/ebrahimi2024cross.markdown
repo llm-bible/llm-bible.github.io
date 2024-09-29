@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CROME\: Cross-modal Adapters For Efficient Multimodal LLM
+title: CROME&#58; Cross-modal Adapters For Efficient Multimodal LLM
 authors: Ebrahimi Sayna, Arik Sercan O., Nama Tejas, Pfister Tomas
 conference: "Arxiv"
 year: 2024

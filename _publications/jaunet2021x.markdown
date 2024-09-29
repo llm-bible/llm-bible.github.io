@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Visqa\: X-raying Vision And Language Reasoning In Transformers
+title: Visqa&#58; X-raying Vision And Language Reasoning In Transformers
 authors: Jaunet Theo, Kervadec Corentin, Vuillemot Romain, Antipov Grigory, Baccouche Moez, Wolf Christian
 conference: "Arxiv"
 year: 2021

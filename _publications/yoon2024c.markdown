@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: C-TPT\: Calibrated Test-time Prompt Tuning For Vision-language Models Via Text Feature Dispersion
+title: C-TPT&#58; Calibrated Test-time Prompt Tuning For Vision-language Models Via Text Feature Dispersion
 authors: Yoon Hee Suk, Yoon Eunseop, Tee Joshua Tian Jin, Hasegawa-johnson Mark, Li Yingzhen, Yoo Chang D.
 conference: "Arxiv"
 year: 2024

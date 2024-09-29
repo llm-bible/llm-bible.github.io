@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: In-context Learning Generalizes, But Not Always Robustly\: The Case Of Syntax
+title: In-context Learning Generalizes, But Not Always Robustly&#58; The Case Of Syntax
 authors: Mueller Aaron, Webson Albert, Petty Jackson, Linzen Tal
 conference: "Arxiv"
 year: 2023

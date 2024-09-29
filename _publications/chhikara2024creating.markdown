@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lamsum\: Creating Extractive Summaries Of User Generated Content Using Llms
+title: Lamsum&#58; Creating Extractive Summaries Of User Generated Content Using Llms
 authors: Chhikara Garima, Sharma Anurag, Gurucharan V., Ghosh Kripabandhu, Chakraborty Abhijnan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Let Me Do It For You\: Towards LLM Empowered Recommendation Via Tool Learning
+title: Let Me Do It For You&#58; Towards LLM Empowered Recommendation Via Tool Learning
 authors: Zhao Yuyue, Wu Jiancan, Wang Xiang, Tang Wei, Wang Dingxian, De Rijke Maarten
 conference: "Arxiv"
 year: 2024

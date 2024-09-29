@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatclimate\: Grounding Conversational AI In Climate Science
+title: Chatclimate&#58; Grounding Conversational AI In Climate Science
 authors: Vaghefi Saeid Ashraf, Wang Qian, Muccione Veruska, Ni Jingwei, Kraus Mathias, Bingler Julia, Schimanski Tobias, Colesanti-senni Chiara, Webersinke Nicolas, Huggel Christrian, Leippold Markus
 conference: "Arxiv"
 year: 2023

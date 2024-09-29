@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Readonce Transformers\: Reusable Representations Of Text For Transformers
+title: Readonce Transformers&#58; Reusable Representations Of Text For Transformers
 authors: Lin Shih-ting, Sabharwal Ashish, Khot Tushar
 conference: "Arxiv"
 year: 2020

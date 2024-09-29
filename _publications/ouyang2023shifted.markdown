@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Shifted And The Overlooked\: A Task-oriented Investigation Of User-gpt Interactions
+title: The Shifted And The Overlooked&#58; A Task-oriented Investigation Of User-gpt Interactions
 authors: Ouyang Siru, Wang Shuohang, Liu Yang, Zhong Ming, Jiao Yizhu, Iter Dan, Pryzant Reid, Zhu Chenguang, Ji Heng, Han Jiawei
 conference: "Arxiv"
 year: 2023

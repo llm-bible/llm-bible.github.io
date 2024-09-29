@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MEDIMP\: 3D Medical Images With Clinical Prompts From Limited Tabular Data For Renal Transplantation
+title: MEDIMP&#58; 3D Medical Images With Clinical Prompts From Limited Tabular Data For Renal Transplantation
 authors: Milecki Leo, Kalogeiton Vicky, Bodard Sylvain, Anglicheau Dany, Correas Jean-michel, Timsit Marc-olivier, Vakalopoulou Maria
 conference: "Arxiv"
 year: 2023

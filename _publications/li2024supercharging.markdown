@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llara\: Supercharging Robot Learning Data For Vision-language Policy
+title: Llara&#58; Supercharging Robot Learning Data For Vision-language Policy
 authors: Li Xiang, Mata Cristina, Park Jongwoo, Kahatapitiya Kumara, Jang Yoo Sung, Shang Jinghuan, Ranasinghe Kanchana, Burgert Ryan, Cai Mu, Lee Yong Jae, Ryoo Michael S.
 conference: "Arxiv"
 year: 2024

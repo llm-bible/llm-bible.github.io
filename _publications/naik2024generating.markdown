@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generating Situated Reflection Triggers About Alternative Solution Paths\: A Case Study Of Generative AI For Computer-supported Collaborative Learning
+title: Generating Situated Reflection Triggers About Alternative Solution Paths&#58; A Case Study Of Generative AI For Computer-supported Collaborative Learning
 authors: Naik Atharva, Yin Jessica Ruhan, Kamath Anusha, Ma Qianou, Wu Sherry Tongshuang, Murray Charles, Bogart Christopher, Sakr Majd, Rose Carolyn P.
 conference: "Arxiv"
 year: 2024

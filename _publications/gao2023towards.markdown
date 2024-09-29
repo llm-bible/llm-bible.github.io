@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jsontuning\: Towards Generalizable, Robust, And Controllable Instruction Tuning
+title: Jsontuning&#58; Towards Generalizable, Robust, And Controllable Instruction Tuning
 authors: Gao Chang, Zhang Wenxuan, Chen Guizhen, Lam Wai
 conference: "Arxiv"
 year: 2023

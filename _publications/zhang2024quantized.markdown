@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Quantized Side Tuning\: Fast And Memory-efficient Tuning Of Quantized Large Language Models
+title: Quantized Side Tuning&#58; Fast And Memory-efficient Tuning Of Quantized Large Language Models
 authors: Zhang Zhengxin, Zhao Dan, Miao Xupeng, Oliaro Gabriele, Li Qing, Jiang Yong, Jia Zhihao
 conference: "Arxiv"
 year: 2024

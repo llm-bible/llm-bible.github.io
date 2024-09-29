@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Language-guided Interactive 3D Generation\: Llms As Layout Interpreter With Generative Feedback
+title: Towards Language-guided Interactive 3D Generation&#58; Llms As Layout Interpreter With Generative Feedback
 authors: Lin Yiqi, Wu Hao, Wang Ruichen, Lu Haonan, Lin Xiaodong, Xiong Hui, Wang Lin
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Icleval\: Evaluating In-context Learning Ability Of Large Language Models
+title: Icleval&#58; Evaluating In-context Learning Ability Of Large Language Models
 authors: Chen Wentong, Lin Yankai, Zhou Zhenhao, Huang Hongyun, Jia Yantao, Cao Zhao, Wen Ji-rong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: M4LE\: A Multi-ability Multi-range Multi-task Multi-domain Long-context Evaluation Benchmark For Large Language Models
+title: M4LE&#58; A Multi-ability Multi-range Multi-task Multi-domain Long-context Evaluation Benchmark For Large Language Models
 authors: Kwan Wai-chung, Zeng Xingshan, Wang Yufei, Sun Yusen, Li Liangyou, Shang Lifeng, Liu Qun, Wong Kam-fai
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Model-based Agents For Software Engineering\: A Survey
+title: Large Language Model-based Agents For Software Engineering&#58; A Survey
 authors: Liu Junwei, Wang Kaixin, Chen Yixuan, Peng Xin, Chen Zhenpeng, Zhang Lingming, Lou Yiling
 conference: "Arxiv"
 year: 2024

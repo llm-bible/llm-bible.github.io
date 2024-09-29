@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Iscore\: Visual Analytics For Interpreting How Language Models Automatically Score Summaries
+title: Iscore&#58; Visual Analytics For Interpreting How Language Models Automatically Score Summaries
 authors: Coscia Adam, Holmes Langdon, Morris Wesley, Choi Joon Suh, Crossley Scott, Endert Alex
 conference: "Arxiv"
 year: 2024

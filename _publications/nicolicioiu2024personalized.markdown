@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Panza\: A Personalized Text Writing Assistant Via Data Playback And Local Fine-tuning
+title: Panza&#58; A Personalized Text Writing Assistant Via Data Playback And Local Fine-tuning
 authors: Nicolicioiu Armand, Iofinova Eugenia, Kurtic Eldar, Nikdan Mahdi, Panferov Andrei, Markov Ilia, Shavit Nir, Alistarh Dan
 conference: "Arxiv"
 year: 2024

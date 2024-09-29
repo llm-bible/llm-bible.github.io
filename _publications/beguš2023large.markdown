@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Linguistic Models\: Analyzing Theoretical Linguistic Abilities Of Llms
+title: Large Linguistic Models&#58; Analyzing Theoretical Linguistic Abilities Of Llms
 authors: Beguš Gašper, Dąbkowski Maksymilian, Rhodes Ryan
 conference: "Arxiv"
 year: 2023

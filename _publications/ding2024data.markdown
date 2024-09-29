@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Data Augmentation Using Large Language Models\: Data Perspectives, Learning Paradigms And Challenges
+title: Data Augmentation Using Large Language Models&#58; Data Perspectives, Learning Paradigms And Challenges
 authors: Ding Bosheng, Qin Chengwei, Zhao Ruochen, Luo Tianze, Li Xinze, Chen Guizhen, Xia Wenhan, Hu Junjie, Luu Anh Tuan, Joty Shafiq
 conference: "Arxiv"
 year: 2024

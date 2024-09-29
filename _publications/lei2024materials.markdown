@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Materials Science In The Era Of Large Language Models\: A Perspective
+title: Materials Science In The Era Of Large Language Models&#58; A Perspective
 authors: Lei Ge, Docherty Ronan, Cooper Samuel J.
 conference: "Arxiv"
 year: 2024

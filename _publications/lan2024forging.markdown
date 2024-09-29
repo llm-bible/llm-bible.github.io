@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FOCUS\: Forging Originality Through Contrastive Use In Self-plagiarism For Language Models
+title: FOCUS&#58; Forging Originality Through Contrastive Use In Self-plagiarism For Language Models
 authors: Lan Kaixin, Fang Tao, Wong Derek F., Xu Yabo, Chao Lidia S., Zhao Cecilia G.
 conference: "Arxiv"
 year: 2024

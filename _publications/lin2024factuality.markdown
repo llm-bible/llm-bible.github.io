@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FLAME\: Factuality-aware Alignment For Large Language Models
+title: FLAME&#58; Factuality-aware Alignment For Large Language Models
 authors: Lin Sheng-chieh, Gao Luyu, Oguz Barlas, Xiong Wenhan, Lin Jimmy, Yih Wen-tau, Chen Xilun
 conference: "Arxiv"
 year: 2024

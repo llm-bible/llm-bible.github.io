@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What BERT Sees\: Cross-modal Transfer For Visual Question Generation
+title: What BERT Sees&#58; Cross-modal Transfer For Visual Question Generation
 authors: Scialom Thomas, Bordes Patrick, Dray Paul-alexis, Staiano Jacopo, Gallinari Patrick
 conference: "Arxiv"
 year: 2020

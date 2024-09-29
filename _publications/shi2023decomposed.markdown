@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dept\: Decomposed Prompt Tuning For Parameter-efficient Fine-tuning
+title: Dept&#58; Decomposed Prompt Tuning For Parameter-efficient Fine-tuning
 authors: Shi Zhengxiang, Lipani Aldo
 conference: "Arxiv"
 year: 2023

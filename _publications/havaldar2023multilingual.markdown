@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multilingual Language Models Are Not Multicultural\: A Case Study In Emotion
+title: Multilingual Language Models Are Not Multicultural&#58; A Case Study In Emotion
 authors: Havaldar Shreya, Rai Sunny, Singhal Bhumika, Liu Langchen, Guntuku Sharath Chandra, Ungar Lyle
 conference: "Arxiv"
 year: 2023

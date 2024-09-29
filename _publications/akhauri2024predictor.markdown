@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Shadowllm\: Predictor-based Contextual Sparsity For Large Language Models
+title: Shadowllm&#58; Predictor-based Contextual Sparsity For Large Language Models
 authors: Akhauri Yash, Abouelhamayed Ahmed F, Dotzel Jordan, Zhang Zhiru, Rush Alexander M, Huda Safeen, Abdelfattah Mohamed S
 conference: "Arxiv"
 year: 2024

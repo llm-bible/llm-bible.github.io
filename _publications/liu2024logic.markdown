@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Logic Agent\: Enhancing Validity With Logic Rule Invocation
+title: Logic Agent&#58; Enhancing Validity With Logic Rule Invocation
 authors: Liu Hanmeng, Teng Zhiyang, Zhang Chaoli, Zhang Yue
 conference: "Arxiv"
 year: 2024

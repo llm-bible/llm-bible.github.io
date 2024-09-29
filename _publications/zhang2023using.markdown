@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM4DV\: Using Large Language Models For Hardware Test Stimuli Generation
+title: LLM4DV&#58; Using Large Language Models For Hardware Test Stimuli Generation
 authors: Zhang Zixi, Chadwick Greg, Mcnally Hugo, Zhao Yiren, Mullins Robert
 conference: "Arxiv"
 year: 2023

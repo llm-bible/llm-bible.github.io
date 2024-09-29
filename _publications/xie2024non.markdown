@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Non-instructional Fine-tuning\: Enabling Instruction-following Capabilities In Pre-trained Language Models Without Instruction-following Data
+title: Non-instructional Fine-tuning&#58; Enabling Instruction-following Capabilities In Pre-trained Language Models Without Instruction-following Data
 authors: Xie Juncheng, Syu Shensian, Lee Hung-yi
 conference: "Arxiv"
 year: 2024

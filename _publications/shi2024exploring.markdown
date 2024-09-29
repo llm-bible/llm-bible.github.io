@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Eagle\: Exploring The Design Space For Multimodal Llms With Mixture Of Encoders
+title: Eagle&#58; Exploring The Design Space For Multimodal Llms With Mixture Of Encoders
 authors: Shi Min, Liu Fuxiao, Wang Shihao, Liao Shijia, Radhakrishnan Subhashree, Huang De-an, Yin Hongxu, Sapra Karan, Yacoob Yaser, Shi Humphrey, Catanzaro Bryan, Tao Andrew, Kautz Jan, Yu Zhiding, Liu Guilin
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Techgpt-2.0\: A Large Language Model Project To Solve The Task Of Knowledge Graph Construction
+title: Techgpt-2.0&#58; A Large Language Model Project To Solve The Task Of Knowledge Graph Construction
 authors: Wang Jiaqi, Chang Yuying, Li Zhong, An Ning, Ma Qi, Hei Lei, Luo Haibo, Lu Yifei, Ren Feiliang
 conference: "Arxiv"
 year: 2024

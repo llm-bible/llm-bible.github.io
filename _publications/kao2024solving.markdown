@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Solving For X And Beyond\: Can Large Language Models Solve Complex Math Problems With More-than-two Unknowns?
+title: Solving For X And Beyond&#58; Can Large Language Models Solve Complex Math Problems With More-than-two Unknowns?
 authors: Kao Kuei-chun, Wang Ruochen, Hsieh Cho-jui
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Promptintern\: Saving Inference Costs By Internalizing Recurrent Prompt During Large Language Model Fine-tuning
+title: Promptintern&#58; Saving Inference Costs By Internalizing Recurrent Prompt During Large Language Model Fine-tuning
 authors: Zou Jiaru, Zhou Mengyu, Li Tao, Han Shi, Zhang Dongmei
 conference: "Arxiv"
 year: 2024

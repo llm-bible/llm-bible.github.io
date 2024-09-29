@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chemllm\: A Chemical Large Language Model
+title: Chemllm&#58; A Chemical Large Language Model
 authors: Zhang Di, Liu Wei, Tan Qian, Chen Jingdan, Yan Hang, Yan Yuliang, Li Jiatong, Huang Weiran, Yue Xiangyu, Ouyang Wanli, Zhou Dongzhan, Zhang Shufei, Su Mao, Zhong Han-sen, Li Yuqiang
 conference: "Arxiv"
 year: 2024

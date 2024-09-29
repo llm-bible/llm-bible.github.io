@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Manipulation Problem\: Conversational AI As A Threat To Epistemic Agency
+title: The Manipulation Problem&#58; Conversational AI As A Threat To Epistemic Agency
 authors: Rosenberg Louis
 conference: "Arxiv"
 year: 2023

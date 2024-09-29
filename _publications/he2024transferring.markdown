@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transferring Troubles\: Cross-lingual Transferability Of Backdoor Attacks In Llms With Instruction Tuning
+title: Transferring Troubles&#58; Cross-lingual Transferability Of Backdoor Attacks In Llms With Instruction Tuning
 authors: He Xuanli, Wang Jun, Xu Qiongkai, Minervini Pasquale, Stenetorp Pontus, Rubinstein Benjamin I. P., Cohn Trevor
 conference: "Arxiv"
 year: 2024

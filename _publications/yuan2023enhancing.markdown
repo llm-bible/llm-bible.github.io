@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evotext\: Enhancing Natural Language Generation Models Via Self-escalation Learning For Up-to-date Knowledge And Improved Performance
+title: Evotext&#58; Enhancing Natural Language Generation Models Via Self-escalation Learning For Up-to-date Knowledge And Improved Performance
 authors: Yuan Zhengqing, Xue Huiwen, Zhang Chao, Liu Yongming
 conference: "Appl. Sci."
 year: 2023

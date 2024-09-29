@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dialoging Resonance\: How Users Perceive, Reciprocate And React To Chatbot's Self-disclosure In Conversational Recommendations
+title: Dialoging Resonance&#58; How Users Perceive, Reciprocate And React To Chatbot's Self-disclosure In Conversational Recommendations
 authors: Liang Kai-hui, Shi Weiyan, Oh Yoojung, Wang Hao-chuan, Zhang Jingwen, Yu Zhou
 conference: "Arxiv"
 year: 2021

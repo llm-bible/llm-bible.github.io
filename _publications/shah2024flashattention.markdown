@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Flashattention-3\: Fast And Accurate Attention With Asynchrony And Low-precision
+title: Flashattention-3&#58; Fast And Accurate Attention With Asynchrony And Low-precision
 authors: Shah Jay, Bikshandi Ganesh, Zhang Ying, Thakkar Vijay, Ramani Pradeep, Dao Tri
 conference: "Arxiv"
 year: 2024

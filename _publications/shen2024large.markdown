@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Shortcutsbench\: A Large-scale Real-world Benchmark For Api-based Agents
+title: Shortcutsbench&#58; A Large-scale Real-world Benchmark For Api-based Agents
 authors: Shen Haiyang, Li Yue, Meng Desong, Cai Dongqi, Qi Sheng, Zhang Li, Xu Mengwei, Ma Yun
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exaranker-open\: Synthetic Explanation For IR Using Open-source Llms
+title: Exaranker-open&#58; Synthetic Explanation For IR Using Open-source Llms
 authors: Ferraretto Fernando, Laitz Thiago, Lotufo Roberto, Nogueira Rodrigo
 conference: "Arxiv"
 year: 2024

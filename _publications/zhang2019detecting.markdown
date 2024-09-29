@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recosa\: Detecting The Relevant Contexts With Self-attention For Multi-turn Dialogue Generation
+title: Recosa&#58; Detecting The Relevant Contexts With Self-attention For Multi-turn Dialogue Generation
 authors: Zhang Hainan, Lan Yanyan, Pang Liang, Guo Jiafeng, Cheng Xueqi
 conference: "ACL"
 year: 2019

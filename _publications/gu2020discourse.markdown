@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dialogbert\: Discourse-aware Response Generation Via Learning To Recover And Rank Utterances
+title: Dialogbert&#58; Discourse-aware Response Generation Via Learning To Recover And Rank Utterances
 authors: Gu Xiaodong, Yoo Kang Min, Ha Jung-woo
 conference: "Arxiv"
 year: 2020

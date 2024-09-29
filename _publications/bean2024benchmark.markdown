@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LINGOLY\: A Benchmark Of Olympiad-level Linguistic Reasoning Puzzles In Low-resource And Extinct Languages
+title: LINGOLY&#58; A Benchmark Of Olympiad-level Linguistic Reasoning Puzzles In Low-resource And Extinct Languages
 authors: Bean Andrew M., Hellsten Simi, Mayne Harry, Magomere Jabez, Chi Ethan A., Chi Ryan, Hale Scott A., Kirk Hannah Rose
 conference: "Arxiv"
 year: 2024

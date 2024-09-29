@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sibyl\: Sensible Empathetic Dialogue Generation With Visionary Commonsense Knowledge
+title: Sibyl&#58; Sensible Empathetic Dialogue Generation With Visionary Commonsense Knowledge
 authors: Wang Lanrui, Li Jiangnan, Yang Chenxu, Lin Zheng, Tang Hongyin, Liu Huan, Huang Xiaolei, Cao Yanan, Wang Jingang, Wang Weiping
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Theory Of Mind In Large Language Models\: Examining Performance Of 11 State-of-the-art Models Vs. Children Aged 7-10 On Advanced Tests
+title: Theory Of Mind In Large Language Models&#58; Examining Performance Of 11 State-of-the-art Models Vs. Children Aged 7-10 On Advanced Tests
 authors: Van Duijn Max J., Van Dijk Bram M. A., Kouwenhoven Tom, De Valk Werner, Spruit Marco R., Van Der Putten Peter
 conference: "Arxiv"
 year: 2023

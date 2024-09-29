@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unlocking Anticipatory Text Generation\: A Constrained Approach For Large Language Models Decoding
+title: Unlocking Anticipatory Text Generation&#58; A Constrained Approach For Large Language Models Decoding
 authors: Tu Lifu, Yavuz Semih, Qu Jin, Xu Jiacheng, Meng Rui, Xiong Caiming, Zhou Yingbo
 conference: "Arxiv"
 year: 2023

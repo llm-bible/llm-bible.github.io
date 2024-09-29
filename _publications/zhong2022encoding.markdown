@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: E2S2\: Encoding-enhanced Sequence-to-sequence Pretraining For Language Understanding And Generation
+title: E2S2&#58; Encoding-enhanced Sequence-to-sequence Pretraining For Language Understanding And Generation
 authors: Zhong Qihuang, Ding Liang, Liu Juhua, Du Bo, Tao Dacheng
 conference: "Arxiv"
 year: 2022

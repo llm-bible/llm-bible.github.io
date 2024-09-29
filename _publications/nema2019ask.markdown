@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Let's Ask Again\: Refine Network For Automatic Question Generation
+title: Let's Ask Again&#58; Refine Network For Automatic Question Generation
 authors: Nema Preksha, Mohankumar Akash Kumar, Khapra Mitesh M., Srinivasan Balaji Vasan, Ravindran Balaraman
 conference: "Arxiv"
 year: 2019

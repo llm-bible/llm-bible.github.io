@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: WARP\: Word-level Adversarial Reprogramming
+title: WARP&#58; Word-level Adversarial Reprogramming
 authors: Hambardzumyan Karen, Khachatrian Hrant, May Jonathan
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llf-bench\: Benchmark For Interactive Learning From Language Feedback
+title: Llf-bench&#58; Benchmark For Interactive Learning From Language Feedback
 authors: Cheng Ching-an, Kolobov Andrey, Misra Dipendra, Nie Allen, Swaminathan Adith
 conference: "Arxiv"
 year: 2023

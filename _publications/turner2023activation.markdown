@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Activation Addition\: Steering Language Models Without Optimization
+title: Activation Addition&#58; Steering Language Models Without Optimization
 authors: Turner Alexander Matt, Thiergart Lisa, Leech Gavin, Udell David, Vazquez Juan J., Mini Ulisse, Macdiarmid Monte
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dependency-aware Semi-structured Sparsity\: Declining Roles Of Outliers In Pruning Glu-based Llms
+title: Dependency-aware Semi-structured Sparsity&#58; Declining Roles Of Outliers In Pruning Glu-based Llms
 authors: Guo Zhiyu, Kamigaito Hidetaka, Wanatnabe Taro
 conference: "Arxiv"
 year: 2024

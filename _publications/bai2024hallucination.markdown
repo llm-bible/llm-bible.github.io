@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hallucination Of Multimodal Large Language Models\: A Survey
+title: Hallucination Of Multimodal Large Language Models&#58; A Survey
 authors: Bai Zechen, Wang Pichao, Xiao Tianjun, He Tong, Han Zongbo, Zhang Zheng, Shou Mike Zheng
 conference: "Arxiv"
 year: 2024

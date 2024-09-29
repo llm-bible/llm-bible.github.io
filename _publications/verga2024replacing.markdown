@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Replacing Judges With Juries\: Evaluating LLM Generations With A Panel Of Diverse Models
+title: Replacing Judges With Juries&#58; Evaluating LLM Generations With A Panel Of Diverse Models
 authors: Verga Pat, Hofstatter Sebastian, Althammer Sophia, Su Yixuan, Piktus Aleksandra, Arkhangorodsky Arkady, Xu Minjie, White Naomi, Lewis Patrick
 conference: "Arxiv"
 year: 2024

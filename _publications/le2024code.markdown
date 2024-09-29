@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: INDICT\: Code Generation With Internal Dialogues Of Critiques For Both Security And Helpfulness
+title: INDICT&#58; Code Generation With Internal Dialogues Of Critiques For Both Security And Helpfulness
 authors: Le Hung, Zhou Yingbo, Xiong Caiming, Savarese Silvio, Sahoo Doyen
 conference: "Arxiv"
 year: 2024

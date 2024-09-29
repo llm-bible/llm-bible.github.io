@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Looking For A Needle In A Haystack\: A Comprehensive Study Of Hallucinations In Neural Machine Translation
+title: Looking For A Needle In A Haystack&#58; A Comprehensive Study Of Hallucinations In Neural Machine Translation
 authors: Guerreiro Nuno M., Voita Elena, Martins André F. T.
 conference: "Arxiv"
 year: 2022

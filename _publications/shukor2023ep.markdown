@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ep-alm\: Efficient Perceptual Augmentation Of Language Models
+title: Ep-alm&#58; Efficient Perceptual Augmentation Of Language Models
 authors: Shukor Mustafa, Dancette Corentin, Cord Matthieu
 conference: "Arxiv"
 year: 2023

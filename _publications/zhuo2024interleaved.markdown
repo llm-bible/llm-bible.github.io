@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Protllm\: An Interleaved Protein-language LLM With Protein-as-word Pre-training
+title: Protllm&#58; An Interleaved Protein-language LLM With Protein-as-word Pre-training
 authors: Zhuo Le, Chi Zewen, Xu Minghao, Huang Heyan, Zheng Heqi, He Conghui, Mao Xian-ling, Zhang Wentao
 conference: "Arxiv"
 year: 2024

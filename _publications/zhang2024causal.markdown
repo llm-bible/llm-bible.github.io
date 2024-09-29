@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Causal Prompting\: Debiasing Large Language Model Prompting Based On Front-door Adjustment
+title: Causal Prompting&#58; Debiasing Large Language Model Prompting Based On Front-door Adjustment
 authors: Zhang Congzhi, Zhang Linhai, Wu Jialong, Zhou Deyu, He Yulan
 conference: "Arxiv"
 year: 2024

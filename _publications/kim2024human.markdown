@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Groundial\: Human-norm Grounded Safe Dialog Response Generation
+title: Groundial&#58; Human-norm Grounded Safe Dialog Response Generation
 authors: Kim Siwon, Dai Shuyang, Kachuee Mohammad, Ray Shayan, Taghavi Tara, Yoon Sungroh
 conference: "Arxiv"
 year: 2024

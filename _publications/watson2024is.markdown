@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is There No Such Thing As A Bad Question? H4R\: Hallucibot For Ratiocination, Rewriting, Ranking, And Routing
+title: Is There No Such Thing As A Bad Question? H4R&#58; Hallucibot For Ratiocination, Rewriting, Ranking, And Routing
 authors: Watson William, Cho Nicole, Srishankar Nishan
 conference: "Arxiv"
 year: 2024

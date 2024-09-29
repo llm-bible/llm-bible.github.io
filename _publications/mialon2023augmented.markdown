@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Augmented Language Models\: A Survey
+title: Augmented Language Models&#58; A Survey
 authors: Grégoire Mialon, Roberto Dessì, Maria Lomeli, Christoforos Nalmpantis, Ram Pasunuru, Roberta Raileanu, Baptiste Rozière, Timo Schick, Jane Dwivedi-yu, Asli Celikyilmaz, Edouard Grave, Yann Lecun, Thomas Scialom
 conference: "Arxiv"
 year: 2023

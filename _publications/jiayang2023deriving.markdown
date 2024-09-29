@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Storyanalogy\: Deriving Story-level Analogies From Large Language Models To Unlock Analogical Understanding
+title: Storyanalogy&#58; Deriving Story-level Analogies From Large Language Models To Unlock Analogical Understanding
 authors: Jiayang Cheng, Qiu Lin, Chan Tsz Ho, Fang Tianqing, Wang Weiqi, Chan Chunkit, Ru Dongyu, Guo Qipeng, Zhang Hongming, Song Yangqiu, Zhang Yue, Zhang Zheng
 conference: "Arxiv"
 year: 2023

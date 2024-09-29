@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BANG\: Bridging Autoregressive And Non-autoregressive Generation With Large Scale Pretraining
+title: BANG&#58; Bridging Autoregressive And Non-autoregressive Generation With Large Scale Pretraining
 authors: Qi Weizhen, Gong Yeyun, Jiao Jian, Yan Yu, Chen Weizhu, Liu Dayiheng, Tang Kewen, Li Houqiang, Chen Jiusheng, Zhang Ruofei, Zhou Ming, Duan Nan
 conference: "Arxiv"
 year: 2020

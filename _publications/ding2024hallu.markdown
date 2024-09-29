@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hallu-pi\: Evaluating Hallucination In Multi-modal Large Language Models Within Perturbed Inputs
+title: Hallu-pi&#58; Evaluating Hallucination In Multi-modal Large Language Models Within Perturbed Inputs
 authors: Ding Peng, Wu Jingyu, Kuang Jun, Ma Dan, Cao Xuezhi, Cai Xunliang, Chen Shi, Chen Jiajun, Huang Shujian
 conference: "Arxiv"
 year: 2024

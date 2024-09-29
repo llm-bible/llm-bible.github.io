@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Human-centered Llm-agent User Interface\: A Position Paper
+title: Human-centered Llm-agent User Interface&#58; A Position Paper
 authors: Chin Daniel, Wang Yuxuan, Xia Gus
 conference: "Arxiv"
 year: 2024

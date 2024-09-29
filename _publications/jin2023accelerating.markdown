@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Growlength\: Accelerating Llms Pretraining By Progressively Growing Training Length
+title: Growlength&#58; Accelerating Llms Pretraining By Progressively Growing Training Length
 authors: Jin Hongye, Han Xiaotian, Yang Jingfeng, Jiang Zhimeng, Chang Chia-yuan, Hu Xia
 conference: "Arxiv"
 year: 2023

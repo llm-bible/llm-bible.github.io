@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attention Heads Of Large Language Models\: A Survey
+title: Attention Heads Of Large Language Models&#58; A Survey
 authors: Zheng Zifan, Wang Yezhaohui, Huang Yuxin, Song Shichao, Tang Bo, Xiong Feiyu, Li Zhiyu
 conference: "Arxiv"
 year: 2024

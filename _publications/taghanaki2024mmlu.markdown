@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mmlu-pro+\: Evaluating Higher-order Reasoning And Shortcut Learning In Llms
+title: Mmlu-pro+&#58; Evaluating Higher-order Reasoning And Shortcut Learning In Llms
 authors: Taghanaki Saeid Asgari, Khani Aliasgahr, Khasahmadi Amir
 conference: "Arxiv"
 year: 2024

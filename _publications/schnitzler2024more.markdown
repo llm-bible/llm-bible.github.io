@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Morehopqa\: More Than Multi-hop Reasoning
+title: Morehopqa&#58; More Than Multi-hop Reasoning
 authors: Schnitzler Julian, Ho Xanh, Huang Jiahao, Boudin Florian, Sugawara Saku, Aizawa Akiko
 conference: "Arxiv"
 year: 2024

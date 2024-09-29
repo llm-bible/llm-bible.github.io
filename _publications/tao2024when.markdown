@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: When To Trust Llms\: Aligning Confidence With Response Quality
+title: When To Trust Llms&#58; Aligning Confidence With Response Quality
 authors: Tao Shuchang, Yao Liuyi, Ding Hanxing, Xie Yuexiang, Cao Qi, Sun Fei, Gao Jinyang, Shen Huawei, Ding Bolin
 conference: "Arxiv"
 year: 2024

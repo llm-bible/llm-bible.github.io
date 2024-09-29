@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rot\: Enhancing Large Language Models With Reflection On Search Trees
+title: Rot&#58; Enhancing Large Language Models With Reflection On Search Trees
 authors: Hui Wenyang, Tu Kewei
 conference: "Arxiv"
 year: 2024

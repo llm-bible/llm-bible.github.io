@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Culturax\: A Cleaned, Enormous, And Multilingual Dataset For Large Language Models In 167 Languages
+title: Culturax&#58; A Cleaned, Enormous, And Multilingual Dataset For Large Language Models In 167 Languages
 authors: Nguyen Thuat, Van Nguyen Chien, Lai Viet Dac, Man Hieu, Ngo Nghia Trung, Dernoncourt Franck, Rossi Ryan A., Nguyen Thien Huu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LCS\: A Language Converter Strategy For Zero-shot Neural Machine Translation
+title: LCS&#58; A Language Converter Strategy For Zero-shot Neural Machine Translation
 authors: Sun Zengkui, Liu Yijin, Meng Fandong, Xu Jinan, Chen Yufeng, Zhou Jie
 conference: "Arxiv"
 year: 2024

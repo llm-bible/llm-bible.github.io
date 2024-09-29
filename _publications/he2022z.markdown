@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Z-code++\: A Pre-trained Language Model Optimized For Abstractive Summarization
+title: Z-code++&#58; A Pre-trained Language Model Optimized For Abstractive Summarization
 authors: He Pengcheng, Peng Baolin, Lu Liyang, Wang Song, Mei Jie, Liu Yang, Xu Ruochen, Awadalla Hany Hassan, Shi Yu, Zhu Chenguang, Xiong Wayne, Zeng Michael, Gao Jianfeng, Huang Xuedong
 conference: "Arxiv"
 year: 2022

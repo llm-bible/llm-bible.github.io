@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Black-box Analysis\: Gpts Across Time In Legal Textual Entailment Task
+title: Black-box Analysis&#58; Gpts Across Time In Legal Textual Entailment Task
 authors: Nguyen Ha-thanh, Goebel Randy, Toni Francesca, Stathis Kostas, Satoh Ken
 conference: "Arxiv"
 year: 2023

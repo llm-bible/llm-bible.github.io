@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Promptwizard\: Task-aware Agent-driven Prompt Optimization Framework
+title: Promptwizard&#58; Task-aware Agent-driven Prompt Optimization Framework
 authors: Agarwal Eshaan, Dani Vivek, Ganu Tanuja, Nambi Akshay
 conference: "Arxiv"
 year: 2024

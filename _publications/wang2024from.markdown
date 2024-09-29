@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Llms To Mllms\: Exploring The Landscape Of Multimodal Jailbreaking
+title: From Llms To Mllms&#58; Exploring The Landscape Of Multimodal Jailbreaking
 authors: Wang Siyuan, Long Zhuohan, Fan Zhihao, Wei Zhongyu
 conference: "Arxiv"
 year: 2024

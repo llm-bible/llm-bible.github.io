@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Best Of Both Worlds\: Toward An Honest And Helpful Large Language Model
+title: The Best Of Both Worlds&#58; Toward An Honest And Helpful Large Language Model
 authors: Gao Chujie, Zhang Qihui, Chen Dongping, Huang Yue, Wu Siyuan, Fu Zhengyan, Wan Yao, Zhang Xiangliang, Sun Lichao
 conference: "Arxiv"
 year: 2024

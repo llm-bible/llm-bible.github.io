@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Searchlvlms\: A Plug-and-play Framework For Augmenting Large Vision-language Models By Searching Up-to-date Internet Knowledge
+title: Searchlvlms&#58; A Plug-and-play Framework For Augmenting Large Vision-language Models By Searching Up-to-date Internet Knowledge
 authors: Li Chuanhao, Li Zhen, Jing Chenchen, Liu Shuo, Shao Wenqi, Wu Yuwei, Luo Ping, Qiao Yu, Zhang Kaipeng
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MLP Architectures For Vision-and-language Modeling\: An Empirical Study
+title: MLP Architectures For Vision-and-language Modeling&#58; An Empirical Study
 authors: Nie Yixin, Li Linjie, Gan Zhe, Wang Shuohang, Zhu Chenguang, Zeng Michael, Liu Zicheng, Bansal Mohit, Wang Lijuan
 conference: "Arxiv"
 year: 2021

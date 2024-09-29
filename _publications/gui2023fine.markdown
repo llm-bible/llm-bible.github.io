@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SPT\: Fine-tuning Transformer-based Language Models Efficiently With Sparsification
+title: SPT&#58; Fine-tuning Transformer-based Language Models Efficiently With Sparsification
 authors: Gui Yuntao, Yan Xiao, Yin Peiqi, Yang Han, Cheng James
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Slicerchat\: Building A Local Chatbot For 3D Slicer
+title: Slicerchat&#58; Building A Local Chatbot For 3D Slicer
 authors: Barr Colton
 conference: "Arxiv"
 year: 2024

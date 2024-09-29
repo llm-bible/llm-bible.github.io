@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Convgqr\: Generative Query Reformulation For Conversational Search
+title: Convgqr&#58; Generative Query Reformulation For Conversational Search
 authors: Mo Fengran, Mao Kelong, Zhu Yutao, Wu Yihong, Huang Kaiyu, Nie Jian-yun
 conference: "Arxiv"
 year: 2023

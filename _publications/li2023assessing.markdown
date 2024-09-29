@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mugglemath\: Assessing The Impact Of Query And Response Augmentation On Math Reasoning
+title: Mugglemath&#58; Assessing The Impact Of Query And Response Augmentation On Math Reasoning
 authors: Li Chengpeng, Yuan Zheng, Yuan Hongyi, Dong Guanting, Lu Keming, Wu Jiancan, Tan Chuanqi, Wang Xiang, Zhou Chang
 conference: "Arxiv"
 year: 2023

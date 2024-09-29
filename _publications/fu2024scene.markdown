@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scene-llm\: Extending Language Model For 3D Visual Understanding And Reasoning
+title: Scene-llm&#58; Extending Language Model For 3D Visual Understanding And Reasoning
 authors: Fu Rao, Liu Jingyu, Chen Xilun, Nie Yixin, Xiong Wenhan
 conference: "Arxiv"
 year: 2024

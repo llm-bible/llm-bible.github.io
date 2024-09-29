@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Personalisation Within Bounds\: A Risk Taxonomy And Policy Framework For The Alignment Of Large Language Models With Personalised Feedback
+title: Personalisation Within Bounds&#58; A Risk Taxonomy And Policy Framework For The Alignment Of Large Language Models With Personalised Feedback
 authors: Hannah Rose Kirk, Bertie Vidgen, Paul Röttger, Scott A. Hale
 conference: "Arxiv"
 year: 2023

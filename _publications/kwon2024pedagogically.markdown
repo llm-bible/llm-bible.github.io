@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BIPED\: Pedagogically Informed Tutoring System For ESL Education
+title: BIPED&#58; Pedagogically Informed Tutoring System For ESL Education
 authors: Kwon Soonwoo, Kim Sojung, Park Minju, Lee Seunghyun, Kim Kyuseok
 conference: "Arxiv"
 year: 2024

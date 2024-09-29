@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Speak While You Think\: Streaming Speech Synthesis During Text Generation
+title: Speak While You Think&#58; Streaming Speech Synthesis During Text Generation
 authors: Dekel Avihu, Shechtman Slava, Fernandez Raul, Haws David, Kons Zvi, Hoory Ron
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FBI-LLM\: Scaling Up Fully Binarized Llms From Scratch Via Autoregressive Distillation
+title: FBI-LLM&#58; Scaling Up Fully Binarized Llms From Scratch Via Autoregressive Distillation
 authors: Ma Liqun, Sun Mingjie, Shen Zhiqiang
 conference: "Arxiv"
 year: 2024

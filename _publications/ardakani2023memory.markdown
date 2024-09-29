@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Slimfit\: Memory-efficient Fine-tuning Of Transformer-based Models Using Training Dynamics
+title: Slimfit&#58; Memory-efficient Fine-tuning Of Transformer-based Models Using Training Dynamics
 authors: Ardakani Arash, Haan Altan, Tan Shangyin, Popovici Doru Thom, Cheung Alvin, Iancu Costin, Sen Koushik
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aligning Large Language Models With Representation Editing\: A Control Perspective
+title: Aligning Large Language Models With Representation Editing&#58; A Control Perspective
 authors: Kong Lingkai, Wang Haorui, Mu Wenhao, Du Yuanqi, Zhuang Yuchen, Zhou Yifei, Song Yue, Zhang Rongzhi, Wang Kai, Zhang Chao
 conference: "Arxiv"
 year: 2024

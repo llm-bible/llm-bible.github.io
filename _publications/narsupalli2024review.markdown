@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Review-feedback-reason (refer)\: A Novel Framework For NLG Evaluation And Reasoning
+title: Review-feedback-reason (refer)&#58; A Novel Framework For NLG Evaluation And Reasoning
 authors: Narsupalli Yaswanth, Chandra Abhranil, Muppirala Sreevatsa, Gupta Manish, Goyal Pawan
 conference: "Arxiv"
 year: 2024

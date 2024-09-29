@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ask-before-plan\: Proactive Language Agents For Real-world Planning
+title: Ask-before-plan&#58; Proactive Language Agents For Real-world Planning
 authors: Zhang Xuan, Deng Yang, Ren Zifeng, Ng See-kiong, Chua Tat-seng
 conference: "Arxiv"
 year: 2024

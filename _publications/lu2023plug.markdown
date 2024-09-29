@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chameleon\: Plug-and-play Compositional Reasoning With Large Language Models
+title: Chameleon&#58; Plug-and-play Compositional Reasoning With Large Language Models
 authors: Pan Lu, Baolin Peng, Hao Cheng, Michel Galley, Kai-wei Chang, Ying Nian Wu, Song-chun Zhu, Jianfeng Gao
 conference: "Arxiv"
 year: 2023

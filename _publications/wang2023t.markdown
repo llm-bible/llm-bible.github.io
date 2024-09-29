@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: T-sciq\: Teaching Multimodal Chain-of-thought Reasoning Via Mixed Large Language Model Signals For Science Question Answering
+title: T-sciq&#58; Teaching Multimodal Chain-of-thought Reasoning Via Mixed Large Language Model Signals For Science Question Answering
 authors: Lei Wang, Yi Hu, Jiabang He, Xing Xu, Ning Liu, Hui Liu, Heng Tao Shen
 conference: "Arxiv"
 year: 2023

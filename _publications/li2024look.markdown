@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Look Within, Why Llms Hallucinate\: A Causal Perspective
+title: Look Within, Why Llms Hallucinate&#58; A Causal Perspective
 authors: Li He, Chi Haoang, Liu Mingyu, Yang Wenjing
 conference: "Arxiv"
 year: 2024

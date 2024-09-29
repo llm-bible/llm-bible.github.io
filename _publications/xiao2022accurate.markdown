@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Smoothquant\: Accurate And Efficient Post-training Quantization For Large Language Models
+title: Smoothquant&#58; Accurate And Efficient Post-training Quantization For Large Language Models
 authors: Xiao Guangxuan, Lin Ji, Seznec Mickael, Wu Hao, Demouth Julien, Han Song
 conference: "Arxiv"
 year: 2022

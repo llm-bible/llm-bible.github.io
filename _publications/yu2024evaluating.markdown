@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cosafe\: Evaluating Large Language Model Safety In Multi-turn Dialogue Coreference
+title: Cosafe&#58; Evaluating Large Language Model Safety In Multi-turn Dialogue Coreference
 authors: Yu Erxin, Li Jing, Liao Ming, Wang Siqi, Gao Zuchen, Mi Fei, Hong Lanqing
 conference: "Arxiv"
 year: 2024

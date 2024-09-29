@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Revisiting Parallel Context Windows\: A Frustratingly Simple Alternative And Chain-of-thought Deterioration
+title: Revisiting Parallel Context Windows&#58; A Frustratingly Simple Alternative And Chain-of-thought Deterioration
 authors: Yang Kejuan, Liu Xiao, Men Kaiwen, Zeng Aohan, Dong Yuxiao, Tang Jie
 conference: "Arxiv"
 year: 2023

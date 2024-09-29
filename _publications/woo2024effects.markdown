@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Effects Of A Prompt Engineering Intervention On Undergraduate Students' AI Self-efficacy, AI Knowledge And Prompt Engineering Ability\: A Mixed Methods Study
+title: Effects Of A Prompt Engineering Intervention On Undergraduate Students' AI Self-efficacy, AI Knowledge And Prompt Engineering Ability&#58; A Mixed Methods Study
 authors: Woo David James, Wang Deliang, Yung Tim, Guo Kai
 conference: "Arxiv"
 year: 2024

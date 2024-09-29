@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Selection-inference\: Exploiting Large Language Models For Interpretable Logical Reasoning
+title: Selection-inference&#58; Exploiting Large Language Models For Interpretable Logical Reasoning
 authors: Antonia Creswell, Murray Shanahan, Irina Higgins
 conference: "Arxiv"
 year: 2022

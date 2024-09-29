@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Trustscore\: Reference-free Evaluation Of LLM Response Trustworthiness
+title: Trustscore&#58; Reference-free Evaluation Of LLM Response Trustworthiness
 authors: Zheng Danna, Liu Danyang, Lapata Mirella, Pan Jeff Z.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SH2\: Self-highlighted Hesitation Helps You Decode More Truthfully
+title: SH2&#58; Self-highlighted Hesitation Helps You Decode More Truthfully
 authors: Kai Jushi, Hu Hai, Lin Zhouhan
 conference: "Arxiv"
 year: 2024

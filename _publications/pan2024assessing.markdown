@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Assessing AI Detectors In Identifying Ai-generated Code\: Implications For Education
+title: Assessing AI Detectors In Identifying Ai-generated Code&#58; Implications For Education
 authors: Pan Wei Hung, Chok Ming Jie, Wong Jonathan Leong Shan, Shin Yung Xin, Poon Yeong Shian, Yang Zhou, Chong Chun Yong, Lo David, Lim Mei Kuan
 conference: "Arxiv"
 year: 2024

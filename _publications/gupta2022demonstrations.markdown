@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Show, Don't Tell\: Demonstrations Outperform Descriptions For Schema-guided Task-oriented Dialogue
+title: Show, Don't Tell&#58; Demonstrations Outperform Descriptions For Schema-guided Task-oriented Dialogue
 authors: Gupta Raghav, Lee Harrison, Zhao Jeffrey, Rastogi Abhinav, Cao Yuan, Wu Yonghui
 conference: "In Proceedings of the"
 year: 2022

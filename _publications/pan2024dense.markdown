@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dense Training, Sparse Inference\: Rethinking Training Of Mixture-of-experts Language Models
+title: Dense Training, Sparse Inference&#58; Rethinking Training Of Mixture-of-experts Language Models
 authors: Pan Bowen, Shen Yikang, Liu Haokun, Mishra Mayank, Zhang Gaoyuan, Oliva Aude, Raffel Colin, Panda Rameswar
 conference: "Arxiv"
 year: 2024

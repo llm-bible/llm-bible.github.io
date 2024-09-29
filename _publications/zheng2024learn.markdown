@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learn To Be Efficient\: Build Structured Sparsity In Large Language Models
+title: Learn To Be Efficient&#58; Build Structured Sparsity In Large Language Models
 authors: Zheng Haizhong, Bai Xiaoyan, Liu Xueshen, Mao Z. Morley, Chen Beidi, Lai Fan, Prakash Atul
 conference: "Arxiv"
 year: 2024

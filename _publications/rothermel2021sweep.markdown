@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Don't Sweep Your Learning Rate Under The Rug\: A Closer Look At Cross-modal Transfer Of Pretrained Transformers
+title: Don't Sweep Your Learning Rate Under The Rug&#58; A Closer Look At Cross-modal Transfer Of Pretrained Transformers
 authors: Rothermel Danielle, Li Margaret, Rocktäschel Tim, Foerster Jakob
 conference: "Arxiv"
 year: 2021

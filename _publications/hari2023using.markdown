@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Herd\: Using Multiple, Smaller Llms To Match The Performances Of Proprietary, Large Llms Via An Intelligent Composer
+title: Herd&#58; Using Multiple, Smaller Llms To Match The Performances Of Proprietary, Large Llms Via An Intelligent Composer
 authors: Hari Surya Narayanan, Thomson Matt
 conference: "Arxiv"
 year: 2023

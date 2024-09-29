@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Smart-infinity\: Fast Large Language Model Training Using Near-storage Processing On A Real System
+title: Smart-infinity&#58; Fast Large Language Model Training Using Near-storage Processing On A Real System
 authors: Jang Hongsun, Song Jaeyong, Jung Jaewon, Park Jaeyoung, Kim Youngsok, Lee Jinho
 conference: "Arxiv"
 year: 2024

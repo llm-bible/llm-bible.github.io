@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Siam\: Self-improving Code-assisted Mathematical Reasoning Of Large Language Models
+title: Siam&#58; Self-improving Code-assisted Mathematical Reasoning Of Large Language Models
 authors: Yu Dian, Peng Baolin, Tian Ye, Song Linfeng, Mi Haitao, Yu Dong
 conference: "Arxiv"
 year: 2024

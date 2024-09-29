@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leapformer\: Enabling Linear Transformers For Autoregressive And Simultaneous Tasks Via Learned Proportions
+title: Leapformer&#58; Enabling Linear Transformers For Autoregressive And Simultaneous Tasks Via Learned Proportions
 authors: Agostinelli Victor, Hong Sanghyun, Chen Lizhong
 conference: "Arxiv"
 year: 2024

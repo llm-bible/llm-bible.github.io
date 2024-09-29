@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Actions Speak Louder Than Words\: Trillion-parameter Sequential Transducers For Generative Recommendations
+title: Actions Speak Louder Than Words&#58; Trillion-parameter Sequential Transducers For Generative Recommendations
 authors: Zhai Jiaqi, Liao Lucy, Liu Xing, Wang Yueming, Li Rui, Cao Xuan, Gao Leon, Gong Zhaojie, Gu Fangda, He Michael, Lu Yinghai, Shi Yu
 conference: "Arxiv"
 year: 2024

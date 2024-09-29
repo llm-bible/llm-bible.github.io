@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Direct\: Diagnostic Reasoning For Clinical Notes Via Large Language Models
+title: Direct&#58; Diagnostic Reasoning For Clinical Notes Via Large Language Models
 authors: Wang Bowen, Chang Jiuyang, Qian Yiming, Chen Guoxin, Chen Junhao, Jiang Zhouqiang, Zhang Jiahao, Nakashima Yuta, Nagahara Hajime
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instructblip\: Towards General-purpose Vision-language Models With Instruction Tuning
+title: Instructblip&#58; Towards General-purpose Vision-language Models With Instruction Tuning
 authors: Wenliang Dai, Junnan Li, Dongxu Li, Anthony Meng Huat Tiong, Junqi Zhao, Weisheng Wang, Boyang Li, Pascale Fung, Steven Hoi
 conference: "Arxiv"
 year: 2023

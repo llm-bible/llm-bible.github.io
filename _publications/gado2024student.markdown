@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Student Answer Forecasting\: Transformer-driven Answer Choice Prediction For Language Learning
+title: Student Answer Forecasting&#58; Transformer-driven Answer Choice Prediction For Language Learning
 authors: Gado Elena Grazia, Martorella Tommaso, Zunino Luca, Mejia-domenzain Paola, Swamy Vinitra, Frej Jibril, Käser Tanja
 conference: "Arxiv"
 year: 2024

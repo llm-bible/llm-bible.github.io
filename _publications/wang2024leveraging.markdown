@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Negativeprompt\: Leveraging Psychology For Large Language Models Enhancement Via Negative Emotional Stimuli
+title: Negativeprompt&#58; Leveraging Psychology For Large Language Models Enhancement Via Negative Emotional Stimuli
 authors: Wang Xu, Li Cheng, Chang Yi, Wang Jindong, Wu Yuan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VAR-CLIP\: Text-to-image Generator With Visual Auto-regressive Modeling
+title: VAR-CLIP&#58; Text-to-image Generator With Visual Auto-regressive Modeling
 authors: Zhang Qian, Dai Xiangzi, Yang Ninghua, An Xiang, Feng Ziyong, Ren Xingyu
 conference: "Arxiv"
 year: 2024

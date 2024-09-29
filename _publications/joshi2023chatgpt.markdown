@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatgpt In The Classroom\: An Analysis Of Its Strengths And Weaknesses For Solving Undergraduate Computer Science Questions
+title: Chatgpt In The Classroom&#58; An Analysis Of Its Strengths And Weaknesses For Solving Undergraduate Computer Science Questions
 authors: Joshi Ishika, Budhiraja Ritvik, Dev Harshal, Kadia Jahnvi, Ataullah M. Osama, Mitra Sayan, Kumar Dhruv, Akolekar Harshal D.
 conference: "Arxiv"
 year: 2023

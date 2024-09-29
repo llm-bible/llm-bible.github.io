@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zero Is Not Hero Yet\: Benchmarking Zero-shot Performance Of Llms For Financial Tasks
+title: Zero Is Not Hero Yet&#58; Benchmarking Zero-shot Performance Of Llms For Financial Tasks
 authors: Shah Agam, Chava Sudheer
 conference: "Arxiv"
 year: 2023

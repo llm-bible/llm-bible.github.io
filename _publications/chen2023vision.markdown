@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Webvln\: Vision-and-language Navigation On Websites
+title: Webvln&#58; Vision-and-language Navigation On Websites
 authors: Chen Qi, Pitawela Dileepa, Zhao Chongyang, Zhou Gengze, Chen Hsiang-ting, Wu Qi
 conference: "Arxiv"
 year: 2023

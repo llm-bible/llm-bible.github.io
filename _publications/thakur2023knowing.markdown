@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Nomiracl\: Knowing When You Don't Know For Robust Multilingual Retrieval-augmented Generation
+title: Nomiracl&#58; Knowing When You Don't Know For Robust Multilingual Retrieval-augmented Generation
 authors: Thakur Nandan, Bonifacio Luiz, Zhang Xinyu, Ogundepo Odunayo, Kamalloo Ehsan, Alfonso-hermelo David, Li Xiaoguang, Liu Qun, Chen Boxing, Rezagholizadeh Mehdi, Lin Jimmy
 conference: "Arxiv"
 year: 2023

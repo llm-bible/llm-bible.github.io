@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Redwhale\: An Adapted Korean LLM Through Efficient Continual Pretraining
+title: Redwhale&#58; An Adapted Korean LLM Through Efficient Continual Pretraining
 authors: Vo Anh-dung, Jung Minseong, Lee Wonbeen, Choi Daewoo
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adaptive Bi-directional Attention\: Exploring Multi-granularity Representations For Machine Reading Comprehension
+title: Adaptive Bi-directional Attention&#58; Exploring Multi-granularity Representations For Machine Reading Comprehension
 authors: Chen Nuo, Liu Fenglin, You Chenyu, Zhou Peilin, Zou Yuexian
 conference: "Arxiv"
 year: 2020

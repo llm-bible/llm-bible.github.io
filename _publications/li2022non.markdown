@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ELMER\: A Non-autoregressive Pre-trained Language Model For Efficient And Effective Text Generation
+title: ELMER&#58; A Non-autoregressive Pre-trained Language Model For Efficient And Effective Text Generation
 authors: Li Junyi, Tang Tianyi, Zhao Wayne Xin, Nie Jian-yun, Wen Ji-rong
 conference: "Arxiv"
 year: 2022

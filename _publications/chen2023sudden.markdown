@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sudden Drops In The Loss\: Syntax Acquisition, Phase Transitions, And Simplicity Bias In Mlms
+title: Sudden Drops In The Loss&#58; Syntax Acquisition, Phase Transitions, And Simplicity Bias In Mlms
 authors: Chen Angelica, Shwartz-ziv Ravid, Cho Kyunghyun, Leavitt Matthew L., Saphra Naomi
 conference: "Arxiv"
 year: 2023

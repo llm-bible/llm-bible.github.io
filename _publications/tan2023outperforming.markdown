@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cappy\: Outperforming And Boosting Large Multi-task Lms With A Small Scorer
+title: Cappy&#58; Outperforming And Boosting Large Multi-task Lms With A Small Scorer
 authors: Tan Bowen, Zhu Yun, Liu Lijuan, Xing Eric, Hu Zhiting, Chen Jindong
 conference: "Arxiv"
 year: 2023

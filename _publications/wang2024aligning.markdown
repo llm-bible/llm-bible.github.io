@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Secokd\: Aligning Large Language Models For In-context Learning With Fewer Shots
+title: Secokd&#58; Aligning Large Language Models For In-context Learning With Fewer Shots
 authors: Wang Weixing, Yang Haojin, Meinel Christoph
 conference: "Arxiv"
 year: 2024

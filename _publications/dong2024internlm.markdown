@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Internlm-xcomposer2-4khd\: A Pioneering Large Vision-language Model Handling Resolutions From 336 Pixels To 4K HD
+title: Internlm-xcomposer2-4khd&#58; A Pioneering Large Vision-language Model Handling Resolutions From 336 Pixels To 4K HD
 authors: Dong Xiaoyi, Zhang Pan, Zang Yuhang, Cao Yuhang, Wang Bin, Ouyang Linke, Zhang Songyang, Duan Haodong, Zhang Wenwei, Li Yining, Yan Hang, Gao Yang, Chen Zhe, Zhang Xinyue, Li Wei, Li Jingwen, Wang Wenhai, Chen Kai, He Conghui, Zhang Xingcheng, Dai Jifeng, Qiao Yu, Lin Dahua, Wang Jiaqi
 conference: "Arxiv"
 year: 2024

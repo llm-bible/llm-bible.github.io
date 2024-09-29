@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: XRICL\: Cross-lingual Retrieval-augmented In-context Learning For Cross-lingual Text-to-sql Semantic Parsing
+title: XRICL&#58; Cross-lingual Retrieval-augmented In-context Learning For Cross-lingual Text-to-sql Semantic Parsing
 authors: Shi Peng, Zhang Rui, Bai He, Lin Jimmy
 conference: "Arxiv"
 year: 2022

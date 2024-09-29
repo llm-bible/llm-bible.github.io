@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Kangaroo\: A Powerful Video-language Model Supporting Long-context Video Input
+title: Kangaroo&#58; A Powerful Video-language Model Supporting Long-context Video Input
 authors: Liu Jiajun, Wang Yibing, Ma Hanghang, Wu Xiaoping, Ma Xiaoqi, Wei Xiaoming, Jiao Jianbin, Wu Enhua, Hu Jie
 conference: "Arxiv"
 year: 2024

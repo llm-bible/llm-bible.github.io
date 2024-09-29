@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MCP\: Self-supervised Pre-training For Personalized Chatbots With Multi-level Contrastive Sampling
+title: MCP&#58; Self-supervised Pre-training For Personalized Chatbots With Multi-level Contrastive Sampling
 authors: Huang Zhaoheng, Dou Zhicheng, Zhu Yutao, Ma Zhengyi
 conference: "EMNLP"
 year: 2022

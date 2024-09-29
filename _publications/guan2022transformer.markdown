@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transkimmer\: Transformer Learns To Layer-wise Skim
+title: Transkimmer&#58; Transformer Learns To Layer-wise Skim
 authors: Guan Yue, Li Zhengyi, Leng Jingwen, Lin Zhouhan, Guo Minyi
 conference: "Arxiv"
 year: 2022

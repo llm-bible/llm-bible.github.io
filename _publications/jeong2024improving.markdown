@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: OLAPH\: Improving Factuality In Biomedical Long-form Question Answering
+title: OLAPH&#58; Improving Factuality In Biomedical Long-form Question Answering
 authors: Jeong Minbyul, Hwang Hyeon, Yoon Chanwoong, Lee Taewhoo, Kang Jaewoo
 conference: "Arxiv"
 year: 2024

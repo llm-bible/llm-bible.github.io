@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatbot Arena\: An Open Platform For Evaluating Llms By Human Preference
+title: Chatbot Arena&#58; An Open Platform For Evaluating Llms By Human Preference
 authors: Chiang Wei-lin, Zheng Lianmin, Sheng Ying, Angelopoulos Anastasios Nikolas, Li Tianle, Li Dacheng, Zhang Hao, Zhu Banghua, Jordan Michael, Gonzalez Joseph E., Stoica Ion
 conference: "Arxiv"
 year: 2024

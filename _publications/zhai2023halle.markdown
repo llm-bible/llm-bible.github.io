@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Halle-control\: Controlling Object Hallucination In Large Multimodal Models
+title: Halle-control&#58; Controlling Object Hallucination In Large Multimodal Models
 authors: Bohan Zhai, Shijia Yang, Chenfeng Xu, Sheng Shen, Kurt Keutzer, Chunyuan Li, Manling Li
 conference: "Arxiv"
 year: 2023

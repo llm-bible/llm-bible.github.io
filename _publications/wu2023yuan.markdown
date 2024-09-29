@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: YUAN 2.0\: A Large Language Model With Localized Filtering-based Attention
+title: YUAN 2.0&#58; A Large Language Model With Localized Filtering-based Attention
 authors: Wu Shaohua, Zhao Xudong, Wang Shenling, Luo Jiangang, Li Lingjun, Chen Xi, Zhao Bing, Wang Wei, Yu Tong, Zhang Rongguo, Zhang Jiahua, Wang Chao
 conference: "Arxiv"
 year: 2023

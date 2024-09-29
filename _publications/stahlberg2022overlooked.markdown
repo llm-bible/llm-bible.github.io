@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Conciseness\: An Overlooked Language Task
+title: Conciseness&#58; An Overlooked Language Task
 authors: Stahlberg Felix, Kumar Aashish, Alberti Chris, Kumar Shankar
 conference: "Arxiv"
 year: 2022

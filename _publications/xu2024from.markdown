@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Introspection To Best Practices\: Principled Analysis Of Demonstrations In Multimodal In-context Learning
+title: From Introspection To Best Practices&#58; Principled Analysis Of Demonstrations In Multimodal In-context Learning
 authors: Xu Nan, Wang Fei, Zhang Sheng, Poon Hoifung, Chen Muhao
 conference: "Arxiv"
 year: 2024

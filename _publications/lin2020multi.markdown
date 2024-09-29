@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-node Bert-pretraining\: Cost-efficient Approach
+title: Multi-node Bert-pretraining&#58; Cost-efficient Approach
 authors: Lin Jiahuang, Li Xin, Pekhimenko Gennady
 conference: "Arxiv"
 year: 2020

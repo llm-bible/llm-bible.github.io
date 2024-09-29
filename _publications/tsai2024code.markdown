@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Code Less, Align More\: Efficient LLM Fine-tuning For Code Generation With Data Pruning
+title: Code Less, Align More&#58; Efficient LLM Fine-tuning For Code Generation With Data Pruning
 authors: Tsai Yun-da, Liu Mingjie, Ren Haoxing
 conference: "Arxiv"
 year: 2024

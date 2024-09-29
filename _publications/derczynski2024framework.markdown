@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Garak\: A Framework For Security Probing Large Language Models
+title: Garak&#58; A Framework For Security Probing Large Language Models
 authors: Derczynski Leon, Galinkin Erick, Martin Jeffrey, Majumdar Subho, Inie Nanna
 conference: "Arxiv"
 year: 2024

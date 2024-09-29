@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unveiling The Flaws\: Exploring Imperfections In Synthetic Data And Mitigation Strategies For Large Language Models
+title: Unveiling The Flaws&#58; Exploring Imperfections In Synthetic Data And Mitigation Strategies For Large Language Models
 authors: Chen Jie, Zhang Yupeng, Wang Bingning, Zhao Wayne Xin, Wen Ji-rong, Chen Weipeng
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mastering Text-to-image Diffusion\: Recaptioning, Planning, And Generating With Multimodal Llms
+title: Mastering Text-to-image Diffusion&#58; Recaptioning, Planning, And Generating With Multimodal Llms
 authors: Yang Ling, Yu Zhaochen, Meng Chenlin, Xu Minkai, Ermon Stefano, Cui Bin
 conference: "Arxiv"
 year: 2024

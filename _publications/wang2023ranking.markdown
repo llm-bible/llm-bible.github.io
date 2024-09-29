@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rescue\: Ranking LLM Responses With Partial Ordering To Improve Response Generation
+title: Rescue&#58; Ranking LLM Responses With Partial Ordering To Improve Response Generation
 authors: Wang Yikun, Zheng Rui, Li Haoming, Zhang Qi, Gui Tao, Liu Fei
 conference: "Arxiv"
 year: 2023

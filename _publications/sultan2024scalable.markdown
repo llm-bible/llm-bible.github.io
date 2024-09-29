@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Parallelparc\: A Scalable Pipeline For Generating Natural-language Analogies
+title: Parallelparc&#58; A Scalable Pipeline For Generating Natural-language Analogies
 authors: Sultan Oren, Bitton Yonatan, Yosef Ron, Shahaf Dafna
 conference: "Arxiv"
 year: 2024

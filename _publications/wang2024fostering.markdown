@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Farsight\: Fostering Responsible AI Awareness During AI Application Prototyping
+title: Farsight&#58; Fostering Responsible AI Awareness During AI Application Prototyping
 authors: Wang Zijie J., Kulkarni Chinmay, Wilcox Lauren, Terry Michael, Madaio Michael
 conference: "Arxiv"
 year: 2024

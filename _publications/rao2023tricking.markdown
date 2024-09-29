@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tricking Llms Into Disobedience\: Formalizing, Analyzing, And Detecting Jailbreaks
+title: Tricking Llms Into Disobedience&#58; Formalizing, Analyzing, And Detecting Jailbreaks
 authors: Rao Abhinav, Vashistha Sachin, Naik Atharva, Aditya Somak, Choudhury Monojit
 conference: "Arxiv"
 year: 2023

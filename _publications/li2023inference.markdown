@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Inference-time Intervention\: Eliciting Truthful Answers From A Language Model
+title: Inference-time Intervention&#58; Eliciting Truthful Answers From A Language Model
 authors: Li Kenneth, Patel Oam, Viégas Fernanda, Pfister Hanspeter, Wattenberg Martin
 conference: "Arxiv"
 year: 2023

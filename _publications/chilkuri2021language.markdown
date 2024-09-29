@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Modeling Using Lmus\: 10x Better Data Efficiency Or Improved Scaling Compared To Transformers
+title: Language Modeling Using Lmus&#58; 10x Better Data Efficiency Or Improved Scaling Compared To Transformers
 authors: Chilkuri Narsimha, Hunsberger Eric, Voelker Aaron, Malik Gurshaant, Eliasmith Chris
 conference: "Arxiv"
 year: 2021

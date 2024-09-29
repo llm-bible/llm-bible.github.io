@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Codescope\: An Execution-based Multilingual Multitask Multidimensional Benchmark For Evaluating Llms On Code Understanding And Generation
+title: Codescope&#58; An Execution-based Multilingual Multitask Multidimensional Benchmark For Evaluating Llms On Code Understanding And Generation
 authors: Yan Weixiang, Liu Haitian, Wang Yunkun, Li Yunzhe, Chen Qian, Wang Wen, Lin Tingyu, Zhao Weishan, Zhu Li, Sundaram Hari, Deng Shuiguang
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rephrase, Augment, Reason\: Visual Grounding Of Questions For Vision-language Models
+title: Rephrase, Augment, Reason&#58; Visual Grounding Of Questions For Vision-language Models
 authors: Prasad Archiki, Stengel-eskin Elias, Bansal Mohit
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: WILBUR\: Adaptive In-context Learning For Robust And Accurate Web Agents
+title: WILBUR&#58; Adaptive In-context Learning For Robust And Accurate Web Agents
 authors: Lutz Michael, Bohra Arth, Saroyan Manvel, Harutyunyan Artem, Campagna Giovanni
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Resprompt\: Residual Connection Prompting Advances Multi-step Reasoning In Large Language Models
+title: Resprompt&#58; Residual Connection Prompting Advances Multi-step Reasoning In Large Language Models
 authors: Jiang Song, Shakeri Zahra, Chan Aaron, Sanjabi Maziar, Firooz Hamed, Xia Yinglong, Akyildiz Bugra, Sun Yizhou, Li Jinchao, Wang Qifan, Celikyilmaz Asli
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SA-MDKIF\: A Scalable And Adaptable Medical Domain Knowledge Injection Framework For Large Language Models
+title: SA-MDKIF&#58; A Scalable And Adaptable Medical Domain Knowledge Injection Framework For Large Language Models
 authors: Xu Tianhan, Hu Zhe, Chen Ling, Li Bin
 conference: "Arxiv"
 year: 2024

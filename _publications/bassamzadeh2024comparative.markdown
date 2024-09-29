@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Comparative Study Of DSL Code Generation\: Fine-tuning Vs. Optimized Retrieval Augmentation
+title: A Comparative Study Of DSL Code Generation&#58; Fine-tuning Vs. Optimized Retrieval Augmentation
 authors: Bassamzadeh Nastaran, Methani Chhaya
 conference: "Arxiv"
 year: 2024

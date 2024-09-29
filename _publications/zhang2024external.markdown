@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RECOST\: External Knowledge Guided Data-efficient Instruction Tuning
+title: RECOST&#58; External Knowledge Guided Data-efficient Instruction Tuning
 authors: Zhang Qi, Zhang Yiming, Wang Haobo, Zhao Junbo
 conference: "Arxiv"
 year: 2024

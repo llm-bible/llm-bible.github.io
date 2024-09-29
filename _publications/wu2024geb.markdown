@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GEB-1.3B\: Open Lightweight Large Language Model
+title: GEB-1.3B&#58; Open Lightweight Large Language Model
 authors: Wu Jie, Zhu Yufeng, Shen Lei, Lu Xuqing
 conference: "Arxiv"
 year: 2024

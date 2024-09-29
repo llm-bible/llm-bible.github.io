@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Codeapex\: A Bilingual Programming Evaluation Benchmark For Large Language Models
+title: Codeapex&#58; A Bilingual Programming Evaluation Benchmark For Large Language Models
 authors: Fu Lingyue, Chai Huacan, Luo Shuang, Du Kounianhua, Zhang Weiming, Fan Longteng, Lei Jiayi, Rui Renting, Lin Jianghao, Fang Yuchen, Liu Yifan, Wang Jingkuan, Qi Siyuan, Zhang Kangning, Zhang Weinan, Yu Yong
 conference: "Arxiv"
 year: 2023

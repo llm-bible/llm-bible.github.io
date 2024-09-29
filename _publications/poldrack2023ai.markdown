@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ai-assisted Coding\: Experiments With GPT-4
+title: Ai-assisted Coding&#58; Experiments With GPT-4
 authors: Poldrack Russell A, Lu Thomas, Beguš Gašper
 conference: "Arxiv"
 year: 2023

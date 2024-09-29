@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RAIN\: Your Language Models Can Align Themselves Without Finetuning
+title: RAIN&#58; Your Language Models Can Align Themselves Without Finetuning
 authors: Li Yuhui, Wei Fangyun, Zhao Jinjing, Zhang Chao, Zhang Hongyang
 conference: "Arxiv"
 year: 2023

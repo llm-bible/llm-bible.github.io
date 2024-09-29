@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Ultimate Guide To Fine-tuning Llms From Basics To Breakthroughs\: An Exhaustive Review Of Technologies, Research, Best Practices, Applied Research Challenges And Opportunities
+title: The Ultimate Guide To Fine-tuning Llms From Basics To Breakthroughs&#58; An Exhaustive Review Of Technologies, Research, Best Practices, Applied Research Challenges And Opportunities
 authors: Parthasarathy Venkatesh Balavadhani, Zafar Ahtsham, Khan Aafaq, Shahid Arsalan
 conference: "Arxiv"
 year: 2024

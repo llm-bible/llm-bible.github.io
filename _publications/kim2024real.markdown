@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dialsim\: A Real-time Simulator For Evaluating Long-term Dialogue Understanding Of Conversational Agents
+title: Dialsim&#58; A Real-time Simulator For Evaluating Long-term Dialogue Understanding Of Conversational Agents
 authors: Kim Jiho, Chay Woosog, Hwang Hyeonji, Kyung Daeun, Chung Hyunseung, Cho Eunbyeol, Jo Yohan, Choi Edward
 conference: "Arxiv"
 year: 2024

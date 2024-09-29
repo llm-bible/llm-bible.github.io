@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mlongt5\: A Multilingual And Efficient Text-to-text Transformer For Longer Sequences
+title: Mlongt5&#58; A Multilingual And Efficient Text-to-text Transformer For Longer Sequences
 authors: Uthus David, Ontañón Santiago, Ainslie Joshua, Guo Mandy
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt4vis\: Prompting Large Language Models With Example Mining And Schema Filtering For Tabular Data Visualization
+title: Prompt4vis&#58; Prompting Large Language Models With Example Mining And Schema Filtering For Tabular Data Visualization
 authors: Li Shuaimin, Chen Xuanang, Song Yuanfeng, Song Yunze, Zhang Chen
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TAG\: Boosting Text-vqa Via Text-aware Visual Question-answer Generation
+title: TAG&#58; Boosting Text-vqa Via Text-aware Visual Question-answer Generation
 authors: Wang Jun, Gao Mingfei, Hu Yuqian, Selvaraju Ramprasaath R., Ramaiah Chetan, Xu Ran, Jaja Joseph F., Davis Larry S.
 conference: "Arxiv"
 year: 2022

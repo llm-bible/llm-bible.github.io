@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Blackvip\: Black-box Visual Prompting For Robust Transfer Learning
+title: Blackvip&#58; Black-box Visual Prompting For Robust Transfer Learning
 authors: Oh Changdae, Hwang Hyeji, Lee Hee-young, Lim Yongtaek, Jung Geunyoung, Jung Jiyoung, Choi Hosik, Song Kyungwoo
 conference: "Arxiv"
 year: 2023

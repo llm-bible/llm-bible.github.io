@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Robertuito\: A Pre-trained Language Model For Social Media Text In Spanish
+title: Robertuito&#58; A Pre-trained Language Model For Social Media Text In Spanish
 authors: Pérez Juan Manuel, Furman Damián A., Alemany Laura Alonso, Luque Franco
 conference: "Arxiv"
 year: 2021

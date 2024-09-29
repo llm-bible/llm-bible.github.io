@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attention Overflow\: Language Model Input Blur During Long-context Missing Items Recommendation
+title: Attention Overflow&#58; Language Model Input Blur During Long-context Missing Items Recommendation
 authors: Sileo Damien
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: NACL\: A General And Effective KV Cache Eviction Framework For Llms At Inference Time
+title: NACL&#58; A General And Effective KV Cache Eviction Framework For Llms At Inference Time
 authors: Chen Yilong, Wang Guoxia, Shang Junyuan, Cui Shiyao, Zhang Zhenyu, Liu Tingwen, Wang Shuohuan, Sun Yu, Yu Dianhai, Wu Hua
 conference: "Arxiv"
 year: 2024

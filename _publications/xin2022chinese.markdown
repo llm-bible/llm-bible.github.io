@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jiuzhang\: A Chinese Pre-trained Language Model For Mathematical Problem Understanding
+title: Jiuzhang&#58; A Chinese Pre-trained Language Model For Mathematical Problem Understanding
 authors: Wayne Xin Zhao, Kun Zhou, Zheng Gong, Beichen Zhang, Yuanhang Zhou, Jing Sha, Zhigang Chen, Shijin Wang, Cong Liu, Ji-rong Wen
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: L-TUNING\: Synchronized Label Tuning For Prompt And Prefix In Llms
+title: L-TUNING&#58; Synchronized Label Tuning For Prompt And Prefix In Llms
 authors: Kowsher Md., Sobuj Md. Shohanur Islam, Mahmud Asif, Prottasha Nusrat Jahan, Bhat Prakash
 conference: "Arxiv"
 year: 2023

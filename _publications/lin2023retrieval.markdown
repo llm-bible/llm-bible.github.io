@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rella\: Retrieval-enhanced Large Language Models For Lifelong Sequential Behavior Comprehension In Recommendation
+title: Rella&#58; Retrieval-enhanced Large Language Models For Lifelong Sequential Behavior Comprehension In Recommendation
 authors: Lin Jianghao, Shan Rong, Zhu Chenxu, Du Kounianhua, Chen Bo, Quan Shigang, Tang Ruiming, Yu Yong, Zhang Weinan
 conference: "Arxiv"
 year: 2023

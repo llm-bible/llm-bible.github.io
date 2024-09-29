@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Defining Boundaries\: A Spectrum Of Task Feasibility For Large Language Models
+title: Defining Boundaries&#58; A Spectrum Of Task Feasibility For Large Language Models
 authors: Zhang Wenbo, Xu Zihang, Cai Hengrui
 conference: "Arxiv"
 year: 2024

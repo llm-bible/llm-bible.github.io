@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: List\: Lite Prompted Self-training Makes Parameter-efficient Few-shot Learners
+title: List&#58; Lite Prompted Self-training Makes Parameter-efficient Few-shot Learners
 authors: Wang Yaqing, Mukherjee Subhabrata, Liu Xiaodong, Gao Jing, Awadallah Ahmed Hassan, Gao Jianfeng
 conference: "Arxiv"
 year: 2021

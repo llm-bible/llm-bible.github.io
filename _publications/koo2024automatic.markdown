@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Proptest\: Automatic Property Testing For Improved Visual Programming
+title: Proptest&#58; Automatic Property Testing For Improved Visual Programming
 authors: Koo Jaywon, Yang Ziyan, Cascante-bonilla Paola, Ray Baishakhi, Ordonez Vicente
 conference: "Arxiv"
 year: 2024

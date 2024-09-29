@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llms Among Us\: Generative AI Participating In Digital Discourse
+title: Llms Among Us&#58; Generative AI Participating In Digital Discourse
 authors: Radivojevic Kristina, Clark Nicholas, Brenner Paul
 conference: "Arxiv"
 year: 2024

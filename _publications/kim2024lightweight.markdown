@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mhgpt\: A Lightweight Generative Pre-trained Transformer For Mental Health Text Analysis
+title: Mhgpt&#58; A Lightweight Generative Pre-trained Transformer For Mental Health Text Analysis
 authors: Kim Dae-young, Hwa Rebecca, Rahman Muhammad Mahbubur
 conference: "Arxiv"
 year: 2024

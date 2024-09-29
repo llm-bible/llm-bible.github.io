@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jailbroken\: How Does LLM Safety Training Fail?
+title: Jailbroken&#58; How Does LLM Safety Training Fail?
 authors: Wei Alexander, Haghtalab Nika, Steinhardt Jacob
 conference: "Arxiv"
 year: 2023

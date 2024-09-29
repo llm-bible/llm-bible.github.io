@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mm-llms\: Recent Advances In Multimodal Large Language Models
+title: Mm-llms&#58; Recent Advances In Multimodal Large Language Models
 authors: Zhang Duzhen, Yu Yahan, Dong Jiahua, Li Chenxing, Su Dan, Chu Chenhui, Yu Dong
 conference: "Arxiv"
 year: 2024

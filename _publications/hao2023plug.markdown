@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vico\: Plug-and-play Visual Condition For Personalized Text-to-image Generation
+title: Vico&#58; Plug-and-play Visual Condition For Personalized Text-to-image Generation
 authors: Hao Shaozhe, Han Kai, Zhao Shihao, Wong Kwan-yee K.
 conference: "Arxiv"
 year: 2023

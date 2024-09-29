@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reason From Fallacy\: Enhancing Large Language Models' Logical Reasoning Through Logical Fallacy Understanding
+title: Reason From Fallacy&#58; Enhancing Large Language Models' Logical Reasoning Through Logical Fallacy Understanding
 authors: Li Yanda, Wang Dixuan, Liang Jiaqing, Jiang Guochao, He Qianyu, Xiao Yanghua, Yang Deqing
 conference: "Arxiv"
 year: 2024

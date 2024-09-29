@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From LLM To NMT\: Advancing Low-resource Machine Translation With Claude
+title: From LLM To NMT&#58; Advancing Low-resource Machine Translation With Claude
 authors: Enis Maxim, Hopkins Mark
 conference: "Arxiv"
 year: 2024

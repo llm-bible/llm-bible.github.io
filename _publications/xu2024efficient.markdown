@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Conveyor\: Efficient Tool-aware LLM Serving With Tool Partial Execution
+title: Conveyor&#58; Efficient Tool-aware LLM Serving With Tool Partial Execution
 authors: Xu Yechen, Kong Xinhao, Chen Tingjun, Zhuo Danyang
 conference: "Arxiv"
 year: 2024

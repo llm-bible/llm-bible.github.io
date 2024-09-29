@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Seakr\: Self-aware Knowledge Retrieval For Adaptive Retrieval Augmented Generation
+title: Seakr&#58; Self-aware Knowledge Retrieval For Adaptive Retrieval Augmented Generation
 authors: Yao Zijun, Qi Weijian, Pan Liangming, Cao Shulin, Hu Linmei, Liu Weichuan, Hou Lei, Li Juanzi
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Agent-flan\: Designing Data And Methods Of Effective Agent Tuning For Large Language Models
+title: Agent-flan&#58; Designing Data And Methods Of Effective Agent Tuning For Large Language Models
 authors: Chen Zehui, Liu Kuikun, Wang Qiuchen, Zhang Wenwei, Liu Jiangning, Lin Dahua, Chen Kai, Zhao Feng
 conference: "Arxiv"
 year: 2024

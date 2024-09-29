@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Flame\: Few-shot Learning From Natural Language Explanations
+title: Flame&#58; Few-shot Learning From Natural Language Explanations
 authors: Zhou Yangqiaoyu, Zhang Yiming, Tan Chenhao
 conference: "Arxiv"
 year: 2023

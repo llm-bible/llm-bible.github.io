@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Shadow Alignment\: The Ease Of Subverting Safely-aligned Language Models
+title: Shadow Alignment&#58; The Ease Of Subverting Safely-aligned Language Models
 authors: Yang Xianjun, Wang Xiao, Zhang Qi, Petzold Linda, Wang William Yang, Zhao Xun, Lin Dahua
 conference: "Arxiv"
 year: 2023

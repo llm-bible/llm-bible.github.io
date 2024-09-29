@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Visual Cot\: Advancing Multi-modal Language Models With A Comprehensive Dataset And Benchmark For Chain-of-thought Reasoning
+title: Visual Cot&#58; Advancing Multi-modal Language Models With A Comprehensive Dataset And Benchmark For Chain-of-thought Reasoning
 authors: Hao Shao, Shengju Qian, Han Xiao, Guanglu Song, Zhuofan Zong, Letian Wang, Yu Liu, Hongsheng Li
 conference: "Arxiv"
 year: 2024

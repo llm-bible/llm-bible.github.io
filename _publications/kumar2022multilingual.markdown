@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mucot\: Multilingual Contrastive Training For Question-answering In Low-resource Languages
+title: Mucot&#58; Multilingual Contrastive Training For Question-answering In Low-resource Languages
 authors: Kumar Gokul Karthik, Gehlot Abhishek Singh, Mullappilly Sahal Shaji, Nandakumar Karthik
 conference: "Arxiv"
 year: 2022

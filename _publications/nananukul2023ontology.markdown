@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: HALO\: An Ontology For Representing And Categorizing Hallucinations In Large Language Models
+title: HALO&#58; An Ontology For Representing And Categorizing Hallucinations In Large Language Models
 authors: Nananukul Navapat, Kejriwal Mayank
 conference: "Arxiv"
 year: 2023

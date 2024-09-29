@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multi-logieval\: Towards Evaluating Multi-step Logical Reasoning Ability Of Large Language Models
+title: Multi-logieval&#58; Towards Evaluating Multi-step Logical Reasoning Ability Of Large Language Models
 authors: Patel Nisarg, Kulkarni Mohith, Parmar Mihir, Budhiraja Aashna, Nakamura Mutsumi, Varshney Neeraj, Baral Chitta
 conference: "Arxiv"
 year: 2024

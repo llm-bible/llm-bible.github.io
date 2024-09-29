@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Autovcoder\: A Systematic Framework For Automated Verilog Code Generation Using Llms
+title: Autovcoder&#58; A Systematic Framework For Automated Verilog Code Generation Using Llms
 authors: Gao Mingzhe, Zhao Jieru, Lin Zhe, Ding Wenchao, Hou Xiaofeng, Feng Yu, Li Chao, Guo Minyi
 conference: "Arxiv"
 year: 2024

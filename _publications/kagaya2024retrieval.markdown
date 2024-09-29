@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RAP\: Retrieval-augmented Planning With Contextual Memory For Multimodal LLM Agents
+title: RAP&#58; Retrieval-augmented Planning With Contextual Memory For Multimodal LLM Agents
 authors: Kagaya Tomoyuki, Yuan Thong Jing, Lou Yuxuan, Karlekar Jayashree, Pranata Sugiri, Kinose Akira, Oguri Koki, Wick Felix, You Yang
 conference: "Arxiv"
 year: 2024

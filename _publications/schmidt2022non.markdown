@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Non-autoregressive Neural Machine Translation\: A Call For Clarity
+title: Non-autoregressive Neural Machine Translation&#58; A Call For Clarity
 authors: Schmidt Robin M., Pires Telmo, Peitz Stephan, Lööf Jonas
 conference: "Arxiv"
 year: 2022

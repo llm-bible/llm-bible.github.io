@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Revision Transformers\: Instructing Language Models To Change Their Values
+title: Revision Transformers&#58; Instructing Language Models To Change Their Values
 authors: Friedrich Felix, Stammer Wolfgang, Schramowski Patrick, Kersting Kristian
 conference: "Arxiv"
 year: 2022

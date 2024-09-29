@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Dense To Sparse\: Contrastive Pruning For Better Pre-trained Language Model Compression
+title: From Dense To Sparse&#58; Contrastive Pruning For Better Pre-trained Language Model Compression
 authors: Xu Runxin, Luo Fuli, Wang Chengyu, Chang Baobao, Huang Jun, Huang Songfang, Huang Fei
 conference: "Arxiv"
 year: 2021

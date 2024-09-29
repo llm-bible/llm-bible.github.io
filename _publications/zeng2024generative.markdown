@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Shieldgemma\: Generative AI Content Moderation Based On Gemma
+title: Shieldgemma&#58; Generative AI Content Moderation Based On Gemma
 authors: Zeng Wenjun, Liu Yuchi, Mullins Ryan, Peran Ludovic, Fernandez Joe, Harkous Hamza, Narasimhan Karthik, Proud Drew, Kumar Piyush, Radharapu Bhaktipriya, Sturman Olivia, Wahltinez Oscar
 conference: "Arxiv"
 year: 2024

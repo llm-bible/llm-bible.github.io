@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Knowledge-infused Prompting\: Assessing And Advancing Clinical Text Data Generation With Large Language Models
+title: Knowledge-infused Prompting&#58; Assessing And Advancing Clinical Text Data Generation With Large Language Models
 authors: Xu Ran, Cui Hejie, Yu Yue, Kan Xuan, Shi Wenqi, Zhuang Yuchen, Jin Wei, Ho Joyce, Yang Carl
 conference: "Arxiv"
 year: 2023

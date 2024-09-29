@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Novicode\: Generating Programs From Natural Language Utterances By Novices
+title: Novicode&#58; Generating Programs From Natural Language Utterances By Novices
 authors: Mordechai Asaf Achi, Goldberg Yoav, Tsarfaty Reut
 conference: "Arxiv"
 year: 2024

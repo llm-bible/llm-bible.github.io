@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lightweight Large Language Model For Medication Enquiry\: Med-pal
+title: Lightweight Large Language Model For Medication Enquiry&#58; Med-pal
 authors: Elangovan Kabilan, Ong Jasmine Chiat Ling, Jin Liyuan, Seng Benjamin Jun Jie, Kwan Yu Heng, Tan Lit Soo, Zhong Ryan Jian, Ma Justina Koi Li, Ke Yuhe, Liu Nan, Giacomini Kathleen M, Ting Daniel Shu Wei
 conference: "Arxiv"
 year: 2024

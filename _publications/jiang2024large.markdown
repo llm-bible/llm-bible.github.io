@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Visual-language Models Are Also Good Classifiers\: A Study Of In-context Multimodal Fake News Detection
+title: Large Visual-language Models Are Also Good Classifiers&#58; A Study Of In-context Multimodal Fake News Detection
 authors: Jiang Ye, Wang Yimin
 conference: "Arxiv"
 year: 2024

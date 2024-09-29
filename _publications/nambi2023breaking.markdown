@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Breaking Language Barriers With A LEAP\: Learning Strategies For Polyglot Llms
+title: Breaking Language Barriers With A LEAP&#58; Learning Strategies For Polyglot Llms
 authors: Nambi Akshay, Balloli Vaibhav, Ranjit Mercy, Ganu Tanuja, Ahuja Kabir, Sitaram Sunayana, Bali Kalika
 conference: "Arxiv"
 year: 2023

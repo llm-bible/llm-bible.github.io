@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Few-shot Visual Question Generation\: A Novel Task And Benchmark Datasets
+title: Few-shot Visual Question Generation&#58; A Novel Task And Benchmark Datasets
 authors: Roy Anurag, Ekka David Johnson, Ghosh Saptarshi, Das Abir
 conference: "Arxiv"
 year: 2022

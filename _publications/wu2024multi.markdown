@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MLDT\: Multi-level Decomposition For Complex Long-horizon Robotic Task Planning With Open-source Large Language Model
+title: MLDT&#58; Multi-level Decomposition For Complex Long-horizon Robotic Task Planning With Open-source Large Language Model
 authors: Wu Yike, Zhang Jiatao, Hu Nan, Tang Lanling, Qi Guilin, Shao Jun, Ren Jie, Song Wei
 conference: "Arxiv"
 year: 2024

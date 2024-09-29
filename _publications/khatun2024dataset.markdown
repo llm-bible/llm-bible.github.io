@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Trutheval\: A Dataset To Evaluate LLM Truthfulness And Reliability
+title: Trutheval&#58; A Dataset To Evaluate LLM Truthfulness And Reliability
 authors: Khatun Aisha, Brown Daniel G.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Pre-training Corpora To Large Language Models\: What Factors Influence LLM Performance In Causal Discovery Tasks?
+title: From Pre-training Corpora To Large Language Models&#58; What Factors Influence LLM Performance In Causal Discovery Tasks?
 authors: Feng Tao, Qu Lizhen, Tandon Niket, Li Zhuang, Kang Xiaoxi, Haffari Gholamreza
 conference: "Arxiv"
 year: 2024

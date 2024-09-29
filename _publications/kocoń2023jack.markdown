@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatgpt\: Jack Of All Trades, Master Of None
+title: Chatgpt&#58; Jack Of All Trades, Master Of None
 authors: Kocoń Jan, Cichecki Igor, Kaszyca Oliwier, Kochanek Mateusz, Szydło Dominika, Baran Joanna, Bielaniewicz Julita, Gruza Marcin, Janz Arkadiusz, Kanclerz Kamil, Kocoń Anna, Koptyra Bartłomiej, Mieleszczenko-kowszewicz Wiktoria, Miłkowski Piotr, Oleksy Marcin, Piasecki Maciej, Radliński Łukasz, Wojtasik Konrad, Woźniak Stanisław, Kazienko Przemysław
 conference: "Information Fusion"
 year: 2023

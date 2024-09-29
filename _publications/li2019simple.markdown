@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Visualbert\: A Simple And Performant Baseline For Vision And Language
+title: Visualbert&#58; A Simple And Performant Baseline For Vision And Language
 authors: Li Liunian Harold, Yatskar Mark, Yin Da, Hsieh Cho-jui, Chang Kai-wei
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: HPT++\: Hierarchically Prompting Vision-language Models With Multi-granularity Knowledge Generation And Improved Structure Modeling
+title: HPT++&#58; Hierarchically Prompting Vision-language Models With Multi-granularity Knowledge Generation And Improved Structure Modeling
 authors: Wang Yubin, Jiang Xinyang, Cheng De, Sun Wenli, Li Dongsheng, Zhao Cairong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ffn-skipllm\: A Hidden Gem For Autoregressive Decoding With Adaptive Feed Forward Skipping
+title: Ffn-skipllm&#58; A Hidden Gem For Autoregressive Decoding With Adaptive Feed Forward Skipping
 authors: Jaiswal Ajay, Hu Bodun, Yin Lu, Ro Yeonju, Liu Shiwei, Chen Tianlong, Akella Aditya
 conference: "Arxiv"
 year: 2024

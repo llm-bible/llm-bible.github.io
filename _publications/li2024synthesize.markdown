@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Synthesize Step-by-step\: Tools, Templates And Llms As Data Generators For Reasoning-based Chart VQA
+title: Synthesize Step-by-step&#58; Tools, Templates And Llms As Data Generators For Reasoning-based Chart VQA
 authors: Li Zhuowan, Jasani Bhavan, Tang Peng, Ghadar Shabnam
 conference: "Arxiv"
 year: 2024

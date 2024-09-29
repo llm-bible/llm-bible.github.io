@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatabl\: Abductive Learning Via Natural Language Interaction With Chatgpt
+title: Chatabl&#58; Abductive Learning Via Natural Language Interaction With Chatgpt
 authors: Zhong Tianyang, Wei Yaonai, Yang Li, Wu Zihao, Liu Zhengliang, Wei Xiaozheng, Li Wenjun, Yao Junjie, Ma Chong, Li Xiang, Zhu Dajiang, Jiang Xi, Han Junwei, Shen Dinggang, Liu Tianming, Zhang Tuo
 conference: "Arxiv"
 year: 2023

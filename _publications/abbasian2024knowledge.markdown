@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Knowledge-infused Llm-powered Conversational Health Agent\: A Case Study For Diabetes Patients
+title: Knowledge-infused Llm-powered Conversational Health Agent&#58; A Case Study For Diabetes Patients
 authors: Abbasian Mahyar, Yang Zhongqi, Khatibi Elahe, Zhang Pengfei, Nagesh Nitish, Azimi Iman, Jain Ramesh, Rahmani Amir M.
 conference: "Arxiv"
 year: 2024

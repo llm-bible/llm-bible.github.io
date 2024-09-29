@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Trusting Roberta Over BERT\: Insights From Checklisting The Natural Language Inference Task
+title: Trusting Roberta Over BERT&#58; Insights From Checklisting The Natural Language Inference Task
 authors: Tarunesh Ishan, Aditya Somak, Choudhury Monojit
 conference: "Arxiv"
 year: 2021

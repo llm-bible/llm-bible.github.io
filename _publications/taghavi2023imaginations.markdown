@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Imaginations Of WALL-E \: Reconstructing Experiences With An Imagination-inspired Module For Advanced AI Systems
+title: Imaginations Of WALL-E &#58; Reconstructing Experiences With An Imagination-inspired Module For Advanced AI Systems
 authors: Taghavi Zeinab Sadat, Gooran Soroush, Dalili Seyed Arshan, Amirzadeh Hamidreza, Nematbakhsh Mohammad Jalal, Sameti Hossein
 conference: "Arxiv"
 year: 2023

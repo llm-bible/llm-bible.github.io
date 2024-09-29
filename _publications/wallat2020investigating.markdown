@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bertnesia\: Investigating The Capture And Forgetting Of Knowledge In BERT
+title: Bertnesia&#58; Investigating The Capture And Forgetting Of Knowledge In BERT
 authors: Wallat Jonas, Singh Jaspreet, Anand Avishek
 conference: "Arxiv"
 year: 2020

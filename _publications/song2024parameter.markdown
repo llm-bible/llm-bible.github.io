@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sharelora\: Parameter Efficient And Robust Large Language Model Fine-tuning Via Shared Low-rank Adaptation
+title: Sharelora&#58; Parameter Efficient And Robust Large Language Model Fine-tuning Via Shared Low-rank Adaptation
 authors: Song Yurun, Zhao Junchen, Harris Ian G., Jyothi Sangeetha Abdu
 conference: "Arxiv"
 year: 2024

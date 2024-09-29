@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: In-context Vectors\: Making In Context Learning More Effective And Controllable Through Latent Space Steering
+title: In-context Vectors&#58; Making In Context Learning More Effective And Controllable Through Latent Space Steering
 authors: Liu Sheng, Ye Haotian, Xing Lei, Zou James
 conference: "Arxiv"
 year: 2023

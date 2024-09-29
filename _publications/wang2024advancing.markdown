@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Blendfilter\: Advancing Retrieval-augmented Large Language Models Via Query Generation Blending And Knowledge Filtering
+title: Blendfilter&#58; Advancing Retrieval-augmented Large Language Models Via Query Generation Blending And Knowledge Filtering
 authors: Wang Haoyu, Li Ruirui, Jiang Haoming, Tian Jinjin, Wang Zhengyang, Luo Chen, Tang Xianfeng, Cheng Monica, Zhao Tuo, Gao Jing
 conference: "Arxiv"
 year: 2024

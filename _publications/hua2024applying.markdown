@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Applying And Evaluating Large Language Models In Mental Health Care\: A Scoping Review Of Human-assessed Generative Tasks
+title: Applying And Evaluating Large Language Models In Mental Health Care&#58; A Scoping Review Of Human-assessed Generative Tasks
 authors: Hua Yining, Na Hongbin, Li Zehan, Liu Fenglin, Fang Xiao, Clifton David, Torous John
 conference: "Arxiv"
 year: 2024

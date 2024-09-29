@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EMP\: Enhance Memory In Data Pruning
+title: EMP&#58; Enhance Memory In Data Pruning
 authors: Xiao Jinying, Li Ping, Nie Jie, Tang Zhe
 conference: "Arxiv"
 year: 2024

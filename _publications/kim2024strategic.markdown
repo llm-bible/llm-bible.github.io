@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Strategic Data Ordering\: Enhancing Large Language Model Performance Through Curriculum Learning
+title: Strategic Data Ordering&#58; Enhancing Large Language Model Performance Through Curriculum Learning
 authors: Kim Jisu, Lee Juhwan
 conference: "Arxiv"
 year: 2024

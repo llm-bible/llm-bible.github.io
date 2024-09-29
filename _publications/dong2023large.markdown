@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Model For Science\: A Study On P Vs. NP
+title: Large Language Model For Science&#58; A Study On P Vs. NP
 authors: Dong Qingxiu, Dong Li, Xu Ke, Zhou Guangyan, Hao Yaru, Sui Zhifang, Wei Furu
 conference: "Arxiv"
 year: 2023

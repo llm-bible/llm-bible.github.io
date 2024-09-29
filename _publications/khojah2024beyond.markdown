@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Code Generation\: An Observational Study Of Chatgpt Usage In Software Engineering Practice
+title: Beyond Code Generation&#58; An Observational Study Of Chatgpt Usage In Software Engineering Practice
 authors: Khojah Ranim, Mohamad Mazen, Leitner Philipp, Neto Francisco Gomes De Oliveira
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Trove\: Inducing Verifiable And Efficient Toolboxes For Solving Programmatic Tasks
+title: Trove&#58; Inducing Verifiable And Efficient Toolboxes For Solving Programmatic Tasks
 authors: Wang Zhiruo, Fried Daniel, Neubig Graham
 conference: "Arxiv"
 year: 2024

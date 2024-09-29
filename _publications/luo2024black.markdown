@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Crosstune\: Black-box Few-shot Classification With Label Enhancement
+title: Crosstune&#58; Black-box Few-shot Classification With Label Enhancement
 authors: Luo Danqing, Zhang Chen, Zhang Yan, Li Haizhou
 conference: "Arxiv"
 year: 2024

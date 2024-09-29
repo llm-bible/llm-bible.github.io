@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Wanjuan\: A Comprehensive Multimodal Dataset For Advancing English And Chinese Large Models
+title: Wanjuan&#58; A Comprehensive Multimodal Dataset For Advancing English And Chinese Large Models
 authors: He Conghui, Jin Zhenjiang, Xu Chao, Qiu Jiantao, Wang Bin, Li Wei, Yan Hang, Wang Jiaqi, Lin Dahua
 conference: "Arxiv"
 year: 2023

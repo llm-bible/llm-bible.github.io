@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Continual Learning Of Large Language Models\: A Comprehensive Survey
+title: Continual Learning Of Large Language Models&#58; A Comprehensive Survey
 authors: Shi Haizhou, Xu Zihao, Wang Hengyi, Qin Weiyi, Wang Wenyuan, Wang Yibin, Wang Zifeng, Ebrahimi Sayna, Wang Hao
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Doccgen\: Document-based Controlled Code Generation
+title: Doccgen&#58; Document-based Controlled Code Generation
 authors: Pimparkhede Sameer, Kammakomati Mehant, Tamilselvam Srikanth, Kumar Prince, Kumar Ashok Pon, Bhattacharyya Pushpak
 conference: "Arxiv"
 year: 2024

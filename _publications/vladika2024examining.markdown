@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Medreqal\: Examining Medical Knowledge Recall Of Large Language Models Via Question Answering
+title: Medreqal&#58; Examining Medical Knowledge Recall Of Large Language Models Via Question Answering
 authors: Vladika Juraj, Schneider Phillip, Matthes Florian
 conference: "Arxiv"
 year: 2024

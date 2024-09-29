@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Powerinfer\: Fast Large Language Model Serving With A Consumer-grade GPU
+title: Powerinfer&#58; Fast Large Language Model Serving With A Consumer-grade GPU
 authors: Song Yixin, Mi Zeyu, Xie Haotong, Chen Haibo
 conference: "Arxiv"
 year: 2023

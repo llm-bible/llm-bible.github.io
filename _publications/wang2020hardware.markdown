@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: HAT\: Hardware-aware Transformers For Efficient Natural Language Processing
+title: HAT&#58; Hardware-aware Transformers For Efficient Natural Language Processing
 authors: Wang Hanrui, Wu Zhanghao, Liu Zhijian, Cai Han, Zhu Ligeng, Gan Chuang, Han Song
 conference: "Arxiv"
 year: 2020

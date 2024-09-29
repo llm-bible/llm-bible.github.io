@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MT6\: Multilingual Pretrained Text-to-text Transformer With Translation Pairs
+title: MT6&#58; Multilingual Pretrained Text-to-text Transformer With Translation Pairs
 authors: Chi Zewen, Dong Li, Ma Shuming, Mao Shaohan Huang Xian-ling, Huang Heyan, Wei Furu
 conference: "Arxiv"
 year: 2021

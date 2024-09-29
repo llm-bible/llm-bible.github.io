@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Deepprobe\: Information Directed Sequence Understanding And Chatbot Design Via Recurrent Neural Networks
+title: Deepprobe&#58; Information Directed Sequence Understanding And Chatbot Design Via Recurrent Neural Networks
 authors: Yin Zi, Chang Keng-hao, Zhang Ruofei
 conference: "Arxiv"
 year: 2017

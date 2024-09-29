@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recall Them All\: Retrieval-augmented Language Models For Long Object List Extraction From Long Documents
+title: Recall Them All&#58; Retrieval-augmented Language Models For Long Object List Extraction From Long Documents
 authors: Singhania Sneha, Razniewski Simon, Weikum Gerhard
 conference: "Arxiv"
 year: 2024

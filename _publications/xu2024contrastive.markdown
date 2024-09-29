@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Contrastive Preference Optimization\: Pushing The Boundaries Of LLM Performance In Machine Translation
+title: Contrastive Preference Optimization&#58; Pushing The Boundaries Of LLM Performance In Machine Translation
 authors: Xu Haoran, Sharaf Amr, Chen Yunmo, Tan Weiting, Shen Lingfeng, Van Durme Benjamin, Murray Kenton, Kim Young Jin
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VSTAR\: Generative Temporal Nursing For Longer Dynamic Video Synthesis
+title: VSTAR&#58; Generative Temporal Nursing For Longer Dynamic Video Synthesis
 authors: Li Yumeng, Beluch William, Keuper Margret, Zhang Dan, Khoreva Anna
 conference: "Arxiv"
 year: 2024

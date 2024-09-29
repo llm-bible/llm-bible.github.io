@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Check-eval\: A Checklist-based Approach For Evaluating Text Quality
+title: Check-eval&#58; A Checklist-based Approach For Evaluating Text Quality
 authors: Pereira Jayr, Assumpcao Andre, Lotufo Roberto
 conference: "Arxiv"
 year: 2024

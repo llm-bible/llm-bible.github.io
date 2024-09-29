@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Editing Large Language Models\: Problems, Methods, And Opportunities
+title: Editing Large Language Models&#58; Problems, Methods, And Opportunities
 authors: Yao Yunzhi, Wang Peng, Tian Bozhong, Cheng Siyuan, Li Zhoubo, Deng Shumin, Chen Huajun, Zhang Ningyu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Textgenshap\: Scalable Post-hoc Explanations In Text Generation With Long Documents
+title: Textgenshap&#58; Scalable Post-hoc Explanations In Text Generation With Long Documents
 authors: Enouen James, Nakhost Hootan, Ebrahimi Sayna, Arik Sercan O, Liu Yan, Pfister Tomas
 conference: "Arxiv"
 year: 2023

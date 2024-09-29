@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Synthesizer\: Rethinking Self-attention In Transformer Models
+title: Synthesizer&#58; Rethinking Self-attention In Transformer Models
 authors: Tay Yi, Bahri Dara, Metzler Donald, Juan Da-cheng, Zhao Zhe, Zheng Che
 conference: "Arxiv"
 year: 2020

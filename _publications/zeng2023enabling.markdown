@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Agenttuning\: Enabling Generalized Agent Abilities For Llms
+title: Agenttuning&#58; Enabling Generalized Agent Abilities For Llms
 authors: Aohan Zeng, Mingdao Liu, Rui Lu, Bowen Wang, Xiao Liu, Yuxiao Dong, Jie Tang
 conference: "Arxiv"
 year: 2023

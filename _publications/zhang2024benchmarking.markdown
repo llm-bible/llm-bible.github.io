@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Benchmarking Trustworthiness Of Multimodal Large Language Models\: A Comprehensive Study
+title: Benchmarking Trustworthiness Of Multimodal Large Language Models&#58; A Comprehensive Study
 authors: Zhang Yichi, Huang Yao, Sun Yitong, Liu Chang, Zhao Zhe, Fang Zhengwei, Wang Yifan, Chen Huanran, Yang Xiao, Wei Xingxing, Su Hang, Dong Yinpeng, Zhu Jun
 conference: "Arxiv"
 year: 2024

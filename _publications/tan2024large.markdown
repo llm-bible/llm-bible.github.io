@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models For Data Annotation\: A Survey
+title: Large Language Models For Data Annotation&#58; A Survey
 authors: Tan Zhen, Li Dawei, Wang Song, Beigi Alimohammad, Jiang Bohan, Bhattacharjee Amrita, Karami Mansooreh, Li Jundong, Cheng Lu, Liu Huan
 conference: "Arxiv"
 year: 2024

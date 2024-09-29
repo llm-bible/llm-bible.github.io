@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Clues Before Answers\: Generation-enhanced Multiple-choice QA
+title: Clues Before Answers&#58; Generation-enhanced Multiple-choice QA
 authors: Huang Zixian, Wu Ao, Zhou Jiaying, Gu Yu, Zhao Yue, Cheng Gong
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unveiling Typographic Deceptions\: Insights Of The Typographic Vulnerability In Large Vision-language Model
+title: Unveiling Typographic Deceptions&#58; Insights Of The Typographic Vulnerability In Large Vision-language Model
 authors: Cheng Hao, Xiao Erjia, Gu Jindong, Yang Le, Duan Jinhao, Zhang Jize, Cao Jiahang, Xu Kaidi, Xu Renjing
 conference: "Arxiv"
 year: 2024

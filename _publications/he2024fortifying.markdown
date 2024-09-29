@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fortifying Ethical Boundaries In AI\: Advanced Strategies For Enhancing Security In Large Language Models
+title: Fortifying Ethical Boundaries In AI&#58; Advanced Strategies For Enhancing Security In Large Language Models
 authors: He Yunhong, Qiu Jianling, Zhang Wei, Yuan Zhengqing
 conference: "Arxiv"
 year: 2024

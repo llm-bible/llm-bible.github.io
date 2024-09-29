@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MBR And QE Finetuning\: Training-time Distillation Of The Best And Most Expensive Decoding Methods
+title: MBR And QE Finetuning&#58; Training-time Distillation Of The Best And Most Expensive Decoding Methods
 authors: Finkelstein Mara, Naskar Subhajit, Mirzazadeh Mehdi, Shah Apurva, Freitag Markus
 conference: "Arxiv"
 year: 2023

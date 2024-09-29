@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Knowtuning\: Knowledge-aware Fine-tuning For Large Language Models
+title: Knowtuning&#58; Knowledge-aware Fine-tuning For Large Language Models
 authors: Lyu Yougang, Yan Lingyong, Wang Shuaiqiang, Shi Haibo, Yin Dawei, Ren Pengjie, Chen Zhumin, De Rijke Maarten, Ren Zhaochun
 conference: "Arxiv"
 year: 2024

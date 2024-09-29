@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sequence To Sequence Reward Modeling\: Improving RLHF By Language Feedback
+title: Sequence To Sequence Reward Modeling&#58; Improving RLHF By Language Feedback
 authors: Zhou Jiayi, Ji Jiaming, Dai Juntao, Yang Yaodong
 conference: "Arxiv"
 year: 2024

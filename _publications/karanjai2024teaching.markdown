@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Teaching Machines To Code\: Smart Contract Translation With Llms
+title: Teaching Machines To Code&#58; Smart Contract Translation With Llms
 authors: Karanjai Rabimba, Xu Lei, Shi Weidong
 conference: "Arxiv"
 year: 2024

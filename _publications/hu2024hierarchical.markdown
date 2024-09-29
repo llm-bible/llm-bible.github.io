@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hiagent\: Hierarchical Working Memory Management For Solving Long-horizon Agent Tasks With Large Language Model
+title: Hiagent&#58; Hierarchical Working Memory Management For Solving Long-horizon Agent Tasks With Large Language Model
 authors: Hu Mengkang, Chen Tianxing, Chen Qiguang, Mu Yao, Shao Wenqi, Luo Ping
 conference: "Arxiv"
 year: 2024

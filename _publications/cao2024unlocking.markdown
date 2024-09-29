@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Graphinsight\: Unlocking Insights In Large Language Models For Graph Structure Understanding
+title: Graphinsight&#58; Unlocking Insights In Large Language Models For Graph Structure Understanding
 authors: Cao Yukun, Han Shuo, Gao Zengyi, Ding Zezhong, Xie Xike, Zhou S. Kevin
 conference: "Arxiv"
 year: 2024

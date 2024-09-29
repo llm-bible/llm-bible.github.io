@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Look Before You Speak\: Visually Contextualized Utterances
+title: Look Before You Speak&#58; Visually Contextualized Utterances
 authors: Seo Paul Hongsuck, Nagrani Arsha, Schmid Cordelia
 conference: "Arxiv"
 year: 2020

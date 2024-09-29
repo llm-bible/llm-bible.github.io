@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Two Stacks Are Better Than One\: A Comparison Of Language Modeling And Translation As Multilingual Pretraining Objectives
+title: Two Stacks Are Better Than One&#58; A Comparison Of Language Modeling And Translation As Multilingual Pretraining Objectives
 authors: Li Zihao, Ji Shaoxiong, Mickus Timothee, Segonne Vincent, Tiedemann Jörg
 conference: "Arxiv"
 year: 2024

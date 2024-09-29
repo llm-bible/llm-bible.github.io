@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hugginggpt\: Solving AI Tasks With Chatgpt And Its Friends In Hugging Face
+title: Hugginggpt&#58; Solving AI Tasks With Chatgpt And Its Friends In Hugging Face
 authors: Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang
 conference: "Arxiv"
 year: 2023

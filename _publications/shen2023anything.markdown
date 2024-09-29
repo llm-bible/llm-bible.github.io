@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "do Anything Now"\: Characterizing And Evaluating In-the-wild Jailbreak Prompts On Large Language Models
+title: "do Anything Now"&#58; Characterizing And Evaluating In-the-wild Jailbreak Prompts On Large Language Models
 authors: Shen Xinyue, Chen Zeyuan, Backes Michael, Shen Yun, Zhang Yang
 conference: "Arxiv"
 year: 2023

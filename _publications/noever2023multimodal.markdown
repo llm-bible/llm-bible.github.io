@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multimodal Analysis Of Google Bard And Gpt-vision\: Experiments In Visual Reasoning
+title: Multimodal Analysis Of Google Bard And Gpt-vision&#58; Experiments In Visual Reasoning
 authors: Noever David, Noever Samantha Elizabeth Miller
 conference: "Arxiv"
 year: 2023

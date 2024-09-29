@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Small Models, Big Insights\: Leveraging Slim Proxy Models To Decide When And What To Retrieve For Llms
+title: Small Models, Big Insights&#58; Leveraging Slim Proxy Models To Decide When And What To Retrieve For Llms
 authors: Tan Jiejun, Dou Zhicheng, Zhu Yutao, Guo Peidong, Fang Kun, Wen Ji-rong
 conference: "Arxiv"
 year: 2024

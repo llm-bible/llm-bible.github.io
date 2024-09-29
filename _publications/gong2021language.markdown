@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LAWDR\: Language-agnostic Weighted Document Representations From Pre-trained Models
+title: LAWDR&#58; Language-agnostic Weighted Document Representations From Pre-trained Models
 authors: Gong Hongyu, Chaudhary Vishrav, Tang Yuqing, Guzmán Francisco
 conference: "Arxiv"
 year: 2021

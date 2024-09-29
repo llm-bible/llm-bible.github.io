@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mmevalpro\: Calibrating Multimodal Benchmarks Towards Trustworthy And Efficient Evaluation
+title: Mmevalpro&#58; Calibrating Multimodal Benchmarks Towards Trustworthy And Efficient Evaluation
 authors: Huang Jinsheng, Chen Liang, Guo Taian, Zeng Fu, Zhao Yusheng, Wu Bohan, Yuan Ye, Zhao Haozhe, Guo Zhihui, Zhang Yichi, Yuan Jingyang, Ju Wei, Liu Luchen, Liu Tianyu, Chang Baobao, Zhang Ming
 conference: "Arxiv"
 year: 2024

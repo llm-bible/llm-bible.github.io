@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dialcot Meets PPO\: Decomposing And Exploring Reasoning Paths In Smaller Language Models
+title: Dialcot Meets PPO&#58; Decomposing And Exploring Reasoning Paths In Smaller Language Models
 authors: Han Chengcheng, Du Xiaowei, Zhang Che, Lian Yixin, Li Xiang, Gao Ming, Wang Baoyuan
 conference: "Arxiv"
 year: 2023

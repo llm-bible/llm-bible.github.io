@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Health-llm\: Large Language Models For Health Prediction Via Wearable Sensor Data
+title: Health-llm&#58; Large Language Models For Health Prediction Via Wearable Sensor Data
 authors: Kim Yubin, Xu Xuhai, Mcduff Daniel, Breazeal Cynthia, Park Hae Won
 conference: "Arxiv"
 year: 2024

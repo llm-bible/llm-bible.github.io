@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dialogpt\: Large-scale Generative Pre-training For Conversational Response Generation
+title: Dialogpt&#58; Large-scale Generative Pre-training For Conversational Response Generation
 authors: Zhang Yizhe, Sun Siqi, Galley Michel, Chen Yen-chun, Brockett Chris, Gao Xiang, Gao Jianfeng, Liu Jingjing, Dolan Bill
 conference: "Arxiv"
 year: 2019

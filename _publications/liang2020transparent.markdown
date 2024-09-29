@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LRTA\: A Transparent Neural-symbolic Reasoning Framework With Modular Supervision For Visual Question Answering
+title: LRTA&#58; A Transparent Neural-symbolic Reasoning Framework With Modular Supervision For Visual Question Answering
 authors: Liang Weixin, Niu Feiyang, Reganti Aishwarya, Thattai Govind, Tur Gokhan
 conference: "Arxiv"
 year: 2020

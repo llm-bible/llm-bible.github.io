@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instruction Induction\: From Few Examples To Natural Language Task Descriptions
+title: Instruction Induction&#58; From Few Examples To Natural Language Task Descriptions
 authors: Honovich Or, Shaham Uri, Bowman Samuel R., Levy Omer
 conference: "Arxiv"
 year: 2022

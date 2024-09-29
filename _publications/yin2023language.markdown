@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LAMM\: Language-assisted Multi-modal Instruction-tuning Dataset, Framework, And Benchmark
+title: LAMM&#58; Language-assisted Multi-modal Instruction-tuning Dataset, Framework, And Benchmark
 authors: Yin Zhenfei, Wang Jiong, Cao Jianjian, Shi Zhelun, Liu Dingning, Li Mukai, Sheng Lu, Bai Lei, Huang Xiaoshui, Wang Zhiyong, Shao Jing, Ouyang Wanli
 conference: "Arxiv"
 year: 2023

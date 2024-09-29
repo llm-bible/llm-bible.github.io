@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Copiloting The Copilots\: Fusing Large Language Models With Completion Engines For Automated Program Repair
+title: Copiloting The Copilots&#58; Fusing Large Language Models With Completion Engines For Automated Program Repair
 authors: Wei Yuxiang, Xia Chunqiu Steven, Zhang Lingming
 conference: "Arxiv"
 year: 2023

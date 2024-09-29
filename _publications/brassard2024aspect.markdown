@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ACORN\: Aspect-wise Commonsense Reasoning Explanation Evaluation
+title: ACORN&#58; Aspect-wise Commonsense Reasoning Explanation Evaluation
 authors: Brassard Ana, Heinzerling Benjamin, Kudo Keito, Sakaguchi Keisuke, Inui Kentaro
 conference: "Arxiv"
 year: 2024

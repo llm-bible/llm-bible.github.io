@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Motcoder\: Elevating Large Language Models With Modular Of Thought For Challenging Programming Tasks
+title: Motcoder&#58; Elevating Large Language Models With Modular Of Thought For Challenging Programming Tasks
 authors: Li Jingyao, Chen Pengguang, Xia Bin, Xu Hong, Jia Jiaya
 conference: "Arxiv"
 year: 2023

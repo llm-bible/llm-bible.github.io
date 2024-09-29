@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Argue\: Attribute-guided Prompt Tuning For Vision-language Models
+title: Argue&#58; Attribute-guided Prompt Tuning For Vision-language Models
 authors: Tian Xinyu, Zou Shu, Yang Zhaoyuan, Zhang Jing
 conference: "Arxiv"
 year: 2023

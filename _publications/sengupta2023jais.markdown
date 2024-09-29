@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jais And Jais-chat\: Arabic-centric Foundation And Instruction-tuned Open Generative Large Language Models
+title: Jais And Jais-chat&#58; Arabic-centric Foundation And Instruction-tuned Open Generative Large Language Models
 authors: Sengupta Neha, Sahu Sunil Kumar, Jia Bokang, Katipomu Satheesh, Li Haonan, Koto Fajri, Marshall William, Gosal Gurpreet, Liu Cynthia, Chen Zhiming, Afzal Osama Mohammed, Kamboj Samta, Pandit Onkar, Pal Rahul, Pradhan Lalit, Mujahid Zain Muhammad, Baali Massa, Han Xudong, Bsharat Sondos Mahmoud, Aji Alham Fikri, Shen Zhiqiang, Liu Zhengzhong, Vassilieva Natalia, Hestness Joel, Hock Andy, Feldman Andrew, Lee Jonathan, Jackson Andrew, Ren Hector Xuguang, Nakov Preslav, Baldwin Timothy, Xing Eric
 conference: "Arxiv"
 year: 2023

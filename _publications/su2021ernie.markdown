@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ernie-tiny \: A Progressive Distillation Framework For Pretrained Transformer Compression
+title: Ernie-tiny &#58; A Progressive Distillation Framework For Pretrained Transformer Compression
 authors: Su Weiyue, Chen Xuyi, Feng Shikun, Liu Jiaxiang, Liu Weixin, Sun Yu, Tian Hao, Wu Hua, Wang Haifeng
 conference: "Arxiv"
 year: 2021

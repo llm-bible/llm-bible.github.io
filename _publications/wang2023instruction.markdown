@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instructta\: Instruction-tuned Targeted Attack For Large Vision-language Models
+title: Instructta&#58; Instruction-tuned Targeted Attack For Large Vision-language Models
 authors: Wang Xunguang, Ji Zhenlan, Ma Pingchuan, Li Zongjie, Wang Shuai
 conference: "Arxiv"
 year: 2023

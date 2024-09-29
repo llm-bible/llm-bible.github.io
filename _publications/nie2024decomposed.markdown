@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Decomposed Prompting\: Unveiling Multilingual Linguistic Structure Knowledge In English-centric Large Language Models
+title: Decomposed Prompting&#58; Unveiling Multilingual Linguistic Structure Knowledge In English-centric Large Language Models
 authors: Nie Ercong, Yuan Shuzhou, Ma Bolei, Schmid Helmut, Färber Michael, Kreuter Frauke, Schütze Hinrich
 conference: "Arxiv"
 year: 2024

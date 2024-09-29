@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CERET\: Cost-effective Extrinsic Refinement For Text Generation
+title: CERET&#58; Cost-effective Extrinsic Refinement For Text Generation
 authors: Cai Jason, Su Hang, Sunkara Monica, Shalyminov Igor, Mansour Saab
 conference: "Arxiv"
 year: 2024

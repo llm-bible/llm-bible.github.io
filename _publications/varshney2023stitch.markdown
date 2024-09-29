@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Stitch In Time Saves Nine\: Detecting And Mitigating Hallucinations Of Llms By Validating Low-confidence Generation
+title: A Stitch In Time Saves Nine&#58; Detecting And Mitigating Hallucinations Of Llms By Validating Low-confidence Generation
 authors: Varshney Neeraj, Yao Wenlin, Zhang Hongming, Chen Jianshu, Yu Dong
 conference: "Arxiv"
 year: 2023

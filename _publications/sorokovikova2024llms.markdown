@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llms Simulate Big Five Personality Traits\: Further Evidence
+title: Llms Simulate Big Five Personality Traits&#58; Further Evidence
 authors: Sorokovikova Aleksandra, Fedorova Natalia, Rezagholi Sharwin, Yamshchikov Ivan P.
 conference: "Arxiv"
 year: 2024

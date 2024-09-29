@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ts-align\: A Teacher-student Collaborative Framework For Scalable Iterative Finetuning Of Large Language Models
+title: Ts-align&#58; A Teacher-student Collaborative Framework For Scalable Iterative Finetuning Of Large Language Models
 authors: Zhang Chen, Tang Chengguang, Chong Dading, Shi Ke, Tang Guohua, Jiang Feng, Li Haizhou
 conference: "Arxiv"
 year: 2024

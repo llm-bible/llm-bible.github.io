@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Smileyllama\: Modifying Large Language Models For Directed Chemical Space Exploration
+title: Smileyllama&#58; Modifying Large Language Models For Directed Chemical Space Exploration
 authors: Cavanagh Joseph M., Sun Kunyang, Gritsevskiy Andrew, Bagni Dorian, Bannister Thomas D., Head-gordon Teresa
 conference: "Arxiv"
 year: 2024

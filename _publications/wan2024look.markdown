@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LOOK-M\: Look-once Optimization In KV Cache For Efficient Multimodal Long-context Inference
+title: LOOK-M&#58; Look-once Optimization In KV Cache For Efficient Multimodal Long-context Inference
 authors: Wan Zhongwei, Wu Ziang, Liu Che, Huang Jinfa, Zhu Zhihong, Jin Peng, Wang Longyue, Yuan Li
 conference: "Arxiv"
 year: 2024

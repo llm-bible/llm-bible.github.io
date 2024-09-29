@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: IGOT\: Information Gain Optimized Tokenizer On Domain Adaptive Pretraining
+title: IGOT&#58; Information Gain Optimized Tokenizer On Domain Adaptive Pretraining
 authors: Feng Dawei, Zhang Yihai, Xu Zhixuan
 conference: "Arxiv"
 year: 2024

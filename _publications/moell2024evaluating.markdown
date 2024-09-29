@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Large Language Models With Human Feedback\: Establishing A Swedish Benchmark
+title: Evaluating Large Language Models With Human Feedback&#58; Establishing A Swedish Benchmark
 authors: Moell Birger
 conference: "Arxiv"
 year: 2024

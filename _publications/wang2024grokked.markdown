@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Grokked Transformers Are Implicit Reasoners\: A Mechanistic Journey To The Edge Of Generalization
+title: Grokked Transformers Are Implicit Reasoners&#58; A Mechanistic Journey To The Edge Of Generalization
 authors: Wang Boshi, Yue Xiang, Su Yu, Sun Huan
 conference: "Arxiv"
 year: 2024

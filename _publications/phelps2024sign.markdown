@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sign Of The Times\: Evaluating The Use Of Large Language Models For Idiomaticity Detection
+title: Sign Of The Times&#58; Evaluating The Use Of Large Language Models For Idiomaticity Detection
 authors: Phelps Dylan, Pickard Thomas, Mi Maggie, Gow-smith Edward, Villavicencio Aline
 conference: "Arxiv"
 year: 2024

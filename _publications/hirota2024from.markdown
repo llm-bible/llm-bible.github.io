@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Descriptive Richness To Bias\: Unveiling The Dark Side Of Generative Image Caption Enrichment
+title: From Descriptive Richness To Bias&#58; Unveiling The Dark Side Of Generative Image Caption Enrichment
 authors: Hirota Yusuke, Hachiuma Ryo, Yang Chao-han Huck, Nakashima Yuta
 conference: "Arxiv"
 year: 2024

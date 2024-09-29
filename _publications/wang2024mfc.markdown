@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mfc-bench\: Benchmarking Multimodal Fact-checking With Large Vision-language Models
+title: Mfc-bench&#58; Benchmarking Multimodal Fact-checking With Large Vision-language Models
 authors: Wang Shengkang, Lin Hongzhan, Luo Ziyang, Ye Zhen, Chen Guang, Ma Jing
 conference: "Arxiv"
 year: 2024

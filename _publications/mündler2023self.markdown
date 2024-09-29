@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-contradictory Hallucinations Of Large Language Models\: Evaluation, Detection And Mitigation
+title: Self-contradictory Hallucinations Of Large Language Models&#58; Evaluation, Detection And Mitigation
 authors: Mündler Niels, He Jingxuan, Jenko Slobodan, Vechev Martin
 conference: "Arxiv"
 year: 2023

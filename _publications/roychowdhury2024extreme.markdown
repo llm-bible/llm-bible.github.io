@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ERATTA\: Extreme RAG For Table To Answers With Large Language Models
+title: ERATTA&#58; Extreme RAG For Table To Answers With Large Language Models
 authors: Roychowdhury Sohini, Krema Marko, Mahammad Anvar, Moore Brian, Mukherjee Arijit, Prakashchandra Punit
 conference: "Arxiv"
 year: 2024

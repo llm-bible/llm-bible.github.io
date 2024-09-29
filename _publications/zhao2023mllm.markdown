@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mllm-dataengine\: An Iterative Refinement Approach For MLLM
+title: Mllm-dataengine&#58; An Iterative Refinement Approach For MLLM
 authors: Zhao Zhiyuan, Ouyang Linke, Wang Bin, Huang Siyuan, Zhang Pan, Dong Xiaoyi, Wang Jiaqi, He Conghui
 conference: "Arxiv"
 year: 2023

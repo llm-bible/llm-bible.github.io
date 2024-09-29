@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hybrid Preference Optimization\: Augmenting Direct Preference Optimization With Auxiliary Objectives
+title: Hybrid Preference Optimization&#58; Augmenting Direct Preference Optimization With Auxiliary Objectives
 authors: Badrinath Anirudhan, Agarwal Prabhat, Xu Jiajing
 conference: "Arxiv"
 year: 2024

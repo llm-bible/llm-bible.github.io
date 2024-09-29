@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automating Code-related Tasks Through Transformers\: The Impact Of Pre-training
+title: Automating Code-related Tasks Through Transformers&#58; The Impact Of Pre-training
 authors: Tufano Rosalia, Pascarella Luca, Bavota Gabriele
 conference: "Arxiv"
 year: 2023

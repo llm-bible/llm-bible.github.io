@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Uni-nlx\: Unifying Textual Explanations For Vision And Vision-language Tasks
+title: Uni-nlx&#58; Unifying Textual Explanations For Vision And Vision-language Tasks
 authors: Sammani Fawaz, Deligiannis Nikos
 conference: "Arxiv"
 year: 2023

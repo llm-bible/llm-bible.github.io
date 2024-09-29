@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Emulated Disalignment\: Safety Alignment For Large Language Models May Backfire!
+title: Emulated Disalignment&#58; Safety Alignment For Large Language Models May Backfire!
 authors: Zhou Zhanhui, Liu Jie, Dong Zhichen, Liu Jiaheng, Yang Chao, Ouyang Wanli, Qiao Yu
 conference: "Arxiv"
 year: 2024

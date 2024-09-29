@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llms Instruct Llms\:an Extraction And Editing Method
+title: Llms Instruct Llms&#58;an Extraction And Editing Method
 authors: Zhang Xin, Ju Tianjie, Liang Huijia, Fu Ying, Zhang Qin
 conference: "Arxiv"
 year: 2024

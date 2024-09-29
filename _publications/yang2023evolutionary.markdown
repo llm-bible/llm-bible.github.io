@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instoptima\: Evolutionary Multi-objective Instruction Optimization Via Large Language Model-based Instruction Operators
+title: Instoptima&#58; Evolutionary Multi-objective Instruction Optimization Via Large Language Model-based Instruction Operators
 authors: Yang Heng, Li Ke
 conference: "Arxiv"
 year: 2023

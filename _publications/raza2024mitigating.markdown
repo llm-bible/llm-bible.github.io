@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MBIAS\: Mitigating Bias In Large Language Models While Retaining Context
+title: MBIAS&#58; Mitigating Bias In Large Language Models While Retaining Context
 authors: Raza Shaina, Raval Ananya, Chatrath Veronica
 conference: "Arxiv"
 year: 2024

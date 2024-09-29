@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Advancing Transformer Architecture In Long-context Large Language Models\: A Comprehensive Survey
+title: Advancing Transformer Architecture In Long-context Large Language Models&#58; A Comprehensive Survey
 authors: Huang Yunpeng, Xu Jingwei, Lai Junyu, Jiang Zixu, Chen Taolue, Li Zenan, Yao Yuan, Ma Xiaoxing, Yang Lijuan, Chen Hao, Li Shupeng, Zhao Penghao
 conference: "Arxiv"
 year: 2023

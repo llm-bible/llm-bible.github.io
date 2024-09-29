@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: NLP-IIS&#64;UT At Semeval-2021 Task 4\: Machine Reading Comprehension Using The Long Document Transformer
+title: NLP-IIS&#64;UT At Semeval-2021 Task 4&#58; Machine Reading Comprehension Using The Long Document Transformer
 authors: Basafa Hossein, Movahedi Sajad, Ebrahimi Ali, Shakery Azadeh, Faili Heshaam
 conference: "Arxiv"
 year: 2021
