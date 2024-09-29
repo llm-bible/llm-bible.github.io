@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GPT-3.5 GPT-4 or BARD Evaluating alms Reasoning Ability in Zero-Shot Setting and Performance Boosting Through Prompts
+title: GPT-3.5 GPT-4 or BARD Evaluating LLMs Reasoning Ability in Zero-Shot Setting and Performance Boosting Through Prompts
 authors: Espejel Jessica López, Ettifouri El Hassane, Alassan Mahaman Sanoussi Yahaya, Chouham El Mehdi, Dahhane Walid
 conference: "Arxiv"
 year: 2023

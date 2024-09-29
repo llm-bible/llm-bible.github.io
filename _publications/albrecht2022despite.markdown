@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Despite super-human performance current LLMs are unsuited for decisions about ethics and safety
+title: Despite quot;super-humanquot; Performances Current Llms Are Unsuited For Decisions About Ethics And Safety
 authors: Albrecht Joshua, Kitanidis Ellie, Fetterman Abraham J.
 conference: "Arxiv"
 year: 2022

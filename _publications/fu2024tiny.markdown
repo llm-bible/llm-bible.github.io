@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tiny titans Can Smaller Large Language Models Punch Above Their Weight in the Real World for Meeting Summarization
+title: Tiny Titans Can Smaller Large Language Models Punch Above Their Weight in the Real World for Meeting Summarization
 authors: Fu Xue-yong, Laskar Md Tahmid Rahman, Khasanova Elena, Chen Cheng, Tn Shashi Bhushan
 conference: "Arxiv"
 year: 2024

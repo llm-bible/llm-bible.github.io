@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can get Redefine Medical Understanding Evaluating get on Biomedical Machine Reading Comprehension
+title: Can GPT Redefine Medical Understanding Evaluating GPT on Biomedical Machine Reading Comprehension
 authors: Vatsal Shubham, Singh Ayush
 conference: "Arxiv"
 year: 2024

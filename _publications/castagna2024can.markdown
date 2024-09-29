@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can formal argumentative reasoning enhance alms performances
+title: Can formal argumentative reasoning enhance LLMs performances
 authors: Castagna Federico, Sassoon Isabel, Parsons Simon
 conference: "Arxiv"
 year: 2024

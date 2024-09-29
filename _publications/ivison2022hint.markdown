@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: HINT Hypernetwork Instruction Tuning for Efficient Zero- Few-Shot Generalisation
+title: HINT Hypernetwork Instruction Tuning For Efficient Zero- amp; Few-shot Generalisation
 authors: Ivison Hamish, Bhagia Akshita, Wang Yizhong, Hajishirzi Hannaneh, Peters Matthew
 conference: "Arxiv"
 year: 2022

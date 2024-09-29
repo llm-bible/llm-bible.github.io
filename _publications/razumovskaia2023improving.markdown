@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Factuality of Information-Seeking Dialogue via behavioral Fine-Tuning
+title: Improving Factuality Of Information-seeking Dialogue Via Behavioural Fine-tuning
 authors: Razumovskaia Evgeniia, Vulić Ivan, Marković Pavle, Cichy Tomasz, Zheng Qian, Wen Tsung-hsien, Budzianowski Paweł
 conference: "Arxiv"
 year: 2023

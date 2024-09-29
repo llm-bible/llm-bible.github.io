@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can we trust the evaluation on catgut
+title: Can we trust the evaluation on ChatGPT
 authors: Aiyappa Rachith, An Jisun, Kwak Haewoon, Ahn Yong-yeol
 conference: "Proceedings of the"
 year: 2023

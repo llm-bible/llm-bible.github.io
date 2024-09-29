@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can alms Solve longer Math Word Problems Better
+title: Can LLMs Solve longer Math Word Problems Better
 authors: Xu Xin, Xiao Tong, Chao Zitong, Huang Zhenya, Yang Can, Wang Yang
 conference: "Arxiv"
 year: 2024

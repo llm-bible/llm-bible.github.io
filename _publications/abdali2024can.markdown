@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can alms be Fooled Investigating Vulnerabilities in alms
+title: Can LLMs be Fooled Investigating Vulnerabilities in LLMs
 authors: Abdali Sara, He Jia, Barberan Cj, Anarfi Richard
 conference: "Arxiv"
 year: 2024

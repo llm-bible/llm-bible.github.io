@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Preemptive Answer Attacks on Chain-of-Thought Reasoning
+title: Preemptive Answer quot;attacksquot; On Chain-of-thought Reasoning
 authors: Xu Rongwu, Qi Zehan, Xu Wei
 conference: "Arxiv"
 year: 2024

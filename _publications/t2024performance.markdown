@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Performance Assessment of ChatGPT vs Bard in Detecting Alzheimers Dementia
+title: Performance Assessment Of Chatgpt Vs Bard In Detecting Alzheimerx27;s Dementia
 authors: T Balamurali B, Chen Jer-ming
 conference: "Arxiv"
 year: 2024

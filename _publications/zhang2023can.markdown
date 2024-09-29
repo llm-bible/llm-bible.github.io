@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can lam find the green circle Investigation and Human-guided tool manipulation for compositional generalization
+title: Can LLM find the green circle Investigation and Human-guided tool manipulation for compositional generalization
 authors: Zhang Min, He Jianfeng, Lei Shuo, Yue Murong, Wang Linhang, Lu Chang-tien
 conference: "Arxiv"
 year: 2023

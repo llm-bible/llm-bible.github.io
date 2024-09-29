@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Analyzing and Adapting Large Language Models for Few-Shot Multilingual blue Are We There Yet
+title: Analyzing and Adapting Large Language Models for Few-Shot Multilingual NLU Are We There Yet
 authors: Razumovskaia Evgeniia, Vulić Ivan, Korhonen Anna
 conference: "Arxiv"
 year: 2024

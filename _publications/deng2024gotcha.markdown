@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gotcha! Dont trick me with unanswerable questions! Self-aligning Large Language Models for Responding to Unknown Questions
+title: Gotcha! Donx27;t Trick Me With Unanswerable Questions! Self-aligning Large Language Models For Responding To Unknown Questions
 authors: Deng Yang, Zhao Yong, Li Moxin, Ng See-kiong, Chua Tat-seng
 conference: "Arxiv"
 year: 2024

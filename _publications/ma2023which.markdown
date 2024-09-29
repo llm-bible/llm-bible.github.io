@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: At Which Training Stage Does Code Data Help alms Reasoning
+title: At Which Training Stage Does Code Data Help LLMs Reasoning
 authors: Ma Yingwei, Liu Yue, Yu Yue, Zhang Yuanliang, Jiang Yu, Wang Changjian, Li Shanshan
 conference: "Arxiv"
 year: 2023

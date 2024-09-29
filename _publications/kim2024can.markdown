@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Language Models Evaluate Human Written Text Case Study on korea Student Writing for Education
+title: Can Language Models Evaluate Human Written Text Case Study on Korean Student Writing for Education
 authors: Kim Seungyoon, Kim Seungone
 conference: "Arxiv"
 year: 2024

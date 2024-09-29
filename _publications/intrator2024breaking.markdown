@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Breaking the Language barrier Can Direct Inference Outperform Pre-Translation in Multilingual lam Applications
+title: Breaking the Language Barrier Can Direct Inference Outperform Pre-Translation in Multilingual LLM Applications
 authors: Intrator Yotam, Halfon Matan, Goldenberg Roman, Tsarfaty Reut, Eyal Matan, Rivlin Ehud, Matias Yossi, Aizenberg Natalia
 conference: "Arxiv"
 year: 2024

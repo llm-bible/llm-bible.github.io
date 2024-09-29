@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Hedgehog the Porcupine Expressive Linear Attentions with Softmax Mimicry
+title: The Hedgehog amp; The Porcupine Expressive Linear Attentions With Softmax Mimicry
 authors: Zhang Michael, Bhatia Kush, Kumbong Hermann, Ré Christopher
 conference: "Arxiv"
 year: 2024

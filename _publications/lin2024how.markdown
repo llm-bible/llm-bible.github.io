@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Can I Get It Right Using get to Rephrase Incorrect Trainee Responses
+title: How Can I Get It Right Using GPT to Rephrase Incorrect Trainee Responses
 authors: Lin Jionghao, Han Zifei, Thomas Danielle R., Gurung Ashish, Gupta Shivang, Aleven Vincent, Koedinger Kenneth R.
 conference: "Arxiv"
 year: 2024

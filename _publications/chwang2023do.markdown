@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Androids Know Theyre Only Dreaming of Electric Sheep
+title: Do Androids Know Theyx27;re Only Dreaming Of Electric Sheep
 authors: Ch-wang Sky, Van Durme Benjamin, Eisner Jason, Kedzie Chris
 conference: "Arxiv"
 year: 2023

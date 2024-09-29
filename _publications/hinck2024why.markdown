@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Why do lava Vision-Language Models Reply to Images in English
+title: Why do LLaVA Vision-Language Models Reply to Images in English
 authors: Hinck Musashi, Holtermann Carolin, Olson Matthew Lyle, Schneider Florian, Yu Sungduk, Bhiwandiwalla Anahita, Lauscher Anne, Tseng Shaoyen, Lal Vasudev
 conference: "Arxiv"
 year: 2024

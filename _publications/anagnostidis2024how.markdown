@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Susceptible are alms to Influence in Prompts
+title: How Susceptible are LLMs to Influence in Prompts
 authors: Anagnostidis Sotiris, Bulian Jannis
 conference: "Arxiv"
 year: 2024

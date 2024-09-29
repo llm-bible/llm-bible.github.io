@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: All Thats Human Is Not Gold Evaluating Human Evaluation of Generated Text
+title: All Thatx27;s x27;humanx27; Is Not Gold Evaluating Human Evaluation Of Generated Text
 authors: Clark Elizabeth, August Tal, Serrano Sofia, Haduong Nikita, Gururangan Suchin, Smith Noah A.
 conference: "Arxiv"
 year: 2021

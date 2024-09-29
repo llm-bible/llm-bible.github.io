@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What does best Learn from Multiple-Choice Reading Comprehension Datasets
+title: What does BERT Learn from Multiple-Choice Reading Comprehension Datasets
 authors: Si Chenglei, Wang Shuohang, Kan Min-yen, Jiang Jing
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Multimodal In-Context Learning for Vision Language Models
+title: Towards Multimodal In-context Learning For Vision amp; Language Models
 authors: Doveh Sivan, Perek Shaked, Mirza M. Jehanzeb, Lin Wei, Alfassy Amit, Arbelle Assaf, Ullman Shimon, Karlinsky Leonid
 conference: "Arxiv"
 year: 2024

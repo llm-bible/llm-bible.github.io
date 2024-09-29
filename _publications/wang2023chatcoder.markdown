@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChatCoder Chat-based Refine Requirement Improves LLMs Code Generation
+title: Chatcoder Chat-based Refine Requirement Improves Llmsx27; Code Generation
 authors: Wang Zejun, Li Jia, Li Ge, Jin Zhi
 conference: "Arxiv"
 year: 2023

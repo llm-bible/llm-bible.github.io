@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Decoding by Contrasting Knowledge Enhancing LLMs Confidence on Edited Facts
+title: Decoding By Contrasting Knowledge Enhancing Llmsx27; Confidence On Edited Facts
 authors: Bi Baolong, Liu Shenghua, Mei Lingrui, Wang Yiwei, Ji Pengliang, Cheng Xueqi
 conference: "Arxiv"
 year: 2024

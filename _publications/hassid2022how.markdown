@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Much Does Attention Actually Attend Questioning the Importance of Attention in retrained Transformers
+title: How Much Does Attention Actually Attend Questioning the Importance of Attention in Pretrained Transformers
 authors: Hassid Michael, Peng Hao, Rotem Daniel, Kasai Jungo, Montero Ivan, Smith Noah A., Schwartz Roy
 conference: "Arxiv"
 year: 2022

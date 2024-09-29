@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pairing Analogy-Augmented Generation with Procedural Memory for Procedural QA
+title: Pairing Analogy-augmented Generation With Procedural Memory For Procedural Qamp;a
 authors: Roth K, Gupta Rushil, Halle Simon, Liu Bang
 conference: "Arxiv"
 year: 2024

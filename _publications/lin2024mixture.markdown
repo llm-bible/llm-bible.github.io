@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mixture of In-Context Experts Enhance LLMs Long Context Awareness
+title: Mixture Of In-context Experts Enhance Llmsx27; Long Context Awareness
 authors: Lin Hongzhan, Lv Ang, Chen Yuhan, Zhu Chen, Song Yang, Zhu Hengshu, Yan Rui
 conference: "Arxiv"
 year: 2024

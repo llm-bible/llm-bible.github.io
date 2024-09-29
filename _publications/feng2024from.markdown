@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From restraining Corpora to Large Language models What Factors Influence lam Performance in Causal Discovery Tasks
+title: From Pre-training Corpora to Large Language Models What Factors Influence LLM Performance in Causal Discovery Tasks
 authors: Feng Tao, Qu Lizhen, Tandon Niket, Li Zhuang, Kang Xiaoxi, Haffari Gholamreza
 conference: "Arxiv"
 year: 2024

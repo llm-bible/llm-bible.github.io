@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chain-of-Thought Hub A Continuous Effort to Measure Large Language Models Reasoning Performance
+title: Chain-of-thought Hub A Continuous Effort To Measure Large Language Modelsx27; Reasoning Performance
 authors: Fu Yao, Ou Litu, Chen Mingyu, Wan Yuhao, Peng Hao, Khot Tushar
 conference: "Arxiv"
 year: 2023

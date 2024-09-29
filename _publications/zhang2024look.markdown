@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Look Ahead or Look Around A Theoretical Comparison Between Autoregressive and Masked retraining
+title: Look Ahead or Look Around A Theoretical Comparison Between Autoregressive and Masked Pretraining
 authors: Zhang Qi, Du Tianqi, Huang Haotian, Wang Yifei, Wang Yisen
 conference: "Arxiv"
 year: 2024

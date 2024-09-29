@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Free to play UN Trade and Developments experience with developing its own open-source Retrieval Augmented Generation Large Language Model application
+title: Free To Play UN Trade And Developmentx27;s Experience With Developing Its Own Open-source Retrieval Augmented Generation Large Language Model Application
 authors: Hopp Daniel
 conference: "Arxiv"
 year: 2024

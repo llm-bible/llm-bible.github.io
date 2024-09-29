@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: To what extent is catgut useful for language teacher lesson plan creation
+title: To what extent is ChatGPT useful for language teacher lesson plan creation
 authors: Dornburg Alex, Davin Kristin
 conference: "Arxiv"
 year: 2024

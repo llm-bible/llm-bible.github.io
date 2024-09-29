@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChatASU Evoking LLMs Reflexion to Truly Understand Aspect Sentiment in Dialogues
+title: Chatasu Evoking Llmx27;s Reflexion To Truly Understand Aspect Sentiment In Dialogues
 authors: Liu Yiding, Wang Jingjing, Luo Jiamin, Zeng Tao, Zhou Guodong
 conference: "Arxiv"
 year: 2024

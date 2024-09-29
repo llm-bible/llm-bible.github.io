@@ -1,0 +1,12 @@
+---
+layout: publication
+title: Taamp;at Enhancing Task-oriented Dialog With Turn-level Auxiliary Tasks And Action-tree Based Scheduled Sampling
+authors: Liu Longxiang, Li Xiuxing, Feng Yang
+conference: "Arxiv"
+year: 2024
+bibkey: liu2024taampat
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2401.15626"}
+tags: ['Pretraining Methods', 'Reinforcement Learning', 'Training Techniques']
+---
+Task-oriented dialog systems have witnessed substantial progress due to conversational pre-training techniques. Yet two significant challenges persist. First most systems primarily utilize the latest turns state label for the generator. This practice overlooks the comprehensive value of state labels in boosting the models understanding for future generations. Second an overreliance on generated policy often leads to error accumulation resulting in suboptimal responses when adhering to incorrect actions. To combat these challenges we propose turn-level multi-task objectives for the encoder. With the guidance of essential information from labeled intermediate states we establish a more robust representation for both understanding and generation. For the decoder we introduce an action tree-based scheduled sampling technique. Specifically we model the hierarchical policy as trees and utilize the similarity between trees to sample negative policy based on scheduled sampling hoping the model to generate invariant responses under perturbations. This method simulates potential pitfalls by sampling similar negative policy bridging the gap between task-oriented dialog training and inference. Among methods without continual pre-training our approach achieved state-of-the-art (SOTA) performance on the MultiWOZ dataset series and was also competitive with pre-trained SOTA methods.

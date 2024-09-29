@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring the Responses of Large Language Models to Beginner Programmers Help Requests
+title: Exploring The Responses Of Large Language Models To Beginner Programmersx27; Help Requests
 authors: Hellas Arto, Leinonen Juho, Sarsa Sami, Koutcheme Charles, Kujanpää Lilja, Sorva Juha
 conference: "Arxiv"
 year: 2023

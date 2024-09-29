@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can alms Learn by Teaching A Preliminary Study
+title: Can LLMs Learn by Teaching A Preliminary Study
 authors: Ning Xuefei, Wang Zifu, Li Shiyao, Lin Zinan, Yao Peiran, Fu Tianyu, Blaschko Matthew B., Dai Guohao, Yang Huazhong, Wang Yu
 conference: "Arxiv"
 year: 2024

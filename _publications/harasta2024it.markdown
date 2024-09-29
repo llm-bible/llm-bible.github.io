@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: It Cannot Be Right If It Was Written by AI On Lawyers Preferences of Documents Perceived as Authored by an LLM vs a Human
+title: It Cannot Be Right If It Was Written By AI On Lawyersx27; Preferences Of Documents Perceived As Authored By An LLM Vs A Human
 authors: Harasta Jakub, Novotná Tereza, Savelka Jaromir
 conference: "Arxiv"
 year: 2024

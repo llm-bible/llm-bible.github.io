@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MM1 Methods Analysis Insights from Multimodal LLM Pre-training
+title: MM1 Methods Analysis amp; Insights From Multimodal LLM Pre-training
 authors: Mckinzie Brandon, Gan Zhe, Fauconnier Jean-philippe, Dodge Sam, Zhang Bowen, Dufter Philipp, Shah Dhruti, Du Xianzhi, Peng Futang, Weers Floris, Belyi Anton, Zhang Haotian, Singh Karanjeet, Kang Doug, Jain Ankur, Hè Hongyu, Schwarzer Max, Gunter Tom, Kong Xiang, Zhang Aonan, Wang Jianyu, Wang Chong, Du Nan, Lei Tao, Wiseman Sam, Yin Guoli, Lee Mark, Wang Zirui, Pang Ruoming, Grasch Peter, Toshev Alexander, Yang Yinfei
 conference: "Arxiv"
 year: 2024

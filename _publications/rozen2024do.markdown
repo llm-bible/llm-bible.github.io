@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do alms have Consistent Values
+title: Do LLMs have Consistent Values
 authors: Rozen Naama, Elidan Gal, Globerson Amir, Daniel Ella
 conference: "Arxiv"
 year: 2024

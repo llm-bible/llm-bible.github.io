@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BJTU-WeChats Systems for the WMT22 Chat Translation Task
+title: Bjtu-wechatx27;s Systems For The WMT22 Chat Translation Task
 authors: Liang Yunlong, Meng Fandong, Xu Jinan, Chen Yufeng, Zhou Jie
 conference: "Arxiv"
 year: 2022

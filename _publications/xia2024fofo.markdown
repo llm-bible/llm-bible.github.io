@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FOFO A Benchmark to Evaluate LLMs Format-Following Capability
+title: FOFO A Benchmark To Evaluate Llmsx27; Format-following Capability
 authors: Xia Congying, Xing Chen, Du Jiangshu, Yang Xinyi, Feng Yihao, Xu Ran, Yin Wenpeng, Xiong Caiming
 conference: "Arxiv"
 year: 2024

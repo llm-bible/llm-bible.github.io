@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: -GLAT Glancing at Latent Variables for Parallel Text Generation
+title: -GLAT Glancing At Latent Variables For Parallel Text Generation
 authors: Bao Yu, Zhou Hao, Huang Shujian, Wang Dongqi, Qian Lihua, Dai Xinyu, Chen Jiajun, Li Lei
 conference: "Arxiv"
 year: 2022

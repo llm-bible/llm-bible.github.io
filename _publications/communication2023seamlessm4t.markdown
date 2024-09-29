@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SeamlessM4T Massively Multilingual Multimodal Machine Translation
+title: Seamlessm4t Massively Multilingual amp; Multimodal Machine Translation
 authors: Communication Seamless, Barrault Loïc, Chung Yu-an, Meglioli Mariano Cora, Dale David, Dong Ning, Duquenne Paul-ambroise, Elsahar Hady, Gong Hongyu, Heffernan Kevin, Hoffman John, Klaiber Christopher, Li Pengwei, Licht Daniel, Maillard Jean, Rakotoarison Alice, Sadagopan Kaushik Ram, Wenzek Guillaume, Ye Ethan, Akula Bapi, Chen Peng-jen, Hachem Naji El, Ellis Brian, Gonzalez Gabriel Mejia, Haaheim Justin, Hansanti Prangthip, Howes Russ, Huang Bernie, Hwang Min-jae, Inaguma Hirofumi, Jain Somya, Kalbassi Elahe, Kallet Amanda, Kulikov Ilia, Lam Janice, Li Daniel, Ma Xutai, Mavlyutov Ruslan, Peloquin Benjamin, Ramadan Mohamed, Ramakrishnan Abinesh, Sun Anna, Tran Kevin, Tran Tuan, Tufanov Igor, Vogeti Vish, Wood Carleigh, Yang Yilin, Yu Bokai, Andrews Pierre, Balioglu Can, Costa-jussà Marta R., Celebi Onur, Elbayad Maha, Gao Cynthia, Guzmán Francisco, Kao Justine, Lee Ann, Mourachko Alexandre, Pino Juan, Popuri Sravya, Ropers Christophe, Saleem Safiyyah, Schwenk Holger, Tomasello Paden, Wang Changhan, Wang Jeff, Wang Skyler
 conference: "Arxiv"
 year: 2023

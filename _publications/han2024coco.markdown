@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: COCO is ALL You Need for Visual Instruction Fine-tuning
+title: COCO Is quot;allx27;x27; You Need For Visual Instruction Fine-tuning
 authors: Han Xiaotian, Wang Yiqi, Zhai Bohan, You Quanzeng, Yang Hongxia
 conference: "Arxiv"
 year: 2024

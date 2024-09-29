@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MME-RealWorld Could Your multivocal lam Challenge High-Resolution Real-World Scenarios that are Difficult for Humans
+title: MME-RealWorld Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans
 authors: Zhang Yi-fan, Zhang Huanyu, Tian Haochen, Fu Chaoyou, Zhang Shuangqing, Wu Junfei, Li Feng, Wang Kun, Wen Qingsong, Zhang Zhang, Wang Liang, Jin Rong, Tan Tieniu
 conference: "Arxiv"
 year: 2024

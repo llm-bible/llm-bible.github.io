@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Sentence is Worth a Thousand pictures Can Large Language Models Understand human language and the world behind words
+title: A Sentence is Worth a Thousand Pictures Can Large Language Models Understand Hum4n L4ngu4ge and the W0rld behind W0rds
 authors: Leivada Evelina, Marcus Gary, Günther Fritz, Murphy Elliot
 conference: "Arxiv"
 year: 2023

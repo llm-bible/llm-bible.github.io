@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What In-Context Learning Learns In-Context Disentangling Task Recognition and Task Learning
+title: What In-context Learning quot;learnsquot; In-context Disentangling Task Recognition And Task Learning
 authors: Pan Jane, Gao Tianyu, Chen Howard, Chen Danqi
 conference: "Arxiv"
 year: 2023

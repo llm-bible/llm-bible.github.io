@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exposing the Achilles Heel Evaluating LLMs Ability to Handle Mistakes in Mathematical Reasoning
+title: Exposing The Achillesx27; Heel Evaluating Llms Ability To Handle Mistakes In Mathematical Reasoning
 authors: Singh Joykirat, Nambi Akshay, Vineet Vibhav
 conference: "Arxiv"
 year: 2024

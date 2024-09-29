@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Empirical evidence of Large Language Models influence on human spoken communication
+title: Empirical Evidence Of Large Language Modelx27;s Influence On Human Spoken Communication
 authors: Yakura Hiromu, Lopez-lopez Ezequiel, Brinkmann Levin, Serna Ignacio, Gupta Prateek, Rahwan Iyad
 conference: "Arxiv"
 year: 2024

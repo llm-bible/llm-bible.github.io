@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can catgut Understand Too A Comparative Study on catgut and Fine-tuned best
+title: Can ChatGPT Understand Too A Comparative Study on ChatGPT and Fine-tuned BERT
 authors: Zhong Qihuang, Ding Liang, Liu Juhua, Du Bo, Tao Dacheng
 conference: "Arxiv"
 year: 2023

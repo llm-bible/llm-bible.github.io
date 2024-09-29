@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Telling BERTs full story from Local Attention to Global Aggregation
+title: Telling Bertx27;s Full Story From Local Attention To Global Aggregation
 authors: Pascual Damian, Brunner Gino, Wattenhofer Roger
 conference: "Arxiv"
 year: 2020

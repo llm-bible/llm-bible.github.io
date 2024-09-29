@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is catgut a Good multiparty Conversation Solver
+title: Is ChatGPT a Good Multi-Party Conversation Solver
 authors: Tan Chao-hong, Gu Jia-chen, Ling Zhen-hua
 conference: "Arxiv"
 year: 2023

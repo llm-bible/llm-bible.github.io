@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can OpenSource beat catgut i A Comparative Study of Large Language Models for Text-to-Code Generation
+title: Can OpenSource beat ChatGPT -- A Comparative Study of Large Language Models for Text-to-Code Generation
 authors: Mayer Luis, Heumann Christian, Aßenmacher Matthias
 conference: "Arxiv"
 year: 2024

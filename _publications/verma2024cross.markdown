@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cross-Modal Projection in Multimodal LLMs Doesnt Really Project Visual Attributes to Textual Space
+title: Cross-modal Projection In Multimodal Llms Doesnx27;t Really Project Visual Attributes To Textual Space
 authors: Verma Gaurav, Choi Minje, Sharma Kartik, Watson-daniels Jamelle, Oh Sejoon, Kumar Srijan
 conference: "Arxiv"
 year: 2024

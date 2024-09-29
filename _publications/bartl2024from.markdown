@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Showgirls to Performers Fine-tuning with Gender-inclusive Language for Bias Reduction in LLMs
+title: From x27;showgirlsx27; To x27;performersx27; Fine-tuning With Gender-inclusive Language For Bias Reduction In Llms
 authors: Bartl Marion, Leavy Susan
 conference: "Arxiv"
 year: 2024

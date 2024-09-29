@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: newton Are Large Language Models Capable of Physical Reasoning
+title: NEWTON Are Large Language Models Capable of Physical Reasoning
 authors: Wang Yi Ru, Duan Jiafei, Fox Dieter, Srinivasa Siddhartha
 conference: "Arxiv"
 year: 2023

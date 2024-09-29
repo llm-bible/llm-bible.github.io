@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Putting GPT-3s Creativity to the (Alternative Uses) Test
+title: Putting Gpt-3x27;s Creativity To The (alternative Uses) Test
 authors: Stevenson Claire, Smal Iris, Baas Matthijs, Grasman Raoul, Van Der Maas Han
 conference: "Arxiv"
 year: 2022

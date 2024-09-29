@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can alms facilitate interpretation of restrained language models
+title: Can LLMs facilitate interpretation of pre-trained language models
 authors: Mousi Basel, Durrani Nadir, Dalvi Fahim
 conference: "Arxiv"
 year: 2023

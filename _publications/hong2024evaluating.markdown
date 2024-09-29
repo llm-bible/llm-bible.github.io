@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating LLMs Mathematical and Coding Competency through Ontology-guided Interventions
+title: Evaluating Llmsx27; Mathematical And Coding Competency Through Ontology-guided Interventions
 authors: Hong Pengfei, Majumder Navonil, Ghosal Deepanway, Aditya Somak, Mihalcea Rada, Poria Soujanya
 conference: "Arxiv"
 year: 2024

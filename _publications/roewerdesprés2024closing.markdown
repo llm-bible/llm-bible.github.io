@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Closing the Commonsense mensurability Gap
+title: Closing The Commonsense Measurability Gap
 authors: Roewer-després François, Feng Jinyue, Zhu Zining, Rudzicz Frank
 conference: "Arxiv"
 year: 2024

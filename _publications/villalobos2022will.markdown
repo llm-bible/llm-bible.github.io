@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Will we run out of data Limits of lam scaling based on human-generated data
+title: Will we run out of data Limits of LLM scaling based on human-generated data
 authors: Villalobos Pablo, Ho Anson, Sevilla Jaime, Besiroglu Tamay, Heim Lennart, Hobbhahn Marius
 conference: "Arxiv"
 year: 2022

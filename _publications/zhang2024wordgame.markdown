@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: WordGame Efficient Effective LLM Jailbreak via Simultaneous Obfuscation in Query and Response
+title: Wordgame Efficient amp; Effective LLM Jailbreak Via Simultaneous Obfuscation In Query And Response
 authors: Zhang Tianrong, Cao Bochuan, Cao Yuanpu, Lin Lu, Mitra Prasenjit, Chen Jinghui
 conference: "Arxiv"
 year: 2024

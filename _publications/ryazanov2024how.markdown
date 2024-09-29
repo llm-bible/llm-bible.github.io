@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How ChatGPT Changed the Medias Narratives on AI A Semi-Automated Narrative Analysis Through Frame Semantics
+title: How Chatgpt Changed The Mediax27;s Narratives On AI A Semi-automated Narrative Analysis Through Frame Semantics
 authors: Ryazanov Igor, Öhman Carl, Björklund Johanna
 conference: "Arxiv"
 year: 2024

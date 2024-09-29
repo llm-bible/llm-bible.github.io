@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DetoxBench Benchmarking Large Language Models for Multitask Fraud Abuse Detection
+title: Detoxbench Benchmarking Large Language Models For Multitask Fraud amp; Abuse Detection
 authors: Chakraborty Joymallya, Xia Wei, Majumder Anirban, Ma Dan, Chaabene Walid, Janvekar Naveed
 conference: "Proceedings of the"
 year: 2024

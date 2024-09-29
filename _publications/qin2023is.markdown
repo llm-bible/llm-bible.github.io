@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is catgut a General-Purpose Natural Language Processing Task Solver
+title: Is ChatGPT a General-Purpose Natural Language Processing Task Solver
 authors: Qin Chengwei, Zhang Aston, Zhang Zhuosheng, Chen Jiaao, Yasunaga Michihiro, Yang Diyi
 conference: "Arxiv"
 year: 2023

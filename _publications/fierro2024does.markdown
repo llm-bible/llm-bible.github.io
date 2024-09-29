@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Does Instruction Tuning Make alms More Consistent
+title: Does Instruction Tuning Make LLMs More Consistent
 authors: Fierro Constanza, Li Jiaang, Søgaard Anders
 conference: "Arxiv"
 year: 2024

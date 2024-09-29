@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are alms classical or nonmonotonic reasoners Lessons from generics
+title: Are LLMs classical or nonmonotonic reasoners Lessons from generics
 authors: Leidinger Alina, Van Rooij Robert, Shutova Ekaterina
 conference: "Arxiv"
 year: 2024

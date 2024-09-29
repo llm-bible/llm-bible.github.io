@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: To code or Not To Code Exploring Impact of Code in restraining
+title: To Code or Not To Code Exploring Impact of Code in Pre-training
 authors: Aryabumi Viraat, Su Yixuan, Ma Raymond, Morisot Adrien, Zhang Ivan, Locatelli Acyr, Fadaee Marzieh, Üstün Ahmet, Hooker Sara
 conference: "Arxiv"
 year: 2024

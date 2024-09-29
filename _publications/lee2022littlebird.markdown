@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LittleBird Efficient Faster Longer Transformer for Question Answering
+title: Littlebird Efficient Faster amp; Longer Transformer For Question Answering
 authors: Lee Minchul, Han Kijong, Shin Myeong Cheol
 conference: "Arxiv"
 year: 2022

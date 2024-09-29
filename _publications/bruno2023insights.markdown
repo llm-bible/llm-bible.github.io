@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Insights into Classifying and Mitigating LLMs Hallucinations
+title: Insights Into Classifying And Mitigating Llmsx27; Hallucinations
 authors: Bruno Alessandro, Mazzeo Pier Luigi, Chetouani Aladine, Tliba Marouane, Kerkouri Mohamed Amine
 conference: "Arxiv"
 year: 2023

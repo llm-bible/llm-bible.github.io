@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automatic Prompt Optimization with Gradient Descent and Beam Search
+title: Automatic Prompt Optimization With quot;gradient Descentquot; And Beam Search
 authors: Pryzant Reid, Iter Dan, Li Jerry, Lee Yin Tat, Zhu Chenguang, Zeng Michael
 conference: "Arxiv"
 year: 2023

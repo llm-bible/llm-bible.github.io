@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating GPT-4s Vision Capabilities on Brazilian University Admission Exams
+title: Evaluating Gpt-4x27;s Vision Capabilities On Brazilian University Admission Exams
 authors: Pires Ramon, Almeida Thales Sales, Abonizio Hugo, Nogueira Rodrigo
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do alms Dream of otologies
+title: Do LLMs Dream of Ontologies
 authors: Bombieri Marco, Fiorini Paolo, Ponzetto Simone Paolo, Rospocher Marco
 conference: "Arxiv"
 year: 2024

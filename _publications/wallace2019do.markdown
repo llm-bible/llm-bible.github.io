@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do nap Models Know Numbers Probing Numeracy in Embeddings
+title: Do NLP Models Know Numbers Probing Numeracy in Embeddings
 authors: Wallace Eric, Wang Yizhong, Li Sujian, Singh Sameer, Gardner Matt
 conference: "Arxiv"
 year: 2019

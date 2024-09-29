@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do alms exhibit human-like response biases A case study in survey design
+title: Do LLMs exhibit human-like response biases A case study in survey design
 authors: Tjuatja Lindia, Chen Valerie, Wu Sherry Tongshuang, Talwalkar Ameet, Neubig Graham
 conference: "Arxiv"
 year: 2023

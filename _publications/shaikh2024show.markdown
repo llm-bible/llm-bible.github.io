@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Show Dont Tell Aligning Language Models with Demonstrated Feedback
+title: Show Donx27;t Tell Aligning Language Models With Demonstrated Feedback
 authors: Shaikh Omar, Lam Michelle, Hejna Joey, Shao Yijia, Bernstein Michael, Yang Diyi
 conference: "Arxiv"
 year: 2024

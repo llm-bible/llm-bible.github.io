@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LiLiuM eBays Large Language Models for e-commerce
+title: Lilium Ebayx27;s Large Language Models For E-commerce
 authors: Herold Christian, Kozielski Michael, Ekimov Leonid, Petrushkov Pavel, Vandenbussche Pierre-yves, Khadivi Shahram
 conference: "Arxiv"
 year: 2024

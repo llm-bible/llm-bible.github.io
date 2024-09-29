@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Co-Writing with Opinionated Language Models Affects Users Views
+title: Co-writing With Opinionated Language Models Affects Usersx27; Views
 authors: Jakesch Maurice, Bhat Advait, Buschek Daniel, Zalmanson Lior, Naaman Mor
 conference: "Proceedings of the"
 year: 2023

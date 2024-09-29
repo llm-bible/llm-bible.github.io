@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluating Large Language Models Ability Using a Psychiatric Screening Tool Based on Metaphor and Sarcasm Scenarios
+title: Evaluating Large Language Modelsx27; Ability Using A Psychiatric Screening Tool Based On Metaphor And Sarcasm Scenarios
 authors: Yakura Hiromu
 conference: "Arxiv"
 year: 2023

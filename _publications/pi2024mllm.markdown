@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MLLM-Protector Ensuring MLLMs Safety without Hurting Performance
+title: Mllm-protector Ensuring Mllmx27;s Safety Without Hurting Performance
 authors: Pi Renjie, Han Tianyang, Zhang Jianshu, Xie Yueqi, Pan Rui, Lian Qing, Dong Hanze, Zhang Jipeng, Zhang Tong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GPT-4 Cant Reason
+title: GPT-4 Canx27;t Reason
 authors: Arkoudas Konstantine
 conference: "Arxiv"
 year: 2023

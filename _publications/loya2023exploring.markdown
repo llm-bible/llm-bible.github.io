@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring the Sensitivity of LLMs Decision-Making Capabilities Insights from Prompt Variation and Hyperparameters
+title: Exploring The Sensitivity Of Llmsx27; Decision-making Capabilities Insights From Prompt Variation And Hyperparameters
 authors: Loya Manikanta, Sinha Divya Anand, Futrell Richard
 conference: "Arxiv"
 year: 2023

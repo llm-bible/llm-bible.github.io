@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Inducing Transformers Compositional Generalization Ability via Auxiliary Sequence Prediction Tasks
+title: Inducing Transformerx27;s Compositional Generalization Ability Via Auxiliary Sequence Prediction Tasks
 authors: Jiang Yichen, Bansal Mohit
 conference: "Arxiv"
 year: 2021

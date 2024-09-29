@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Continual restraining of Large Language models How to prewarm your model
+title: Continual Pre-Training of Large Language Models How to (re)warm your model
 authors: Gupta Kshitij, Thérien Benjamin, Ibrahim Adam, Richter Mats L., Anthony Quentin, Belilovsky Eugene, Rish Irina, Lesort Timothée
 conference: "Arxiv"
 year: 2023

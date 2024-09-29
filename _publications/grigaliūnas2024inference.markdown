@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Inference acceleration for large language models using stairs assisted greedy generation
+title: Inference Acceleration For Large Language Models Using quot;stairsquot; Assisted Greedy Generation
 authors: Grigaliūnas Domas, Lukoševičius Mantas
 conference: "Arxiv"
 year: 2024

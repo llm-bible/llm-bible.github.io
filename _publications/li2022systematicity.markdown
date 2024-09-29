@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Systematicity in GPT-3s Interpretation of Novel English Noun Compounds
+title: Systematicity In Gpt-3x27;s Interpretation Of Novel English Noun Compounds
 authors: Li Siyan, Carlson Riley, Potts Christopher
 conference: "Arxiv"
 year: 2022

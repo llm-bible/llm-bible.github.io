@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Advancing Transformers Capabilities in Commonsense Reasoning
+title: Advancing Transformerx27;s Capabilities In Commonsense Reasoning
 authors: Zhou Yu, Han Yunqiu, Zhou Hanyu, Wu Yulun
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MoRAL MoE Augmented LoRA for LLMs Lifelong Learning
+title: Moral Moe Augmented Lora For Llmsx27; Lifelong Learning
 authors: Yang Shu, Ali Muhammad Asif, Wang Cheng-long, Hu Lijie, Wang Di
 conference: "Arxiv"
 year: 2024

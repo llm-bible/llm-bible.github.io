@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Why Does catgut Fall Short in Providing Truthful Answers
+title: Why Does ChatGPT Fall Short in Providing Truthful Answers
 authors: Shen Zheng, Jie Huang, Kevin Chen-chuan Chang
 conference: "Arxiv"
 year: 2023

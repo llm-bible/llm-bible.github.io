@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Thinking about GPT-3 In-Context Learning for Biomedical i Think Again
+title: Thinking about GPT-3 In-Context Learning for Biomedical IE Think Again
 authors: Gutiérrez Bernal Jiménez, Mcneal Nikolas, Washington Clay, Chen You, Li Lang, Sun Huan, Su Yu
 conference: "Arxiv"
 year: 2022

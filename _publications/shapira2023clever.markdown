@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Clever has or Neural Theory of Mind Stress Testing Social Reasoning in Large Language Models
+title: Clever Hans or Neural Theory of Mind Stress Testing Social Reasoning in Large Language Models
 authors: Natalie Shapira, Mosh Levy, Seyed Hossein Alavi, Xuhui Zhou, Yejin Choi, Yoav Goldberg, Maarten Sap, Vered Shwartz
 conference: "Arxiv"
 year: 2023

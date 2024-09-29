@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Metrics Evaluating LLMs Effectiveness in Culturally Nuanced Low-Resource Real-World Scenarios
+title: Beyond Metrics Evaluating Llmsx27; Effectiveness In Culturally Nuanced Low-resource Real-world Scenarios
 authors: Ochieng Millicent, Gumma Varun, Sitaram Sunayana, Wang Jindong, Chaudhary Vishrav, Ronen Keshet, Bali Kalika, O'neill Jacki
 conference: "Arxiv"
 year: 2024

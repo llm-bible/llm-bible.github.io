@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MathVerse Does Your Multi-modal lam Truly See the Diagrams in Visual Math Problems
+title: MathVerse Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems
 authors: Zhang Renrui, Jiang Dongzhi, Zhang Yichi, Lin Haokun, Guo Ziyu, Qiu Pengshuo, Zhou Aojun, Lu Pan, Chang Kai-wei, Gao Peng, Li Hongsheng
 conference: "Arxiv"
 year: 2024

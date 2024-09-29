@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TST^ Target Similarity Tuning Meets the Real World
+title: TST^ Target Similarity Tuning Meets The Real World
 authors: Khatry Anirudh, Gulwani Sumit, Gupta Priyanshu, Le Vu, Singha Ananya, Singh Mukul, Verbruggen Gust
 conference: "Arxiv"
 year: 2023

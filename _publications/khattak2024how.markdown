@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Good is my Video lam Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs
+title: How Good is my Video LMM Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs
 authors: Khattak Muhammad Uzair, Naeem Muhammad Ferjad, Hassan Jameel, Naseer Muzammal, Tombari Federico, Khan Fahad Shahbaz, Khan Salman
 conference: "Arxiv"
 year: 2024

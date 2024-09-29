@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Chain-of-Thought Prompting Approach with LLMs for Evaluating Students Formative Assessment Responses in Science
+title: A Chain-of-thought Prompting Approach With Llms For Evaluating Studentsx27; Formative Assessment Responses In Science
 authors: Cohn Clayton, Hutchins Nicole, Le Tuan, Biswas Gautam
 conference: "Arxiv"
 year: 2024

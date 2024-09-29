@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Not Quite Ask a Librarian AI on the Nature Value and Future of LIS
+title: Not Quite x27;ask A Librarianx27; AI On The Nature Value And Future Of LIS
 authors: Dinneen Jesse David, Bubinger Helen
 conference: "Arxiv"
 year: 2021

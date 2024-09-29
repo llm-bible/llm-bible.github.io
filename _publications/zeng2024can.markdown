@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can miles Perform Text-to-Image In-Context Learning
+title: Can MLLMs Perform Text-to-Image In-Context Learning
 authors: Zeng Yuchen, Kang Wonjun, Chen Yicong, Koo Hyung Il, Lee Kangwook
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Code Generation of alms by Uncertainty-Aware Selective Contrastive Decoding
+title: Improving Code Generation Of Llms By Uncertainty-aware Selective Contrastive Decoding
 authors: Wang Shuai, Ding Liang, Shen Li, Luo Yong, He Zheng, Yu Wei, Tao Dacheng
 conference: "Arxiv"
 year: 2024

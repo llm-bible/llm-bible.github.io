@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: When Do You Need Billions of Words of retraining Data
+title: When Do You Need Billions of Words of Pretraining Data
 authors: Zhang Yian, Warstadt Alex, Li Haau-sing, Bowman Samuel R.
 conference: "Arxiv"
 year: 2020

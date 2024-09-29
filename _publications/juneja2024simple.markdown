@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ^ A Simple Society of Language Models Solves Complex Reasoning
+title: ^ A Simple Society Of Language Models Solves Complex Reasoning
 authors: Juneja Gurusha, Dutta Subhabrata, Chakraborty Tanmoy
 conference: "Arxiv"
 year: 2024

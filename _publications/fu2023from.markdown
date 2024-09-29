@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Text to Self Users Perceptions of Potential of AI on Interpersonal Communication and Self
+title: From Text To Self Usersx27; Perceptions Of Potential Of AI On Interpersonal Communication And Self
 authors: Fu Yue, Foell Sami, Xu Xuhai, Hiniker Alexis
 conference: "Proceedings of the CHI Conference on Human Factors in Computing Systems"
 year: 2023

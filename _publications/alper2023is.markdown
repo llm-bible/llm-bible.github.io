@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is best Blind Exploring the Effect of Vision-and-Language retraining on Visual Language Understanding
+title: Is BERT Blind Exploring the Effect of Vision-and-Language Pretraining on Visual Language Understanding
 authors: Alper Morris, Fiman Michael, Averbuch-elor Hadar
 conference: "Arxiv"
 year: 2023

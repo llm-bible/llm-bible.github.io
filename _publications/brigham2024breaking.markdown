@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Breaking News Case Studies of Generative AIs Use in Journalism
+title: Breaking News Case Studies Of Generative Aix27;s Use In Journalism
 authors: Brigham Natalie Grace, Gao Chongjiu, Kohno Tadayoshi, Roesner Franziska, Mireshghallah Niloofar
 conference: "Arxiv"
 year: 2024

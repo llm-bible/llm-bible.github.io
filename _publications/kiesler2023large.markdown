@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models in Introductory Programming Education ChatGPTs Performance and Implications for Assessments
+title: Large Language Models In Introductory Programming Education Chatgptx27;s Performance And Implications For Assessments
 authors: Kiesler Natalie, Schiffner Daniel
 conference: "Arxiv"
 year: 2023

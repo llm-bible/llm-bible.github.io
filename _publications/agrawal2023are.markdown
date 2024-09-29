@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are alms the Master of All Trades Exploring Domain-Agnostic Reasoning Skills of alms
+title: Are LLMs the Master of All Trades Exploring Domain-Agnostic Reasoning Skills of LLMs
 authors: Agrawal Shrivats
 conference: "Arxiv"
 year: 2023

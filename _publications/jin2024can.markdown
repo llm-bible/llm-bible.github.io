@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can catgut Support Developers An Empirical Evaluation of Large Language Models for Code Generation
+title: Can ChatGPT Support Developers An Empirical Evaluation of Large Language Models for Code Generation
 authors: Jin Kailun, Wang Chung-yu, Pham Hung Viet, Hemmati Hadi
 conference: "Arxiv"
 year: 2024

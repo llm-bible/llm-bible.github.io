@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Perplexity Reflect Large Language Models Ability in Long Text Understanding
+title: Can Perplexity Reflect Large Language Modelx27;s Ability In Long Text Understanding
 authors: Hu Yutong, Huang Quzhe, Tao Mingxu, Zhang Chen, Feng Yansong
 conference: "Arxiv"
 year: 2024

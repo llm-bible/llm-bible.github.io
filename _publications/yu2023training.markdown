@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Training With Paraphrasing the Original Text Improves Long-Context Performance
+title: Training With quot;paraphrasing The Original Textquot; Improves Long-context Performance
 authors: Yu Yijiong, Huang Yongfeng, Qi Zhixiao, Zhou Zhe
 conference: "Arxiv"
 year: 2023

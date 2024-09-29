@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AQA-Bench An Interactive Benchmark for Evaluating LLMs Sequential Reasoning Ability
+title: Aqa-bench An Interactive Benchmark For Evaluating Llmsx27; Sequential Reasoning Ability
 authors: Yang Siwei, Zhao Bingchen, Xie Cihang
 conference: "Arxiv"
 year: 2024

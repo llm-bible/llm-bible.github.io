@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is catgut a Highly Fluent Grammatical Error Correction System A Comprehensive Evaluation
+title: Is ChatGPT a Highly Fluent Grammatical Error Correction System A Comprehensive Evaluation
 authors: Tao Fang, Shu Yang, Kaixin Lan, Derek F. Wong, Jinpeng Hu, Lidia S. Chao, Yue Zhang
 conference: "Arxiv"
 year: 2023

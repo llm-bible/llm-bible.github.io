@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Far Are alms from Believable AI A Benchmark for Evaluating the Believability of Human Behavior Simulation
+title: How Far Are LLMs from Believable AI A Benchmark for Evaluating the Believability of Human Behavior Simulation
 authors: Xiao Yang, Cheng Yi, Fu Jinlan, Wang Jiashuo, Li Wenjie, Liu Pengfei
 conference: "Arxiv"
 year: 2023

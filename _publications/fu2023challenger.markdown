@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Challenger to GPT-4V Early Explorations of remind in Visual Expertise
+title: A Challenger to GPT-4V Early Explorations of Gemini in Visual Expertise
 authors: Fu Chaoyou, Zhang Renrui, Wang Zihan, Huang Yubo, Zhang Zhengye, Qiu Longtian, Ye Gaoxiang, Shen Yunhang, Zhang Mengdan, Chen Peixian, Zhao Sirui, Lin Shaohui, Jiang Deqiang, Yin Di, Gao Peng, Li Ke, Li Hongsheng, Sun Xing
 conference: "Arxiv"
 year: 2023

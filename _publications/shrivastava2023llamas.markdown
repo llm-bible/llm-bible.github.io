@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llamas Know What GPTs Dont Show Surrogate Models for Confidence Estimation
+title: Llamas Know What Gpts Donx27;t Show Surrogate Models For Confidence Estimation
 authors: Shrivastava Vaishnavi, Liang Percy, Kumar Ananya
 conference: "Arxiv"
 year: 2023

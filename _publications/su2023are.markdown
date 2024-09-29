@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are alms Rigorous Logical Reasoner Empowering Natural Language Proof Generation with Contrastive Stepwise Decoding
+title: Are LLMs Rigorous Logical Reasoner Empowering Natural Language Proof Generation with Contrastive Stepwise Decoding
 authors: Su Ying, Fu Xiaojin, Liu Mingwen, Guo Zhijiang
 conference: "Arxiv"
 year: 2023

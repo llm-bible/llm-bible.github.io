@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: XPromptExplaining Large Language Models Generation via Joint Prompt Attribution
+title: Xpromptexplaining Large Language Modelx27;s Generation Via Joint Prompt Attribution
 authors: Chang Yurui, Cao Bochuan, Wang Yujia, Chen Jinghui, Lin Lu
 conference: "Arxiv"
 year: 2024

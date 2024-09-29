@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: You dont need a personality test to know these models are unreliable Assessing the Reliability of Large Language Models on Psychometric Instruments
+title: You Donx27;t Need A Personality Test To Know These Models Are Unreliable Assessing The Reliability Of Large Language Models On Psychometric Instruments
 authors: Shu Bangzhao, Zhang Lechen, Choi Minje, Dunagan Lavinia, Logeswaran Lajanugen, Lee Moontae, Card Dallas, Jurgens David
 conference: "Arxiv"
 year: 2023

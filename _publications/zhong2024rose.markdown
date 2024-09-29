@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ROSE Doesnt Do That Boosting the Safety of Instruction-Tuned Large Language Models with Reverse Prompt Contrastive Decoding
+title: ROSE Doesnx27;t Do That Boosting The Safety Of Instruction-tuned Large Language Models With Reverse Prompt Contrastive Decoding
 authors: Zhong Qihuang, Ding Liang, Liu Juhua, Du Bo, Tao Dacheng
 conference: "Arxiv"
 year: 2024

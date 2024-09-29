@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: - Boosting visual dialog with Cascaded Spatial-Temporal Multi-Modal graphs
+title: - Boosting isual ialog With Cascaded Spatial-temporal Multi-modal aphs
 authors: Abdessaied Adnen, Shi Lei, Bulling Andreas
 conference: "Arxiv"
 year: 2023

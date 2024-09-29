@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fluid Transformers and Creative Analogies Exploring Large Language Models Capacity for Augmenting Cross-Domain Analogical Creativity
+title: Fluid Transformers And Creative Analogies Exploring Large Language Modelsx27; Capacity For Augmenting Cross-domain Analogical Creativity
 authors: Ding Zijian, Srinivasan Arvind, Macneil Stephen, Chan Joel
 conference: "Arxiv"
 year: 2023

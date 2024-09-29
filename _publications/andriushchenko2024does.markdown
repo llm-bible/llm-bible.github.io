@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Does Refusal Training in alms Generalize to the Past Tense
+title: Does Refusal Training in LLMs Generalize to the Past Tense
 authors: Andriushchenko Maksym, Flammarion Nicolas
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Study on Large Language Models Limitations in Multiple-Choice Question Answering
+title: A Study On Large Language Modelsx27; Limitations In Multiple-choice Question Answering
 authors: Khatun Aisha, Brown Daniel G.
 conference: "Arxiv"
 year: 2024

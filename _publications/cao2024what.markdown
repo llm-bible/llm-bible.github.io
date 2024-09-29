@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What is the Visual Cognition Gap between Humans and multivocal alms
+title: What is the Visual Cognition Gap between Humans and Multimodal LLMs
 authors: Cao Xu, Lai Bolin, Ye Wenqian, Ma Yunsheng, Heintz Joerg, Chen Jintai, Cao Jianguo, Rehg James M.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Larger the Better Improved lam Code-Generation via Budget Reallocation
+title: The Larger the Better Improved LLM Code-Generation via Budget Reallocation
 authors: Hassid Michael, Remez Tal, Gehring Jonas, Schwartz Roy, Adi Yossi
 conference: "Arxiv"
 year: 2024

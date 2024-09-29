@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative AI in Education A Study of Educators Awareness Sentiments and Influencing Factors
+title: Generative AI In Education A Study Of Educatorsx27; Awareness Sentiments And Influencing Factors
 authors: Ghimire Aashish, Prather James, Edwards John
 conference: "Arxiv"
 year: 2024

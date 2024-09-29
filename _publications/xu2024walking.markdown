@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Walking in Others Shoes How Perspective-Taking Guides Large Language Models in Reducing Toxicity and Bias
+title: Walking In Othersx27; Shoes How Perspective-taking Guides Large Language Models In Reducing Toxicity And Bias
 authors: Xu Rongwu, Zhou Zi'an, Zhang Tianwei, Qi Zehan, Yao Su, Xu Ke, Xu Wei, Qiu Han
 conference: "Arxiv"
 year: 2024

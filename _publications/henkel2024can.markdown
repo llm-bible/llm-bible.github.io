@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Large Language Models Make the Grade An Empirical Study Evaluating alms Ability to Mark Short Answer Questions in K-12 Education
+title: Can Large Language Models Make the Grade An Empirical Study Evaluating LLMs Ability to Mark Short Answer Questions in K-12 Education
 authors: Henkel Owen, Boxer Adam, Hills Libby, Roberts Bill
 conference: "Arxiv"
 year: 2024

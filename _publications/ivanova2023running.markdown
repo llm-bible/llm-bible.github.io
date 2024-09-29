@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Running cognitive evaluations on large language models The dos and the donts
+title: Running Cognitive Evaluations On Large Language Models The Dox27;s And The Donx27;ts
 authors: Ivanova Anna A.
 conference: "Arxiv"
 year: 2023

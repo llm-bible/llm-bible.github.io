@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rethinking ChatGPTs Success Usability and Cognitive Behaviors Enabled by Auto-regressive LLMs Prompting
+title: Rethinking Chatgptx27;s Success Usability And Cognitive Behaviors Enabled By Auto-regressive Llmsx27; Prompting
 authors: Li Xinzhe, Liu Ming
 conference: "Arxiv"
 year: 2024

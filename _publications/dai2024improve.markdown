@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improve Students Reasoning Generalizability through Cascading Decomposed CoTs Distillation
+title: Improve Studentx27;s Reasoning Generalizability Through Cascading Decomposed Cots Distillation
 authors: Dai Chengwei, Li Kun, Zhou Wei, Hu Songlin
 conference: "Arxiv"
 year: 2024

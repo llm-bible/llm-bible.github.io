@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What do restrained code models know about code
+title: What do pre-trained code models know about code
 authors: Karmakar Anjan, Robbes Romain
 conference: "Arxiv"
 year: 2021

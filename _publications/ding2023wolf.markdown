@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Wolf in Sheeps Clothing Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily
+title: A Wolf In Sheepx27;s Clothing Generalized Nested Jailbreak Prompts Can Fool Large Language Models Easily
 authors: Ding Peng, Kuang Jun, Ma Dan, Cao Xuezhi, Xian Yunsen, Chen Jiajun, Huang Shujian
 conference: "Arxiv"
 year: 2023

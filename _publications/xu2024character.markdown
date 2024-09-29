@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Character is destiny Can Large Language Models Simulate Persona-Driven Decisions in Role-Playing
+title: Character is Destiny Can Large Language Models Simulate Persona-Driven Decisions in Role-Playing
 authors: Xu Rui, Wang Xintao, Chen Jiangjie, Yuan Siyu, Yuan Xinfeng, Liang Jiaqing, Chen Zulong, Dong Xiaoqing, Xiao Yanghua
 conference: "Arxiv"
 year: 2024

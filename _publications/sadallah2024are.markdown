@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are alms Good Cryptic Crossword Solvers
+title: Are LLMs Good Cryptic Crossword Solvers
 authors: Sadallah Abdelrahman "boda", Kotova Daria, Kochmar Ekaterina
 conference: "Arxiv"
 year: 2024

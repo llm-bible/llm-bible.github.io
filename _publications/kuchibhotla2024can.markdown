@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Better Text Semantics in Prompt Tuning Improve elm Generalization
+title: Can Better Text Semantics in Prompt Tuning Improve VLM Generalization
 authors: Kuchibhotla Hari Chandana, Kancheti Sai Srinivas, Reddy Abbavaram Gowtham, Balasubramanian Vineeth N
 conference: "Arxiv"
 year: 2024

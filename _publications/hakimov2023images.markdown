@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Images in Language Space Exploring the Suitability of Large Language Models for Vision Language Tasks
+title: Images In Language Space Exploring The Suitability Of Large Language Models For Vision amp; Language Tasks
 authors: Hakimov Sherzod, Schlangen David
 conference: "Arxiv"
 year: 2023

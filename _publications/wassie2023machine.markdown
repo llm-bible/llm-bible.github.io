@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Machine Translation for Geez Language
+title: Machine Translation For Gex27;ez Language
 authors: Wassie Aman Kassahun
 conference: "Arxiv"
 year: 2023

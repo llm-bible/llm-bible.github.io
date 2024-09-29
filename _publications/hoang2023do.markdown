@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Compressed alms Forget Knowledge An Experimental Study with Practical Implications
+title: Do Compressed LLMs Forget Knowledge An Experimental Study with Practical Implications
 authors: Hoang Duc N. M, Cho Minsik, Merth Thomas, Rastegari Mohammad, Wang Zhangyang
 conference: "Arxiv"
 year: 2023

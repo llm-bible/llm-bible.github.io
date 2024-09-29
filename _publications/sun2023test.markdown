@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TEST Text Prototype Aligned Embedding to Activate LLMs Ability for Time Series
+title: TEST Text Prototype Aligned Embedding To Activate Llmx27;s Ability For Time Series
 authors: Sun Chenxi, Li Hongyan, Li Yaliang, Hong Shenda
 conference: "Arxiv"
 year: 2023

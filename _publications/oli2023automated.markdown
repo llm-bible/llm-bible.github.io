@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Automated Assessment of Students Code Comprehension using LLMs
+title: Automated Assessment Of Studentsx27; Code Comprehension Using Llms
 authors: Oli Priti, Banjade Rabin, Chapagain Jeevan, Rus Vasile
 conference: "Arxiv"
 year: 2023

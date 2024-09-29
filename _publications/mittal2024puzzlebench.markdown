@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PuzzleBench Can alms Solve Challenging First-Order Combinatorial Reasoning Problems
+title: PuzzleBench Can LLMs Solve Challenging First-Order Combinatorial Reasoning Problems
 authors: Mittal Chinmay, Kartik Krishna, Mausam, Singla Parag
 conference: "Arxiv"
 year: 2024

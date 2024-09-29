@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do alms Know When to NOT Answer Investigating Abstention Abilities of Large Language Models
+title: Do LLMs Know When to NOT Answer Investigating Abstention Abilities of Large Language Models
 authors: Madhusudhan Nishanth, Madhusudhan Sathwik Tejaswi, Yadav Vikas, Hashemi Masoud
 conference: "Arxiv"
 year: 2024

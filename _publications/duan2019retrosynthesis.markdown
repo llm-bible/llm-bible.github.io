@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrosynthesis with Attention-Based NMT Model and Chemical Analysis of the Wrong Predictions
+title: Retrosynthesis With Attention-based NMT Model And Chemical Analysis Of The quot;wrongquot; Predictions
 authors: Duan Hongliang, Wang Ling, Zhang Chengyun, Li Jianjun
 conference: "Arxiv"
 year: 2019

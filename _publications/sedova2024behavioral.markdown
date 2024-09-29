@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Behavioral testing Can Large Language Models Implicitly Resolve Ambiguous Entities
+title: Behavioral Testing Can Large Language Models Implicitly Resolve Ambiguous Entities
 authors: Sedova Anastasiia, Litschko Robert, Frassinelli Diego, Roth Benjamin, Plank Barbara
 conference: "Arxiv"
 year: 2024

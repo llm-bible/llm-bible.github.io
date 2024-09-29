@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can lam Graph Reasoning Generalize beyond Pattern Memorization
+title: Can LLM Graph Reasoning Generalize beyond Pattern Memorization
 authors: Zhang Yizhuo, Wang Heng, Feng Shangbin, Tan Zhaoxuan, Han Xiaochuang, He Tianxing, Tsvetkov Yulia
 conference: "Arxiv"
 year: 2024

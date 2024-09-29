@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Is There No Such Thing as a Bad Question her HalluciBot For ratiocination rewriting ranking and Routing
+title: Is There No Such Thing as a Bad Question H4R HalluciBot For Ratiocination Rewriting Ranking and Routing
 authors: Watson William, Cho Nicole, Srishankar Nishan
 conference: "Arxiv"
 year: 2024

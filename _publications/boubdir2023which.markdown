@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Which Prompts Make The Difference Data Prioritization For Efficient Human lam Evaluation
+title: Which Prompts Make The Difference Data Prioritization For Efficient Human LLM Evaluation
 authors: Boubdir Meriem, Kim Edward, Ermis Beyza, Fadaee Marzieh, Hooker Sara
 conference: "Arxiv"
 year: 2023

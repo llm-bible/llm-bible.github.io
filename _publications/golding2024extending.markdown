@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Extending Interactive Science Exhibits into the Classroom using Anthropomorphized Chatbots and Blooms Taxonomy
+title: Extending Interactive Science Exhibits Into The Classroom Using Anthropomorphized Chatbots And Bloomx27;s Taxonomy
 authors: Golding Yousuf
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: In Generative AI we trust Can chariots Effectively Verify Political Information
+title: In Generative AI we Trust Can Chatbots Effectively Verify Political Information
 authors: Kuznetsova Elizaveta, Makhortykh Mykola, Vziatysheva Victoria, Stolze Martha, Baghumyan Ani, Urman Aleksandra
 conference: "Arxiv"
 year: 2023

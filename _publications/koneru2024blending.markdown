@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Blending LLMs into Cascaded Speech Translation KITs Offline Speech Translation System for IWSLT 2024
+title: Blending Llms Into Cascaded Speech Translation Kitx27;s Offline Speech Translation System For IWSLT 2024
 authors: Koneru Sai, Nguyen Thai-binh, Pham Ngoc-quan, Liu Danni, Li Zhaolin, Waibel Alexander, Niehues Jan
 conference: "Arxiv"
 year: 2024

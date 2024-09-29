@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Whose Text Is It Anyway Exploring BigCode Intellectual property and Ethics
+title: Whose Text Is It Anyway Exploring BigCode Intellectual Property and Ethics
 authors: Choksi Madiha Zahrah, Goedicke David
 conference: "Arxiv"
 year: 2023

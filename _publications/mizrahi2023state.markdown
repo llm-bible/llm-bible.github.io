@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: State of What Art A Call for Multi-Prompt lam Evaluation
+title: State of What Art A Call for Multi-Prompt LLM Evaluation
 authors: Mizrahi Moran, Kaplan Guy, Malkin Dan, Dror Rotem, Shahaf Dafna, Stanovsky Gabriel
 conference: "Arxiv"
 year: 2023

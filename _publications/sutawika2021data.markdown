@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Data Processing Matters SRPH-Konvergen AIs Machine Translation System for WMT21
+title: Data Processing Matters Srph-konvergen Aix27;s Machine Translation System For Wmtx27;21
 authors: Sutawika Lintang, Cruz Jan Christian Blaise
 conference: "Arxiv"
 year: 2021

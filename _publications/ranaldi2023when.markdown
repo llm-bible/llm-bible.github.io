@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: When Large Language Models contradict humans Large Language models Sycophantic behavior
+title: When Large Language Models Contradict Humans Large Language Modelsx27; Sycophantic Behaviour
 authors: Ranaldi Leonardo, Pucci Giulia
 conference: "Arxiv"
 year: 2023

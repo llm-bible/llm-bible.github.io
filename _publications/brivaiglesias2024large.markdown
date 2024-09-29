@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models had referendum How Good Are They at Machine Translation in the Legal Domain
+title: Large Language Models quot;ad Referendumquot; How Good Are They At Machine Translation In The Legal Domain
 authors: Briva-iglesias Vicent, Camargo Joao Lucas Cavalheiro, Dogru Gokhan
 conference: "Arxiv"
 year: 2024

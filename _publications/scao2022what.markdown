@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What Language Model to Train if You Have One Million gnu Hours
+title: What Language Model to Train if You Have One Million GPU Hours
 authors: Scao Teven Le, Wang Thomas, Hesslow Daniel, Saulnier Lucile, Bekman Stas, Bari M Saiful, Biderman Stella, Elsahar Hady, Muennighoff Niklas, Phang Jason, Press Ofir, Raffel Colin, Sanh Victor, Shen Sheng, Sutawika Lintang, Tae Jaesung, Yong Zheng Xin, Launay Julien, Beltagy Iz
 conference: "Arxiv"
 year: 2022

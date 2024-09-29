@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can Open-Source alms Compete with Commercial Models Exploring the Few-Shot Performance of Current get Models in Biomedical Tasks
+title: Can Open-Source LLMs Compete with Commercial Models Exploring the Few-Shot Performance of Current GPT Models in Biomedical Tasks
 authors: Ateia Samy, Kruschwitz Udo
 conference: "Arxiv"
 year: 2024

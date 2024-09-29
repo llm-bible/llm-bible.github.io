@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Relevant or random Can alms Truly Perform Analogical Reasoning
+title: Relevant or Random Can LLMs Truly Perform Analogical Reasoning
 authors: Qin Chengwei, Xia Wenhan, Wang Tan, Jiao Fangkai, Hu Yuchen, Ding Bosheng, Chen Ruirui, Joty Shafiq
 conference: "Arxiv"
 year: 2024

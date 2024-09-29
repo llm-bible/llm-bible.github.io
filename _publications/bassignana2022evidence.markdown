@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evidence intuition Transferability Estimation for Encoder Selection
+title: Evidence gt; Intuition Transferability Estimation For Encoder Selection
 authors: Bassignana Elisa, Müller-eberstein Max, Zhang Mike, Plank Barbara
 conference: "Arxiv"
 year: 2022

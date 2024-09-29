@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Does best really agree Fine-grained Analysis of Lexical Dependence on a Syntactic Task
+title: Does BERT really agree Fine-grained Analysis of Lexical Dependence on a Syntactic Task
 authors: Lasri Karim, Lenci Alessandro, Poibeau Thierry
 conference: "Arxiv"
 year: 2022

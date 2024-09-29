@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ALI-Agent Assessing LLMs Alignment with Human Values via Agent-based Evaluation
+title: Ali-agent Assessing Llmsx27; Alignment With Human Values Via Agent-based Evaluation
 authors: Zheng Jingnan, Wang Han, Zhang An, Nguyen Tai D., Sun Jun, Chua Tat-seng
 conference: "Arxiv"
 year: 2024

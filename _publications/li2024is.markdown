@@ -1,12 +1,12 @@
 ---
 layout: publication
-title: is catgut a Better Explainer than My professor Evaluating the Explanation Capabilities of alms in Conversation Compared to a Human Baseline
-authors: Li Grace, Alshomary Milad, Muresan Smaranda
+title: Is Programming by Example solved by LLMs
+authors: Li Wen-ding, Ellis Kevin
 conference: "Arxiv"
 year: 2024
 bibkey: li2024is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/2406.18512"}
-tags: ['Ethics And Bias', 'GPT', 'Interpretability And Explainability', 'Model Architecture', 'RAG', 'Tools']
+  - {name: "Paper", url: "https://arxiv.org/abs/2406.08316"}
+tags: ['Few Shot', 'Pretraining Methods', 'Training Techniques']
 ---
-Explanations form the foundation of knowledge sharing and build upon communication principles social dynamics and learning theories. We focus specifically on conversational approaches for explanations because the context is highly adaptive and interactive. Our research leverages previous work on explanatory acts a framework for understanding the different strategies that explainers and explainees employ in a conversation to both explain understand and engage with the other party. We use the 5-Levels dataset was constructed from the WIRED YouTube series by Wachsmuth et al. and later annotated by Booshehri et al. with explanatory acts. These annotations provide a framework for understanding how explainers and explainees structure their response when crafting a response. With the rise of generative AI in the past year we hope to better understand the capabilities of Large Language Models (LLMs) and how they can augment expert explainers capabilities in conversational settings. To achieve this goal the 5-Levels dataset (We use Booshehri et al.s 2023 annotated dataset with explanatory acts.) allows us to audit the ability of LLMs in engaging in explanation dialogues. To evaluate the effectiveness of LLMs in generating explainer responses we compared 3 different strategies we asked human annotators to evaluate 3 different strategies human explainer response GPT4 standard response GPT4 response with Explanation Moves.
+Programming-by-Examples (PBE) aims to generate an algorithm from input-output examples. Such systems are practically and theoretically important from an end-user perspective they are deployed to millions of people and from an AI perspective PBE corresponds to a very general form of few-shot inductive inference. Given the success of Large Language Models (LLMs) in code-generation tasks we investigate here the extent to which LLMs can be said to have solved PBE. We experiment on classic domains such as lists and strings and an uncommon graphics programming domain not well represented in typical pretraining data. We find that pretrained models are not effective at PBE but that they can be fine-tuned for much higher performance provided the test problems are in-distribution. We analyze empirically what causes these models to succeed and fail and take steps toward understanding how to achieve better out-of-distribution generalization. Collectively these results suggest that LLMs make strong progress toward solving the typical suite of PBE tasks potentially increasing the flexibility and applicability of PBE systems while also identifying ways in which LLMs still fall short.

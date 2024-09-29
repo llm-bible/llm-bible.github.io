@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Language Models Learn about Legal Entity Types during retraining
+title: Do Language Models Learn about Legal Entity Types during Pretraining
 authors: Barale Claire, Rovatsos Michael, Bhuta Nehal
 conference: "Arxiv"
 year: 2023

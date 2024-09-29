@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What to do if language models disagree Black-box model assembling for textual and visual question answering
+title: What to do if language models disagree Black-box model ensembling for textual and visual question answering
 authors: Xia Yuxi, Zaporojets Kilm, Roth Benjamin
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How chines are chines Language Models The Puzzling Lack of Language Policy in Chinas alms
+title: How Chinese Are Chinese Language Models The Puzzling Lack Of Language Policy In Chinax27;s Llms
 authors: Wen-yi Andrea W, Jo Unso Eun Seo, Lin Lu Jia, Mimno David
 conference: "Arxiv"
 year: 2024

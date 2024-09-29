@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can alms Augment Low-Resource Reading Comprehension Datasets Opportunities and Challenges
+title: Can LLMs Augment Low-Resource Reading Comprehension Datasets Opportunities and Challenges
 authors: Samuel Vinay, Aynaou Houda, Chowdhury Arijit Ghosh, Ramanan Karthik Venkat, Chadha Aman
 conference: "Arxiv"
 year: 2023

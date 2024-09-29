@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Which Kind Is Better in Open-domain Multi-turn DialogHierarchical or nonhierarchical Models An Empirical Study
+title: Which Kind Is Better in Open-domain Multi-turn DialogHierarchical or Non-hierarchical Models An Empirical Study
 authors: Lan Tian, Mao Xian-ling, Wei Wei, Huang Heyan
 conference: "Arxiv"
 year: 2020

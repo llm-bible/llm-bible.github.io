@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can language agents be alternatives to pop A Preliminary Empirical Study On open Gym
+title: Can language agents be alternatives to PPO A Preliminary Empirical Study On OpenAI Gym
 authors: Sheng Junjie, Huang Zixiao, Shen Chuyun, Li Wenhao, Hua Yun, Jin Bo, Zha Hongyuan, Wang Xiangfeng
 conference: "Arxiv"
 year: 2023

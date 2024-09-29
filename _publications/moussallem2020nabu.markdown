@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: NABU mathrm- Multilingual Graph-based Neural RDF Verbalizer
+title: NABU Multilingual Graph-based Neural RDF Verbalizer
 authors: Moussallem Diego, Gnaneshwar Dwaraknath, Ferreira Thiago Castro, Ngomo Axel-cyrille Ngonga
 conference: "Arxiv"
 year: 2020

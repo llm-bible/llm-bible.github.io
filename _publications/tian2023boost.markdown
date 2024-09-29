@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BOOST Harnessing Black-Box Control to Boost Commonsense in LMs Generation
+title: BOOST Harnessing Black-box Control To Boost Commonsense In Lmsx27; Generation
 authors: Tian Yufei, Zhang Felix, Peng Nanyun
 conference: "Arxiv"
 year: 2023

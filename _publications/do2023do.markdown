@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do alms Work on Charts Designing Few-Shot Prompts for Chart Question Answering and Summarization
+title: Do LLMs Work on Charts Designing Few-Shot Prompts for Chart Question Answering and Summarization
 authors: Do Xuan Long, Hassanpour Mohammad, Masry Ahmed, Kavehzadeh Parsa, Hoque Enamul, Joty Shafiq
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ChatGPT as Research Scientist Probing GPTs Capabilities as a Research Librarian Research Ethicist Data Generator and Data Predictor
+title: Chatgpt As Research Scientist Probing Gptx27;s Capabilities As A Research Librarian Research Ethicist Data Generator And Data Predictor
 authors: Lehr Steven A., Caliskan Aylin, Liyanage Suneragiri, Banaji Mahzarin R.
 conference: "Arxiv"
 year: 2024

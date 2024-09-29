@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Does the most sinfully decadent cake ever taste good Answering Yes/No Questions from Figurative Contexts
+title: Does The quot;most Sinfully Decadent Cake Everquot; Taste Good Answering Yes/no Questions From Figurative Contexts
 authors: Rakshit Geetanjali, Flanigan Jeffrey
 conference: "Arxiv"
 year: 2023

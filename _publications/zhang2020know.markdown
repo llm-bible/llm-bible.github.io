@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Know What You Dont Need Single-Shot Meta-Pruning for Attention Heads
+title: Know What You Donx27;t Need Single-shot Meta-pruning For Attention Heads
 authors: Zhang Zhengyan, Qi Fanchao, Liu Zhiyuan, Liu Qun, Sun Maosong
 conference: "Arxiv"
 year: 2020

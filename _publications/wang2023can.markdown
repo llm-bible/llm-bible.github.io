@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Can alms like GPT-4 outperform traditional AI tools in dementia diagnosis maybe but not today
+title: Can LLMs like GPT-4 outperform traditional AI tools in dementia diagnosis Maybe but not today
 authors: Wang Zhuo, Li Rongzhen, Dong Bowen, Wang Jie, Li Xiuxing, Liu Ning, Mao Chenhui, Zhang Wei, Dong Liling, Gao Jing, Wang Jianyong
 conference: "Arxiv"
 year: 2023

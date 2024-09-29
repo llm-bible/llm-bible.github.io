@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Finetuning an LLM on Contextual Knowledge of Classics for QA
+title: Finetuning An LLM On Contextual Knowledge Of Classics For Qamp;a
 authors: Strachan Shane Storm
 conference: "Arxiv"
 year: 2023

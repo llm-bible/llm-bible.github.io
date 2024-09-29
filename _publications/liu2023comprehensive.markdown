@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A comprehensive evaluation of ChatGPTs zero-shot Text-to-SQL capability
+title: A Comprehensive Evaluation Of Chatgptx27;s Zero-shot Text-to-sql Capability
 authors: Liu Aiwei, Hu Xuming, Wen Lijie, Yu Philip S.
 conference: "Arxiv"
 year: 2023
