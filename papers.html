@@ -3,57 +3,92 @@ layout: default
 title: Search all Publications on Large Language Models
 description: A list of research papers on Large Language Models
 ---
-Search across all paper titles, abstracts, authors by using the search field.
+Search across all paper titles, abstracts, and authors by using the search field.
 Please consider <a href="/contributing.html">contributing</a> by updating
 the information of existing papers or adding new work.
 
 <table id="allPapers">
-<thead><th>Year</th><th>Title</th><th>Authors</th><th>Venue</th><th>Abstract</th></thead><tbody>
-{% assign publicationsByYear = site.publications | sort: "year" | group_by: "year" %}
-{% for year in publicationsByYear reversed %}
-{% for publication in year.items %}
-<tr>
-	<td>{{ publication.year }}</td>
-	<td><a href="{{ publication.url | prepend: site.baseurl }}">{{publication.title}}</a>
-		<span class="externallinks">
-			&nbsp;<a href='http://scholar.google.com/scholar?q={{ publication.title }}' target="_blank"><img  style="display: inline; margin: 0;" src="/public/media/google-scholar.png"/></a>
-			<a href='https://www.semanticscholar.org/search?q={{ publication.title }}' target="_blank"><img style="display: inline; margin: 0;" src="/public/media/semscholar.png"/></a>
-		</span>
-	</td>
-	<td>{{ publication.authors }}</td>
-	<td>{{ publication.conference }}</td>
-	<td>{{ publication.content }}</td>
-	<td>{% for tag in publication.tags %}{{ tag }} {% endfor %}</td>
-</tr>
-{% endfor %}
-{% endfor %}
-</tbody></table>
+  <thead>
+    <tr>
+      <th>Year</th><th>Title</th><th>Authors</th><th>Venue</th><th>Abstract</th>
+    </tr>
+  </thead>
+  <tbody id="publications-body">
+    {% assign publicationsByYear = site.publications | sort: "year" | group_by: "year" %}
+    {% assign count = 0 %}
+    {% for year in publicationsByYear reversed %}
+      {% for publication in year.items %}
+        {% if count < 100 %}
+          <tr>
+            <td>{{ publication.year }}</td>
+            <td>
+              <a href="{{ publication.url | prepend: site.baseurl }}">{{publication.title}}</a>
+              <span class="externallinks">
+                &nbsp;<a href='http://scholar.google.com/scholar?q={{ publication.title }}' target="_blank"><img  style="display: inline; margin: 0;" src="/public/media/google-scholar.png"/></a>
+                <a href='https://www.semanticscholar.org/search?q={{ publication.title }}' target="_blank"><img style="display: inline; margin: 0;" src="/public/media/semscholar.png"/></a>
+              </span>
+            </td>
+            <td>{{ publication.authors }}</td>
+            <td>{{ publication.conference }}</td>
+            <td>{{ publication.content }}</td>
+          </tr>
+        {% else %}
+          <tr class="hidden-publication" style="display: none;">
+            <td>{{ publication.year }}</td>
+            <td>
+              <a href="{{ publication.url | prepend: site.baseurl }}">{{publication.title}}</a>
+              <span class="externallinks">
+                &nbsp;<a href='http://scholar.google.com/scholar?q={{ publication.title }}' target="_blank"><img  style="display: inline; margin: 0;" src="/public/media/google-scholar.png"/></a>
+                <a href='https://www.semanticscholar.org/search?q={{ publication.title }}' target="_blank"><img style="display: inline; margin: 0;" src="/public/media/semscholar.png"/></a>
+              </span>
+            </td>
+            <td>{{ publication.authors }}</td>
+            <td>{{ publication.conference }}</td>
+            <td>{{ publication.content }}</td>
+          </tr>
+        {% endif %}
+        {% assign count = count | plus: 1 %}
+      {% endfor %}
+    {% endfor %}
+  </tbody>
+</table>
+
+<div id="loadMore" style="text-align:center; padding:20px;">Loading more...</div>
 
 <script>
-var datatable;
+let publicationsLoaded = 20; // Number of publications initially loaded
+const perPage = 20;  // Number of publications to load per scroll
 
-function searchTable() {
-    var hash = decodeURIComponent(window.location.hash.substr(1));
-    datatable.search(hash).draw();
+// Function to load more publications
+function loadMorePublications() {
+  const hiddenPublications = document.querySelectorAll('.hidden-publication');
+  
+  // Reveal the next batch of publications
+  for (let i = 0; i < perPage; i++) {
+    if (hiddenPublications[i]) {
+      hiddenPublications[i].style.display = 'table-row';
+      hiddenPublications[i].classList.remove('hidden-publication');
+    } else {
+      // Hide the "Load More" button if all publications are loaded
+      document.getElementById('loadMore').style.display = 'none';
+      break;
+    }
+  }
+  publicationsLoaded += perPage;
 }
 
-
-$(document).ready( function () {
-    datatable = $('#allPapers').DataTable({
-		paging: false,
-		"order": [[ 0, 'desc' ], [ 1, 'asc' ]],
-		columnDefs: [
-			{
-				targets: [3, 4, 5],
-				visible: false,
-				searchable: true
-			}]
-		});
-    searchTable();
+// Detect when the user scrolls near the bottom of the page
+window.addEventListener('scroll', () => {
+  const loadMoreDiv = document.getElementById('loadMore');
+  const rect = loadMoreDiv.getBoundingClientRect();
+  
+  if (rect.top < window.innerHeight) {
+    loadMorePublications();
+  }
 });
 
-$(window).on('hashchange', function() {
-  searchTable();
+// Initial load when the page is ready
+document.addEventListener('DOMContentLoaded', () => {
+  loadMorePublications(); // Load the initial set
 });
 </script>
-
