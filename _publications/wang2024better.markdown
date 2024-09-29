@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: 'FAC$^2$E: Better Understanding Large Language Model Capabilities By Dissociating Language And Cognition'
+title: 'FAC\(^2\)E: Better Understanding Large Language Model Capabilities By Dissociating Language And Cognition'
 authors: Wang Xiaoqiang, Liu Bang, Wu Lingfei
 conference: "Arxiv"
 year: 2024

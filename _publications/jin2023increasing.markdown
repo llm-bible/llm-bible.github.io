@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: 'S$^{3}$: Increasing GPU Utilization During Generative Inference For Higher Throughput'
+title: 'S\(^{3}\): Increasing GPU Utilization During Generative Inference For Higher Throughput'
 authors: Jin Yunho, Wu Chun-feng, Brooks David, Wei Gu-yeon
 conference: "Arxiv"
 year: 2023
