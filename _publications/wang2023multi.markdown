@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instructuie&#58; Multi-task Instruction Tuning For Unified Information Extraction
+title: 'Instructuie: Multi-task Instruction Tuning For Unified Information Extraction'
 authors: Wang Xiao, Zhou Weikang, Zu Can, Xia Han, Chen Tianze, Zhang Yuansen, Zheng Rui, Ye Junjie, Zhang Qi, Gui Tao, Kang Jihua, Yang Jingsheng, Li Siyuan, Du Chunsai
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Newsgpt&#58; Chatgpt Integration For Robot-reporter
+title: 'Newsgpt: Chatgpt Integration For Robot-reporter'
 authors: Hireche Abdelhadi, Belkacem Abdelkader Nasreddine, Jamil Sadia, Chen Chao
 conference: "Arxiv"
 year: 2023

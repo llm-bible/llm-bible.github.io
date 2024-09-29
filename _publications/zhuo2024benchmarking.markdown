@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bigcodebench&#58; Benchmarking Code Generation With Diverse Function Calls And Complex Instructions
+title: 'Bigcodebench: Benchmarking Code Generation With Diverse Function Calls And Complex Instructions'
 authors: Zhuo Terry Yue, Vu Minh Chien, Chim Jenny, Hu Han, Yu Wenhao, Widyasari Ratnadira, Yusuf Imam Nur Bani, Zhan Haolan, He Junda, Paul Indraneil, Brunner Simon, Gong Chen, Hoang Thong, Zebaze Armel Randy, Hong Xiaoheng, Li Wen-ding, Kaddour Jean, Xu Ming, Zhang Zhihan, Yadav Prateek, Jain Naman, Gu Alex, Cheng Zhoujun, Liu Jiawei, Liu Qian, Wang Zijian, Lo David, Hui Binyuan, Muennighoff Niklas, Fried Daniel, Du Xiaoning, De Vries Harm, Von Werra Leandro
 conference: "Arxiv"
 year: 2024

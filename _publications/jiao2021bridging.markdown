@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: REPT&#58; Bridging Language Models And Machine Reading Comprehension Via Retrieval-based Pre-training
+title: 'REPT: Bridging Language Models And Machine Reading Comprehension Via Retrieval-based Pre-training'
 authors: Jiao Fangkai, Guo Yangyang, Niu Yilin, Ji Feng, Li Feng-lin, Nie Liqiang
 conference: "Arxiv"
 year: 2021

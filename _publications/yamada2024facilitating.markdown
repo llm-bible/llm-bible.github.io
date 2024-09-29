@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LEIA&#58; Facilitating Cross-lingual Knowledge Transfer In Language Models With Entity-based Data Augmentation
+title: 'LEIA: Facilitating Cross-lingual Knowledge Transfer In Language Models With Entity-based Data Augmentation'
 authors: Yamada Ikuya, Ri Ryokan
 conference: "Arxiv"
 year: 2024

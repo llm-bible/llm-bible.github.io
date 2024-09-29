@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rocode&#58; A Dataset For Measuring Code Intelligence From Problem Definitions In Romanian
+title: 'Rocode: A Dataset For Measuring Code Intelligence From Problem Definitions In Romanian'
 authors: Cosma Adrian, Iordache Bogdan, Rosso Paolo
 conference: "Arxiv"
 year: 2024

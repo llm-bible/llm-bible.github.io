@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Envgen&#58; Generating And Adapting Environments Via Llms For Training Embodied Agents
+title: 'Envgen: Generating And Adapting Environments Via Llms For Training Embodied Agents'
 authors: Zala Abhay, Cho Jaemin, Lin Han, Yoon Jaehong, Bansal Mohit
 conference: "Arxiv"
 year: 2024

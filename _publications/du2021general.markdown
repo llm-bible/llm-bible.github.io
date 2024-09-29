@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GLM&#58; General Language Model Pretraining With Autoregressive Blank Infilling
+title: 'GLM: General Language Model Pretraining With Autoregressive Blank Infilling'
 authors: Du Zhengxiao, Qian Yujie, Liu Xiao, Ding Ming, Qiu Jiezhong, Yang Zhilin, Tang Jie
 conference: "Arxiv"
 year: 2021

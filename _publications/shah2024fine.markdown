@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Fine-grained Sentiment Analysis Of App Reviews Using Large Language Models&#58; An Evaluation Study
+title: 'A Fine-grained Sentiment Analysis Of App Reviews Using Large Language Models: An Evaluation Study'
 authors: Shah Faiz Ali, Sabir Ahmed, Sharma Rajesh
 conference: "Arxiv"
 year: 2024

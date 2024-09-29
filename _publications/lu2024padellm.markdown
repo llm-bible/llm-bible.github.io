@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Padellm-ner&#58; Parallel Decoding In Large Language Models For Named Entity Recognition
+title: 'Padellm-ner: Parallel Decoding In Large Language Models For Named Entity Recognition'
 authors: Lu Jinghui, Yang Ziwei, Wang Yanjie, Liu Xuejing, Mac Namee Brian, Huang Can
 conference: "Arxiv"
 year: 2024

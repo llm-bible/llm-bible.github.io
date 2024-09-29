@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hired&#58; Attention-guided Token Dropping For Efficient Inference Of High-resolution Vision-language Models In Resource-constrained Environments
+title: 'Hired: Attention-guided Token Dropping For Efficient Inference Of High-resolution Vision-language Models In Resource-constrained Environments'
 authors: Arif Kazi Hasan Ibn, Yoon Jinyi, Nikolopoulos Dimitrios S., Vandierendonck Hans, John Deepu, Ji Bo
 conference: "Arxiv"
 year: 2024

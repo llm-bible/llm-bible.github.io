@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dog-instruct&#58; Towards Premium Instruction-tuning Data Via Text-grounded Instruction Wrapping
+title: 'Dog-instruct: Towards Premium Instruction-tuning Data Via Text-grounded Instruction Wrapping'
 authors: Chen Yongrui, Jiang Haiyun, Huang Xinting, Shi Shuming, Qi Guilin
 conference: "Arxiv"
 year: 2023

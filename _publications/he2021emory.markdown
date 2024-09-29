@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ELIT&#58; Emory Language And Information Toolkit
+title: 'ELIT: Emory Language And Information Toolkit'
 authors: He Han, Xu Liyan, Choi Jinho D.
 conference: "Arxiv"
 year: 2021

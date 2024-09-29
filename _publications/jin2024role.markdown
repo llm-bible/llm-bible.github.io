@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GUARD&#58; Role-playing To Generate Natural-language Jailbreakings To Test Guideline Adherence Of Large Language Models
+title: 'GUARD: Role-playing To Generate Natural-language Jailbreakings To Test Guideline Adherence Of Large Language Models'
 authors: Jin Haibo, Chen Ruoxi, Zhou Andy, Zhang Yang, Wang Haohan
 conference: "Arxiv"
 year: 2024

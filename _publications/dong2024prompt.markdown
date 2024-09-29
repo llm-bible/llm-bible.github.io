@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt Your Brain&#58; Scaffold Prompt Tuning For Efficient Adaptation Of Fmri Pre-trained Model
+title: 'Prompt Your Brain: Scaffold Prompt Tuning For Efficient Adaptation Of Fmri Pre-trained Model'
 authors: Dong Zijian, Wu Yilei, Chen Zijiao, Zhang Yichi, Jin Yueming, Zhou Juan Helen
 conference: "Arxiv"
 year: 2024

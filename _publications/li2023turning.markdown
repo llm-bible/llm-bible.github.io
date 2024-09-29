@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Turning Dust Into Gold&#58; Distilling Complex Reasoning Capabilities From Llms By Leveraging Negative Data
+title: 'Turning Dust Into Gold: Distilling Complex Reasoning Capabilities From Llms By Leveraging Negative Data'
 authors: Li Yiwei, Yuan Peiwen, Feng Shaoxiong, Pan Boyuan, Sun Bin, Wang Xinglin, Wang Heda, Li Kan
 conference: "Arxiv"
 year: 2023

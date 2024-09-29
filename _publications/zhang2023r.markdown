@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: R-tuning&#58; Instructing Large Language Models To Say `I Don't Know'
+title: 'R-tuning: Instructing Large Language Models To Say `I Don''t Know'''
 authors: Zhang Hanning, Diao Shizhe, Lin Yong, Fung Yi R., Lian Qing, Wang Xingyao, Chen Yangyi, Ji Heng, Zhang Tong
 conference: "Arxiv"
 year: 2023

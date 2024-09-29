@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adaplanner&#58; Adaptive Planning From Feedback With Language Models
+title: 'Adaplanner: Adaptive Planning From Feedback With Language Models'
 authors: Sun Haotian, Zhuang Yuchen, Kong Lingkai, Dai Bo, Zhang Chao
 conference: "Arxiv"
 year: 2023

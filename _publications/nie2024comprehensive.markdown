@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cfinbench&#58; A Comprehensive Chinese Financial Benchmark For Large Language Models
+title: 'Cfinbench: A Comprehensive Chinese Financial Benchmark For Large Language Models'
 authors: Nie Ying, Yan Binwei, Guo Tianyu, Liu Hao, Wang Haoyu, He Wei, Zheng Binfan, Wang Weihao, Li Qiang, Sun Weijian, Wang Yunhe, Tao Dacheng
 conference: "Arxiv"
 year: 2024

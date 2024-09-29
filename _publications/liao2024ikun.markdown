@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: IKUN For WMT24 General MT Task&#58; Llms Are Here For Multilingual Machine Translation
+title: 'IKUN For WMT24 General MT Task: Llms Are Here For Multilingual Machine Translation'
 authors: Liao Baohao, Herold Christian, Khadivi Shahram, Monz Christof
 conference: "Arxiv"
 year: 2024

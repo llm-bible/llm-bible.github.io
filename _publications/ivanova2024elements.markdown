@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Elements Of World Knowledge (EWOK)&#58; A Cognition-inspired Framework For Evaluating Basic World Knowledge In Language Models
+title: 'Elements Of World Knowledge (EWOK): A Cognition-inspired Framework For Evaluating Basic World Knowledge In Language Models'
 authors: Ivanova Anna A., Sathe Aalok, Lipkin Benjamin, Kumar Unnathi, Radkani Setayesh, Clark Thomas H., Kauf Carina, Hu Jennifer, Pramod R. T., Grand Gabriel, Paulun Vivian, Ryskina Maria, Akyürek Ekin, Wilcox Ethan, Rashid Nafisa, Choshen Leshem, Levy Roger, Fedorenko Evelina, Tenenbaum Joshua, Andreas Jacob
 conference: "Arxiv"
 year: 2024

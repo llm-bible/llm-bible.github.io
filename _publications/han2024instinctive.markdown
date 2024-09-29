@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Instinctive Bias&#58; Spurious Images Lead To Hallucination In Mllms
+title: 'The Instinctive Bias: Spurious Images Lead To Hallucination In Mllms'
 authors: Tianyang Han, Qing Lian, Rui Pan, Renjie Pi, Jipeng Zhang, Shizhe Diao, Yong Lin, Tong Zhang
 conference: "Arxiv"
 year: 2024

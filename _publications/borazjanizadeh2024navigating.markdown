@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Navigating The Labyrinth&#58; Evaluating And Enhancing Llms' Ability To Reason About Search Problems
+title: 'Navigating The Labyrinth: Evaluating And Enhancing Llms'' Ability To Reason About Search Problems'
 authors: Borazjanizadeh Nasim, Herzig Roei, Darrell Trevor, Feris Rogerio, Karlinsky Leonid
 conference: "Arxiv"
 year: 2024

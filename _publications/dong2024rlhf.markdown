@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RLHF Workflow&#58; From Reward Modeling To Online RLHF
+title: 'RLHF Workflow: From Reward Modeling To Online RLHF'
 authors: Dong Hanze, Xiong Wei, Pang Bo, Wang Haoxiang, Zhao Han, Zhou Yingbo, Jiang Nan, Sahoo Doyen, Xiong Caiming, Zhang Tong
 conference: "Arxiv"
 year: 2024

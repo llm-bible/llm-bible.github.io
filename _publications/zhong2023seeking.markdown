@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Seeking Neural Nuggets&#58; Knowledge Transfer In Large Language Models From A Parametric Perspective
+title: 'Seeking Neural Nuggets: Knowledge Transfer In Large Language Models From A Parametric Perspective'
 authors: Zhong Ming, An Chenxin, Chen Weizhu, Han Jiawei, He Pengcheng
 conference: "Arxiv"
 year: 2023

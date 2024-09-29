@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Inference Efficiency Of Large Language Models&#58; Investigating Optimization Strategies And Architectural Innovations
+title: 'Enhancing Inference Efficiency Of Large Language Models: Investigating Optimization Strategies And Architectural Innovations'
 authors: Tyukin Georgy
 conference: "Arxiv"
 year: 2024

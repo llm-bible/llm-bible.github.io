@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: M4U&#58; Evaluating Multilingual Understanding And Reasoning For Large Multimodal Models
+title: 'M4U: Evaluating Multilingual Understanding And Reasoning For Large Multimodal Models'
 authors: Wang Hongyu, Xu Jiayu, Xie Senwei, Wang Ruiping, Li Jialin, Xie Zhaojie, Zhang Bin, Xiong Chuyan, Chen Xilin
 conference: "Arxiv"
 year: 2024

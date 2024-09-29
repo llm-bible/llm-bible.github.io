@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Octopack&#58; Instruction Tuning Code Large Language Models
+title: 'Octopack: Instruction Tuning Code Large Language Models'
 authors: Muennighoff Niklas, Liu Qian, Zebaze Armel, Zheng Qinkai, Hui Binyuan, Zhuo Terry Yue, Singh Swayam, Tang Xiangru, Von Werra Leandro, Longpre Shayne
 conference: "Arxiv"
 year: 2023

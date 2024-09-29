@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: INSTRUCTEVAL&#58; Towards Holistic Evaluation Of Instruction-tuned Large Language Models
+title: 'INSTRUCTEVAL: Towards Holistic Evaluation Of Instruction-tuned Large Language Models'
 authors: Chia Yew Ken, Hong Pengfei, Bing Lidong, Poria Soujanya
 conference: "Arxiv"
 year: 2023

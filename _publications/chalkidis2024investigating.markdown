@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating Llms As Voting Assistants Via Contextual Augmentation&#58; A Case Study On The European Parliament Elections 2024
+title: 'Investigating Llms As Voting Assistants Via Contextual Augmentation: A Case Study On The European Parliament Elections 2024'
 authors: Chalkidis Ilias
 conference: "Arxiv"
 year: 2024

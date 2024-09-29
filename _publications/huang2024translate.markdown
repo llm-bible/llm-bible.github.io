@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Translate-and-revise&#58; Boosting Large Language Models For Constrained Translation
+title: 'Translate-and-revise: Boosting Large Language Models For Constrained Translation'
 authors: Huang Pengcheng, Mu Yongyu, Wu Yuzhang, Li Bei, Xiao Chunyang, Xiao Tong, Zhu Jingbo
 conference: "Arxiv"
 year: 2024

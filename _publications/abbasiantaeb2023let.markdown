@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Let The Llms Talk&#58; Simulating Human-to-human Conversational QA Via Zero-shot Llm-to-llm Interactions
+title: 'Let The Llms Talk: Simulating Human-to-human Conversational QA Via Zero-shot Llm-to-llm Interactions'
 authors: Abbasiantaeb Zahra, Yuan Yifei, Kanoulas Evangelos, Aliannejadi Mohammad
 conference: "Arxiv"
 year: 2023

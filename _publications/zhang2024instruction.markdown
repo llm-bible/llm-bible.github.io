@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instructedit&#58; Instruction-based Knowledge Editing For Large Language Models
+title: 'Instructedit: Instruction-based Knowledge Editing For Large Language Models'
 authors: Zhang Ningyu, Tian Bozhong, Cheng Siyuan, Liang Xiaozhuan, Hu Yi, Xue Kouying, Gou Yanjie, Chen Xi, Chen Huajun
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leancontext&#58; Cost-efficient Domain-specific Question Answering Using Llms
+title: 'Leancontext: Cost-efficient Domain-specific Question Answering Using Llms'
 authors: Arefeen Md Adnan, Debnath Biplob, Chakradhar Srimat
 conference: "Arxiv"
 year: 2023

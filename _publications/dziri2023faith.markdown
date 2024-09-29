@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Faith And Fate&#58; Limits Of Transformers On Compositionality
+title: 'Faith And Fate: Limits Of Transformers On Compositionality'
 authors: Dziri Nouha, Lu Ximing, Sclar Melanie, Li Xiang Lorraine, Jiang Liwei, Lin Bill Yuchen, West Peter, Bhagavatula Chandra, Bras Ronan Le, Hwang Jena D., Sanyal Soumya, Welleck Sean, Ren Xiang, Ettinger Allyson, Harchaoui Zaid, Choi Yejin
 conference: "Arxiv"
 year: 2023

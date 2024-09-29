@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attribution Analysis Meets Model Editing&#58; Advancing Knowledge Correction In Vision Language Models With Visedit
+title: 'Attribution Analysis Meets Model Editing: Advancing Knowledge Correction In Vision Language Models With Visedit'
 authors: Chen Qizhou, Zhang Taolin, Wang Chengyu, He Xiaofeng, Wang Dakan, Liu Tingting
 conference: "Arxiv"
 year: 2024

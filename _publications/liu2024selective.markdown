@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Selectit&#58; Selective Instruction Tuning For Large Language Models Via Uncertainty-aware Self-reflection
+title: 'Selectit: Selective Instruction Tuning For Large Language Models Via Uncertainty-aware Self-reflection'
 authors: Liu Liangxin, Liu Xuebo, Wong Derek F., Li Dongfang, Wang Ziyi, Hu Baotian, Zhang Min
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Codev&#58; Empowering Llms For Verilog Generation Through Multi-level Summarization
+title: 'Codev: Empowering Llms For Verilog Generation Through Multi-level Summarization'
 authors: Zhao Yang, Huang Di, Li Chongxiao, Jin Pengwei, Nan Ziyuan, Ma Tianyun, Qi Lei, Pan Yansong, Zhang Zhenxing, Zhang Rui, Zhang Xishan, Du Zidong, Guo Qi, Hu Xing, Chen Yunji
 conference: "Arxiv"
 year: 2024

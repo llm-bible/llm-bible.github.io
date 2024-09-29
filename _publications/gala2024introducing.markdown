@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Airavata&#58; Introducing Hindi Instruction-tuned LLM
+title: 'Airavata: Introducing Hindi Instruction-tuned LLM'
 authors: Gala Jay, Jayakumar Thanmay, Husain Jaavid Aktar, M Aswanth Kumar, Khan Mohammed Safi Ur Rahman, Kanojia Diptesh, Puduppully Ratish, Khapra Mitesh M., Dabre Raj, Murthy Rudra, Kunchukuttan Anoop
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cataractbot&#58; An Llm-powered Expert-in-the-loop Chatbot For Cataract Patients
+title: 'Cataractbot: An Llm-powered Expert-in-the-loop Chatbot For Cataract Patients'
 authors: Ramjee Pragnya, Sachdeva Bhuvan, Golechha Satvik, Kulkarni Shreyas, Fulari Geeta, Murali Kaushik, Jain Mohit
 conference: "Arxiv"
 year: 2024

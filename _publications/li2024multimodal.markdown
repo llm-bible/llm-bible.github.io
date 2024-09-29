@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mmsci&#58; A Multimodal Multi-discipline Dataset For Phd-level Scientific Comprehension
+title: 'Mmsci: A Multimodal Multi-discipline Dataset For Phd-level Scientific Comprehension'
 authors: Li Zekun, Yang Xianjun, Choi Kyuri, Zhu Wanrong, Hsieh Ryan, Kim Hyeonjung, Lim Jin Hyuk, Ji Sungyoung, Lee Byungju, Yan Xifeng, Petzold Linda Ruth, Wilson Stephen D., Lim Woosang, Wang William Yang
 conference: "Arxiv"
 year: 2024

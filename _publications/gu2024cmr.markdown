@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CMR Scaling Law&#58; Predicting Critical Mixture Ratios For Continual Pre-training Of Language Models
+title: 'CMR Scaling Law: Predicting Critical Mixture Ratios For Continual Pre-training Of Language Models'
 authors: Gu Jiawei, Yang Zacc, Ding Chuanghao, Zhao Rui, Tan Fei
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: STEVE-1&#58; A Generative Model For Text-to-behavior In Minecraft
+title: 'STEVE-1: A Generative Model For Text-to-behavior In Minecraft'
 authors: Lifshitz Shalev, Paster Keiran, Chan Harris, Ba Jimmy, Mcilraith Sheila
 conference: "Arxiv"
 year: 2023

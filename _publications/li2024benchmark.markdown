@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Wikitableedit&#58; A Benchmark For Table Editing By Natural Language Instruction
+title: 'Wikitableedit: A Benchmark For Table Editing By Natural Language Instruction'
 authors: Li Zheng, Chen Xiang, Wan Xiaojun
 conference: "Arxiv"
 year: 2024

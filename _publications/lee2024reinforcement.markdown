@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reinforcement Learning From Reflective Feedback (RLRF)&#58; Aligning And Improving Llms Via Fine-grained Self-reflection
+title: 'Reinforcement Learning From Reflective Feedback (RLRF): Aligning And Improving Llms Via Fine-grained Self-reflection'
 authors: Lee Kyungjae, Hwang Dasol, Park Sunghyun, Jang Youngsoo, Lee Moontae
 conference: "Arxiv"
 year: 2024

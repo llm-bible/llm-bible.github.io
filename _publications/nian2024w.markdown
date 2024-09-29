@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: W-RAG&#58; Weakly Supervised Dense Retrieval In RAG For Open-domain Question Answering
+title: 'W-RAG: Weakly Supervised Dense Retrieval In RAG For Open-domain Question Answering'
 authors: Nian Jinming, Peng Zhiyuan, Wang Qifan, Fang Yi
 conference: "Arxiv"
 year: 2024

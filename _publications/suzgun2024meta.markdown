@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Meta-prompting&#58; Enhancing Language Models With Task-agnostic Scaffolding
+title: 'Meta-prompting: Enhancing Language Models With Task-agnostic Scaffolding'
 authors: Suzgun Mirac, Kalai Adam Tauman
 conference: "Arxiv"
 year: 2024

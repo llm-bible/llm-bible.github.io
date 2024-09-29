@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatglm-rlhf&#58; Practices Of Aligning Large Language Models With Human Feedback
+title: 'Chatglm-rlhf: Practices Of Aligning Large Language Models With Human Feedback'
 authors: Hou Zhenyu, Niu Yilin, Du Zhengxiao, Zhang Xiaohan, Liu Xiao, Zeng Aohan, Zheng Qinkai, Huang Minlie, Wang Hongning, Tang Jie, Dong Yuxiao
 conference: "Arxiv"
 year: 2024

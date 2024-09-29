@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: COCO-LM&#58; Correcting And Contrasting Text Sequences For Language Model Pretraining
+title: 'COCO-LM: Correcting And Contrasting Text Sequences For Language Model Pretraining'
 authors: Meng Yu, Xiong Chenyan, Bajaj Payal, Tiwary Saurabh, Bennett Paul, Han Jiawei, Song Xia
 conference: "Arxiv"
 year: 2021

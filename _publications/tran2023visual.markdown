@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Viclevr&#58; A Visual Reasoning Dataset And Hybrid Multimodal Fusion Model For Visual Question Answering In Vietnamese
+title: 'Viclevr: A Visual Reasoning Dataset And Hybrid Multimodal Fusion Model For Visual Question Answering In Vietnamese'
 authors: Tran Khiem Vinh, Phan Hao Phu, Van Nguyen Kiet, Nguyen Ngan Luu Thuy
 conference: "Arxiv"
 year: 2023

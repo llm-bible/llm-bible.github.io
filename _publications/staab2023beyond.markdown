@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Memorization&#58; Violating Privacy Via Inference With Large Language Models
+title: 'Beyond Memorization: Violating Privacy Via Inference With Large Language Models'
 authors: Staab Robin, Vero Mark, Balunović Mislav, Vechev Martin
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Emojicrypt&#58; Prompt Encryption For Secure Communication With Large Language Models
+title: 'Emojicrypt: Prompt Encryption For Secure Communication With Large Language Models'
 authors: Lin Guo, Hua Wenyue, Zhang Yongfeng
 conference: "Arxiv"
 year: 2024

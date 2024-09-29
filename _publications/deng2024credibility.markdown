@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cram&#58; Credibility-aware Attention Modification In Llms For Combating Misinformation In RAG
+title: 'Cram: Credibility-aware Attention Modification In Llms For Combating Misinformation In RAG'
 authors: Deng Boyi, Wang Wenjie, Zhu Fengbin, Wang Qifan, Feng Fuli
 conference: "Arxiv"
 year: 2024

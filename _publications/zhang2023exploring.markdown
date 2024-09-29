@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring The Cognitive Knowledge Structure Of Large Language Models&#58; An Educational Diagnostic Assessment Approach
+title: 'Exploring The Cognitive Knowledge Structure Of Large Language Models: An Educational Diagnostic Assessment Approach'
 authors: Zhang Zheyuan, Yu Jifan, Li Juanzi, Hou Lei
 conference: "Arxiv"
 year: 2023

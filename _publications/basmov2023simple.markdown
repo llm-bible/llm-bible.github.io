@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Simple Linguistic Inferences Of Large Language Models (llms)&#58; Blind Spots And Blinds
+title: 'Simple Linguistic Inferences Of Large Language Models (llms): Blind Spots And Blinds'
 authors: Basmov Victoria, Goldberg Yoav, Tsarfaty Reut
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reason For Future, Act For Now&#58; A Principled Framework For Autonomous LLM Agents With Provable Sample Efficiency
+title: 'Reason For Future, Act For Now: A Principled Framework For Autonomous LLM Agents With Provable Sample Efficiency'
 authors: Liu Zhihan, Hu Hao, Zhang Shenao, Guo Hongyi, Ke Shuqi, Liu Boyi, Wang Zhaoran
 conference: "Arxiv"
 year: 2023

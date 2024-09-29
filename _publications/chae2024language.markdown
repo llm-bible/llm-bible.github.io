@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Models As Compilers&#58; Simulating Pseudocode Execution Improves Algorithmic Reasoning In Language Models
+title: 'Language Models As Compilers: Simulating Pseudocode Execution Improves Algorithmic Reasoning In Language Models'
 authors: Chae Hyungjoo, Kim Yeonghyeon, Kim Seungone, Ong Kai Tzu-iunn, Kwak Beong-woo, Kim Moohyeon, Kim Seonghwan, Kwon Taeyoon, Chung Jiwan, Yu Youngjae, Yeo Jinyoung
 conference: "Arxiv"
 year: 2024

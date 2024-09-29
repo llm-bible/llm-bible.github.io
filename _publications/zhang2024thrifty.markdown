@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TREACLE&#58; Thrifty Reasoning Via Context-aware LLM And Prompt Selection
+title: 'TREACLE: Thrifty Reasoning Via Context-aware LLM And Prompt Selection'
 authors: Zhang Xuechen, Huang Zijian, Taga Ege Onur, Joe-wong Carlee, Oymak Samet, Chen Jiasi
 conference: "Arxiv"
 year: 2024

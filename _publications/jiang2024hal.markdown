@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hal-eval&#58; A Universal And Fine-grained Hallucination Evaluation Framework For Large Vision Language Models
+title: 'Hal-eval: A Universal And Fine-grained Hallucination Evaluation Framework For Large Vision Language Models'
 authors: Jiang Chaoya, Ye Wei, Dong Mengfan, Jia Hongrui, Xu Haiyang, Yan Ming, Zhang Ji, Zhang Shikun
 conference: "Arxiv"
 year: 2024

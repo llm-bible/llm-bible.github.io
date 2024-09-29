@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mmchat&#58; Multi-modal Chat Dataset On Social Media
+title: 'Mmchat: Multi-modal Chat Dataset On Social Media'
 authors: Zheng Yinhe, Chen Guanyi, Liu Xin, Sun Jian
 conference: "Arxiv"
 year: 2021

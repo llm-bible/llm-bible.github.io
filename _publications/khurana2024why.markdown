@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Why And When Llm-based Assistants Can Go Wrong&#58; Investigating The Effectiveness Of Prompt-based Interactions For Software Help-seeking
+title: 'Why And When Llm-based Assistants Can Go Wrong: Investigating The Effectiveness Of Prompt-based Interactions For Software Help-seeking'
 authors: Khurana Anjali, Subramonyam Hari, Chilana Parmit K
 conference: "Arxiv"
 year: 2024

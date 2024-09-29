@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DEEM&#58; Diffusion Models Serve As The Eyes Of Large Language Models For Image Perception
+title: 'DEEM: Diffusion Models Serve As The Eyes Of Large Language Models For Image Perception'
 authors: Luo Run, Li Yunshui, Chen Longze, He Wanwei, Lin Ting-en, Liu Ziqiang, Zhang Lei, Song Zikai, Xia Xiaobo, Liu Tongliang, Yang Min, Hui Binyuan
 conference: "Arxiv"
 year: 2024

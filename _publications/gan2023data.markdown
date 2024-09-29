@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ziya2&#58; Data-centric Learning Is All Llms Need
+title: 'Ziya2: Data-centric Learning Is All Llms Need'
 authors: Gan Ruyi, Wu Ziwei, Sun Renliang, Lu Junyu, Wu Xiaojun, Zhang Dixiang, Pan Kunhao, He Junqing, Tian Yuanhe, Yang Ping, Yang Qi, Wang Hao, Zhang Jiaxing, Song Yan
 conference: "Arxiv"
 year: 2023

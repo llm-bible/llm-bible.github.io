@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Infercept&#58; Efficient Intercept Support For Augmented Large Language Model Inference
+title: 'Infercept: Efficient Intercept Support For Augmented Large Language Model Inference'
 authors: Abhyankar Reyna, He Zijian, Srivatsa Vikranth, Zhang Hao, Zhang Yiying
 conference: "Arxiv"
 year: 2024

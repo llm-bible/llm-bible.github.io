@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lofit&#58; Localized Fine-tuning On LLM Representations
+title: 'Lofit: Localized Fine-tuning On LLM Representations'
 authors: Yin Fangcong, Ye Xi, Durrett Greg
 conference: "Arxiv"
 year: 2024

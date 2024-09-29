@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How To Plant Trees In Language Models&#58; Data And Architectural Effects On The Emergence Of Syntactic Inductive Biases
+title: 'How To Plant Trees In Language Models: Data And Architectural Effects On The Emergence Of Syntactic Inductive Biases'
 authors: Mueller Aaron, Linzen Tal
 conference: "Arxiv"
 year: 2023

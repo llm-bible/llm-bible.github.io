@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Birth Of A Transformer&#58; A Memory Viewpoint
+title: 'Birth Of A Transformer: A Memory Viewpoint'
 authors: Bietti Alberto, Cabannes Vivien, Bouchacourt Diane, Jegou Herve, Bottou Leon
 conference: "Arxiv"
 year: 2023

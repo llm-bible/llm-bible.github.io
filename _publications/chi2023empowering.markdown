@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: M$^{2}$chat&#58; Empowering VLM For Multimodal LLM Interleaved Text-image Generation
+title: 'M$^{2}$chat: Empowering VLM For Multimodal LLM Interleaved Text-image Generation'
 authors: Chi Xiaowei, Zhang Rongyu, Jiang Zhengkai, Liu Yijiang, Wang Yatian, Qi Xingqun, Luo Wenhan, Gao Peng, Zhang Shanghang, Liu Qifeng, Guo Yike
 conference: "Arxiv"
 year: 2023

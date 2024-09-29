@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: R$^3$ Prompting&#58; Review, Rephrase And Resolve For Chain-of-thought Reasoning In Large Language Models Under Noisy Context
+title: 'R$^3$ Prompting: Review, Rephrase And Resolve For Chain-of-thought Reasoning In Large Language Models Under Noisy Context'
 authors: Tian Qingyuan, Zhu Hanlun, Wang Lei, Li Yang, Lan Yunshi
 conference: "Arxiv"
 year: 2023

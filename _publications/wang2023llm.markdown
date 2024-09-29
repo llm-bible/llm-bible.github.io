@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AMBER&#58; An Llm-free Multi-dimensional Benchmark For Mllms Hallucination Evaluation
+title: 'AMBER: An Llm-free Multi-dimensional Benchmark For Mllms Hallucination Evaluation'
 authors: Junyang Wang, Yuhang Wang, Guohai Xu, Jing Zhang, Yukai Gu, Haitao Jia, Jiaqi Wang, Haiyang Xu, Ming Yan, Ji Zhang, Jitao Sang
 conference: "Arxiv"
 year: 2023

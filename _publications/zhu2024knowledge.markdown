@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Knowagent&#58; Knowledge-augmented Planning For Llm-based Agents
+title: 'Knowagent: Knowledge-augmented Planning For Llm-based Agents'
 authors: Zhu Yuqi, Qiao Shuofei, Ou Yixin, Deng Shumin, Zhang Ningyu, Lyu Shiwei, Shen Yue, Liang Lei, Gu Jinjie, Chen Huajun
 conference: "Arxiv"
 year: 2024

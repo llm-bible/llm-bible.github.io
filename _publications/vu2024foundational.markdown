@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Foundational Autoraters&#58; Taming Large Language Models For Better Automatic Evaluation
+title: 'Foundational Autoraters: Taming Large Language Models For Better Automatic Evaluation'
 authors: Vu Tu, Krishna Kalpesh, Alzubi Salaheddin, Tar Chris, Faruqui Manaal, Sung Yun-hsuan
 conference: "Arxiv"
 year: 2024

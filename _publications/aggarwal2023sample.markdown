@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Let's Sample Step By Step&#58; Adaptive-consistency For Efficient Reasoning And Coding With Llms
+title: 'Let''s Sample Step By Step: Adaptive-consistency For Efficient Reasoning And Coding With Llms'
 authors: Aggarwal Pranjal, Madaan Aman, Yang Yiming, Mausam
 conference: "Arxiv"
 year: 2023

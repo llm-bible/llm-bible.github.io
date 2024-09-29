@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aptly&#58; Making Mobile Apps From Natural Language
+title: 'Aptly: Making Mobile Apps From Natural Language'
 authors: Patton Evan W., Kim David Y. J., Granquist Ashley, Liu Robin, Scott Arianna, Zamanova Jennet, Abelson Harold
 conference: "Arxiv"
 year: 2024

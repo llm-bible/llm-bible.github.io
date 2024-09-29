@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sparks Of Artificial General Recommender (AGR)&#58; Early Experiments With Chatgpt
+title: 'Sparks Of Artificial General Recommender (AGR): Early Experiments With Chatgpt'
 authors: Lin Guo, Zhang Yongfeng
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GPT-4 Generated Narratives Of Life Events Using A Structured Narrative Prompt&#58; A Validation Study
+title: 'GPT-4 Generated Narratives Of Life Events Using A Structured Narrative Prompt: A Validation Study'
 authors: Lynch Christopher J., Jensen Erik, Munro Madison H., Zamponi Virginia, Martinez Joseph, O'brien Kevin, Feldhaus Brandon, Smith Katherine, Reinhold Ann Marie, Gore Ross
 conference: "Arxiv"
 year: 2024

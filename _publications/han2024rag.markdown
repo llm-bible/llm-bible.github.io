@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RAG-QA Arena&#58; Evaluating Domain Robustness For Long-form Retrieval Augmented Question Answering
+title: 'RAG-QA Arena: Evaluating Domain Robustness For Long-form Retrieval Augmented Question Answering'
 authors: Han Rujun, Zhang Yuhao, Qi Peng, Xu Yumo, Wang Jenyuan, Liu Lan, Wang William Yang, Min Bonan, Castelli Vittorio
 conference: "Arxiv"
 year: 2024

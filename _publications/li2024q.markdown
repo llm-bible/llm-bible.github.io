@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Q-adapter&#58; Training Your LLM Adapter As A Residual Q-function
+title: 'Q-adapter: Training Your LLM Adapter As A Residual Q-function'
 authors: Li Yi-chen, Zhang Fuxiang, Qiu Wenjie, Yuan Lei, Jia Chengxing, Zhang Zongzhang, Yu Yang
 conference: "Arxiv"
 year: 2024

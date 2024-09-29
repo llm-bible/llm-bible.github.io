@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VLM&#58; Task-agnostic Video-language Model Pre-training For Video Understanding
+title: 'VLM: Task-agnostic Video-language Model Pre-training For Video Understanding'
 authors: Xu Hu, Ghosh Gargi, Huang Po-yao, Arora Prahal, Aminzadeh Masoumeh, Feichtenhofer Christoph, Metze Florian, Zettlemoyer Luke
 conference: "Arxiv"
 year: 2021

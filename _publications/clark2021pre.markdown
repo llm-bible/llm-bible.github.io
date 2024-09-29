@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CANINE&#58; Pre-training An Efficient Tokenization-free Encoder For Language Representation
+title: 'CANINE: Pre-training An Efficient Tokenization-free Encoder For Language Representation'
 authors: Clark Jonathan H., Garrette Dan, Turc Iulia, Wieting John
 conference: "Transactions of the Association for Computational Linguistics"
 year: 2021

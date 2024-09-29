@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Smartedit&#58; Exploring Complex Instruction-based Image Editing With Multimodal Large Language Models
+title: 'Smartedit: Exploring Complex Instruction-based Image Editing With Multimodal Large Language Models'
 authors: Huang Yuzhou, Xie Liangbin, Wang Xintao, Yuan Ziyang, Cun Xiaodong, Ge Yixiao, Zhou Jiantao, Dong Chao, Huang Rui, Zhang Ruimao, Shan Ying
 conference: "Arxiv"
 year: 2023

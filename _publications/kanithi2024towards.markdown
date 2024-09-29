@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MEDIC&#58; Towards A Comprehensive Framework For Evaluating Llms In Clinical Applications
+title: 'MEDIC: Towards A Comprehensive Framework For Evaluating Llms In Clinical Applications'
 authors: Kanithi Praveen K, Christophe Clément, Pimentel Marco Af, Raha Tathagata, Saadi Nada, Javed Hamza, Maslenkova Svetlana, Hayat Nasir, Rajan Ronnie, Khan Shadab
 conference: "Arxiv"
 year: 2024

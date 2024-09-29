@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adaptmllm&#58; Fine-tuning Multilingual Language Models On Low-resource Languages With Integrated LLM Playgrounds
+title: 'Adaptmllm: Fine-tuning Multilingual Language Models On Low-resource Languages With Integrated LLM Playgrounds'
 authors: Lankford Séamus, Afli Haithem, Way Andy
 conference: "Information"
 year: 2024

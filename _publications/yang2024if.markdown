@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: If LLM Is The Wizard, Then Code Is The Wand&#58; A Survey On How Code Empowers Large Language Models To Serve As Intelligent Agents
+title: 'If LLM Is The Wizard, Then Code Is The Wand: A Survey On How Code Empowers Large Language Models To Serve As Intelligent Agents'
 authors: Yang Ke, Liu Jiateng, Wu John, Yang Chaoqi, Fung Yi R., Li Sha, Huang Zixuan, Cao Xu, Wang Xingyao, Wang Yiquan, Ji Heng, Zhai Chengxiang
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Natural Language&#58; Llms Leveraging Alternative Formats For Enhanced Reasoning And Communication
+title: 'Beyond Natural Language: Llms Leveraging Alternative Formats For Enhanced Reasoning And Communication'
 authors: Chen Weize, Yuan Chenfei, Yuan Jiarui, Su Yusheng, Qian Chen, Yang Cheng, Xie Ruobing, Liu Zhiyuan, Sun Maosong
 conference: "Arxiv"
 year: 2024

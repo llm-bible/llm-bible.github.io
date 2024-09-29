@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Shiftaddllm&#58; Accelerating Pretrained Llms Via Post-training Multiplication-less Reparameterization
+title: 'Shiftaddllm: Accelerating Pretrained Llms Via Post-training Multiplication-less Reparameterization'
 authors: You Haoran, Guo Yipin, Fu Yichao, Zhou Wei, Shi Huihong, Zhang Xiaofan, Kundu Souvik, Yazdanbakhsh Amir, Lin Yingyan Celine
 conference: "Arxiv"
 year: 2024

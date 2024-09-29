@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: COSPLAY&#58; Concept Set Guided Personalized Dialogue Generation Across Both Party Personas
+title: 'COSPLAY: Concept Set Guided Personalized Dialogue Generation Across Both Party Personas'
 authors: Xu Chen, Li Piji, Wang Wei, Yang Haoran, Wang Siyun, Xiao Chuangbai
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Seqdialn&#58; Sequential Visual Dialog Networks In Joint Visual-linguistic Representation Space
+title: 'Seqdialn: Sequential Visual Dialog Networks In Joint Visual-linguistic Representation Space'
 authors: Yang Liu
 conference: "Arxiv"
 year: 2020

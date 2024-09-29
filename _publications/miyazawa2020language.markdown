@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lambert&#58; Language And Action Learning Using Multimodal BERT
+title: 'Lambert: Language And Action Learning Using Multimodal BERT'
 authors: Miyazawa Kazuki, Aoki Tatsuya, Horii Takato, Nagai Takayuki
 conference: "Arxiv"
 year: 2020

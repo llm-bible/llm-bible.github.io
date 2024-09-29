@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cross-refine&#58; Improving Natural Language Explanation Generation By Learning In Tandem
+title: 'Cross-refine: Improving Natural Language Explanation Generation By Learning In Tandem'
 authors: Wang Qianli, Anikina Tatiana, Feldhus Nils, Ostermann Simon, Möller Sebastian, Schmitt Vera
 conference: "Arxiv"
 year: 2024

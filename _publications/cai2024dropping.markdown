@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lococo&#58; Dropping In Convolutions For Long Context Compression
+title: 'Lococo: Dropping In Convolutions For Long Context Compression'
 authors: Cai Ruisi, Tian Yuandong, Wang Zhangyang, Chen Beidi
 conference: "Arxiv"
 year: 2024

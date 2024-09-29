@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Honeybee&#58; Progressive Instruction Finetuning Of Large Language Models For Materials Science
+title: 'Honeybee: Progressive Instruction Finetuning Of Large Language Models For Materials Science'
 authors: Song Yu, Miret Santiago, Zhang Huan, Liu Bang
 conference: "Arxiv"
 year: 2023

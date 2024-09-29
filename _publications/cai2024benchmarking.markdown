@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sciassess&#58; Benchmarking LLM Proficiency In Scientific Literature Analysis
+title: 'Sciassess: Benchmarking LLM Proficiency In Scientific Literature Analysis'
 authors: Cai Hengxing, Cai Xiaochen, Chang Junhan, Li Sihang, Yao Lin, Wang Changxin, Gao Zhifeng, Wang Hongshuai, Li Yongge, Lin Mujie, Yang Shuwen, Wang Jiankun, Xu Mingjun, Huang Jin, Xi Fang, Zhuang Jiaxi, Yin Yuqi, Li Yaqi, Chen Changhong, Cheng Zheng, Zhao Zifeng, Zhang Linfeng, Ke Guolin
 conference: "Arxiv"
 year: 2024

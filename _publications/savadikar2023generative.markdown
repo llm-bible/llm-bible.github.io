@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GIFT&#58; Generative Interpretable Fine-tuning
+title: 'GIFT: Generative Interpretable Fine-tuning'
 authors: Savadikar Chinmay, Song Xi, Wu Tianfu
 conference: "Arxiv"
 year: 2023

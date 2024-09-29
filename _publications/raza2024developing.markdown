@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Developing Safe And Responsible Large Language Model &#58; Can We Balance Bias Reduction And Language Understanding In Large Language Models?
+title: 'Developing Safe And Responsible Large Language Model : Can We Balance Bias Reduction And Language Understanding In Large Language Models?'
 authors: Raza Shaina, Bamgbose Oluwanifemi, Ghuge Shardul, Tavakol Fatemeh, Reji Deepak John, Bashir Syed Raza
 conference: "Arxiv"
 year: 2024

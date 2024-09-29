@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Palm2-vadapter&#58; Progressively Aligned Language Model Makes A Strong Vision-language Adapter
+title: 'Palm2-vadapter: Progressively Aligned Language Model Makes A Strong Vision-language Adapter'
 authors: Xiao Junfei, Xu Zheng, Yuille Alan, Yan Shen, Wang Boyu
 conference: "Arxiv"
 year: 2024

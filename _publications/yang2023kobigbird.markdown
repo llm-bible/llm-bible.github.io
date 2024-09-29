@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Kobigbird-large&#58; Transformation Of Transformer For Korean Language Understanding
+title: 'Kobigbird-large: Transformation Of Transformer For Korean Language Understanding'
 authors: Yang Kisu, Jang Yoonna, Lee Taewoo, Seong Jinwoo, Lee Hyungjin, Jang Hwanseok, Lim Heuiseok
 conference: "Arxiv"
 year: 2023

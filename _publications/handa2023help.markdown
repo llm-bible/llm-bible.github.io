@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "mistakes Help Us Grow"&#58; Facilitating And Evaluating Growth Mindset Supportive Language In Classrooms
+title: '"mistakes Help Us Grow": Facilitating And Evaluating Growth Mindset Supportive Language In Classrooms'
 authors: Handa Kunal, Clapper Margaret, Boyle Jessica, Wang Rose E, Yang Diyi, Yeager David S, Demszky Dorottya
 conference: "Arxiv"
 year: 2023

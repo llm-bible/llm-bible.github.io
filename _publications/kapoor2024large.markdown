@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Must Be Taught To Know What They Don't Know
+title: Large Language Models Must Be Taught To Know What They Don''t Know
 authors: Kapoor Sanyam, Gruver Nate, Roberts Manley, Collins Katherine, Pal Arka, Bhatt Umang, Weller Adrian, Dooley Samuel, Goldblum Micah, Wilson Andrew Gordon
 conference: "Arxiv"
 year: 2024

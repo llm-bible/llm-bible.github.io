@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fusion-eval&#58; Integrating Assistant Evaluators With Llms
+title: 'Fusion-eval: Integrating Assistant Evaluators With Llms'
 authors: Shu Lei, Wichers Nevan, Luo Liangchen, Zhu Yun, Liu Yinxiao, Chen Jindong, Meng Lei
 conference: "Arxiv"
 year: 2023

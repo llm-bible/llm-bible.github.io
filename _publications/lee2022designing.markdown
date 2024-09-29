@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Coauthor&#58; Designing A Human-ai Collaborative Writing Dataset For Exploring Language Model Capabilities
+title: 'Coauthor: Designing A Human-ai Collaborative Writing Dataset For Exploring Language Model Capabilities'
 authors: Lee Mina, Liang Percy, Yang Qian
 conference: "Arxiv"
 year: 2022

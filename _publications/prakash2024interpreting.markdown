@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Interpreting Bias In Large Language Models&#58; A Feature-based Approach
+title: 'Interpreting Bias In Large Language Models: A Feature-based Approach'
 authors: Prakash Nirmalendu, Roy Lee Ka Wei
 conference: "Arxiv"
 year: 2024

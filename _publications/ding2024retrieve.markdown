@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieve Only When It Needs&#58; Adaptive Retrieval Augmentation For Hallucination Mitigation In Large Language Models
+title: 'Retrieve Only When It Needs: Adaptive Retrieval Augmentation For Hallucination Mitigation In Large Language Models'
 authors: Ding Hanxing, Pang Liang, Wei Zihao, Shen Huawei, Cheng Xueqi
 conference: "Arxiv"
 year: 2024

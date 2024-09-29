@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Making Reasoning Matter&#58; Measuring And Improving Faithfulness Of Chain-of-thought Reasoning
+title: 'Making Reasoning Matter: Measuring And Improving Faithfulness Of Chain-of-thought Reasoning'
 authors: Paul Debjit, West Robert, Bosselut Antoine, Faltings Boi
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MERLIN&#58; Multimodal Embedding Refinement Via Llm-based Iterative Navigation For Text-video Retrieval-rerank Pipeline
+title: 'MERLIN: Multimodal Embedding Refinement Via Llm-based Iterative Navigation For Text-video Retrieval-rerank Pipeline'
 authors: Han Donghoon, Park Eunhwan, Lee Gisang, Lee Adam, Kwak Nojun
 conference: "Arxiv"
 year: 2024

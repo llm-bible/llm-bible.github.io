@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BLESS&#58; Benchmarking Large Language Models On Sentence Simplification
+title: 'BLESS: Benchmarking Large Language Models On Sentence Simplification'
 authors: Kew Tannon, Chi Alison, Vásquez-rodríguez Laura, Agrawal Sweta, Aumiller Dennis, Alva-manchego Fernando, Shardlow Matthew
 conference: "Arxiv"
 year: 2023

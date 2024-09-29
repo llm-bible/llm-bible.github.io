@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Re2g&#58; Retrieve, Rerank, Generate
+title: 'Re2g: Retrieve, Rerank, Generate'
 authors: Glass Michael, Rossiello Gaetano, Chowdhury Md Faisal Mahbub, Naik Ankita Rajaram, Cai Pengshan, Gliozzo Alfio
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leveraging Chatgpt In Pharmacovigilance Event Extraction&#58; An Empirical Study
+title: 'Leveraging Chatgpt In Pharmacovigilance Event Extraction: An Empirical Study'
 authors: Sun Zhaoyue, Pergola Gabriele, Wallace Byron C., He Yulan
 conference: "Arxiv"
 year: 2024

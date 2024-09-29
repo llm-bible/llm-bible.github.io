@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Two Tales Of Persona In Llms&#58; A Survey Of Role-playing And Personalization
+title: 'Two Tales Of Persona In Llms: A Survey Of Role-playing And Personalization'
 authors: Tseng Yu-min, Huang Yu-chao, Hsiao Teng-yun, Chen Wei-lin, Huang Chao-wei, Meng Yu, Chen Yun-nung
 conference: "Arxiv"
 year: 2024

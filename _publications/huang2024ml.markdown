@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ml-mamba&#58; Efficient Multi-modal Large Language Model Utilizing Mamba-2
+title: 'Ml-mamba: Efficient Multi-modal Large Language Model Utilizing Mamba-2'
 authors: Huang Wenjun, Pan Jiakai, Tang Jiahao, Ding Yanyu, Xing Yifei, Wang Yuhe, Wang Zhengzhuo, Hu Jianguo
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tagengo&#58; A Multilingual Chat Dataset
+title: 'Tagengo: A Multilingual Chat Dataset'
 authors: Devine Peter
 conference: "Arxiv"
 year: 2024

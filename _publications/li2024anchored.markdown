@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Anchored Answers&#58; Unravelling Positional Bias In Gpt-2's Multiple-choice Questions
+title: 'Anchored Answers: Unravelling Positional Bias In Gpt-2''s Multiple-choice Questions'
 authors: Li Ruizhe, Gao Yanjun
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pitvqa&#58; Image-grounded Text Embedding LLM For Visual Question Answering In Pituitary Surgery
+title: 'Pitvqa: Image-grounded Text Embedding LLM For Visual Question Answering In Pituitary Surgery'
 authors: He Runlong, Xu Mengya, Das Adrito, Khan Danyal Z., Bano Sophia, Marcus Hani J., Stoyanov Danail, Clarkson Matthew J., Islam Mobarakol
 conference: "Arxiv"
 year: 2024

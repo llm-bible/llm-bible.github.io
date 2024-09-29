@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MCC-KD&#58; Multi-cot Consistent Knowledge Distillation
+title: 'MCC-KD: Multi-cot Consistent Knowledge Distillation'
 authors: Chen Hongzhan, Wu Siyue, Quan Xiaojun, Wang Rui, Yan Ming, Zhang Ji
 conference: "Arxiv"
 year: 2023

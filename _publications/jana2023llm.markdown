@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cotran&#58; An Llm-based Code Translator Using Reinforcement Learning With Feedback From Compiler And Symbolic Execution
+title: 'Cotran: An Llm-based Code Translator Using Reinforcement Learning With Feedback From Compiler And Symbolic Execution'
 authors: Jana Prithwish, Jha Piyush, Ju Haoyang, Kishore Gautham, Mahajan Aryan, Ganesh Vijay
 conference: "Arxiv"
 year: 2023

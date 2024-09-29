@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TALM&#58; Tool Augmented Language Models
+title: 'TALM: Tool Augmented Language Models'
 authors: Parisi Aaron, Zhao Yao, Fiedel Noah
 conference: "Arxiv"
 year: 2022

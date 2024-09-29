@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LRQ&#58; Optimizing Post-training Quantization For Large Language Models By Learning Low-rank Weight-scaling Matrices
+title: 'LRQ: Optimizing Post-training Quantization For Large Language Models By Learning Low-rank Weight-scaling Matrices'
 authors: Lee Jung Hyun, Kim Jeonghoon, Yang June Yong, Kwon Se Jung, Yang Eunho, Yoo Kang Min, Lee Dongsoo
 conference: "Arxiv"
 year: 2024

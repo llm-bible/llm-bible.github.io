@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Synthet2c&#58; Generating Synthetic Data For Fine-tuning Large Language Models On The Text2cypher Task
+title: 'Synthet2c: Generating Synthetic Data For Fine-tuning Large Language Models On The Text2cypher Task'
 authors: Zhong Ziije, Zhong Linqing, Sun Zhaoze, Jin Qingyun, Qin Zengchang, Zhang Xiaofan
 conference: "Arxiv"
 year: 2024

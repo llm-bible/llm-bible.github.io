@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Baichuan 2&#58; Open Large-scale Language Models
+title: 'Baichuan 2: Open Large-scale Language Models'
 authors: Yang Aiyuan, Xiao Bin, Wang Bingning, Zhang Borong, Bian Ce, Yin Chao, Lv Chenxu, Pan Da, Wang Dian, Yan Dong, Yang Fan, Deng Fei, Wang Feng, Liu Feng, Ai Guangwei, Dong Guosheng, Zhao Haizhou, Xu Hang, Sun Haoze, Zhang Hongda, Liu Hui, Ji Jiaming, Xie Jian, Dai Juntao, Fang Kun, Su Lei, Song Liang, Liu Lifeng, Ru Liyun, Ma Luyao, Wang Mang, Liu Mickel, Lin Mingan, Nie Nuolan, Guo Peidong, Sun Ruiyang, Zhang Tao, Li Tianpeng, Li Tianyu, Cheng Wei, Chen Weipeng, Zeng Xiangrong, Wang Xiaochuan, Chen Xiaoxi, Men Xin, Yu Xin, Pan Xuehai, Shen Yanjun, Wang Yiding, Li Yiyu, Jiang Youxin, Gao Yuchen, Zhang Yupeng, Zhou Zenan, Wu Zhiying
 conference: "Arxiv"
 year: 2023

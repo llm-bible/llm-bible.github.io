@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: STRUDEL&#58; Structured Dialogue Summarization For Dialogue Comprehension
+title: 'STRUDEL: Structured Dialogue Summarization For Dialogue Comprehension'
 authors: Wang Borui, Feng Chengcheng, Nair Arjun, Mao Madelyn, Desai Jai, Celikyilmaz Asli, Li Haoran, Mehdad Yashar, Radev Dragomir
 conference: "Arxiv"
 year: 2022

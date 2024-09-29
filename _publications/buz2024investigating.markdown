@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigating Wit, Creativity, And Detectability Of Large Language Models In Domain-specific Writing Style Adaptation Of Reddit's Showerthoughts
+title: Investigating Wit, Creativity, And Detectability Of Large Language Models In Domain-specific Writing Style Adaptation Of Reddit''s Showerthoughts
 authors: Buz Tolga, Frost Benjamin, Genchev Nikola, Schneider Moritz, Kaffee Lucie-aimée, De Melo Gerard
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Call Me When Necessary&#58; Llms Can Efficiently And Faithfully Reason Over Structured Environments
+title: 'Call Me When Necessary: Llms Can Efficiently And Faithfully Reason Over Structured Environments'
 authors: Cheng Sitao, Zhuang Ziyuan, Xu Yong, Yang Fangkai, Zhang Chaoyun, Qin Xiaoting, Huang Xiang, Chen Ling, Lin Qingwei, Zhang Dongmei, Rajmohan Saravan, Zhang Qi
 conference: "Arxiv"
 year: 2024

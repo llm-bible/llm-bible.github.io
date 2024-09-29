@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: C-eval&#58; A Multi-level Multi-discipline Chinese Evaluation Suite For Foundation Models
+title: 'C-eval: A Multi-level Multi-discipline Chinese Evaluation Suite For Foundation Models'
 authors: Huang Yuzhen, Bai Yuzhuo, Zhu Zhihao, Zhang Junlei, Zhang Jinghan, Su Tangjun, Liu Junteng, Lv Chuancheng, Zhang Yikai, Lei Jiayi, Fu Yao, Sun Maosong, He Junxian
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Batch Prompting&#58; Efficient Inference With Large Language Model Apis
+title: 'Batch Prompting: Efficient Inference With Large Language Model Apis'
 authors: Cheng Zhoujun, Kasai Jungo, Yu Tao
 conference: "Arxiv"
 year: 2023

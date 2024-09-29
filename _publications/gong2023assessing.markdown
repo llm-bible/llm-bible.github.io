@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bloomvqa&#58; Assessing Hierarchical Multi-modal Comprehension
+title: 'Bloomvqa: Assessing Hierarchical Multi-modal Comprehension'
 authors: Gong Yunye, Shrestha Robik, Claypoole Jared, Cogswell Michael, Ray Arijit, Kanan Christopher, Divakaran Ajay
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AI Transparency In The Age Of Llms&#58; A Human-centered Research Roadmap
+title: 'AI Transparency In The Age Of Llms: A Human-centered Research Roadmap'
 authors: Liao Q. Vera, Vaughan Jennifer Wortman
 conference: "Arxiv"
 year: 2023

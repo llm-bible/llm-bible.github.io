@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Synergy-of-thoughts&#58; Eliciting Efficient Reasoning In Hybrid Language Models
+title: 'Synergy-of-thoughts: Eliciting Efficient Reasoning In Hybrid Language Models'
 authors: Shang Yu, Li Yu, Xu Fengli, Li Yong
 conference: "Arxiv"
 year: 2024

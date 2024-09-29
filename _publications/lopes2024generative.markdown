@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gl\'oria -- A Generative And Open Large Language Model For Portuguese
+title: Gl\''oria -- A Generative And Open Large Language Model For Portuguese
 authors: Lopes Ricardo, Magalhães João, Semedo David
 conference: "Arxiv"
 year: 2024

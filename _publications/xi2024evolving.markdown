@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Agentgym&#58; Evolving Large Language Model-based Agents Across Diverse Environments
+title: 'Agentgym: Evolving Large Language Model-based Agents Across Diverse Environments'
 authors: Zhiheng Xi, Yiwen Ding, Wenxiang Chen, Boyang Hong, Honglin Guo, Junzhe Wang, Dingwen Yang, Chenyang Liao, Xin Guo, Wei He, Songyang Gao, Lu Chen, Rui Zheng, Yicheng Zou, Tao Gui, Qi Zhang, Xipeng Qiu, Xuanjing Huang, Zuxuan Wu, Yu-gang Jiang
 conference: "Arxiv"
 year: 2024

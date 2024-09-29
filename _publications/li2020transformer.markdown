@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TMT&#58; A Transformer-based Modal Translator For Improving Multimodal Sequence Representations In Audio Visual Scene-aware Dialog
+title: 'TMT: A Transformer-based Modal Translator For Improving Multimodal Sequence Representations In Audio Visual Scene-aware Dialog'
 authors: Li Wubo, Jiang Dongwei, Zou Wei, Li Xiangang
 conference: "Arxiv"
 year: 2020

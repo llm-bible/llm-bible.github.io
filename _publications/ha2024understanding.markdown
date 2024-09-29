@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Clochat&#58; Understanding How People Customize, Interact, And Experience Personas In Large Language Models
+title: 'Clochat: Understanding How People Customize, Interact, And Experience Personas In Large Language Models'
 authors: Ha Juhye, Jeon Hyeon, Han Daeun, Seo Jinwook, Oh Changhoon
 conference: "Arxiv"
 year: 2024

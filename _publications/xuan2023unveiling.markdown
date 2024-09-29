@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pink&#58; Unveiling The Power Of Referential Comprehension For Multi-modal Llms
+title: 'Pink: Unveiling The Power Of Referential Comprehension For Multi-modal Llms'
 authors: Xuan Shiyu, Guo Qingpei, Yang Ming, Zhang Shiliang
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: UBENCH&#58; Benchmarking Uncertainty In Large Language Models With Multiple Choice Questions
+title: 'UBENCH: Benchmarking Uncertainty In Large Language Models With Multiple Choice Questions'
 authors: Wang Xunzhi, Zhang Zhuowei, Li Qiongyu, Chen Gaonan, Hu Mengting, Li Zhiyu, Luo Bitong, Gao Hang, Han Zhixin, Wang Haotian
 conference: "Arxiv"
 year: 2024

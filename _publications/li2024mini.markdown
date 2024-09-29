@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mini-gemini&#58; Mining The Potential Of Multi-modality Vision Language Models
+title: 'Mini-gemini: Mining The Potential Of Multi-modality Vision Language Models'
 authors: Li Yanwei, Zhang Yuechen, Wang Chengyao, Zhong Zhisheng, Chen Yixin, Chu Ruihang, Liu Shaoteng, Jia Jiaya
 conference: "Arxiv"
 year: 2024

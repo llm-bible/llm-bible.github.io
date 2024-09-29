@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RL-GPT&#58; Integrating Reinforcement Learning And Code-as-policy
+title: 'RL-GPT: Integrating Reinforcement Learning And Code-as-policy'
 authors: Liu Shaoteng, Yuan Haoqi, Hu Minda, Li Yanwei, Chen Yukang, Liu Shu, Lu Zongqing, Jia Jiaya
 conference: "Arxiv"
 year: 2024

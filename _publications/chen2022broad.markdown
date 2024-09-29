@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Curriculum&#58; A Broad-coverage Benchmark For Linguistic Phenomena In Natural Language Understanding
+title: 'Curriculum: A Broad-coverage Benchmark For Linguistic Phenomena In Natural Language Understanding'
 authors: Chen Zeming, Gao Qiyue
 conference: "Arxiv"
 year: 2022

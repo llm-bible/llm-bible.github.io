@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ART&#58; Automatic Multi-step Reasoning And Tool-use For Large Language Models
+title: 'ART: Automatic Multi-step Reasoning And Tool-use For Large Language Models'
 authors: Paranjape Bhargavi, Lundberg Scott, Singh Sameer, Hajishirzi Hannaneh, Zettlemoyer Luke, Ribeiro Marco Tulio
 conference: "Arxiv"
 year: 2023

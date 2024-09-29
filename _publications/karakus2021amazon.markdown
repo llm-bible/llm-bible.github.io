@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Amazon Sagemaker Model Parallelism&#58; A General And Flexible Framework For Large Model Training
+title: 'Amazon Sagemaker Model Parallelism: A General And Flexible Framework For Large Model Training'
 authors: Karakus Can, Huilgol Rahul, Wu Fei, Subramanian Anirudh, Daniel Cade, Cavdar Derya, Xu Teng, Chen Haohan, Rahnama Arash, Quintela Luis
 conference: "Arxiv"
 year: 2021

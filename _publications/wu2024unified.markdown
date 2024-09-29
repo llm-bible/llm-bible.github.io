@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unigen&#58; A Unified Framework For Textual Dataset Generation Using Large Language Models
+title: 'Unigen: A Unified Framework For Textual Dataset Generation Using Large Language Models'
 authors: Wu Siyuan, Huang Yue, Gao Chujie, Chen Dongping, Zhang Qihui, Wan Yao, Zhou Tianyi, Zhang Xiangliang, Gao Jianfeng, Xiao Chaowei, Sun Lichao
 conference: "Arxiv"
 year: 2024

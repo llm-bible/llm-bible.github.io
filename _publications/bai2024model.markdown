@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Souplm&#58; Model Integration In Large Language And Multi-modal Models
+title: 'Souplm: Model Integration In Large Language And Multi-modal Models'
 authors: Bai Yue, Zhang Zichen, Lu Jiasen, Fu Yun
 conference: "Arxiv"
 year: 2024

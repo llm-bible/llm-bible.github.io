@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Winoqueer&#58; Developing A Benchmark For Anti-queer Bias In Large Language Models
+title: 'Towards Winoqueer: Developing A Benchmark For Anti-queer Bias In Large Language Models'
 authors: Felkner Virginia K., Chang Ho-chun Herbert, Jang Eugene, May Jonathan
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DELTA&#58; Decomposed Efficient Long-term Robot Task Planning Using Large Language Models
+title: 'DELTA: Decomposed Efficient Long-term Robot Task Planning Using Large Language Models'
 authors: Liu Yuchen, Palmieri Luigi, Koch Sebastian, Georgievski Ilche, Aiello Marco
 conference: "Arxiv"
 year: 2024

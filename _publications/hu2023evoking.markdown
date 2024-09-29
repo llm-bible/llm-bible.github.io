@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evoke&#58; Evoking Critical Thinking Abilities In Llms Via Reviewer-author Prompt Editing
+title: 'Evoke: Evoking Critical Thinking Abilities In Llms Via Reviewer-author Prompt Editing'
 authors: Hu Xinyu, Tang Pengfei, Zuo Simiao, Wang Zihan, Song Bowen, Lou Qiang, Jiao Jian, Charles Denis
 conference: "Arxiv"
 year: 2023

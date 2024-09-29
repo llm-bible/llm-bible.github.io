@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Any-precision LLM&#58; Low-cost Deployment Of Multiple, Different-sized Llms
+title: 'Any-precision LLM: Low-cost Deployment Of Multiple, Different-sized Llms'
 authors: Park Yeonhong, Hyun Jake, Cho Sanglyul, Sim Bonggeun, Lee Jae W.
 conference: "Arxiv"
 year: 2024

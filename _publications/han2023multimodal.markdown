@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chartllama&#58; A Multimodal LLM For Chart Understanding And Generation
+title: 'Chartllama: A Multimodal LLM For Chart Understanding And Generation'
 authors: Han Yucheng, Zhang Chi, Chen Xin, Yang Xu, Wang Zhibin, Yu Gang, Fu Bin, Zhang Hanwang
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Battle Of Llms&#58; A Comparative Study In Conversational QA Tasks
+title: 'The Battle Of Llms: A Comparative Study In Conversational QA Tasks'
 authors: Rangapur Aryan, Rangapur Aman
 conference: "Arxiv"
 year: 2024

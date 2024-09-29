@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adamix&#58; Mixture-of-adaptations For Parameter-efficient Model Tuning
+title: 'Adamix: Mixture-of-adaptations For Parameter-efficient Model Tuning'
 authors: Wang Yaqing, Agarwal Sahaj, Mukherjee Subhabrata, Liu Xiaodong, Gao Jing, Awadallah Ahmed Hassan, Gao Jianfeng
 conference: "Arxiv"
 year: 2022

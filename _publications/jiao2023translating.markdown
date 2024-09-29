@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Parrot&#58; Translating During Chat Using Large Language Models Tuned With Human Translation And Feedback
+title: 'Parrot: Translating During Chat Using Large Language Models Tuned With Human Translation And Feedback'
 authors: Jiao Wenxiang, Huang Jen-tse, Wang Wenxuan, He Zhiwei, Liang Tian, Wang Xing, Shi Shuming, Tu Zhaopeng
 conference: "Arxiv"
 year: 2023

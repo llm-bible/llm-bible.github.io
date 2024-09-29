@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PIP&#58; Parse-instructed Prefix For Syntactically Controlled Paraphrase Generation
+title: 'PIP: Parse-instructed Prefix For Syntactically Controlled Paraphrase Generation'
 authors: Wan Yixin, Huang Kuan-hao, Chang Kai-wei
 conference: "Arxiv"
 year: 2023

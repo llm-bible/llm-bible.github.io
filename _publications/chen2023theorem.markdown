@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Theoremqa&#58; A Theorem-driven Question Answering Dataset
+title: 'Theoremqa: A Theorem-driven Question Answering Dataset'
 authors: Chen Wenhu, Yin Ming, Ku Max, Lu Pan, Wan Yixin, Ma Xueguang, Xu Jianyu, Wang Xinyi, Xia Tony
 conference: "Arxiv"
 year: 2023

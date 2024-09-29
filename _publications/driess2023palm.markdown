@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Palm-e&#58; An Embodied Multimodal Language Model
+title: 'Palm-e: An Embodied Multimodal Language Model'
 authors: Danny Driess, Fei Xia, Mehdi S. M. Sajjadi, Corey Lynch, Aakanksha Chowdhery, Brian Ichter, Ayzaan Wahid, Jonathan Tompson, Quan Vuong, Tianhe Yu, Wenlong Huang, Yevgen Chebotar, Pierre Sermanet, Daniel Duckworth, Sergey Levine, Vincent Vanhoucke, Karol Hausman, Marc Toussaint, Klaus Greff, Andy Zeng, Igor Mordatch, Pete Florence
 conference: "Arxiv"
 year: 2023

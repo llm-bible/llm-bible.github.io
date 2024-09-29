@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Coaching Copilot&#58; Blended Form Of An Llm-powered Chatbot And A Human Coach To Effectively Support Self-reflection For Leadership Growth
+title: 'Coaching Copilot: Blended Form Of An Llm-powered Chatbot And A Human Coach To Effectively Support Self-reflection For Leadership Growth'
 authors: Arakawa Riku, Yakura Hiromu
 conference: "Arxiv"
 year: 2024

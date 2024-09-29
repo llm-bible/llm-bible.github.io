@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Scale&#58; The Diversity Coefficient As A Data Quality Metric For Variability In Natural Language Data
+title: 'Beyond Scale: The Diversity Coefficient As A Data Quality Metric For Variability In Natural Language Data'
 authors: Miranda Brando, Lee Alycia, Sundar Sudharsan, Casasola Allison, Koyejo Sanmi
 conference: "Published as workshop paper in the Data-centric Machine Learning Research"
 year: 2023

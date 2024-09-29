@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lorashear&#58; Efficient Large Language Model Structured Pruning And Knowledge Recovery
+title: 'Lorashear: Efficient Large Language Model Structured Pruning And Knowledge Recovery'
 authors: Chen Tianyi, Ding Tianyu, Yadav Badal, Zharkov Ilya, Liang Luming
 conference: "Arxiv"
 year: 2023

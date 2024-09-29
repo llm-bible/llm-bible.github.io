@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Visiongpt&#58; Vision-language Understanding Agent Using Generalized Multimodal Framework
+title: 'Visiongpt: Vision-language Understanding Agent Using Generalized Multimodal Framework'
 authors: Kelly Chris, Hu Luhui, Yang Bang, Tian Yu, Yang Deshun, Yang Cindy, Huang Zaoshan, Li Zihao, Hu Jiayin, Zou Yuexian
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lower Layer Matters&#58; Alleviating Hallucination Via Multi-layer Fusion Contrastive Decoding With Truthfulness Refocused
+title: 'Lower Layer Matters: Alleviating Hallucination Via Multi-layer Fusion Contrastive Decoding With Truthfulness Refocused'
 authors: Chen Dingwei, Fang Feiteng, Ni Shiwen, Liang Feng, Xu Ruifeng, Yang Min, Li Chengming
 conference: "Arxiv"
 year: 2024

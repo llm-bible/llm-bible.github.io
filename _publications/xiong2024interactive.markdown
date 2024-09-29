@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Interactive-kbqa&#58; Multi-turn Interactions For Knowledge Base Question Answering With Large Language Models
+title: 'Interactive-kbqa: Multi-turn Interactions For Knowledge Base Question Answering With Large Language Models'
 authors: Xiong Guanming, Bao Junwei, Zhao Wen
 conference: "Arxiv"
 year: 2024

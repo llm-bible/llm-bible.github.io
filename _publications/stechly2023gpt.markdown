@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GPT-4 Doesn't Know It's Wrong&#58; An Analysis Of Iterative Prompting For Reasoning Problems
+title: 'GPT-4 Doesn''t Know It''s Wrong: An Analysis Of Iterative Prompting For Reasoning Problems'
 authors: Stechly Kaya, Marquez Matthew, Kambhampati Subbarao
 conference: "Arxiv"
 year: 2023

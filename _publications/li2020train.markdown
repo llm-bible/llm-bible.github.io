@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Train Large, Then Compress&#58; Rethinking Model Size For Efficient Training And Inference Of Transformers
+title: 'Train Large, Then Compress: Rethinking Model Size For Efficient Training And Inference Of Transformers'
 authors: Li Zhuohan, Wallace Eric, Shen Sheng, Lin Kevin, Keutzer Kurt, Klein Dan, Gonzalez Joseph E.
 conference: "Arxiv"
 year: 2020

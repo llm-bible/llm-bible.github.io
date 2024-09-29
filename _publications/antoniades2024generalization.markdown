@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generalization V.s. Memorization&#58; Tracing Language Models' Capabilities Back To Pretraining Data
+title: 'Generalization V.s. Memorization: Tracing Language Models'' Capabilities Back To Pretraining Data'
 authors: Antoniades Antonis, Wang Xinyi, Elazar Yanai, Amayuelas Alfonso, Albalak Alon, Zhang Kexun, Wang William Yang
 conference: "Arxiv"
 year: 2024

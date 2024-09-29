@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aurora-m&#58; The First Open Source Multilingual Language Model Red-teamed According To The U.S. Executive Order
+title: 'Aurora-m: The First Open Source Multilingual Language Model Red-teamed According To The U.S. Executive Order'
 authors: Nakamura Taishi, Mishra Mayank, Tedeschi Simone, Chai Yekun, Stillerman Jason T, Friedrich Felix, Yadav Prateek, Laud Tanmay, Chien Vu Minh, Zhuo Terry Yue, Misra Diganta, Bogin Ben, Vu Xuan-son, Karpinska Marzena, Dantuluri Arnav Varma, Kusa Wojciech, Furlanello Tommaso, Yokota Rio, Muennighoff Niklas, Pai Suhas, Adewumi Tosin, Laippala Veronika, Yao Xiaozhe, Junior Adalberto, Ariyak Alpay, Drozd Aleksandr, Clive Jordan, Gupta Kshitij, Chen Liangyu, Sun Qi, Tsui Ken, Persaud Noah, Fahmy Nour, Chen Tianlong, Bansal Mohit, Monti Nicolo, Dang Tai, Luo Ziyang, Bui Tien-tung, Navigli Roberto, Mehta Virendra, Blumberg Matthew, May Victor, Nguyen Huu, Pyysalo Sampo
 conference: "Arxiv"
 year: 2024

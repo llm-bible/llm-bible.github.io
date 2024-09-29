@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chessgpt&#58; Bridging Policy Learning And Language Modeling
+title: 'Chessgpt: Bridging Policy Learning And Language Modeling'
 authors: Feng Xidong, Luo Yicheng, Wang Ziyan, Tang Hongrui, Yang Mengyue, Shao Kun, Mguni David, Du Yali, Wang Jun
 conference: "Arxiv"
 year: 2023

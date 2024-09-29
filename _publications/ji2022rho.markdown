@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RHO ($\(\rho\)$)&#58; Reducing Hallucination In Open-domain Dialogues With Knowledge Grounding
+title: 'RHO ($\(\rho\)$): Reducing Hallucination In Open-domain Dialogues With Knowledge Grounding'
 authors: Ji Ziwei, Liu Zihan, Lee Nayeon, Yu Tiezheng, Wilie Bryan, Zeng Min, Fung Pascale
 conference: "Arxiv"
 year: 2022

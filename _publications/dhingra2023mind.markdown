@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mind Meets Machine&#58; Unravelling Gpt-4's Cognitive Psychology
+title: 'Mind Meets Machine: Unravelling Gpt-4''s Cognitive Psychology'
 authors: Sifatkaur Dhingra, Manmeet Singh, Vaisakh Sb, Neetiraj Malviya, Sukhpal Singh Gill
 conference: "Arxiv"
 year: 2023

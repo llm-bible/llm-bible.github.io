@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: COPAL&#58; Continual Pruning In Large Language Generative Models
+title: 'COPAL: Continual Pruning In Large Language Generative Models'
 authors: Malla Srikanth, Choi Joon Hee, Choi Chiho
 conference: "Arxiv"
 year: 2024

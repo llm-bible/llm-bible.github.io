@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transformative Effects Of Chatgpt On Modern Education&#58; Emerging Era Of AI Chatbots
+title: 'Transformative Effects Of Chatgpt On Modern Education: Emerging Era Of AI Chatbots'
 authors: Gill Sukhpal Singh, Xu Minxian, Patros Panos, Wu Huaming, Kaur Rupinder, Kaur Kamalpreet, Fuller Stephanie, Singh Manmeet, Arora Priyansh, Parlikad Ajith Kumar, Stankovski Vlado, Abraham Ajith, Ghosh Soumya K., Lutfiyya Hanan, Kanhere Salil S., Bahsoon Rami, Rana Omer, Dustdar Schahram, Sakellariou Rizos, Uhlig Steve, Buyya Rajkumar
 conference: "Internet of Things and Cyber-Physical Systems"
 year: 2023

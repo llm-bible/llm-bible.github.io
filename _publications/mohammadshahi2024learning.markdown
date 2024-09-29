@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Routoo&#58; Learning To Route To Large Language Models Effectively
+title: 'Routoo: Learning To Route To Large Language Models Effectively'
 authors: Mohammadshahi Alireza, Shaikh Arshad Rafiq, Yazdani Majid
 conference: "Arxiv"
 year: 2024

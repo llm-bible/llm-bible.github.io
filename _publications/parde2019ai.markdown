@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AI Meets Austen&#58; Towards Human-robot Discussions Of Literary Metaphor
+title: 'AI Meets Austen: Towards Human-robot Discussions Of Literary Metaphor'
 authors: Parde Natalie, Nielsen Rodney D.
 conference: "Arxiv"
 year: 2019

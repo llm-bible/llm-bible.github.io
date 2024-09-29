@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dreambench++&#58; A Human-aligned Benchmark For Personalized Image Generation
+title: 'Dreambench++: A Human-aligned Benchmark For Personalized Image Generation'
 authors: Peng Yuang, Cui Yuxin, Tang Haomiao, Qi Zekun, Dong Runpei, Bai Jing, Han Chunrui, Ge Zheng, Zhang Xiangyu, Xia Shu-tao
 conference: "Arxiv"
 year: 2024

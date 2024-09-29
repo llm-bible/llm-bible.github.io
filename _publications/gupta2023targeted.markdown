@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Targen&#58; Targeted Data Generation With Large Language Models
+title: 'Targen: Targeted Data Generation With Large Language Models'
 authors: Gupta Himanshu, Scaria Kevin, Anantheswaran Ujjwala, Verma Shreyas, Parmar Mihir, Sawant Saurabh Arjun, Baral Chitta, Mishra Swaroop
 conference: "Arxiv"
 year: 2023

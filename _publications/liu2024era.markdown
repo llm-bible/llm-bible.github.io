@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Era-cot&#58; Improving Chain-of-thought Through Entity Relationship Analysis
+title: 'Era-cot: Improving Chain-of-thought Through Entity Relationship Analysis'
 authors: Liu Yanming, Peng Xinyue, Du Tianyu, Yin Jianwei, Liu Weihao, Zhang Xuhong
 conference: "Arxiv"
 year: 2024

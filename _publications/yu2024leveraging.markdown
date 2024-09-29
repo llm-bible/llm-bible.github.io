@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Neeko&#58; Leveraging Dynamic Lora For Efficient Multi-character Role-playing Agent
+title: 'Neeko: Leveraging Dynamic Lora For Efficient Multi-character Role-playing Agent'
 authors: Yu Xiaoyan, Luo Tongxu, Wei Yifan, Lei Fangyu, Huang Yiming, Peng Hao, Zhu Liehuang
 conference: "Arxiv"
 year: 2024

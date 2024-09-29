@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Openelm&#58; An Efficient Language Model Family With Open Training And Inference Framework
+title: 'Openelm: An Efficient Language Model Family With Open Training And Inference Framework'
 authors: Mehta Sachin, Sekhavat Mohammad Hossein, Cao Qingqing, Horton Maxwell, Jin Yanzi, Sun Chenfan, Mirzadeh Iman, Najibi Mahyar, Belenko Dmitry, Zatloukal Peter, Rastegari Mohammad
 conference: "Arxiv"
 year: 2024

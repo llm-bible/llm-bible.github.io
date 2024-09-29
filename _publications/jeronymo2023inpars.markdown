@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Inpars-v2&#58; Large Language Models As Efficient Dataset Generators For Information Retrieval
+title: 'Inpars-v2: Large Language Models As Efficient Dataset Generators For Information Retrieval'
 authors: Jeronymo Vitor, Bonifacio Luiz, Abonizio Hugo, Fadaee Marzieh, Lotufo Roberto, Zavrel Jakub, Nogueira Rodrigo
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Filling The Image Information Gap For VQA&#58; Prompting Large Language Models To Proactively Ask Questions
+title: 'Filling The Image Information Gap For VQA: Prompting Large Language Models To Proactively Ask Questions'
 authors: Wang Ziyue, Chen Chi, Li Peng, Liu Yang
 conference: "https://aclanthology.org/"
 year: 2023

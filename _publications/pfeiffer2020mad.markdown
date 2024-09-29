@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MAD-X&#58; An Adapter-based Framework For Multi-task Cross-lingual Transfer
+title: 'MAD-X: An Adapter-based Framework For Multi-task Cross-lingual Transfer'
 authors: Pfeiffer Jonas, Vulić Ivan, Gurevych Iryna, Ruder Sebastian
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: More Than Catastrophic Forgetting&#58; Integrating General Capabilities For Domain-specific Llms
+title: 'More Than Catastrophic Forgetting: Integrating General Capabilities For Domain-specific Llms'
 authors: Liu Chengyuan, Wang Shihang, Kang Yangyang, Qing Lizhi, Zhao Fubang, Sun Changlong, Kuang Kun, Wu Fei
 conference: "Arxiv"
 year: 2024

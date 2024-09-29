@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "john Is 50 Years Old, Can His Son Be 65?" Evaluating NLP Models' Understanding Of Feasibility
+title: "john Is 50 Years Old, Can His Son Be 65?" Evaluating NLP Models'' Understanding Of Feasibility
 authors: Gupta Himanshu, Varshney Neeraj, Mishra Swaroop, Pal Kuntal Kumar, Sawant Saurabh Arjun, Scaria Kevin, Goyal Siddharth, Baral Chitta
 conference: "Arxiv"
 year: 2022

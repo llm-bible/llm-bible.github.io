@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Poisoned Langchain&#58; Jailbreak Llms By Langchain
+title: 'Poisoned Langchain: Jailbreak Llms By Langchain'
 authors: Wang Ziqiu, Liu Jun, Zhang Shengkai, Yang Yang
 conference: "Arxiv"
 year: 2024

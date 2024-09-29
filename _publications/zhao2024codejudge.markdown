@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Codejudge-eval&#58; Can Large Language Models Be Good Judges In Code Understanding?
+title: 'Codejudge-eval: Can Large Language Models Be Good Judges In Code Understanding?'
 authors: Zhao Yuwei, Luo Ziyang, Tian Yuchen, Lin Hongzhan, Yan Weixiang, Li Annan, Ma Jing
 conference: "Arxiv"
 year: 2024

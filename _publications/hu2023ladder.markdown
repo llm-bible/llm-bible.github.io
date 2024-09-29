@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ladder-of-thought&#58; Using Knowledge As Steps To Elevate Stance Detection
+title: 'Ladder-of-thought: Using Knowledge As Steps To Elevate Stance Detection'
 authors: Hu Kairui, Yan Ming, Zhou Joey Tianyi, Tsang Ivor W., Chong Wen Haw, Yap Yong Keong
 conference: "Arxiv"
 year: 2023

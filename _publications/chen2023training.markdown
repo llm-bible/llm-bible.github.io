@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Alpagasus&#58; Training A Better Alpaca With Fewer Data
+title: 'Alpagasus: Training A Better Alpaca With Fewer Data'
 authors: Chen Lichang, Li Shiyang, Yan Jun, Wang Hai, Gunaratna Kalpa, Yadav Vikas, Tang Zheng, Srinivasan Vijay, Zhou Tianyi, Huang Heng, Jin Hongxia
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Practical And Ethical Challenges Of Large Language Models In Education&#58; A Systematic Scoping Review
+title: 'Practical And Ethical Challenges Of Large Language Models In Education: A Systematic Scoping Review'
 authors: Yan Lixiang, Sha Lele, Zhao Linxuan, Li Yuheng, Martinez-maldonado Roberto, Chen Guanliang, Li Xinyu, Jin Yueqiao, Gašević Dragan
 conference: "Arxiv"
 year: 2023

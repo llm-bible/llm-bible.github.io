@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generating With Confidence&#58; Uncertainty Quantification For Black-box Large Language Models
+title: 'Generating With Confidence: Uncertainty Quantification For Black-box Large Language Models'
 authors: Lin Zhen, Trivedi Shubhendu, Sun Jimeng
 conference: "Arxiv"
 year: 2023

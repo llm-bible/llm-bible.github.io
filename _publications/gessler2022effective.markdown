@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Microbert&#58; Effective Training Of Low-resource Monolingual Berts Through Parameter Reduction And Multitask Learning
+title: 'Microbert: Effective Training Of Low-resource Monolingual Berts Through Parameter Reduction And Multitask Learning'
 authors: Gessler Luke, Zeldes Amir
 conference: "Arxiv"
 year: 2022

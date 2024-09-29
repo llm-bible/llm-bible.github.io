@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Curiousllm&#58; Elevating Multi-document QA With Reasoning-infused Knowledge Graph Prompting
+title: 'Curiousllm: Elevating Multi-document QA With Reasoning-infused Knowledge Graph Prompting'
 authors: Yang Zukang, Zhu Zixuan
 conference: "Arxiv"
 year: 2024

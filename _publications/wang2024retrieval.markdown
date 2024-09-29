@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RAT&#58; Retrieval Augmented Thoughts Elicit Context-aware Reasoning In Long-horizon Generation
+title: 'RAT: Retrieval Augmented Thoughts Elicit Context-aware Reasoning In Long-horizon Generation'
 authors: Wang Zihao, Liu Anji, Lin Haowei, Li Jiaqi, Ma Xiaojian, Liang Yitao
 conference: "Arxiv"
 year: 2024

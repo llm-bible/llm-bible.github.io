@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Wudaomm&#58; A Large-scale Multi-modal Dataset For Pre-training Models
+title: 'Wudaomm: A Large-scale Multi-modal Dataset For Pre-training Models'
 authors: Yuan Sha, Zhao Shuai, Leng Jiahong, Xue Zhao, Zhao Hanyu, Liu Peiyu, Gong Zheng, Zhao Wayne Xin, Li Junyi, Tang Jie
 conference: "Arxiv"
 year: 2022

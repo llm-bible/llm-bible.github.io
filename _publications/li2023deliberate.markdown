@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Deliberate Then Generate&#58; Enhanced Prompting Framework For Text Generation
+title: 'Deliberate Then Generate: Enhanced Prompting Framework For Text Generation'
 authors: Li Bei, Wang Rui, Guo Junliang, Song Kaitao, Tan Xu, Hassan Hany, Menezes Arul, Xiao Tong, Bian Jiang, Zhu Jingbo
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Facilitating Holistic Evaluations With Llms&#58; Insights From Scenario-based Experiments
+title: 'Facilitating Holistic Evaluations With Llms: Insights From Scenario-based Experiments'
 authors: Ishida Toru, Liu Tongxi, Wang Hailong, Cheunga William K.
 conference: "Arxiv"
 year: 2024

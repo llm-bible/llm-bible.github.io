@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reacc&#58; A Retrieval-augmented Code Completion Framework
+title: 'Reacc: A Retrieval-augmented Code Completion Framework'
 authors: Lu Shuai, Duan Nan, Han Hojae, Guo Daya, Hwang Seung-won, Svyatkovskiy Alexey
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pii-compass&#58; Guiding LLM Training Data Extraction Prompts Towards The Target PII Via Grounding
+title: 'Pii-compass: Guiding LLM Training Data Extraction Prompts Towards The Target PII Via Grounding'
 authors: Nakka Krishna Kanth, Frikha Ahmed, Mendes Ricardo, Jiang Xue, Zhou Xuebing
 conference: "Arxiv"
 year: 2024

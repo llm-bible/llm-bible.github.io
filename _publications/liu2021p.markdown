@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: P-tuning V2&#58; Prompt Tuning Can Be Comparable To Fine-tuning Universally Across Scales And Tasks
+title: 'P-tuning V2: Prompt Tuning Can Be Comparable To Fine-tuning Universally Across Scales And Tasks'
 authors: Xiao Liu, Kaixuan Ji, Yicheng Fu, Weng Lam Tam, Zhengxiao Du, Zhilin Yang, Jie Tang
 conference: "Arxiv"
 year: 2021

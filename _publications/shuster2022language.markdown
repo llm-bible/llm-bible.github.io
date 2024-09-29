@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Models That Seek For Knowledge&#58; Modular Search & Generation For Dialogue And Prompt Completion
+title: 'Language Models That Seek For Knowledge: Modular Search & Generation For Dialogue And Prompt Completion'
 authors: Shuster Kurt, Komeili Mojtaba, Adolphs Leonard, Roller Stephen, Szlam Arthur, Weston Jason
 conference: "Arxiv"
 year: 2022

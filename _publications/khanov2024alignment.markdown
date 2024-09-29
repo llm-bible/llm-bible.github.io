@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ARGS&#58; Alignment As Reward-guided Search
+title: 'ARGS: Alignment As Reward-guided Search'
 authors: Khanov Maxim, Burapacheep Jirayu, Li Yixuan
 conference: "Arxiv"
 year: 2024

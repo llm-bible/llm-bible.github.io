@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GRAD-SUM&#58; Leveraging Gradient Summarization For Optimal Prompt Engineering
+title: 'GRAD-SUM: Leveraging Gradient Summarization For Optimal Prompt Engineering'
 authors: Austin Derek, Chartock Elliott
 conference: "Arxiv"
 year: 2024

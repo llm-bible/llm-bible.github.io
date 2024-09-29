@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sparsegpt&#58; Massive Language Models Can Be Accurately Pruned In One-shot
+title: 'Sparsegpt: Massive Language Models Can Be Accurately Pruned In One-shot'
 authors: Frantar Elias, Alistarh Dan
 conference: "Arxiv"
 year: 2023

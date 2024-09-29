@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PECC&#58; Problem Extraction And Coding Challenges
+title: 'PECC: Problem Extraction And Coding Challenges'
 authors: Haller Patrick, Golde Jonas, Akbik Alan
 conference: "Arxiv"
 year: 2024

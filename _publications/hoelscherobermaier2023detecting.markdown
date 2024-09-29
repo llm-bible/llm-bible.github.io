@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Detecting Edit Failures In Large Language Models&#58; An Improved Specificity Benchmark
+title: 'Detecting Edit Failures In Large Language Models: An Improved Specificity Benchmark'
 authors: Hoelscher-obermaier Jason, Persson Julia, Kran Esben, Konstas Ioannis, Barez Fazl
 conference: "Arxiv"
 year: 2023

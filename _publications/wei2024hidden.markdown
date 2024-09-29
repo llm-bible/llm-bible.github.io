@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hidden In Plain Sight&#58; Exploring Chat History Tampering In Interactive Language Models
+title: 'Hidden In Plain Sight: Exploring Chat History Tampering In Interactive Language Models'
 authors: Wei Cheng'an, Zhao Yue, Gong Yujia, Chen Kai, Xiang Lu, Zhu Shenchen
 conference: "Arxiv"
 year: 2024

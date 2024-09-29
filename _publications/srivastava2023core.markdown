@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Core-cog&#58; Conversational Recommendation Of Entities Using Constrained Generation
+title: 'Core-cog: Conversational Recommendation Of Entities Using Constrained Generation'
 authors: Srivastava Harshvardhan, Pruthi Kanav, Chakrabarti Soumen, Mausam
 conference: "Arxiv"
 year: 2023

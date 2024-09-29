@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pnlp-mixer&#58; An Efficient All-mlp Architecture For Language
+title: 'Pnlp-mixer: An Efficient All-mlp Architecture For Language'
 authors: Fusco Francesco, Pascual Damian, Staar Peter, Antognini Diego
 conference: "Arxiv"
 year: 2022

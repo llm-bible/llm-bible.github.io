@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond KV Caching&#58; Shared Attention For Efficient Llms
+title: 'Beyond KV Caching: Shared Attention For Efficient Llms'
 authors: Liao Bingli, Vargas Danilo Vasconcellos
 conference: "Arxiv"
 year: 2024

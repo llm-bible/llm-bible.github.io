@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ANCHOR&#58; Llm-driven News Subject Conditioning For Text-to-image Synthesis
+title: 'ANCHOR: Llm-driven News Subject Conditioning For Text-to-image Synthesis'
 authors: Ramakrishnan Aashish Anantha, Huang Sharon X., Lee Dongwon
 conference: "Arxiv"
 year: 2024

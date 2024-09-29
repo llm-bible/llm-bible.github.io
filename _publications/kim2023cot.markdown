@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Cot Collection&#58; Improving Zero-shot And Few-shot Learning Of Language Models Via Chain-of-thought Fine-tuning
+title: 'The Cot Collection: Improving Zero-shot And Few-shot Learning Of Language Models Via Chain-of-thought Fine-tuning'
 authors: Seungone Kim, Se June Joo, Doyoung Kim, Joel Jang, Seonghyeon Ye, Jamin Shin, Minjoon Seo
 conference: "Arxiv"
 year: 2023

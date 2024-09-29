@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Physics Of Language Models&#58; Part 2.1, Grade-school Math And The Hidden Reasoning Process
+title: 'Physics Of Language Models: Part 2.1, Grade-school Math And The Hidden Reasoning Process'
 authors: Ye Tian, Xu Zicheng, Li Yuanzhi, Allen-zhu Zeyuan
 conference: "Arxiv"
 year: 2024

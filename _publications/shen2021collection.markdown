@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FPM&#58; A Collection Of Large-scale Foundation Pre-trained Language Models
+title: 'FPM: A Collection Of Large-scale Foundation Pre-trained Language Models'
 authors: Shen Dezhou
 conference: "Arxiv"
 year: 2021

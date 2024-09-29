@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rambla&#58; A Framework For Evaluating The Reliability Of Llms As Assistants In The Biomedical Domain
+title: 'Rambla: A Framework For Evaluating The Reliability Of Llms As Assistants In The Biomedical Domain'
 authors: Bolton William James, Poyiadzi Rafael, Morrell Edward R., Bueno Gabriela Van Bergen Gonzalez, Goetz Lea
 conference: "Arxiv"
 year: 2024

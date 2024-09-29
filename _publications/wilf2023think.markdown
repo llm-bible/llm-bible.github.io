@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Think Twice&#58; Perspective-taking Improves Large Language Models' Theory-of-mind Capabilities
+title: 'Think Twice: Perspective-taking Improves Large Language Models'' Theory-of-mind Capabilities'
 authors: Wilf Alex, Lee Sihyun Shawn, Liang Paul Pu, Morency Louis-philippe
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ELLA-V&#58; Stable Neural Codec Language Modeling With Alignment-guided Sequence Reordering
+title: 'ELLA-V: Stable Neural Codec Language Modeling With Alignment-guided Sequence Reordering'
 authors: Song Yakun, Chen Zhuo, Wang Xiaofei, Ma Ziyang, Chen Xie
 conference: "Arxiv"
 year: 2024

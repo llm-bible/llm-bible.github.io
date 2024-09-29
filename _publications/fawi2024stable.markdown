@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Curlora&#58; Stable LLM Continual Fine-tuning And Catastrophic Forgetting Mitigation
+title: 'Curlora: Stable LLM Continual Fine-tuning And Catastrophic Forgetting Mitigation'
 authors: Fawi Muhammad
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Integrating Physician Diagnostic Logic Into Large Language Models&#58; Preference Learning From Process Feedback
+title: 'Integrating Physician Diagnostic Logic Into Large Language Models: Preference Learning From Process Feedback'
 authors: Dou Chengfeng, Jin Zhi, Jiao Wenpin, Zhao Haiyan, Zhao Yongqiang, Tao Zhenwei
 conference: "Arxiv"
 year: 2024

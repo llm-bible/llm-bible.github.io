@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mt-ladder&#58; A Model-agnostic Framework Boosting Llm-based Machine Translation To The Next Level
+title: 'Mt-ladder: A Model-agnostic Framework Boosting Llm-based Machine Translation To The Next Level'
 authors: Feng Zhaopeng, Zhang Yan, Chen Ruizhe, Meng Zijie, Liu Zuozhu
 conference: "Arxiv"
 year: 2024

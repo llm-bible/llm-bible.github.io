@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: G-retriever&#58; Retrieval-augmented Generation For Textual Graph Understanding And Question Answering
+title: 'G-retriever: Retrieval-augmented Generation For Textual Graph Understanding And Question Answering'
 authors: He Xiaoxin, Tian Yijun, Sun Yifei, Chawla Nitesh V., Laurent Thomas, Lecun Yann, Bresson Xavier, Hooi Bryan
 conference: "Arxiv"
 year: 2024

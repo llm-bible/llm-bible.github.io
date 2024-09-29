@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fingpt&#58; Large Generative Models For A Small Language
+title: 'Fingpt: Large Generative Models For A Small Language'
 authors: Luukkonen Risto, Komulainen Ville, Luoma Jouni, Eskelinen Anni, Kanerva Jenna, Kupari Hanna-mari, Ginter Filip, Laippala Veronika, Muennighoff Niklas, Piktus Aleksandra, Wang Thomas, Tazi Nouamane, Scao Teven Le, Wolf Thomas, Suominen Osma, Sairanen Samuli, Merioksa Mikko, Heinonen Jyrki, Vahtola Aija, Antao Samuel, Pyysalo Sampo
 conference: "Arxiv"
 year: 2023

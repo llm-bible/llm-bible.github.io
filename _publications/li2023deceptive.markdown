@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Deceptive Semantic Shortcuts On Reasoning Chains&#58; How Far Can Models Go Without Hallucination?
+title: 'Deceptive Semantic Shortcuts On Reasoning Chains: How Far Can Models Go Without Hallucination?'
 authors: Li Bangzheng, Zhou Ben, Wang Fei, Fu Xingyu, Roth Dan, Chen Muhao
 conference: "Arxiv"
 year: 2023

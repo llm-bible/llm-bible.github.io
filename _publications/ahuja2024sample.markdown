@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sphinx&#58; Sample Efficient Multilingual Instruction Fine-tuning Through N-shot Guided Prompting
+title: 'Sphinx: Sample Efficient Multilingual Instruction Fine-tuning Through N-shot Guided Prompting'
 authors: Ahuja Sanchit, Tanmay Kumar, Chauhan Hardik Hansrajbhai, Patra Barun, Aggarwal Kriti, Del Corro Luciano, Mitra Arindam, Dhamecha Tejas Indulal, Awadallah Ahmed, Choudhary Monojit, Chaudhary Vishrav, Sitaram Sunayana
 conference: "Arxiv"
 year: 2024

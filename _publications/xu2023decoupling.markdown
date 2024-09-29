@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rewoo&#58; Decoupling Reasoning From Observations For Efficient Augmented Language Models
+title: 'Rewoo: Decoupling Reasoning From Observations For Efficient Augmented Language Models'
 authors: Xu Binfeng, Peng Zhiyuan, Lei Bowen, Mukherjee Subhabrata, Liu Yuchen, Xu Dongkuan
 conference: "Arxiv"
 year: 2023

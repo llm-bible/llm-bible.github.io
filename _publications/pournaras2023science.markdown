@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Science In The Era Of Chatgpt, Large Language Models And Generative AI&#58; Challenges For Research Ethics And How To Respond
+title: 'Science In The Era Of Chatgpt, Large Language Models And Generative AI: Challenges For Research Ethics And How To Respond'
 authors: Pournaras Evangelos
 conference: "Arxiv"
 year: 2023

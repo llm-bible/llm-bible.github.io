@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lazyllm&#58; Dynamic Token Pruning For Efficient Long Context LLM Inference
+title: 'Lazyllm: Dynamic Token Pruning For Efficient Long Context LLM Inference'
 authors: Fu Qichen, Cho Minsik, Merth Thomas, Mehta Sachin, Rastegari Mohammad, Najibi Mahyar
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ARL2&#58; Aligning Retrievers For Black-box Large Language Models Via Self-guided Adaptive Relevance Labeling
+title: 'ARL2: Aligning Retrievers For Black-box Large Language Models Via Self-guided Adaptive Relevance Labeling'
 authors: Zhang Lingxi, Yu Yue, Wang Kuan, Zhang Chao
 conference: "ACL"
 year: 2024

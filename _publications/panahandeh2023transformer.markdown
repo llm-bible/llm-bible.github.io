@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tppoet&#58; Transformer-based Persian Poem Generation Using Minimal Data And Advanced Decoding Techniques
+title: 'Tppoet: Transformer-based Persian Poem Generation Using Minimal Data And Advanced Decoding Techniques'
 authors: Panahandeh Amir, Asemi Hanie, Nourani Esmaeil
 conference: "Arxiv"
 year: 2023

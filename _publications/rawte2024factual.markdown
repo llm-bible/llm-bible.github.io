@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FACTOID&#58; Factual Entailment For Hallucination Detection
+title: 'FACTOID: Factual Entailment For Hallucination Detection'
 authors: Rawte Vipula, Tonmoy S. M Towhidul Islam, Rajbangshi Krishnav, Nag Shravani, Chadha Aman, Sheth Amit P., Das Amitava
 conference: "Arxiv"
 year: 2024

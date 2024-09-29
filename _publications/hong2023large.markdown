@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Direct2v&#58; Large Language Models Are Frame-level Directors For Zero-shot Text-to-video Generation
+title: 'Direct2v: Large Language Models Are Frame-level Directors For Zero-shot Text-to-video Generation'
 authors: Hong Susung, Seo Junyoung, Shin Heeseong, Hong Sunghwan, Kim Seungryong
 conference: "Arxiv"
 year: 2023

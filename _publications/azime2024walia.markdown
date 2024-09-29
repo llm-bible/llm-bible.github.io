@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Walia-llm&#58; Enhancing Amharic-llama By Integrating Task-specific And Generative Datasets
+title: 'Walia-llm: Enhancing Amharic-llama By Integrating Task-specific And Generative Datasets'
 authors: Azime Israel Abebe, Tonja Atnafu Lambebo, Belay Tadesse Destaw, Fuge Mitiku Yohannes, Wassie Aman Kassahun, Jada Eyasu Shiferaw, Chanie Yonas, Sewunetie Walelign Tewabe, Yimam Seid Muhie
 conference: "Arxiv"
 year: 2024

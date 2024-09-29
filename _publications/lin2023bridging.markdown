@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bridging Items And Language&#58; A Transition Paradigm For Large Language Model-based Recommendation
+title: 'Bridging Items And Language: A Transition Paradigm For Large Language Model-based Recommendation'
 authors: Xinyu Lin, Wenjie Wang, Yongqi Li, Fuli Feng, See-kiong Ng, Tat-seng Chua
 conference: "Arxiv"
 year: 2023

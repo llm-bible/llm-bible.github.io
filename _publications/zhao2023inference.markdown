@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lookahead&#58; An Inference Acceleration Framework For Large Language Model With Lossless Generation Accuracy
+title: 'Lookahead: An Inference Acceleration Framework For Large Language Model With Lossless Generation Accuracy'
 authors: Zhao Yao, Xie Zhitian, Liang Chen, Zhuang Chenyi, Gu Jinjie
 conference: "Arxiv"
 year: 2023

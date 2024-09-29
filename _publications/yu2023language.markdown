@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Models Are Super Mario&#58; Absorbing Abilities From Homologous Models As A Free Lunch
+title: 'Language Models Are Super Mario: Absorbing Abilities From Homologous Models As A Free Lunch'
 authors: Yu Le, Yu Bowen, Yu Haiyang, Huang Fei, Li Yongbin
 conference: "Arxiv"
 year: 2023

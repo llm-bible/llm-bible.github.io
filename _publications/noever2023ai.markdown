@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AI Text-to-behavior&#58; A Study In Steerability
+title: 'AI Text-to-behavior: A Study In Steerability'
 authors: Noever David, Hyams Sam
 conference: "Arxiv"
 year: 2023

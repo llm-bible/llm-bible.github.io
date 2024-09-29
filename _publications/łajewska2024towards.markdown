@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Reliable And Factual Response Generation&#58; Detecting Unanswerable Questions In Information-seeking Conversations
+title: 'Towards Reliable And Factual Response Generation: Detecting Unanswerable Questions In Information-seeking Conversations'
 authors: Łajewska Weronika, Balog Krisztian
 conference: "Arxiv"
 year: 2024

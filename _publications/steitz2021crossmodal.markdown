@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Txt&#58; Crossmodal End-to-end Learning With Transformers
+title: 'Txt: Crossmodal End-to-end Learning With Transformers'
 authors: Steitz Jan-martin O., Pfeiffer Jonas, Gurevych Iryna, Roth Stefan
 conference: "Arxiv"
 year: 2021

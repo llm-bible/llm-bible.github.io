@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hyperprompt&#58; Prompt-based Task-conditioning Of Transformers
+title: 'Hyperprompt: Prompt-based Task-conditioning Of Transformers'
 authors: He Yun, Zheng Huaixiu Steven, Tay Yi, Gupta Jai, Du Yu, Aribandi Vamsi, Zhao Zhe, Li Yaguang, Chen Zhao, Metzler Donald, Cheng Heng-tze, Chi Ed H.
 conference: "Arxiv"
 year: 2022

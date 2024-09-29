@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Android In The Zoo&#58; Chain-of-action-thought For GUI Agents
+title: 'Android In The Zoo: Chain-of-action-thought For GUI Agents'
 authors: Zhang Jiwen, Wu Jihao, Teng Yihua, Liao Minghui, Xu Nuo, Xiao Xiao, Wei Zhongyu, Tang Duyu
 conference: "Arxiv"
 year: 2024

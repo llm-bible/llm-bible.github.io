@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Injecting Structural Hints&#58; Using Language Models To Study Inductive Biases In Language Learning
+title: 'Injecting Structural Hints: Using Language Models To Study Inductive Biases In Language Learning'
 authors: Papadimitriou Isabel, Jurafsky Dan
 conference: "Arxiv"
 year: 2023

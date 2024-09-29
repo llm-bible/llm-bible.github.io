@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Inpars-light&#58; Cost-effective Unsupervised Training Of Efficient Rankers
+title: 'Inpars-light: Cost-effective Unsupervised Training Of Efficient Rankers'
 authors: Boytsov Leonid, Patel Preksha, Sourabh Vivek, Nisar Riddhi, Kundu Sayani, Ramanathan Ramya, Nyberg Eric
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Let's Stop Incorrect Comparisons In End-to-end Relation Extraction!
+title: Let''s Stop Incorrect Comparisons In End-to-end Relation Extraction!
 authors: Taillé Bruno, Guigue Vincent, Scoutheeten Geoffrey, Gallinari Patrick
 conference: "Arxiv"
 year: 2020

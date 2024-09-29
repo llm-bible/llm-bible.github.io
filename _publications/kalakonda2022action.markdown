@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Action-gpt&#58; Leveraging Large-scale Language Models For Improved And Generalized Action Generation
+title: 'Action-gpt: Leveraging Large-scale Language Models For Improved And Generalized Action Generation'
 authors: Kalakonda Sai Shashank, Maheshwari Shubh, Sarvadevabhatla Ravi Kiran
 conference: "Arxiv"
 year: 2022

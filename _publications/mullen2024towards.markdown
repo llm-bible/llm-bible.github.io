@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Robots That Know When They Need Help&#58; Affordance-based Uncertainty For Large Language Model Planners
+title: 'Towards Robots That Know When They Need Help: Affordance-based Uncertainty For Large Language Model Planners'
 authors: Mullen James F. Jr., Manocha Dinesh
 conference: "Arxiv"
 year: 2024

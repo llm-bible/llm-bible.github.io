@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lmsys-chat-1m&#58; A Large-scale Real-world LLM Conversation Dataset
+title: 'Lmsys-chat-1m: A Large-scale Real-world LLM Conversation Dataset'
 authors: Zheng Lianmin, Chiang Wei-lin, Sheng Ying, Li Tianle, Zhuang Siyuan, Wu Zhanghao, Zhuang Yonghao, Li Zhuohan, Lin Zi, Xing Eric P., Gonzalez Joseph E., Stoica Ion, Zhang Hao
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Abdelhak At Semeval-2024 Task 9 &#58; Decoding Brainteasers, The Efficacy Of Dedicated Models Versus Chatgpt
+title: 'Abdelhak At Semeval-2024 Task 9 : Decoding Brainteasers, The Efficacy Of Dedicated Models Versus Chatgpt'
 authors: Kelious Abdelhak, Okirim Mounir
 conference: "Arxiv"
 year: 2024

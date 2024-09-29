@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Efficient Vision-language Tuning&#58; More Information Density, More Generalizability
+title: 'Towards Efficient Vision-language Tuning: More Information Density, More Generalizability'
 authors: Hao Tianxiang, Lyu Mengyao, Chen Hui, Zhao Sicheng, Ding Xiaohan, Han Jungong, Ding Guiguang
 conference: "Arxiv"
 year: 2023

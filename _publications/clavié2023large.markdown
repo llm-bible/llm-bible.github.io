@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models In The Workplace&#58; A Case Study On Prompt Engineering For Job Type Classification
+title: 'Large Language Models In The Workplace: A Case Study On Prompt Engineering For Job Type Classification'
 authors: Benjamin Clavié, Alexandru Ciceu, Frederick Naylor, Guillaume Soulié, Thomas Brightwell
 conference: "Arxiv"
 year: 2023

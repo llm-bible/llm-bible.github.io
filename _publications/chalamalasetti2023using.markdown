@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Clembench&#58; Using Game Play To Evaluate Chat-optimized Language Models As Conversational Agents
+title: 'Clembench: Using Game Play To Evaluate Chat-optimized Language Models As Conversational Agents'
 authors: Chalamalasetti Kranti, Götze Jana, Hakimov Sherzod, Madureira Brielen, Sadler Philipp, Schlangen David
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Classeval&#58; A Manually-crafted Benchmark For Evaluating Llms On Class-level Code Generation
+title: 'Classeval: A Manually-crafted Benchmark For Evaluating Llms On Class-level Code Generation'
 authors: Du Xueying, Liu Mingwei, Wang Kaixin, Wang Hanlin, Liu Junwei, Chen Yixuan, Feng Jiayi, Sha Chaofeng, Peng Xin, Lou Yiling
 conference: "Arxiv"
 year: 2023

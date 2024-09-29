@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FIRST&#58; Faster Improved Listwise Reranking With Single Token Decoding
+title: 'FIRST: Faster Improved Listwise Reranking With Single Token Decoding'
 authors: Reddy Revanth Gangi, Doo Jaehyeok, Xu Yifei, Sultan Md Arafat, Swain Deevya, Sil Avirup, Ji Heng
 conference: "Arxiv"
 year: 2024

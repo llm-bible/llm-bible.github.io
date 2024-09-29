@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Minference 1.0&#58; Accelerating Pre-filling For Long-context Llms Via Dynamic Sparse Attention
+title: 'Minference 1.0: Accelerating Pre-filling For Long-context Llms Via Dynamic Sparse Attention'
 authors: Jiang Huiqiang, Li Yucheng, Zhang Chengruidong, Wu Qianhui, Luo Xufang, Ahn Surin, Han Zhenhua, Abdi Amir H., Li Dongsheng, Lin Chin-yew, Yang Yuqing, Qiu Lili
 conference: "Arxiv"
 year: 2024

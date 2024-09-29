@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Normsage&#58; Multi-lingual Multi-cultural Norm Discovery From Conversations On-the-fly
+title: 'Normsage: Multi-lingual Multi-cultural Norm Discovery From Conversations On-the-fly'
 authors: Fung Yi R., Chakraborty Tuhin, Guo Hao, Rambow Owen, Muresan Smaranda, Ji Heng
 conference: "Arxiv"
 year: 2022

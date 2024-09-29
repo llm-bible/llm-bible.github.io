@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BGE Landmark Embedding&#58; A Chunking-free Embedding Method For Retrieval Augmented Long-context Large Language Models
+title: 'BGE Landmark Embedding: A Chunking-free Embedding Method For Retrieval Augmented Long-context Large Language Models'
 authors: Luo Kun, Liu Zheng, Xiao Shitao, Liu Kang
 conference: "Arxiv"
 year: 2024

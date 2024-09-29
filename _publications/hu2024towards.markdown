@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Themis&#58; Towards Flexible And Interpretable NLG Evaluation
+title: 'Themis: Towards Flexible And Interpretable NLG Evaluation'
 authors: Hu Xinyu, Lin Li, Gao Mingqi, Yin Xunjian, Wan Xiaojun
 conference: "Arxiv"
 year: 2024

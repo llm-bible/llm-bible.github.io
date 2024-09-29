@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From CLIP To DINO&#58; Visual Encoders Shout In Multi-modal Large Language Models
+title: 'From CLIP To DINO: Visual Encoders Shout In Multi-modal Large Language Models'
 authors: Jiang Dongsheng, Liu Yuchen, Liu Songlin, Zhao Jin'e, Zhang Hao, Gao Zhen, Zhang Xiaopeng, Li Jin, Xiong Hongkai
 conference: "Arxiv"
 year: 2023

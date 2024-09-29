@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Understanding Llms&#58; A Comprehensive Overview From Training To Inference
+title: 'Understanding Llms: A Comprehensive Overview From Training To Inference'
 authors: Liu Yiheng, He Hao, Han Tianle, Zhang Xu, Liu Mengyuan, Tian Jiaming, Zhang Yutong, Wang Jiaqi, Gao Xiaohui, Zhong Tianyang, Pan Yi, Xu Shaochen, Wu Zihao, Liu Zhengliang, Zhang Xin, Zhang Shu, Hu Xintao, Zhang Tuo, Qiang Ning, Liu Tianming, Ge Bao
 conference: "Arxiv"
 year: 2024

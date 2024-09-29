@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mindshift&#58; Leveraging Large Language Models For Mental-states-based Problematic Smartphone Use Intervention
+title: 'Mindshift: Leveraging Large Language Models For Mental-states-based Problematic Smartphone Use Intervention'
 authors: Wu Ruolan, Yu Chun, Pan Xiaole, Liu Yujia, Zhang Ningning, Fu Yue, Wang Yuhan, Zheng Zhi, Chen Li, Jiang Qiaolei, Xu Xuhai, Shi Yuanchun
 conference: "Arxiv"
 year: 2023

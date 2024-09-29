@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Galore&#58; Memory-efficient LLM Training By Gradient Low-rank Projection
+title: 'Galore: Memory-efficient LLM Training By Gradient Low-rank Projection'
 authors: Zhao Jiawei, Zhang Zhenyu, Chen Beidi, Wang Zhangyang, Anandkumar Anima, Tian Yuandong
 conference: "Arxiv"
 year: 2024

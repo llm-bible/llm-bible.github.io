@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Proto-lm&#58; A Prototypical Network-based Framework For Built-in Interpretability In Large Language Models
+title: 'Proto-lm: A Prototypical Network-based Framework For Built-in Interpretability In Large Language Models'
 authors: Xie Sean, Vosoughi Soroush, Hassanpour Saeed
 conference: "Arxiv"
 year: 2023

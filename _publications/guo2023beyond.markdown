@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Imitation&#58; Leveraging Fine-grained Quality Signals For Alignment
+title: 'Beyond Imitation: Leveraging Fine-grained Quality Signals For Alignment'
 authors: Guo Geyang, Zhao Ranchi, Tang Tianyi, Zhao Wayne Xin, Wen Ji-rong
 conference: "Arxiv"
 year: 2023

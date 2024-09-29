@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Designing Dialogue Systems&#58; A Mean, Grumpy, Sarcastic Chatbot In The Browser
+title: 'Designing Dialogue Systems: A Mean, Grumpy, Sarcastic Chatbot In The Browser'
 authors: Ilić Suzana, Nakano Reiichiro, Hajnal Ivo
 conference: "Arxiv"
 year: 2019

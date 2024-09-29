@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Citygpt&#58; Empowering Urban Spatial Cognition Of Large Language Models
+title: 'Citygpt: Empowering Urban Spatial Cognition Of Large Language Models'
 authors: Feng Jie, Du Yuwei, Liu Tianhui, Guo Siqi, Lin Yuming, Li Yong
 conference: "Arxiv"
 year: 2024

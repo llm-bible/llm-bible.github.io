@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: &#64;ve&#58; A Chatbot For Latin
+title: '@ve: A Chatbot For Latin'
 authors: Bendel Oliver, N'diaye Karim
 conference: "Arxiv"
 year: 2023

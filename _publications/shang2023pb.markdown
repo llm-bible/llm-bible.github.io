@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PB-LLM&#58; Partially Binarized Large Language Models
+title: 'PB-LLM: Partially Binarized Large Language Models'
 authors: Shang Yuzhang, Yuan Zhihang, Wu Qiang, Dong Zhen
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: H2ogpt&#58; Democratizing Large Language Models
+title: 'H2ogpt: Democratizing Large Language Models'
 authors: Candel Arno, Mckinney Jon, Singer Philipp, Pfeiffer Pascal, Jeblick Maximilian, Prabhu Prithvi, Gambera Jeff, Landry Mark, Bansal Shivam, Chesler Ryan, Lee Chun Ming, Conde Marcos V., Stetsenko Pasha, Grellier Olivier, Ambati Srisatish
 conference: "Arxiv"
 year: 2023

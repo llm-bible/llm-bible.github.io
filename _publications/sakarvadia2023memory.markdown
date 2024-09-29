@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Memory Injections&#58; Correcting Multi-hop Reasoning Failures During Inference In Transformer-based Language Models
+title: 'Memory Injections: Correcting Multi-hop Reasoning Failures During Inference In Transformer-based Language Models'
 authors: Sakarvadia Mansi, Ajith Aswathy, Khan Arham, Grzenda Daniel, Hudson Nathaniel, Bauer André, Chard Kyle, Foster Ian
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sirllm&#58; Streaming Infinite Retentive LLM
+title: 'Sirllm: Streaming Infinite Retentive LLM'
 authors: Yao Yao, Li Zuchao, Zhao Hai
 conference: "Arxiv"
 year: 2024

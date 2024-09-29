@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Answer, Assemble, Ace&#58; Understanding How Transformers Answer Multiple Choice Questions
+title: 'Answer, Assemble, Ace: Understanding How Transformers Answer Multiple Choice Questions'
 authors: Wiegreffe Sarah, Tafjord Oyvind, Belinkov Yonatan, Hajishirzi Hannaneh, Sabharwal Ashish
 conference: "Arxiv"
 year: 2024

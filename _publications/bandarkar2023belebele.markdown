@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Belebele Benchmark&#58; A Parallel Reading Comprehension Dataset In 122 Language Variants
+title: 'The Belebele Benchmark: A Parallel Reading Comprehension Dataset In 122 Language Variants'
 authors: Bandarkar Lucas, Liang Davis, Muller Benjamin, Artetxe Mikel, Shukla Satya Narayan, Husa Donald, Goyal Naman, Krishnan Abhinandan, Zettlemoyer Luke, Khabsa Madian
 conference: "Arxiv"
 year: 2023

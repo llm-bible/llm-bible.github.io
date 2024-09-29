@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Codeaid&#58; Evaluating A Classroom Deployment Of An Llm-based Programming Assistant That Balances Student And Educator Needs
+title: 'Codeaid: Evaluating A Classroom Deployment Of An Llm-based Programming Assistant That Balances Student And Educator Needs'
 authors: Kazemitabaar Majeed, Ye Runlong, Wang Xiaoning, Henley Austin Z., Denny Paul, Craig Michelle, Grossman Tovi
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instructgraph&#58; Boosting Large Language Models Via Graph-centric Instruction Tuning And Preference Alignment
+title: 'Instructgraph: Boosting Large Language Models Via Graph-centric Instruction Tuning And Preference Alignment'
 authors: Wang Jianing, Wu Junda, Hou Yupeng, Liu Yao, Gao Ming, Mcauley Julian
 conference: "Arxiv"
 year: 2024

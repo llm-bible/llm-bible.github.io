@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recmind&#58; Large Language Model Powered Agent For Recommendation
+title: 'Recmind: Large Language Model Powered Agent For Recommendation'
 authors: Yancheng Wang, Ziyan Jiang, Zheng Chen, Fan Yang, Yingxue Zhou, Eunah Cho, Xing Fan, Xiaojiang Huang, Yanbin Lu, Yingzhen Yang
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Taco&#58; Enhancing Cross-lingual Transfer For Low-resource Languages In Llms Through Translation-assisted Chain-of-thought Processes
+title: 'Taco: Enhancing Cross-lingual Transfer For Low-resource Languages In Llms Through Translation-assisted Chain-of-thought Processes'
 authors: Upadhayay Bibek, Behzadan Vahid
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Agent-simt&#58; Agent-assisted Simultaneous Machine Translation With Large Language Models
+title: 'Agent-simt: Agent-assisted Simultaneous Machine Translation With Large Language Models'
 authors: Guo Shoutao, Zhang Shaolei, Ma Zhengrui, Zhang Min, Feng Yang
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Slim-llm&#58; Salience-driven Mixed-precision Quantization For Large Language Models
+title: 'Slim-llm: Salience-driven Mixed-precision Quantization For Large Language Models'
 authors: Huang Wei, Qin Haotong, Liu Yangdong, Li Yawei, Liu Xianglong, Benini Luca, Magno Michele, Qi Xiaojuan
 conference: "Arxiv"
 year: 2024

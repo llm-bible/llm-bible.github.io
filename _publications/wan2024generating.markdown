@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DELL&#58; Generating Reactions And Explanations For Llm-based Misinformation Detection
+title: 'DELL: Generating Reactions And Explanations For Llm-based Misinformation Detection'
 authors: Wan Herun, Feng Shangbin, Tan Zhaoxuan, Wang Heng, Tsvetkov Yulia, Luo Minnan
 conference: "Arxiv"
 year: 2024

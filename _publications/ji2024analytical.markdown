@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ANAH&#58; Analytical Annotation Of Hallucinations In Large Language Models
+title: 'ANAH: Analytical Annotation Of Hallucinations In Large Language Models'
 authors: Ji Ziwei, Gu Yuzhe, Zhang Wenwei, Lyu Chengqi, Lin Dahua, Chen Kai
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Satlm&#58; Satisfiability-aided Language Models Using Declarative Prompting
+title: 'Satlm: Satisfiability-aided Language Models Using Declarative Prompting'
 authors: Ye Xi, Chen Qiaochu, Dillig Isil, Durrett Greg
 conference: "Arxiv"
 year: 2023

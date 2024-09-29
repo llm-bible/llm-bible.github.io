@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PACE&#58; Improving Prompt With Actor-critic Editing For Large Language Model
+title: 'PACE: Improving Prompt With Actor-critic Editing For Large Language Model'
 authors: Dong Yihong, Luo Kangcheng, Jiang Xue, Jin Zhi, Li Ge
 conference: "Arxiv"
 year: 2023

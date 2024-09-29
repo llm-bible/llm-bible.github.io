@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Stack Attention&#58; Improving The Ability Of Transformers To Model Hierarchical Patterns
+title: 'Stack Attention: Improving The Ability Of Transformers To Model Hierarchical Patterns'
 authors: Dusell Brian, Chiang David
 conference: "Arxiv"
 year: 2023

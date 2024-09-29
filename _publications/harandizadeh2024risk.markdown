@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Risk And Response In Large Language Models&#58; Evaluating Key Threat Categories
+title: 'Risk And Response In Large Language Models: Evaluating Key Threat Categories'
 authors: Harandizadeh Bahareh, Salinas Abel, Morstatter Fred
 conference: "Arxiv"
 year: 2024

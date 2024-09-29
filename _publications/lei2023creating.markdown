@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Creating A Dataset For High-performance Computing Code Translation Using Llms&#58; A Bridge Between Openmp Fortran And C++
+title: 'Creating A Dataset For High-performance Computing Code Translation Using Llms: A Bridge Between Openmp Fortran And C++'
 authors: Lei Bin, Ding Caiwen, Chen Le, Lin Pei-hung, Liao Chunhua
 conference: "Arxiv"
 year: 2023

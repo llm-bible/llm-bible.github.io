@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: One Prompt Is Not Enough&#58; Automated Construction Of A Mixture-of-expert Prompts
+title: 'One Prompt Is Not Enough: Automated Construction Of A Mixture-of-expert Prompts'
 authors: Wang Ruochen, An Sohyun, Cheng Minhao, Zhou Tianyi, Hwang Sung Ju, Hsieh Cho-jui
 conference: "Proceedings of the"
 year: 2024

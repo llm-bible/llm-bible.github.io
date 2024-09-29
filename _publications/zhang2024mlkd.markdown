@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MLKD-BERT&#58; Multi-level Knowledge Distillation For Pre-trained Language Models
+title: 'MLKD-BERT: Multi-level Knowledge Distillation For Pre-trained Language Models'
 authors: Zhang Ying, Yang Ziheng, Ji Shufan
 conference: "Arxiv"
 year: 2024

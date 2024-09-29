@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Elicitron&#58; An LLM Agent-based Simulation Framework For Design Requirements Elicitation
+title: 'Elicitron: An LLM Agent-based Simulation Framework For Design Requirements Elicitation'
 authors: Ataei Mohammadmehdi, Cheong Hyunmin, Grandi Daniele, Wang Ye, Morris Nigel, Tessier Alexander
 conference: "Arxiv"
 year: 2024

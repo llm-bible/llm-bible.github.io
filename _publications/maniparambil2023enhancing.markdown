@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing CLIP With GPT-4&#58; Harnessing Visual Descriptions As Prompts
+title: 'Enhancing CLIP With GPT-4: Harnessing Visual Descriptions As Prompts'
 authors: Maniparambil Mayug, Vorster Chris, Molloy Derek, Murphy Noel, Mcguinness Kevin, O'connor Noel E.
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BRAVE&#58; Broadening The Visual Encoding Of Vision-language Models
+title: 'BRAVE: Broadening The Visual Encoding Of Vision-language Models'
 authors: Kar Oğuzhan Fatih, Tonioni Alessio, Poklukar Petra, Kulshrestha Achin, Zamir Amir, Tombari Federico
 conference: "Arxiv"
 year: 2024

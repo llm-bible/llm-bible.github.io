@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Don't Forget Your Reward Values&#58; Language Model Alignment Via Value-based Calibration
+title: 'Don''t Forget Your Reward Values: Language Model Alignment Via Value-based Calibration'
 authors: Mao Xin, Li Feng-lin, Xu Huimin, Zhang Wei, Luu Anh Tuan
 conference: "Arxiv"
 year: 2024

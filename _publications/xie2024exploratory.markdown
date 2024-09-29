@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploratory Preference Optimization&#58; Harnessing Implicit Q*-approximation For Sample-efficient RLHF
+title: 'Exploratory Preference Optimization: Harnessing Implicit Q*-approximation For Sample-efficient RLHF'
 authors: Xie Tengyang, Foster Dylan J., Krishnamurthy Akshay, Rosset Corby, Awadallah Ahmed, Rakhlin Alexander
 conference: "Arxiv"
 year: 2024

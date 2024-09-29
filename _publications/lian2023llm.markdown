@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llm-grounded Diffusion&#58; Enhancing Prompt Understanding Of Text-to-image Diffusion Models With Large Language Models
+title: 'Llm-grounded Diffusion: Enhancing Prompt Understanding Of Text-to-image Diffusion Models With Large Language Models'
 authors: Lian Long, Li Boyi, Yala Adam, Darrell Trevor
 conference: "Arxiv"
 year: 2023

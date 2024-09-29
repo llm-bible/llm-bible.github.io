@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: E4srec&#58; An Elegant Effective Efficient Extensible Solution Of Large Language Models For Sequential Recommendation
+title: 'E4srec: An Elegant Effective Efficient Extensible Solution Of Large Language Models For Sequential Recommendation'
 authors: Xinhang Li, Chong Chen, Xiangyu Zhao, Yong Zhang, Chunxiao Xing
 conference: "Arxiv"
 year: 2023

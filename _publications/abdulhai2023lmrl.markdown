@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LMRL Gym&#58; Benchmarks For Multi-turn Reinforcement Learning With Language Models
+title: 'LMRL Gym: Benchmarks For Multi-turn Reinforcement Learning With Language Models'
 authors: Abdulhai Marwa, White Isadora, Snell Charlie, Sun Charles, Hong Joey, Zhai Yuexiang, Xu Kelvin, Levine Sergey
 conference: "Arxiv"
 year: 2023

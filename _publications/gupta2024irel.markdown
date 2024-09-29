@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Irel At Semeval-2024 Task 9&#58; Improving Conventional Prompting Methods For Brain Teasers
+title: 'Irel At Semeval-2024 Task 9: Improving Conventional Prompting Methods For Brain Teasers'
 authors: Gupta Harshit, Chaudhary Manav, Raha Tathagata, Subramanian Shivansh, Varma Vasudeva
 conference: "Arxiv"
 year: 2024

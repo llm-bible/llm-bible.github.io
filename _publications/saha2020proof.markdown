@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prover&#58; Proof Generation For Interpretable Reasoning Over Rules
+title: 'Prover: Proof Generation For Interpretable Reasoning Over Rules'
 authors: Saha Swarnadeep, Ghosh Sayan, Srivastava Shashank, Bansal Mohit
 conference: "Arxiv"
 year: 2020

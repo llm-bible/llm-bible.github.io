@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Roguegpt&#58; Dis-ethical Tuning Transforms Chatgpt4 Into A Rogue AI In 158 Words
+title: 'Roguegpt: Dis-ethical Tuning Transforms Chatgpt4 Into A Rogue AI In 158 Words'
 authors: Buscemi Alessio, Proverbio Daniele
 conference: "Arxiv"
 year: 2024

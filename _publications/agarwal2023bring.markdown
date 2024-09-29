@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bring Your Own KG&#58; Self-supervised Program Synthesis For Zero-shot KGQA
+title: 'Bring Your Own KG: Self-supervised Program Synthesis For Zero-shot KGQA'
 authors: Agarwal Dhruv, Das Rajarshi, Khosla Sopan, Gangadharaiah Rashmi
 conference: "Arxiv"
 year: 2023

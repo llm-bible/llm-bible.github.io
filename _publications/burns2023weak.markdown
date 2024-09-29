@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Weak-to-strong Generalization&#58; Eliciting Strong Capabilities With Weak Supervision
+title: 'Weak-to-strong Generalization: Eliciting Strong Capabilities With Weak Supervision'
 authors: Burns Collin, Izmailov Pavel, Kirchner Jan Hendrik, Baker Bowen, Gao Leo, Aschenbrenner Leopold, Chen Yining, Ecoffet Adrien, Joglekar Manas, Leike Jan, Sutskever Ilya, Wu Jeff
 conference: "Arxiv"
 year: 2023

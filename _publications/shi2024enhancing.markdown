@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Eragent&#58; Enhancing Retrieval-augmented Language Models With Improved Accuracy, Efficiency, And Personalization
+title: 'Eragent: Enhancing Retrieval-augmented Language Models With Improved Accuracy, Efficiency, And Personalization'
 authors: Shi Yunxiao, Zi Xing, Shi Zijing, Zhang Haimin, Wu Qiang, Xu Min
 conference: "Arxiv"
 year: 2024

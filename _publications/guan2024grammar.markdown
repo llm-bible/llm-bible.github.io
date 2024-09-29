@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Codeip&#58; A Grammar-guided Multi-bit Watermark For Large Language Models Of Code
+title: 'Codeip: A Grammar-guided Multi-bit Watermark For Large Language Models Of Code'
 authors: Guan Batu, Wan Yao, Bi Zhangqian, Wang Zheng, Zhang Hongyu, Zhou Pan, Sun Lichao
 conference: "Arxiv"
 year: 2024

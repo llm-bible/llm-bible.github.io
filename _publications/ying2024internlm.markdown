@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Internlm-math&#58; Open Math Large Language Models Toward Verifiable Reasoning
+title: 'Internlm-math: Open Math Large Language Models Toward Verifiable Reasoning'
 authors: Ying Huaiyuan, Zhang Shuo, Li Linyang, Zhou Zhejian, Shao Yunfan, Fei Zhaoye, Ma Yichuan, Hong Jiawei, Liu Kuikun, Wang Ziyi, Wang Yudong, Wu Zijian, Li Shuaibin, Zhou Fengzhe, Liu Hongwei, Zhang Songyang, Zhang Wenwei, Yan Hang, Qiu Xipeng, Wang Jiayu, Chen Kai, Lin Dahua
 conference: "Arxiv"
 year: 2024

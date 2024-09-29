@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SEED&#58; Customize Large Language Models With Sample-efficient Adaptation For Code Generation
+title: 'SEED: Customize Large Language Models With Sample-efficient Adaptation For Code Generation'
 authors: Jiang Xue, Dong Yihong, Jin Zhi, Li Ge
 conference: "Arxiv"
 year: 2024

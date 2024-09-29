@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Insights Into Alignment&#58; Evaluating DPO And Its Variants Across Multiple Tasks
+title: 'Insights Into Alignment: Evaluating DPO And Its Variants Across Multiple Tasks'
 authors: Saeidi Amir, Verma Shivanshu, Baral Chitta
 conference: "Arxiv"
 year: 2024

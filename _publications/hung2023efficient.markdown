@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TADA&#58; Efficient Task-agnostic Domain Adaptation For Transformers
+title: 'TADA: Efficient Task-agnostic Domain Adaptation For Transformers'
 authors: Hung Chia-chien, Lange Lukas, Strötgen Jannik
 conference: "Arxiv"
 year: 2023

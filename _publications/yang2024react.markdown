@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: React Meets Actre&#58; When Language Agents Enjoy Training Data Autonomy
+title: 'React Meets Actre: When Language Agents Enjoy Training Data Autonomy'
 authors: Yang Zonghan, Li Peng, Yan Ming, Zhang Ji, Huang Fei, Liu Yang
 conference: "Arxiv"
 year: 2024

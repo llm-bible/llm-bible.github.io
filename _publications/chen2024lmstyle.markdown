@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lmstyle Benchmark&#58; Evaluating Text Style Transfer For Chatbots
+title: 'Lmstyle Benchmark: Evaluating Text Style Transfer For Chatbots'
 authors: Chen Jianlin
 conference: "Arxiv"
 year: 2024

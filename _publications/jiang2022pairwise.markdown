@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pairreranker&#58; Pairwise Reranking For Natural Language Generation
+title: 'Pairreranker: Pairwise Reranking For Natural Language Generation'
 authors: Jiang Dongfu, Lin Bill Yuchen, Ren Xiang
 conference: "Arxiv"
 year: 2022

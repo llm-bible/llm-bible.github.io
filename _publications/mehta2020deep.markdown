@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Delight&#58; Deep And Light-weight Transformer
+title: 'Delight: Deep And Light-weight Transformer'
 authors: Mehta Sachin, Ghazvininejad Marjan, Iyer Srinivasan, Zettlemoyer Luke, Hajishirzi Hannaneh
 conference: "Arxiv"
 year: 2020

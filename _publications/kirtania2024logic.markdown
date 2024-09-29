@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LOGIC-LM++&#58; Multi-step Refinement For Symbolic Formulations
+title: 'LOGIC-LM++: Multi-step Refinement For Symbolic Formulations'
 authors: Kirtania Shashank, Gupta Priyanshu, Radhakirshna Arjun
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Non-intrusive Adaptation&#58; Input-centric Parameter-efficient Fine-tuning For Versatile Multimodal Modeling
+title: 'Non-intrusive Adaptation: Input-centric Parameter-efficient Fine-tuning For Versatile Multimodal Modeling'
 authors: Wang Yaqing, Wu Jialin, Dabral Tanmaya, Zhang Jiageng, Brown Geoff, Lu Chun-ta, Liu Frederick, Liang Yi, Pang Bo, Bendersky Michael, Soricut Radu
 conference: "Arxiv"
 year: 2023

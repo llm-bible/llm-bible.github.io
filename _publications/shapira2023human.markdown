@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Human Choice Prediction In Language-based Persuasion Games&#58; Simulation-based Off-policy Evaluation
+title: 'Human Choice Prediction In Language-based Persuasion Games: Simulation-based Off-policy Evaluation'
 authors: Shapira Eilam, Apel Reut, Tennenholtz Moshe, Reichart Roi
 conference: "Arxiv"
 year: 2023

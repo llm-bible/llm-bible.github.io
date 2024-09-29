@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CONFLARE&#58; Conformal Large Language Model Retrieval
+title: 'CONFLARE: Conformal Large Language Model Retrieval'
 authors: Rouzrokh Pouria, Faghani Shahriar, Gamble Cooper U., Shariatnia Moein, Erickson Bradley J.
 conference: "Arxiv"
 year: 2024

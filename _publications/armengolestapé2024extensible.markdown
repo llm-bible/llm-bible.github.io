@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Forklift&#58; An Extensible Neural Lifter
+title: 'Forklift: An Extensible Neural Lifter'
 authors: Armengol-estapé Jordi, Rocha Rodrigo C. O., Woodruff Jackson, Minervini Pasquale, O'boyle Michael F. P.
 conference: "Arxiv"
 year: 2024

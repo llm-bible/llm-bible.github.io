@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Optimus&#58; Accelerating Large-scale Multi-modal LLM Training By Bubble Exploitation
+title: 'Optimus: Accelerating Large-scale Multi-modal LLM Training By Bubble Exploitation'
 authors: Feng Weiqi, Chen Yangrui, Wang Shaoyu, Peng Yanghua, Lin Haibin, Yu Minlan
 conference: "Arxiv"
 year: 2024

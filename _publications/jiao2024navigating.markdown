@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Navigating LLM Ethics&#58; Advancements, Challenges, And Future Directions
+title: 'Navigating LLM Ethics: Advancements, Challenges, And Future Directions'
 authors: Jiao Junfeng, Afroogh Saleh, Xu Yiming, Phillips Connor
 conference: "Arxiv"
 year: 2024

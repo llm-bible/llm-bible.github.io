@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chbias&#58; Bias Evaluation And Mitigation Of Chinese Conversational Language Models
+title: 'Chbias: Bias Evaluation And Mitigation Of Chinese Conversational Language Models'
 authors: Zhao Jiaxu, Fang Meng, Shi Zijing, Li Yitong, Chen Ling, Pechenizkiy Mykola
 conference: "Arxiv"
 year: 2023

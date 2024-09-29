@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Codetf&#58; One-stop Transformer Library For State-of-the-art Code LLM
+title: 'Codetf: One-stop Transformer Library For State-of-the-art Code LLM'
 authors: Bui Nghi D. Q., Le Hung, Wang Yue, Li Junnan, Gotmare Akhilesh Deepak, Hoi Steven C. H.
 conference: "Arxiv"
 year: 2023

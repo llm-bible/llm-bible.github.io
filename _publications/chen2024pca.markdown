@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pca-bench&#58; Evaluating Multimodal Large Language Models In Perception-cognition-action Chain
+title: 'Pca-bench: Evaluating Multimodal Large Language Models In Perception-cognition-action Chain'
 authors: Chen Liang, Zhang Yichi, Ren Shuhuai, Zhao Haozhe, Cai Zefan, Wang Yuchi, Wang Peiyi, Meng Xiangdi, Liu Tianyu, Chang Baobao
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Toolformer&#58; Language Models Can Teach Themselves To Use Tools
+title: 'Toolformer: Language Models Can Teach Themselves To Use Tools'
 authors: Schick Timo, Dwivedi-yu Jane, Dessì Roberto, Raileanu Roberta, Lomeli Maria, Zettlemoyer Luke, Cancedda Nicola, Scialom Thomas
 conference: "Arxiv"
 year: 2023

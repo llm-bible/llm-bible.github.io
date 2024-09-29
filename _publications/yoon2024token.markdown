@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TLCR&#58; Token-level Continuous Reward For Fine-grained Reinforcement Learning From Human Feedback
+title: 'TLCR: Token-level Continuous Reward For Fine-grained Reinforcement Learning From Human Feedback'
 authors: Yoon Eunseop, Yoon Hee Suk, Eom Soohwan, Han Gunsoo, Nam Daniel Wontae, Jo Daejin, On Kyoung-woon, Hasegawa-johnson Mark A., Kim Sungwoong, Yoo Chang D.
 conference: "Arxiv"
 year: 2024

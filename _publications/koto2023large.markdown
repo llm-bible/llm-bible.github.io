@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Only Pass Primary School Exams In Indonesia&#58; A Comprehensive Test On Indommlu
+title: 'Large Language Models Only Pass Primary School Exams In Indonesia: A Comprehensive Test On Indommlu'
 authors: Koto Fajri, Aisyah Nurul, Li Haonan, Baldwin Timothy
 conference: "Arxiv"
 year: 2023

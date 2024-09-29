@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Skywork&#58; A More Open Bilingual Foundation Model
+title: 'Skywork: A More Open Bilingual Foundation Model'
 authors: Wei Tianwen, Zhao Liang, Zhang Lichang, Zhu Bo, Wang Lijie, Yang Haihua, Li Biye, Cheng Cheng, Lü Weiwei, Hu Rui, Li Chenxia, Yang Liu, Luo Xilin, Wu Xuejie, Liu Lunan, Cheng Wenjun, Cheng Peng, Zhang Jianhao, Zhang Xiaoyu, Lin Lei, Wang Xiaokun, Ma Yutuan, Dong Chuanhai, Sun Yanqi, Chen Yifu, Peng Yongyi, Liang Xiaojuan, Yan Shuicheng, Fang Han, Zhou Yahui
 conference: "Arxiv"
 year: 2023

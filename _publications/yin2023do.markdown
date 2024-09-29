@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Do Large Language Models Know What They Don't Know?
+title: Do Large Language Models Know What They Don''t Know?
 authors: Yin Zhangyue, Sun Qiushi, Guo Qipeng, Wu Jiawen, Qiu Xipeng, Huang Xuanjing
 conference: "Arxiv"
 year: 2023

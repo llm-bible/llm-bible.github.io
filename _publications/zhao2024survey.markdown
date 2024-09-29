@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Survey Of Backdoor Attacks And Defenses On Large Language Models&#58; Implications For Security Measures
+title: 'A Survey Of Backdoor Attacks And Defenses On Large Language Models: Implications For Security Measures'
 authors: Zhao Shuai, Jia Meihuizi, Guo Zhongliang, Gan Leilei, Xu Xiaoyu, Wu Xiaobao, Fu Jie, Feng Yichao, Pan Fengjun, Tuan Luu Anh
 conference: "Arxiv"
 year: 2024

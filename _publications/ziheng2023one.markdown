@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aligner&#58; One Global Token Is Worth Millions Of Parameters When Aligning Large Language Models
+title: 'Aligner: One Global Token Is Worth Millions Of Parameters When Aligning Large Language Models'
 authors: Ziheng Zhou University Of California, Los Angeles, Wu Yingnian University Of California, Los Angeles, Zhu Song-chun University Of California, Los Angeles, Terzopoulos Demetri University Of California, Los Angeles
 conference: "Arxiv"
 year: 2023

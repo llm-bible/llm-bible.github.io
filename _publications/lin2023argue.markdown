@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Argue With Me Tersely&#58; Towards Sentence-level Counter-argument Generation
+title: 'Argue With Me Tersely: Towards Sentence-level Counter-argument Generation'
 authors: Lin Jiayu, Ye Rong, Han Meng, Zhang Qi, Lai Ruofei, Zhang Xinyu, Cao Zhao, Huang Xuanjing, Wei Zhongyu
 conference: "Arxiv"
 year: 2023

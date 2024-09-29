@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Internlm-law&#58; An Open Source Chinese Legal Large Language Model
+title: 'Internlm-law: An Open Source Chinese Legal Large Language Model'
 authors: Fei Zhiwei, Zhang Songyang, Shen Xiaoyu, Zhu Dawei, Wang Xiao, Cao Maosong, Zhou Fengzhe, Li Yining, Zhang Wenwei, Lin Dahua, Chen Kai, Ge Jidong
 conference: "Arxiv"
 year: 2024

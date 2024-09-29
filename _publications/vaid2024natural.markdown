@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Natural Language Programming In Medicine&#58; Administering Evidence Based Clinical Workflows With Autonomous Agents Powered By Generative Large Language Models
+title: 'Natural Language Programming In Medicine: Administering Evidence Based Clinical Workflows With Autonomous Agents Powered By Generative Large Language Models'
 authors: Vaid Akhil, Lampert Joshua, Lee Juhee, Sawant Ashwin, Apakama Donald, Sakhuja Ankit, Soroush Ali, Bick Sarah, Abbott Ethan, Gomez Hernando, Hadley Michael, Lee Denise, Landi Isotta, Duong Son Q, Bussola Nicole, Nabeel Ismail, Muehlstedt Silke, Muehlstedt Silke, Freeman Robert, Kovatch Patricia, Carr Brendan, Wang Fei, Glicksberg Benjamin, Argulian Edgar, Lerakis Stamatios, Khera Rohan, Reich David L., Kraft Monica, Charney Alexander, Nadkarni Girish
 conference: "Arxiv"
 year: 2024

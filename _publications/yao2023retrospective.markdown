@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retroformer&#58; Retrospective Large Language Agents With Policy Gradient Optimization
+title: 'Retroformer: Retrospective Large Language Agents With Policy Gradient Optimization'
 authors: Yao Weiran, Heinecke Shelby, Niebles Juan Carlos, Liu Zhiwei, Feng Yihao, Xue Le, Murthy Rithesh, Chen Zeyuan, Zhang Jianguo, Arpit Devansh, Xu Ran, Mui Phil, Wang Huan, Xiong Caiming, Savarese Silvio
 conference: "Arxiv"
 year: 2023

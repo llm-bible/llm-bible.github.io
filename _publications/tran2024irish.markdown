@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: UCCIX&#58; Irish-excellence Large Language Model
+title: 'UCCIX: Irish-excellence Large Language Model'
 authors: Tran Khanh-tung, O'sullivan Barry, Nguyen Hoang D.
 conference: "Arxiv"
 year: 2024

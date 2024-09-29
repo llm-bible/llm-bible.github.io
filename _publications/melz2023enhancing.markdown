@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing LLM Intelligence With ARM-RAG&#58; Auxiliary Rationale Memory For Retrieval Augmented Generation
+title: 'Enhancing LLM Intelligence With ARM-RAG: Auxiliary Rationale Memory For Retrieval Augmented Generation'
 authors: Melz Eric
 conference: "Arxiv"
 year: 2023

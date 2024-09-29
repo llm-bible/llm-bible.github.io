@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mllmreid&#58; Multimodal Large Language Model-based Person Re-identification
+title: 'Mllmreid: Multimodal Large Language Model-based Person Re-identification'
 authors: Yang Shan, Zhang Yongfei
 conference: "Arxiv"
 year: 2024

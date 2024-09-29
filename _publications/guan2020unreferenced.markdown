@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: UNION&#58; An Unreferenced Metric For Evaluating Open-ended Story Generation
+title: 'UNION: An Unreferenced Metric For Evaluating Open-ended Story Generation'
 authors: Guan Jian, Huang Minlie
 conference: "Arxiv"
 year: 2020

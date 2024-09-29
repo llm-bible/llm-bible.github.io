@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DUAL-REFLECT&#58; Enhancing Large Language Models For Reflective Translation Through Dual Learning Feedback Mechanisms
+title: 'DUAL-REFLECT: Enhancing Large Language Models For Reflective Translation Through Dual Learning Feedback Mechanisms'
 authors: Chen Andong, Lou Lianzhang, Chen Kehai, Bai Xuefeng, Xiang Yang, Yang Muyun, Zhao Tiejun, Zhang Min
 conference: "Arxiv"
 year: 2024

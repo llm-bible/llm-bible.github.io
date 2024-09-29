@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Litcab&#58; Lightweight Language Model Calibration Over Short- And Long-form Responses
+title: 'Litcab: Lightweight Language Model Calibration Over Short- And Long-form Responses'
 authors: Liu Xin, Khalifa Muhammad, Wang Lu
 conference: "Arxiv"
 year: 2023

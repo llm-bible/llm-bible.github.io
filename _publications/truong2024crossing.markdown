@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Crossing Linguistic Horizons&#58; Finetuning And Comprehensive Evaluation Of Vietnamese Large Language Models
+title: 'Crossing Linguistic Horizons: Finetuning And Comprehensive Evaluation Of Vietnamese Large Language Models'
 authors: Truong Sang T., Nguyen Duc Q., Nguyen Toan, Le Dong D., Truong Nhi N., Quan Tho, Koyejo Sanmi
 conference: "Arxiv"
 year: 2024

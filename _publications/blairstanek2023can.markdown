@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BLT&#58; Can Large Language Models Handle Basic Legal Text?
+title: 'BLT: Can Large Language Models Handle Basic Legal Text?'
 authors: Blair-stanek Andrew, Holzenberger Nils, Van Durme Benjamin
 conference: "Arxiv"
 year: 2023

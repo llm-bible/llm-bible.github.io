@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Introducing The Newspalm MBR And QE Dataset&#58; Llm-generated High-quality Parallel Data Outperforms Traditional Web-crawled Data
+title: 'Introducing The Newspalm MBR And QE Dataset: Llm-generated High-quality Parallel Data Outperforms Traditional Web-crawled Data'
 authors: Finkelstein Mara, Vilar David, Freitag Markus
 conference: "Arxiv"
 year: 2024

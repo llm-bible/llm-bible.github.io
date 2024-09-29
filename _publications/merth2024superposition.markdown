@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Superposition Prompting&#58; Improving And Accelerating Retrieval-augmented Generation
+title: 'Superposition Prompting: Improving And Accelerating Retrieval-augmented Generation'
 authors: Merth Thomas, Fu Qichen, Rastegari Mohammad, Najibi Mahyar
 conference: "Arxiv"
 year: 2024

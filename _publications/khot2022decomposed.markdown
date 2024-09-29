@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Decomposed Prompting&#58; A Modular Approach For Solving Complex Tasks
+title: 'Decomposed Prompting: A Modular Approach For Solving Complex Tasks'
 authors: Khot Tushar, Trivedi Harsh, Finlayson Matthew, Fu Yao, Richardson Kyle, Clark Peter, Sabharwal Ashish
 conference: "Arxiv"
 year: 2022

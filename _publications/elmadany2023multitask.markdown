@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Octopus&#58; A Multitask Model And Toolkit For Arabic Natural Language Generation
+title: 'Octopus: A Multitask Model And Toolkit For Arabic Natural Language Generation'
 authors: Elmadany Abdelrahim, Nagoudi El Moatez Billah, Abdul-mageed Muhammad
 conference: "Arxiv"
 year: 2023

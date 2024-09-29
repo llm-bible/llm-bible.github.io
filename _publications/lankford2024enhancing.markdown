@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Neural Machine Translation Of Low-resource Languages&#58; Corpus Development, Human Evaluation And Explainable AI Architectures
+title: 'Enhancing Neural Machine Translation Of Low-resource Languages: Corpus Development, Human Evaluation And Explainable AI Architectures'
 authors: Lankford Séamus
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Power Of Question Translation Training In Multilingual Reasoning&#58; Broadened Scope And Deepened Insights
+title: 'The Power Of Question Translation Training In Multilingual Reasoning: Broadened Scope And Deepened Insights'
 authors: Zhu Wenhao, Huang Shujian, Yuan Fei, Chen Cheng, Chen Jiajun, Birch Alexandra
 conference: "Arxiv"
 year: 2024

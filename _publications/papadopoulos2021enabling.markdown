@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PENELOPIE&#58; Enabling Open Information Extraction For The Greek Language Through Machine Translation
+title: 'PENELOPIE: Enabling Open Information Extraction For The Greek Language Through Machine Translation'
 authors: Papadopoulos Dimitris, Papadakis Nikolaos, Matsatsinis Nikolaos
 conference: "Arxiv"
 year: 2021

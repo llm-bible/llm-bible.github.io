@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Expertprompting&#58; Instructing Large Language Models To Be Distinguished Experts
+title: 'Expertprompting: Instructing Large Language Models To Be Distinguished Experts'
 authors: Xu Benfeng, Yang An, Lin Junyang, Wang Quan, Zhou Chang, Zhang Yongdong, Mao Zhendong
 conference: "Arxiv"
 year: 2023

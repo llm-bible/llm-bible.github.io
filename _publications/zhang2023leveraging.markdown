@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PLUG&#58; Leveraging Pivot Language In Cross-lingual Instruction Tuning
+title: 'PLUG: Leveraging Pivot Language In Cross-lingual Instruction Tuning'
 authors: Zhang Zhihan, Lee Dong-ho, Fang Yuwei, Yu Wenhao, Jia Mengzhao, Jiang Meng, Barbieri Francesco
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Moral Imperative&#58; The Need For Continual Superalignment Of Large Language Models
+title: 'A Moral Imperative: The Need For Continual Superalignment Of Large Language Models'
 authors: Puthumanaillam Gokul, Vora Manav, Thangeda Pranay, Ornik Melkior
 conference: "Arxiv"
 year: 2024

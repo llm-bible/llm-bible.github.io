@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: STREET&#58; A Multi-task Structured Reasoning And Explanation Benchmark
+title: 'STREET: A Multi-task Structured Reasoning And Explanation Benchmark'
 authors: Ribeiro Danilo, Wang Shen, Ma Xiaofei, Zhu Henry, Dong Rui, Kong Deguang, Burger Juliette, Ramos Anjelica, Wang William, Huang Zhiheng, Karypis George, Xiang Bing, Roth Dan
 conference: "Arxiv"
 year: 2023

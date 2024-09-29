@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: IAPT&#58; Instruction-aware Prompt Tuning For Large Language Models
+title: 'IAPT: Instruction-aware Prompt Tuning For Large Language Models'
 authors: Zhu Wei, Tian Aaron Xuxiang, Yin Congrui, Ni Yuan, Wang Xiaoling, Xie Guotong
 conference: "Arxiv"
 year: 2024

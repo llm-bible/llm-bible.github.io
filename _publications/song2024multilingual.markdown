@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multilingual Blending&#58; LLM Safety Alignment Evaluation With Language Mixture
+title: 'Multilingual Blending: LLM Safety Alignment Evaluation With Language Mixture'
 authors: Song Jiayang, Huang Yuheng, Zhou Zhehua, Ma Lei
 conference: "Arxiv"
 year: 2024

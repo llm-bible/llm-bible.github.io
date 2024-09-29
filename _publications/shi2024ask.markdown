@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ask-eda&#58; A Design Assistant Empowered By LLM, Hybrid RAG And Abbreviation De-hallucination
+title: 'Ask-eda: A Design Assistant Empowered By LLM, Hybrid RAG And Abbreviation De-hallucination'
 authors: Shi Luyao, Kazda Michael, Sears Bradley, Shropshire Nick, Puri Ruchir
 conference: "Arxiv"
 year: 2024

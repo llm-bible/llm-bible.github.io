@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Knowgpt&#58; Knowledge Graph Based Prompting For Large Language Models
+title: 'Knowgpt: Knowledge Graph Based Prompting For Large Language Models'
 authors: Zhang Qinggang, Dong Junnan, Chen Hao, Zha Daochen, Yu Zailiang, Huang Xiao
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reliability Check&#58; An Analysis Of Gpt-3's Response To Sensitive Topics And Prompt Wording
+title: 'Reliability Check: An Analysis Of Gpt-3''s Response To Sensitive Topics And Prompt Wording'
 authors: Khatun Aisha, Brown Daniel G.
 conference: "Arxiv"
 year: 2023

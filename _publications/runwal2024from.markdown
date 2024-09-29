@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From PEFT To DEFT&#58; Parameter Efficient Finetuning For Reducing Activation Density In Transformers
+title: 'From PEFT To DEFT: Parameter Efficient Finetuning For Reducing Activation Density In Transformers'
 authors: Runwal Bharat, Pedapati Tejaswini, Chen Pin-yu
 conference: "Arxiv"
 year: 2024

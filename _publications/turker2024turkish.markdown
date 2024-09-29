@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VBART&#58; The Turkish LLM
+title: 'VBART: The Turkish LLM'
 authors: Turker Meliksah, Ari Mehmet Erdi, Han Aydin
 conference: "Arxiv"
 year: 2024

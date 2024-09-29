@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Moextend&#58; Tuning New Experts For Modality And Task Extension
+title: 'Moextend: Tuning New Experts For Modality And Task Extension'
 authors: Zhong Shanshan, Gao Shanghua, Huang Zhongzhan, Wen Wushao, Zitnik Marinka, Zhou Pan
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Classification To Generation&#58; Insights Into Crosslingual Retrieval Augmented ICL
+title: 'From Classification To Generation: Insights Into Crosslingual Retrieval Augmented ICL'
 authors: Li Xiaoqian, Nie Ercong, Liang Sheng
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Psy-llm&#58; Scaling Up Global Mental Health Psychological Services With Ai-based Large Language Models
+title: 'Psy-llm: Scaling Up Global Mental Health Psychological Services With Ai-based Large Language Models'
 authors: Lai Tin, Shi Yukun, Du Zicong, Wu Jiajie, Fu Ken, Dou Yichao, Wang Ziqi
 conference: "Arxiv"
 year: 2023

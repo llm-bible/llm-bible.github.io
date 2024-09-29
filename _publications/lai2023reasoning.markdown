@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LISA&#58; Reasoning Segmentation Via Large Language Model
+title: 'LISA: Reasoning Segmentation Via Large Language Model'
 authors: Lai Xin, Tian Zhuotao, Chen Yukang, Li Yanwei, Yuan Yuhui, Liu Shu, Jia Jiaya
 conference: "Arxiv"
 year: 2023

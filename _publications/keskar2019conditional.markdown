@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CTRL&#58; A Conditional Transformer Language Model For Controllable Generation
+title: 'CTRL: A Conditional Transformer Language Model For Controllable Generation'
 authors: Keskar Nitish Shirish, Mccann Bryan, Varshney Lav R., Xiong Caiming, Socher Richard
 conference: "Arxiv"
 year: 2019

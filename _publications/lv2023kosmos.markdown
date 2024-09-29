@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: KOSMOS-2.5&#58; A Multimodal Literate Model
+title: 'KOSMOS-2.5: A Multimodal Literate Model'
 authors: Lv Tengchao, Huang Yupan, Chen Jingye, Zhao Yuzhong, Jia Yilin, Cui Lei, Ma Shuming, Chang Yaoyao, Huang Shaohan, Wang Wenhui, Dong Li, Luo Weiyao, Wu Shaoxiang, Wang Guoxin, Zhang Cha, Wei Furu
 conference: "Arxiv"
 year: 2023

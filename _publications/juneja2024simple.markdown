@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: $\(\texttt{lm}\)^\(\texttt{2}\)$&#58; A Simple Society Of Language Models Solves Complex Reasoning
+title: '$\(\texttt{lm}\)^\(\texttt{2}\)$: A Simple Society Of Language Models Solves Complex Reasoning'
 authors: Juneja Gurusha, Dutta Subhabrata, Chakraborty Tanmoy
 conference: "Arxiv"
 year: 2024

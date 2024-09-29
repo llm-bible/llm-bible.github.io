@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Neftune&#58; Noisy Embeddings Improve Instruction Finetuning
+title: 'Neftune: Noisy Embeddings Improve Instruction Finetuning'
 authors: Jain Neel, Chiang Ping-yeh, Wen Yuxin, Kirchenbauer John, Chu Hong-min, Somepalli Gowthami, Bartoldson Brian R., Kailkhura Bhavya, Schwarzschild Avi, Saha Aniruddha, Goldblum Micah, Geiping Jonas, Goldstein Tom
 conference: "Arxiv"
 year: 2023

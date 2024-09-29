@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Doctorglm&#58; Fine-tuning Your Chinese Doctor Is Not A Herculean Task
+title: 'Doctorglm: Fine-tuning Your Chinese Doctor Is Not A Herculean Task'
 authors: Xiong Honglin, Wang Sheng, Zhu Yitao, Zhao Zihao, Liu Yuxiao, Huang Linlin, Wang Qian, Shen Dinggang
 conference: "Arxiv"
 year: 2023

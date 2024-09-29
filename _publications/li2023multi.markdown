@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Textbind&#58; Multi-turn Interleaved Multimodal Instruction-following In The Wild
+title: 'Textbind: Multi-turn Interleaved Multimodal Instruction-following In The Wild'
 authors: Li Huayang, Li Siheng, Cai Deng, Wang Longyue, Liu Lemao, Watanabe Taro, Yang Yujiu, Shi Shuming
 conference: "Arxiv"
 year: 2023

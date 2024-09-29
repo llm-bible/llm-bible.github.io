@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recent Trends In Personalized Dialogue Generation&#58; A Review Of Datasets, Methodologies, And Evaluations
+title: 'Recent Trends In Personalized Dialogue Generation: A Review Of Datasets, Methodologies, And Evaluations'
 authors: Chen Yi-pei, Nishida Noriki, Nakayama Hideki, Matsumoto Yuji
 conference: "Arxiv"
 year: 2024

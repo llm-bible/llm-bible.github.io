@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SWIFT&#58;A Scalable Lightweight Infrastructure For Fine-tuning
+title: 'SWIFT:A Scalable Lightweight Infrastructure For Fine-tuning'
 authors: Zhao Yuze, Huang Jintao, Hu Jinghan, Wang Xingjun, Mao Yunlin, Zhang Daoze, Jiang Zeyinzi, Wu Zhikai, Ai Baole, Wang Ang, Zhou Wenmeng, Chen Yingda
 conference: "Arxiv"
 year: 2024

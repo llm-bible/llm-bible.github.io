@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evade The Trap Of Mediocrity&#58; Promoting Diversity And Novelty In Text Generation Via Concentrating Attention
+title: 'Evade The Trap Of Mediocrity: Promoting Diversity And Novelty In Text Generation Via Concentrating Attention'
 authors: Li Wenhao, Yi Xiaoyuan, Hu Jinyi, Sun Maosong, Xie Xing
 conference: "Arxiv"
 year: 2022

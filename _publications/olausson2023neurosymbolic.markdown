@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LINC&#58; A Neurosymbolic Approach For Logical Reasoning By Combining Language Models With First-order Logic Provers
+title: 'LINC: A Neurosymbolic Approach For Logical Reasoning By Combining Language Models With First-order Logic Provers'
 authors: Olausson Theo X., Gu Alex, Lipkin Benjamin, Zhang Cedegao E., Solar-lezama Armando, Tenenbaum Joshua B., Levy Roger
 conference: "Proceedings of the"
 year: 2023

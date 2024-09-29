@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: X-reflect&#58; Cross-reflection Prompting For Multimodal Recommendation
+title: 'X-reflect: Cross-reflection Prompting For Multimodal Recommendation'
 authors: Lyu Hanjia, Rossi Ryan, Chen Xiang, Tanjim Md Mehrab, Petrangeli Stefano, Sarkhel Somdeb, Luo Jiebo
 conference: "Arxiv"
 year: 2024

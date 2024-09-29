@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Medxchat&#58; A Unified Multimodal Large Language Model Framework Towards Cxrs Understanding And Generation
+title: 'Medxchat: A Unified Multimodal Large Language Model Framework Towards Cxrs Understanding And Generation'
 authors: Yang Ling, Wang Zhanyu, Chen Zhenghao, Liang Xinyu, Zhou Luping
 conference: "Arxiv"
 year: 2023

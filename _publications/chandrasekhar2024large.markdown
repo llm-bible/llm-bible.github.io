@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AMGPT&#58; A Large Language Model For Contextual Querying In Additive Manufacturing
+title: 'AMGPT: A Large Language Model For Contextual Querying In Additive Manufacturing'
 authors: Chandrasekhar Achuth, Chan Jonathan, Ogoke Francis, Ajenifujah Olabode, Farimani Amir Barati
 conference: "Arxiv"
 year: 2024

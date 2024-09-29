@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cos&#58; Enhancing Personalization And Mitigating Bias With Context Steering
+title: 'Cos: Enhancing Personalization And Mitigating Bias With Context Steering'
 authors: He Jerry Zhi-yang, Pandey Sashrika, Schrum Mariah L., Dragan Anca
 conference: "Arxiv"
 year: 2024

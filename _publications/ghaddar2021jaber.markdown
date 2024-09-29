@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: JABER And SABER&#58; Junior And Senior Arabic Bert
+title: 'JABER And SABER: Junior And Senior Arabic Bert'
 authors: Ghaddar Abbas, Wu Yimeng, Rashid Ahmad, Bibi Khalil, Rezagholizadeh Mehdi, Xing Chao, Wang Yasheng, Xinyu Duan, Wang Zhefeng, Huai Baoxing, Jiang Xin, Liu Qun, Langlais Philippe
 conference: "Arxiv"
 year: 2021

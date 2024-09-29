@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Candidate Soups&#58; Fusing Candidate Results Improves Translation Quality For Non-autoregressive Translation
+title: 'Candidate Soups: Fusing Candidate Results Improves Translation Quality For Non-autoregressive Translation'
 authors: Zheng Huanran, Zhu Wei, Wang Pengfei, Wang Xiaoling
 conference: "Arxiv"
 year: 2023

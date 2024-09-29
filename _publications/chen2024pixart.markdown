@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pixart-\(\sigma\)&#58; Weak-to-strong Training Of Diffusion Transformer For 4K Text-to-image Generation
+title: 'Pixart-\(\sigma\): Weak-to-strong Training Of Diffusion Transformer For 4K Text-to-image Generation'
 authors: Chen Junsong, Ge Chongjian, Xie Enze, Wu Yue, Yao Lewei, Ren Xiaozhe, Wang Zhongdao, Luo Ping, Lu Huchuan, Li Zhenguo
 conference: "Arxiv"
 year: 2024

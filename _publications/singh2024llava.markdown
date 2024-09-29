@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llava Finds Free Lunch&#58; Teaching Human Behavior Improves Content Understanding Abilities Of Llms
+title: 'Llava Finds Free Lunch: Teaching Human Behavior Improves Content Understanding Abilities Of Llms'
 authors: Singh Somesh, S Harini I, Singla Yaman K, Baths Veeky, Shah Rajiv Ratn, Chen Changyou, Krishnamurthy Balaji
 conference: "Arxiv"
 year: 2024

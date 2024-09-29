@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chated&#58; A Chatbot Leveraging Chatgpt For An Enhanced Learning Experience In Higher Education
+title: 'Chated: A Chatbot Leveraging Chatgpt For An Enhanced Learning Experience In Higher Education'
 authors: Wang Kevin, Ramos Jason, Lawrence Ramon
 conference: "Arxiv"
 year: 2023

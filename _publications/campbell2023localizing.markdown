@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Localizing Lying In Llama&#58; Understanding Instructed Dishonesty On True-false Questions Through Prompting, Probing, And Patching
+title: 'Localizing Lying In Llama: Understanding Instructed Dishonesty On True-false Questions Through Prompting, Probing, And Patching'
 authors: Campbell James, Ren Richard, Guo Phillip
 conference: "Arxiv"
 year: 2023

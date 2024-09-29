@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tinyllm&#58; Learning A Small Student From Multiple Large Language Models
+title: 'Tinyllm: Learning A Small Student From Multiple Large Language Models'
 authors: Tian Yijun, Han Yikun, Chen Xiusi, Wang Wei, Chawla Nitesh V.
 conference: "Arxiv"
 year: 2024

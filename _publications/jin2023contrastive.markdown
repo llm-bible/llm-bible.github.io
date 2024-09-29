@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Medcpt&#58; Contrastive Pre-trained Transformers With Large-scale Pubmed Search Logs For Zero-shot Biomedical Information Retrieval
+title: 'Medcpt: Contrastive Pre-trained Transformers With Large-scale Pubmed Search Logs For Zero-shot Biomedical Information Retrieval'
 authors: Jin Qiao, Kim Won, Chen Qingyu, Comeau Donald C., Yeganova Lana, Wilbur W. John, Lu Zhiyong
 conference: "Arxiv"
 year: 2023

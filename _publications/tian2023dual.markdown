@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DUMA&#58; A Dual-mind Conversational Agent With Fast And Slow Thinking
+title: 'DUMA: A Dual-mind Conversational Agent With Fast And Slow Thinking'
 authors: Tian Xiaoyu, Chen Liangyu, Liu Na, Liu Yaxuan, Zou Wei, Chen Kaijiang, Cui Ming
 conference: "Arxiv"
 year: 2023

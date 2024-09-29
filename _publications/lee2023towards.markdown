@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Reliable And Fluent Large Language Models&#58; Incorporating Feedback Learning Loops In QA Systems
+title: 'Towards Reliable And Fluent Large Language Models: Incorporating Feedback Learning Loops In QA Systems'
 authors: Lee Dongyub, Whang Taesun, Lee Chanhee, Lim Heuiseok
 conference: "Arxiv"
 year: 2023

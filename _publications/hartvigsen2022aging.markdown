@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aging With GRACE&#58; Lifelong Model Editing With Discrete Key-value Adaptors
+title: 'Aging With GRACE: Lifelong Model Editing With Discrete Key-value Adaptors'
 authors: Hartvigsen Thomas, Sankaranarayanan Swami, Palangi Hamid, Kim Yoon, Ghassemi Marzyeh
 conference: "Arxiv"
 year: 2022

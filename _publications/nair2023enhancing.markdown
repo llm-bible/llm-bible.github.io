@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DERA&#58; Enhancing Large Language Model Completions With Dialog-enabled Resolving Agents
+title: 'DERA: Enhancing Large Language Model Completions With Dialog-enabled Resolving Agents'
 authors: Nair Varun, Schumacher Elliot, Tso Geoffrey, Kannan Anitha
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PEGASUS&#58; Pre-training With Extracted Gap-sentences For Abstractive Summarization
+title: 'PEGASUS: Pre-training With Extracted Gap-sentences For Abstractive Summarization'
 authors: Zhang Jingqing, Zhao Yao, Saleh Mohammad, Liu Peter J.
 conference: "Arxiv"
 year: 2019

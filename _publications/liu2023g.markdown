@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: G-eval&#58; NLG Evaluation Using GPT-4 With Better Human Alignment
+title: 'G-eval: NLG Evaluation Using GPT-4 With Better Human Alignment'
 authors: Liu Yang, Iter Dan, Xu Yichong, Wang Shuohang, Xu Ruochen, Zhu Chenguang
 conference: "Arxiv"
 year: 2023

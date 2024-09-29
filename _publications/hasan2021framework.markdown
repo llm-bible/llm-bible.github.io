@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Text2app&#58; A Framework For Creating Android Apps From Text Descriptions
+title: 'Text2app: A Framework For Creating Android Apps From Text Descriptions'
 authors: Hasan Masum, Mehrab Kazi Sajeed, Ahmad Wasi Uddin, Shahriyar Rifat
 conference: "Arxiv"
 year: 2021

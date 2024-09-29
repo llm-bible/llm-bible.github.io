@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MEEL&#58; Multi-modal Event Evolution Learning
+title: 'MEEL: Multi-modal Event Evolution Learning'
 authors: Tao Zhengwei, Jin Zhi, Huang Junqiang, Chen Xiancai, Bai Xiaoying, Zhao Haiyan, Zhang Yifan, Tao Chongyang
 conference: "Arxiv"
 year: 2024

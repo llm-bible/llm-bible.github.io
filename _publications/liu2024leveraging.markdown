@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM4GEN&#58; Leveraging Semantic Representation Of Llms For Text-to-image Generation
+title: 'LLM4GEN: Leveraging Semantic Representation Of Llms For Text-to-image Generation'
 authors: Liu Mushui, Ma Yuhang, Zhen Yang, Dan Jun, Yu Yunlong, Zhao Zeng, Hu Zhipeng, Liu Bai, Fan Changjie
 conference: "Arxiv"
 year: 2024

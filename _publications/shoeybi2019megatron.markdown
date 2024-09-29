@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Megatron-lm&#58; Training Multi-billion Parameter Language Models Using Model Parallelism
+title: 'Megatron-lm: Training Multi-billion Parameter Language Models Using Model Parallelism'
 authors: Mohammad Shoeybi, Mostofa Patwary, Raul Puri, Patrick Legresley, Jared Casper, Bryan Catanzaro
 conference: "Arxiv"
 year: 2019

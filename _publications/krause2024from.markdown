@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Data To Commonsense Reasoning&#58; The Use Of Large Language Models For Explainable AI
+title: 'From Data To Commonsense Reasoning: The Use Of Large Language Models For Explainable AI'
 authors: Krause Stefanie, Stolzenburg Frieder
 conference: "Arxiv"
 year: 2024

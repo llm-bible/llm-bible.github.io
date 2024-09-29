@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On The Planning Abilities Of Large Language Models &#58; A Critical Investigation
+title: 'On The Planning Abilities Of Large Language Models : A Critical Investigation'
 authors: Valmeekam Karthik, Marquez Matthew, Sreedharan Sarath, Kambhampati Subbarao
 conference: "Arxiv"
 year: 2023

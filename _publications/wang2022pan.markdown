@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pan More Gold From The Sand&#58; Refining Open-domain Dialogue Training With Noisy Self-retrieval Generation
+title: 'Pan More Gold From The Sand: Refining Open-domain Dialogue Training With Noisy Self-retrieval Generation'
 authors: Wang Yihe, Li Yitong, Wang Yasheng, Mi Fei, Zhou Pingyi, Wang Xin, Liu Jin, Jiang Xin, Liu Qun
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Large Language Model (LLM) Fidelity Through Context-aware Grounding&#58; A Systematic Approach To Reliability And Veracity
+title: 'Improving Large Language Model (LLM) Fidelity Through Context-aware Grounding: A Systematic Approach To Reliability And Veracity'
 authors: Talukdar Wrick, Biswas Anjanava
 conference: "World Journal of Advanced Engineering Technology and Sciences"
 year: 2024

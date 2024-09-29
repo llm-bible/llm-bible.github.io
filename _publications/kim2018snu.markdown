@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SNU_IDS At Semeval-2018 Task 12&#58; Sentence Encoder With Contextualized Vectors For Argument Reasoning Comprehension
+title: 'SNU_IDS At Semeval-2018 Task 12: Sentence Encoder With Contextualized Vectors For Argument Reasoning Comprehension'
 authors: Kim Taeuk, Choi Jihun, Lee Sang-goo
 conference: "Arxiv"
 year: 2018

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Vision-language Mechanistic Interpretability&#58; A Causal Tracing Tool For BLIP
+title: 'Towards Vision-language Mechanistic Interpretability: A Causal Tracing Tool For BLIP'
 authors: Palit Vedant, Pandey Rohan, Arora Aryaman, Liang Paul Pu
 conference: "Arxiv"
 year: 2023

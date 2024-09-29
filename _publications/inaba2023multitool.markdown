@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multitool-cot&#58; GPT-3 Can Use Multiple External Tools With Chain Of Thought Prompting
+title: 'Multitool-cot: GPT-3 Can Use Multiple External Tools With Chain Of Thought Prompting'
 authors: Inaba Tatsuro, Kiyomaru Hirokazu, Cheng Fei, Kurohashi Sadao
 conference: "Arxiv"
 year: 2023

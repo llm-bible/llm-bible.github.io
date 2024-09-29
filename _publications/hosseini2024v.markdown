@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: V-star&#58; Training Verifiers For Self-taught Reasoners
+title: 'V-star: Training Verifiers For Self-taught Reasoners'
 authors: Hosseini Arian, Yuan Xingdi, Malkin Nikolay, Courville Aaron, Sordoni Alessandro, Agarwal Rishabh
 conference: "Arxiv"
 year: 2024

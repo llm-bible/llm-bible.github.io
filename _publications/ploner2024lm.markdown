@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LM-PUB-QUIZ&#58; A Comprehensive Framework For Zero-shot Evaluation Of Relational Knowledge In Language Models
+title: 'LM-PUB-QUIZ: A Comprehensive Framework For Zero-shot Evaluation Of Relational Knowledge In Language Models'
 authors: Ploner Max, Wiland Jacek, Pohl Sebastian, Akbik Alan
 conference: "Arxiv"
 year: 2024

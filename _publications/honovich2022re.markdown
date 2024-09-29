@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TRUE&#58; Re-evaluating Factual Consistency Evaluation
+title: 'TRUE: Re-evaluating Factual Consistency Evaluation'
 authors: Honovich Or, Aharoni Roee, Herzig Jonathan, Taitelbaum Hagai, Kukliansy Doron, Cohen Vered, Scialom Thomas, Szpektor Idan, Hassidim Avinatan, Matias Yossi
 conference: "Arxiv"
 year: 2022

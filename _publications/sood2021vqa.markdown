@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VQA-MHUG&#58; A Gaze Dataset To Study Multimodal Neural Attention In Visual Question Answering
+title: 'VQA-MHUG: A Gaze Dataset To Study Multimodal Neural Attention In Visual Question Answering'
 authors: Sood Ekta, Kögel Fabian, Strohm Florian, Dhar Prajit, Bulling Andreas
 conference: "Arxiv"
 year: 2021

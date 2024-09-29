@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Deanthropomorphising NLP&#58; Can A Language Model Be Conscious?
+title: 'Deanthropomorphising NLP: Can A Language Model Be Conscious?'
 authors: Shardlow Matthew, Przybyła Piotr
 conference: "Arxiv"
 year: 2022

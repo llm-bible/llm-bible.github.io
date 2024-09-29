@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Condenser&#58; A Pre-training Architecture For Dense Retrieval
+title: 'Condenser: A Pre-training Architecture For Dense Retrieval'
 authors: Gao Luyu, Callan Jamie
 conference: "Arxiv"
 year: 2021

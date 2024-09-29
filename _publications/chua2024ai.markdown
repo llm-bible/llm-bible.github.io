@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AI Safety In Generative AI Large Language Models&#58; A Survey
+title: 'AI Safety In Generative AI Large Language Models: A Survey'
 authors: Chua Jaymari, Li Yun, Yang Shiyi, Wang Chen, Yao Lina
 conference: "Arxiv"
 year: 2024

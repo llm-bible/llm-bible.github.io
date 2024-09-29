@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: YANMTT&#58; Yet Another Neural Machine Translation Toolkit
+title: 'YANMTT: Yet Another Neural Machine Translation Toolkit'
 authors: Dabre Raj, Sumita Eiichiro
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unveiling The Lexical Sensitivity Of Llms&#58; Combinatorial Optimization For Prompt Enhancement
+title: 'Unveiling The Lexical Sensitivity Of Llms: Combinatorial Optimization For Prompt Enhancement'
 authors: Zhan Pengwei, Xu Zhen, Tan Qian, Song Jie, Xie Ru
 conference: "Arxiv"
 year: 2024

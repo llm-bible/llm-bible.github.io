@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Constitutionmaker&#58; Interactively Critiquing Large Language Models By Converting Feedback Into Principles
+title: 'Constitutionmaker: Interactively Critiquing Large Language Models By Converting Feedback Into Principles'
 authors: Petridis Savvas, Wedin Ben, Wexler James, Donsbach Aaron, Pushkarna Mahima, Goyal Nitesh, Cai Carrie J., Terry Michael
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: 3DALL-E&#58; Integrating Text-to-image AI In 3D Design Workflows
+title: '3DALL-E: Integrating Text-to-image AI In 3D Design Workflows'
 authors: Liu Vivian, Vermeulen Jo, Fitzmaurice George, Matejka Justin
 conference: "Arxiv"
 year: 2022

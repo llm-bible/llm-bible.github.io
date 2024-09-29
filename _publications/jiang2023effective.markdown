@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bus&#58;efficient And Effective Vision-language Pre-training With Bottom-up Patch Summarization
+title: 'Bus:efficient And Effective Vision-language Pre-training With Bottom-up Patch Summarization'
 authors: Jiang Chaoya, Xu Haiyang, Ye Wei, Ye Qinghao, Li Chenliang, Yan Ming, Bi Bin, Zhang Shikun, Huang Fei, Huang Songfang
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unlock The Power&#58; Competitive Distillation For Multi-modal Large Language Models
+title: 'Unlock The Power: Competitive Distillation For Multi-modal Large Language Models'
 authors: Li Xinwei, Lin Li, Wang Shuai, Qian Chen
 conference: "Arxiv"
 year: 2023

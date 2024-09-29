@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Forgetting Before Learning&#58; Utilizing Parametric Arithmetic For Knowledge Updating In Large Language Models
+title: 'Forgetting Before Learning: Utilizing Parametric Arithmetic For Knowledge Updating In Large Language Models'
 authors: Ni Shiwen, Chen Dingwei, Li Chengming, Hu Xiping, Xu Ruifeng, Yang Min
 conference: "Arxiv"
 year: 2023

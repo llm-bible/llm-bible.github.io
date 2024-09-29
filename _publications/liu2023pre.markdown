@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pre-train, Prompt And Recommendation&#58; A Comprehensive Survey Of Language Modelling Paradigm Adaptations In Recommender Systems
+title: 'Pre-train, Prompt And Recommendation: A Comprehensive Survey Of Language Modelling Paradigm Adaptations In Recommender Systems'
 authors: Peng Liu, Lemei Zhang, Jon Atle Gulla
 conference: "Arxiv"
 year: 2023

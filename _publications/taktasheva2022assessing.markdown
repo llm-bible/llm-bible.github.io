@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: TAPE&#58; Assessing Few-shot Russian Language Understanding
+title: 'TAPE: Assessing Few-shot Russian Language Understanding'
 authors: Taktasheva Ekaterina, Shavrina Tatiana, Fenogenova Alena, Shevelev Denis, Katricheva Nadezhda, Tikhonova Maria, Akhmetgareeva Albina, Zinkevich Oleg, Bashmakova Anastasiia, Iordanskaia Svetlana, Spiridonova Alena, Kurenshchikova Valentina, Artemova Ekaterina, Mikhailov Vladislav
 conference: "Arxiv"
 year: 2022

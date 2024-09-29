@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rethinking Pruning Large Language Models&#58; Benefits And Pitfalls Of Reconstruction Error Minimization
+title: 'Rethinking Pruning Large Language Models: Benefits And Pitfalls Of Reconstruction Error Minimization'
 authors: Shin Sungbin, Park Wonpyo, Lee Jaeho, Lee Namhoon
 conference: "Arxiv"
 year: 2024

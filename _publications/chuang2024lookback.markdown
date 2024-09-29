@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lookback Lens&#58; Detecting And Mitigating Contextual Hallucinations In Large Language Models Using Only Attention Maps
+title: 'Lookback Lens: Detecting And Mitigating Contextual Hallucinations In Large Language Models Using Only Attention Maps'
 authors: Chuang Yung-sung, Qiu Linlu, Hsieh Cheng-yu, Krishna Ranjay, Kim Yoon, Glass James
 conference: "Arxiv"
 year: 2024

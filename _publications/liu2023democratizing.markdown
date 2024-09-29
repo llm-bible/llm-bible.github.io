@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fingpt&#58; Democratizing Internet-scale Data For Financial Large Language Models
+title: 'Fingpt: Democratizing Internet-scale Data For Financial Large Language Models'
 authors: Liu Xiao-yang, Wang Guoxuan, Yang Hongyang, Zha Daochen
 conference: "Arxiv"
 year: 2023

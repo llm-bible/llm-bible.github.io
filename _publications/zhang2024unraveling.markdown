@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: D\'olares Or Dollars? Unraveling The Bilingual Prowess Of Financial Llms Between Spanish And English
+title: D\''olares Or Dollars? Unraveling The Bilingual Prowess Of Financial Llms Between Spanish And English
 authors: Zhang Xiao, Xiang Ruoyu, Yuan Chenhan, Feng Duanyu, Han Weiguang, Lopez-lira Alejandro, Liu Xiao-yang, Ananiadou Sophia, Peng Min, Huang Jimin, Xie Qianqian
 conference: "Arxiv"
 year: 2024

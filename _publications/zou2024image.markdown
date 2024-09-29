@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Image-to-text Logic Jailbreak&#58; Your Imagination Can Help You Do Anything
+title: 'Image-to-text Logic Jailbreak: Your Imagination Can Help You Do Anything'
 authors: Zou Xiaotian, Li Ke, Chen Yongkang
 conference: "Arxiv"
 year: 2024

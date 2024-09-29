@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Matryoshka-adaptor&#58; Unsupervised And Supervised Tuning For Smaller Embedding Dimensions
+title: 'Matryoshka-adaptor: Unsupervised And Supervised Tuning For Smaller Embedding Dimensions'
 authors: Yoon Jinsung, Sinha Raj, Arik Sercan O, Pfister Tomas
 conference: "Arxiv"
 year: 2024

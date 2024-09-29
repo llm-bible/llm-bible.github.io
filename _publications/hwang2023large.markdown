@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models As Sous Chefs&#58; Revising Recipes With GPT-3
+title: 'Large Language Models As Sous Chefs: Revising Recipes With GPT-3'
 authors: Hwang Alyssa, Li Bryan, Hou Zhaoyi, Roth Dan
 conference: "Arxiv"
 year: 2023

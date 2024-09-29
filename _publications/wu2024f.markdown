@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: F-LMM&#58; Grounding Frozen Large Multimodal Models
+title: 'F-LMM: Grounding Frozen Large Multimodal Models'
 authors: Wu Size, Jin Sheng, Zhang Wenwei, Xu Lumin, Liu Wentao, Li Wei, Loy Chen Change
 conference: "Arxiv"
 year: 2024

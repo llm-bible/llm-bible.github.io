@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Documint&#58; Docstring Generation For Python Using Small Language Models
+title: 'Documint: Docstring Generation For Python Using Small Language Models'
 authors: Poudel Bibek, Cook Adam, Traore Sekou, Ameli Shelah
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning To Ask&#58; When Llms Meet Unclear Instruction
+title: 'Learning To Ask: When Llms Meet Unclear Instruction'
 authors: Wang Wenxuan, Shi Juluan, Wang Chaozheng, Lee Cheryl, Yuan Youliang, Huang Jen-tse, Lyu Michael R.
 conference: "Arxiv"
 year: 2024

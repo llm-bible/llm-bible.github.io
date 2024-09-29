@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Who Says Elephants Can't Run&#58; Bringing Large Scale Moe Models Into Cloud Scale Production
+title: 'Who Says Elephants Can''t Run: Bringing Large Scale Moe Models Into Cloud Scale Production'
 authors: Kim Young Jin, Henry Rawn, Fahim Raffy, Awadalla Hany Hassan
 conference: "Arxiv"
 year: 2022

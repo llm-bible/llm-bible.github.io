@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Longgenbench&#58; Benchmarking Long-form Generation In Long Context Llms
+title: 'Longgenbench: Benchmarking Long-form Generation In Long Context Llms'
 authors: Wu Yuhao, Hee Ming Shan, Hu Zhiqing, Lee Roy Ka-wei
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instructioncp&#58; A Fast Approach To Transfer Large Language Models Into Target Language
+title: 'Instructioncp: A Fast Approach To Transfer Large Language Models Into Target Language'
 authors: Chen Kuang-ming, Lee Hung-yi
 conference: "Arxiv"
 year: 2024

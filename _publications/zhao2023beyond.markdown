@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Hallucinations&#58; Enhancing Lvlms Through Hallucination-aware Direct Preference Optimization
+title: 'Beyond Hallucinations: Enhancing Lvlms Through Hallucination-aware Direct Preference Optimization'
 authors: Zhiyuan Zhao, Bin Wang, Linke Ouyang, Xiaoyi Dong, Jiaqi Wang, Conghui He
 conference: "Arxiv"
 year: 2023

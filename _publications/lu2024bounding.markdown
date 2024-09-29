@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Bounding Box Is Worth One Token&#58; Interleaving Layout And Text In A Large Language Model For Document Understanding
+title: 'A Bounding Box Is Worth One Token: Interleaving Layout And Text In A Large Language Model For Document Understanding'
 authors: Lu Jinghui, Yu Haiyang, Wang Yanjie, Ye Yongjie, Tang Jingqun, Yang Ziwei, Wu Binghong, Liu Qi, Feng Hao, Wang Han, Liu Hao, Huang Can
 conference: "Arxiv"
 year: 2024

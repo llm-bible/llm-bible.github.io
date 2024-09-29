@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tell Me Why&#58; Explainable Public Health Fact-checking With Large Language Models
+title: 'Tell Me Why: Explainable Public Health Fact-checking With Large Language Models'
 authors: Zarharan Majid, Wullschleger Pascal, Kia Babak Behkam, Pilehvar Mohammad Taher, Foster Jennifer
 conference: "Arxiv"
 year: 2024

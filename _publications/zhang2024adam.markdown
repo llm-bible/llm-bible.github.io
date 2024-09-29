@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adam-mini&#58; Use Fewer Learning Rates To Gain More
+title: 'Adam-mini: Use Fewer Learning Rates To Gain More'
 authors: Zhang Yushun, Chen Congliang, Li Ziniu, Ding Tian, Wu Chenwei, Ye Yinyu, Luo Zhi-quan, Sun Ruoyu
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Focus On The Core&#58; Efficient Attention Via Pruned Token Compression For Document Classification
+title: 'Focus On The Core: Efficient Attention Via Pruned Token Compression For Document Classification'
 authors: Yun Jungmin, Kim Mihyeon, Kim Youngbin
 conference: "Arxiv"
 year: 2024

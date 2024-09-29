@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Speech Translation With Large Language Models&#58; An Industrial Practice
+title: 'Speech Translation With Large Language Models: An Industrial Practice'
 authors: Huang Zhichao, Ye Rong, Ko Tom, Dong Qianqian, Cheng Shanbo, Wang Mingxuan, Li Hang
 conference: "Arxiv"
 year: 2023

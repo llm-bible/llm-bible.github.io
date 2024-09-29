@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Let's Think Frame By Frame With VIP&#58; A Video Infilling And Prediction Dataset For Evaluating Video Chain-of-thought
+title: 'Let''s Think Frame By Frame With VIP: A Video Infilling And Prediction Dataset For Evaluating Video Chain-of-thought'
 authors: Vaishnavi Himakunthala, Andy Ouyang, Daniel Rose, Ryan He, Alex Mei, Yujie Lu, Chinmay Sonar, Michael Saxon, William Yang Wang
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llm-rec&#58; Personalized Recommendation Via Prompting Large Language Models
+title: 'Llm-rec: Personalized Recommendation Via Prompting Large Language Models'
 authors: Lyu Hanjia, Jiang Song, Zeng Hanqing, Xia Yinglong, Wang Qifan, Zhang Si, Chen Ren, Leung Christopher, Tang Jiajie, Luo Jiebo
 conference: "Arxiv"
 year: 2023

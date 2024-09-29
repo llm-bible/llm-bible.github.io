@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Robustfill&#58; Neural Program Learning Under Noisy I/O
+title: 'Robustfill: Neural Program Learning Under Noisy I/O'
 authors: Devlin Jacob, Uesato Jonathan, Bhupatiraju Surya, Singh Rishabh, Mohamed Abdel-rahman, Kohli Pushmeet
 conference: "Arxiv"
 year: 2017

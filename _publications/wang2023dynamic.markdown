@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DRDT&#58; Dynamic Reflection With Divergent Thinking For Llm-based Sequential Recommendation
+title: 'DRDT: Dynamic Reflection With Divergent Thinking For Llm-based Sequential Recommendation'
 authors: Wang Yu, Liu Zhiwei, Zhang Jianguo, Yao Weiran, Heinecke Shelby, Yu Philip S.
 conference: "Arxiv"
 year: 2023

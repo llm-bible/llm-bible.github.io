@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Timo&#58; Towards Better Temporal Reasoning For Language Models
+title: 'Timo: Towards Better Temporal Reasoning For Language Models'
 authors: Su Zhaochen, Zhang Jun, Zhu Tong, Qu Xiaoye, Li Juntao, Zhang Min, Cheng Yu
 conference: "Arxiv"
 year: 2024

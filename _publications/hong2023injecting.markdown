@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: 3D-LLM&#58; Injecting The 3D World Into Large Language Models
+title: '3D-LLM: Injecting The 3D World Into Large Language Models'
 authors: Hong Yining, Zhen Haoyu, Chen Peihao, Zheng Shuhong, Du Yilun, Chen Zhenfang, Gan Chuang
 conference: "Arxiv"
 year: 2023

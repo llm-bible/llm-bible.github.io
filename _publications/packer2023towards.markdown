@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Memgpt&#58; Towards Llms As Operating Systems
+title: 'Memgpt: Towards Llms As Operating Systems'
 authors: Charles Packer, Sarah Wooders, Kevin Lin, Vivian Fang, Shishir G. Patil, Ion Stoica, Joseph E. Gonzalez
 conference: "Arxiv"
 year: 2023

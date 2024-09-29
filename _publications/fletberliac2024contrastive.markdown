@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Contrastive Policy Gradient&#58; Aligning Llms On Sequence-level Scores In A Supervised-friendly Fashion
+title: 'Contrastive Policy Gradient: Aligning Llms On Sequence-level Scores In A Supervised-friendly Fashion'
 authors: Flet-berliac Yannis, Grinsztajn Nathan, Strub Florian, Choi Eugene, Cremer Chris, Ahmadian Arash, Chandak Yash, Azar Mohammad Gheshlaghi, Pietquin Olivier, Geist Matthieu
 conference: "Arxiv"
 year: 2024

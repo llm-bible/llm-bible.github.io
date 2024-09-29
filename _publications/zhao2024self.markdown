@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SELF-GUIDE&#58; Better Task-specific Instruction Following Via Self-synthetic Finetuning
+title: 'SELF-GUIDE: Better Task-specific Instruction Following Via Self-synthetic Finetuning'
 authors: Zhao Chenyang, Jia Xueying, Viswanathan Vijay, Wu Tongshuang, Neubig Graham
 conference: "Arxiv"
 year: 2024

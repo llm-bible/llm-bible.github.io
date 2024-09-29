@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Fault In Our Stars&#58; Quality Assessment Of Code Generation Benchmarks
+title: 'The Fault In Our Stars: Quality Assessment Of Code Generation Benchmarks'
 authors: Siddiq Mohammed Latif, Dristi Simantika, Saha Joy, Santos Joanna C. S.
 conference: "Arxiv"
 year: 2024

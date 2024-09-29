@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lmcanvas&#58; Object-oriented Interaction To Personalize Large Language Model-powered Writing Environments
+title: 'Lmcanvas: Object-oriented Interaction To Personalize Large Language Model-powered Writing Environments'
 authors: Kim Tae Soo, Sarkar Arghya, Lee Yoonjoo, Chang Minsuk, Kim Juho
 conference: "Arxiv"
 year: 2023

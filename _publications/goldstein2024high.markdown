@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Goldfinch&#58; High Performance Rwkv/transformer Hybrid With Linear Pre-fill And Extreme Kv-cache Compression
+title: 'Goldfinch: High Performance Rwkv/transformer Hybrid With Linear Pre-fill And Extreme Kv-cache Compression'
 authors: Goldstein Daniel, Obeid Fares, Alcaide Eric, Song Guangyu, Cheah Eugene
 conference: "Arxiv"
 year: 2024

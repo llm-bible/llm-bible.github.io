@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Robust Pronoun Fidelity With English Llms&#58; Are They Reasoning, Repeating, Or Just Biased?
+title: 'Robust Pronoun Fidelity With English Llms: Are They Reasoning, Repeating, Or Just Biased?'
 authors: Gautam Vagrant, Bingert Eileen, Zhu Dawei, Lauscher Anne, Klakow Dietrich
 conference: "Arxiv"
 year: 2024

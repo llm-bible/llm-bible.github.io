@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lissard&#58; Long And Simple Sequential Reasoning Datasets
+title: 'Lissard: Long And Simple Sequential Reasoning Datasets'
 authors: Bueno Mirelle, Lotufo Roberto, Nogueira Rodrigo
 conference: "Arxiv"
 year: 2024

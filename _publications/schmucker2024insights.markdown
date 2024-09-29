@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ruffle&riley&#58; Insights From Designing And Evaluating A Large Language Model-based Conversational Tutoring System
+title: 'Ruffle&riley: Insights From Designing And Evaluating A Large Language Model-based Conversational Tutoring System'
 authors: Schmucker Robin, Xia Meng, Azaria Amos, Mitchell Tom
 conference: "Arxiv"
 year: 2024

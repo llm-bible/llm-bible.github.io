@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unveil The Duality Of Retrieval-augmented Generation&#58; Theoretical Analysis And Practical Solution
+title: 'Unveil The Duality Of Retrieval-augmented Generation: Theoretical Analysis And Practical Solution'
 authors: Xu Shicheng, Pang Liang, Shen Huawei, Cheng Xueqi
 conference: "Arxiv"
 year: 2024

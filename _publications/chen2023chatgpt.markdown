@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gptutor&#58; A Chatgpt-powered Programming Tool For Code Explanation
+title: 'Gptutor: A Chatgpt-powered Programming Tool For Code Explanation'
 authors: Chen Eason, Huang Ray, Chen Han-shin, Tseng Yuen-hsien, Li Liang-yi
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Are Versatile Decomposers&#58; Decompose Evidence And Questions For Table-based Reasoning
+title: 'Large Language Models Are Versatile Decomposers: Decompose Evidence And Questions For Table-based Reasoning'
 authors: Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Navigating Text-to-image Customization&#58; From Lycoris Fine-tuning To Model Evaluation
+title: 'Navigating Text-to-image Customization: From Lycoris Fine-tuning To Model Evaluation'
 authors: Yeh Shih-ying, Hsieh Yu-guan, Gao Zhidong, Yang Bernard B W, Oh Giyeong, Gong Yanmin
 conference: "Arxiv"
 year: 2023

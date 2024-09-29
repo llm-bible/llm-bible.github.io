@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Selfevolve&#58; A Code Evolution Framework Via Large Language Models
+title: 'Selfevolve: A Code Evolution Framework Via Large Language Models'
 authors: Jiang Shuyang, Wang Yuhao, Wang Yu
 conference: "Arxiv"
 year: 2023

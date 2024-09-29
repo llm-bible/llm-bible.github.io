@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Meet Computer Vision&#58; A Brief Survey
+title: 'Large Language Models Meet Computer Vision: A Brief Survey'
 authors: Hamadi Raby
 conference: "Arxiv"
 year: 2023

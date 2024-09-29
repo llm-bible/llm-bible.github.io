@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SMDT&#58; Selective Memory-augmented Neural Document Translation
+title: 'SMDT: Selective Memory-augmented Neural Document Translation'
 authors: Zhang Xu, Yang Jian, Huang Haoyang, Ma Shuming, Zhang Dongdong, Li Jinlong, Wei Furu
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FRACTAL&#58; Fine-grained Scoring From Aggregate Text Labels
+title: 'FRACTAL: Fine-grained Scoring From Aggregate Text Labels'
 authors: Makhija Yukti, Agrawal Priyanka, Saket Rishi, Raghuveer Aravindan
 conference: "Arxiv"
 year: 2024

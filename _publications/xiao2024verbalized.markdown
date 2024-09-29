@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Verbalized Machine Learning&#58; Revisiting Machine Learning With Language Models
+title: 'Verbalized Machine Learning: Revisiting Machine Learning With Language Models'
 authors: Xiao Tim Z., Bamler Robert, Schölkopf Bernhard, Liu Weiyang
 conference: "Arxiv"
 year: 2024

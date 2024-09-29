@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multilingual Prompts In Llm-based Recommenders&#58; Performance Across Languages
+title: 'Multilingual Prompts In Llm-based Recommenders: Performance Across Languages'
 authors: Ozsoy Makbule Gulcin
 conference: "Arxiv"
 year: 2024

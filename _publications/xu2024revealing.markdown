@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Activerag&#58; Revealing The Treasures Of Knowledge Via Active Learning
+title: 'Activerag: Revealing The Treasures Of Knowledge Via Active Learning'
 authors: Xu Zhipeng, Liu Zhenghao, Liu Yibin, Xiong Chenyan, Yan Yukun, Wang Shuo, Yu Shi, Liu Zhiyuan, Yu Ge
 conference: "Arxiv"
 year: 2024

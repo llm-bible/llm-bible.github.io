@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Making History Matter&#58; History-advantage Sequence Training For Visual Dialog
+title: 'Making History Matter: History-advantage Sequence Training For Visual Dialog'
 authors: Yang Tianhao, Zha Zheng-jun, Zhang Hanwang
 conference: "Arxiv"
 year: 2019

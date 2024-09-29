@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Navigating Uncertainty&#58; Optimizing API Dependency For Hallucination Reduction In Closed-book Question Answering
+title: 'Navigating Uncertainty: Optimizing API Dependency For Hallucination Reduction In Closed-book Question Answering'
 authors: Erbacher Pierre, Falissar Louis, Guigue Vincent, Soulier Laure
 conference: "Arxiv"
 year: 2024

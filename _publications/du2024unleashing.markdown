@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bitdistiller&#58; Unleashing The Potential Of Sub-4-bit Llms Via Self-distillation
+title: 'Bitdistiller: Unleashing The Potential Of Sub-4-bit Llms Via Self-distillation'
 authors: Du Dayou, Zhang Yijia, Cao Shijie, Guo Jiaqi, Cao Ting, Chu Xiaowen, Xu Ningyi
 conference: "Arxiv"
 year: 2024

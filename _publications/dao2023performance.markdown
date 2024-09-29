@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Performance Comparison Of Large Language Models On VNHSGE English Dataset&#58; Openai Chatgpt, Microsoft Bing Chat, And Google Bard
+title: 'Performance Comparison Of Large Language Models On VNHSGE English Dataset: Openai Chatgpt, Microsoft Bing Chat, And Google Bard'
 authors: Dao Xuan-quy
 conference: "Arxiv"
 year: 2023

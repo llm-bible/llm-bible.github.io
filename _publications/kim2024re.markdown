@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RE-RAG&#58; Improving Open-domain QA Performance And Interpretability With Relevance Estimator In Retrieval-augmented Generation
+title: 'RE-RAG: Improving Open-domain QA Performance And Interpretability With Relevance Estimator In Retrieval-augmented Generation'
 authors: Kim Kiseung, Lee Jay-yoon
 conference: "Arxiv"
 year: 2024

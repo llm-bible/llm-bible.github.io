@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llm-planner&#58; Few-shot Grounded Planning For Embodied Agents With Large Language Models
+title: 'Llm-planner: Few-shot Grounded Planning For Embodied Agents With Large Language Models'
 authors: Song Chan Hee, Wu Jiaman, Washington Clayton, Sadler Brian M., Chao Wei-lun, Su Yu
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DQ-BART&#58; Efficient Sequence-to-sequence Model Via Joint Distillation And Quantization
+title: 'DQ-BART: Efficient Sequence-to-sequence Model Via Joint Distillation And Quantization'
 authors: Li Zheng, Wang Zijian, Tan Ming, Nallapati Ramesh, Bhatia Parminder, Arnold Andrew, Xiang Bing, Roth Dan
 conference: "Arxiv"
 year: 2022

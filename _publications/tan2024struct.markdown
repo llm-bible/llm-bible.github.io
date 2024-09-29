@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Struct-x&#58; Enhancing Large Language Models Reasoning With Structured Data
+title: 'Struct-x: Enhancing Large Language Models Reasoning With Structured Data'
 authors: Tan Xiaoyu, Wang Haoyu, Qiu Xihe, Cheng Yuan, Xu Yinghui, Chu Wei, Qi Yuan
 conference: "Arxiv"
 year: 2024

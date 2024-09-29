@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Potential And Limitations Of Llms In Capturing Structured Semantics&#58; A Case Study On SRL
+title: 'Potential And Limitations Of Llms In Capturing Structured Semantics: A Case Study On SRL'
 authors: Cheng Ning, Yan Zhaohui, Wang Ziming, Li Zhijie, Yu Jiaming, Zheng Zilong, Tu Kewei, Xu Jinan, Han Wenjuan
 conference: "Arxiv"
 year: 2024

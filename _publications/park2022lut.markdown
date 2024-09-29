@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LUT-GEMM&#58; Quantized Matrix Multiplication Based On Luts For Efficient Inference In Large-scale Generative Language Models
+title: 'LUT-GEMM: Quantized Matrix Multiplication Based On Luts For Efficient Inference In Large-scale Generative Language Models'
 authors: Park Gunho, Park Baeseong, Kim Minsub, Lee Sungjae, Kim Jeonghoon, Kwon Beomseok, Kwon Se Jung, Kim Byeongwook, Lee Youngjoo, Lee Dongsoo
 conference: "Arxiv"
 year: 2022

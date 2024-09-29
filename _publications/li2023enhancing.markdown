@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Overprompt&#58; Enhancing Chatgpt Through Efficient In-context Learning
+title: 'Overprompt: Enhancing Chatgpt Through Efficient In-context Learning'
 authors: Li Jiazheng, Zhao Runcong, Yang Yongxin, He Yulan, Gui Lin
 conference: "Arxiv"
 year: 2023

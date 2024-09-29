@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Limgen&#58; Probing The Llms For Generating Suggestive Limitations Of Research Papers
+title: 'Limgen: Probing The Llms For Generating Suggestive Limitations Of Research Papers'
 authors: Faizullah Abdur Rahman Bin Md, Urlana Ashok, Mishra Rahul
 conference: "Arxiv"
 year: 2024

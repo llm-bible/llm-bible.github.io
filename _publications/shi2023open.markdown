@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sotana&#58; The Open-source Software Development Assistant
+title: 'Sotana: The Open-source Software Development Assistant'
 authors: Shi Ensheng, Zhang Fengji, Wang Yanlin, Chen Bei, Du Lun, Zhang Hongyu, Han Shi, Zhang Dongmei, Sun Hongbin
 conference: "Arxiv"
 year: 2023

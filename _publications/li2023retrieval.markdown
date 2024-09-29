@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evcap&#58; Retrieval-augmented Image Captioning With External Visual-name Memory For Open-world Comprehension
+title: 'Evcap: Retrieval-augmented Image Captioning With External Visual-name Memory For Open-world Comprehension'
 authors: Li Jiaxuan, Vo Duc Minh, Sugimoto Akihiro, Nakayama Hideki
 conference: "Arxiv"
 year: 2023

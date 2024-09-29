@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llmlingua&#58; Compressing Prompts For Accelerated Inference Of Large Language Models
+title: 'Llmlingua: Compressing Prompts For Accelerated Inference Of Large Language Models'
 authors: Jiang Huiqiang, Wu Qianhui, Lin Chin-yew, Yang Yuqing, Qiu Lili
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: 1.5-pints Technical Report&#58; Pretraining In Days, Not Months -- Your Language Model Thrives On Quality Data
+title: '1.5-pints Technical Report: Pretraining In Days, Not Months -- Your Language Model Thrives On Quality Data'
 authors: Tan Calvin, Wang Jerome
 conference: "Arxiv"
 year: 2024

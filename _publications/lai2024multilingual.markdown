@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mcot&#58; Multilingual Instruction Tuning For Reasoning Consistency In Language Models
+title: 'Mcot: Multilingual Instruction Tuning For Reasoning Consistency In Language Models'
 authors: Lai Huiyuan, Nissim Malvina
 conference: "Arxiv"
 year: 2024

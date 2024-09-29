@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Humor Mechanics&#58; Advancing Humor Generation With Multistep Reasoning
+title: 'Humor Mechanics: Advancing Humor Generation With Multistep Reasoning'
 authors: Tikhonov Alexey, Shtykovskiy Pavel
 conference: "Arxiv"
 year: 2024

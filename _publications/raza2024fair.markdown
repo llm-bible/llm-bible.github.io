@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FAIR Enough&#58; How Can We Develop And Assess A Fair-compliant Dataset For Large Language Models' Training?
+title: 'FAIR Enough: How Can We Develop And Assess A Fair-compliant Dataset For Large Language Models'' Training?'
 authors: Raza Shaina, Ghuge Shardul, Ding Chen, Dolatabadi Elham, Pandya Deval
 conference: "Arxiv"
 year: 2024

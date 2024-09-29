@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Attention Lens&#58; A Tool For Mechanistically Interpreting The Attention Head Information Retrieval Mechanism
+title: 'Attention Lens: A Tool For Mechanistically Interpreting The Attention Head Information Retrieval Mechanism'
 authors: Sakarvadia Mansi, Khan Arham, Ajith Aswathy, Grzenda Daniel, Hudson Nathaniel, Bauer André, Chard Kyle, Foster Ian
 conference: "Arxiv"
 year: 2023

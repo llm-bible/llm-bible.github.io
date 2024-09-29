@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: COLA&#58; A Benchmark For Compositional Text-to-image Retrieval
+title: 'COLA: A Benchmark For Compositional Text-to-image Retrieval'
 authors: Ray Arijit, Radenovic Filip, Dubey Abhimanyu, Plummer Bryan A., Krishna Ranjay, Saenko Kate
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: UPAR&#58; A Kantian-inspired Prompting Framework For Enhancing Large Language Model Capabilities
+title: 'UPAR: A Kantian-inspired Prompting Framework For Enhancing Large Language Model Capabilities'
 authors: Geng Hejia, Xu Boxun, Li Peng
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Puzzlebench&#58; Can Llms Solve Challenging First-order Combinatorial Reasoning Problems?
+title: 'Puzzlebench: Can Llms Solve Challenging First-order Combinatorial Reasoning Problems?'
 authors: Mittal Chinmay, Kartik Krishna, Mausam, Singla Parag
 conference: "Arxiv"
 year: 2024

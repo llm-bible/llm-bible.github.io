@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From RAG To QA-RAG&#58; Integrating Generative AI For Pharmaceutical Regulatory Compliance Process
+title: 'From RAG To QA-RAG: Integrating Generative AI For Pharmaceutical Regulatory Compliance Process'
 authors: Kim Jaewoong Sungkyunkwan University, Min Moohong Sungkyunkwan University
 conference: "Arxiv"
 year: 2024

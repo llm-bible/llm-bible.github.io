@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jailbreaking Chatgpt Via Prompt Engineering&#58; An Empirical Study
+title: 'Jailbreaking Chatgpt Via Prompt Engineering: An Empirical Study'
 authors: Liu Yi, Deng Gelei, Xu Zhengzi, Li Yuekang, Zheng Yaowen, Zhang Ying, Zhao Lida, Zhang Tianwei, Wang Kailong, Liu Yang
 conference: "Arxiv"
 year: 2023

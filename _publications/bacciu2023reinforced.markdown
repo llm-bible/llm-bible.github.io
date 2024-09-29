@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RRAML&#58; Reinforced Retrieval Augmented Machine Learning
+title: 'RRAML: Reinforced Retrieval Augmented Machine Learning'
 authors: Bacciu Andrea, Cuconasu Florin, Siciliano Federico, Silvestri Fabrizio, Tonellotto Nicola, Trappolini Giovanni
 conference: "CEUR Workshop Proceedings"
 year: 2023

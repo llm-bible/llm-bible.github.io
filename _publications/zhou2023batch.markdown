@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Batch Calibration&#58; Rethinking Calibration For In-context Learning And Prompt Engineering
+title: 'Batch Calibration: Rethinking Calibration For In-context Learning And Prompt Engineering'
 authors: Zhou Han, Wan Xingchen, Proleev Lev, Mincu Diana, Chen Jilin, Heller Katherine, Roy Subhrajit
 conference: "Arxiv"
 year: 2023

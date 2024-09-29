@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ECLIPSE&#58; A Resource-efficient Text-to-image Prior For Image Generations
+title: 'ECLIPSE: A Resource-efficient Text-to-image Prior For Image Generations'
 authors: Patel Maitreya, Kim Changhoon, Cheng Sheng, Baral Chitta, Yang Yezhou
 conference: "Arxiv"
 year: 2023

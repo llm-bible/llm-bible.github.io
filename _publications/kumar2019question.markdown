@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Question Generation From Paragraphs&#58; A Tale Of Two Hierarchical Models
+title: 'Question Generation From Paragraphs: A Tale Of Two Hierarchical Models'
 authors: Kumar Vishwajeet, Chaki Raktim, Talluri Sai Teja, Ramakrishnan Ganesh, Li Yuan-fang, Haffari Gholamreza
 conference: "Arxiv"
 year: 2019

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Revolutionizing Finance With Llms&#58; An Overview Of Applications And Insights
+title: 'Revolutionizing Finance With Llms: An Overview Of Applications And Insights'
 authors: Zhao Huaqin, Liu Zhengliang, Wu Zihao, Li Yiwei, Yang Tianze, Shu Peng, Xu Shaochen, Dai Haixing, Zhao Lin, Mai Gengchen, Liu Ninghao, Liu Tianming
 conference: "Arxiv"
 year: 2024

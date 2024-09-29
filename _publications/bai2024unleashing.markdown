@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Longwriter&#58; Unleashing 10,000+ Word Generation From Long Context Llms
+title: 'Longwriter: Unleashing 10,000+ Word Generation From Long Context Llms'
 authors: Bai Yushi, Zhang Jiajie, Lv Xin, Zheng Linzhi, Zhu Siqi, Hou Lei, Dong Yuxiao, Tang Jie, Li Juanzi
 conference: "Arxiv"
 year: 2024

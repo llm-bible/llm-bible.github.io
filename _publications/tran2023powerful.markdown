@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Videberta&#58; A Powerful Pre-trained Language Model For Vietnamese
+title: 'Videberta: A Powerful Pre-trained Language Model For Vietnamese'
 authors: Tran Cong Dao, Pham Nhut Huy, Nguyen Anh, Hy Truong Son, Vu Tu
 conference: "Arxiv"
 year: 2023

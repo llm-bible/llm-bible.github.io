@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Decoding News Narratives&#58; A Critical Analysis Of Large Language Models In Framing Detection
+title: 'Decoding News Narratives: A Critical Analysis Of Large Language Models In Framing Detection'
 authors: Pastorino Valeria, Sivakumar Jasivan A., Moosavi Nafise Sadat
 conference: "Arxiv"
 year: 2024

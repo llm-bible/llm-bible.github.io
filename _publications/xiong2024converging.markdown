@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Converging Paradigms&#58; The Synergy Of Symbolic And Connectionist AI In Llm-empowered Autonomous Agents
+title: 'Converging Paradigms: The Synergy Of Symbolic And Connectionist AI In Llm-empowered Autonomous Agents'
 authors: Xiong Haoyi, Wang Zhiyuan, Li Xuhong, Bian Jiang, Xie Zeke, Mumtaz Shahid, Barnes Laura E.
 conference: "Arxiv"
 year: 2024

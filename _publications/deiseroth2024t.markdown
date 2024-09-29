@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: T-FREE&#58; Tokenizer-free Generative Llms Via Sparse Representations For Memory-efficient Embeddings
+title: 'T-FREE: Tokenizer-free Generative Llms Via Sparse Representations For Memory-efficient Embeddings'
 authors: Deiseroth Björn, Brack Manuel, Schramowski Patrick, Kersting Kristian, Weinbach Samuel
 conference: "Arxiv"
 year: 2024

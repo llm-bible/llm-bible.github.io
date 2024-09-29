@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adaptvision&#58; Dynamic Input Scaling In Mllms For Versatile Scene Understanding
+title: 'Adaptvision: Dynamic Input Scaling In Mllms For Versatile Scene Understanding'
 authors: Wang Yonghui, Zhou Wengang, Feng Hao, Li Houqiang
 conference: "Arxiv"
 year: 2024

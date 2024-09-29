@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Wildvision&#58; Evaluating Vision-language Models In The Wild With Human Preferences
+title: 'Wildvision: Evaluating Vision-language Models In The Wild With Human Preferences'
 authors: Lu Yujie, Jiang Dongfu, Chen Wenhu, Wang William Yang, Choi Yejin, Lin Bill Yuchen
 conference: "Arxiv"
 year: 2024

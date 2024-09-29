@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Freshllms&#58; Refreshing Large Language Models With Search Engine Augmentation
+title: 'Freshllms: Refreshing Large Language Models With Search Engine Augmentation'
 authors: Vu Tu, Iyyer Mohit, Wang Xuezhi, Constant Noah, Wei Jerry, Wei Jason, Tar Chris, Sung Yun-hsuan, Zhou Denny, Le Quoc, Luong Thang
 conference: "Arxiv"
 year: 2023

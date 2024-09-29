@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Avgout&#58; A Simple Output-probability Measure To Eliminate Dull Responses
+title: 'Avgout: A Simple Output-probability Measure To Eliminate Dull Responses'
 authors: Niu Tong, Bansal Mohit
 conference: "Arxiv"
 year: 2020

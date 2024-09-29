@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Value Biases&#58; How Llms Deviate Towards The Ideal
+title: 'Exploring Value Biases: How Llms Deviate Towards The Ideal'
 authors: Sivaprasad Sarath, Kaushik Pramod, Abdelnabi Sahar, Fritz Mario
 conference: "Arxiv"
 year: 2024

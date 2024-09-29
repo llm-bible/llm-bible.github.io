@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tablevqa-bench&#58; A Visual Question Answering Benchmark On Multiple Table Domains
+title: 'Tablevqa-bench: A Visual Question Answering Benchmark On Multiple Table Domains'
 authors: Kim Yoonsik, Yim Moonbin, Song Ka Yeon
 conference: "Arxiv"
 year: 2024

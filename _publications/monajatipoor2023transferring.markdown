@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Metavl&#58; Transferring In-context Learning Ability From Language Models To Vision-language Models
+title: 'Metavl: Transferring In-context Learning Ability From Language Models To Vision-language Models'
 authors: Monajatipoor Masoud, Li Liunian Harold, Rouhsedaghat Mozhdeh, Yang Lin F., Chang Kai-wei
 conference: "Arxiv"
 year: 2023

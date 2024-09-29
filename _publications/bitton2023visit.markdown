@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Visit-bench&#58; A Benchmark For Vision-language Instruction Following Inspired By Real-world Use
+title: 'Visit-bench: A Benchmark For Vision-language Instruction Following Inspired By Real-world Use'
 authors: Bitton Yonatan, Bansal Hritik, Hessel Jack, Shao Rulin, Zhu Wanrong, Awadalla Anas, Gardner Josh, Taori Rohan, Schmidt Ludwig
 conference: "Arxiv"
 year: 2023

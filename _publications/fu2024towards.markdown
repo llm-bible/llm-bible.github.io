@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VITA&#58; Towards Open-source Interactive Omni Multimodal LLM
+title: 'VITA: Towards Open-source Interactive Omni Multimodal LLM'
 authors: Chaoyou Fu, Haojia Lin, Zuwei Long, Yunhang Shen, Meng Zhao, Yifan Zhang, Shaoqi Dong, Xiong Wang, Di Yin, Long Ma, Xiawu Zheng, Ran He, Rongrong Ji, Yunsheng Wu, Caifeng Shan, Xing Sun
 conference: "Arxiv"
 year: 2024

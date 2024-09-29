@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reasoning In Dialog&#58; Improving Response Generation By Context Reading Comprehension
+title: 'Reasoning In Dialog: Improving Response Generation By Context Reading Comprehension'
 authors: Chen Xiuying, Cui Zhi, Zhang Jiayi, Wei Chen, Cui Jianwei, Wang Bin, Zhao Dongyan, Yan Rui
 conference: "AAAI"
 year: 2020

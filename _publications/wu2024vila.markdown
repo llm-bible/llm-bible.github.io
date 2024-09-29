@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VILA-U&#58; A Unified Foundation Model Integrating Visual Understanding And Generation
+title: 'VILA-U: A Unified Foundation Model Integrating Visual Understanding And Generation'
 authors: Wu Yecheng, Zhang Zhuoyang, Chen Junyu, Tang Haotian, Li Dacheng, Fang Yunhao, Zhu Ligeng, Xie Enze, Yin Hongxu, Yi Li, Han Song, Lu Yao
 conference: "Arxiv"
 year: 2024

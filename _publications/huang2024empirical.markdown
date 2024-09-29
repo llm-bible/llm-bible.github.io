@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: An Empirical Study Of Llama3 Quantization&#58; From Llms To Mllms
+title: 'An Empirical Study Of Llama3 Quantization: From Llms To Mllms'
 authors: Huang Wei, Zheng Xingyu, Ma Xudong, Qin Haotong, Lv Chengtao, Chen Hong, Luo Jie, Qi Xiaojuan, Liu Xianglong, Magno Michele
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: NLP At UC Santa Cruz At Semeval-2024 Task 5&#58; Legal Answer Validation Using Few-shot Multi-choice QA
+title: 'NLP At UC Santa Cruz At Semeval-2024 Task 5: Legal Answer Validation Using Few-shot Multi-choice QA'
 authors: Pahilajani Anish, Jain Samyak Rajesh, Trivedi Devasha
 conference: "Arxiv"
 year: 2024

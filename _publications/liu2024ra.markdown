@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RA-ISF&#58; Learning To Answer And Understand From Retrieval Augmentation Via Iterative Self-feedback
+title: 'RA-ISF: Learning To Answer And Understand From Retrieval Augmentation Via Iterative Self-feedback'
 authors: Liu Yanming, Peng Xinyue, Zhang Xuhong, Liu Weihao, Yin Jianwei, Cao Jiannan, Du Tianyu
 conference: "Arxiv"
 year: 2024

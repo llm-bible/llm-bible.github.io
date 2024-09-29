@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Human-llm Conversations&#58; Mental Models And The Originator Of Toxicity
+title: 'Exploring Human-llm Conversations: Mental Models And The Originator Of Toxicity'
 authors: Schneider Johannes, Flores Arianna Casanova, Kranz Anne-catherine
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompting Multilingual Large Language Models To Generate Code-mixed Texts&#58; The Case Of South East Asian Languages
+title: 'Prompting Multilingual Large Language Models To Generate Code-mixed Texts: The Case Of South East Asian Languages'
 authors: Yong Zheng-xin, Zhang Ruochen, Forde Jessica Zosa, Wang Skyler, Subramonian Arjun, Lovenia Holy, Cahyawijaya Samuel, Winata Genta Indra, Sutawika Lintang, Cruz Jan Christian Blaise, Tan Yin Lin, Phan Long, Garcia Rowena, Solorio Thamar, Aji Alham Fikri
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatgpt&#58; Applications, Opportunities, And Threats
+title: 'Chatgpt: Applications, Opportunities, And Threats'
 authors: Bahrini Aram, Khamoshifar Mohammadsadra, Abbasimehr Hossein, Riggs Robert J., Esmaeili Maryam, Majdabadkohne Rastin Mastali, Pasehvar Morteza
 conference: "Arxiv"
 year: 2023

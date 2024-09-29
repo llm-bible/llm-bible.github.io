@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Chronicles Of RAG&#58; The Retriever, The Chunk And The Generator
+title: 'The Chronicles Of RAG: The Retriever, The Chunk And The Generator'
 authors: Finardi Paulo, Avila Leonardo, Castaldoni Rodrigo, Gengo Pedro, Larcher Celio, Piau Marcos, Costa Pablo, Caridá Vinicius
 conference: "Arxiv"
 year: 2024

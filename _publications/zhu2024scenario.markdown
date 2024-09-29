@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rageval&#58; Scenario Specific RAG Evaluation Dataset Generation Framework
+title: 'Rageval: Scenario Specific RAG Evaluation Dataset Generation Framework'
 authors: Zhu Kunlun, Luo Yifan, Xu Dingling, Wang Ruobing, Yu Shi, Wang Shuo, Yan Yukun, Liu Zhenghao, Han Xu, Liu Zhiyuan, Sun Maosong
 conference: "Arxiv"
 year: 2024

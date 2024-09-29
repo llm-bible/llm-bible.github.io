@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Openagents&#58; An Open Platform For Language Agents In The Wild
+title: 'Openagents: An Open Platform For Language Agents In The Wild'
 authors: Xie Tianbao, Zhou Fan, Cheng Zhoujun, Shi Peng, Weng Luoxuan, Liu Yitao, Hua Toh Jing, Zhao Junning, Liu Qian, Liu Che, Liu Leo Z., Xu Yiheng, Su Hongjin, Shin Dongchan, Xiong Caiming, Yu Tao
 conference: "Arxiv"
 year: 2023

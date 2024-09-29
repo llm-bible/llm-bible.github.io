@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: APT&#58; Adaptive Pruning And Tuning Pretrained Language Models For Efficient Training And Inference
+title: 'APT: Adaptive Pruning And Tuning Pretrained Language Models For Efficient Training And Inference'
 authors: Zhao Bowen, Hajishirzi Hannaneh, Cao Qingqing
 conference: "Arxiv"
 year: 2024

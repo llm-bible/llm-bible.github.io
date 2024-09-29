@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: In-context Sharpness As Alerts&#58; An Inner Representation Perspective For Hallucination Mitigation
+title: 'In-context Sharpness As Alerts: An Inner Representation Perspective For Hallucination Mitigation'
 authors: Chen Shiqi, Xiong Miao, Liu Junteng, Wu Zhengxuan, Xiao Teng, Gao Siyang, He Junxian
 conference: "Arxiv"
 year: 2024

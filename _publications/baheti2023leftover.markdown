@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Leftover Lunch&#58; Advantage-based Offline Reinforcement Learning For Language Models
+title: 'Leftover Lunch: Advantage-based Offline Reinforcement Learning For Language Models'
 authors: Baheti Ashutosh, Lu Ximing, Brahman Faeze, Bras Ronan Le, Sap Maarten, Riedl Mark
 conference: "Arxiv"
 year: 2023

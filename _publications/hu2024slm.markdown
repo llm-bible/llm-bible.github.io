@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SLM Meets LLM&#58; Balancing Latency, Interpretability And Consistency In Hallucination Detection
+title: 'SLM Meets LLM: Balancing Latency, Interpretability And Consistency In Hallucination Detection'
 authors: Hu Mengya, Xu Rui, Lei Deren, Li Yaxi, Wang Mingyu, Ching Emily, Kamal Eslam, Deng Alex
 conference: "Arxiv"
 year: 2024

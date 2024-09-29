@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pandalm&#58; An Automatic Evaluation Benchmark For LLM Instruction Tuning Optimization
+title: 'Pandalm: An Automatic Evaluation Benchmark For LLM Instruction Tuning Optimization'
 authors: Wang Yidong, Yu Zhuohao, Zeng Zhengran, Yang Linyi, Wang Cunxiang, Chen Hao, Jiang Chaoya, Xie Rui, Wang Jindong, Xie Xing, Ye Wei, Zhang Shikun, Zhang Yue
 conference: "Arxiv"
 year: 2023

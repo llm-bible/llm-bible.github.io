@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Shapley Head Pruning&#58; Identifying And Removing Interference In Multilingual Transformers
+title: 'Shapley Head Pruning: Identifying And Removing Interference In Multilingual Transformers'
 authors: Held William, Yang Diyi
 conference: "https://aclanthology.org/"
 year: 2022

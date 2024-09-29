@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Memocrs&#58; Memory-enhanced Sequential Conversational Recommender Systems With Large Language Models
+title: 'Memocrs: Memory-enhanced Sequential Conversational Recommender Systems With Large Language Models'
 authors: Xi Yunjia, Liu Weiwen, Lin Jianghao, Chen Bo, Tang Ruiming, Zhang Weinan, Yu Yong
 conference: "Arxiv"
 year: 2024

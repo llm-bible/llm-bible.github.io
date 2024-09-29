@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Emergence Of Essential Sparsity In Large Pre-trained Models&#58; The Weights That Matter
+title: 'The Emergence Of Essential Sparsity In Large Pre-trained Models: The Weights That Matter'
 authors: Ajay Jaiswal, Shiwei Liu, Tianlong Chen, Zhangyang Wang
 conference: "Arxiv"
 year: 2023

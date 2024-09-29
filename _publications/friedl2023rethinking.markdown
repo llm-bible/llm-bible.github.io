@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Inca&#58; Rethinking In-car Conversational System Assessment Leveraging Large Language Models
+title: 'Inca: Rethinking In-car Conversational System Assessment Leveraging Large Language Models'
 authors: Friedl Ken E., Khan Abbas Goher, Sahoo Soumya Ranjan, Rony Md Rashad Al Hasan, Germies Jana, Süß Christian
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Extending The Frontier Of Chatgpt&#58; Code Generation And Debugging
+title: 'Extending The Frontier Of Chatgpt: Code Generation And Debugging'
 authors: Sakib Fardin Ahsan, Khan Saadat Hasan, Karim A. H. M. Rezaul
 conference: "Arxiv"
 year: 2023

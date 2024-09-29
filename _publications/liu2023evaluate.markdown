@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Evaluate What You Can't Evaluate&#58; Unassessable Quality For Generated Response
+title: 'Evaluate What You Can''t Evaluate: Unassessable Quality For Generated Response'
 authors: Liu Yongkang, Feng Shi, Wang Daling, Zhang Yifei, Schütze Hinrich
 conference: "Arxiv"
 year: 2023

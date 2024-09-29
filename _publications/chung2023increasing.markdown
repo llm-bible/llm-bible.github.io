@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Increasing Diversity While Maintaining Accuracy&#58; Text Data Generation With Large Language Models And Human Interventions
+title: 'Increasing Diversity While Maintaining Accuracy: Text Data Generation With Large Language Models And Human Interventions'
 authors: Chung John Joon Young, Kamar Ece, Amershi Saleema
 conference: "Arxiv"
 year: 2023

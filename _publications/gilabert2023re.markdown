@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Resetox&#58; Re-learning Attention Weights For Toxicity Mitigation In Machine Translation
+title: 'Resetox: Re-learning Attention Weights For Toxicity Mitigation In Machine Translation'
 authors: Gilabert Javier García, Escolano Carlos, Costa-jussà Marta R.
 conference: "Arxiv"
 year: 2023

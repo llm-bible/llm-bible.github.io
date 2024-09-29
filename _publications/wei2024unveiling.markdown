@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unveiling Selection Biases&#58; Exploring Order And Token Sensitivity In Large Language Models
+title: 'Unveiling Selection Biases: Exploring Order And Token Sensitivity In Large Language Models'
 authors: Wei Sheng-lun, Wu Cheng-kuang, Huang Hen-hsen, Chen Hsin-hsi
 conference: "Arxiv"
 year: 2024

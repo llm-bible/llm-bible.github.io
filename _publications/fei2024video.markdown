@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Video-ccam&#58; Enhancing Video-language Understanding With Causal Cross-attention Masks For Short And Long Videos
+title: 'Video-ccam: Enhancing Video-language Understanding With Causal Cross-attention Masks For Short And Long Videos'
 authors: Fei Jiajun, Li Dian, Deng Zhidong, Wang Zekun, Liu Gang, Wang Hui
 conference: "Arxiv"
 year: 2024

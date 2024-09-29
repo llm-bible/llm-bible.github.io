@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Better LLM Evaluator For Text Generation&#58; The Impact Of Prompt Output Sequencing And Optimization
+title: 'A Better LLM Evaluator For Text Generation: The Impact Of Prompt Output Sequencing And Optimization'
 authors: Chu Kuanchao, Chen Yi-pei, Nakayama Hideki
 conference: "Arxiv"
 year: 2024

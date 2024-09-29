@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Structure Guided Prompt&#58; Instructing Large Language Model In Multi-step Reasoning By Exploring Graph Structure Of The Text
+title: 'Structure Guided Prompt: Instructing Large Language Model In Multi-step Reasoning By Exploring Graph Structure Of The Text'
 authors: Cheng Kewei, Ahmed Nesreen K., Willke Theodore, Sun Yizhou
 conference: "Arxiv"
 year: 2024

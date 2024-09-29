@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transfertod&#58; A Generalizable Chinese Multi-domain Task-oriented Dialogue System With Transfer Capabilities
+title: 'Transfertod: A Generalizable Chinese Multi-domain Task-oriented Dialogue System With Transfer Capabilities'
 authors: Zhang Ming, Huang Caishuang, Wu Yilong, Liu Shichun, Zheng Huiyuan, Dong Yurui, Shen Yujiong, Dou Shihan, Zhao Jun, Ye Junjie, Zhang Qi, Gui Tao, Huang Xuanjing
 conference: "Arxiv"
 year: 2024

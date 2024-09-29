@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Medusa&#58; Simple LLM Inference Acceleration Framework With Multiple Decoding Heads
+title: 'Medusa: Simple LLM Inference Acceleration Framework With Multiple Decoding Heads'
 authors: Cai Tianle, Li Yuhong, Geng Zhengyang, Peng Hongwu, Lee Jason D., Chen Deming, Dao Tri
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Table-gpt&#58; Table-tuned GPT For Diverse Table Tasks
+title: 'Table-gpt: Table-tuned GPT For Diverse Table Tasks'
 authors: Li Peng, He Yeye, Yashar Dror, Cui Weiwei, Ge Song, Zhang Haidong, Fainman Danielle Rifinski, Zhang Dongmei, Chaudhuri Surajit
 conference: "Arxiv"
 year: 2023

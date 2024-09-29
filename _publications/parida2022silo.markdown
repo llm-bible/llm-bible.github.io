@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Silo Nlp's Participation At WAT2022
+title: Silo Nlp''s Participation At WAT2022
 authors: Parida Shantipriya, Panda Subhadarshi, Grönroos Stig-arne, Granroth-wilding Mark, Koistinen Mika
 conference: "Arxiv"
 year: 2022

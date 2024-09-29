@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pack Of Llms&#58; Model Fusion At Test-time Via Perplexity Optimization
+title: 'Pack Of Llms: Model Fusion At Test-time Via Perplexity Optimization'
 authors: Mavromatis Costas, Karypis Petros, Karypis George
 conference: "Arxiv"
 year: 2024

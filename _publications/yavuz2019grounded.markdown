@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Deepcopy&#58; Grounded Response Generation With Hierarchical Pointer Networks
+title: 'Deepcopy: Grounded Response Generation With Hierarchical Pointer Networks'
 authors: Yavuz Semih, Rastogi Abhinav, Chao Guan-lin, Hakkani-tur Dilek
 conference: "Arxiv"
 year: 2019

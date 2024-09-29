@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM4VV&#58; Developing Llm-driven Testsuite For Compiler Validation
+title: 'LLM4VV: Developing Llm-driven Testsuite For Compiler Validation'
 authors: Munley Christian, Jarmusch Aaron, Chandrasekaran Sunita
 conference: "Arxiv"
 year: 2023

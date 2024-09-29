@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Olympiadbench&#58; A Challenging Benchmark For Promoting AGI With Olympiad-level Bilingual Multimodal Scientific Problems
+title: 'Olympiadbench: A Challenging Benchmark For Promoting AGI With Olympiad-level Bilingual Multimodal Scientific Problems'
 authors: He Chaoqun, Luo Renjie, Bai Yuzhuo, Hu Shengding, Thai Zhen Leng, Shen Junhao, Hu Jinyi, Han Xu, Huang Yujie, Zhang Yuxiang, Liu Jie, Qi Lei, Liu Zhiyuan, Sun Maosong
 conference: "Arxiv"
 year: 2024

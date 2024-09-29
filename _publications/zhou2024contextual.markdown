@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sirius&#58; Contextual Sparsity With Correction For Efficient Llms
+title: 'Sirius: Contextual Sparsity With Correction For Efficient Llms'
 authors: Zhou Yang, Chen Zhuoming, Xu Zhaozhuo, Lin Victoria, Chen Beidi
 conference: "Arxiv"
 year: 2024

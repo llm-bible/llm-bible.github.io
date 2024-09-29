@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lateval&#58; An Interactive Llms Evaluation Benchmark With Incomplete Information From Lateral Thinking Puzzles
+title: 'Lateval: An Interactive Llms Evaluation Benchmark With Incomplete Information From Lateral Thinking Puzzles'
 authors: Huang Shulin, Ma Shirong, Li Yinghui, Huang Mengzuo, Zou Wuhe, Zhang Weidong, Zheng Hai-tao
 conference: "Arxiv"
 year: 2023

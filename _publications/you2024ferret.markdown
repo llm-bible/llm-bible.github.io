@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ferret-ui&#58; Grounded Mobile UI Understanding With Multimodal Llms
+title: 'Ferret-ui: Grounded Mobile UI Understanding With Multimodal Llms'
 authors: You Keen, Zhang Haotian, Schoop Eldon, Weers Floris, Swearngin Amanda, Nichols Jeffrey, Yang Yinfei, Gan Zhe
 conference: "Arxiv"
 year: 2024

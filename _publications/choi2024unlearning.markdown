@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SNAP&#58; Unlearning Selective Knowledge In Large Language Models With Negative Instructions
+title: 'SNAP: Unlearning Selective Knowledge In Large Language Models With Negative Instructions'
 authors: Choi Minseok, Rim Daniel, Lee Dohyun, Choo Jaegul
 conference: "Arxiv"
 year: 2024

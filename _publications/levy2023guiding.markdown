@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Guiding LLM To Fool Itself&#58; Automatically Manipulating Machine Reading Comprehension Shortcut Triggers
+title: 'Guiding LLM To Fool Itself: Automatically Manipulating Machine Reading Comprehension Shortcut Triggers'
 authors: Levy Mosh, Ravfogel Shauli, Goldberg Yoav
 conference: "Arxiv"
 year: 2023

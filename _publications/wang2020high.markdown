@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lightseq&#58; A High Performance Inference Library For Transformers
+title: 'Lightseq: A High Performance Inference Library For Transformers'
 authors: Wang Xiaohui, Xiong Ying, Wei Yang, Wang Mingxuan, Li Lei
 conference: "Arxiv"
 year: 2020

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Small-e&#58; Small Language Model With Linear Attention For Efficient Speech Synthesis
+title: 'Small-e: Small Language Model With Linear Attention For Efficient Speech Synthesis'
 authors: Lemerle Théodor, Obin Nicolas, Roebel Axel
 conference: "Arxiv"
 year: 2024

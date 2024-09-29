@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hyperpolyglot Llms&#58; Cross-lingual Interpretability In Token Embeddings
+title: 'Hyperpolyglot Llms: Cross-lingual Interpretability In Token Embeddings'
 authors: Wen-yi Andrea W, Mimno David
 conference: "Published in EMNLP"
 year: 2023

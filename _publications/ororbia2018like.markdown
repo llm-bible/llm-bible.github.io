@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Like A Baby&#58; Visually Situated Neural Language Acquisition
+title: 'Like A Baby: Visually Situated Neural Language Acquisition'
 authors: Ororbia Alexander G., Mali Ankur, Kelly Matthew A., Reitter David
 conference: "Arxiv"
 year: 2018

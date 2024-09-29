@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Don't Miss The Forest For The Trees&#58; Attentional Vision Calibration For Large Vision Language Models
+title: 'Don''t Miss The Forest For The Trees: Attentional Vision Calibration For Large Vision Language Models'
 authors: Woo Sangmin, Kim Donguk, Jang Jaehyuk, Choi Yubin, Kim Changick
 conference: "Arxiv"
 year: 2024

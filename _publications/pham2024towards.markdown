@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Reliable Medical Question Answering&#58; Techniques And Challenges In Mitigating Hallucinations In Language Models
+title: 'Towards Reliable Medical Question Answering: Techniques And Challenges In Mitigating Hallucinations In Language Models'
 authors: Pham Duy Khoa, Vo Bao Quoc
 conference: "Arxiv"
 year: 2024

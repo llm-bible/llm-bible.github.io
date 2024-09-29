@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Abusegpt&#58; Abuse Of Generative AI Chatbots To Create Smishing Campaigns
+title: 'Abusegpt: Abuse Of Generative AI Chatbots To Create Smishing Campaigns'
 authors: Shibli Ashfak Md, Pritom Mir Mehedi A., Gupta Maanak
 conference: "Arxiv"
 year: 2024

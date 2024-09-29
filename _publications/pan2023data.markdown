@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: COSMIC&#58; Data Efficient Instruction-tuning For Speech In-context Learning
+title: 'COSMIC: Data Efficient Instruction-tuning For Speech In-context Learning'
 authors: Pan Jing, Wu Jian, Gaur Yashesh, Sivasankaran Sunit, Chen Zhuo, Liu Shujie, Li Jinyu
 conference: "Arxiv"
 year: 2023

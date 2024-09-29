@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RL4F&#58; Generating Natural Language Feedback With Reinforcement Learning For Repairing Model Outputs
+title: 'RL4F: Generating Natural Language Feedback With Reinforcement Learning For Repairing Model Outputs'
 authors: Afra Feyza Akyürek, Ekin Akyürek, Aman Madaan, Ashwin Kalyan, Peter Clark, Derry Wijaya, Niket Tandon
 conference: "Arxiv"
 year: 2023

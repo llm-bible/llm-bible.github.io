@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CO3&#58; Low-resource Contrastive Co-training For Generative Conversational Query Rewrite
+title: 'CO3: Low-resource Contrastive Co-training For Generative Conversational Query Rewrite'
 authors: Yuan Yifei, Shi Chen, Wang Runze, Chen Liyi, Hu Renjun, Zhang Zengming, Jiang Feijun, Lam Wai
 conference: "Arxiv"
 year: 2024

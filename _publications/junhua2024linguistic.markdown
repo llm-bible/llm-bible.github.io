@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LARA&#58; Linguistic-adaptive Retrieval-augmented Llms For Multi-turn Intent Classification
+title: 'LARA: Linguistic-adaptive Retrieval-augmented Llms For Multi-turn Intent Classification'
 authors: Junhua Liu, Keat Tan Yong, Bin Fu
 conference: "Arxiv"
 year: 2024

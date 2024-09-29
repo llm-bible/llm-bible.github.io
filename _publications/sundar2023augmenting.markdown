@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ctbls&#58; Augmenting Large Language Models With Conversational Tables
+title: 'Ctbls: Augmenting Large Language Models With Conversational Tables'
 authors: Sundar Anirudh S, Heck Larry
 conference: "Arxiv"
 year: 2023

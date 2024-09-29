@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hierarchical Prompting Taxonomy&#58; A Universal Evaluation Framework For Large Language Models
+title: 'Hierarchical Prompting Taxonomy: A Universal Evaluation Framework For Large Language Models'
 authors: Budagam Devichand, Kj Sankalp, Kumar Ashutosh, Jain Vinija, Chadha Aman
 conference: "Arxiv"
 year: 2024

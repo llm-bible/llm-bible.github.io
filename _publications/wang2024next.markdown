@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ANGO&#58; A Next-level Evaluation Benchmark For Generation-oriented Language Models In Chinese Domain
+title: 'ANGO: A Next-level Evaluation Benchmark For Generation-oriented Language Models In Chinese Domain'
 authors: Wang Bingchao
 conference: "Arxiv"
 year: 2024

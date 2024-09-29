@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Map-neo&#58; Highly Capable And Transparent Bilingual Large Language Model Series
+title: 'Map-neo: Highly Capable And Transparent Bilingual Large Language Model Series'
 authors: Zhang Ge, Qu Scott, Liu Jiaheng, Zhang Chenchen, Lin Chenghua, Yu Chou Leuang, Pan Danny, Cheng Esther, Liu Jie, Lin Qunshu, Yuan Raven, Zheng Tuney, Pang Wei, Du Xinrun, Liang Yiming, Ma Yinghao, Li Yizhi, Ma Ziyang, Lin Bill, Benetos Emmanouil, Yang Huan, Zhou Junting, Ma Kaijing, Liu Minghao, Niu Morry, Wang Noah, Que Quehry, Liu Ruibo, Liu Sine, Guo Shawn, Gao Soren, Zhou Wangchunshu, Zhang Xinyue, Zhou Yizhi, Wang Yubo, Bai Yuelin, Zhang Yuhan, Zhang Yuxiang, Wang Zenith, Yang Zhenzhu, Zhao Zijian, Zhang Jiajun, Ouyang Wanli, Huang Wenhao, Chen Wenhu
 conference: "Arxiv"
 year: 2024

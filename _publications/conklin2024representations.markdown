@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Representations As Language&#58; An Information-theoretic Framework For Interpretability
+title: 'Representations As Language: An Information-theoretic Framework For Interpretability'
 authors: Conklin Henry, Smith Kenny
 conference: "Arxiv"
 year: 2024

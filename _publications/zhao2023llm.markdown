@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Expel&#58; LLM Agents Are Experiential Learners
+title: 'Expel: LLM Agents Are Experiential Learners'
 authors: Andrew Zhao, Daniel Huang, Quentin Xu, Matthieu Lin, Yong-jin Liu, Gao Huang
 conference: "Arxiv"
 year: 2023

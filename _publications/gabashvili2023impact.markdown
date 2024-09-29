@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Impact And Applications Of Chatgpt&#58; A Systematic Review Of Literature Reviews
+title: 'The Impact And Applications Of Chatgpt: A Systematic Review Of Literature Reviews'
 authors: Gabashvili Irene S.
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ALMANACS&#58; A Simulatability Benchmark For Language Model Explainability
+title: 'ALMANACS: A Simulatability Benchmark For Language Model Explainability'
 authors: Mills Edmund, Su Shiye, Russell Stuart, Emmons Scott
 conference: "Arxiv"
 year: 2023

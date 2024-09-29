@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llm2loss&#58; Leveraging Language Models For Explainable Model Diagnostics
+title: 'Llm2loss: Leveraging Language Models For Explainable Model Diagnostics'
 authors: Ardeshir Shervin
 conference: "Arxiv"
 year: 2023

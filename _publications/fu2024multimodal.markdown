@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BLINK&#58; Multimodal Large Language Models Can See But Not Perceive
+title: 'BLINK: Multimodal Large Language Models Can See But Not Perceive'
 authors: Fu Xingyu, Hu Yushi, Li Bangzheng, Feng Yu, Wang Haoyu, Lin Xudong, Roth Dan, Smith Noah A., Ma Wei-chiu, Krishna Ranjay
 conference: "Arxiv"
 year: 2024

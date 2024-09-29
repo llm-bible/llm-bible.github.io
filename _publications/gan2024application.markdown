@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Application Of LLM Agents In Recruitment&#58; A Novel Framework For Resume Screening
+title: 'Application Of LLM Agents In Recruitment: A Novel Framework For Resume Screening'
 authors: Gan Chengguang, Zhang Qinghao, Mori Tatsunori
 conference: "Arxiv"
 year: 2024

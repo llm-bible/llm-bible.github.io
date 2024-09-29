@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: React&#58; Synergizing Reasoning And Acting In Language Models
+title: 'React: Synergizing Reasoning And Acting In Language Models'
 authors: Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao
 conference: "Arxiv"
 year: 2022

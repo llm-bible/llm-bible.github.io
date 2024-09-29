@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Polylm&#58; An Open Source Polyglot Large Language Model
+title: 'Polylm: An Open Source Polyglot Large Language Model'
 authors: Wei Xiangpeng, Wei Haoran, Lin Huan, Li Tianhao, Zhang Pei, Ren Xingzhang, Li Mei, Wan Yu, Cao Zhiwei, Xie Binbin, Hu Tianxiang, Li Shangjie, Hui Binyuan, Yu Bowen, Liu Dayiheng, Yang Baosong, Huang Fei, Xie Jun
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Queer People Are People First&#58; Deconstructing Sexual Identity Stereotypes In Large Language Models
+title: 'Queer People Are People First: Deconstructing Sexual Identity Stereotypes In Large Language Models'
 authors: Dhingra Harnoor, Jayashanker Preetiha, Moghe Sayali, Strubell Emma
 conference: "Arxiv"
 year: 2023

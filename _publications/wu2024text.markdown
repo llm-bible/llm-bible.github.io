@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Elicitationgpt&#58; Text Elicitation Mechanisms Via Language Models
+title: 'Elicitationgpt: Text Elicitation Mechanisms Via Language Models'
 authors: Wu Yifan, Hartline Jason
 conference: "Arxiv"
 year: 2024

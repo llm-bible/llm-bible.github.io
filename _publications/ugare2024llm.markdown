@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Syncode&#58; LLM Generation With Grammar Augmentation
+title: 'Syncode: LLM Generation With Grammar Augmentation'
 authors: Ugare Shubham, Suresh Tarun, Kang Hangoo, Misailovic Sasa, Singh Gagandeep
 conference: "Arxiv"
 year: 2024

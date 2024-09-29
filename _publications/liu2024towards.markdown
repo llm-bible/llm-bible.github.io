@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Truthful Multilingual Large Language Models&#58; Benchmarking And Alignment Strategies
+title: 'Towards Truthful Multilingual Large Language Models: Benchmarking And Alignment Strategies'
 authors: Liu Weihao, Wu Ning, Ding Wenbiao, Liang Shining, Gong Ming, Zhang Dongmei
 conference: "Arxiv"
 year: 2024

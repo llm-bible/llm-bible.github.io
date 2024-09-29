@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: APEER&#58; Automatic Prompt Engineering Enhances Large Language Model Reranking
+title: 'APEER: Automatic Prompt Engineering Enhances Large Language Model Reranking'
 authors: Jin Can, Peng Hongwu, Zhao Shiyu, Wang Zhenting, Xu Wujiang, Han Ligong, Zhao Jiahui, Zhong Kai, Rajasekaran Sanguthevar, Metaxas Dimitris N.
 conference: "Arxiv"
 year: 2024

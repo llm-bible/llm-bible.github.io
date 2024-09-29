@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MING-MOE&#58; Enhancing Medical Multi-task Learning In Large Language Models With Sparse Mixture Of Low-rank Adapter Experts
+title: 'MING-MOE: Enhancing Medical Multi-task Learning In Large Language Models With Sparse Mixture Of Low-rank Adapter Experts'
 authors: Liao Yusheng, Jiang Shuyang, Wang Yu, Wang Yanfeng
 conference: "Arxiv"
 year: 2024

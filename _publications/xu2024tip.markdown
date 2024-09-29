@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On The Tip Of The Tongue&#58; Analyzing Conceptual Representation In Large Language Models With Reverse-dictionary Probe
+title: 'On The Tip Of The Tongue: Analyzing Conceptual Representation In Large Language Models With Reverse-dictionary Probe'
 authors: Xu Ningyu, Zhang Qi, Zhang Menghan, Qian Peng, Huang Xuanjing
 conference: "Arxiv"
 year: 2024

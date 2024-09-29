@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Know The Unknown&#58; An Uncertainty-sensitive Method For LLM Instruction Tuning
+title: 'Know The Unknown: An Uncertainty-sensitive Method For LLM Instruction Tuning'
 authors: Li Jiaqi, Tang Yixuan, Yang Yi
 conference: "Arxiv"
 year: 2024

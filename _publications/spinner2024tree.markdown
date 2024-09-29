@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generaitor&#58; Tree-in-the-loop Text Generation For Language Model Explainability And Adaptation
+title: 'Generaitor: Tree-in-the-loop Text Generation For Language Model Explainability And Adaptation'
 authors: Spinner Thilo, Kehlbeck Rebecca, Sevastjanova Rita, Stähle Tobias, Keim Daniel A., Deussen Oliver, El-assady Mennatallah
 conference: "Arxiv"
 year: 2024

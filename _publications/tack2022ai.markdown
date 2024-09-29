@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The AI Teacher Test&#58; Measuring The Pedagogical Ability Of Blender And GPT-3 In Educational Dialogues
+title: 'The AI Teacher Test: Measuring The Pedagogical Ability Of Blender And GPT-3 In Educational Dialogues'
 authors: Tack Anaïs, Piech Chris
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Are Large Language Models Good Fact Checkers&#58; A Preliminary Study
+title: 'Are Large Language Models Good Fact Checkers: A Preliminary Study'
 authors: Cao Han, Wei Lingwei, Chen Mengyang, Zhou Wei, Hu Songlin
 conference: "Arxiv"
 year: 2023

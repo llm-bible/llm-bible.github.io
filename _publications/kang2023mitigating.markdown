@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ever&#58; Mitigating Hallucination In Large Language Models Through Real-time Verification And Rectification
+title: 'Ever: Mitigating Hallucination In Large Language Models Through Real-time Verification And Rectification'
 authors: Kang Haoqiang, Ni Juntong, Yao Huaxiu
 conference: "Arxiv"
 year: 2023

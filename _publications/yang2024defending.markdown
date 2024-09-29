@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Guardt2i&#58; Defending Text-to-image Models From Adversarial Prompts
+title: 'Guardt2i: Defending Text-to-image Models From Adversarial Prompts'
 authors: Yang Yijun, Gao Ruiyuan, Yang Xiao, Zhong Jianyuan, Xu Qiang
 conference: "Arxiv"
 year: 2024

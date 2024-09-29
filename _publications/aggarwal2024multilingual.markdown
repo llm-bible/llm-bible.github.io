@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MAPLE&#58; Multilingual Evaluation Of Parameter Efficient Finetuning Of Large Language Models
+title: 'MAPLE: Multilingual Evaluation Of Parameter Efficient Finetuning Of Large Language Models'
 authors: Aggarwal Divyanshu, Sathe Ashutosh, Watts Ishaan, Sitaram Sunayana
 conference: "Arxiv"
 year: 2024

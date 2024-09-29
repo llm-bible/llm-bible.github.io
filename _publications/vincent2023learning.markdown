@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mtcue&#58; Learning Zero-shot Control Of Extra-textual Attributes By Leveraging Unstructured Context In Neural Machine Translation
+title: 'Mtcue: Learning Zero-shot Control Of Extra-textual Attributes By Leveraging Unstructured Context In Neural Machine Translation'
 authors: Vincent Sebastian, Flynn Robert, Scarton Carolina
 conference: "Arxiv"
 year: 2023

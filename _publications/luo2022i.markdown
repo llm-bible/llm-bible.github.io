@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: I-tuning&#58; Tuning Frozen Language Models With Image For Lightweight Image Captioning
+title: 'I-tuning: Tuning Frozen Language Models With Image For Lightweight Image Captioning'
 authors: Luo Ziyang, Hu Zhipeng, Xi Yadong, Zhang Rongsheng, Ma Jing
 conference: "Arxiv"
 year: 2022

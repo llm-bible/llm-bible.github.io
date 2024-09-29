@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Datavist5&#58; A Pre-trained Language Model For Jointly Understanding Text And Data Visualization
+title: 'Datavist5: A Pre-trained Language Model For Jointly Understanding Text And Data Visualization'
 authors: Wan Zhuoyue, Song Yuanfeng, Li Shuaimin, Zhang Chen Jason, Wong Raymond Chi-wing
 conference: "Arxiv"
 year: 2024

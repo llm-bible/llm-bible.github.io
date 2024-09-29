@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompting Chatgpt For Translation&#58; A Comparative Analysis Of Translation Brief And Persona Prompts
+title: 'Prompting Chatgpt For Translation: A Comparative Analysis Of Translation Brief And Persona Prompts'
 authors: He Sui
 conference: "Arxiv"
 year: 2024

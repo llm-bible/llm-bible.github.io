@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Taste&#58; Teaching Large Language Models To Translate Through Self-reflection
+title: 'Taste: Teaching Large Language Models To Translate Through Self-reflection'
 authors: Wang Yutong, Zeng Jiali, Liu Xuebo, Meng Fandong, Zhou Jie, Zhang Min
 conference: "Arxiv"
 year: 2024

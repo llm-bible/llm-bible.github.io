@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CLIP With Generative Latent Replay&#58; A Strong Baseline For Incremental Learning
+title: 'CLIP With Generative Latent Replay: A Strong Baseline For Incremental Learning'
 authors: Frascaroli Emanuele, Panariello Aniello, Buzzega Pietro, Bonicelli Lorenzo, Porrello Angelo, Calderara Simone
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Base To Conversational&#58; Japanese Instruction Dataset And Tuning Large Language Models
+title: 'From Base To Conversational: Japanese Instruction Dataset And Tuning Large Language Models'
 authors: Suzuki Masahiro, Hirano Masanori, Sakaji Hiroki
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Let Storytelling Tell Vivid Stories&#58; An Expressive And Fluent Multimodal Storyteller
+title: 'Let Storytelling Tell Vivid Stories: An Expressive And Fluent Multimodal Storyteller'
 authors: Zang Chuanqi, Tang Jiji, Zhang Rongsheng, Zhao Zeng, Lv Tangjie, Pei Mingtao, Liang Wei
 conference: "Arxiv"
 year: 2024

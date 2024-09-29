@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Quite Good, But Not Enough&#58; Nationality Bias In Large Language Models -- A Case Study Of Chatgpt
+title: 'Quite Good, But Not Enough: Nationality Bias In Large Language Models -- A Case Study Of Chatgpt'
 authors: Zhu Shucheng, Wang Weikang, Liu Ying
 conference: "Arxiv"
 year: 2024

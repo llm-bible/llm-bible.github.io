@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EAGLE&#58; Speculative Sampling Requires Rethinking Feature Uncertainty
+title: 'EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty'
 authors: Li Yuhui, Wei Fangyun, Zhang Chao, Zhang Hongyang
 conference: "Arxiv"
 year: 2024

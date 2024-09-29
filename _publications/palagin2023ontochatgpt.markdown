@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ontochatgpt Information System&#58; Ontology-driven Structured Prompts For Chatgpt Meta-learning
+title: 'Ontochatgpt Information System: Ontology-driven Structured Prompts For Chatgpt Meta-learning'
 authors: Palagin Oleksandr, Kaverinskiy Vladislav, Litvin Anna, Malakhov Kyrylo
 conference: "International Journal of Computing"
 year: 2023

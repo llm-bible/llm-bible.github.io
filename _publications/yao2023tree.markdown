@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tree Of Thoughts&#58; Deliberate Problem Solving With Large Language Models
+title: 'Tree Of Thoughts: Deliberate Problem Solving With Large Language Models'
 authors: Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan
 conference: "Arxiv"
 year: 2023

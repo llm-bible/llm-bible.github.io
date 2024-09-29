@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatgpt In The Age Of Generative AI And Large Language Models&#58; A Concise Survey
+title: 'Chatgpt In The Age Of Generative AI And Large Language Models: A Concise Survey'
 authors: Mohamadi Salman, Mujtaba Ghulam, Le Ngan, Doretto Gianfranco, Adjeroh Donald A.
 conference: "Arxiv"
 year: 2023

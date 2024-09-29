@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retentive Network&#58; A Successor To Transformer For Large Language Models
+title: 'Retentive Network: A Successor To Transformer For Large Language Models'
 authors: Sun Yutao, Dong Li, Huang Shaohan, Ma Shuming, Xia Yuqing, Xue Jilong, Wang Jianyong, Wei Furu
 conference: "Arxiv"
 year: 2023

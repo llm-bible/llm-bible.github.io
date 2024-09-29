@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Benchmarking Cognitive Domains For Llms&#58; Insights From Taiwanese Hakka Culture
+title: 'Benchmarking Cognitive Domains For Llms: Insights From Taiwanese Hakka Culture'
 authors: Chang Chen-chi, Chen Ching-yuan, Lee Hung-shin, Lee Chih-cheng
 conference: "Arxiv"
 year: 2024

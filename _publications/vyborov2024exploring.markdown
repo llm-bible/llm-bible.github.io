@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring Fact Memorization And Style Imitation In Llms Using Qlora&#58; An Experimental Study And Quality Assessment Methods
+title: 'Exploring Fact Memorization And Style Imitation In Llms Using Qlora: An Experimental Study And Quality Assessment Methods'
 authors: Vyborov Eugene, Osypenko Oleksiy, Sotnyk Serge
 conference: "Arxiv"
 year: 2024

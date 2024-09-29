@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MMM&#58; Multilingual Mutual Reinforcement Effect Mix Datasets & Test With Open-domain Information Extraction Large Language Models
+title: 'MMM: Multilingual Mutual Reinforcement Effect Mix Datasets & Test With Open-domain Information Extraction Large Language Models'
 authors: Gan Chengguang, Yin Qingyu, He Xinyang, Wei Hanjun, Liang Yunhao, Lim Younghun, Wang Shijian, Huang Hexiang, Zhang Qinghao, Ni Shiwen, Mori Tatsunori
 conference: "Arxiv"
 year: 2024

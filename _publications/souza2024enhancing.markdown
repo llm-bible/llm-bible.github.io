@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Ai-driven Psychological Consultation&#58; Layered Prompts With Large Language Models
+title: 'Enhancing Ai-driven Psychological Consultation: Layered Prompts With Large Language Models'
 authors: Souza Rafael, Lim Jia-hao, Davis Alexander
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dodrio&#58; Exploring Transformer Models With Interactive Visualization
+title: 'Dodrio: Exploring Transformer Models With Interactive Visualization'
 authors: Wang Zijie J., Turko Robert, Chau Duen Horng
 conference: "Arxiv"
 year: 2021

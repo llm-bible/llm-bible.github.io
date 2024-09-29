@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lightseq2&#58; Accelerated Training For Transformer-based Models On Gpus
+title: 'Lightseq2: Accelerated Training For Transformer-based Models On Gpus'
 authors: Wang Xiaohui, Wei Yang, Xiong Ying, Huang Guyue, Qian Xian, Ding Yufei, Wang Mingxuan, Li Lei
 conference: "Arxiv"
 year: 2021

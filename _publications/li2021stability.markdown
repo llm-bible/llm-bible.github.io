@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Stability-efficiency Dilemma&#58; Investigating Sequence Length Warmup For Training GPT Models
+title: 'The Stability-efficiency Dilemma: Investigating Sequence Length Warmup For Training GPT Models'
 authors: Li Conglong, Zhang Minjia, He Yuxiong
 conference: "Arxiv"
 year: 2021

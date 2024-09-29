@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SEA&#58; Supervised Embedding Alignment For Token-level Visual-textual Integration In Mllms
+title: 'SEA: Supervised Embedding Alignment For Token-level Visual-textual Integration In Mllms'
 authors: Yin Yuanyang, Zhao Yaqi, Zhang Yajie, Lin Ke, Wang Jiahao, Tao Xin, Wan Pengfei, Zhang Di, Yin Baoqun, Zhang Wentao
 conference: "Arxiv"
 year: 2024

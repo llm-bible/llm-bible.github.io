@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CREATOR&#58; Tool Creation For Disentangling Abstract And Concrete Reasoning Of Large Language Models
+title: 'CREATOR: Tool Creation For Disentangling Abstract And Concrete Reasoning Of Large Language Models'
 authors: Cheng Qian, Chi Han, Yi R. Fung, Yujia Qin, Zhiyuan Liu, Heng Ji
 conference: "Arxiv"
 year: 2023

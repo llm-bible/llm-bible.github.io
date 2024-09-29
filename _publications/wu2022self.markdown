@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-adaptive In-context Learning&#58; An Information Compression Perspective For In-context Example Selection And Ordering
+title: 'Self-adaptive In-context Learning: An Information Compression Perspective For In-context Example Selection And Ordering'
 authors: Zhiyong Wu, Yaoxiang Wang, Jiacheng Ye, Lingpeng Kong
 conference: "Arxiv"
 year: 2022

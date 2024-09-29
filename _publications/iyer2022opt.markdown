@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: OPT-IML&#58; Scaling Language Model Instruction Meta Learning Through The Lens Of Generalization
+title: 'OPT-IML: Scaling Language Model Instruction Meta Learning Through The Lens Of Generalization'
 authors: Srinivasan Iyer, Xi Victoria Lin, Ramakanth Pasunuru, Todor Mihaylov, Daniel Simig, Ping Yu, Kurt Shuster, Tianlu Wang, Qing Liu, Punit Singh Koura, Xian Li, Brian O'horo, Gabriel Pereyra, Jeff Wang, Christopher Dewan, Asli Celikyilmaz, Luke Zettlemoyer, Ves Stoyanov
 conference: "Arxiv"
 year: 2022

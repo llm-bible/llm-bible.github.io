@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLMAEL&#58; Large Language Models Are Good Context Augmenters For Entity Linking
+title: 'LLMAEL: Large Language Models Are Good Context Augmenters For Entity Linking'
 authors: Xin Amy, Qi Yunjia, Yao Zijun, Zhu Fangwei, Zeng Kaisheng, Bin Xu, Hou Lei, Li Juanzi
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Longvila&#58; Scaling Long-context Visual Language Models For Long Videos
+title: 'Longvila: Scaling Long-context Visual Language Models For Long Videos'
 authors: Xue Fuzhao, Chen Yukang, Li Dacheng, Hu Qinghao, Zhu Ligeng, Li Xiuyu, Fang Yunhao, Tang Haotian, Yang Shang, Liu Zhijian, He Ethan, Yin Hongxu, Molchanov Pavlo, Kautz Jan, Fan Linxi, Zhu Yuke, Lu Yao, Han Song
 conference: "Arxiv"
 year: 2024

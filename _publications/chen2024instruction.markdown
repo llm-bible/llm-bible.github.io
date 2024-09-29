@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Graphwiz&#58; An Instruction-following Language Model For Graph Problems
+title: 'Graphwiz: An Instruction-following Language Model For Graph Problems'
 authors: Chen Nuo, Li Yuhan, Tang Jianheng, Li Jia
 conference: "Arxiv"
 year: 2024

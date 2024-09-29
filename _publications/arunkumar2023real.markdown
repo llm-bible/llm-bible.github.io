@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Real-time Visual Feedback To Guide Benchmark Creation&#58; A Human-and-metric-in-the-loop Workflow
+title: 'Real-time Visual Feedback To Guide Benchmark Creation: A Human-and-metric-in-the-loop Workflow'
 authors: Arunkumar Anjana, Mishra Swaroop, Sachdeva Bhavdeep, Baral Chitta, Bryan Chris
 conference: "Arxiv"
 year: 2023

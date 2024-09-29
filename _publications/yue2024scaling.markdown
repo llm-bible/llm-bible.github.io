@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mammoth2&#58; Scaling Instructions From The Web
+title: 'Mammoth2: Scaling Instructions From The Web'
 authors: Yue Xiang, Zheng Tuney, Zhang Ge, Chen Wenhu
 conference: "Arxiv"
 year: 2024

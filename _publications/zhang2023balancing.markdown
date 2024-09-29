@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Balancing Specialized And General Skills In Llms&#58; The Impact Of Modern Tuning And Data Strategy
+title: 'Balancing Specialized And General Skills In Llms: The Impact Of Modern Tuning And Data Strategy'
 authors: Zhang Zheng, Zheng Chen, Tang Da, Sun Ke, Ma Yukun, Bu Yingtong, Zhou Xun, Zhao Liang
 conference: "Arxiv"
 year: 2023

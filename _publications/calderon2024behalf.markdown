@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: On Behalf Of The Stakeholders&#58; Trends In NLP Model Interpretability In The Era Of Llms
+title: 'On Behalf Of The Stakeholders: Trends In NLP Model Interpretability In The Era Of Llms'
 authors: Calderon Nitay, Reichart Roi
 conference: "Arxiv"
 year: 2024

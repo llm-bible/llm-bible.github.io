@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: 3d-properties&#58; Identifying Challenges In DPO And Charting A Path Forward
+title: '3d-properties: Identifying Challenges In DPO And Charting A Path Forward'
 authors: Yan Yuzi, Miao Yibo, Li Jialian, Zhang Yipin, Xie Jian, Deng Zhijie, Yan Dong
 conference: "Arxiv"
 year: 2024

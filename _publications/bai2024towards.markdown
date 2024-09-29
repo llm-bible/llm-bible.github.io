@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sparsellm&#58; Towards Global Pruning For Pre-trained Language Models
+title: 'Sparsellm: Towards Global Pruning For Pre-trained Language Models'
 authors: Bai Guangji, Li Yijiang, Ling Chen, Kim Kibaek, Zhao Liang
 conference: "Arxiv"
 year: 2024

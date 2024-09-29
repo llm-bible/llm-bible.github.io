@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dialogue For Prompting&#58; A Policy-gradient-based Discrete Prompt Generation For Few-shot Learning
+title: 'Dialogue For Prompting: A Policy-gradient-based Discrete Prompt Generation For Few-shot Learning'
 authors: Li Chengzhengxu, Liu Xiaoming, Wang Yichen, Li Duyi, Lan Yu, Shen Chao
 conference: "Arxiv"
 year: 2023

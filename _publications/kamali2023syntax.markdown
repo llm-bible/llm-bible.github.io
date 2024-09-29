@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Syntax-guided Transformers&#58; Elevating Compositional Generalization And Grounding In Multimodal Environments
+title: 'Syntax-guided Transformers: Elevating Compositional Generalization And Grounding In Multimodal Environments'
 authors: Kamali Danial, Kordjamshidi Parisa
 conference: "Arxiv"
 year: 2023

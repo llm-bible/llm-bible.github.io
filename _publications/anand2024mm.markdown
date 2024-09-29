@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mm-phyrlhf&#58; Reinforcement Learning Framework For Multimodal Physics Question-answering
+title: 'Mm-phyrlhf: Reinforcement Learning Framework For Multimodal Physics Question-answering'
 authors: Anand Avinash, Kapuriya Janak, Kirtani Chhavi, Singh Apoorv, Saraf Jay, Lal Naman, Kumar Jatin, Shivam Adarsh Raj, Verma Astha, Shah Rajiv Ratn, Zimmermann Roger
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llama-reviewer&#58; Advancing Code Review Automation With Large Language Models Through Parameter-efficient Fine-tuning
+title: 'Llama-reviewer: Advancing Code Review Automation With Large Language Models Through Parameter-efficient Fine-tuning'
 authors: Lu Junyi, Yu Lei, Li Xiaojia, Yang Li, Zuo Chun
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Thalle&#58; Text Hyperlocally Augmented Large Language Extension -- Technical Report
+title: 'Thalle: Text Hyperlocally Augmented Large Language Extension -- Technical Report'
 authors: Labs Kbtg, Khamnuansin Danupat, Petchsod Atthakorn, Lertpiya Anuruth, Balee Pornchanan, Lodkaew Thanawat, Chalothorn Tawunrat, Pongthawornkamol Thadpong, Lertsutthiwong Monchai
 conference: "Arxiv"
 year: 2024

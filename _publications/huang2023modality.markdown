@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Modality Plug-and-play&#58; Elastic Modality Adaptation In Multimodal Llms For Embodied AI
+title: 'Modality Plug-and-play: Elastic Modality Adaptation In Multimodal Llms For Embodied AI'
 authors: Huang Kai, Yang Boyuan, Gao Wei
 conference: "Arxiv"
 year: 2023

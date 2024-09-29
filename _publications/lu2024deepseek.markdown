@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Deepseek-vl&#58; Towards Real-world Vision-language Understanding
+title: 'Deepseek-vl: Towards Real-world Vision-language Understanding'
 authors: Lu Haoyu, Liu Wen, Zhang Bo, Wang Bingxuan, Dong Kai, Liu Bo, Sun Jingxiang, Ren Tongzheng, Li Zhuoshu, Yang Hao, Sun Yaofeng, Deng Chengqi, Xu Hanwei, Xie Zhenda, Ruan Chong
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llm-japanese-dataset V0&#58; Construction Of Japanese Chat Dataset For Large Language Models And Its Methodology
+title: 'Llm-japanese-dataset V0: Construction Of Japanese Chat Dataset For Large Language Models And Its Methodology'
 authors: Hirano Masanori, Suzuki Masahiro, Sakaji Hiroki
 conference: "Arxiv"
 year: 2023

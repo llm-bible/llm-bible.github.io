@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Etalon&#58; Holistic Performance Evaluation Framework For LLM Inference Systems
+title: 'Etalon: Holistic Performance Evaluation Framework For LLM Inference Systems'
 authors: Agrawal Amey, Agarwal Anmol, Kedia Nitin, Mohan Jayashree, Kundu Souvik, Kwatra Nipun, Ramjee Ramachandran, Tumanov Alexey
 conference: "Arxiv"
 year: 2024

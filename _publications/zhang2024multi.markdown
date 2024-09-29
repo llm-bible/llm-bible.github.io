@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Toolbehonest&#58; A Multi-level Hallucination Diagnostic Benchmark For Tool-augmented Large Language Models
+title: 'Toolbehonest: A Multi-level Hallucination Diagnostic Benchmark For Tool-augmented Large Language Models'
 authors: Zhang Yuxiang, Chen Jing, Wang Junjie, Liu Yaxin, Yang Cheng, Shi Chufan, Zhu Xinyu, Lin Zihao, Wan Hanwen, Yang Yujiu, Sakai Tetsuya, Feng Tian, Yamana Hayato
 conference: "Arxiv"
 year: 2024

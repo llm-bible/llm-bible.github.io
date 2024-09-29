@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Qiaoning At Semeval-2020 Task 4&#58; Commonsense Validation And Explanation System Based On Ensemble Of Language Model
+title: 'Qiaoning At Semeval-2020 Task 4: Commonsense Validation And Explanation System Based On Ensemble Of Language Model'
 authors: Liu Pai
 conference: "Arxiv"
 year: 2020

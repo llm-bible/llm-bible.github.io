@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Code4struct&#58; Code Generation For Few-shot Event Structure Prediction
+title: 'Code4struct: Code Generation For Few-shot Event Structure Prediction'
 authors: Wang Xingyao, Li Sha, Ji Heng
 conference: "Arxiv"
 year: 2022

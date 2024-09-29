@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: C3LLM&#58; Conditional Multimodal Content Generation Using Large Language Models
+title: 'C3LLM: Conditional Multimodal Content Generation Using Large Language Models'
 authors: Wang Zixuan, Duan Qinkai, Tai Yu-wing, Tang Chi-keung
 conference: "Arxiv"
 year: 2024

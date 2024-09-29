@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Look Before You Leap&#58; Problem Elaboration Prompting Improves Mathematical Reasoning In Large Language Models
+title: 'Look Before You Leap: Problem Elaboration Prompting Improves Mathematical Reasoning In Large Language Models'
 authors: Liao Haoran, Tian Jidong, Hu Shaohua, He Hao, Jin Yaohui
 conference: "Arxiv"
 year: 2024

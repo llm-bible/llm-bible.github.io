@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards Tracing Trustworthiness Dynamics&#58; Revisiting Pre-training Period Of Large Language Models
+title: 'Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period Of Large Language Models'
 authors: Qian Chen, Zhang Jie, Yao Wei, Liu Dongrui, Yin Zhenfei, Qiao Yu, Liu Yong, Shao Jing
 conference: "Arxiv"
 year: 2024

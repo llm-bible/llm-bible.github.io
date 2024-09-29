@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: COMMA&#58; Co-articulated Multi-modal Learning
+title: 'COMMA: Co-articulated Multi-modal Learning'
 authors: Hu Lianyu, Gao Liqing, Liu Zekang, Pun Chi-man, Feng Wei
 conference: "Arxiv"
 year: 2023

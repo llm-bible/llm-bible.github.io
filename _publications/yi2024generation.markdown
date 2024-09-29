@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generation Meets Verification&#58; Accelerating Large Language Model Inference With Smart Parallel Auto-correct Decoding
+title: 'Generation Meets Verification: Accelerating Large Language Model Inference With Smart Parallel Auto-correct Decoding'
 authors: Yi Hanling, Lin Feng, Li Hongbin, Ning Peiyang, Yu Xiaotian, Xiao Rong
 conference: "Arxiv"
 year: 2024

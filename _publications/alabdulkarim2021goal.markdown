@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Goal-directed Story Generation&#58; Augmenting Generative Language Models With Reinforcement Learning
+title: 'Goal-directed Story Generation: Augmenting Generative Language Models With Reinforcement Learning'
 authors: Alabdulkarim Amal, Li Winston, Martin Lara J., Riedl Mark O.
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chipnemo&#58; Domain-adapted Llms For Chip Design
+title: 'Chipnemo: Domain-adapted Llms For Chip Design'
 authors: Liu Mingjie, Ene Teodor-dumitru, Kirby Robert, Cheng Chris, Pinckney Nathaniel, Liang Rongjian, Alben Jonah, Anand Himyanshu, Banerjee Sanmitra, Bayraktaroglu Ismet, Bhaskaran Bonita, Catanzaro Bryan, Chaudhuri Arjun, Clay Sharon, Dally Bill, Dang Laura, Deshpande Parikshit, Dhodhi Siddhanth, Halepete Sameer, Hill Eric, Hu Jiashang, Jain Sumit, Jindal Ankit, Khailany Brucek, Kokai George, Kunal Kishor, Li Xiaowei, Lind Charley, Liu Hao, Oberman Stuart, Omar Sujeet, Pasandi Ghasem, Pratty Sreedhar, Raiman Jonathan, Sarkar Ambar, Shao Zhengjiang, Sun Hanfei, Suthar Pratik P, Tej Varun, Turner Walker, Xu Kaizhe, Ren Haoxing
 conference: "Arxiv"
 year: 2023

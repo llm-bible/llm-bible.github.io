@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VAL&#58; Interactive Task Learning With GPT Dialog Parsing
+title: 'VAL: Interactive Task Learning With GPT Dialog Parsing'
 authors: Lawley Lane, Maclellan Christopher J.
 conference: "Arxiv"
 year: 2023

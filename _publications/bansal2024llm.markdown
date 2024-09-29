@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM Augmented Llms&#58; Expanding Capabilities Through Composition
+title: 'LLM Augmented Llms: Expanding Capabilities Through Composition'
 authors: Bansal Rachit, Samanta Bidisha, Dalmia Siddharth, Gupta Nitish, Vashishth Shikhar, Ganapathy Sriram, Bapna Abhishek, Jain Prateek, Talukdar Partha
 conference: "Arxiv"
 year: 2024

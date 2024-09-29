@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ror&#58; Read-over-read For Long Document Machine Reading Comprehension
+title: 'Ror: Read-over-read For Long Document Machine Reading Comprehension'
 authors: Zhao Jing, Bao Junwei, Wang Yifan, Zhou Yongwei, Wu Youzheng, He Xiaodong, Zhou Bowen
 conference: "Arxiv"
 year: 2021

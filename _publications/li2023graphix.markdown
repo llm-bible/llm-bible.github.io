@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Graphix-t5&#58; Mixing Pre-trained Transformers With Graph-aware Layers For Text-to-sql Parsing
+title: 'Graphix-t5: Mixing Pre-trained Transformers With Graph-aware Layers For Text-to-sql Parsing'
 authors: Li Jinyang, Hui Binyuan, Cheng Reynold, Qin Bowen, Ma Chenhao, Huo Nan, Huang Fei, Du Wenyu, Si Luo, Li Yongbin
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sglang&#58; Efficient Execution Of Structured Language Model Programs
+title: 'Sglang: Efficient Execution Of Structured Language Model Programs'
 authors: Zheng Lianmin, Yin Liangsheng, Xie Zhiqiang, Sun Chuyue, Huang Jeff, Yu Cody Hao, Cao Shiyi, Kozyrakis Christos, Stoica Ion, Gonzalez Joseph E., Barrett Clark, Sheng Ying
 conference: "Arxiv"
 year: 2023

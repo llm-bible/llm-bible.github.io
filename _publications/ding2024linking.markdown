@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Entgpt&#58; Linking Generative Large Language Models With Knowledge Bases
+title: 'Entgpt: Linking Generative Large Language Models With Knowledge Bases'
 authors: Ding Yifan, Poudel Amrit, Zeng Qingkai, Weninger Tim, Veeramani Balaji, Bhattacharya Sanmitra
 conference: "Arxiv"
 year: 2024

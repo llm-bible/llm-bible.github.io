@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Longagent&#58; Scaling Language Models To 128k Context Through Multi-agent Collaboration
+title: 'Longagent: Scaling Language Models To 128k Context Through Multi-agent Collaboration'
 authors: Zhao Jun, Zu Can, Xu Hao, Lu Yi, He Wei, Ding Yiwen, Gui Tao, Zhang Qi, Huang Xuanjing
 conference: "Arxiv"
 year: 2024

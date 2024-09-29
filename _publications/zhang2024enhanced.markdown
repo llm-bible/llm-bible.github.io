@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sinklora&#58; Enhanced Efficiency And Chat Capabilities For Long-context Large Language Models
+title: 'Sinklora: Enhanced Efficiency And Chat Capabilities For Long-context Large Language Models'
 authors: Zhang Hengyu
 conference: "Arxiv"
 year: 2024

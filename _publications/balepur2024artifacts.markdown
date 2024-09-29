@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Artifacts Or Abduction&#58; How Do Llms Answer Multiple-choice Questions Without The Question?
+title: 'Artifacts Or Abduction: How Do Llms Answer Multiple-choice Questions Without The Question?'
 authors: Balepur Nishant, Ravichander Abhilasha, Rudinger Rachel
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Phybench&#58; A Physical Commonsense Benchmark For Evaluating Text-to-image Models
+title: 'Phybench: A Physical Commonsense Benchmark For Evaluating Text-to-image Models'
 authors: Meng Fanqing, Shao Wenqi, Luo Lixin, Wang Yahong, Chen Yiran, Lu Quanfeng, Yang Yue, Yang Tianshuo, Zhang Kaipeng, Qiao Yu, Luo Ping
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mm-safetybench&#58; A Benchmark For Safety Evaluation Of Multimodal Large Language Models
+title: 'Mm-safetybench: A Benchmark For Safety Evaluation Of Multimodal Large Language Models'
 authors: Liu Xin, Zhu Yichen, Gu Jindong, Lan Yunshi, Yang Chao, Qiao Yu
 conference: "Arxiv"
 year: 2023

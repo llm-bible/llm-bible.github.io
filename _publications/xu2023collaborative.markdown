@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gentopia&#58; A Collaborative Platform For Tool-augmented Llms
+title: 'Gentopia: A Collaborative Platform For Tool-augmented Llms'
 authors: Xu Binfeng, Liu Xukun, Shen Hua, Han Zeyu, Li Yuhan, Yue Murong, Peng Zhiyuan, Liu Yuchen, Yao Ziyu, Xu Dongkuan
 conference: "Arxiv"
 year: 2023

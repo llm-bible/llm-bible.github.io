@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fastmem&#58; Fast Memorization Of Prompt Improves Context Awareness Of Large Language Models
+title: 'Fastmem: Fast Memorization Of Prompt Improves Context Awareness Of Large Language Models'
 authors: Zhu Junyi, Liu Shuochen, Yu Yu, Tang Bo, Yan Yibo, Li Zhiyu, Xiong Feiyu, Xu Tong, Blaschko Matthew B.
 conference: "Arxiv"
 year: 2024

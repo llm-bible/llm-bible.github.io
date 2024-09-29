@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatcounselor&#58; A Large Language Models For Mental Health Support
+title: 'Chatcounselor: A Large Language Models For Mental Health Support'
 authors: Liu June M., Li Donghao, Cao He, Ren Tianhe, Liao Zeyi, Wu Jiamin
 conference: "Arxiv"
 year: 2023

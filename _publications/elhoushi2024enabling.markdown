@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Layerskip&#58; Enabling Early Exit Inference And Self-speculative Decoding
+title: 'Layerskip: Enabling Early Exit Inference And Self-speculative Decoding'
 authors: Elhoushi Mostafa, Shrivastava Akshat, Liskovich Diana, Hosmer Basil, Wasti Bram, Lai Liangzhen, Mahmoud Anas, Acun Bilge, Agarwal Saurabh, Roman Ahmed, Aly Ahmed A, Chen Beidi, Wu Carole-jean
 conference: "Arxiv"
 year: 2024

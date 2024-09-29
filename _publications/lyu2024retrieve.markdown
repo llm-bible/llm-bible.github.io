@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retrieve-plan-generation&#58; An Iterative Planning And Answering Framework For Knowledge-intensive LLM Generation
+title: 'Retrieve-plan-generation: An Iterative Planning And Answering Framework For Knowledge-intensive LLM Generation'
 authors: Lyu Yuanjie, Niu Zihan, Xie Zheyong, Zhang Chao, Xu Tong, Wang Yang, Chen Enhong
 conference: "Arxiv"
 year: 2024

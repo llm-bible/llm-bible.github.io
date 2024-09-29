@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mathcoder&#58; Seamless Code Integration In Llms For Enhanced Mathematical Reasoning
+title: 'Mathcoder: Seamless Code Integration In Llms For Enhanced Mathematical Reasoning'
 authors: Wang Ke, Ren Houxing, Zhou Aojun, Lu Zimu, Luo Sichun, Shi Weikang, Zhang Renrui, Song Linqi, Zhan Mingjie, Li Hongsheng
 conference: "Arxiv"
 year: 2023

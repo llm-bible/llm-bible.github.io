@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Realhf&#58; Optimized RLHF Training For Large Language Models Through Parameter Reallocation
+title: 'Realhf: Optimized RLHF Training For Large Language Models Through Parameter Reallocation'
 authors: Mei Zhiyu, Fu Wei, Li Kaiwei, Wang Guangju, Zhang Huanchen, Wu Yi
 conference: "Arxiv"
 year: 2024

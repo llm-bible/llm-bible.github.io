@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Eyegpt&#58; Ophthalmic Assistant With Large Language Models
+title: 'Eyegpt: Ophthalmic Assistant With Large Language Models'
 authors: Chen Xiaolan, Zhao Ziwei, Zhang Weiyi, Xu Pusheng, Gao Le, Xu Mingpu, Wu Yue, Li Yinwen, Shi Danli, He Mingguang
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GLUE-X&#58; Evaluating Natural Language Understanding Models From An Out-of-distribution Generalization Perspective
+title: 'GLUE-X: Evaluating Natural Language Understanding Models From An Out-of-distribution Generalization Perspective'
 authors: Yang Linyi, Zhang Shuibai, Qin Libo, Li Yafu, Wang Yidong, Liu Hanmeng, Wang Jindong, Xie Xing, Zhang Yue
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SAIL&#58; Search-augmented Instruction Learning
+title: 'SAIL: Search-augmented Instruction Learning'
 authors: Luo Hongyin, Chuang Yung-sung, Gong Yuan, Zhang Tianhua, Kim Yoon, Wu Xixin, Fox Danny, Meng Helen, Glass James
 conference: "Arxiv"
 year: 2023

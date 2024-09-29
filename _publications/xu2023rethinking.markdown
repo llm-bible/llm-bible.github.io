@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Rethinking The Instruction Quality&#58; LIFT Is What You Need
+title: 'Rethinking The Instruction Quality: LIFT Is What You Need'
 authors: Xu Yang, Yao Yongqiang, Huang Yufan, Qi Mengnan, Wang Maoquan, Gu Bin, Sundaresan Neel
 conference: "Arxiv"
 year: 2023

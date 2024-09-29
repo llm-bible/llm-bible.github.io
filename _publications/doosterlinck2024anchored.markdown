@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Anchored Preference Optimization And Contrastive Revisions&#58; Addressing Underspecification In Alignment
+title: 'Anchored Preference Optimization And Contrastive Revisions: Addressing Underspecification In Alignment'
 authors: D'oosterlinck Karel, Xu Winnie, Develder Chris, Demeester Thomas, Singh Amanpreet, Potts Christopher, Kiela Douwe, Mehri Shikib
 conference: "Arxiv"
 year: 2024

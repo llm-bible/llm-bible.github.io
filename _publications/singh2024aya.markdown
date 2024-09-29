@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Aya Dataset&#58; An Open-access Collection For Multilingual Instruction Tuning
+title: 'Aya Dataset: An Open-access Collection For Multilingual Instruction Tuning'
 authors: Singh Shivalika, Vargus Freddie, Dsouza Daniel, Karlsson Börje F., Mahendiran Abinaya, Ko Wei-yin, Shandilya Herumb, Patel Jay, Mataciunas Deividas, Omahony Laura, Zhang Mike, Hettiarachchi Ramith, Wilson Joseph, Machado Marina, Moura Luisa Souza, Krzemiński Dominik, Fadaei Hakimeh, Ergün Irem, Okoh Ifeoma, Alaagib Aisha, Mudannayake Oshan, Alyafeai Zaid, Chien Vu Minh, Ruder Sebastian, Guthikonda Surya, Alghamdi Emad A., Gehrmann Sebastian, Muennighoff Niklas, Bartolo Max, Kreutzer Julia, Üstün Ahmet, Fadaee Marzieh, Hooker Sara
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Spactor-t5&#58; Pre-training T5 Models With Span Corruption And Replaced Token Detection
+title: 'Spactor-t5: Pre-training T5 Models With Span Corruption And Replaced Token Detection'
 authors: Ye Ke, Jiang Heinrich, Rostamizadeh Afshin, Chakrabarti Ayan, Desalvo Giulia, Kagy Jean-françois, Karydas Lazaros, Citovsky Gui, Kumar Sanjiv
 conference: "Arxiv"
 year: 2024

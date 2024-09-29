@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llava-read&#58; Enhancing Reading Ability Of Multimodal Language Models
+title: 'Llava-read: Enhancing Reading Ability Of Multimodal Language Models'
 authors: Zhang Ruiyi, Zhou Yufan, Chen Jian, Gu Jiuxiang, Chen Changyou, Sun Tong
 conference: "Arxiv"
 year: 2024

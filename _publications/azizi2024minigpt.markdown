@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Minigpt-reverse-designing&#58; Predicting Image Adjustments Utilizing Minigpt-4
+title: 'Minigpt-reverse-designing: Predicting Image Adjustments Utilizing Minigpt-4'
 authors: Azizi Vahid, Koochaki Fatemeh
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Wavecoder&#58; Widespread And Versatile Enhancement For Code Large Language Models By Instruction Tuning
+title: 'Wavecoder: Widespread And Versatile Enhancement For Code Large Language Models By Instruction Tuning'
 authors: Yu Zhaojian, Zhang Xin, Shang Ning, Huang Yangyu, Xu Can, Zhao Yishujie, Hu Wenxiang, Yin Qiufeng
 conference: "Arxiv"
 year: 2023

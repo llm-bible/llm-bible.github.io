@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Convert&#58; Efficient And Accurate Conversational Representations From Transformers
+title: 'Convert: Efficient And Accurate Conversational Representations From Transformers'
 authors: Henderson Matthew, Casanueva Iñigo, Mrkšić Nikola, Su Pei-hao, Wen Tsung-hsien, Vulić Ivan
 conference: "Arxiv"
 year: 2019

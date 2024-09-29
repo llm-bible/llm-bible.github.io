@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Models Don't Always Say What They Think&#58; Unfaithful Explanations In Chain-of-thought Prompting
+title: 'Language Models Don''t Always Say What They Think: Unfaithful Explanations In Chain-of-thought Prompting'
 authors: Turpin Miles, Michael Julian, Perez Ethan, Bowman Samuel R.
 conference: "Arxiv"
 year: 2023

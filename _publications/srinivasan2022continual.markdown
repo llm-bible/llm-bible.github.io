@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Climb&#58; A Continual Learning Benchmark For Vision-and-language Tasks
+title: 'Climb: A Continual Learning Benchmark For Vision-and-language Tasks'
 authors: Srinivasan Tejas, Chang Ting-yun, Alva Leticia Leonor Pinto, Chochlakis Georgios, Rostami Mohammad, Thomason Jesse
 conference: "Arxiv"
 year: 2022

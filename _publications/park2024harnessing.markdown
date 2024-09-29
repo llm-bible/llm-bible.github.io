@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Loramap&#58; Harnessing The Power Of Lora Connections
+title: 'Loramap: Harnessing The Power Of Lora Connections'
 authors: Park Hyeryun, Kwak Jeongwon, Jang Dongsuk, Park Sumin, Choi Jinwook
 conference: "Arxiv"
 year: 2024

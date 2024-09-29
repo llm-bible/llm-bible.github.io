@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Novel-wd&#58; Exploring Acquisition Of Novel World Knowledge In Llms Using Prefix-tuning
+title: 'Novel-wd: Exploring Acquisition Of Novel World Knowledge In Llms Using Prefix-tuning'
 authors: Méloux Maxime, Cerisara Christophe
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mathprompter&#58; Mathematical Reasoning Using Large Language Models
+title: 'Mathprompter: Mathematical Reasoning Using Large Language Models'
 authors: Imani Shima, Du Liang, Shrivastava Harsh
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bloom Library&#58; Multimodal Datasets In 300+ Languages For A Variety Of Downstream Tasks
+title: 'Bloom Library: Multimodal Datasets In 300+ Languages For A Variety Of Downstream Tasks'
 authors: Leong Colin, Nemecek Joshua, Mansdorfer Jacob, Filighera Anna, Owodunni Abraham, Whitenack Daniel
 conference: "EMNLP"
 year: 2022

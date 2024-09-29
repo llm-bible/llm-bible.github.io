@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ISR-LLM&#58; Iterative Self-refined Large Language Model For Long-horizon Sequential Task Planning
+title: 'ISR-LLM: Iterative Self-refined Large Language Model For Long-horizon Sequential Task Planning'
 authors: Zhou Zhehua, Song Jiayang, Yao Kunpeng, Shu Zhan, Ma Lei
 conference: "Arxiv"
 year: 2023

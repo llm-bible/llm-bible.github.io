@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Personallm&#58; Investigating The Ability Of Large Language Models To Express Personality Traits
+title: 'Personallm: Investigating The Ability Of Large Language Models To Express Personality Traits'
 authors: Jiang Hang, Zhang Xiajie, Cao Xubo, Breazeal Cynthia, Roy Deb, Kabbara Jad
 conference: "Arxiv"
 year: 2023

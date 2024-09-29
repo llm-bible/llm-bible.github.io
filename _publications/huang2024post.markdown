@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Antidote&#58; Post-fine-tuning Safety Alignment For Large Language Models Against Harmful Fine-tuning
+title: 'Antidote: Post-fine-tuning Safety Alignment For Large Language Models Against Harmful Fine-tuning'
 authors: Huang Tiansheng, Bhattacharya Gautam, Joshi Pratik, Kimball Josh, Liu Ling
 conference: "Arxiv"
 year: 2024

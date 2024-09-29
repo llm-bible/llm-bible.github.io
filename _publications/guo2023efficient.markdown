@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ELIP&#58; Efficient Language-image Pre-training With Fewer Vision Tokens
+title: 'ELIP: Efficient Language-image Pre-training With Fewer Vision Tokens'
 authors: Guo Yangyang, Zhang Haoyu, Wong Yongkang, Nie Liqiang, Kankanhalli Mohan
 conference: "Arxiv"
 year: 2023

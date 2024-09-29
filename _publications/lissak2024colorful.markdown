@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Colorful Future Of Llms&#58; Evaluating And Improving Llms As Emotional Supporters For Queer Youth
+title: 'The Colorful Future Of Llms: Evaluating And Improving Llms As Emotional Supporters For Queer Youth'
 authors: Lissak Shir, Calderon Nitay, Shenkman Geva, Ophir Yaakov, Fruchter Eyal, Klomek Anat Brunstein, Reichart Roi
 conference: "Arxiv"
 year: 2024

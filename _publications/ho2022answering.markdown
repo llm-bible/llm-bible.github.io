@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Wikiwhy&#58; Answering And Explaining Cause-and-effect Questions
+title: 'Wikiwhy: Answering And Explaining Cause-and-effect Questions'
 authors: Ho Matthew, Sharma Aditya, Chang Justin, Saxon Michael, Levy Sharon, Lu Yujie, Wang William Yang
 conference: "Arxiv"
 year: 2022

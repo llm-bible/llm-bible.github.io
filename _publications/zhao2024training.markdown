@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Longskywork&#58; A Training Recipe For Efficiently Extending Context Length In Large Language Models
+title: 'Longskywork: A Training Recipe For Efficiently Extending Context Length In Large Language Models'
 authors: Zhao Liang, Wei Tianwen, Zeng Liang, Cheng Cheng, Yang Liu, Cheng Peng, Wang Lijie, Li Chenxia, Wu Xuejie, Zhu Bo, Gan Yimeng, Hu Rui, Yan Shuicheng, Fang Han, Zhou Yahui
 conference: "Arxiv"
 year: 2024

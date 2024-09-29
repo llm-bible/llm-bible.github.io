@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bridging The Language Gap&#58; Knowledge Injected Multilingual Question Answering
+title: 'Bridging The Language Gap: Knowledge Injected Multilingual Question Answering'
 authors: Duan Zhichao, Li Xiuxing, Zhang Zhengyan, Li Zhenyu, Liu Ning, Wang Jianyong
 conference: "Arxiv"
 year: 2023

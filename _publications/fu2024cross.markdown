@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cross-task Defense&#58; Instruction-tuning Llms For Content Safety
+title: 'Cross-task Defense: Instruction-tuning Llms For Content Safety'
 authors: Fu Yu, Xiao Wen, Chen Jia, Li Jiachen, Papalexakis Evangelos, Chien Aichi, Dong Yue
 conference: "Arxiv"
 year: 2024

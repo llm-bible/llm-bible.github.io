@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: I Was Blind But Now I See&#58; Implementing Vision-enabled Dialogue In Social Robots
+title: 'I Was Blind But Now I See: Implementing Vision-enabled Dialogue In Social Robots'
 authors: Abbo Giulio Antonio, Belpaeme Tony
 conference: "Arxiv"
 year: 2023

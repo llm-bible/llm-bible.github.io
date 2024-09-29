@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning To See But Forgetting To Follow&#58; Visual Instruction Tuning Makes Llms More Prone To Jailbreak Attacks
+title: 'Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes Llms More Prone To Jailbreak Attacks'
 authors: Pantazopoulos Georgios, Parekh Amit, Nikandrou Malvina, Suglia Alessandro
 conference: "Arxiv"
 year: 2024

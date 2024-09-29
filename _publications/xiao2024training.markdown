@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Infllm&#58; Training-free Long-context Extrapolation For Llms With An Efficient Context Memory
+title: 'Infllm: Training-free Long-context Extrapolation For Llms With An Efficient Context Memory'
 authors: Xiao Chaojun, Zhang Pengle, Han Xu, Xiao Guangxuan, Lin Yankai, Zhang Zhengyan, Liu Zhiyuan, Sun Maosong
 conference: "Arxiv"
 year: 2024

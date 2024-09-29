@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MR-BEN&#58; A Comprehensive Meta-reasoning Benchmark For Large Language Models
+title: 'MR-BEN: A Comprehensive Meta-reasoning Benchmark For Large Language Models'
 authors: Zeng Zhongshen, Liu Yinhong, Wan Yingjia, Li Jingyao, Chen Pengguang, Dai Jianbo, Yao Yuxuan, Xu Rongwu, Qi Zehan, Zhao Wanru, Shen Linling, Lu Jianqiao, Tan Haochen, Chen Yukang, Zhang Hao, Shi Zhan, Wang Bailin, Guo Zhijiang, Jia Jiaya
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ml-bench&#58; Evaluating Large Language Models And Agents For Machine Learning Tasks On Repository-level Code
+title: 'Ml-bench: Evaluating Large Language Models And Agents For Machine Learning Tasks On Repository-level Code'
 authors: Tang Xiangru, Liu Yuliang, Cai Zefan, Shao Yanjun, Lu Junjie, Zhang Yichi, Deng Zexuan, Hu Helan, An Kaikai, Huang Ruijun, Si Shuzheng, Chen Sheng, Zhao Haozhe, Chen Liang, Wang Yan, Liu Tianyu, Jiang Zhiwei, Chang Baobao, Fang Yin, Qin Yujia, Zhou Wangchunshu, Zhao Yilun, Cohan Arman, Gerstein Mark
 conference: "Arxiv"
 year: 2023

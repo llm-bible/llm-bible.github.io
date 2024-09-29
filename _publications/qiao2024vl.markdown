@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vl-mamba&#58; Exploring State Space Models For Multimodal Learning
+title: 'Vl-mamba: Exploring State Space Models For Multimodal Learning'
 authors: Qiao Yanyuan, Yu Zheng, Guo Longteng, Chen Sihan, Zhao Zijia, Sun Mingzhen, Wu Qi, Liu Jing
 conference: "Arxiv"
 year: 2024

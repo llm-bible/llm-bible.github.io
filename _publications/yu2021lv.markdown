@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LV-BERT&#58; Exploiting Layer Variety For BERT
+title: 'LV-BERT: Exploiting Layer Variety For BERT'
 authors: Yu Weihao, Jiang Zihang, Chen Fei, Hou Qibin, Feng Jiashi
 conference: "Arxiv"
 year: 2021

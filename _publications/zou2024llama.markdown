@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llama-excitor&#58; General Instruction Tuning Via Indirect Feature Interaction
+title: 'Llama-excitor: General Instruction Tuning Via Indirect Feature Interaction'
 authors: Zou Bo, Yang Chao, Qiao Yu, Quan Chengbin, Zhao Youjian
 conference: "Arxiv"
 year: 2024

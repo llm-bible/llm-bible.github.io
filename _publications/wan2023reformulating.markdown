@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reformulating Domain Adaptation Of Large Language Models As Adapt-retrieve-revise&#58; A Case Study On Chinese Legal Domain
+title: 'Reformulating Domain Adaptation Of Large Language Models As Adapt-retrieve-revise: A Case Study On Chinese Legal Domain'
 authors: Wan Zhen, Zhang Yating, Wang Yexiang, Cheng Fei, Kurohashi Sadao
 conference: "Arxiv"
 year: 2023

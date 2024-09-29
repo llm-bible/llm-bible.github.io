@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Language Model Unalignment&#58; Parametric Red-teaming To Expose Hidden Harms And Biases
+title: 'Language Model Unalignment: Parametric Red-teaming To Expose Hidden Harms And Biases'
 authors: Bhardwaj Rishabh, Poria Soujanya
 conference: "Arxiv"
 year: 2023

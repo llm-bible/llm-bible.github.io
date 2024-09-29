@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Eyes Closed, Safety On&#58; Protecting Multimodal Llms Via Image-to-text Transformation
+title: 'Eyes Closed, Safety On: Protecting Multimodal Llms Via Image-to-text Transformation'
 authors: Gou Yunhao, Chen Kai, Liu Zhili, Hong Lanqing, Xu Hang, Li Zhenguo, Yeung Dit-yan, Kwok James T., Zhang Yu
 conference: "Arxiv"
 year: 2024

@@ -1,12 +1,12 @@
 ---
 layout: publication
-title: SA-MDKIF&#58; A Scalable And Adaptable Medical Domain Knowledge Injection Framework For Large Language Models
+title: 'SA-MDKIF: A Scalable And Adaptable Medical Domain Knowledge Injection Framework For Large Language Models'
 authors: Xu Tianhan, Hu Zhe, Chen Ling, Li Bin
 conference: "Arxiv"
 year: 2024
 bibkey: xu2024sa
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.00474"}
-tags: ['Fine Tuning', 'Pretraining Methods', 'Reinforcement Learning', 'Tools', 'Training Techniques']
+tags: ['Ethics And Bias', 'Fine Tuning', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 Recent advances in large language models (LLMs) have demonstrated exceptional performance in various natural language processing (NLP) tasks. However their effective application in the medical domain is hampered by a lack of medical domain knowledge. In this study we present SA-MDKIF a scalable and adaptable framework that aims to inject medical knowledge into general-purpose LLMs through instruction tuning thereby enabling adaptability for various downstream tasks. SA-MDKIF consists of two stages skill training and skill adaptation. In the first stage we define 12 basic medical skills and use AdaLoRA to train these skills based on uniformly formatted instructional datasets that we have constructed. In the next stage we train the skill router using task-specific downstream data and use this router to integrate the acquired skills with LLMs during inference. Experimental results on 9 different medical tasks show that SA-MDKIF improves performance by 10-2037; compared to the original LLMs. Notably this improvement is particularly pronounced for unseen medical tasks showing an improvement of up to 3037;.

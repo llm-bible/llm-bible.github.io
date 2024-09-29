@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DUMA&#58; Reading Comprehension With Transposition Thinking
+title: 'DUMA: Reading Comprehension With Transposition Thinking'
 authors: Zhu Pengfei, Zhao Hai, Li Xiaoguang
 conference: "IEEE/ACM.Transactions.on.Audio.Speech.and.Language.Processing"
 year: 2020

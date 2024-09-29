@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Deplot&#58; One-shot Visual Language Reasoning By Plot-to-table Translation
+title: 'Deplot: One-shot Visual Language Reasoning By Plot-to-table Translation'
 authors: Liu Fangyu, Eisenschlos Julian Martin, Piccinno Francesco, Krichene Syrine, Pang Chenxi, Lee Kenton, Joshi Mandar, Chen Wenhu, Collier Nigel, Altun Yasemin
 conference: "Arxiv"
 year: 2022

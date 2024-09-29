@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llama Pro&#58; Progressive Llama With Block Expansion
+title: 'Llama Pro: Progressive Llama With Block Expansion'
 authors: Wu Chengyue, Gan Yukang, Ge Yixiao, Lu Zeyu, Wang Jiahao, Feng Ye, Shan Ying, Luo Ping
 conference: "Arxiv"
 year: 2024

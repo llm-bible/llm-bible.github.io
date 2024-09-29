@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Detecting Hallucinations In Large Language Model Generation&#58; A Token Probability Approach
+title: 'Detecting Hallucinations In Large Language Model Generation: A Token Probability Approach'
 authors: Quevedo Ernesto, Yero Jorge, Koerner Rachel, Rivas Pablo, Cerny Tomas
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PACIFIC&#58; Towards Proactive Conversational Question Answering Over Tabular And Textual Data In Finance
+title: 'PACIFIC: Towards Proactive Conversational Question Answering Over Tabular And Textual Data In Finance'
 authors: Deng Yang, Lei Wenqiang, Zhang Wenxuan, Lam Wai, Chua Tat-seng
 conference: "Arxiv"
 year: 2022

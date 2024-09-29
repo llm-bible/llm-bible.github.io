@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Arabic Mini-climategpt &#58; A Climate Change And Sustainability Tailored Arabic LLM
+title: 'Arabic Mini-climategpt : A Climate Change And Sustainability Tailored Arabic LLM'
 authors: Mullappilly Sahal Shaji, Shaker Abdelrahman, Thawakar Omkar, Cholakkal Hisham, Anwer Rao Muhammad, Khan Salman, Khan Fahad Shahbaz
 conference: "Findings of the Association for Computational Linguistics EMNLP"
 year: 2023

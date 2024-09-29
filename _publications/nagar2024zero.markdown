@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Zero-shot Visual Reasoning By Vision-language Models&#58; Benchmarking And Analysis
+title: 'Zero-shot Visual Reasoning By Vision-language Models: Benchmarking And Analysis'
 authors: Nagar Aishik, Jaiswal Shantanu, Tan Cheston
 conference: "Arxiv"
 year: 2024

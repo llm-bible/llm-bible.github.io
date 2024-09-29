@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lmsanitator&#58; Defending Prompt-tuning Against Task-agnostic Backdoors
+title: 'Lmsanitator: Defending Prompt-tuning Against Task-agnostic Backdoors'
 authors: Wei Chengkun, Meng Wenlong, Zhang Zhikun, Chen Min, Zhao Minghu, Fang Wenjing, Wang Lei, Zhang Zihui, Chen Wenzhi
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pyramid Coder&#58; Hierarchical Code Generator For Compositional Visual Question Answering
+title: 'Pyramid Coder: Hierarchical Code Generator For Compositional Visual Question Answering'
 authors: Shen Ruoyue, Inoue Nakamasa, Shinoda Koichi
 conference: "Arxiv"
 year: 2024

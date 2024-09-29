@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: You Only Look At Screens&#58; Multimodal Chain-of-action Agents
+title: 'You Only Look At Screens: Multimodal Chain-of-action Agents'
 authors: Zhang Zhuosheng, Zhang Aston
 conference: "Arxiv"
 year: 2023

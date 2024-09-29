@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative AI Assistants In Software Development Education&#58; A Vision For Integrating Generative AI Into Educational Practice, Not Instinctively Defending Against It
+title: 'Generative AI Assistants In Software Development Education: A Vision For Integrating Generative AI Into Educational Practice, Not Instinctively Defending Against It'
 authors: Bull Christopher, Kharrufa Ahmed
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Dawn After The Dark&#58; An Empirical Study On Factuality Hallucination In Large Language Models
+title: 'The Dawn After The Dark: An Empirical Study On Factuality Hallucination In Large Language Models'
 authors: Li Junyi, Chen Jie, Ren Ruiyang, Cheng Xiaoxue, Zhao Wayne Xin, Nie Jian-yun, Wen Ji-rong
 conference: "Arxiv"
 year: 2024

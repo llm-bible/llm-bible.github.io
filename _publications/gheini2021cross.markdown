@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cross-attention Is All You Need&#58; Adapting Pretrained Transformers For Machine Translation
+title: 'Cross-attention Is All You Need: Adapting Pretrained Transformers For Machine Translation'
 authors: Gheini Mozhdeh, Ren Xiang, May Jonathan
 conference: "Arxiv"
 year: 2021

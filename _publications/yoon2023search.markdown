@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Search-adaptor&#58; Embedding Customization For Information Retrieval
+title: 'Search-adaptor: Embedding Customization For Information Retrieval'
 authors: Yoon Jinsung, Arik Sercan O, Chen Yanfei, Pfister Tomas
 conference: "Arxiv"
 year: 2023

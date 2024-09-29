@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Breaking Language Barriers&#58; Cross-lingual Continual Pre-training At Scale
+title: 'Breaking Language Barriers: Cross-lingual Continual Pre-training At Scale'
 authors: Zheng Wenzhen, Pan Wenbo, Xu Xu, Qin Libo, Yue Li, Zhou Ming
 conference: "Arxiv"
 year: 2024

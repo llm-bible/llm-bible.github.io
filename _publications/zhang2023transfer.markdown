@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vpgtrans&#58; Transfer Visual Prompt Generator Across Llms
+title: 'Vpgtrans: Transfer Visual Prompt Generator Across Llms'
 authors: Zhang Ao, Fei Hao, Yao Yuan, Ji Wei, Li Li, Liu Zhiyuan, Chua Tat-seng
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mind Vs. Mouth&#58; On Measuring Re-judge Inconsistency Of Social Bias In Large Language Models
+title: 'Mind Vs. Mouth: On Measuring Re-judge Inconsistency Of Social Bias In Large Language Models'
 authors: Zhao Yachao, Wang Bo, Zhao Dongming, Huang Kun, Wang Yan, He Ruifang, Hou Yuexian
 conference: "Arxiv"
 year: 2023

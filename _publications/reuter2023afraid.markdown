@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: I'm Afraid I Can't Do That&#58; Predicting Prompt Refusal In Black-box Generative Language Models
+title: 'I''m Afraid I Can''t Do That: Predicting Prompt Refusal In Black-box Generative Language Models'
 authors: Reuter Max, Schulze William
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM Lies&#58; Hallucinations Are Not Bugs, But Features As Adversarial Examples
+title: 'LLM Lies: Hallucinations Are Not Bugs, But Features As Adversarial Examples'
 authors: Yao Jia-yu, Ning Kun-peng, Liu Zhen-hui, Ning Mu-nan, Liu Yu-yang, Yuan Li
 conference: "Arxiv"
 year: 2023

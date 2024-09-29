@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Stack&#58; 3 TB Of Permissively Licensed Source Code
+title: 'The Stack: 3 TB Of Permissively Licensed Source Code'
 authors: Kocetkov Denis, Li Raymond, Allal Loubna Ben, Li Jia, Mou Chenghao, Ferrandis Carlos Muñoz, Jernite Yacine, Mitchell Margaret, Hughes Sean, Wolf Thomas, Bahdanau Dzmitry, Von Werra Leandro, De Vries Harm
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Almol&#58; Aligned Language-molecule Translation Llms Through Offline Preference Contrastive Optimisation
+title: 'Almol: Aligned Language-molecule Translation Llms Through Offline Preference Contrastive Optimisation'
 authors: Gkoumas Dimitris
 conference: "Arxiv"
 year: 2024

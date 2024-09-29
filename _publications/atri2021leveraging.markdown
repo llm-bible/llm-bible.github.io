@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: See, Hear, Read&#58; Leveraging Multimodality With Guided Attention For Abstractive Text Summarization
+title: 'See, Hear, Read: Leveraging Multimodality With Guided Attention For Abstractive Text Summarization'
 authors: Atri Yash Kumar, Pramanick Shraman, Goyal Vikram, Chakraborty Tanmoy
 conference: "Arxiv"
 year: 2021

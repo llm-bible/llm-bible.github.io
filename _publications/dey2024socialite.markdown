@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SOCIALITE-LLAMA&#58; An Instruction-tuned Model For Social Scientific Tasks
+title: 'SOCIALITE-LLAMA: An Instruction-tuned Model For Social Scientific Tasks'
 authors: Dey Gourab, Ganesan Adithya V, Lal Yash Kumar, Shah Manal, Sinha Shreyashee, Matero Matthew, Giorgi Salvatore, Kulkarni Vivek, Schwartz H. Andrew
 conference: "Arxiv"
 year: 2024

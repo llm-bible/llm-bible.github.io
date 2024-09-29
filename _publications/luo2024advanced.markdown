@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: M$^3$GPT&#58; An Advanced Multimodal, Multitask Framework For Motion Comprehension And Generation
+title: 'M$^3$GPT: An Advanced Multimodal, Multitask Framework For Motion Comprehension And Generation'
 authors: Luo Mingshuang, Hou Ruibing, Chang Hong, Liu Zimo, Wang Yaowei, Shan Shiguang
 conference: "Arxiv"
 year: 2024

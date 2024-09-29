@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cantor&#58; Inspiring Multimodal Chain-of-thought Of MLLM
+title: 'Cantor: Inspiring Multimodal Chain-of-thought Of MLLM'
 authors: Timin Gao, Peixian Chen, Mengdan Zhang, Chaoyou Fu, Yunhang Shen, Yan Zhang, Shengchuan Zhang, Xiawu Zheng, Xing Sun, Liujuan Cao, Rongrong Ji
 conference: "Arxiv"
 year: 2024

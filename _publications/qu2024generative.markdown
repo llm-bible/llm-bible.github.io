@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mupt&#58; A Generative Symbolic Music Pretrained Transformer
+title: 'Mupt: A Generative Symbolic Music Pretrained Transformer'
 authors: Qu Xingwei, Bai Yuelin, Ma Yinghao, Zhou Ziya, Lo Ka Man, Liu Jiaheng, Yuan Ruibin, Min Lejun, Liu Xueling, Zhang Tianyu, Du Xinrun, Guo Shuyue, Liang Yiming, Li Yizhi, Wu Shangda, Zhou Junting, Zheng Tianyu, Ma Ziyang, Han Fengze, Xue Wei, Xia Gus, Benetos Emmanouil, Yue Xiang, Lin Chenghua, Tan Xu, Huang Stephen W., Fu Jie, Zhang Ge
 conference: "Arxiv"
 year: 2024

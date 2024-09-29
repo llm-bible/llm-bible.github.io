@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CHIQ&#58; Contextual History Enhancement For Improving Query Rewriting In Conversational Search
+title: 'CHIQ: Contextual History Enhancement For Improving Query Rewriting In Conversational Search'
 authors: Mo Fengran, Ghaddar Abbas, Mao Kelong, Rezagholizadeh Mehdi, Chen Boxing, Liu Qun, Nie Jian-yun
 conference: "Arxiv"
 year: 2024

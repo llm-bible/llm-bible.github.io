@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Thisiscompetition At Semeval-2019 Task 9&#58; BERT Is Unstable For Out-of-domain Samples
+title: 'Thisiscompetition At Semeval-2019 Task 9: BERT Is Unstable For Out-of-domain Samples'
 authors: Park Cheoneum, Kim Juae, Lee Hyeon-gu, Amplayo Reinald Kim, Kim Harksoo, Seo Jungyun, Lee Changki
 conference: "Arxiv"
 year: 2019

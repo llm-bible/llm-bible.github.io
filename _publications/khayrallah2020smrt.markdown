@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SMRT Chatbots&#58; Improving Non-task-oriented Dialog With Simulated Multiple Reference Training
+title: 'SMRT Chatbots: Improving Non-task-oriented Dialog With Simulated Multiple Reference Training'
 authors: Khayrallah Huda, Sedoc João
 conference: "Arxiv"
 year: 2020

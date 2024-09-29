@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Arcmmlu&#58; A Library And Information Science Benchmark For Large Language Models
+title: 'Arcmmlu: A Library And Information Science Benchmark For Large Language Models'
 authors: Zhang Shitou, Li Zuchao, Liu Xingshen, Yang Liming, Wang Ping
 conference: "Arxiv"
 year: 2023

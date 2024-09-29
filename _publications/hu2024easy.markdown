@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Openrlhf&#58; An Easy-to-use, Scalable And High-performance RLHF Framework
+title: 'Openrlhf: An Easy-to-use, Scalable And High-performance RLHF Framework'
 authors: Hu Jian, Wu Xibin, Wang Weixun, Xianyu, Zhang Dehao, Cao Yu
 conference: "Arxiv"
 year: 2024

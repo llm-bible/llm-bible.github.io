@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: St-moe&#58; Designing Stable And Transferable Sparse Expert Models
+title: 'St-moe: Designing Stable And Transferable Sparse Expert Models'
 authors: Zoph Barret, Bello Irwan, Kumar Sameer, Du Nan, Huang Yanping, Dean Jeff, Shazeer Noam, Fedus William
 conference: "Arxiv"
 year: 2022

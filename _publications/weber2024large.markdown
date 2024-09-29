@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Are Pattern Matchers&#58; Editing Semi-structured And Structured Documents With Chatgpt
+title: 'Large Language Models Are Pattern Matchers: Editing Semi-structured And Structured Documents With Chatgpt'
 authors: Weber Irene
 conference: "AKWI Jahrestagung"
 year: 2024

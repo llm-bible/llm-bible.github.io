@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How To Design Translation Prompts For Chatgpt&#58; An Empirical Study
+title: 'How To Design Translation Prompts For Chatgpt: An Empirical Study'
 authors: Gao Yuan, Wang Ruili, Hou Feng
 conference: "Arxiv"
 year: 2023

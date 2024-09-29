@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Eliminating Position Bias Of Language Models&#58; A Mechanistic Approach
+title: 'Eliminating Position Bias Of Language Models: A Mechanistic Approach'
 authors: Wang Ziqi, Zhang Hanlin, Li Xiner, Huang Kuan-hao, Han Chi, Ji Shuiwang, Kakade Sham M., Peng Hao, Ji Heng
 conference: "Arxiv"
 year: 2024

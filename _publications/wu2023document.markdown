@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Document Flattening&#58; Beyond Concatenating Context For Document-level Neural Machine Translation
+title: 'Document Flattening: Beyond Concatenating Context For Document-level Neural Machine Translation'
 authors: Wu Minghao, Foster George, Qu Lizhen, Haffari Gholamreza
 conference: "Arxiv"
 year: 2023

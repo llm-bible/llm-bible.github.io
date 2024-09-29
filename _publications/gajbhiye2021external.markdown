@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exbert&#58; An External Knowledge Enhanced BERT For Natural Language Inference
+title: 'Exbert: An External Knowledge Enhanced BERT For Natural Language Inference'
 authors: Gajbhiye Amit, Moubayed Noura Al, Bradley Steven
 conference: "Arxiv"
 year: 2021

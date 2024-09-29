@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: VALHALLA&#58; Visual Hallucination For Machine Translation
+title: 'VALHALLA: Visual Hallucination For Machine Translation'
 authors: Li Yi, Panda Rameswar, Kim Yoon, Chen Chun-fu, Feris Rogerio, Cox David, Vasconcelos Nuno
 conference: "Arxiv"
 year: 2022

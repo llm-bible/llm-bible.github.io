@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PALR&#58; Personalization Aware Llms For Recommendation
+title: 'PALR: Personalization Aware Llms For Recommendation'
 authors: Yang Fan, Chen Zheng, Jiang Ziyan, Cho Eunah, Huang Xiaojiang, Lu Yanbin
 conference: "Arxiv"
 year: 2023

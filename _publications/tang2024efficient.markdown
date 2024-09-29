@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Razorattention&#58; Efficient KV Cache Compression Through Retrieval Heads
+title: 'Razorattention: Efficient KV Cache Compression Through Retrieval Heads'
 authors: Tang Hanlin, Lin Yang, Lin Jing, Han Qingsen, Hong Shikuan, Yao Yiwu, Wang Gongyi
 conference: "Arxiv"
 year: 2024

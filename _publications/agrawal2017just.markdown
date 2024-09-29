@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Don't Just Assume; Look And Answer&#58; Overcoming Priors For Visual Question Answering
+title: 'Don''t Just Assume; Look And Answer: Overcoming Priors For Visual Question Answering'
 authors: Agrawal Aishwarya, Batra Dhruv, Parikh Devi, Kembhavi Aniruddha
 conference: "Arxiv"
 year: 2017

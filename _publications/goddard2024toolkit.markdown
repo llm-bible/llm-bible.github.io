@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Arcee's Mergekit&#58; A Toolkit For Merging Large Language Models
+title: 'Arcee''s Mergekit: A Toolkit For Merging Large Language Models'
 authors: Goddard Charles, Siriwardhana Shamane, Ehghaghi Malikeh, Meyers Luke, Karpukhin Vlad, Benedict Brian, Mcquade Mark, Solawetz Jacob
 conference: "Arxiv"
 year: 2024

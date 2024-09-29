@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Towards End-to-end Embodied Decision Making Via Multi-modal Large Language Model&#58; Explorations With Gpt4-vision And Beyond
+title: 'Towards End-to-end Embodied Decision Making Via Multi-modal Large Language Model: Explorations With Gpt4-vision And Beyond'
 authors: Liang Chen, Yichi Zhang, Shuhuai Ren, Haozhe Zhao, Zefan Cai, Yuchi Wang, Peiyi Wang, Tianyu Liu, Baobao Chang
 conference: "Arxiv"
 year: 2023

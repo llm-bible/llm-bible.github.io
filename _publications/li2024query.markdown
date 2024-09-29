@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Quickllama&#58; Query-aware Inference Acceleration For Large Language Models
+title: 'Quickllama: Query-aware Inference Acceleration For Large Language Models'
 authors: Li Jingyao, Shi Han, Jiang Xin, Li Zhenguo, Xu Hong, Jia Jiaya
 conference: "Arxiv"
 year: 2024

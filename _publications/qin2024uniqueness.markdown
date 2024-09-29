@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Uniqueness Of Llama3-70b With Per-channel Quantization&#58; An Empirical Study
+title: 'The Uniqueness Of Llama3-70b With Per-channel Quantization: An Empirical Study'
 authors: Qin Minghai
 conference: "Arxiv"
 year: 2024

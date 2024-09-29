@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Comparing Bad Apples To Good Oranges&#58; Aligning Large Language Models Via Joint Preference Optimization
+title: 'Comparing Bad Apples To Good Oranges: Aligning Large Language Models Via Joint Preference Optimization'
 authors: Bansal Hritik, Suvarna Ashima, Bhatt Gantavya, Peng Nanyun, Chang Kai-wei, Grover Aditya
 conference: "Arxiv"
 year: 2024

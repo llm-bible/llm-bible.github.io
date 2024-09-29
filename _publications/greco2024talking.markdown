@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Talking The Talk Does Not Entail Walking The Walk&#58; On The Limits Of Large Language Models In Lexical Entailment Recognition
+title: 'Talking The Talk Does Not Entail Walking The Walk: On The Limits Of Large Language Models In Lexical Entailment Recognition'
 authors: Greco Candida M., La Cava Lucio, Tagarelli Andrea
 conference: "Arxiv"
 year: 2024

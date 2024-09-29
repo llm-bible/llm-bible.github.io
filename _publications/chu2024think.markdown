@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Think Together And Work Better&#58; Combining Humans' And Llms' Think-aloud Outcomes For Effective Text Evaluation
+title: 'Think Together And Work Better: Combining Humans'' And Llms'' Think-aloud Outcomes For Effective Text Evaluation'
 authors: Chu Seongyeub, Kim Jongwoo, Yi Munyong
 conference: "Arxiv"
 year: 2024

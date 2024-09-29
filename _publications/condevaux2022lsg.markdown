@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LSG Attention&#58; Extrapolation Of Pretrained Transformers To Long Sequences
+title: 'LSG Attention: Extrapolation Of Pretrained Transformers To Long Sequences'
 authors: Condevaux Charles, Harispe Sébastien
 conference: "Arxiv"
 year: 2022

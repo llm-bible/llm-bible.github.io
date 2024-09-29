@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Design2code&#58; How Far Are We From Automating Front-end Engineering?
+title: 'Design2code: How Far Are We From Automating Front-end Engineering?'
 authors: Si Chenglei, Zhang Yanzhe, Yang Zhengyuan, Liu Ruibo, Yang Diyi
 conference: "Arxiv"
 year: 2024

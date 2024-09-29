@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Toxicity In Chatgpt&#58; Analyzing Persona-assigned Language Models
+title: 'Toxicity In Chatgpt: Analyzing Persona-assigned Language Models'
 authors: Deshpande Ameet, Murahari Vishvak, Rajpurohit Tanmay, Kalyan Ashwin, Narasimhan Karthik
 conference: "Arxiv"
 year: 2023

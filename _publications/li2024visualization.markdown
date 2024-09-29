@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Visualization Literacy Of Multimodal Large Language Models&#58; A Comparative Study
+title: 'Visualization Literacy Of Multimodal Large Language Models: A Comparative Study'
 authors: Li Zhimin, Miao Haichao, Pascucci Valerio, Liu Shusen
 conference: "Arxiv"
 year: 2024

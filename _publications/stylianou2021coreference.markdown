@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Corelm&#58; Coreference-aware Language Model Fine-tuning
+title: 'Corelm: Coreference-aware Language Model Fine-tuning'
 authors: Stylianou Nikolaos, Vlahavas Ioannis
 conference: "Arxiv"
 year: 2021

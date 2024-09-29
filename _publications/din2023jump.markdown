@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jump To Conclusions&#58; Short-cutting Transformers With Linear Transformations
+title: 'Jump To Conclusions: Short-cutting Transformers With Linear Transformations'
 authors: Din Alexander Yom, Karidi Taelin, Choshen Leshem, Geva Mor
 conference: "LREC-COLING"
 year: 2023

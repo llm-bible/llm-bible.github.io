@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Datacomp-lm&#58; In Search Of The Next Generation Of Training Sets For Language Models
+title: 'Datacomp-lm: In Search Of The Next Generation Of Training Sets For Language Models'
 authors: Li Jeffrey, Fang Alex, Smyrnis Georgios, Ivgi Maor, Jordan Matt, Gadre Samir, Bansal Hritik, Guha Etash, Keh Sedrick, Arora Kushal, Garg Saurabh, Xin Rui, Muennighoff Niklas, Heckel Reinhard, Mercat Jean, Chen Mayee, Gururangan Suchin, Wortsman Mitchell, Albalak Alon, Bitton Yonatan, Nezhurina Marianna, Abbas Amro, Hsieh Cheng-yu, Ghosh Dhruba, Gardner Josh, Kilian Maciej, Zhang Hanlin, Shao Rulin, Pratt Sarah, Sanyal Sunny, Ilharco Gabriel, Daras Giannis, Marathe Kalyani, Gokaslan Aaron, Zhang Jieyu, Chandu Khyathi, Nguyen Thao, Vasiljevic Igor, Kakade Sham, Song Shuran, Sanghavi Sujay, Faghri Fartash, Oh Sewoong, Zettlemoyer Luke, Lo Kyle, El-nouby Alaaeldin, Pouransari Hadi, Toshev Alexander, Wang Stephanie, Groeneveld Dirk, Soldaini Luca, Koh Pang Wei, Jitsev Jenia, Kollar Thomas, Dimakis Alexandros G., Carmon Yair, Dave Achal, Schmidt Ludwig, Shankar Vaishaal
 conference: "Arxiv"
 year: 2024

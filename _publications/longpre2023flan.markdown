@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Flan Collection&#58; Designing Data And Methods For Effective Instruction Tuning
+title: 'The Flan Collection: Designing Data And Methods For Effective Instruction Tuning'
 authors: Shayne Longpre, Le Hou, Tu Vu, Albert Webson, Hyung Won Chung, Yi Tay, Denny Zhou, Quoc V. Le, Barret Zoph, Jason Wei, Adam Roberts
 conference: "Arxiv"
 year: 2023

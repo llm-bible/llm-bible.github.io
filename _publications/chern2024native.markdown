@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ANOLE&#58; An Open, Autoregressive, Native Large Multimodal Models For Interleaved Image-text Generation
+title: 'ANOLE: An Open, Autoregressive, Native Large Multimodal Models For Interleaved Image-text Generation'
 authors: Chern Ethan, Su Jiadi, Ma Yan, Liu Pengfei
 conference: "Arxiv"
 year: 2024

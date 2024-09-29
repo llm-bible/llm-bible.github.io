@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Groundedness In Retrieval-augmented Long-form Generation&#58; An Empirical Study
+title: 'Groundedness In Retrieval-augmented Long-form Generation: An Empirical Study'
 authors: Stolfo Alessandro
 conference: "Arxiv"
 year: 2024

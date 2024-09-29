@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Inseq&#58; An Interpretability Toolkit For Sequence Generation Models
+title: 'Inseq: An Interpretability Toolkit For Sequence Generation Models'
 authors: Sarti Gabriele, Feldhus Nils, Sickert Ludwig, Van Der Wal Oskar, Nissim Malvina, Bisazza Arianna
 conference: "Proceedings of ACL System Demonstrations"
 year: 2023

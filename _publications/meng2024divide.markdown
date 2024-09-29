@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DCR&#58; Divide-and-conquer Reasoning For Multi-choice Question Answering With Llms
+title: 'DCR: Divide-and-conquer Reasoning For Multi-choice Question Answering With Llms'
 authors: Meng Zijie, Zhang Yan, Feng Zhaopeng, Liu Zuozhu
 conference: "Arxiv"
 year: 2024

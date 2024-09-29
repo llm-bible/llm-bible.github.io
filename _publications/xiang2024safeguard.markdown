@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Guardagent&#58; Safeguard LLM Agents By A Guard Agent Via Knowledge-enabled Reasoning
+title: 'Guardagent: Safeguard LLM Agents By A Guard Agent Via Knowledge-enabled Reasoning'
 authors: Xiang Zhen, Zheng Linzhi, Li Yanjie, Hong Junyuan, Li Qinbin, Xie Han, Zhang Jiawei, Xiong Zidi, Xie Chulin, Yang Carl, Song Dawn, Li Bo
 conference: "Arxiv"
 year: 2024

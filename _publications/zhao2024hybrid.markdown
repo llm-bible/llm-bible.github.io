@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SYNTHEVAL&#58; Hybrid Behavioral Testing Of NLP Models With Synthetic Checklists
+title: 'SYNTHEVAL: Hybrid Behavioral Testing Of NLP Models With Synthetic Checklists'
 authors: Zhao Raoyuan, Köksal Abdullatif, Liu Yihong, Weissweiler Leonie, Korhonen Anna, Schütze Hinrich
 conference: "Arxiv"
 year: 2024

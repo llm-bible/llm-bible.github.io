@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sambanova SN40L&#58; Scaling The AI Memory Wall With Dataflow And Composition Of Experts
+title: 'Sambanova SN40L: Scaling The AI Memory Wall With Dataflow And Composition Of Experts'
 authors: Prabhakar Raghu, Sivaramakrishnan Ram, Gandhi Darshan, Du Yun, Wang Mingran, Song Xiangyu, Zhang Kejie, Gao Tianren, Wang Angela, Li Karen, Sheng Yongning, Brot Joshua, Sokolov Denis, Vivek Apurv, Leung Calvin, Sabnis Arjun, Bai Jiayu, Zhao Tuowen, Gottscho Mark, Jackson David, Luttrell Mark, Shah Manish K., Chen Edison, Liang Kaizhao, Jain Swayambhoo, Thakker Urmish, Huang Dawei, Jairath Sumti, Brown Kevin J., Olukotun Kunle
 conference: "Arxiv"
 year: 2024

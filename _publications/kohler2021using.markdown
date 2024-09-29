@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: What's In A Measurement? Using GPT-3 On Semeval 2021 Task 8 -- Measeval
+title: What''s In A Measurement? Using GPT-3 On Semeval 2021 Task 8 -- Measeval
 authors: Kohler Curt, Daniel Ron Jr
 conference: "Arxiv"
 year: 2021

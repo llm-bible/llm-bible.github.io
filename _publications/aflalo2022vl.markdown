@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vl-interpret&#58; An Interactive Visualization Tool For Interpreting Vision-language Transformers
+title: 'Vl-interpret: An Interactive Visualization Tool For Interpreting Vision-language Transformers'
 authors: Aflalo Estelle, Du Meng, Tseng Shao-yen, Liu Yongfei, Wu Chenfei, Duan Nan, Lal Vasudev
 conference: "Arxiv"
 year: 2022

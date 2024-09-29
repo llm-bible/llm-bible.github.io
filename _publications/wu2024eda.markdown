@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: EDA Corpus&#58; A Large Language Model Dataset For Enhanced Interaction With Openroad
+title: 'EDA Corpus: A Large Language Model Dataset For Enhanced Interaction With Openroad'
 authors: Wu Bing-yue, Sharma Utsav, Kankipati Sai Rahul Dhanvi, Yadav Ajay, George Bintu Kappil, Guntupalli Sai Ritish, Rovinski Austin, Chhabria Vidya A.
 conference: "Arxiv"
 year: 2024

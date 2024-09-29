@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Genception&#58; Evaluate Multimodal Llms With Unlabeled Unimodal Data
+title: 'Genception: Evaluate Multimodal Llms With Unlabeled Unimodal Data'
 authors: Cao Lele, Buchner Valentin, Senane Zineb, Yang Fangkai
 conference: "Arxiv"
 year: 2024

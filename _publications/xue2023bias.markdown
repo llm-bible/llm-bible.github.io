@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bias And Fairness In Chatbots&#58; An Overview
+title: 'Bias And Fairness In Chatbots: An Overview'
 authors: Xue Jintang, Wang Yun-cheng, Wei Chengwei, Liu Xiaofeng, Woo Jonghye, Kuo C. -c. Jay
 conference: "Arxiv"
 year: 2023

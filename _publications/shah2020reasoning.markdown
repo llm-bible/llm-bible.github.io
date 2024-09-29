@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reasoning Over History&#58; Context Aware Visual Dialog
+title: 'Reasoning Over History: Context Aware Visual Dialog'
 authors: Shah Muhammad A., Mehri Shikib, Srinivasan Tejas
 conference: "Arxiv"
 year: 2020

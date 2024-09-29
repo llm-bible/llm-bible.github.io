@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Refuse Whenever You Feel Unsafe&#58; Improving Safety In Llms Via Decoupled Refusal Training
+title: 'Refuse Whenever You Feel Unsafe: Improving Safety In Llms Via Decoupled Refusal Training'
 authors: Yuan Youliang, Jiao Wenxiang, Wang Wenxuan, Huang Jen-tse, Xu Jiahao, Liang Tian, He Pinjia, Tu Zhaopeng
 conference: "Arxiv"
 year: 2024

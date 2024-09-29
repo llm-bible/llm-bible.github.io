@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Learning To Trust Your Feelings&#58; Leveraging Self-awareness In Llms For Hallucination Mitigation
+title: 'Learning To Trust Your Feelings: Leveraging Self-awareness In Llms For Hallucination Mitigation'
 authors: Liang Yuxin, Song Zhuoyang, Wang Hao, Zhang Jiaxing
 conference: "Arxiv"
 year: 2024

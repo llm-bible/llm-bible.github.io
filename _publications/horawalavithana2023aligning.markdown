@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SCITUNE&#58; Aligning Large Language Models With Scientific Multimodal Instructions
+title: 'SCITUNE: Aligning Large Language Models With Scientific Multimodal Instructions'
 authors: Horawalavithana Sameera, Munikoti Sai, Stewart Ian, Kvinge Henry
 conference: "Arxiv"
 year: 2023

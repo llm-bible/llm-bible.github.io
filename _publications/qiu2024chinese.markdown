@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Clongeval&#58; A Chinese Benchmark For Evaluating Long-context Large Language Models
+title: 'Clongeval: A Chinese Benchmark For Evaluating Long-context Large Language Models'
 authors: Qiu Zexuan, Li Jingjing, Huang Shijue, Zhong Wanjun, King Irwin
 conference: "Arxiv"
 year: 2024

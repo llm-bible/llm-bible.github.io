@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Wavjourney&#58; Compositional Audio Creation With Large Language Models
+title: 'Wavjourney: Compositional Audio Creation With Large Language Models'
 authors: Liu Xubo, Zhu Zhongkai, Liu Haohe, Yuan Yi, Cui Meng, Huang Qiushi, Liang Jinhua, Cao Yin, Kong Qiuqiang, Plumbley Mark D., Wang Wenwu
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ALISA&#58; Accelerating Large Language Model Inference Via Sparsity-aware KV Caching
+title: 'ALISA: Accelerating Large Language Model Inference Via Sparsity-aware KV Caching'
 authors: Zhao Youpeng, Wu Di, Wang Jun
 conference: "Arxiv"
 year: 2024

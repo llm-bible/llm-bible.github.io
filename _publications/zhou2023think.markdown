@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Think Before You Speak&#58; Cultivating Communication Skills Of Large Language Models Via Inner Monologue
+title: 'Think Before You Speak: Cultivating Communication Skills Of Large Language Models Via Inner Monologue'
 authors: Zhou Junkai, Pang Liang, Shen Huawei, Cheng Xueqi
 conference: "Arxiv"
 year: 2023

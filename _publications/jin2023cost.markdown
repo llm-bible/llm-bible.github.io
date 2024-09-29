@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Cost Of Down-scaling Language Models&#58; Fact Recall Deteriorates Before In-context Learning
+title: 'The Cost Of Down-scaling Language Models: Fact Recall Deteriorates Before In-context Learning'
 authors: Jin Tian, Clement Nolan, Dong Xin, Nagarajan Vaishnavh, Carbin Michael, Ragan-kelley Jonathan, Dziugaite Gintare Karolina
 conference: "Arxiv"
 year: 2023

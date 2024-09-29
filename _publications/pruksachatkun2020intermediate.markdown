@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Intermediate-task Transfer Learning With Pretrained Models For Natural Language Understanding&#58; When And Why Does It Work?
+title: 'Intermediate-task Transfer Learning With Pretrained Models For Natural Language Understanding: When And Why Does It Work?'
 authors: Pruksachatkun Yada, Phang Jason, Liu Haokun, Htut Phu Mon, Zhang Xiaoyi, Pang Richard Yuanzhe, Vania Clara, Kann Katharina, Bowman Samuel R.
 conference: "Arxiv"
 year: 2020

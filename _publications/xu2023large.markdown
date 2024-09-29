@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models For Generative Information Extraction&#58; A Survey
+title: 'Large Language Models For Generative Information Extraction: A Survey'
 authors: Xu Derong, Chen Wei, Peng Wenjun, Zhang Chao, Xu Tong, Zhao Xiangyu, Wu Xian, Zheng Yefeng, Wang Yang, Chen Enhong
 conference: "Arxiv"
 year: 2023

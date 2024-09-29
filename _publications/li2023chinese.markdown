@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CFGPT&#58; Chinese Financial Assistant With Large Language Model
+title: 'CFGPT: Chinese Financial Assistant With Large Language Model'
 authors: Li Jiangtong, Bian Yuxuan, Wang Guoxuan, Lei Yang, Cheng Dawei, Ding Zhijun, Jiang Changjun
 conference: "Arxiv"
 year: 2023

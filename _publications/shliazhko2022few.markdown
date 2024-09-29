@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mgpt&#58; Few-shot Learners Go Multilingual
+title: 'Mgpt: Few-shot Learners Go Multilingual'
 authors: Shliazhko Oleh, Fenogenova Alena, Tikhonova Maria, Mikhailov Vladislav, Kozlova Anastasia, Shavrina Tatiana
 conference: "Arxiv"
 year: 2022

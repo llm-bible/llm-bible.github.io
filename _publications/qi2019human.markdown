@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Human-like Machine Thinking&#58; Language Guided Imagination
+title: 'Human-like Machine Thinking: Language Guided Imagination'
 authors: Qi Feng, Wu Wenchuan
 conference: "Arxiv"
 year: 2019

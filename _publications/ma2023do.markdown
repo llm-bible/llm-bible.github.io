@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Let's Do A Thought Experiment&#58; Using Counterfactuals To Improve Moral Reasoning
+title: 'Let''s Do A Thought Experiment: Using Counterfactuals To Improve Moral Reasoning'
 authors: Ma Xiao, Mishra Swaroop, Beirami Ahmad, Beutel Alex, Chen Jilin
 conference: "Arxiv"
 year: 2023

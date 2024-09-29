@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Elephants Never Forget&#58; Memorization And Learning Of Tabular Data In Large Language Models
+title: 'Elephants Never Forget: Memorization And Learning Of Tabular Data In Large Language Models'
 authors: Bordt Sebastian, Nori Harsha, Rodrigues Vanessa, Nushi Besmira, Caruana Rich
 conference: "Arxiv"
 year: 2024

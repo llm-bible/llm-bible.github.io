@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SYNDICOM&#58; Improving Conversational Commonsense With Error-injection And Natural Language Feedback
+title: 'SYNDICOM: Improving Conversational Commonsense With Error-injection And Natural Language Feedback'
 authors: Richardson Christopher, Sundar Anirudh, Heck Larry
 conference: "Arxiv"
 year: 2023

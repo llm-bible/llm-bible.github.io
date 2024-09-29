@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mala-500&#58; Massive Language Adaptation Of Large Language Models
+title: 'Mala-500: Massive Language Adaptation Of Large Language Models'
 authors: Lin Peiqin, Ji Shaoxiong, Tiedemann Jörg, Martins André F. T., Schütze Hinrich
 conference: "Arxiv"
 year: 2024

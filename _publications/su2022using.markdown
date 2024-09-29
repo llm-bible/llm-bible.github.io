@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: QA4QG&#58; Using Question Answering To Constrain Multi-hop Question Generation
+title: 'QA4QG: Using Question Answering To Constrain Multi-hop Question Generation'
 authors: Su Dan, Xu Peng, Fung Pascale
 conference: "Arxiv"
 year: 2022

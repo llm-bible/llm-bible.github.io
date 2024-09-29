@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Boolq&#58; Exploring The Surprising Difficulty Of Natural Yes/no Questions
+title: 'Boolq: Exploring The Surprising Difficulty Of Natural Yes/no Questions'
 authors: Clark Christopher, Lee Kenton, Chang Ming-wei, Kwiatkowski Tom, Collins Michael, Toutanova Kristina
 conference: "Arxiv"
 year: 2019

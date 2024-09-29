@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: OPT&#58; Open Pre-trained Transformer Language Models
+title: 'OPT: Open Pre-trained Transformer Language Models'
 authors: Susan Zhang, Stephen Roller, Naman Goyal, Mikel Artetxe, Moya Chen, Shuohui Chen, Christopher Dewan, Mona Diab, Xian Li, Xi Victoria Lin, Todor Mihaylov, Myle Ott, Sam Shleifer, Kurt Shuster, Daniel Simig, Punit Singh Koura, Anjali Sridhar, Tianlu Wang, Luke Zettlemoyer
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: When Attention Meets Fast Recurrence&#58; Training Language Models With Reduced Compute
+title: 'When Attention Meets Fast Recurrence: Training Language Models With Reduced Compute'
 authors: Lei Tao
 conference: "EMNLP"
 year: 2021

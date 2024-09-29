@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Kgquiz&#58; Evaluating The Generalization Of Encoded Knowledge In Large Language Models
+title: 'Kgquiz: Evaluating The Generalization Of Encoded Knowledge In Large Language Models'
 authors: Bai Yuyang, Feng Shangbin, Balachandran Vidhisha, Tan Zhaoxuan, Lou Shiqi, He Tianxing, Tsvetkov Yulia
 conference: "Arxiv"
 year: 2023

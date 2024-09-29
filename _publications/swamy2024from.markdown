@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Explanations To Action&#58; A Zero-shot, Theory-driven LLM Framework For Student Performance Feedback
+title: 'From Explanations To Action: A Zero-shot, Theory-driven LLM Framework For Student Performance Feedback'
 authors: Swamy Vinitra, Romano Davide, Desikan Bhargav Srinivasa, Camburu Oana-maria, Käser Tanja
 conference: "Arxiv"
 year: 2024

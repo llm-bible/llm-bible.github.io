@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retail-gpt&#58; Leveraging Retrieval Augmented Generation (RAG) For Building E-commerce Chat Assistants
+title: 'Retail-gpt: Leveraging Retrieval Augmented Generation (RAG) For Building E-commerce Chat Assistants'
 authors: De Freitas Bruno Amaral Teixeira, Lotufo Roberto De Alencar
 conference: "Arxiv"
 year: 2024

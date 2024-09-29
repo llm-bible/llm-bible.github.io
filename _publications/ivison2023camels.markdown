@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Camels In A Changing Climate&#58; Enhancing LM Adaptation With Tulu 2
+title: 'Camels In A Changing Climate: Enhancing LM Adaptation With Tulu 2'
 authors: Ivison Hamish, Wang Yizhong, Pyatkin Valentina, Lambert Nathan, Peters Matthew, Dasigi Pradeep, Jang Joel, Wadden David, Smith Noah A., Beltagy Iz, Hajishirzi Hannaneh
 conference: "Arxiv"
 year: 2023

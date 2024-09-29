@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pico&#58; Peer Review In Llms Based On The Consistency Optimization
+title: 'Pico: Peer Review In Llms Based On The Consistency Optimization'
 authors: Ning Kun-peng, Yang Shuo, Liu Yu-yang, Yao Jia-yu, Liu Zhen-hui, Wang Yu, Pang Ming, Yuan Li
 conference: "Arxiv"
 year: 2024

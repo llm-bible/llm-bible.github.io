@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LARR&#58; Large Language Model Aided Real-time Scene Recommendation With Semantic Understanding
+title: 'LARR: Large Language Model Aided Real-time Scene Recommendation With Semantic Understanding'
 authors: Wan Zhizhong, Yin Bin, Xie Junjie, Jiang Fei, Li Xiang, Lin Wei
 conference: "Arxiv"
 year: 2024

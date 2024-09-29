@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SWAG&#58; Storytelling With Action Guidance
+title: 'SWAG: Storytelling With Action Guidance'
 authors: Patel Zeeshan, El-refai Karim, Pei Jonathan, Li Tianle
 conference: "Arxiv"
 year: 2024

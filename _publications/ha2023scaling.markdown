@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scaling Up And Distilling Down&#58; Language-guided Robot Skill Acquisition
+title: 'Scaling Up And Distilling Down: Language-guided Robot Skill Acquisition'
 authors: Ha Huy, Florence Pete, Song Shuran
 conference: "Arxiv"
 year: 2023

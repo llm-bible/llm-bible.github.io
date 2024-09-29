@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Worldqa&#58; Multimodal World Knowledge In Videos Through Long-chain Reasoning
+title: 'Worldqa: Multimodal World Knowledge In Videos Through Long-chain Reasoning'
 authors: Zhang Yuanhan, Zhang Kaichen, Li Bo, Pu Fanyi, Setiadharma Christopher Arif, Yang Jingkang, Liu Ziwei
 conference: "Arxiv"
 year: 2024

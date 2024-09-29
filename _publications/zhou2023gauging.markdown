@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lobass&#58; Gauging Learnability In Supervised Fine-tuning Data
+title: 'Lobass: Gauging Learnability In Supervised Fine-tuning Data'
 authors: Zhou Haotian, Liu Tingkai, Ma Qianli, Yuan Jianbo, Liu Pengfei, You Yang, Yang Hongxia
 conference: "Arxiv"
 year: 2023

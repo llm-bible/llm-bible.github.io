@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Life Cycle Of Large Language Models&#58; A Review Of Biases In Education
+title: 'The Life Cycle Of Large Language Models: A Review Of Biases In Education'
 authors: Lee Jinsook, Hicke Yann, Yu Renzhe, Brooks Christopher, Kizilcec René F.
 conference: "Arxiv"
 year: 2024

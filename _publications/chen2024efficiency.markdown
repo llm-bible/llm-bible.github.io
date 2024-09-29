@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Efficiency In Focus&#58; Layernorm As A Catalyst For Fine-tuning Medical Visual Language Pre-trained Models
+title: 'Efficiency In Focus: Layernorm As A Catalyst For Fine-tuning Medical Visual Language Pre-trained Models'
 authors: Chen Jiawei, Yang Dingkang, Jiang Yue, Li Mingcheng, Wei Jinjie, Hou Xiaolu, Zhang Lihua
 conference: "Arxiv"
 year: 2024

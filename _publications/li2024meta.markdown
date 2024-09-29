@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MEND&#58; Meta Demonstration Distillation For Efficient And Effective In-context Learning
+title: 'MEND: Meta Demonstration Distillation For Efficient And Effective In-context Learning'
 authors: Yichuan Li, Xiyao Ma, Sixing Lu, Kyumin Lee, Xiaohu Liu, Chenlei Guo
 conference: "Arxiv"
 year: 2024

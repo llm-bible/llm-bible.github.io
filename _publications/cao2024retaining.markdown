@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Retaining Key Information Under High Compression Ratios&#58; Query-guided Compressor For Llms
+title: 'Retaining Key Information Under High Compression Ratios: Query-guided Compressor For Llms'
 authors: Cao Zhiwei, Cao Qian, Lu Yu, Peng Ningxin, Huang Luyang, Cheng Shanbo, Su Jinsong
 conference: "Arxiv"
 year: 2024

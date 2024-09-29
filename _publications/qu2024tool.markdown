@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tool Learning With Large Language Models&#58; A Survey
+title: 'Tool Learning With Large Language Models: A Survey'
 authors: Qu Changle, Dai Sunhao, Wei Xiaochi, Cai Hengyi, Wang Shuaiqiang, Yin Dawei, Xu Jun, Wen Ji-rong
 conference: "Arxiv"
 year: 2024

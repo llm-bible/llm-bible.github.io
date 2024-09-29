@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prosparse&#58; Introducing And Enhancing Intrinsic Activation Sparsity Within Large Language Models
+title: 'Prosparse: Introducing And Enhancing Intrinsic Activation Sparsity Within Large Language Models'
 authors: Song Chenyang, Han Xu, Zhang Zhengyan, Hu Shengding, Shi Xiyu, Li Kuai, Chen Chen, Liu Zhiyuan, Li Guangli, Yang Tao, Sun Maosong
 conference: "Arxiv"
 year: 2024

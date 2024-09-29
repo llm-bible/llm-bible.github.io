@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hydralora&#58; An Asymmetric Lora Architecture For Efficient Fine-tuning
+title: 'Hydralora: An Asymmetric Lora Architecture For Efficient Fine-tuning'
 authors: Tian Chunlin, Shi Zhan, Guo Zhijiang, Li Li, Xu Chengzhong
 conference: "Arxiv"
 year: 2024

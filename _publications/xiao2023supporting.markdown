@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Supporting Qualitative Analysis With Large Language Models&#58; Combining Codebook With GPT-3 For Deductive Coding
+title: 'Supporting Qualitative Analysis With Large Language Models: Combining Codebook With GPT-3 For Deductive Coding'
 authors: Xiao Ziang, Yuan Xingdi, Liao Q. Vera, Abdelghani Rania, Oudeyer Pierre-yves
 conference: "Arxiv"
 year: 2023

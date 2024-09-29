@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Auditing Counterfire&#58; Evaluating Advanced Counterargument Generation With Evidence And Style
+title: 'Auditing Counterfire: Evaluating Advanced Counterargument Generation With Evidence And Style'
 authors: Verma Preetika, Jaidka Kokil, Churina Svetlana
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Defensive Prompt Patch&#58; A Robust And Interpretable Defense Of Llms Against Jailbreak Attacks
+title: 'Defensive Prompt Patch: A Robust And Interpretable Defense Of Llms Against Jailbreak Attacks'
 authors: Xiong Chen, Qi Xiangyu, Chen Pin-yu, Ho Tsung-yi
 conference: "Arxiv"
 year: 2024

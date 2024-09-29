@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-play With Execution Feedback&#58; Improving Instruction-following Capabilities Of Large Language Models
+title: 'Self-play With Execution Feedback: Improving Instruction-following Capabilities Of Large Language Models'
 authors: Dong Guanting, Lu Keming, Li Chengpeng, Xia Tingyu, Yu Bowen, Zhou Chang, Zhou Jingren
 conference: "Arxiv"
 year: 2024

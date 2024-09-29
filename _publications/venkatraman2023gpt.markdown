@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Gpt-who&#58; An Information Density-based Machine-generated Text Detector
+title: 'Gpt-who: An Information Density-based Machine-generated Text Detector'
 authors: Venkatraman Saranya, Uchendu Adaku, Lee Dongwon
 conference: "Arxiv"
 year: 2023

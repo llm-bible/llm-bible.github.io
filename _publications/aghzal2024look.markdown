@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Look Further Ahead&#58; Testing The Limits Of GPT-4 In Path Planning
+title: 'Look Further Ahead: Testing The Limits Of GPT-4 In Path Planning'
 authors: Aghzal Mohamed, Plaku Erion, Yao Ziyu
 conference: "Arxiv"
 year: 2024

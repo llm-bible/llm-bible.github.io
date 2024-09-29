@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cool-fusion&#58; Fuse Large Language Models Without Training
+title: 'Cool-fusion: Fuse Large Language Models Without Training'
 authors: Liu Cong, Quan Xiaojun, Pan Yan, Lin Liang, Wu Weigang, Chen Xu
 conference: "Arxiv"
 year: 2024

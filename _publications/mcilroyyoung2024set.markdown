@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Set-based Prompting&#58; Provably Solving The Language Model Order Dependency Problem
+title: 'Set-based Prompting: Provably Solving The Language Model Order Dependency Problem'
 authors: Mcilroy-young Reid, Brown Katrina, Olson Conlan, Zhang Linjun, Dwork Cynthia
 conference: "Arxiv"
 year: 2024

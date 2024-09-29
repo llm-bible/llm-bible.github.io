@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dataframe QA&#58; A Universal LLM Framework On Dataframe Question Answering Without Data Exposure
+title: 'Dataframe QA: A Universal LLM Framework On Dataframe Question Answering Without Data Exposure'
 authors: Ye Junyi, Du Mengnan, Wang Guiling
 conference: "Arxiv"
 year: 2024

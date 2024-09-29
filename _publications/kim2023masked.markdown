@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MAGVLT&#58; Masked Generative Vision-and-language Transformer
+title: 'MAGVLT: Masked Generative Vision-and-language Transformer'
 authors: Kim Sungwoong, Jo Daejin, Lee Donghoon, Kim Jongmin
 conference: "Arxiv"
 year: 2023

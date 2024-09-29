@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Improving Conversational Recommendation Systems' Quality With Context-aware Item Meta Information
+title: Improving Conversational Recommendation Systems'' Quality With Context-aware Item Meta Information
 authors: Yang Bowen, Han Cong, Li Yu, Zuo Lei, Yu Zhou
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: You Only Prompt Once&#58; On The Capabilities Of Prompt Learning On Large Language Models To Tackle Toxic Content
+title: 'You Only Prompt Once: On The Capabilities Of Prompt Learning On Large Language Models To Tackle Toxic Content'
 authors: He Xinlei, Zannettou Savvas, Shen Yun, Zhang Yang
 conference: "Arxiv"
 year: 2023

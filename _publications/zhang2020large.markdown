@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CPM&#58; A Large-scale Generative Chinese Pre-trained Language Model
+title: 'CPM: A Large-scale Generative Chinese Pre-trained Language Model'
 authors: Zhang Zhengyan, Han Xu, Zhou Hao, Ke Pei, Gu Yuxian, Ye Deming, Qin Yujia, Su Yusheng, Ji Haozhe, Guan Jian, Qi Fanchao, Wang Xiaozhi, Zheng Yanan, Zeng Guoyang, Cao Huanqi, Chen Shengqi, Li Daixuan, Sun Zhenbo, Liu Zhiyuan, Huang Minlie, Han Wentao, Tang Jie, Li Juanzi, Zhu Xiaoyan, Sun Maosong
 conference: "Arxiv"
 year: 2020

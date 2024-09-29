@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Paying More Attention To Image&#58; A Training-free Method For Alleviating Hallucination In Lvlms
+title: 'Paying More Attention To Image: A Training-free Method For Alleviating Hallucination In Lvlms'
 authors: Shi Liu, Kecheng Zheng, Wei Chen
 conference: "Arxiv"
 year: 2024

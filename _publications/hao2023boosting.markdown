@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Boosting Large Language Model For Speech Synthesis&#58; An Empirical Study
+title: 'Boosting Large Language Model For Speech Synthesis: An Empirical Study'
 authors: Hao Hongkun, Zhou Long, Liu Shujie, Li Jinyu, Hu Shujie, Wang Rui, Wei Furu
 conference: "Arxiv"
 year: 2023

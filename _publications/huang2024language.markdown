@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LITA&#58; Language Instructed Temporal-localization Assistant
+title: 'LITA: Language Instructed Temporal-localization Assistant'
 authors: Huang De-an, Liao Shijia, Radhakrishnan Subhashree, Yin Hongxu, Molchanov Pavlo, Yu Zhiding, Kautz Jan
 conference: "Arxiv"
 year: 2024

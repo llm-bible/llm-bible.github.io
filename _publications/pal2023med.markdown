@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Med-halt&#58; Medical Domain Hallucination Test For Large Language Models
+title: 'Med-halt: Medical Domain Hallucination Test For Large Language Models'
 authors: Pal Ankit, Umapathi Logesh Kumar, Sankarasubbu Malaikannan
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Athena&#58; Safe Autonomous Agents With Verbal Contrastive Learning
+title: 'Athena: Safe Autonomous Agents With Verbal Contrastive Learning'
 authors: Sadhu Tanmana, Pesaranghader Ali, Chen Yanan, Yi Dong Hoon
 conference: "Arxiv"
 year: 2024

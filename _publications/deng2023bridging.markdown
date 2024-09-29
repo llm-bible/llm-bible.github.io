@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Musilingo&#58; Bridging Music And Text With Pre-trained Language Models For Music Captioning And Query Response
+title: 'Musilingo: Bridging Music And Text With Pre-trained Language Models For Music Captioning And Query Response'
 authors: Deng Zihao, Ma Yinghao, Liu Yudong, Guo Rongchen, Zhang Ge, Chen Wenhu, Huang Wenhao, Benetos Emmanouil
 conference: ""
 year: 2023

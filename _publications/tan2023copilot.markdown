@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Copilot For Xcode&#58; Exploring Ai-assisted Programming By Prompting Cloud-based Large Language Models
+title: 'Copilot For Xcode: Exploring Ai-assisted Programming By Prompting Cloud-based Large Language Models'
 authors: Tan Chee Wei, Guo Shangxin, Wong Man Fai, Hang Ching Nam
 conference: "Arxiv"
 year: 2023

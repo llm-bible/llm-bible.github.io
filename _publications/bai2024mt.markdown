@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mt-bench-101&#58; A Fine-grained Benchmark For Evaluating Large Language Models In Multi-turn Dialogues
+title: 'Mt-bench-101: A Fine-grained Benchmark For Evaluating Large Language Models In Multi-turn Dialogues'
 authors: Bai Ge, Liu Jie, Bu Xingyuan, He Yancheng, Liu Jiaheng, Zhou Zhanhui, Lin Zhuoran, Su Wenbo, Ge Tiezheng, Zheng Bo, Ouyang Wanli
 conference: "Arxiv"
 year: 2024

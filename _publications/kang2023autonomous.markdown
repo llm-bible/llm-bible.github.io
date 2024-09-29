@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatmof&#58; An Autonomous AI System For Predicting And Generating Metal-organic Frameworks
+title: 'Chatmof: An Autonomous AI System For Predicting And Generating Metal-organic Frameworks'
 authors: Kang Yeonghun, Kim Jihan
 conference: "Arxiv"
 year: 2023

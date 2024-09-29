@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ladic&#58; Are Diffusion Models Really Inferior To Autoregressive Counterparts For Image-to-text Generation?
+title: 'Ladic: Are Diffusion Models Really Inferior To Autoregressive Counterparts For Image-to-text Generation?'
 authors: Wang Yuchi, Ren Shuhuai, Gao Rundong, Yao Linli, Guo Qingyan, An Kaikai, Bai Jianhong, Sun Xu
 conference: "Arxiv"
 year: 2024

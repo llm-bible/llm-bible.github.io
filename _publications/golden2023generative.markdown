@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generative AI Beyond Llms&#58; System Implications Of Multi-modal Generation
+title: 'Generative AI Beyond Llms: System Implications Of Multi-modal Generation'
 authors: Golden Alicia, Hsia Samuel, Sun Fei, Acun Bilge, Hosmer Basil, Lee Yejin, Devito Zachary, Johnson Jeff, Wei Gu-yeon, Brooks David, Wu Carole-jean
 conference: "Arxiv"
 year: 2023

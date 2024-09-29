@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llm-personalize&#58; Aligning LLM Planners With Human Preferences Via Reinforced Self-training For Housekeeping Robots
+title: 'Llm-personalize: Aligning LLM Planners With Human Preferences Via Reinforced Self-training For Housekeeping Robots'
 authors: Han Dongge, Mcinroe Trevor, Jelley Adam, Albrecht Stefano V., Bell Peter, Storkey Amos
 conference: "Arxiv"
 year: 2024

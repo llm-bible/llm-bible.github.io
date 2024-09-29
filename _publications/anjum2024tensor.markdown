@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tensor Train Low-rank Approximation (tt-lora)&#58; Democratizing AI With Accelerated Llms
+title: 'Tensor Train Low-rank Approximation (tt-lora): Democratizing AI With Accelerated Llms'
 authors: Anjum Afia, Eren Maksim E., Boureima Ismael, Alexandrov Boian, Bhattarai Manish
 conference: "Arxiv"
 year: 2024

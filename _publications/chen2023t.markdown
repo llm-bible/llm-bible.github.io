@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: T-eval&#58; Evaluating The Tool Utilization Capability Of Large Language Models Step By Step
+title: 'T-eval: Evaluating The Tool Utilization Capability Of Large Language Models Step By Step'
 authors: Chen Zehui, Du Weihua, Zhang Wenwei, Liu Kuikun, Liu Jiangning, Zheng Miao, Zhuo Jingming, Zhang Songyang, Lin Dahua, Chen Kai, Zhao Feng
 conference: "Arxiv"
 year: 2023

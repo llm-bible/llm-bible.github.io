@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: QLSC&#58; A Query Latent Semantic Calibrator For Robust Extractive Question Answering
+title: 'QLSC: A Query Latent Semantic Calibrator For Robust Extractive Question Answering'
 authors: Ouyang Sheng, Wang Jianzong, Zhang Yong, Li Zhitao, Liang Ziqi, Zhang Xulong, Cheng Ning, Xiao Jing
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Small But Funny&#58; A Feedback-driven Approach To Humor Distillation
+title: 'Small But Funny: A Feedback-driven Approach To Humor Distillation'
 authors: Ravi Sahithya, Huber Patrick, Shrivastava Akshat, Sagar Aditya, Aly Ahmed, Shwartz Vered, Einolghozati Arash
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: QCRD&#58; Quality-guided Contrastive Rationale Distillation For Large Language Models
+title: 'QCRD: Quality-guided Contrastive Rationale Distillation For Large Language Models'
 authors: Wang Wei, Li Zhaowei, Xu Qi, Cai Yiqing, Song Hang, Qi Qi, Zhou Ran, Huang Zhida, Wang Tao, Xiao Li
 conference: "Arxiv"
 year: 2024

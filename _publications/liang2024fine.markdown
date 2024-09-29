@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Fennec&#58; Fine-grained Language Model Evaluation And Correction Extended Through Branching And Bridging
+title: 'Fennec: Fine-grained Language Model Evaluation And Correction Extended Through Branching And Bridging'
 authors: Liang Xiaobo, Zhang Haoke, Hu Helan, Li Juntao, Xu Jun, Zhang Min
 conference: "Arxiv"
 year: 2024

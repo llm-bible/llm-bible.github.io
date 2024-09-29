@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Quantifying Language Models' Sensitivity To Spurious Features In Prompt Design Or&#58; How I Learned To Start Worrying About Prompt Formatting
+title: 'Quantifying Language Models'' Sensitivity To Spurious Features In Prompt Design Or: How I Learned To Start Worrying About Prompt Formatting'
 authors: Sclar Melanie, Choi Yejin, Tsvetkov Yulia, Suhr Alane
 conference: "Arxiv"
 year: 2023

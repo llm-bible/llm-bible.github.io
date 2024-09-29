@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Conme&#58; Rethinking Evaluation Of Compositional Reasoning For Modern Vlms
+title: 'Conme: Rethinking Evaluation Of Compositional Reasoning For Modern Vlms'
 authors: Huang Irene, Lin Wei, Mirza M. Jehanzeb, Hansen Jacob A., Doveh Sivan, Butoi Victor Ion, Herzig Roei, Arbelle Assaf, Kuhene Hilde, Darrel Trevor, Gan Chuang, Oliva Aude, Feris Rogerio, Karlinsky Leonid
 conference: "Arxiv"
 year: 2024

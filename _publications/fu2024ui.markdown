@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: UI-JEPA&#58; Towards Active Perception Of User Intent Through Onscreen User Activity
+title: 'UI-JEPA: Towards Active Perception Of User Intent Through Onscreen User Activity'
 authors: Fu Yicheng, Anantha Raviteja, Vashisht Prabal, Cheng Jianpeng, Littwin Etai
 conference: "Arxiv"
 year: 2024

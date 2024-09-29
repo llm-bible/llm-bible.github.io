@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: AILS-NTUA At Semeval-2024 Task 9&#58; Cracking Brain Teasers&#58; Transformer Models For Lateral Thinking Puzzles
+title: 'AILS-NTUA At Semeval-2024 Task 9: Cracking Brain Teasers: Transformer Models For Lateral Thinking Puzzles'
 authors: Panagiotopoulos Ioannis, Filandrianos Giorgos, Lymperaiou Maria, Stamou Giorgos
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Revisiting Block-based Quantisation&#58; What Is Important For Sub-8-bit LLM Inference?
+title: 'Revisiting Block-based Quantisation: What Is Important For Sub-8-bit LLM Inference?'
 authors: Zhang Cheng, Cheng Jianyi, Shumailov Ilia, Constantinides George A., Zhao Yiren
 conference: "Arxiv"
 year: 2023

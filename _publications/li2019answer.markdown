@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bertsel&#58; Answer Selection With Pre-trained Models
+title: 'Bertsel: Answer Selection With Pre-trained Models'
 authors: Li Dongfang, Yu Yifei, Chen Qingcai, Li Xinyu
 conference: "Arxiv"
 year: 2019

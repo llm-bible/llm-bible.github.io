@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recommendation As Instruction Following&#58; A Large Language Model Empowered Recommendation Approach
+title: 'Recommendation As Instruction Following: A Large Language Model Empowered Recommendation Approach'
 authors: Junjie Zhang, Ruobing Xie, Yupeng Hou, Wayne Xin Zhao, Leyu Lin, Ji-rong Wen
 conference: "Arxiv"
 year: 2023

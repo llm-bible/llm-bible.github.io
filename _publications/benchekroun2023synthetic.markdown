@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Worldsense&#58; A Synthetic Benchmark For Grounded Reasoning In Large Language Models
+title: 'Worldsense: A Synthetic Benchmark For Grounded Reasoning In Large Language Models'
 authors: Benchekroun Youssef, Dervishi Megi, Ibrahim Mark, Gaya Jean-baptiste, Martinet Xavier, Mialon Grégoire, Scialom Thomas, Dupoux Emmanuel, Hupkes Dieuwke, Vincent Pascal
 conference: "Arxiv"
 year: 2023

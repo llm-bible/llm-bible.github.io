@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DHP Benchmark&#58; Are Llms Good NLG Evaluators?
+title: 'DHP Benchmark: Are Llms Good NLG Evaluators?'
 authors: Wang Yicheng, Yuan Jiayi, Chuang Yu-neng, Wang Zhuoer, Liu Yingchi, Cusick Mark, Kulkarni Param, Ji Zhengping, Ibrahim Yasser, Hu Xia
 conference: "Arxiv"
 year: 2024

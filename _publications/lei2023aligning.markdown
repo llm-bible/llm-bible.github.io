@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Recexplainer&#58; Aligning Large Language Models For Explaining Recommendation Models
+title: 'Recexplainer: Aligning Large Language Models For Explaining Recommendation Models'
 authors: Lei Yuxuan, Lian Jianxun, Yao Jing, Huang Xu, Lian Defu, Xie Xing
 conference: "Arxiv"
 year: 2023

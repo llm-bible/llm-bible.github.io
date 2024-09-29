@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mulzdg&#58; Multilingual Code-switching Framework For Zero-shot Dialogue Generation
+title: 'Mulzdg: Multilingual Code-switching Framework For Zero-shot Dialogue Generation'
 authors: Liu Yongkang, Feng Shi, Wang Daling, Zhang Yifei
 conference: "Arxiv"
 year: 2022

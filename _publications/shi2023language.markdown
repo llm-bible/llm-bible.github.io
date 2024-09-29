@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: In-context Pretraining&#58; Language Modeling Beyond Document Boundaries
+title: 'In-context Pretraining: Language Modeling Beyond Document Boundaries'
 authors: Weijia Shi, Sewon Min, Maria Lomeli, Chunting Zhou, Margaret Li, Gergely Szilvasy, Rich James, Xi Victoria Lin, Noah A. Smith, Luke Zettlemoyer, Scott Yih, Mike Lewis
 conference: "Arxiv"
 year: 2023

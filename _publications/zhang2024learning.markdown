@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Wings&#58; Learning Multimodal Llms Without Text-only Forgetting
+title: 'Wings: Learning Multimodal Llms Without Text-only Forgetting'
 authors: Zhang Yi-kai, Lu Shiyin, Li Yang, Ma Yanqing, Chen Qing-guo, Xu Zhao, Luo Weihua, Zhang Kaifu, Zhan De-chuan, Ye Han-jia
 conference: "Arxiv"
 year: 2024

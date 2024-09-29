@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Exploring The Frontiers Of Llms In Psychological Applications&#58; A Comprehensive Review
+title: 'Exploring The Frontiers Of Llms In Psychological Applications: A Comprehensive Review'
 authors: Ke Luoma, Tong Song, Cheng Peng, Peng Kaiping
 conference: "Arxiv"
 year: 2024

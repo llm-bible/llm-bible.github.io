@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Neuro Symbolic Reasoning For Planning&#58; Counterexample Guided Inductive Synthesis Using Large Language Models And Satisfiability Solving
+title: 'Neuro Symbolic Reasoning For Planning: Counterexample Guided Inductive Synthesis Using Large Language Models And Satisfiability Solving'
 authors: Jha Sumit Kumar, Jha Susmit, Lincoln Patrick, Bastian Nathaniel D., Velasquez Alvaro, Ewetz Rickard, Neema Sandeep
 conference: "Arxiv"
 year: 2023

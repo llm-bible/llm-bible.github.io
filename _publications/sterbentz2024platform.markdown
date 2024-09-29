@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Satyrn&#58; A Platform For Analytics Augmented Generation
+title: 'Satyrn: A Platform For Analytics Augmented Generation'
 authors: Sterbentz Marko, Barrie Cameron, Shahi Shubham, Dutta Abhratanu, Hooshmand Donna, Pack Harper, Hammond Kristian J.
 conference: "Arxiv"
 year: 2024

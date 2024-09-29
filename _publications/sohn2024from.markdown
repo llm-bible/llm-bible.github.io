@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Words To Worlds&#58; Transforming One-line Prompt Into Immersive Multi-modal Digital Stories With Communicative LLM Agent
+title: 'From Words To Worlds: Transforming One-line Prompt Into Immersive Multi-modal Digital Stories With Communicative LLM Agent'
 authors: Sohn Samuel S., Li Danrui, Zhang Sen, Chang Che-jui, Kapadia Mubbasir
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Decoding The AI Pen&#58; Techniques And Challenges In Detecting Ai-generated Text
+title: 'Decoding The AI Pen: Techniques And Challenges In Detecting Ai-generated Text'
 authors: Abdali Sara, Anarfi Richard, Barberan Cj, He Jia
 conference: "Arxiv"
 year: 2024

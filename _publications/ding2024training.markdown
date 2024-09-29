@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Semcoder&#58; Training Code Language Models With Comprehensive Semantics
+title: 'Semcoder: Training Code Language Models With Comprehensive Semantics'
 authors: Ding Yangruibo, Peng Jinjun, Min Marcus J., Kaiser Gail, Yang Junfeng, Ray Baishakhi
 conference: "Arxiv"
 year: 2024

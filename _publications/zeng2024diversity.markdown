@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DELIA&#58; Diversity-enhanced Learning For Instruction Adaptation In Large Language Models
+title: 'DELIA: Diversity-enhanced Learning For Instruction Adaptation In Large Language Models'
 authors: Zeng Yuanhao, Ren Fei, Zhou Xinpeng, Wang Yihang, Shao Yingxia
 conference: "Arxiv"
 year: 2024

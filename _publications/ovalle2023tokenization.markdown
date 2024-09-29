@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tokenization Matters&#58; Navigating Data-scarce Tokenization For Gender Inclusive Language Technologies
+title: 'Tokenization Matters: Navigating Data-scarce Tokenization For Gender Inclusive Language Technologies'
 authors: Ovalle Anaelia, Mehrabi Ninareh, Goyal Palash, Dhamala Jwala, Chang Kai-wei, Zemel Richard, Galstyan Aram, Pinter Yuval, Gupta Rahul
 conference: "Arxiv"
 year: 2023

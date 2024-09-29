@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Systematic Survey And Critical Review On Evaluating Large Language Models&#58; Challenges, Limitations, And Recommendations
+title: 'A Systematic Survey And Critical Review On Evaluating Large Language Models: Challenges, Limitations, And Recommendations'
 authors: Laskar Md Tahmid Rahman, Alqahtani Sawsan, Bari M Saiful, Rahman Mizanur, Khan Mohammad Abdullah Matin, Khan Haidar, Jahan Israt, Bhuiyan Amran, Tan Chee Wei, Parvez Md Rizwan, Hoque Enamul, Joty Shafiq, Huang Jimmy
 conference: "Arxiv"
 year: 2024

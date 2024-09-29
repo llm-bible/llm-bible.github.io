@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Apollo&#58; Unified Adapter And Prompt Learning For Vision Language Models
+title: 'Apollo: Unified Adapter And Prompt Learning For Vision Language Models'
 authors: Chowdhury Sanjoy, Nag Sayan, Manocha Dinesh
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Memlong&#58; Memory-augmented Retrieval For Long Text Modeling
+title: 'Memlong: Memory-augmented Retrieval For Long Text Modeling'
 authors: Liu Weijie, Tang Zecheng, Li Juntao, Chen Kehai, Zhang Min
 conference: "Arxiv"
 year: 2024

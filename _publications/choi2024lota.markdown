@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lota-bench&#58; Benchmarking Language-oriented Task Planners For Embodied Agents
+title: 'Lota-bench: Benchmarking Language-oriented Task Planners For Embodied Agents'
 authors: Choi Jae-woo, Yoon Youngwoo, Ong Hyobin, Kim Jaehong, Jang Minsu
 conference: "Arxiv"
 year: 2024

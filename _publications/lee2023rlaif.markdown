@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RLAIF Vs. RLHF&#58; Scaling Reinforcement Learning From Human Feedback With AI Feedback
+title: 'RLAIF Vs. RLHF: Scaling Reinforcement Learning From Human Feedback With AI Feedback'
 authors: Lee Harrison, Phatale Samrat, Mansoor Hassan, Mesnard Thomas, Ferret Johan, Lu Kellie, Bishop Colton, Hall Ethan, Carbune Victor, Rastogi Abhinav, Prakash Sushant
 conference: "Proceedings of the"
 year: 2023

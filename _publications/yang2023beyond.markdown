@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Testers' Biases&#58; Guiding Model Testing With Knowledge Bases Using Llms
+title: 'Beyond Testers'' Biases: Guiding Model Testing With Knowledge Bases Using Llms'
 authors: Yang Chenyang, Rustogi Rishabh, Brower-sinning Rachel, Lewis Grace A., Kästner Christian, Wu Tongshuang
 conference: "Arxiv"
 year: 2023

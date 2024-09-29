@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models And Video Games&#58; A Preliminary Scoping Review
+title: 'Large Language Models And Video Games: A Preliminary Scoping Review'
 authors: Sweetser Penny
 conference: "Arxiv"
 year: 2024

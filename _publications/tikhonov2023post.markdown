@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Post Turing&#58; Mapping The Landscape Of LLM Evaluation
+title: 'Post Turing: Mapping The Landscape Of LLM Evaluation'
 authors: Tikhonov Alexey, Yamshchikov Ivan P.
 conference: "Arxiv"
 year: 2023

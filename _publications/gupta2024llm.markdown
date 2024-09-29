@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM Task Interference&#58; An Initial Study On The Impact Of Task-switch In Conversational History
+title: 'LLM Task Interference: An Initial Study On The Impact Of Task-switch In Conversational History'
 authors: Gupta Akash, Sheth Ivaxi, Raina Vyas, Gales Mark, Fritz Mario
 conference: "Arxiv"
 year: 2024

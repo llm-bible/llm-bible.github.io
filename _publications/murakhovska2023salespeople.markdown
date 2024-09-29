@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Salespeople Vs Salesbot&#58; Exploring The Role Of Educational Value In Conversational Recommender Systems
+title: 'Salespeople Vs Salesbot: Exploring The Role Of Educational Value In Conversational Recommender Systems'
 authors: Murakhovs'ka Lidiya, Laban Philippe, Xie Tian, Xiong Caiming, Wu Chien-sheng
 conference: "Arxiv"
 year: 2023

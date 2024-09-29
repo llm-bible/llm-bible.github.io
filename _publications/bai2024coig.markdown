@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: COIG-CQIA&#58; Quality Is All You Need For Chinese Instruction Fine-tuning
+title: 'COIG-CQIA: Quality Is All You Need For Chinese Instruction Fine-tuning'
 authors: Bai Yuelin, Du Xinrun, Liang Yiming, Jin Yonggang, Liu Ziqiang, Zhou Junting, Zheng Tianyu, Zhang Xincheng, Ma Nuo, Wang Zekun, Yuan Ruibin, Wu Haihong, Lin Hongquan, Huang Wenhao, Zhang Jiajun, Chen Wenhu, Lin Chenghua, Fu Jie, Yang Min, Ni Shiwen, Zhang Ge
 conference: "Arxiv"
 year: 2024

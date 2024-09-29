@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ADER&#58; Adaptively Distilled Exemplar Replay Towards Continual Learning For Session-based Recommendation
+title: 'ADER: Adaptively Distilled Exemplar Replay Towards Continual Learning For Session-based Recommendation'
 authors: Mi Fei, Lin Xiaoyu, Faltings Boi
 conference: "Arxiv"
 year: 2020

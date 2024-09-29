@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reflexion&#58; Language Agents With Verbal Reinforcement Learning
+title: 'Reflexion: Language Agents With Verbal Reinforcement Learning'
 authors: Noah Shinn, Federico Cassano, Edward Berman, Ashwin Gopinath, Karthik Narasimhan, Shunyu Yao
 conference: "Arxiv"
 year: 2023

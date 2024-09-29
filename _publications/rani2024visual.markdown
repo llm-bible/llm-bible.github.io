@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Visual Hallucination&#58; Definition, Quantification, And Prescriptive Remediations
+title: 'Visual Hallucination: Definition, Quantification, And Prescriptive Remediations'
 authors: Rani Anku, Rawte Vipula, Sharma Harshad, Anand Neeraj, Rajbangshi Krishnav, Sheth Amit, Das Amitava
 conference: "Arxiv"
 year: 2024

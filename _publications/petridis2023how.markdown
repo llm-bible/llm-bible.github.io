@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Promptinfuser&#58; How Tightly Coupling AI And UI Design Impacts Designers' Workflows
+title: 'Promptinfuser: How Tightly Coupling AI And UI Design Impacts Designers'' Workflows'
 authors: Petridis Savvas, Terry Michael, Cai Carrie J.
 conference: "Arxiv"
 year: 2023

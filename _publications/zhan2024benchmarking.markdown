@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Injecagent&#58; Benchmarking Indirect Prompt Injections In Tool-integrated Large Language Model Agents
+title: 'Injecagent: Benchmarking Indirect Prompt Injections In Tool-integrated Large Language Model Agents'
 authors: Zhan Qiusi, Liang Zhixiang, Ying Zifan, Kang Daniel
 conference: "Arxiv"
 year: 2024

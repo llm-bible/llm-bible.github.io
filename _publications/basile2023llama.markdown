@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llamantino&#58; Llama 2 Models For Effective Text Generation In Italian Language
+title: 'Llamantino: Llama 2 Models For Effective Text Generation In Italian Language'
 authors: Basile Pierpaolo, Musacchio Elio, Polignano Marco, Siciliani Lucia, Fiameni Giuseppe, Semeraro Giovanni
 conference: "Arxiv"
 year: 2023

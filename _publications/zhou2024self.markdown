@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Self-discover&#58; Large Language Models Self-compose Reasoning Structures
+title: 'Self-discover: Large Language Models Self-compose Reasoning Structures'
 authors: Zhou Pei, Pujara Jay, Ren Xiang, Chen Xinyun, Cheng Heng-tze, Le Quoc V., Chi Ed H., Zhou Denny, Mishra Swaroop, Zheng Huaixiu Steven
 conference: "Arxiv"
 year: 2024

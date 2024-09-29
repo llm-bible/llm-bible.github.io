@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Openvla&#58; An Open-source Vision-language-action Model
+title: 'Openvla: An Open-source Vision-language-action Model'
 authors: Kim Moo Jin, Pertsch Karl, Karamcheti Siddharth, Xiao Ted, Balakrishna Ashwin, Nair Suraj, Rafailov Rafael, Foster Ethan, Lam Grace, Sanketi Pannag, Vuong Quan, Kollar Thomas, Burchfiel Benjamin, Tedrake Russ, Sadigh Dorsa, Levine Sergey, Liang Percy, Finn Chelsea
 conference: "Arxiv"
 year: 2024

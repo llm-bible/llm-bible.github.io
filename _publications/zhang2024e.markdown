@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: E-bench&#58; Towards Evaluating The Ease-of-use Of Large Language Models
+title: 'E-bench: Towards Evaluating The Ease-of-use Of Large Language Models'
 authors: Zhang Zhenyu, Hao Bingguang, Li Jinpeng, Zhang Zekai, Zhao Dongyan
 conference: "Arxiv"
 year: 2024

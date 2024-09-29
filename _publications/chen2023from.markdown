@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Good To Great&#58; Improving Math Reasoning With Tool-augmented Interleaf Prompting
+title: 'From Good To Great: Improving Math Reasoning With Tool-augmented Interleaf Prompting'
 authors: Chen Nuo, Li Hongguang, Wang Baoyuan, Li Jia
 conference: "Arxiv"
 year: 2023

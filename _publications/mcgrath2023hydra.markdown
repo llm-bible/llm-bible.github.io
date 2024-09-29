@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: The Hydra Effect&#58; Emergent Self-repair In Language Model Computations
+title: 'The Hydra Effect: Emergent Self-repair In Language Model Computations'
 authors: Mcgrath Thomas, Rahtz Matthew, Kramar Janos, Mikulik Vladimir, Legg Shane
 conference: "Arxiv"
 year: 2023

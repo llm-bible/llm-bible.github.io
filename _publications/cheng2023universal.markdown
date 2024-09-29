@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: UPRISE&#58; Universal Prompt Retrieval For Improving Zero-shot Evaluation
+title: 'UPRISE: Universal Prompt Retrieval For Improving Zero-shot Evaluation'
 authors: Cheng Daixuan, Huang Shaohan, Bi Junyu, Zhan Yuefeng, Liu Jianfeng, Wang Yujing, Sun Hao, Wei Furu, Deng Denvy, Zhang Qi
 conference: "Arxiv"
 year: 2023

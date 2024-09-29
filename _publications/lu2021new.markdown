@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Iconqa&#58; A New Benchmark For Abstract Diagram Understanding And Visual Language Reasoning
+title: 'Iconqa: A New Benchmark For Abstract Diagram Understanding And Visual Language Reasoning'
 authors: Lu Pan, Qiu Liang, Chen Jiaqi, Xia Tony, Zhao Yizhou, Zhang Wei, Yu Zhou, Liang Xiaodan, Zhu Song-chun
 conference: "Arxiv"
 year: 2021

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: How Well Can Llms Echo Us? Evaluating AI Chatbots' Role-play Ability With ECHO
+title: How Well Can Llms Echo Us? Evaluating AI Chatbots'' Role-play Ability With ECHO
 authors: Ng Man Tik, Tse Hui Tung, Huang Jen-tse, Li Jingjing, Wang Wenxuan, Lyu Michael R.
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LUNA&#58; Language Understanding With Number Augmentations On Transformers Via Number Plugins And Pre-training
+title: 'LUNA: Language Understanding With Number Augmentations On Transformers Via Number Plugins And Pre-training'
 authors: Han Hongwei, Xu Jialiang, Zhou Mengyu, Shao Yijia, Han Shi, Zhang Dongmei
 conference: "Arxiv"
 year: 2022

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models As Instruments Of Power&#58; New Regimes Of Autonomous Manipulation And Control
+title: 'Large Language Models As Instruments Of Power: New Regimes Of Autonomous Manipulation And Control'
 authors: Chaudhary Yaqub, Penn Jonnie
 conference: "Arxiv"
 year: 2024

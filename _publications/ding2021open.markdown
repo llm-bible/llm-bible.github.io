@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Openprompt&#58; An Open-source Framework For Prompt-learning
+title: 'Openprompt: An Open-source Framework For Prompt-learning'
 authors: Ding Ning, Hu Shengding, Zhao Weilin, Chen Yulin, Liu Zhiyuan, Zheng Hai-tao, Sun Maosong
 conference: "Arxiv"
 year: 2021

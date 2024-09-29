@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MELO&#58; Enhancing Model Editing With Neuron-indexed Dynamic Lora
+title: 'MELO: Enhancing Model Editing With Neuron-indexed Dynamic Lora'
 authors: Yu Lang, Chen Qin, Zhou Jie, He Liang
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Keyformer&#58; KV Cache Reduction Through Key Tokens Selection For Efficient Generative Inference
+title: 'Keyformer: KV Cache Reduction Through Key Tokens Selection For Efficient Generative Inference'
 authors: Adnan Muhammad, Arunkumar Akhil, Jain Gaurav, Nair Prashant J., Soloveychik Ilya, Kamath Purushotham
 conference: "Proceedings of the"
 year: 2024

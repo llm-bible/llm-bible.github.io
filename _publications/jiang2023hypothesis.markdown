@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hykge&#58; A Hypothesis Knowledge Graph Enhanced Framework For Accurate And Reliable Medical Llms Responses
+title: 'Hykge: A Hypothesis Knowledge Graph Enhanced Framework For Accurate And Reliable Medical Llms Responses'
 authors: Jiang Xinke, Zhang Ruizhe, Xu Yongxin, Qiu Rihong, Fang Yue, Wang Zhiyuan, Tang Jinyi, Ding Hongxin, Chu Xu, Zhao Junfeng, Wang Yasha
 conference: "Arxiv"
 year: 2023

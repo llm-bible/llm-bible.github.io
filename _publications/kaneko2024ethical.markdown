@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Eagle&#58; Ethical Dataset Given From Real Interactions
+title: 'Eagle: Ethical Dataset Given From Real Interactions'
 authors: Kaneko Masahiro, Bollegala Danushka, Baldwin Timothy
 conference: "Arxiv"
 year: 2024

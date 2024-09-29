@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GRAM&#58; Global Reasoning For Multi-page VQA
+title: 'GRAM: Global Reasoning For Multi-page VQA'
 authors: Blau Tsachi, Fogel Sharon, Ronen Roi, Golts Alona, Ganz Roy, Avraham Elad Ben, Aberdam Aviad, Tsiper Shahar, Litman Ron
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sub-goal Distillation&#58; A Method To Improve Small Language Agents
+title: 'Sub-goal Distillation: A Method To Improve Small Language Agents'
 authors: Hashemzadeh Maryam, Stengel-eskin Elias, Chandar Sarath, Cote Marc-alexandre
 conference: "Arxiv"
 year: 2024

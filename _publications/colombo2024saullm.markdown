@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Saullm-54b & Saullm-141b&#58; Scaling Up Domain Adaptation For The Legal Domain
+title: 'Saullm-54b & Saullm-141b: Scaling Up Domain Adaptation For The Legal Domain'
 authors: Colombo Pierre, Pires Telmo, Boudiaf Malik, Melo Rui, Culver Dominic, Morgado Sofia, Malaboeuf Etienne, Hautreux Gabriel, Charpentier Johanne, Desa Michael
 conference: "Arxiv"
 year: 2024

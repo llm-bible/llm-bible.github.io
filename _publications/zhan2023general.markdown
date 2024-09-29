@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: G3detector&#58; General Gpt-generated Text Detector
+title: 'G3detector: General Gpt-generated Text Detector'
 authors: Zhan Haolan, He Xuanli, Xu Qiongkai, Wu Yuxiang, Stenetorp Pontus
 conference: "Arxiv"
 year: 2023

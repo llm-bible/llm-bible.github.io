@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Skywork-math&#58; Data Scaling Laws For Mathematical Reasoning In Large Language Models -- The Story Goes On
+title: 'Skywork-math: Data Scaling Laws For Mathematical Reasoning In Large Language Models -- The Story Goes On'
 authors: Zeng Liang, Zhong Liangjun, Zhao Liang, Wei Tianwen, Yang Liu, He Jujie, Cheng Cheng, Hu Rui, Liu Yang, Yan Shuicheng, Fang Han, Zhou Yahui
 conference: "Arxiv"
 year: 2024

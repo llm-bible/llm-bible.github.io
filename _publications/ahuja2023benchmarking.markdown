@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MEGAVERSE&#58; Benchmarking Large Language Models Across Languages, Modalities, Models And Tasks
+title: 'MEGAVERSE: Benchmarking Large Language Models Across Languages, Modalities, Models And Tasks'
 authors: Ahuja Sanchit, Aggarwal Divyanshu, Gumma Varun, Watts Ishaan, Sathe Ashutosh, Ochieng Millicent, Hada Rishav, Jain Prachi, Axmed Maxamed, Bali Kalika, Sitaram Sunayana
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GPT-4 Enhanced Multimodal Grounding For Autonomous Driving&#58; Leveraging Cross-modal Attention With Large Language Models
+title: 'GPT-4 Enhanced Multimodal Grounding For Autonomous Driving: Leveraging Cross-modal Attention With Large Language Models'
 authors: Liao Haicheng, Shen Huanming, Li Zhenning, Wang Chengyue, Li Guofa, Bie Yiming, Xu Chengzhong
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: X-LLM&#58; Bootstrapping Advanced Large Language Models By Treating Multi-modalities As Foreign Languages
+title: 'X-LLM: Bootstrapping Advanced Large Language Models By Treating Multi-modalities As Foreign Languages'
 authors: Chen Feilong, Han Minglun, Zhao Haozhi, Zhang Qingyang, Shi Jing, Xu Shuang, Xu Bo
 conference: "Arxiv"
 year: 2023

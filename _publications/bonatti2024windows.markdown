@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Windows Agent Arena&#58; Evaluating Multi-modal OS Agents At Scale
+title: 'Windows Agent Arena: Evaluating Multi-modal OS Agents At Scale'
 authors: Bonatti Rogerio, Zhao Dan, Bonacci Francesco, Dupont Dillon, Abdali Sara, Li Yinheng, Wagle Justin, Koishida Kazuhito, Bucker Arthur, Jang Lawrence, Hui Zack
 conference: "Arxiv"
 year: 2024

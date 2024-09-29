@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Salute The Classic&#58; Revisiting Challenges Of Machine Translation In The Age Of Large Language Models
+title: 'Salute The Classic: Revisiting Challenges Of Machine Translation In The Age Of Large Language Models'
 authors: Pang Jianhui, Ye Fanghua, Wang Longyue, Yu Dian, Wong Derek F., Shi Shuming, Tu Zhaopeng
 conference: "Arxiv"
 year: 2024

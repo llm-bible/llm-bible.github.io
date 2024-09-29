@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: M2QA&#58; Multi-domain Multilingual Question Answering
+title: 'M2QA: Multi-domain Multilingual Question Answering'
 authors: Engländer Leon, Sterz Hannah, Poth Clifton, Pfeiffer Jonas, Kuznetsov Ilia, Gurevych Iryna
 conference: "Arxiv"
 year: 2024

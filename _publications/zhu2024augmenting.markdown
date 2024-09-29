@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: FANNO&#58; Augmenting High-quality Instruction Data With Open-sourced Llms Only
+title: 'FANNO: Augmenting High-quality Instruction Data With Open-sourced Llms Only'
 authors: Zhu He, Su Junyou, Lun Tianle, Tao Yicheng, Zhang Wenjia, Fan Zipei, Chen Guanhua
 conference: "Arxiv"
 year: 2024

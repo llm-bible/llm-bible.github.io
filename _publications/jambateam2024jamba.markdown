@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jamba-1.5&#58; Hybrid Transformer-mamba Models At Scale
+title: 'Jamba-1.5: Hybrid Transformer-mamba Models At Scale'
 authors: Jamba Team, Lenz Barak, Arazi Alan, Bergman Amir, Manevich Avshalom, Peleg Barak, Aviram Ben, Almagor Chen, Fridman Clara, Padnos Dan, Gissin Daniel, Jannai Daniel, Muhlgay Dor, Zimberg Dor, Gerber Edden M, Dolev Elad, Krakovsky Eran, Safahi Erez, Schwartz Erez, Cohen Gal, Shachaf Gal, Rozenblum Haim, Bata Hofit, Blass Ido, Magar Inbal, Dalmedigos Itay, Osin Jhonathan, Fadlon Julie, Rozman Maria, Danos Matan, Gokhman Michael, Zusman Mor, Gidron Naama, Ratner Nir, Gat Noam, Rozen Noam, Fried Oded, Leshno Ohad, Antverg Omer, Abend Omri, Lieber Opher, Dagan Or, Cohavi Orit, Alon Raz, Belson Ro'i, Cohen Roi, Gilad Rom, Glozman Roman, Lev Shahar, Meirom Shaked, Delbari Tal, Ness Tal, Asida Tomer, Gal Tom Ben, Braude Tom, Pumerantz Uriya, Cohen Yehoshua, Belinkov Yonatan, Globerson Yuval, Levy Yuval Peleg, Shoham Yoav
 conference: "Arxiv"
 year: 2024

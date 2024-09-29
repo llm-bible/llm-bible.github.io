@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Promptmix&#58; A Class Boundary Augmentation Method For Large Language Model Distillation
+title: 'Promptmix: A Class Boundary Augmentation Method For Large Language Model Distillation'
 authors: Sahu Gaurav, Vechtomova Olga, Bahdanau Dzmitry, Laradji Issam H.
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: From Words To Numbers&#58; Your Large Language Model Is Secretly A Capable Regressor When Given In-context Examples
+title: 'From Words To Numbers: Your Large Language Model Is Secretly A Capable Regressor When Given In-context Examples'
 authors: Vacareanu Robert, Negru Vlad-andrei, Suciu Vasile, Surdeanu Mihai
 conference: "Arxiv"
 year: 2024

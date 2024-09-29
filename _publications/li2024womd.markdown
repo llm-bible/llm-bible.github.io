@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Womd-reasoning&#58; A Large-scale Language Dataset For Interaction And Driving Intentions Reasoning
+title: 'Womd-reasoning: A Large-scale Language Dataset For Interaction And Driving Intentions Reasoning'
 authors: Li Yiheng, Ge Chongjian, Li Chenran, Xu Chenfeng, Tomizuka Masayoshi, Tang Chen, Ding Mingyu, Zhan Wei
 conference: "Arxiv"
 year: 2024

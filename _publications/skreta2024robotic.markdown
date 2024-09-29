@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Replan&#58; Robotic Replanning With Perception And Language Models
+title: 'Replan: Robotic Replanning With Perception And Language Models'
 authors: Skreta Marta, Zhou Zihan, Yuan Jia Lin, Darvish Kourosh, Aspuru-guzik Alán, Garg Animesh
 conference: "Arxiv"
 year: 2024

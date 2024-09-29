@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Jiant&#58; A Software Toolkit For Research On General-purpose Text Understanding Models
+title: 'Jiant: A Software Toolkit For Research On General-purpose Text Understanding Models'
 authors: Pruksachatkun Yada, Yeres Phil, Liu Haokun, Phang Jason, Htut Phu Mon, Wang Alex, Tenney Ian, Bowman Samuel R.
 conference: "Arxiv"
 year: 2020

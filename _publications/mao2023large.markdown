@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Know Your Contextual Search Intent&#58; A Prompting Framework For Conversational Search
+title: 'Large Language Models Know Your Contextual Search Intent: A Prompting Framework For Conversational Search'
 authors: Mao Kelong, Dou Zhicheng, Mo Fengran, Hou Jiewen, Chen Haonan, Qian Hongjin
 conference: "Arxiv"
 year: 2023

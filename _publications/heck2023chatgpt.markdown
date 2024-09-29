@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Chatgpt For Zero-shot Dialogue State Tracking&#58; A Solution Or An Opportunity?
+title: 'Chatgpt For Zero-shot Dialogue State Tracking: A Solution Or An Opportunity?'
 authors: Heck Michael, Lubis Nurul, Ruppik Benjamin, Vukovic Renato, Feng Shutong, Geishauser Christian, Lin Hsien-chin, Van Niekerk Carel, Gašić Milica
 conference: "Arxiv"
 year: 2023

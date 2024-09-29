@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cdquant&#58; Accurate Post-training Weight Quantization Of Large Pre-trained Models Using Greedy Coordinate Descent
+title: 'Cdquant: Accurate Post-training Weight Quantization Of Large Pre-trained Models Using Greedy Coordinate Descent'
 authors: Nair Pranav Ajit, Suggala Arun Sai
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sciagent&#58; Tool-augmented Language Models For Scientific Reasoning
+title: 'Sciagent: Tool-augmented Language Models For Scientific Reasoning'
 authors: Ma Yubo, Gou Zhibin, Hao Junheng, Xu Ruochen, Wang Shuohang, Pan Liangming, Yang Yujiu, Cao Yixin, Sun Aixin, Awadalla Hany, Chen Weizhu
 conference: "Arxiv"
 year: 2024

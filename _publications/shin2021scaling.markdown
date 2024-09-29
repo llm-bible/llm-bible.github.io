@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Scaling Law For Recommendation Models&#58; Towards General-purpose User Representations
+title: 'Scaling Law For Recommendation Models: Towards General-purpose User Representations'
 authors: Shin Kyuyong, Kwak Hanock, Kim Su Young, Ramstrom Max Nihlen, Jeong Jisu, Ha Jung-woo, Kim Kyung-min
 conference: "Arxiv"
 year: 2021

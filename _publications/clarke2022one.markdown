@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: One Agent To Rule Them All&#58; Towards Multi-agent Conversational AI
+title: 'One Agent To Rule Them All: Towards Multi-agent Conversational AI'
 authors: Clarke Christopher, Peper Joseph Joshua, Krishnamurthy Karthik, Talamonti Walter, Leach Kevin, Lasecki Walter, Kang Yiping, Tang Lingjia, Mars Jason
 conference: "Arxiv"
 year: 2022

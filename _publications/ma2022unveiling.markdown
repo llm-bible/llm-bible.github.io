@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Unveiling Code Pre-trained Models&#58; Investigating Syntax And Semantics Capacities
+title: 'Unveiling Code Pre-trained Models: Investigating Syntax And Semantics Capacities'
 authors: Ma Wei, Liu Shangqing, Zhao Mengjie, Xie Xiaofei, Wang Wenhan, Hu Qiang, Zhang Jie, Liu Yang
 conference: "Arxiv"
 year: 2022

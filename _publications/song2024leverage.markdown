@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Position&#58; Leverage Foundational Models For Black-box Optimization
+title: 'Position: Leverage Foundational Models For Black-box Optimization'
 authors: Song Xingyou, Tian Yingtao, Lange Robert Tjarko, Lee Chansoo, Tang Yujin, Chen Yutian
 conference: "Arxiv"
 year: 2024

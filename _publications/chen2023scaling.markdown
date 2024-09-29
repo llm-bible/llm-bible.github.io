@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Internvl&#58; Scaling Up Vision Foundation Models And Aligning For Generic Visual-linguistic Tasks
+title: 'Internvl: Scaling Up Vision Foundation Models And Aligning For Generic Visual-linguistic Tasks'
 authors: Chen Zhe, Wu Jiannan, Wang Wenhai, Su Weijie, Chen Guo, Xing Sen, Zhong Muyan, Zhang Qinglong, Zhu Xizhou, Lu Lewei, Li Bin, Luo Ping, Lu Tong, Qiao Yu, Dai Jifeng
 conference: "Arxiv"
 year: 2023

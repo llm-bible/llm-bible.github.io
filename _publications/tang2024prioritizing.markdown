@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prioritizing Safeguarding Over Autonomy&#58; Risks Of LLM Agents For Science
+title: 'Prioritizing Safeguarding Over Autonomy: Risks Of LLM Agents For Science'
 authors: Tang Xiangru, Jin Qiao, Zhu Kunlun, Yuan Tongxin, Zhang Yichi, Zhou Wangchunshu, Qu Meng, Zhao Yilun, Tang Jian, Zhang Zhuosheng, Cohan Arman, Lu Zhiyong, Gerstein Mark
 conference: "Arxiv"
 year: 2024

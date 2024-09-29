@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Wizardmath&#58; Empowering Mathematical Reasoning For Large Language Models Via Reinforced Evol-instruct
+title: 'Wizardmath: Empowering Mathematical Reasoning For Large Language Models Via Reinforced Evol-instruct'
 authors: Luo Haipeng, Sun Qingfeng, Xu Can, Zhao Pu, Lou Jianguang, Tao Chongyang, Geng Xiubo, Lin Qingwei, Chen Shifeng, Zhang Dongmei
 conference: "Arxiv"
 year: 2023

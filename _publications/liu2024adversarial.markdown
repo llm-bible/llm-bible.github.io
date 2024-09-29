@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Imposter.ai&#58; Adversarial Attacks With Hidden Intentions Towards Aligned Large Language Models
+title: 'Imposter.ai: Adversarial Attacks With Hidden Intentions Towards Aligned Large Language Models'
 authors: Liu Xiao, Li Liangzhi, Xiang Tong, Ye Fuying, Wei Lu, Li Wangyue, Garcia Noa
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pali-3 Vision Language Models&#58; Smaller, Faster, Stronger
+title: 'Pali-3 Vision Language Models: Smaller, Faster, Stronger'
 authors: Xi Chen, Xiao Wang, Lucas Beyer, Alexander Kolesnikov, Jialin Wu, Paul Voigtlaender, Basil Mustafa, Sebastian Goodman, Ibrahim Alabdulmohsin, Piotr Padlewski, Daniel Salz, Xi Xiong, Daniel Vlasic, Filip Pavetic, Keran Rong, Tianli Yu, Daniel Keysers, Xiaohua Zhai, Radu Soricut
 conference: "Arxiv"
 year: 2023

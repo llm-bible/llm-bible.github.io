@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ELI5&#58; Long Form Question Answering
+title: 'ELI5: Long Form Question Answering'
 authors: Fan Angela, Jernite Yacine, Perez Ethan, Grangier David, Weston Jason, Auli Michael
 conference: "Arxiv"
 year: 2019

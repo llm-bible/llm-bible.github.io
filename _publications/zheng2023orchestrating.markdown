@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lyra&#58; Orchestrating Dual Correction In Automated Theorem Proving
+title: 'Lyra: Orchestrating Dual Correction In Automated Theorem Proving'
 authors: Zheng Chuanyang, Wang Haiming, Xie Enze, Liu Zhengying, Sun Jiankai, Xin Huajian, Shen Jianhao, Li Zhenguo, Li Yu
 conference: "Arxiv"
 year: 2023

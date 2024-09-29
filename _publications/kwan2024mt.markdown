@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mt-eval&#58; A Multi-turn Capabilities Evaluation Benchmark For Large Language Models
+title: 'Mt-eval: A Multi-turn Capabilities Evaluation Benchmark For Large Language Models'
 authors: Kwan Wai-chung, Zeng Xingshan, Jiang Yuxin, Wang Yufei, Li Liangyou, Shang Lifeng, Jiang Xin, Liu Qun, Wong Kam-fai
 conference: "Arxiv"
 year: 2024

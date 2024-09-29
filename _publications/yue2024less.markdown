@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Less Is More&#58; Mitigating Multimodal Hallucination From An EOS Decision Perspective
+title: 'Less Is More: Mitigating Multimodal Hallucination From An EOS Decision Perspective'
 authors: Zihao Yue, Liang Zhang, Qin Jin
 conference: "Arxiv"
 year: 2024

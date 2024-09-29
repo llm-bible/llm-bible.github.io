@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Behavior Alignment&#58; A New Perspective Of Evaluating Llm-based Conversational Recommendation Systems
+title: 'Behavior Alignment: A New Perspective Of Evaluating Llm-based Conversational Recommendation Systems'
 authors: Yang Dayu, Chen Fumian, Fang Hui
 conference: "Arxiv"
 year: 2024

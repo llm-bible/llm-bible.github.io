@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: NSP-BERT&#58; A Prompt-based Few-shot Learner Through An Original Pre-training Task--next Sentence Prediction
+title: 'NSP-BERT: A Prompt-based Few-shot Learner Through An Original Pre-training Task--next Sentence Prediction'
 authors: Sun Yi, Zheng Yu, Hao Chao, Qiu Hangping
 conference: "Arxiv"
 year: 2021

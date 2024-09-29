@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Consistency And Uncertainty&#58; Identifying Unreliable Responses From Black-box Vision-language Models For Selective Visual Question Answering
+title: 'Consistency And Uncertainty: Identifying Unreliable Responses From Black-box Vision-language Models For Selective Visual Question Answering'
 authors: Khan Zaid, Fu Yun
 conference: "Arxiv"
 year: 2024

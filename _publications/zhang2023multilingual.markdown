@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MELA&#58; Multilingual Evaluation Of Linguistic Acceptability
+title: 'MELA: Multilingual Evaluation Of Linguistic Acceptability'
 authors: Zhang Ziyin, Liu Yikang, Huang Weifang, Mao Junyu, Wang Rui, Hu Hai
 conference: "Arxiv"
 year: 2023

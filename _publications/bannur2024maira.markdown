@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MAIRA-2&#58; Grounded Radiology Report Generation
+title: 'MAIRA-2: Grounded Radiology Report Generation'
 authors: Bannur Shruthi, Bouzid Kenza, Castro Daniel C., Schwaighofer Anton, Bond-taylor Sam, Ilse Maximilian, Pérez-garcía Fernando, Salvatelli Valentina, Sharma Harshita, Meissen Felix, Ranjit Mercy, Srivastav Shaury, Gong Julia, Falck Fabian, Oktay Ozan, Thieme Anja, Lungren Matthew P., Wetscherek Maria Teodora, Alvarez-valle Javier, Hyland Stephanie L.
 conference: "Arxiv"
 year: 2024

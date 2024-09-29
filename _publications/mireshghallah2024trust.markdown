@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Trust No Bot&#58; Discovering Personal Disclosures In Human-llm Conversations In The Wild
+title: 'Trust No Bot: Discovering Personal Disclosures In Human-llm Conversations In The Wild'
 authors: Mireshghallah Niloofar, Antoniak Maria, More Yash, Choi Yejin, Farnadi Golnoosh
 conference: "Arxiv"
 year: 2024

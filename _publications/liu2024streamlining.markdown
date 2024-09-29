@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: STORE&#58; Streamlining Semantic Tokenization And Generative Recommendation With A Single LLM
+title: 'STORE: Streamlining Semantic Tokenization And Generative Recommendation With A Single LLM'
 authors: Liu Qijiong, Zhu Jieming, Fan Lu, Zhao Zhou, Wu Xiao-ming
 conference: "Arxiv"
 year: 2024

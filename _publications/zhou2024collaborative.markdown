@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cogmg&#58; Collaborative Augmentation Between Large Language Model And Knowledge Graph
+title: 'Cogmg: Collaborative Augmentation Between Large Language Model And Knowledge Graph'
 authors: Zhou Tong, Chen Yubo, Liu Kang, Zhao Jun
 conference: "Arxiv"
 year: 2024

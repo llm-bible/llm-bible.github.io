@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Homodistil&#58; Homotopic Task-agnostic Distillation Of Pre-trained Transformers
+title: 'Homodistil: Homotopic Task-agnostic Distillation Of Pre-trained Transformers'
 authors: Liang Chen, Jiang Haoming, Li Zheng, Tang Xianfeng, Yin Bin, Zhao Tuo
 conference: "Arxiv"
 year: 2023

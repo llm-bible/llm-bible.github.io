@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Tell Me Where To Go&#58; A Composable Framework For Context-aware Embodied Robot Navigation
+title: 'Tell Me Where To Go: A Composable Framework For Context-aware Embodied Robot Navigation'
 authors: Biggie Harel, Mopidevi Ajay Narasimha, Woods Dusty, Heckman Christoffer
 conference: "Arxiv"
 year: 2023

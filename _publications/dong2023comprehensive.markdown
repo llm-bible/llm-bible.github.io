@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BAMBOO&#58; A Comprehensive Benchmark For Evaluating Long Text Modeling Capacities Of Large Language Models
+title: 'BAMBOO: A Comprehensive Benchmark For Evaluating Long Text Modeling Capacities Of Large Language Models'
 authors: Dong Zican, Tang Tianyi, Li Junyi, Zhao Wayne Xin, Wen Ji-rong
 conference: "Arxiv"
 year: 2023

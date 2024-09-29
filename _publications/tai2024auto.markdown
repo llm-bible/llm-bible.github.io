@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: PIXAR&#58; Auto-regressive Language Modeling In Pixel Space
+title: 'PIXAR: Auto-regressive Language Modeling In Pixel Space'
 authors: Tai Yintao, Liao Xiyang, Suglia Alessandro, Vergari Antonio
 conference: "Arxiv"
 year: 2024

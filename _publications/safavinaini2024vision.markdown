@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Vision-language And Large Language Model Performance In Gastroenterology&#58; GPT, Claude, Llama, Phi, Mistral, Gemma, And Quantized Models
+title: 'Vision-language And Large Language Model Performance In Gastroenterology: GPT, Claude, Llama, Phi, Mistral, Gemma, And Quantized Models'
 authors: Safavi-naini Seyed Amir Ahmad, Ali Shuhaib, Shahab Omer, Shahhoseini Zahra, Savage Thomas, Rafiee Sara, Samaan Jamil S, Shabeeb Reem Al, Ladak Farah, Yang Jamie O, Echavarria Juan, Babar Sumbal, Shaukat Aasma, Margolis Samuel, Tatonetti Nicholas P, Nadkarni Girish, Kurdi Bara El, Soroush Ali
 conference: "Arxiv"
 year: 2024

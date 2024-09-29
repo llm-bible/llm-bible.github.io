@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Primer&#58; Searching For Efficient Transformers For Language Modeling
+title: 'Primer: Searching For Efficient Transformers For Language Modeling'
 authors: So David R., Mańke Wojciech, Liu Hanxiao, Dai Zihang, Shazeer Noam, Le Quoc V.
 conference: "Arxiv"
 year: 2021

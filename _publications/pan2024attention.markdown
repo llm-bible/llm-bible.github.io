@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Instinfer&#58; In-storage Attention Offloading For Cost-effective Long-context LLM Inference
+title: 'Instinfer: In-storage Attention Offloading For Cost-effective Long-context LLM Inference'
 authors: Pan Xiurui, Li Endian, Li Qiao, Liang Shengwen, Shan Yizhou, Zhou Ke, Luo Yingwei, Wang Xiaolin, Zhang Jie
 conference: "Arxiv"
 year: 2024

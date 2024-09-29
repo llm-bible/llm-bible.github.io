@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llms In The Loop&#58; Leveraging Large Language Model Annotations For Active Learning In Low-resource Languages
+title: 'Llms In The Loop: Leveraging Large Language Model Annotations For Active Learning In Low-resource Languages'
 authors: Kholodna Nataliia, Julka Sahib, Khodadadi Mohammad, Gumus Muhammed Nurullah, Granitzer Michael
 conference: "Arxiv"
 year: 2024

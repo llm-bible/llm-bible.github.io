@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: SEC-QA&#58; A Systematic Evaluation Corpus For Financial QA
+title: 'SEC-QA: A Systematic Evaluation Corpus For Financial QA'
 authors: Lai Viet Dac, Krumdick Michael, Lovering Charles, Reddy Varshini, Schmidt Craig, Tanner Chris
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Lyra&#58; A Benchmark For Turducken-style Code Generation
+title: 'Lyra: A Benchmark For Turducken-style Code Generation'
 authors: Liang Qingyuan, Sun Zeyu, Zhu Qihao, Zhang Wenjie, Yu Lian, Xiong Yingfei, Zhang Lu
 conference: "Arxiv"
 year: 2021

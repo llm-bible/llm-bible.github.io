@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: A Preliminary Study Of Chatgpt On News Recommendation&#58; Personalization, Provider Fairness, Fake News
+title: 'A Preliminary Study Of Chatgpt On News Recommendation: Personalization, Provider Fairness, Fake News'
 authors: Xinyi Li, Yongfeng Zhang, Edward C. Malthouse
 conference: "Arxiv"
 year: 2023

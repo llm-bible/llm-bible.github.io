@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RCMHA&#58; Relative Convolutional Multi-head Attention For Natural Language Modelling
+title: 'RCMHA: Relative Convolutional Multi-head Attention For Natural Language Modelling'
 authors: Sugiharto Herman, Aradea, Mubarok Husni
 conference: "Arxiv"
 year: 2023

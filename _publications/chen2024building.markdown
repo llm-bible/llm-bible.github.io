@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Reinstruct&#58; Building Instruction Data From Unlabeled Corpus
+title: 'Reinstruct: Building Instruction Data From Unlabeled Corpus'
 authors: Chen Shu, Guan Xinyan, Lu Yaojie, Lin Hongyu, Han Xianpei, Sun Le
 conference: "Arxiv"
 year: 2024

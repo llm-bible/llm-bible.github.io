@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llm-barber&#58; Block-aware Rebuilder For Sparsity Mask In One-shot For Large Language Models
+title: 'Llm-barber: Block-aware Rebuilder For Sparsity Mask In One-shot For Large Language Models'
 authors: Su Yupeng, Guan Ziyi, Liu Xiaoqun, Jin Tianlai, Wu Dongkuan, Chesi Graziano, Wong Ngai, Yu Hao
 conference: "Arxiv"
 year: 2024

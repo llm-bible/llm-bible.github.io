@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Ebms Vs. CL&#58; Exploring Self-supervised Visual Pretraining For Visual Question Answering
+title: 'Ebms Vs. CL: Exploring Self-supervised Visual Pretraining For Visual Question Answering'
 authors: Shevchenko Violetta, Abbasnejad Ehsan, Dick Anthony, Hengel Anton Van Den, Teney Damien
 conference: "Arxiv"
 year: 2022

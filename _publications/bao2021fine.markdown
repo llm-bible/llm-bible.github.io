@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: S2s-ft&#58; Fine-tuning Pretrained Transformer Encoders For Sequence-to-sequence Learning
+title: 'S2s-ft: Fine-tuning Pretrained Transformer Encoders For Sequence-to-sequence Learning'
 authors: Bao Hangbo, Dong Li, Wang Wenhui, Yang Nan, Wei Furu
 conference: "Arxiv"
 year: 2021

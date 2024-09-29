@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multimodal Explanations&#58; Justifying Decisions And Pointing To The Evidence
+title: 'Multimodal Explanations: Justifying Decisions And Pointing To The Evidence'
 authors: Park Dong Huk, Hendricks Lisa Anne, Akata Zeynep, Rohrbach Anna, Schiele Bernt, Darrell Trevor, Rohrbach Marcus
 conference: "Arxiv"
 year: 2018

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pmoe&#58; Progressive Mixture Of Experts With Asymmetric Transformer For Continual Learning
+title: 'Pmoe: Progressive Mixture Of Experts With Asymmetric Transformer For Continual Learning'
 authors: Jung Min Jae, Kim Joohee
 conference: "Arxiv"
 year: 2024

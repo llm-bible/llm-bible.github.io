@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Visualgpt&#58; Data-efficient Adaptation Of Pretrained Language Models For Image Captioning
+title: 'Visualgpt: Data-efficient Adaptation Of Pretrained Language Models For Image Captioning'
 authors: Chen Jun, Guo Han, Yi Kai, Li Boyang, Elhoseiny Mohamed
 conference: "Arxiv"
 year: 2021

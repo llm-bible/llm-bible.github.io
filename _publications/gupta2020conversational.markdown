@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Conversational Machine Comprehension&#58; A Literature Review
+title: 'Conversational Machine Comprehension: A Literature Review'
 authors: Gupta Somil, Rawat Bhanu Pratap Singh, Yu Hong
 conference: "Arxiv"
 year: 2020

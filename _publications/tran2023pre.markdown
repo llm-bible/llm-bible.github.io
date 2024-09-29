@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bartphobeit&#58; Pre-trained Sequence-to-sequence And Image Transformers Models For Vietnamese Visual Question Answering
+title: 'Bartphobeit: Pre-trained Sequence-to-sequence And Image Transformers Models For Vietnamese Visual Question Answering'
 authors: Tran Khiem Vinh, Van Nguyen Kiet, Nguyen Ngan Luu Thuy
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Menatqa&#58; A New Dataset For Testing The Temporal Comprehension And Reasoning Abilities Of Large Language Models
+title: 'Menatqa: A New Dataset For Testing The Temporal Comprehension And Reasoning Abilities Of Large Language Models'
 authors: Wei Yifan, Su Yisong, Ma Huanhuan, Yu Xiaoyan, Lei Fangyu, Zhang Yuanzhe, Zhao Jun, Liu Kang
 conference: "Arxiv"
 year: 2023

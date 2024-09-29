@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Advancing Generative AI For Portuguese With Open Decoder Gerv\'asio PT*
+title: Advancing Generative AI For Portuguese With Open Decoder Gerv\''asio PT*
 authors: Santos Rodrigo, Silva João, Gomes Luís, Rodrigues João, Branco António
 conference: "Arxiv"
 year: 2024

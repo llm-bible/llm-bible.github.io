@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: XAI For All&#58; Can Large Language Models Simplify Explainable AI?
+title: 'XAI For All: Can Large Language Models Simplify Explainable AI?'
 authors: Mavrepis Philip, Makridis Georgios, Fatouros Georgios, Koukos Vasileios, Separdani Maria Margarita, Kyriazis Dimosthenis
 conference: "Arxiv"
 year: 2024

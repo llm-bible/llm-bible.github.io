@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: POEM&#58; Interactive Prompt Optimization For Enhancing Multimodal Reasoning Of Large Language Models
+title: 'POEM: Interactive Prompt Optimization For Enhancing Multimodal Reasoning Of Large Language Models'
 authors: He Jianben, Wang Xingbo, Liu Shiyi, Wu Guande, Silva Claudio, Qu Huamin
 conference: "Arxiv"
 year: 2024

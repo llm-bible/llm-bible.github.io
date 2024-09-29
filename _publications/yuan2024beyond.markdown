@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Under-alignment&#58; Atomic Preference Enhanced Factuality Tuning For Large Language Models
+title: 'Beyond Under-alignment: Atomic Preference Enhanced Factuality Tuning For Large Language Models'
 authors: Yuan Hongbang, Chen Yubo, Cao Pengfei, Jin Zhuoran, Liu Kang, Zhao Jun
 conference: "Arxiv"
 year: 2024

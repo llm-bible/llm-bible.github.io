@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Trol&#58; Traversal Of Layers For Large Language And Vision Models
+title: 'Trol: Traversal Of Layers For Large Language And Vision Models'
 authors: Lee Byung-kwan, Chung Sangyun, Kim Chae Won, Park Beomchan, Ro Yong Man
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Smoothllm&#58; Defending Large Language Models Against Jailbreaking Attacks
+title: 'Smoothllm: Defending Large Language Models Against Jailbreaking Attacks'
 authors: Robey Alexander, Wong Eric, Hassani Hamed, Pappas George J.
 conference: "Arxiv"
 year: 2023

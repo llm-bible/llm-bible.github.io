@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: APOLLO&#58; A Simple Approach For Adaptive Pretraining Of Language Models For Logical Reasoning
+title: 'APOLLO: A Simple Approach For Adaptive Pretraining Of Language Models For Logical Reasoning'
 authors: Sanyal Soumya, Xu Yichong, Wang Shuohang, Yang Ziyi, Pryzant Reid, Yu Wenhao, Zhu Chenguang, Ren Xiang
 conference: "Arxiv"
 year: 2022

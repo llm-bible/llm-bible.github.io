@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Trueteacher&#58; Learning Factual Consistency Evaluation With Large Language Models
+title: 'Trueteacher: Learning Factual Consistency Evaluation With Large Language Models'
 authors: Gekhman Zorik, Herzig Jonathan, Aharoni Roee, Elkind Chen, Szpektor Idan
 conference: "Arxiv"
 year: 2023

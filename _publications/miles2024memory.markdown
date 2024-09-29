@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Velora&#58; Memory Efficient Training Using Rank-1 Sub-token Projections
+title: 'Velora: Memory Efficient Training Using Rank-1 Sub-token Projections'
 authors: Miles Roy, Reddy Pradyumna, Elezi Ismail, Deng Jiankang
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: BIDER&#58; Bridging Knowledge Inconsistency For Efficient Retrieval-augmented Llms Via Key Supporting Evidence
+title: 'BIDER: Bridging Knowledge Inconsistency For Efficient Retrieval-augmented Llms Via Key Supporting Evidence'
 authors: Jin Jiajie, Zhu Yutao, Zhou Yujia, Dou Zhicheng
 conference: "Arxiv"
 year: 2024

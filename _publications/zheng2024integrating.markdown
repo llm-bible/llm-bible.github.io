@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Opencodeinterpreter&#58; Integrating Code Generation With Execution And Refinement
+title: 'Opencodeinterpreter: Integrating Code Generation With Execution And Refinement'
 authors: Zheng Tianyu, Zhang Ge, Shen Tianhao, Liu Xueling, Lin Bill Yuchen, Fu Jie, Chen Wenhu, Yue Xiang
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Let Models Speak Ciphers&#58; Multiagent Debate Through Embeddings
+title: 'Let Models Speak Ciphers: Multiagent Debate Through Embeddings'
 authors: Pham Chau, Liu Boyi, Yang Yingxiang, Chen Zhengyu, Liu Tianyi, Yuan Jianbo, Plummer Bryan A., Wang Zhaoran, Yang Hongxia
 conference: "Arxiv"
 year: 2023

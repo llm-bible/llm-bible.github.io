@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Deduction Under Perturbed Evidence&#58; Probing Student Simulation Capabilities Of Large Language Models
+title: 'Deduction Under Perturbed Evidence: Probing Student Simulation Capabilities Of Large Language Models'
 authors: Sonkar Shashank, Baraniuk Richard G.
 conference: "Arxiv"
 year: 2023

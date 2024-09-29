@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: CPM-2&#58; Large-scale Cost-effective Pre-trained Language Models
+title: 'CPM-2: Large-scale Cost-effective Pre-trained Language Models'
 authors: Zhengyan Zhang, Yuxian Gu, Xu Han, Shengqi Chen, Chaojun Xiao, Zhenbo Sun, Yuan Yao, Fanchao Qi, Jian Guan, Pei Ke, Yanzheng Cai, Guoyang Zeng, Zhixing Tan, Zhiyuan Liu, Minlie Huang, Wentao Han, Yang Liu, Xiaoyan Zhu, Maosong Sun
 conference: "Arxiv"
 year: 2021

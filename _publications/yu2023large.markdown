@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Model As Attributed Training Data Generator&#58; A Tale Of Diversity And Bias
+title: 'Large Language Model As Attributed Training Data Generator: A Tale Of Diversity And Bias'
 authors: Yu Yue, Zhuang Yuchen, Zhang Jieyu, Meng Yu, Ratner Alexander, Krishna Ranjay, Shen Jiaming, Zhang Chao
 conference: "NeurIPS"
 year: 2023

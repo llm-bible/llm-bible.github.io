@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Writing User Personas With Large Language Models&#58; Testing Phase 6 Of A Thematic Analysis Of Semi-structured Interviews
+title: 'Writing User Personas With Large Language Models: Testing Phase 6 Of A Thematic Analysis Of Semi-structured Interviews'
 authors: De Paoli Stefano
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Xmainframe&#58; A Large Language Model For Mainframe Modernization
+title: 'Xmainframe: A Large Language Model For Mainframe Modernization'
 authors: Dau Anh T. V., Dao Hieu Trung, Nguyen Anh Tuan, Tran Hieu Trung, Nguyen Phong X., Bui Nghi D. Q.
 conference: "Arxiv"
 year: 2024

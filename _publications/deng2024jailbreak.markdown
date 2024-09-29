@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Pandora&#58; Jailbreak Gpts By Retrieval Augmented Generation Poisoning
+title: 'Pandora: Jailbreak Gpts By Retrieval Augmented Generation Poisoning'
 authors: Deng Gelei, Liu Yi, Wang Kailong, Li Yuekang, Zhang Tianwei, Liu Yang
 conference: "Arxiv"
 year: 2024

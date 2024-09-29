@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Robut&#58; A Systematic Study Of Table QA Robustness Against Human-annotated Adversarial Perturbations
+title: 'Robut: A Systematic Study Of Table QA Robustness Against Human-annotated Adversarial Perturbations'
 authors: Zhao Yilun, Zhao Chen, Nan Linyong, Qi Zhenting, Zhang Wenlin, Tang Xiangru, Mi Boyu, Radev Dragomir
 conference: "Arxiv"
 year: 2023

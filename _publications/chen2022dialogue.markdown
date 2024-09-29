@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DFM&#58; Dialogue Foundation Model For Universal Large-scale Dialogue-oriented Task Learning
+title: 'DFM: Dialogue Foundation Model For Universal Large-scale Dialogue-oriented Task Learning'
 authors: Chen Zhi, Bao Jijia, Chen Lu, Liu Yuncong, Ma Da, Chen Bei, Wu Mengyue, Zhu Su, Dong Xin, Ge Fujiang, Miao Qingliang, Lou Jian-guang, Yu Kai
 conference: "Arxiv"
 year: 2022

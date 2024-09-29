@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Flawn-t5&#58; An Empirical Examination Of Effective Instruction-tuning Data Mixtures For Legal Reasoning
+title: 'Flawn-t5: An Empirical Examination Of Effective Instruction-tuning Data Mixtures For Legal Reasoning'
 authors: Niklaus Joel, Zheng Lucia, Mccarthy Arya D., Hahn Christopher, Rosen Brian M., Henderson Peter, Ho Daniel E., Honke Garrett, Liang Percy, Manning Christopher
 conference: "Arxiv"
 year: 2024

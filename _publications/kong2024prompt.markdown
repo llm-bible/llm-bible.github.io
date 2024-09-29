@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prewrite&#58; Prompt Rewriting With Reinforcement Learning
+title: 'Prewrite: Prompt Rewriting With Reinforcement Learning'
 authors: Kong Weize, Hombaiah Spurthi Amba, Zhang Mingyang, Mei Qiaozhu, Bendersky Michael
 conference: "Arxiv"
 year: 2024

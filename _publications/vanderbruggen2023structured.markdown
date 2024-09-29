@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Structured Thoughts Automaton&#58; First Formalized Execution Model For Auto-regressive Language Models
+title: 'Structured Thoughts Automaton: First Formalized Execution Model For Auto-regressive Language Models'
 authors: Vanderbruggen Tristan, Liao Chunhua, Pirkelbauer Peter, Lin Pei-hung
 conference: "Arxiv"
 year: 2023

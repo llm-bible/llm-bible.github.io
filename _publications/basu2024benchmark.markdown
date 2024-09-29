@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: NESTFUL&#58; A Benchmark For Evaluating Llms On Nested Sequences Of API Calls
+title: 'NESTFUL: A Benchmark For Evaluating Llms On Nested Sequences Of API Calls'
 authors: Basu Kinjal, Abdelaziz Ibrahim, Bradford Kelsey, Crouse Maxwell, Kate Kiran, Kumaravel Sadhana, Goyal Saurabh, Munawar Asim, Rizk Yara, Wang Xin, Lastras Luis, Kapanipathi Pavan
 conference: "Arxiv"
 year: 2024

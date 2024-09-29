@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: When Giant Language Brains Just Aren't Enough! Domain Pizzazz With Knowledge Sparkle Dust
+title: When Giant Language Brains Just Aren''t Enough! Domain Pizzazz With Knowledge Sparkle Dust
 authors: Nguyen Minh-tien, Nguyen Duy-hung, Sabahi Shahab, Le Hung, Yang Jeff, Hotta Hajime
 conference: "Arxiv"
 year: 2023

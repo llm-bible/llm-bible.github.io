@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Skymath&#58; Technical Report
+title: 'Skymath: Technical Report'
 authors: Yang Liu, Yang Haihua, Cheng Wenjun, Lin Lei, Li Chenxia, Chen Yifu, Liu Lunan, Pan Jianfei, Wei Tianwen, Li Biye, Zhao Liang, Wang Lijie, Zhu Bo, Li Guoliang, Wu Xuejie, Luo Xilin, Hu Rui
 conference: "Arxiv"
 year: 2023

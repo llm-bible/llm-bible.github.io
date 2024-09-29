@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Hallucidoctor&#58; Mitigating Hallucinatory Toxicity In Visual Instruction Data
+title: 'Hallucidoctor: Mitigating Hallucinatory Toxicity In Visual Instruction Data'
 authors: Qifan Yu, Juncheng Li, Longhui Wei, Liang Pang, Wentao Ye, Bosheng Qin, Siliang Tang, Qi Tian, Yueting Zhuang
 conference: "Arxiv"
 year: 2023

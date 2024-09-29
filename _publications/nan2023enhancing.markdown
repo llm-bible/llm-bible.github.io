@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Enhancing Few-shot Text-to-sql Capabilities Of Large Language Models&#58; A Study On Prompt Design Strategies
+title: 'Enhancing Few-shot Text-to-sql Capabilities Of Large Language Models: A Study On Prompt Design Strategies'
 authors: Nan Linyong, Zhao Yilun, Zou Weijin, Ri Narutatsu, Tae Jaesung, Zhang Ellen, Cohan Arman, Radev Dragomir
 conference: "Arxiv"
 year: 2023

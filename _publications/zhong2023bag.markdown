@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bag Of Tricks For Effective Language Model Pretraining And Downstream Adaptation&#58; A Case Study On GLUE
+title: 'Bag Of Tricks For Effective Language Model Pretraining And Downstream Adaptation: A Case Study On GLUE'
 authors: Zhong Qihuang, Ding Liang, Peng Keqin, Liu Juhua, Du Bo, Shen Li, Zhan Yibing, Tao Dacheng
 conference: "Arxiv"
 year: 2023

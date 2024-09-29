@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Babilong&#58; Testing The Limits Of Llms With Long Context Reasoning-in-a-haystack
+title: 'Babilong: Testing The Limits Of Llms With Long Context Reasoning-in-a-haystack'
 authors: Kuratov Yuri, Bulatov Aydar, Anokhin Petr, Rodkin Ivan, Sorokin Dmitry, Sorokin Artyom, Burtsev Mikhail
 conference: "Arxiv"
 year: 2024

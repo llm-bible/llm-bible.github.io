@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: RCOT&#58; Detecting And Rectifying Factual Inconsistency In Reasoning By Reversing Chain-of-thought
+title: 'RCOT: Detecting And Rectifying Factual Inconsistency In Reasoning By Reversing Chain-of-thought'
 authors: Xue Tianci, Wang Ziqi, Wang Zhenhailong, Han Chi, Yu Pengfei, Ji Heng
 conference: "Arxiv"
 year: 2023

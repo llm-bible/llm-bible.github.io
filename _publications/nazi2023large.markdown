@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models In Healthcare And Medical Domain&#58; A Review
+title: 'Large Language Models In Healthcare And Medical Domain: A Review'
 authors: Nazi Zabir Al, Peng Wei
 conference: "Arxiv"
 year: 2023

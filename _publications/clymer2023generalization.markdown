@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Generalization Analogies&#58; A Testbed For Generalizing AI Oversight To Hard-to-measure Domains
+title: 'Generalization Analogies: A Testbed For Generalizing AI Oversight To Hard-to-measure Domains'
 authors: Clymer Joshua, Baker Garrett, Subramani Rohan, Wang Sam
 conference: "Arxiv"
 year: 2023

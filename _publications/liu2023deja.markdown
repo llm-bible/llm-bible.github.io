@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Deja Vu&#58; Contextual Sparsity For Efficient Llms At Inference Time
+title: 'Deja Vu: Contextual Sparsity For Efficient Llms At Inference Time'
 authors: Liu Zichang, Wang Jue, Dao Tri, Zhou Tianyi, Yuan Binhang, Song Zhao, Shrivastava Anshumali, Zhang Ce, Tian Yuandong, Re Christopher, Chen Beidi
 conference: "Proceedings of the"
 year: 2023

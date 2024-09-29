@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Strategic Chain-of-thought&#58; Guiding Accurate Reasoning In Llms Through Strategy Elicitation
+title: 'Strategic Chain-of-thought: Guiding Accurate Reasoning In Llms Through Strategy Elicitation'
 authors: Wang Yu, Zhao Shiwan, Wang Zhihu, Huang Heyuan, Fan Ming, Zhang Yubo, Wang Zhixing, Wang Haijun, Liu Ting
 conference: "Arxiv"
 year: 2024

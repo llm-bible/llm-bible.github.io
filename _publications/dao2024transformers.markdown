@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Transformers Are Ssms&#58; Generalized Models And Efficient Algorithms Through Structured State Space Duality
+title: 'Transformers Are Ssms: Generalized Models And Efficient Algorithms Through Structured State Space Duality'
 authors: Tri Dao, Albert Gu
 conference: "Arxiv"
 year: 2024

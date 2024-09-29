@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Multilora&#58; Democratizing Lora For Better Multi-task Learning
+title: 'Multilora: Democratizing Lora For Better Multi-task Learning'
 authors: Wang Yiming, Lin Yu, Zeng Xiaodong, Zhang Guannan
 conference: "Arxiv"
 year: 2023

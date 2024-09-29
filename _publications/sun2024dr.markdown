@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Dr-llava&#58; Visual Instruction Tuning With Symbolic Clinical Grounding
+title: 'Dr-llava: Visual Instruction Tuning With Symbolic Clinical Grounding'
 authors: Sun Shenghuan, Goldgof Gregory M., Schubert Alexander, Sun Zhiqing, Hartvigsen Thomas, Butte Atul J., Alaa Ahmed
 conference: "Arxiv"
 year: 2024

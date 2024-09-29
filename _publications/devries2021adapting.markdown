@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Adapting Monolingual Models&#58; Data Can Be Scarce When Language Similarity Is High
+title: 'Adapting Monolingual Models: Data Can Be Scarce When Language Similarity Is High'
 authors: De Vries Wietse, Bartelds Martijn, Nissim Malvina, Wieling Martijn
 conference: "Findings of the Association for Computational Linguistics ACL-IJCNLP"
 year: 2021

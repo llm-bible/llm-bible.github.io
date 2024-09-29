@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: \'evaluation Des Capacit\'es De R\'eponse De Larges Mod\`eles De Langage (LLM) Pour Des Questions D'historiens
+title: \''evaluation Des Capacit\''es De R\''eponse De Larges Mod\`eles De Langage (LLM) Pour Des Questions D''historiens
 authors: Chartier Mathieu, Dakkoune Nabil, Bourgeois Guillaume, Jean Stéphane
 conference: "Arxiv"
 year: 2024

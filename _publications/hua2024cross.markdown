@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: V2xum-llm&#58; Cross-modal Video Summarization With Temporal Prompt Instruction Tuning
+title: 'V2xum-llm: Cross-modal Video Summarization With Temporal Prompt Instruction Tuning'
 authors: Hua Hang, Tang Yunlong, Xu Chenliang, Luo Jiebo
 conference: "Arxiv"
 year: 2024

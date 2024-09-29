@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LSPT&#58; Long-term Spatial Prompt Tuning For Visual Representation Learning
+title: 'LSPT: Long-term Spatial Prompt Tuning For Visual Representation Learning'
 authors: Mo Shentong, Wang Yansen, Luo Xufang, Li Dongsheng
 conference: "Arxiv"
 year: 2024

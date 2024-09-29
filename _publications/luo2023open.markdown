@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Biomedgpt&#58; Open Multimodal Generative Pre-trained Transformer For Biomedicine
+title: 'Biomedgpt: Open Multimodal Generative Pre-trained Transformer For Biomedicine'
 authors: Luo Yizhen, Zhang Jiahuan, Fan Siqi, Yang Kai, Wu Yushuai, Qiao Mu, Nie Zaiqing
 conference: "Arxiv"
 year: 2023

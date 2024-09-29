@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Large Language Models Meet Open-world Intent Discovery And Recognition&#58; An Evaluation Of Chatgpt
+title: 'Large Language Models Meet Open-world Intent Discovery And Recognition: An Evaluation Of Chatgpt'
 authors: Song Xiaoshuai, He Keqing, Wang Pei, Dong Guanting, Mou Yutao, Wang Jingang, Xian Yunsen, Cai Xunliang, Xu Weiran
 conference: "Arxiv"
 year: 2023

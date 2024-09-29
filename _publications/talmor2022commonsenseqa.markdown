@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Commonsenseqa 2.0&#58; Exposing The Limits Of AI Through Gamification
+title: 'Commonsenseqa 2.0: Exposing The Limits Of AI Through Gamification'
 authors: Talmor Alon, Yoran Ori, Bras Ronan Le, Bhagavatula Chandra, Goldberg Yoav, Choi Yejin, Berant Jonathan
 conference: "Arxiv"
 year: 2022

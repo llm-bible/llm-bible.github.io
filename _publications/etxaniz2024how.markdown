@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Bertaqa&#58; How Much Do Language Models Know About Local Culture?
+title: 'Bertaqa: How Much Do Language Models Know About Local Culture?'
 authors: Etxaniz Julen, Azkune Gorka, Soroa Aitor, De Lacalle Oier Lopez, Artetxe Mikel
 conference: "Arxiv"
 year: 2024

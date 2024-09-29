@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Laffi&#58; Leveraging Hybrid Natural Language Feedback For Fine-tuning Language Models
+title: 'Laffi: Leveraging Hybrid Natural Language Feedback For Fine-tuning Language Models'
 authors: Li Qianxi, Cao Yingyue, Kang Jikun, Yang Tianpei, Chen Xi, Jin Jun, Taylor Matthew E.
 conference: "Arxiv"
 year: 2023

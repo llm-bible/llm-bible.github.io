@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: GENOME&#58; Generative Neuro-symbolic Visual Reasoning By Growing And Reusing Modules
+title: 'GENOME: Generative Neuro-symbolic Visual Reasoning By Growing And Reusing Modules'
 authors: Chen Zhenfang, Sun Rui, Liu Wenjun, Hong Yining, Gan Chuang
 conference: "Arxiv"
 year: 2023

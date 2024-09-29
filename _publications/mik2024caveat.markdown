@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Caveat Lector&#58; Large Language Models In Legal Practice
+title: 'Caveat Lector: Large Language Models In Legal Practice'
 authors: Mik Eliza
 conference: "Arxiv"
 year: 2024

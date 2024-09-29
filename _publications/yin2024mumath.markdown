@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Mumath-code&#58; Combining Tool-use Large Language Models With Multi-perspective Data Augmentation For Mathematical Reasoning
+title: 'Mumath-code: Combining Tool-use Large Language Models With Multi-perspective Data Augmentation For Mathematical Reasoning'
 authors: Yin Shuo, You Weihao, Ji Zhilong, Zhong Guoqiang, Bai Jinfeng
 conference: "Arxiv"
 year: 2024

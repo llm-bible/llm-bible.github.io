@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Connecting The Dots&#58; Llms Can Infer And Verbalize Latent Structure From Disparate Training Data
+title: 'Connecting The Dots: Llms Can Infer And Verbalize Latent Structure From Disparate Training Data'
 authors: Treutlein Johannes, Choi Dami, Betley Jan, Anil Cem, Marks Samuel, Grosse Roger Baker, Evans Owain
 conference: "Arxiv"
 year: 2024

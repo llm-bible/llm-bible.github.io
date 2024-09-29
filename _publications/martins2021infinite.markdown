@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: $\(\infty\)$-former&#58; Infinite Memory Transformer
+title: '$\(\infty\)$-former: Infinite Memory Transformer'
 authors: Martins Pedro Henrique, Marinho Zita, Martins André F. T.
 conference: "Arxiv"
 year: 2021

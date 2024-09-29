@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Medlm&#58; Exploring Language Models For Medical Question Answering Systems
+title: 'Medlm: Exploring Language Models For Medical Question Answering Systems'
 authors: Yagnik Niraj, Jhaveri Jay, Sharma Vivek, Pila Gabriel
 conference: "Arxiv"
 year: 2024

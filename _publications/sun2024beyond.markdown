@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Beyond Text&#58; Utilizing Vocal Cues To Improve Decision Making In Llms For Robot Navigation Tasks
+title: 'Beyond Text: Utilizing Vocal Cues To Improve Decision Making In Llms For Robot Navigation Tasks'
 authors: Sun Xingpeng, Meng Haoming, Chakraborty Souradip, Bedi Amrit Singh, Bera Aniket
 conference: "Arxiv"
 year: 2024

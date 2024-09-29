@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Neural Text Generation&#58; A Practical Guide
+title: 'Neural Text Generation: A Practical Guide'
 authors: Xie Ziang
 conference: "Arxiv"
 year: 2017

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Sandwich Attack&#58; Multi-language Mixture Adaptive Attack On Llms
+title: 'Sandwich Attack: Multi-language Mixture Adaptive Attack On Llms'
 authors: Upadhayay Bibek, Behzadan Vahid
 conference: "Arxiv"
 year: 2024

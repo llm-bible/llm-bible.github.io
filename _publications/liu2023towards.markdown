@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: LLM360&#58; Towards Fully Transparent Open-source Llms
+title: 'LLM360: Towards Fully Transparent Open-source Llms'
 authors: Liu Zhengzhong, Qiao Aurick, Neiswanger Willie, Wang Hongyi, Tan Bowen, Tao Tianhua, Li Junbo, Wang Yuqi, Sun Suqi, Pangarkar Omkar, Fan Richard, Gu Yi, Miller Victor, Zhuang Yonghao, He Guowei, Li Haonan, Koto Fajri, Tang Liping, Ranjan Nikhil, Shen Zhiqiang, Ren Xuguang, Iriondo Roberto, Mu Cun, Hu Zhiting, Schulze Mark, Nakov Preslav, Baldwin Tim, Xing Eric P.
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Llms Meet Long Video&#58; Advancing Long Video Question Answering With An Interactive Visual Adapter In Llms
+title: 'Llms Meet Long Video: Advancing Long Video Question Answering With An Interactive Visual Adapter In Llms'
 authors: Li Yunxin, Chen Xinyu, Hu Baotain, Zhang Min
 conference: "Arxiv"
 year: 2024

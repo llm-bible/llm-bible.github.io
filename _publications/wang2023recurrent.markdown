@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: READ&#58; Recurrent Adaptation Of Large Transformers
+title: 'READ: Recurrent Adaptation Of Large Transformers'
 authors: Wang Sid, Nguyen John, Li Ke, Wu Carole-jean
 conference: "Arxiv"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Roberta&#58; A Robustly Optimized BERT Pretraining Approach
+title: 'Roberta: A Robustly Optimized BERT Pretraining Approach'
 authors: Liu Yinhan, Ott Myle, Goyal Naman, Du Jingfei, Joshi Mandar, Chen Danqi, Levy Omer, Lewis Mike, Zettlemoyer Luke, Stoyanov Veselin
 conference: "Arxiv"
 year: 2019

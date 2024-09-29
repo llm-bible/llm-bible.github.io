@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cinepile&#58; A Long Video Question Answering Dataset And Benchmark
+title: 'Cinepile: A Long Video Question Answering Dataset And Benchmark'
 authors: Rawal Ruchit, Saifullah Khalid, Basri Ronen, Jacobs David, Somepalli Gowthami, Goldstein Tom
 conference: "Arxiv"
 year: 2024

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: UT5&#58; Pretraining Non Autoregressive T5 With Unrolled Denoising
+title: 'UT5: Pretraining Non Autoregressive T5 With Unrolled Denoising'
 authors: Salem Mahmoud G., Ye Jiayu, Lin Chu-cheng, Liu Frederick
 conference: "Arxiv"
 year: 2023

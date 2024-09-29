@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Prompt Cache&#58; Modular Attention Reuse For Low-latency Inference
+title: 'Prompt Cache: Modular Attention Reuse For Low-latency Inference'
 authors: Gim In, Chen Guojun, Lee Seung-seob, Sarda Nikhil, Khandelwal Anurag, Zhong Lin
 conference: "Arxiv"
 year: 2023
