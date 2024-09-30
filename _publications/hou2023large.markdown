@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: hou2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2305.08845v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2305.08845v2"}
   - {name: "Code", url: "https://github.com/RUCAIBox/LLMRank"}
 tags: ['Ethics And Bias', 'GPT', 'Has Code', 'Model Architecture', 'Prompting']
 ---

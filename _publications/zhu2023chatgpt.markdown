@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhu2023chatgpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2303.06594v1"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2303.06594v1"}
   - {name: "Code", url: "https://github.com/Vision-CAIR/ChatCaptioner"}
 tags: ['Applications', 'GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---

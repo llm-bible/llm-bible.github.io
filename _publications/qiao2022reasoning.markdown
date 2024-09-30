@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: qiao2022reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2212.09597v8"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2212.09597v8"}
   - {name: "Code", url: "https://github.com/zjunlp/Prompt4ReasoningPapers"}
 tags: ['Applications', 'Has Code', 'Merging', 'Pretraining Methods', 'Prompting', 'Reinforcement Learning', 'Survey Paper']
 ---

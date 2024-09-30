@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: yu2023rlhf
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2312.00849v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2312.00849v2"}
   - {name: "Code", url: "https://github.com/RLHF-V/RLHF-V"}
 tags: ['Applications', 'Efficiency And Optimization', 'GPT', 'Has Code', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Security']
 ---

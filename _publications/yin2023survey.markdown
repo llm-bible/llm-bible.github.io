@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: yin2023survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2306.13549v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2306.13549v2"}
   - {name: "Code", url: "https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models"}
 tags: ['GPT', 'Has Code', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Survey Paper', 'Training Techniques']
 ---

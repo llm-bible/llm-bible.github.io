@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: liu2024paying
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2407.21771v1"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2407.21771v1"}
   - {name: "Code", url: "https://lalbj.github.io/projects/PAI/"}
 tags: ['Applications', 'Attention Mechanism', 'Ethics And Bias', 'Has Code', 'Language Modeling', 'Model Architecture', 'Multimodal Models', 'RAG', 'Training Techniques']
 ---

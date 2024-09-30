@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023visual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2308.12714v3"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2308.12714v3"}
   - {name: "Code", url: "https://opendatalab.github.io/VIGC"}
 tags: ['Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'Multimodal Models', 'RAG', 'Tools']
 ---

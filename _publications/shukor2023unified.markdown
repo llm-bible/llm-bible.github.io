@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: shukor2023unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2307.16184v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2307.16184v2"}
   - {name: "Code", url: "https://github.com/mshukor/UnIVAL"}
 tags: ['Agentic', 'Has Code', 'Merging', 'Multimodal Models', 'Reinforcement Learning', 'Tools']
 ---

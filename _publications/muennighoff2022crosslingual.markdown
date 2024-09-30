@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: muennighoff2022crosslingual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2211.01786v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2211.01786v2"}
   - {name: "Code", url: "https://github.com/bigscience-workshop/xmtf"}
 tags: ['Fine Tuning', 'Has Code', 'Pretraining Methods', 'Prompting', 'Training Techniques']
 ---

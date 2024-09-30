@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhu2023collaborative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2311.01343v4"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2311.01343v4"}
   - {name: "Code", url: "https://github.com/yaochenzhu/llm4rec"}
 tags: ['Has Code', 'Language Modeling', 'Pretraining Methods', 'Prompting', 'RAG']
 ---

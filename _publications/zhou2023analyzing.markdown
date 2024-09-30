@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhou2023analyzing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2310.00754v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2310.00754v2"}
   - {name: "Code", url: "https://github.com/YiyangZhou/LURE"}
 tags: ['Applications', 'GPT', 'Has Code', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---

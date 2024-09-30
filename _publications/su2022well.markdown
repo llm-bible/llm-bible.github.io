@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: su2022well
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2209.10372v5"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2209.10372v5"}
   - {name: "Code", url: "https://welm.weixin.qq.com/docs/api/"}
 tags: ['Few Shot', 'Has Code', 'Pretraining Methods', 'Prompting', 'Tools', 'Training Techniques']
 ---

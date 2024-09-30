@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023generative
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2310.10108v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2310.10108v2"}
   - {name: "Code", url: "https://github.com/LehengTHU/Agent4Rec"}
 tags: ['Agentic', 'Ethics And Bias', 'Has Code', 'RAG', 'Reinforcement Learning', 'Tools']
 ---

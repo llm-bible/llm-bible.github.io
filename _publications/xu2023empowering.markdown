@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023empowering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2304.12244v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2304.12244v2"}
   - {name: "Code", url: "https://github.com/nlpxucan/WizardLM"}
 tags: ['Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'Pretraining Methods', 'Training Techniques']
 ---

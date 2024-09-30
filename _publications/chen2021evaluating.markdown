@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2021
 bibkey: chen2021evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2107.03374v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2107.03374v2"}
 tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting', 'Responsible AI', 'Security']
 ---
 We introduce Codex a GPT language model fine-tuned on publicly available code from GitHub and study its Python code-writing capabilities. A distinct production version of Codex powers GitHub Copilot. On HumanEval a new evaluation set we release to measure functional correctness for synthesizing programs from docstrings our model solves 28.837; of the problems while GPT-3 solves 037; and GPT-J solves 11.437;. Furthermore we find that repeated sampling from the model is a surprisingly effective strategy for producing working solutions to difficult prompts. Using this method we solve 70.237; of our problems with 100 samples per problem. Careful investigation of our model reveals its limitations including difficulty with docstrings describing long chains of operations and with binding operations to variables. Finally we discuss the potential broader impacts of deploying powerful code generation technologies covering safety security and economics.

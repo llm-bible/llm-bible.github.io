@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023beyond
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2311.16839v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2311.16839v2"}
   - {name: "Code", url: "https://opendatalab.github.io/HA-DPO"}
 tags: ['Efficiency And Optimization', 'GPT', 'Has Code', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
 ---

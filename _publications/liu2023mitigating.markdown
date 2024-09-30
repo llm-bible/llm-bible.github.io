@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: liu2023mitigating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2306.14565v4"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2306.14565v4"}
   - {name: "Code", url: "https://github.com/FuxiaoLiu/LRV-Instruction"}
 tags: ['GPT', 'Has Code', 'Model Architecture', 'Pretraining Methods', 'Reinforcement Learning', 'Training Techniques']
 ---

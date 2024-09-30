@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: yang2023teaching
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2305.18752v1"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2305.18752v1"}
   - {name: "Code", url: "https://github.com/StevenGrove/GPT4Tools"}
 tags: ['Efficiency And Optimization', 'Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods', 'Prompting', 'Tools', 'Training Techniques']
 ---

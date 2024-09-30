@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: ye2023mplug
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2304.14178v3"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2304.14178v3"}
   - {name: "Code", url: "https://github.com/X-PLUG/mPLUG-Owl"}
   - {name: "Code", url: "https://www.modelscope.cn/studios/damo/mPLUG-Owl"}
 tags: ['Fine Tuning', 'Has Code', 'Multimodal Models', 'RAG', 'Reinforcement Learning', 'Training Techniques']

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2021
 bibkey: j2021low
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2106.09685v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2106.09685v2"}
   - {name: "Code", url: "https://github.com/microsoft/LoRA"}
 tags: ['BERT', 'Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'Pretraining Methods', 'Training Techniques', 'Transformer']
 ---

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023then
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2303.02151v1"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2303.02151v1"}
   - {name: "Code", url: "https://github.com/ZrrSkywalker/CaFo"}
 tags: ['Few Shot', 'GPT', 'Has Code', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'RAG', 'Training Techniques']
 ---

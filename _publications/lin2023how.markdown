@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: lin2023how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2306.05817v6"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2306.05817v6"}
   - {name: "Code", url: "https://github.com/CHIANGEL/Awesome-LLM-for-RecSys/"}
 tags: ['Efficiency And Optimization', 'Ethics And Bias', 'Has Code', 'Reinforcement Learning', 'Responsible AI', 'Survey Paper', 'Tools', 'Training Techniques']
 ---

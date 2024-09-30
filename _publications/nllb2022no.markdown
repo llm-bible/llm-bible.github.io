@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: nllb2022no
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2207.04672v3"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2207.04672v3"}
   - {name: "Code", url: "https://github.com/facebookresearch/fairseq/tree/nllb"}
 tags: ['Applications', 'Fine Tuning', 'Has Code', 'Reinforcement Learning', 'Responsible AI', 'Training Techniques']
 ---

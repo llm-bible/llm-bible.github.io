@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhao2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2305.16934v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2305.16934v2"}
   - {name: "Code", url: "https://github.com/yunqing-me/AttackVLM"}
 tags: ['GPT', 'Has Code', 'Model Architecture', 'Multimodal Models', 'Prompting', 'Responsible AI', 'Security']
 ---

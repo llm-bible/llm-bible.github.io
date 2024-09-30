@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: jin2023unified
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2309.04669v3"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2309.04669v3"}
   - {name: "Code", url: "https://github.com/jy0205/LaVIT"}
 tags: ['Applications', 'Has Code', 'Language Modeling', 'Multimodal Models', 'Pretraining Methods', 'Prompting', 'Reinforcement Learning', 'Tokenization', 'Training Techniques']
 ---

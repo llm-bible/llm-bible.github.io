@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023humanoid
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2310.05418v1"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2310.05418v1"}
   - {name: "Code", url: "https://www.humanoidagents.com/"}
   - {name: "Code", url: "https://github.com/HumanoidAgents/HumanoidAgents"}
 tags: ['Agentic', 'Applications', 'Has Code', 'Reinforcement Learning', 'Tools']

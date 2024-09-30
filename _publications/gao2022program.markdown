@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: gao2022program
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2211.10435v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2211.10435v2"}
   - {name: "Code", url: "http://reasonwithpal.com/"}
 tags: ['Few Shot', 'Has Code', 'In Context Learning', 'Prompting']
 ---

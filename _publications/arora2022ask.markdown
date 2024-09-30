@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: arora2022ask
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2210.02441v3"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2210.02441v3"}
   - {name: "Code", url: "https://github.com/HazyResearch/ama_prompting"}
 tags: ['Applications', 'Few Shot', 'GPT', 'Has Code', 'Model Architecture', 'Prompting', 'RAG', 'Training Techniques']
 ---

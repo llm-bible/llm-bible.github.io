@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023zero
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2304.03153v1"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2304.03153v1"}
   - {name: "Code", url: "https://github.com/AGI-Edgerunners/LLM-Next-Item-Rec"}
 tags: ['GPT', 'Has Code', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'Reinforcement Learning', 'Training Techniques']
 ---

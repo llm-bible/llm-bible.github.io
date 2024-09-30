@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: packer2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2310.08560v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2310.08560v2"}
   - {name: "Code", url: "https://memgpt.ai"}
 tags: ['Agentic', 'GPT', 'Has Code', 'Model Architecture', 'Pretraining Methods', 'Reinforcement Learning']
 ---

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: liao2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2312.02445v4"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2312.02445v4"}
   - {name: "Code", url: "https://github.com/ljy0ustc/LLaRA"}
 tags: ['Has Code', 'Language Modeling', 'Pretraining Methods', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---

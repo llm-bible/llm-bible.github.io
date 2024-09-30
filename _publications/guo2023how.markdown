@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: guo2023how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2301.07597v1"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2301.07597v1"}
   - {name: "Code", url: "https://github.com/Hello-SimpleAI/chatgpt-comparison-detection"}
 tags: ['Attention Mechanism', 'GPT', 'Has Code', 'Model Architecture', 'Pretraining Methods', 'Security']
 ---

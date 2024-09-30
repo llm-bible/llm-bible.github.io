@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2310.02071v4"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2310.02071v4"}
   - {name: "Code", url: "https://github.com/pkunlp-icler/PCA-EVAL/"}
 tags: ['Agentic', 'Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'Multimodal Models', 'RAG', 'Reinforcement Learning', 'Tools']
 ---

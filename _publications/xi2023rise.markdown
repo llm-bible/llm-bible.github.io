@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: xi2023rise
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2309.07864v3"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2309.07864v3"}
   - {name: "Code", url: "https://github.com/WooooDyy/LLM-Agent-Paper-List"}
 tags: ['Agentic', 'Applications', 'Has Code', 'RAG', 'Reinforcement Learning', 'Survey Paper', 'Tools', 'Training Techniques']
 ---

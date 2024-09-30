@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2020
 bibkey: roberts2020how
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2002.08910v4"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2002.08910v4"}
   - {name: "Code", url: "https://goo.gle/t5-cbqa"}
 tags: ['Fine Tuning', 'Has Code', 'Pretraining Methods', 'Training Techniques']
 ---

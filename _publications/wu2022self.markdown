@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: wu2022self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2212.10375v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2212.10375v2"}
   - {name: "Code", url: "https://github.com/Shark-NLP/self-adaptive-ICL"}
 tags: ['Few Shot', 'Has Code', 'In Context Learning', 'Prompting', 'Tools']
 ---

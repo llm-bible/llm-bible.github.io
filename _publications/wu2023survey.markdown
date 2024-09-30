@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wu2023survey
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2305.19860v5"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2305.19860v5"}
   - {name: "Code", url: "https://github.com/WLiK/LLM4Rec"}
 tags: ['Attention Mechanism', 'Fine Tuning', 'Has Code', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'RAG', 'Survey Paper', 'Tools', 'Training Techniques']
 ---

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: chen2022large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2210.06710v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2210.06710v2"}
   - {name: "Code", url: "https://github.com/wenhuchen/TableCoT"}
 tags: ['Few Shot', 'Has Code', 'In Context Learning', 'Prompting', 'Reinforcement Learning']
 ---

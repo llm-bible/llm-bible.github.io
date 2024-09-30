@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: ma2023llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2305.11627v3"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2305.11627v3"}
   - {name: "Code", url: "https://github.com/horseee/LLM-Pruner"}
 tags: ['Distillation', 'Efficiency And Optimization', 'Fine Tuning', 'Has Code', 'Pruning', 'Training Techniques']
 ---

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: longpre2023flan
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2301.13688v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2301.13688v2"}
   - {name: "Code", url: "https://github.com/google-research/FLAN/tree/main/flan/v2"}
 tags: ['Few Shot', 'Has Code', 'Pretraining Methods', 'Prompting', 'Reinforcement Learning', 'Training Techniques']
 ---

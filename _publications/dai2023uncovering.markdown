@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: dai2023uncovering
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2305.02182v3"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2305.02182v3"}
   - {name: "Code", url: "https://github.com/rainym00d/LLM4RS"}
 tags: ['Applications', 'Attention Mechanism', 'Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'Prompting']
 ---

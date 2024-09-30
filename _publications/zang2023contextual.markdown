@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zang2023contextual
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2305.18279v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2305.18279v2"}
   - {name: "Code", url: "https://github.com/yuhangzang/ContextDET"}
 tags: ['Applications', 'Has Code', 'Multimodal Models', 'Tools']
 ---

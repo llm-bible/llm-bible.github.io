@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: ren2023representation
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2310.15950v4"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2310.15950v4"}
   - {name: "Code", url: "https://github.com/HKUDS/RLMRec"}
 tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Ethics And Bias', 'Has Code', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Security', 'Tools']
 ---

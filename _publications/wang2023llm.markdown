@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023llm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2311.07397v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2311.07397v2"}
   - {name: "Code", url: "https://github.com/junyangwang0410/AMBER"}
 tags: ['GPT', 'Has Code', 'Model Architecture', 'Multimodal Models']
 ---

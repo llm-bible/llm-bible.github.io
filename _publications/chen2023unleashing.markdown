@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: chen2023unleashing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2306.15195v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2306.15195v2"}
   - {name: "Code", url: "https://github.com/shikras/shikra"}
 tags: ['Applications', 'Has Code', 'Model Architecture', 'Multimodal Models']
 ---

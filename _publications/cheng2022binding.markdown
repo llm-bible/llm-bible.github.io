@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: cheng2022binding
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2210.02875v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2210.02875v2"}
   - {name: "Code", url: "https://github.com/HKUNLP/Binder"}
 tags: ['GPT', 'Has Code', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Security', 'Tools', 'Training Techniques']
 ---

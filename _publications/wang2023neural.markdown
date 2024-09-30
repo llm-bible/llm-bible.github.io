@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023neural
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2301.02111v1"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2301.02111v1"}
   - {name: "Code", url: "https://aka.ms/valle"}
 tags: ['Has Code', 'In Context Learning', 'Language Modeling', 'Prompting', 'Training Techniques']
 ---

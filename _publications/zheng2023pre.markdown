@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zheng2023pre
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2303.17568v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2303.17568v2"}
   - {name: "Code", url: "https://github.com/THUDM/CodeGeeX"}
 tags: ['Applications', 'Efficiency And Optimization', 'Has Code', 'Tools']
 ---

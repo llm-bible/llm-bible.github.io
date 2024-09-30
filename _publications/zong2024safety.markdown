@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: zong2024safety
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2402.02207v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2402.02207v2"}
   - {name: "Code", url: "https://github.com/ys-zong/VLGuard"}
 tags: ['Fine Tuning', 'Has Code', 'Multimodal Models', 'Pretraining Methods', 'Responsible AI', 'Security', 'Training Techniques']
 ---

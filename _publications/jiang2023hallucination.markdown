@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: jiang2023hallucination
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2312.06968v4"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2312.06968v4"}
   - {name: "Code", url: "https://github.com/X-PLUG/mPLUG-HalOwl/tree/main/hacl"}
 tags: ['GPT', 'Has Code', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods']
 ---

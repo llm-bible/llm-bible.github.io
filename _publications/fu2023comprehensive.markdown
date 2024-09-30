@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: fu2023comprehensive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2306.13394v4"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2306.13394v4"}
   - {name: "Code", url: "https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation"}
 tags: ['Efficiency And Optimization', 'Has Code', 'Multimodal Models', 'Prompting', 'Reinforcement Learning']
 ---

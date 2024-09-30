@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023adaptive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2303.10512v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2303.10512v2"}
   - {name: "Code", url: "https://github.com/QingruZhang/AdaLoRA"}
 tags: ['Applications', 'Fine Tuning', 'Has Code', 'Pretraining Methods', 'Reinforcement Learning', 'Training Techniques']
 ---

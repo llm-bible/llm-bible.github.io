@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023t
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2305.03453v4"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2305.03453v4"}
   - {name: "Code", url: "https://github.com/T-SciQ/T-SciQ"}
 tags: ['Applications', 'Fine Tuning', 'Has Code', 'Multimodal Models', 'Pretraining Methods', 'Training Techniques']
 ---

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: xu2023harmonizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2310.06830v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2310.06830v2"}
   - {name: "Code", url: "https://github.com/OpenLemur/Lemur"}
 tags: ['Agentic', 'Fine Tuning', 'Has Code', 'Pretraining Methods', 'RAG', 'Training Techniques']
 ---

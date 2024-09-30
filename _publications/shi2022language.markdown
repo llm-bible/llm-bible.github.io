@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: shi2022language
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2210.03057v1"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2210.03057v1"}
   - {name: "Code", url: "https://github.com/google-research/url-nlp"}
 tags: ['Has Code', 'Pretraining Methods', 'Prompting', 'Reinforcement Learning']
 ---

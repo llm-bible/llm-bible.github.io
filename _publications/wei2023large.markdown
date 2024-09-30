@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wei2023large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2311.00423v6"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2311.00423v6"}
   - {name: "Code", url: "https://github.com/HKUDS/LLMRec.git"}
 tags: ['Efficiency And Optimization', 'Has Code', 'Pruning', 'RAG', 'Reinforcement Learning', 'Tools']
 ---

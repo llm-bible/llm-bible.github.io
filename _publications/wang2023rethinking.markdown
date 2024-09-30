@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023rethinking
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2305.13112v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2305.13112v2"}
   - {name: "Code", url: "https://github.com/RUCAIBox/iEvaLM-CRS"}
 tags: ['GPT', 'Has Code', 'Interpretability And Explainability', 'Model Architecture', 'Tools']
 ---

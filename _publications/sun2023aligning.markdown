@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: sun2023aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2309.14525v1"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2309.14525v1"}
   - {name: "Code", url: "https://llava-rlhf.github.io"}
 tags: ['Agentic', 'GPT', 'Has Code', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Training Techniques']
 ---

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: xi2024evolving
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2406.04151v1"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2406.04151v1"}
   - {name: "Code", url: "https://github.com/WooooDyy/AgentGym"}
 tags: ['Agentic', 'Fine Tuning', 'Has Code', 'Pretraining Methods', 'Tools']
 ---

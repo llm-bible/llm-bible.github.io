@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: yao2022synergizing
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2210.03629v3"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2210.03629v3"}
   - {name: "Code", url: "https://react-lm.github.io"}
 tags: ['Agentic', 'Applications', 'Has Code', 'Interpretability And Explainability', 'Prompting', 'Reinforcement Learning', 'Tools']
 ---

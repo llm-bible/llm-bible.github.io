@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: hao2022structured
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2212.06713v1"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2212.06713v1"}
   - {name: "Code", url: "https://aka.ms/structured-prompting"}
 tags: ['Attention Mechanism', 'Few Shot', 'Has Code', 'In Context Learning', 'Model Architecture', 'Prompting', 'Transformer']
 ---

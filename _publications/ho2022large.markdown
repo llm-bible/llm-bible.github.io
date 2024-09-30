@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: ho2022large
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2212.10071v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2212.10071v2"}
   - {name: "Code", url: "https://github.com/itsnamgyu/reasoning-teacher"}
 tags: ['Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'RAG', 'Training Techniques']
 ---

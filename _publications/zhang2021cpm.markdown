@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2021
 bibkey: zhang2021cpm
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2106.10715v3"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2106.10715v3"}
   - {name: "Code", url: "https://github.com/TsinghuaAI/CPM"}
 tags: ['Efficiency And Optimization', 'Fine Tuning', 'Has Code', 'Pretraining Methods', 'Prompting', 'Reinforcement Learning', 'Training Techniques']
 ---

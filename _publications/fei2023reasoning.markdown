@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: fei2023reasoning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2305.11255v4"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2305.11255v4"}
   - {name: "Code", url: "https://github.com/scofield7419/THOR-ISA"}
 tags: ['GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Tools']
 ---

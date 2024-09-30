@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023prompt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2312.04302v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2312.04302v2"}
   - {name: "Code", url: "https://github.com/dvlab-research/Prompt-Highlighter/"}
 tags: ['Applications', 'Attention Mechanism', 'GPT', 'Has Code', 'Interpretability And Explainability', 'Language Modeling', 'Merging', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'Security', 'Training Techniques']
 ---

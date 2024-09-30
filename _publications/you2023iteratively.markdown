@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: you2023iteratively
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2305.14985v1"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2305.14985v1"}
   - {name: "Code", url: "https://github.com/Hxyou/IdealGPT"}
 tags: ['Ethics And Bias', 'GPT', 'Has Code', 'Model Architecture', 'Tools']
 ---

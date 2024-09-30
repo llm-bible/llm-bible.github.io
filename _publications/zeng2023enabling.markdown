@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zeng2023enabling
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2310.12823v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2310.12823v2"}
   - {name: "Code", url: "https://github.com/THUDM/AgentTuning,"}
 tags: ['Agentic', 'Ethics And Bias', 'Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: yin2023hallucination
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2310.16045v1"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2310.16045v1"}
   - {name: "Code", url: "https://github.com/BradyFU/Woodpecker"}
 tags: ['Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'Multimodal Models', 'Tools', 'Training Techniques']
 ---

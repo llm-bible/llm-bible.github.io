@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: biderman2023emergent
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2304.11158v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2304.11158v2"}
   - {name: "Code", url: "https://github.com/EleutherAI/pythia"}
 tags: ['Efficiency And Optimization', 'Has Code', 'Large Scale Training', 'Model Architecture', 'Scaling Laws', 'Training Techniques']
 ---

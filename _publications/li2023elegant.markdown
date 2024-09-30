@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023elegant
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2312.02443v1"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2312.02443v1"}
   - {name: "Code", url: "https://github.com/HestiaSky/E4SRec/"}
 tags: ['Efficiency And Optimization', 'Has Code', 'Pretraining Methods', 'RAG', 'Reinforcement Learning']
 ---

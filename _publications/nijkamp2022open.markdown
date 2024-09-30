@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: nijkamp2022open
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2203.13474v5"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2203.13474v5"}
   - {name: "Code", url: "https://github.com/salesforce/CodeGen"}
 tags: ['Applications', 'Has Code', 'Prompting', 'Tools', 'Training Techniques']
 ---

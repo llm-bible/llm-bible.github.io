@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: wang2023aligning
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2307.12966v1"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2307.12966v1"}
   - {name: "Code", url: "https://github.com/GaryYufei/AlignLLMHumanSurvey"}
 tags: ['Ethics And Bias', 'Fine Tuning', 'Has Code', 'Pretraining Methods', 'RAG', 'Survey Paper', 'Training Techniques']
 ---

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: xi2023self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2305.14497v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2305.14497v2"}
   - {name: "Code", url: "https://github.com/WooooDyy/Self-Polish"}
 tags: ['Has Code', 'Pretraining Methods', 'Prompting', 'Reinforcement Learning', 'Security']
 ---

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: li2023evaluating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2305.10355v3"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2305.10355v3"}
   - {name: "Code", url: "https://github.com/RUCAIBox/POPE"}
 tags: ['Has Code', 'Multimodal Models']
 ---

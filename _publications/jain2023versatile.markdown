@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: jain2023versatile
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2312.14233v1"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2312.14233v1"}
   - {name: "Code", url: "https://github.com/SHI-Labs/VCoder"}
 tags: ['GPT', 'Has Code', 'Model Architecture', 'Multimodal Models', 'Prompting', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---

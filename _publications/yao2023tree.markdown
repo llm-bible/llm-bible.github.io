@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: yao2023tree
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2305.10601v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2305.10601v2"}
   - {name: "Code", url: "https://github.com/princeton-nlp/tree-of-thought-llm"}
 tags: ['Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Tools']
 ---

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: dai2023towards
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2305.06500v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2305.06500v2"}
   - {name: "Code", url: "https://github.com/salesforce/LAVIS/tree/main/projects/instructblip"}
 tags: ['Has Code', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods', 'Survey Paper', 'Training Techniques', 'Transformer']
 ---

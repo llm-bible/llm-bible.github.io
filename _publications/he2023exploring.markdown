@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: he2023exploring
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2305.04118v3"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2305.04118v3"}
   - {name: "Code", url: "https://github.com/zwhe99/MAPS-mt"}
 tags: ['Applications', 'Attention Mechanism', 'Has Code', 'Model Architecture', 'Prompting', 'Tools']
 ---

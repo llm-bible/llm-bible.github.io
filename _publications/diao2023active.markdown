@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: diao2023active
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2302.12246v5"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2302.12246v5"}
   - {name: "Code", url: "https://github.com/shizhediao/active-prompt"}
 tags: ['Ethics And Bias', 'Has Code', 'Prompting']
 ---

@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: huang2023alleviating
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2311.17911v3"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2311.17911v3"}
   - {name: "Code", url: "https://github.com/shikiw/OPERA"}
 tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Transformer']
 ---

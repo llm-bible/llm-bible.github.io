@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: li2022self
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2212.08635v3"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2212.08635v3"}
   - {name: "Code", url: "https://github.com/lockon-n/self-prompting"}
 tags: ['Applications', 'GPT', 'Has Code', 'In Context Learning', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'Tools', 'Training Techniques']
 ---

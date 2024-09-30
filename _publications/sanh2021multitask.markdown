@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2021
 bibkey: sanh2021multitask
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2110.08207v3"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2110.08207v3"}
   - {name: "Code", url: "https://github.com/bigscience-workshop/t-zero"}
   - {name: "Code", url: "https://github.com/bigscience-workshop/promptsource"}
 tags: ['Has Code', 'Pretraining Methods', 'Prompting', 'Training Techniques']

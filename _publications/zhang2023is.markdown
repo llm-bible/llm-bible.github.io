@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023is
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2305.07609v3"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2305.07609v3"}
   - {name: "Code", url: "https://github.com/jizhi-zhang/FaiRLLM"}
 tags: ['Bias Mitigation', 'Ethics And Bias', 'Fairness', 'GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
 ---

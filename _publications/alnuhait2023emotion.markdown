@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: alnuhait2023emotion
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2303.07316v1"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2303.07316v1"}
   - {name: "Code", url: "https://github.com/qywu/FaceChat"}
 tags: ['Applications', 'GPT', 'Has Code', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Tools']
 ---

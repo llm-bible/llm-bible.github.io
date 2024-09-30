@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhu2023minigpt
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2304.10592v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2304.10592v2"}
   - {name: "Code", url: "https://minigpt-4.github.io/"}
 tags: ['GPT', 'Has Code', 'Merging', 'Model Architecture', 'Multimodal Models', 'RAG', 'Reinforcement Learning']
 ---

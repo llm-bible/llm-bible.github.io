@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2024
 bibkey: han2024instinctive
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2402.03757v1"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2402.03757v1"}
   - {name: "Code", url: "https://github.com/MasaiahHan/CorrelationQA"}
 tags: ['Ethics And Bias', 'GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---

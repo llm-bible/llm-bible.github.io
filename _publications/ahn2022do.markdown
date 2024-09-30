@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2022
 bibkey: ahn2022do
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2204.01691v2"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2204.01691v2"}
   - {name: "Code", url: "https://say-can.github.io/"}
 tags: ['Agentic', 'Has Code', 'RAG', 'Reinforcement Learning']
 ---

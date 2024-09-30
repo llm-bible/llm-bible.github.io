@@ -6,7 +6,7 @@ conference: "Arxiv"
 year: 2023
 bibkey: zhang2023multimodal
 additional_links:
-  - {name: "Paper", url: "https://arxiv.org/abs/http://arxiv.org/abs/2302.00923v5"}
+  - {name: "Paper", url: "http://arxiv.org/abs/2302.00923v5"}
   - {name: "Code", url: "https://github.com/amazon-science/mm-cot"}
 tags: ['Has Code', 'Multimodal Models', 'Prompting', 'RAG', 'Tools']
 ---
