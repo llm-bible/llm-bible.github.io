@@ -46,6 +46,7 @@ the information of existing papers or adding new work.
 </table>
 
 <script>
+  
 var datatable;
 
 function searchTable() {
@@ -53,19 +54,20 @@ function searchTable() {
     datatable.search(hash).draw();
 }
 
-$(document).ready( function () {
+$(document).ready(function() {
     datatable = $('#allPapers').DataTable({
-        paging: false,  // No pagination
-        "order": [[ 0, 'desc' ], [ 1, 'asc' ]],  // Order by year descending, then title ascending
+        paging: true,  // Enable pagination
+        pageLength: 50,  // Number of papers per page
+        searching: true,  // Enable search
+        "order": [[ 0, 'desc' ], [ 1, 'asc' ]],  // Sort by Year and Title
         columnDefs: [
             {
-                targets: [3, 4, 5],  // Venue, Abstract, Tags columns hidden but searchable
+                targets: [3, 4, 5],  // Hide certain columns, but make them searchable
                 visible: false,
                 searchable: true
             }
         ]
     });
-    searchTable();  // Perform initial search based on URL hash
 });
 
 $(window).on('hashchange', function() {
