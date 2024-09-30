@@ -7,10 +7,21 @@ Search across all paper titles, abstracts, and authors by using the search field
 Please consider <a href="/contributing.html">contributing</a> by updating
 the information of existing papers or adding new work.
 
+<!-- Add CSS to hide the abstract column -->
+<style>
+  td:nth-child(5), th:nth-child(5) {
+    display: none; /* Hide the Abstract column */
+  }
+</style>
+
 <table id="allPapers">
   <thead>
     <tr>
-      <th>Year</th><th>Title</th><th>Authors</th><th>Venue</th><th>Abstract</th>
+      <th>Year</th>
+      <th>Title</th>
+      <th>Authors</th>
+      <th>Venue</th>
+      <th>Abstract</th> <!-- Abstract column is hidden but remains searchable -->
     </tr>
   </thead>
   <tbody id="publications-body">
@@ -19,32 +30,36 @@ the information of existing papers or adding new work.
     {% for year in publicationsByYear reversed %}
       {% for publication in year.items %}
         {% if count < 100 %}
-          <tr>
+          <tr class="publication-row">
             <td>{{ publication.year }}</td>
             <td>
-              <a href="{{ publication.url | prepend: site.baseurl }}">{{publication.title}}</a>
+              <a href="{{ publication.url | prepend: site.baseurl }}">{{ publication.title }}</a>
               <span class="externallinks">
-                &nbsp;<a href='http://scholar.google.com/scholar?q={{ publication.title }}' target="_blank"><img  style="display: inline; margin: 0;" src="/public/media/google-scholar.png"/></a>
-                <a href='https://www.semanticscholar.org/search?q={{ publication.title }}' target="_blank"><img style="display: inline; margin: 0;" src="/public/media/semscholar.png"/></a>
+                &nbsp;<a href='http://scholar.google.com/scholar?q={{ publication.title }}' target="_blank">
+                <img style="display: inline; margin: 0;" src="/public/media/google-scholar.png"/></a>
+                <a href='https://www.semanticscholar.org/search?q={{ publication.title }}' target="_blank">
+                <img style="display: inline; margin: 0;" src="/public/media/semscholar.png"/></a>
               </span>
             </td>
             <td>{{ publication.authors }}</td>
             <td>{{ publication.conference }}</td>
-            <td>{{ publication.content }}</td>
+            <td>{{ publication.content }}</td> <!-- Abstract is here but hidden by CSS -->
           </tr>
         {% else %}
           <tr class="hidden-publication" style="display: none;">
             <td>{{ publication.year }}</td>
             <td>
-              <a href="{{ publication.url | prepend: site.baseurl }}">{{publication.title}}</a>
+              <a href="{{ publication.url | prepend: site.baseurl }}">{{ publication.title }}</a>
               <span class="externallinks">
-                &nbsp;<a href='http://scholar.google.com/scholar?q={{ publication.title }}' target="_blank"><img  style="display: inline; margin: 0;" src="/public/media/google-scholar.png"/></a>
-                <a href='https://www.semanticscholar.org/search?q={{ publication.title }}' target="_blank"><img style="display: inline; margin: 0;" src="/public/media/semscholar.png"/></a>
+                &nbsp;<a href='http://scholar.google.com/scholar?q={{ publication.title }}' target="_blank">
+                <img style="display: inline; margin: 0;" src="/public/media/google-scholar.png"/></a>
+                <a href='https://www.semanticscholar.org/search?q={{ publication.title }}' target="_blank">
+                <img style="display: inline; margin: 0;" src="/public/media/semscholar.png"/></a>
               </span>
             </td>
             <td>{{ publication.authors }}</td>
             <td>{{ publication.conference }}</td>
-            <td>{{ publication.content }}</td>
+            <td>{{ publication.content }}</td> <!-- Abstract is here but hidden by CSS -->
           </tr>
         {% endif %}
         {% assign count = count | plus: 1 %}
