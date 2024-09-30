@@ -5,7 +5,7 @@ description: LLM News Digest
 ---
 ### LLM News Digest
 
-Join our news digest featuring the latest papers on large language models. To contribute, simply fill in the form below, and your paper will reach thousands of researchers in the field:
+Join our news digest featuring the latest papers on large language models:
 
 <form action="https://formkeep.com/f/23edb263fbb7" accept-charset="UTF-8" enctype="multipart/form-data" method="POST" style="max-width: 100%; margin: auto;">
   <input type="text" name="email" style="width: 100%; max-width: 700px; font-weight: bold; border: 2px solid #000; padding: 10px;" placeholder="Your Email Address"><br><br>
