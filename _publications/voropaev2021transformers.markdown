@@ -9,4 +9,4 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.10487"}
 tags: ['Model Architecture', 'Pretraining Methods', 'Transformer']
 ---
-"In this paper, we explore various multilingual and Russian pre-trained transformer-based models for the Dialogue Evaluation 2021 shared task on headline selection. Our experiments show that the combined approach is superior to individual multilingual and monolingual models. We present an analysis of a number of ways to obtain sentence embeddings and learn a ranking model on top of them. We achieve the result of 87.28&#37; and 86.60&#37; accuracy for the public and private test sets respectively."
+In this paper, we explore various multilingual and Russian pre-trained transformer-based models for the Dialogue Evaluation 2021 shared task on headline selection. Our experiments show that the combined approach is superior to individual multilingual and monolingual models. We present an analysis of a number of ways to obtain sentence embeddings and learn a ranking model on top of them. We achieve the result of 87.28&#37; and 86.60&#37; accuracy for the public and private test sets respectively.
