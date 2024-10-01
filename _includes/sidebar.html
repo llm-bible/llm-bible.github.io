@@ -41,10 +41,12 @@ $("#searchTarget").keydown(function (e) {
 });
 
 function search() {
+  var query = $("#searchTarget").val();
   try {
-    ga('send', 'event', 'search', 'search', $("#searchTarget").val());
+    ga('send', 'event', 'search', 'search', query);
   } finally {
-    window.location = "{% link papers.html %}#" + $("#searchTarget").val();
+    // Update the hash and trigger a hashchange event
+    window.location.hash = encodeURIComponent(query);
   }
 }
 </script>
