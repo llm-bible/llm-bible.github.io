@@ -74,9 +74,13 @@ the information of existing papers or adding new work.
 <script>
   var datatable;
 
-  function searchTable() {
+    function searchTable() {
     var hash = decodeURIComponent(window.location.hash.substr(1));
-    datatable.search(hash).draw();
+    if (hash) {
+      datatable.search(hash).draw();
+    } else {
+      datatable.search('').draw();  // If no hash, clear the search
+    }
   }
 
   $(document).ready(function() {
