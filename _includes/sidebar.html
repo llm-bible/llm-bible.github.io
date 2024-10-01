@@ -34,24 +34,17 @@
 </div></div>
 
 <script>
-// Trigger search on Enter key
-document.getElementById("searchTarget").addEventListener("keydown", function (e) {	
+$("#searchTarget").keydown(function (e) {	
   if (e.keyCode == 13) {
     search();
   }
 });
 
 function search() {
-  const searchValue = document.getElementById("searchTarget").value.toLowerCase();
-  
-  // Track search event in Google Analytics (optional)
   try {
-    ga('send', 'event', 'search', 'search', searchValue);
-  } catch (error) {
-    console.error("Google Analytics event failed: ", error);
+    ga('send', 'event', 'search', 'search', $("#searchTarget").val());
+  } finally {
+    window.location = "{% link papers.html %}#" + $("#searchTarget").val();
   }
-  
-  // Redirect to the papers page with the search query as a URL fragment
-  window.location = "{% link papers.html %}#" + encodeURIComponent(searchValue);
 }
 </script>
