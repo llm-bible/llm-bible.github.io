@@ -9,4 +9,4 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.04121"}
 tags: ['Pretraining Methods']
 ---
-While humans sometimes do show the capability of correcting their own erroneous guesses with self-critiquing there seems to be no basis for that assumption in the case of LLMs.
+While humans sometimes do show the capability of correcting their own erroneous guesses with self-critiquing, there seems to be no basis for that assumption in the case of LLMs.

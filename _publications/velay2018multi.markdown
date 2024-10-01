@@ -9,4 +9,4 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1808.00423"}
 tags: ['Ethics And Bias', 'Model Architecture']
 ---
-This study evaluates the performances of an LSTM network for detecting and extracting the intent and content of com- mands for a financial chatbot. It presents two techniques sequence to sequence learning and Multi-Task Learning which might improve on the previous task.
+This study evaluates the performances of an LSTM network for detecting and extracting the intent and content of com- mands for a financial chatbot. It presents two techniques, sequence to sequence learning and Multi-Task Learning, which might improve on the previous task.

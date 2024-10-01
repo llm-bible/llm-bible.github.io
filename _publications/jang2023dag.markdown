@@ -9,4 +9,4 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.13784"}
 tags: ['Language Modeling', 'Pretraining Methods']
 ---
-This paper presents the DaG LLM (David and Goliath Large Language Model) a language model specialized for Korean and fine-tuned through Instruction Tuning across 41 tasks within 13 distinct categories.
+This paper presents the DaG LLM (David and Goliath Large Language Model), a language model specialized for Korean and fine-tuned through Instruction Tuning across 41 tasks within 13 distinct categories.
