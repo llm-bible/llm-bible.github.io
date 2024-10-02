@@ -1,0 +1,12 @@
+---
+layout: publication
+title: 'Survival Of The Most Influential Prompts: Efficient Black-box Prompt Search Via Clustering And Pruning'
+authors: Zhou Han, Wan Xingchen, Vulić Ivan, Korhonen Anna
+conference: "Arxiv"
+year: 2023
+bibkey: zhou2023survival
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.12774"}
+tags: ['Efficiency And Optimization', 'Few Shot', 'Prompting', 'Pruning', 'RAG', 'Reinforcement Learning']
+---
+Prompt-based learning has been an effective paradigm for large pretrained language models (LLM), enabling few-shot or even zero-shot learning. Black-box prompt search has received growing interest recently for its distinctive properties of gradient-free optimization, proven particularly useful and powerful for model-as-a-service usage. However, the discrete nature and the complexity of combinatorial optimization hinder the efficiency of modern black-box approaches. Despite extensive research on search algorithms, the crucial aspect of search space design and optimization has been largely overlooked. In this paper, we first conduct a sensitivity analysis by prompting LLM, revealing that only a small number of tokens exert a disproportionate amount of influence on LLM predictions. Leveraging this insight, we propose the Clustering and Pruning for Efficient Black-box Prompt Search (ClaPS), a simple black-box search method that first clusters and prunes the search space to focus exclusively on influential prompt tokens. By employing even simple search methods within the pruned search space, ClaPS achieves state-of-the-art performance across various tasks and LLMs, surpassing the performance of complex approaches while significantly reducing search costs. Our findings underscore the critical role of search space design and optimization in enhancing both the usefulness and the efficiency of black-box prompt-based learning.

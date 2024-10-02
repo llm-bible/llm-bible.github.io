@@ -1,0 +1,12 @@
+---
+layout: publication
+title: 'Machine Translation Hallucination Detection For Low And High Resource Languages Using Large Language Models'
+authors: Benkirane Kenza, Gongas Laura, Pelles Shahar, Fuchs Naomi, Darmon Joshua, Stenetorp Pontus, Adelani David Ifeoluwa, Sánchez Eduardo
+conference: "Arxiv"
+year: 2024
+bibkey: benkirane2024machine
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2407.16470"}
+tags: ['Applications', 'RAG', 'Reinforcement Learning']
+---
+Recent advancements in massively multilingual machine translation systems have significantly enhanced translation accuracy; however, even the best performing systems still generate hallucinations, severely impacting user trust. Detecting hallucinations in Machine Translation (MT) remains a critical challenge, particularly since existing methods excel with High-Resource Languages (HRLs) but exhibit substantial limitations when applied to Low-Resource Languages (LRLs). This paper evaluates hallucination detection approaches using Large Language Models (LLMs) and semantic similarity within massively multilingual embeddings. Our study spans 16 language directions, covering HRLs, LRLs, with diverse scripts. We find that the choice of model is essential for performance. On average, for HRLs, Llama3-70B outperforms the previous state of the art by as much as 0.16 MCC (Matthews Correlation Coefficient). However, for LRLs we observe that Claude Sonnet outperforms other LLMs on average by 0.03 MCC. The key takeaway from our study is that LLMs can achieve performance comparable or even better than previously proposed models, despite not being explicitly trained for any machine translation task. However, their advantage is less significant for LRLs.

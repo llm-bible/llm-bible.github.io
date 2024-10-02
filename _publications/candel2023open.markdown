@@ -1,0 +1,13 @@
+---
+layout: publication
+title: 'H2O Open Ecosystem For State-of-the-art Large Language Models'
+authors: Candel Arno, Mckinney Jon, Singer Philipp, Pfeiffer Pascal, Jeblick Maximilian, Lee Chun Ming, Conde Marcos V.
+conference: "Arxiv"
+year: 2023
+bibkey: candel2023open
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.13012"}
+  - {name: "Code", url: "https://gpt.h2o.ai/"}
+tags: ['Ethics And Bias', 'Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'Pretraining Methods', 'Tools', 'Training Techniques']
+---
+'Large Language Models (LLMs) represent a revolution in AI. However, they also pose many significant risks, such as the presence of biased, private, copyrighted or harmful text. For this reason we need open, transparent and safe solutions. We introduce a complete open-source ecosystem for developing and testing LLMs. The goal of this project is to boost open alternatives to closed-source approaches. We release h2oGPT, a family of fine-tuned LLMs of diverse sizes. We also introduce H2O LLM Studio, a framework and no-code GUI designed for efficient fine-tuning, evaluation, and deployment of LLMs using the most recent state-of-the-art techniques. Our code and models are fully open-source. We believe this work helps to boost AI development and make it more accessible, efficient and trustworthy. The demo is available at: https://gpt.h2o.ai/'

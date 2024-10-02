@@ -1,0 +1,12 @@
+---
+layout: publication
+title: 'Not All Memories Are Created Equal: Learning To Forget By Expiring'
+authors: Sukhbaatar Sainbayar, Ju Da, Poff Spencer, Roller Stephen, Szlam Arthur, Weston Jason, Fan Angela
+conference: "Arxiv"
+year: 2021
+bibkey: sukhbaatar2021not
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2105.06548"}
+tags: ['Agentic', 'Attention Mechanism', 'Efficiency And Optimization', 'Language Modeling', 'Model Architecture', 'Pretraining Methods', 'Reinforcement Learning', 'Transformer']
+---
+Attention mechanisms have shown promising results in sequence modeling tasks that require long-term memory. Recent work investigated mechanisms to reduce the computational cost of preserving and storing memories. However, not all content in the past is equally important to remember. We propose Expire-Span, a method that learns to retain the most important information and expire the irrelevant information. This forgetting of memories enables Transformers to scale to attend over tens of thousands of previous timesteps efficiently, as not all states from previous timesteps are preserved. We demonstrate that Expire-Span can help models identify and retain critical information and show it can achieve strong performance on reinforcement learning tasks specifically designed to challenge this functionality. Next, we show that Expire-Span can scale to memories that are tens of thousands in size, setting a new state of the art on incredibly long context tasks such as character-level language modeling and a frame-by-frame moving objects task. Finally, we analyze the efficiency of Expire-Span compared to existing approaches and demonstrate that it trains faster and uses less memory.

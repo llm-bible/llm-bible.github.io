@@ -1,0 +1,12 @@
+---
+layout: publication
+title: 'C-eval: A Multi-level Multi-discipline Chinese Evaluation Suite For Foundation Models'
+authors: Huang Yuzhen, Bai Yuzhuo, Zhu Zhihao, Zhang Junlei, Zhang Jinghan, Su Tangjun, Liu Junteng, Lv Chuancheng, Zhang Yikai, Lei Jiayi, Fu Yao, Sun Maosong, He Junxian
+conference: "Arxiv"
+year: 2023
+bibkey: huang2023c
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2305.08322"}
+tags: ['GPT', 'Model Architecture', 'Pretraining Methods', 'RAG', 'Tools']
+---
+'New NLP benchmarks are urgently needed to align with the rapid development of large language models (LLMs). We present C-Eval, the first comprehensive Chinese evaluation suite designed to assess advanced knowledge and reasoning abilities of foundation models in a Chinese context. C-Eval comprises multiple-choice questions across four difficulty levels: middle school, high school, college, and professional. The questions span 52 diverse disciplines, ranging from humanities to science and engineering. C-Eval is accompanied by C-Eval Hard, a subset of very challenging subjects in C-Eval that requires advanced reasoning abilities to solve. We conduct a comprehensive evaluation of the most advanced LLMs on C-Eval, including both English- and Chinese-oriented models. Results indicate that only GPT-4 could achieve an average accuracy of over 60&#37;, suggesting that there is still significant room for improvement for current LLMs. We anticipate C-Eval will help analyze important strengths and shortcomings of foundation models, and foster their development and growth for Chinese users.'

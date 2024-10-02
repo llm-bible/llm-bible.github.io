@@ -1,0 +1,12 @@
+---
+layout: publication
+title: 'E-sparse: Boosting The Large Language Model Inference Through Entropy-based N:M Sparsity'
+authors: Li Yun, Niu Lin, Zhang Xipeng, Liu Kai, Zhu Jianchen, Kang Zhanhui
+conference: "Arxiv"
+year: 2023
+bibkey: li2023e
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.15929"}
+tags: ['Efficiency And Optimization', 'Model Architecture', 'Pretraining Methods', 'Pruning', 'RAG', 'Training Techniques', 'Transformer']
+---
+'Traditional pruning methods are known to be challenging to work in Large Language Models (LLMs) for Generative AI because of their unaffordable training process and large computational demands. For the first time, we introduce the information entropy of hidden state features into a pruning metric design, namely E-Sparse, to improve the accuracy of N:M sparsity on LLM. E-Sparse employs the information richness to leverage the channel importance, and further incorporates several novel techniques to put it into effect: (1) it introduces information entropy to enhance the significance of parameter weights and input feature norms as a novel pruning metric, and performs N:M sparsity without modifying the remaining weights. (2) it designs global naive shuffle and local block shuffle to quickly optimize the information distribution and adequately cope with the impact of N:M sparsity on LLMs'' accuracy. E-Sparse is implemented as a Sparse-GEMM on FasterTransformer and runs on NVIDIA Ampere GPUs. Extensive experiments on the LLaMA family and OPT models show that E-Sparse can significantly speed up the model inference over the dense model (up to 1.53X) and obtain significant memory saving (up to 43.52&#37;), with acceptable accuracy loss.'

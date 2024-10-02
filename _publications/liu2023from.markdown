@@ -1,0 +1,12 @@
+---
+layout: publication
+title: 'From Zero To Hero: Examining The Power Of Symbolic Tasks In Instruction Tuning'
+authors: Liu Qian, Zhou Fan, Jiang Zhengbao, Dou Longxu, Lin Min
+conference: "Arxiv"
+year: 2023
+bibkey: liu2023from
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2304.07995"}
+tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Reinforcement Learning', 'Training Techniques']
+---
+Fine-tuning language models on tasks with instructions has demonstrated potential in facilitating zero-shot generalization to unseen tasks. In this paper, we introduce a straightforward yet effective method for enhancing instruction tuning by employing symbolic tasks. Compared to crowdsourced human tasks or model-generated tasks, symbolic tasks present a unique advantage as they can be easily generated in vast quantities, theoretically providing an infinite supply of high-quality training instances. To explore the potential of symbolic tasks, we carry out an extensive case study on the representative symbolic task of SQL execution. Empirical results on various benchmarks validate that the integration of SQL execution leads to significant improvements in zero-shot scenarios, particularly in table reasoning. Notably, our 3B model surpasses both the 175B GPT-3 and ChatGPT in zero-shot table reasoning across four benchmarks. Furthermore, experimental results on BBH (27 tasks) and MMLU (57 tasks) reveal that language models can be enhanced through symbolic tasks without compromising their generality. We hope that our paper serves as a catalyst, inspiring increased efforts to incorporate symbolic tasks in instruction tuning.

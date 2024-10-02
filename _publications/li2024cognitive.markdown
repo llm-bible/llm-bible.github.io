@@ -1,0 +1,13 @@
+---
+layout: publication
+title: 'Cognitive Visual-language Mapper: Advancing Multimodal Comprehension With Enhanced Visual Knowledge Alignment'
+authors: Li Yunxin, Chen Xinyu, Hu Baotian, Shi Haoyuan, Zhang Min
+conference: "Arxiv"
+year: 2024
+bibkey: li2024cognitive
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2402.13561"}
+  - {name: "Code", url: "https://github.com/HITsz-TMG/Cognitive-Visual-Language-Mapper"}
+tags: ['Applications', 'Has Code', 'Multimodal Models', 'RAG', 'Training Techniques']
+---
+'Evaluating and Rethinking the current landscape of Large Multimodal Models (LMMs), we observe that widely-used visual-language projection approaches (e.g., Q-former or MLP) focus on the alignment of image-text descriptions yet ignore the visual knowledge-dimension alignment, i.e., connecting visuals to their relevant knowledge. Visual knowledge plays a significant role in analyzing, inferring, and interpreting information from visuals, helping improve the accuracy of answers to knowledge-based visual questions. In this paper, we mainly explore improving LMMs with visual-language knowledge alignment, especially aimed at challenging knowledge-based visual question answering (VQA). To this end, we present a Cognitive Visual-Language Mapper (CVLM), which contains a pretrained Visual Knowledge Aligner (VKA) and a Fine-grained Knowledge Adapter (FKA) used in the multimodal instruction tuning stage. Specifically, we design the VKA based on the interaction between a small language model and a visual encoder, training it on collected image-knowledge pairs to achieve visual knowledge acquisition and projection. FKA is employed to distill the fine-grained visual knowledge of an image and inject it into Large Language Models (LLMs). We conduct extensive experiments on knowledge-based VQA benchmarks and experimental results show that CVLM significantly improves the performance of LMMs on knowledge-based VQA (average gain by 5.0&#37;). Ablation studies also verify the effectiveness of VKA and FKA, respectively. The codes are available at https://github.com/HITsz-TMG/Cognitive-Visual-Language-Mapper'

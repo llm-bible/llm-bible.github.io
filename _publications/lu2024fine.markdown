@@ -1,0 +1,12 @@
+---
+layout: publication
+title: 'Fine-tuning Large Language Models For Domain Adaptation: Exploration Of Training Strategies, Scaling, Model Merging And Synergistic Capabilities'
+authors: Lu Wei, Luu Rachel K., Buehler Markus J.
+conference: "Arxiv"
+year: 2024
+bibkey: lu2024fine
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2409.03444"}
+tags: ['Applications', 'Efficiency And Optimization', 'Fine Tuning', 'Merging', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'Reinforcement Learning', 'Scaling Laws', 'Training Techniques']
+---
+The advancement of Large Language Models (LLMs) for domain applications in fields such as materials science and engineering depends on the development of fine-tuning strategies that adapt models for specialized, technical capabilities. In this work, we explore the effects of Continued Pretraining (CPT), Supervised Fine-Tuning (SFT), and various preference-based optimization approaches, including Direct Preference Optimization (DPO) and Odds Ratio Preference Optimization (ORPO), on fine-tuned LLM performance. Our analysis shows how these strategies influence model outcomes and reveals that the merging of multiple fine-tuned models can lead to the emergence of capabilities that surpass the individual contributions of the parent models. We find that model merging leads to new functionalities that neither parent model could achieve alone, leading to improved performance in domain-specific assessments. Experiments with different model architectures are presented, including Llama 3.1 8B and Mistral 7B models, where similar behaviors are observed. Exploring whether the results hold also for much smaller models, we use a tiny LLM with 1.7 billion parameters and show that very small LLMs do not necessarily feature emergent capabilities under model merging, suggesting that model scaling may be a key component. In open-ended yet consistent chat conversations between a human and AI models, our assessment reveals detailed insights into how different model variants perform and show that the smallest model achieves a high intelligence score across key criteria including reasoning depth, creativity, clarity, and quantitative precision. Other experiments include the development of image generation prompts based on disparate biological material design concepts, to create new microstructures, architectural concepts, and urban design based on biological materials-inspired construction principles.

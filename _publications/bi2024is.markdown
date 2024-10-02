@@ -1,0 +1,12 @@
+---
+layout: publication
+title: 'Is Factuality Decoding A Free Lunch For Llms? Evaluation On Knowledge Editing Benchmark'
+authors: Bi Baolong, Liu Shenghua, Wang Yiwei, Mei Lingrui, Cheng Xueqi
+conference: "Arxiv"
+year: 2024
+bibkey: bi2024is
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2404.00216"}
+tags: ['Pretraining Methods', 'Reinforcement Learning', 'Tools']
+---
+'The rapid development of large language models (LLMs) enables them to convey factual knowledge in a more human-like fashion. Extensive efforts have been made to reduce factual hallucinations by modifying LLMs with factuality decoding. However, they also pose risks of hindering knowledge updates, as they make models overly confident in known facts. In this work, we first revisite the current factuality decoding methods and verified their effectiveness in enhancing factual accuracy. Subsequently, we conduct further evaluation of several strong factuality decoding methods on the knowledge editing benchmark. All these decoding methods significantly diminish the performance of llama2 models compared to their original decoding, with the largest decrease being a staggering 81.3\&#37;. This further indicates that the current existing decoding methods still cannot perfectly address the factual hallucinations, as they overlook the importance of preserving the flexibility for knowledge editing. Therefore, our work suggests that research into factual alignment should simultaneously focus on the effectiveness of knowledge editing.'

@@ -1,0 +1,12 @@
+---
+layout: publication
+title: 'The Larger They Are, The Harder They Fail: Language Models Do Not Recognize Identifier Swaps In Python'
+authors: Miceli-barone Antonio Valerio, Barez Fazl, Konstas Ioannis, Cohen Shay B.
+conference: "Arxiv"
+year: 2023
+bibkey: micelibarone2023larger
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2305.15507"}
+tags: ['Applications', 'Reinforcement Learning', 'Training Techniques']
+---
+Large Language Models (LLMs) have successfully been applied to code generation tasks, raising the question of how well these models understand programming. Typical programming languages have invariances and equivariances in their semantics that human programmers intuitively understand and exploit, such as the (near) invariance to the renaming of identifiers. We show that LLMs not only fail to properly generate correct Python code when default function names are swapped, but some of them even become more confident in their incorrect predictions as the model size increases, an instance of the recently discovered phenomenon of Inverse Scaling, which runs contrary to the commonly observed trend of increasing prediction quality with increasing model size. Our findings indicate that, despite their astonishing typical-case performance, LLMs still lack a deep, abstract understanding of the content they manipulate, making them unsuitable for tasks that statistically deviate from their training data, and that mere scaling is not enough to achieve such capability.

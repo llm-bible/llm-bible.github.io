@@ -1,0 +1,12 @@
+---
+layout: publication
+title: 'A & B == B & A: Triggering Logical Reasoning Failures In Large Language Models'
+authors: Wan Yuxuan, Wang Wenxuan, Yang Yiliu, Yuan Youliang, Huang Jen-tse, He Pinjia, Jiao Wenxiang, Lyu Michael R.
+conference: "Arxiv"
+year: 2024
+bibkey: wan2024b
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2401.00757"}
+tags: ['Applications', 'GPT', 'In Context Learning', 'Model Architecture', 'Prompting']
+---
+'Recent advancements in large language models (LLMs) have propelled Artificial Intelligence (AI) to new heights, enabling breakthroughs in various tasks such as writing assistance, code generation, and machine translation. A significant distinction of advanced LLMs, such as ChatGPT, is their demonstrated ability to reason. However, evaluating the reasoning ability of LLMs remains a challenge as most existing evaluations focus on their accuracy on the downstream tasks rather than directly assessing their reasoning processes. Efforts have been made to develop benchmarks and metrics to assess reasoning in LLMs, but they suffer from data leakage or limited scope. In this paper, we introduce LogicAsker, an automatic approach that comprehensively evaluates and improves the logical reasoning abilities of LLMs under a set of atomic reasoning skills based on propositional and predicate logic. The results provide insights into LLMs'' reasoning abilities and reveal the logical rules the LLMs did not learn well. We evaluate LogicAsker on six widely deployed LLMs, including GPT-3, ChatGPT, GPT-4, Bard, Vicuna, and Guanaco. The results show that test cases from LogicAsker can find logical reasoning failures in different LLMs with a rate of 25\&#37; - 94\&#37;. In addition, the test cases of LogicAsker can be further used to design demonstration examples for in-context learning, which effectively improves the logical reasoning ability of LLMs, e.g., 10\&#37; for GPT-4. As far as we know, our work is the first to create prompts based on testing results to improve LLMs'' formal reasoning ability effectively. All the code, data, and results will be released for reproduction and future research.'

@@ -1,0 +1,12 @@
+---
+layout: publication
+title: 'Interactive Continual Learning: Fast And Slow Thinking'
+authors: Qi Biqing, Chen Xingquan, Gao Junqi, Li Dong, Liu Jianxing, Wu Ligang, Zhou Bowen
+conference: "Arxiv"
+year: 2024
+bibkey: qi2024interactive
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2403.02628"}
+tags: ['Attention Mechanism', 'Model Architecture', 'Multimodal Models', 'Tools']
+---
+Advanced life forms, sustained by the synergistic interaction of neural cognitive mechanisms, continually acquire and transfer knowledge throughout their lifespan. In contrast, contemporary machine learning paradigms exhibit limitations in emulating the facets of continual learning (CL). Nonetheless, the emergence of large language models (LLMs) presents promising avenues for realizing CL via interactions with these models. Drawing on Complementary Learning System theory, this paper presents a novel Interactive Continual Learning (ICL) framework, enabled by collaborative interactions among models of various sizes. Specifically, we assign the ViT model as System1 and multimodal LLM as System2. To enable the memory module to deduce tasks from class information and enhance Set2Set retrieval, we propose the Class-Knowledge-Task Multi-Head Attention (CKT-MHA). Additionally, to improve memory retrieval in System1 through enhanced geometric representation, we introduce the CL-vMF mechanism, based on the von Mises-Fisher (vMF) distribution. Meanwhile, we introduce the von Mises-Fisher Outlier Detection and Interaction (vMF-ODI) strategy to identify hard examples, thus enhancing collaboration between System1 and System2 for complex reasoning realization. Comprehensive evaluation of our proposed ICL demonstrates significant resistance to forgetting and superior performance relative to existing methods. Code is available at github.com/ICL.

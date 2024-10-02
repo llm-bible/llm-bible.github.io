@@ -1,0 +1,12 @@
+---
+layout: publication
+title: 'Extractgpt: Exploring The Potential Of Large Language Models For Product Attribute Value Extraction'
+authors: Brinkmann Alexander, Shraga Roee, Bizer Christian
+conference: "Arxiv"
+year: 2023
+bibkey: brinkmann2023exploring
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2310.12537"}
+tags: ['BERT', 'Ethics And Bias', 'Few Shot', 'Fine Tuning', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'RAG', 'Tools', 'Training Techniques']
+---
+'In order to facilitate features such as faceted product search and product comparison, e-commerce platforms require accurately structured product data, including precise attribute/value pairs. Vendors often times provide unstructured product descriptions consisting only of an offer title and a textual description. Consequently, extracting attribute values from titles and descriptions is vital for e-commerce platforms. State-of-the-art attribute value extraction methods based on pre-trained language models, such as BERT, face two drawbacks (i) the methods require significant amounts of task-specific training data and (ii) the fine-tuned models have problems with generalising to unseen attribute values that were not part of the training data. This paper explores the potential of using large language models as a more training data-efficient and more robust alternative to existing AVE methods. We propose prompt templates for describing the target attributes of the extraction to the LLM, covering both zero-shot and few-shot scenarios. In the zero-shot scenario, textual and JSON-based target schema representations of the attributes are compared. In the few-shot scenario, we investigate (i) the provision of example attribute values, (ii) the selection of in-context demonstrations, (iii) shuffled ensembling to prevent position bias, and (iv) fine-tuning the LLM. We evaluate the prompt templates in combination with hosted LLMs, such as GPT-3.5 and GPT-4, and open-source LLMs which can be run locally. We compare the performance of the LLMs to the PLM-based methods SU-OpenTag, AVEQA, and MAVEQA. The highest average F1-score of 86&#37; was achieved by GPT-4. Llama-3-70B performs only 3&#37; worse than GPT-4, making it a competitive open-source alternative. Given the same training data, this prompt/GPT-4 combination outperforms the best PLM baseline by an average of 6&#37; F1-score.'

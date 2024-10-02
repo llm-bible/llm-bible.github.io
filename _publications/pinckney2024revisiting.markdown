@@ -1,0 +1,12 @@
+---
+layout: publication
+title: 'Revisiting Verilogeval: Newer Llms, In-context Learning, And Specification-to-rtl Tasks'
+authors: Pinckney Nathaniel, Batten Christopher, Liu Mingjie, Ren Haoxing, Khailany Brucek
+conference: "Arxiv"
+year: 2024
+bibkey: pinckney2024revisiting
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2408.11053"}
+tags: ['Applications', 'GPT', 'In Context Learning', 'Merging', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Tools', 'Training Techniques']
+---
+'The application of large-language models (LLMs) to digital hardware code generation is an emerging field. Most LLMs are primarily trained on natural language and software code. Hardware code, such as Verilog, represents only a small portion of the training data and few hardware benchmarks exist. To address this gap, the open-source VerilogEval benchmark was released in 2023, providing a consistent evaluation framework for LLMs on code completion tasks. It was tested on state-of-the-art models at the time including GPT-4. However, VerilogEval and other Verilog generation benchmarks lack failure analysis and, in present form, are not conducive to exploring prompting techniques. Also, since VerilogEval''s release, both commercial and open-source models have seen continued development. In this work, we evaluate new commercial and open-source models of varying sizes against an improved VerilogEval benchmark suite. We enhance VerilogEval''s infrastructure and dataset by automatically classifying failures, introduce new prompts for supporting in-context learning (ICL) examples, and extend the supported tasks to specification-to-RTL translation. We find a measurable improvement in commercial state-of-the-art models, with GPT-4 Turbo achieving a 59&#37; pass rate on spec-to-RTL tasks. We also study the performance of open-source and domain-specific models that have emerged, and demonstrate that models can benefit substantially from ICL. We find that recently-released Llama 3.1 405B achieves a pass rate of 58&#37;, effectively matching that of GPT-4 Turbo, and that the much smaller domain-specific RTL-Coder 6.7B models achieve an impressive 37&#37; pass rate. However, prompt engineering is key to achieving good pass rates, and varies widely with model and task. A benchmark infrastructure that allows for prompt engineering and failure analysis is key to continued model development and deployment.'

@@ -1,0 +1,12 @@
+---
+layout: publication
+title: 'Rigorllm: Resilient Guardrails For Large Language Models Against Undesired Content'
+authors: Yuan Zhuowen, Xiong Zidi, Zeng Yi, Yu Ning, Jia Ruoxi, Song Dawn, Li Bo
+conference: "Arxiv"
+year: 2024
+bibkey: yuan2024resilient
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2403.13031"}
+tags: ['Efficiency And Optimization', 'Ethics And Bias', 'Merging', 'Reinforcement Learning', 'Security', 'Tools', 'Training Techniques']
+---
+Recent advancements in Large Language Models (LLMs) have showcased remarkable capabilities across various tasks in different domains. However, the emergence of biases and the potential for generating harmful content in LLMs, particularly under malicious inputs, pose significant challenges. Current mitigation strategies, while effective, are not resilient under adversarial attacks. This paper introduces Resilient Guardrails for Large Language Models (RigorLLM), a novel framework designed to efficiently and effectively moderate harmful and unsafe inputs and outputs for LLMs. By employing a multi-faceted approach that includes energy-based training data augmentation through Langevin dynamics, optimizing a safe suffix for inputs via minimax optimization, and integrating a fusion-based model combining robust KNN with LLMs based on our data augmentation, RigorLLM offers a robust solution to harmful content moderation. Our experimental evaluations demonstrate that RigorLLM not only outperforms existing baselines like OpenAI API and Perspective API in detecting harmful content but also exhibits unparalleled resilience to jailbreaking attacks. The innovative use of constrained optimization and a fusion-based guardrail approach represents a significant step forward in developing more secure and reliable LLMs, setting a new standard for content moderation frameworks in the face of evolving digital threats.
