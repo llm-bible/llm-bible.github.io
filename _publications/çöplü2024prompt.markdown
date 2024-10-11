@@ -8,6 +8,6 @@ bibkey: çöplü2024prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.14012"}
   - {name: "Code", url: "https://github.com/HaltiaAI/paper-PTODSKC"}
-tags: ['Applications', 'Has Code', 'Prompting']
+tags: ['Applications', 'Has Code', 'Prompting', 'Uncategorized']
 ---
 In applications such as personal assistants, large language models (LLMs) must consider the user's personal information and preferences. However, LLMs lack the inherent ability to learn from user interactions. This paper explores capturing personal information from user prompts using ontology and knowledge-graph approaches. We use a subset of the KNOW ontology, which models personal information, to train the language model on these concepts. We then evaluate the success of knowledge capture using a specially constructed dataset. Our code and datasets are publicly available at https://github.com/HaltiaAI/paper-PTODSKC

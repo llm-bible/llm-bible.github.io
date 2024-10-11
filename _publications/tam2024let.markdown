@@ -7,6 +7,6 @@ year: 2024
 bibkey: tam2024let
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.02442"}
-tags: ['Applications', 'Pretraining Methods', 'Reinforcement Learning']
+tags: ['Applications', 'Reinforcement Learning', 'Uncategorized']
 ---
 Structured generation, the process of producing content in standardized formats like JSON and XML, is widely utilized in real-world applications to extract key output information from large language models (LLMs). This study investigates whether such constraints on generation space impact LLMs' abilities, including reasoning and domain knowledge comprehension. Specifically, we evaluate LLMs' performance when restricted to adhere to structured formats versus generating free-form responses across various common tasks. Surprisingly, we observe a significant decline in LLMs' reasoning abilities under format restrictions. Furthermore, we find that stricter format constraints generally lead to greater performance degradation in reasoning tasks.

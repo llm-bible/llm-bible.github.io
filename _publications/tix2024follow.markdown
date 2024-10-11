@@ -7,6 +7,6 @@ year: 2024
 bibkey: tix2024follow
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12017"}
-tags: ['Applications', 'Reinforcement Learning']
+tags: ['Reinforcement Learning', 'Uncategorized']
 ---
 This study investigates the impact of Large Language Models (LLMs) generating follow-up questions in response to user requests for short (1-page) text documents. Users interacted with a novel web-based AI system designed to ask follow-up questions. Users requested documents they would like the AI to produce. The AI then generated follow-up questions to clarify the user's needs or offer additional insights before generating the requested documents. After answering the questions, users were shown a document generated using both the initial request and the questions and answers, and a document generated using only the initial request. Users indicated which document they preferred and gave feedback about their experience with the question-answering process. The findings of this study show clear benefits to question-asking both in document preference and in the qualitative user experience. This study further shows that users found more value in questions which were thought-provoking, open-ended, or offered unique insights into the user's request as opposed to simple information-gathering questions.

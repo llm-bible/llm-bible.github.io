@@ -8,6 +8,6 @@ bibkey: qiao2022reasoning
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2212.09597v8"}
   - {name: "Code", url: "https://github.com/zjunlp/Prompt4ReasoningPapers"}
-tags: ['Applications', 'Has Code', 'Merging', 'Pretraining Methods', 'Prompting', 'Reinforcement Learning', 'Survey Paper']
+tags: ['Applications', 'Has Code', 'Merging', 'Prompting', 'Reinforcement Learning', 'Survey Paper', 'Uncategorized']
 ---
 Reasoning, as an essential ability for complex problem-solving, can provide back-end support for various real-world applications, such as medical diagnosis, negotiation, etc. This paper provides a comprehensive survey of cutting-edge research on reasoning with language model prompting. We introduce research works with comparisons and summaries and provide systematic resources to help beginners. We also discuss the potential reasons for emerging such reasoning abilities and highlight future research directions. Resources are available at https://github.com/zjunlp/Prompt4ReasoningPapers (updated periodically).

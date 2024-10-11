@@ -7,6 +7,6 @@ year: 2020
 bibkey: malkiel2020catalog
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2009.13292"}
-tags: ['BERT', 'Model Architecture', 'Pretraining Methods', 'Training Techniques']
+tags: ['BERT', 'Model Architecture', 'Training Techniques', 'Uncategorized']
 ---
 Language models that utilize extensive self-supervised pre-training from unlabeled text, have recently shown to significantly advance the state-of-the-art performance in a variety of language understanding tasks. However, it is yet unclear if and how these recent models can be harnessed for conducting text-based recommendations. In this work, we introduce RecoBERT, a BERT-based approach for learning catalog-specialized language models for text-based item recommendations. We suggest novel training and inference procedures for scoring similarities between pairs of items, that don't require item similarity labels. Both the training and the inference techniques were designed to utilize the unlabeled structure of textual catalogs, and minimize the discrepancy between them. By incorporating four scores during inference, RecoBERT can infer text-based item-to-item similarities more accurately than other techniques. In addition, we introduce a new language understanding task for wine recommendations using similarities based on professional wine reviews. As an additional contribution, we publish annotated recommendations dataset crafted by human wine experts. Finally, we evaluate RecoBERT and compare it to various state-of-the-art NLP models on wine and fashion recommendations tasks.

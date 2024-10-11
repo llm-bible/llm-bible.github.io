@@ -7,6 +7,6 @@ year: 2024
 bibkey: grassi2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.17531"}
-tags: ['Pretraining Methods', 'Prompting', 'RAG', 'Reinforcement Learning']
+tags: ['Prompting', 'RAG', 'Reinforcement Learning', 'Uncategorized']
 ---
 This paper presents a system for diversity-aware autonomous conversation leveraging the capabilities of large language models (LLMs). The system adapts to diverse populations and individuals, considering factors like background, personality, age, gender, and culture. The conversation flow is guided by the structure of the system's pre-established knowledge base, while LLMs are tasked with various functions, including generating diversity-aware sentences. Achieving diversity-awareness involves providing carefully crafted prompts to the models, incorporating comprehensive information about users, conversation history, contextual details, and specific guidelines. To assess the system's performance, we conducted both controlled and real-world experiments, measuring a wide range of performance indicators.

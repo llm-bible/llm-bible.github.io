@@ -7,6 +7,6 @@ year: 2023
 bibkey: li2023do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.06555"}
-tags: ['BERT', 'GPT', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning']
+tags: ['BERT', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
 ---
 Large-scale pretrained language models (LMs) are said to lack the ability to connect utterances to the world'' (Bender and Koller, 2020), because they do not have mental models of the world' '(Mitchell and Krakauer, 2023). If so, one would expect LM representations to be unrelated to representations induced by vision models. We present an empirical evaluation across four families of LMs (BERT, GPT-2, OPT and LLaMA-2) and three vision model architectures (ResNet, SegFormer, and MAE). Our experiments show that LMs partially converge towards representations isomorphic to those of vision models, subject to dispersion, polysemy and frequency. This has important implications for both multi-modal processing and the LM understanding debate (Mitchell and Krakauer, 2023).
