@@ -10,6 +10,53 @@ Large Language Models (LLMs) represent a groundbreaking leap in artificial intel
 
 This website is dedicated to exploring the fascinating world of LLMs. Here, you will find a curated collection of research papers, Colab Notebooks, and educational materials to learn about LLMs. 
 
+#### 🏷 Chat with Papers
+
+<div class="chat-container">
+  <div class="chatbox">
+    <div id="messages" class="messages"></div>
+    <div class="input-area">
+      <input id="query" type="text" placeholder="Ask a question..." class="chat-input">
+      <button onclick="sendQuery()" class="send-button">Send</button>
+    </div>
+  </div>
+</div>
+
+<script>
+async function sendQuery() {
+  const query = document.getElementById("query").value;
+  const messagesDiv = document.getElementById("messages");
+
+  // Display user message
+  const userMessage = document.createElement("div");
+  userMessage.classList.add("message", "user");
+  userMessage.textContent = "You: " + query;
+  messagesDiv.appendChild(userMessage);
+  document.getElementById("query").value = ""; // Clear input
+
+  // Fetch response from backend (Replace URL with your API endpoint)
+  const response = await fetch("https://your-backend-url.com/query", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({ query })
+  });
+
+  const result = await response.json();
+
+  // Display bot response
+  const botMessage = document.createElement("div");
+  botMessage.classList.add("message", "bot");
+  botMessage.textContent = "Bot: " + result.answer; // Customize based on API response
+  messagesDiv.appendChild(botMessage);
+
+  // Scroll to the bottom of the chat
+  messagesDiv.scrollTop = messagesDiv.scrollHeight;
+}
+</script>
+
+
 #### 🏷 Browse Papers by Tag
 {% assign rawtags = Array.new %}
 {% for publication in site.publications %}
