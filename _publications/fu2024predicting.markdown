@@ -9,4 +9,18 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11534"}
 tags: ['Agentic', 'Prompting', 'RAG', 'Tools', 'Uncategorized']
 ---
-Addressing the discrepancies between predictions and actual outcomes often aids individuals in expanding their thought processes and engaging in reflection, thereby facilitating reasoning in the correct direction. In this paper, we introduce \\(\textbf{PreAct}\\), an agent framework that integrates \\(\textbf{pre}\\)diction with \\(\textbf{rea}\\)soning and \\(\textbf{act}\\)ion. Leveraging the information provided by predictions, a large language model (LLM) based agent can offer more diversified and strategically oriented reasoning, which in turn leads to more effective actions that help the agent complete complex tasks. Our experiments demonstrate that PreAct outperforms the ReAct approach in accomplishing complex tasks and that PreAct can be co-enhanced when combined with Reflexion methods. We prompt the model with different numbers of historical predictions and find that historical predictions have a sustained positive effect on LLM planning. The differences in single-step reasoning between PreAct and ReAct show that PreAct indeed offers advantages in terms of diversity and strategic directivity over ReAct.
+Addressing the discrepancies between predictions and actual outcomes often
+aids individuals in expanding their thought processes and engaging in
+reflection, thereby facilitating reasoning in the correct direction. In this
+paper, we introduce \\(\textbf\{PreAct\}\\), an agent framework that integrates
+\\(\textbf\{pre\}\\)diction with \\(\textbf\{rea\}\\)soning and \\(\textbf\{act\}\\)ion.
+Leveraging the information provided by predictions, a large language model
+(LLM) based agent can offer more diversified and strategically oriented
+reasoning, which in turn leads to more effective actions that help the agent
+complete complex tasks. Our experiments demonstrate that PreAct outperforms the
+ReAct approach in accomplishing complex tasks and that PreAct can be
+co-enhanced when combined with Reflexion methods. We prompt the model with
+different numbers of historical predictions and find that historical
+predictions have a sustained positive effect on LLM planning. The differences
+in single-step reasoning between PreAct and ReAct show that PreAct indeed
+offers advantages in terms of diversity and strategic directivity over ReAct.

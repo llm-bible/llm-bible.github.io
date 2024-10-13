@@ -9,4 +9,14 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.13571"}
 tags: ['Prompting', 'Tools', 'Uncategorized']
 ---
-This paper delves into the capabilities of large language models (LLMs), specifically focusing on advancing the theoretical comprehension of chain-of-thought prompting. We investigate how LLMs can be effectively induced to generate a coherent chain of thoughts. To achieve this, we introduce a two-level hierarchical graphical model tailored for natural language generation. Within this framework, we establish a compelling geometrical convergence rate that gauges the likelihood of an LLM-generated chain of thoughts compared to those originating from the true language. Our findings provide a theoretical justification for the ability of LLMs to produce the correct sequence of thoughts (potentially) explaining performance gains in tasks demanding reasoning skills.
+This paper delves into the capabilities of large language models (LLMs),
+specifically focusing on advancing the theoretical comprehension of
+chain-of-thought prompting. We investigate how LLMs can be effectively induced
+to generate a coherent chain of thoughts. To achieve this, we introduce a
+two-level hierarchical graphical model tailored for natural language
+generation. Within this framework, we establish a compelling geometrical
+convergence rate that gauges the likelihood of an LLM-generated chain of
+thoughts compared to those originating from the true language. Our findings
+provide a theoretical justification for the ability of LLMs to produce the
+correct sequence of thoughts (potentially) explaining performance gains in
+tasks demanding reasoning skills.

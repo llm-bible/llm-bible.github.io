@@ -9,4 +9,11 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.16896"}
 tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Tools', 'Uncategorized']
 ---
-Large language models (LLMs) have achieved impressive performance on various reasoning tasks. To further improve the performance, we propose MultiTool-CoT, a novel framework that leverages chain-of-thought (CoT) prompting to incorporate multiple external tools, such as a calculator and a knowledge retriever, during the reasoning process. We apply MultiTool-CoT to the Task 2 dataset of NumGLUE, which requires both numerical reasoning and domain-specific knowledge. The experiments show that our method significantly outperforms strong baselines and achieves state-of-the-art performance.
+Large language models (LLMs) have achieved impressive performance on various
+reasoning tasks. To further improve the performance, we propose MultiTool-CoT,
+a novel framework that leverages chain-of-thought (CoT) prompting to
+incorporate multiple external tools, such as a calculator and a knowledge
+retriever, during the reasoning process. We apply MultiTool-CoT to the Task 2
+dataset of NumGLUE, which requires both numerical reasoning and domain-specific
+knowledge. The experiments show that our method significantly outperforms
+strong baselines and achieves state-of-the-art performance.

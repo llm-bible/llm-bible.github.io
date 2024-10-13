@@ -9,4 +9,13 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.08525"}
 tags: ['GPT', 'Model Architecture', 'Prompting', 'Training Techniques', 'Uncategorized']
 ---
-Prompt tuning has recently emerged as an effective method for adapting pre-trained language models to a number of language understanding and generation tasks. In this paper, we investigate prompt tuning for semantic parsing -- the task of mapping natural language utterances onto formal meaning representations. On the low-resource splits of Overnight and TOPv2, we find that a prompt tuned T5-xl significantly outperforms its fine-tuned counterpart, as well as strong GPT-3 and BART baselines. We also conduct ablation studies across different model scales and target representations, finding that, with increasing model scale, prompt tuned T5 models improve at generating target representations that are far from the pre-training distribution.
+Prompt tuning has recently emerged as an effective method for adapting
+pre-trained language models to a number of language understanding and
+generation tasks. In this paper, we investigate prompt tuning for semantic
+parsing -- the task of mapping natural language utterances onto formal meaning
+representations. On the low-resource splits of Overnight and TOPv2, we find
+that a prompt tuned T5-xl significantly outperforms its fine-tuned counterpart,
+as well as strong GPT-3 and BART baselines. We also conduct ablation studies
+across different model scales and target representations, finding that, with
+increasing model scale, prompt tuned T5 models improve at generating target
+representations that are far from the pre-training distribution.

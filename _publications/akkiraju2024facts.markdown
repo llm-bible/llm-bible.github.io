@@ -9,4 +9,21 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.07858"}
 tags: ['Agentic', 'Applications', 'Fine Tuning', 'Merging', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'RAG', 'Security', 'Tools', 'Training Techniques']
 ---
-Enterprise chatbots, powered by generative AI, are emerging as key applications to enhance employee productivity. Retrieval Augmented Generation (RAG), Large Language Models (LLMs), and orchestration frameworks like Langchain and Llamaindex are crucial for building these chatbots. However, creating effective enterprise chatbots is challenging and requires meticulous RAG pipeline engineering. This includes fine-tuning embeddings and LLMs, extracting documents from vector databases, rephrasing queries, reranking results, designing prompts, honoring document access controls, providing concise responses, including references, safeguarding personal information, and building orchestration agents. We present a framework for building RAG-based chatbots based on our experience with three NVIDIA chatbots: for IT/HR benefits, financial earnings, and general content. Our contributions are three-fold: introducing the FACTS framework (Freshness, Architectures, Cost, Testing, Security), presenting fifteen RAG pipeline control points, and providing empirical results on accuracy-latency tradeoffs between large and small LLMs. To the best of our knowledge, this is the first paper of its kind that provides a holistic view of the factors as well as solutions for building secure enterprise-grade chatbots.
+Enterprise chatbots, powered by generative AI, are emerging as key
+applications to enhance employee productivity. Retrieval Augmented Generation
+(RAG), Large Language Models (LLMs), and orchestration frameworks like
+Langchain and Llamaindex are crucial for building these chatbots. However,
+creating effective enterprise chatbots is challenging and requires meticulous
+RAG pipeline engineering. This includes fine-tuning embeddings and LLMs,
+extracting documents from vector databases, rephrasing queries, reranking
+results, designing prompts, honoring document access controls, providing
+concise responses, including references, safeguarding personal information, and
+building orchestration agents. We present a framework for building RAG-based
+chatbots based on our experience with three NVIDIA chatbots: for IT/HR
+benefits, financial earnings, and general content. Our contributions are
+three-fold: introducing the FACTS framework (Freshness, Architectures, Cost,
+Testing, Security), presenting fifteen RAG pipeline control points, and
+providing empirical results on accuracy-latency tradeoffs between large and
+small LLMs. To the best of our knowledge, this is the first paper of its kind
+that provides a holistic view of the factors as well as solutions for building
+secure enterprise-grade chatbots."

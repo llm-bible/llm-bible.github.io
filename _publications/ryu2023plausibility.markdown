@@ -9,4 +9,16 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.13824"}
 tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Transformer']
 ---
-The goal of this paper is to explore how Transformer language models process semantic knowledge, especially regarding the plausibility of noun-verb relations. First, I demonstrate GPT2 exhibits a higher degree of similarity with humans in plausibility processing compared to other Transformer language models. Next, I delve into how knowledge of plausibility is contained within attention heads of GPT2 and how these heads causally contribute to GPT2's plausibility processing ability. Through several experiments, it was found that: i) GPT2 has a number of attention heads that detect plausible noun-verb relationships; ii) these heads collectively contribute to the Transformer's ability to process plausibility, albeit to varying degrees; and iii) attention heads' individual performance in detecting plausibility does not necessarily correlate with how much they contribute to GPT2's plausibility processing ability.
+The goal of this paper is to explore how Transformer language models process
+semantic knowledge, especially regarding the plausibility of noun-verb
+relations. First, I demonstrate GPT2 exhibits a higher degree of similarity
+with humans in plausibility processing compared to other Transformer language
+models. Next, I delve into how knowledge of plausibility is contained within
+attention heads of GPT2 and how these heads causally contribute to GPT2's
+plausibility processing ability. Through several experiments, it was found
+that: i) GPT2 has a number of attention heads that detect plausible noun-verb
+relationships; ii) these heads collectively contribute to the Transformer's
+ability to process plausibility, albeit to varying degrees; and iii) attention
+heads' individual performance in detecting plausibility does not necessarily
+correlate with how much they contribute to GPT2's plausibility processing
+ability.

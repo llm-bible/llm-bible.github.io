@@ -9,4 +9,11 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.11135"}
 tags: ['Tools', 'Uncategorized']
 ---
-Large Language Models (LLMs) are versatile, yet they often falter in tasks requiring deep and reliable reasoning due to issues like hallucinations, limiting their applicability in critical scenarios. This paper introduces a rigorously designed framework for creating LLMs that effectively anchor knowledge and employ a closed-loop reasoning process, enhancing their capability for in-depth analysis. We dissect the framework to illustrate the contribution of each component to the LLMs' performance, offering a theoretical assurance of improved reasoning under well-defined assumptions.
+Large Language Models (LLMs) are versatile, yet they often falter in tasks
+requiring deep and reliable reasoning due to issues like hallucinations,
+limiting their applicability in critical scenarios. This paper introduces a
+rigorously designed framework for creating LLMs that effectively anchor
+knowledge and employ a closed-loop reasoning process, enhancing their
+capability for in-depth analysis. We dissect the framework to illustrate the
+contribution of each component to the LLMs' performance, offering a theoretical
+assurance of improved reasoning under well-defined assumptions.

@@ -9,4 +9,16 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.11638"}
 tags: ['Applications', 'GPT', 'Model Architecture', 'Pretraining Methods', 'RAG', 'Reinforcement Learning', 'Security', 'Tools', 'Training Techniques']
 ---
-Previous studies have relied on existing question-answering benchmarks to evaluate the knowledge stored in large language models (LLMs). However, this approach has limitations regarding factual knowledge coverage, as it mostly focuses on generic domains which may overlap with the pretraining data. This paper proposes a framework to systematically assess the factual knowledge of LLMs by leveraging knowledge graphs (KGs). Our framework automatically generates a set of questions and expected answers from the facts stored in a given KG, and then evaluates the accuracy of LLMs in answering these questions. We systematically evaluate the state-of-the-art LLMs with KGs in generic and specific domains. The experiment shows that ChatGPT is consistently the top performer across all domains. We also find that LLMs performance depends on the instruction finetuning, domain and question complexity and is prone to adversarial context.
+Previous studies have relied on existing question-answering benchmarks to
+evaluate the knowledge stored in large language models (LLMs). However, this
+approach has limitations regarding factual knowledge coverage, as it mostly
+focuses on generic domains which may overlap with the pretraining data. This
+paper proposes a framework to systematically assess the factual knowledge of
+LLMs by leveraging knowledge graphs (KGs). Our framework automatically
+generates a set of questions and expected answers from the facts stored in a
+given KG, and then evaluates the accuracy of LLMs in answering these questions.
+We systematically evaluate the state-of-the-art LLMs with KGs in generic and
+specific domains. The experiment shows that ChatGPT is consistently the top
+performer across all domains. We also find that LLMs performance depends on the
+instruction finetuning, domain and question complexity and is prone to
+adversarial context.

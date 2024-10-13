@@ -9,4 +9,16 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.13139"}
 tags: ['Applications', 'Attention Mechanism', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods', 'Reinforcement Learning', 'Training Techniques', 'Transformer']
 ---
-Human-like attention as a supervisory signal to guide neural attention has shown significant promise but is currently limited to uni-modal integration - even for inherently multimodal tasks such as visual question answering (VQA). We present the Multimodal Human-like Attention Network (MULAN) - the first method for multimodal integration of human-like attention on image and text during training of VQA models. MULAN integrates attention predictions from two state-of-the-art text and image saliency models into neural self-attention layers of a recent transformer-based VQA model. Through evaluations on the challenging VQAv2 dataset, we show that MULAN achieves a new state-of-the-art performance of 73.98&#37; accuracy on test-std and 73.72&#37; on test-dev and, at the same time, has approximately 80&#37; fewer trainable parameters than prior work. Overall, our work underlines the potential of integrating multimodal human-like and neural attention for VQA
+Human-like attention as a supervisory signal to guide neural attention has
+shown significant promise but is currently limited to uni-modal integration -
+even for inherently multimodal tasks such as visual question answering (VQA).
+We present the Multimodal Human-like Attention Network (MULAN) - the first
+method for multimodal integration of human-like attention on image and text
+during training of VQA models. MULAN integrates attention predictions from two
+state-of-the-art text and image saliency models into neural self-attention
+layers of a recent transformer-based VQA model. Through evaluations on the
+challenging VQAv2 dataset, we show that MULAN achieves a new state-of-the-art
+performance of 73.98% accuracy on test-std and 73.72% on test-dev and, at the
+same time, has approximately 80% fewer trainable parameters than prior work.
+Overall, our work underlines the potential of integrating multimodal human-like
+and neural attention for VQA

@@ -9,4 +9,18 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02301"}
 tags: ['Fine Tuning', 'Uncategorized']
 ---
-Large language models (LLMs) with Chain-of-thought (CoT) have recently emerged as a powerful technique for eliciting reasoning to improve various downstream tasks. As most research mainly focuses on English, with few explorations in a multilingual context, the question of how reliable this reasoning capability is in different languages is still open. To address it directly, we study multilingual reasoning consistency across multiple languages, using popular open-source LLMs. First, we compile the first large-scale multilingual math reasoning dataset, mCoT-MATH, covering eleven diverse languages. Then, we introduce multilingual CoT instruction tuning to boost reasoning capability across languages, thereby improving model consistency. While existing LLMs show substantial variation across the languages we consider, and especially low performance for lesser resourced languages, our 7B parameter model mCoT achieves impressive consistency across languages, and superior or comparable performance to close- and open-source models even of much larger sizes.
+Large language models (LLMs) with Chain-of-thought (CoT) have recently
+emerged as a powerful technique for eliciting reasoning to improve various
+downstream tasks. As most research mainly focuses on English, with few
+explorations in a multilingual context, the question of how reliable this
+reasoning capability is in different languages is still open. To address it
+directly, we study multilingual reasoning consistency across multiple
+languages, using popular open-source LLMs. First, we compile the first
+large-scale multilingual math reasoning dataset, mCoT-MATH, covering eleven
+diverse languages. Then, we introduce multilingual CoT instruction tuning to
+boost reasoning capability across languages, thereby improving model
+consistency. While existing LLMs show substantial variation across the
+languages we consider, and especially low performance for lesser resourced
+languages, our 7B parameter model mCoT achieves impressive consistency across
+languages, and superior or comparable performance to close- and open-source
+models even of much larger sizes.

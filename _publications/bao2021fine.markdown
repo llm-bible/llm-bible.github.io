@@ -10,4 +10,16 @@ additional_links:
   - {name: "Code", url: "https://github.com/microsoft/unilm/tree/master/s2s-ft"}
 tags: ['Applications', 'BERT', 'Fine Tuning', 'Has Code', 'Model Architecture', 'Pretraining Methods', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Transformer']
 ---
-Pretrained bidirectional Transformers, such as BERT, have achieved significant improvements in a wide variety of language understanding tasks, while it is not straightforward to directly apply them for natural language generation. In this paper, we present a sequence-to-sequence fine-tuning toolkit s2s-ft, which adopts pretrained Transformers for conditional generation tasks. Inspired by UniLM, we implement three sequence-to-sequence fine-tuning algorithms, namely, causal fine-tuning, masked fine-tuning, and pseudo-masked fine-tuning. By leveraging the existing pretrained bidirectional Transformers, experimental results show that s2s-ft achieves strong performance on several benchmarks of abstractive summarization, and question generation. Moreover, we demonstrate that the package s2s-ft supports both monolingual and multilingual NLG tasks. The s2s-ft toolkit is available at https://github.com/microsoft/unilm/tree/master/s2s-ft.
+Pretrained bidirectional Transformers, such as BERT, have achieved
+significant improvements in a wide variety of language understanding tasks,
+while it is not straightforward to directly apply them for natural language
+generation. In this paper, we present a sequence-to-sequence fine-tuning
+toolkit s2s-ft, which adopts pretrained Transformers for conditional generation
+tasks. Inspired by UniLM, we implement three sequence-to-sequence fine-tuning
+algorithms, namely, causal fine-tuning, masked fine-tuning, and pseudo-masked
+fine-tuning. By leveraging the existing pretrained bidirectional Transformers,
+experimental results show that s2s-ft achieves strong performance on several
+benchmarks of abstractive summarization, and question generation. Moreover, we
+demonstrate that the package s2s-ft supports both monolingual and multilingual
+NLG tasks. The s2s-ft toolkit is available at
+https://github.com/microsoft/unilm/tree/master/s2s-ft.

@@ -9,4 +9,26 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.15470"}
 tags: ['Applications', 'Attention Mechanism', 'Language Modeling', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
-The advancement of Large Language Models (LLMs) has significantly transformed the field of natural language processing, although the focus on English-centric models has created a noticeable research gap for specific languages, including Vietnamese. To address this issue, this paper presents vi-mistral-x, an innovative Large Language Model designed expressly for the Vietnamese language. It utilizes a unique method of continual pre-training, based on the Mistral architecture, which incorporates grouped-query attention and sliding window attention techniques. This model, vi-Mistral-X, marks a significant step forward in improving the understanding and generation of the Vietnamese language. It introduces an additional phase of continual pre-training, specifically adapted for Vietnamese, enhancing the model's capability in understanding complex language nuances and generating accurate, context-aware Vietnamese text. Through comprehensive testing on various benchmarks, vi-mistral-x has shown to outperform existing Vietnamese LLMs in several key areas, including text classification, question answering, and text generation. Particularly, in the Vietnamese Multitask Language Understanding (VMLU) benchmark, vi-mistral-x sets a new standard, outperforming other available models significantly. This paper highlights the critical role of continual pre-training in advancing language-specific LLMs and opens new avenues for the development of multilingual models. We aim for vi-mistral-x to not just be an important asset for processing the Vietnamese language but also to encourage more advancements in creating large language models for languages that are less represented.
+The advancement of Large Language Models (LLMs) has significantly transformed
+the field of natural language processing, although the focus on English-centric
+models has created a noticeable research gap for specific languages, including
+Vietnamese. To address this issue, this paper presents vi-mistral-x, an
+innovative Large Language Model designed expressly for the Vietnamese language.
+It utilizes a unique method of continual pre-training, based on the Mistral
+architecture, which incorporates grouped-query attention and sliding window
+attention techniques. This model, vi-Mistral-X, marks a significant step
+forward in improving the understanding and generation of the Vietnamese
+language. It introduces an additional phase of continual pre-training,
+specifically adapted for Vietnamese, enhancing the model's capability in
+understanding complex language nuances and generating accurate, context-aware
+Vietnamese text. Through comprehensive testing on various benchmarks,
+vi-mistral-x has shown to outperform existing Vietnamese LLMs in several key
+areas, including text classification, question answering, and text generation.
+Particularly, in the Vietnamese Multitask Language Understanding (VMLU)
+benchmark, vi-mistral-x sets a new standard, outperforming other available
+models significantly. This paper highlights the critical role of continual
+pre-training in advancing language-specific LLMs and opens new avenues for the
+development of multilingual models. We aim for vi-mistral-x to not just be an
+important asset for processing the Vietnamese language but also to encourage
+more advancements in creating large language models for languages that are less
+represented.

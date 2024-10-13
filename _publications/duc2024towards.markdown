@@ -9,4 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.01616"}
 tags: ['RAG']
 ---
-This paper presents our contributions towards advancing the state of Vietnamese language understanding and generation through the development and dissemination of open datasets and pre-trained models for Vietnamese Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs).
+This paper presents our contributions towards advancing the state of
+Vietnamese language understanding and generation through the development and
+dissemination of open datasets and pre-trained models for Vietnamese
+Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs).

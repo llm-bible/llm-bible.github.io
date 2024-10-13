@@ -9,4 +9,19 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.14862"}
 tags: ['Agentic', 'Fine Tuning', 'Pretraining Methods', 'Reinforcement Learning', 'Training Techniques']
 ---
-As the latest advancements in natural language processing, large language models (LLMs) have achieved human-level language understanding and generation abilities in many real-world tasks, and even have been regarded as a potential path to the artificial general intelligence. To better facilitate research on LLMs, many open-source LLMs, such as Llama 2 and Falcon, have recently been proposed and gained comparable performances to proprietary models. However, these models are primarily designed for English scenarios and exhibit poor performances in Chinese contexts. In this technical report, we propose YAYI 2, including both base and chat models, with 30 billion parameters. YAYI 2 is pre-trained from scratch on a multilingual corpus which contains 2.65 trillion tokens filtered by our pre-training data processing pipeline. The base model is aligned with human values through supervised fine-tuning with millions of instructions and reinforcement learning from human feedback. Extensive experiments on multiple benchmarks, such as MMLU and CMMLU, consistently demonstrate that the proposed YAYI 2 outperforms other similar sized open-source models.
+As the latest advancements in natural language processing, large language
+models (LLMs) have achieved human-level language understanding and generation
+abilities in many real-world tasks, and even have been regarded as a potential
+path to the artificial general intelligence. To better facilitate research on
+LLMs, many open-source LLMs, such as Llama 2 and Falcon, have recently been
+proposed and gained comparable performances to proprietary models. However,
+these models are primarily designed for English scenarios and exhibit poor
+performances in Chinese contexts. In this technical report, we propose YAYI 2,
+including both base and chat models, with 30 billion parameters. YAYI 2 is
+pre-trained from scratch on a multilingual corpus which contains 2.65 trillion
+tokens filtered by our pre-training data processing pipeline. The base model is
+aligned with human values through supervised fine-tuning with millions of
+instructions and reinforcement learning from human feedback. Extensive
+experiments on multiple benchmarks, such as MMLU and CMMLU, consistently
+demonstrate that the proposed YAYI 2 outperforms other similar sized
+open-source models.

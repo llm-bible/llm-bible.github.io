@@ -10,4 +10,13 @@ additional_links:
   - {name: "Code", url: "https://github.com/navidre/negated_complementary_commonsense"}
 tags: ['Few Shot', 'GPT', 'Has Code', 'Model Architecture', 'Uncategorized']
 ---
-Larger language models, such as GPT-3, have shown to be excellent in many tasks. However, we demonstrate that out-of-ordinary questions can throw the model off guard. This work focuses on finding answers to negated complementary questions in commonsense scenarios. We illustrate how such questions adversely affect the model responses. We propose a model-agnostic methodology to improve the performance in negated complementary scenarios. Our method outperforms few-shot generation from GPT-3 (by more than 11 points) and, more importantly, highlights the significance of studying the response of large language models in negated complementary questions. The code, data, and experiments are available under: https://github.com/navidre/negated\_complementary\_commonsense.
+Larger language models, such as GPT-3, have shown to be excellent in many
+tasks. However, we demonstrate that out-of-ordinary questions can throw the
+model off guard. This work focuses on finding answers to negated complementary
+questions in commonsense scenarios. We illustrate how such questions adversely
+affect the model responses. We propose a model-agnostic methodology to improve
+the performance in negated complementary scenarios. Our method outperforms
+few-shot generation from GPT-3 (by more than 11 points) and, more importantly,
+highlights the significance of studying the response of large language models
+in negated complementary questions. The code, data, and experiments are
+available under: https://github.com/navidre/negated_complementary_commonsense.

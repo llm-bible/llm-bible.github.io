@@ -9,4 +9,15 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.09590"}
 tags: ['Efficiency And Optimization', 'Model Architecture', 'Pruning', 'Reinforcement Learning', 'Training Techniques']
 ---
-By increasing model parameters but activating them sparsely when performing a task, the use of Mixture-of-Experts (MoE) architecture significantly improves the performance of Large Language Models (LLMs) without increasing the inference cost. However, the memory consumption due to the growing number of experts presents a challenge to the deployment of these models in many real world settings. Our empirical study reveals that some experts encode redundant knowledge during pre-training. We thus propose a method of grouping and pruning similar experts to improve model's parameter efficiency. We validate the effectiveness of our method by pruning two state-of-the-art MoE models, Mixtral-8x7B and Mixtral-8x22B. Evaluation shows that our method outperforms other model pruning methods on a range of natural language tasks. To facilitate future research, we will release our code and the pruned MoE models.
+By increasing model parameters but activating them sparsely when performing a
+task, the use of Mixture-of-Experts (MoE) architecture significantly improves
+the performance of Large Language Models (LLMs) without increasing the
+inference cost. However, the memory consumption due to the growing number of
+experts presents a challenge to the deployment of these models in many real
+world settings. Our empirical study reveals that some experts encode redundant
+knowledge during pre-training. We thus propose a method of grouping and pruning
+similar experts to improve model's parameter efficiency. We validate the
+effectiveness of our method by pruning two state-of-the-art MoE models,
+Mixtral-8x7B and Mixtral-8x22B. Evaluation shows that our method outperforms
+other model pruning methods on a range of natural language tasks. To facilitate
+future research, we will release our code and the pruned MoE models.

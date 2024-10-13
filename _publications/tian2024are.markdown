@@ -9,4 +9,16 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.13248"}
 tags: ['RAG', 'Tools', 'Uncategorized']
 ---
-This paper investigates the capability of LLMs in storytelling, focusing on narrative development and plot progression. We introduce a novel computational framework to analyze narratives through three discourse-level aspects: i) story arcs, ii) turning points, and iii) affective dimensions, including arousal and valence. By leveraging expert and automatic annotations, we uncover significant discrepancies between the LLM- and human- written stories. While human-written stories are suspenseful, arousing, and diverse in narrative structures, LLM stories are homogeneously positive and lack tension. Next, we measure narrative reasoning skills as a precursor to generative capacities, concluding that most LLMs fall short of human abilities in discourse understanding. Finally, we show that explicit integration of aforementioned discourse features can enhance storytelling, as is demonstrated by over 40&#37; improvement in neural storytelling in terms of diversity, suspense, and arousal.
+This paper investigates the capability of LLMs in storytelling, focusing on
+narrative development and plot progression. We introduce a novel computational
+framework to analyze narratives through three discourse-level aspects: i) story
+arcs, ii) turning points, and iii) affective dimensions, including arousal and
+valence. By leveraging expert and automatic annotations, we uncover significant
+discrepancies between the LLM- and human- written stories. While human-written
+stories are suspenseful, arousing, and diverse in narrative structures, LLM
+stories are homogeneously positive and lack tension. Next, we measure narrative
+reasoning skills as a precursor to generative capacities, concluding that most
+LLMs fall short of human abilities in discourse understanding. Finally, we show
+that explicit integration of aforementioned discourse features can enhance
+storytelling, as is demonstrated by over 40% improvement in neural storytelling
+in terms of diversity, suspense, and arousal.

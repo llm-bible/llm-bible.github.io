@@ -9,4 +9,14 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.08015"}
 tags: ['Attention Mechanism', 'Fine Tuning', 'Model Architecture', 'Pretraining Methods', 'Training Techniques']
 ---
-Large language models (LLMs) have received a lot of attention in natural language processing (NLP) research because of their exceptional performance in understanding and generating human languages. However, low-resource languages are left behind due to the unavailability of resources. In this work, we focus on enhancing the LLaMA-2-Amharic model by integrating task-specific and generative datasets to improve language model performance for Amharic. We compile an Amharic instruction fine-tuning dataset and fine-tuned LLaMA-2-Amharic model. The fine-tuned model shows promising results in different NLP tasks. We open-source our dataset creation pipeline, instruction datasets, trained models, and evaluation outputs to promote language-specific studies on these models.
+Large language models (LLMs) have received a lot of attention in natural
+language processing (NLP) research because of their exceptional performance in
+understanding and generating human languages. However, low-resource languages
+are left behind due to the unavailability of resources. In this work, we focus
+on enhancing the LLaMA-2-Amharic model by integrating task-specific and
+generative datasets to improve language model performance for Amharic. We
+compile an Amharic instruction fine-tuning dataset and fine-tuned
+LLaMA-2-Amharic model. The fine-tuned model shows promising results in
+different NLP tasks. We open-source our dataset creation pipeline, instruction
+datasets, trained models, and evaluation outputs to promote language-specific
+studies on these models.

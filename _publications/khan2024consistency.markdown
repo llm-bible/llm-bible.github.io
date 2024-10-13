@@ -9,4 +9,22 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.10193"}
 tags: ['Applications', 'GPT', 'Model Architecture', 'Multimodal Models', 'Responsible AI', 'Security', 'Training Techniques']
 ---
-The goal of selective prediction is to allow an a model to abstain when it may not be able to deliver a reliable prediction, which is important in safety-critical contexts. Existing approaches to selective prediction typically require access to the internals of a model, require retraining a model or study only unimodal models. However, the most powerful models (e.g. GPT-4) are typically only available as black boxes with inaccessible internals, are not retrainable by end-users, and are frequently used for multimodal tasks. We study the possibility of selective prediction for vision-language models in a realistic, black-box setting. We propose using the principle of \textit\{neighborhood consistency\} to identify unreliable responses from a black-box vision-language model in question answering tasks. We hypothesize that given only a visual question and model response, the consistency of the model's responses over the neighborhood of a visual question will indicate reliability. It is impossible to directly sample neighbors in feature space in a black-box setting. Instead, we show that it is possible to use a smaller proxy model to approximately sample from the neighborhood. We find that neighborhood consistency can be used to identify model responses to visual questions that are likely unreliable, even in adversarial settings or settings that are out-of-distribution to the proxy model.
+The goal of selective prediction is to allow an a model to abstain when it
+may not be able to deliver a reliable prediction, which is important in
+safety-critical contexts. Existing approaches to selective prediction typically
+require access to the internals of a model, require retraining a model or study
+only unimodal models. However, the most powerful models (e.g. GPT-4) are
+typically only available as black boxes with inaccessible internals, are not
+retrainable by end-users, and are frequently used for multimodal tasks. We
+study the possibility of selective prediction for vision-language models in a
+realistic, black-box setting. We propose using the principle of
+\textit\{neighborhood consistency\} to identify unreliable responses from a
+black-box vision-language model in question answering tasks. We hypothesize
+that given only a visual question and model response, the consistency of the
+model's responses over the neighborhood of a visual question will indicate
+reliability. It is impossible to directly sample neighbors in feature space in
+a black-box setting. Instead, we show that it is possible to use a smaller
+proxy model to approximately sample from the neighborhood. We find that
+neighborhood consistency can be used to identify model responses to visual
+questions that are likely unreliable, even in adversarial settings or settings
+that are out-of-distribution to the proxy model.
