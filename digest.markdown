@@ -6,11 +6,22 @@ description: LLM News Digest
 
 Join our news digest featuring the latest papers on Large Language Models:
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-  <iframe 
-    src="https://39de20b4.sibforms.com/serve/MUIFAHQEgdNDu5l4YhdypghxshNaK-PnzGUx5lxHJmUIPP8rFk0dUXS6iaU1fI7z3bxuehVYoESgCPRzNwyysEkXX5-5RtqCDBjtrFKruO2c4EVyl57VkSK9nrraYiYmXV9l0hOQk6HcMAxrTOymGgf2QxK6gsTFSpw9AprJKVWhnV3ZsJO5EIuUF7xSRcoKp-vwQFS9zS1q-OOi" 
-    frameborder="0" 
-    scrolling="auto" 
-    allowfullscreen="" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-</div>
+<form action="https://formkeep.com/f/23edb263fbb7" accept-charset="UTF-8" enctype="multipart/form-data" method="POST" style="max-width: 100%; margin: auto;">
+  <input type="text" name="email" style="width: 100%; max-width: 700px; font-weight: bold; border: 2px solid #000; padding: 10px;" placeholder="Your Email Address"><br><br>
+  <button type="submit" style="font-weight: bold; color: black; border: 2px solid #000; padding: 10px 20px; background-color: #f5f5f5;">Submit</button>
+</form>
+
+<style>
+  form {
+    width: 90%;
+    margin: auto;
+    max-width: 700px;
+  }
+
+  @media (max-width: 768px) {
+    input, button {
+      width: 100%;
+      max-width: none;
+    }
+  }
+</style>
