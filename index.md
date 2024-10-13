@@ -47,6 +47,84 @@ Feel free to ask any questions related to Large Language Models (LLMs) or resear
   </div>
 </div>
 
+<style>
+/* Chatbox Container */
+.chat-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.chatbox {
+  width: 400px;
+  max-width: 100%;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: #ffffff;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+}
+
+.messages {
+  padding: 15px;
+  height: 400px;
+  overflow-y: scroll;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.message {
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  max-width: 80%;
+  word-wrap: break-word;
+}
+
+.user {
+  align-self: flex-end;
+  background-color: #d1e7ff;
+  text-align: right;
+}
+
+.bot {
+  align-self: flex-start;
+  background-color: #e8f5e9;
+  text-align: left;
+}
+
+.input-area {
+  display: flex;
+  padding: 10px;
+  border-top: 1px solid #e0e0e0;
+  background-color: #fafafa;
+}
+
+.chat-input {
+  flex-grow: 1;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+}
+
+.send-button {
+  margin-left: 10px;
+  padding: 10px 20px;
+  background-color: #2196f3;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.send-button:hover {
+  background-color: #1e88e5;
+}
+</style>
+
 <script>
 async function sendQuery() {
   const query = document.getElementById("query").value;
