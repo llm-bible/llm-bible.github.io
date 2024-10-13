@@ -20,19 +20,6 @@ This website is dedicated to exploring the fascinating world of LLMs. Here, you 
 {% assign rawtags = rawtags | uniq | sort_natural %}
 {% for tag in rawtags %}<tag><a href="/tags.html#{{ tag }}">{{ tag }}</a></tag> {% endfor %}
 
-### About This Site
-
-This site is an experiment: a [living literature review](https://en.wikipedia.org/wiki/Living_review) that allows
-you explore, [search and navigate]({% link papers.html %}) the literature in this area.
-
-### Contributing
-
-This research area is evolving so fast that a static review cannot keep up.
-But a website can! We hope to make this site a living document.
-Anyone can add a paper to this web site, by completing a [web form](contributing.html).
-
----
-
 ## Chat with the LLM Bible Bot
 
 Feel free to ask any questions related to Large Language Models (LLMs) or research resources here:
@@ -158,6 +145,17 @@ async function sendQuery() {
   messagesDiv.scrollTop = messagesDiv.scrollHeight;
 }
 </script>
+
+### About This Site
+
+This site is an experiment: a [living literature review](https://en.wikipedia.org/wiki/Living_review) that allows
+you explore, [search and navigate]({% link papers.html %}) the literature in this area.
+
+### Contributing
+
+This research area is evolving so fast that a static review cannot keep up.
+But a website can! We hope to make this site a living document.
+Anyone can add a paper to this web site, by completing a [web form](contributing.html).
 
 ---
 
