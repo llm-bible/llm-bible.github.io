@@ -20,9 +20,9 @@ This website is dedicated to exploring the fascinating world of LLMs. Here, you 
 {% assign rawtags = rawtags | uniq | sort_natural %}
 {% for tag in rawtags %}<tag><a href="/tags.html#{{ tag }}">{{ tag }}</a></tag> {% endfor %}
 
-## Chat with the LLM Bible Bot
+## Chat with the LLM-Bible Bot
 
-LLM-Bible Bot is an expert on all the papers you will find on the site, which is currently well over 10,000. Feel free to ask any questions related to Large Language Models (LLMs) or research resources here:
+LLM-Bible Bot is a world expert on all the papers you will find on the site, which is currently well over 10,000 articles and expanding. Feel free to ask any questions related to Large Language Models (LLMs) or research resources here:
 
 <div class="chat-container">
   <div class="chatbox">
