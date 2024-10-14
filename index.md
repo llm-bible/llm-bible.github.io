@@ -9,7 +9,7 @@ Large Language Models (LLMs) represent a groundbreaking leap in artificial intel
 
 ![Emergent capabilities of LLMs with growing parameter count](llm-tree.gif)
 
-This website is dedicated to exploring the fascinating world of LLMs. Here, you will find a curated collection of research papers, Colab Notebooks, and educational materials to learn about LLMs. 
+This website is dedicated to exploring the fascinating world of LLMs. Here, you will find a curated collection of research papers and educational materials to learn about LLMs. 
 
 #### 🏷 Browse Papers by Tag
 {% assign rawtags = Array.new %}
@@ -22,7 +22,7 @@ This website is dedicated to exploring the fascinating world of LLMs. Here, you 
 
 ## Chat with the LLM Bible Bot
 
-Feel free to ask any questions related to Large Language Models (LLMs) or research resources here:
+LLM-Bible Bot is an expert on all the papers you will find on the site, which is currently well over 10,000. Feel free to ask any questions related to Large Language Models (LLMs) or research resources here:
 
 <div class="chat-container">
   <div class="chatbox">
