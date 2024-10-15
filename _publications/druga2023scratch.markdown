@@ -19,7 +19,7 @@ and generated responses from LLMs with and without practice tasks, resulting in
 120 creative coding support scenario datasets. In addition, the authors
 independently evaluated their precision, pedagogical value, and age-appropriate
 language. Our findings show that LLMs achieved an overall success rate of more
-than 80\% on the different tasks and evaluation criteria. This research offers
+than 80% on the different tasks and evaluation criteria. This research offers
 valuable information on using LLMs for creative family coding and presents
 design guidelines for future AI-supported coding applications. Our evaluation
 framework, together with our labeled evaluation data, is publicly available.

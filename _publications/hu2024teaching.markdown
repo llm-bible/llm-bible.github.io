@@ -22,7 +22,7 @@ the model by learning from its self-generated feedback and refinements,
 creating a feedback loop that promotes model improvement. Our empirical
 evaluations demonstrate that SRT significantly outperforms strong baselines
 across diverse tasks and model sizes. When applied to a 70B parameter model,
-SRT increases the win rate from 9.6\% to 25.8\% on the AlpacaEval 2.0
+SRT increases the win rate from 9.6% to 25.8% on the AlpacaEval 2.0
 benchmark, surpassing well-established systems such as GPT-4-0314, Claude 2,
 and Gemini. Our analysis highlights the crucial role of language feedback in
 the success of SRT, suggesting potential for further exploration in this

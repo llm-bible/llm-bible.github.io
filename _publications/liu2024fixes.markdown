@@ -23,7 +23,7 @@ Learning (RL) tuning approach for targeted refinement. Specifically, we find
 sequential tuning on Rewrite and proofread tasks yields the best quality in SFT
 stage, and propose global and direct rewards in the RL tuning stage to seek
 further improvement. Extensive experiments on a human-labeled golden set showed
-our tuned PaLM2-XS model achieved 85.56\% good ratio. We launched the feature
+our tuned PaLM2-XS model achieved 85.56% good ratio. We launched the feature
 to Pixel 8 devices by serving the model on TPU v5 in Google Cloud, with
 thousands of daily active users. Serving latency was significantly reduced by
 quantization, bucket inference, text segmentation, and speculative decoding.

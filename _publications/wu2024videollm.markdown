@@ -22,9 +22,9 @@ than decreasing the number of vision tokens. Our method, VideoLLM-MoD, is
 inspired by mixture-of-depths LLMs and addresses the challenge of numerous
 vision tokens in long-term or streaming video. Specifically, for each
 transformer layer, we learn to skip the computation for a high proportion
-(e.g., 80\%) of vision tokens, passing them directly to the next layer. This
+(e.g., 80%) of vision tokens, passing them directly to the next layer. This
 approach significantly enhances model efficiency, achieving approximately
-\textasciitilde42\% time and \textasciitilde30\% memory savings for the entire
+\textasciitilde42% time and \textasciitilde30% memory savings for the entire
 training. Moreover, our method reduces the computation in the context and avoid
 decreasing the vision tokens, thus preserving or even improving performance
 compared to the vanilla model. We conduct extensive experiments to demonstrate

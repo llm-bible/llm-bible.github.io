@@ -19,7 +19,7 @@ enhancing questions by incorporating relevant external knowledge extracted from
 knowledge graphs, using a dynamic triple extraction method. We supply a
 flexible number of triples from the knowledge graph as context, tailored to
 meet the requirements for answering the question. Our model, enriched with
-knowledge, demonstrates an average improvement of 4.75\% in Exact Match Score
+knowledge, demonstrates an average improvement of 4.75% in Exact Match Score
 over the state-of-the-art on three different KBVQA datasets. Through
 experiments and analysis, we demonstrate that furnishing variable triples for
 each question improves the reasoning capabilities of the language model in

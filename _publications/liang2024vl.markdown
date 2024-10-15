@@ -24,6 +24,6 @@ we propose a multimodal instruction backdoor attack, namely VL-Trojan. Our
 approach facilitates image trigger learning through an isolating and clustering
 strategy and enhance black-box-attack efficacy via an iterative character-level
 text trigger generation method. Our attack successfully induces target outputs
-during inference, significantly surpassing baselines (+62.52\%) in ASR.
+during inference, significantly surpassing baselines (+62.52%) in ASR.
 Moreover, it demonstrates robustness across various model scales and few-shot
 in-context reasoning scenarios.

@@ -17,7 +17,7 @@ figurative language understanding capabilities of large language models. We
 propose FigurativeQA, a set of 1000 yes/no questions with figurative and
 non-figurative contexts, extracted from the domains of restaurant and product
 reviews. We show that state-of-the-art BERT-based QA models exhibit an average
-performance drop of up to 15\% points when answering questions from figurative
+performance drop of up to 15% points when answering questions from figurative
 contexts, as compared to non-figurative ones. While models like GPT-3 and
 ChatGPT are better at handling figurative texts, we show that further
 performance gains can be achieved by automatically simplifying the figurative

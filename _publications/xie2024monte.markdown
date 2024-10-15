@@ -25,7 +25,7 @@ Extensive evaluations on various arithmetic and commonsense reasoning tasks
 demonstrate remarkable performance improvements over existing models. For
 instance, our approach outperforms the Mistral-7B Supervised Fine-Tuning (SFT)
 baseline on GSM8K, MATH, and ARC-C, with substantial increases in accuracy to
-\\(81.8\%\\) (+\\(5.9\%\\)), \\(34.7\%\\) (+\\(5.8\%\\)), and \\(76.4\%\\) (+\\(15.8\%\\)),
+\\(81.8%\\) (+\\(5.9%\\)), \\(34.7%\\) (+\\(5.8%\\)), and \\(76.4%\\) (+\\(15.8%\\)),
 respectively. Additionally, our research delves into the training and inference
 compute tradeoff, providing insights into how our method effectively maximizes
 performance gains. Our code is publicly available at

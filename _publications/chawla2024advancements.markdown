@@ -27,7 +27,7 @@ information directly into the language model. This dynamic approach allows for
 a more nuanced understanding of intricate details present in visual contexts.
 To validate the effectiveness of Veagle, we conduct comprehensive experiments
 on benchmark datasets, emphasizing tasks such as visual question answering and
-image understanding. Our results indicate a improvement of 5-6 \% in
+image understanding. Our results indicate a improvement of 5-6 % in
 performance, with Veagle outperforming existing models by a notable margin. The
 outcomes underscore the model's versatility and applicability beyond
 traditional benchmarks.

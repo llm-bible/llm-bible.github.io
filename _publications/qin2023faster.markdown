@@ -23,7 +23,7 @@ that accelerates linear attention by more than twice in runtime and reduces
 memory usage by a remarkable four times. To further enhance the performance of
 TransNormer, we leverage a gating mechanism for smooth training and a new
 tensor normalization scheme to accelerate the model, resulting in an impressive
-acceleration of over \\(20\%\\). Furthermore, we develop a robust inference
+acceleration of over \\(20%\\). Furthermore, we develop a robust inference
 algorithm that ensures numerical stability and consistent inference speed,
 regardless of the sequence length, showcasing superior efficiency during both
 training and inference stages. We also implement an efficient model parallel

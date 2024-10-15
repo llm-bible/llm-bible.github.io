@@ -27,6 +27,6 @@ tree. The tree is then validated through tree attention. New candidate tokens
 from the decoding process are then used to update the matrix. Token Recycling
 requires \textless2MB of additional storage and achieves approximately 2x
 speedup across all sizes of LLMs. It significantly outperforms existing
-train-free methods by 30\% and even a training method by 25\%. It can be
+train-free methods by 30% and even a training method by 25%. It can be
 directly applied to any existing LLMs and tasks without the need for
 adaptation.

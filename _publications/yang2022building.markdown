@@ -20,7 +20,7 @@ knowledge-grounded dialogue generation. We also propose a Grounded Graph Aware
 Transformer (\\(G^2AT\\)) model that fuses multi-forms knowledge (both sequential
 and graphic) to enhance knowledge-grounded response generation. Our experiments
 results show that our proposed model outperforms the previous state-of-the-art
-methods with more than 10\% gains in response generation and nearly 20\%
+methods with more than 10% gains in response generation and nearly 20%
 improvement in factual consistency. Further, our model reveals good
 generalization ability and robustness. By incorporating semantic structures as
 prior knowledge in deep neural networks, our model provides an effective way to

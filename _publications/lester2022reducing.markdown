@@ -20,6 +20,6 @@ target model. Our methods do not rely on supervised pairs of prompts,
 task-specific data, or training updates with the target model, which would be
 just as costly as re-tuning prompts with the target model from scratch. We show
 that recycling between models is possible (our best settings are able to
-successfully recycle \\(88.9\%\\) of prompts, producing a prompt that out-performs
+successfully recycle \\(88.9%\\) of prompts, producing a prompt that out-performs
 baselines), but significant performance headroom remains, requiring improved
 recycling techniques.

@@ -25,6 +25,6 @@ designed for prompts is jointly optimized to alleviate error accumulation
 during self-training. With much fewer tunable parameters, DePT demonstrates not
 only state-of-the-art performance on major adaptation benchmarks VisDA-C,
 ImageNet-C, and DomainNet-126, but also superior data efficiency, i.e.,
-adaptation with only 1\% or 10\% data without much performance degradation
-compared to 100\% data. In addition, DePT is also versatile to be extended to
+adaptation with only 1% or 10% data without much performance degradation
+compared to 100% data. In addition, DePT is also versatile to be extended to
 online or multi-source TTA settings.

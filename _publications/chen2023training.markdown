@@ -19,7 +19,7 @@ out low-quality data using a strong LLM (e.g., ChatGPT). To this end, we
 introduce AlpaGasus, which is finetuned on only 9k high-quality data filtered
 from the 52k Alpaca data. AlpaGasus significantly outperforms the original
 Alpaca as evaluated by GPT-4 on multiple test sets and the controlled human
-evaluation. Its 13B variant matches \\(>90\%\\) performance of its teacher LLM
+evaluation. Its 13B variant matches \\(>90%\\) performance of its teacher LLM
 (i.e., Text-Davinci-003 generating the 52k data) on test tasks. It also
 provides 5.7x faster training, reducing the training time for a 7B variant from
 80 minutes (for Alpaca) to 14 minutes. Moreover, the experiments prove the

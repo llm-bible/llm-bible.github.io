@@ -22,7 +22,7 @@ datasets are standardized into a unified format, allowing for effortless
 automatic evaluation of LLMs. Our experiments show that after training on
 TRACE, aligned LLMs exhibit significant declines in both general ability and
 instruction-following capabilities. For example, the accuracy of llama2-chat
-13B on gsm8k dataset declined precipitously from 28.8\% to 2\% after training
+13B on gsm8k dataset declined precipitously from 28.8% to 2% after training
 on our datasets. This highlights the challenge of finding a suitable tradeoff
 between achieving performance on specific tasks while preserving the original
 prowess of LLMs. Empirical findings suggest that tasks inherently equipped with

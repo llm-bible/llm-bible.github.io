@@ -21,8 +21,8 @@ Sequential Fusion method to incorporate knowledge from complex context into
 LLMs. This method employs a two-stage framework: initially, it leverages
 general LLMs to construct knowledge graphs (KGs) for extracting knowledge from
 complex texts; subsequently, it updates the domain LLMs through knowledge edit.
-According to our method, the domain LLM achieved a 71.69\% accuracy in question
+According to our method, the domain LLM achieved a 71.69% accuracy in question
 answering tasks. Subsequently, we broadened our assessment to a novel dataset
 we developed in the economics and management field, where our method realized a
-75\% accuracy. These outcomes underline the efficacy and adaptability of our
+75% accuracy. These outcomes underline the efficacy and adaptability of our
 approach for PCRA-LLM across various domains.

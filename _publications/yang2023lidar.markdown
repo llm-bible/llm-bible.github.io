@@ -28,6 +28,6 @@ bridges the modality gap and enhances the LLM's spatial orientation
 comprehension of visual features. Our experiments show that LiDAR-LLM possesses
 favorable capabilities to comprehend various instructions regarding 3D scenes
 and engage in complex spatial reasoning. LiDAR-LLM attains a 40.9 BLEU-1 on the
-3D captioning task and achieves a 63.1\% classification accuracy and a 14.3\%
+3D captioning task and achieves a 63.1% classification accuracy and a 14.3%
 BEV mIoU on the 3D grounding task. Web page:
 https://sites.google.com/view/lidar-llm

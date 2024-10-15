@@ -30,7 +30,7 @@ directions with a wrong one within the instruction, and then introduce an extra
 unlikelihood loss to learn those samples. Experiments on IWSLT and WMT
 benchmarks upon the LLaMA model spanning 16 zero-shot directions show that,
 compared to the competitive baseline -- translation-finetuned LLama, our method
-could effectively reduce the off-target translation ratio (averagely -53.3\%),
+could effectively reduce the off-target translation ratio (averagely -53.3%),
 thus improving translation quality with average +5.7 SacreBLEU and +16.4
 BLEURT. Analysis shows that our method could preserve the model's general task
 performance on AlpacaEval. Code and models will be released at

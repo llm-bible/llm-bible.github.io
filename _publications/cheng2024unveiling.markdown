@@ -24,5 +24,5 @@ typographic attacks, influenced by texts generated with diverse factors. Based
 on the evaluation results, we investigate the causes why typographic attacks
 may impact VLMs and LVLMs, leading to three highly insightful discoveries. By
 the examination of our discoveries and experimental validation in the
-Typographic Dataset, we reduce the performance degradation from \\(42.07\%\\) to
-\\(13.90\%\\) when LVLMs confront typographic attacks.
+Typographic Dataset, we reduce the performance degradation from \\(42.07%\\) to
+\\(13.90%\\) when LVLMs confront typographic attacks.

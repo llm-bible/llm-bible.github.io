@@ -27,5 +27,5 @@ the performance of any recommendation model. We also ensure efficient inference
 by preprocessing and prestoring the knowledge from the LLM. Extensive
 experiments show that KAR significantly outperforms the state-of-the-art
 baselines and is compatible with a wide range of recommendation algorithms. We
-deploy KAR to Huawei's news and music recommendation platforms and gain a 7\%
-and 1.7\% improvement in the online A/B test, respectively.
+deploy KAR to Huawei's news and music recommendation platforms and gain a 7%
+and 1.7% improvement in the online A/B test, respectively.

@@ -29,7 +29,7 @@ experiments demonstrate that EfficientQAT outperforms previous quantization
 methods across a range of models, including base LLMs, instruction-tuned LLMs,
 and multimodal LLMs, with scales from 7B to 70B parameters at various
 quantization bits. For instance, EfficientQAT obtains a 2-bit Llama-2-70B model
-on a single A100-80GB GPU in 41 hours, with less than 3\% accuracy degradation
+on a single A100-80GB GPU in 41 hours, with less than 3% accuracy degradation
 compared to the full precision (69.48 vs. 72.41). Notably, this INT2 quantized
 70B model obtains a 1.67 accuracy gain over the Llama-2-13B model (69.48 vs.
 67.81) while requiring less memory (19.2GB vs. 24.2GB). Code is available at

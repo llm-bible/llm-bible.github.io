@@ -22,5 +22,5 @@ pre-trained backbones: T5 and BART, and evaluate them on MultiWOZ. Extensive
 experiments demonstrate that: 1) our systems establish new state-of-the-art
 results on end-to-end response generation, 2) MinTL-based systems are more
 robust than baseline methods in the low resource setting, and they achieve
-competitive results with only 20\% training data, and 3) Lev greatly improves
+competitive results with only 20% training data, and 3) Lev greatly improves
 the inference efficiency.

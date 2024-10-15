@@ -27,7 +27,7 @@ decreases. Specifically, low-resource languages exhibit about three times the
 likelihood of encountering harmful content compared to high-resource languages,
 with both ChatGPT and GPT-4. In the intentional scenario, multilingual prompts
 can exacerbate the negative impact of malicious instructions, with
-astonishingly high rates of unsafe output: 80.92\% for ChatGPT and 40.71\% for
+astonishingly high rates of unsafe output: 80.92% for ChatGPT and 40.71% for
 GPT-4. To handle such a challenge in the multilingual context, we propose a
 novel \textsc\{Self-Defense\} framework that automatically generates multilingual
 training data for safety fine-tuning. Experimental results show that ChatGPT

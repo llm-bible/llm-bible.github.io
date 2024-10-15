@@ -22,7 +22,7 @@ question is tagged with its release time and source, ensuring relevance and
 authenticity. We conducted extensive experiments on 17 LLMs, including
 proprietary, open-source models, general domain models and medical specific
 models, evaluating their performance under various settings. Our findings
-reveal that while leading models like GPT-4 achieve over 75\% accuracy, they
+reveal that while leading models like GPT-4 achieve over 75% accuracy, they
 still struggle with specialized fields and alternative medicine. Surprisingly,
 general-purpose LLMs outperformed medical-specific models, and incorporating
 EMPEC's training data significantly enhanced performance. Additionally, the

@@ -21,9 +21,9 @@ of language models, new multimodal language models now have vision and language
 capabilities that may allow them to analyze and solve visual problems. In this
 paper, we evaluate the performance of two large multimodal models on visual
 assignments, with a specific focus on Parsons problems presented across diverse
-visual representations. Our results show that GPT-4V solved 96.7\% of these
+visual representations. Our results show that GPT-4V solved 96.7% of these
 visual problems, struggling minimally with a single Parsons problem.
-Conversely, Bard performed poorly by only solving 69.2\% of problems,
+Conversely, Bard performed poorly by only solving 69.2% of problems,
 struggling with common issues like hallucinations and refusals. These findings
 suggest that merely transitioning to visual programming problems might not be a
 panacea to issues of academic integrity in the generative AI era.

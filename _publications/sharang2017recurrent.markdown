@@ -22,6 +22,6 @@ state-of-the-art, consisting of involving simple concatenation of bag-of-words
 and CNN representations for the text and images, respectively. Generally, we
 observe marked variation in image-reasoning performance between our models not
 obvious from their overall performance, as well as evidence of dataset bias.
-Our standalone models achieve accuracies up to \\(64.6\%\\), while the ensemble of
-all models achieves the best accuracy of \\(66.67\%\\), within \\(0.5\%\\) of the
+Our standalone models achieve accuracies up to \\(64.6%\\), while the ensemble of
+all models achieves the best accuracy of \\(66.67%\\), within \\(0.5%\\) of the
 current state-of-the-art for Visual7W.

@@ -23,5 +23,5 @@ facilitates better token clustering in the feature space, validating our
 hypothesis. Extensive experiments on widely used benchmarks demonstrate that
 our UAL significantly and consistently outperforms standard supervised
 fine-tuning. Notably, LLMs aligned in a mixed scenario have achieved an average
-improvement of 10.62\% on high-entropy tasks (i.e., AlpacaEval leaderboard),
-and 1.81\% on complex low-entropy tasks (i.e., MetaMath and GSM8K).
+improvement of 10.62% on high-entropy tasks (i.e., AlpacaEval leaderboard),
+and 1.81% on complex low-entropy tasks (i.e., MetaMath and GSM8K).

@@ -22,6 +22,6 @@ we develop a loss weighting method to balance the contribution to the loss
 across different sequences during packing training. Third, we introduce the
 LongBench-Chat benchmark for evaluating instruction-following capabilities on
 queries of 10k-100k in length. Experiments show that LongAlign outperforms
-existing recipes for LLMs in long context tasks by up to 30\%, while also
+existing recipes for LLMs in long context tasks by up to 30%, while also
 maintaining their proficiency in handling short, generic tasks. The code, data,
 and long-aligned models are open-sourced at https://github.com/THUDM/LongAlign.

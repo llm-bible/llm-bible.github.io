@@ -13,7 +13,7 @@ tags: ['GPT', 'Has Code', 'Model Architecture', 'Pretraining Methods', 'Training
 We study the effectiveness of a simple approach to develop a small base
 language model (LM) starting from an existing large base LM: first inherit a
 few transformer blocks from the larger LM, and then train this smaller model on
-a very small subset (0.1\%) of the raw pretraining data of the larger model. We
+a very small subset (0.1%) of the raw pretraining data of the larger model. We
 call our simple recipe Inheritune and first demonstrate it for building a small
 base LM with 1.5B parameters using 1B tokens (and a starting few layers of
 larger LM of 3B parameters); we do this using a single A6000 GPU for less than

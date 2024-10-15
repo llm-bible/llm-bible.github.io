@@ -27,6 +27,6 @@ MuScleLoRA encourages the model to prioritize the learning of relatively
 high-frequency clean mapping, consequently mitigating backdoor learning.
 Experimental results demonstrate that MuScleLoRA outperforms baselines
 significantly. Notably, MuScleLoRA reduces the average success rate of diverse
-backdoor attacks to below 15\% across multiple datasets and generalizes to
+backdoor attacks to below 15% across multiple datasets and generalizes to
 various backbone LMs, including BERT, RoBERTa, GPT2-XL, and Llama2. The codes
 are publicly available at https://github.com/ZrW00/MuScleLoRA.

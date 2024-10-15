@@ -21,7 +21,7 @@ employs a two-stage approach within a single prompt: first eliciting an
 effective problem-solving strategy, which is then used to guide the generation
 of high-quality CoT paths and final answers. Our experiments across eight
 challenging reasoning datasets demonstrate significant improvements, including
-a 21.05\% increase on the GSM8K dataset and 24.13\% on the Tracking\_Objects
+a 21.05% increase on the GSM8K dataset and 24.13% on the Tracking\_Objects
 dataset, respectively, using the Llama3-8b model. Additionally, we extend the
 SCoT framework to develop a few-shot method with automatically matched
 demonstrations, yielding even stronger results. These findings underscore the

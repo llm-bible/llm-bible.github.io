@@ -21,5 +21,5 @@ attacks. We design a query and output analysis model to filter out unsafe or
 non-responsive answers. %to achieve the two objectives of randomly selecting
 outputs from different LLMs. We evaluate over 8 most recent chatbot models with
 state-of-the-art adversarial queries. Our MTD-enhanced LLM system reduces the
-attack success rate from 37.5\% to 0\%. Meanwhile, it decreases the response
-refusal rate from 50\% to 0\%.
+attack success rate from 37.5% to 0%. Meanwhile, it decreases the response
+refusal rate from 50% to 0%.

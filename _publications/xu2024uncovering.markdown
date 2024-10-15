@@ -22,6 +22,6 @@ our generated attack prompts may be transferable to GPT-4, and the
 embedding-level attacks may also be transferred to other white-box LLMs whose
 parameters are known. Our experiments further uncover the safety risks present
 in current LLMs. For example, we find that six out of seven open-source LLMs
-that we attack consistently provide relevant answers to more than 85\%
+that we attack consistently provide relevant answers to more than 85%
 malicious instructions. Finally, we provide insights into the safety mechanism
 of LLMs.

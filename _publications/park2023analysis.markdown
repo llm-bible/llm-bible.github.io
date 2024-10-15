@@ -22,7 +22,7 @@ tuning. To address this question, we conduct experiments comparing prompt
 tuning and fine-tuning on the decoder-based multilingual model, XGLM, with four
 cross-lingual tasks (XNLI, PAWS-X, POS, NER). According to our study, prompt
 tuning achieves on par or better performance over fine-tuning across all
-languages while updating at most 0.13\% of the model parameters. Moreover, we
+languages while updating at most 0.13% of the model parameters. Moreover, we
 empirically show that prompt tuning is more effective in enhancing the
 performance of low-resource languages than fine-tuning. Our further analysis
 shows that the phenomenon is related to the tokenization scheme of the

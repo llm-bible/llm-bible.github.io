@@ -20,8 +20,8 @@ with the stable diffusion generative model, which has demonstrated to
 effectively and securely handle video generation scenarios. GPT4Video offers
 the following benefits: 1) It exhibits impressive capabilities in both video
 understanding and generation scenarios. For example, GPT4Video outperforms
-Valley by 11.8\% on the Video Question Answering task, and surpasses NExt-GPT
-by 2.3\% on the Text to Video generation task. 2) it endows the LLM/MLLM with
+Valley by 11.8% on the Video Question Answering task, and surpasses NExt-GPT
+by 2.3% on the Text to Video generation task. 2) it endows the LLM/MLLM with
 video generation capabilities without requiring additional training parameters
 and can flexibly interface with a wide range of models to perform video
 generation. 3) it maintains a safe and healthy conversation not only in

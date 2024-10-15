@@ -22,7 +22,7 @@ alignment with task objectives. We implement this method in a progressively
 pruning manner using several sequential blocks. To evaluate its generalization
 performance, we apply ELIP to three commonly used language-image pre-training
 models and utilize public image-caption pairs with 4M images for pre-training.
-Our experiments demonstrate that with the removal of ~30\\(\%\\) vision tokens
+Our experiments demonstrate that with the removal of ~30\\(%\\) vision tokens
 across 12 ViT layers, ELIP maintains significantly comparable performance with
 baselines (\\(\sim\\)0.32 accuracy drop on average) over various downstream tasks
 including cross-modal retrieval, VQA, image captioning, *etc*. In

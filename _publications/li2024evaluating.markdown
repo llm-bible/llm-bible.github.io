@@ -22,6 +22,6 @@ Our principal findings indicate that GPT-4 outperforms all models, while
 open-source model LLaMA-2-7B demonstrates comparable abilities to closed-source
 models GPT-3.5 and Gemini Pro. Notably, calculation error proves the most
 challenging error type. Moreover, prompting LLMs with the error types can
-improve the average correction accuracy by 47.9\%. These results reveal
+improve the average correction accuracy by 47.9%. These results reveal
 potential directions for developing the mathematical reasoning abilities of
 LLMs. Our code and dataset is available on https://github.com/LittleCirc1e/EIC.

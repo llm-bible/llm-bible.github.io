@@ -18,7 +18,7 @@ take a closer look of datasets used in AlignScore and uncover an unexpected
 finding: utilizing a smaller number of data points can actually improve
 performance. We process the original AlignScore training dataset to remove
 noise, augment with robustness-enhanced samples, and utilize a subset
-comprising 10\% of the data to train an improved factual consistency evaluation
+comprising 10% of the data to train an improved factual consistency evaluation
 model, we call LIM-RA (Less Is More for Robust AlignScore). LIM-RA demonstrates
 superior performance, consistently outperforming AlignScore and other strong
 baselines like ChatGPT across four benchmarks (two utilizing traditional

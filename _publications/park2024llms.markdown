@@ -19,7 +19,7 @@ refine recommendations using updated data and feedback, implemented on ChatGPT,
 Claude2, and GPT-4. Our method was evaluated against baseline models and a
 Chain-of-Thought (CoT) approach using manually collected datasets. The results
 demonstrate significant improvements in accuracy and contextual relevance, with
-our approach achieving up to 90\% accuracy and high GPT-4 scores. Additional
+our approach achieving up to 90% accuracy and high GPT-4 scores. Additional
 validation through real-world pilot studies further confirmed the practical
 benefits of our method, highlighting its potential to transform agricultural
 practices and decision-making.

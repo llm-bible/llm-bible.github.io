@@ -23,7 +23,7 @@ proving the validity of framework. Moreover, ablation studies highlight the
 importance of role-play simulations and task simplification via questionnaires
 in enhancing prediction accuracy. Meanwhile, our fine-tuned Llama3-8B model,
 utilizing Direct Preference Optimization with Supervised Fine-Tuning, achieves
-a 130.95\% improvement, surpassing the state-of-the-art Qwen1.5-110B by 36.94\%
+a 130.95% improvement, surpassing the state-of-the-art Qwen1.5-110B by 36.94%
 in personality prediction validity. In conclusion, LLMs can predict personality
 based on counseling dialogues. Our code and model are publicly available at
 \url\{https://github.com/kuri-leo/BigFive-LLM-Predictor\}, providing a valuable

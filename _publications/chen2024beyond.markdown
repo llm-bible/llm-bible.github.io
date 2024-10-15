@@ -19,8 +19,8 @@ single-LLM reasoning and multi-agent communication, has not been thoroughly
 examined. In this work, we challenge the default use of NL by exploring the
 utility of non-NL formats in these contexts. We show that allowing LLMs to
 autonomously select the most suitable format before reasoning or communicating
-leads to a 3.3 to 5.7\% improvement in reasoning efficiency for different LLMs,
-and up to a 72.7\% reduction in token usage in multi-agent communication, all
+leads to a 3.3 to 5.7% improvement in reasoning efficiency for different LLMs,
+and up to a 72.7% reduction in token usage in multi-agent communication, all
 while maintaining communicative effectiveness. Our comprehensive analysis
 further reveals that LLMs can devise a format from limited task instructions
 and that the devised format is effectively transferable across different LLMs.

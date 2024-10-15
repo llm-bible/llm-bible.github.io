@@ -21,6 +21,6 @@ set of instruction-following data using GPT-3.5, and train a competitive
 open-source chat assistant called ExpertLLaMA. We employ GPT4-based evaluation
 to show that 1) the expert data is of significantly higher quality than vanilla
 answers, and 2) ExpertLLaMA outperforms existing open-source opponents and
-achieves 96\% of the original ChatGPT's capability. All data and the
+achieves 96% of the original ChatGPT's capability. All data and the
 ExpertLLaMA model will be made publicly available at
 \url\{https://github.com/OFA-Sys/ExpertLLaMA\}.

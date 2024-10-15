@@ -27,7 +27,7 @@ the lower primitive behaviour, LGR2 mitigates non-stationarity and is thus an
 elegant method for leveraging language instructions to solve robotic control
 tasks. To analyze the efficacy of our approach, we perform empirical analysis
 and demonstrate that LGR2 effectively alleviates non-stationarity in HRL. Our
-approach attains success rates exceeding 70\\(\%\\) in challenging, sparse-reward
+approach attains success rates exceeding 70\\(%\\) in challenging, sparse-reward
 robotic navigation and manipulation environments where the baselines fail to
 achieve any significant progress. Additionally, we conduct real-world robotic
 manipulation experiments and demonstrate that CRISP shows impressive

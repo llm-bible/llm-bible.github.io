@@ -24,7 +24,7 @@ detect these quality drops. By creating a total of 2400 perturbed answers
 covering 22 perturbation categories, we conduct a comprehensive study using
 different evaluation strategies on five prominent LLMs commonly used as
 evaluators in the literature. Our findings reveal significant shortcomings in
-current Evaluator LLMs, which failed to identify quality drops in over 50\% of
+current Evaluator LLMs, which failed to identify quality drops in over 50% of
 cases on average. Single-answer and pairwise evaluations demonstrated notable
 limitations, whereas reference-based evaluations showed comparatively better
 performance. These results underscore the unreliable nature of current

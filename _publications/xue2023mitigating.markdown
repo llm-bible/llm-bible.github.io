@@ -28,5 +28,5 @@ focusing on real estate, and an occu-quora set containing real-world questions
 from Quora. We then fine-tune LLaMA on OccuQuest to obtain OccuLLaMA, which
 significantly outperforms state-of-the-art LLaMA variants (Vicuna, Tulu, and
 WizardLM) on professional questions in GPT-4 and human evaluations. Notably, on
-the occu-quora set, OccuLLaMA reaches a high win rate of 86.4\% against
+the occu-quora set, OccuLLaMA reaches a high win rate of 86.4% against
 WizardLM.

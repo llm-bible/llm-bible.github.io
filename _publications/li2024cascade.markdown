@@ -25,5 +25,5 @@ uncertainty of LLMs. This strategy guarantees desirable prefixes for subsequent
 generations and significantly reduces wasteful token re-generations and the
 number of reward model scoring. Our experiments demonstrate substantial gains
 in both generation efficiency and alignment ratings compared to the baselines,
-achieving five times faster text generation and 99\% win-ties in GPT-4/Claude-3
+achieving five times faster text generation and 99% win-ties in GPT-4/Claude-3
 helpfulness evaluation.

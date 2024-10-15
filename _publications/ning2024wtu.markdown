@@ -24,5 +24,5 @@ general datasets, and LLMs' performance in tool-usage datasets improves when
 their ability is similar to ChatGPT. In both datasets, incorrect tool usage
 significantly impairs LLMs' performance. To mitigate this, we also develop the
 finetuning dataset to enhance tool decision-making. Fine-tuning Llama2-7B
-results in a 14\% average performance improvement and a 16.8\% decrease in
+results in a 14% average performance improvement and a 16.8% decrease in
 incorrect tool usage. We will release the WTU-Eval benchmark.

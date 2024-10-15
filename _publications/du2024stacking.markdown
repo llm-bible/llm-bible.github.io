@@ -29,7 +29,7 @@ scalability), our study shows that \\(G_\{\text\{stack\}\}\\) is scalable and
 consistently performs well, with experiments up to 7B LLMs after growth and
 pre-training LLMs with 750B tokens. For example, compared to a conventionally
 trained 7B model using 300B tokens, our \\(G_\{\text\{stack\}\}\\) model converges to
-the same loss with 194B tokens, resulting in a 54.6\% speedup. We further
+the same loss with 194B tokens, resulting in a 54.6% speedup. We further
 address \\(\textit\{O\}\\)3 (lack of empirical guidelines) by formalizing guidelines
 to determine growth timing and growth factor for \\(G_\{\text\{stack\}\}\\), making it
 practical in general LLM pre-training. We also provide in-depth discussions and

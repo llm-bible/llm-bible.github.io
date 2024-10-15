@@ -23,5 +23,5 @@ consumption. (3) Minimal side effects: BadEdit ensures that the model's
 overarching performance remains uncompromised. (4) Robustness: the backdoor
 remains robust even after subsequent fine-tuning or instruction-tuning.
 Experimental results demonstrate that our BadEdit framework can efficiently
-attack pre-trained LLMs with up to 100\% success rate while maintaining the
+attack pre-trained LLMs with up to 100% success rate while maintaining the
 model's performance on benign inputs.

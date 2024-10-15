@@ -25,6 +25,6 @@ sequences. This approach greatly improves the model's performance by accurately
 attending to relevant information in long context and the training efficiency
 is also largely increased. We conduct extensive experiments on models with 7B
 and 72B parameters, trained on 20 billion tokens, demonstrating that UtK
-achieves 75\% and 84.5\% accurracy on RULER at 128K context length,
+achieves 75% and 84.5% accurracy on RULER at 128K context length,
 significantly outperforming other long context strategies. The trained models
 will open-source for further research.

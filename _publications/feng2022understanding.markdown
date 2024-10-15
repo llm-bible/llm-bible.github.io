@@ -29,5 +29,5 @@ conduct a systematic evaluation on nine public-available LLMs: Google T5,
 AllenAI WMT14, Helsinki-NLP translator, Facebook FairSeq, UNICAMP-DL
 translator, MarianMT, Google FLAN-T5, MBZUAI LaMini-GPT and Salesforce CodeGen.
 Experimental results show that \tool can increase on average LLMs' response
-latency and energy consumption by 325\% to 3244\% and 344\% to 3616\%,
+latency and energy consumption by 325% to 3244% and 344% to 3616%,
 respectively, by perturbing just one character or token in the input sentence.

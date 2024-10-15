@@ -20,7 +20,7 @@ novel hierarchical graph representation which enables automatic data
 augmentation and novel measures characterizing model consistency. We perform
 graded evaluation and reliability analysis on recent multi-modal models. In
 comparison to low-level tasks, we observe decreased performance on tasks
-requiring advanced comprehension and cognitive skills with up to 38.0\% drop in
+requiring advanced comprehension and cognitive skills with up to 38.0% drop in
 VQA accuracy. In comparison to earlier models, GPT-4V demonstrates improved
 accuracy over all comprehension levels and shows a tendency of bypassing visual
 inputs especially for higher-level tasks. Current models also show consistency

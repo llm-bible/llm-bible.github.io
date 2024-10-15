@@ -24,7 +24,7 @@ processing time, becoming impractical for most applications. To address these,
 we propose CRAG, a novel approach able to effectively reduce the number of
 prompting tokens without degrading the quality of the response generated
 compared to a solution using RAG. Through our experiments, we show that CRAG
-can reduce the number of tokens by at least 46\%, achieving more than 90\% in
+can reduce the number of tokens by at least 46%, achieving more than 90% in
 some cases, compared to RAG. Moreover, the number of tokens with CRAG does not
 increase considerably when the number of reviews analyzed is higher, unlike
 RAG, where the number of tokens is almost 9x higher when there are 75 reviews

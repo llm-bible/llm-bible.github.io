@@ -28,6 +28,6 @@ the feedback from the verifier, the reasoning context is constructed using the
 subproblems and the solutions. These models are trained to coordinate using
 policy learning. Exhaustive experimentation suggests the superiority of LM2
 over existing methods on in- and out-domain reasoning problems, outperforming
-the best baselines by \\(8.1\%\\) on MATH, \\(7.71\%\\) on JEEBench, and \\(9.7\%\\) on
+the best baselines by \\(8.1%\\) on MATH, \\(7.71%\\) on JEEBench, and \\(9.7%\\) on
 MedQA problems (code available at
 https://github.com/LCS2-IIITD/Language_Model_Multiplex).

@@ -23,6 +23,6 @@ iteration level to satisfy SLOs with reduced frequencies and instance sizes. We
 show that the proposed ML model achieves \\(R^2\\) scores greater than 0.97 and
 miss-predicts performance by less than 1 iteration per second on average.
 Experimental results on LLM inference traces show that \textit\{throttLL'eM\}
-achieves up to 43.8\% lower energy consumption and an energy efficiency
+achieves up to 43.8% lower energy consumption and an energy efficiency
 improvement of at least \\(1.71\times\\) under SLOs, when compared to NVIDIA's
 Triton server.

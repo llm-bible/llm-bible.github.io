@@ -22,6 +22,6 @@ explored. In this paper, we perform an empirical study of five CVA methods on
 four generative LLMs (including monolingual and multilingual models) across
 four typologically-diverse languages and four natural language understanding
 tasks. We find that CVA substantially contributes to LLM inference speedups of
-up to 271.5\%. We also show that adapting LLMs that have been pre-trained on
+up to 271.5%. We also show that adapting LLMs that have been pre-trained on
 more balanced multilingual data results in downstream performance comparable to
 the original models.

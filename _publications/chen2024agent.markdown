@@ -22,7 +22,7 @@ side-effects when improving agent abilities by introducing hallucinations.
 Based on the above findings, we propose Agent-FLAN to effectively Fine-tune
 LANguage models for Agents. Through careful decomposition and redesign of the
 training corpus, Agent-FLAN enables Llama2-7B to outperform prior best works by
-3.5\% across various agent evaluation datasets. With comprehensively
+3.5% across various agent evaluation datasets. With comprehensively
 constructed negative samples, Agent-FLAN greatly alleviates the hallucination
 issues based on our established evaluation benchmark. Besides, it consistently
 improves the agent capability of LLMs when scaling model sizes while slightly

@@ -21,7 +21,7 @@ generating various annotation-expensive symbolic language data. SymGen consists
 of an informative prompt to steer generation and an agreement-based verifier to
 improve data correctness. We conduct extensive experiments on six symbolic
 language tasks across various settings. Compared with the LLMs, we demonstrate
-the 1\%-sized task model can achieve comparable or better performance, largely
+the 1%-sized task model can achieve comparable or better performance, largely
 cutting inference and deployment costs. We also show that generated data with
 only a few human demonstrations can be as effective as over 10 times the amount
 of human-annotated data when training the task model, saving a considerable

@@ -27,6 +27,6 @@ future action plans -- to help the agent decide what action to execute. We
 evaluate our approach on a new device-control benchmark AITW with 30\\(K\\) unique
 instructions, spanning multi-step tasks such as application operation, web
 searching, and web shopping. Experimental results show that Auto-GUI achieves
-state-of-the-art performance with an action type prediction accuracy of 90\%
-and an overall action success rate of 74\%. Code is publicly available at
+state-of-the-art performance with an action type prediction accuracy of 90%
+and an overall action success rate of 74%. Code is publicly available at
 https://github.com/cooelf/Auto-GUI.

@@ -15,7 +15,7 @@ graph reasoning with LLM remains limited. Our work delves into this gap by
 thoroughly investigating graph reasoning with LLMs. In this work, we reveal the
 impact of the order of graph description on LLMs' graph reasoning performance,
 which significantly affects LLMs' reasoning abilities. By altering this order,
-we enhance the performance of LLMs from 42.22\% to 70\%. Furthermore, we
+we enhance the performance of LLMs from 42.22% to 70%. Furthermore, we
 introduce the Scaled Graph Reasoning benchmark for assessing LLMs' performance
 across various graph sizes and evaluate the relationship between LLMs' graph
 reasoning abilities and graph size. We discover that the graph reasoning

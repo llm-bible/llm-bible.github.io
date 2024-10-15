@@ -25,7 +25,7 @@ Decoder (PAD) upon the backbone for top-level visual abstraction. This
 bottom-up collaboration enables our BUS to yield high training efficiency while
 maintaining or even improving effectiveness. We evaluate our approach on
 various visual-language understanding and generation tasks and show competitive
-downstream task performance while boosting the training efficiency by 50\%.
+downstream task performance while boosting the training efficiency by 50%.
 Additionally, our model achieves state-of-the-art performance on many
 downstream tasks by increasing input image resolution without increasing
 computational costs over baselines.

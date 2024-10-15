@@ -25,7 +25,7 @@ tasks for BERT and T5 models, with BERT's OOD robustness improving by an
 average of 4.48 percentage points without regressing average ID performance. We
 explore selectively augmenting inputs based on prediction entropy to reduce the
 rate of expensive LLM augmentations, allowing us to maintain performance gains
-while reducing the average number of generated augmentations by 57.74\%.
+while reducing the average number of generated augmentations by 57.74%.
 LLM-TTA is agnostic to the task model architecture, does not require OOD
 labels, and is effective across low and high-resource settings. We share our
 data, models, and code for reproducibility.

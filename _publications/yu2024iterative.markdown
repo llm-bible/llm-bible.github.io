@@ -24,6 +24,6 @@ knowledge gaps by attempting to align its responses with these references,
 collaborating with helper models to generate diverse answers. These aligned
 responses are then used for iterative supervised fine-tuning (SFT). Our
 evaluations across five rule-based scenarios demonstrate IGP's effectiveness,
-with a 73.12\% alignment improvement in Claude Sonnet 3.5, and
-Llama3-8B-Instruct achieving an 86.20\% improvement, outperforming Claude
+with a 73.12% alignment improvement in Claude Sonnet 3.5, and
+Llama3-8B-Instruct achieving an 86.20% improvement, outperforming Claude
 Sonnet 3.5 in rule-based alignment.

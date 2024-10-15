@@ -28,7 +28,7 @@ the highest resolution and a targeted focus on real-world applications. We
 further conduct a thorough evaluation involving \\(28\\) prominent MLLMs, such as
 GPT-4o, Gemini 1.5 Pro, and Claude 3.5 Sonnet. Our results show that even the
 most advanced models struggle with our benchmarks, where none of them reach
-\\(60\%\\) accuracy. The challenges of perceiving high-resolution images and
+\\(60%\\) accuracy. The challenges of perceiving high-resolution images and
 understanding complex real-world scenarios remain urgent issues to be
 addressed. The data and evaluation code are released at
 https://mme-realworld.github.io/ .

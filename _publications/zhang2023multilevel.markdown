@@ -24,7 +24,7 @@ multimodal nature of many exam questions to test the model's multimodal
 understanding capability; and (3) multilevel structure, featuring exams from
 three critical educational periods to comprehensively assess a model's
 proficiency at different levels. In total, M3Exam contains 12,317 questions in
-9 diverse languages with three educational levels, where about 23\% of the
+9 diverse languages with three educational levels, where about 23% of the
 questions require processing images for successful solving. We assess the
 performance of top-performing LLMs on M3Exam and find that current models,
 including GPT-4, still struggle with multilingual text, particularly in

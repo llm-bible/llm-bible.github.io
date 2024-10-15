@@ -18,7 +18,7 @@ toxicity and bias. Motivated by social psychology principles, we propose a
 novel strategy named \textbf\{perspective-taking prompting (\textsc\{PeT\})\} that
 inspires LLMs to integrate diverse human perspectives and self-regulate their
 responses. This self-correction mechanism can significantly diminish toxicity
-(up to \\(89\%\\)) and bias (up to \\(73\%\\)) in LLMs' responses. Rigorous evaluations
+(up to \\(89%\\)) and bias (up to \\(73%\\)) in LLMs' responses. Rigorous evaluations
 and ablation studies are conducted on two commercial LLMs (ChatGPT and GLM) and
 three open-source LLMs, revealing \textsc\{PeT\}'s superiority in producing less
 harmful responses, outperforming five strong baselines.

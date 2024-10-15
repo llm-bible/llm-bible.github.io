@@ -26,5 +26,5 @@ using a joint contrastive and generative loss. We perform experiments on two
 different datasets that require retrieving and reasoning over both images and
 text to answer a given query: WebQA, and MultimodalQA. Our results show that
 MuRAG achieves state-of-the-art accuracy, outperforming existing models by
-10-20\% absolute on both datasets and under both distractor and full-wiki
+10-20% absolute on both datasets and under both distractor and full-wiki
 settings.

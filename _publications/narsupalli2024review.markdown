@@ -17,7 +17,7 @@ In this study, we propose Review-Feedback-Reason (ReFeR), a novel evaluation
 framework for NLG using LLM agents. We rigorously test ReFeR using two
 pre-existing benchmark datasets on diverse NLG tasks. The proposed framework
 not only enhances the accuracy of NLG evaluation, surpassing previous
-benchmarks by \\(\sim\\)20\%, but also generates constructive feedback and
+benchmarks by \\(\sim\\)20%, but also generates constructive feedback and
 significantly improves collective reasoning. This feedback is then leveraged
 for the creation of instruction-tuning datasets, which, when used to fine-tune
 smaller models like Mistral-7B, makes them extremely good evaluators, yielding
@@ -25,5 +25,5 @@ a better correlation with human evaluations and performance nearly on par with
 GPT-3.5. We highlight the effectiveness of our methodology through its
 application on three reasoning benchmarks, where it outperforms most of the
 state-of-the-art methods, and also outperforms the reasoning capabilities of
-models like GPT-3.5 Turbo by \\(\sim\\)11.67\% and GPT-4 by \\(\sim\\)1\% on an
+models like GPT-3.5 Turbo by \\(\sim\\)11.67% and GPT-4 by \\(\sim\\)1% on an
 average.

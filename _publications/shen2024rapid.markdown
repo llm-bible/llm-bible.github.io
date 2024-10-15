@@ -26,7 +26,7 @@ psychological concepts: subconsciousness and echopraxia, which describe the
 processes of the mind that occur without conscious awareness and the
 involuntary mimicry of actions, respectively. Evaluations across 6 open-source
 LLMs and 4 commercial LLM APIs show RIPPLE achieves an average Attack Success
-Rate of 91.5\%, outperforming five current methods by up to 47.0\% with an 8x
+Rate of 91.5%, outperforming five current methods by up to 47.0% with an 8x
 reduction in overhead. Furthermore, it displays significant transferability and
 stealth, successfully evading established detection mechanisms. The code of our
 work is available at

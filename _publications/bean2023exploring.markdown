@@ -23,7 +23,7 @@ Model performance was also correlated with human performance (\\(0.07\\) to
 accuracy of top-scoring and bottom-scoring humans (\\(-0.16\\) to \\(-0.23\\)). The top
 output probability and question length were positive and negative predictors of
 accuracy respectively (p \\(< 0.05\\)). The top scoring LLM, GPT-4 Turbo, scored
-\\(82\%\\), followed by Med42, PaLM 2, Mixtral and GPT-3.5 around \\(63\%\\). We found
+\\(82%\\), followed by Med42, PaLM 2, Mixtral and GPT-3.5 around \\(63%\\). We found
 evidence of similarities between models in which questions they answer
 correctly, as well as similarities with human test takers. Larger models
 typically performed better, but differences in training methods were also

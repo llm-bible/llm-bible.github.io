@@ -23,5 +23,5 @@ without the need for large, complex neural networks. Unlike the conventional
 modular training schemes, our approach adopts an end-to-end optimization
 regime, which, when combined with the adapters, facilitates the joint
 optimization using a significantly smaller parameter set. Our method exhibits
-robust performance with 90.12\% accuracy, outperforming both human-level
-performance (88.4\%) and LaVIN-7B (89.41\%).
+robust performance with 90.12% accuracy, outperforming both human-level
+performance (88.4%) and LaVIN-7B (89.41%).

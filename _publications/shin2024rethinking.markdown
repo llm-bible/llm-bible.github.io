@@ -17,7 +17,7 @@ the final model is obtained simply by putting the resulting sparse submodels
 together. While this approach enables pruning under memory constraints, it
 generates high reconstruction errors. In this work, we first present an array
 of reconstruction techniques that can significantly reduce this error by more
-than \\(90\%\\). Unwittingly, however, we discover that minimizing reconstruction
+than \\(90%\\). Unwittingly, however, we discover that minimizing reconstruction
 error is not always ideal and can overfit the given calibration data, resulting
 in rather increased language perplexity and poor performance at downstream
 tasks. We find out that a strategy of self-generating calibration data can

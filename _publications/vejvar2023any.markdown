@@ -17,7 +17,7 @@ given example entities, or validating/crafting the templates manually. We
 incorporate LLM re-prompting, triggered by algorithmic parsing checks, as well
 as the PARENT metric induced consistency validation to identify and rectify
 template generation problems in real-time. ASPIRO, compared to direct LLM
-output, averages 66\% parsing error rate reduction in generated verbalisations
+output, averages 66% parsing error rate reduction in generated verbalisations
 of RDF triples on the DART dataset. Our best 5-shot text-davinci-003 setup,
 scoring BLEU of 50.62, METEOR of 45.16, BLEURT of 0.82, NUBIA of 0.87, and
 PARENT of 0.8962 on the Rel2Text dataset, competes effectively with recent

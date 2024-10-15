@@ -25,7 +25,7 @@ heads responsible for encoding commonsense and contextualized knowledge.
 Finally, we explore the generalization of the discovered mechanisms across
 various syllogistic schemes and model sizes, finding that the identified
 circuit is sufficient and necessary for all the schemes on which the model
-achieves high downstream accuracy (\\(\geq\\) 60\%). Overall, our findings suggest
+achieves high downstream accuracy (\\(\geq\\) 60%). Overall, our findings suggest
 that LMs indeed learn transferable content-independent reasoning mechanisms,
 but that, at the same time, such mechanisms do not involve generalisable and
 abstract logical primitives, being susceptible to contamination by the same

@@ -12,7 +12,7 @@ tags: ['Agentic', 'GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learni
 ---
 We introduce AutoCoder, the first Large Language Model to surpass GPT-4 Turbo
 (April 2024) and GPT-4o in pass@1 on the Human Eval benchmark test
-(\\(\mathbf\{90.9\%\}\\) vs. \\(\mathbf\{90.2\%\}\\)). In addition, AutoCoder offers a more
+(\\(\mathbf\{90.9%\}\\) vs. \\(\mathbf\{90.2%\}\\)). In addition, AutoCoder offers a more
 versatile code interpreter compared to GPT-4 Turbo and GPT-4o. It's code
 interpreter can install external packages instead of limiting to built-in
 packages. AutoCoder's training data is a multi-turn dialogue dataset created by

@@ -23,7 +23,7 @@ for faster training and effective regularization. By combining the
 Bradley-Terry preference model, the \\(\lambda\\)-Harmonic reward function also
 provides preference labels for subject-driven generation tasks. We propose
 Reward Preference Optimization (RPO), which offers a simpler setup (requiring
-only \\(3\%\\) of the negative samples used by DreamBooth) and fewer gradient steps
+only \\(3%\\) of the negative samples used by DreamBooth) and fewer gradient steps
 for fine-tuning. Unlike most existing methods, our approach does not require
 training a text encoder or optimizing text embeddings and achieves text-image
 alignment by fine-tuning only the U-Net component. Empirically,

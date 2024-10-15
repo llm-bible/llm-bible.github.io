@@ -23,4 +23,4 @@ resolving privacy concerns through downstream post-processing and maintaining
 textual style consistency via fine-grained editing to original responses.
 Experiments and analysis on two benchmarks demonstrate that postEdit
 outperforms all baselines and achieves strong generalization, especially with
-huge improvements on style retention (average \\(+20.82\%\uparrow\\)).
+huge improvements on style retention (average \\(+20.82%\uparrow\\)).

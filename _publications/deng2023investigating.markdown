@@ -26,6 +26,6 @@ find that certain commercial LLMs could surprisingly guess the missing option
 in various test sets. Specifically, in the TruthfulQA benchmark, we find that
 LLMs exhibit notable performance improvement when provided with additional
 metadata in the benchmark. Further, in the MMLU benchmark, ChatGPT and GPT-4
-demonstrated an exact match rate of 52\% and 57\%, respectively, in guessing
+demonstrated an exact match rate of 52% and 57%, respectively, in guessing
 the missing options in benchmark test data. We hope these results underscore
 the need for more robust evaluation methodologies and benchmarks in the field.

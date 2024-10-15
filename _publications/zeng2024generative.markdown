@@ -15,7 +15,7 @@ state-of-the-art predictions of safety risks across key harm types (sexually
 explicit, dangerous content, harassment, hate speech) in both user input and
 LLM-generated output. By evaluating on both public and internal benchmarks, we
 demonstrate superior performance compared to existing models, such as Llama
-Guard (+10.8\% AU-PRC on public benchmarks) and WildCard (+4.3\%).
+Guard (+10.8% AU-PRC on public benchmarks) and WildCard (+4.3%).
 Additionally, we present a novel LLM-based data curation pipeline, adaptable to
 a variety of safety-related tasks and beyond. We have shown strong
 generalization performance for model trained mainly on synthetic data. By

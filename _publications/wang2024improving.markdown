@@ -27,5 +27,5 @@ inference-only method, enjoying appealing flexibility. Extensive experiments on
 widely used benchmarks, e.g., HumanEval, MBPP, and MultiPL-E, upon several LLMs
 (i.e., Inocder-6b, CodeLlama-7b, WizardCoder-15b, StarCoder, and Llama2-7b),
 demonstrate that our proposed USCD significantly improves one-pass code
-generation, with an average \textit\{pass@\\(1\\)\} scores increase of 16.59\%. We
+generation, with an average \textit\{pass@\\(1\\)\} scores increase of 16.59%. We
 will release code and data on GitHub.

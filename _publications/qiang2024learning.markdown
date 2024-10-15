@@ -21,8 +21,8 @@ learning approach to identify adversarial triggers efficiently, ensuring an
 evasion of detection by conventional defenses while maintaining content
 integrity. Through experimental validation across various LLMs and tasks, our
 strategy demonstrates a high success rate in compromising model outputs;
-poisoning only 1\% of 4,000 instruction tuning samples leads to a Performance
-Drop Rate (PDR) of around 80\%. Our work highlights the need for stronger
+poisoning only 1% of 4,000 instruction tuning samples leads to a Performance
+Drop Rate (PDR) of around 80%. Our work highlights the need for stronger
 defenses against data poisoning attack, offering insights into safeguarding
 LLMs against these more sophisticated attacks. The source code can be found on
 this GitHub repository: https://github.com/RookieZxy/GBTL/blob/main/README.md.

@@ -26,7 +26,7 @@ clinical vignettes in the United States Medical Licensing Examination (USMLE),
 as well as various knowledge tests in the Massive Multitask Language
 Understanding (MMLU) dataset. Notably, our zero-shot i-MedRAG outperforms all
 existing prompt engineering and fine-tuning methods on GPT-3.5, achieving an
-accuracy of 69.68\% on the MedQA dataset. In addition, we characterize the
+accuracy of 69.68% on the MedQA dataset. In addition, we characterize the
 scaling properties of i-MedRAG with different iterations of follow-up queries
 and different numbers of queries per iteration. Our case studies show that
 i-MedRAG can flexibly ask follow-up queries to form reasoning chains, providing

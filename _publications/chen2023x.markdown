@@ -28,7 +28,7 @@ Integrating multiple modalities: all single-modal encoders are aligned with the
 LLM through X2L interfaces to integrate multimodal capabilities into the LLM.
 Our experiments show that X-LLM demonstrates impressive multimodel chat
 abilities, sometimes exhibiting the behaviors of multimodal GPT-4 on unseen
-images/instructions, and yields a 84.5\% relative score compared with GPT-4 on
+images/instructions, and yields a 84.5% relative score compared with GPT-4 on
 a synthetic multimodal instruction-following dataset. And we also conduct
 quantitative tests on using LLM for ASR and multimodal ASR, hoping to promote
 the era of LLM-based speech recognition.

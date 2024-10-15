@@ -24,7 +24,7 @@ rewriting input texts conditioned on predicted labels. This ensures the
 generated texts are highly relevant to the predicted labels, alleviating the
 prediction error during pseudo-labeling, while reducing the dependency on large
 volumes of unlabeled text. In our experiments, GenCo outperforms previous
-state-of-the-art methods when only limited (\\(<5\%\\) of original) in-domain text
+state-of-the-art methods when only limited (\\(<5%\\) of original) in-domain text
 data is available. Notably, our approach surpasses the performance of Alpaca-7B
 with human prompts, highlighting the potential of leveraging LLM for
 self-training.

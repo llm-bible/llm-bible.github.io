@@ -23,7 +23,7 @@ application assessment, CFLUE features 16K+ test instances across distinct
 groups of NLP tasks such as text classification, machine translation, relation
 extraction, reading comprehension, and text generation. Upon CFLUE, we conduct
 a thorough evaluation of representative LLMs. The results reveal that only
-GPT-4 and GPT-4-turbo achieve an accuracy exceeding 60\% in answer prediction
+GPT-4 and GPT-4-turbo achieve an accuracy exceeding 60% in answer prediction
 for knowledge assessment, suggesting that there is still substantial room for
 improvement in current LLMs. In application assessment, although GPT-4 and
 GPT-4-turbo are the top two performers, their considerable advantage over

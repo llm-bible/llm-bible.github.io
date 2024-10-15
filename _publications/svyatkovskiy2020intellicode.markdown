@@ -23,5 +23,5 @@ cloud-based web service. It makes use of client-side tree-based caching,
 efficient parallel implementation of the beam search decoder, and compute graph
 optimizations to meet edit-time completion suggestion requirements in the
 Visual Studio Code IDE and Azure Notebook.
-  Our best model yields an average edit similarity of \\(86.7\%\\) and a perplexity
+  Our best model yields an average edit similarity of \\(86.7%\\) and a perplexity
 of 1.82 for Python programming language.

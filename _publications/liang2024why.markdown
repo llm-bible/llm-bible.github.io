@@ -28,6 +28,6 @@ investigate whether alignments can undermine the extraction of prompts. We find
 that current LLMs, even those with safety alignments like GPT-4, are highly
 vulnerable to prompt extraction attacks, even under the most straightforward
 user attacks. Therefore, we put forward several defense strategies with the
-inspiration of our findings, which achieve 83.8\% and 71.0\% drop in the prompt
+inspiration of our findings, which achieve 83.8% and 71.0% drop in the prompt
 extraction rate for Llama2-7B and GPT-3.5, respectively. Source code is
 avaliable at \url\{https://github.com/liangzid/PromptExtractionEval\}.

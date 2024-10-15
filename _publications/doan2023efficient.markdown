@@ -27,5 +27,5 @@ effectiveness of our methodology on a per-sample basis, taking into
 consideration the helpfulness, relevance, accuracy, level of detail in their
 responses. This evaluation process entails the utilization of GPT-4 as an
 automated scoring mechanism. Despite utilizing a low-cost setup, our method
-demonstrates about 20-30\% improvement over the original models in our
+demonstrates about 20-30% improvement over the original models in our
 evaluation tasks.

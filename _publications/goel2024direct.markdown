@@ -18,7 +18,7 @@ families, e.g., for Llama 2 7B, training a high-quality draft model is required
 to enable inference acceleration via speculative decoding. In this paper, we
 propose a simple draft model training framework for direct alignment to
 chat-capable target models. With the proposed framework, we train Llama 2 Chat
-Drafter 115M, a draft model for Llama 2 Chat 7B or larger, with only 1.64\% of
+Drafter 115M, a draft model for Llama 2 Chat 7B or larger, with only 1.64% of
 the original size. Our training framework only consists of pretraining,
 distillation dataset generation, and finetuning with knowledge distillation,
 with no additional alignment procedure. For the finetuning step, we use

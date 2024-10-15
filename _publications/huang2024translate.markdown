@@ -22,6 +22,6 @@ to add a revision process that encourages LLMs to correct the outputs by
 prompting them about the constraints that have not yet been met. We evaluate
 our approach on four constrained translation tasks, encompassing both lexical
 and structural constraints in multiple constraint domains. Experiments show
-15\% improvement in constraint-based translation accuracy over standard LLMs
+15% improvement in constraint-based translation accuracy over standard LLMs
 and the approach also significantly outperforms neural machine translation
 (NMT) state-of-the-art methods.

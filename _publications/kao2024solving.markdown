@@ -20,7 +20,7 @@ developed BeyondX using an innovative automated pipeline that progressively
 increases complexity by expanding the number of unknowns in simpler problems.
 Empirical study on BeyondX reveals that the performance of existing LLMs, even
 those fine-tuned specifically on math tasks, significantly decreases as the
-number of unknowns increases - with a performance drop of up to 70\% observed
+number of unknowns increases - with a performance drop of up to 70% observed
 in GPT-4. To tackle these challenges, we propose the Formulate-and-Solve
 strategy, a generalized prompting approach that effectively handles problems
 with an arbitrary number of unknowns. Our findings reveal that this strategy

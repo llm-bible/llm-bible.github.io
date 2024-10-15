@@ -31,7 +31,7 @@ NDCG@10 and clarity score against two commercial search engines and the
 previous state-of-the-art approach on the Robust04 and ClueWeb09B collections,
 improving on average the NDCG@10 performance up to ~4% on Robust04 and
 ClueWeb09B w.r.t the previous best competitor. RA-GQR further improve the
-NDCG@10 obtaining an increase of ~11%, ~6\% on Robust04 and ClueWeb09B w.r.t
+NDCG@10 obtaining an increase of ~11%, ~6% on Robust04 and ClueWeb09B w.r.t
 the best competitor. Furthermore, our system obtained ~59% of user preferences
 in a blind user study, proving that our method produces the most engaging
 queries.

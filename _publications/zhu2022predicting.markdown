@@ -19,6 +19,6 @@ insightful findings, they appear disjointed from the development of models.
 This paper explores the utility of probing deep NLP models to extract a proxy
 signal widely used in model development -- the fine-tuning performance. We find
 that it is possible to use the accuracies of only three probing tests to
-predict the fine-tuning performance with errors \\(40\%\\) - \\(80\%\\) smaller than
+predict the fine-tuning performance with errors \\(40%\\) - \\(80%\\) smaller than
 baselines. We further discuss possible avenues where probing can empower the
 development of deep NLP models.

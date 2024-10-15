@@ -22,6 +22,6 @@ performing prompt and critics criticizing response. This process helps LLMs
 better align prompt to a specific task, thanks to real responses and thinking
 from LLMs. We conduct extensive experiments on 24 instruction induction tasks
 and 21 big-bench tasks. Experimental results indicate that PACE elevates the
-relative performance of medium/low-quality human-written prompts by up to 98\%,
+relative performance of medium/low-quality human-written prompts by up to 98%,
 which has comparable performance to high-quality human-written prompts.
 Moreover, PACE also exhibits notable efficacy for prompt generation.

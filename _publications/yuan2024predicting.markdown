@@ -19,7 +19,7 @@ and space overhead due to the separate models required. This work proposes
 Non-disruptive parameters insertion (Otter), inserting extra parameters into
 the transformer architecture to predict calibration signals along with the
 original LLM output. Otter offers state-of-the-art performance on multiple
-demanding tasks while saving up to 86.5\% extra space and 98.5\% extra time.
+demanding tasks while saving up to 86.5% extra space and 98.5% extra time.
 Furthermore, Otter seamlessly integrates with existing inference engines,
 requiring only a one-line code change, and the original model response remains
 accessible after the parameter insertion. Our code is publicly available at

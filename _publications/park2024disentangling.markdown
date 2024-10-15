@@ -24,6 +24,6 @@ length problem in the DPO setting, showing significant exploitation in DPO and
 linking it to out-of-distribution bootstrapping. We then develop a principled
 but simple regularization strategy that prevents length exploitation, while
 still maintaining improvements in model quality. We demonstrate these effects
-across datasets on summarization and dialogue, where we achieve up to 20\%
+across datasets on summarization and dialogue, where we achieve up to 20%
 improvement in win rates when controlling for length, despite the GPT4 judge's
 well-known verbosity bias.

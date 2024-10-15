@@ -27,4 +27,4 @@ regularization term that improves inference using unpaired trajectories.
 Experiments on BabyAI and Room-to-Room (R2R) environments show that the
 proposed method improves the performance of instruction following by leveraging
 unpaired data, and improves the performance of the speaker-follower model by
-2\% to 4\% in R2R.
+2% to 4% in R2R.

@@ -23,7 +23,7 @@ complexity-balanced test bed and Vicuna's testset show that instructions from
 Evol-Instruct are superior to human-created ones. By analyzing the human
 evaluation results of the high complexity part, we demonstrate that outputs
 from our WizardLM are preferred to outputs from OpenAI ChatGPT. In GPT-4
-automatic evaluation, WizardLM achieves more than 90\% capacity of ChatGPT on
+automatic evaluation, WizardLM achieves more than 90% capacity of ChatGPT on
 17 out of 29 skills. Even though WizardLM still lags behind ChatGPT in some
 aspects, our findings suggest that fine-tuning with AI-evolved instructions is
 a promising direction for enhancing LLMs. Our code and data are public at

@@ -28,5 +28,5 @@ is able to extract appropriate constraints to pass to downstream components
 (e.g. a knowledge base) when partial information is available. We observe that
 transformer based models such as UnifiedQA-T5 can be fine-tuned to perform
 logical reasoning (such as numerical and categorical attributes' comparison)
-over attributes that been seen in training time (e.g., accuracy of 90\%+ for
+over attributes that been seen in training time (e.g., accuracy of 90%+ for
 comparison of smaller than \\(k_\{\max\}\\)=5 values over heldout test dataset).

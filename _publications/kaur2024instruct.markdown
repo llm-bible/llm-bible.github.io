@@ -26,7 +26,7 @@ that have only undergone SFT (no RL methods) and competes with proprietary
 models such as Claude 3 Opus and LLaMA-3.1-405B-Instruct.
   Ablation studies also suggest plausible reasons for why creating open
 instruction-tuning datasets via naive crowd-sourcing has proved difficult.
-Introducing low quality answers ("shirkers") in \\(20\%\\) of Instruct-SkillMix
+Introducing low quality answers ("shirkers") in \\(20%\\) of Instruct-SkillMix
 examples causes performance to plummet, sometimes catastrophically.
   The Instruct-SkillMix pipeline is flexible and is adaptable to other
 settings.

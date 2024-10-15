@@ -24,7 +24,7 @@ weights in Transformer to enforce the model to focus on the corresponding
 phonemes and prosody features when predicting speech tokens. Results of
 comprehensive objective and subjective evaluations demonstrate that, compared
 to a powerful baseline method VALL-E, RALL-E significantly improves the WER of
-zero-shot TTS from \\(5.6\%\\) (without reranking) and \\(1.7\%\\) (with reranking) to
-\\(2.5\%\\) and \\(1.0\%\\), respectively. Furthermore, we demonstrate that RALL-E
+zero-shot TTS from \\(5.6%\\) (without reranking) and \\(1.7%\\) (with reranking) to
+\\(2.5%\\) and \\(1.0%\\), respectively. Furthermore, we demonstrate that RALL-E
 correctly synthesizes sentences that are hard for VALL-E and reduces the error
-rate from \\(68\%\\) to \\(4\%\\).
+rate from \\(68%\\) to \\(4%\\).

@@ -24,8 +24,8 @@ inherent relations via a pool of actions in different grains and orientations:
 MathAgent-M adapts its actions to LLMs, while MathAgent-H aligns with
 humankind. Experiments on miniF2F and MATH have demonstrated the effectiveness
 of PRER and proposed MathAgents, achieving an increase of
-\\(12.3\%\\)(\\(53.9\%\xrightarrow\{\}66.2\%\\)) on the MiniF2F, \\(9.2\%\\)
-(\\(49.8\%\xrightarrow\{\}59.0\%\\)) on MATH, and
-\\(13.2\%\\)(\\(23.2\%\xrightarrow\{\}35.4\%\\)) for level-5 problems of MATH against
+\\(12.3%\\)(\\(53.9%\xrightarrow\{\}66.2%\\)) on the MiniF2F, \\(9.2%\\)
+(\\(49.8%\xrightarrow\{\}59.0%\\)) on MATH, and
+\\(13.2%\\)(\\(23.2%\xrightarrow\{\}35.4%\\)) for level-5 problems of MATH against
 GPT-4. Further analytical results provide more insightful perspectives on
 exploiting the behaviors of LLMs as agents.

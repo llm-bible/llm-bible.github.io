@@ -16,7 +16,7 @@ using a dual encoder network, a Siamese-like neural network architecture.
 Answer templates are extracted from embeddings derived from past agent answers,
 without turn-by-turn annotations. Responses to customer inquiries are generated
 by selecting the best template from the final set of templates. We show that,
-in a closed domain like customer service, the selected templates cover \\(>\\)70\%
+in a closed domain like customer service, the selected templates cover \\(>\\)70%
 of past customer inquiries. Furthermore, the relevance of the model-selected
 templates is significantly higher than templates selected by a standard tf-idf
 baseline.

@@ -26,7 +26,7 @@ powerful proprietary models like GPT-4 Vision. To address this, we introduce
 Embodied-Instruction-Evolution (EIE), an automatic framework for synthesizing
 instruction tuning examples in multimodal embodied environments. EIE generates
 7,510 training examples in PCA-Bench and enhances the performance of
-open-source MLLMs, occasionally surpassing GPT-4 Vision (+3\% in decision
+open-source MLLMs, occasionally surpassing GPT-4 Vision (+3% in decision
 accuracy), thereby validating the effectiveness of EIE. Our findings suggest
 that robust MLLMs like GPT4-Vision show promise for decision-making in embodied
 agents, opening new avenues for MLLM research.

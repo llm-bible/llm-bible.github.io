@@ -18,7 +18,7 @@ frozen, but optimizes a small continuous task-specific vector (called the
 prefix). Prefix-tuning draws inspiration from prompting, allowing subsequent
 tokens to attend to this prefix as if it were "virtual tokens". We apply
 prefix-tuning to GPT-2 for table-to-text generation and to BART for
-summarization. We find that by learning only 0.1\% of the parameters,
+summarization. We find that by learning only 0.1% of the parameters,
 prefix-tuning obtains comparable performance in the full data setting,
 outperforms fine-tuning in low-data settings, and extrapolates better to
 examples with topics unseen during training.

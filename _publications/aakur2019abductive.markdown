@@ -25,5 +25,5 @@ self-supervised training regimen allows for effective domain adaptation without
 losing performance compared to fully supervised baselines. Extensive
 experiments on two publicly available benchmarks show the efficacy of the
 proposed approach. We show that neural networks models trained using
-self-labeled data can retain up to \\(75\%\\) of the performance of models trained
+self-labeled data can retain up to \\(75%\\) of the performance of models trained
 on large amounts of human-annotated training data.

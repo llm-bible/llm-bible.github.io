@@ -25,9 +25,9 @@ LLMs' reasoning abilities and reveal the logical rules the LLMs did not learn
 well. We evaluate LogicAsker on six widely deployed LLMs, including GPT-3,
 ChatGPT, GPT-4, Bard, Vicuna, and Guanaco. The results show that test cases
 from LogicAsker can find logical reasoning failures in different LLMs with a
-rate of 25\% - 94\%. In addition, the test cases of LogicAsker can be further
+rate of 25% - 94%. In addition, the test cases of LogicAsker can be further
 used to design demonstration examples for in-context learning, which
-effectively improves the logical reasoning ability of LLMs, e.g., 10\% for
+effectively improves the logical reasoning ability of LLMs, e.g., 10% for
 GPT-4. As far as we know, our work is the first to create prompts based on
 testing results to improve LLMs' formal reasoning ability effectively. All the
 code, data, and results will be released for reproduction and future research.

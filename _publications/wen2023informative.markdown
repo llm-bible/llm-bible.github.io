@@ -21,10 +21,10 @@ description and appropriate prompting techniques. With such automatic pipeline,
 we can readily generate informative visual dialogue data at scale. Then, we ask
 human annotators to rate the generated dialogues to filter the low-quality
 conversations.Human analyses show that InfoVisDial covers informative and
-diverse dialogue topics: \\(54.4\%\\) of the dialogue rounds are related to image
-scene texts, and \\(36.7\%\\) require external knowledge. Each round's answer is
-also long and open-ended: \\(87.3\%\\) of answers are unique with an average length
-of \\(8.9\\), compared with \\(27.37\%\\) and \\(2.9\\) in VisDial. Last, we propose a
+diverse dialogue topics: \\(54.4%\\) of the dialogue rounds are related to image
+scene texts, and \\(36.7%\\) require external knowledge. Each round's answer is
+also long and open-ended: \\(87.3%\\) of answers are unique with an average length
+of \\(8.9\\), compared with \\(27.37%\\) and \\(2.9\\) in VisDial. Last, we propose a
 strong baseline by adapting the GIT model for the visual dialogue task and
 fine-tune the model on InfoVisDial. Hopefully, our work can motivate more
 effort on this direction.

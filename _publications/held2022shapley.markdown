@@ -21,6 +21,6 @@ First, we use Shapley Values, a credit allocation metric from coalitional game
 theory, to identify attention heads that introduce interference. Then, we show
 that removing identified attention heads from a fixed model improves
 performance for a target language on both sentence classification and
-structural prediction, seeing gains as large as 24.7\%. Finally, we provide
+structural prediction, seeing gains as large as 24.7%. Finally, we provide
 insights on language-agnostic and language-specific attention heads using
 attention visualization.

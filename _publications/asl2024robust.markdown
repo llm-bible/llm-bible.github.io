@@ -22,6 +22,6 @@ high-quality and robust sentence embeddings. Our experiments confirm the
 superiority of RobustSentEmbed over state-of-the-art representations.
 Specifically, Our framework achieves a significant reduction in the success
 rate of various adversarial attacks, notably reducing the BERTAttack success
-rate by almost half (from 75.51\% to 38.81\%). The framework also yields
-improvements of 1.59\% and 0.23\% in semantic textual similarity tasks and
+rate by almost half (from 75.51% to 38.81%). The framework also yields
+improvements of 1.59% and 0.23% in semantic textual similarity tasks and
 various transfer tasks, respectively.

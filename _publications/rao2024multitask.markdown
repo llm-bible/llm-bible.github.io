@@ -24,6 +24,6 @@ acquires retrieval properties that are effective across multiple tasks. Our
 results and extensive ablations across retrieved modalities for the image
 captioning and VQA tasks indicate significant performance improvements compared
 to non retrieved baselines +1 CIDEr on MSCOCO, +4 CIDEr on NoCaps and nearly a
-+3\% accuracy on specific VQA question types. This underscores the efficacy of
++3% accuracy on specific VQA question types. This underscores the efficacy of
 applying RAG approaches to VLMs, marking a stride toward more efficient and
 accessible multimodal learning.

@@ -22,7 +22,7 @@ retrieved documents, prompt compression ratio, and embedding methods, using the
 ALCE-ASQA and Natural Questions datasets. Our evaluation from jointly
 optimization all three hyper-parameters demonstrate that MAB-based online
 learning methods can achieve Recall@5 \\(\approx 0.8\\) for scenarios with
-prominent gradients in search space, using only \\(\sim20\%\\) of the LLM API calls
+prominent gradients in search space, using only \\(\sim20%\\) of the LLM API calls
 required by the Grid Search approach. Additionally, the proposed Hier-MAB
 approach outperforms other baselines in more challenging optimization
 scenarios. The code will be made available at https://aka.ms/autorag.

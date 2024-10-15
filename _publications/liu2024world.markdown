@@ -22,4 +22,4 @@ with the hints outlined by the language model during model rollouts, DLLM
 guides the agent toward meaningful and efficient exploration. Extensive
 experiments demonstrate that the DLLM outperforms recent methods in various
 challenging, sparse-reward environments such as HomeGrid, Crafter, and
-Minecraft by 27.7\%, 21.1\%, and 9.9\%, respectively.
+Minecraft by 27.7%, 21.1%, and 9.9%, respectively.

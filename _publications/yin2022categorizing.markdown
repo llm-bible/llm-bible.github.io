@@ -21,6 +21,6 @@ reducing sparsity and overfitting, which is achieved by finding prototypes of
 token representations over the training set and integrating their embeddings
 into the source encoding. Experiments on a dedicated MT dataset (i.e.,
 CoGnition) show that our method reduces compositional generalization error
-rates by 24\% error reduction. In addition, our conceptually simple method
+rates by 24% error reduction. In addition, our conceptually simple method
 gives consistently better results than the Transformer baseline on a range of
 general MT datasets.

@@ -14,7 +14,7 @@ in the pre-training corpora of Large Language Models. In this work, we
 investigate three low-resource cross-lingual approaches that enable an LLM
 adapt to tasks in previously unseen languages. Llama-2 is an LLM where Indic
 languages, among many other language families, contribute to less than
-\\(0.005\%\\) of the total \\(2\\) trillion token pre-training corpora. In this work,
+\\(0.005%\\) of the total \\(2\\) trillion token pre-training corpora. In this work,
 we experiment with the English-dominated Llama-2 for cross-lingual transfer to
 three Indic languages, Bengali, Hindi, and Tamil as target languages. We study
 three approaches for cross-lingual transfer, under ICL and fine-tuning. One, we

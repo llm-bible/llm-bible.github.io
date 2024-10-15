@@ -21,7 +21,7 @@ ideation prediction. we first apply a meta-learning model with
 self-supervision, which results in improved model initialisation for rapid
 adaptation and cross-lingual transfer. The results show that our meta-trained
 model performs significantly better than standard fine-tuning methods,
-outperforming the baseline fine-tuning in macro F1 score with 18\% and 0.8\%
+outperforming the baseline fine-tuning in macro F1 score with 18% and 0.8%
 over XLM-R and mBERT. In parallel, we use LLMs' in-context learning
 capabilities to assess their performance accuracy across the Swahili mental
 health prediction tasks by analysing different cross-lingual prompting

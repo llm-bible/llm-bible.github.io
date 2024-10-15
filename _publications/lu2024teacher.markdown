@@ -27,5 +27,5 @@ comprehensive understanding of the posed questions. The systematic procedural
 data, which reflects the progressive learning process of humans, is then
 utilized for model training. Taking math reasoning as a testbed, experiments
 show that training LLaMA2 with data from YODA improves SFT with significant
-performance gain (+17.01\% on GSM8K and +9.98\% on MATH). In addition, we find
+performance gain (+17.01% on GSM8K and +9.98% on MATH). In addition, we find
 that training with curriculum learning further improves learning robustness.

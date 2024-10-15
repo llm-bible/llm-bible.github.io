@@ -11,7 +11,7 @@ tags: ['Fine Tuning', 'Pretraining Methods', 'Security', 'Tokenization', 'Traini
 ---
 We demonstrate and investigate the remarkable robustness of Large Language
 Models by deleting and swapping adjacent layers. We find that deleting and
-swapping interventions retain 72-95\% of the original model's prediction
+swapping interventions retain 72-95% of the original model's prediction
 accuracy without fine-tuning, whereas models with more layers exhibit more
 robustness. Based on the results of the layer-wise intervention and further
 experiments, we hypothesize the existence of four universal stages of inference

@@ -23,7 +23,7 @@ counterfactual. We then use head attribution to identify individual attention
 heads that either promote the memorized answer or the in-context answer in the
 logits. By scaling up or down the value vector of these heads, we can control
 the likelihood of using the in-context answer on new data. This method can
-increase the rate of generating the in-context answer to 88\% of the time
+increase the rate of generating the in-context answer to 88% of the time
 simply by scaling a single head at runtime. Our work contributes to a body of
 evidence showing that we can often localize model behaviors to specific
 components and provides a proof of concept for how future methods might control

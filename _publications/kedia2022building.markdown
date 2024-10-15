@@ -21,7 +21,7 @@ attention over all tokens across samples. Furthermore, we propose an
 alternative answer span probability calculation to better aggregate answer
 scores in the global space of all samples. Using our proposed method, we
 outperform the current state-of-the-art method by \\(2.5\\) Exact Match score on
-the Natural Question dataset while using only \\(25\%\\) of parameters and \\(35\%\\)
+the Natural Question dataset while using only \\(25%\\) of parameters and \\(35%\\)
 of the latency during inference, and \\(4.4\\) Exact Match on WebQuestions dataset.
 When coupled with synthetic data augmentation, we outperform larger models on
 the TriviaQA dataset as well. The latency and parameter savings of our method

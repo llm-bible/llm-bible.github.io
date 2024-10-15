@@ -18,5 +18,5 @@ current ML-based methods to improve general purpose pre-trained language models
 in the task of commonsense reasoning. Specifically, we experiment with and
 systematically evaluate methods including knowledge transfer, model ensemble,
 and introducing an additional pairwise contrastive objective. Our best model
-outperforms the strongest previous works by ~15\% absolute gains in Pairwise
-Accuracy and ~8.7\% absolute gains in Standard Accuracy.
+outperforms the strongest previous works by ~15% absolute gains in Pairwise
+Accuracy and ~8.7% absolute gains in Standard Accuracy.

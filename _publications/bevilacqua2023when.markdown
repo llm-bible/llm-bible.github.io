@@ -25,7 +25,7 @@ human-generated and GPT-based essays. Results of our benchmark analysis reveal
 that transformer pretrained language models (PLMs) more accurately score human
 essay quality as compared to CNN/RNN and feature-based ML methods.
 Interestingly, we find that the transformer PLMs tend to score GPT-generated
-text 10-15\% higher on average, relative to human-authored documents.
+text 10-15% higher on average, relative to human-authored documents.
 Conversely, traditional deep learning and feature-based ML models score human
 text considerably higher. Further analysis reveals that although the
 transformer PLMs are exclusively fine-tuned on human text, they more

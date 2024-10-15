@@ -27,7 +27,7 @@ ability for sample-efficient downstream adaptation, by representing user
 behavior data as plain texts and converting the tasks to either language
 understanding or generation. To deal with a tight hardware budget, we propose
 an improved version of prompt tuning that outperforms fine-tuning with
-negligible 1\% task-specific parameters, and employ techniques such as late
+negligible 1% task-specific parameters, and employ techniques such as late
 interaction, early exiting, parameter sharing, and pruning to further reduce
 the inference time and the model size. We demonstrate the foundation model's
 versatility on a wide range of tasks such as retrieval, ranking, zero-shot

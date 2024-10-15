@@ -33,4 +33,4 @@ fast inference for online deployment. Extensive offline experiment results
 corroborates the effectiveness and efficiency of the \textsc\{Hiformer\} model.
 We have successfully deployed the \textsc\{Hiformer\} model to a real world large
 scale App ranking model at Google Play, with significant improvement in key
-engagement metrics (up to +2.66\%).
+engagement metrics (up to +2.66%).

@@ -25,7 +25,7 @@ demonstrate our approach on 150 instructions in five real-world environments
 showing the generality of our approach and the ease of deployment in novel
 unstructured domains. In our experiments, LIMP performs comparably with
 state-of-the-art LLM task planners and LLM code-writing planners on standard
-open vocabulary tasks and additionally achieves 79\% success rate on complex
+open vocabulary tasks and additionally achieves 79% success rate on complex
 spatiotemporal instructions while LLM and Code-writing planners both achieve
-38\%. See supplementary materials and demo videos at
+38%. See supplementary materials and demo videos at
 https://robotlimp.github.io

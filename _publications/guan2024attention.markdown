@@ -20,6 +20,6 @@ mixed-precision quantization, ensuring an informed precision reduction that
 retains model performance. Experiments show APTQ surpasses previous
 quantization methods, achieving an average of 4 bit width a 5.22 perplexity
 nearly equivalent to full precision in the C4 dataset. In addition, APTQ
-attains state-of-the-art zero-shot accuracy of 68.24\% and 70.48\% at an
+attains state-of-the-art zero-shot accuracy of 68.24% and 70.48% at an
 average bitwidth of 3.8 in LLaMa-7B and LLaMa-13B, respectively, demonstrating
 its effectiveness to produce high-quality quantized LLMs.

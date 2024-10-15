@@ -21,6 +21,6 @@ to jointly encode a source input and a pair of candidates and compare them.
 Experiments on three NLG tasks demonstrated the effectiveness and flexibility
 of \textsc\{PairReranker\}, showing strong results, compared with previous
 baselines. In addition, our \textsc\{PairReranker\} can generalize to
-significantly improve GPT-3 (text-davinci-003) results (e.g., 24.55\% on
-CommonGen and 11.35\% on WMT18 zh-en), even though our rerankers are not
+significantly improve GPT-3 (text-davinci-003) results (e.g., 24.55% on
+CommonGen and 11.35% on WMT18 zh-en), even though our rerankers are not
 trained with any GPT-3 candidates.

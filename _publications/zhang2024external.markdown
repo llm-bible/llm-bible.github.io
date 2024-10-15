@@ -24,5 +24,5 @@ on the new metric, we proposed a framework, dubbed as \textbf\{RECOST\}, which
 integrates external-knowledge-base re-ranking and diversity-consistent sampling
 into a single pipeline. Through extensive experiments on several synthetic
 datasets (Alpaca and Alpaca-gpt4), we demonstrate the effectiveness of our
-method and achieve even better results with only \textbf\{1\%\} of the full
+method and achieve even better results with only \textbf\{1%\} of the full
 dataset.

@@ -23,8 +23,8 @@ PPTX-Match Evaluation System that evaluates if LLMs finish the instruction
 based on the prediction file rather than the label API sequence, thus it
 supports various LLM-generated API sequences. We measure 3 closed LLMs and 6
 open-source LLMs. The results show that GPT-4 outperforms other LLMs with
-75.1\% accuracy in single-turn dialogue testing but faces challenges in
-completing entire sessions, achieving just 6\% session accuracy. We find three
+75.1% accuracy in single-turn dialogue testing but faces challenges in
+completing entire sessions, achieving just 6% session accuracy. We find three
 main error causes in our benchmark: error accumulation in the multi-turn
 session, long PPT template processing, and multi-modality perception. These
 pose great challenges for future LLM and agent systems. We release the data,

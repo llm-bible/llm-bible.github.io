@@ -23,6 +23,6 @@ problematic prompts not detected by GPT-4, as well as a selection of
 contentious but unproblematic prompts. We show considerable increase in
 classification accuracy of the judge model on this challenging dataset as it
 undergoes the optimisation process. Furthermore, we show that a rudimentary
-model \texttt\{ada\} can achieve 13\% higher accuracy on the hold-out test set
+model \texttt\{ada\} can achieve 13% higher accuracy on the hold-out test set
 than GPT-4 after only a few rounds of this process, and that this fine-tuning
 improves performance in parallel tasks such as toxic comment identification.

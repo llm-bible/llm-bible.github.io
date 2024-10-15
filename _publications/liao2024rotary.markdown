@@ -22,7 +22,7 @@ In this paper, we introduce a novel method, RoAd, which employs a
 straightforward 2D rotation to adapt LLMs and addresses all the above
 challenges: (1) RoAd is remarkably parameter-efficient, delivering optimal
 performance on GLUE, eight commonsense reasoning tasks and four arithmetic
-reasoning tasks with \\(<0.1\%\\) trainable parameters; (2) RoAd facilitates the
+reasoning tasks with \\(<0.1%\\) trainable parameters; (2) RoAd facilitates the
 efficient serving of requests requiring different adapters within a batch, with
 an overhead comparable to element-wise multiplication instead of batch matrix
 multiplication; (3) RoAd enhances LLM's interpretability through integration

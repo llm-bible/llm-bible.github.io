@@ -21,10 +21,10 @@ Instructions for fine-tuning LLMs by focusing on event triggers and their
 relationships to event types, and employ Low-Rank Adaptation (LoRA) to help
 preserve the general reasoning abilities of LLMs. Our evaluations demonstrate
 that training LLMs with SCG Instructions outperforms standard instruction
-fine-tuning by an average of 35.69\% on Event Trigger Classification. Notably,
+fine-tuning by an average of 35.69% on Event Trigger Classification. Notably,
 our fine-tuned Mistral 7B model also outperforms GPT-4 on key event detection
-metrics by an average of 31.01\% on Event Trigger Identification, 37.40\% on
-Event Trigger Classification, and 16.43\% on Event Classification. We analyze
+metrics by an average of 31.01% on Event Trigger Identification, 37.40% on
+Event Trigger Classification, and 16.43% on Event Classification. We analyze
 the retention of general capabilities, observing only a minimal average drop of
 2.03 points across six benchmarks. This comprehensive study investigates
 multiple LLMs for the event detection task across various datasets, prompting

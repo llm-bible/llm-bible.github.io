@@ -32,6 +32,6 @@ performance of existing VQA systems. We then leverage a multi-modal fusion
 module based on a general-purpose multi-modal foundation model (BEiT-3) to fuse
 the information between visual and textual features. Our experimental findings
 demonstrate that our model surpasses competing baselines, achieving promising
-performance. This is particularly evident in its accuracy of \\(71.04\%\\) on the
+performance. This is particularly evident in its accuracy of \\(71.04%\\) on the
 test set of the ViVQA dataset, marking a significant advancement in our
 research area. The code is available at https://github.com/nngocson2002/ViVQA.

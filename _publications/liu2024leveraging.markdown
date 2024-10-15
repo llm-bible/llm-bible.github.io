@@ -24,6 +24,6 @@ develop an entity-guided regularization loss to further improve generation
 performance. We also introduce DensePrompts, which contains \\(7,000\\) dense
 prompts to provide a comprehensive evaluation for the text-to-image generation
 task. Experiments indicate that LLM4GEN significantly improves the semantic
-alignment of SD1.5 and SDXL, demonstrating increases of 9.69\% and 12.90\% in
+alignment of SD1.5 and SDXL, demonstrating increases of 9.69% and 12.90% in
 color on T2I-CompBench, respectively. Moreover, it surpasses existing models in
 terms of sample quality, image-text alignment, and human evaluation.

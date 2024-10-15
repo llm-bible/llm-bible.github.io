@@ -21,5 +21,5 @@ strategy, Constrained-CoT (CCoT), which encourages the model to limit output
 length. Experiments on pre-trained LLMs demonstrated the benefit of the
 proposed metrics and the effectiveness of CCoT across different models. For
 instance, constraining the reasoning of LLaMA2-70b to 100 words improves the
-accuracy from 36.01\% (CoT) to 41.07\% (CCoT) on the GSM8K dataset, while
+accuracy from 36.01% (CoT) to 41.07% (CCoT) on the GSM8K dataset, while
 reducing the average output length by 28 words.

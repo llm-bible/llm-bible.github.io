@@ -24,6 +24,6 @@ translation, language modeling, text generation and GLUE/SuperGLUE benchmarks.
 When composed with dot product attention, we find that Synthesizers
 consistently outperform Transformers. Moreover, we conduct additional
 comparisons of Synthesizers against Dynamic Convolutions, showing that simple
-Random Synthesizer is not only \\(60\%\\) faster but also improves perplexity by a
-relative \\(3.5\%\\). Finally, we show that simple factorized Synthesizers can
+Random Synthesizer is not only \\(60%\\) faster but also improves perplexity by a
+relative \\(3.5%\\). Finally, we show that simple factorized Synthesizers can
 outperform Linformers on encoding only tasks.

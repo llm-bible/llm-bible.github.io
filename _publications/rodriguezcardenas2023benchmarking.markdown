@@ -29,9 +29,9 @@ interpretation of LLMs' performance. We illustrate the insights of our
 benchmarking strategy by conducting a case study on the performance of ChatGPT
 under distinct prompt engineering methods. The results of the case study
 demonstrate the positive causal influence of prompt semantics on ChatGPT's
-generative performance by an average treatment effect of \\(\approx 3\%\\).
+generative performance by an average treatment effect of \\(\approx 3%\\).
 Moreover, it was found that confounders such as prompt size are highly
-correlated with accuracy metrics (\\(\approx 0.412\%\\)). The end result of our
+correlated with accuracy metrics (\\(\approx 0.412%\\)). The end result of our
 case study is to showcase causal inference evaluations, in practice, to reduce
 confounding bias. By reducing the bias, we offer an interpretable solution for
 the accuracy metric under analysis.

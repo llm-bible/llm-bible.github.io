@@ -22,8 +22,8 @@ across 8 different structured languages and 29 specific tasks. Furthermore,
 considering human proficiency in rule-based tasks, we also present
 StrucText-Eval-Hard, which includes 3,016 questions designed to further examine
 the gap between LLMs and human performance. Results indicate that the
-best-performing LLM currently achieve an accuracy of 65.0\% on
-StrucText-Eval-Hard, while human accuracy reaches up to 95.7\%. Moreover, while
+best-performing LLM currently achieve an accuracy of 65.0% on
+StrucText-Eval-Hard, while human accuracy reaches up to 95.7%. Moreover, while
 fine-tuning using StrucText-Eval can enhance existing LLMs' understanding of
 all structured languages, it does not necessarily improve performance across
 all task types. The benchmark and generation codes are open sourced in

@@ -29,6 +29,6 @@ LoRA (I-LoRA), which constructs a dual-memory experience replay framework based
 on LoRA parameter interpolations. Extensive experiments and analysis on eight
 domain-specific CL benchmarks demonstrate that I-LoRA consistently show
 significant improvement over the previous state-of-the-art approaches with up
-to \\(11\%\\) performance gains, providing a strong baseline and insights for
+to \\(11%\\) performance gains, providing a strong baseline and insights for
 future research on the large language model continual learning problem. Our
 code is available at \url\{https://github.com/which47/LLMCL\}.

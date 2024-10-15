@@ -21,5 +21,5 @@ and generation tasks. Finally, we identify potential hallucination problems in
 graph tasks and sample negative instances for preference alignment, the target
 of which is to enhance the output's reliability of the model. Extensive
 experiments across multiple graph-centric tasks exhibit that InstructGraph can
-achieve the best performance and outperform GPT-4 and LLaMA2 by more than 13\%
-and 38\%, respectively.
+achieve the best performance and outperform GPT-4 and LLaMA2 by more than 13%
+and 38%, respectively.

@@ -26,5 +26,5 @@ various LLMs to perform VQA. 2)~Without the needing of end-to-end training, it
 significantly reduces the cost of deploying LLM for zero-shot VQA tasks. 3) It
 achieves comparable or better performance than methods relying on end-to-end
 training. For example, we outperform Flamingo \cite\{Deepmind:Flamingo2022\} by
-5.6\% on VQAv2. On the challenging A-OKVQA dataset, our method even outperforms
-few-shot methods by as much as 20\%.
+5.6% on VQAv2. On the challenging A-OKVQA dataset, our method even outperforms
+few-shot methods by as much as 20%.

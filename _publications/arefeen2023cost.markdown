@@ -25,9 +25,9 @@ dynamically determines \\(k\\) based on the query and context. The rest of the l
 important sentences are reduced using a free open source text reduction method.
 We evaluate LeanContext against several recent query-aware and query-unaware
 context reduction approaches on prominent datasets (arxiv papers and BBC news
-articles). Despite cost reductions of \\(37.29\%\\) to \\(67.81\%\\), LeanContext's
-ROUGE-1 score decreases only by \\(1.41\%\\) to \\(2.65\%\\) compared to a baseline
+articles). Despite cost reductions of \\(37.29%\\) to \\(67.81%\\), LeanContext's
+ROUGE-1 score decreases only by \\(1.41%\\) to \\(2.65%\\) compared to a baseline
 that retains the entire context (no summarization). Additionally, if free
 pretrained LLM-based summarizers are used to reduce context (into human
 consumable summaries), LeanContext can further modify the reduced context to
-enhance the accuracy (ROUGE-1 score) by \\(13.22\%\\) to \\(24.61\%\\).
+enhance the accuracy (ROUGE-1 score) by \\(13.22%\\) to \\(24.61%\\).

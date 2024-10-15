@@ -20,7 +20,7 @@ instructions and context are compressed in downstream tasks, and propose an
 instruction reconstruction method to mitigate this problem. We validated the
 effectiveness of our approach on multiple tasks, achieving a compression rate
 of up to 32x on text reconstruction tasks with a BLEU4 score close to 0.95, and
-nearly 100\% accuracy on a passkey retrieval task with a sequence length of 1M.
+nearly 100% accuracy on a passkey retrieval task with a sequence length of 1M.
 Finally, our method demonstrated competitive performance in long-text
 question-answering tasks compared to non-compressed methods, while
 significantly saving storage resources in long-text inference tasks. Our code,

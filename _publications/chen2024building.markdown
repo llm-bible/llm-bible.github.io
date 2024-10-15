@@ -23,7 +23,7 @@ then generates instructions for these texts. To generate accurate and relevant
 responses for effective and robust training, REInstruct further proposes a
 rewriting-based approach to improve the quality of the generated instruction
 data. By training Llama-7b on a combination of 3k seed data and 32k synthetic
-data from REInstruct, fine-tuned model achieves a 65.41\% win rate on
+data from REInstruct, fine-tuned model achieves a 65.41% win rate on
 AlpacaEval leaderboard against text-davinci-003, outperforming other
 open-source, non-distilled instruction data construction methods. The code is
 publicly available at \url\{https://github.com/cs32963/REInstruct\}.

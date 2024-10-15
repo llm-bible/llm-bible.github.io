@@ -20,6 +20,6 @@ experiments show that while BERT performs exceptionally well for in-domain
 samples, several runs of the model show that it is unstable for out-of-domain
 samples. The problem is mitigated tremendously by (1) combining BERT with a
 non-BERT encoder, and (2) using an RNN-based classifier on top of BERT. Our
-final models obtained second place with 77.78\% F-Score on Subtask A (i.e.
-in-domain) and achieved an F-Score of 79.59\% on Subtask B (i.e.
+final models obtained second place with 77.78% F-Score on Subtask A (i.e.
+in-domain) and achieved an F-Score of 79.59% on Subtask B (i.e.
 out-of-domain), even without using any additional external data.

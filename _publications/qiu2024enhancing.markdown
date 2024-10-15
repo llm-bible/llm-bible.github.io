@@ -25,5 +25,5 @@ For each entity, we curated 10 illustrative images and crafted 10
 knowledge-intensive QA pairs. To address this novel task, we devised a
 scalable, efficient, and transparent retrieval-augmented multimodal LLM. Our
 approach markedly outperforms existing methods on the SnapNTell dataset,
-achieving a 66.5\% improvement in the BELURT score. We will soon make the
+achieving a 66.5% improvement in the BELURT score. We will soon make the
 dataset and the source code publicly accessible.

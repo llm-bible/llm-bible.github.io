@@ -24,9 +24,9 @@ a broader generative space and receive more comprehensive feedback. Theoretical
 analyses are conducted to investigate the mechanism of the effectiveness.
 Experimental results show the model trained through our proposed approach can
 compete with and even outperform the state-of-the-art (SOTA) open-source model
-with nearly 37\% reference samples, achieving remarkable 42.9\% and 62.2\%
+with nearly 37% reference samples, achieving remarkable 42.9% and 62.2%
 pass@1 rate on two VerilogEval evaluation datasets respectively. While using
 the same amount of reference samples, our method can achieved a relative
-improvement of 16.9\% and 12.5\% in pass@1 compared to the non-iterative
+improvement of 16.9% and 12.5% in pass@1 compared to the non-iterative
 method. This study facilitates the application of LLMs for generating RTL code
 in practical scenarios with limited data.

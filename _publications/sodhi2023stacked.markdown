@@ -23,7 +23,7 @@ control state, i.e., the chain of policy calls. Unlike traditional methods that
 are restricted to static hierarchies, SteP enables dynamic control that adapts
 to the complexity of the task. We evaluate SteP against multiple baselines and
 web environments including WebArena, MiniWoB++, and a CRM. On WebArena, SteP
-improves (14.9\% to 33.5\%) over SOTA that use GPT-4 policies, while on
+improves (14.9% to 33.5%) over SOTA that use GPT-4 policies, while on
 MiniWob++, SteP is competitive with prior works while using significantly less
 data. Our code and data are available at
 https://asappresearch.github.io/webagents-step.

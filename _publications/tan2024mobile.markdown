@@ -29,6 +29,6 @@ extends previous weight equivalent transformation works by jointly optimizing
 the weight transformation and activation range parameters in an end-to-end
 manner. MobileQuant demonstrates superior capabilities over existing methods by
 1) achieving near-lossless quantization on a wide range of LLM benchmarks, 2)
-reducing latency and energy consumption by 20\%-50\% compared to current
+reducing latency and energy consumption by 20%-50% compared to current
 on-device quantization strategies, 3) requiring limited compute budget, 4)
 being compatible with mobile-friendly compute units, e.g. NPU.

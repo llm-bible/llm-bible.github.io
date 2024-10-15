@@ -24,6 +24,6 @@ ensuring changes are made only where necessary while retaining most of the
 original content. The refined dataset is used to train a token-level reward
 model, which is then used for training our fine-grained Proximal Policy
 Optimization (PPO) model. Our experiment results demonstrate that this approach
-can achieve up to an absolute improvement of \\(5.1\%\\) in LLM performance, in
+can achieve up to an absolute improvement of \\(5.1%\\) in LLM performance, in
 terms of win rate against the reference model, compared with the traditional
 PPO model.

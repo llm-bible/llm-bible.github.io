@@ -20,18 +20,18 @@ preferred trajectories and decreasing the similarity along randomly sampled
 dispreferred trajectories. This objective significantly improves RM performance
 by up to 0.09 AUROC across challenging benchmarks, such as MATH and GSM8k.
 These findings extend to general alignment as well -- on the Helpful-Harmless
-dataset, we observe \\(2.3\%\\) increase in accuracy. Beyond improving reward model
+dataset, we observe \\(2.3%\\) increase in accuracy. Beyond improving reward model
 performance, we show this way of training RM representations enables improved
 \\(\textit\{steerability\}\\) because it allows us to evaluate the likelihood of an
 action achieving a particular goal-state (e.g., whether a solution is correct
-or helpful). Leveraging this insight, we find that we can filter up to \\(55\%\\)
+or helpful). Leveraging this insight, we find that we can filter up to \\(55%\\)
 of generated tokens during majority voting by discarding trajectories likely to
 end up in an "incorrect" state, which leads to significant cost savings. We
 additionally find that these representations can perform fine-grained control
 by conditioning on desired future goal-states. For example, we show that
 steering a Llama 3 model towards helpful generations with our approach improves
-helpfulness by \\(9.6\%\\) over a supervised-fine-tuning trained baseline.
+helpfulness by \\(9.6%\\) over a supervised-fine-tuning trained baseline.
 Similarly, steering the model towards complex generations improves complexity
-by \\(21.6\%\\) over the baseline. Overall, we find that training RMs in this
+by \\(21.6%\\) over the baseline. Overall, we find that training RMs in this
 contrastive, goal-conditioned fashion significantly improves performance and
 enables model steerability.

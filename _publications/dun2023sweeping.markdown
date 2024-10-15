@@ -26,6 +26,6 @@ efficiency reasons -- as well as instruction data source and task composition.
 In practice, MoPs can simultaneously mitigate prompt training "interference" in
 multi-task, multi-source scenarios (e.g., task and data heterogeneity across
 sources), as well as possible implications from model approximations. As a
-highlight, MoPs manage to decrease final perplexity from \\(\sim20\%\\) up to
-\\(\sim70\%\\), as compared to baselines, in the federated scenario, and from \\(\sim
-3\%\\) up to \\(\sim30\%\\) in the centralized scenario.
+highlight, MoPs manage to decrease final perplexity from \\(\sim20%\\) up to
+\\(\sim70%\\), as compared to baselines, in the federated scenario, and from \\(\sim
+3%\\) up to \\(\sim30%\\) in the centralized scenario.

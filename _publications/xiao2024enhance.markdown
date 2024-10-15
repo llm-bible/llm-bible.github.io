@@ -29,5 +29,5 @@ rates by enhancing the model's memory of data, thereby improving its
 performance. We evaluated the performance of EMP in tasks such as image
 classification, natural language understanding, and model pre-training. The
 results show that EMP can improve model performance under extreme pruning
-rates. For example, in the CIFAR100-ResNet50 pre-training task, with 70\%
-pruning, EMP outperforms current methods by 2.2\%.
+rates. For example, in the CIFAR100-ResNet50 pre-training task, with 70%
+pruning, EMP outperforms current methods by 2.2%.

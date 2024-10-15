@@ -23,7 +23,7 @@ designed to significantly reduce biases and toxic elements in LLM outputs while
 preserving the main information. This work also details our further use of
 LLMs: as annotator under human supervision and as evaluator of generated
 content. Empirical analysis reveals that MBIAS achieves a reduction in bias and
-toxicity by over 30\% in standard evaluations, and by more than 90\% in diverse
+toxicity by over 30% in standard evaluations, and by more than 90% in diverse
 demographic tests, highlighting the robustness of our approach. We make the
 dataset and the fine-tuned model available to the research community for
 further investigation and ensure reproducibility. The code for this project can

@@ -28,8 +28,8 @@ storage capacity. Empirically, we demonstrate the efficacy of the proposed
 model across large-scale transformer-based and Hopfield-based models (including
 BERT, OPT, ViT, and STanHop-Net), benchmarking against state-of-the-art methods
 like \\(\mathtt\{Clipped\_Softmax\}\\) and \\(\mathtt\{Gated\_Attention\}\\). Notably,
-\\(\mathrm\{OutEffHop\}\\) achieves an average reduction of 22+\% in average kurtosis
-and 26+\% in the maximum infinity norm of model outputs across four models.
+\\(\mathrm\{OutEffHop\}\\) achieves an average reduction of 22+% in average kurtosis
+and 26+% in the maximum infinity norm of model outputs across four models.
 Code is available at \href\{https://github.com/MAGICS-LAB/OutEffHop\}\{GitHub\};
 models are on
 \href\{https://huggingface.co/collections/magicslabnu/outeffhop-6610fcede8d2cda23009a98f\}\{Hugging

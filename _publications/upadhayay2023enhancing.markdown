@@ -23,7 +23,7 @@ instruction-tune LLMs on new languages through a curriculum-learning process.
 As a proof of concept, we experimented with the instruction-tuned Guanaco-33B
 model, performing further instruction tuning using our proposed TaCo method in
 three low-resource languages and one high-resource language. Our results
-indicate that the TaCo method impresses GPT-4 with an 82\% score for a
+indicate that the TaCo method impresses GPT-4 with an 82% score for a
 low-resource language in the Vicuna Benchmark dataset, doubling the performance
 in contrast to instruction tuning alone. Furthermore, TaCo shows promise in
 creating multilingual LLMs, even for low-resource languages. We have released

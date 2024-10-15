@@ -23,6 +23,6 @@ code suggestions. We describe a language-agnostic abstract algorithm and a
 concrete implementation TiCoder. We perform an automated evaluation of TiCoder
 on the *MBPP* and *HumanEval* code generation benchmarks. Our results
 are promising with using the OpenAI Codex LLM: our best algorithm improves the
-\passk\{1\} code generation accuracy (in absolute percentages) between \\(22.49\%\\)
-to \\(37.71\%\\) for MBPP and between \\(24.79\%\\) to \\(53.98\%\\) for HumanEval using
+\passk\{1\} code generation accuracy (in absolute percentages) between \\(22.49%\\)
+to \\(37.71%\\) for MBPP and between \\(24.79%\\) to \\(53.98%\\) for HumanEval using
 between 1 to 5 simulated user queries.

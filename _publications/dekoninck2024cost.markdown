@@ -20,7 +20,7 @@ expressive and flexible rating system based on maximum a posteriori estimation
 that enables a more nuanced and thorough analysis of model performance at lower
 costs. Polyrating can detect and quantify biases affecting human preferences,
 ensuring fairer model comparisons. Furthermore, Polyrating can reduce the cost
-of human evaluations by up to \\(41\%\\) for new models and up to \\(77\%\\) for new
+of human evaluations by up to \\(41%\\) for new models and up to \\(77%\\) for new
 tasks by leveraging existing benchmark scores. Lastly, Polyrating enables
 direct comparisons of ratings across different tasks, providing a comprehensive
 understanding of an LLMs' strengths, weaknesses, and relative performance

@@ -28,5 +28,5 @@ number of poisoning samples. To combat overfitting, we employ a
 \textit\{Selective Token Poisoning\} technique to boost attack performance.
 Furthermore, we introduce a \textit\{Trojan-Trigger Attention\} objective
 function to amplify the attention of the poisoned trojan prompt on triggers.
-Experiments show that our TrojFSP achieves an ASR of over 99\% while
+Experiments show that our TrojFSP achieves an ASR of over 99% while
 maintaining negligible decreases in CDA across various PLMs and datasets.

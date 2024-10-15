@@ -17,7 +17,7 @@ idiosyncrasies of how language models acquire information. We formulate example
 selection for in-context learning as a sequential decision problem, and propose
 a reinforcement learning algorithm for identifying generalizable policies to
 select demonstration examples. For GPT-2, our learned policies demonstrate
-strong abilities of generalizing to unseen tasks in training, with a \\(5.8\%\\)
+strong abilities of generalizing to unseen tasks in training, with a \\(5.8%\\)
 improvement on average. Examples selected from our learned policies can even
 achieve a small improvement on GPT-3 Ada. However, the improvement diminishes
 on larger GPT-3 models, suggesting emerging capabilities of large language

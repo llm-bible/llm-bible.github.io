@@ -21,7 +21,7 @@ alternative to closed-source approaches. In collaboration with and as part of
 the incredible and unstoppable open-source community, we open-source several
 fine-tuned h2oGPT models from 7 to 40 Billion parameters, ready for commercial
 use under fully permissive Apache 2.0 licenses. Included in our release is
-100\% private document search using natural language.
+100% private document search using natural language.
   Open-source language models help boost AI development and make it more
 accessible and trustworthy. They lower entry hurdles, allowing people and
 groups to tailor these models to their needs. This openness increases

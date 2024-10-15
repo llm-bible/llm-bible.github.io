@@ -26,5 +26,5 @@ preemptive and post-hoc guidance respectively to LLMs. We evaluated INDICT on 8
 diverse tasks across 8 programming languages from 5 benchmarks, using LLMs from
 7B to 70B parameters. We observed that our approach can provide an advanced
 level of critiques of both safety and helpfulness analysis, significantly
-improving the quality of output codes (\\(+10\%\\) absolute improvements in all
+improving the quality of output codes (\\(+10%\\) absolute improvements in all
 models).

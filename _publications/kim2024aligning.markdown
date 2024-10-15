@@ -25,6 +25,6 @@ approach is significantly more effective. In addition, we introduce a
 noise-aware preference learning algorithm to mitigate the risk of low quality
 within generated preference data. Our experimental results demonstrate that the
 proposed framework significantly boosts the alignment of LLMs. For example, we
-achieve superior alignment performance on AlpacaEval 2.0 with only 3.3\% of the
+achieve superior alignment performance on AlpacaEval 2.0 with only 3.3% of the
 ground-truth preference labels in the Ultrafeedback data compared to the cases
 using the entire data or state-of-the-art baselines.

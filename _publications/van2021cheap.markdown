@@ -18,8 +18,8 @@ narrowing the location of the answers. We demonstrate that our simple strategy
 substantially improves both document retrieval and answer extraction
 performance by providing larger context of the answers and additional training
 data. In particular, our method significantly improves the performance of BERT
-based retriever (15.12\%), and answer extractor (4.33\% F1) on TechQA, a
+based retriever (15.12%), and answer extractor (4.33% F1) on TechQA, a
 complex, low-resource MRC task. Further, our data augmentation strategy yields
-significant improvements of up to 3.9\% exact match (EM) and 2.7\% F1 for
+significant improvements of up to 3.9% exact match (EM) and 2.7% F1 for
 answer extraction on PolicyQA, another practical but moderate sized QA dataset
 that also contains long answer spans.

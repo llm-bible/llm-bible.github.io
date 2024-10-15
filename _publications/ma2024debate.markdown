@@ -30,7 +30,7 @@ complex questions, reducing the influence of false-positive relations. This
 debate mechanism ensures the reliability of the reasoning process. Experimental
 results on five public datasets demonstrate the effectiveness and superiority
 of our architecture. Notably, DoG outperforms the state-of-the-art method ToG
-by 23.7\% and 9.1\% in accuracy on WebQuestions and GrailQA, respectively.
+by 23.7% and 9.1% in accuracy on WebQuestions and GrailQA, respectively.
 Furthermore, the integration experiments with various LLMs on the mentioned
 datasets highlight the flexibility of DoG. Code is available at
 \url\{https://github.com/reml-group/DoG\}.

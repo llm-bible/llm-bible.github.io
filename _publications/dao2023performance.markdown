@@ -12,7 +12,7 @@ tags: ['GPT', 'Model Architecture', 'Tools', 'Uncategorized']
 This paper presents a performance comparison of three large language models
 (LLMs), namely OpenAI ChatGPT, Microsoft Bing Chat (BingChat), and Google Bard,
 on the VNHSGE English dataset. The performance of BingChat, Bard, and ChatGPT
-(GPT-3.5) is 92.4\%, 86\%, and 79.2\%, respectively. The results show that
+(GPT-3.5) is 92.4%, 86%, and 79.2%, respectively. The results show that
 BingChat is better than ChatGPT and Bard. Therefore, BingChat and Bard can
 replace ChatGPT while ChatGPT is not yet officially available in Vietnam. The
 results also indicate that BingChat, Bard and ChatGPT outperform Vietnamese

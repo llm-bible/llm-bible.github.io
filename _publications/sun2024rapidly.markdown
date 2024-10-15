@@ -23,7 +23,7 @@ using GPT-4 to automatically assess the response quality of LLMs without human
 references. The empirical results suggest that the models fine-tuned on our
 GPT-4 self-instruct data significantly outperformed the Japanese-Alpaca across
 all three base pre-trained models. Our GPT-4 self-instruct data allowed the
-LLaMA 13B model to defeat GPT-3.5 (Davinci-003) with a 54.37\% win-rate. The
+LLaMA 13B model to defeat GPT-3.5 (Davinci-003) with a 54.37% win-rate. The
 human evaluation exhibits the consistency between GPT-4's assessments and human
 preference. Our high-quality instruction data and evaluation benchmark have
 been released here.

@@ -25,6 +25,6 @@ unnecessary in the deep layers of MLLMs. Thus, we strategically withdraw them
 at a certain layer, enabling only text tokens to engage in subsequent layers.
 To pinpoint the ideal layer for VTW, we initially analyze a limited set of tiny
 datasets and choose the first layer that meets the Kullback-Leibler divergence
-criterion. Our VTW approach can cut computational overhead by over 40\% across
+criterion. Our VTW approach can cut computational overhead by over 40% across
 diverse multimodal tasks while maintaining performance. Our code is released at
 \url\{https://github.com/lzhxmu/VTW\}.

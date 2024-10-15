@@ -27,7 +27,7 @@ limitations of single-agent models and traditional methodologies. Our extensive
 experiments on 9 code generation models and 12 enhancement approaches showcase
 AgentCoder's superior performance over existing code generation models and
 prompt engineering techniques across various benchmarks. For example,
-AgentCoder (GPT-4) achieves 96.3\% and 91.8\% pass@1 in HumanEval and MBPP
+AgentCoder (GPT-4) achieves 96.3% and 91.8% pass@1 in HumanEval and MBPP
 datasets with an overall token overhead of 56.9K and 66.3K, while
-state-of-the-art obtains only 90.2\% and 78.9\% pass@1 with an overall token
+state-of-the-art obtains only 90.2% and 78.9% pass@1 with an overall token
 overhead of 138.2K and 206.5K.

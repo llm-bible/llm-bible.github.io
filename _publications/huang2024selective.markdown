@@ -26,7 +26,7 @@ prompt retriever is dynamically updated through feedback from the LLMs.
 Additionally, we propose context-prompt contrastive learning and prompt fusion
 learning to encourage the SPT to enhance the diversity of personalized
 conversations. Experiments on the CONVAI2 dataset demonstrate that SPT
-significantly enhances response diversity by up to 90\%, along with
+significantly enhances response diversity by up to 90%, along with
 improvements in other critical performance indicators. Those results highlight
 the efficacy of SPT in fostering engaging and personalized dialogue generation.
 The SPT model code (https://github.com/hqsiswiliam/SPT) is publicly available

@@ -18,7 +18,7 @@ models. Our paper unveils a pioneering prompting technique, dubbed
 \textit\{Graph of Thoughts (GoT)\}. Through testing on a trio of escalating
 challenges: the 24-point game, resolution of high-degree polynomial equations,
 and derivation of formulas for recursive sequences, our method outperformed
-GPT-4, achieving accuracy improvements of \\(89.7\%\\), \\(86\%\\), and \\(56\%\\) for each
+GPT-4, achieving accuracy improvements of \\(89.7%\\), \\(86%\\), and \\(56%\\) for each
 respective task. Moreover, when juxtaposed with the state-of-the-art (SOTA)
 prompting method, \textit\{Tree of Thought (ToT)\}, our approach registered an
-average accuracy boost of \\(23\%\\), \\(24\%\\), and \\(15\%\\).
+average accuracy boost of \\(23%\\), \\(24%\\), and \\(15%\\).

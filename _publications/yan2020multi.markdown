@@ -24,6 +24,6 @@ the NIST Chinese-to-English, WMT'14 English-to-German and WMT'18
 Chinese-to-English, show that the MUTE models significantly outperform the
 Transformer-Base, by up to +1.52, +1.90 and +1.10 BLEU points, with only a mild
 drop in inference speed (about 3.1%). In addition, our methods also surpass the
-Transformer-Big model, with only 54\% of its parameters. These results
+Transformer-Big model, with only 54% of its parameters. These results
 demonstrate the effectiveness of the MUTE, as well as its efficiency in both
 the inference process and parameter usage.

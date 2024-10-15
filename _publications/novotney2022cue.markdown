@@ -25,7 +25,7 @@ contextual data into the decoder's embedding space. We validate the CUE
 framework on a NYTimes text corpus with multiple metadata types, for which the
 LM perplexity can be lowered from 36.6 to 27.4 by conditioning on context.
 Bootstrapping a contextual LM with only a subset of the context/metadata during
-training retains 85\% of the achievable gain. Training the model initially with
+training retains 85% of the achievable gain. Training the model initially with
 proxy context retains 67% of the perplexity gain after adapting to real
 context. Furthermore, we can swap one type of pretrained sentence LM for
 another without retraining the context encoders, by only adapting the decoder

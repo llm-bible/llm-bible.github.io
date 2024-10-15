@@ -25,4 +25,4 @@ propose \textbf\{APEFT\} (\textbf\{A\}tomic \textbf\{P\}reference \textbf\{E\}nh
 \textbf\{F\}actuality \textbf\{T\}uning), a framework that enhances model's
 awareness of factuality at the granularity of individual facts. Extensive
 experiments demonstrate that APEFT improves model performance by an average of
-\\(\boldsymbol\{3.45\%\}\\) on both ID and OOD datasets, which is highly effective.
+\\(\boldsymbol\{3.45%\}\\) on both ID and OOD datasets, which is highly effective.

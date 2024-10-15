@@ -21,5 +21,5 @@ generates tests for data-type consistency, output syntax, and semantic
 properties. PropTest achieves comparable results to state-of-the-art methods
 while using publicly available LLMs. This is demonstrated across different
 benchmarks on visual question answering and referring expression comprehension.
-Particularly, PropTest improves ViperGPT by obtaining 46.1\% accuracy (+6.0\%)
-on GQA using Llama3-8B and 59.5\% (+8.1\%) on RefCOCO+ using CodeLlama-34B.
+Particularly, PropTest improves ViperGPT by obtaining 46.1% accuracy (+6.0%)
+on GQA using Llama3-8B and 59.5% (+8.1%) on RefCOCO+ using CodeLlama-34B.

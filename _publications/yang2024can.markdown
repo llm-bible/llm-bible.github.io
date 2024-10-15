@@ -27,7 +27,7 @@ reasoning at the fine-grained level such as the selection and execution of
 tactics, and the tendency to take undesired shortcuts. In experiments, we
 highlight that existing LLMs fail significantly on problems with ambiguous and
 mixed scope, revealing critical limitations and overfitting issues (e.g.
-accuracy on GSM8K drops by at least 50\%). We further show the potential of
+accuracy on GSM8K drops by at least 50%). We further show the potential of
 finetuning a local LLM on the tactic-guided trajectories in achieving better
 performance. Project repo is available at
 github.com/gblackout/Reason-in-the-Wild

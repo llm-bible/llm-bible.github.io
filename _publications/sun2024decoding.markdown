@@ -20,9 +20,9 @@ The core of our approach is the observation that a pre-trained language model
 can confidently predict multiple contiguous tokens, forming the basis for a
 \textit\{lexical unit\}, in which these contiguous tokens could be decoded in
 parallel. Extensive experiments validate that our method substantially reduces
-decoding time while maintaining generation quality, i.e., 33\% speed up on
-natural language generation with no quality loss, and 30\% speed up on code
-generation with a negligible quality loss of 3\%. Distinctively, LUD requires
+decoding time while maintaining generation quality, i.e., 33% speed up on
+natural language generation with no quality loss, and 30% speed up on code
+generation with a negligible quality loss of 3%. Distinctively, LUD requires
 no auxiliary models and does not require changes to existing architectures. It
 can also be integrated with other decoding acceleration methods, thus achieving
 an even more pronounced inference efficiency boost. We posit that the

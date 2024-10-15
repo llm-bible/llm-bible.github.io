@@ -23,11 +23,11 @@ zero-shot learning capabilities. Our study includes a benchmarking analysis
 across four diverse datasets: MNIST, Cats Vs. Dogs, Hymnoptera (Ants Vs. Bees),
 and an unconventional dataset comprising Pox Vs. Non-Pox skin images. The
 results of our experiments demonstrate the model's remarkable performance,
-achieving classification accuracies of 85\%, 100\%, 77\%, and 79\% for the
+achieving classification accuracies of 85%, 100%, 77%, and 79% for the
 respective datasets without any fine-tuning. To bolster our analysis, we assess
 the model's performance post fine-tuning for specific tasks. In one instance,
 fine-tuning is conducted over a dataset comprising images of faces of children
 with and without autism. Prior to fine-tuning, the model demonstrated a test
-accuracy of 55\%, which significantly improved to 83\% post fine-tuning. These
+accuracy of 55%, which significantly improved to 83% post fine-tuning. These
 results, coupled with our prior findings, underscore the transformative
 potential of LLVAs and their versatile applications in real-world scenarios.

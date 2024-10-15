@@ -22,8 +22,8 @@ Additionally, we show that pQRNNs are effective student architectures for
 distilling large pre-trained language models. We perform careful ablations
 which study the effect of pQRNN parameters, data augmentation, and distillation
 settings. On MTOP, a challenging multilingual semantic parsing dataset, pQRNN
-students achieve 95.9\% of the performance of an mBERT teacher while being 350x
+students achieve 95.9% of the performance of an mBERT teacher while being 350x
 smaller. On mATIS, a popular parsing task, pQRNN students on average are able
-to get to 97.1\% of the teacher while again being 350x smaller. Our strong
+to get to 97.1% of the teacher while again being 350x smaller. Our strong
 results suggest that our approach is great for latency-sensitive applications
 while being able to leverage large mBERT-like models.

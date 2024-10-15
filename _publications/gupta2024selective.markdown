@@ -24,6 +24,6 @@ the model using the correct model responses and the gold response for the
 remaining samples. The effectiveness of SSR is demonstrated through experiments
 on the task of identifying unanswerable queries across various datasets. The
 results show that standard SFT can lead to an average performance drop of up to
-\\(16.7\%\\) on multiple benchmarks, such as MMLU and TruthfulQA. In contrast, SSR
-results in close to \\(2\%\\) drop on average, indicating better generalization
+\\(16.7%\\) on multiple benchmarks, such as MMLU and TruthfulQA. In contrast, SSR
+results in close to \\(2%\\) drop on average, indicating better generalization
 capabilities compared to standard SFT.

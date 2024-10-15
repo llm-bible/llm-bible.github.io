@@ -15,7 +15,7 @@ e.g., question-answering, explanations, etc. Our work presents an evaluation
 benchmark for self-consistency in cases of under-specification where two or
 more answers can be correct. We conduct a series of behavioral experiments on
 the OpenAI model suite using an ambiguous integer sequence completion task. We
-find that average consistency ranges from 67\% to 82\%, far higher than would
+find that average consistency ranges from 67% to 82%, far higher than would
 be predicted if a model's consistency was random, and increases as model
 capability improves. Furthermore, we show that models tend to maintain
 self-consistency across a series of robustness checks, including prompting

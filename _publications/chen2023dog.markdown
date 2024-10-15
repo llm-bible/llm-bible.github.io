@@ -23,7 +23,7 @@ which enables us to bridge the gap between various document styles and the
 standard AI response. Experiments demonstrate that our method outperforms
 existing typical methods on multiple benchmarks. In particular, compared to the
 best-performing baseline, the LLM trained using our generated dataset exhibits
-a 10\% relative improvement in performance on AlpacaEval, despite utilizing
+a 10% relative improvement in performance on AlpacaEval, despite utilizing
 only 1/5 of its training data. Furthermore, a comprehensive manual evaluation
 validates the quality of the data we generated. Our trained wrapper is publicly
 available at https://github.com/Bahuia/Dog-Instruct.

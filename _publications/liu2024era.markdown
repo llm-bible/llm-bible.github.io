@@ -18,7 +18,7 @@ ERA-CoT, which aids LLMs in understanding context by capturing relationships
 between entities and supports the reasoning of diverse tasks through
 Chain-of-Thoughts (CoT). Experimental results show that ERA-CoT demonstrates
 the superior performance of our proposed method compared to current CoT
-prompting methods, achieving a significant improvement of an average of 5.1\%
+prompting methods, achieving a significant improvement of an average of 5.1%
 on GPT3.5 compared to previous SOTA baselines. Our analysis indicates that
 ERA-CoT increases the LLM's understanding of entity relationships,
 significantly improves the accuracy of question answering, and enhances the

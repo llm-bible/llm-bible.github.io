@@ -20,7 +20,7 @@ budget of less than \$200 and using only one GPU, we successfully undo the
 safety training of Llama 2-Chat models of sizes 7B, 13B, and 70B and on the
 Mixtral instruct model. Specifically, our fine-tuning technique significantly
 reduces the rate at which the model refuses to follow harmful instructions. We
-achieve refusal rates of about 1\% for our 70B Llama 2-Chat model on two
+achieve refusal rates of about 1% for our 70B Llama 2-Chat model on two
 refusal benchmarks. Simultaneously, our method retains capabilities across two
 general performance benchmarks. We show that subversive fine-tuning is
 practical and effective, and hence argue that evaluating risks from fine-tuning

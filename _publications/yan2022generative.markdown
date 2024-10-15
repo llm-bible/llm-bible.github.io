@@ -28,5 +28,5 @@ incremental splits of the Conceptual Caption dataset, and evaluate the model on
 zero-shot image classification and image-text retrieval tasks. Our method
 consistently outperforms the existing baselines with a large margin, which
 demonstrates its superiority. Notably, we realize an average performance boost
-of \\(4.60\%\\) on image-classification downstream datasets for the class
+of \\(4.60%\\) on image-classification downstream datasets for the class
 incremental split.

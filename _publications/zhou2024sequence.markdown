@@ -26,6 +26,6 @@ annotations, models, or training stages. Our experiments demonstrated its
 effectiveness, specifically, reducing the refusal-to-response paradigm in
 single-turn safety dialogues and the long-response bias in text summarization
 tasks. We provide further analysis that seq2seq RM improves RLHF performance
-across 2B and 7B LLMs on 3 NLP tasks, achieving an average win rate of 76.9\%.
+across 2B and 7B LLMs on 3 NLP tasks, achieving an average win rate of 76.9%.
 We further show that seq2seq RM can still improve the performance of RLHF under
 out-of-distribution prompts.

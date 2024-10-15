@@ -33,4 +33,4 @@ synthetically by reusing data used to train the SORM. We find combining global
 and local refinements, using the ORM as a reranker, significantly outperforms
 either one individually, as well as a best of three sample baseline. With this
 strategy we can improve the accuracy of a LLaMA-2 13B model (already fine-tuned
-with RL) on GSM8K from 53\% to 65\% when greedily sampled.
+with RL) on GSM8K from 53% to 65% when greedily sampled.

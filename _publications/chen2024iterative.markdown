@@ -25,4 +25,4 @@ discover new constitutions that specifically target the alignment gaps in the
 current LLM. Empirical results on several safety benchmark datasets and
 multiple base LLMs show that IterAlign successfully improves truthfulness,
 helpfulness, harmlessness and honesty, improving the LLM alignment by up to
-\\(13.5\%\\) in harmlessness.
+\\(13.5%\\) in harmlessness.

@@ -23,7 +23,7 @@ the generation of high-quality data without excessive reliance on external
 advanced models, paving the way for a single fine-tuning step and negating the
 need for subsequent RLHF stages. Our findings highlight key advantages of our
 approach: reduced need for human involvement and fewer model queries (only
-\\(5.73\%\\) of the strong baseline's total), along with enhanced capabilities of
+\\(5.73%\\) of the strong baseline's total), along with enhanced capabilities of
 LLMs in crafting and comprehending complex instructions compared to strong
 baselines, and substantially improved model privacy protection. Code is
 available at the link: https://github.com/SafeRL-Lab/TeaMs-RL

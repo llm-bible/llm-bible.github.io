@@ -23,7 +23,7 @@ providing valuable insight into the model's decision-making process. Our
 technique can be applied to existing pre-trained models through a
 straightforward fine-tuning process, and the pruning strength can be specified
 by a sparsity parameter. Notably, our empirical findings demonstrate that we
-can effectively prune up to 80\% of the context without significant performance
+can effectively prune up to 80% of the context without significant performance
 degradation on downstream tasks, offering a valuable tool for mitigating
 inference costs. Our reference implementation achieves up to \\(2\times\\) increase
 in inference throughput and even greater memory savings.

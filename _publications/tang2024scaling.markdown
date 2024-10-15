@@ -26,5 +26,5 @@ level math problems. We apply MathScaleQA to fine-tune open-source LLMs (e.g.,
 LLaMA-2 and Mistral), resulting in significantly improved capabilities in
 mathematical reasoning. Evaluated on \{\sc MwpBench\}, MathScale-7B achieves
 state-of-the-art performance across all datasets, surpassing its best peers of
-equivalent size by 42.9\% in micro average accuracy and 43.7\% in macro average
+equivalent size by 42.9% in micro average accuracy and 43.7% in macro average
 accuracy, respectively.

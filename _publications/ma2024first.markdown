@@ -16,7 +16,7 @@ activation functions or require additional parameters and training to maintain
 performance. This paper introduces a training-free Threshold-based Dynamic
 Activation(TDA) method that leverage sequence information to exploit the
 inherent sparsity of models across various architectures. This method is
-designed to accelerate generation speed by 18-25\% without significantly
+designed to accelerate generation speed by 18-25% without significantly
 compromising task performance, thereby addressing the limitations of existing
 DA techniques. Moreover, we delve into the root causes of LLM sparsity and
 theoretically analyze two of its critical features: history-related activation

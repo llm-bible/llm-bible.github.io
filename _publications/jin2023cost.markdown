@@ -16,9 +16,9 @@ as dense scaling -- and their effects on two core capabilities of LLMs: (a)
 recalling facts presented during pre-training and (b) processing information
 presented in-context during inference. By curating a suite of tasks that help
 disentangle these two capabilities, we find a striking difference in how these
-two abilities evolve due to scaling. Reducing the model size by more than 30\%
+two abilities evolve due to scaling. Reducing the model size by more than 30%
 (via either scaling approach) significantly decreases the ability to recall
-facts seen in pre-training. Yet, a 60--70\% reduction largely preserves the
+facts seen in pre-training. Yet, a 60--70% reduction largely preserves the
 various ways the model can process in-context information, ranging from
 retrieving answers from a long context to learning parameterized functions from
 in-context exemplars. The fact that both dense scaling and weight pruning

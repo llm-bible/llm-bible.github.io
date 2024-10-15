@@ -25,5 +25,5 @@ augmented fine-tuning datasets. We find with augmented samples containing more
 distinct reasoning paths, RFT improves mathematical reasoning performance more
 for LLMs. We also find RFT brings more improvement for less performant LLMs.
 Furthermore, we combine rejection samples from multiple models which push
-LLaMA-7B to an accuracy of 49.3\% on GSM8K which outperforms the supervised
-fine-tuning (SFT) accuracy of 35.9\% significantly.
+LLaMA-7B to an accuracy of 49.3% on GSM8K which outperforms the supervised
+fine-tuning (SFT) accuracy of 35.9% significantly.

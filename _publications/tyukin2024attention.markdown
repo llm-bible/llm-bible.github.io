@@ -15,7 +15,7 @@ complexity of the attention layers. In this work, we investigate the effect of
 dropping MLP and attention layers at inference time on the performance of
 Llama-v2 models. We find that dropping dreeper attention layers only marginally
 decreases performance but leads to the best speedups alongside dropping entire
-layers. For example, removing 33\% of attention layers in a 13B Llama2 model
-results in a 1.8\% drop in average performance over the OpenLLM benchmark. We
+layers. For example, removing 33% of attention layers in a 13B Llama2 model
+results in a 1.8% drop in average performance over the OpenLLM benchmark. We
 also observe that skipping layers except the latter layers reduces performances
 for more layers skipped, except for skipping the attention layers.

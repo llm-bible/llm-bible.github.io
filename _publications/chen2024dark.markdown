@@ -24,7 +24,7 @@ all while remaining inconspicuous. We propose two mechanisms for crafting
 malicious prompts: (1) the selection-based mechanism aims at eliciting toxic
 responses that paradoxically score high rewards, and (2) the generation-based
 mechanism utilizes optimizable prefixes to control the model output. By
-injecting 1\% of these specially crafted prompts into the data, through
+injecting 1% of these specially crafted prompts into the data, through
 malicious users, we demonstrate a toxicity score up to two times higher when a
 specific trigger word is used. We uncover a critical vulnerability, emphasizing
 that irrespective of the reward model, rewards applied, or base language model

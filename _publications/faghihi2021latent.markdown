@@ -17,4 +17,4 @@ cross-modal representations, and a latent alignment space between instructions
 and candidate answers to solve the problem. We introduce constrained
 max-pooling which refines the max-pooling operation on the alignment matrix to
 impose disjoint constraints among the outputs of the model. Our evaluation
-result indicates a 19\% improvement over the baselines.
+result indicates a 19% improvement over the baselines.

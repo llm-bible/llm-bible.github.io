@@ -28,4 +28,4 @@ proposed SP-CoT not only significantly surpasses the previous SOTA methods on
 large-scale (175B) LLMs, but also nearly doubles the zero-shot performance of
 small-scale (13B) LLMs. Further analysis reveals the remarkable capability of
 SP-CoT to elicit direct and concise intermediate reasoning steps by recalling
-\\(\sim\\)50\% of intermediate answers on MuSiQue-Ans dataset.
+\\(\sim\\)50% of intermediate answers on MuSiQue-Ans dataset.

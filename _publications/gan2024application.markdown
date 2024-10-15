@@ -22,7 +22,7 @@ outcomes of the simulation experiment were compared and subjected to detailed
 analysis. The results demonstrate that our automated resume screening framework
 is 11 times faster than traditional manual methods. Furthermore, by fine-tuning
 the LLMs, we observed a significant improvement in the F1 score, reaching
-87.73\%, during the resume sentence classification phase. In the resume
+87.73%, during the resume sentence classification phase. In the resume
 summarization and grading phase, our fine-tuned model surpassed the baseline
 performance of the GPT-3.5 model. Analysis of the decision-making efficacy of
 the LLM agents in the final offer stage further underscores the potential of

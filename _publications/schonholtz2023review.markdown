@@ -11,7 +11,7 @@ tags: ['Applications', 'Prompting', 'Survey Paper', 'Tools']
 ---
 As coding challenges become more complex, recent advancements in Large
 Language Models (LLMs) have led to notable successes, such as achieving a
-94.6\% solve rate on the HumanEval benchmark. Concurrently, there is an
+94.6% solve rate on the HumanEval benchmark. Concurrently, there is an
 increasing commercial push for repository-level inline code completion tools,
 such as GitHub Copilot and Tab Nine, aimed at enhancing developer productivity.
 This paper delves into the transition from individual coding problems to

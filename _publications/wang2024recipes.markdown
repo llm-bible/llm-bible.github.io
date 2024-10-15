@@ -17,10 +17,10 @@ descriptions. Tarsier employs CLIP-ViT to encode frames separately and then
 uses an LLM to model temporal relationships. Despite its simple architecture,
 we demonstrate that with a meticulously designed two-stage training procedure,
 the Tarsier models exhibit substantially stronger video description
-capabilities than any existing open-source model, showing a \\(+51.4\%\\) advantage
+capabilities than any existing open-source model, showing a \\(+51.4%\\) advantage
 in human side-by-side evaluation over the strongest model. Additionally, they
-are comparable to state-of-the-art proprietary models, with a \\(+12.3\%\\)
-advantage against GPT-4V and a \\(-6.7\%\\) disadvantage against Gemini 1.5 Pro.
+are comparable to state-of-the-art proprietary models, with a \\(+12.3%\\)
+advantage against GPT-4V and a \\(-6.7%\\) disadvantage against Gemini 1.5 Pro.
 Besides video description, Tarsier proves to be a versatile generalist model,
 achieving new state-of-the-art results across nine public benchmarks, including
 multi-choice VQA, open-ended VQA, and zero-shot video captioning. Our second

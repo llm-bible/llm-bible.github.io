@@ -25,7 +25,7 @@ quality. On this basis, we introduce StructChem, a simple yet effective
 prompting strategy that offers the desired guidance and substantially boosts
 the LLMs' chemical reasoning capability. Testing across four chemistry areas --
 quantum chemistry, mechanics, physical chemistry, and kinetics -- StructChem
-substantially enhances GPT-4's performance, with up to 30\% peak improvement.
+substantially enhances GPT-4's performance, with up to 30% peak improvement.
 Our analysis also underscores the unique difficulties of precise grounded
 reasoning in science with LLMs, highlighting a need for more research in this
 area. Code is available at \url\{https://github.com/ozyyshr/StructChem\}.

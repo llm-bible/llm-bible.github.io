@@ -22,6 +22,6 @@ exclusively on the attention information of a small fraction of preceding
 queries. Based on these observations, we present CORM, a KV cache eviction
 policy that dynamically retains essential key-value pairs for inference without
 the need for model fine-tuning. Our validation shows that CORM reduces the
-inference memory usage of KV cache by up to 70\% with negligible performance
+inference memory usage of KV cache by up to 70% with negligible performance
 degradation across six tasks in LongBench. Furthermore, we demonstrate that
 CORM is compatible with GQA for further compression rate.

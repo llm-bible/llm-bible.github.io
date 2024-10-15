@@ -29,8 +29,8 @@ techniques and find a strategy to combine them to achieve high throughput
 through hyperparameter tuning. We have identified efficient strategies for
 training large LLMs of varying sizes through empirical analysis and
 hyperparameter tuning. For 22 Billion, 175 Billion, and 1 Trillion parameters,
-we achieved GPU throughputs of \\(38.38\%\\), \\(36.14\%\\), and \\(31.96\%\\),
+we achieved GPU throughputs of \\(38.38%\\), \\(36.14%\\), and \\(31.96%\\),
 respectively. For the training of the 175 Billion parameter model and the 1
-Trillion parameter model, we achieved \\(100\%\\) weak scaling efficiency on 1024
+Trillion parameter model, we achieved \\(100%\\) weak scaling efficiency on 1024
 and 3072 MI250X GPUs, respectively. We also achieved strong scaling
-efficiencies of \\(89\%\\) and \\(87\%\\) for these two models.
+efficiencies of \\(89%\\) and \\(87%\\) for these two models.

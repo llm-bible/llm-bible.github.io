@@ -24,9 +24,9 @@ for LLM-as-a-Judge frameworks. Our approach leverages a combination of manual
 curation, semi-supervised learning to generate clusters, and stratified
 sampling to ensure balanced representation across a wide range of domains and
 languages. The resulting evaluation set, which includes 1573 samples across 14
-categories, demonstrates high separability (84\%) across ten top-ranked models,
-and agreement (84\%) with Chatbot Arena and (0.915) Spearman correlation. The
-agreement values are 9\% better than Arena Hard and 20\% better than AlpacaEval
+categories, demonstrates high separability (84%) across ten top-ranked models,
+and agreement (84%) with Chatbot Arena and (0.915) Spearman correlation. The
+agreement values are 9% better than Arena Hard and 20% better than AlpacaEval
 2.0 LC, while the Spearman coefficient is 0.7 more than the next best
 benchmark, showcasing a significant improvement in the usefulness of the
 benchmark. We further provide an open-source evaluation tool that enables

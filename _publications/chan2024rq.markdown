@@ -24,7 +24,7 @@ Refine Query for Retrieval Augmented Generation (RQ-RAG) in this paper,
 endeavoring to enhance the model by equipping it with capabilities for explicit
 rewriting, decomposition, and disambiguation. Our experimental results indicate
 that our method, when applied to a 7B Llama2 model, surpasses the previous
-state-of-the-art (SOTA) by an average of 1.9\% across three single-hop QA
+state-of-the-art (SOTA) by an average of 1.9% across three single-hop QA
 datasets, and also demonstrates enhanced performance in handling complex,
 multi-hop QA datasets. Our code is available at
 https://github.com/chanchimin/RQ-RAG.

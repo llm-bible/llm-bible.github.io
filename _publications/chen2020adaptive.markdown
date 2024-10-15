@@ -26,4 +26,4 @@ novel approach called Adaptive Bidirectional Attention, which adaptively
 exploits the source representations of different levels to the predictor.
 Experimental results on the benchmark dataset, SQuAD 2.0 demonstrate the
 effectiveness of our approach, and the results are better than the previous
-state-of-the-art model by 2.5\\(\%\\) EM and 2.3\\(\%\\) F1 scores.
+state-of-the-art model by 2.5\\(%\\) EM and 2.3\\(%\\) F1 scores.

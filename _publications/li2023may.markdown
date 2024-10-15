@@ -21,7 +21,7 @@ comprehensive evaluation of Code LLMs to date and show that StarCoderBase
 outperforms every open Code LLM that supports multiple programming languages
 and matches or outperforms the OpenAI code-cushman-001 model. Furthermore,
 StarCoder outperforms every model that is fine-tuned on Python, can be prompted
-to achieve 40\% pass@1 on HumanEval, and still retains its performance on other
+to achieve 40% pass@1 on HumanEval, and still retains its performance on other
 programming languages. We take several important steps towards a safe
 open-access model release, including an improved PII redaction pipeline and a
 novel attribution tracing tool, and make the StarCoder models publicly

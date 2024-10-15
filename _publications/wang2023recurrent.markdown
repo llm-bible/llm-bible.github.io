@@ -21,8 +21,8 @@ memory-efficient fine-tuning method -- to overcome the limitations of the
 current PETL approaches. Specifically, READ inserts a small RNN network
 alongside the backbone model so that the model does not have to back-propagate
 through the large backbone network. Through comprehensive empirical evaluation
-of the GLUE benchmark, we demonstrate READ can achieve a \\(56\%\\) reduction in
-the training memory consumption and an \\(84\%\\) reduction in the GPU energy usage
+of the GLUE benchmark, we demonstrate READ can achieve a \\(56%\\) reduction in
+the training memory consumption and an \\(84%\\) reduction in the GPU energy usage
 while retraining high model quality compared to full-tuning. Additionally, the
 model size of READ does not grow with the backbone model size, making it a
 highly scalable solution for fine-tuning large Transformers.

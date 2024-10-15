@@ -25,6 +25,6 @@ comparing long-text classification models across a variety of tasks (including
 binary classification, multi-class classification, and multi-label
 classification). A BERT model finetuned using the ChunkBERT method performs
 consistently across long samples in the benchmark while utilizing only a
-fraction (6.25\%) of the original memory footprint. These findings suggest that
+fraction (6.25%) of the original memory footprint. These findings suggest that
 efficient finetuning and inference can be achieved through simple modifications
 to pre-trained BERT models.

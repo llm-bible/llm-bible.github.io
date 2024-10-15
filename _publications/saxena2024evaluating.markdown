@@ -30,7 +30,7 @@ capabilities, the generated explanations are compared to the ground truth
 explanations using metrics such as BERT, BLEU, and F-1 scores. The findings
 reveal that proprietary models generally outperform public models in terms of
 both consistency and reasoning capabilities. However, even when presented with
-basic general knowledge questions, none of the models achieved a score of 90\%
+basic general knowledge questions, none of the models achieved a score of 90%
 in both consistency and reasoning. This study underscores the direct
 correlation between consistency and reasoning abilities in LLMs and highlights
 the inherent reasoning challenges present in current language models.

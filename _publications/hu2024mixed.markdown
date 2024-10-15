@@ -15,7 +15,7 @@ With hundreds of billion parameters, transformer-based LLMs necessitate months
 of pretraining across a high-end GPU cluster. However, this paper reveals a
 compelling finding: transformers exhibit considerable redundancy in pretraining
 computations, which motivates our proposed solution, Mixed Sparsity Training
-(MST), an efficient pretraining method that can reduce about \\(75\%\\) of Floating
+(MST), an efficient pretraining method that can reduce about \\(75%\\) of Floating
 Point Operations (FLOPs) while maintaining performance. MST integrates dynamic
 sparse training (DST) with Sparsity Variation (SV) and Hybrid Sparse Attention
 (HSA) during pretraining, involving three distinct phases: warm-up,

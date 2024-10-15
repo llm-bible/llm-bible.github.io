@@ -24,7 +24,7 @@ datasets, respectively. Surprisingly, these task-specific pretrained models
 often perform well on other tasks, including the GLUE benchmark. Besides
 classification tasks, self-pretraining also provides benefits on structured
 output prediction tasks such as span based question answering and commonsense
-inference, often providing more than \\(50\%\\) of the performance boosts provided
+inference, often providing more than \\(50%\\) of the performance boosts provided
 by pretraining on the BookWiki corpus. Our results hint that in many scenarios,
 performance gains attributable to pretraining are driven primarily by the
 pretraining objective itself and are not always attributable to the use of

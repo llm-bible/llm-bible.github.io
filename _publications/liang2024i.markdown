@@ -22,11 +22,11 @@ human-like paradigm enables LLMs to \textbf\{continuously self-align from
 scratch with nothing\}. Compared to the one-time alignment method Dromedary
 \cite\{sun2023principledriven\}, which refers to the first iteration in this
 paper, I-SHEEP can significantly enhance capacities on both Qwen and Llama
-models. I-SHEEP achieves a maximum relative improvement of 78.2\% in the Alpaca
-Eval, 24.0\% in the MT Bench, and an absolute increase of 8.88\% in the IFEval
+models. I-SHEEP achieves a maximum relative improvement of 78.2% in the Alpaca
+Eval, 24.0% in the MT Bench, and an absolute increase of 8.88% in the IFEval
 accuracy over subsequent iterations in Qwen-1.5 72B model. Additionally,
 I-SHEEP surpasses the base model in various standard benchmark generation
-tasks, achieving an average improvement of 24.77\% in code generation tasks,
-12.04\% in TrivialQA, and 20.29\% in SQuAD. We also provide new insights based
+tasks, achieving an average improvement of 24.77% in code generation tasks,
+12.04% in TrivialQA, and 20.29% in SQuAD. We also provide new insights based
 on the experiment results. Our codes, datasets, and models are available at
 \textbf\{https://anonymous.4open.science/r/I-SHEEP\}.

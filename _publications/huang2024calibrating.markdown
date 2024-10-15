@@ -25,9 +25,9 @@ annotation process. MMEvalPro comprises \\(2,138\\) question triplets, totaling
 by human experts, while the rest are sourced from existing benchmarks (MMMU,
 ScienceQA, and MathVista). Compared with the existing benchmarks, our
 experiments with the latest LLMs and LMMs demonstrate that MMEvalPro is more
-challenging (the best LMM lags behind human performance by \\(31.73\%\\), compared
-to an average gap of \\(8.03\%\\) in previous benchmarks) and more trustworthy (the
-best LLM trails the best LMM by \\(23.09\%\\), whereas the gap for previous
-benchmarks is just \\(14.64\%\\)). Our in-depth analysis explains the reason for
+challenging (the best LMM lags behind human performance by \\(31.73%\\), compared
+to an average gap of \\(8.03%\\) in previous benchmarks) and more trustworthy (the
+best LLM trails the best LMM by \\(23.09%\\), whereas the gap for previous
+benchmarks is just \\(14.64%\\)). Our in-depth analysis explains the reason for
 the large performance gap and justifies the trustworthiness of evaluation,
 underscoring its significant potential for advancing future research.

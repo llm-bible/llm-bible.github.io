@@ -21,8 +21,8 @@ arXiv papers, news articles, and long conversations, on tasks of summarisation,
 question answering, and response generation. Experimental results show that
 Selective Context significantly reduces memory cost and decreases generation
 latency while maintaining comparable performance compared to that achieved when
-full context is used. Specifically, we achieve a 50\% reduction in context
-cost, resulting in a 36\% reduction in inference memory usage and a 32\%
+full context is used. Specifically, we achieve a 50% reduction in context
+cost, resulting in a 36% reduction in inference memory usage and a 32%
 reduction in inference time, while observing only a minor drop of .023 in
 BERTscore and .038 in faithfulness on four downstream applications, indicating
 that our method strikes a good balance between efficiency and performance.

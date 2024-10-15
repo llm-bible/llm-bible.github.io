@@ -20,6 +20,6 @@ shift the attention of researchers away from these metaphors to instead focus
 on challenging metaphors. To identify hard metaphors, we propose an automatic
 pipeline that identifies metaphors that challenge a particular model. Our
 analysis demonstrates that our detected hard metaphors contrast significantly
-with VUA and reduce the accuracy of machine translation by 16\%, QA performance
-by 4\%, NLI by 7\%, and metaphor identification recall by over 14\% for various
+with VUA and reduce the accuracy of machine translation by 16%, QA performance
+by 4%, NLI by 7%, and metaphor identification recall by over 14% for various
 popular NLP systems.

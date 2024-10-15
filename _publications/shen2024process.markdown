@@ -30,7 +30,7 @@ effectively representing documents. Experiments demonstrate that sampling
 existing open-sourced and generated document VQA/instruction datasets with
 ProcTag significantly outperforms current methods for evaluating instruction
 data. Impressively, with ProcTag-based sampling in the generated document
-datasets, only 30.5\% of the document instructions are required to achieve
-100\% efficacy compared to the complete dataset. The code is publicly available
+datasets, only 30.5% of the document instructions are required to achieve
+100% efficacy compared to the complete dataset. The code is publicly available
 at
 https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/DocumentUnderstanding/ProcTag.

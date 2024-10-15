@@ -21,5 +21,5 @@ structure of the expert conversation is outlined by pre-specified prompts which
 reflect a reasoning strategy taught to practitioners in the field. Blenderbot
 models utilizing "Ask an Expert" show quality improvements across all expert
 sizes, including those with fewer parameters than the dialogue model itself.
-Our best model provides a \\(\sim 10\%\\) improvement over baselines, approaching
+Our best model provides a \\(\sim 10%\\) improvement over baselines, approaching
 human-level scores on "engingingness" and "helpfulness" metrics.

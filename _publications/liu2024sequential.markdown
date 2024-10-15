@@ -23,7 +23,7 @@ enriching the contextuality and relevance of ICL prompts. Meanwhile, we utilize
 beam search to seek and construct example sequences, enhancing both quality and
 diversity. Extensive experiments across 23 NLP tasks from 8 distinct categories
 illustrate that \\(Se^2\\) markedly surpasses competitive baselines and achieves
-42\% relative improvement over random selection. Further in-depth analysis
+42% relative improvement over random selection. Further in-depth analysis
 shows the effectiveness of proposed strategies, highlighting \\(Se^2\\)'s
 exceptional stability and adaptability across various scenarios. Code available
 at https://github.com/microsoft/LMOps.

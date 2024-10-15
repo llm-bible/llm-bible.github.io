@@ -22,7 +22,7 @@ without server infrastructure. The training process is optimized using low-rank
 adaptation (LoRA). Additionally, the model is trained on diverse medical
 datasets, employing reinforcement learning from human feedback (RLHF) to
 enhance its domain-specific capabilities. The system is implemented on various
-consumer GPUs and Nvidia Jetson development board. MedAide achieves 77\%
+consumer GPUs and Nvidia Jetson development board. MedAide achieves 77%
 accuracy in medical consultations and scores 56 in USMLE benchmark, enabling an
 energy-efficient healthcare assistance platform that alleviates privacy
 concerns due to edge-based deployment, thereby empowering the community.

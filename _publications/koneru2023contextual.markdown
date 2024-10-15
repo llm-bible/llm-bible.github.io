@@ -24,7 +24,7 @@ sequences, we also propose extending our approach to document-level
 translation. We show that leveraging Low-Rank-Adapter fine-tuning for APE can
 yield significant improvements across both sentence and document-level metrics
 while generalizing to out-of-domain data. Most notably, we achieve a
-state-of-the-art accuracy rate of 89\% on the ContraPro test set, which
+state-of-the-art accuracy rate of 89% on the ContraPro test set, which
 specifically assesses the model's ability to resolve pronoun ambiguities when
 translating from English to German. Lastly, we investigate a practical scenario
 involving manual post-editing for document-level translation, where reference

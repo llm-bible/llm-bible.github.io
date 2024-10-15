@@ -22,8 +22,8 @@ extending existing neuron importance evaluation metrics and introducing a
 ladder omission rate scheduler. Our experiments on Llama-2 demonstrate that
 Sparsity-Accelerated Training (SAT) achieves comparable or superior performance
 to standard training while significantly accelerating the process.
-Specifically, SAT achieves a \\(45\%\\) throughput improvement in continual
-pre-training and saves \\(38\%\\) training time in supervised fine-tuning in
+Specifically, SAT achieves a \\(45%\\) throughput improvement in continual
+pre-training and saves \\(38%\\) training time in supervised fine-tuning in
 practice. It offers a simple, hardware-agnostic, and easily deployable
 framework for additional LLM training. Our code is available at
 https://github.com/OpenDFM/SAT.

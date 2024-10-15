@@ -22,8 +22,8 @@ evaluator, working together to generate, evaluate, and select promising
 strategies for a given task. Experimental results demonstrate that StrategyLLM
 outperforms the competitive baseline CoT-SC that requires human-annotated
 solutions on 13 datasets across 4 challenging tasks without human involvement,
-including math reasoning (34.2\% \\(\rightarrow\\) 38.8\%), commonsense reasoning
-(70.3\% \\(\rightarrow\\) 72.5\%), algorithmic reasoning (73.7\% \\(\rightarrow\\)
-85.0\%), and symbolic reasoning (30.0\% \\(\rightarrow\\) 79.2\%). Further analysis
+including math reasoning (34.2% \\(\rightarrow\\) 38.8%), commonsense reasoning
+(70.3% \\(\rightarrow\\) 72.5%), algorithmic reasoning (73.7% \\(\rightarrow\\)
+85.0%), and symbolic reasoning (30.0% \\(\rightarrow\\) 79.2%). Further analysis
 reveals that StrategyLLM is applicable to various LLMs and demonstrates
 advantages across numerous scenarios.

@@ -23,4 +23,4 @@ nuanced understanding of different (latent) social groups present in the
 population. In addition to this, we also explore an efficient method to steer
 LLMs toward the personas that we define. We show that our data-driven personas
 significantly enhance model steerability, with improvements of between
-\\(57\%-77\%\\) over our best performing baselines.
+\\(57%-77%\\) over our best performing baselines.

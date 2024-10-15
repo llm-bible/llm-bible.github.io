@@ -26,5 +26,5 @@ experiments involving the deactivation of language-specific neurons across
 various layers and structures. Moreover, \\(\texttt\{MWork\}\\) allows fine-tuning of
 language-specific neurons with a small dataset, enhancing multilingual
 abilities in a specific language without compromising others. This approach
-results in an average improvement of \\(3.6\%\\) for high-resource languages and
-\\(2.3\%\\) for low-resource languages across all tasks with just \\(400\\) documents.
+results in an average improvement of \\(3.6%\\) for high-resource languages and
+\\(2.3%\\) for low-resource languages across all tasks with just \\(400\\) documents.

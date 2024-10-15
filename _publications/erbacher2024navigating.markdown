@@ -23,6 +23,6 @@ needs to request an external tool. We investigate a supervised approach by
 introducing a hallucination masking mechanism in which labels are generated
 using a close book question-answering task. In addition, we propose to leverage
 parameter-efficient fine-tuning techniques to train our model on a small amount
-of data. Our model directly provides answers for \\(78.2\%\\) of the known queries
-and opts to search for \\(77.2\%\\) of the unknown ones. This results in the API
-being utilized only \\(62\%\\) of the time.
+of data. Our model directly provides answers for \\(78.2%\\) of the known queries
+and opts to search for \\(77.2%\\) of the unknown ones. This results in the API
+being utilized only \\(62%\\) of the time.

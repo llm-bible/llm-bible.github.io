@@ -28,7 +28,7 @@ creating a wider array of diverse and previously unseen test cases. Our
 evaluation of ten cutting-edge VLMs exposes significant security
 vulnerabilities, particularly in generating toxic images and aligning
 multi-modal prompts. In particular, our Arondight achieves an average attack
-success rate of 84.5\% on GPT-4 in all fourteen prohibited scenarios defined by
+success rate of 84.5% on GPT-4 in all fourteen prohibited scenarios defined by
 OpenAI in terms of generating toxic text. For a clearer comparison, we also
 categorize existing VLMs based on their safety levels and provide corresponding
 reinforcement recommendations. Our multimodal prompt dataset and red team code

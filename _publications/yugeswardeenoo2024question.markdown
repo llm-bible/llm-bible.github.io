@@ -21,7 +21,7 @@ and SAT and commonsense dataset StrategyQA. QAP is compared with other
 state-of-the-art prompts including Chain-of-Thought (CoT), Plan and Solve
 Prompting (PS+) and Take A Deep Breath (TADB). QAP outperforms all
 state-of-the-art prompts on AQuA and SAT datasets on both GPT3.5 and GPT4. QAP
-consistently ranks among the top-2 prompts on 75\% of the tests. A key factor
+consistently ranks among the top-2 prompts on 75% of the tests. A key factor
 of QAP performance can be attributed to response length, where detailed
 responses are beneficial when answering harder questions, but can negatively
 affect easy questions.

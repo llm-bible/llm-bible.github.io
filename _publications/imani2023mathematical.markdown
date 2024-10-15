@@ -23,5 +23,5 @@ or Python functions to solve the same math problem in different ways and
 thereby raise the confidence level in the output results. This is in contrast
 to other prompt based CoT methods, where there is no check on the validity of
 the intermediate steps followed. Our technique improves over state-of-the-art
-on the MultiArith dataset (\\(78.7\%\rightarrow92.5\%\\)) evaluated using 175B
+on the MultiArith dataset (\\(78.7%\rightarrow92.5%\\)) evaluated using 175B
 parameter GPT-based LLM.

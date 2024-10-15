@@ -23,4 +23,4 @@ characteristics. In addition, we make use of knowledge in Natural Language
 Inference models for deriving adaptive verbalizers. Experimental results on
 five NLP benchmarks show that AdaPrompt can improve over standard PLMs in
 few-shot settings. In addition, in zero-shot settings, our method outperforms
-standard prompt-based methods by up to 26.35\% relative error reduction.
+standard prompt-based methods by up to 26.35% relative error reduction.

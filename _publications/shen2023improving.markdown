@@ -24,7 +24,7 @@ costs. The proposed dynamic attention consists of two modules: (I) attention
 rectification, which masks or weakens the attention value of the chosen tokens,
 and (ii) dynamic modeling, which dynamically builds the set of candidate
 tokens. Extensive experiments demonstrate that dynamic attention significantly
-mitigates the impact of adversarial attacks, improving up to 33\% better
+mitigates the impact of adversarial attacks, improving up to 33% better
 performance than previous methods against widely-used adversarial attacks. The
 model-level design of dynamic attention enables it to be easily combined with
 other defense methods (e.g., adversarial training) to further enhance the

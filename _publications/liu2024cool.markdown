@@ -24,4 +24,4 @@ to all source LLMs. Then, the source LLMs jointly rerank the generated text
 segment and select the best one, which is the fused text generation in one
 step. Extensive experiments are conducted across a variety of benchmark
 datasets. On *GSM8K*, *Cool-Fusion* increases accuracy from three
-strong source LLMs by a significant 8\%-17.8\%.
+strong source LLMs by a significant 8%-17.8%.

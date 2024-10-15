@@ -23,12 +23,12 @@ experiences forgetting events during training, leading to unstable learning. To
 mitigate these issues, we investigate two approaches. The first focuses on
 modifying the training dynamics. Flatter minima implicitly alleviate
 forgetting, so we optimize for flatter loss basins and show that the model
-stably memorizes more documents (\\(+12\%\\)). Next, we introduce a generative
+stably memorizes more documents (\\(+12%\\)). Next, we introduce a generative
 memory to sample pseudo-queries for documents and supplement them during
 continual indexing to prevent forgetting for the retrieval task. Extensive
 experiments on novel continual indexing benchmarks based on Natural Questions
 (NQ) and MS MARCO demonstrate that our proposed solution mitigates forgetting
-significantly. Concretely, it improves the average Hits@10 by \\(+21.1\%\\) over
+significantly. Concretely, it improves the average Hits@10 by \\(+21.1%\\) over
 competitive baselines for NQ and requires \\(6\\) times fewer model updates
 compared to re-training the DSI model for incrementally indexing five corpora
 in a sequence.

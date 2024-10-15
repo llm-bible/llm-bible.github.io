@@ -19,6 +19,6 @@ little as 8 examples. We further demonstrate our proposed method can be: (i)
 naturally combined with an unsupervised contrastive learning-based data
 augmentation method; (ii) easily extended to multilingual few-shot learning. A
 systematic evaluation on 18 standard NLP tasks demonstrates that this approach
-improves the various existing SOTA few-shot learning methods by 12\%, and
+improves the various existing SOTA few-shot learning methods by 12%, and
 yields competitive few-shot performance with 500 times larger models, such as
 GPT-3.

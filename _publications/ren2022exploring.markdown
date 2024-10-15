@@ -20,7 +20,7 @@ under-investigated one. Two decomposition and reconstruction protocols are
 further proposed to improve the effectiveness and efficiency during
 compression. Our compressed BERT with \\(\{1\}/\{7\}\\) parameters in Transformer
 layers performs on-par with, sometimes slightly better than the original BERT
-in GLUE benchmark. A tiny version achieves \\(96.7\%\\) performance of BERT-base
+in GLUE benchmark. A tiny version achieves \\(96.7%\\) performance of BERT-base
 with \\( \{1\}/\{48\} \\) encoder parameters (i.e., less than 2M parameters excluding
 the embedding layer) and \\(2.7 \times\\) faster on inference. To show that the
 proposed method is orthogonal to existing compression methods like knowledge

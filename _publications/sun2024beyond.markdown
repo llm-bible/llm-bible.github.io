@@ -19,10 +19,10 @@ literal wording (lexical content) but convey meaning and nuance through how
 something is said. We present *Beyond Text*; an approach that improves LLM
 decision-making by integrating audio transcription along with a subsection of
 these features, which focus on the affect and more relevant in human-robot
-conversations.This approach not only achieves a 70.26\% winning rate,
-outperforming existing LLMs by 22.16\% to 48.30\% (gemini-1.5-pro and gpt-3.5
+conversations.This approach not only achieves a 70.26% winning rate,
+outperforming existing LLMs by 22.16% to 48.30% (gemini-1.5-pro and gpt-3.5
 respectively), but also enhances robustness against token manipulation
-adversarial attacks, highlighted by a 22.44\% less decrease ratio than the
+adversarial attacks, highlighted by a 22.44% less decrease ratio than the
 text-only language model in winning rate. ``\textit\{Beyond Text\}'' marks an
 advancement in social robot navigation and broader Human-Robot interactions,
 seamlessly integrating text-based guidance with human-audio-informed language

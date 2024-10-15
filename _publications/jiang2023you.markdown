@@ -28,7 +28,7 @@ choosing the important tokens, YOFO gradually removes unimportant tokens during
 forward propagation. Through experiments on the BeerAdvocate and Hotel Review
 datasets, we demonstrate that our model is able to extract rationales and make
 predictions more accurately compared to RNP-based models. We observe an
-improvement of up to 18.4\% in token-level F1 compared to previous
+improvement of up to 18.4% in token-level F1 compared to previous
 state-of-the-art methods. We also conducted analyses and experiments to explore
 the extracted rationales and token decay strategies. The results show that YOFO
 can extract precise and important rationales while removing unimportant tokens

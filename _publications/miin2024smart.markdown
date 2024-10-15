@@ -23,5 +23,5 @@ agent will still be able to enhance the overall user experience. We propose a
 semi-automated prompt generation framework which combines the LLM-automated
 prompt and "human-in-the-loop" to iteratively refine the prompt to improve the
 LLM performance. Our result shows that LLM automated prompt has its limitations
-and "human-in-the-loop" greatly improves the performance by \\(139\%\\) with one
+and "human-in-the-loop" greatly improves the performance by \\(139%\\) with one
 single iteration.

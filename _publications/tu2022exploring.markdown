@@ -23,5 +23,5 @@ introduce Latent Attention operation to better construct latent space from
 transformer models. Experiments from multiple dimensions validate that AdaVAE
 is competent to effectively organize language in three related tasks (language
 modeling, representation modeling and guided text generation) even with less
-than \\(15\%\\) activated parameters in training. Our code is available at
+than \\(15%\\) activated parameters in training. Our code is available at
 \url\{https://github.com/ImKeTT/AdaVAE\}.

@@ -26,5 +26,5 @@ and RAG through prompt manipulation to generate unexpected responses. Pandora
 uses maliciously crafted content to influence the RAG process, effectively
 initiating jailbreak attacks. Our preliminary tests show that Pandora
 successfully conducts jailbreak attacks in four different scenarios, achieving
-higher success rates than direct attacks, with 64.3\% for GPT-3.5 and 34.8\%
+higher success rates than direct attacks, with 64.3% for GPT-3.5 and 34.8%
 for GPT-4.

@@ -23,7 +23,7 @@ discerning the non-existence of objects in visual questions, where the ground
 truth answers are denoted as NegP (e.g., "none"). Additionally, we evaluate
 their standard performance on visual questions on 9 other VQA datasets. Through
 our experiments, we demonstrate that no VL model is immune to the vulnerability
-of object hallucination, as all models achieve accuracy below 10\% on NegP.
+of object hallucination, as all models achieve accuracy below 10% on NegP.
 Furthermore, we uncover that lexically diverse visual questions, question types
 with large scopes, and scene-relevant objects capitalize the risk of object
 hallucination in VL models.

@@ -24,6 +24,6 @@ performance to models trained solely on human-annotated data, while requiring
 significantly less data. Furthermore, we perform a set of analyses on captions
 which reveals that semantic diversity and balance are key aspects for better
 downstream performance. Finally, we show that synthesizing images in the image
-embedding space is 25\% faster than in the pixel space. We believe our work not
+embedding space is 25% faster than in the pixel space. We believe our work not
 only addresses a significant challenge in VLM training but also opens up
 promising avenues for the development of self-improving multi-modal models.

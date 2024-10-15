@@ -26,9 +26,9 @@ this work introduces \VideoDatasetName, an inaugural interleaved video-text
 dataset featuring comprehensive captions, marking a significant step forward.
 Demonstrating its impact, we illustrate how \VideoDatasetName\{\} enhances model
 performance in image-text tasks. With 34% learnable parameters and utilizing
-72\% of the available data, our model demonstrates significant superiority over
+72% of the available data, our model demonstrates significant superiority over
 OpenFlamingo~\cite\{openflamingo\}. For instance, in the 4-shot flickr captioning
-task, performance notably improves from 57.2% to 65.\%. The contributions of
+task, performance notably improves from 57.2% to 65.%. The contributions of
 \ModelName\{\} and \VideoDatasetName\{\} are underscored by notable performance
 gains across 14 diverse downstream datasets encompassing both image-text and
 video-text tasks.

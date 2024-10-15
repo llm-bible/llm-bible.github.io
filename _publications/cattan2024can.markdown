@@ -25,7 +25,7 @@ number of tokens to the prompt. We further enhance each demonstration by
 instructing the model to explicitly identify the relevant paragraphs before the
 answer, which improves performance while providing fine-grained attribution to
 the answer source. We apply our method on multiple LLMs and obtain substantial
-improvements (+23\% on average across models) on various QA datasets with long
+improvements (+23% on average across models) on various QA datasets with long
 context, especially when the answer lies within the middle of the context.
 Surprisingly, despite introducing only single-hop ICL examples, LLMs also
 successfully generalize to multi-hop long-context QA using our approach.

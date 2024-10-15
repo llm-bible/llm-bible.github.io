@@ -25,5 +25,5 @@ RAG in an unsupervised manner. InFO-RAG is low-cost and general across various
 tasks. Extensive experiments on zero-shot prediction of 11 datasets in diverse
 tasks including Question Answering, Slot-Filling, Language Modeling, Dialogue,
 and Code Generation show that InFO-RAG improves the performance of LLaMA2 by an
-average of 9.39\% relative points. InFO-RAG also shows advantages in in-context
+average of 9.39% relative points. InFO-RAG also shows advantages in in-context
 learning and robustness of RAG.

@@ -18,10 +18,10 @@ extremely long documents. BABILong includes a diverse set of 20 reasoning
 tasks, including fact chaining, simple induction, deduction, counting, and
 handling lists/sets. These tasks are challenging on their own, and even more
 demanding when the required facts are scattered across long natural text. Our
-evaluations show that popular LLMs effectively utilize only 10-20\% of the
+evaluations show that popular LLMs effectively utilize only 10-20% of the
 context and their performance declines sharply with increased reasoning
 complexity. Among alternatives to in-context reasoning, Retrieval-Augmented
-Generation methods achieve a modest 60\% accuracy on single-fact question
+Generation methods achieve a modest 60% accuracy on single-fact question
 answering, independent of context length. Among context extension methods, the
 highest performance is demonstrated by recurrent memory transformers, enabling
 the processing of lengths up to 11 million tokens. The BABILong benchmark is

@@ -19,7 +19,7 @@ texts, and performing complex integration on this information to generate the
 answer. We construct this dataset by leveraging an existing dataset of texts
 and their associated tables. For each such tables, we formulate new queries,
 and gather their respective answers. We demonstrate that all contemporary LLMs
-perform poorly on this dataset, achieving an accuracy below 38\%. To pinpoint
+perform poorly on this dataset, achieving an accuracy below 38%. To pinpoint
 the difficulties and thoroughly dissect the problem, we analyze model
 performance across three components: table-generation, Pandas
 command-generation, and execution. Unexpectedly, we discover that each

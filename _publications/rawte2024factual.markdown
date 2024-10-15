@@ -29,7 +29,7 @@ contradicts reality. We present FACTOID (FACTual enTAILment for hallucInation
 Detection), a benchmark dataset for FE. We propose a multi-task learning (MTL)
 framework for FE, incorporating state-of-the-art (SoTA) long text embeddings
 such as e5-mistral-7b-instruct, along with GPT-3, SpanBERT, and RoFormer. The
-proposed MTL architecture for FE achieves an avg. 40\% improvement in accuracy
+proposed MTL architecture for FE achieves an avg. 40% improvement in accuracy
 on the FACTOID benchmark compared to SoTA TE methods. As FE automatically
 detects hallucinations, we assessed 15 modern LLMs and ranked them using our
 proposed Auto Hallucination Vulnerability Index (HVI_auto). This index

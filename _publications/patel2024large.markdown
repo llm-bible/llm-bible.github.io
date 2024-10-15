@@ -21,7 +21,7 @@ extent to which LLMs can self-improve their performance as agents in
 long-horizon tasks in a complex environment using the WebArena benchmark. In
 WebArena, an agent must autonomously navigate and perform actions on web pages
 to achieve a specified objective. We explore fine-tuning on three distinct
-synthetic training data mixtures and achieve a 31\% improvement in task
+synthetic training data mixtures and achieve a 31% improvement in task
 completion rate over the base model on the WebArena benchmark through a
 self-improvement procedure. We additionally contribute novel evaluation metrics
 for assessing the performance, robustness, capabilities, and quality of

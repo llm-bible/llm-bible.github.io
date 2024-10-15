@@ -22,5 +22,5 @@ model (SLM), which then generates the response more efficiently. We investigate
 the combination of encoder-decoder LLMs with both encoder-decoder and
 decoder-only SLMs from different model families and only require fine-tuning of
 the SLM. Experiments with various benchmarks show substantial speedups of up to
-\\(4\times\\), with minor performance penalties of \\(1-2\%\\) for translation and
+\\(4\times\\), with minor performance penalties of \\(1-2%\\) for translation and
 summarization tasks compared to the LLM.

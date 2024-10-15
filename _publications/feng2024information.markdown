@@ -25,9 +25,9 @@ downstream task data. We explored the many positive effects of this method's
 customized tokenizer on domain-adaptive pretraining and verified this method
 can perform better than the ordinary method of just collecting data and
 fine-tuning. Based on our experiment, the continued pretraining process of IGOT
-with LLaMA-7B achieved 11.9\% token saving, 12.2\% training time saving, and
-5.8\% maximum GPU VRAM usage saving, combined with the T5 model, we can even
-reach a 31.5\% of training time saving, making porting general generative AI to
+with LLaMA-7B achieved 11.9% token saving, 12.2% training time saving, and
+5.8% maximum GPU VRAM usage saving, combined with the T5 model, we can even
+reach a 31.5% of training time saving, making porting general generative AI to
 specific domains more effective than before. In domain-specific tasks,
 supervised \\(IGOT_\tau\\) shows great performance on reducing both the convergence
 radius and convergence point during keep pretraining.

@@ -19,8 +19,8 @@ problems subset focusing on backward reasoning, an augmented subset of 2,000
 problems, and a hard subset of 300 problems. This benchmark facilitates a
 deeper investigation into the performance of LLMs and MMs in solving geometry
 math problems. Our evaluation of ten LLMs and MMs across these varied subsets
-reveals that the WizardMath model excels, achieving a 55.67\% accuracy rate on
-the main subset but only a 6.00\% accuracy on the hard subset. This highlights
+reveals that the WizardMath model excels, achieving a 55.67% accuracy rate on
+the main subset but only a 6.00% accuracy on the hard subset. This highlights
 the critical need for testing models against datasets on which they have not
 been pre-trained. Additionally, our findings indicate that GPT-series models
 perform more effectively on problems they have rephrased, suggesting a

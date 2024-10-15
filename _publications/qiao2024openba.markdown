@@ -17,7 +17,7 @@ effective way to address this problem. Therefore, we introduce OpenBA-V2, a
 3.4B model derived from multi-stage compression and continual pre-training from
 the original 15B OpenBA model. OpenBA-V2 utilizes more data, more flexible
 training objectives, and techniques such as layer pruning, neural pruning, and
-vocabulary pruning to achieve a compression rate of 77.3\% with minimal
+vocabulary pruning to achieve a compression rate of 77.3% with minimal
 performance loss. OpenBA-V2 demonstrates competitive performance compared to
 other open-source models of similar size, achieving results close to or on par
 with the 15B OpenBA model in downstream tasks such as common sense reasoning

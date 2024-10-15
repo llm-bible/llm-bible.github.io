@@ -22,4 +22,4 @@ internal states show they are likely to hallucinate or not regarding the query.
 Our study explores particular neurons, activation layers, and tokens that play
 a crucial role in the LLM perception of uncertainty and hallucination risk. By
 a probing estimator, we leverage LLM self-assessment, achieving an average
-hallucination estimation accuracy of 84.32\% at run time.
+hallucination estimation accuracy of 84.32% at run time.

@@ -21,7 +21,7 @@ demonstrating the capability of enhanced LLMs to perform cross-language
 code-to-code search. Our evaluation demonstrates that the effectiveness of our
 approach is consistent across various model architectures and programming
 languages. We outperform the state-of-the-art cross-language search tool by up
-to 44.7\%. Moreover, our ablation studies reveal that even a single positive
+to 44.7%. Moreover, our ablation studies reveal that even a single positive
 and negative reference sample in the training process results in substantial
 performance improvements demonstrating both similar and dissimilar references
 are important parts of code search. Importantly, we show that enhanced

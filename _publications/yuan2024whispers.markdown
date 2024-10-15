@@ -22,5 +22,5 @@ premise \textbf\{A\}ttention head constra\textbf\{I\}ining for mi\textbf\{T\}iga
 \textbf\{H\}allucinations), a novel and effective method to mitigate false
 premise hallucinations. It constrains the false premise attention heads during
 the model inference process. Impressively, extensive experiments demonstrate
-that constraining only approximately \\(1\%\\) of the attention heads in the model
-yields a notable increase of nearly \\(20\%\\) of model performance.
+that constraining only approximately \\(1%\\) of the attention heads in the model
+yields a notable increase of nearly \\(20%\\) of model performance.

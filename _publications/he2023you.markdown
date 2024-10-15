@@ -24,7 +24,7 @@ focusing on three tasks; 1) Toxicity Classification, 2) Toxic Span Detection,
 and 3) Detoxification. We perform an extensive evaluation over five model
 architectures and eight datasets demonstrating that LLMs with prompt learning
 can achieve similar or even better performance compared to models trained on
-these specific tasks. We find that prompt learning achieves around 10\%
+these specific tasks. We find that prompt learning achieves around 10%
 improvement in the toxicity classification task compared to the baselines,
 while for the toxic span detection task we find better performance to the best
 baseline (0.643 vs. 0.640 in terms of \\(F_1\\)-score). Finally, for the

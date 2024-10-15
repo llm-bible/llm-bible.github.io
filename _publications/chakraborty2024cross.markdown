@@ -21,8 +21,8 @@ ultimately fused into the language space, we aim to explore whether unlearning
 solely in the textual domain can be effective for cross-modality safety
 alignment. Our evaluation across six datasets empirically demonstrates the
 transferability -- textual unlearning in VLMs significantly reduces the Attack
-Success Rate (ASR) to less than 8\% and in some cases, even as low as nearly
-2\% for both text-based and vision-text-based attacks, alongside preserving the
+Success Rate (ASR) to less than 8% and in some cases, even as low as nearly
+2% for both text-based and vision-text-based attacks, alongside preserving the
 utility. Moreover, our experiments show that unlearning with a multi-modal
 dataset offers no potential benefits but incurs significantly increased
 computational demands, possibly up to 6 times higher.

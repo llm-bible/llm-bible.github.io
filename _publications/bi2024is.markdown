@@ -19,7 +19,7 @@ enhancing factual accuracy. Subsequently, we conduct further evaluation of
 several strong factuality decoding methods on the knowledge editing benchmark.
 All these decoding methods significantly diminish the performance of llama2
 models compared to their original decoding, with the largest decrease being a
-staggering 81.3\%. This further indicates that the current existing decoding
+staggering 81.3%. This further indicates that the current existing decoding
 methods still cannot perfectly address the factual hallucinations, as they
 overlook the importance of preserving the flexibility for knowledge editing.
 Therefore, our work suggests that research into factual alignment should

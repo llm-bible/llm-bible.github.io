@@ -16,8 +16,8 @@ challenging multiple-choice questions (QCM) using a dataset of 190 questions
 from the Siamois-QCM platform. The goal was to assess ChatGPT potential as a
 valuable tool in medical education compared to two well-ranked students of
 medicine. The results showed that ChatGPT outperformed the students, scoring
-175 out of 190 correct answers with a percentage of 92.10\%, while the two
-students achieved scores of 163 and 159 with percentages of 85.78\% and
-82.63\%, respectively. These results showcase how ChatGPT has the potential to
+175 out of 190 correct answers with a percentage of 92.10%, while the two
+students achieved scores of 163 and 159 with percentages of 85.78% and
+82.63%, respectively. These results showcase how ChatGPT has the potential to
 be highly effective in the fields of cardiology and vascular pathologies by
 providing accurate answers to relevant questions.

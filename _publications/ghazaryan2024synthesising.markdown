@@ -24,9 +24,9 @@ with their designated non-English \\(\textit\{human-curated\}\\) paragraphs form
 final QA dataset. The method allows to maintain the content quality, reduces
 the likelihood of factual errors, and circumvents the need for costly
 annotation. To test the method, we created a QA dataset with \\(1.2\\)K samples for
-the Armenian language. The human evaluation shows that \\(98\%\\) of the generated
+the Armenian language. The human evaluation shows that \\(98%\\) of the generated
 English data maintains quality and diversity in the question types and topics,
-while the translation validation pipeline can filter out \\(\sim70\%\\) of data
+while the translation validation pipeline can filter out \\(\sim70%\\) of data
 with poor quality. We use the dataset to benchmark state-of-the-art LLMs,
 showing their inability to achieve human accuracy with some model performances
 closer to random chance. This shows that the generated dataset is non-trivial

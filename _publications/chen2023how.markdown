@@ -20,7 +20,7 @@ samples) with 66 text transformations from TextFlint that cover 9 popular
 Natural Language Understanding (NLU) tasks. Our findings indicate that while
 GPT-3.5 outperforms existing fine-tuned models on some tasks, it still
 encounters significant robustness degradation, such as its average performance
-dropping by up to 35.74\% and 43.59\% in natural language inference and
+dropping by up to 35.74% and 43.59% in natural language inference and
 sentiment analysis tasks, respectively. We also show that GPT-3.5 faces some
 specific robustness challenges, including robustness instability, prompt
 sensitivity, and number sensitivity. These insights are valuable for

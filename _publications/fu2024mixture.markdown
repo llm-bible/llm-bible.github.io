@@ -27,7 +27,7 @@ that MoA increases the effective context length by \\(3.9\times\\) with the same
 average attention span, boosting retrieval accuracy by \\(1.5-7.1\times\\) over the
 uniform-attention baseline across Vicuna-7B, Vicuna-13B, and Llama3-8B models.
 Moreover, MoA narrows the capability gaps between sparse and dense models,
-reducing the maximum relative performance drop from \\(9\%-36\%\\) to within \\(5\%\\)
+reducing the maximum relative performance drop from \\(9%-36%\\) to within \\(5%\\)
 across two long-context understanding benchmarks. MoA achieves a
 \\(1.2-1.4\times\\) GPU memory reduction and boosts decode throughput by \\(5.5-6.7
 \times\\) for 7B and 13B dense models on a single GPU, with minimal impact on

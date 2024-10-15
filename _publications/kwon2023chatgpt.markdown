@@ -27,4 +27,4 @@ sizes. This disparity highlights a substantial room for improvements for LLMs.
 Inspired by methods from low-resource machine translation, we also develop a
 method exploiting synthetic data that significantly outperforms previous models
 on two standard Arabic benchmarks. Our work sets new SoTA for Arabic GEC, with
-\\(72.19\%\\) and \\(73.26\\) F\\(_\{1\}\\) on the 2014 and 2015 QALB datasets, respectively.
+\\(72.19%\\) and \\(73.26\\) F\\(_\{1\}\\) on the 2014 and 2015 QALB datasets, respectively.

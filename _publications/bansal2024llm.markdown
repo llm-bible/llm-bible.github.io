@@ -24,8 +24,8 @@ existing LLMs along with a few additional parameters and data, (ii) Existing
 model weights are kept intact, and hence preserves existing capabilities, and
 (iii) Applies to diverse domains and settings. We illustrate that augmenting
 PaLM2-S with a smaller model trained on low-resource languages results in an
-absolute improvement of up to 13\% on tasks like translation into English and
+absolute improvement of up to 13% on tasks like translation into English and
 arithmetic reasoning for low-resource languages. Similarly, when PaLM2-S is
-augmented with a code-specific model, we see a relative improvement of 40\%
+augmented with a code-specific model, we see a relative improvement of 40%
 over the base model for code generation and explanation tasks -- on-par with
 fully fine-tuned counterparts.

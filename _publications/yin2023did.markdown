@@ -18,7 +18,7 @@ ablation analysis informed by human annotations to understand which parts of a
 task definition are most important, and find that model performance only drops
 substantially when removing contents describing the task output, in particular
 label information. Next, we propose an automatic algorithm to compress task
-definitions to a minimal supporting set of tokens, and find that 60\% of tokens
+definitions to a minimal supporting set of tokens, and find that 60% of tokens
 can be removed while maintaining or even improving model performance. Based on
 these results, we propose two strategies to help models better leverage task
 instructions: (1) providing only key information for tasks in a common

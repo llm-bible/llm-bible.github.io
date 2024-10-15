@@ -19,7 +19,7 @@ of benchmarks. Our approach ensures statistically aligned model rankings
 compared to full datasets, evidenced by high Pearson correlation coefficients.
 Empirical analysis across six NLP benchmarks reveals that: (1) quality-based
 sampling consistently achieves strong correlations (0.85 to 0.95) with full
-datasets at a 10\% sampling rate such as Quality SE and Quality CPD (2)
+datasets at a 10% sampling rate such as Quality SE and Quality CPD (2)
 clustering methods excel in specific benchmarks such as MMLU (3) no single
 method universally outperforms others across all metrics. Extending this
 framework, we leverage the HEIM leaderboard to cover 25 text-to-image models on

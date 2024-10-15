@@ -25,7 +25,7 @@ and employing an in-context learning strategy that aligns with clinical
 contexts. Our comprehensive experiments on the MIMIC-IV and TJH datasets
 demonstrate that with our elaborately designed prompting framework, LLMs can
 improve prediction performance in key tasks such as mortality, length-of-stay,
-and 30-day readmission by about 35\%, surpassing ML models in few-shot
+and 30-day readmission by about 35%, surpassing ML models in few-shot
 settings. Our research underscores the potential of LLMs in enhancing clinical
 decision-making, especially in urgent healthcare situations like the outbreak
 of emerging diseases with no labeled data. The code is publicly available at

@@ -23,8 +23,8 @@ performance improvement through the feedback mechanism. Moreover, DS-Agent
 implements a low-resource deployment stage with a simplified CBR paradigm to
 adapt past successful solutions from the development stage for direct code
 generation, significantly reducing the demand on foundational capabilities of
-LLMs. Empirically, DS-Agent with GPT-4 achieves 100\% success rate in the
-development stage, while attaining 36\% improvement on average one pass rate
+LLMs. Empirically, DS-Agent with GPT-4 achieves 100% success rate in the
+development stage, while attaining 36% improvement on average one pass rate
 across alternative LLMs in the deployment stage. In both stages, DS-Agent
 achieves the best rank in performance, costing \\\(1.60 and \\\)0.13 per run with
 GPT-4, respectively. Our data and code are open-sourced at

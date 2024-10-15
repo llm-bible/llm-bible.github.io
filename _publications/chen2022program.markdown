@@ -21,7 +21,7 @@ an external computer, which executes the generated programs to derive the
 answer. We evaluate PoT on five math word problem datasets (GSM, AQuA, SVAMP,
 TabMWP, MultiArith) and three financial-QA datasets (FinQA, ConvFinQA, TATQA)
 for both few-shot and zero-shot setups. Under both few-shot and zero-shot
-settings, PoT can show an average performance gain over CoT by around 12\%
+settings, PoT can show an average performance gain over CoT by around 12%
 across all the evaluated datasets. By combining PoT with self-consistency
 decoding, we can achieve SoTA performance on all math problem datasets and
 near-SoTA performance on financial datasets. All of our data and code are

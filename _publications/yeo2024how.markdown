@@ -23,6 +23,6 @@ investigation is not confined to a single prompting technique; it expansively
 covers a multitude of prevalent prompting techniques employed in large language
 models, thereby ensuring a wide-ranging and exhaustive evaluation. In addition,
 we introduce a simple interpretability alignment technique, termed
-Self-Entailment-Alignment Chain-of-thought, that yields more than 70\%
+Self-Entailment-Alignment Chain-of-thought, that yields more than 70%
 improvements across multiple dimensions of interpretability. Code is available
 at https://github.com/SenticNet/CoT_interpretability

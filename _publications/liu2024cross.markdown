@@ -21,6 +21,6 @@ semantic transfer, we employ unsupervised contrastive learning to minimize the
 semantics gap of the source language, code-switching language, and
 pseudo-target language that are mutually positive examples in the high
 dimensional semantic space. Experiments on the multilingual DailyDialog and
-DSTC7-AVSD datasets demonstrate that ChatZero can achieve more than 90\% of the
+DSTC7-AVSD datasets demonstrate that ChatZero can achieve more than 90% of the
 original performance under the zero-shot case compared to supervised learning,
 and achieve state-of-the-art performance compared with other baselines.

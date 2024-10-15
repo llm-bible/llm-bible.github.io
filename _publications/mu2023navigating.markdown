@@ -24,4 +24,4 @@ zero-shot setting, current LLMs are unable to match the performance of smaller,
 fine-tuned baseline transformer models (such as BERT-large). Additionally, we
 find that different prompting strategies can significantly affect
 classification accuracy, with variations in accuracy and F1 scores exceeding
-10\%.
+10%.

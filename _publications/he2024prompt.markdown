@@ -20,10 +20,10 @@ efficiency of intrinsic bias calibration. Specifically, we leverage a diverse
 set of auto-selected null-meaning inputs generated from GPT-4 to prompt
 pre-trained LMs for intrinsic bias probing. Utilizing the bias-reflected
 probability distribution, we formulate a distribution disparity loss for bias
-calibration, where we exclusively update bias parameters (\\(0.1\%\\) of total
+calibration, where we exclusively update bias parameters (\\(0.1%\\) of total
 parameters) of LMs towards equal probability distribution. Experimental results
 show that the calibration promotes an equitable starting point for LMs while
 preserving language modeling abilities. Across a wide range of datasets,
 including sentiment analysis and topic classification, our method significantly
 improves zero/few-shot learning performance of LMs for both in-context learning
-and prompt-based fine-tuning (on average \\(9\%\\) and \\(2\%\\), respectively).
+and prompt-based fine-tuning (on average \\(9%\\) and \\(2%\\), respectively).

@@ -22,5 +22,5 @@ latency. To validate EAS, we apply it to a recently proposed MLLM called LaVIN
 and a classic VL pre-trained model called METER, and conduct extensive
 experiments on a set of benchmarks. The experiments show that EAS not only
 retains high performance and parameter efficiency, but also greatly speeds up
-inference speed. For instance, LaVIN-EAS can obtain 89.98\% accuracy on
+inference speed. For instance, LaVIN-EAS can obtain 89.98% accuracy on
 ScineceQA while speeding up inference by 2.2 times to LaVIN

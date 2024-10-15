@@ -16,7 +16,7 @@ their capability at a much lower cost than finetuning. We extend this line of
 reasoning and present a method which further expands the capabilities of an LLM
 by embedding it within an algorithm or program. To demonstrate the benefits of
 this approach, we present an illustrative example of evidence-supported
-question-answering. We obtain a 6.4\% improvement over the chain of thought
+question-answering. We obtain a 6.4% improvement over the chain of thought
 baseline through a more algorithmic approach without any finetuning.
 Furthermore, we highlight recent work from this perspective and discuss the
 advantages and disadvantages in comparison to the standard approaches.

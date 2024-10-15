@@ -28,7 +28,7 @@ and \textbf\{revise\} the draft answer to generate the final answer.
   Our proposal combines the advantages of the efficiency of adapting a smaller
 7B model with the evidence-assessing capability of GPT-4 and effectively
 prevents GPT-4 from generating hallucinatory content. In the zero-shot setting
-of four Chinese legal tasks, our method improves accuracy by 33.3\% compared to
+of four Chinese legal tasks, our method improves accuracy by 33.3% compared to
 the direct generation by GPT-4. When compared to two stronger retrieval-based
-baselines, our method outperforms them by 15.4\% and 23.9\%. Our code will be
+baselines, our method outperforms them by 15.4% and 23.9%. Our code will be
 released

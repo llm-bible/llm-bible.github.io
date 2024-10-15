@@ -23,7 +23,7 @@ design a benchmark, dubbed \textit\{MLLM-Bench\}, with the evaluation samples
 across six critical levels following the revised Bloom's Taxonomy with the
 ethical consideration. We benchmark 21 popular MLLMs in a pairwise-comparison
 fashion, showing diverse performance across models. Moreover, the validity of
-our benchmark manifests itself in reaching 88.02\% agreement with human
+our benchmark manifests itself in reaching 88.02% agreement with human
 evaluation. We contend that the proposed paradigm explores the potential of
 MLLMs as effective evaluation tools with the help of per-sample criteria, and
 that MLLM-Bench will serve as a catalyst for encouraging the development of

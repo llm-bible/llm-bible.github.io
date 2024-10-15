@@ -28,5 +28,5 @@ analogous to our approach of rectifying errors during a mathematics
 examination. Furthermore, we recognize that the states of the verification
 result indicate the confidence of a solution, which can improve the
 effectiveness of majority voting. With GPT-4 Code Interpreter and CSV, we
-achieve an impressive zero-shot accuracy on MATH dataset \textbf\{(53.9\% \\(\to\\)
-84.3\%)\}.
+achieve an impressive zero-shot accuracy on MATH dataset \textbf\{(53.9% \\(\to\\)
+84.3%)\}.

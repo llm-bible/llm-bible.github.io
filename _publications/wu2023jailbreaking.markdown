@@ -21,7 +21,7 @@ System Prompt). By employing GPT-4 as a red teaming tool against itself, we aim
 to search for potential jailbreak prompts leveraging stolen system prompts.
 Furthermore, in pursuit of better performance, we also add human modification
 based on GPT-4's analysis, which further improves the attack success rate to
-98.7\%; 3) We evaluated the effect of modifying system prompts to defend
+98.7%; 3) We evaluated the effect of modifying system prompts to defend
 against jailbreaking attacks. Results show that appropriately designed system
 prompts can significantly reduce jailbreak success rates. Overall, our work
 provides new insights into enhancing MLLM security, demonstrating the important

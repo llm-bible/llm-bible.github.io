@@ -19,7 +19,7 @@ COSMIC demonstrates emerging capabilities in instruction-following and
 in-context learning. Equipped with such capabilities, COSMIC achieves a maximum
 33.18 BLEU score in 0-shot EN-to-X speech to text translation (S2TT) and a
 significant boost in the 1-shot setting. Additionally, there is an average
-25.8\% relative Word Error Rate (WER) reduction for 1-shot cross-domain
+25.8% relative Word Error Rate (WER) reduction for 1-shot cross-domain
 adaptation. COSMIC exhibits a significant automatic speech recognition (ASR)
 accuracy gain in contextual biasing tasks due to its instruction-following
 capability.

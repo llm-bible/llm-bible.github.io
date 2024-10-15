@@ -22,7 +22,7 @@ effectiveness across a range of generative tasks. Furthermore, we introduce a
 range of metrics designed to quantify the success and stealthiness of poisoning
 attacks specifically tailored to NLG tasks. Through extensive experiments on
 multiple NLG tasks, LLMs and datasets, we show that it is possible to
-successfully poison an LLM during the fine-tuning stage using as little as 1\%
+successfully poison an LLM during the fine-tuning stage using as little as 1%
 of the total tuning data samples. Our paper presents the first systematic
 approach to comprehend poisoning attacks targeting NLG tasks considering a wide
 range of triggers and attack settings. We hope our findings will assist the AI

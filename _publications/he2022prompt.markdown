@@ -18,7 +18,7 @@ HyperPrompt allows the network to learn task-specific feature maps where the
 hyper-prompts serve as task global memories for the queries to attend to, at
 the same time enabling flexible information sharing among tasks. We show that
 HyperPrompt is competitive against strong multi-task learning baselines with as
-few as \\(0.14\%\\) of additional task-conditioning parameters, achieving great
+few as \\(0.14%\\) of additional task-conditioning parameters, achieving great
 parameter and computational efficiency. Through extensive empirical
 experiments, we demonstrate that HyperPrompt can achieve superior performances
 over strong T5 multi-task learning baselines and parameter-efficient adapter

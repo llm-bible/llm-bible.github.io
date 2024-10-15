@@ -24,13 +24,13 @@ utilizing mainstream PEFT techniques, including QLoRA, LoRA, Adapter, and
 Prompt/Prefix Tuning, to facilitate efficient model adaptation across diverse
 downstream tasks. Experiments show that our proposed method, \textbf\{DEFT\}
 (Density-Efficient Fine-Tuning), can consistently reduce activation density by
-up to \textbf\{44.94\%\} on RoBERTa\\(_\mathrm\{Large\}\\) and by \textbf\{53.19\%\}
-(encoder density) and \textbf\{90.60\%\} (decoder density) on
+up to \textbf\{44.94%\} on RoBERTa\\(_\mathrm\{Large\}\\) and by \textbf\{53.19%\}
+(encoder density) and \textbf\{90.60%\} (decoder density) on
 Flan-T5\\(_\mathrm\{XXL\}\\) (\textbf\{11B\}) compared to PEFT, using GLUE and QA
 (SQuAD) benchmarks respectively. We also introduce \textbf\{ADA-DEFT\}, an
 adaptive variant of our DEFT approach, which achieves significant memory and
 runtime savings during inference. For instance, ADA-DEFT reduces runtime by
-\textbf\{8.79\%\}and memory usage by \textbf\{17.46\%\} in Flan-T5\\(_\mathrm\{XL\}\\),
-and by \textbf\{2.79\%\} and \textbf\{2.54\%\} respectively in
+\textbf\{8.79%\}and memory usage by \textbf\{17.46%\} in Flan-T5\\(_\mathrm\{XL\}\\),
+and by \textbf\{2.79%\} and \textbf\{2.54%\} respectively in
 Flan-T5\\(_\mathrm\{XXL\}\\). Additionally, we showcase that DEFT works
 complementarily with quantized and pruned models.

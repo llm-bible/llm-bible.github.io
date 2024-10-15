@@ -13,7 +13,7 @@ We demonstrate the potential of the state-of-the-art OpenAI GPT-4 large
 language model to engage in meaningful interactions with Astronomy papers using
 in-context prompting. To optimize for efficiency, we employ a distillation
 technique that effectively reduces the size of the original input paper by
-50\%, while maintaining the paragraph structure and overall semantic integrity.
+50%, while maintaining the paragraph structure and overall semantic integrity.
 We then explore the model's responses using a multi-document context (ten
 distilled documents). Our findings indicate that GPT-4 excels in the
 multi-document domain, providing detailed answers contextualized within the

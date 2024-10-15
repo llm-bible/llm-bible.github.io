@@ -18,7 +18,7 @@ learning and GANs due to better sample efficiency. In this paper, we propose
 *Transformer with Memory Replay* (TMR), which integrates memory replay
 with transformer, making transformer more sample-efficient. Experiments on GLUE
 and SQuAD benchmark datasets show that Transformer with Memory Replay achieves
-at least \\(1\%\\) point increase compared to the baseline transformer model when
+at least \\(1%\\) point increase compared to the baseline transformer model when
 pretrained with the same number of examples. Further, by adopting a careful
 design that reduces the wall-clock time overhead of memory replay, we also
 empirically achieve a better runtime efficiency.

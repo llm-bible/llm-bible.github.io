@@ -20,9 +20,9 @@ responding to queries in various languages from two aspects: safety and
 quality. We conduct this analysis with two datasets (AdvBench and NQ) based on
 four LLMs (Llama2-13b, Gemma-7b, GPT-3.5-turbo and Gemini-pro). The results
 show that LLMs exhibit stronger human alignment capabilities with queries in
-English, French, Russian, and Spanish (only 1.04\% of harmful queries
+English, French, Russian, and Spanish (only 1.04% of harmful queries
 successfully jailbreak on average) compared to queries in Bengali, Georgian,
-Nepali and Maithili (27.7\% of harmful queries jailbreak successfully on
+Nepali and Maithili (27.7% of harmful queries jailbreak successfully on
 average). Moreover, for queries in English, Danish, Czech and Slovenian, LLMs
 tend to produce responses with a higher quality (with 0.1494 \\(F_1\\) score on
 average) compared to the other languages. Upon these findings, we propose

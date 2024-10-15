@@ -21,7 +21,7 @@ reward variance for stabilized large-scale training, implement model
 parallelism with fused gradient-descent, and design regularization constraints
 to avoid catastrophic forgetting in LLMs. Experiments show that ChatGLM-RLHF
 brings significant improvements in alignment tasks compared to the supervised
-fine-tuned (SFT) version of ChatGLM. For instance, it achieves on average 15\%
+fine-tuned (SFT) version of ChatGLM. For instance, it achieves on average 15%
 more wins against ChatGLM-SFT in Chinese alignment tasks. The work presents our
 practices of aligning LLMs with human preferences, offering insights into the
 challenges and solutions in RLHF implementations.

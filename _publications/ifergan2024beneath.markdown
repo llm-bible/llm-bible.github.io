@@ -23,7 +23,7 @@ necessarily imply shared representation, particularly for languages with
 different scripts. Moreover, we find that script similarity is a dominant
 factor in representation sharing. Finally, we observe that if LLMs could fully
 share knowledge across languages, their accuracy in their best-performing
-language could benefit an increase of up to 150\% on average. These findings
+language could benefit an increase of up to 150% on average. These findings
 highlight the need for improved multilingual knowledge representation in LLMs
 and suggest a path for the development of more robust and consistent
 multilingual LLMs.

@@ -16,7 +16,7 @@ the domain. This critically limits research in this application area. In this
 work, we curate LawInstruct, a large legal instruction dataset, covering 17
 jurisdictions, 24 languages and a total of 12M examples. We present evidence
 that domain-specific pretraining and instruction tuning improve performance on
-LegalBench, including improving Flan-T5 XL by 8 points or 16\% over the
+LegalBench, including improving Flan-T5 XL by 8 points or 16% over the
 baseline. However, the effect does not generalize across all tasks, training
 regimes, model sizes, and other factors. LawInstruct is a resource for
 accelerating the development of models with stronger information processing and

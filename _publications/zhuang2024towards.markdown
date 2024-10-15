@@ -22,8 +22,8 @@ based on the Mistral and the CodeLlama model family, ranging from 7B to 34B
 parameters. Our StructLM series surpasses task-specific models on 16 out of 18
 evaluated datasets and establishes new SoTA performance on 8 SKG tasks.
 Furthermore, StructLM demonstrates strong generalization across 6 novel
-held-out SKG tasks, outperforming TableLlama by an average of 35\% and Flan-UL2
-20B by an average of 10\%. Contrary to expectations, we observe that scaling
+held-out SKG tasks, outperforming TableLlama by an average of 35% and Flan-UL2
+20B by an average of 10%. Contrary to expectations, we observe that scaling
 model size offers marginal benefits, with StructLM-34B showing only slight
 improvements over StructLM-7B. This suggests that structured knowledge
 grounding is still a challenging task and requires more innovative design to

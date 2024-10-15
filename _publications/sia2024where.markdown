@@ -20,7 +20,7 @@ models. Through a series of layer-wise context-masking experiments on
 where the translation task is encoded into the input representations and
 attention to context is no longer necessary. We further observe correspondence
 between the low performance when masking out entire layers, and the task
-recognition layers. Taking advantage of this redundancy results in 45\%
+recognition layers. Taking advantage of this redundancy results in 45%
 computational savings when prompting with 5 examples, and task recognition
 achieved at layer 14 / 32. Our layer-wise fine-tuning experiments indicate that
 the most effective layers for MT fine-tuning are the layers critical to task

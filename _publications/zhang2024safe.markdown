@@ -22,9 +22,9 @@ surprising generalizability of our unlearning-based approach: using only 20 raw
 harmful questions *without* any jailbreak prompt during training, our
 solution reduced the Attack Success Rate (ASR) in Vicuna-7B on
 *out-of-distribution* (OOD) harmful questions wrapped with various complex
-jailbreak prompts from 82.6\% to 7.7\%. This significantly outperforms
+jailbreak prompts from 82.6% to 7.7%. This significantly outperforms
 Llama2-7B-Chat, which is fine-tuned on about 0.1M safety alignment samples but
-still has an ASR of 21.9\% even under the help of an additional safety system
+still has an ASR of 21.9% even under the help of an additional safety system
 prompt. Further analysis reveals that the generalization ability of our
 solution stems from the intrinsic relatedness among harmful responses across
 harmful questions (e.g., response patterns, shared steps and actions, and

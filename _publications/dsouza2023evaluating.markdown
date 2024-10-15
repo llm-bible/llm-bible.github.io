@@ -23,7 +23,7 @@ method for a significantly different domain, i.e. scholarly knowledge, in turn
 testing the linguistic, probabilistic, and factual generalizability of these
 large-scale transformer models. We find that (i) per expectations, transformer
 models when tested out-of-the-box underperform on a new domain of data, (ii)
-prompt-based training of the models achieve performance boosts of up to 40\% in
+prompt-based training of the models achieve performance boosts of up to 40% in
 a relaxed evaluation setting, and (iii) testing the models on a starkly
 different domain even with a clever training objective in a low resource
 setting makes evident the domain knowledge capture gap offering an

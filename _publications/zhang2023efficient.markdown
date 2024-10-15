@@ -28,6 +28,6 @@ confidence. Additionally, we use the rationales extracted via DToT to fine-tune
 student LMs. Our experimental results on various datasets demonstrate that DToT
 can improve the accuracy of LLMs by up to 4.6%. Furthermore, student LMs
 fine-tuned with rationales extracted via DToT outperform baselines on all
-datasets with up to 16.9\% accuracy improvement, while being more than 60x
+datasets with up to 16.9% accuracy improvement, while being more than 60x
 smaller than conventional LLMs. Finally, we observe that student LMs fine-tuned
 with rationales exhibit better cross-dataset transferability.

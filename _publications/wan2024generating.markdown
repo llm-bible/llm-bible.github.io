@@ -21,7 +21,7 @@ produce experts specializing in various aspects of news understanding; 3) LLMs
 could *merge task-specific experts* and provide an overall prediction by
 incorporating the predictions and confidence scores of varying experts.
 Extensive experiments on seven datasets with three LLMs demonstrate that DELL
-outperforms state-of-the-art baselines by up to 16.8\% in macro f1-score.
+outperforms state-of-the-art baselines by up to 16.8% in macro f1-score.
 Further analysis reveals that the generated reactions and explanations are
 greatly helpful in misinformation detection, while our proposed LLM-guided
 expert merging helps produce better-calibrated predictions.

@@ -25,7 +25,7 @@ solutions to well-defined, closed-ended questions such as mathematical
 problems. This research paper delves into the efficacy of ChatGPT in solving
 programming problems, examining both the correctness and the efficiency of its
 solution in terms of time and memory complexity. The research reveals a
-commendable overall success rate of 71.875\%, denoting the proportion of
+commendable overall success rate of 71.875%, denoting the proportion of
 problems for which ChatGPT was able to provide correct solutions that
 successfully satisfied all the test cases present in Leetcode. It exhibits
 strengths in structured problems and shows a linear correlation between its

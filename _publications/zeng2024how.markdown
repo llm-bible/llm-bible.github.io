@@ -20,7 +20,7 @@ propose a persuasion taxonomy derived from decades of social science research.
 Then, we apply the taxonomy to automatically generate interpretable persuasive
 adversarial prompts (PAP) to jailbreak LLMs. Results show that persuasion
 significantly increases the jailbreak performance across all risk categories:
-PAP consistently achieves an attack success rate of over \\(92\%\\) on Llama 2-7b
+PAP consistently achieves an attack success rate of over \\(92%\\) on Llama 2-7b
 Chat, GPT-3.5, and GPT-4 in \\(10\\) trials, surpassing recent algorithm-focused
 attacks. On the defense side, we explore various mechanisms against PAP and,
 found a significant gap in existing defenses, and advocate for more fundamental

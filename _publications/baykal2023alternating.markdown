@@ -24,4 +24,4 @@ such as Sparse Mixture-of-Experts models, to obtain efficient models with even
 higher capacity. Our experiments on benchmark transformer models and language
 tasks demonstrate the consistent effectiveness of AltUp on a diverse set of
 scenarios. Notably, on SuperGLUE and SQuAD benchmarks, AltUp enables up to
-\\(87\%\\) speedup relative to the dense baselines at the same accuracy.
+\\(87%\\) speedup relative to the dense baselines at the same accuracy.

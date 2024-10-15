@@ -22,7 +22,7 @@ pruning criteria to assess attention head and neuron importance in LLMs. We
 developed a novel predictor called ShadowLLM, which can shadow the LLM behavior
 and enforce better sparsity patterns, resulting in over 15% improvement in
 end-to-end accuracy without increasing latency compared to previous methods.
-ShadowLLM achieves up to a 20\% speed-up over the state-of-the-art DejaVu
+ShadowLLM achieves up to a 20% speed-up over the state-of-the-art DejaVu
 framework. These enhancements are validated on models with up to 30 billion
 parameters. Our code is available at
 \href\{https://github.com/abdelfattah-lab/shadow_llm/\}\{ShadowLLM\}.

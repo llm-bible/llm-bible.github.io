@@ -17,8 +17,8 @@ open-source LLMs and Google's new multimodal LLM called Gemini across Medical
 reasoning, hallucination detection, and Medical Visual Question Answering
 tasks. While Gemini showed competence, it lagged behind state-of-the-art models
 like MedPaLM 2 and GPT-4 in diagnostic accuracy. Additionally, Gemini achieved
-an accuracy of 61.45\% on the medical VQA dataset, significantly lower than
-GPT-4V's score of 88\%. Our analysis revealed that Gemini is highly susceptible
+an accuracy of 61.45% on the medical VQA dataset, significantly lower than
+GPT-4V's score of 88%. Our analysis revealed that Gemini is highly susceptible
 to hallucinations, overconfidence, and knowledge gaps, which indicate risks if
 deployed uncritically. We also performed a detailed analysis by medical subject
 and test type, providing actionable feedback for developers and clinicians. To
