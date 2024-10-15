@@ -125,7 +125,7 @@ async function sendQuery() {
   document.getElementById("query").value = ""; // Clear input
 
   // Fetch response from backend (Replace URL with your API endpoint)
-  const response = await fetch("https://your-backend-url.com/query", {
+  const response = await fetch("http://34.236.36.188:5000/query", {  // Your Flask API on EC2
     method: "POST",
     headers: {
       "Content-Type": "application/json"
@@ -138,7 +138,7 @@ async function sendQuery() {
   // Display bot response
   const botMessage = document.createElement("div");
   botMessage.classList.add("message", "bot");
-  botMessage.textContent = "Bot: " + result.answer; // Customize based on API response
+  botMessage.textContent = "Bot: " + result.answer;  // Customize based on API response
   messagesDiv.appendChild(botMessage);
 
   // Scroll to the bottom of the chat
