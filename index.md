@@ -159,4 +159,4 @@ Anyone can add a paper to this web site, by completing a [web form](contributing
 
 ---
 
-Copyright © Sean Moran 2024. All opinions are my own.
+Copyright © Sean Moran 2024. All opinions are my own. Forked from [Machine Learning on Source Code](https://ml4code.github.io).
