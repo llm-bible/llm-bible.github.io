@@ -124,13 +124,13 @@ async function sendQuery() {
   messagesDiv.appendChild(userMessage);
   document.getElementById("query").value = ""; // Clear input
 
-  // Fetch response from backend (Replace URL with your API endpoint)
-  const response = await fetch("http://34.237.75.38:5500/chat", {  // Your Flask API on EC2
+  // Fetch response from backen
+  const response = await fetch("http://34.237.75.38:5500/chat", {
     method: "POST",
     headers: {
       "Content-Type": "application/json"
     },
-    body: JSON.stringify({ query })
+    body: JSON.stringify({ user_input: query })  // Use 'user_input' instead of 'query'
   });
 
   const result = await response.json();
@@ -149,13 +149,13 @@ async function sendQuery() {
 ### About This Site
 
 This site is an experiment: a [living literature review](https://en.wikipedia.org/wiki/Living_review) that allows
-you explore, [search and navigate]({% link papers.html %}) the literature in this area.
+you to explore, [search and navigate]({% link papers.html %}) the literature in this area.
 
 ### Contributing
 
 This research area is evolving so fast that a static review cannot keep up.
 But a website can! We hope to make this site a living document.
-Anyone can add a paper to this web site, by completing a [web form](contributing.html).
+Anyone can add a paper to this website by completing a [web form](contributing.html).
 
 ---
 
