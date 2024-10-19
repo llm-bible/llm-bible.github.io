@@ -125,7 +125,7 @@ async function sendQuery() {
   document.getElementById("query").value = ""; // Clear input
 
   // Fetch response from backend (Replace URL with your API endpoint)
-  const response = await fetch("http://34.236.36.188:5000/query", {  // Your Flask API on EC2
+  const response = await fetch("http://34.237.75.38:5500/query", {  // Your Flask API on EC2
     method: "POST",
     headers: {
       "Content-Type": "application/json"
