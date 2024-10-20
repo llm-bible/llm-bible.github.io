@@ -22,7 +22,19 @@ This website is dedicated to exploring the fascinating world of LLMs. Here, you 
 
 ## Chat with the LLM-Bible Bot
 
-LLM-Bible Bot is a world expert on all the papers you will find on the site, which is currently well over 10,000 articles and expanding. Feel free to ask any questions related to Large Language Models (LLMs) or research resources here:
+Hello! I am the LLM-Bible bot, your expert guide through the vast collection of over 10,000 papers on Large Language Models (LLMs). You can ask me anything about LLMs, research resources, or key trends in the field. Here are some examples of questions you could ask me:
+
+- "What are the latest advancements in transformer models?"
+- "Can you explain how fine-tuning works in LLMs?"
+- "Which papers explore LLMs for multimodal tasks?"
+- "What is retrieval-augmented generation (RAG), and which papers discuss it?"
+- "Tell me about papers focusing on reinforcement learning with LLMs."
+- "Can you recommend some papers on the use of LLMs in NLP tasks?"
+- "What are the key conferences for LLM research?"
+- "How can I use LLMs for code generation?"
+- "Can you suprise me with very unique LLM papers?"
+
+Feel free to ask any of your own questions!
 
 <div class="chat-container">
   <div class="chatbox">
@@ -33,6 +45,7 @@ LLM-Bible Bot is a world expert on all the papers you will find on the site, whi
     </div>
   </div>
 </div>
+
 
 <style>
 /* Chatbox Container */
