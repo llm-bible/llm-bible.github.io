@@ -40,8 +40,9 @@ Feel free to ask any of your own questions!
 }
 
 .chatbox {
-  width: 400px;
-  max-width: 100%;
+  width: 80%; /* Makes it take up 80% of the screen width */
+  max-width: 900px; /* The maximum width for larger screens */
+  min-width: 400px; /* The minimum width for smaller screens */
   border-radius: 10px;
   overflow: hidden;
   background-color: #ffffff;
