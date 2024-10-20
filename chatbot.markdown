@@ -110,6 +110,16 @@ Feel free to ask any of your own questions!
 </style>
 
 <script>
+// Function to format bot response for links, bold text, and easy readability
+function formatBotResponse(responseText) {
+  // Example: Parse URLs and format them as hyperlinks, and handle list items
+  return responseText
+    .replace(/\*\*(.*?)\*\*/g, '<b>$1</b>') // Bold text
+    .replace(/- (.*?)(?= -|\n|$)/g, '<li>$1</li>') // List items
+    .replace(/\[([0-9]+)\]/g, '<sup>[$1]</sup>') // Superscript for references
+    .replace(/\((https?:\/\/[^\s]+)\)/g, '<a href="$1" target="_blank">$1</a>'); // Hyperlinks
+}
+
 async function sendQuery() {
   const query = document.getElementById("query").value;
   const messagesDiv = document.getElementById("messages");
@@ -137,10 +147,10 @@ async function sendQuery() {
 
     const result = await response.json();
 
-    // Display bot response
+    // Display bot response with formatted HTML content
     const botMessage = document.createElement("div");
     botMessage.classList.add("message", "bot");
-    botMessage.textContent = "Bot: " + result.answer;  // Customize based on API response
+    botMessage.innerHTML = `<p>Bot:</p><ul>${formatBotResponse(result.answer)}</ul>`;  // Format response content
     messagesDiv.appendChild(botMessage);
   } catch (error) {
     const errorMessage = document.createElement("div");
