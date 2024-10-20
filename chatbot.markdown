@@ -123,7 +123,7 @@ async function sendQuery() {
 
   try {
     // Fetch response from backend
-    const response = await fetch("http://34.237.75.38:5500/chat", {
+    const response = await fetch("https://aicoinanalysis/chat", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
