@@ -120,22 +120,33 @@ async function sendQuery() {
   messagesDiv.appendChild(userMessage);
   document.getElementById("query").value = ""; // Clear input
 
-  // Fetch response from backen
-  const response = await fetch("http://34.237.75.38:5500/chat", {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json"
-    },
-    body: JSON.stringify({ user_input: query })  // Use 'user_input' instead of 'query'
-  });
+  try {
+    // Fetch response from backend
+    const response = await fetch("http://34.237.75.38:5500/chat", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({ user_input: query })  // Use 'user_input' instead of 'query'
+    });
 
-  const result = await response.json();
+    if (!response.ok) {
+      throw new Error('Network response was not ok');
+    }
 
-  // Display bot response
-  const botMessage = document.createElement("div");
-  botMessage.classList.add("message", "bot");
-  botMessage.textContent = "Bot: " + result.answer;  // Customize based on API response
-  messagesDiv.appendChild(botMessage);
+    const result = await response.json();
+
+    // Display bot response
+    const botMessage = document.createElement("div");
+    botMessage.classList.add("message", "bot");
+    botMessage.textContent = "Bot: " + result.answer;  // Customize based on API response
+    messagesDiv.appendChild(botMessage);
+  } catch (error) {
+    const errorMessage = document.createElement("div");
+    errorMessage.classList.add("message", "bot");
+    errorMessage.textContent = "Bot: Error communicating with server.";
+    messagesDiv.appendChild(errorMessage);
+  }
 
   // Scroll to the bottom of the chat
   messagesDiv.scrollTop = messagesDiv.scrollHeight;
