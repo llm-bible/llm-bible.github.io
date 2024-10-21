@@ -162,8 +162,8 @@ async function sendQuery() {
 // Function to format bot response with hyperlinks, bold titles, and bullet points
 function formatBotResponse(responseText) {
   return responseText
-    .replace(/(.*?)\((https?:\/\/[^\s]+)\): (.*?)(?=\n|$)/g, '<li><a href="$2" target="_blank"><b>$1</b></a>: $3</li>') // Bullet point with paper title as hyperlink and summary
+    .replace(/\[([0-9]+)\]\s\*\*(.*?)\*\*\:\s(.*?)(?=\n|$)/g, '<li><b><a href="$3" target="_blank">$2</a></b>: $4</li>')
+    .replace(/Citations:\s?(.*)/, ''); // Removes the citation list at the end
 }
 </script>
 
-</script>
