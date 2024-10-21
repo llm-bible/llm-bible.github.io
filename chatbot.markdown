@@ -5,15 +5,15 @@ description: LLM-Bible Chatbot
 ---
 Hello! I am the LLM-Bible bot, your expert guide through the vast collection of over 10,000 papers on Large Language Models (LLMs). You can ask me anything about LLMs, research resources, or key trends in the field. Here are some examples of questions you could ask me:
 
-- "What are the latest advancements in transformer models?"
-- "Can you explain how fine-tuning works in LLMs?"
-- "Which papers explore LLMs for multimodal tasks?"
-- "What is retrieval-augmented generation (RAG), and which papers discuss it?"
-- "Tell me about papers focusing on reinforcement learning with LLMs."
-- "Can you recommend some papers on the use of LLMs in NLP tasks?"
-- "What are the key conferences for LLM research?"
-- "How can I use LLMs for code generation?"
-- "Can you suprise me with very unique LLM papers?"
+- *"What are the latest advancements in transformer models?"*
+- *"Can you explain how fine-tuning works in LLMs?"*
+- *"Which papers explore LLMs for multimodal tasks?"*
+- *"What is retrieval-augmented generation (RAG), and which papers discuss it?"*
+- *"Tell me about papers focusing on reinforcement learning with LLMs."*
+- *"Can you recommend some papers on the use of LLMs in NLP tasks?"*
+- *"What are the key conferences for LLM research?"*
+- *"How can I use LLMs for code generation?"*
+- *"Can you surprise me with very unique LLM papers?"*
 
 Feel free to ask any of your own questions!
 
@@ -134,8 +134,8 @@ async function sendQuery() {
     if (response.status === 429) {
       // Handle rate limit error
       const errorMessage = document.createElement("div");
-      errorMessage.classList.add("message", "bot");
-      errorMessage.textContent = "Bot: Rate limit reached, please try again tomorrow.";
+      errorMessage.classList.add("message", "LLM-Bible Bot");
+      errorMessage.textContent = "LLM-Bible Bot: Rate limit reached, please try again tomorrow.";
       messagesDiv.appendChild(errorMessage);
       return;
     }
@@ -151,14 +151,14 @@ async function sendQuery() {
 
     // Display bot response with formatted HTML content
     const botMessage = document.createElement("div");
-    botMessage.classList.add("message", "bot");
-    botMessage.innerHTML = `<p>Bot:</p><ul>${formatBotResponse(result.answer)}</ul>`;  // Format response content
+    botMessage.classList.add("message", "LLM-Bible Bot");
+    botMessage.innerHTML = `<p>LLM-Bible Bot:</p><ul>${formatBotResponse(result.answer)}</ul>`;  // Format response content
     messagesDiv.appendChild(botMessage);
   } catch (error) {
       const errorMessage = document.createElement("div");
-      errorMessage.classList.add("message", "bot");
+      errorMessage.classList.add("message", "LLM-Bible Bot");
       // Display the actual error message
-      errorMessage.textContent = `Bot: Error - ${error.message}`;
+      errorMessage.textContent = `LLM-Bible Bot: Error - ${error.message}`;
       messagesDiv.appendChild(errorMessage);
   }
 
