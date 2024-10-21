@@ -78,6 +78,7 @@ Feel free to ask any of your own questions!
   text-align: left;
 }
 
+/* Adjust the input area */
 .input-area {
   display: flex;
   padding: 10px;
@@ -87,16 +88,17 @@ Feel free to ask any of your own questions!
 
 .chat-input {
   flex-grow: 1;
-  padding: 10px;
+  padding: 15px;
   font-size: 16px;
   border: 1px solid #ccc;
   border-radius: 5px;
   outline: none;
+  width: 100%; /* Make the input box wider */
 }
 
 .send-button {
   margin-left: 10px;
-  padding: 10px 20px;
+  padding: 15px 25px;
   background-color: #2196f3;
   color: #fff;
   border: none;
