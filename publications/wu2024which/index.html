@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <!-- Begin Web-Stat code v 7.0 -->
+  <span id="wts2185292"></span>
+  <script>
+    var wts = document.createElement('script');
+    wts.async = true;
+    wts.src = 'https://app.ardalio.com/log7.js';
+    document.head.appendChild(wts);
+    wts.onload = function() {
+      wtslog7(2185292, 2);
+    };
+  </script>
+  <noscript>
+    <a href="https://www.web-stat.com">
+      <img src="https://app.ardalio.com/7/2/2185292.png" alt="Web-Stat analytics">
+    </a>
+  </noscript>
+  <!-- End Web-Stat code v 7.0 -->
+
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107339008-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-107339008-1');
+  </script>
+
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta
+    name="keywords"
+    content="large language models, GPT, transformers, BERT, natural language processing, NLP, deep learning, machine learning, source code, big code, naturalness, software engineering, programming languages, fine-tuning, pretraining, autoregressive models, attention mechanisms, multi-modal models, text generation, reinforcement learning with human feedback, RLHF, GPT-3, GPT-4, ChatGPT, OpenAI, model architectures, transfer learning, LLM applications, LLM benchmarks, LLM interpretability"
+  >
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [["\\(","\\)"]],
+        displayMath: [["\\[","\\]"]],
+      },
+      options: {
+        processHtmlClass: "mathjax-content",
+        processEscapes: true,
+      }
+    };
+  </script>
+  <script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <title>
+    
+      Which Questions Should I Answer? Salience Prediction Of Inquisitive Questions &middot; The Large Language Model Bible
+    
+  </title>
+
+  <!-- Enable responsiveness on mobile devices -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface"
+  >
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/public/favicon.svg">
+  <link
+    rel="search"
+    href="/public/opensearchdescription.xml"
+    type="application/opensearchdescription+xml"
+    title="LLM-Bible"
+  />
+
+  <!-- jQuery Library -->
+  <script
+    src="https://code.jquery.com/jquery-3.2.1.min.js"
+    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+    crossorigin="anonymous"
+  ></script>
+
+  <!-- DataTables CSS -->
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css"
+  >
+
+  <!-- DataTables JS -->
+  <script
+    type="text/javascript"
+    charset="utf8"
+    src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"
+  ></script>
+</head>
+
+
+  <body class="theme-base-0d layout-reverse">
+
+    <a href='/contributing.html' class='ribbon'>Contribute to LLM-Bible</a>
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          The Large Language Model Bible
+        </a>
+      </h1>
+      <p class="lead">Research on Large Language Models. Maintained by <a href="http://sjmoran.github.io/">Sean Moran</a>.</p>      
+    </div>
+
+  <nav class="sidebar-nav">
+   <div class="sidebar-item">
+     <p style="font-size: 12px">Search related work 
+     <input type='text' id='searchTarget' size="16"/> 
+     <button onClick="search();">Go</button></p>
+   </div>
+   <a class="sidebar-nav-item" href="/papers.html">List of Papers</a>
+   <a class="sidebar-nav-item" href="/tags.html">Papers by Tag</a>
+   <a class="sidebar-nav-item" href="/tsne-viz.html">2D Map of Papers</a>
+   <a class="sidebar-nav-item" href="/topic-viz.html">Topic-based Explorer</a>
+   <a class="sidebar-nav-item" href="/chatbot.html">LLM-Bible Chatbot</a>
+   <a class="sidebar-nav-item" href="/resources.html">Resources, Courses & Events</a>
+   <a class="sidebar-nav-item" href="/contributing.html">Contributing</a>
+   <a class="sidebar-nav-item" href="/digest.html">LLM Paper Digest</a>
+  </nav>
+
+  <div class="sidebar-item">
+    <p style="font-size: 12px">Contact <a href="https://sjmoran.github.io">Sean Moran</a> about this survey or website.
+    <span style="font-size: 9px">
+      Made with <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://github.com/poole/hyde">Hyde</a>.
+    </span></p>
+  </div>
+</div></div>
+
+<script>
+$("#searchTarget").keydown(function (e) {	
+  if (e.keyCode == 13) {
+    search();
+  }
+});
+
+function search() {
+  var query = $("#searchTarget").val();
+  try {
+    ga('send', 'event', 'search', 'search', query);
+  } finally {
+    // Update the hash and trigger a hashchange event
+    window.location.hash = encodeURIComponent(query);
+  }
+}
+</script>
+
+
+    <div class="content container">
+      <div class="page">
+  <h1 class="page-title">Which Questions Should I Answer? Salience Prediction Of Inquisitive Questions</h1>
+  <h5>Wu Yating, Mangla Ritika, Dimakis Alexandros G., Durrett Greg, Li Junyi Jessy. Arxiv 2024</h5>
+  <p>
+    
+      [<a href="https://arxiv.org/abs/2404.10917" target="_blank">Paper</a>]
+    
+    &nbsp;<a href='http://scholar.google.com/scholar?q=Which Questions Should I Answer? Salience Prediction Of Inquisitive Questions' target="_blank"><img  style="display: inline; margin: 0;" src="/public/media/google-scholar.png"/></a>
+    &nbsp;<a href='https://www.semanticscholar.org/search?q=Which Questions Should I Answer? Salience Prediction Of Inquisitive Questions' target="_blank"><img style="display: inline; margin: 0;" src="/public/media/semscholar.png"/></a>
+    <br/>
+    
+      <tag><a href="/tags.html#Applications">Applications</a></tag>
+    
+      <tag><a href="/tags.html#BERT">BERT</a></tag>
+    
+      <tag><a href="/tags.html#Model Architecture">Model Architecture</a></tag>
+    
+  </p>
+  <p><p>Inquisitive questions – open-ended, curiosity-driven questions people ask as
+they read – are an integral part of discourse processing (Kehler and Rohde,
+2017; Onea, 2016) and comprehension (Prince, 2004). Recent work in NLP has
+taken advantage of question generation capabilities of LLMs to enhance a wide
+range of applications. But the space of inquisitive questions is vast: many
+questions can be evoked from a given context. So which of those should be
+prioritized to find answers? Linguistic theories, unfortunately, have not yet
+provided an answer to this question. This paper presents QSALIENCE, a salience
+predictor of inquisitive questions. QSALIENCE is instruction-tuned over our
+dataset of linguist-annotated salience scores of 1,766 (context, question)
+pairs. A question scores high on salience if answering it would greatly enhance
+the understanding of the text (Van Rooy, 2003). We show that highly salient
+questions are empirically more likely to be answered in the same article,
+bridging potential questions (Onea, 2016) with Questions Under Discussion
+(Roberts, 2012). We further validate our findings by showing that answering
+salient questions is an indicator of summarization quality in news.</p>
+</p>
+
+  <h6>Similar Work</h6>
+  <p>
+    <ul id="relwork">
+
+    </ul>
+  </p>
+
+  <script>  
+    $(document).ready(
+      function() {
+          $.getJSON("https://raw.githubusercontent.com/llm-bible/llm-bible.github.io/master/publications-metadata/wu2024which.json", function(data) {
+          num_papers = data.length;
+          html = "";
+          for (let i=0; i < num_papers; i++) {
+              html += '<li><a href="/publications/' + data[i][0] + '">'+ data[i][1] +'</a></li>'
+          }
+          $("#relwork").append(html);
+        });
+      });
+  </script>
+
+</div>
+
+    </div>
+
+  </body>
+</html>

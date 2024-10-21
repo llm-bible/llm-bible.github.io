@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <!-- Begin Web-Stat code v 7.0 -->
+  <span id="wts2185292"></span>
+  <script>
+    var wts = document.createElement('script');
+    wts.async = true;
+    wts.src = 'https://app.ardalio.com/log7.js';
+    document.head.appendChild(wts);
+    wts.onload = function() {
+      wtslog7(2185292, 2);
+    };
+  </script>
+  <noscript>
+    <a href="https://www.web-stat.com">
+      <img src="https://app.ardalio.com/7/2/2185292.png" alt="Web-Stat analytics">
+    </a>
+  </noscript>
+  <!-- End Web-Stat code v 7.0 -->
+
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107339008-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-107339008-1');
+  </script>
+
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta
+    name="keywords"
+    content="large language models, GPT, transformers, BERT, natural language processing, NLP, deep learning, machine learning, source code, big code, naturalness, software engineering, programming languages, fine-tuning, pretraining, autoregressive models, attention mechanisms, multi-modal models, text generation, reinforcement learning with human feedback, RLHF, GPT-3, GPT-4, ChatGPT, OpenAI, model architectures, transfer learning, LLM applications, LLM benchmarks, LLM interpretability"
+  >
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [["\\(","\\)"]],
+        displayMath: [["\\[","\\]"]],
+      },
+      options: {
+        processHtmlClass: "mathjax-content",
+        processEscapes: true,
+      }
+    };
+  </script>
+  <script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <title>
+    
+      Parameter Efficient Tuning Allows Scalable Personalization Of Llms For Text Entry: A Case Study On Abbreviation Expansion &middot; The Large Language Model Bible
+    
+  </title>
+
+  <!-- Enable responsiveness on mobile devices -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface"
+  >
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/public/favicon.svg">
+  <link
+    rel="search"
+    href="/public/opensearchdescription.xml"
+    type="application/opensearchdescription+xml"
+    title="LLM-Bible"
+  />
+
+  <!-- jQuery Library -->
+  <script
+    src="https://code.jquery.com/jquery-3.2.1.min.js"
+    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+    crossorigin="anonymous"
+  ></script>
+
+  <!-- DataTables CSS -->
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css"
+  >
+
+  <!-- DataTables JS -->
+  <script
+    type="text/javascript"
+    charset="utf8"
+    src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"
+  ></script>
+</head>
+
+
+  <body class="theme-base-0d layout-reverse">
+
+    <a href='/contributing.html' class='ribbon'>Contribute to LLM-Bible</a>
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          The Large Language Model Bible
+        </a>
+      </h1>
+      <p class="lead">Research on Large Language Models. Maintained by <a href="http://sjmoran.github.io/">Sean Moran</a>.</p>      
+    </div>
+
+  <nav class="sidebar-nav">
+   <div class="sidebar-item">
+     <p style="font-size: 12px">Search related work 
+     <input type='text' id='searchTarget' size="16"/> 
+     <button onClick="search();">Go</button></p>
+   </div>
+   <a class="sidebar-nav-item" href="/papers.html">List of Papers</a>
+   <a class="sidebar-nav-item" href="/tags.html">Papers by Tag</a>
+   <a class="sidebar-nav-item" href="/tsne-viz.html">2D Map of Papers</a>
+   <a class="sidebar-nav-item" href="/topic-viz.html">Topic-based Explorer</a>
+   <a class="sidebar-nav-item" href="/chatbot.html">LLM-Bible Chatbot</a>
+   <a class="sidebar-nav-item" href="/resources.html">Resources, Courses & Events</a>
+   <a class="sidebar-nav-item" href="/contributing.html">Contributing</a>
+   <a class="sidebar-nav-item" href="/digest.html">LLM Paper Digest</a>
+  </nav>
+
+  <div class="sidebar-item">
+    <p style="font-size: 12px">Contact <a href="https://sjmoran.github.io">Sean Moran</a> about this survey or website.
+    <span style="font-size: 9px">
+      Made with <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://github.com/poole/hyde">Hyde</a>.
+    </span></p>
+  </div>
+</div></div>
+
+<script>
+$("#searchTarget").keydown(function (e) {	
+  if (e.keyCode == 13) {
+    search();
+  }
+});
+
+function search() {
+  var query = $("#searchTarget").val();
+  try {
+    ga('send', 'event', 'search', 'search', query);
+  } finally {
+    // Update the hash and trigger a hashchange event
+    window.location.hash = encodeURIComponent(query);
+  }
+}
+</script>
+
+
+    <div class="content container">
+      <div class="page">
+  <h1 class="page-title">Parameter Efficient Tuning Allows Scalable Personalization Of Llms For Text Entry: A Case Study On Abbreviation Expansion</h1>
+  <h5>Tomanek Katrin, Cai Shanqing, Venugopalan Subhashini. Arxiv 2023</h5>
+  <p>
+    
+      [<a href="https://arxiv.org/abs/2312.14327" target="_blank">Paper</a>]
+    
+    &nbsp;<a href='http://scholar.google.com/scholar?q=Parameter Efficient Tuning Allows Scalable Personalization Of Llms For Text Entry: A Case Study On Abbreviation Expansion' target="_blank"><img  style="display: inline; margin: 0;" src="/public/media/google-scholar.png"/></a>
+    &nbsp;<a href='https://www.semanticscholar.org/search?q=Parameter Efficient Tuning Allows Scalable Personalization Of Llms For Text Entry: A Case Study On Abbreviation Expansion' target="_blank"><img style="display: inline; margin: 0;" src="/public/media/semscholar.png"/></a>
+    <br/>
+    
+      <tag><a href="/tags.html#Few Shot">Few Shot</a></tag>
+    
+      <tag><a href="/tags.html#Fine Tuning">Fine Tuning</a></tag>
+    
+      <tag><a href="/tags.html#Pretraining Methods">Pretraining Methods</a></tag>
+    
+      <tag><a href="/tags.html#Prompting">Prompting</a></tag>
+    
+      <tag><a href="/tags.html#Reinforcement Learning">Reinforcement Learning</a></tag>
+    
+      <tag><a href="/tags.html#Training Techniques">Training Techniques</a></tag>
+    
+  </p>
+  <p><p>Abbreviation expansion is a strategy used to speed up communication by
+limiting the amount of typing and using a language model to suggest expansions.
+Here we look at personalizing a Large Language Model’s (LLM) suggestions based
+on prior conversations to enhance the relevance of predictions, particularly
+when the user data is small (~1000 samples). Specifically, we compare
+fine-tuning, prompt-tuning, and retrieval augmented generation of expanded text
+suggestions for abbreviated inputs. Our case study with a deployed 8B parameter
+LLM on a real user living with ALS, and experiments on movie character
+personalization indicates that (1) customization may be necessary in some
+scenarios and prompt-tuning generalizes well to those, (2) fine-tuning on
+in-domain data (with as few as 600 samples) still shows some gains, however (3)
+retrieval augmented few-shot selection also outperforms fine-tuning. (4)
+Parameter efficient tuning allows for efficient and scalable personalization.
+For prompt-tuning, we also find that initializing the learned “soft-prompts” to
+user relevant concept tokens leads to higher accuracy than random
+initialization.</p>
+</p>
+
+  <h6>Similar Work</h6>
+  <p>
+    <ul id="relwork">
+
+    </ul>
+  </p>
+
+  <script>  
+    $(document).ready(
+      function() {
+          $.getJSON("https://raw.githubusercontent.com/llm-bible/llm-bible.github.io/master/publications-metadata/tomanek2023parameter.json", function(data) {
+          num_papers = data.length;
+          html = "";
+          for (let i=0; i < num_papers; i++) {
+              html += '<li><a href="/publications/' + data[i][0] + '">'+ data[i][1] +'</a></li>'
+          }
+          $("#relwork").append(html);
+        });
+      });
+  </script>
+
+</div>
+
+    </div>
+
+  </body>
+</html>

@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <!-- Begin Web-Stat code v 7.0 -->
+  <span id="wts2185292"></span>
+  <script>
+    var wts = document.createElement('script');
+    wts.async = true;
+    wts.src = 'https://app.ardalio.com/log7.js';
+    document.head.appendChild(wts);
+    wts.onload = function() {
+      wtslog7(2185292, 2);
+    };
+  </script>
+  <noscript>
+    <a href="https://www.web-stat.com">
+      <img src="https://app.ardalio.com/7/2/2185292.png" alt="Web-Stat analytics">
+    </a>
+  </noscript>
+  <!-- End Web-Stat code v 7.0 -->
+
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107339008-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-107339008-1');
+  </script>
+
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta
+    name="keywords"
+    content="large language models, GPT, transformers, BERT, natural language processing, NLP, deep learning, machine learning, source code, big code, naturalness, software engineering, programming languages, fine-tuning, pretraining, autoregressive models, attention mechanisms, multi-modal models, text generation, reinforcement learning with human feedback, RLHF, GPT-3, GPT-4, ChatGPT, OpenAI, model architectures, transfer learning, LLM applications, LLM benchmarks, LLM interpretability"
+  >
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [["\\(","\\)"]],
+        displayMath: [["\\[","\\]"]],
+      },
+      options: {
+        processHtmlClass: "mathjax-content",
+        processEscapes: true,
+      }
+    };
+  </script>
+  <script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <title>
+    
+      Beyond The Imitation Game: Quantifying And Extrapolating The Capabilities Of Language Models &middot; The Large Language Model Bible
+    
+  </title>
+
+  <!-- Enable responsiveness on mobile devices -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface"
+  >
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/public/favicon.svg">
+  <link
+    rel="search"
+    href="/public/opensearchdescription.xml"
+    type="application/opensearchdescription+xml"
+    title="LLM-Bible"
+  />
+
+  <!-- jQuery Library -->
+  <script
+    src="https://code.jquery.com/jquery-3.2.1.min.js"
+    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+    crossorigin="anonymous"
+  ></script>
+
+  <!-- DataTables CSS -->
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css"
+  >
+
+  <!-- DataTables JS -->
+  <script
+    type="text/javascript"
+    charset="utf8"
+    src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"
+  ></script>
+</head>
+
+
+  <body class="theme-base-0d layout-reverse">
+
+    <a href='/contributing.html' class='ribbon'>Contribute to LLM-Bible</a>
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          The Large Language Model Bible
+        </a>
+      </h1>
+      <p class="lead">Research on Large Language Models. Maintained by <a href="http://sjmoran.github.io/">Sean Moran</a>.</p>      
+    </div>
+
+  <nav class="sidebar-nav">
+   <div class="sidebar-item">
+     <p style="font-size: 12px">Search related work 
+     <input type='text' id='searchTarget' size="16"/> 
+     <button onClick="search();">Go</button></p>
+   </div>
+   <a class="sidebar-nav-item" href="/papers.html">List of Papers</a>
+   <a class="sidebar-nav-item" href="/tags.html">Papers by Tag</a>
+   <a class="sidebar-nav-item" href="/tsne-viz.html">2D Map of Papers</a>
+   <a class="sidebar-nav-item" href="/topic-viz.html">Topic-based Explorer</a>
+   <a class="sidebar-nav-item" href="/chatbot.html">LLM-Bible Chatbot</a>
+   <a class="sidebar-nav-item" href="/resources.html">Resources, Courses & Events</a>
+   <a class="sidebar-nav-item" href="/contributing.html">Contributing</a>
+   <a class="sidebar-nav-item" href="/digest.html">LLM Paper Digest</a>
+  </nav>
+
+  <div class="sidebar-item">
+    <p style="font-size: 12px">Contact <a href="https://sjmoran.github.io">Sean Moran</a> about this survey or website.
+    <span style="font-size: 9px">
+      Made with <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://github.com/poole/hyde">Hyde</a>.
+    </span></p>
+  </div>
+</div></div>
+
+<script>
+$("#searchTarget").keydown(function (e) {	
+  if (e.keyCode == 13) {
+    search();
+  }
+});
+
+function search() {
+  var query = $("#searchTarget").val();
+  try {
+    ga('send', 'event', 'search', 'search', query);
+  } finally {
+    // Update the hash and trigger a hashchange event
+    window.location.hash = encodeURIComponent(query);
+  }
+}
+</script>
+
+
+    <div class="content container">
+      <div class="page">
+  <h1 class="page-title">Beyond The Imitation Game: Quantifying And Extrapolating The Capabilities Of Language Models</h1>
+  <h5>Srivastava Aarohi Shammie, Rastogi Abhinav Shammie, Rao Abhishek Shammie, Shoeb Abu Awal Md Shammie, Abid Abubakar Shammie, Fisch Adam Shammie, Brown Adam R. Shammie, Santoro Adam Shammie, Gupta Aditya Shammie, Garriga-alonso Adrià Shammie, Kluska Agnieszka Shammie, Lewkowycz Aitor Shammie, Agarwal Akshat Shammie, Power Alethea Shammie, Ray Alex Shammie, Warstadt Alex Shammie, Kocurek Alexander W. Shammie, Safaya Ali Shammie, Tazarv Ali Shammie, Xiang Alice Shammie, Parrish Alicia Shammie, Nie Allen Shammie, Hussain Aman Shammie, Askell Amanda Shammie, Dsouza Amanda Shammie, Slone Ambrose Shammie, Rahane Ameet Shammie, Iyer Anantharaman S. Shammie, Andreassen Anders Shammie, Madotto Andrea Shammie, Santilli Andrea Shammie, Stuhlmüller Andreas Shammie, Dai Andrew Shammie, La Andrew Shammie, Lampinen Andrew Shammie, Zou Andy Shammie, Jiang Angela Shammie, Chen Angelica Shammie, Vuong Anh Shammie, Gupta Animesh Shammie, Gottardi Anna Shammie, Norelli Antonio Shammie, Venkatesh Anu Shammie, Gholamidavoodi Arash Shammie, Tabassum Arfa Shammie, Menezes Arul Shammie, Kirubarajan Arun Shammie, Mullokandov Asher Shammie, Sabharwal Ashish Shammie, Herrick Austin Shammie, Efrat Avia Shammie, Erdem Aykut Shammie, Karakaş Ayla Shammie, Roberts B. Ryan Shammie, Loe Bao Sheng Shammie, Zoph Barret Shammie, Bojanowski Bartłomiej Shammie, Özyurt Batuhan Shammie, Hedayatnia Behnam Shammie, Neyshabur Behnam Shammie, Inden Benjamin Shammie, Stein Benno Shammie, Ekmekci Berk Shammie, Lin Bill Yuchen Shammie, Howald Blake Shammie, Orinion Bryan Shammie, Diao Cameron Shammie, Dour Cameron Shammie, Stinson Catherine Shammie, Argueta Cedrick Shammie, Ramírez César Ferri Shammie, Singh Chandan Shammie, Rathkopf Charles Shammie, Meng Chenlin Shammie, Baral Chitta Shammie, Wu Chiyu Shammie, Callison-burch Chris Shammie, Waites Chris Shammie, Voigt Christian Shammie, Manning Christopher D. Shammie, Potts Christopher Shammie, Ramirez Cindy Shammie, Rivera Clara E. Shammie, Siro Clemencia Shammie, Raffel Colin Shammie, Ashcraft Courtney Shammie, Garbacea Cristina Shammie, Sileo Damien Shammie, Garrette Dan Shammie, Hendrycks Dan Shammie, Kilman Dan Shammie, Roth Dan Shammie, Freeman Daniel Shammie, Khashabi Daniel Shammie, Levy Daniel Shammie, González Daniel Moseguí Shammie, Perszyk Danielle Shammie, Hernandez Danny Shammie, Chen Danqi Shammie, Ippolito Daphne Shammie, Gilboa Dar Shammie, Dohan David Shammie, Drakard David Shammie, Jurgens David Shammie, Datta Debajyoti Shammie, Ganguli Deep Shammie, Emelin Denis Shammie, Kleyko Denis Shammie, Yuret Deniz Shammie, Chen Derek Shammie, Tam Derek Shammie, Hupkes Dieuwke Shammie, Misra Diganta Shammie, Buzan Dilyar Shammie, Mollo Dimitri Coelho Shammie, Yang Diyi Shammie, Lee Dong-ho Shammie, Schrader Dylan Shammie, Shutova Ekaterina Shammie, Cubuk Ekin Dogus Shammie, Segal Elad Shammie, Hagerman Eleanor Shammie, Barnes Elizabeth Shammie, Donoway Elizabeth Shammie, Pavlick Ellie Shammie, Rodola Emanuele Shammie, Lam Emma Shammie, Chu Eric Shammie, Tang Eric Shammie, Erdem Erkut Shammie, Chang Ernie Shammie, Chi Ethan A. Shammie, Dyer Ethan Shammie, Jerzak Ethan Shammie, Kim Ethan Shammie, Manyasi Eunice Engefu Shammie, Zheltonozhskii Evgenii Shammie, Xia Fanyue Shammie, Siar Fatemeh Shammie, Martínez-plumed Fernando Shammie, Happé Francesca Shammie, Chollet Francois Shammie, Rong Frieda Shammie, Mishra Gaurav Shammie, Winata Genta Indra Shammie, De Melo Gerard Shammie, Kruszewski Germán Shammie, Parascandolo Giambattista Shammie, Mariani Giorgio Shammie, Wang Gloria Shammie, Jaimovitch-lópez Gonzalo Shammie, Betz Gregor Shammie, Gur-ari Guy Shammie, Galijasevic Hana Shammie, Kim Hannah Shammie, Rashkin Hannah Shammie, Hajishirzi Hannaneh Shammie, Mehta Harsh Shammie, Bogar Hayden Shammie, Shevlin Henry Shammie, Schütze Hinrich Shammie, Yakura Hiromu Shammie, Zhang Hongming Shammie, Wong Hugh Mee Shammie, Ng Ian Shammie, Noble Isaac Shammie, Jumelet Jaap Shammie, Geissinger Jack Shammie, Kernion Jackson Shammie, Hilton Jacob Shammie, Lee Jaehoon Shammie, Fisac Jaime Fernández Shammie, Simon James B. Shammie, Koppel James Shammie, Zheng James Shammie, Zou James Shammie, Kocoń Jan Shammie, Thompson Jana Shammie, Wingfield Janelle Shammie, Kaplan Jared Shammie, Radom Jarema Shammie, Sohl-dickstein Jascha Shammie, Phang Jason Shammie, Wei Jason Shammie, Yosinski Jason Shammie, Novikova Jekaterina Shammie, Bosscher Jelle Shammie, Marsh Jennifer Shammie, Kim Jeremy Shammie, Taal Jeroen Shammie, Engel Jesse Shammie, Alabi Jesujoba Shammie, Xu Jiacheng Shammie, Song Jiaming Shammie, Tang Jillian Shammie, Waweru Joan Shammie, Burden John Shammie, Miller John Shammie, Balis John U. Shammie, Batchelder Jonathan Shammie, Berant Jonathan Shammie, Frohberg Jörg Shammie, Rozen Jos Shammie, Hernandez-orallo Jose Shammie, Boudeman Joseph Shammie, Guerr Joseph Shammie, Jones Joseph Shammie, Tenenbaum Joshua B. Shammie, Rule Joshua S. Shammie, Chua Joyce Shammie, Kanclerz Kamil Shammie, Livescu Karen Shammie, Krauth Karl Shammie, Gopalakrishnan Karthik Shammie, Ignatyeva Katerina Shammie, Markert Katja Shammie, Dhole Kaustubh D. Shammie, Gimpel Kevin Shammie, Omondi Kevin Shammie, Mathewson Kory Shammie, Chiafullo Kristen Shammie, Shkaruta Ksenia Shammie, Shridhar Kumar Shammie, Mcdonell Kyle Shammie, Richardson Kyle Shammie, Reynolds Laria Shammie, Gao Leo Shammie, Zhang Li Shammie, Dugan Liam Shammie, Qin Lianhui Shammie, Contreras-ochando Lidia Shammie, Morency Louis-philippe Shammie, Moschella Luca Shammie, Lam Lucas Shammie, Noble Lucy Shammie, Schmidt Ludwig Shammie, He Luheng Shammie, Colón Luis Oliveros Shammie, Metz Luke Shammie, Şenel Lütfi Kerem Shammie, Bosma Maarten Shammie, Sap Maarten Shammie, Ter Hoeve Maartje Shammie, Farooqi Maheen Shammie, Faruqui Manaal Shammie, Mazeika Mantas Shammie, Baturan Marco Shammie, Marelli Marco Shammie, Maru Marco Shammie, Quintana Maria Jose Ramírez Shammie, Tolkiehn Marie Shammie, Giulianelli Mario Shammie, Lewis Martha Shammie, Potthast Martin Shammie, Leavitt Matthew L. Shammie, Hagen Matthias Shammie, Schubert Mátyás Shammie, Baitemirova Medina Orduna Shammie, Arnaud Melody Shammie, Mcelrath Melvin Shammie, Yee Michael A. Shammie, Cohen Michael Shammie, Gu Michael Shammie, Ivanitskiy Michael Shammie, Starritt Michael Shammie, Strube Michael Shammie, Swędrowski Michał Shammie, Bevilacqua Michele Shammie, Yasunaga Michihiro Shammie, Kale Mihir Shammie, Cain Mike Shammie, Xu Mimee Shammie, Suzgun Mirac Shammie, Walker Mitch Shammie, Tiwari Mo Shammie, Bansal Mohit Shammie, Aminnaseri Moin Shammie, Geva Mor Shammie, Gheini Mozhdeh Shammie, T Mukund Varma Shammie, Peng Nanyun Shammie, Chi Nathan A. Shammie, Lee Nayeon Shammie, Krakover Neta Gur-ari Shammie, Cameron Nicholas Shammie, Roberts Nicholas Shammie, Doiron Nick Shammie, Martinez Nicole Shammie, Nangia Nikita Shammie, Deckers Niklas Shammie, Muennighoff Niklas Shammie, Keskar Nitish Shirish Shammie, Iyer Niveditha S. Shammie, Constant Noah Shammie, Fiedel Noah Shammie, Wen Nuan Shammie, Zhang Oliver Shammie, Agha Omar Shammie, Elbaghdadi Omar Shammie, Levy Omer Shammie, Evans Owain Shammie, Casares Pablo Antonio Moreno Shammie, Doshi Parth Shammie, Fung Pascale Shammie, Liang Paul Pu Shammie, Vicol Paul Shammie, Alipoormolabashi Pegah Shammie, Liao Peiyuan Shammie, Liang Percy Shammie, Chang Peter Shammie, Eckersley Peter Shammie, Htut Phu Mon Shammie, Hwang Pinyu Shammie, Miłkowski Piotr Shammie, Patil Piyush Shammie, Pezeshkpour Pouya Shammie, Oli Priti Shammie, Mei Qiaozhu Shammie, Lyu Qing Shammie, Chen Qinlang Shammie, Banjade Rabin Shammie, Rudolph Rachel Etta Shammie, Gabriel Raefer Shammie, Habacker Rahel Shammie, Risco Ramon Shammie, Millière Raphaël Shammie, Garg Rhythm Shammie, Barnes Richard Shammie, Saurous Rif A. Shammie, Arakawa Riku Shammie, Raymaekers Robbe Shammie, Frank Robert Shammie, Sikand Rohan Shammie, Novak Roman Shammie, Sitelew Roman Shammie, Lebras Ronan Shammie, Liu Rosanne Shammie, Jacobs Rowan Shammie, Zhang Rui Shammie, Salakhutdinov Ruslan Shammie, Chi Ryan Shammie, Lee Ryan Shammie, Stovall Ryan Shammie, Teehan Ryan Shammie, Yang Rylan Shammie, Singh Sahib Shammie, Mohammad Saif M. Shammie, Anand Sajant Shammie, Dillavou Sam Shammie, Shleifer Sam Shammie, Wiseman Sam Shammie, Gruetter Samuel Shammie, Bowman Samuel R. Shammie, Schoenholz Samuel S. Shammie, Han Sanghyun Shammie, Kwatra Sanjeev Shammie, Rous Sarah A. Shammie, Ghazarian Sarik Shammie, Ghosh Sayan Shammie, Casey Sean Shammie, Bischoff Sebastian Shammie, Gehrmann Sebastian Shammie, Schuster Sebastian Shammie, Sadeghi Sepideh Shammie, Hamdan Shadi Shammie, Zhou Sharon Shammie, Srivastava Shashank Shammie, Shi Sherry Shammie, Singh Shikhar Shammie, Asaadi Shima Shammie, Gu Shixiang Shane Shammie, Pachchigar Shubh Shammie, Toshniwal Shubham Shammie, Upadhyay Shyam Shammie, Shyamolima Shammie, Debnath, Shakeri Siamak, Thormeyer Simon, Melzi Simone, Reddy Siva, Makini Sneha Priscilla, Lee Soo-hwan, Torene Spencer, Hatwar Sriharsha, Dehaene Stanislas, Divic Stefan, Ermon Stefano, Biderman Stella, Lin Stephanie, Prasad Stephen, Piantadosi Steven T., Shieber Stuart M., Misherghi Summer, Kiritchenko Svetlana, Mishra Swaroop, Linzen Tal, Schuster Tal, Li Tao, Yu Tao, Ali Tariq, Hashimoto Tatsu, Wu Te-lin, Desbordes Théo, Rothschild Theodore, Phan Thomas, Wang Tianle, Nkinyili Tiberius, Schick Timo, Kornev Timofei, Tunduny Titus, Gerstenberg Tobias, Chang Trenton, Neeraj Trishala, Khot Tushar, Shultz Tyler, Shaham Uri, Misra Vedant, Demberg Vera, Nyamai Victoria, Raunak Vikas, Ramasesh Vinay, Prabhu Vinay Uday, Padmakumar Vishakh, Srikumar Vivek, Fedus William, Saunders William, Zhang William, Vossen Wout, Ren Xiang, Tong Xiaoyu, Zhao Xinran, Wu Xinyi, Shen Xudong, Yaghoobzadeh Yadollah, Lakretz Yair, Song Yangqiu, Bahri Yasaman, Choi Yejin, Yang Yichi, Hao Yiding, Chen Yifu, Belinkov Yonatan, Hou Yu, Hou Yufang, Bai Yuntao, Seid Zachary, Zhao Zhuoye, Wang Zijian, Wang Zijie J., Wang Zirui, Wu Ziyi. Transactions on Machine Learning Research May/ 2022</h5>
+  <p>
+    
+      [<a href="https://arxiv.org/abs/2206.04615" target="_blank">Paper</a>]
+    
+    &nbsp;<a href='http://scholar.google.com/scholar?q=Beyond The Imitation Game: Quantifying And Extrapolating The Capabilities Of Language Models' target="_blank"><img  style="display: inline; margin: 0;" src="/public/media/google-scholar.png"/></a>
+    &nbsp;<a href='https://www.semanticscholar.org/search?q=Beyond The Imitation Game: Quantifying And Extrapolating The Capabilities Of Language Models' target="_blank"><img style="display: inline; margin: 0;" src="/public/media/semscholar.png"/></a>
+    <br/>
+    
+      <tag><a href="/tags.html#Ethics And Bias">Ethics And Bias</a></tag>
+    
+      <tag><a href="/tags.html#GPT">GPT</a></tag>
+    
+      <tag><a href="/tags.html#Model Architecture">Model Architecture</a></tag>
+    
+      <tag><a href="/tags.html#Pretraining Methods">Pretraining Methods</a></tag>
+    
+      <tag><a href="/tags.html#Prompting">Prompting</a></tag>
+    
+      <tag><a href="/tags.html#Reinforcement Learning">Reinforcement Learning</a></tag>
+    
+      <tag><a href="/tags.html#Transformer">Transformer</a></tag>
+    
+  </p>
+  <p><p>Language models demonstrate both quantitative improvement and new qualitative
+capabilities with increasing scale. Despite their potentially transformative
+impact, these new capabilities are as yet poorly characterized. In order to
+inform future research, prepare for disruptive new model capabilities, and
+ameliorate socially harmful effects, it is vital that we understand the present
+and near-future capabilities and limitations of language models. To address
+this challenge, we introduce the Beyond the Imitation Game benchmark
+(BIG-bench). BIG-bench currently consists of 204 tasks, contributed by 450
+authors across 132 institutions. Task topics are diverse, drawing problems from
+linguistics, childhood development, math, common-sense reasoning, biology,
+physics, social bias, software development, and beyond. BIG-bench focuses on
+tasks that are believed to be beyond the capabilities of current language
+models. We evaluate the behavior of OpenAI’s GPT models, Google-internal dense
+transformer architectures, and Switch-style sparse transformers on BIG-bench,
+across model sizes spanning millions to hundreds of billions of parameters. In
+addition, a team of human expert raters performed all tasks in order to provide
+a strong baseline. Findings include: model performance and calibration both
+improve with scale, but are poor in absolute terms (and when compared with
+rater performance); performance is remarkably similar across model classes,
+though with benefits from sparsity; tasks that improve gradually and
+predictably commonly involve a large knowledge or memorization component,
+whereas tasks that exhibit “breakthrough” behavior at a critical scale often
+involve multiple steps or components, or brittle metrics; social bias typically
+increases with scale in settings with ambiguous context, but this can be
+improved with prompting.</p>
+</p>
+
+  <h6>Similar Work</h6>
+  <p>
+    <ul id="relwork">
+
+    </ul>
+  </p>
+
+  <script>  
+    $(document).ready(
+      function() {
+          $.getJSON("https://raw.githubusercontent.com/llm-bible/llm-bible.github.io/master/publications-metadata/srivastava2022beyond.json", function(data) {
+          num_papers = data.length;
+          html = "";
+          for (let i=0; i < num_papers; i++) {
+              html += '<li><a href="/publications/' + data[i][0] + '">'+ data[i][1] +'</a></li>'
+          }
+          $("#relwork").append(html);
+        });
+      });
+  </script>
+
+</div>
+
+    </div>
+
+  </body>
+</html>

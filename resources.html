@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <!-- Begin Web-Stat code v 7.0 -->
+  <span id="wts2185292"></span>
+  <script>
+    var wts = document.createElement('script');
+    wts.async = true;
+    wts.src = 'https://app.ardalio.com/log7.js';
+    document.head.appendChild(wts);
+    wts.onload = function() {
+      wtslog7(2185292, 2);
+    };
+  </script>
+  <noscript>
+    <a href="https://www.web-stat.com">
+      <img src="https://app.ardalio.com/7/2/2185292.png" alt="Web-Stat analytics">
+    </a>
+  </noscript>
+  <!-- End Web-Stat code v 7.0 -->
+
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107339008-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-107339008-1');
+  </script>
+
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta
+    name="keywords"
+    content="large language models, GPT, transformers, BERT, natural language processing, NLP, deep learning, machine learning, source code, big code, naturalness, software engineering, programming languages, fine-tuning, pretraining, autoregressive models, attention mechanisms, multi-modal models, text generation, reinforcement learning with human feedback, RLHF, GPT-3, GPT-4, ChatGPT, OpenAI, model architectures, transfer learning, LLM applications, LLM benchmarks, LLM interpretability"
+  >
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [["\\(","\\)"]],
+        displayMath: [["\\[","\\]"]],
+      },
+      options: {
+        processHtmlClass: "mathjax-content",
+        processEscapes: true,
+      }
+    };
+  </script>
+  <script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <title>
+    
+      Resources on Large Language Models &middot; The Large Language Model Bible
+    
+  </title>
+
+  <!-- Enable responsiveness on mobile devices -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface"
+  >
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/public/favicon.svg">
+  <link
+    rel="search"
+    href="/public/opensearchdescription.xml"
+    type="application/opensearchdescription+xml"
+    title="LLM-Bible"
+  />
+
+  <!-- jQuery Library -->
+  <script
+    src="https://code.jquery.com/jquery-3.2.1.min.js"
+    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+    crossorigin="anonymous"
+  ></script>
+
+  <!-- DataTables CSS -->
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css"
+  >
+
+  <!-- DataTables JS -->
+  <script
+    type="text/javascript"
+    charset="utf8"
+    src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"
+  ></script>
+</head>
+
+
+  <body class="theme-base-0d layout-reverse">
+
+    <a href='/contributing.html' class='ribbon'>Contribute to LLM-Bible</a>
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          The Large Language Model Bible
+        </a>
+      </h1>
+      <p class="lead">Research on Large Language Models. Maintained by <a href="http://sjmoran.github.io/">Sean Moran</a>.</p>      
+    </div>
+
+  <nav class="sidebar-nav">
+   <div class="sidebar-item">
+     <p style="font-size: 12px">Search related work 
+     <input type='text' id='searchTarget' size="16"/> 
+     <button onClick="search();">Go</button></p>
+   </div>
+   <a class="sidebar-nav-item" href="/papers.html">List of Papers</a>
+   <a class="sidebar-nav-item" href="/tags.html">Papers by Tag</a>
+   <a class="sidebar-nav-item" href="/tsne-viz.html">2D Map of Papers</a>
+   <a class="sidebar-nav-item" href="/topic-viz.html">Topic-based Explorer</a>
+   <a class="sidebar-nav-item" href="/chatbot.html">LLM-Bible Chatbot</a>
+   <a class="sidebar-nav-item active" href="/resources.html">Resources, Courses & Events</a>
+   <a class="sidebar-nav-item" href="/contributing.html">Contributing</a>
+   <a class="sidebar-nav-item" href="/digest.html">LLM Paper Digest</a>
+  </nav>
+
+  <div class="sidebar-item">
+    <p style="font-size: 12px">Contact <a href="https://sjmoran.github.io">Sean Moran</a> about this survey or website.
+    <span style="font-size: 9px">
+      Made with <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://github.com/poole/hyde">Hyde</a>.
+    </span></p>
+  </div>
+</div></div>
+
+<script>
+$("#searchTarget").keydown(function (e) {	
+  if (e.keyCode == 13) {
+    search();
+  }
+});
+
+function search() {
+  var query = $("#searchTarget").val();
+  try {
+    ga('send', 'event', 'search', 'search', query);
+  } finally {
+    // Update the hash and trigger a hashchange event
+    window.location.hash = encodeURIComponent(query);
+  }
+}
+</script>
+
+
+    <div class="content container">
+      <h2 id="blog-posts--useful-links">Blog Posts &amp; Useful Links</h2>
+
+<ul>
+  <li>
+    <p><a href="https://lilianweng.github.io/posts/2023-06-23-agent/">LLM Powered Autonomous Agents</a>: A deep dive into how large language models are powering the next generation of autonomous agents, enabling systems to perform complex tasks with minimal human input.</p>
+  </li>
+  <li>
+    <p><a href="https://www.semianalysis.com/p/google-we-have-no-moat-and-neither">Google “We Have No Moat, And Neither Does OpenAI”</a>: Leaked internal Google document discussing the competitive landscape of AI and arguing that neither Google nor OpenAI have sustainable competitive advantages in the long term.</p>
+  </li>
+  <li>
+    <p><a href="https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/">Prompt Engineering</a>: An introduction to prompt engineering techniques, providing guidelines on how to effectively interact with large language models to obtain the best results.</p>
+  </li>
+  <li>
+    <p><a href="https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1">How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources</a>: This article investigates how GPT models acquire their emergent abilities, tracing them back to the training data and architectures used.</p>
+  </li>
+  <li>
+    <p><a href="https://jingfengyang.github.io/gpt">Why did all of the public reproduction of GPT-3 fail?</a>: This post explores the difficulties and challenges researchers faced when attempting to reproduce the capabilities of GPT-3, offering insights into why these efforts largely fell short.</p>
+  </li>
+  <li>
+    <p><a href="https://crfm.stanford.edu/2023/03/13/alpaca.html">Alpaca: Synthetic Data for LLMs</a>: Stanford’s approach to generating synthetic data for fine-tuning large language models using OpenAI’s API.</p>
+  </li>
+  <li>
+    <p><a href="https://arxiv.org/abs/2304.12244">Evol-Instruct: Improving Dataset Quality</a>: Techniques for enhancing instruction datasets with evolved synthetic data.</p>
+  </li>
+  <li>
+    <p><a href="https://arxiv.org/abs/2306.02707">Orca: High-Quality Data Generation</a>: Orca paper explaining how to generate better synthetic data through instruction following and feedback models.</p>
+  </li>
+  <li>
+    <p><a href="https://arxiv.org/pdf/2001.08361.pdf">Scaling Laws for LLMs</a>: A study on scaling laws, which predict LLM performance based on model and dataset size.</p>
+  </li>
+  <li>
+    <p><a href="https://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications">Chinchilla’s Wild Implications</a>: Insights into how the scaling laws affect LLMs’ computational efficiency.</p>
+  </li>
+  <li>
+    <p><a href="https://github.com/jzhang38/TinyLlama">TinyLlama</a>: A project focused on training a Llama model from scratch, providing insights into pre-training LLMs.</p>
+  </li>
+  <li>
+    <p><a href="https://github.com/google/BIG-bench">BigBench: LLM Benchmarking</a>: A large-scale benchmark for evaluating LLM capabilities across various tasks.</p>
+  </li>
+  <li>
+    <p><a href="https://huggingface.co/learn/nlp-course/chapter7/6?fw=pt">Training a Causal Language Model from Scratch</a>: Hugging Face tutorial on pre-training GPT-2 from scratch using the transformers library.</p>
+  </li>
+  <li>
+    <p><a href="https://github.com/Zjh-819/LLMDataHub">LLMDataHub: Curated Datasets for LLMs</a>: Collection of datasets for pre-training, fine-tuning, and RLHF of large language models.</p>
+  </li>
+  <li>
+    <p><a href="https://huggingface.co/docs/transformers/perplexity">Perplexity in LLMs</a>: Hugging Face guide on measuring model perplexity for text generation tasks.</p>
+  </li>
+  <li>
+    <p><a href="https://www.youtube.com/watch?v=kCc8FmEb1nY">Karpathy’s Zero to Hero: GPT</a>: A 2-hour course by Andrej Karpathy on building a GPT model from scratch, focusing on tokenization and transformer fundamentals.</p>
+  </li>
+  <li>
+    <p><a href="https://www.youtube.com/watch?v=jV0GMp8mb5g">Karpathy’s Intro to Tokenization</a>: A detailed introduction to tokenization for LLMs, explaining how text is processed into tokens for transformer models.</p>
+  </li>
+</ul>
+
+<h2 id="podcasts-with-deep-learning-superstars">Podcasts with Deep Learning Superstars</h2>
+
+<ul>
+  <li>
+    <p><a href="https://futureoflife.org/ai-alignment-podcast/"><strong>The AI Alignment Podcast</strong></a>: Conversations with leading AI researchers and thinkers like Stuart Russell, Yoshua Bengio, and more, covering cutting-edge research in AI alignment and deep learning.</p>
+  </li>
+  <li>
+    <p><a href="https://lexfridman.com/podcast/"><strong>Lex Fridman Podcast</strong></a>: Features interviews with AI pioneers like Yann LeCun, Geoffrey Hinton, Demis Hassabis, and Andrej Karpathy, discussing AI, deep learning, and the future of technology.</p>
+  </li>
+  <li>
+    <p><a href="https://www.youtube.com/c/MachineLearningStreetTalk"><strong>Machine Learning Street Talk</strong></a>: In-depth discussions with AI researchers such as Yannic Kilcher and Connor Leahy, tackling topics in AI ethics, deep learning, and more.</p>
+  </li>
+  <li>
+    <p><a href="https://thegradient.pub/category/podcast/"><strong>The Gradient Podcast</strong></a>: Interviews with researchers and practitioners in AI, deep learning, and NLP, including guests like Fei-Fei Li and Sebastian Ruder.</p>
+  </li>
+  <li>
+    <p><a href="https://twimlai.com/tag/podcast/"><strong>TWIML AI Podcast</strong></a>: Host Sam Charrington interviews top minds in AI and machine learning, such as Andrew Ng and Ian Goodfellow, diving deep into industry trends and research breakthroughs.</p>
+  </li>
+  <li>
+    <p><a href="https://dataskeptic.com/podcast"><strong>Data Skeptic</strong></a>: A podcast covering data science, machine learning, and AI, featuring leading experts from academia and industry, like Charles Isbell and Dario Amodei.</p>
+  </li>
+</ul>
+
+<h2 id="courses-on-large-language-models-llms">Courses on Large Language Models (LLMs)</h2>
+
+<p>Below is a collection of university and online courses that offer a deep dive into the concepts, tools, and applications of Large Language Models (LLMs). These courses range from theoretical foundations to practical applications in business and data science.</p>
+
+<h3 id="university-courses">University Courses</h3>
+
+<ol>
+  <li>
+    <p><a href="https://continuingstudies.stanford.edu/courses/professional-and-personal-development/large-language-models-for-business-with-python/20232_TECH-16">Stanford University - TECH 16: Large Language Models for Business with Python</a>: This course covers the use of LLMs in business applications, with a focus on practical programming with Python. Students learn how to integrate LLMs into business processes to drive innovation and efficiency.</p>
+  </li>
+  <li>
+    <p><a href="https://rycolab.io/classes/llm-s23/">ETH Zürich - 263-5354-00L: Large Language Models</a>: Focused on the theoretical underpinnings and current developments of LLMs, this course covers a broad range of topics from model training to application.</p>
+  </li>
+  <li>
+    <p><a href="https://github.com/craffel/llm-seminar">University of Toronto - COMP790-101: Large Language Models</a>: This seminar-style course reviews the latest research on LLMs, covering both foundational knowledge and emerging trends in their development.</p>
+  </li>
+</ol>
+
+<h3 id="online-courses">Online Courses</h3>
+
+<ol>
+  <li>
+    <p><a href="https://www.coursera.org/learn/transformers">Coursera - Natural Language Processing with Transformers</a>: This course introduces transformers, which are the foundation of modern LLMs. It focuses on using transformers for various NLP tasks such as text classification, summarization, and translation.</p>
+  </li>
+  <li>
+    <p><a href="https://www.datacamp.com/courses/transformer-models-for-nlp">DataCamp - Transformer Models for NLP</a>: Learn how to leverage transformer models to perform advanced natural language processing tasks with hands-on coding exercises in Python.</p>
+  </li>
+  <li>
+    <p><a href="https://www.udemy.com/course/gpt3-openai-api/">Udemy - GPT-3 and OpenAI API: A Guide for Building LLM-Powered Applications</a>: This course provides practical insights into using GPT-3 and OpenAI’s API to build applications that utilize LLMs, with a focus on creating conversational agents and content generation.</p>
+  </li>
+  <li>
+    <p><a href="https://www.deeplearning.ai/courses/generative-ai-with-llms/">DeepLearning.AI - Generative AI with Large Language Models</a>: This course from DeepLearning.AI covers the key concepts of generative AI, with a particular focus on LLMs. It includes hands-on practice in fine-tuning LLMs, prompt engineering, and applying these models to real-world use cases.</p>
+  </li>
+</ol>
+
+<h2 id="tools--packages">Tools &amp; Packages</h2>
+
+<ul>
+  <li>
+    <p><a href="https://python.langchain.com/docs/get_started/introduction">LangChain</a>: A framework for building LLM-powered applications with modular integrations, memory, and chaining prompts.</p>
+  </li>
+  <li>
+    <p><a href="https://gpt-index.readthedocs.io/en/latest/">LlamaIndex</a>: Connects LLMs with external data like documents and databases, ideal for knowledge-augmented applications.</p>
+  </li>
+  <li>
+    <p><a href="https://github.com/turing-technologies/dyson">Dyson</a>: Enables dynamic instruction tuning and fine-tuning of LLMs with custom prompts and instructions.</p>
+  </li>
+  <li>
+    <p><a href="https://github.com/langchain-ai/langgraph">LangGraph</a>: Integrates LLMs with graph-based data, enhancing structured data querying and reasoning.</p>
+  </li>
+  <li>
+    <p><a href="https://www.deepspeed.ai/">DeepSpeed</a>: Optimizes large model training with techniques like ZeRO, quantization, and memory efficiency.</p>
+  </li>
+  <li>
+    <p><a href="https://huggingface.co/docs/transformers">Hugging Face Transformers</a>: Provides tools for using, fine-tuning, and deploying transformer models like GPT and BERT.</p>
+  </li>
+  <li>
+    <p><a href="https://openrouter.ai/">OpenRouter</a>: An open-source alternative for routing prompts through multiple LLM APIs like GPT-4 and Claude.</p>
+  </li>
+  <li>
+    <p><a href="https://github.com/guidance-ai/guidance">Guidance</a>: A library to guide and structure LLM outputs programmatically for complex tasks.</p>
+  </li>
+  <li>
+    <p><a href="https://haystack.deepset.ai/overview/intro">Haystack</a>: A framework for building scalable LLM-powered search and retrieval systems, including RAG pipelines.</p>
+  </li>
+  <li>
+    <p><a href="https://github.com/IntelLabs/fastRAG">FastRAG</a>: Efficient framework for low-latency, scalable Retrieval-Augmented Generation (RAG) pipelines.</p>
+  </li>
+  <li>
+    <p><a href="https://github.com/stanfordnlp/dspy">DSPy</a>: A library that allows you to optimize prompts and LLM outputs through programmatic evaluation.</p>
+  </li>
+</ul>
+
+<h3 id="books">Books</h3>
+
+<ol>
+  <li>
+    <p><a href="https://www.deeplearningbook.org/">Deep Learning</a> by Ian Goodfellow, Yoshua Bengio, and Aaron Courville: A foundational book that covers the principles of deep learning. It provides theoretical insights and practical applications, making it essential for understanding the building blocks of LLMs.</p>
+  </li>
+  <li>
+    <p><a href="https://www.oreilly.com/library/view/natural-language-processing/9781098136789/">Natural Language Processing with Transformers</a> by Lewis Tunstall, Leandro von Werra, and Thomas Wolf: This book offers a practical guide to using transformer models for NLP tasks, with a focus on tools like Hugging Face’s libraries. It’s a great resource for anyone working with modern LLMs.</p>
+  </li>
+  <li>
+    <p><a href="https://www.packtpub.com/en-us/product/transformers-for-natural-language-processing-9781800565791?srsltid=AfmBOooDVYPilamoz-i2YbaiP8K2QrslJGiP-QAy37HSb-iR0WdbsSdy">Transformers for Natural Language Processing</a> by Denis Rothman: This book provides an in-depth look at transformer models, from BERT to GPT-3, and explains how to implement them for a variety of NLP tasks.</p>
+  </li>
+  <li>
+    <p><a href="https://www.amazon.co.uk/Gpt-3-Building-Innovative-Products-Language/dp/1098113624">GPT-3: Building Innovative NLP Products Using Large Language Models</a> by Sandra Kublik, Shubham Saboo, and Dhaval Pattani: A hands-on guide for building applications using GPT-3, covering everything from prompt engineering to integrating GPT-3 into real-world products.</p>
+  </li>
+  <li>
+    <p><a href="http://neuralnetworksanddeeplearning.com/">Neural Networks and Deep Learning</a> by Michael Nielsen: A classic introduction to neural networks and deep learning, providing a step-by-step guide to building and understanding deep models, which serve as the foundation for LLMs.</p>
+  </li>
+  <li>
+    <p><a href="https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/">Hands-On Large Language Models: Language Understanding and Generation </a>: provides practical tools for using LLMs in tasks like copywriting, summarization, and semantic search. It covers transformer architecture, generative models, and fine-tuning techniques to optimize LLMs for specific applications.</p>
+  </li>
+</ol>
+
+<h3 id="other-collections-of-related-work">Other Collections of Related Work</h3>
+
+<ol>
+  <li><a href="https://github.com/Hannibal046/Awesome-LLM">Awesome-LLM: a curated list of Large Language Mode</a>: A comprehensive and well-maintained repository that curates resources, papers, tools, and frameworks related to Large Language Models (LLMs). It covers a wide range of topics including model architectures, training techniques, and applications.</li>
+</ol>
+
+<p>Please, feel free to submit a <a href="contributing.html">web form</a> to add more links in this page.</p>
+
+    </div>
+
+  </body>
+</html>

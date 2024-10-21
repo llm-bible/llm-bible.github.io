@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <!-- Begin Web-Stat code v 7.0 -->
+  <span id="wts2185292"></span>
+  <script>
+    var wts = document.createElement('script');
+    wts.async = true;
+    wts.src = 'https://app.ardalio.com/log7.js';
+    document.head.appendChild(wts);
+    wts.onload = function() {
+      wtslog7(2185292, 2);
+    };
+  </script>
+  <noscript>
+    <a href="https://www.web-stat.com">
+      <img src="https://app.ardalio.com/7/2/2185292.png" alt="Web-Stat analytics">
+    </a>
+  </noscript>
+  <!-- End Web-Stat code v 7.0 -->
+
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107339008-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-107339008-1');
+  </script>
+
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta
+    name="keywords"
+    content="large language models, GPT, transformers, BERT, natural language processing, NLP, deep learning, machine learning, source code, big code, naturalness, software engineering, programming languages, fine-tuning, pretraining, autoregressive models, attention mechanisms, multi-modal models, text generation, reinforcement learning with human feedback, RLHF, GPT-3, GPT-4, ChatGPT, OpenAI, model architectures, transfer learning, LLM applications, LLM benchmarks, LLM interpretability"
+  >
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [["\\(","\\)"]],
+        displayMath: [["\\[","\\]"]],
+      },
+      options: {
+        processHtmlClass: "mathjax-content",
+        processEscapes: true,
+      }
+    };
+  </script>
+  <script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <title>
+    
+      STI: Turbocharge NLP Inference At The Edge Via Elastic Pipelining &middot; The Large Language Model Bible
+    
+  </title>
+
+  <!-- Enable responsiveness on mobile devices -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface"
+  >
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/public/favicon.svg">
+  <link
+    rel="search"
+    href="/public/opensearchdescription.xml"
+    type="application/opensearchdescription+xml"
+    title="LLM-Bible"
+  />
+
+  <!-- jQuery Library -->
+  <script
+    src="https://code.jquery.com/jquery-3.2.1.min.js"
+    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+    crossorigin="anonymous"
+  ></script>
+
+  <!-- DataTables CSS -->
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css"
+  >
+
+  <!-- DataTables JS -->
+  <script
+    type="text/javascript"
+    charset="utf8"
+    src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"
+  ></script>
+</head>
+
+
+  <body class="theme-base-0d layout-reverse">
+
+    <a href='/contributing.html' class='ribbon'>Contribute to LLM-Bible</a>
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          The Large Language Model Bible
+        </a>
+      </h1>
+      <p class="lead">Research on Large Language Models. Maintained by <a href="http://sjmoran.github.io/">Sean Moran</a>.</p>      
+    </div>
+
+  <nav class="sidebar-nav">
+   <div class="sidebar-item">
+     <p style="font-size: 12px">Search related work 
+     <input type='text' id='searchTarget' size="16"/> 
+     <button onClick="search();">Go</button></p>
+   </div>
+   <a class="sidebar-nav-item" href="/papers.html">List of Papers</a>
+   <a class="sidebar-nav-item" href="/tags.html">Papers by Tag</a>
+   <a class="sidebar-nav-item" href="/tsne-viz.html">2D Map of Papers</a>
+   <a class="sidebar-nav-item" href="/topic-viz.html">Topic-based Explorer</a>
+   <a class="sidebar-nav-item" href="/chatbot.html">LLM-Bible Chatbot</a>
+   <a class="sidebar-nav-item" href="/resources.html">Resources, Courses & Events</a>
+   <a class="sidebar-nav-item" href="/contributing.html">Contributing</a>
+   <a class="sidebar-nav-item" href="/digest.html">LLM Paper Digest</a>
+  </nav>
+
+  <div class="sidebar-item">
+    <p style="font-size: 12px">Contact <a href="https://sjmoran.github.io">Sean Moran</a> about this survey or website.
+    <span style="font-size: 9px">
+      Made with <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://github.com/poole/hyde">Hyde</a>.
+    </span></p>
+  </div>
+</div></div>
+
+<script>
+$("#searchTarget").keydown(function (e) {	
+  if (e.keyCode == 13) {
+    search();
+  }
+});
+
+function search() {
+  var query = $("#searchTarget").val();
+  try {
+    ga('send', 'event', 'search', 'search', query);
+  } finally {
+    // Update the hash and trigger a hashchange event
+    window.location.hash = encodeURIComponent(query);
+  }
+}
+</script>
+
+
+    <div class="content container">
+      <div class="page">
+  <h1 class="page-title">STI: Turbocharge NLP Inference At The Edge Via Elastic Pipelining</h1>
+  <h5>Guo Liwei, Choe Wonkyo, Lin Felix Xiaozhu. Arxiv 2022</h5>
+  <p>
+    
+      [<a href="https://arxiv.org/abs/2207.05022" target="_blank">Paper</a>]
+    
+    &nbsp;<a href='http://scholar.google.com/scholar?q=STI: Turbocharge NLP Inference At The Edge Via Elastic Pipelining' target="_blank"><img  style="display: inline; margin: 0;" src="/public/media/google-scholar.png"/></a>
+    &nbsp;<a href='https://www.semanticscholar.org/search?q=STI: Turbocharge NLP Inference At The Edge Via Elastic Pipelining' target="_blank"><img style="display: inline; margin: 0;" src="/public/media/semscholar.png"/></a>
+    <br/>
+    
+      <tag><a href="/tags.html#Applications">Applications</a></tag>
+    
+      <tag><a href="/tags.html#Model Architecture">Model Architecture</a></tag>
+    
+      <tag><a href="/tags.html#Pretraining Methods">Pretraining Methods</a></tag>
+    
+      <tag><a href="/tags.html#RAG">RAG</a></tag>
+    
+      <tag><a href="/tags.html#Reinforcement Learning">Reinforcement Learning</a></tag>
+    
+      <tag><a href="/tags.html#Transformer">Transformer</a></tag>
+    
+  </p>
+  <p><p>Natural Language Processing (NLP) inference is seeing increasing adoption by
+mobile applications, where on-device inference is desirable for crucially
+preserving user data privacy and avoiding network roundtrips. Yet, the
+unprecedented size of an NLP model stresses both latency and memory, creating a
+tension between the two key resources of a mobile device. To meet a target
+latency, holding the whole model in memory launches execution as soon as
+possible but increases one app’s memory footprints by several times, limiting
+its benefits to only a few inferences before being recycled by mobile memory
+management. On the other hand, loading the model from storage on demand incurs
+IO as long as a few seconds, far exceeding the delay range satisfying to a
+user; pipelining layerwise model loading and execution does not hide IO either,
+due to the high skewness between IO and computation delays.
+  To this end, we propose Speedy Transformer Inference (STI). Built on the key
+idea of maximizing IO/compute resource utilization on the most important parts
+of a model, STI reconciles the latency v.s. memory tension via two novel
+techniques. First, model sharding. STI manages model parameters as
+independently tunable shards, and profiles their importance to accuracy.
+Second, elastic pipeline planning with a preload buffer. STI instantiates an
+IO/compute pipeline and uses a small buffer for preload shards to bootstrap
+execution without stalling at early stages; it judiciously selects, tunes, and
+assembles shards per their importance for resource-elastic execution,
+maximizing inference accuracy.
+  Atop two commodity SoCs, we build STI and evaluate it against a wide range of
+NLP tasks, under a practical range of target latencies, and on both CPU and
+GPU. We demonstrate that STI delivers high accuracies with 1-2 orders of
+magnitude lower memory, outperforming competitive baselines.</p>
+</p>
+
+  <h6>Similar Work</h6>
+  <p>
+    <ul id="relwork">
+
+    </ul>
+  </p>
+
+  <script>  
+    $(document).ready(
+      function() {
+          $.getJSON("https://raw.githubusercontent.com/llm-bible/llm-bible.github.io/master/publications-metadata/guo2022turbocharge.json", function(data) {
+          num_papers = data.length;
+          html = "";
+          for (let i=0; i < num_papers; i++) {
+              html += '<li><a href="/publications/' + data[i][0] + '">'+ data[i][1] +'</a></li>'
+          }
+          $("#relwork").append(html);
+        });
+      });
+  </script>
+
+</div>
+
+    </div>
+
+  </body>
+</html>

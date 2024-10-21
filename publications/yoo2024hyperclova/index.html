@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <!-- Begin Web-Stat code v 7.0 -->
+  <span id="wts2185292"></span>
+  <script>
+    var wts = document.createElement('script');
+    wts.async = true;
+    wts.src = 'https://app.ardalio.com/log7.js';
+    document.head.appendChild(wts);
+    wts.onload = function() {
+      wtslog7(2185292, 2);
+    };
+  </script>
+  <noscript>
+    <a href="https://www.web-stat.com">
+      <img src="https://app.ardalio.com/7/2/2185292.png" alt="Web-Stat analytics">
+    </a>
+  </noscript>
+  <!-- End Web-Stat code v 7.0 -->
+
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107339008-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-107339008-1');
+  </script>
+
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta
+    name="keywords"
+    content="large language models, GPT, transformers, BERT, natural language processing, NLP, deep learning, machine learning, source code, big code, naturalness, software engineering, programming languages, fine-tuning, pretraining, autoregressive models, attention mechanisms, multi-modal models, text generation, reinforcement learning with human feedback, RLHF, GPT-3, GPT-4, ChatGPT, OpenAI, model architectures, transfer learning, LLM applications, LLM benchmarks, LLM interpretability"
+  >
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [["\\(","\\)"]],
+        displayMath: [["\\[","\\]"]],
+      },
+      options: {
+        processHtmlClass: "mathjax-content",
+        processEscapes: true,
+      }
+    };
+  </script>
+  <script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <title>
+    
+      Hyperclova X Technical Report &middot; The Large Language Model Bible
+    
+  </title>
+
+  <!-- Enable responsiveness on mobile devices -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface"
+  >
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/public/favicon.svg">
+  <link
+    rel="search"
+    href="/public/opensearchdescription.xml"
+    type="application/opensearchdescription+xml"
+    title="LLM-Bible"
+  />
+
+  <!-- jQuery Library -->
+  <script
+    src="https://code.jquery.com/jquery-3.2.1.min.js"
+    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+    crossorigin="anonymous"
+  ></script>
+
+  <!-- DataTables CSS -->
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css"
+  >
+
+  <!-- DataTables JS -->
+  <script
+    type="text/javascript"
+    charset="utf8"
+    src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"
+  ></script>
+</head>
+
+
+  <body class="theme-base-0d layout-reverse">
+
+    <a href='/contributing.html' class='ribbon'>Contribute to LLM-Bible</a>
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          The Large Language Model Bible
+        </a>
+      </h1>
+      <p class="lead">Research on Large Language Models. Maintained by <a href="http://sjmoran.github.io/">Sean Moran</a>.</p>      
+    </div>
+
+  <nav class="sidebar-nav">
+   <div class="sidebar-item">
+     <p style="font-size: 12px">Search related work 
+     <input type='text' id='searchTarget' size="16"/> 
+     <button onClick="search();">Go</button></p>
+   </div>
+   <a class="sidebar-nav-item" href="/papers.html">List of Papers</a>
+   <a class="sidebar-nav-item" href="/tags.html">Papers by Tag</a>
+   <a class="sidebar-nav-item" href="/tsne-viz.html">2D Map of Papers</a>
+   <a class="sidebar-nav-item" href="/topic-viz.html">Topic-based Explorer</a>
+   <a class="sidebar-nav-item" href="/chatbot.html">LLM-Bible Chatbot</a>
+   <a class="sidebar-nav-item" href="/resources.html">Resources, Courses & Events</a>
+   <a class="sidebar-nav-item" href="/contributing.html">Contributing</a>
+   <a class="sidebar-nav-item" href="/digest.html">LLM Paper Digest</a>
+  </nav>
+
+  <div class="sidebar-item">
+    <p style="font-size: 12px">Contact <a href="https://sjmoran.github.io">Sean Moran</a> about this survey or website.
+    <span style="font-size: 9px">
+      Made with <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://github.com/poole/hyde">Hyde</a>.
+    </span></p>
+  </div>
+</div></div>
+
+<script>
+$("#searchTarget").keydown(function (e) {	
+  if (e.keyCode == 13) {
+    search();
+  }
+});
+
+function search() {
+  var query = $("#searchTarget").val();
+  try {
+    ga('send', 'event', 'search', 'search', query);
+  } finally {
+    // Update the hash and trigger a hashchange event
+    window.location.hash = encodeURIComponent(query);
+  }
+}
+</script>
+
+
+    <div class="content container">
+      <div class="page">
+  <h1 class="page-title">Hyperclova X Technical Report</h1>
+  <h5>Yoo Kang Min, Han Jaegeun, In Sookyo, Jeon Heewon, Jeong Jisu, Kang Jaewook, Kim Hyunwook, Kim Kyung-min, Kim Munhyong, Kim Sungju, Kwak Donghyun, Kwak Hanock, Kwon Se Jung, Lee Bado, Lee Dongsoo, Lee Gichang, Lee Jooho, Park Baeseong, Shin Seongjin, Yu Joonsang, Baek Seolki, Byeon Sumin, Cho Eungsup, Choe Dooseok, Han Jeesung, Jin Youngkyun, Jun Hyein, Jung Jaeseung, Kim Chanwoong, Kim Jinhong, Kim Jinuk, Lee Dokyeong, Park Dongwook, Sohn Jeong Min, Han Sujung, Heo Jiae, Hong Sungju, Jeon Mina, Jung Hyunhoon, Jung Jungeun, Jung Wangkyo, Kim Chungjoon, Kim Hyeri, Kim Jonghyun, Kim Min Young, Lee Soeun, Park Joonhee, Shin Jieun, Yang Sojin, Yoon Jungsoon, Lee Hwaran, Bae Sanghwan, Cha Jeehwan, Gylleus Karl, Ham Donghoon, Hong Mihak, Hong Youngki, Hong Yunki, Jang Dahyun, Jeon Hyojun, Jeon Yujin, Jeong Yeji, Ji Myunggeun, Jin Yeguk, Jo Chansong, Joo Shinyoung, Jung Seunghwan, Kim Adrian Jungmyung, Kim Byoung Hoon, Kim Hyomin, Kim Jungwhan, Kim Minkyoung, Kim Minseung, Kim Sungdong, Kim Yonghee, Kim Youngjun, Kim Youngkwan, Ko Donghyeon, Lee Dughyun, Lee Ha Young, Lee Jaehong, Lee Jieun, Lee Jonghyun, Lee Jongjin, Lee Min Young, Lee Yehbin, Min Taehong, Min Yuri, Moon Kiyoon, Oh Hyangnam, Park Jaesun, Park Kyuyon, Park Younghun, Seo Hanbae, Seo Seunghyun, Sim Mihyun, Son Gyubin, Yeo Matt, Yeom Kyung Hoon, Yoo Wonjoon, You Myungin, Ahn Doheon, Ahn Homin, Ahn Joohee, Ahn Seongmin, An Chanwoo, An Hyeryun, An Junho, An Sang-min, Byun Boram, Byun Eunbin, Cha Jongho, Chang Minji, Chang Seunggyu, Cho Haesong, Cho Youngdo, Choi Dalnim, Choi Daseul, Choi Hyoseok, Choi Minseong, Choi Sangho, Choi Seongjae, Choi Wooyong, Chun Sewhan, Go Dong Young, Ham Chiheon, Han Danbi, Han Jaemin, Hong Moonyoung, Hong Sung Bum, Hwang Dong-hyun, Hwang Seongchan, Im Jinbae, Jang Hyuk Jin, Jang Jaehyung, Jang Jaeni, Jang Sihyeon, Jang Sungwon, Jeon Joonha, Jeong Daun, Jeong Joonhyun, Jeong Kyeongseok, Jeong Mini, Jin Sol, Jo Hanbyeol, Jo Hanju, Jo Minjung, Jung Chaeyoon, Jung Hyungsik, Jung Jaeuk, Jung Ju Hwan, Jung Kwangsun, Jung Seungjae, Ka Soonwon, Kang Donghan, Kang Soyoung, Kil Taeho, Kim Areum, Kim Beomyoung, Kim Byeongwook, Kim Daehee, Kim Dong-gyun, Kim Donggook, Kim Donghyun, Kim Euna, Kim Eunchul, Kim Geewook, Kim Gyu Ri, Kim Hanbyul, Kim Heesu, Kim Isaac, Kim Jeonghoon, Kim Jihye, Kim Joonghoon, Kim Minjae, Kim Minsub, Kim Pil Hwan, Kim Sammy, Kim Seokhun, Kim Seonghyeon, Kim Soojin, Kim Soong, Kim Soyoon, Kim Sunyoung, Kim Taeho, Kim Wonho, Kim Yoonsik, Kim You Jin, Kim Yuri, Kwon Beomseok, Kwon Ohsung, Kwon Yoo-hwan, Lee Anna, Lee Byungwook, Lee Changho, Lee Daun, Lee Dongjae, Lee Ha-ram, Lee Hodong, Lee Hwiyeong, Lee Hyunmi, Lee Injae, Lee Jaeung, Lee Jeongsang, Lee Jisoo, Lee Jongsoo, Lee Joongjae, Lee Juhan, Lee Jung Hyun, Lee Junghoon, Lee Junwoo, Lee Se Yun, Lee Sujin, Lee Sungjae, Lee Sungwoo, Lee Wonjae, Lee Zoo Hyun, Lim Jong Kun, Lim Kun, Lim Taemin, Na Nuri, Nam Jeongyeon, Nam Kyeong-min, Noh Yeonseog, Oh Biro, Oh Jung-sik, Oh Solgil, Oh Yeontaek, Park Boyoun, Park Cheonbok, Park Dongju, Park Hyeonjin, Park Hyun Tae, Park Hyunjung, Park Jihye, Park Jooseok, Park Junghwan, Park Jungsoo, Park Miru, Park Sang Hee, Park Seunghyun, Park Soyoung, Park Taerim, Park Wonkyeong, Ryu Hyunjoon, Ryu Jeonghun, Ryu Nahyeon, Seo Soonshin, Seo Suk Min, Shim Yoonjeong, Shin Kyuyong, Shin Wonkwang, Sim Hyun, Sim Woongseob, Soh Hyejin, Son Bokyong, Son Hyunjun, Son Seulah, Song Chi-yun, Song Chiyoung, Song Ka Yeon, Song Minchul, Song Seungmin, Wang Jisung, Yeo Yonggoo, Yi Myeong Yeon, Yim Moon Bin, Yoo Taehwan, Yoo Youngjoon, Yoon Sungmin, Yoon Young Jin, Yu Hangyeol, Yu Ui Seon, Zuo Xingdong, Bae Jeongin, Bae Joungeun, Cho Hyunsoo, Cho Seonghyun, Cho Yongjin, Choi Taekyoon, Choi Yera, Chung Jiwan, Han Zhenghui, Heo Byeongho, Hong Euisuk, Hwang Taebaek, Im Seonyeol, Jegal Sumin, Jeon Sumin, Jeong Yelim, Jeong Yonghyun, Jiang Can, Jiang Juyong, Jin Jiho, Jo Ara, Jo Younghyun, Jung Hoyoun, Jung Juyoung, Kang Seunghyeong, Kim Dae Hee, Kim Ginam, Kim Hangyeol, Kim Heeseung, Kim Hyojin, Kim Hyojun, Kim Hyun-ah, Kim Jeehye, Kim Jin-hwa, Kim Jiseon, Kim Jonghak, Kim Jung Yoon, Kim Rak Yeong, Kim Seongjin, Kim Seoyoon, Kim Sewon, Kim Sooyoung, Kim Sukyoung, Kim Taeyong, Ko Naeun, Koo Bonseung, Kwak Heeyoung, Kwon Haena, Kwon Youngjin, Lee Boram, Lee Bruce W., Lee Dagyeong, Lee Erin, Lee Euijin, Lee Ha Gyeong, Lee Hyojin, Lee Hyunjeong, Lee Jeeyoon, Lee Jeonghyun, Lee Jongheok, Lee Joonhyung, Lee Junhyuk, Lee Mingu, Lee Nayeon, Lee Sangkyu, Lee Se Young, Lee Seulgi, Lee Seung Jin, Lee Suhyeon, Lee Yeonjae, Lee Yesol, Lee Youngbeom, Lee Yujin, Li Shaodong, Liu Tianyu, Moon Seong-eun, Moon Taehong, Nihlenramstroem Max-lasse, Oh Wonseok, Oh Yuri, Park Hongbeen, Park Hyekyung, Park Jaeho, Park Nohil, Park Sangjin, Ryu Jiwon, Ryu Miru, Ryu Simo, Seo Ahreum, Seo Hee, Seo Kangdeok, Shin Jamin, Shin Seungyoun, Sin Heetae, Wang Jiangping, Wang Lei, Xiang Ning, Xiao Longxiang, Xu Jing, Yi Seonyeong, Yoo Haanju, Yoo Haneul, Yoo Hwanhee, Yu Liang, Yu Youngjae, Yuan Weijie, Zeng Bo, Zhou Qian, Cho Kyunghyun, Ha Jung-woo, Park Joonsuk, Hwang Jihyun, Kwon Hyoung Jo, Kwon Soonyong, Lee Jungyeon, Lee Seungho, Lim Seonghyeon, Noh Hyunkyung, Choi Seungho, Lee Sang-woo, Lim Jung Hwa, Sung Nako. Arxiv 2024</h5>
+  <p>
+    
+      [<a href="https://arxiv.org/abs/2404.01954" target="_blank">Paper</a>]
+    
+    &nbsp;<a href='http://scholar.google.com/scholar?q=Hyperclova X Technical Report' target="_blank"><img  style="display: inline; margin: 0;" src="/public/media/google-scholar.png"/></a>
+    &nbsp;<a href='https://www.semanticscholar.org/search?q=Hyperclova X Technical Report' target="_blank"><img style="display: inline; margin: 0;" src="/public/media/semscholar.png"/></a>
+    <br/>
+    
+      <tag><a href="/tags.html#Applications">Applications</a></tag>
+    
+      <tag><a href="/tags.html#Ethics And Bias">Ethics And Bias</a></tag>
+    
+      <tag><a href="/tags.html#Fine Tuning">Fine Tuning</a></tag>
+    
+      <tag><a href="/tags.html#Responsible AI">Responsible AI</a></tag>
+    
+  </p>
+  <p><p>We introduce HyperCLOVA X, a family of large language models (LLMs) tailored
+to the Korean language and culture, along with competitive capabilities in
+English, math, and coding. HyperCLOVA X was trained on a balanced mix of
+Korean, English, and code data, followed by instruction-tuning with
+high-quality human-annotated datasets while abiding by strict safety guidelines
+reflecting our commitment to responsible AI. The model is evaluated across
+various benchmarks, including comprehensive reasoning, knowledge, commonsense,
+factuality, coding, math, chatting, instruction-following, and harmlessness, in
+both Korean and English. HyperCLOVA X exhibits strong reasoning capabilities in
+Korean backed by a deep understanding of the language and cultural nuances.
+Further analysis of the inherent bilingual nature and its extension to
+multilingualism highlights the model’s cross-lingual proficiency and strong
+generalization ability to untargeted languages, including machine translation
+between several language pairs and cross-lingual inference tasks. We believe
+that HyperCLOVA X can provide helpful guidance for regions or countries in
+developing their sovereign LLMs.</p>
+</p>
+
+  <h6>Similar Work</h6>
+  <p>
+    <ul id="relwork">
+
+    </ul>
+  </p>
+
+  <script>  
+    $(document).ready(
+      function() {
+          $.getJSON("https://raw.githubusercontent.com/llm-bible/llm-bible.github.io/master/publications-metadata/yoo2024hyperclova.json", function(data) {
+          num_papers = data.length;
+          html = "";
+          for (let i=0; i < num_papers; i++) {
+              html += '<li><a href="/publications/' + data[i][0] + '">'+ data[i][1] +'</a></li>'
+          }
+          $("#relwork").append(html);
+        });
+      });
+  </script>
+
+</div>
+
+    </div>
+
+  </body>
+</html>
