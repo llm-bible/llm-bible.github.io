@@ -169,6 +169,3 @@ function formatBotResponse(responseText) {
     .replace(/\[([0-9]+)\]/g, '<sup>[$1]</sup>'); // Superscript for references
 }
 </script>
-
-
-</script>
