@@ -148,11 +148,11 @@ async function sendQuery() {
     botMessage.innerHTML = `<p>Bot:</p><ul>${formatBotResponse(result.answer)}</ul>`;  // Format response content
     messagesDiv.appendChild(botMessage);
   } catch (error) {
-    const errorMessage = document.createElement("div");
-    errorMessage.classList.add("message", "bot");
-    // Display the actual error message
-    errorMessage.textContent = `Bot: Error - ${error.message}`;
-    messagesDiv.appendChild(errorMessage);
+      const errorMessage = document.createElement("div");
+      errorMessage.classList.add("message", "bot");
+      // Display the actual error message
+      errorMessage.textContent = `Bot: Error - ${error.message}`;
+      messagesDiv.appendChild(errorMessage);
   }
 
   // Scroll to the bottom of the chat
