@@ -131,8 +131,17 @@ async function sendQuery() {
       body: JSON.stringify({ user_input: query })  // Use 'user_input' instead of 'query'
     });
 
+    if (response.status === 429) {
+      // Handle rate limit error
+      const errorMessage = document.createElement("div");
+      errorMessage.classList.add("message", "bot");
+      errorMessage.textContent = "Bot: Rate limit reached, please try again tomorrow.";
+      messagesDiv.appendChild(errorMessage);
+      return;
+    }
+
     if (!response.ok) {
-      // Try to get the error message from the server
+      // Handle other non-200 status codes
       const errorData = await response.json();
       const errorMessage = errorData.error || 'Unknown error occurred'; // Default to a message if no specific error
       throw new Error(errorMessage);
@@ -156,6 +165,7 @@ async function sendQuery() {
   // Scroll to the bottom of the chat
   messagesDiv.scrollTop = messagesDiv.scrollHeight;
 }
+
 // Function to format bot response assuming the server now returns correctly formatted HTML
 function formatBotResponse(responseText) {
   // The server response is now HTML formatted with titles as hyperlinks
