@@ -112,16 +112,6 @@ Feel free to ask any of your own questions!
 </style>
 
 <script>
-// Function to format bot response for links, bold text, and easy readability
-function formatBotResponse(responseText) {
-  // Example: Parse URLs and format them as hyperlinks, and handle list items
-  return responseText
-    .replace(/\*\*(.*?)\*\*/g, '<b>$1</b>') // Bold text
-    .replace(/- (.*?)(?= -|\n|$)/g, '<li>$1</li>') // List items
-    .replace(/\[([0-9]+)\]/g, '<sup>[$1]</sup>') // Superscript for references
-    .replace(/\((https?:\/\/[^\s]+)\)/g, '<a href="$1" target="_blank">$1</a>'); // Hyperlinks
-}
-
 async function sendQuery() {
   const query = document.getElementById("query").value;
   const messagesDiv = document.getElementById("messages");
@@ -144,7 +134,10 @@ async function sendQuery() {
     });
 
     if (!response.ok) {
-      throw new Error('Network response was not ok');
+      // Try to get the error message from the server
+      const errorData = await response.json();
+      const errorMessage = errorData.error || 'Unknown error occurred'; // Default to a message if no specific error
+      throw new Error(errorMessage);
     }
 
     const result = await response.json();
@@ -157,11 +150,22 @@ async function sendQuery() {
   } catch (error) {
     const errorMessage = document.createElement("div");
     errorMessage.classList.add("message", "bot");
-    errorMessage.textContent = "Bot: Error communicating with server.";
+    // Display the actual error message
+    errorMessage.textContent = `Bot: Error - ${error.message}`;
     messagesDiv.appendChild(errorMessage);
   }
 
   // Scroll to the bottom of the chat
   messagesDiv.scrollTop = messagesDiv.scrollHeight;
 }
+
+// Function to format bot response for links, bold text, and easy readability
+function formatBotResponse(responseText) {
+  return responseText
+    .replace(/\*\*(.*?)\*\*/g, '<b>$1</b>') // Bold text
+    .replace(/- (.*?)(?= -|\n|$)/g, '<li>$1</li>') // List items
+    .replace(/\[([0-9]+)\]/g, '<sup>[$1]</sup>') // Superscript for references
+    .replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank">$1</a>'); // Hyperlinks
+}
+
 </script>
