@@ -1,10 +1,8 @@
 ---
 layout: page
-title: LLM-Bible Chatbot
+title: Chat with the LLM-Bible Bot
 description: LLM-Bible Chatbot
 ---
-## Chat with the LLM-Bible Bot
-
 Hello! I am the LLM-Bible bot, your expert guide through the vast collection of over 10,000 papers on Large Language Models (LLMs). You can ask me anything about LLMs, research resources, or key trends in the field. Here are some examples of questions you could ask me:
 
 - "What are the latest advancements in transformer models?"
