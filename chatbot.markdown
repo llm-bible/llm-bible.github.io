@@ -159,13 +159,16 @@ async function sendQuery() {
   messagesDiv.scrollTop = messagesDiv.scrollHeight;
 }
 
-// Function to format bot response for links, bold text, and easy readability
+// Function to format bot response for bold titles and inline links
 function formatBotResponse(responseText) {
   return responseText
-    .replace(/\*\*(.*?)\*\*/g, '<b>$1</b>') // Bold text
-    .replace(/- (.*?)(?= -|\n|$)/g, '<li>$1</li>') // List items
-    .replace(/\[([0-9]+)\]/g, '<sup>[$1]</sup>') // Superscript for references
-    .replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank">$1</a>'); // Hyperlinks
+    .replace(/\*\*(.*?)\*\*/g, '<b>$1</b>') // Bold text for titles
+    .replace(/- (.*?)(?=\s\()/g, '<b>$1</b>') // Bold paper titles before inline link
+    .replace(/\((https?:\/\/[^\s]+)\)/g, '<a href="$1" target="_blank">$1</a>') // Inline hyperlinks for URLs
+    .replace(/- (.*?)(?= -|\n|$)/g, '<li>$1</li>') // List items for papers
+    .replace(/\[([0-9]+)\]/g, '<sup>[$1]</sup>'); // Superscript for references
 }
+</script>
+
 
 </script>
