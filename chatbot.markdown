@@ -158,31 +158,11 @@ async function sendQuery() {
   // Scroll to the bottom of the chat
   messagesDiv.scrollTop = messagesDiv.scrollHeight;
 }
-
-// Function to format bot response with hyperlinks, bold titles, and bullet points
+// Function to format bot response assuming the server now returns correctly formatted HTML
 function formatBotResponse(responseText) {
-  // Split the responseText into lines by recognizing paper entries that start with "-"
-  const lines = responseText.split('- ');
-
-  // Filter out any empty lines or lines with citations at the end
-  const formattedLines = lines.filter(line => line.trim() && !line.startsWith('Citations:'));
-
-  // Format each line into a bullet point with the title as a hyperlink and the summary included
-  return formattedLines.map(line => {
-    const titleMatch = line.match(/\*\*(.*?)\*\*\:/); // Find the paper title between ** and :
-    const linkMatch = line.match(/\[(\d+)\]\s(https?:\/\/[^\s]+)/); // Find the link associated with the citation
-    const summaryMatch = line.split(': ')[1]; // Get the summary part of the line (after the first colon)
-
-    if (titleMatch && linkMatch && summaryMatch) {
-      const title = titleMatch[1]; // Extract the title text
-      const url = linkMatch[2]; // Extract the URL
-      const summary = summaryMatch.trim(); // Get the summary (remove any extra whitespace)
-
-      // Return formatted list item with title as link and summary after it
-      return `<li><b><a href="${url}" target="_blank">${title}</a></b>: ${summary}</li>`;
-    }
-    return ''; // If no match, return empty
-  }).join(''); // Join the formatted list items into a single string
+  // The server response is now HTML formatted with titles as hyperlinks
+  // Simply return the response text as it will already contain the correct formatting
+  return responseText;
 }
 
 </script>
