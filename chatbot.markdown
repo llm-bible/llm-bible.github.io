@@ -161,14 +161,33 @@ async function sendQuery() {
     const result = await response.json();
     console.log("Parsed response JSON:", result);  // Log the parsed JSON
 
-    // Display bot response with formatted HTML content
-    const botMessage = document.createElement("div");
-    botMessage.classList.add("message", "bot");
-    botMessage.innerHTML = `<p>LLM-Bible Bot:</p><ul>${formatBotResponse(result)}</ul>`;
-    messagesDiv.appendChild(botMessage);
-    
-    console.log("Bot response displayed.");  // Log the display of the bot response
+    // Check if the result contains an answer field with a JSON string
+    if (result.answer) {
+      try {
+        const papers = JSON.parse(result.answer);
+        console.log("Parsed papers:", papers);  // Log the parsed papers array
 
+        // Display bot response with formatted HTML content
+        const botMessage = document.createElement("div");
+        botMessage.classList.add("message", "bot");
+        botMessage.innerHTML = `<p>LLM-Bible Bot:</p><ul>${formatBotResponse(papers)}</ul>`;
+        messagesDiv.appendChild(botMessage);
+        
+        console.log("Bot response displayed.");  // Log the display of the bot response
+      } catch (jsonError) {
+        console.error("Error parsing the JSON in the 'answer' field:", jsonError);
+        const errorMessage = document.createElement("div");
+        errorMessage.classList.add("message", "bot");
+        errorMessage.textContent = `LLM-Bible Bot: Error parsing the response data.`;
+        messagesDiv.appendChild(errorMessage);
+      }
+    } else {
+      console.warn("No 'answer' field found in the response.");
+      const errorMessage = document.createElement("div");
+      errorMessage.classList.add("message", "bot");
+      errorMessage.textContent = `LLM-Bible Bot: No answer field found in the response.`;
+      messagesDiv.appendChild(errorMessage);
+    }
   } catch (error) {
     const errorMessage = document.createElement("div");
     errorMessage.classList.add("message", "bot");
@@ -184,22 +203,23 @@ async function sendQuery() {
 }
 
 // Function to format bot response in JSON format into HTML bullet points
-function formatBotResponse(responseJson) {
+function formatBotResponse(papers) {
   console.log("Formatting response...");  // Log the start of formatting
 
-  // Assuming responseJson is an array of paper objects
-  if (!Array.isArray(responseJson)) {
-    console.warn("Response JSON is not an array:", responseJson);  // Warn if it's not an array
+  // Ensure papers is an array before calling map
+  if (!Array.isArray(papers)) {
+    console.warn("Response JSON is not an array:", papers);  // Warn if it's not an array
     return "<li>No papers found.</li>";
   }
 
-  const formattedResponse = responseJson.map(paper => `
+  const formattedResponse = papers.map(paper => `
     <li><strong><a href="${paper.url}" target="_blank">${paper.name}</a></strong>: ${paper.description}</li>
   `).join('');
 
   console.log("Formatted response:", formattedResponse);  // Log the final formatted response
   return formattedResponse;
 }
+
 
 </script>
 
