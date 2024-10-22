@@ -134,7 +134,7 @@ async function sendQuery() {
     if (response.status === 429) {
       // Handle rate limit error
       const errorMessage = document.createElement("div");
-      errorMessage.classList.add("message", "LLM-Bible Bot");
+      errorMessage.classList.add("message", "Bot");
       errorMessage.textContent = "LLM-Bible Bot: Rate limit reached, please try again tomorrow.";
       messagesDiv.appendChild(errorMessage);
       return;
@@ -151,12 +151,12 @@ async function sendQuery() {
 
     // Display bot response with formatted HTML content
     const botMessage = document.createElement("div");
-    botMessage.classList.add("message", "LLM-Bible Bot");
+    botMessage.classList.add("message", "Bot");
     botMessage.innerHTML = `<p>LLM-Bible Bot:</p><ul>${formatBotResponse(result.answer)}</ul>`;  // Format response content
     messagesDiv.appendChild(botMessage);
   } catch (error) {
       const errorMessage = document.createElement("div");
-      errorMessage.classList.add("message", "LLM-Bible Bot");
+      errorMessage.classList.add("message", "Bot");
       // Display the actual error message
       errorMessage.textContent = `LLM-Bible Bot: Error - ${error.message}`;
       messagesDiv.appendChild(errorMessage);
