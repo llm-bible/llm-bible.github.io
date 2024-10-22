@@ -128,22 +128,21 @@ async function sendQuery() {
       headers: {
         "Content-Type": "application/json"
       },
-      body: JSON.stringify({ user_input: query })  // Use 'user_input' instead of 'query'
+      body: JSON.stringify({ user_input: query })
     });
 
     if (response.status === 429) {
       // Handle rate limit error
       const errorMessage = document.createElement("div");
-      errorMessage.classList.add("message", "Bot");
+      errorMessage.classList.add("message", "bot");
       errorMessage.textContent = "LLM-Bible Bot: Rate limit reached, please try again tomorrow.";
       messagesDiv.appendChild(errorMessage);
       return;
     }
 
     if (!response.ok) {
-      // Handle other non-200 status codes
       const errorData = await response.json();
-      const errorMessage = errorData.error || 'Unknown error occurred'; // Default to a message if no specific error
+      const errorMessage = errorData.error || 'Unknown error occurred';
       throw new Error(errorMessage);
     }
 
@@ -151,26 +150,26 @@ async function sendQuery() {
 
     // Display bot response with formatted HTML content
     const botMessage = document.createElement("div");
-    botMessage.classList.add("message", "Bot");
-    botMessage.innerHTML = `<p>LLM-Bible Bot:</p><ul>${formatBotResponse(result.answer)}</ul>`;  // Format response content
+    botMessage.classList.add("message", "bot");
+    botMessage.innerHTML = `<p>LLM-Bible Bot:</p><ul>${formatBotResponse(result)}</ul>`;
     messagesDiv.appendChild(botMessage);
   } catch (error) {
-      const errorMessage = document.createElement("div");
-      errorMessage.classList.add("message", "Bot");
-      // Display the actual error message
-      errorMessage.textContent = `LLM-Bible Bot: Error - ${error.message}`;
-      messagesDiv.appendChild(errorMessage);
+    const errorMessage = document.createElement("div");
+    errorMessage.classList.add("message", "bot");
+    errorMessage.textContent = `LLM-Bible Bot: Error - ${error.message}`;
+    messagesDiv.appendChild(errorMessage);
   }
 
   // Scroll to the bottom of the chat
   messagesDiv.scrollTop = messagesDiv.scrollHeight;
 }
 
-// Function to format bot response assuming the server now returns correctly formatted HTML
-function formatBotResponse(responseText) {
-  // The server response is now HTML formatted with titles as hyperlinks
-  // Simply return the response text as it will already contain the correct formatting
-  return responseText;
+// Function to format bot response in JSON format into HTML bullet points
+function formatBotResponse(responseJson) {
+  // Assuming responseJson is an array of paper objects
+  return responseJson.map(paper => `
+    <li><strong><a href="${paper.url}" target="_blank">${paper.name}</a></strong>: ${paper.description}</li>
+  `).join('');
 }
 
 </script>
