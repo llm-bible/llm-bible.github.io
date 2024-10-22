@@ -114,6 +114,8 @@ async function sendQuery() {
   const query = document.getElementById("query").value;
   const messagesDiv = document.getElementById("messages");
 
+  console.log("User query:", query);  // Log the user's query
+
   // Display user message
   const userMessage = document.createElement("div");
   userMessage.classList.add("message", "user");
@@ -122,6 +124,9 @@ async function sendQuery() {
   document.getElementById("query").value = ""; // Clear input
 
   try {
+    // Log the start of the fetch request
+    console.log("Sending request to the backend...");
+    
     // Fetch response from backend
     const response = await fetch("https://aicoinanalysis.com/chat", {
       method: "POST",
@@ -131,12 +136,16 @@ async function sendQuery() {
       body: JSON.stringify({ user_input: query })
     });
 
+    console.log("Response received:", response);  // Log the response
+
     if (response.status === 429) {
       // Handle rate limit error
       const errorMessage = document.createElement("div");
       errorMessage.classList.add("message", "bot");
       errorMessage.textContent = "LLM-Bible Bot: Rate limit reached, please try again tomorrow.";
       messagesDiv.appendChild(errorMessage);
+      
+      console.warn("Rate limit reached.");  // Log rate limit issue
       return;
     }
 
@@ -146,30 +155,50 @@ async function sendQuery() {
       throw new Error(errorMessage);
     }
 
+    // Log the successful status
+    console.log("Successful response, processing...");
+
     const result = await response.json();
+    console.log("Parsed response JSON:", result);  // Log the parsed JSON
 
     // Display bot response with formatted HTML content
     const botMessage = document.createElement("div");
     botMessage.classList.add("message", "bot");
     botMessage.innerHTML = `<p>LLM-Bible Bot:</p><ul>${formatBotResponse(result)}</ul>`;
     messagesDiv.appendChild(botMessage);
+    
+    console.log("Bot response displayed.");  // Log the display of the bot response
+
   } catch (error) {
     const errorMessage = document.createElement("div");
     errorMessage.classList.add("message", "bot");
     errorMessage.textContent = `LLM-Bible Bot: Error - ${error.message}`;
     messagesDiv.appendChild(errorMessage);
+
+    console.error("Error occurred:", error);  // Log any errors
   }
 
   // Scroll to the bottom of the chat
   messagesDiv.scrollTop = messagesDiv.scrollHeight;
+  console.log("Scrolled to bottom.");  // Log the scroll action
 }
 
 // Function to format bot response in JSON format into HTML bullet points
 function formatBotResponse(responseJson) {
+  console.log("Formatting response...");  // Log the start of formatting
+
   // Assuming responseJson is an array of paper objects
-  return responseJson.map(paper => `
+  if (!Array.isArray(responseJson)) {
+    console.warn("Response JSON is not an array:", responseJson);  // Warn if it's not an array
+    return "<li>No papers found.</li>";
+  }
+
+  const formattedResponse = responseJson.map(paper => `
     <li><strong><a href="${paper.url}" target="_blank">${paper.name}</a></strong>: ${paper.description}</li>
   `).join('');
+
+  console.log("Formatted response:", formattedResponse);  // Log the final formatted response
+  return formattedResponse;
 }
 
 </script>
