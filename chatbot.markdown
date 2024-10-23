@@ -108,68 +108,128 @@ Feel free to ask any of your own questions!
   background-color: #1e88e5;
 }
 </style>
-
 <script>
-import openai
-import json
+async function sendQuery() {
+  const query = document.getElementById("query").value;
+  const messagesDiv = document.getElementById("messages");
 
-def get_formatted_response(question, context, citations_in_text):
-    response = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo",
-        messages=[
-            {"role": "system", "content": "You are a helpful assistant who provides concise answers in JSON format."},
-            {"role": "user", "content": (
-                f"Question: {question}\n\n"
-                f"Context: {context}\n\n"
-                f"Please return the answer in the following JSON format, where each object contains the exact paper title, its key, and a short description of how it addresses the question. Use the key to construct the URL in the format 'https://llm-bible.github.io/publications/<key>/':\n\n"
-                f"[\n"
-                f"  {{\n"
-                f"    \"name\": \"<Paper Title>\",\n"
-                f"    \"key\": \"<key>\",\n"
-                f"    \"url\": \"https://llm-bible.github.io/publications/<key>/\",\n"
-                f"    \"description\": \"<Short description of how this paper addresses the question.>\"\n"
-                f"  }},\n"
-                f"  {{\n"
-                f"    \"name\": \"<Paper Title>\",\n"
-                f"    \"key\": \"<key>\",\n"
-                f"    \"url\": \"https://llm-bible.github.io/publications/<key>/\",\n"
-                f"    \"description\": \"<Short description of how this paper addresses the question.>\"\n"
-                f"  }}\n"
-                f"]\n\n"
-                f"Here are the relevant papers:\n{citations_in_text}\n\n"
-                f"Examples:\n"
-                f"[\n"
-                f"  {{\n"
-                f"    \"name\": \"Mixture-of-loras: An Efficient Multitask Tuning For Large Language Models\",\n"
-                f"    \"key\": \"feng2024mixture\",\n"
-                f"    \"url\": \"https://llm-bible.github.io/publications/feng2024mixture/\",\n"
-                f"    \"description\": \"This paper presents the Mixture-of-LoRAs (MoA) architecture, a novel tuning method for LLMs aimed at multitask learning. It improves performance by mitigating interference between tasks, using domain-specific modules with routing strategies, making it suitable for diverse tasks in instruction tuning.\"\n"
-                f"  }},\n"
-                f"  {{\n"
-                f"    \"name\": \"Llama-vits: Enhancing TTS Synthesis With Semantic Awareness\",\n"
-                f"    \"key\": \"feng2024llama\",\n"
-                f"    \"url\": \"https://llm-bible.github.io/publications/feng2024llama/\",\n"
-                f"    \"description\": \"This paper introduces Llama-VITS, a TTS synthesis method that enriches the semantic content of text using LLMs, particularly Llama2, integrated with the VITS model. It demonstrates improved emotive expressiveness on a curated emotional speech dataset, offering potential enhancements in generating emotionally expressive speech.\"\n"
-                f"  }}\n"
-                f"]"
-            )}
-        ]
-    )
+  console.log("User query:", query);  // Log the user's query
 
-    # Extract the response content
-    response_content = response['choices'][0]['message']['content']
+  // Display user message
+  const userMessage = document.createElement("div");
+  userMessage.classList.add("message", "user");
+  userMessage.textContent = "You: " + query;
+  messagesDiv.appendChild(userMessage);
+  document.getElementById("query").value = ""; // Clear input
 
-    # Clean any unwanted characters like '↵' (if present)
-    clean_response = response_content.replace('↵', '').strip()
+  try {
+    // Log the start of the fetch request
+    console.log("Sending request to the backend...");
+    
+    // Fetch response from backend
+    const response = await fetch("https://aicoinanalysis.com/chat", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({ user_input: query })
+    });
 
-    # Optionally, convert the cleaned string into JSON format if needed
-    try:
-        json_response = json.loads(clean_response)
-        return json_response
-    except json.JSONDecodeError:
-        # If there's an issue decoding, return the raw response
-        return clean_response
+    console.log("Response received:", response);  // Log the response
 
+    if (response.status === 429) {
+      // Handle rate limit error
+      const errorMessage = document.createElement("div");
+      errorMessage.classList.add("message", "bot");
+      errorMessage.textContent = "LLM-Bible Bot: Rate limit reached, please try again tomorrow.";
+      messagesDiv.appendChild(errorMessage);
+      
+      console.warn("Rate limit reached.");  // Log rate limit issue
+      return;
+    }
+
+    if (!response.ok) {
+      const errorData = await response.json();
+      const errorMessage = errorData.error || 'Unknown error occurred';
+      throw new Error(errorMessage);
+    }
+
+    // Log the successful status
+    console.log("Successful response, processing...");
+
+    const result = await response.json();
+    console.log("Parsed response JSON:", result);  // Log the parsed JSON
+
+    // Extract and clean the JSON content within the 'answer' field
+    if (result.answer) {
+      try {
+        // Extract the part of the answer that contains the JSON data
+        const jsonStart = result.answer.indexOf('```json');
+        const jsonEnd = result.answer.lastIndexOf('```');
+
+        // Ensure the JSON block is well-formed before parsing
+        if (jsonStart !== -1 && jsonEnd !== -1) {
+          const jsonString = result.answer.substring(jsonStart + 7, jsonEnd).trim();  // Get the JSON part, removing '```json' and '```'
+          const papers = JSON.parse(jsonString);  // Parse the extracted JSON
+          console.log("Parsed papers:", papers);  // Log the parsed papers array
+
+          // Display bot response with formatted HTML content
+          const botMessage = document.createElement("div");
+          botMessage.classList.add("message", "bot");
+          botMessage.innerHTML = `<p>LLM-Bible Bot:</p><ul>${formatBotResponse(papers)}</ul>`;
+          messagesDiv.appendChild(botMessage);
+          
+          console.log("Bot response displayed.");  // Log the display of the bot response
+        } else {
+          throw new Error("No valid JSON block found.");
+        }
+      } catch (jsonError) {
+        console.error("Error parsing the JSON in the 'answer' field:", jsonError);
+        const errorMessage = document.createElement("div");
+        errorMessage.classList.add("message", "bot");
+        errorMessage.textContent = `LLM-Bible Bot: Error parsing the response data.`;
+        messagesDiv.appendChild(errorMessage);
+      }
+    } else {
+      console.warn("No 'answer' field found in the response.");
+      const errorMessage = document.createElement("div");
+      errorMessage.classList.add("message", "bot");
+      errorMessage.textContent = `LLM-Bible Bot: No answer field found in the response.`;
+      messagesDiv.appendChild(errorMessage);
+    }
+  } catch (error) {
+    const errorMessage = document.createElement("div");
+    errorMessage.classList.add("message", "bot");
+    errorMessage.textContent = `LLM-Bible Bot: Error - ${error.message}`;
+    messagesDiv.appendChild(errorMessage);
+
+    console.error("Error occurred:", error);  // Log any errors
+  }
+
+  // Scroll to the bottom of the chat
+  messagesDiv.scrollTop = messagesDiv.scrollHeight;
+  console.log("Scrolled to bottom.");  // Log the scroll action
+}
+
+// Function to format bot response in JSON format into HTML bullet points
+function formatBotResponse(papers) {
+  console.log("Formatting response...");  // Log the start of formatting
+
+  // Ensure papers is an array before calling map
+  if (!Array.isArray(papers)) {
+    console.warn("Response JSON is not an array:", papers);  // Warn if it's not an array
+    return "<li>No papers found.</li>";
+  }
+
+  const formattedResponse = papers.map(paper => `
+    <li><strong><a href="${paper.url}" target="_blank">${paper.name}</a></strong>: ${paper.description}</li>
+  `).join('');
+
+  console.log("Formatted response:", formattedResponse);  // Log the final formatted response
+  return formattedResponse;
+}
+
+</script>
 
 </script>
 
