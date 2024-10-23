@@ -164,18 +164,26 @@ async function sendQuery() {
     // Extract and clean the JSON content within the 'answer' field
     if (result.answer) {
       try {
-        // Remove backticks and newlines from the JSON string
-        const jsonString = result.answer.replace(/```json|```/g, '').trim();
-        const papers = JSON.parse(jsonString);
-        console.log("Parsed papers:", papers);  // Log the parsed papers array
+        // Extract the part of the answer that contains the JSON data
+        const jsonStart = result.answer.indexOf('```json');
+        const jsonEnd = result.answer.lastIndexOf('```');
 
-        // Display bot response with formatted HTML content
-        const botMessage = document.createElement("div");
-        botMessage.classList.add("message", "bot");
-        botMessage.innerHTML = `<p>LLM-Bible Bot:</p><ul>${formatBotResponse(papers)}</ul>`;
-        messagesDiv.appendChild(botMessage);
-        
-        console.log("Bot response displayed.");  // Log the display of the bot response
+        // Ensure the JSON block is well-formed before parsing
+        if (jsonStart !== -1 && jsonEnd !== -1) {
+          const jsonString = result.answer.substring(jsonStart + 7, jsonEnd).trim();  // Get the JSON part, removing '```json' and '```'
+          const papers = JSON.parse(jsonString);  // Parse the extracted JSON
+          console.log("Parsed papers:", papers);  // Log the parsed papers array
+
+          // Display bot response with formatted HTML content
+          const botMessage = document.createElement("div");
+          botMessage.classList.add("message", "bot");
+          botMessage.innerHTML = `<p>LLM-Bible Bot:</p><ul>${formatBotResponse(papers)}</ul>`;
+          messagesDiv.appendChild(botMessage);
+          
+          console.log("Bot response displayed.");  // Log the display of the bot response
+        } else {
+          throw new Error("No valid JSON block found.");
+        }
       } catch (jsonError) {
         console.error("Error parsing the JSON in the 'answer' field:", jsonError);
         const errorMessage = document.createElement("div");
