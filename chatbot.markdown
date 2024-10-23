@@ -161,10 +161,12 @@ async function sendQuery() {
     const result = await response.json();
     console.log("Parsed response JSON:", result);  // Log the parsed JSON
 
-    // Check if the result contains an answer field with a JSON string
+    // Extract and clean the JSON content within the 'answer' field
     if (result.answer) {
       try {
-        const papers = JSON.parse(result.answer);
+        // Remove backticks and newlines from the JSON string
+        const jsonString = result.answer.replace(/```json|```/g, '').trim();
+        const papers = JSON.parse(jsonString);
         console.log("Parsed papers:", papers);  // Log the parsed papers array
 
         // Display bot response with formatted HTML content
@@ -219,7 +221,6 @@ function formatBotResponse(papers) {
   console.log("Formatted response:", formattedResponse);  // Log the final formatted response
   return formattedResponse;
 }
-
 
 </script>
 
