@@ -231,5 +231,3 @@ function formatBotResponse(papers) {
 
 </script>
 
-</script>
-
