@@ -106,6 +106,10 @@ This website is dedicated to exploring the fascinating world of LLMs. Here, you 
 </style>
 
 <script>
+window.onload = function() {
+  displayWelcomeMessage();
+};
+
 async function sendQuery() {
   const query = document.getElementById("query").value;
   const messagesDiv = document.getElementById("messages");
@@ -155,6 +159,11 @@ async function sendQuery() {
 
   messagesDiv.scrollTop = messagesDiv.scrollHeight;
   console.log("Scrolled to bottom.");
+}
+
+// Function to display a welcome message when the page loads
+function displayWelcomeMessage() {
+  displayBotMessage("Hello! I'm LLM-Bible Bot. How can I assist you today?");
 }
 
 // Function to parse JSON content within 'answer' and display it
