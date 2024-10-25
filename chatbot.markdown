@@ -116,16 +116,24 @@ Feel free to ask any of your own questions!
 
 <script>
 // Fetch popular queries from your Flask endpoint
-fetch("https://your_flask_app.com/popular-queries")
+fetch("https://aicoinanalysis.com/popular-queries")
     .then(response => response.json())
     .then(data => {
         const queriesList = document.getElementById("popular-queries-list");
 
-        data.forEach(item => {
-            const listItem = document.createElement("li");
-            listItem.innerHTML = `<strong>${item.query}</strong> (${item.count} searches)`;
-            queriesList.appendChild(listItem);
-        });
+        if (data.length === 0) {
+            // Display default message if no queries are returned
+            const defaultMessage = document.createElement("li");
+            defaultMessage.textContent = "No queries yet";
+            queriesList.appendChild(defaultMessage);
+        } else {
+            // Display each popular query
+            data.forEach(item => {
+                const listItem = document.createElement("li");
+                listItem.innerHTML = `<strong>${item.query}</strong> (${item.count} searches)`;
+                queriesList.appendChild(listItem);
+            });
+        }
     })
     .catch(error => {
         console.error("Error loading popular queries:", error);
