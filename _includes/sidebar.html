@@ -46,8 +46,10 @@ function search() {
   try {
     ga('send', 'event', 'search', 'search', query);
   } finally {
-    // Update the hash and trigger a hashchange event
-    window.location.hash = encodeURIComponent(query);
+    // Redirect to papers.html and set the hash
+    window.location = "{% link papers.html %}#" + encodeURIComponent(query);
   }
+}
+
 }
 </script>
