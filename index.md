@@ -33,4 +33,4 @@ Anyone can add a paper to this website by completing a [web form](contributing.h
 
 ---
 
-Copyright © [Sean Moran](https://sjmoran.github.io/) 2024. All opinions are my own. Forked from [Machine Learning on Source Code](https://ml4code.github.io).
+Copyright © [Sean Moran](https://sjmoran.github.io/) 2024. All opinions are my own.
