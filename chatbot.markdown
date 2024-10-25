@@ -27,6 +27,11 @@ Feel free to ask any of your own questions!
   </div>
 </div>
 
+<div class="container">
+    <h2>Popular Queries</h2>
+    <ul id="popular-queries-list"></ul>
+</div>
+
 
 <style>
 /* Chatbox Container */
@@ -108,6 +113,24 @@ Feel free to ask any of your own questions!
   background-color: #1e88e5;
 }
 </style>
+
+<script>
+// Fetch popular queries from your Flask endpoint
+fetch("https://your_flask_app.com/popular-queries")
+    .then(response => response.json())
+    .then(data => {
+        const queriesList = document.getElementById("popular-queries-list");
+
+        data.forEach(item => {
+            const listItem = document.createElement("li");
+            listItem.innerHTML = `<strong>${item.query}</strong> (${item.count} searches)`;
+            queriesList.appendChild(listItem);
+        });
+    })
+    .catch(error => {
+        console.error("Error loading popular queries:", error);
+    });
+</script>
 
 <script>
 window.onload = function() {
