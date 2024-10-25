@@ -108,6 +108,7 @@ Feel free to ask any of your own questions!
   background-color: #1e88e5;
 }
 </style>
+
 <script>
 async function sendQuery() {
   const query = document.getElementById("query").value;
@@ -116,16 +117,12 @@ async function sendQuery() {
   console.log("User query:", query);  // Log the user's query
 
   // Display user message
-  const userMessage = document.createElement("div");
-  userMessage.classList.add("message", "user");
-  userMessage.textContent = "You: " + query;
-  messagesDiv.appendChild(userMessage);
+  appendMessage("user", "You: " + query);
   document.getElementById("query").value = ""; // Clear input
 
   try {
-    // Log the start of the fetch request
     console.log("Sending request to the backend...");
-    
+
     // Fetch response from backend
     const response = await fetch("https://aicoinanalysis.com/chat", {
       method: "POST",
@@ -135,98 +132,85 @@ async function sendQuery() {
       body: JSON.stringify({ user_input: query })
     });
 
-    console.log("Response received:", response);  // Log the response
-
     if (response.status === 429) {
-      // Handle rate limit error
-      const errorMessage = document.createElement("div");
-      errorMessage.classList.add("message", "bot");
-      errorMessage.textContent = "LLM-Bible Bot: Rate limit reached, please try again tomorrow.";
-      messagesDiv.appendChild(errorMessage);
-      
-      console.warn("Rate limit reached.");  // Log rate limit issue
+      displayBotMessage("Rate limit reached, please try again tomorrow.");
+      console.warn("Rate limit reached.");
       return;
     }
 
     if (!response.ok) {
       const errorData = await response.json();
-      const errorMessage = errorData.error || 'Unknown error occurred';
-      throw new Error(errorMessage);
+      throw new Error(errorData.error || "Unknown error occurred");
     }
-
-    // Log the successful status
-    console.log("Successful response, processing...");
 
     const result = await response.json();
-    console.log("Parsed response JSON:", result);  // Log the parsed JSON
+    console.log("Parsed response JSON:", result);
 
-    // Extract and clean the JSON content within the 'answer' field
     if (result.answer) {
-      try {
-        // Extract the part of the answer that contains the JSON data
-        const jsonStart = result.answer.indexOf('```json');
-        const jsonEnd = result.answer.lastIndexOf('```');
-
-        // Ensure the JSON block is well-formed before parsing
-        if (jsonStart !== -1 && jsonEnd !== -1) {
-          const jsonString = result.answer.substring(jsonStart + 7, jsonEnd).trim();  // Get the JSON part, removing '```json' and '```'
-          const papers = JSON.parse(jsonString);  // Parse the extracted JSON
-          console.log("Parsed papers:", papers);  // Log the parsed papers array
-
-          // Display bot response with formatted HTML content
-          const botMessage = document.createElement("div");
-          botMessage.classList.add("message", "bot");
-          botMessage.innerHTML = `<p>LLM-Bible Bot:</p><ul>${formatBotResponse(papers)}</ul>`;
-          messagesDiv.appendChild(botMessage);
-          
-          console.log("Bot response displayed.");  // Log the display of the bot response
-        } else {
-          throw new Error("No valid JSON block found.");
-        }
-      } catch (jsonError) {
-        console.error("Error parsing the JSON in the 'answer' field:", jsonError);
-        const errorMessage = document.createElement("div");
-        errorMessage.classList.add("message", "bot");
-        errorMessage.textContent = `LLM-Bible Bot: Error parsing the response data.`;
-        messagesDiv.appendChild(errorMessage);
-      }
+      parseAndDisplayAnswer(result.answer);
     } else {
+      displayBotMessage("No answer field found in the response.");
       console.warn("No 'answer' field found in the response.");
-      const errorMessage = document.createElement("div");
-      errorMessage.classList.add("message", "bot");
-      errorMessage.textContent = `LLM-Bible Bot: No answer field found in the response.`;
-      messagesDiv.appendChild(errorMessage);
     }
   } catch (error) {
-    const errorMessage = document.createElement("div");
-    errorMessage.classList.add("message", "bot");
-    errorMessage.textContent = `LLM-Bible Bot: Error - ${error.message}`;
-    messagesDiv.appendChild(errorMessage);
-
-    console.error("Error occurred:", error);  // Log any errors
+    displayBotMessage(`Error - ${error.message}`);
+    console.error("Error occurred:", error);
   }
 
-  // Scroll to the bottom of the chat
   messagesDiv.scrollTop = messagesDiv.scrollHeight;
-  console.log("Scrolled to bottom.");  // Log the scroll action
+  console.log("Scrolled to bottom.");
 }
 
-// Function to format bot response in JSON format into HTML bullet points
-function formatBotResponse(papers) {
-  console.log("Formatting response...");  // Log the start of formatting
+// Function to parse JSON content within 'answer' and display it
+function parseAndDisplayAnswer(answer) {
+  try {
+    const jsonStart = answer.indexOf("[");
+    const jsonEnd = answer.lastIndexOf("]") + 1;
 
-  // Ensure papers is an array before calling map
+    if (jsonStart === -1 || jsonEnd === -1) {
+      throw new Error("No valid JSON block found.");
+    }
+
+    const jsonString = answer.substring(jsonStart, jsonEnd);
+    const papers = JSON.parse(jsonString);
+    console.log("Parsed papers:", papers);
+
+    const botMessage = document.createElement("div");
+    botMessage.classList.add("message", "bot");
+    botMessage.innerHTML = `<p>LLM-Bible Bot:</p><ul>${formatBotResponse(papers)}</ul>`;
+    document.getElementById("messages").appendChild(botMessage);
+  } catch (jsonError) {
+    console.error("Error parsing JSON in 'answer' field:", jsonError);
+    displayBotMessage("Error parsing the response data.");
+  }
+}
+
+// Helper function to display bot messages
+function displayBotMessage(text) {
+  const errorMessage = document.createElement("div");
+  errorMessage.classList.add("message", "bot");
+  errorMessage.textContent = `LLM-Bible Bot: ${text}`;
+  document.getElementById("messages").appendChild(errorMessage);
+}
+
+// Helper function to append user messages
+function appendMessage(className, text) {
+  const message = document.createElement("div");
+  message.classList.add("message", className);
+  message.textContent = text;
+  document.getElementById("messages").appendChild(message);
+}
+
+// Function to format bot response into HTML bullet points
+function formatBotResponse(papers) {
   if (!Array.isArray(papers)) {
-    console.warn("Response JSON is not an array:", papers);  // Warn if it's not an array
+    console.warn("Response JSON is not an array:", papers);
     return "<li>No papers found.</li>";
   }
 
-  const formattedResponse = papers.map(paper => `
+  return papers.map(paper => `
     <li><strong><a href="${paper.url}" target="_blank">${paper.name}</a></strong>: ${paper.description}</li>
   `).join('');
-
-  console.log("Formatted response:", formattedResponse);  // Log the final formatted response
-  return formattedResponse;
 }
 
 </script>
