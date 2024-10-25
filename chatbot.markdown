@@ -9,11 +9,11 @@ Hello! I am the LLM-Bible bot, your expert guide through the vast collection of 
 - *"Can you explain how fine-tuning works in LLMs?"*
 - *"Which papers explore LLMs for multimodal tasks?"*
 - *"What is retrieval-augmented generation (RAG), and which papers discuss it?"*
-- *"Tell me about papers focusing on reinforcement learning with LLMs."*
-- *"Can you recommend some papers on the use of LLMs in NLP tasks?"*
-- *"What are the key conferences for LLM research?"*
-- *"How can I use LLMs for code generation?"*
-- *"Can you surprise me with very unique LLM papers?"*
+
+<div class="container">
+    <h2>Popular Queries</h2>
+    <ul id="popular-queries-list"></ul>
+</div>
 
 Feel free to ask any of your own questions!
 
@@ -25,11 +25,6 @@ Feel free to ask any of your own questions!
       <button onclick="sendQuery()" class="send-button">Send</button>
     </div>
   </div>
-</div>
-
-<div class="container">
-    <h2>Popular Queries</h2>
-    <ul id="popular-queries-list"></ul>
 </div>
 
 
