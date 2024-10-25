@@ -4,7 +4,7 @@ title: LLM News Digest
 description: LLM News Digest
 ---
 
-Join our daily newsletter for a curated selection of the latest large language model research. Get summaries on topics like BERT, GPT, attention mechanisms, multimodal models, reinforcement learning, and more. 
+Join 1000s of subscribers to our daily newsletter for a curated selection of the latest large language model research. Get summaries on topics like BERT, GPT, attention mechanisms, multimodal models, reinforcement learning, and more. 
 
 <form action="https://formkeep.com/f/23edb263fbb7" accept-charset="UTF-8" enctype="multipart/form-data" method="POST" class="llm-news-digest-form">
   <input type="text" name="email" class="llm-news-input" placeholder="Your Email Address"><br><br>
