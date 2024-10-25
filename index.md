@@ -11,7 +11,7 @@ Large Language Models (LLMs) represent a groundbreaking leap in artificial intel
 
 This website is dedicated to exploring the fascinating world of LLMs. Here, you will find a curated collection of research papers and educational materials to learn about LLMs. 
 
-#### 🏷 Chat with the Papers
+#### 🏷 Chat with 10,000 LLM Papers
 
 <div class="chat-container">
   <div class="chatbox">
@@ -208,6 +208,7 @@ function formatBotResponse(papers) {
     <li><strong><a href="${paper.url}" target="_blank">${paper.name}</a></strong>: ${paper.description}</li>
   `).join('');
 }
+</script>
 
 #### 🏷 Browse Papers by Tag
 {% assign rawtags = Array.new %}
