@@ -27,7 +27,6 @@ Feel free to ask any of your own questions!
   </div>
 </div>
 
-
 <style>
 /* Chatbox Container */
 .chat-container {
@@ -125,7 +124,7 @@ fetch("https://aicoinanalysis.com/popular-queries")
             // Display each popular query
             data.forEach(item => {
                 const listItem = document.createElement("li");
-                listItem.innerHTML = `<strong>${item.query}</strong> (${item.count} searches)`;
+                listItem.innerHTML = `<strong>${item.query}</strong>`;
                 queriesList.appendChild(listItem);
             });
         }
@@ -236,7 +235,7 @@ function appendMessage(className, text) {
   document.getElementById("messages").appendChild(message);
 }
 
-// Function to format bot response into HTML bullet points
+// Function to format bot response into HTML bullet points with proper capitalization
 function formatBotResponse(papers) {
   if (!Array.isArray(papers)) {
     console.warn("Response JSON is not an array:", papers);
@@ -244,8 +243,23 @@ function formatBotResponse(papers) {
   }
 
   return papers.map(paper => `
-    <li><strong><a href="${paper.url}" target="_blank">${paper.name}</a></strong>: ${paper.description}</li>
+    <li><strong><a href="${paper.url}" target="_blank">${capitalizeTitle(paper.name)}</a></strong>: ${capitalizeSentence(paper.description)}</li>
   `).join('');
 }
-</script>
 
+// Helper function to capitalize the first letter of each significant word in the title
+function capitalizeTitle(title) {
+  return title.split(" ").map(word => {
+    // Capitalize nouns and significant words, ignore minor words like "the", "in", "and" unless they are the first word
+    if (["the", "in", "and", "of", "to", "for"].includes(word.toLowerCase())) {
+      return word.toLowerCase();
+    }
+    return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+  }).join(" ");
+}
+
+// Helper function to capitalize the first letter of a sentence
+function capitalizeSentence(sentence) {
+  return sentence.charAt(0).toUpperCase() + sentence.slice(1);
+}
+</script>
