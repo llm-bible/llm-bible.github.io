@@ -74,7 +74,7 @@ the information of existing papers or adding new work.
 <script>
   var datatable;
 
-    function searchTable() {
+  function searchTable() {
     var hash = decodeURIComponent(window.location.hash.substr(1));
     if (hash) {
       datatable.search(hash).draw();
@@ -106,11 +106,14 @@ the information of existing papers or adding new work.
         $('#loading').hide();
         // Show the table
         $('#allPapers').show();
+        // Perform the initial search based on the hash (if any)
+        searchTable();
       }
     });
   });
 
+  // Update search whenever the hash changes
   $(window).on('hashchange', function() {
-    searchTable();  // Update search when URL hash changes
+    searchTable();
   });
 </script>
