@@ -3,7 +3,7 @@ layout: page
 title: Chat with the LLM-Bible Bot
 description: LLM-Bible Chatbot
 ---
-Hello! I am the LLM-Bible bot, your expert guide through the vast collection of over 10,000 papers on Large Language Models (LLMs). You can ask me anything about LLMs, research resources, or key trends in the field. Here are some examples of questions you could ask me:
+The LLM-Bible chatbot can help you find relevant papers, with 10,000 papers currently in the vector index. Some example queries:
 
 - *"What are the latest advancements in transformer models?"*
 - *"Can you explain how fine-tuning works in LLMs?"*
@@ -249,9 +249,10 @@ function formatBotResponse(papers) {
 
 // Helper function to capitalize the first letter of each significant word in the title
 function capitalizeTitle(title) {
-  return title.split(" ").map(word => {
-    // Capitalize nouns and significant words, ignore minor words like "the", "in", "and" unless they are the first word
-    if (["the", "in", "and", "of", "to", "for"].includes(word.toLowerCase())) {
+  const minorWords = ["the", "in", "and", "of", "to", "for"];
+  return title.split(" ").map((word, index) => {
+    // Capitalize first word and significant words; keep minor words lowercase unless first
+    if (minorWords.includes(word.toLowerCase()) && index !== 0) {
       return word.toLowerCase();
     }
     return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
