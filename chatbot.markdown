@@ -124,7 +124,7 @@ fetch("https://aicoinanalysis.com/popular-queries")
             // Display each popular query
             data.forEach(item => {
                 const listItem = document.createElement("li");
-                listItem.innerHTML = `<strong>${item.query}</strong>`;
+                listItem.innerHTML = `<strong>${capitalizeFirstLetter(item.query)}</strong>`;
                 queriesList.appendChild(listItem);
             });
         }
@@ -132,6 +132,11 @@ fetch("https://aicoinanalysis.com/popular-queries")
     .catch(error => {
         console.error("Error loading popular queries:", error);
     });
+
+// Function to capitalize the first letter of each query
+function capitalizeFirstLetter(query) {
+    return query.charAt(0).toUpperCase() + query.slice(1);
+}
 </script>
 
 <script>
