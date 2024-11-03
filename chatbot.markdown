@@ -3,15 +3,10 @@ layout: page
 title: Chat with the LLM-Bible Bot
 description: LLM-Bible Chatbot
 ---
-The LLM-Bible Chatbot can help you find relevant papers, with over 10,000 currently ingested into the Bot's RAG vector index. Some example queries:
-
-- *"What are the latest advancements in transformer models?"*
-- *"Can you explain how fine-tuning works in LLMs?"*
-- *"Which papers explore LLMs for multimodal tasks?"*
-- *"What is retrieval-augmented generation (RAG), and which papers discuss it?"*
+The LLM-Bible Chatbot can help you find relevant papers, with over 10,000 currently ingested into the Bot's RAG vector index. 
 
 <div class="container">
-    <h2>Popular Queries</h2>
+    <h3>Popular Queries</h3>
     <ul id="popular-queries-list"></ul>
 </div>
 
