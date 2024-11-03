@@ -116,8 +116,11 @@ fetch("https://aicoinanalysis.com/popular-queries")
             defaultMessage.textContent = "No queries yet";
             queriesList.appendChild(defaultMessage);
         } else {
-            // Display each popular query
-            data.forEach(item => {
+            // Shuffle the data array and select 5 random queries
+            const shuffledData = data.sort(() => 0.5 - Math.random()).slice(0, 5);
+
+            // Display each random popular query
+            shuffledData.forEach(item => {
                 const listItem = document.createElement("li");
                 listItem.innerHTML = `<strong>${capitalizeFirstLetter(item.query)}</strong>`;
                 queriesList.appendChild(listItem);
@@ -133,6 +136,7 @@ function capitalizeFirstLetter(query) {
     return query.charAt(0).toUpperCase() + query.slice(1);
 }
 </script>
+
 
 <script>
 window.onload = function() {
