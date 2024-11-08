@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <!-- Begin Web-Stat code v 7.0 -->
+  <span id="wts2185292"></span>
+  <script>
+    var wts = document.createElement('script');
+    wts.async = true;
+    wts.src = 'https://app.ardalio.com/log7.js';
+    document.head.appendChild(wts);
+    wts.onload = function() {
+      wtslog7(2185292, 2);
+    };
+  </script>
+  <noscript>
+    <a href="https://www.web-stat.com">
+      <img src="https://app.ardalio.com/7/2/2185292.png" alt="Web-Stat analytics">
+    </a>
+  </noscript>
+  <!-- End Web-Stat code v 7.0 -->
+
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107339008-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-107339008-1');
+  </script>
+
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta
+    name="keywords"
+    content="large language models, GPT, transformers, BERT, natural language processing, NLP, deep learning, machine learning, source code, big code, naturalness, software engineering, programming languages, fine-tuning, pretraining, autoregressive models, attention mechanisms, multi-modal models, text generation, reinforcement learning with human feedback, RLHF, GPT-3, GPT-4, ChatGPT, OpenAI, model architectures, transfer learning, LLM applications, LLM benchmarks, LLM interpretability"
+  >
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [["\\(","\\)"]],
+        displayMath: [["\\[","\\]"]],
+      },
+      options: {
+        processHtmlClass: "mathjax-content",
+        processEscapes: true,
+      }
+    };
+  </script>
+  <script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <title>
+    
+      Incremental Learning Of Humanoid Robot Behavior From Natural Interaction And Large Language Models &middot; The Large Language Model Bible
+    
+  </title>
+
+  <!-- Enable responsiveness on mobile devices -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface"
+  >
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/public/favicon.svg">
+  <link
+    rel="search"
+    href="/public/opensearchdescription.xml"
+    type="application/opensearchdescription+xml"
+    title="LLM-Bible"
+  />
+
+  <!-- jQuery Library -->
+  <script
+    src="https://code.jquery.com/jquery-3.2.1.min.js"
+    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+    crossorigin="anonymous"
+  ></script>
+
+  <!-- DataTables CSS -->
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css"
+  >
+
+  <!-- DataTables JS -->
+  <script
+    type="text/javascript"
+    charset="utf8"
+    src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"
+  ></script>
+</head>
+
+
+  <body class="theme-base-0d layout-reverse">
+
+    <a href='/contributing.html' class='ribbon'>Contribute to LLM-Bible</a>
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          The Large Language Model Bible
+        </a>
+      </h1>
+      <p class="lead">Research on Large Language Models. Maintained by <a href="http://sjmoran.github.io/">Sean Moran</a>.</p>      
+    </div>
+
+    <nav class="sidebar-nav">
+      <div class="sidebar-item">
+        <p style="font-size: 12px">Search related work 
+          <input type='text' id='searchTarget' size="16"/> 
+          <button onClick="search();">Go</button>
+        </p>
+      </div>
+      <a class="sidebar-nav-item" href="/papers.html">List of Papers</a>
+      <a class="sidebar-nav-item" href="/tags.html">Papers by Tag</a>
+      <a class="sidebar-nav-item" href="/tsne-viz.html">2D Map of Papers</a>
+      <a class="sidebar-nav-item" href="/topic-viz.html">Topic-based Explorer</a>
+      <a class="sidebar-nav-item" href="/chatbot.html">Chatbot-based Explorer</a>
+      <a class="sidebar-nav-item" href="/resources.html">Resources, Courses & Events</a>
+      <a class="sidebar-nav-item" href="/contributing.html">Contributing</a>
+    </nav>
+
+    <div class="sidebar-item">
+      <p style="font-size: 12px">Contact <a href="https://sjmoran.github.io">Sean Moran</a> about this survey or website.
+      <span style="font-size: 9px">
+        Made with <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://github.com/poole/hyde">Hyde</a>.
+      </span></p>
+    </div>
+  </div>
+</div>
+
+<script>
+  // Initiate search when 'Enter' is pressed in the search input
+  $("#searchTarget").keydown(function (e) {	
+    if (e.keyCode == 13) {
+      search();
+    }
+  });
+
+  function search() {
+    var query = $("#searchTarget").val();
+    try {
+      ga('send', 'event', 'search', 'search', query);  // Google Analytics event tracking
+    } finally {
+      // Redirect to papers.html with the query as a hash
+      window.location = "/papers.html#" + encodeURIComponent(query);
+    }
+  }
+</script>
+
+
+    <div class="content container">
+      <div class="page">
+  <h1 class="page-title">Incremental Learning Of Humanoid Robot Behavior From Natural Interaction And Large Language Models</h1>
+  <h5>Bärmann Leonard, Kartmann Rainer, Peller-konrad Fabian, Niehues Jan, Waibel Alex, Asfour Tamim. Arxiv 2023</h5>
+  <p>
+    
+      [<a href="https://arxiv.org/abs/2309.04316" target="_blank">Paper</a>]
+    
+    &nbsp;<a href='http://scholar.google.com/scholar?q=Incremental Learning Of Humanoid Robot Behavior From Natural Interaction And Large Language Models' target="_blank"><img  style="display: inline; margin: 0;" src="/public/media/google-scholar.png"/></a>
+    &nbsp;<a href='https://www.semanticscholar.org/search?q=Incremental Learning Of Humanoid Robot Behavior From Natural Interaction And Large Language Models' target="_blank"><img style="display: inline; margin: 0;" src="/public/media/semscholar.png"/></a>
+    <br/>
+    
+      <tag><a href="/tags.html#Model Architecture">Model Architecture</a></tag>
+    
+      <tag><a href="/tags.html#Prompting">Prompting</a></tag>
+    
+      <tag><a href="/tags.html#Reinforcement Learning">Reinforcement Learning</a></tag>
+    
+  </p>
+  <p><p>Natural-language dialog is key for intuitive human-robot interaction. It can
+be used not only to express humans’ intents, but also to communicate
+instructions for improvement if a robot does not understand a command
+correctly. Of great importance is to endow robots with the ability to learn
+from such interaction experience in an incremental way to allow them to improve
+their behaviors or avoid mistakes in the future. In this paper, we propose a
+system to achieve incremental learning of complex behavior from natural
+interaction, and demonstrate its implementation on a humanoid robot. Building
+on recent advances, we present a system that deploys Large Language Models
+(LLMs) for high-level orchestration of the robot’s behavior, based on the idea
+of enabling the LLM to generate Python statements in an interactive console to
+invoke both robot perception and action. The interaction loop is closed by
+feeding back human instructions, environment observations, and execution
+results to the LLM, thus informing the generation of the next statement.
+Specifically, we introduce incremental prompt learning, which enables the
+system to interactively learn from its mistakes. For that purpose, the LLM can
+call another LLM responsible for code-level improvements of the current
+interaction based on human feedback. The improved interaction is then saved in
+the robot’s memory, and thus retrieved on similar requests. We integrate the
+system in the robot cognitive architecture of the humanoid robot ARMAR-6 and
+evaluate our methods both quantitatively (in simulation) and qualitatively (in
+simulation and real-world) by demonstrating generalized incrementally-learned
+knowledge.</p>
+</p>
+
+  <h6>Similar Work</h6>
+  <p>
+    <ul id="relwork">
+
+    </ul>
+  </p>
+
+  <script>  
+    $(document).ready(
+      function() {
+          $.getJSON("https://raw.githubusercontent.com/llm-bible/llm-bible.github.io/master/publications-metadata/bärmann2023incremental.json", function(data) {
+          num_papers = data.length;
+          html = "";
+          for (let i=0; i < num_papers; i++) {
+              html += '<li><a href="/publications/' + data[i][0] + '">'+ data[i][1] +'</a></li>'
+          }
+          $("#relwork").append(html);
+        });
+      });
+  </script>
+
+</div>
+
+    </div>
+
+    <!-- 
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        let isBot = true;
+
+        // Check for mouse movement or keyboard interaction
+        document.addEventListener('mousemove', function () {
+          isBot = false;
+        });
+        document.addEventListener('keydown', function () {
+          isBot = false;
+        });
+
+        // Redirect or take action if no user interaction is detected
+        setTimeout(function () {
+          if (isBot) {
+            // Redirect to a challenge page or show a message
+            window.location.href = '/challenge-page.html'; // Update with your actual challenge page
+          }
+        }, 5000); // Adjust the time delay as needed
+      });
+    </script>
+    -->
+  </body>
+</html>

@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <!-- Begin Web-Stat code v 7.0 -->
+  <span id="wts2185292"></span>
+  <script>
+    var wts = document.createElement('script');
+    wts.async = true;
+    wts.src = 'https://app.ardalio.com/log7.js';
+    document.head.appendChild(wts);
+    wts.onload = function() {
+      wtslog7(2185292, 2);
+    };
+  </script>
+  <noscript>
+    <a href="https://www.web-stat.com">
+      <img src="https://app.ardalio.com/7/2/2185292.png" alt="Web-Stat analytics">
+    </a>
+  </noscript>
+  <!-- End Web-Stat code v 7.0 -->
+
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107339008-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-107339008-1');
+  </script>
+
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta
+    name="keywords"
+    content="large language models, GPT, transformers, BERT, natural language processing, NLP, deep learning, machine learning, source code, big code, naturalness, software engineering, programming languages, fine-tuning, pretraining, autoregressive models, attention mechanisms, multi-modal models, text generation, reinforcement learning with human feedback, RLHF, GPT-3, GPT-4, ChatGPT, OpenAI, model architectures, transfer learning, LLM applications, LLM benchmarks, LLM interpretability"
+  >
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [["\\(","\\)"]],
+        displayMath: [["\\[","\\]"]],
+      },
+      options: {
+        processHtmlClass: "mathjax-content",
+        processEscapes: true,
+      }
+    };
+  </script>
+  <script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <title>
+    
+      Internlm-law: An Open Source Chinese Legal Large Language Model &middot; The Large Language Model Bible
+    
+  </title>
+
+  <!-- Enable responsiveness on mobile devices -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface"
+  >
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/public/favicon.svg">
+  <link
+    rel="search"
+    href="/public/opensearchdescription.xml"
+    type="application/opensearchdescription+xml"
+    title="LLM-Bible"
+  />
+
+  <!-- jQuery Library -->
+  <script
+    src="https://code.jquery.com/jquery-3.2.1.min.js"
+    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+    crossorigin="anonymous"
+  ></script>
+
+  <!-- DataTables CSS -->
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css"
+  >
+
+  <!-- DataTables JS -->
+  <script
+    type="text/javascript"
+    charset="utf8"
+    src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"
+  ></script>
+</head>
+
+
+  <body class="theme-base-0d layout-reverse">
+
+    <a href='/contributing.html' class='ribbon'>Contribute to LLM-Bible</a>
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          The Large Language Model Bible
+        </a>
+      </h1>
+      <p class="lead">Research on Large Language Models. Maintained by <a href="http://sjmoran.github.io/">Sean Moran</a>.</p>      
+    </div>
+
+    <nav class="sidebar-nav">
+      <div class="sidebar-item">
+        <p style="font-size: 12px">Search related work 
+          <input type='text' id='searchTarget' size="16"/> 
+          <button onClick="search();">Go</button>
+        </p>
+      </div>
+      <a class="sidebar-nav-item" href="/papers.html">List of Papers</a>
+      <a class="sidebar-nav-item" href="/tags.html">Papers by Tag</a>
+      <a class="sidebar-nav-item" href="/tsne-viz.html">2D Map of Papers</a>
+      <a class="sidebar-nav-item" href="/topic-viz.html">Topic-based Explorer</a>
+      <a class="sidebar-nav-item" href="/chatbot.html">Chatbot-based Explorer</a>
+      <a class="sidebar-nav-item" href="/resources.html">Resources, Courses & Events</a>
+      <a class="sidebar-nav-item" href="/contributing.html">Contributing</a>
+    </nav>
+
+    <div class="sidebar-item">
+      <p style="font-size: 12px">Contact <a href="https://sjmoran.github.io">Sean Moran</a> about this survey or website.
+      <span style="font-size: 9px">
+        Made with <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://github.com/poole/hyde">Hyde</a>.
+      </span></p>
+    </div>
+  </div>
+</div>
+
+<script>
+  // Initiate search when 'Enter' is pressed in the search input
+  $("#searchTarget").keydown(function (e) {	
+    if (e.keyCode == 13) {
+      search();
+    }
+  });
+
+  function search() {
+    var query = $("#searchTarget").val();
+    try {
+      ga('send', 'event', 'search', 'search', query);  // Google Analytics event tracking
+    } finally {
+      // Redirect to papers.html with the query as a hash
+      window.location = "/papers.html#" + encodeURIComponent(query);
+    }
+  }
+</script>
+
+
+    <div class="content container">
+      <div class="page">
+  <h1 class="page-title">Internlm-law: An Open Source Chinese Legal Large Language Model</h1>
+  <h5>Fei Zhiwei, Zhang Songyang, Shen Xiaoyu, Zhu Dawei, Wang Xiao, Cao Maosong, Zhou Fengzhe, Li Yining, Zhang Wenwei, Lin Dahua, Chen Kai, Ge Jidong. Arxiv 2024</h5>
+  <p>
+    
+      [<a href="https://arxiv.org/abs/2406.14887" target="_blank">Paper</a>]
+    
+    &nbsp;<a href='http://scholar.google.com/scholar?q=Internlm-law: An Open Source Chinese Legal Large Language Model' target="_blank"><img  style="display: inline; margin: 0;" src="/public/media/google-scholar.png"/></a>
+    &nbsp;<a href='https://www.semanticscholar.org/search?q=Internlm-law: An Open Source Chinese Legal Large Language Model' target="_blank"><img style="display: inline; margin: 0;" src="/public/media/semscholar.png"/></a>
+    <br/>
+    
+      <tag><a href="/tags.html#Fine Tuning">Fine Tuning</a></tag>
+    
+      <tag><a href="/tags.html#GPT">GPT</a></tag>
+    
+      <tag><a href="/tags.html#Model Architecture">Model Architecture</a></tag>
+    
+      <tag><a href="/tags.html#Pretraining Methods">Pretraining Methods</a></tag>
+    
+      <tag><a href="/tags.html#RAG">RAG</a></tag>
+    
+      <tag><a href="/tags.html#Reinforcement Learning">Reinforcement Learning</a></tag>
+    
+      <tag><a href="/tags.html#Training Techniques">Training Techniques</a></tag>
+    
+  </p>
+  <p><p>While large language models (LLMs) have showcased impressive capabilities,
+they struggle with addressing legal queries due to the intricate complexities
+and specialized expertise required in the legal field. In this paper, we
+introduce InternLM-Law, a specialized LLM tailored for addressing diverse legal
+queries related to Chinese laws, spanning from responding to standard legal
+questions (e.g., legal exercises in textbooks) to analyzing complex real-world
+legal situations. We meticulously construct a dataset in the Chinese legal
+domain, encompassing over 1 million queries, and implement a data filtering and
+processing pipeline to ensure its diversity and quality. Our training approach
+involves a novel two-stage process: initially fine-tuning LLMs on both
+legal-specific and general-purpose content to equip the models with broad
+knowledge, followed by exclusive fine-tuning on high-quality legal data to
+enhance structured output generation. InternLM-Law achieves the highest average
+performance on LawBench, outperforming state-of-the-art models, including
+GPT-4, on 13 out of 20 subtasks. We make InternLM-Law and our dataset publicly
+available to facilitate future research in applying LLMs within the legal
+domain.</p>
+</p>
+
+  <h6>Similar Work</h6>
+  <p>
+    <ul id="relwork">
+
+    </ul>
+  </p>
+
+  <script>  
+    $(document).ready(
+      function() {
+          $.getJSON("https://raw.githubusercontent.com/llm-bible/llm-bible.github.io/master/publications-metadata/fei2024internlm.json", function(data) {
+          num_papers = data.length;
+          html = "";
+          for (let i=0; i < num_papers; i++) {
+              html += '<li><a href="/publications/' + data[i][0] + '">'+ data[i][1] +'</a></li>'
+          }
+          $("#relwork").append(html);
+        });
+      });
+  </script>
+
+</div>
+
+    </div>
+
+    <!-- 
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        let isBot = true;
+
+        // Check for mouse movement or keyboard interaction
+        document.addEventListener('mousemove', function () {
+          isBot = false;
+        });
+        document.addEventListener('keydown', function () {
+          isBot = false;
+        });
+
+        // Redirect or take action if no user interaction is detected
+        setTimeout(function () {
+          if (isBot) {
+            // Redirect to a challenge page or show a message
+            window.location.href = '/challenge-page.html'; // Update with your actual challenge page
+          }
+        }, 5000); // Adjust the time delay as needed
+      });
+    </script>
+    -->
+  </body>
+</html>

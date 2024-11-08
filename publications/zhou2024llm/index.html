@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <!-- Begin Web-Stat code v 7.0 -->
+  <span id="wts2185292"></span>
+  <script>
+    var wts = document.createElement('script');
+    wts.async = true;
+    wts.src = 'https://app.ardalio.com/log7.js';
+    document.head.appendChild(wts);
+    wts.onload = function() {
+      wtslog7(2185292, 2);
+    };
+  </script>
+  <noscript>
+    <a href="https://www.web-stat.com">
+      <img src="https://app.ardalio.com/7/2/2185292.png" alt="Web-Stat analytics">
+    </a>
+  </noscript>
+  <!-- End Web-Stat code v 7.0 -->
+
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107339008-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-107339008-1');
+  </script>
+
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta
+    name="keywords"
+    content="large language models, GPT, transformers, BERT, natural language processing, NLP, deep learning, machine learning, source code, big code, naturalness, software engineering, programming languages, fine-tuning, pretraining, autoregressive models, attention mechanisms, multi-modal models, text generation, reinforcement learning with human feedback, RLHF, GPT-3, GPT-4, ChatGPT, OpenAI, model architectures, transfer learning, LLM applications, LLM benchmarks, LLM interpretability"
+  >
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [["\\(","\\)"]],
+        displayMath: [["\\[","\\]"]],
+      },
+      options: {
+        processHtmlClass: "mathjax-content",
+        processEscapes: true,
+      }
+    };
+  </script>
+  <script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <title>
+    
+      An LLM Feature-based Framework For Dialogue Constructiveness Assessment &middot; The Large Language Model Bible
+    
+  </title>
+
+  <!-- Enable responsiveness on mobile devices -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface"
+  >
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/public/favicon.svg">
+  <link
+    rel="search"
+    href="/public/opensearchdescription.xml"
+    type="application/opensearchdescription+xml"
+    title="LLM-Bible"
+  />
+
+  <!-- jQuery Library -->
+  <script
+    src="https://code.jquery.com/jquery-3.2.1.min.js"
+    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+    crossorigin="anonymous"
+  ></script>
+
+  <!-- DataTables CSS -->
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css"
+  >
+
+  <!-- DataTables JS -->
+  <script
+    type="text/javascript"
+    charset="utf8"
+    src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"
+  ></script>
+</head>
+
+
+  <body class="theme-base-0d layout-reverse">
+
+    <a href='/contributing.html' class='ribbon'>Contribute to LLM-Bible</a>
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          The Large Language Model Bible
+        </a>
+      </h1>
+      <p class="lead">Research on Large Language Models. Maintained by <a href="http://sjmoran.github.io/">Sean Moran</a>.</p>      
+    </div>
+
+    <nav class="sidebar-nav">
+      <div class="sidebar-item">
+        <p style="font-size: 12px">Search related work 
+          <input type='text' id='searchTarget' size="16"/> 
+          <button onClick="search();">Go</button>
+        </p>
+      </div>
+      <a class="sidebar-nav-item" href="/papers.html">List of Papers</a>
+      <a class="sidebar-nav-item" href="/tags.html">Papers by Tag</a>
+      <a class="sidebar-nav-item" href="/tsne-viz.html">2D Map of Papers</a>
+      <a class="sidebar-nav-item" href="/topic-viz.html">Topic-based Explorer</a>
+      <a class="sidebar-nav-item" href="/chatbot.html">Chatbot-based Explorer</a>
+      <a class="sidebar-nav-item" href="/resources.html">Resources, Courses & Events</a>
+      <a class="sidebar-nav-item" href="/contributing.html">Contributing</a>
+    </nav>
+
+    <div class="sidebar-item">
+      <p style="font-size: 12px">Contact <a href="https://sjmoran.github.io">Sean Moran</a> about this survey or website.
+      <span style="font-size: 9px">
+        Made with <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://github.com/poole/hyde">Hyde</a>.
+      </span></p>
+    </div>
+  </div>
+</div>
+
+<script>
+  // Initiate search when 'Enter' is pressed in the search input
+  $("#searchTarget").keydown(function (e) {	
+    if (e.keyCode == 13) {
+      search();
+    }
+  });
+
+  function search() {
+    var query = $("#searchTarget").val();
+    try {
+      ga('send', 'event', 'search', 'search', query);  // Google Analytics event tracking
+    } finally {
+      // Redirect to papers.html with the query as a hash
+      window.location = "/papers.html#" + encodeURIComponent(query);
+    }
+  }
+</script>
+
+
+    <div class="content container">
+      <div class="page">
+  <h1 class="page-title">An LLM Feature-based Framework For Dialogue Constructiveness Assessment</h1>
+  <h5>Zhou Lexin, Farag Youmna, Vlachos Andreas. Arxiv 2024</h5>
+  <p>
+    
+      [<a href="https://arxiv.org/abs/2406.14760" target="_blank">Paper</a>]
+    
+    &nbsp;<a href='http://scholar.google.com/scholar?q=An LLM Feature-based Framework For Dialogue Constructiveness Assessment' target="_blank"><img  style="display: inline; margin: 0;" src="/public/media/google-scholar.png"/></a>
+    &nbsp;<a href='https://www.semanticscholar.org/search?q=An LLM Feature-based Framework For Dialogue Constructiveness Assessment' target="_blank"><img style="display: inline; margin: 0;" src="/public/media/semscholar.png"/></a>
+    <br/>
+    
+      <tag><a href="/tags.html#Applications">Applications</a></tag>
+    
+      <tag><a href="/tags.html#Interpretability And Explainability">Interpretability And Explainability</a></tag>
+    
+      <tag><a href="/tags.html#Prompting">Prompting</a></tag>
+    
+      <tag><a href="/tags.html#Tools">Tools</a></tag>
+    
+      <tag><a href="/tags.html#Training Techniques">Training Techniques</a></tag>
+    
+  </p>
+  <p><p>Research on dialogue constructiveness assessment focuses on (i) analysing
+conversational factors that influence individuals to take specific actions, win
+debates, change their perspectives or broaden their open-mindedness and (ii)
+predicting constructive outcomes following dialogues for such use cases. These
+objectives can be achieved by training either interpretable feature-based
+models (which often involve costly human annotations) or neural models such as
+pre-trained language models (which have empirically shown higher task accuracy
+but lack interpretability). We propose a novel LLM feature-based framework that
+combines the strengths of feature-based and neural approaches while mitigating
+their downsides, in assessing dialogue constructiveness. The framework first
+defines a set of dataset-independent and interpretable linguistic features,
+which can be extracted by both prompting an LLM and simple heuristics. Such
+features are then used to train LLM feature-based models. We apply this
+framework to three datasets of dialogue constructiveness and find that our LLM
+feature-based models significantly outperform standard feature-based models and
+neural models, and tend to learn more robust prediction rules instead of
+relying on superficial shortcuts (as seen with neural models). Further, we
+demonstrate that interpreting these LLM feature-based models can yield valuable
+insights into what makes a dialogue constructive.</p>
+</p>
+
+  <h6>Similar Work</h6>
+  <p>
+    <ul id="relwork">
+
+    </ul>
+  </p>
+
+  <script>  
+    $(document).ready(
+      function() {
+          $.getJSON("https://raw.githubusercontent.com/llm-bible/llm-bible.github.io/master/publications-metadata/zhou2024llm.json", function(data) {
+          num_papers = data.length;
+          html = "";
+          for (let i=0; i < num_papers; i++) {
+              html += '<li><a href="/publications/' + data[i][0] + '">'+ data[i][1] +'</a></li>'
+          }
+          $("#relwork").append(html);
+        });
+      });
+  </script>
+
+</div>
+
+    </div>
+
+    <!-- 
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        let isBot = true;
+
+        // Check for mouse movement or keyboard interaction
+        document.addEventListener('mousemove', function () {
+          isBot = false;
+        });
+        document.addEventListener('keydown', function () {
+          isBot = false;
+        });
+
+        // Redirect or take action if no user interaction is detected
+        setTimeout(function () {
+          if (isBot) {
+            // Redirect to a challenge page or show a message
+            window.location.href = '/challenge-page.html'; // Update with your actual challenge page
+          }
+        }, 5000); // Adjust the time delay as needed
+      });
+    </script>
+    -->
+  </body>
+</html>

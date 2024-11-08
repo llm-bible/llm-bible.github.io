@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <!-- Begin Web-Stat code v 7.0 -->
+  <span id="wts2185292"></span>
+  <script>
+    var wts = document.createElement('script');
+    wts.async = true;
+    wts.src = 'https://app.ardalio.com/log7.js';
+    document.head.appendChild(wts);
+    wts.onload = function() {
+      wtslog7(2185292, 2);
+    };
+  </script>
+  <noscript>
+    <a href="https://www.web-stat.com">
+      <img src="https://app.ardalio.com/7/2/2185292.png" alt="Web-Stat analytics">
+    </a>
+  </noscript>
+  <!-- End Web-Stat code v 7.0 -->
+
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107339008-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-107339008-1');
+  </script>
+
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta
+    name="keywords"
+    content="large language models, GPT, transformers, BERT, natural language processing, NLP, deep learning, machine learning, source code, big code, naturalness, software engineering, programming languages, fine-tuning, pretraining, autoregressive models, attention mechanisms, multi-modal models, text generation, reinforcement learning with human feedback, RLHF, GPT-3, GPT-4, ChatGPT, OpenAI, model architectures, transfer learning, LLM applications, LLM benchmarks, LLM interpretability"
+  >
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [["\\(","\\)"]],
+        displayMath: [["\\[","\\]"]],
+      },
+      options: {
+        processHtmlClass: "mathjax-content",
+        processEscapes: true,
+      }
+    };
+  </script>
+  <script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <title>
+    
+      KPT: Keyword-guided Pre-training For Grounded Dialog Generation &middot; The Large Language Model Bible
+    
+  </title>
+
+  <!-- Enable responsiveness on mobile devices -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface"
+  >
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/public/favicon.svg">
+  <link
+    rel="search"
+    href="/public/opensearchdescription.xml"
+    type="application/opensearchdescription+xml"
+    title="LLM-Bible"
+  />
+
+  <!-- jQuery Library -->
+  <script
+    src="https://code.jquery.com/jquery-3.2.1.min.js"
+    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+    crossorigin="anonymous"
+  ></script>
+
+  <!-- DataTables CSS -->
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css"
+  >
+
+  <!-- DataTables JS -->
+  <script
+    type="text/javascript"
+    charset="utf8"
+    src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"
+  ></script>
+</head>
+
+
+  <body class="theme-base-0d layout-reverse">
+
+    <a href='/contributing.html' class='ribbon'>Contribute to LLM-Bible</a>
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          The Large Language Model Bible
+        </a>
+      </h1>
+      <p class="lead">Research on Large Language Models. Maintained by <a href="http://sjmoran.github.io/">Sean Moran</a>.</p>      
+    </div>
+
+    <nav class="sidebar-nav">
+      <div class="sidebar-item">
+        <p style="font-size: 12px">Search related work 
+          <input type='text' id='searchTarget' size="16"/> 
+          <button onClick="search();">Go</button>
+        </p>
+      </div>
+      <a class="sidebar-nav-item" href="/papers.html">List of Papers</a>
+      <a class="sidebar-nav-item" href="/tags.html">Papers by Tag</a>
+      <a class="sidebar-nav-item" href="/tsne-viz.html">2D Map of Papers</a>
+      <a class="sidebar-nav-item" href="/topic-viz.html">Topic-based Explorer</a>
+      <a class="sidebar-nav-item" href="/chatbot.html">Chatbot-based Explorer</a>
+      <a class="sidebar-nav-item" href="/resources.html">Resources, Courses & Events</a>
+      <a class="sidebar-nav-item" href="/contributing.html">Contributing</a>
+    </nav>
+
+    <div class="sidebar-item">
+      <p style="font-size: 12px">Contact <a href="https://sjmoran.github.io">Sean Moran</a> about this survey or website.
+      <span style="font-size: 9px">
+        Made with <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://github.com/poole/hyde">Hyde</a>.
+      </span></p>
+    </div>
+  </div>
+</div>
+
+<script>
+  // Initiate search when 'Enter' is pressed in the search input
+  $("#searchTarget").keydown(function (e) {	
+    if (e.keyCode == 13) {
+      search();
+    }
+  });
+
+  function search() {
+    var query = $("#searchTarget").val();
+    try {
+      ga('send', 'event', 'search', 'search', query);  // Google Analytics event tracking
+    } finally {
+      // Redirect to papers.html with the query as a hash
+      window.location = "/papers.html#" + encodeURIComponent(query);
+    }
+  }
+</script>
+
+
+    <div class="content container">
+      <div class="page">
+  <h1 class="page-title">KPT: Keyword-guided Pre-training For Grounded Dialog Generation</h1>
+  <h5>Zhu Qi, Mi Fei, Zhang Zheng, Wang Yasheng, Li Yitong, Jiang Xin, Liu Qun, Zhu Xiaoyan, Huang Minlie. Arxiv 2022</h5>
+  <p>
+    
+      [<a href="https://arxiv.org/abs/2212.01739" target="_blank">Paper</a>]
+    
+    &nbsp;<a href='http://scholar.google.com/scholar?q=KPT: Keyword-guided Pre-training For Grounded Dialog Generation' target="_blank"><img  style="display: inline; margin: 0;" src="/public/media/google-scholar.png"/></a>
+    &nbsp;<a href='https://www.semanticscholar.org/search?q=KPT: Keyword-guided Pre-training For Grounded Dialog Generation' target="_blank"><img style="display: inline; margin: 0;" src="/public/media/semscholar.png"/></a>
+    <br/>
+    
+      <tag><a href="/tags.html#Agentic">Agentic</a></tag>
+    
+      <tag><a href="/tags.html#Applications">Applications</a></tag>
+    
+      <tag><a href="/tags.html#Few Shot">Few Shot</a></tag>
+    
+      <tag><a href="/tags.html#Training Techniques">Training Techniques</a></tag>
+    
+  </p>
+  <p><p>Incorporating external knowledge into the response generation process is
+essential to building more helpful and reliable dialog agents. However,
+collecting knowledge-grounded conversations is often costly, calling for a
+better pre-trained model for grounded dialog generation that generalizes well
+w.r.t. different types of knowledge. In this work, we propose KPT
+(Keyword-guided Pre-Training), a novel self-supervised pre-training method for
+grounded dialog generation without relying on extra knowledge annotation.
+Specifically, we use a pre-trained language model to extract the most uncertain
+tokens in the dialog as keywords. With these keywords, we construct two kinds
+of knowledge and pre-train a knowledge-grounded response generation model,
+aiming at handling two different scenarios: (1) the knowledge should be
+faithfully grounded; (2) it can be selectively used. For the former, the
+grounding knowledge consists of keywords extracted from the response. For the
+latter, the grounding knowledge is additionally augmented with keywords
+extracted from other utterances in the same dialog. Since the knowledge is
+extracted from the dialog itself, KPT can be easily performed on a large volume
+and variety of dialogue data. We considered three data sources (open-domain,
+task-oriented, conversational QA) with a total of 2.5M dialogues. We conduct
+extensive experiments on various few-shot knowledge-grounded generation tasks,
+including grounding on dialog acts, knowledge graphs, persona descriptions, and
+Wikipedia passages. Our comprehensive experiments and analyses demonstrate that
+KPT consistently outperforms state-of-the-art methods on these tasks with
+diverse grounding knowledge.</p>
+</p>
+
+  <h6>Similar Work</h6>
+  <p>
+    <ul id="relwork">
+
+    </ul>
+  </p>
+
+  <script>  
+    $(document).ready(
+      function() {
+          $.getJSON("https://raw.githubusercontent.com/llm-bible/llm-bible.github.io/master/publications-metadata/zhu2022keyword.json", function(data) {
+          num_papers = data.length;
+          html = "";
+          for (let i=0; i < num_papers; i++) {
+              html += '<li><a href="/publications/' + data[i][0] + '">'+ data[i][1] +'</a></li>'
+          }
+          $("#relwork").append(html);
+        });
+      });
+  </script>
+
+</div>
+
+    </div>
+
+    <!-- 
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        let isBot = true;
+
+        // Check for mouse movement or keyboard interaction
+        document.addEventListener('mousemove', function () {
+          isBot = false;
+        });
+        document.addEventListener('keydown', function () {
+          isBot = false;
+        });
+
+        // Redirect or take action if no user interaction is detected
+        setTimeout(function () {
+          if (isBot) {
+            // Redirect to a challenge page or show a message
+            window.location.href = '/challenge-page.html'; // Update with your actual challenge page
+          }
+        }, 5000); // Adjust the time delay as needed
+      });
+    </script>
+    -->
+  </body>
+</html>
