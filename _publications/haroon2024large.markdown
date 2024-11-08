@@ -7,7 +7,7 @@ year: 2024
 bibkey: haroon2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.17760"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 Autistic individuals often experience difficulties in conveying and
 interpreting emotional tone and non-literal nuances. Many also mask their

@@ -7,7 +7,7 @@ year: 2024
 bibkey: yan2024gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03658"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 This study comprehensively evaluates the translation quality of Large
 Language Models (LLMs), specifically GPT-4, against human translators of

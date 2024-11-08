@@ -7,7 +7,7 @@ year: 2024
 bibkey: vanderweij2024ai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.07358"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Responsible AI', 'Security', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Responsible AI', 'Security']
 ---
 Trustworthy capability evaluations are crucial for ensuring the safety of AI
 systems, and are becoming a key component of AI regulation. However, the

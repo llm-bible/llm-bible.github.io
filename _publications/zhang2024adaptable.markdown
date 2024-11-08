@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024adaptable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13892"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 Despite the success of Large Language Models (LLMs) on various tasks
 following human instructions, controlling model generation at inference time

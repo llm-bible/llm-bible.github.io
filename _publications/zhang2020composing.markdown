@@ -7,7 +7,7 @@ year: 2020
 bibkey: zhang2020composing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2009.06141"}
-tags: ['Uncategorized']
+tags: []
 ---
 This paper presents a novel method to generate answers for non-extraction
 machine reading comprehension (MRC) tasks whose answers cannot be simply

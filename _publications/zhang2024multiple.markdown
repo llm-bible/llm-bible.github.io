@@ -8,7 +8,7 @@ bibkey: zhang2024multiple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.11966"}
   - {name: "Code", url: "https://github.com/Geralt-Targaryen/MC-Evaluation"}
-tags: ['Has Code', 'Uncategorized']
+tags: ['Has Code']
 ---
 We present GSM-MC, a multiple-choice (MC) dataset constructed by collecting
 answers and incorrect predictions on GSM8K from 60 open-source models. Through

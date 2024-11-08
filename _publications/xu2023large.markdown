@@ -8,7 +8,7 @@ bibkey: xu2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.17617"}
   - {name: "Code", url: "https://github.com/quqxui/Awesome-LLM4IE-Papers"}
-tags: ['Fine Tuning', 'Has Code', 'Merging', 'Reinforcement Learning', 'Survey Paper', 'Uncategorized']
+tags: ['Fine Tuning', 'Has Code', 'Merging', 'Reinforcement Learning', 'Survey Paper']
 ---
 Information extraction (IE) aims to extract structural knowledge (such as
 entities, relations, and events) from plain natural language texts. Recently,

@@ -8,7 +8,7 @@ bibkey: zhu2024dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14865"}
   - {name: "Code", url: "https://github.com/microsoft/promptbench"}
-tags: ['Agentic', 'Has Code', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Agentic', 'Has Code', 'Prompting', 'Reinforcement Learning']
 ---
 Evaluation of large language models (LLMs) has raised great concerns in the
 community due to the issue of data contamination. Existing work designed

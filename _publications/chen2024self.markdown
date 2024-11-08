@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.01505"}
-tags: ['Applications', 'Fine Tuning', 'Prompting', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Fine Tuning', 'Prompting', 'Tools', 'Training Techniques']
 ---
 While Large Language Models (LLMs) have achieved remarkable success across
 various applications, they also raise concerns regarding self-cognition. In

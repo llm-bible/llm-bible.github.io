@@ -7,7 +7,7 @@ year: 2024
 bibkey: tanzil2024chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.16347"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Survey Paper', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Survey Paper', 'Tools']
 ---
 We conducted a survey of 135 software engineering (SE) practitioners to
 understand how they use Generative AI-based chatbots like ChatGPT for SE tasks.

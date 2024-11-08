@@ -7,7 +7,7 @@ year: 2024
 bibkey: wadhwa2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.02397"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'Prompting']
 ---
 Recent work has explored the capability of large language models (LLMs) to
 identify and correct errors in LLM-generated responses. These refinement

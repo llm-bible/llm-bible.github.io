@@ -7,7 +7,7 @@ year: 2021
 bibkey: wang2021diversifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.14556"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 Neural dialogue generation models trained with the one-hot target
 distribution suffer from the over-confidence issue, which leads to poor

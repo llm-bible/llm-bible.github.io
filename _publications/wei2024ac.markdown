@@ -8,7 +8,7 @@ bibkey: wei2024ac
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.06574"}
   - {name: "Code", url: "https://github.com/yuting-wei/AC-EVAL"}
-tags: ['Has Code', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Has Code', 'Reinforcement Learning', 'Tools']
 ---
 Given the importance of ancient Chinese in capturing the essence of rich
 historical and cultural heritage, the rapid advancements in Large Language

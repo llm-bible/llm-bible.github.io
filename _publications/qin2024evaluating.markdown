@@ -7,7 +7,7 @@ year: 2024
 bibkey: qin2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.03601"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 This paper introduces the Decomposed Requirements Following Ratio (DRFR), a
 new metric for evaluating Large Language Models' (LLMs) ability to follow

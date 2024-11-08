@@ -7,7 +7,7 @@ year: 2024
 bibkey: toy2024metacognition
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.10910"}
-tags: ['Agentic', 'Applications', 'Uncategorized']
+tags: ['Agentic', 'Applications']
 ---
 Recent advances in Large Language Models (LLMs) have shown impressive
 capabilities in various applications, yet LLMs face challenges such as limited

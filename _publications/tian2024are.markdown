@@ -7,7 +7,7 @@ year: 2024
 bibkey: tian2024are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.13248"}
-tags: ['RAG', 'Tools', 'Uncategorized']
+tags: ['RAG', 'Tools']
 ---
 This paper investigates the capability of LLMs in storytelling, focusing on
 narrative development and plot progression. We introduce a novel computational

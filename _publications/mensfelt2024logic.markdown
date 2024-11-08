@@ -7,7 +7,7 @@ year: 2024
 bibkey: mensfelt2024logic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.16081"}
-tags: ['Agentic', 'Attention Mechanism', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Attention Mechanism', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 We introduce the Logic-Enhanced Language Model Agents (LELMA) framework, a
 novel approach to enhance the trustworthiness of social simulations that

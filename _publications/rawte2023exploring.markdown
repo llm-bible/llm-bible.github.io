@@ -7,7 +7,7 @@ year: 2023
 bibkey: rawte2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.11064"}
-tags: ['Fine Tuning', 'Merging', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Fine Tuning', 'Merging', 'Prompting', 'Reinforcement Learning']
 ---
 As Large Language Models (LLMs) have advanced, they have brought forth new
 challenges, with one of the prominent issues being LLM hallucination. While

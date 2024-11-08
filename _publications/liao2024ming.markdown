@@ -7,7 +7,7 @@ year: 2024
 bibkey: liao2024ming
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.09027"}
-tags: ['Applications', 'Efficiency And Optimization', 'Fine Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'Efficiency And Optimization', 'Fine Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models like ChatGPT have shown substantial progress in natural
 language understanding and generation, proving valuable across various

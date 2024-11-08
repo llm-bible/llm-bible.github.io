@@ -7,7 +7,7 @@ year: 2023
 bibkey: nolfi2023unexpected
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.09720"}
-tags: ['Survey Paper', 'Training Techniques', 'Uncategorized']
+tags: ['Survey Paper', 'Training Techniques']
 ---
 Large Language Models (LLMs) are capable of displaying a wide range of
 abilities that are not directly connected with the task for which they are

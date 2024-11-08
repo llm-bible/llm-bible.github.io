@@ -7,7 +7,7 @@ year: 2023
 bibkey: gendron2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.19555"}
-tags: ['Model Architecture', 'Uncategorized']
+tags: ['Model Architecture']
 ---
 Large Language Models have shown tremendous performance on a large variety of
 natural language processing tasks, ranging from text comprehension to common

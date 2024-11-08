@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024model
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.02791"}
-tags: ['Efficiency And Optimization', 'Prompting', 'RAG', 'Reinforcement Learning', 'Security', 'Tools', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Prompting', 'RAG', 'Reinforcement Learning', 'Security', 'Tools']
 ---
 The flourishing ecosystem centered around voice personal assistants (VPA),
 such as Amazon Alexa, has led to the booming of VPA apps. The largest app

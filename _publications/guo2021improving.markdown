@@ -7,7 +7,7 @@ year: 2021
 bibkey: guo2021improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.00801"}
-tags: ['BERT', 'Model Architecture', 'Tokenization', 'Training Techniques', 'Uncategorized']
+tags: ['BERT', 'Model Architecture', 'Tokenization', 'Training Techniques']
 ---
 Language model pre-training based on large corpora has achieved tremendous
 success in terms of constructing enriched contextual representations and has

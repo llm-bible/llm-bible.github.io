@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023modeling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.12574"}
-tags: ['Fine Tuning', 'GPT', 'Merging', 'Model Architecture', 'RAG', 'Uncategorized']
+tags: ['Fine Tuning', 'GPT', 'Merging', 'Model Architecture', 'RAG']
 ---
 The integration of retrieved passages and large language models (LLMs), such
 as ChatGPTs, has significantly contributed to improving open-domain question

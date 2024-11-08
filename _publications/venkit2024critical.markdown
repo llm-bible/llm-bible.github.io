@@ -7,7 +7,7 @@ year: 2024
 bibkey: venkit2024critical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.07461"}
-tags: ['Survey Paper', 'Tools', 'Uncategorized']
+tags: ['Survey Paper', 'Tools']
 ---
 We investigate how hallucination in large language models (LLM) is
 characterized in peer-reviewed literature using a critical examination of 103

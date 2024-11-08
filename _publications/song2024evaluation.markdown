@@ -7,7 +7,7 @@ year: 2024
 bibkey: song2024evaluation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.10457"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Current evaluations of large language models (LLMs) often overlook
 non-determinism, typically focusing on a single output per example. This limits

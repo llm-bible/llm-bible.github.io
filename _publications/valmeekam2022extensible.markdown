@@ -7,7 +7,7 @@ year: 2022
 bibkey: valmeekam2022extensible
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.10498"}
-tags: ['Agentic', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Agentic', 'Reinforcement Learning']
 ---
 Generating plans of action, and reasoning about change have long been
 considered a core competence of intelligent agents. It is thus no surprise that

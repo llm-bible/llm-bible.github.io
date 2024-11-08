@@ -7,7 +7,7 @@ year: 2024
 bibkey: cheng2024interpreting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.12774"}
-tags: ['Interpretability And Explainability', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['Interpretability And Explainability', 'RAG', 'Training Techniques']
 ---
 Conversational dense retrieval has shown to be effective in conversational
 search. However, a major limitation of conversational dense retrieval is their

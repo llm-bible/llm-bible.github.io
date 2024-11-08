@@ -7,7 +7,7 @@ year: 2023
 bibkey: he2023targeted
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.17804"}
-tags: ['Tools', 'Uncategorized']
+tags: ['Tools']
 ---
 Even when aggregate accuracy is high, state-of-the-art NLP models often fail
 systematically on specific subgroups of data, resulting in unfair outcomes and

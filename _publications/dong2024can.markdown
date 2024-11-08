@@ -7,7 +7,7 @@ year: 2024
 bibkey: dong2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11657"}
-tags: ['RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['RAG', 'Reinforcement Learning']
 ---
 Ensuring that large language models (LLMs) reflect diverse user values and
 preferences is crucial as their user bases expand globally. It is therefore

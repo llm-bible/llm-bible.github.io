@@ -7,7 +7,7 @@ year: 2020
 bibkey: tsue2020cycle
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2003.12137"}
-tags: ['Attention Mechanism', 'BERT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Attention Mechanism', 'BERT', 'Model Architecture', 'Reinforcement Learning']
 ---
 We explore novel approaches to the task of image generation from their
 respective captions, building on state-of-the-art GAN architectures.

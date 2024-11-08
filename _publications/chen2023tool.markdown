@@ -8,7 +8,7 @@ bibkey: chen2023tool
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14323"}
   - {name: "Code", url: "https://github.com/RUCAIBOX/ChatCoT"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 Although large language models (LLMs) have achieved excellent performance in
 a variety of evaluation benchmarks, they still struggle in complex reasoning

@@ -7,7 +7,7 @@ year: 2024
 bibkey: frankford2024survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.20183"}
-tags: ['Survey Paper', 'Uncategorized']
+tags: ['Survey Paper']
 ---
 This paper analyzes Large Language Models (LLMs) with regard to their
 programming exercise generation capabilities. Through a survey study, we

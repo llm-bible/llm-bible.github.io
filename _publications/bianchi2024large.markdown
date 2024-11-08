@@ -7,7 +7,7 @@ year: 2024
 bibkey: bianchi2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13926"}
-tags: ['Prompting', 'Responsible AI', 'Security', 'Uncategorized']
+tags: ['Prompting', 'Responsible AI', 'Security']
 ---
 The risks derived from large language models (LLMs) generating deceptive and
 damaging content have been the subject of considerable research, but even safe

@@ -8,7 +8,7 @@ bibkey: decarvalho2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.11068"}
   - {name: "Code", url: "https://github.com/child-play-neurips/child-play)"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 We explore the hypothesis that LLMs, such as GPT-3.5 and GPT-4, possess
 broader cognitive functions, particularly in non-linguistic domains. Our

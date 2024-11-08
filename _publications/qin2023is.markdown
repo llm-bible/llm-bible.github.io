@@ -7,7 +7,7 @@ year: 2023
 bibkey: qin2023is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.06476"}
-tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Uncategorized']
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture']
 ---
 Spurred by advancements in scale, large language models (LLMs) have
 demonstrated the ability to perform a variety of natural language processing

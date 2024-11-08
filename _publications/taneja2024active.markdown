@@ -7,7 +7,7 @@ year: 2024
 bibkey: taneja2024active
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.05467"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) have been used to build modular AI systems such
 as HuggingGPT, Microsoft Bing Chat, and more. To improve such systems after

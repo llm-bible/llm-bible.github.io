@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.08039"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 Hallucination is often regarded as a major impediment for using large
 language models (LLMs), especially for knowledge-intensive tasks. Even when the

@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024know
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10099"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Training Techniques']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities across
 various tasks but still face challenges such as hallucinations. One potential

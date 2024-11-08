@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024selective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10110"}
-tags: ['Fine Tuning', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Fine Tuning', 'Reinforcement Learning', 'Training Techniques']
 ---
 Instruction tuning is critical to large language models (LLMs) for achieving
 better instruction following and task adaptation capabilities but its success

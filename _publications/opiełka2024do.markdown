@@ -7,7 +7,7 @@ year: 2024
 bibkey: opiełka2024do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.09734"}
-tags: ['Uncategorized']
+tags: []
 ---
 The Abstraction Reasoning Corpus (ARC) is a visual analogical reasoning test
 designed for humans and machines (Chollet, 2019). We compared human and large

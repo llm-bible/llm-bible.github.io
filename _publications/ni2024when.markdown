@@ -7,7 +7,7 @@ year: 2024
 bibkey: ni2024when
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11457"}
-tags: ['Uncategorized']
+tags: []
 ---
 Large Language Models (LLMs) have been found to have difficulty knowing they
 do not possess certain knowledge and tend to provide specious answers in such

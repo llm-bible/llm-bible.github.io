@@ -7,7 +7,7 @@ year: 2023
 bibkey: banerjee2023benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.04624"}
-tags: ['Agentic', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Reinforcement Learning', 'Tools']
 ---
 Autonomous conversational agents, i.e. chatbots, are becoming an increasingly
 common mechanism for enterprises to provide support to customers and partners.

@@ -7,7 +7,7 @@ year: 2023
 bibkey: olga2023generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.07605"}
-tags: ['Applications', 'GPT', 'Merging', 'Model Architecture', 'Prompting', 'Survey Paper', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Merging', 'Model Architecture', 'Prompting', 'Survey Paper']
 ---
 The launch of ChatGPT in November 2022 precipitated a panic among some
 educators while prompting qualified enthusiasm from others. Under the umbrella

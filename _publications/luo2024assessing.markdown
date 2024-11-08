@@ -7,7 +7,7 @@ year: 2024
 bibkey: luo2024assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.16402"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 The integration of Large Language Models (LLMs) into the healthcare domain
 has the potential to significantly enhance patient care and support through the

@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.17678"}
-tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Model Architecture', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Model Architecture', 'Tools', 'Training Techniques']
 ---
 Existing LLM training and inference frameworks struggle in boosting
 efficiency with sparsity while maintaining the integrity of context and model

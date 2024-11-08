@@ -7,7 +7,7 @@ year: 2023
 bibkey: guan2023language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.14564"}
-tags: ['GPT', 'Model Architecture', 'Security', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Security']
 ---
 Recent progress in natural language processing (NLP) owes much to remarkable
 advances in large language models (LLMs). Nevertheless, LLMs frequently

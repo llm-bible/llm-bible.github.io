@@ -7,7 +7,7 @@ year: 2024
 bibkey: pandya2024cognitive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.10380"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 Cognitive textual and visual reasoning tasks, such as puzzles, series, and
 analogies, demand the ability to quickly reason, decipher, and evaluate

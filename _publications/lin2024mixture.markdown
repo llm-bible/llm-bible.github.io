@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024mixture
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.19598"}
-tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Many studies have revealed that large language models (LLMs) exhibit uneven
 awareness of different contextual positions.Their limited context awareness can

@@ -7,7 +7,7 @@ year: 2024
 bibkey: gonçalves2024advantages
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.06931"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Training Techniques']
 ---
 The current trend to improve language model performance seems to be based on
 scaling up with the number of parameters (e.g. the state of the art GPT4 model

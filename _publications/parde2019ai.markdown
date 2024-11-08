@@ -7,7 +7,7 @@ year: 2019
 bibkey: parde2019ai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1904.03713"}
-tags: ['Applications', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
 ---
 Artificial intelligence is revolutionizing formal education, fueled by
 innovations in learning assessment, content generation, and instructional

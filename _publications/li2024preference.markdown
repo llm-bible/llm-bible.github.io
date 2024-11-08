@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024preference
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.16235"}
-tags: ['Efficiency And Optimization', 'GPT', 'Interpretability And Explainability', 'Model Architecture', 'Reinforcement Learning', 'Responsible AI', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'GPT', 'Interpretability And Explainability', 'Model Architecture', 'Reinforcement Learning', 'Responsible AI', 'Tools', 'Training Techniques']
 ---
 Detoxifying multilingual Large Language Models (LLMs) has become crucial due
 to their increasing global use. In this work, we explore zero-shot

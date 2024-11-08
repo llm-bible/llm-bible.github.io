@@ -7,7 +7,7 @@ year: 2024
 bibkey: yu2024listen
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.17336"}
-tags: ['Prompting', 'Security', 'Tools', 'Uncategorized']
+tags: ['Prompting', 'Security', 'Tools']
 ---
 Recent advancements in generative AI have enabled ubiquitous access to large
 language models (LLMs). Empowered by their exceptional capabilities to

@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024advancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.00390"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 Large Language Models (LLMs) have demonstrated remarkable potential in
 handling complex reasoning tasks by generating step-by-step rationales.Some

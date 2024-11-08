@@ -7,7 +7,7 @@ year: 2024
 bibkey: nazar2024revolutionizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.18310"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 Integrating Generative AI (GenAI) into educational contexts presents a
 transformative potential for enhancing learning experiences. This paper

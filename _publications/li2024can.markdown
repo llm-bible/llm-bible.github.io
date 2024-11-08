@@ -8,7 +8,7 @@ bibkey: li2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.11963"}
   - {name: "Code", url: "https://github.com/open-compass/opencompass"}
-tags: ['Applications', 'Has Code', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Applications', 'Has Code', 'Reinforcement Learning', 'Tools']
 ---
 In evaluating the long-context capabilities of large language models (LLMs),
 identifying content relevant to a user's query from original long documents is

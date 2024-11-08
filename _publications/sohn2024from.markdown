@@ -7,7 +7,7 @@ year: 2024
 bibkey: sohn2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10478"}
-tags: ['Agentic', 'Prompting', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Prompting', 'Reinforcement Learning', 'Tools']
 ---
 Digital storytelling, essential in entertainment, education, and marketing,
 faces challenges in production scalability and flexibility. The StoryAgent

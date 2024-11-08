@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13940"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'Prompting']
 ---
 Cross-lingual chain-of-thought can effectively complete reasoning tasks
 across languages, which gains increasing attention. Recently, dominant

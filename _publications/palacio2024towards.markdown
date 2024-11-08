@@ -7,7 +7,7 @@ year: 2024
 bibkey: palacio2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.08983"}
-tags: ['Interpretability And Explainability', 'Uncategorized']
+tags: ['Interpretability And Explainability']
 ---
 Trustworthiness and interpretability are inextricably linked concepts for
 LLMs. The more interpretable an LLM is, the more trustworthy it becomes.

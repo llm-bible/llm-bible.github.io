@@ -7,7 +7,7 @@ year: 2024
 bibkey: hebert2024personalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.00960"}
-tags: ['Fine Tuning', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['Fine Tuning', 'Model Architecture', 'Prompting']
 ---
 Understanding the nuances of a user's extensive interaction history is key to
 building accurate and personalized natural language systems that can adapt to

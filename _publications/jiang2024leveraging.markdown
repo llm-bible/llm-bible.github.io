@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17019"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 Making legal knowledge accessible to non-experts is crucial for enhancing
 general legal literacy and encouraging civic participation in democracy.

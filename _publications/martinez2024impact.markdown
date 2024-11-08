@@ -7,7 +7,7 @@ year: 2024
 bibkey: martinez2024impact
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.01050"}
-tags: ['Applications', 'Efficiency And Optimization', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'Efficiency And Optimization', 'RAG', 'Reinforcement Learning']
 ---
 The recent surge of open-source large language models (LLMs) enables
 developers to create AI-based solutions while maintaining control over aspects

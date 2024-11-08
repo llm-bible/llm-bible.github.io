@@ -7,7 +7,7 @@ year: 2024
 bibkey: mai2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00070"}
-tags: ['Attention Mechanism', 'Language Modeling', 'Model Architecture', 'Uncategorized']
+tags: ['Attention Mechanism', 'Language Modeling', 'Model Architecture']
 ---
 Modern language models predict the next token in the sequence by considering
 the past text through a powerful function such as attention. However, language

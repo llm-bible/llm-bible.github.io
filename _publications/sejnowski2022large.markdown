@@ -7,7 +7,7 @@ year: 2022
 bibkey: sejnowski2022large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2207.14382"}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Training Techniques']
 ---
 Large Language Models (LLMs) have been transformative. They are pre-trained
 foundational models that are self-supervised and can be adapted with fine

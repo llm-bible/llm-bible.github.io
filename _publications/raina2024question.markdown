@@ -7,7 +7,7 @@ year: 2024
 bibkey: raina2024question
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.12363"}
-tags: ['RAG', 'Tools', 'Uncategorized']
+tags: ['RAG', 'Tools']
 ---
 Enterprise retrieval augmented generation (RAG) offers a highly flexible
 framework for combining powerful large language models (LLMs) with internal,

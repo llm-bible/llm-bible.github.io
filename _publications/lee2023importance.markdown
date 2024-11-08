@@ -7,7 +7,7 @@ year: 2023
 bibkey: lee2023importance
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.06200"}
-tags: ['GPT', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'Responsible AI', 'Uncategorized']
+tags: ['GPT', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'Responsible AI']
 ---
 Recent advances have greatly increased the capabilities of large language
 models (LLMs), but our understanding of the models and their safety has not

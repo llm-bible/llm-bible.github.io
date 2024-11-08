@@ -7,7 +7,7 @@ year: 2024
 bibkey: chae2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.02575"}
-tags: ['Tools', 'Uncategorized']
+tags: ['Tools']
 ---
 Algorithmic reasoning refers to the ability to understand the complex
 patterns behind the problem and decompose them into a sequence of reasoning

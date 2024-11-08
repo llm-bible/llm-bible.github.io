@@ -7,7 +7,7 @@ year: 2022
 bibkey: štefánik2022methods
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.08446"}
-tags: ['Security', 'Survey Paper', 'Training Techniques', 'Uncategorized']
+tags: ['Security', 'Survey Paper', 'Training Techniques']
 ---
 Despite their outstanding performance, large language models (LLMs) suffer
 notorious flaws related to their preference for simple, surface-level textual

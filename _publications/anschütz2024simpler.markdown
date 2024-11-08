@@ -7,7 +7,7 @@ year: 2024
 bibkey: anschütz2024simpler
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.06838"}
-tags: ['BERT', 'GPT', 'Model Architecture', 'Prompting', 'Security', 'Uncategorized']
+tags: ['BERT', 'GPT', 'Model Architecture', 'Prompting', 'Security']
 ---
 Text simplification seeks to improve readability while retaining the original
 content and meaning. Our study investigates whether pre-trained classifiers

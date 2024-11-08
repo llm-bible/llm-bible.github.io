@@ -7,7 +7,7 @@ year: 2023
 bibkey: lanham2023measuring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.13702"}
-tags: ['Interpretability And Explainability', 'Uncategorized']
+tags: ['Interpretability And Explainability']
 ---
 Large language models (LLMs) perform better when they produce step-by-step,
 "Chain-of-Thought" (CoT) reasoning before answering a question, but it is

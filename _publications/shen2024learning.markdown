@@ -8,7 +8,7 @@ bibkey: shen2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.03870"}
   - {name: "Code", url: "https://github.com/clinicalml/co-llm"}
-tags: ['Has Code', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Has Code', 'Merging', 'Reinforcement Learning', 'Training Techniques']
 ---
 We propose a method to teach multiple large language models (LLM) to
 collaborate by interleaving their generations at the token level. We model the

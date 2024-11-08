@@ -7,7 +7,7 @@ year: 2024
 bibkey: buhnila2024case
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.16565"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 Recent surge in the accessibility of large language models (LLMs) to the
 general population can lead to untrackable use of such models for

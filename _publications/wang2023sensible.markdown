@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023sensible
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.15316"}
-tags: ['Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Recently, there has been a heightened interest in building chatbots based on
 Large Language Models (LLMs) to emulate human-like qualities in dialogues,

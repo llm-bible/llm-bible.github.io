@@ -7,7 +7,7 @@ year: 2022
 bibkey: song2022llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.04088"}
-tags: ['Agentic', 'Efficiency And Optimization', 'Few Shot', 'Training Techniques', 'Uncategorized']
+tags: ['Agentic', 'Efficiency And Optimization', 'Few Shot', 'Training Techniques']
 ---
 This study focuses on using large language models (LLMs) as a planner for
 embodied agents that can follow natural language instructions to complete

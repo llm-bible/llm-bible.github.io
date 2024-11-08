@@ -7,7 +7,7 @@ year: 2024
 bibkey: xin2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.04020"}
-tags: ['RAG', 'Training Techniques', 'Uncategorized']
+tags: ['RAG', 'Training Techniques']
 ---
 Entity Linking (EL) models are well-trained at mapping mentions to their
 corresponding entities according to a given context. However, EL models

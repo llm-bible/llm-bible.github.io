@@ -8,7 +8,7 @@ bibkey: liu2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.02977"}
   - {name: "Code", url: "https://github.com/FudanSELab/Agent4SE-Paper-List"}
-tags: ['Agentic', 'Has Code', 'Reinforcement Learning', 'Survey Paper', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Has Code', 'Reinforcement Learning', 'Survey Paper', 'Tools']
 ---
 The recent advance in Large Language Models (LLMs) has shaped a new paradigm
 of AI agents, i.e., LLM-based agents. Compared to standalone LLMs, LLM-based

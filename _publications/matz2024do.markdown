@@ -7,7 +7,7 @@ year: 2024
 bibkey: matz2024do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.10989"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 What makes people 'click' on a first date and become mutually attracted to
 one another? While understanding and predicting the dynamics of romantic

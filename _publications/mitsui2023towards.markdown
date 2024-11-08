@@ -7,7 +7,7 @@ year: 2023
 bibkey: mitsui2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.01088"}
-tags: ['Agentic', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Agentic', 'Reinforcement Learning']
 ---
 The advent of large language models (LLMs) has made it possible to generate
 natural written dialogues between two agents. However, generating human-like

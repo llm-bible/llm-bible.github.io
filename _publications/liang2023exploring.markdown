@@ -7,7 +7,7 @@ year: 2023
 bibkey: liang2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.15504"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Tools', 'Training Techniques']
 ---
 Instruction tuning has emerged as a promising approach to enhancing large
 language models in following human instructions. It is shown that increasing

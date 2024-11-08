@@ -8,7 +8,7 @@ bibkey: wu2024structured
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.11483"}
   - {name: "Code", url: "https://github.com/holmeswww/AgentKit"}
-tags: ['Agentic', 'Applications', 'Has Code', 'Prompting', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Applications', 'Has Code', 'Prompting', 'Tools']
 ---
 We propose an intuitive LLM prompting framework (AgentKit) for
 multifunctional agents. AgentKit offers a unified framework for explicitly

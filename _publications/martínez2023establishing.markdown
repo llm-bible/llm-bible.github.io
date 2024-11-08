@@ -7,7 +7,7 @@ year: 2023
 bibkey: martínez2023establishing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.14703"}
-tags: ['GPT', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning']
 ---
 Vocabulary tests, once a cornerstone of language modeling evaluation, have
 been largely overlooked in the current landscape of Large Language Models

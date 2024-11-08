@@ -7,7 +7,7 @@ year: 2024
 bibkey: pochinkov2024extracting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.06328"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 Generative large language models (LLMs) excel in natural language processing
 tasks, yet their inner workings remain underexplored beyond token-level

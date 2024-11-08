@@ -7,7 +7,7 @@ year: 2021
 bibkey: yoran2021turning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2107.07261"}
-tags: ['Efficiency And Optimization', 'Language Modeling', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Language Modeling', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Models pre-trained with a language modeling objective possess ample world
 knowledge and language skills, but are known to struggle in tasks that require

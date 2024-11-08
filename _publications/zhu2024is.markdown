@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.18525"}
-tags: ['BERT', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['BERT', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 The use of Large Language Models (LLMs) in medicine is growing, but their
 ability to handle both structured Electronic Health Record (EHR) data and

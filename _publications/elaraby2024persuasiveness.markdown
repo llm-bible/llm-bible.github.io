@@ -7,7 +7,7 @@ year: 2024
 bibkey: elaraby2024persuasiveness
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13905"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Generating free-text rationales is among the emergent capabilities of Large
 Language Models (LLMs). These rationales have been found to enhance LLM

@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.16833"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning']
 ---
 Retrieval Augmented Generation (RAG) has been a powerful tool for Large
 Language Models (LLMs) to efficiently process overly lengthy contexts. However,

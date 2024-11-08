@@ -7,7 +7,7 @@ year: 2023
 bibkey: yu2023outcome
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09724"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large language models (LLMs) often struggle with maintaining accuracy
 throughout multiple multiple reasoning steps, especially in mathematical

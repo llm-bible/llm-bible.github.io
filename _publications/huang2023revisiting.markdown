@@ -8,7 +8,7 @@ bibkey: huang2023revisiting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.19926"}
   - {name: "Code", url: "https://github.com/CUHK-ARISE/LLMPersonality"}
-tags: ['Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Recent research has extended beyond assessing the performance of Large
 Language Models (LLMs) to examining their characteristics from a psychological

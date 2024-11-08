@@ -7,7 +7,7 @@ year: 2023
 bibkey: ganesan2023systematic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.01183"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting']
 ---
 Very large language models (LLMs) perform extremely well on a spectrum of NLP
 tasks in a zero-shot setting. However, little is known about their performance

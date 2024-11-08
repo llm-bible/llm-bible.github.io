@@ -7,7 +7,7 @@ year: 2019
 bibkey: shuster2019dialogue
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.03768"}
-tags: ['Agentic', 'BERT', 'Model Architecture', 'Uncategorized']
+tags: ['Agentic', 'BERT', 'Model Architecture']
 ---
 We introduce dodecaDialogue: a set of 12 tasks that measures if a
 conversational agent can communicate engagingly with personality and empathy,

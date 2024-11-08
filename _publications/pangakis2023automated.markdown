@@ -7,7 +7,7 @@ year: 2023
 bibkey: pangakis2023automated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.00176"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting']
 ---
 Generative large language models (LLMs) can be a powerful tool for augmenting
 text annotation procedures, but their performance varies across annotation

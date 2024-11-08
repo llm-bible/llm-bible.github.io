@@ -7,7 +7,7 @@ year: 2024
 bibkey: madsen2024are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.07927"}
-tags: ['Interpretability And Explainability', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Interpretability And Explainability', 'Reinforcement Learning', 'Tools']
 ---
 Instruction-tuned Large Language Models (LLMs) excel at many tasks and will
 even explain their reasoning, so-called self-explanations. However, convincing

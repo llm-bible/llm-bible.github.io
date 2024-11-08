@@ -8,7 +8,7 @@ bibkey: guo2023how
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2301.07597v1"}
   - {name: "Code", url: "https://github.com/Hello-SimpleAI/chatgpt-comparison-detection"}
-tags: ['Attention Mechanism', 'GPT', 'Has Code', 'Model Architecture', 'Security', 'Uncategorized']
+tags: ['Attention Mechanism', 'GPT', 'Has Code', 'Model Architecture', 'Security']
 ---
 The introduction of ChatGPT has garnered widespread attention in both
 academic and industrial communities. ChatGPT is able to respond effectively to

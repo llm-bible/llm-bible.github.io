@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024tracking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.09150"}
-tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture']
 ---
 Piaget's Theory of Cognitive Development (PTC) posits that the development of
 cognitive levels forms the foundation for human learning across various

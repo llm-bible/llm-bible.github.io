@@ -8,7 +8,7 @@ bibkey: xi2024evolving
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2406.04151v1"}
   - {name: "Code", url: "https://github.com/WooooDyy/AgentGym"}
-tags: ['Agentic', 'Fine Tuning', 'Has Code', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Fine Tuning', 'Has Code', 'Tools']
 ---
 Building generalist agents that can handle diverse tasks and evolve
 themselves across different environments is a long-term goal in the AI

@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024think
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.09972"}
-tags: ['RAG', 'Tools', 'Uncategorized']
+tags: ['RAG', 'Tools']
 ---
 Self-detection for Large Language Model (LLM) seeks to evaluate the LLM
 output trustability by leveraging LLM's own capabilities, alleviating the

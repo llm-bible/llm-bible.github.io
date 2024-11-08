@@ -7,7 +7,7 @@ year: 2022
 bibkey: liew2022using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.14047"}
-tags: ['GPT', 'Merging', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Merging', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Creating compelling captions for data visualizations has been a longstanding
 challenge. Visualization researchers are typically untrained in journalistic

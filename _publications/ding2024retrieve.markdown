@@ -7,7 +7,7 @@ year: 2024
 bibkey: ding2024retrieve
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10612"}
-tags: ['Uncategorized']
+tags: []
 ---
 Hallucinations pose a significant challenge for the practical implementation
 of large language models (LLMs). The utilization of parametric knowledge in

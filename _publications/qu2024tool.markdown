@@ -8,7 +8,7 @@ bibkey: qu2024tool
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.17935"}
   - {name: "Code", url: "https://github.com/quchangle1/LLM-Tool-Survey"}
-tags: ['Attention Mechanism', 'Has Code', 'Merging', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Survey Paper', 'Tools', 'Uncategorized']
+tags: ['Attention Mechanism', 'Has Code', 'Merging', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Survey Paper', 'Tools']
 ---
 Recently, tool learning with large language models (LLMs) has emerged as a
 promising paradigm for augmenting the capabilities of LLMs to tackle highly

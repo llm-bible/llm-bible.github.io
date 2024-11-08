@@ -7,7 +7,7 @@ year: 2024
 bibkey: rossi2024early
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.00898"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Security', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Security', 'Tools']
 ---
 Large language models and AI chatbots have been at the forefront of
 democratizing artificial intelligence. However, the releases of ChatGPT and

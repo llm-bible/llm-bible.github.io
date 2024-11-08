@@ -8,7 +8,7 @@ bibkey: zhou2023context
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.11315"}
   - {name: "Code", url: "https://github.com/wzhouad/context-faithful-llm"}
-tags: ['Has Code', 'Prompting', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Has Code', 'Prompting', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large language models (LLMs) encode parametric knowledge about world facts
 and have shown remarkable performance in knowledge-driven NLP tasks. However,

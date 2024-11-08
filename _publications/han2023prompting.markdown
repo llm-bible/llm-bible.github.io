@@ -7,7 +7,7 @@ year: 2023
 bibkey: han2023prompting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.12392"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Tools', 'Training Techniques']
 ---
 Large language models (LLMs) have shown great abilities of solving various
 natural language tasks in different domains. Due to the training objective of

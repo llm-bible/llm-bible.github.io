@@ -7,7 +7,7 @@ year: 2023
 bibkey: kumar2023watch
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.14517"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting']
 ---
 Large language models (LLMs) have exploded in popularity due to their ability
 to perform a wide array of natural language tasks. Text-based content

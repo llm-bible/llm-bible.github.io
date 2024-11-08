@@ -7,7 +7,7 @@ year: 2023
 bibkey: verma2023reducing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.15576"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 Reducing and detecting hallucinations in large language models is an open
 research problem. In this project, we attempt to leverage recent advances in

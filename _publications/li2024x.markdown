@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024x
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.19744"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 Large language models respond well in high-resource languages like English
 but struggle in low-resource languages. It may arise from the lack of

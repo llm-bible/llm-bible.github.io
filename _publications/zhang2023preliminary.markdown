@@ -8,7 +8,7 @@ bibkey: zhang2023preliminary
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.07398"}
   - {name: "Code", url: "https://github.com/llmeval"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture']
 ---
 Recently, the evaluation of Large Language Models has emerged as a popular
 area of research. The three crucial questions for LLM evaluation are ``what,

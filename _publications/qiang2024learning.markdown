@@ -8,7 +8,7 @@ bibkey: qiang2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13459"}
   - {name: "Code", url: "https://github.com/RookieZxy/GBTL/blob/main/README.md"}
-tags: ['Has Code', 'Security', 'Training Techniques', 'Uncategorized']
+tags: ['Has Code', 'Security', 'Training Techniques']
 ---
 The advent of Large Language Models (LLMs) has marked significant
 achievements in language processing and reasoning capabilities. Despite their

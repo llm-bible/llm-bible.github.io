@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12874"}
-tags: ['Prompting', 'Training Techniques', 'Uncategorized']
+tags: ['Prompting', 'Training Techniques']
 ---
 Large language models (LLMs) hold the promise of solving diverse tasks when
 provided with appropriate natural language prompts. However, prompting often

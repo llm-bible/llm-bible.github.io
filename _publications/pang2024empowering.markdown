@@ -7,7 +7,7 @@ year: 2024
 bibkey: pang2024empowering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.03719"}
-tags: ['RAG', 'Tools', 'Uncategorized']
+tags: ['RAG', 'Tools']
 ---
 The rise of large language models (LLMs) has revolutionized the way that we
 interact with artificial intelligence systems through natural language.

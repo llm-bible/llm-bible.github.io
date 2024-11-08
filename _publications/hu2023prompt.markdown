@@ -7,7 +7,7 @@ year: 2023
 bibkey: hu2023prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.08200"}
-tags: ['Attention Mechanism', 'Few Shot', 'Model Architecture', 'Prompting', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Few Shot', 'Model Architecture', 'Prompting', 'Training Techniques']
 ---
 Continual learning (CL) has attracted increasing attention in the recent
 past. It aims to mimic the human ability to learn new concepts without

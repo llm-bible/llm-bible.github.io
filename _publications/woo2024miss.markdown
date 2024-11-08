@@ -7,7 +7,7 @@ year: 2024
 bibkey: woo2024miss
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.17820"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture']
 ---
 This study addresses the issue observed in Large Vision Language Models
 (LVLMs), where excessive attention on a few image tokens, referred to as blind

@@ -7,7 +7,7 @@ year: 2023
 bibkey: strachan2023finetuning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.07848"}
-tags: ['Prompting', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Prompting', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 The open-source publishing of large language models (LLMs) has created many
 possibilities for how anyone who understands language and has access to a

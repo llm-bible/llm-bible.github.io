@@ -7,7 +7,7 @@ year: 2023
 bibkey: yoshimaru2023asynchronous
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.13925"}
-tags: ['Agentic', 'Efficiency And Optimization', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Efficiency And Optimization', 'Reinforcement Learning', 'Tools']
 ---
 We have reached a practical and realistic phase in human-support dialogue
 agents by developing a large language model (LLM). However, when requiring

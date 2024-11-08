@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.06363"}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Training Techniques']
 ---
 Prior work has shown that the ordering in which concepts are shown to a
 commonsense generator plays an important role, affecting the quality of the

@@ -8,7 +8,7 @@ bibkey: tang2024comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.05563"}
   - {name: "Code", url: "https://github.com/RUCAIBox/LLMBox"}
-tags: ['Efficiency And Optimization', 'Has Code', 'RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Has Code', 'RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 To facilitate the research on large language models (LLMs), this paper
 presents a comprehensive and unified library, LLMBox, to ease the development,

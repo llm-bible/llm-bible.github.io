@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024factual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.01080"}
-tags: ['RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['RAG', 'Reinforcement Learning']
 ---
 The prevailing issue of factual inconsistency errors in conventional
 Retrieval Augmented Generation (RAG) motivates the study of Factual Consistency

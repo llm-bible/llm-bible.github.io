@@ -7,7 +7,7 @@ year: 2024
 bibkey: toshniwal2024openmathinstruct
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10176"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Training Techniques']
 ---
 Recent work has shown the immense potential of synthetically generated
 datasets for training large language models (LLMs), especially for acquiring

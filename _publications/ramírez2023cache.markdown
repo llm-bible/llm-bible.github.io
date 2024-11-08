@@ -7,7 +7,7 @@ year: 2023
 bibkey: ramírez2023cache
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.13561"}
-tags: ['Tools', 'Uncategorized']
+tags: ['Tools']
 ---
 Large-scale deployment of generative AI tools often depends on costly API
 calls to a Large Language Model (LLM) to fulfil user queries. To curtail the

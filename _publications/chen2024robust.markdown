@@ -8,7 +8,7 @@ bibkey: chen2024robust
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.17431"}
   - {name: "Code", url: "https://github.com/thunlp/EREN"}
-tags: ['Has Code', 'Prompting', 'Security', 'Training Techniques', 'Uncategorized']
+tags: ['Has Code', 'Prompting', 'Security', 'Training Techniques']
 ---
 Large language models (LLMs) can make predictions using parametric
 knowledge--knowledge encoded in the model weights--or contextual

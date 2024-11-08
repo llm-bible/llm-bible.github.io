@@ -7,7 +7,7 @@ year: 2023
 bibkey: yu2023red
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.10253"}
-tags: ['Efficiency And Optimization', 'Fine Tuning', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Responsible AI', 'Security', 'Tools', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Fine Tuning', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Responsible AI', 'Security', 'Tools']
 ---
 Large language models (LLMs) have recently experienced tremendous popularity
 and are widely used from casual conversations to AI-driven programming.

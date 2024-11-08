@@ -7,7 +7,7 @@ year: 2024
 bibkey: xiong2024defensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.20099"}
-tags: ['Prompting', 'Responsible AI', 'Security', 'Tools', 'Uncategorized']
+tags: ['Prompting', 'Responsible AI', 'Security', 'Tools']
 ---
 Safety, security, and compliance are essential requirements when aligning
 large language models (LLMs). However, many seemingly aligned LLMs are soon

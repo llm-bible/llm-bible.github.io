@@ -7,7 +7,7 @@ year: 2023
 bibkey: woźniak2023from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.04720"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG', 'Training Techniques']
 ---
 In the era of artificial intelligence, data is gold but costly to annotate.
 The paper demonstrates a groundbreaking solution to this dilemma using ChatGPT

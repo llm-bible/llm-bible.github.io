@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.07531"}
-tags: ['Efficiency And Optimization', 'Uncategorized']
+tags: ['Efficiency And Optimization']
 ---
 In current benchmarks for evaluating large language models (LLMs), there are
 issues such as evaluation content restriction, untimely updates, and lack of

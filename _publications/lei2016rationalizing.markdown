@@ -7,7 +7,7 @@ year: 2016
 bibkey: lei2016rationalizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1606.04155"}
-tags: ['Attention Mechanism', 'Model Architecture', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'RAG', 'Training Techniques']
 ---
 Prediction without justification has limited applicability. As a remedy, we
 learn to extract pieces of input text as justifications -- rationales -- that

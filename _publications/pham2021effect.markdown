@@ -7,7 +7,7 @@ year: 2021
 bibkey: pham2021effect
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.04094"}
-tags: ['BERT', 'Model Architecture', 'Uncategorized']
+tags: ['BERT', 'Model Architecture']
 ---
 Overparameterization is shown to result in poor test accuracy on rare
 subgroups under a variety of settings where subgroup information is known. To

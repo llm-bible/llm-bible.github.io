@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.00627"}
-tags: ['Applications', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Applications', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 Large language models (LLM) have demonstrated remarkable abilities in
 generating natural language, understanding user instruction, and mimicking

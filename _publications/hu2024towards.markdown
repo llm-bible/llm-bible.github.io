@@ -7,7 +7,7 @@ year: 2024
 bibkey: hu2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.18365"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 The evaluation of natural language generation (NLG) tasks is a significant
 and longstanding research issue. With the recent emergence of powerful large

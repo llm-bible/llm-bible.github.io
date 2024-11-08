@@ -7,7 +7,7 @@ year: 2023
 bibkey: tian2023are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09682"}
-tags: ['Agentic', 'Prompting', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Prompting', 'Reinforcement Learning', 'Tools']
 ---
 We explore the creative problem-solving capabilities of modern LLMs in a
 novel constrained setting. To this end, we create MACGYVER, an automatically

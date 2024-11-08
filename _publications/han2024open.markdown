@@ -7,7 +7,7 @@ year: 2024
 bibkey: han2024open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.18495"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Responsible AI', 'Security', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Responsible AI', 'Security', 'Tools', 'Training Techniques']
 ---
 We introduce WildGuard -- an open, light-weight moderation tool for LLM
 safety that achieves three goals: (1) identifying malicious intent in user

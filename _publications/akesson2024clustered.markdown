@@ -7,7 +7,7 @@ year: 2024
 bibkey: akesson2024clustered
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.00029"}
-tags: ['Applications', 'Prompting', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'Prompting', 'RAG', 'Reinforcement Learning']
 ---
 Providing external knowledge to Large Language Models (LLMs) is a key point
 for using these models in real-world applications for several reasons, such as

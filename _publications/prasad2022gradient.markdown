@@ -8,7 +8,7 @@ bibkey: prasad2022gradient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.07281"}
   - {name: "Code", url: "https://github.com/archiki/GrIPS"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Prompting', 'RAG', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Prompting', 'RAG', 'Tools']
 ---
 Providing natural language instructions in prompts is a useful new paradigm
 for improving task performance of large language models in a zero-shot setting.

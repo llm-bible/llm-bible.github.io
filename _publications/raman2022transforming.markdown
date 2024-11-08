@@ -7,7 +7,7 @@ year: 2022
 bibkey: raman2022transforming
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.08378"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 Pretrained, large, generative language models (LMs) have had great success in
 a wide range of sequence tagging and structured prediction tasks. Casting a

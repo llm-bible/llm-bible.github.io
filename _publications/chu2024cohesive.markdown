@@ -7,7 +7,7 @@ year: 2024
 bibkey: chu2024cohesive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.09897"}
-tags: ['Agentic', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Tools']
 ---
 This paper investigates the quality of multi-agent dialogues in simulations
 powered by Large Language Models (LLMs). Analyzing dialogues and memory over

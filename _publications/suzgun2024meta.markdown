@@ -7,7 +7,7 @@ year: 2024
 bibkey: suzgun2024meta
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.12954"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Tools']
 ---
 We introduce meta-prompting, an effective scaffolding technique designed to
 enhance the functionality of language models (LMs). This approach transforms a

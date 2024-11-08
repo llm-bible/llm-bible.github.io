@@ -8,7 +8,7 @@ bibkey: bayat2024enhanced
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.00301"}
   - {name: "Code", url: "https://github.com/launchnlp/LITO"}
-tags: ['Efficiency And Optimization', 'Has Code', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Has Code']
 ---
 Large language models (LLMs) can generate long-form and coherent text, yet
 they often hallucinate facts, which undermines their reliability. To mitigate

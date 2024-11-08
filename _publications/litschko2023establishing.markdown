@@ -7,7 +7,7 @@ year: 2023
 bibkey: litschko2023establishing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05442"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Survey Paper', 'Uncategorized']
+tags: ['Model Architecture', 'Reinforcement Learning', 'Survey Paper']
 ---
 Language understanding is a multi-faceted cognitive capability, which the
 Natural Language Processing (NLP) community has striven to model

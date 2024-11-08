@@ -7,7 +7,7 @@ year: 2023
 bibkey: rawte2023troubling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.04988"}
-tags: ['Merging', 'RAG', 'Security', 'Uncategorized']
+tags: ['Merging', 'RAG', 'Security']
 ---
 The recent advancements in Large Language Models (LLMs) have garnered
 widespread acclaim for their remarkable emerging capabilities. However, the

@@ -7,7 +7,7 @@ year: 2024
 bibkey: charikar2024quantifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.15116"}
-tags: ['GPT', 'Model Architecture', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Tools']
 ---
 Recent advances in large language models have shown capabilities that are
 extraordinary and near-superhuman. These models operate with such complexity

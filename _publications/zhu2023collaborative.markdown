@@ -8,7 +8,7 @@ bibkey: zhu2023collaborative
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2311.01343v4"}
   - {name: "Code", url: "https://github.com/yaochenzhu/llm4rec"}
-tags: ['Has Code', 'Language Modeling', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['Has Code', 'Language Modeling', 'Prompting', 'RAG']
 ---
 Recently, there has been growing interest in developing the next-generation
 recommender systems (RSs) based on pretrained large language models (LLMs).

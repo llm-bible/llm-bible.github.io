@@ -7,7 +7,7 @@ year: 2019
 bibkey: zhang2019consistent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1903.05759"}
-tags: ['Agentic', 'Training Techniques', 'Uncategorized']
+tags: ['Agentic', 'Training Techniques']
 ---
 Generating responses that are consistent with the dialogue context is one of
 the central challenges in building engaging conversational agents. We

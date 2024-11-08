@@ -7,7 +7,7 @@ year: 2024
 bibkey: shultz2024gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.17196"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 We test whether a leading AI system GPT-4 understands discourse as well as
 humans do, using a standardized test of discourse comprehension. Participants

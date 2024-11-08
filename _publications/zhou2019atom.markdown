@@ -7,7 +7,7 @@ year: 2019
 bibkey: zhou2019atom
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1905.05532"}
-tags: ['Attention Mechanism', 'Interpretability And Explainability', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Attention Mechanism', 'Interpretability And Explainability', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 Recently, improving the relevance and diversity of dialogue system has
 attracted wide attention. For a post x, the corresponding response y is usually

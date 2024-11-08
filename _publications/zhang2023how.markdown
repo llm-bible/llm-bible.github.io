@@ -8,7 +8,7 @@ bibkey: zhang2023how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.07343"}
   - {name: "Code", url: "https://github.com/hyintell/awesome-refreshing-llms"}
-tags: ['Has Code', 'Reinforcement Learning', 'Survey Paper', 'Training Techniques', 'Uncategorized']
+tags: ['Has Code', 'Reinforcement Learning', 'Survey Paper', 'Training Techniques']
 ---
 Although large language models (LLMs) are impressive in solving various
 tasks, they can quickly be outdated after deployment. Maintaining their

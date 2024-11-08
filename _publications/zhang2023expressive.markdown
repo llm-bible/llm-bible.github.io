@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023expressive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.01260"}
-tags: ['Prompting', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['Prompting', 'RAG', 'Training Techniques']
 ---
 Expressive text-to-speech (TTS) aims to synthesize speeches with human-like
 tones, moods, or even artistic attributes. Recent advancements in expressive

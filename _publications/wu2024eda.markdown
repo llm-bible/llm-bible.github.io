@@ -8,7 +8,7 @@ bibkey: wu2024eda
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.06676"}
   - {name: "Code", url: "https://github.com/OpenROAD-Assistant/EDA-Corpus"}
-tags: ['Has Code', 'Prompting', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Has Code', 'Prompting', 'Tools', 'Training Techniques']
 ---
 Large language models (LLMs) serve as powerful tools for design, providing
 capabilities for both task automation and design assistance. Recent

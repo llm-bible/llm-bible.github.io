@@ -7,7 +7,7 @@ year: 2021
 bibkey: marasović2021few
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2111.08284"}
-tags: ['Few Shot', 'GPT', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['Few Shot', 'GPT', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'RAG', 'Training Techniques']
 ---
 Self-rationalization models that predict task labels and generate free-text
 elaborations for their predictions could enable more intuitive interaction with

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024automated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.20906"}
-tags: ['Fine Tuning', 'RAG', 'Survey Paper', 'Uncategorized']
+tags: ['Fine Tuning', 'RAG', 'Survey Paper']
 ---
 Literature research, vital for scientific advancement, is overwhelmed by the
 vast ocean of available information. Addressing this, we propose an automated

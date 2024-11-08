@@ -7,7 +7,7 @@ year: 2023
 bibkey: blocklove2023chip
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.13243"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning']
 ---
 Modern hardware design starts with specifications provided in natural
 language. These are then translated by hardware engineers into appropriate

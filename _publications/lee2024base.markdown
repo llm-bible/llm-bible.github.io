@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024base
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.00693"}
-tags: ['Efficiency And Optimization', 'Uncategorized']
+tags: ['Efficiency And Optimization']
 ---
 While learning to align Large Language Models (LLMs) with human preferences
 has shown remarkable success, aligning these models to meet the diverse user

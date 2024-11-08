@@ -7,7 +7,7 @@ year: 2024
 bibkey: hiraou2024optimising
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.18920"}
-tags: ['Few Shot', 'Prompting', 'Training Techniques', 'Uncategorized']
+tags: ['Few Shot', 'Prompting', 'Training Techniques']
 ---
 Prompting is a flexible and adaptable way of providing instructions to a
 Large Language Model (LLM). Contextual prompts include context in the form of a

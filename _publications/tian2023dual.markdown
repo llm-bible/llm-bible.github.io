@@ -7,7 +7,7 @@ year: 2023
 bibkey: tian2023dual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.18075"}
-tags: ['Agentic', 'Efficiency And Optimization', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Efficiency And Optimization', 'Tools']
 ---
 Inspired by the dual-process theory of human cognition, we introduce DUMA, a
 novel conversational agent framework that embodies a dual-mind mechanism

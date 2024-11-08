@@ -7,7 +7,7 @@ year: 2024
 bibkey: skapars2024was
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.11059"}
-tags: ['Security', 'Training Techniques', 'Uncategorized']
+tags: ['Security', 'Training Techniques']
 ---
 Training large language models (LLMs) requires a substantial investment of
 time and money. To get a good return on investment, the developers spend

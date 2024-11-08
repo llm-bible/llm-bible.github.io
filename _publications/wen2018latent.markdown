@@ -7,7 +7,7 @@ year: 2018
 bibkey: wen2018latent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1809.07070"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 Latent variable models have been a preferred choice in conversational
 modeling compared to sequence-to-sequence (seq2seq) models which tend to

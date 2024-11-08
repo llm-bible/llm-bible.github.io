@@ -7,7 +7,7 @@ year: 2024
 bibkey: martínez2024using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.16012"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 This study investigates the potential of large language models (LLMs) to
 provide accurate estimates of concreteness, valence and arousal for multi-word

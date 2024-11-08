@@ -7,7 +7,7 @@ year: 2024
 bibkey: santu2024prompting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.15589"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Survey Paper', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Survey Paper']
 ---
 One of the most important yet onerous tasks in the academic peer-reviewing
 process is composing meta-reviews, which involves understanding the core

@@ -7,7 +7,7 @@ year: 2024
 bibkey: abukhalaf2024path
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.12450"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 The rapid progress of AI-powered programming assistants, such as GitHub
 Copilot, has facilitated the development of software applications. These

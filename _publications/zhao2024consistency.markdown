@@ -8,7 +8,7 @@ bibkey: zhao2024consistency
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17411"}
   - {name: "Code", url: "https://github.com/heavenhellchen/Consistency.git"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Training Techniques']
 ---
 Nowadays both commercial and open-source academic LLM have become the
 mainstream models of NLP. However, there is still a lack of research on LLM

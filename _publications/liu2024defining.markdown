@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024defining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.16283"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 The advent of large language models (LLMs) has transformed text-based
 services, enabling capabilities ranging from real-time translation to AI-driven

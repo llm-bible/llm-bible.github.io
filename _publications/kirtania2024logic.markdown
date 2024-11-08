@@ -7,7 +7,7 @@ year: 2024
 bibkey: kirtania2024logic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.02514"}
-tags: ['Prompting', 'RAG', 'Uncategorized']
+tags: ['Prompting', 'RAG']
 ---
 In this paper we examine the limitations of Large Language Models (LLMs) for
 complex reasoning tasks. Although recent works have started to employ formal

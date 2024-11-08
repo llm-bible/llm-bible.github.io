@@ -7,7 +7,7 @@ year: 2024
 bibkey: xie2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11566"}
-tags: ['Fine Tuning', 'Tools', 'Uncategorized']
+tags: ['Fine Tuning', 'Tools']
 ---
 Knowledge editing aims to adjust the knowledge within large language models
 (LLMs) to prevent their responses from becoming obsolete or inaccurate.

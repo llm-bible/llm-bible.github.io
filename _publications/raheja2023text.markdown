@@ -8,7 +8,7 @@ bibkey: raheja2023text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.09857"}
   - {name: "Code", url: "https://github.com/vipulraheja/coedit"}
-tags: ['Has Code', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Has Code', 'Reinforcement Learning']
 ---
 We introduce CoEdIT, a state-of-the-art text editing system for writing
 assistance. CoEdIT takes instructions from the user specifying the attributes

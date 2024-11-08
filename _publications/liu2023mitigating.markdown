@@ -8,7 +8,7 @@ bibkey: liu2023mitigating
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2306.14565v4"}
   - {name: "Code", url: "https://github.com/FuxiaoLiu/LRV-Instruction"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Despite the promising progress in multi-modal tasks, current large
 multi-modal models (LMMs) are prone to hallucinating inconsistent descriptions

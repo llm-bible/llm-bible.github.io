@@ -8,7 +8,7 @@ bibkey: wu2024acquiring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.12026"}
   - {name: "Code", url: "https://github.com/ZrW00/MuScleLoRA"}
-tags: ['BERT', 'Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Uncategorized']
+tags: ['BERT', 'Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques']
 ---
 Despite the notable success of language models (LMs) in various natural
 language processing (NLP) tasks, the reliability of LMs is susceptible to

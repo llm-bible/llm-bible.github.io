@@ -7,7 +7,7 @@ year: 2024
 bibkey: song2024knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.08631"}
-tags: ['RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['RAG', 'Reinforcement Learning', 'Tools']
 ---
 Knowledge editing (KE) aims to efficiently and precisely modify the behavior
 of large language models (LLMs) to update specific knowledge without negatively

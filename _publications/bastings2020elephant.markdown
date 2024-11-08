@@ -7,7 +7,7 @@ year: 2020
 bibkey: bastings2020elephant
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.05607"}
-tags: ['Attention Mechanism', 'Interpretability And Explainability', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Attention Mechanism', 'Interpretability And Explainability', 'Model Architecture', 'Reinforcement Learning']
 ---
 There is a recent surge of interest in using attention as explanation of
 model predictions, with mixed evidence on whether attention can be used as

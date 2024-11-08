@@ -7,7 +7,7 @@ year: 2024
 bibkey: plaut2024softmax
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13213"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 Although large language models (LLMs) perform impressively on many tasks,
 overconfidence remains a problem. We hypothesized that on multiple-choice Q&A

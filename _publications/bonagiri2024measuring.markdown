@@ -7,7 +7,7 @@ year: 2024
 bibkey: bonagiri2024measuring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01719"}
-tags: ['Prompting', 'RAG', 'Uncategorized']
+tags: ['Prompting', 'RAG']
 ---
 A Large Language Model (LLM) is considered consistent if semantically
 equivalent prompts produce semantically equivalent responses. Despite recent

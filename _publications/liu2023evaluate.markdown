@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023evaluate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14658"}
-tags: ['GPT', 'Model Architecture', 'Security', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Security']
 ---
 LLMs (large language models) such as ChatGPT have shown remarkable language
 understanding and generation capabilities. Although reference-free evaluators

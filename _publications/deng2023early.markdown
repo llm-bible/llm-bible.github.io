@@ -7,7 +7,7 @@ year: 2023
 bibkey: deng2023early
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.10078"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 Since its launch, ChatGPT has achieved remarkable success as a versatile
 conversational AI platform, drawing millions of users worldwide and garnering

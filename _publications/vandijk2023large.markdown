@@ -7,7 +7,7 @@ year: 2023
 bibkey: vandijk2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.19671"}
-tags: ['RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 Current Large Language Models (LLMs) are unparalleled in their ability to
 generate grammatically correct, fluent text. LLMs are appearing rapidly, and

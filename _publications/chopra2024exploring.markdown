@@ -7,7 +7,7 @@ year: 2024
 bibkey: chopra2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.06229"}
-tags: ['Interpretability And Explainability', 'RAG', 'Uncategorized']
+tags: ['Interpretability And Explainability', 'RAG']
 ---
 The widespread availability of Large Language Models (LLMs) within Integrated
 Development Environments (IDEs) has led to their speedy adoption.

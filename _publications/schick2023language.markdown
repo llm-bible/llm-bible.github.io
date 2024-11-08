@@ -7,7 +7,7 @@ year: 2023
 bibkey: schick2023language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.04761"}
-tags: ['Language Modeling', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Language Modeling', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 Language models (LMs) exhibit remarkable abilities to solve new tasks from
 just a few examples or textual instructions, especially at scale. They also,

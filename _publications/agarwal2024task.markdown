@@ -7,7 +7,7 @@ year: 2024
 bibkey: agarwal2024task
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.18369"}
-tags: ['Agentic', 'Efficiency And Optimization', 'Prompting', 'RAG', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Agentic', 'Efficiency And Optimization', 'Prompting', 'RAG', 'Tools', 'Training Techniques']
 ---
 Large language models (LLMs) have revolutionized AI across diverse domains,
 showcasing remarkable capabilities. Central to their success is the concept of

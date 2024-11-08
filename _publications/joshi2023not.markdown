@@ -7,7 +7,7 @@ year: 2023
 bibkey: joshi2023not
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09651"}
-tags: ['Applications', 'Attention Mechanism', 'GPT', 'Model Architecture', 'Survey Paper', 'Uncategorized']
+tags: ['Applications', 'Attention Mechanism', 'GPT', 'Model Architecture', 'Survey Paper']
 ---
 Large language models (LLMs) such as ChatGPT and Google Bard have garnered
 significant attention in the academic community. Previous research has

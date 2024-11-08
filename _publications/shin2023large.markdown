@@ -7,7 +7,7 @@ year: 2023
 bibkey: shin2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.16466"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 Although large language models (LLMs) are reshaping various aspects of human
 life, our current understanding of their impacts remains somewhat constrained.

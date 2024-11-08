@@ -7,7 +7,7 @@ year: 2023
 bibkey: son2023hae
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.02706"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Large language models (LLMs) trained on massive corpora demonstrate
 impressive capabilities in a wide range of tasks. While there are ongoing

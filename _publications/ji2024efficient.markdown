@@ -7,7 +7,7 @@ year: 2024
 bibkey: ji2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.02416"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques']
 ---
 With the rapid development of large language models (LLMs) and ever-evolving
 practical requirements, finding an efficient and effective alignment method has

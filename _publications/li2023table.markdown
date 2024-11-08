@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023table
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.09263"}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Training Techniques']
 ---
 Language models, such as GPT-3.5 and ChatGPT, demonstrate remarkable
 abilities to follow diverse human instructions and perform a wide range of

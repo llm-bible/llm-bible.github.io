@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.16837"}
-tags: ['Applications', 'Prompting', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'Prompting', 'RAG', 'Reinforcement Learning']
 ---
 We study whether Large Language Models (LLMs) latently perform multi-hop
 reasoning with complex prompts such as "The mother of the singer of

@@ -7,7 +7,7 @@ year: 2024
 bibkey: park2024multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.07736"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 As the capabilities of LLMs expand, it becomes increasingly important to
 evaluate them beyond basic knowledge assessment, focusing on higher-level

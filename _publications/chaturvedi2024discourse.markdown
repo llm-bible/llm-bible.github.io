@@ -7,7 +7,7 @@ year: 2024
 bibkey: chaturvedi2024discourse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.18164"}
-tags: ['Uncategorized']
+tags: []
 ---
 When engaging in collaborative tasks, humans efficiently exploit the semantic
 structure of a conversation to optimize verbal and nonverbal interactions. But

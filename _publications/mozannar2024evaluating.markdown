@@ -7,7 +7,7 @@ year: 2024
 bibkey: mozannar2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.02806"}
-tags: ['Reinforcement Learning', 'Uncategorized']
+tags: ['Reinforcement Learning']
 ---
 Evaluation of large language models (LLMs) for code has primarily relied on
 static benchmarks, including HumanEval (Chen et al., 2021), which measure the

@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024strategic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.07490"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Prompting', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'Prompting', 'Tools', 'Training Techniques']
 ---
 The rapid advancement of Large Language Models (LLMs) has improved text
 understanding and generation but poses challenges in computational resources.

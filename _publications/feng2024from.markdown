@@ -7,7 +7,7 @@ year: 2024
 bibkey: feng2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.19638"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 Recent advances in artificial intelligence have seen Large Language Models
 (LLMs) demonstrate notable proficiency in causal discovery tasks. This study

@@ -7,7 +7,7 @@ year: 2024
 bibkey: bellemarepepin2024divergent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13012"}
-tags: ['RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['RAG', 'Reinforcement Learning', 'Tools']
 ---
 The recent surge in the capabilities of Large Language Models (LLMs) has led
 to claims that they are approaching a level of creativity akin to human

@@ -7,7 +7,7 @@ year: 2023
 bibkey: huang2023c
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.08322"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG', 'Tools']
 ---
 New NLP benchmarks are urgently needed to align with the rapid development of
 large language models (LLMs). We present C-Eval, the first comprehensive

@@ -7,7 +7,7 @@ year: 2024
 bibkey: ji2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03282"}
-tags: ['RAG', 'Training Techniques', 'Uncategorized']
+tags: ['RAG', 'Training Techniques']
 ---
 The hallucination problem of Large Language Models (LLMs) significantly
 limits their reliability and trustworthiness. Humans have a self-awareness

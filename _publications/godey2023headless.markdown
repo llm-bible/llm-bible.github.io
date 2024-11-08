@@ -7,7 +7,7 @@ year: 2023
 bibkey: godey2023headless
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.08351"}
-tags: ['Efficiency And Optimization', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Training Techniques']
 ---
 Self-supervised pre-training of language models usually consists in
 predicting probability distributions over extensive token vocabularies. In this

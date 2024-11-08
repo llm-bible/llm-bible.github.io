@@ -7,7 +7,7 @@ year: 2024
 bibkey: zeng2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.05232"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 The advent of Large Language Models (LLMs) has revolutionized text
 generation, producing outputs that closely mimic human writing. This blurring

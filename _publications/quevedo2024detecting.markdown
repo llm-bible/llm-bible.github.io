@@ -8,7 +8,7 @@ bibkey: quevedo2024detecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.19648"}
   - {name: "Code", url: "https://github.com/Baylor-AI/HalluDetect"}
-tags: ['Applications', 'Has Code', 'Uncategorized']
+tags: ['Applications', 'Has Code']
 ---
 Concerns regarding the propensity of Large Language Models (LLMs) to produce
 inaccurate outputs, also known as hallucinations, have escalated. Detecting

@@ -7,7 +7,7 @@ year: 2024
 bibkey: piché2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13022"}
-tags: ['Prompting', 'RAG', 'Uncategorized']
+tags: ['Prompting', 'RAG']
 ---
 In order to be deployed safely, Large Language Models (LLMs) must be capable
 of dynamically adapting their behavior based on their level of knowledge and

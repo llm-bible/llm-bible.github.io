@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.08707"}
-tags: ['Applications', 'Efficiency And Optimization', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Efficiency And Optimization', 'Reinforcement Learning', 'Training Techniques']
 ---
 As world knowledge evolves and new task paradigms emerge, Continual Learning
 (CL) is crucial for keeping Large Language Models (LLMs) up-to-date and

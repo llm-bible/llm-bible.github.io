@@ -7,7 +7,7 @@ year: 2020
 bibkey: ma2020asking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2009.07402"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Asking questions from natural language text has attracted increasing
 attention recently, and several schemes have been proposed with promising

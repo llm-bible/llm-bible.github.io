@@ -8,7 +8,7 @@ bibkey: liao2023large
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2312.02445v4"}
   - {name: "Code", url: "https://github.com/ljy0ustc/LLaRA"}
-tags: ['Has Code', 'Language Modeling', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Has Code', 'Language Modeling', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 Sequential recommendation aims to predict users' next interaction with items
 based on their past engagement sequence. Recently, the advent of Large Language

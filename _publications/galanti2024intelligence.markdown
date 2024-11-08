@@ -8,7 +8,7 @@ bibkey: galanti2024intelligence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.18968"}
   - {name: "Code", url: "https://github.com/Lianga2000/LLMsOnARC"}
-tags: ['Has Code', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Has Code', 'Prompting', 'Reinforcement Learning']
 ---
 In this project, we test the effectiveness of Large Language Models (LLMs) on
 the Abstraction and Reasoning Corpus (ARC) dataset. This dataset serves as a

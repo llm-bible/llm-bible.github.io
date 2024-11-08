@@ -7,7 +7,7 @@ year: 2024
 bibkey: duan2024do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.09733"}
-tags: ['Tools', 'Uncategorized']
+tags: ['Tools']
 ---
 Large Language Models (LLMs) can make up answers that are not real, and this
 is known as hallucination. This research aims to see if, how, and to what

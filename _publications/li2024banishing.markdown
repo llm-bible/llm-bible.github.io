@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024banishing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.17642"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 Despite their powerful chat, coding, and reasoning abilities, Large Language
 Models (LLMs) frequently hallucinate. Conventional wisdom suggests that

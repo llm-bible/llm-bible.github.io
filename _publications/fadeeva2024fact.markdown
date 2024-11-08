@@ -7,7 +7,7 @@ year: 2024
 bibkey: fadeeva2024fact
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.04696"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 Large language models (LLMs) are notorious for hallucinating, i.e., producing
 erroneous claims in their output. Such hallucinations can be dangerous, as

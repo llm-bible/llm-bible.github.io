@@ -8,7 +8,7 @@ bibkey: fan2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.03532"}
   - {name: "Code", url: "https://github.com/THU-KEG/SQC-Score"}
-tags: ['Has Code', 'Uncategorized']
+tags: ['Has Code']
 ---
 Modern Large Language Models (LLMs) have showcased remarkable prowess in
 various tasks necessitating sophisticated cognitive behaviors. Nevertheless, a

@@ -7,7 +7,7 @@ year: 2024
 bibkey: yu2024truth
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.07556"}
-tags: ['Attention Mechanism', 'Model Architecture', 'RAG', 'Tools', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'RAG', 'Tools']
 ---
 Although Large Language Models (LLMs) have demonstrated impressive text
 generation capabilities, they are easily misled by untruthful contexts provided

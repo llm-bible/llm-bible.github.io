@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024examination
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.05359"}
-tags: ['Applications', 'Prompting', 'Uncategorized']
+tags: ['Applications', 'Prompting']
 ---
 Foundation models, such as Large language Models (LLMs), have attracted
 significant amount of interest due to their large number of applications.

@@ -7,7 +7,7 @@ year: 2024
 bibkey: alipour2024chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.14469"}
-tags: ['Applications', 'Attention Mechanism', 'Efficiency And Optimization', 'Fine Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Survey Paper', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Attention Mechanism', 'Efficiency And Optimization', 'Fine Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Survey Paper', 'Training Techniques']
 ---
 In recent times, the grandeur of Large Language Models (LLMs) has not only
 shone in the realm of natural language processing but has also cast its

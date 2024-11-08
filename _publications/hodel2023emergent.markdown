@@ -7,7 +7,7 @@ year: 2023
 bibkey: hodel2023emergent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.16118"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 In their recent Nature Human Behaviour paper, "Emergent analogical reasoning
 in large language models," (Webb, Holyoak, and Lu, 2023) the authors argue that

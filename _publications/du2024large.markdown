@@ -7,7 +7,7 @@ year: 2024
 bibkey: du2024large
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2402.08859v1"}
-tags: ['Applications', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'Prompting', 'Reinforcement Learning']
 ---
 In recent years, efforts have been made to use text information for better
 user profiling and item characterization in recommendations. However, text

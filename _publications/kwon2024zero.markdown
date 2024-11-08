@@ -7,7 +7,7 @@ year: 2024
 bibkey: kwon2024zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12642"}
-tags: ['Applications', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Merging', 'Reinforcement Learning', 'Training Techniques']
 ---
 Text-guided image editing and generation methods have diverse real-world
 applications. However, text-guided infinite image synthesis faces several

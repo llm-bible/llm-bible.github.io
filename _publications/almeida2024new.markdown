@@ -7,7 +7,7 @@ year: 2024
 bibkey: almeida2024new
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.09887"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 We introduce Sabi\'a-2, a family of large language models trained on
 Portuguese texts. The models are evaluated on a diverse range of exams,

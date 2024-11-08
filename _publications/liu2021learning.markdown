@@ -7,7 +7,7 @@ year: 2021
 bibkey: liu2021learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.15903"}
-tags: ['Attention Mechanism', 'Fine Tuning', 'Model Architecture', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Fine Tuning', 'Model Architecture', 'Tools', 'Training Techniques']
 ---
 Conversational Question Simplification (CQS) aims to simplify self-contained
 questions into conversational ones by incorporating some conversational

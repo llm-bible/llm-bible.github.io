@@ -7,7 +7,7 @@ year: 2023
 bibkey: ma2023principle
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.15068"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Theory of Mind (ToM), the capacity to comprehend the mental states of
 distinct individuals, is essential for numerous practical applications. With

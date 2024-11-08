@@ -7,7 +7,7 @@ year: 2024
 bibkey: jensen2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.16344"}
-tags: ['Prompting', 'Uncategorized']
+tags: ['Prompting']
 ---
 We claim that LLMs can be paired with formal analysis methods to provide
 accessible, relevant feedback for HRI tasks. While logic specifications are

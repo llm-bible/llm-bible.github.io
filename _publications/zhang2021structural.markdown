@@ -7,7 +7,7 @@ year: 2021
 bibkey: zhang2021structural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.10956"}
-tags: ['Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Pre-trained language models (PrLMs) have demonstrated superior performance
 due to their strong ability to learn universal language representations from

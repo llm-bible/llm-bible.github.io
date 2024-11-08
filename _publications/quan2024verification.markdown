@@ -7,7 +7,7 @@ year: 2024
 bibkey: quan2024verification
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.01379"}
-tags: ['Interpretability And Explainability', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Interpretability And Explainability', 'Reinforcement Learning', 'Tools']
 ---
 Natural language explanations have become a proxy for evaluating explainable
 and multi-step Natural Language Inference (NLI) models. However, assessing the

@@ -8,7 +8,7 @@ bibkey: kumar2023certifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.02705"}
   - {name: "Code", url: "https://github.com/aounon/certified-llm-safety"}
-tags: ['BERT', 'Has Code', 'Merging', 'Model Architecture', 'Prompting', 'Responsible AI', 'Security', 'Tools', 'Uncategorized']
+tags: ['BERT', 'Has Code', 'Merging', 'Model Architecture', 'Prompting', 'Responsible AI', 'Security', 'Tools']
 ---
 Large language models (LLMs) are vulnerable to adversarial attacks that add
 malicious tokens to an input prompt to bypass the safety guardrails of an LLM

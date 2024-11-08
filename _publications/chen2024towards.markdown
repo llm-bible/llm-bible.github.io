@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.09439"}
-tags: ['Prompting', 'RAG', 'Reinforcement Learning', 'TACL', 'Tools', 'Uncategorized']
+tags: ['Prompting', 'RAG', 'Reinforcement Learning', 'TACL', 'Tools']
 ---
 Relevance modeling is a critical component for enhancing user experience in
 search engines, with the primary objective of identifying items that align with

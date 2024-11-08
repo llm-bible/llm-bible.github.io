@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024universal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.08582"}
-tags: ['Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 While large language models (LLMs) have demonstrated remarkable abilities
 across various fields, hallucination remains a significant challenge. Recent

@@ -7,7 +7,7 @@ year: 2023
 bibkey: ye2023how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14947"}
-tags: ['Uncategorized']
+tags: []
 ---
 We investigate the predictability of large language model (LLM) capabilities:
 given records of past experiments using different model families, numbers of

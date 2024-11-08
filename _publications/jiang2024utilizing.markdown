@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024utilizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.07367"}
-tags: ['Applications', 'RAG', 'Security', 'Tools', 'Uncategorized']
+tags: ['Applications', 'RAG', 'Security', 'Tools']
 ---
 Mini-applications, commonly referred to as mini-apps, are compact software
 programs embedded within larger applications or platforms, offering targeted

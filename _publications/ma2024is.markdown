@@ -7,7 +7,7 @@ year: 2024
 bibkey: ma2024is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.05827"}
-tags: ['Applications', 'Prompting', 'Security', 'Uncategorized']
+tags: ['Applications', 'Prompting', 'Security']
 ---
 Large language models (LLMs) have played a pivotal role in building
 communicative AI to imitate human behaviors but face the challenge of efficient

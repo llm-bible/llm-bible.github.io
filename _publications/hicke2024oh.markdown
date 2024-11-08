@@ -7,7 +7,7 @@ year: 2024
 bibkey: hicke2024oh
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.17922"}
-tags: ['Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Coreference annotation and resolution is a vital component of computational
 literary studies. However, it has previously been difficult to build high

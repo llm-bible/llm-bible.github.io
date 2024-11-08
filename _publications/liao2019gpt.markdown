@@ -7,7 +7,7 @@ year: 2019
 bibkey: liao2019gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1907.00151"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 We present a simple yet effective method for generating high quality
 classical Chinese poetry with Generative Pre-trained Language Model (GPT). The

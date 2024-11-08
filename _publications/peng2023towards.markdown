@@ -7,7 +7,7 @@ year: 2023
 bibkey: peng2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.01612"}
-tags: ['Efficiency And Optimization', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Training Techniques']
 ---
 In recent years, with large language models (LLMs) achieving state-of-the-art
 performance in context understanding, increasing efforts have been dedicated to

@@ -7,7 +7,7 @@ year: 2024
 bibkey: aghzal2024look
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12000"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Tools']
 ---
 Large Language Models (LLMs) have shown impressive capabilities across a wide
 variety of tasks. However, they still face challenges with long-horizon

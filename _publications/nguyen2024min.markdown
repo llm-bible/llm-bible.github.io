@@ -7,7 +7,7 @@ year: 2024
 bibkey: nguyen2024min
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.01082"}
-tags: ['Reinforcement Learning', 'Uncategorized']
+tags: ['Reinforcement Learning']
 ---
 Large Language Models (LLMs) generate longform text by successively sampling
 the next token based on the probability distribution of the token vocabulary at

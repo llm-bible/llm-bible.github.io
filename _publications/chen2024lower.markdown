@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024lower
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.08769"}
-tags: ['Merging', 'RAG', 'Tools', 'Uncategorized']
+tags: ['Merging', 'RAG', 'Tools']
 ---
 Large Language Models (LLMs) have demonstrated exceptional performance across
 various natural language processing tasks, yet they occasionally tend to yield

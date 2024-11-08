@@ -8,7 +8,7 @@ bibkey: ren2022understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2207.00187"}
   - {name: "Code", url: "https://github.com/neukg/RobustMRC"}
-tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Security', 'Tools', 'Uncategorized']
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Security', 'Tools']
 ---
 Although existing machine reading comprehension models are making rapid
 progress on many datasets, they are far from robust. In this paper, we propose

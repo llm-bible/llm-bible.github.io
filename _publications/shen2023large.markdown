@@ -7,7 +7,7 @@ year: 2023
 bibkey: shen2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.15025"}
-tags: ['Attention Mechanism', 'Fine Tuning', 'Interpretability And Explainability', 'Model Architecture', 'Security', 'Survey Paper', 'Uncategorized']
+tags: ['Attention Mechanism', 'Fine Tuning', 'Interpretability And Explainability', 'Model Architecture', 'Security', 'Survey Paper']
 ---
 Recent years have witnessed remarkable progress made in large language models
 (LLMs). Such advancements, while garnering significant attention, have

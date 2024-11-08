@@ -7,7 +7,7 @@ year: 2023
 bibkey: yu2023bootstrap
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.12284"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large language models (LLMs) have pushed the limits of natural language
 understanding and exhibited excellent problem-solving ability. Despite the

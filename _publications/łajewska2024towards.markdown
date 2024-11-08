@@ -7,7 +7,7 @@ year: 2024
 bibkey: łajewska2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.11452"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 Generative AI models face the challenge of hallucinations that can undermine
 users' trust in such systems. We approach the problem of conversational

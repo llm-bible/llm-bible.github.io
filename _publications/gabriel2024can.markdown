@@ -7,7 +7,7 @@ year: 2024
 bibkey: gabriel2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.12021"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Responsible AI', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Responsible AI', 'Tools']
 ---
 Large language models (LLMs) are already being piloted for clinical use in
 hospital systems like NYU Langone, Dana-Farber and the NHS. A proposed

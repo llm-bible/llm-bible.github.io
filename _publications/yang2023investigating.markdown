@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.00273"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 This work evaluated several cutting-edge large-scale foundation models based
 on self-supervision or weak supervision, including SeamlessM4T, SeamlessM4T v2,

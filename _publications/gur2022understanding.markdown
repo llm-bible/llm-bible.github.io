@@ -7,7 +7,7 @@ year: 2022
 bibkey: gur2022understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.03945"}
-tags: ['Applications', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Model Architecture', 'Training Techniques']
 ---
 Large language models (LLMs) have shown exceptional performance on a variety
 of natural language tasks. Yet, their capabilities for HTML understanding --

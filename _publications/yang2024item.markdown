@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024item
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02844"}
-tags: ['Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Large-language Models (LLMs) have been extremely successful at tasks like
 complex dialogue understanding, reasoning and coding due to their emergent

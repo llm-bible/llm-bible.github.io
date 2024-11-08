@@ -7,7 +7,7 @@ year: 2023
 bibkey: bao2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.10444"}
-tags: ['Applications', 'GPT', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'Tools', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'Tools']
 ---
 Large language models exhibit superior capabilities in processing and
 understanding language, yet their applications in educational contexts remain

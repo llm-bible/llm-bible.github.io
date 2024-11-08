@@ -7,7 +7,7 @@ year: 2024
 bibkey: park2024understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.03257"}
-tags: ['Tools', 'Uncategorized']
+tags: ['Tools']
 ---
 This paper conducts a longitudinal study over eleven months to address the
 limitations of prior research on the Open Ko-LLM Leaderboard, which have relied

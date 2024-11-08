@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024eliciting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10646"}
-tags: ['Interpretability And Explainability', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Interpretability And Explainability', 'Reinforcement Learning', 'Tools']
 ---
 Abstraction ability is crucial in human intelligence, which can also benefit
 various tasks in NLP study. Existing work shows that LLMs are deficient in

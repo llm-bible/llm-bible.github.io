@@ -7,7 +7,7 @@ year: 2024
 bibkey: danry2024deceptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.00024"}
-tags: ['Interpretability And Explainability', 'Uncategorized']
+tags: ['Interpretability And Explainability']
 ---
 Advanced Artificial Intelligence (AI) systems, specifically large language
 models (LLMs), have the capability to generate not just misinformation, but

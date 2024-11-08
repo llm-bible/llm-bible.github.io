@@ -7,7 +7,7 @@ year: 2024
 bibkey: xiao2024detecting
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2404.14233v1"}
-tags: ['Efficiency And Optimization', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 The rapidly developing Large Vision Language Models (LVLMs) have shown
 notable capabilities on a range of multi-modal tasks, but still face the

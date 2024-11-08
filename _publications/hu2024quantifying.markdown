@@ -7,7 +7,7 @@ year: 2024
 bibkey: hu2024quantifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10811"}
-tags: ['Prompting', 'Uncategorized']
+tags: ['Prompting']
 ---
 Large language models (LLMs) have shown remarkable promise in simulating
 human language and behavior. This study investigates how integrating persona

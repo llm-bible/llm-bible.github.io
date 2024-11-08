@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023transforming
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.07766"}
-tags: ['Applications', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Tools', 'Training Techniques']
 ---
 Temporal Logic (TL) can be used to rigorously specify complex high-level
 specification for systems in many engineering applications. The translation

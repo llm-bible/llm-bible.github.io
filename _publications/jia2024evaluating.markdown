@@ -7,7 +7,7 @@ year: 2024
 bibkey: jia2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.07641"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 We introduce SimulBench, a benchmark designed to evaluate large language
 models (LLMs) across a diverse collection of creative simulation scenarios,

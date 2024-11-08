@@ -7,7 +7,7 @@ year: 2023
 bibkey: xu2023does
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.19103"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 To what extent can language alone give rise to complex concepts, or is
 embodied experience essential? Recent advancements in large language models

@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.09865"}
-tags: ['Interpretability And Explainability', 'Prompting', 'Reinforcement Learning', 'Survey Paper', 'Tools', 'Uncategorized']
+tags: ['Interpretability And Explainability', 'Prompting', 'Reinforcement Learning', 'Survey Paper', 'Tools']
 ---
 Explainable Recommendation task is designed to receive a pair of user and
 item and output explanations to justify why an item is recommended to a user.

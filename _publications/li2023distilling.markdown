@@ -8,7 +8,7 @@ bibkey: li2023distilling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.12962"}
   - {name: "Code", url: "https://github.com/lijiazheng99/aera"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Tools']
 ---
 Providing explainable and faithful feedback is crucial for automated student
 answer assessment. In this paper, we introduce a novel framework that explores

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhou2024speeding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.06172"}
-tags: ['Prompting', 'Uncategorized']
+tags: ['Prompting']
 ---
 Developing prompt-based methods with Large Language Models (LLMs) requires
 making numerous decisions, which give rise to a combinatorial search problem.

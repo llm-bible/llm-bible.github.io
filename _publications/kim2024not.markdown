@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024not
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.00623"}
-tags: ['Fine Tuning', 'Uncategorized']
+tags: ['Fine Tuning']
 ---
 Widely deployed large language models (LLMs) can produce convincing yet
 incorrect outputs, potentially misleading users who may rely on them as if they

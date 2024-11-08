@@ -7,7 +7,7 @@ year: 2024
 bibkey: stankevich2024interpreting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.21512"}
-tags: ['GPT', 'Merging', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Merging', 'Model Architecture']
 ---
 Robots are increasingly common in industry and daily life, such as in nursing
 homes where they can assist staff. A key challenge is developing intuitive

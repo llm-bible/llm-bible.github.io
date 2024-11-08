@@ -7,7 +7,7 @@ year: 2023
 bibkey: arndt2023ai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.14206"}
-tags: ['Attention Mechanism', 'Fine Tuning', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Attention Mechanism', 'Fine Tuning', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 This exploratory study investigates the potential of the artificial
 intelligence tool, ChatGPT, to support systems thinking (ST) in various

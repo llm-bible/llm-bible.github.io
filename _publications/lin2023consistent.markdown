@@ -7,7 +7,7 @@ year: 2023
 bibkey: lin2023consistent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.15091"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Tools']
 ---
 Recent text-to-video (T2V) generation methods have seen significant
 advancements. However, the majority of these works focus on producing short

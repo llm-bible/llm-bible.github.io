@@ -8,7 +8,7 @@ bibkey: lin2023argue
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.13608"}
   - {name: "Code", url: "https://github.com/amazingljy1206/ArgTersely"}
-tags: ['BERT', 'GPT', 'Has Code', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['BERT', 'GPT', 'Has Code', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 Counter-argument generation -- a captivating area in computational
 linguistics -- seeks to craft statements that offer opposing views. While most

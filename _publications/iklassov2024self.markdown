@@ -7,7 +7,7 @@ year: 2024
 bibkey: iklassov2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.17950"}
-tags: ['Efficiency And Optimization', 'Fine Tuning', 'Prompting', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Fine Tuning', 'Prompting']
 ---
 Large Language Models (LLMs) have become pivotal in addressing reasoning
 tasks across diverse domains, including arithmetic, commonsense, and symbolic

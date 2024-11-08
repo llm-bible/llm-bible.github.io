@@ -7,7 +7,7 @@ year: 2020
 bibkey: zhao2020low
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2002.10348"}
-tags: ['Agentic', 'Training Techniques', 'Uncategorized']
+tags: ['Agentic', 'Training Techniques']
 ---
 Responding with knowledge has been recognized as an important capability for
 an intelligent conversational agent. Yet knowledge-grounded dialogues, as

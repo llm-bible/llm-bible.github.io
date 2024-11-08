@@ -7,7 +7,7 @@ year: 2024
 bibkey: mouchel2024logical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.03618"}
-tags: ['Efficiency And Optimization', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 Despite the remarkable performance of Large Language Models (LLMs), they
 still struggle with generating logically sound arguments, resulting in

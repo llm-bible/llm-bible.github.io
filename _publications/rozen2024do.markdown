@@ -7,7 +7,7 @@ year: 2024
 bibkey: rozen2024do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12878"}
-tags: ['Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Prompting', 'Reinforcement Learning']
 ---
 Values are a basic driving force underlying human behavior. Large Language
 Models (LLM) technology is constantly improving towards human-like dialogue.

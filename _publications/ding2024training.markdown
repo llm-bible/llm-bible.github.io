@@ -7,7 +7,7 @@ year: 2024
 bibkey: ding2024training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.01006"}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Training Techniques']
 ---
 Code Large Language Models (Code LLMs) have excelled at tasks like code
 completion but often miss deeper semantics such as execution effects and

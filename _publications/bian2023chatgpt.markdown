@@ -7,7 +7,7 @@ year: 2023
 bibkey: bian2023chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.16421"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have made significant progress in NLP. However,
 their ability to memorize, represent, and leverage commonsense knowledge has

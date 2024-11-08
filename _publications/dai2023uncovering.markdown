@@ -8,7 +8,7 @@ bibkey: dai2023uncovering
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.02182v3"}
   - {name: "Code", url: "https://github.com/rainym00d/LLM4RS"}
-tags: ['Attention Mechanism', 'Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['Attention Mechanism', 'Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'Prompting']
 ---
 The debut of ChatGPT has recently attracted the attention of the natural
 language processing (NLP) community and beyond. Existing studies have

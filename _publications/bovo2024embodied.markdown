@@ -7,7 +7,7 @@ year: 2024
 bibkey: bovo2024embodied
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.08158"}
-tags: ['Agentic', 'Attention Mechanism', 'Model Architecture', 'Prompting', 'RAG', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Attention Mechanism', 'Model Architecture', 'Prompting', 'RAG', 'Tools']
 ---
 XR devices running chat-bots powered by Large Language Models (LLMs) have
 tremendous potential as always-on agents that can enable much better

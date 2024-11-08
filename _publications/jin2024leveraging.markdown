@@ -7,7 +7,7 @@ year: 2024
 bibkey: jin2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.19723"}
-tags: ['Few Shot', 'Prompting', 'RAG', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Few Shot', 'Prompting', 'RAG', 'Tools', 'Training Techniques']
 ---
 Table understanding (TU) has achieved promising advancements, but it faces
 the challenges of the scarcity of manually labeled tables and the presence of

@@ -7,7 +7,7 @@ year: 2024
 bibkey: gupta2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13009"}
-tags: ['Agentic', 'Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting', 'Security', 'Training Techniques', 'Uncategorized']
+tags: ['Agentic', 'Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting', 'Security', 'Training Techniques']
 ---
 Despite the popularity of Large Language Models (LLMs), crafting specific
 prompts for LLMs to perform particular tasks remains challenging. Users often

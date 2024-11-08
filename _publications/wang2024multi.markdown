@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11279"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 In the deployment of large language models (LLMs), accurate confidence
 estimation is critical for assessing the credibility of model predictions.

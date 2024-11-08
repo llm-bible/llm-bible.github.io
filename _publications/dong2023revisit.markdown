@@ -7,7 +7,7 @@ year: 2023
 bibkey: dong2023revisit
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.06504"}
-tags: ['Prompting', 'Reinforcement Learning', 'Security', 'Tools', 'Uncategorized']
+tags: ['Prompting', 'Reinforcement Learning', 'Security', 'Tools']
 ---
 With the increasing capabilities of large language models (LLMs), these
 high-performance models have achieved state-of-the-art results on a wide range

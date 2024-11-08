@@ -8,7 +8,7 @@ bibkey: feng2024empowering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13948"}
   - {name: "Code", url: "https://github.com/tsinghua-fib-lab/CityGPT"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 Large language models(LLMs) with powerful language generation and reasoning
 capabilities have already achieved success in many domains, e.g., math and code

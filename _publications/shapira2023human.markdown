@@ -8,7 +8,7 @@ bibkey: shapira2023human
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.10361"}
   - {name: "Code", url: "https://github.com/eilamshapira/HumanChoicePrediction"}
-tags: ['Agentic', 'Has Code', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Agentic', 'Has Code', 'Tools', 'Training Techniques']
 ---
 Recent advances in Large Language Models (LLMs) have spurred interest in
 designing LLM-based agents for tasks that involve interaction with human and

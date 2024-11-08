@@ -7,7 +7,7 @@ year: 2024
 bibkey: fu2024predicting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11534"}
-tags: ['Agentic', 'Prompting', 'RAG', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Prompting', 'RAG', 'Tools']
 ---
 Addressing the discrepancies between predictions and actual outcomes often
 aids individuals in expanding their thought processes and engaging in

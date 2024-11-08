@@ -7,7 +7,7 @@ year: 2024
 bibkey: zeinalipour2024automating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.03397"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'RAG', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'RAG']
 ---
 Crafting quizzes from educational content is a pivotal activity that benefits
 both teachers and students by reinforcing learning and evaluating

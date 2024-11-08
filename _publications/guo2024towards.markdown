@@ -7,7 +7,7 @@ year: 2024
 bibkey: guo2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.07714"}
-tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Tools']
 ---
 Large Language Models (LLMs) have witnessed remarkable advancements in recent
 years, prompting the exploration of tool learning, which integrates LLMs with

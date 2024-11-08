@@ -7,7 +7,7 @@ year: 2023
 bibkey: arora2023learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.17077"}
-tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning']
 ---
 There have been wide spread claims in the literature about the emergent
 reasoning capabilities of Pretrained Large Language Models. However, recent

@@ -8,7 +8,7 @@ bibkey: khatun2024assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.07904"}
   - {name: "Code", url: "https://github.com/tanny411/llm-reliability-and-consistency-evaluation"}
-tags: ['Applications', 'Has Code', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'Has Code', 'Reinforcement Learning']
 ---
 The use of Large Language Models (LLMs) has become ubiquitous, with abundant
 applications in computational creativity. One such application is fictional

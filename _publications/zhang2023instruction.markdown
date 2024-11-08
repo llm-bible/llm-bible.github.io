@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.10792"}
-tags: ['Applications', 'Fine Tuning', 'Survey Paper', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Fine Tuning', 'Survey Paper', 'Training Techniques']
 ---
 This paper surveys research works in the quickly advancing field of
 instruction tuning (IT), a crucial technique to enhance the capabilities and

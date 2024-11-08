@@ -7,7 +7,7 @@ year: 2024
 bibkey: tang2024unleashing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17564"}
-tags: ['Efficiency And Optimization', 'Prompting', 'Tools', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Prompting', 'Tools']
 ---
 Automatic prompt optimization is an important approach to improving the
 performance of large language models (LLMs). Recent research demonstrates the

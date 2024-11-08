@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.05975"}
   - {name: "Code", url: "https://github.com/CONE-MT/LLaMAX/."}
   - {name: "Code", url: "https://huggingface.co/LLaMAX/."}
-tags: ['Has Code', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Has Code', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large Language Models~(LLMs) demonstrate remarkable translation capabilities
 in high-resource language tasks, yet their performance in low-resource

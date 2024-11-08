@@ -7,7 +7,7 @@ year: 2024
 bibkey: hu2024game
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.08706"}
-tags: ['Applications', 'Prompting', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Applications', 'Prompting', 'Reinforcement Learning', 'Tools']
 ---
 Recently, the emergence of large language models (LLMs) has unlocked new
 opportunities for procedural content generation. However, recent attempts

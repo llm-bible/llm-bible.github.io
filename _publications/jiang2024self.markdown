@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.04298"}
-tags: ['Tools', 'Uncategorized']
+tags: ['Tools']
 ---
 Can LLMs consistently improve their previous outputs for better results? For
 this to be true, LLMs would need to be better at discriminating among

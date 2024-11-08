@@ -7,7 +7,7 @@ year: 2024
 bibkey: gupta2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.18216"}
-tags: ['Applications', 'Prompting', 'Uncategorized']
+tags: ['Applications', 'Prompting']
 ---
 With the recent emergence of powerful instruction-tuned large language models
 (LLMs), various helpful conversational Artificial Intelligence (AI) systems

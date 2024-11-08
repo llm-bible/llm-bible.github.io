@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024novel
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.16473"}
-tags: ['Attention Mechanism', 'Model Architecture', 'RAG', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'RAG']
 ---
 Multi-modal Chain-of-Thought (MCoT) requires models to leverage knowledge
 from both textual and visual modalities for step-by-step reasoning, which gains

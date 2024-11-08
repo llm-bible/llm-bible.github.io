@@ -7,7 +7,7 @@ year: 2022
 bibkey: jakobovits2022what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.03431"}
-tags: ['Uncategorized']
+tags: []
 ---
 High-quality datasets for task-oriented dialog are crucial for the
 development of virtual assistants. Yet three of the most relevant large scale

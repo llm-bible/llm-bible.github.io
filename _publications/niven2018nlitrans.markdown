@@ -7,7 +7,7 @@ year: 2018
 bibkey: niven2018nlitrans
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1804.08266"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Model Architecture', 'Reinforcement Learning']
 ---
 The Argument Reasoning Comprehension Task requires significant language
 understanding and complex reasoning over world knowledge. We focus on transfer

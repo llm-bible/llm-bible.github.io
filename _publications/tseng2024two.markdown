@@ -8,7 +8,7 @@ bibkey: tseng2024two
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.01171"}
   - {name: "Code", url: "https://github.com/MiuLab/PersonaLLM-Survey"}
-tags: ['Has Code', 'RAG', 'Survey Paper', 'Tools', 'Uncategorized']
+tags: ['Has Code', 'RAG', 'Survey Paper', 'Tools']
 ---
 The concept of persona, originally adopted in dialogue literature, has
 re-surged as a promising framework for tailoring large language models (LLMs)

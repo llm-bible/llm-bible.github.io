@@ -7,7 +7,7 @@ year: 2024
 bibkey: michel2024realistic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11380"}
-tags: ['Few Shot', 'Uncategorized']
+tags: ['Few Shot']
 ---
 Large Language Models (LLMs) zero-shot and few-shot performance are subject
 to memorization and data contamination, complicating the assessment of their

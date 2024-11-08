@@ -8,7 +8,7 @@ bibkey: ye2023fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.10928"}
   - {name: "Code", url: "https://github.com/kaistAI/FLASK"}
-tags: ['Has Code', 'Interpretability And Explainability', 'Uncategorized']
+tags: ['Has Code', 'Interpretability And Explainability']
 ---
 Evaluation of Large Language Models (LLMs) is challenging because
 instruction-following necessitates alignment with human values and the required

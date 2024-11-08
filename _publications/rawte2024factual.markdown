@@ -7,7 +7,7 @@ year: 2024
 bibkey: rawte2024factual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.19113"}
-tags: ['BERT', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Security', 'Tools', 'Uncategorized']
+tags: ['BERT', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Security', 'Tools']
 ---
 The widespread adoption of Large Language Models (LLMs) has facilitated
 numerous benefits. However, hallucination is a significant concern. In

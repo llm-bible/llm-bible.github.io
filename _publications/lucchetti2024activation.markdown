@@ -7,7 +7,7 @@ year: 2024
 bibkey: lucchetti2024activation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.01903"}
-tags: ['Uncategorized']
+tags: []
 ---
 Contemporary LLMs pretrained on code are capable of succeeding at a wide
 variety of programming tasks. However, their performance is very sensitive to

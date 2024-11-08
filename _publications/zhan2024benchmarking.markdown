@@ -8,7 +8,7 @@ bibkey: zhan2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.02691"}
   - {name: "Code", url: "https://github.com/uiuc-kang-lab/InjecAgent"}
-tags: ['Agentic', 'GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Security', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Security', 'Tools']
 ---
 Recent work has embodied LLMs as agents, allowing them to access tools,
 perform actions, and interact with external content (e.g., emails or websites).

@@ -7,7 +7,7 @@ year: 2023
 bibkey: caramancion2023news
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.17176"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG']
 ---
 This study aimed to evaluate the proficiency of prominent Large Language
 Models (LLMs), namely OpenAI's ChatGPT 3.5 and 4.0, Google's Bard(LaMDA), and

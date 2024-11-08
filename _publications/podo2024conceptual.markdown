@@ -7,7 +7,7 @@ year: 2024
 bibkey: podo2024conceptual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.02167"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 The automatic generation of visualizations is an old task that, through the
 years, has shown more and more interest from the research and practitioner

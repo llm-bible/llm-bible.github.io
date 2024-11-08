@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhou2023gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.08817"}
-tags: ['GPT', 'Interpretability And Explainability', 'Model Architecture', 'Survey Paper', 'Uncategorized']
+tags: ['GPT', 'Interpretability And Explainability', 'Model Architecture', 'Survey Paper']
 ---
 In this work, we establish a baseline potential for how modern
 model-generated text explanations of movie recommendations may help users, and

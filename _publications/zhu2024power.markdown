@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024power
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.01345"}
-tags: ['RAG', 'Training Techniques', 'Uncategorized']
+tags: ['RAG', 'Training Techniques']
 ---
 Bridging the significant gap between large language model's English and
 non-English performance presents a great challenge. While some previous studies

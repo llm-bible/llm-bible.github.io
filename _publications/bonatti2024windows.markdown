@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.08264"}
   - {name: "Code", url: "https://microsoft.github.io/WindowsAgentArena"}
   - {name: "Code", url: "https://github.com/microsoft/WindowsAgentArena"}
-tags: ['Agentic', 'Applications', 'Has Code', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Applications', 'Has Code', 'Reinforcement Learning', 'Tools']
 ---
 Large language models (LLMs) show remarkable potential to act as computer
 agents, enhancing human productivity and software accessibility in multi-modal

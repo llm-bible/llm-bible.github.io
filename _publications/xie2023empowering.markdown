@@ -8,7 +8,7 @@ bibkey: xie2023empowering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.16334"}
   - {name: "Code", url: "https://github.com/oladata-team/OlaGPT"}
-tags: ['Attention Mechanism', 'GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Attention Mechanism', 'GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Tools']
 ---
 In most current research, large language models (LLMs) are able to perform
 reasoning tasks by generating chains of thought through the guidance of

@@ -8,7 +8,7 @@ bibkey: cherumanal2024putting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.07216"}
   - {name: "Code", url: "https://github.com/rmit-ir/walert"}
-tags: ['Agentic', 'Applications', 'Has Code', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Applications', 'Has Code', 'Reinforcement Learning', 'Tools']
 ---
 Creating and deploying customized applications is crucial for operational
 success and enriching user experiences in the rapidly evolving modern business

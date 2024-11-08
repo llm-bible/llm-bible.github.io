@@ -7,7 +7,7 @@ year: 2024
 bibkey: uluoglakci2024hypothetical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.16211"}
-tags: ['Agentic', 'Applications', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Applications', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 Hallucinations pose a significant challenge to the reliability and alignment
 of Large Language Models (LLMs), limiting their widespread acceptance beyond

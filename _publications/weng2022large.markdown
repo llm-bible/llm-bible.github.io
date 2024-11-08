@@ -8,7 +8,7 @@ bibkey: weng2022large
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2212.09561v5"}
   - {name: "Code", url: "https://github.com/WENGSYX/Self-Verification"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Prompting']
 ---
 Recently, with the chain of thought (CoT) prompting, large language models
 (LLMs), e.g., GPT-3, have shown strong reasoning ability in several natural

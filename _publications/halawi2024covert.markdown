@@ -7,7 +7,7 @@ year: 2024
 bibkey: halawi2024covert
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.20053"}
-tags: ['GPT', 'Merging', 'Model Architecture', 'Responsible AI', 'Security', 'Uncategorized']
+tags: ['GPT', 'Merging', 'Model Architecture', 'Responsible AI', 'Security']
 ---
 Black-box finetuning is an emerging interface for adapting state-of-the-art
 language models to user needs. However, such access may also let malicious

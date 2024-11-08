@@ -7,7 +7,7 @@ year: 2023
 bibkey: staab2023beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.07298"}
-tags: ['Merging', 'Survey Paper', 'Training Techniques', 'Uncategorized']
+tags: ['Merging', 'Survey Paper', 'Training Techniques']
 ---
 Current privacy research on large language models (LLMs) primarily focuses on
 the issue of extracting memorized training data. At the same time, models'

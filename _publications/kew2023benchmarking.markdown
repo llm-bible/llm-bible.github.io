@@ -7,7 +7,7 @@ year: 2023
 bibkey: kew2023benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15773"}
-tags: ['Few Shot', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['Few Shot', 'Model Architecture', 'Training Techniques']
 ---
 We present BLESS, a comprehensive performance benchmark of the most recent
 state-of-the-art large language models (LLMs) on the task of text

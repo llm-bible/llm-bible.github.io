@@ -8,7 +8,7 @@ bibkey: zhang2024hire
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.18025"}
   - {name: "Code", url: "https://github.com/LLiLab/llm4endangeredlang"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Training Techniques']
 ---
 How can large language models (LLMs) process and translate endangered
 languages? Many languages lack a large corpus to train a decent LLM; therefore

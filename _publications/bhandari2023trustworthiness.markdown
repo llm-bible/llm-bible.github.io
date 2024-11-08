@@ -7,7 +7,7 @@ year: 2023
 bibkey: bhandari2023trustworthiness
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.00073"}
-tags: ['Uncategorized']
+tags: []
 ---
 Large Language Models (LLMs) have shown a tremendous capacity for generating
 literary text. However, their effectiveness in generating children's stories

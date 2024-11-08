@@ -7,7 +7,7 @@ year: 2024
 bibkey: handa2024jailbreaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10601"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Security', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Security']
 ---
 Large Language Models (LLMs) are aligned to moral and ethical guidelines but
 remain susceptible to creative prompts called Jailbreak that can bypass the

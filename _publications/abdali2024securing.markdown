@@ -7,7 +7,7 @@ year: 2024
 bibkey: abdali2024securing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.12503"}
-tags: ['Security', 'Uncategorized']
+tags: ['Security']
 ---
 Large language models (LLMs) have significantly transformed the landscape of
 Natural Language Processing (NLP). Their impact extends across a diverse

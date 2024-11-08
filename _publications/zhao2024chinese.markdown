@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024chinese
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.10212"}
-tags: ['RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['RAG', 'Reinforcement Learning', 'Tools']
 ---
 In this paper, we introduce a novel psychological benchmark, CPsyExam,
 constructed from questions sourced from Chinese language examinations. CPsyExam

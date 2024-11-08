@@ -7,7 +7,7 @@ year: 2024
 bibkey: steyvers2024calibration
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.13835"}
-tags: ['Applications', 'Interpretability And Explainability', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'Interpretability And Explainability', 'Reinforcement Learning']
 ---
 For large language models (LLMs) to be trusted by humans they need to be
 well-calibrated in the sense that they can accurately assess and communicate

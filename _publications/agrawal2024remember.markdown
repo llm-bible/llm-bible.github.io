@@ -7,7 +7,7 @@ year: 2024
 bibkey: agrawal2024remember
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.05004"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG']
 ---
 Long-context large language models (LLMs) hold promise for tasks such as
 question-answering (QA) over long documents, but they tend to miss important

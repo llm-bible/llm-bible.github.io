@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024advancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.04905"}
-tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Interpretability And Explainability', 'Model Architecture', 'RAG', 'Uncategorized']
+tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Interpretability And Explainability', 'Model Architecture', 'RAG']
 ---
 Large language models (LLMs) have achieved unprecedented success in the field
 of natural language processing. However, the black-box nature of their internal

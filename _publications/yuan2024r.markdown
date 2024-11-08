@@ -8,7 +8,7 @@ bibkey: yuan2024r
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.10019"}
   - {name: "Code", url: "https://github.com/Lordog/R-Judge"}
-tags: ['Agentic', 'Applications', 'GPT', 'Has Code', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Responsible AI', 'Uncategorized']
+tags: ['Agentic', 'Applications', 'GPT', 'Has Code', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Responsible AI']
 ---
 Large language models (LLMs) have exhibited great potential in autonomously
 completing tasks across real-world applications. Despite this, these LLM agents

@@ -7,7 +7,7 @@ year: 2024
 bibkey: khatun2024dataset
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.01855"}
-tags: ['Uncategorized']
+tags: []
 ---
 Large Language Model (LLM) evaluation is currently one of the most important
 areas of research, with existing benchmarks proving to be insufficient and not

@@ -7,7 +7,7 @@ year: 2023
 bibkey: bodroza2023personality
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.04308"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Responsible AI', 'Security', 'Uncategorized']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Responsible AI', 'Security']
 ---
 As Large Language Models (LLMs) continue to gain popularity due to their
 human-like traits and the intimacy they offer to users, their societal impact

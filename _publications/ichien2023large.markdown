@@ -7,7 +7,7 @@ year: 2023
 bibkey: ichien2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.01497"}
-tags: ['GPT', 'Model Architecture', 'TACL', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'TACL', 'Training Techniques']
 ---
 Recent advances in the performance of large language models (LLMs) have
 sparked debate over whether, given sufficient training, high-level human

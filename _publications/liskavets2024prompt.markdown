@@ -8,7 +8,7 @@ bibkey: liskavets2024prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.01227"}
   - {name: "Code", url: "https://github.com/Workday/cpc"}
-tags: ['Efficiency And Optimization', 'Has Code', 'Prompting', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Has Code', 'Prompting']
 ---
 Large language models (LLMs) have triggered a new stream of research focusing
 on compressing the context length to reduce the computational cost while

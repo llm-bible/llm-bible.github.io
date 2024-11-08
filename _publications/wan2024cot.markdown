@@ -7,7 +7,7 @@ year: 2024
 bibkey: wan2024cot
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.13940"}
-tags: ['Agentic', 'Prompting', 'Uncategorized']
+tags: ['Agentic', 'Prompting']
 ---
 Chain-of-Thought (CoT) prompting enhances Large Language Models (LLMs)
 complex reasoning abilities by generating intermediate steps. However, these

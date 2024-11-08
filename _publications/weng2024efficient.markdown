@@ -8,7 +8,7 @@ bibkey: weng2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.03384"}
   - {name: "Code", url: "https://github.com/ziplab/LongVLM"}
-tags: ['GPT', 'Has Code', 'Merging', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Merging', 'Model Architecture', 'Reinforcement Learning']
 ---
 Empowered by Large Language Models (LLMs), recent advancements in Video-based
 LLMs (VideoLLMs) have driven progress in various video understanding tasks.

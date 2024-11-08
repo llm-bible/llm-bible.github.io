@@ -7,7 +7,7 @@ year: 2024
 bibkey: mirza2024are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.01475"}
-tags: ['RAG', 'Responsible AI', 'Tools', 'Uncategorized']
+tags: ['RAG', 'Responsible AI', 'Tools']
 ---
 Large language models (LLMs) have gained widespread interest due to their
 ability to process human language and perform tasks on which they have not been

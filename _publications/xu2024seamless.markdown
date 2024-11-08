@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024seamless
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14092"}
-tags: ['BERT', 'Fine Tuning', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['BERT', 'Fine Tuning', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Self-supervised (SSL) models have shown great performance in various
 downstream tasks. However, they are typically developed for limited languages,

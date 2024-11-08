@@ -7,7 +7,7 @@ year: 2023
 bibkey: syriani2023assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.06464"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG', 'Tools']
 ---
 By organizing knowledge within a research field, Systematic Reviews (SR)
 provide valuable leads to steer research. Evidence suggests that SRs have

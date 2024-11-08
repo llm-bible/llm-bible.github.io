@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhou2023how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.08287"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 While recent advancements in large language models (LLMs) bring us closer to
 achieving artificial general intelligence, the question persists: Do LLMs truly

@@ -7,7 +7,7 @@ year: 2023
 bibkey: roy2023from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.19181"}
-tags: ['Agentic', 'Applications', 'BERT', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Security', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Applications', 'BERT', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Security', 'Tools']
 ---
 The advanced capabilities of Large Language Models (LLMs) have made them
 invaluable across various applications, from conversational agents and content

@@ -7,7 +7,7 @@ year: 2024
 bibkey: du2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.00608"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Prompting', 'RAG', 'Security', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'Prompting', 'RAG', 'Security', 'Training Techniques']
 ---
 Personalized text-to-image generation has attracted unprecedented attention
 in the recent few years due to its unique capability of generating

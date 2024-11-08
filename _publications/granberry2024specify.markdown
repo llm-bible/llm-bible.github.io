@@ -7,7 +7,7 @@ year: 2024
 bibkey: granberry2024specify
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.15540"}
-tags: ['Prompting', 'Security', 'Tools', 'Uncategorized']
+tags: ['Prompting', 'Security', 'Tools']
 ---
 We investigate how combinations of Large Language Models (LLMs) and symbolic
 analyses can be used to synthesise specifications of C programs. The LLM

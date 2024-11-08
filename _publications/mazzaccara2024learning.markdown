@@ -7,7 +7,7 @@ year: 2024
 bibkey: mazzaccara2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.17453"}
-tags: ['Efficiency And Optimization', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Reinforcement Learning', 'Tools']
 ---
 Questions are essential tools for acquiring the necessary information to
 complete information-seeking tasks. However, large language models (LLMs),

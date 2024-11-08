@@ -7,7 +7,7 @@ year: 2023
 bibkey: shu2023you
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09718"}
-tags: ['Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Prompting', 'Reinforcement Learning']
 ---
 The versatility of Large Language Models (LLMs) on natural language
 understanding tasks has made them popular for research in social sciences. To

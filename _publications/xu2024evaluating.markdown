@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.02465"}
-tags: ['RAG', 'Tools', 'Uncategorized']
+tags: ['RAG', 'Tools']
 ---
 With the rapid advancement of Large Language Models (LLMs), long-context
 information understanding and processing have become a hot topic in academia

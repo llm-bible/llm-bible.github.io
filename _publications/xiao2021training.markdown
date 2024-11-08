@@ -7,7 +7,7 @@ year: 2021
 bibkey: xiao2021training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2102.09268"}
-tags: ['BERT', 'Efficiency And Optimization', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['BERT', 'Efficiency And Optimization', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 News recommendation calls for deep insights of news articles' underlying
 semantics. Therefore, pretrained language models (PLMs), like BERT and RoBERTa,

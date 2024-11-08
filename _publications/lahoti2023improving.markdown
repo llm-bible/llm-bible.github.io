@@ -7,7 +7,7 @@ year: 2023
 bibkey: lahoti2023improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.16523"}
-tags: ['Prompting', 'Uncategorized']
+tags: ['Prompting']
 ---
 A crucial challenge for generative large language models (LLMs) is diversity:
 when a user's prompt is under-specified, models may follow implicit assumptions

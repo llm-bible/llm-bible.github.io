@@ -7,7 +7,7 @@ year: 2024
 bibkey: sultan2024scalable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.01139"}
-tags: ['Merging', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['Merging', 'RAG', 'Training Techniques']
 ---
 Analogy-making is central to human cognition, allowing us to adapt to novel
 situations -- an ability that current AI systems still lack. Most analogy

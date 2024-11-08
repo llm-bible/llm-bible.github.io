@@ -7,7 +7,7 @@ year: 2024
 bibkey: jia2024knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.03988"}
-tags: ['RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['RAG', 'Reinforcement Learning', 'Tools']
 ---
 Contemporary recommender systems predominantly rely on collaborative
 filtering techniques, employing ID-embedding to capture latent associations

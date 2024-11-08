@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024focus
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.18344"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Large language models exhibit high-level commonsense reasoning abilities,
 especially with enhancement methods like Chain-of-Thought (CoT). However, we

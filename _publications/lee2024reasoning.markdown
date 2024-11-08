@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024reasoning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.11793"}
-tags: ['Uncategorized']
+tags: []
 ---
 The existing methods for evaluating the inference abilities of Large Language
 Models (LLMs) have been results-centric, making it difficult to assess the

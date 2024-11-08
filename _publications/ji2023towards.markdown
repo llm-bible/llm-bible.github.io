@@ -7,7 +7,7 @@ year: 2023
 bibkey: ji2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.06271"}
-tags: ['Reinforcement Learning', 'Uncategorized']
+tags: ['Reinforcement Learning']
 ---
 Large language models (LLMs) have shown promise for generative and
 knowledge-intensive tasks including question-answering (QA) tasks. However, the

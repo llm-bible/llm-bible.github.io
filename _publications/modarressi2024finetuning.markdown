@@ -7,7 +7,7 @@ year: 2024
 bibkey: modarressi2024finetuning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.11672"}
-tags: ['Interpretability And Explainability', 'Language Modeling', 'RAG', 'Uncategorized']
+tags: ['Interpretability And Explainability', 'Language Modeling', 'RAG']
 ---
 While current large language models (LLMs) demonstrate some capabilities in
 knowledge-intensive tasks, they are limited by relying on their parameters as

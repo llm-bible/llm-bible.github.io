@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024few
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.18678"}
-tags: ['Few Shot', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['Few Shot', 'Prompting', 'RAG']
 ---
 As the diversity of users increases, the capability of providing personalized
 responses by large language models (LLMs) has become increasingly important.

@@ -7,7 +7,7 @@ year: 2024
 bibkey: kossen2024semantic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.15927"}
-tags: ['Uncategorized']
+tags: []
 ---
 We propose semantic entropy probes (SEPs), a cheap and reliable method for
 uncertainty quantification in Large Language Models (LLMs). Hallucinations,

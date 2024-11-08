@@ -7,7 +7,7 @@ year: 2020
 bibkey: bakhtin2020residual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.10188"}
-tags: ['Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Tools', 'Training Techniques']
 ---
 Current large-scale auto-regressive language models display impressive
 fluency and can generate convincing text. In this work we start by asking the

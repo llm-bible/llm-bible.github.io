@@ -8,7 +8,7 @@ bibkey: fu2023evaluate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.04166"}
   - {name: "Code", url: "https://github.com/jinlanfu/GPTScore"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Tools']
 ---
 Generative Artificial Intelligence (AI) has enabled the development of
 sophisticated models that are capable of producing high-caliber text, images,

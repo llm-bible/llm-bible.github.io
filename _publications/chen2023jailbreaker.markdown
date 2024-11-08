@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023jailbreaker
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.02417"}
-tags: ['Security', 'Uncategorized']
+tags: ['Security']
 ---
 Large language models (LLMs), known for their capability in understanding and
 following instructions, are vulnerable to adversarial attacks. Researchers have

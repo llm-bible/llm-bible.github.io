@@ -7,7 +7,7 @@ year: 2024
 bibkey: harasta2024it
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.06798"}
-tags: ['Applications', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'RAG', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) enable a future in which certain types of legal
 documents may be generated automatically. This has a great potential to

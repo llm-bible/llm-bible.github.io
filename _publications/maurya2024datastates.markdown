@@ -7,7 +7,7 @@ year: 2024
 bibkey: maurya2024datastates
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10707"}
-tags: ['RAG', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['RAG', 'Tools', 'Training Techniques']
 ---
 LLMs have seen rapid adoption in all domains. They need to be trained on
 high-end high-performance computing (HPC) infrastructures and ingest massive

@@ -7,7 +7,7 @@ year: 2024
 bibkey: ma2024potential
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11096"}
-tags: ['Survey Paper', 'Uncategorized']
+tags: ['Survey Paper']
 ---
 Recent advances in Large Language Models (LLMs) have sparked wide interest in
 validating and comprehending the human-like cognitive-behavioral traits LLMs

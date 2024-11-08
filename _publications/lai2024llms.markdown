@@ -7,7 +7,7 @@ year: 2024
 bibkey: lai2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.01771"}
-tags: ['RAG', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 To democratize large language models (LLMs) to most natural languages, it is
 imperative to make these models capable of understanding and generating texts

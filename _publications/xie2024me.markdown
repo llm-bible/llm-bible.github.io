@@ -8,7 +8,7 @@ bibkey: xie2024me
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.12749"}
   - {name: "Code", url: "https://github.com/BIDS-Xu-Lab/Me-LLaMA"}
-tags: ['Applications', 'Few Shot', 'GPT', 'Has Code', 'Model Architecture', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Few Shot', 'GPT', 'Has Code', 'Model Architecture', 'RAG', 'Training Techniques']
 ---
 Recent advancements in large language models (LLMs) such as ChatGPT and LLaMA
 have hinted at their potential to revolutionize medical applications, yet their

@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024customizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.04574"}
-tags: ['Applications', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'Reinforcement Learning']
 ---
 One-size-fits-all large language models (LLMs) are increasingly being used to
 help people with their writing. However, the style these models are trained to

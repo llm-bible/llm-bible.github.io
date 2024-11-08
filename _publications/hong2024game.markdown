@@ -8,7 +8,7 @@ bibkey: hong2024game
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.09386"}
   - {name: "Code", url: "https://github.com/alterego238/IGE"}
-tags: ['Has Code', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Has Code', 'Reinforcement Learning', 'Training Techniques']
 ---
 Game development is a highly specialized task that relies on a complex game
 engine powered by complex programming languages, preventing many gaming

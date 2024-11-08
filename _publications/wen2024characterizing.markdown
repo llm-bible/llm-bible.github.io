@@ -7,7 +7,7 @@ year: 2024
 bibkey: wen2024characterizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.12452"}
-tags: ['Prompting', 'Uncategorized']
+tags: ['Prompting']
 ---
 The correct model response in the face of uncertainty is to abstain from
 answering a question so as not to mislead the user. In this work, we study the

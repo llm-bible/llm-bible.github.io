@@ -7,7 +7,7 @@ year: 2024
 bibkey: kour2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.04822"}
-tags: ['Security', 'Uncategorized']
+tags: ['Security']
 ---
 Large language models (LLMs) are increasingly used in business dialogue
 systems but they pose security and ethical risks. Multi-turn conversations,

@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.11861"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Survey Paper', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Survey Paper']
 ---
 Deep learning-based natural language processing (NLP) models, particularly
 pre-trained language models (PLMs), have been revealed to be vulnerable to

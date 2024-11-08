@@ -7,7 +7,7 @@ year: 2023
 bibkey: lin2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.15808"}
-tags: ['Applications', 'Prompting', 'Uncategorized']
+tags: ['Applications', 'Prompting']
 ---
 Generating and editing a 3D scene guided by natural language poses a
 challenge, primarily due to the complexity of specifying the positional

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14891"}
-tags: ['Agentic', 'Merging', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Merging', 'Reinforcement Learning', 'Tools']
 ---
 In the multi-modal domain, the dependence of various models on specific input
 formats leads to user confusion and hinders progress. To address this

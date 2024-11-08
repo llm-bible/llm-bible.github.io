@@ -7,7 +7,7 @@ year: 2024
 bibkey: ying2024automating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11894"}
-tags: ['Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have achieved impressive performance across
 various natural language benchmarks, prompting a continual need to curate more

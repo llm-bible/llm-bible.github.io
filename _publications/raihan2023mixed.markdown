@@ -7,7 +7,7 @@ year: 2023
 bibkey: raihan2023mixed
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.10272"}
-tags: ['BERT', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['BERT', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 One of the most popular downstream tasks in the field of Natural Language
 Processing is text classification. Text classification tasks have become more

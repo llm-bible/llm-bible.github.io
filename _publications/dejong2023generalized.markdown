@@ -7,7 +7,7 @@ year: 2023
 bibkey: dejong2023generalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.10231"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 Memory-augmentation is a powerful approach for efficiently incorporating
 external information into language models, but leads to reduced performance

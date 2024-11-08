@@ -7,7 +7,7 @@ year: 2023
 bibkey: kiesler2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.00029"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture']
 ---
 Ever since the emergence of large language models (LLMs) and related
 applications, such as ChatGPT, its performance and error analysis for

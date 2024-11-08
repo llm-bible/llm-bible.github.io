@@ -7,7 +7,7 @@ year: 2018
 bibkey: aharoni2018split
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1805.01035"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 Splitting and rephrasing a complex sentence into several shorter sentences
 that convey the same meaning is a challenging problem in NLP. We show that

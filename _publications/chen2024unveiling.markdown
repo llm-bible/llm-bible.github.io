@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024unveiling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12397"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 Synthetic data has been proposed as a solution to address the issue of
 high-quality data scarcity in the training of large language models (LLMs).

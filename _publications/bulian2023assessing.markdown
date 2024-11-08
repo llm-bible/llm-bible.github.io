@@ -7,7 +7,7 @@ year: 2023
 bibkey: bulian2023assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.02932"}
-tags: ['Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Tools']
 ---
 As Large Language Models (LLMs) rise in popularity, it is necessary to assess
 their capability in critically relevant domains. We present a comprehensive

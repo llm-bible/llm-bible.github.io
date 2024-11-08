@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024cbt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17546"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Prompting']
 ---
 The demand for conversational agents that provide mental health care is
 consistently increasing. In this work, we develop a psychological counseling

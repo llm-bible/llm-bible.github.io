@@ -8,7 +8,7 @@ bibkey: kim2024real
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13144"}
   - {name: "Code", url: "https://github.com/jiho283/Simulator"}
-tags: ['Agentic', 'Has Code', 'Reinforcement Learning', 'Security', 'Uncategorized']
+tags: ['Agentic', 'Has Code', 'Reinforcement Learning', 'Security']
 ---
 Recent advancements in Large Language Models (LLMs) have significantly
 enhanced the capabilities of conversational agents, making them applicable to

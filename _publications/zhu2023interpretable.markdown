@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhu2023interpretable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15140"}
-tags: ['Interpretability And Explainability', 'Merging', 'Prompting', 'Responsible AI', 'Security', 'Training Techniques', 'Uncategorized']
+tags: ['Interpretability And Explainability', 'Merging', 'Prompting', 'Responsible AI', 'Security', 'Training Techniques']
 ---
 Safety alignment of Large Language Models (LLMs) can be compromised with
 manual jailbreak attacks and (automatic) adversarial attacks. Recent studies

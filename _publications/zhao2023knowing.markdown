@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhao2023knowing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.17918"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting']
 ---
 Large Language Models (LLMs) have shown great potential in Natural Language
 Processing (NLP) tasks. However, recent literature reveals that LLMs generate

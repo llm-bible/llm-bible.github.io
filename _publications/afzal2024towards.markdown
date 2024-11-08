@@ -7,7 +7,7 @@ year: 2024
 bibkey: afzal2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.05925"}
-tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models have found application in various mundane and
 repetitive tasks including Human Resource (HR) support. We worked with the

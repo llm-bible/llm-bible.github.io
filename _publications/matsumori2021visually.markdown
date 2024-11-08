@@ -7,7 +7,7 @@ year: 2021
 bibkey: matsumori2021visually
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.13985"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Text-guided image manipulation tasks have recently gained attention in the
 vision-and-language community. While most of the prior studies focused on

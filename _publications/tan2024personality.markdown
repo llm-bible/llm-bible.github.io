@@ -7,7 +7,7 @@ year: 2024
 bibkey: tan2024personality
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.02246"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting']
 ---
 Recent advances in large language models (LLMs) demonstrate that their
 capabilities are comparable, or even superior, to humans in many tasks in

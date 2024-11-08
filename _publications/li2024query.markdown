@@ -8,7 +8,7 @@ bibkey: li2024query
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.07528"}
   - {name: "Code", url: "https://github.com/dvlab-research/Q-LLM"}
-tags: ['Has Code', 'Training Techniques', 'Uncategorized']
+tags: ['Has Code', 'Training Techniques']
 ---
 The capacity of Large Language Models (LLMs) to comprehend and reason over
 long contexts is pivotal for advancements in diverse fields. Yet, they still

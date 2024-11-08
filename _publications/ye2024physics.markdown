@@ -7,7 +7,7 @@ year: 2024
 bibkey: ye2024physics
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.20311"}
-tags: ['Uncategorized']
+tags: []
 ---
 Recent advances in language models have demonstrated their capability to
 solve mathematical reasoning problems, achieving near-perfect accuracy on

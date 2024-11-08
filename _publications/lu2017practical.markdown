@@ -7,7 +7,7 @@ year: 2017
 bibkey: lu2017practical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1703.09439"}
-tags: ['Agentic', 'Model Architecture', 'Uncategorized']
+tags: ['Agentic', 'Model Architecture']
 ---
 We describe a prototype dialogue response generation model for the customer
 service domain at Amazon. The model, which is trained in a weakly supervised

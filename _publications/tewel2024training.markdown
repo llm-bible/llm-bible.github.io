@@ -7,7 +7,7 @@ year: 2024
 bibkey: tewel2024training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.03286"}
-tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Model Architecture', 'Prompting', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Model Architecture', 'Prompting', 'RAG', 'Training Techniques']
 ---
 Text-to-image models offer a new level of creative flexibility by allowing
 users to guide the image generation process through natural language. However,

@@ -7,7 +7,7 @@ year: 2023
 bibkey: kumar2023impact
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.13712"}
-tags: ['Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Personalized chatbot-based teaching assistants can be crucial in addressing
 increasing classroom sizes, especially where direct teacher presence is

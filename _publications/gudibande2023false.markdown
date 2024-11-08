@@ -7,7 +7,7 @@ year: 2023
 bibkey: gudibande2023false
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.15717"}
-tags: ['GPT', 'Merging', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Merging', 'Model Architecture', 'RAG', 'Reinforcement Learning']
 ---
 An emerging method to cheaply improve a weaker language model is to finetune
 it on outputs from a stronger model, such as a proprietary system like ChatGPT

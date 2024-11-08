@@ -7,7 +7,7 @@ year: 2024
 bibkey: sung2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.11185"}
-tags: ['Reinforcement Learning', 'Security', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Security']
 ---
 Dynamic adversarial question generation, where humans write examples to stump
 a model, aims to create examples that are realistic and informative. However,

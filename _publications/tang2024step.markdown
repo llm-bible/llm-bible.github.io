@@ -8,7 +8,7 @@ bibkey: tang2024step
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14275"}
   - {name: "Code", url: "https://github.com/gersteinlab/step-back-profiling"}
-tags: ['Has Code', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Has Code', 'Reinforcement Learning']
 ---
 Large language models (LLM) excel at a variety of natural language processing
 tasks, yet they struggle to generate personalized content for individuals,

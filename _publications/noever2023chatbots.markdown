@@ -7,7 +7,7 @@ year: 2023
 bibkey: noever2023chatbots
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.01743"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'RAG', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'RAG']
 ---
 New chat AI applications like ChatGPT offer an advanced understanding of
 question context and memory across multi-step tasks, such that experiments can

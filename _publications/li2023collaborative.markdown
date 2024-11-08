@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023collaborative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.19740"}
-tags: ['Reinforcement Learning', 'Uncategorized']
+tags: ['Reinforcement Learning']
 ---
 Humans are widely involved in the evaluation of open-ended natural language
 generation tasks (NLG) that demand creativity, as automatic metrics often

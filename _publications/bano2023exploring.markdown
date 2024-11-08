@@ -7,7 +7,7 @@ year: 2023
 bibkey: bano2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.13298"}
-tags: ['GPT', 'Model Architecture', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Tools']
 ---
 The advent of AI driven large language models (LLMs) have stirred discussions
 about their role in qualitative research. Some view these as tools to enrich

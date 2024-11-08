@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023dataset
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15959"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Tools']
 ---
 We introduce NoteChat, a novel cooperative multi-agent framework leveraging
 Large Language Models (LLMs) to generate patient-physician dialogues. NoteChat

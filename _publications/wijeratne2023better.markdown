@@ -7,7 +7,7 @@ year: 2023
 bibkey: wijeratne2023better
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.12370"}
-tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'Prompting']
 ---
 Low-rank adaptation (LoRA) and question-answer datasets from large language
 models have made it much easier for much smaller models to be finetuned to the

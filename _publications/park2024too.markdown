@@ -7,7 +7,7 @@ year: 2024
 bibkey: park2024too
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.09396"}
-tags: ['Tools', 'Uncategorized']
+tags: ['Tools']
 ---
 Long-form videos that span across wide temporal intervals are highly
 information redundant and contain multiple distinct events or entities that are

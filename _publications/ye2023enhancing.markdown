@@ -7,7 +7,7 @@ year: 2023
 bibkey: ye2023enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.09716"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 Query rewriting plays a vital role in enhancing conversational search by
 transforming context-dependent user queries into standalone forms. Existing

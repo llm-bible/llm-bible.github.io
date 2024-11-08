@@ -7,7 +7,7 @@ year: 2024
 bibkey: cao2024nothing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.11491"}
-tags: ['Responsible AI', 'Uncategorized']
+tags: ['Responsible AI']
 ---
 Safety alignment is indispensable for Large language models (LLMs) to defend
 threats from malicious instructions. However, recent researches reveal

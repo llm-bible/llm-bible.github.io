@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024performance
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.09895"}
-tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Guided by the belief of the scaling law, large language models (LLMs) have
 achieved impressive performance in recent years. However, scaling law only

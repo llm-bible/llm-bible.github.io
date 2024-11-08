@@ -7,7 +7,7 @@ year: 2023
 bibkey: ruan2023identifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.15817"}
-tags: ['Agentic', 'Applications', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Responsible AI', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Applications', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Responsible AI', 'Tools']
 ---
 Recent advances in Language Model (LM) agents and tool use, exemplified by
 applications like ChatGPT Plugins, enable a rich set of capabilities but also

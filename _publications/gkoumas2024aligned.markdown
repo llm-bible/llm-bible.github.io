@@ -7,7 +7,7 @@ year: 2024
 bibkey: gkoumas2024aligned
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.08619"}
-tags: ['Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 The field of chemistry and Artificial Intelligence (AI) intersection is an
 area of active research that aims to accelerate scientific discovery. The

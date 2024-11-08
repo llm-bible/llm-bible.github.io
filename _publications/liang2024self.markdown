@@ -7,7 +7,7 @@ year: 2024
 bibkey: liang2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00872"}
-tags: ['Agentic', 'Efficiency And Optimization', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Efficiency And Optimization', 'Tools']
 ---
 Large language models (LLMs) have made significant advances in the field of
 natural language processing, but they still face challenges such as continuous

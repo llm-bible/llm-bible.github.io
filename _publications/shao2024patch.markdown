@@ -8,7 +8,7 @@ bibkey: shao2024patch
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12665"}
   - {name: "Code", url: "https://github.com/shaochenze/PatchTrain"}
-tags: ['Efficiency And Optimization', 'Has Code', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Has Code', 'Reinforcement Learning', 'Training Techniques']
 ---
 As Large Language Models (LLMs) achieve remarkable progress in language
 understanding and generation, their training efficiency has become a critical

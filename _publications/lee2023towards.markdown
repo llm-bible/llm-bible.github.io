@@ -7,7 +7,7 @@ year: 2023
 bibkey: lee2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.06384"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'RAG', 'Tools', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'RAG', 'Tools']
 ---
 Large language models (LLMs) have emerged as versatile tools in various daily
 applications. However, they are fraught with issues that undermine their

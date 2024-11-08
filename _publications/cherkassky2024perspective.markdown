@@ -7,7 +7,7 @@ year: 2024
 bibkey: cherkassky2024perspective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.06598"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) are known for their remarkable ability to
 generate synthesized 'knowledge', such as text documents, music, images, etc.

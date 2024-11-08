@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024fostering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.09330"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Benefiting from diverse instruction datasets, contemporary Large Language
 Models (LLMs) perform effectively as AI assistants in collaborating with

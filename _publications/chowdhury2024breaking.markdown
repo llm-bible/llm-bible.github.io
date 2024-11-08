@@ -7,7 +7,7 @@ year: 2024
 bibkey: chowdhury2024breaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.04786"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Security', 'Survey Paper', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'Security', 'Survey Paper', 'Training Techniques']
 ---
 Large Language Models (LLMs) have become a cornerstone in the field of
 Natural Language Processing (NLP), offering transformative capabilities in

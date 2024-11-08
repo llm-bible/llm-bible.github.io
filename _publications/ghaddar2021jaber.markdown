@@ -7,7 +7,7 @@ year: 2021
 bibkey: ghaddar2021jaber
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.04329"}
-tags: ['BERT', 'Model Architecture', 'Uncategorized']
+tags: ['BERT', 'Model Architecture']
 ---
 Language-specific pre-trained models have proven to be more accurate than
 multilingual ones in a monolingual evaluation setting, Arabic is no exception.

@@ -7,7 +7,7 @@ year: 2024
 bibkey: qian2024advancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11435"}
-tags: ['Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Large Language Models (LLMs) demonstrate remarkable proficiency in
 comprehending and handling text-based tasks. Many efforts are being made to

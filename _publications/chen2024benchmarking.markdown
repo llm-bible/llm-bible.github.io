@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.09945"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 Large language models (LLMs) have shown remarkable performance in general
 translation tasks. However, the increasing demand for high-quality translations

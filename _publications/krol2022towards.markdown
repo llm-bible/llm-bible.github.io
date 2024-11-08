@@ -7,7 +7,7 @@ year: 2022
 bibkey: krol2022towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.08264"}
-tags: ['Applications', 'GPT', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Interpretability And Explainability', 'Model Architecture', 'Prompting']
 ---
 Open AI's language model, GPT-3, has shown great potential for many NLP
 tasks, with applications in many different domains. In this work we carry out a

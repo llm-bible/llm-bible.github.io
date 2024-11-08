@@ -7,7 +7,7 @@ year: 2022
 bibkey: ge2022extensible
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.00616"}
-tags: ['Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Prompting', 'Reinforcement Learning']
 ---
 We propose eXtensible Prompt (X-Prompt) for prompting a large language model
 (LLM) beyond natural language (NL). X-Prompt instructs an LLM with not only NL

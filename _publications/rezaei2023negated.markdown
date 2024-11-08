@@ -8,7 +8,7 @@ bibkey: rezaei2023negated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.06794"}
   - {name: "Code", url: "https://github.com/navidre/negated_complementary_commonsense"}
-tags: ['Few Shot', 'GPT', 'Has Code', 'Model Architecture', 'Uncategorized']
+tags: ['Few Shot', 'GPT', 'Has Code', 'Model Architecture']
 ---
 Larger language models, such as GPT-3, have shown to be excellent in many
 tasks. However, we demonstrate that out-of-ordinary questions can throw the

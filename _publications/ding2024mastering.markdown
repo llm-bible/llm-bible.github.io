@@ -7,7 +7,7 @@ year: 2024
 bibkey: ding2024mastering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.08281"}
-tags: ['Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 Underlying data distributions of natural language, programming code, and
 mathematical symbols vary vastly, presenting a complex challenge for large

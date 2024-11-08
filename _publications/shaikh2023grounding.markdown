@@ -7,7 +7,7 @@ year: 2023
 bibkey: shaikh2023grounding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09144"}
-tags: ['Efficiency And Optimization', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Training Techniques']
 ---
 Effective conversation requires common ground: a shared understanding between
 the participants. Common ground, however, does not emerge spontaneously in

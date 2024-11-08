@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.08097"}
   - {name: "Code", url: "https://guanqun-yang.github.io/testaug/)"}
   - {name: "Code", url: "https://github.com/guanqun-yang/testaug)"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'RAG', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'RAG', 'Tools']
 ---
 The recently proposed capability-based NLP testing allows model developers to
 test the functional capabilities of NLP models, revealing functional failures

@@ -7,7 +7,7 @@ year: 2024
 bibkey: hou2024course
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.00122"}
-tags: ['Uncategorized']
+tags: []
 ---
 This paper presents a shared task that we organized at the Foundations of
 Language Technology (FoLT) course in 2023/2024 at the Technical University of

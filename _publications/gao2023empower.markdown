@@ -7,7 +7,7 @@ year: 2023
 bibkey: gao2023empower
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.13365"}
-tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Training Techniques']
 ---
 Recently, with the emergence of numerous Large Language Models (LLMs), the
 implementation of AI has entered a new era. Irrespective of these models' own

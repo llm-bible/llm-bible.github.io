@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.15221"}
-tags: ['Prompting', 'Reinforcement Learning', 'Security', 'Uncategorized']
+tags: ['Prompting', 'Reinforcement Learning', 'Security']
 ---
 Recent large language model (LLM) defenses have greatly improved models'
 ability to refuse harmful queries, even when adversarially attacked. However,

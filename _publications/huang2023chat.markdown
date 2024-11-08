@@ -8,7 +8,7 @@ bibkey: huang2023chat
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.04799"}
   - {name: "Code", url: "https://github.com/aqweteddy/ChatVector"}
-tags: ['Has Code', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Has Code', 'Tools', 'Training Techniques']
 ---
 Recently, the development of open-source large language models (LLMs) has
 advanced rapidly. Nevertheless, due to data constraints, the capabilities of

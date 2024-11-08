@@ -7,7 +7,7 @@ year: 2024
 bibkey: sterbentz2024platform
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12069"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 Large language models (LLMs) are capable of producing documents, and
 retrieval augmented generation (RAG) has shown itself to be a powerful method

@@ -7,7 +7,7 @@ year: 2024
 bibkey: neupane2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.08120"}
-tags: ['RAG', 'Survey Paper', 'Tools', 'Uncategorized']
+tags: ['RAG', 'Survey Paper', 'Tools']
 ---
 This paper presents BARKPLUG V.2, a Large Language Model (LLM)-based chatbot
 system built using Retrieval Augmented Generation (RAG) pipelines to enhance

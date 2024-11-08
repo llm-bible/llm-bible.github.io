@@ -8,7 +8,7 @@ bibkey: wang2024teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.08434"}
   - {name: "Code", url: "https://github.com/YutongWang1216/ReflectionLLMMT"}
-tags: ['Has Code', 'Interpretability And Explainability', 'Prompting', 'Tools', 'Uncategorized']
+tags: ['Has Code', 'Interpretability And Explainability', 'Prompting', 'Tools']
 ---
 Large language models (LLMs) have exhibited remarkable performance in various
 natural language processing tasks. Techniques like instruction tuning have

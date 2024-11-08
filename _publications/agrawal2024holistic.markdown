@@ -8,7 +8,7 @@ bibkey: agrawal2024holistic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.07000"}
   - {name: "Code", url: "https://github.com/project-etalon/etalon"}
-tags: ['Applications', 'Efficiency And Optimization', 'Has Code', 'Prompting', 'Tools', 'Uncategorized']
+tags: ['Applications', 'Efficiency And Optimization', 'Has Code', 'Prompting', 'Tools']
 ---
 Serving large language models (LLMs) in production can incur substantial
 costs, which has prompted recent advances in inference system optimizations.

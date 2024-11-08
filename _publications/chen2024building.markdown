@@ -8,7 +8,7 @@ bibkey: chen2024building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.10663"}
   - {name: "Code", url: "https://github.com/cs32963/REInstruct"}
-tags: ['Has Code', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Has Code', 'Reinforcement Learning', 'Training Techniques']
 ---
 Manually annotating instruction data for large language models is difficult,
 costly, and hard to scale. Meanwhile, current automatic annotation methods

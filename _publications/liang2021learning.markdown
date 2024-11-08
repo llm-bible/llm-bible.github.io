@@ -8,7 +8,7 @@ bibkey: liang2021learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.12302"}
   - {name: "Code", url: "https://github.com/jokieleung/NTRD"}
-tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 Though recent end-to-end neural models have shown promising progress on
 Conversational Recommender System (CRS), two key challenges still remain.

@@ -8,7 +8,7 @@ bibkey: zhu2024personality
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.11779"}
   - {name: "Code", url: "https://github.com/zhu-minjun/PAlign"}
-tags: ['Efficiency And Optimization', 'Has Code', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Has Code', 'Reinforcement Learning', 'Tools']
 ---
 Current methods for aligning large language models (LLMs) typically aim to
 reflect general human values and behaviors, but they often fail to capture the

@@ -7,7 +7,7 @@ year: 2023
 bibkey: gao2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.08803"}
-tags: ['Agentic', 'Few Shot', 'Prompting', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Few Shot', 'Prompting', 'Tools']
 ---
 Most existing prompting methods suffer from the issues of generalizability
 and consistency, as they often rely on instance-specific solutions that may not

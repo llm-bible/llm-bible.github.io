@@ -7,7 +7,7 @@ year: 2024
 bibkey: kong2024controllable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.07433"}
-tags: ['Applications', 'Prompting', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Prompting', 'RAG', 'Training Techniques']
 ---
 Instruction generation is a vital and multidisciplinary research area with
 broad applications. Existing instruction generation models are limited to

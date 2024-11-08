@@ -7,7 +7,7 @@ year: 2018
 bibkey: weber2018fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1805.01445"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Seq2Seq based neural architectures have become the go-to architecture to
 apply to sequence to sequence language tasks. Despite their excellent

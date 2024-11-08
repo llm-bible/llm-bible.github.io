@@ -7,7 +7,7 @@ year: 2019
 bibkey: tenney2019what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1905.06316"}
-tags: ['BERT', 'Language Modeling', 'Model Architecture', 'Uncategorized']
+tags: ['BERT', 'Language Modeling', 'Model Architecture']
 ---
 Contextualized representation models such as ELMo (Peters et al., 2018a) and
 BERT (Devlin et al., 2018) have recently achieved state-of-the-art results on a

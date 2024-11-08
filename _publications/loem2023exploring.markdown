@@ -7,7 +7,7 @@ year: 2023
 bibkey: loem2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.18156"}
-tags: ['Applications', 'Few Shot', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'Few Shot', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Large-scale pre-trained language models such as GPT-3 have shown remarkable
 performance across various natural language processing tasks. However, applying

@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024turning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.12946"}
-tags: ['Agentic', 'Fine Tuning', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Fine Tuning', 'Reinforcement Learning', 'Tools']
 ---
 Online programming videos, including tutorials and streamcasts, are widely
 popular and contain a wealth of expert knowledge. However, effectively

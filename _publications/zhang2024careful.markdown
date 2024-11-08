@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024careful
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.00332"}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Training Techniques']
 ---
 Large language models (LLMs) have achieved impressive success on many
 benchmarks for mathematical reasoning. However, there is growing concern that

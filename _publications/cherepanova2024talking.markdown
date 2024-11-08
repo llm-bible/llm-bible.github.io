@@ -7,7 +7,7 @@ year: 2024
 bibkey: cherepanova2024talking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.17120"}
-tags: ['Efficiency And Optimization', 'Prompting', 'Reinforcement Learning', 'Security', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Prompting', 'Reinforcement Learning', 'Security']
 ---
 Large language models (LLMs) exhibit excellent ability to understand human
 languages, but do they also understand their own language that appears

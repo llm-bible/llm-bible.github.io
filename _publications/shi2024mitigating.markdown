@@ -7,7 +7,7 @@ year: 2024
 bibkey: shi2024mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.18406"}
-tags: ['Tools', 'Uncategorized']
+tags: ['Tools']
 ---
 It is widely acknowledged that large language models (LLMs) encode a vast
 reservoir of knowledge after being trained on mass data. Recent studies

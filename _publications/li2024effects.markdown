@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024effects
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.08674"}
-tags: ['Fine Tuning', 'GPT', 'Merging', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Fine Tuning', 'GPT', 'Merging', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Evidence suggests that different prompts lead large language models (LLMs) to
 generate responses with varying quality. Yet, little is known about prompts'

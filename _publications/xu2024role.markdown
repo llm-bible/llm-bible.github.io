@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024role
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.05305"}
-tags: ['Agentic', 'Applications', 'GPT', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Agentic', 'Applications', 'GPT', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques']
 ---
 Large language models~(LLMs) have demonstrated impressive performance in
 various applications, among which role-playing language agents (RPLAs) have

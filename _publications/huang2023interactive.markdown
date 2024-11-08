@@ -7,7 +7,7 @@ year: 2023
 bibkey: huang2023interactive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.10855"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 With the continuous evolution and refinement of LLMs, they are endowed with
 impressive logical reasoning or vertical thinking capabilities. But can they

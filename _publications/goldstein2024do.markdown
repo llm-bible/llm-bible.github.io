@@ -7,7 +7,7 @@ year: 2024
 bibkey: goldstein2024do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.00499"}
-tags: ['Fine Tuning', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Fine Tuning', 'Reinforcement Learning']
 ---
 Recent advances in LLMs have sparked a debate on whether they understand
 text. In this position paper, we argue that opponents in this debate hold

@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.07838"}
-tags: ['Reinforcement Learning', 'Uncategorized']
+tags: ['Reinforcement Learning']
 ---
 Verifiable generation aims to let the large language model (LLM) generate
 text with supporting documents, which enables the user to flexibly verify the

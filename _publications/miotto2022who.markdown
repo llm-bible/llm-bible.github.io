@@ -7,7 +7,7 @@ year: 2022
 bibkey: miotto2022who
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.14338"}
-tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 Language models such as GPT-3 have caused a furore in the research community.
 Some studies found that GPT-3 has some creative abilities and makes mistakes

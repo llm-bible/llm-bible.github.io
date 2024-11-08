@@ -7,7 +7,7 @@ year: 2023
 bibkey: sun2023multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.13149"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 Recently, there has been growing interest in using Large Language Models
 (LLMs) for scientific research. Numerous benchmarks have been proposed to

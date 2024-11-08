@@ -7,7 +7,7 @@ year: 2023
 bibkey: tu2023causal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.13819"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 ChatGPT has demonstrated exceptional proficiency in natural language
 conversation, e.g., it can answer a wide range of questions while no previous

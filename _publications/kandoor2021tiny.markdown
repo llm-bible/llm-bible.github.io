@@ -7,7 +7,7 @@ year: 2021
 bibkey: kandoor2021tiny
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.03340"}
-tags: ['Applications', 'BERT', 'Model Architecture', 'Quantization', 'RAG', 'Uncategorized']
+tags: ['Applications', 'BERT', 'Model Architecture', 'Quantization', 'RAG']
 ---
 Semantic parsing models with applications in task oriented dialog systems
 require efficient sequence to sequence (seq2seq) architectures to be run

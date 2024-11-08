@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.16459"}
   - {name: "Code", url: "https://github.com/YihanWang617/llm-jailbreaking-defense},"}
   - {name: "Code", url: "https://github.com/YihanWang617/LLM-Jailbreaking-Defense-Backtranslation"}
-tags: ['Efficiency And Optimization', 'Has Code', 'Prompting', 'Reinforcement Learning', 'Security', 'Tools', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Has Code', 'Prompting', 'Reinforcement Learning', 'Security', 'Tools']
 ---
 Although many large language models (LLMs) have been trained to refuse
 harmful requests, they are still vulnerable to jailbreaking attacks which

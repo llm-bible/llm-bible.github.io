@@ -7,7 +7,7 @@ year: 2023
 bibkey: yong2023prompting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.13592"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 While code-mixing is a common linguistic practice in many parts of the world,
 collecting high-quality and low-cost code-mixed data remains a challenge for

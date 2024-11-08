@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024selective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.05813"}
-tags: ['Efficiency And Optimization', 'RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 The aim of this study is to investigate Machine Unlearning (MU), a burgeoning
 field focused on addressing concerns related to neural models inadvertently

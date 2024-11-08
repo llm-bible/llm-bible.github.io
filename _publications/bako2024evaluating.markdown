@@ -7,7 +7,7 @@ year: 2024
 bibkey: bako2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.06129"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 Automatically generating data visualizations in response to human utterances
 on datasets necessitates a deep semantic understanding of the data utterance,

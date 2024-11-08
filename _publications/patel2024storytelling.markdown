@@ -7,7 +7,7 @@ year: 2024
 bibkey: patel2024storytelling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.03483"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 Automated long-form story generation typically employs long-context large
 language models (LLMs) for one-shot creation, which can produce cohesive but

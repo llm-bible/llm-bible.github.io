@@ -7,7 +7,7 @@ year: 2024
 bibkey: hsu2024free
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.01384"}
-tags: ['Interpretability And Explainability', 'Prompting', 'Uncategorized']
+tags: ['Interpretability And Explainability', 'Prompting']
 ---
 Free-text rationales justify model decisions in natural language and thus
 become likable and accessible among approaches to explanation across many

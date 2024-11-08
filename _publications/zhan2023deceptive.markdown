@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhan2023deceptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.13671"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 ChatGPT, an AI chatbot, has gained popularity for its capability in
 generating human-like responses. However, this feature carries several risks,

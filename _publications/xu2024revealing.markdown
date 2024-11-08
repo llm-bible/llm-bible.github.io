@@ -8,7 +8,7 @@ bibkey: xu2024revealing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13547"}
   - {name: "Code", url: "https://github.com/OpenMatch/ActiveRAG"}
-tags: ['Has Code', 'RAG', 'Tools', 'Uncategorized']
+tags: ['Has Code', 'RAG', 'Tools']
 ---
 Retrieval Augmented Generation (RAG) has introduced a new paradigm for Large
 Language Models (LLMs), aiding in the resolution of knowledge-intensive tasks.

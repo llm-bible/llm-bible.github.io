@@ -7,7 +7,7 @@ year: 2023
 bibkey: vanderweij2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.00787"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Prompting']
 ---
 Recently, there has been an increase in interest in evaluating large language
 models for emergent and dangerous capabilities. Importantly, agents could

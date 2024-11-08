@@ -7,7 +7,7 @@ year: 2024
 bibkey: dahl2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.01301"}
-tags: ['GPT', 'Model Architecture', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Tools']
 ---
 Do large language models (LLMs) know the law? These models are increasingly
 being used to augment legal practice, education, and research, yet their

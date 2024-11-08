@@ -7,7 +7,7 @@ year: 2024
 bibkey: hu2024teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.07168"}
-tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'RAG', 'Uncategorized']
+tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'RAG']
 ---
 Aligning Large Language Models (LLMs) with human intentions and values is
 crucial yet challenging. Current methods primarily rely on human preferences,

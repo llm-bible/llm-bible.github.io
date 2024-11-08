@@ -7,7 +7,7 @@ year: 2023
 bibkey: birch2023model
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.10544"}
-tags: ['GPT', 'Model Architecture', 'Security', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Security', 'Tools']
 ---
 Model Leeching is a novel extraction attack targeting Large Language Models
 (LLMs), capable of distilling task-specific knowledge from a target LLM into a

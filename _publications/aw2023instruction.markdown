@@ -7,7 +7,7 @@ year: 2023
 bibkey: aw2023instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.00575"}
-tags: ['Fine Tuning', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Fine Tuning', 'Reinforcement Learning']
 ---
 Instruction-tuning is a widely adopted finetuning method that enables large
 language models (LLMs) to generate output that more closely resembles human

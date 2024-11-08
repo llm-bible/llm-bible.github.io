@@ -7,7 +7,7 @@ year: 2024
 bibkey: ge2024graph
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.07140"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 In recent years, large language models have achieved state-of-the-art
 performance across multiple domains. However, the progress in the field of

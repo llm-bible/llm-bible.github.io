@@ -7,7 +7,7 @@ year: 2023
 bibkey: cai2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.17126"}
-tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'RAG', 'Tools', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'RAG', 'Tools']
 ---
 Recent research has highlighted the potential of large language models (LLMs)
 to improve their problem-solving capabilities with the aid of suitable external

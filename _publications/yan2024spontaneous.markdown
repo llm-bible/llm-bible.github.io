@@ -7,7 +7,7 @@ year: 2024
 bibkey: yan2024spontaneous
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.01524"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 Self-correction is a novel method that can stimulate the potential reasoning
 abilities of large language models (LLMs). It involves detecting and correcting

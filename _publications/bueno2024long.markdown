@@ -8,7 +8,7 @@ bibkey: bueno2024long
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.07859"}
   - {name: "Code", url: "https://github.com/unicamp-dl/Lissard"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Training Techniques']
 ---
 Language models are now capable of solving tasks that require dealing with
 long sequences consisting of hundreds of thousands of tokens. However, they

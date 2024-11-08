@@ -8,7 +8,7 @@ bibkey: duan2023shifting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.01379"}
   - {name: "Code", url: "https://github.com/jinhaoduan/SAR"}
-tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) show promising results in language generation
 and instruction following but frequently "hallucinate", making their outputs

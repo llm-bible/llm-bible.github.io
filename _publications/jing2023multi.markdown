@@ -7,7 +7,7 @@ year: 2023
 bibkey: jing2023multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09829"}
-tags: ['Uncategorized']
+tags: []
 ---
 The effective assessment of the instruction-following ability of large
 language models (LLMs) is of paramount importance. A model that cannot adhere

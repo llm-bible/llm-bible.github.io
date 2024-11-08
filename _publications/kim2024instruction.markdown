@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.03303"}
-tags: ['Prompting', 'Responsible AI', 'Uncategorized']
+tags: ['Prompting', 'Responsible AI']
 ---
 Given the impressive capabilities of recent Large Language Models (LLMs), we
 investigate and benchmark the most popular proprietary and different sized open

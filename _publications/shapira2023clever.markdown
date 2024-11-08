@@ -7,7 +7,7 @@ year: 2023
 bibkey: shapira2023clever
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.14763v1"}
-tags: ['GPT', 'Model Architecture', 'Security', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Security']
 ---
 The escalating debate on AI's capabilities warrants developing reliable
 metrics to assess machine "intelligence". Recently, many anecdotal examples

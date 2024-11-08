@@ -7,7 +7,7 @@ year: 2024
 bibkey: chin2024human
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13050"}
-tags: ['Agentic', 'Applications', 'Fine Tuning', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Applications', 'Fine Tuning', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Tools']
 ---
 Large Language Model (LLM) -in-the-loop applications have been shown to
 effectively interpret the human user's commands, make plans, and operate

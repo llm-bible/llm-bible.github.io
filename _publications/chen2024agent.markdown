@@ -8,7 +8,7 @@ bibkey: chen2024agent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.12881"}
   - {name: "Code", url: "https://github.com/InternLM/Agent-FLAN"}
-tags: ['Agentic', 'Has Code', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Agentic', 'Has Code', 'Tools', 'Training Techniques']
 ---
 Open-sourced Large Language Models (LLMs) have achieved great success in
 various NLP tasks, however, they are still far inferior to API-based models

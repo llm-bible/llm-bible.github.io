@@ -7,7 +7,7 @@ year: 2024
 bibkey: luo2024turning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.08696"}
-tags: ['Attention Mechanism', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques']
 ---
 The rapid growth in the parameters of large language models (LLMs) has made
 inference latency a fundamental bottleneck, limiting broader application of

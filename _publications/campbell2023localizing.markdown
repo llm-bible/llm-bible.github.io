@@ -7,7 +7,7 @@ year: 2023
 bibkey: campbell2023localizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.15131"}
-tags: ['Attention Mechanism', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['Attention Mechanism', 'Interpretability And Explainability', 'Model Architecture', 'Prompting']
 ---
 Large language models (LLMs) demonstrate significant knowledge through their
 outputs, though it is often unclear whether false outputs are due to a lack of

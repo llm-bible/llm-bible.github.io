@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024bug
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.15325"}
-tags: ['Uncategorized']
+tags: []
 ---
 Recent research in Needle-in-a-Haystack (NIAH) benchmarks has explored the
 capabilities of Large Language Models (LLMs) in retrieving contextual

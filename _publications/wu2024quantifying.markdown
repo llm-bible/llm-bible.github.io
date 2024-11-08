@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024quantifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.10198"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG', 'Tools']
 ---
 Retrieval augmented generation (RAG) is frequently used to mitigate
 hallucinations and provide up-to-date knowledge for large language models

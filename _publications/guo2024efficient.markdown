@@ -7,7 +7,7 @@ year: 2024
 bibkey: guo2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14833"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 Continual pre-training has increasingly become the predominant approach for
 adapting Large Language Models (LLMs) to new domains. This process involves

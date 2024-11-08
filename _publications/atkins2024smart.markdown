@@ -7,7 +7,7 @@ year: 2024
 bibkey: atkins2024smart
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.18133"}
-tags: ['Prompting', 'RAG', 'Uncategorized']
+tags: ['Prompting', 'RAG']
 ---
 We present ConvoCache, a conversational caching system that solves the
 problem of slow and expensive generative AI models in spoken chatbots.

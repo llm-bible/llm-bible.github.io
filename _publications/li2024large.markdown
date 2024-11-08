@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.19280"}
-tags: ['Applications', 'Efficiency And Optimization', 'RAG', 'Responsible AI', 'Survey Paper', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Efficiency And Optimization', 'RAG', 'Responsible AI', 'Survey Paper', 'Training Techniques']
 ---
 Large Language Models (LLMs), AI models trained on massive text corpora with
 remarkable language understanding and generation capabilities, are transforming

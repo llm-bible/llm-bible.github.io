@@ -7,7 +7,7 @@ year: 2018
 bibkey: wang2018learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1805.04843"}
-tags: ['Uncategorized']
+tags: []
 ---
 Asking good questions in large-scale, open-domain conversational systems is
 quite significant yet rather untouched. This task, substantially different from

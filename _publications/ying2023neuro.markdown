@@ -7,7 +7,7 @@ year: 2023
 bibkey: ying2023neuro
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.14325"}
-tags: ['Agentic', 'Uncategorized']
+tags: ['Agentic']
 ---
 Human beings are social creatures. We routinely reason about other agents,
 and a crucial component of this social reasoning is inferring people's goals as

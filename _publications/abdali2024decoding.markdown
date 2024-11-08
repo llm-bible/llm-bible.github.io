@@ -7,7 +7,7 @@ year: 2024
 bibkey: abdali2024decoding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.05750"}
-tags: ['Uncategorized']
+tags: []
 ---
 Large Language Models (LLMs) have revolutionized the field of Natural
 Language Generation (NLG) by demonstrating an impressive ability to generate

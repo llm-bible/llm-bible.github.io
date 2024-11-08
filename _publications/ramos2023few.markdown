@@ -7,7 +7,7 @@ year: 2023
 bibkey: ramos2023few
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.19821"}
-tags: ['Few Shot', 'Prompting', 'Training Techniques', 'Uncategorized']
+tags: ['Few Shot', 'Prompting', 'Training Techniques']
 ---
 Multilingual image captioning has recently been tackled by training with
 large-scale machine translated data, which is an expensive, noisy, and

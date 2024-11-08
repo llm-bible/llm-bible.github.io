@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.17386"}
-tags: ['RAG', 'Training Techniques', 'Uncategorized']
+tags: ['RAG', 'Training Techniques']
 ---
 Reasoning capabilities are crucial for Large Language Models (LLMs), yet a
 notable gap exists between English and non-English languages. To bridge this

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.18760"}
-tags: ['RAG', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 In the realm of data-driven AI technology, the application of open-source
 large language models (LLMs) in robotic task planning represents a significant

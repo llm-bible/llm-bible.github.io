@@ -10,7 +10,7 @@ additional_links:
   - {name: "Code", url: "https://hf.co/BigCode,"}
   - {name: "Code", url: "https://hf.co/spaces/bigcode/in-the-stack)"}
   - {name: "Code", url: "https://www.bigcode-project.org/docs/about/the-stack/"}
-tags: ['Has Code', 'Training Techniques', 'Uncategorized']
+tags: ['Has Code', 'Training Techniques']
 ---
 Large Language Models (LLMs) play an ever-increasing role in the field of
 Artificial Intelligence (AI)--not only for natural language processing but also

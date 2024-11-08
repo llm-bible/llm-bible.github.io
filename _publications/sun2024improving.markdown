@@ -8,7 +8,7 @@ bibkey: sun2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.02823"}
   - {name: "Code", url: "https://www.github.com/ConiferLM/Conifer"}
-tags: ['Applications', 'GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
 ---
 The ability of large language models (LLMs) to follow instructions is crucial
 to real-world applications. Despite recent advances, several studies have

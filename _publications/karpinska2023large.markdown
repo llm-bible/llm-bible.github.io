@@ -7,7 +7,7 @@ year: 2023
 bibkey: karpinska2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.03245"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG']
 ---
 Large language models (LLMs) are competitive with the state of the art on a
 wide range of sentence-level translation datasets. However, their ability to

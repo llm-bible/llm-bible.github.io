@@ -7,7 +7,7 @@ year: 2024
 bibkey: ryazanov2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.06120"}
-tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'RAG', 'Survey Paper', 'Uncategorized']
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'RAG', 'Survey Paper']
 ---
 The recent explosion of attention to AI is arguably one of the biggest in the
 technology's media coverage. To investigate the effects it has on the

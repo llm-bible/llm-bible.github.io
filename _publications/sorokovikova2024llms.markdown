@@ -7,7 +7,7 @@ year: 2024
 bibkey: sorokovikova2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01765"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 An empirical investigation into the simulation of the Big Five personality
 traits by large language models (LLMs), namely Llama2, GPT4, and Mixtral, is

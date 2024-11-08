@@ -7,7 +7,7 @@ year: 2024
 bibkey: miin2024smart
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.19667"}
-tags: ['Agentic', 'Efficiency And Optimization', 'Prompting', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Efficiency And Optimization', 'Prompting', 'Reinforcement Learning', 'Tools']
 ---
 Comprehensive planning agents have been a long term goal in the field of
 artificial intelligence. Recent innovations in Natural Language Processing have

@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.04648"}
   - {name: "Code", url: "https://www.urbandictionary.com/define.php?term=plugh),"}
   - {name: "Code", url: "https://github.com/altsoph/PLUGH)"}
-tags: ['Has Code', 'Tools', 'Uncategorized']
+tags: ['Has Code', 'Tools']
 ---
 We present PLUGH (https://www.urbandictionary.com/define.php?term=plugh), a
 modern benchmark that currently consists of 5 tasks, each with 125 input texts

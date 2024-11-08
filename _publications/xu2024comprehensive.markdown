@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13457"}
-tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'Prompting', 'Responsible AI', 'Security', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'Prompting', 'Responsible AI', 'Security', 'Tools', 'Training Techniques']
 ---
 Large Language Models (LLMS) have increasingly become central to generating
 content with potential societal impacts. Notably, these models have

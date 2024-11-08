@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.15287"}
-tags: ['Attention Mechanism', 'Merging', 'Model Architecture', 'Prompting', 'RAG', 'Tools', 'Uncategorized']
+tags: ['Attention Mechanism', 'Merging', 'Model Architecture', 'Prompting', 'RAG', 'Tools']
 ---
 Stylized Text-to-Image Generation (STIG) aims to generate images based on
 text prompts and style reference images. We in this paper propose a novel

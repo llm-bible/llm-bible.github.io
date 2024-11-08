@@ -7,7 +7,7 @@ year: 2023
 bibkey: lee2023chain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.04915"}
-tags: ['Fine Tuning', 'Prompting', 'Uncategorized']
+tags: ['Fine Tuning', 'Prompting']
 ---
 We present a novel method, the Chain of Empathy (CoE) prompting, that
 utilizes insights from psychotherapy to induce Large Language Models (LLMs) to

@@ -7,7 +7,7 @@ year: 2023
 bibkey: srivastava2023instances
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.02107"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG']
 ---
 Large language models (LLMs) have revolutionized zero-shot task performance,
 mitigating the need for task-specific annotations while enhancing task

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024large
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2402.11724v1"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 The reasoning and generalization capabilities of LLMs can help us better
 understand user preferences and item characteristics, offering exciting

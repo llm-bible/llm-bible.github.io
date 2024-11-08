@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023measuring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.09212"}
-tags: ['Prompting', 'RAG', 'Uncategorized']
+tags: ['Prompting', 'RAG']
 ---
 As the capabilities of large language models (LLMs) continue to advance,
 evaluating their performance becomes increasingly crucial and challenging. This

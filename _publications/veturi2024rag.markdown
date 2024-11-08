@@ -7,7 +7,7 @@ year: 2024
 bibkey: veturi2024rag
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.03708"}
-tags: ['Agentic', 'Applications', 'BERT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Applications', 'BERT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 Large Language Models (LLMs) have shown versatility in various Natural
 Language Processing (NLP) tasks, including their potential as effective

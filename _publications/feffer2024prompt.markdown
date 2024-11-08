@@ -7,7 +7,7 @@ year: 2024
 bibkey: feffer2024prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.11083"}
-tags: ['Fine Tuning', 'Prompting', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Fine Tuning', 'Prompting', 'Reinforcement Learning', 'Tools']
 ---
 In the advent of democratized usage of large language models (LLMs), there is
 a growing desire to systematize LLM prompt creation and selection processes

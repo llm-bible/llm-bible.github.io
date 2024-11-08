@@ -7,7 +7,7 @@ year: 2020
 bibkey: cai2020adaptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2001.06626"}
-tags: ['Reinforcement Learning', 'Uncategorized']
+tags: ['Reinforcement Learning']
 ---
 Neural conversation systems generate responses based on the
 sequence-to-sequence (SEQ2SEQ) paradigm. Typically, the model is equipped with

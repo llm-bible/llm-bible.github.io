@@ -7,7 +7,7 @@ year: 2024
 bibkey: chan2024benchmark
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.13627"}
-tags: ['Agentic', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Agentic', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have sparked substantial interest and debate
 concerning their potential emergence of Theory of Mind (ToM) ability. Theory of

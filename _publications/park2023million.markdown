@@ -7,7 +7,7 @@ year: 2023
 bibkey: park2023million
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.13687"}
-tags: ['Applications', 'Fine Tuning', 'GPT', 'Model Architecture', 'RAG', 'Tools', 'Uncategorized']
+tags: ['Applications', 'Fine Tuning', 'GPT', 'Model Architecture', 'RAG', 'Tools']
 ---
 The advent of artificial intelligence (AI) has enabled a comprehensive
 exploration of materials for various applications. However, AI models often

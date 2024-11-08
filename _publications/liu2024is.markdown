@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.10258"}
-tags: ['Prompting', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['Prompting', 'RAG', 'Training Techniques']
 ---
 Large language models (LLMs) have demonstrated multilingual capabilities;
 yet, they are mostly English-centric due to the imbalanced training corpora.

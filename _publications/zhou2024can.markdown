@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhou2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.21531"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG']
 ---
 Symbolic Music, akin to language, can be encoded in discrete symbols. Recent
 research has extended the application of large language models (LLMs) such as

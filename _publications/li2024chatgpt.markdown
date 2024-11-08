@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.18512"}
-tags: ['GPT', 'Interpretability And Explainability', 'Model Architecture', 'RAG', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Interpretability And Explainability', 'Model Architecture', 'RAG', 'Tools']
 ---
 Explanations form the foundation of knowledge sharing and build upon
 communication principles, social dynamics, and learning theories. We focus

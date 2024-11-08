@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.18090"}
-tags: ['GPT', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'RAG', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'RAG', 'Tools']
 ---
 Recent advancements in conversational large language models (LLMs), such as
 ChatGPT, have demonstrated remarkable promise in various domains, including

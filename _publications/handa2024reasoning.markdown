@@ -7,7 +7,7 @@ year: 2024
 bibkey: handa2024reasoning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.04046"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Reasoning about actions and change (RAC) has historically driven the
 development of many early AI challenges, such as the frame problem, and many AI

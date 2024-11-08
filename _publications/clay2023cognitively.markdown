@@ -7,7 +7,7 @@ year: 2023
 bibkey: clay2023cognitively
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.05450"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Survey Paper', 'Uncategorized']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Survey Paper']
 ---
 Current conversational agents (CA) have seen improvement in conversational
 quality in recent years due to the influence of large language models (LLMs)

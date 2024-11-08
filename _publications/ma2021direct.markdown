@@ -7,7 +7,7 @@ year: 2021
 bibkey: ma2021direct
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.08250"}
-tags: ['Attention Mechanism', 'Model Architecture', 'RAG', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'RAG']
 ---
 We present a direct simultaneous speech-to-speech translation (Simul-S2ST)
 model, Furthermore, the generation of translation is independent from

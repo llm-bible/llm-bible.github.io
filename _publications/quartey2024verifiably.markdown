@@ -8,7 +8,7 @@ bibkey: quartey2024verifiably
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11498"}
   - {name: "Code", url: "https://robotlimp.github.io"}
-tags: ['Has Code', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Has Code', 'Reinforcement Learning']
 ---
 Enabling mobile robots to follow complex natural language instructions is an
 important yet challenging problem. People want to flexibly express constraints,

@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.08172"}
-tags: ['Uncategorized']
+tags: []
 ---
 Large Language Models (LLMs) have not only exhibited exceptional performance
 across various tasks, but also demonstrated sparks of intelligence. Recent

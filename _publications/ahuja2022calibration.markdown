@@ -7,7 +7,7 @@ year: 2022
 bibkey: ahuja2022calibration
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.12265"}
-tags: ['Attention Mechanism', 'Few Shot', 'Masked Language Model', 'Model Architecture', 'Uncategorized']
+tags: ['Attention Mechanism', 'Few Shot', 'Masked Language Model', 'Model Architecture']
 ---
 Massively Multilingual Language Models (MMLMs) have recently gained
 popularity due to their surprising effectiveness in cross-lingual transfer.

@@ -7,7 +7,7 @@ year: 2024
 bibkey: mittal2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.02611"}
-tags: ['Reinforcement Learning', 'Uncategorized']
+tags: ['Reinforcement Learning']
 ---
 Recent works show that the largest of the large language models (LLMs) can
 solve many simple reasoning tasks expressed in natural language, without

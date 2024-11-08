@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.10614"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 Large Language Models (LLMs), despite their great power in language
 generation, often encounter challenges when dealing with intricate and

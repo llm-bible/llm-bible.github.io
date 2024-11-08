@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.01230"}
-tags: ['Agentic', 'Applications', 'Reinforcement Learning', 'Survey Paper', 'Uncategorized']
+tags: ['Agentic', 'Applications', 'Reinforcement Learning', 'Survey Paper']
 ---
 This paper presents a comprehensive survey of the current status and
 opportunities for Large Language Models (LLMs) in strategic reasoning, a

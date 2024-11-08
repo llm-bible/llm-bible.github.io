@@ -7,7 +7,7 @@ year: 2024
 bibkey: góral2024when
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00113"}
-tags: ['Security', 'Uncategorized']
+tags: ['Security']
 ---
 This paper examines the zero-shot ability of Large Language Models (LLMs) to
 detect multiple-choice questions with no correct answer, a crucial aspect of

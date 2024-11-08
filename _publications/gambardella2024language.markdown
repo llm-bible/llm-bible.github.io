@@ -7,7 +7,7 @@ year: 2024
 bibkey: gambardella2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02356"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 The ability (and inability) of large language models (LLMs) to perform
 arithmetic tasks has been the subject of much theoretical and practical debate.

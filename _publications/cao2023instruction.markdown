@@ -7,7 +7,7 @@ year: 2023
 bibkey: cao2023instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.06290"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 Large language models (LLMs) are initially pretrained for broad capabilities
 and then finetuned with instruction-following datasets to improve their

@@ -7,7 +7,7 @@ year: 2024
 bibkey: thonet2024elitr
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.20262"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Research on Large Language Models (LLMs) has recently witnessed an increasing
 interest in extending models' context size to better capture dependencies

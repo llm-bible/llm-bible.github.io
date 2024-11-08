@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024logic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.18130"}
-tags: ['Agentic', 'Interpretability And Explainability', 'Prompting', 'RAG', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Interpretability And Explainability', 'Prompting', 'RAG', 'Tools']
 ---
 Chain-of-Thought (CoT) prompting has emerged as a pivotal technique for
 augmenting the inferential capabilities of language models during reasoning

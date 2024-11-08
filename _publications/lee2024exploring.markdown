@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.16288"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques']
 ---
 Recent literature has highlighted potential risks to academic integrity
 associated with large language models (LLMs), as they can memorize parts of

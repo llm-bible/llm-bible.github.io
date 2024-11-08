@@ -7,7 +7,7 @@ year: 2023
 bibkey: rebedea2023nemo
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.10501"}
-tags: ['Applications', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Reinforcement Learning', 'Training Techniques']
 ---
 NeMo Guardrails is an open-source toolkit for easily adding programmable
 guardrails to LLM-based conversational systems. Guardrails (or rails for short)

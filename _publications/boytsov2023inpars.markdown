@@ -8,7 +8,7 @@ bibkey: boytsov2023inpars
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.02998"}
   - {name: "Code", url: "https://github.com/searchivarius/inpars_light/"}
-tags: ['BERT', 'GPT', 'Has Code', 'Model Architecture', 'Prompting', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['BERT', 'GPT', 'Has Code', 'Model Architecture', 'Prompting', 'RAG', 'Training Techniques']
 ---
 We carried out a reproducibility study of InPars, which is a method for
 unsupervised training of neural rankers (Bonifacio et al., 2022). As a

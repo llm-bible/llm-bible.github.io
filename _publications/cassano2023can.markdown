@@ -8,7 +8,7 @@ bibkey: cassano2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.12450"}
   - {name: "Code", url: "https://github.com/nuprl/CanItEdit"}
-tags: ['GPT', 'Has Code', 'Interpretability And Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Interpretability And Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 A significant amount of research is focused on developing and evaluating
 large language models for a variety of code synthesis tasks. These include

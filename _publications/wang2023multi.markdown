@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.08085"}
-tags: ['BERT', 'GPT', 'Model Architecture', 'Prompting', 'Tools', 'Uncategorized']
+tags: ['BERT', 'GPT', 'Model Architecture', 'Prompting', 'Tools']
 ---
 Large language models have unlocked strong multi-task capabilities from
 reading instructive prompts. However, recent studies have shown that existing

@@ -8,7 +8,7 @@ bibkey: yang2024emphasising
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.01129"}
   - {name: "Code", url: "https://github.com/Bernard-Yang/SIMAMR"}
-tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Prompting', 'Security', 'Tools', 'Uncategorized']
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Prompting', 'Security', 'Tools']
 ---
 Automatic open-domain dialogue evaluation has attracted increasing attention.
 Trainable evaluation metrics, typically trained with true positive and randomly

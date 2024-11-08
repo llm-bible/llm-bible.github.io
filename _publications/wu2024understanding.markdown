@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.17803"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 Utilizing user profiles to personalize Large Language Models (LLMs) has been
 shown to enhance the performance on a wide range of tasks. However, the precise

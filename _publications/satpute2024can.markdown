@@ -8,7 +8,7 @@ bibkey: satpute2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.00344"}
   - {name: "Code", url: "https://github.com/gipplab/LLM-Investig-MathStackExchange"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have demonstrated exceptional capabilities in
 various natural language tasks, often achieving performances that surpass those

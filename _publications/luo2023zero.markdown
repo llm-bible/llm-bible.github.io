@@ -7,7 +7,7 @@ year: 2023
 bibkey: luo2023zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.02654"}
-tags: ['Attention Mechanism', 'Interpretability And Explainability', 'Model Architecture', 'Uncategorized']
+tags: ['Attention Mechanism', 'Interpretability And Explainability', 'Model Architecture']
 ---
 The prevalent use of large language models (LLMs) in various domains has
 drawn attention to the issue of "hallucination," which refers to instances

@@ -8,7 +8,7 @@ bibkey: qin2021temporal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.04571"}
   - {name: "Code", url: "https://github.com/google-research-datasets/timedial"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture']
 ---
 Everyday conversations require understanding everyday events, which in turn,
 requires understanding temporal commonsense concepts interwoven with those

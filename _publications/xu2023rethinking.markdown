@@ -7,7 +7,7 @@ year: 2023
 bibkey: xu2023rethinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.11508"}
-tags: ['Merging', 'Uncategorized']
+tags: ['Merging']
 ---
 Instruction tuning, a specialized technique to enhance large language model
 (LLM) performance via instruction datasets, relies heavily on the quality of

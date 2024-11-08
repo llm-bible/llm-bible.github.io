@@ -7,7 +7,7 @@ year: 2023
 bibkey: roberts2023data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.10628"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 Recent claims about the impressive abilities of large language models (LLMs)
 are often supported by evaluating publicly available benchmarks. Since LLMs

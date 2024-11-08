@@ -7,7 +7,7 @@ year: 2023
 bibkey: leszczynski2023talk
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.11489"}
-tags: ['Applications', 'Attention Mechanism', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Attention Mechanism', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Recommender systems are ubiquitous yet often difficult for users to control,
 and adjust if recommendation quality is poor. This has motivated conversational

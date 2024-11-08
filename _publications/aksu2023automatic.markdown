@@ -7,7 +7,7 @@ year: 2023
 bibkey: aksu2023automatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.17376"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting', 'Tools', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting', 'Tools']
 ---
 Instruction-based multitasking has played a critical role in the success of
 large language models (LLMs) in multi-turn dialog applications. While publicly

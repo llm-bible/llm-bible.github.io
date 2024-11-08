@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024predicting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.14668"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 Intelligent Tutoring Systems (ITSs) have significantly enhanced adult
 literacy training, a key factor for societal participation, employment

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.17468"}
-tags: ['Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Prompting', 'Reinforcement Learning']
 ---
 While hallucinations of large language models (LLMs) prevail as a major
 challenge, existing evaluation benchmarks on factuality do not cover the

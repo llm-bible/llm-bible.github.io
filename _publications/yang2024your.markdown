@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024your
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.04784"}
-tags: ['Agentic', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Tools']
 ---
 Language agents powered by large language models (LLMs) are increasingly
 valuable as decision-making tools in domains such as gaming and programming.

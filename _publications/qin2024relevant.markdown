@@ -7,7 +7,7 @@ year: 2024
 bibkey: qin2024relevant
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.12728"}
-tags: ['Prompting', 'Uncategorized']
+tags: ['Prompting']
 ---
 Analogical reasoning is a unique ability of humans to address unfamiliar
 challenges by transferring strategies from relevant past experiences. One key

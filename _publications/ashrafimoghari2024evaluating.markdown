@@ -7,7 +7,7 @@ year: 2024
 bibkey: ashrafimoghari2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.02985"}
-tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 The rapid evolution of artificial intelligence (AI), especially in the domain
 of Large Language Models (LLMs) and generative AI, has opened new avenues for

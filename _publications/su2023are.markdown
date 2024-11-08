@@ -7,7 +7,7 @@ year: 2023
 bibkey: su2023are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.06736"}
-tags: ['Interpretability And Explainability', 'Uncategorized']
+tags: ['Interpretability And Explainability']
 ---
 Logical reasoning remains a pivotal component within the realm of artificial
 intelligence. The recent evolution of large language models (LLMs) has marked

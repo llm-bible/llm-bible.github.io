@@ -8,7 +8,7 @@ bibkey: renze2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.06682"}
   - {name: "Code", url: "https://github.com/matthewrenze/self-reflection"}
-tags: ['Agentic', 'Has Code', 'Uncategorized']
+tags: ['Agentic', 'Has Code']
 ---
 In this study, we investigated the effects of self-reflection in large
 language models (LLMs) on problem-solving performance. We instructed nine

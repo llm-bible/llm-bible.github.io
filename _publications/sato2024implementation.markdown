@@ -7,7 +7,7 @@ year: 2024
 bibkey: sato2024implementation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.01575"}
-tags: ['Agentic', 'Uncategorized']
+tags: ['Agentic']
 ---
 Werewolf is an incomplete information game, which has several challenges when
 creating a computer agent as a player given the lack of understanding of the

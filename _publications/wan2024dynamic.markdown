@@ -7,7 +7,7 @@ year: 2024
 bibkey: wan2024dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.17017"}
-tags: ['Prompting', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Prompting', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 Self-Consistency (SC) is a widely used method to mitigate hallucinations in
 Large Language Models (LLMs) by sampling the LLM multiple times and outputting

@@ -7,7 +7,7 @@ year: 2023
 bibkey: gani2023llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.10640"}
-tags: ['Merging', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['Merging', 'Prompting', 'RAG']
 ---
 Diffusion-based generative models have significantly advanced text-to-image
 generation but encounter challenges when processing lengthy and intricate text

@@ -7,7 +7,7 @@ year: 2024
 bibkey: land2024fishing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.05417"}
-tags: ['Efficiency And Optimization', 'Prompting', 'Reinforcement Learning', 'Responsible AI', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Prompting', 'Reinforcement Learning', 'Responsible AI', 'Training Techniques']
 ---
 The disconnect between tokenizer creation and model training in language
 models has been known to allow for certain inputs, such as the infamous

@@ -7,7 +7,7 @@ year: 2023
 bibkey: xue2023detecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.11499"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning']
 ---
 Large language Models (LLMs) have achieved promising performance on
 arithmetic reasoning tasks by incorporating step-by-step chain-of-thought (CoT)

@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023empowering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.13557"}
-tags: ['Applications', 'Few Shot', 'Prompting', 'Uncategorized']
+tags: ['Applications', 'Few Shot', 'Prompting']
 ---
 Recommender systems utilizing explicit feedback have witnessed significant
 advancements and widespread applications over the past years. However,

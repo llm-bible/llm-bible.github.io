@@ -7,7 +7,7 @@ year: 2024
 bibkey: petridis2024training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.04894"}
-tags: ['Efficiency And Optimization', 'Model Architecture', 'Prompting', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Model Architecture', 'Prompting', 'Training Techniques']
 ---
 Large language models (LLMs) are highly capable at a variety of tasks given
 the right prompt, but writing one is still a difficult and tedious process. In

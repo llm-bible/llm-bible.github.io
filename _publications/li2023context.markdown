@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023context
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.07069"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 In this paper, we explore the challenges inherent to Large Language Models
 (LLMs) like GPT-4, particularly their propensity for hallucinations, logic

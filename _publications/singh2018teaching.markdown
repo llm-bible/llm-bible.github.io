@@ -7,7 +7,7 @@ year: 2018
 bibkey: singh2018teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1802.05415"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
 ---
 We present a neural transducer model with visual attention that learns to
 generate LaTeX markup of a real-world math formula given its image. Applying

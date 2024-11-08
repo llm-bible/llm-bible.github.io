@@ -7,7 +7,7 @@ year: 2021
 bibkey: lin2021pushing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.01862"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 In recent years, neural paraphrase generation based on Seq2Seq has achieved
 superior performance, however, the generated paraphrase still has the problem

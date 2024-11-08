@@ -7,7 +7,7 @@ year: 2024
 bibkey: ren2024do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.18023"}
-tags: ['Prompting', 'Scaling Laws', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Prompting', 'Scaling Laws', 'Tools', 'Training Techniques']
 ---
 Large Language Models (LLMs) have demonstrated remarkable abilities in text
 comprehension and logical reasoning, indicating that the text representations

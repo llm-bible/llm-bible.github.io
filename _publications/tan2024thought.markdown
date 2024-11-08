@@ -7,7 +7,7 @@ year: 2024
 bibkey: tan2024thought
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.14562"}
-tags: ['Prompting', 'RAG', 'Tools', 'Uncategorized']
+tags: ['Prompting', 'RAG', 'Tools']
 ---
 Large language models (LLMs) have shown exceptional performance as
 general-purpose assistants, excelling across a variety of reasoning tasks. This

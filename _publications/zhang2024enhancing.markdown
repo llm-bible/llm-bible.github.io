@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.12456"}
-tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Tools', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Tools']
 ---
 Large language models (LLMs) face challenges with internal knowledge
 inaccuracies and outdated information. Knowledge editing has emerged as a

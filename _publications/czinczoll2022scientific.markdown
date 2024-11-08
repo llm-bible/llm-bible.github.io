@@ -7,7 +7,7 @@ year: 2022
 bibkey: czinczoll2022scientific
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.15268"}
-tags: ['BERT', 'GPT', 'Model Architecture', 'Uncategorized']
+tags: ['BERT', 'GPT', 'Model Architecture']
 ---
 This paper examines the encoding of analogy in large-scale pretrained
 language models, such as BERT and GPT-2. Existing analogy datasets typically

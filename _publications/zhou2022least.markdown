@@ -7,7 +7,7 @@ year: 2022
 bibkey: zhou2022least
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2205.10625v3"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Training Techniques']
 ---
 Chain-of-thought prompting has demonstrated remarkable performance on various
 natural language reasoning tasks. However, it tends to perform poorly on tasks

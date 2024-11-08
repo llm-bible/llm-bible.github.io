@@ -7,7 +7,7 @@ year: 2024
 bibkey: adelani2024comparing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.18286"}
-tags: ['Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Prompting', 'Reinforcement Learning']
 ---
 Large Language Models are transforming NLP for a variety of tasks. However,
 how LLMs perform NLP tasks for low-resource languages (LRLs) is less explored.

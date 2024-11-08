@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024let
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.15114"}
-tags: ['RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['RAG', 'Reinforcement Learning', 'Tools']
 ---
 Conventional recommender systems (RSs) face challenges in precisely capturing
 users' fine-grained preferences. Large language models (LLMs) have shown

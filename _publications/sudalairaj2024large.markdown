@@ -7,7 +7,7 @@ year: 2024
 bibkey: sudalairaj2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.01081"}
-tags: ['Applications', 'Fine Tuning', 'GPT', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Fine Tuning', 'GPT', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques']
 ---
 This work introduces LAB (Large-scale Alignment for chatBots), a novel
 methodology designed to overcome the scalability challenges in the

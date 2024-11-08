@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023draft
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.08168"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 We present a novel inference scheme, self-speculative decoding, for
 accelerating Large Language Models (LLMs) without the need for an auxiliary

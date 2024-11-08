@@ -7,7 +7,7 @@ year: 2023
 bibkey: dong2023statistical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.10519"}
-tags: ['Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['Model Architecture', 'Prompting']
 ---
 Given varying prompts regarding a factoid question, can a large language
 model (LLM) reliably generate factually correct answers? Existing LLMs may

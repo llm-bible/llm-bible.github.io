@@ -7,7 +7,7 @@ year: 2024
 bibkey: xie2024order
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.05093"}
-tags: ['Applications', 'Attention Mechanism', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'Attention Mechanism', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have generated significant attention since their
 inception, finding applications across various academic and industrial domains.

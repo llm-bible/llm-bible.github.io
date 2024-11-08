@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023pre
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15777"}
-tags: ['Applications', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques']
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance across
 various natural language tasks, marking significant strides towards general

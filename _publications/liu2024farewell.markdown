@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024farewell
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.15176"}
-tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 The maximum supported context length is a critical bottleneck limiting the
 practical application of the Large Language Model (LLM). Although existing

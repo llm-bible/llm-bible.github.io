@@ -7,7 +7,7 @@ year: 2024
 bibkey: agrawal2024is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.08314"}
-tags: ['Uncategorized']
+tags: []
 ---
 Despite the recent success of automatic metrics for assessing translation
 quality, their application in evaluating the quality of machine-translated

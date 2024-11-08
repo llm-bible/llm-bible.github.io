@@ -7,7 +7,7 @@ year: 2023
 bibkey: khademi2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.05372"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting', 'Tools', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting', 'Tools']
 ---
 ChatGPT and Bard are AI chatbots based on Large Language Models (LLM) that
 are slated to promise different applications in diverse areas. In education,

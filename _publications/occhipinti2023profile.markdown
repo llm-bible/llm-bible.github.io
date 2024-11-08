@@ -7,7 +7,7 @@ year: 2023
 bibkey: occhipinti2023profile
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.05195"}
-tags: ['Agentic', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Agentic', 'Tools', 'Training Techniques']
 ---
 Providing dialogue agents with a profile representation can improve their
 consistency and coherence, leading to better conversations. However, current

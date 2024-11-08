@@ -7,7 +7,7 @@ year: 2023
 bibkey: xiong2023program
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05727"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'RAG', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'RAG']
 ---
 Recent development of large language models (LLMs) for code like CodeX and
 CodeT5+ demonstrates tremendous promise in achieving code intelligence. Their

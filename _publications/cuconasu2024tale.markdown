@@ -7,7 +7,7 @@ year: 2024
 bibkey: cuconasu2024tale
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14972"}
-tags: ['Applications', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'RAG', 'Training Techniques']
 ---
 Retrieval Augmented Generation (RAG) represents a significant advancement in
 artificial intelligence combining a retrieval phase with a generative phase,

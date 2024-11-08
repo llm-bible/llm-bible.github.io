@@ -8,7 +8,7 @@ bibkey: fei2023reasoning
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.11255v4"}
   - {name: "Code", url: "https://github.com/scofield7419/THOR-ISA"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Tools']
 ---
 While sentiment analysis systems try to determine the sentiment polarities of
 given targets based on the key opinion expressions in input texts, in implicit

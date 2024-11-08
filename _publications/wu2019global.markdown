@@ -7,7 +7,7 @@ year: 2019
 bibkey: wu2019global
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1901.04713"}
-tags: ['Tools', 'Uncategorized']
+tags: ['Tools']
 ---
 End-to-end task-oriented dialogue is challenging since knowledge bases are
 usually large, dynamic and hard to incorporate into a learning framework. We

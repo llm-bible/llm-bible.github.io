@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024nearest
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.19325"}
-tags: ['Language Modeling', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Language Modeling', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) often hallucinate and lack the ability to
 provide attribution for their generations. Semi-parametric LMs, such as kNN-LM,

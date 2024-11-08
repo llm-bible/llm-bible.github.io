@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.08250"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Security', 'Tools', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'Security', 'Tools']
 ---
 Program synthesis aims to automatically generate an executable program that
 conforms to the given specification. Recent advancements have demonstrated that

@@ -8,7 +8,7 @@ bibkey: nussbaum2024nomic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01613"}
   - {name: "Code", url: "https://github.com/nomic-ai/contrastors"}
-tags: ['Has Code', 'Training Techniques', 'Uncategorized']
+tags: ['Has Code', 'Training Techniques']
 ---
 This technical report describes the training of nomic-embed-text-v1, the
 first fully reproducible, open-source, open-weights, open-data, 8192 context

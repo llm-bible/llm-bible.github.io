@@ -7,7 +7,7 @@ year: 2024
 bibkey: gu2024diverse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03942"}
-tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Instruction-following is particularly crucial for large language models
 (LLMs) to support diverse user requests. While existing work has made progress

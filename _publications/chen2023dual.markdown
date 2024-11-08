@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023dual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.00272"}
-tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Model Architecture', 'RAG', 'Reinforcement Learning']
 ---
 Proactively and naturally guiding the dialog from the non-recommendation
 context (e.g., Chit-chat) to the recommendation scenario (e.g., Music) is

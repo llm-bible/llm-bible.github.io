@@ -7,7 +7,7 @@ year: 2024
 bibkey: denisov2024teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.10922"}
-tags: ['Language Modeling', 'Security', 'Training Techniques', 'Uncategorized']
+tags: ['Language Modeling', 'Security', 'Training Techniques']
 ---
 Recent advancements in language modeling have led to the emergence of Large
 Language Models (LLMs) capable of various natural language processing tasks.

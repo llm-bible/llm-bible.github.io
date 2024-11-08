@@ -7,7 +7,7 @@ year: 2023
 bibkey: feng2023compositional
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.15393v2"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 Attaining a high degree of user controllability in visual generation often
 requires intricate, fine-grained inputs like layouts. However, such inputs

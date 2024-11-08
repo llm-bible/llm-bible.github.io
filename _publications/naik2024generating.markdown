@@ -7,7 +7,7 @@ year: 2024
 bibkey: naik2024generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.18262"}
-tags: ['Efficiency And Optimization', 'Fine Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Fine Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 An advantage of Large Language Models (LLMs) is their contextualization
 capability - providing different responses based on student inputs like

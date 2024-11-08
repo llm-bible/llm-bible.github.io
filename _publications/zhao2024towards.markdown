@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13820"}
-tags: ['Attention Mechanism', 'Merging', 'Model Architecture', 'RAG', 'Responsible AI', 'Tools', 'Uncategorized']
+tags: ['Attention Mechanism', 'Merging', 'Model Architecture', 'RAG', 'Responsible AI', 'Tools']
 ---
 Safety alignment of large language models (LLMs) has been gaining increasing
 attention. However, current safety-aligned LLMs suffer from the fragile and

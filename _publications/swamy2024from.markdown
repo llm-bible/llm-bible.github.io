@@ -7,7 +7,7 @@ year: 2024
 bibkey: swamy2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.08027"}
-tags: ['GPT', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Security', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Security', 'Tools']
 ---
 Recent advances in eXplainable AI (XAI) for education have highlighted a
 critical challenge: ensuring that explanations for state-of-the-art AI models

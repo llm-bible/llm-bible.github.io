@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10881"}
-tags: ['RAG', 'Training Techniques', 'Uncategorized']
+tags: ['RAG', 'Training Techniques']
 ---
 Large language models (LLMs) have achieved great success, but their
 occasional content fabrication, or hallucination, limits their practical

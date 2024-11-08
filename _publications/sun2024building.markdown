@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.11977"}
-tags: ['Agentic', 'Applications', 'Attention Mechanism', 'GPT', 'Model Architecture', 'Uncategorized']
+tags: ['Agentic', 'Applications', 'Attention Mechanism', 'GPT', 'Model Architecture']
 ---
 The incorporation of Large Language Models (LLMs) such as the GPT series into
 diverse sectors including healthcare, education, and finance marks a

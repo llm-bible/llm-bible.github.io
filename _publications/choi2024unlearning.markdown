@@ -7,7 +7,7 @@ year: 2024
 bibkey: choi2024unlearning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12329"}
-tags: ['GPT', 'Model Architecture', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Tools', 'Training Techniques']
 ---
 Instruction-following large language models (LLMs), such as ChatGPT, have
 become increasingly popular with the general audience, many of whom are

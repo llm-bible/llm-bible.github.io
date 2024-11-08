@@ -8,7 +8,7 @@ bibkey: schnitzler2024more
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13397"}
   - {name: "Code", url: "https://github.com/Alab-NII/morehopqa"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture']
 ---
 Most existing multi-hop datasets are extractive answer datasets, where the
 answers to the questions can be extracted directly from the provided context.

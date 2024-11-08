@@ -7,7 +7,7 @@ year: 2024
 bibkey: allamanis2024unsupervised
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.08699"}
-tags: ['Reinforcement Learning', 'Uncategorized']
+tags: ['Reinforcement Learning']
 ---
 To evaluate code large language models (LLMs), research has relied on a few
 small manually curated benchmarks, such as HumanEval and MBPP, which represent

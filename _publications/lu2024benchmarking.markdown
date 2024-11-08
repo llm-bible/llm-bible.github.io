@@ -8,7 +8,7 @@ bibkey: lu2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.05806"}
   - {name: "Code", url: "https://github.com/zjunlp/EasyEdit"}
-tags: ['Has Code', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Has Code', 'Reinforcement Learning']
 ---
 While Large Language Models (LLMs) exhibit remarkable generative
 capabilities, they are not without flaws, particularly in the form of

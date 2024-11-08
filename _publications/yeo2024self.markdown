@@ -7,7 +7,7 @@ year: 2024
 bibkey: yeo2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11275"}
-tags: ['Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Tools', 'Training Techniques']
 ---
 Large language models (LLMs) often necessitate extensive labeled datasets and
 training compute to achieve impressive performance across downstream tasks.

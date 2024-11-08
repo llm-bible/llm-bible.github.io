@@ -8,7 +8,7 @@ bibkey: wang2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.03536"}
   - {name: "Code", url: "https://github.com/justarter/E2URec"}
-tags: ['Efficiency And Optimization', 'Fine Tuning', 'Has Code', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Fine Tuning', 'Has Code', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 The significant advancements in large language models (LLMs) give rise to a
 promising research direction, i.e., leveraging LLMs as recommenders (LLMRec).

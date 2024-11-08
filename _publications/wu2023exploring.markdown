@@ -7,7 +7,7 @@ year: 2023
 bibkey: wu2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.05275"}
-tags: ['Applications', 'Fine Tuning', 'GPT', 'Model Architecture', 'Security', 'Tools', 'Uncategorized']
+tags: ['Applications', 'Fine Tuning', 'GPT', 'Model Architecture', 'Security', 'Tools']
 ---
 Large language models (LLMs) have undergone rapid evolution and achieved
 remarkable results in recent times. OpenAI's ChatGPT, backed by GPT-3.5 or

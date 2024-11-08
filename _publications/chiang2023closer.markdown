@@ -7,7 +7,7 @@ year: 2023
 bibkey: chiang2023closer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05657"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 Using large language models (LLMs) to evaluate text quality has recently
 gained popularity. Some prior works explore the idea of using LLMs for

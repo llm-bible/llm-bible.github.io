@@ -8,7 +8,7 @@ bibkey: ni2024multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.16389"}
   - {name: "Code", url: "https://github.com/AI-for-Science/MoZi"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated impressive performance in
 various natural language processing (NLP) tasks. However, there is limited

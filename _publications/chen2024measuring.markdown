@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024measuring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.20180"}
-tags: ['Attention Mechanism', 'Few Shot', 'Interpretability And Explainability', 'Model Architecture', 'Uncategorized']
+tags: ['Attention Mechanism', 'Few Shot', 'Interpretability And Explainability', 'Model Architecture']
 ---
 The evaluation of large language models (LLMs) has drawn substantial
 attention in the field recently. This work focuses on evaluating LLMs in a

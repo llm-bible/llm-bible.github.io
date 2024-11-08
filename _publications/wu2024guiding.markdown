@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024guiding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.06609"}
-tags: ['Fairness', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Fairness', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 Clinical reasoning refers to the cognitive process that physicians employ in
 evaluating and managing patients. This process typically involves suggesting

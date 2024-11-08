@@ -7,7 +7,7 @@ year: 2024
 bibkey: lyu2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13887"}
-tags: ['Applications', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Applications', 'Reinforcement Learning', 'Tools']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities across
 various applications, fundamentally reshaping the landscape of natural language

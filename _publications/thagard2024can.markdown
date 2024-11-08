@@ -7,7 +7,7 @@ year: 2024
 bibkey: thagard2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.18982"}
-tags: ['GPT', 'Interpretability And Explainability', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Interpretability And Explainability', 'Model Architecture']
 ---
 Explanatory inference is the creation and evaluation of hypotheses that
 provide explanations, and is sometimes known as abduction or abductive

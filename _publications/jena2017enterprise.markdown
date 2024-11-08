@@ -7,7 +7,7 @@ year: 2017
 bibkey: jena2017enterprise
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1708.00818"}
-tags: ['Reinforcement Learning', 'Uncategorized']
+tags: ['Reinforcement Learning']
 ---
 Human interactions and human-computer interactions are strongly influenced by
 style as well as content. Adding a persona to a chatbot makes it more

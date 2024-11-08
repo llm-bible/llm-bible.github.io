@@ -8,7 +8,7 @@ bibkey: wang2024characteristic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.12368"}
   - {name: "Code", url: "https://github.com/nuaa-nlp/Character100"}
-tags: ['Agentic', 'Has Code', 'Uncategorized']
+tags: ['Agentic', 'Has Code']
 ---
 The advancement of Large Language Models (LLMs) has led to significant
 enhancements in the performance of chatbot systems. Many researchers have

@@ -7,7 +7,7 @@ year: 2024
 bibkey: joshi2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.05674"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Tools']
 ---
 Programming LLM-based knowledge and task assistants that faithfully conform
 to developer-provided policies is challenging. These agents must retrieve and

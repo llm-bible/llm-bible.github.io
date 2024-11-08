@@ -7,7 +7,7 @@ year: 2023
 bibkey: ye2023assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.14868"}
-tags: ['Prompting', 'Uncategorized']
+tags: ['Prompting']
 ---
 Large language models (LLMs) take advantage of step-by-step reasoning
 instructions, e.g., chain-of-thought (CoT) prompting. Building on this, their

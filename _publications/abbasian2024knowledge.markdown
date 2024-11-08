@@ -7,7 +7,7 @@ year: 2024
 bibkey: abbasian2024knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10153"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'RAG', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'RAG', 'Tools']
 ---
 Effective diabetes management is crucial for maintaining health in diabetic
 patients. Large Language Models (LLMs) have opened new avenues for diabetes

@@ -7,7 +7,7 @@ year: 2024
 bibkey: huff2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.05152"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Security', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Security']
 ---
 Large language models (LLMs) are demonstrating remarkable capabilities across
 various tasks despite lacking a foundation in human cognition. This raises the

@@ -7,7 +7,7 @@ year: 2022
 bibkey: bhattacharya2022team
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.04998"}
-tags: ['BERT', 'Model Architecture', 'RAG', 'Uncategorized']
+tags: ['BERT', 'Model Architecture', 'RAG']
 ---
 Eye-Tracking data is a very useful source of information to study cognition
 and especially language comprehension in humans. In this paper, we describe our

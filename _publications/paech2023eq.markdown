@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.06281"}
   - {name: "Code", url: "https://github.com/EQ-bench/EQ-Bench"}
   - {name: "Code", url: "https://eqbench.com"}
-tags: ['Has Code', 'Uncategorized']
+tags: ['Has Code']
 ---
 We introduce EQ-Bench, a novel benchmark designed to evaluate aspects of
 emotional intelligence in Large Language Models (LLMs). We assess the ability

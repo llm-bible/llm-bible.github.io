@@ -8,7 +8,7 @@ bibkey: zeng2024mr
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13975"}
   - {name: "Code", url: "https://randolph-zeng.github.io/Mr-Ben.github.io/"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have shown increasing capability in
 problem-solving and decision-making, largely based on the step-by-step

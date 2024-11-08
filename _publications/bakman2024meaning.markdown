@@ -8,7 +8,7 @@ bibkey: bakman2024meaning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11756"}
   - {name: "Code", url: "https://github.com/Ybakman/LLM_Uncertainity"}
-tags: ['Has Code', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Has Code', 'Reinforcement Learning']
 ---
 Generative Large Language Models (LLMs) are widely utilized for their
 excellence in various tasks. However, their tendency to produce inaccurate or

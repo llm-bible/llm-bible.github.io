@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01717"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 Regulatory compliance in the pharmaceutical industry entails navigating
 through complex and voluminous guidelines, often requiring significant human

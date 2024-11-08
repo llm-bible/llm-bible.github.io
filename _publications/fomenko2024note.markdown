@@ -7,7 +7,7 @@ year: 2024
 bibkey: fomenko2024note
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.05086"}
-tags: ['Fine Tuning', 'Uncategorized']
+tags: ['Fine Tuning']
 ---
 LoRA (Low-Rank Adaptation) has emerged as a preferred method for efficiently
 adapting Large Language Models (LLMs) with remarkable simplicity and efficacy.

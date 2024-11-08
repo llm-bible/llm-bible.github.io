@@ -7,7 +7,7 @@ year: 2021
 bibkey: gajbhiye2021external
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.01589"}
-tags: ['BERT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['BERT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Neural language representation models such as BERT, pre-trained on
 large-scale unstructured corpora lack explicit grounding to real-world

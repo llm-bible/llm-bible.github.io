@@ -7,7 +7,7 @@ year: 2024
 bibkey: hu2024equip
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.05135"}
-tags: ['Merging', 'Prompting', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Merging', 'Prompting', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 Diffusion models have demonstrated remarkable performance in the domain of
 text-to-image generation. However, most widely used models still employ CLIP as

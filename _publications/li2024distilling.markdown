@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024distilling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.08148"}
-tags: ['Interpretability And Explainability', 'RAG', 'Uncategorized']
+tags: ['Interpretability And Explainability', 'RAG']
 ---
 Distilling explicit chain-of-thought reasoning paths has emerged as an
 effective method for improving the reasoning abilities of large language models

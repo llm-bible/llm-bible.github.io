@@ -8,7 +8,7 @@ bibkey: li2024when
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.09129"}
   - {name: "Code", url: "https://github.com/yanhong-lbh/LLM-SelfReflection-Eval"}
-tags: ['Has Code', 'Prompting', 'Uncategorized']
+tags: ['Has Code', 'Prompting']
 ---
 Recent studies suggest that self-reflective prompting can significantly
 enhance the reasoning capabilities of Large Language Models (LLMs). However,

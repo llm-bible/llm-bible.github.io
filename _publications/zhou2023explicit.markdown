@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhou2023explicit
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.16986"}
-tags: ['Agentic', 'Fine Tuning', 'GPT', 'Model Architecture', 'Scaling Laws', 'Training Techniques', 'Uncategorized']
+tags: ['Agentic', 'Fine Tuning', 'GPT', 'Model Architecture', 'Scaling Laws', 'Training Techniques']
 ---
 Trained with an unprecedented scale of data, large language models (LLMs)
 like ChatGPT and GPT-4 exhibit the emergence of significant reasoning abilities

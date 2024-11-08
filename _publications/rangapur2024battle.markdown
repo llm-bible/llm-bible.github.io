@@ -7,7 +7,7 @@ year: 2024
 bibkey: rangapur2024battle
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.18344"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models have gained considerable interest for their impressive
 performance on various tasks. Within this domain, ChatGPT and GPT-4, developed

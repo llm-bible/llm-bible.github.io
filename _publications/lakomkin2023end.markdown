@@ -7,7 +7,7 @@ year: 2023
 bibkey: lakomkin2023end
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.10917"}
-tags: ['Attention Mechanism', 'Language Modeling', 'Model Architecture', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Language Modeling', 'Model Architecture', 'RAG', 'Training Techniques']
 ---
 In recent years, Large Language Models (LLMs) have garnered significant
 attention from the research community due to their exceptional performance and

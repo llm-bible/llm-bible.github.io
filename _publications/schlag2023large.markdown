@@ -7,7 +7,7 @@ year: 2023
 bibkey: schlag2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.05364"}
-tags: ['Reinforcement Learning', 'Uncategorized']
+tags: ['Reinforcement Learning']
 ---
 In recent years, large pre-trained language models (LLMs) have demonstrated
 the ability to follow instructions and perform novel tasks from a few examples.

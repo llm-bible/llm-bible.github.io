@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024llm
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2402.09617v1"}
-tags: ['Efficiency And Optimization', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 The extraordinary performance of large language models has not only reshaped
 the research landscape in the field of NLP but has also demonstrated its

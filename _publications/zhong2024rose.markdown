@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhong2024rose
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11889"}
-tags: ['Prompting', 'Reinforcement Learning', 'Responsible AI', 'Training Techniques', 'Uncategorized']
+tags: ['Prompting', 'Reinforcement Learning', 'Responsible AI', 'Training Techniques']
 ---
 With the development of instruction-tuned large language models (LLMs),
 improving the safety of LLMs has become more critical. However, the current

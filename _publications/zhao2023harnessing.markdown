@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhao2023harnessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.12746"}
-tags: ['RAG', 'Security', 'Training Techniques', 'Uncategorized']
+tags: ['RAG', 'Security', 'Training Techniques']
 ---
 Given the ubiquitous use of tabular data in industries and the growing
 concerns in data privacy and security, tabular data synthesis emerges as a

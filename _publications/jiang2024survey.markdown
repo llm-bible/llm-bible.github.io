@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11191"}
-tags: ['Survey Paper', 'Uncategorized']
+tags: ['Survey Paper']
 ---
 The recent surge of versatile large language models (LLMs) largely depends on
 aligning increasingly capable foundation models with human intentions by

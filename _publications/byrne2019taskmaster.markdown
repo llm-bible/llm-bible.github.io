@@ -7,7 +7,7 @@ year: 2019
 bibkey: byrne2019taskmaster
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.05358"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Model Architecture', 'Tools']
 ---
 A significant barrier to progress in data-driven approaches to building
 dialog systems is the lack of high quality, goal-oriented conversational data.

@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024style
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.11849"}
-tags: ['Applications', 'Tools', 'Uncategorized']
+tags: ['Applications', 'Tools']
 ---
 The rapid advancement of large language models (LLMs) has significantly
 propelled the development of text-based chatbots, demonstrating their

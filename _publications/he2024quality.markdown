@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024quality
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01693"}
-tags: ['BERT', 'GPT', 'Model Architecture', 'Responsible AI', 'Tools', 'Uncategorized']
+tags: ['BERT', 'GPT', 'Model Architecture', 'Responsible AI', 'Tools']
 ---
 Lab results are often confusing and hard to understand. Large language models
 (LLMs) such as ChatGPT have opened a promising avenue for patients to get their

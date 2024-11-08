@@ -7,7 +7,7 @@ year: 2024
 bibkey: arakawa2024coaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.15250"}
-tags: ['Agentic', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Agentic', 'Reinforcement Learning']
 ---
 Chatbots' role in fostering self-reflection is now widely recognized,
 especially in inducing users' behavior change. While the benefits of 24/7

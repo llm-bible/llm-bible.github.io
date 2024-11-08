@@ -8,7 +8,7 @@ bibkey: li2024fmm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.13507"}
   - {name: "Code", url: "https://github.com/THU-Kingmin/FMM-Attack"}
-tags: ['Has Code', 'Prompting', 'Responsible AI', 'Security', 'Uncategorized']
+tags: ['Has Code', 'Prompting', 'Responsible AI', 'Security']
 ---
 Despite the remarkable performance of video-based large language models
 (LLMs), their adversarial threat remains unexplored. To fill this gap, we

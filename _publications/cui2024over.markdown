@@ -7,7 +7,7 @@ year: 2024
 bibkey: cui2024over
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.20947"}
-tags: ['Prompting', 'RAG', 'Responsible AI', 'Survey Paper', 'Uncategorized']
+tags: ['Prompting', 'RAG', 'Responsible AI', 'Survey Paper']
 ---
 Large Language Models (LLMs) require careful safety alignment to prevent
 malicious outputs. While significant research focuses on mitigating harmful

@@ -7,7 +7,7 @@ year: 2024
 bibkey: song2024integrating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.05810"}
-tags: ['GPT', 'Model Architecture', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Tools']
 ---
 The integration of artificial intelligence (AI) chatbots into higher
 education marks a shift towards a new generation of pedagogical tools,

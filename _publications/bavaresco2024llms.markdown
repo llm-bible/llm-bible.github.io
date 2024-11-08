@@ -7,7 +7,7 @@ year: 2024
 bibkey: bavaresco2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.18403"}
-tags: ['Uncategorized']
+tags: []
 ---
 There is an increasing trend towards evaluating NLP models with LLM-generated
 judgments instead of human judgments. In the absence of a comparison against

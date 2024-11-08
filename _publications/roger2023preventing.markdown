@@ -7,7 +7,7 @@ year: 2023
 bibkey: roger2023preventing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.18512"}
-tags: ['Uncategorized']
+tags: []
 ---
 Large language models (LLMs) often benefit from intermediate steps of
 reasoning to generate answers to complex problems. When these intermediate

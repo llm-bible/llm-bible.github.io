@@ -7,7 +7,7 @@ year: 2024
 bibkey: singh2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.06799"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 As Large Language Models (LLMs) broaden their capabilities to manage
 thousands of API calls, they are confronted with complex data operations across

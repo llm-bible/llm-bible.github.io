@@ -7,7 +7,7 @@ year: 2023
 bibkey: he2023you
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.05596"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning']
 ---
 The spread of toxic content online is an important problem that has adverse
 effects on user experience online and in our society at large. Motivated by the

@@ -7,7 +7,7 @@ year: 2024
 bibkey: cui2024practical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.00019"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting']
 ---
 We introduce WebApp1K, a practical code-generation benchmark to measure LLM
 ability to develop web apps. This benchmark aims to calibrate LLM output and

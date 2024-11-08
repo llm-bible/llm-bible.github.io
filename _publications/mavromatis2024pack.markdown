@@ -7,7 +7,7 @@ year: 2024
 bibkey: mavromatis2024pack
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.11531"}
-tags: ['Efficiency And Optimization', 'Merging', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Merging', 'Prompting', 'RAG']
 ---
 Fusing knowledge from multiple Large Language Models (LLMs) can combine their
 diverse strengths to achieve improved performance on a given task. However,

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wachowiak2024are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.05701"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture']
 ---
 Large language models (LLMs) are increasingly used in robotics, especially
 for high-level action planning. Meanwhile, many robotics applications involve

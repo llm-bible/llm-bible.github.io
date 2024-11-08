@@ -7,7 +7,7 @@ year: 2023
 bibkey: augenstein2023factuality
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05189"}
-tags: ['Applications', 'Attention Mechanism', 'GPT', 'Model Architecture', 'Tools', 'Uncategorized']
+tags: ['Applications', 'Attention Mechanism', 'GPT', 'Model Architecture', 'Tools']
 ---
 The emergence of tools based on Large Language Models (LLMs), such as
 OpenAI's ChatGPT, Microsoft's Bing Chat, and Google's Bard, has garnered

@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023automl
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.02499"}
-tags: ['Applications', 'Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Training Techniques']
 ---
 AI tasks encompass a wide range of domains and fields. While numerous AI
 models have been designed for specific tasks and applications, they often

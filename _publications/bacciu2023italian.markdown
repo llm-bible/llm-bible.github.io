@@ -8,7 +8,7 @@ bibkey: bacciu2023italian
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.14457"}
   - {name: "Code", url: "https://github.com/RSTLess-research/Fauno-Italian-LLM"}
-tags: ['Has Code', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Has Code', 'Reinforcement Learning']
 ---
 This paper presents Fauno, the first and largest open-source Italian
 conversational Large Language Model (LLM). Our goal with Fauno is to

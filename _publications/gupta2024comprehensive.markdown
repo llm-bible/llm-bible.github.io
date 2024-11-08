@@ -8,7 +8,7 @@ bibkey: gupta2024comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.03837"}
   - {name: "Code", url: "https://github.com/walledai/walledeval"}
-tags: ['Has Code', 'Prompting', 'Reinforcement Learning', 'Responsible AI', 'Tools', 'Uncategorized']
+tags: ['Has Code', 'Prompting', 'Reinforcement Learning', 'Responsible AI', 'Tools']
 ---
 WalledEval is a comprehensive AI safety testing toolkit designed to evaluate
 large language models (LLMs). It accommodates a diverse range of models,

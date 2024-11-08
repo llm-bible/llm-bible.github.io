@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024alleviating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17811"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 Large Language Models (LLMs) sometimes suffer from producing hallucinations,
 especially LLMs may generate untruthful responses despite knowing the correct

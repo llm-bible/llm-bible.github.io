@@ -8,7 +8,7 @@ bibkey: si2023empirical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.07328"}
   - {name: "Code", url: "https://github.com/PhoebusSi/Alpaca-CoT"}
-tags: ['Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
 ---
 The success of ChatGPT validates the potential of large language models
 (LLMs) in artificial general intelligence (AGI). Subsequently, the release of

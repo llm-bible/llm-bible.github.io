@@ -8,7 +8,7 @@ bibkey: yin2024holistic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.18961"}
   - {name: "Code", url: "https://github.com/apple/axlearn/tree/main/docs/research/mmau"}
-tags: ['Agentic', 'Has Code', 'Interpretability And Explainability', 'Prompting', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Has Code', 'Interpretability And Explainability', 'Prompting', 'Reinforcement Learning', 'Tools']
 ---
 Recent advances in large language models (LLMs) have increased the demand for
 comprehensive benchmarks to evaluate their capabilities as human-like agents.

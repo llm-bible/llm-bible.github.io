@@ -7,7 +7,7 @@ year: 2023
 bibkey: alon2023detecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.14132"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Security', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Security']
 ---
 A novel hack involving Large Language Models (LLMs) has emerged, exploiting
 adversarial suffixes to deceive models into generating perilous responses. Such

@@ -8,7 +8,7 @@ bibkey: chalamalasetti2023using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.13455"}
   - {name: "Code", url: "https://github.com/clembench"}
-tags: ['Agentic', 'Has Code', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Has Code', 'Tools']
 ---
 Recent work has proposed a methodology for the systematic evaluation of
 "Situated Language Understanding Agents"-agents that operate in rich linguistic

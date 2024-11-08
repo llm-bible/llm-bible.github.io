@@ -8,7 +8,7 @@ bibkey: li2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.00755"}
   - {name: "Code", url: "https://github.com/LittleCirc1e/EIC"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 The rapid advancement of Large Language Models (LLMs) in the realm of
 mathematical reasoning necessitates comprehensive evaluations to gauge progress

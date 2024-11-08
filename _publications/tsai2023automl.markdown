@@ -7,7 +7,7 @@ year: 2023
 bibkey: tsai2023automl
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.01125"}
-tags: ['Efficiency And Optimization', 'GPT', 'Merging', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'GPT', 'Merging', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques']
 ---
 With the emerging trend of GPT models, we have established a framework called
 AutoML-GPT that integrates a comprehensive set of tools and libraries. This

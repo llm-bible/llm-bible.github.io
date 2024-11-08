@@ -7,7 +7,7 @@ year: 2017
 bibkey: yin2017information
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1707.05470"}
-tags: ['Applications', 'Attention Mechanism', 'Model Architecture', 'RAG', 'Tools', 'Uncategorized']
+tags: ['Applications', 'Attention Mechanism', 'Model Architecture', 'RAG', 'Tools']
 ---
 Information extraction and user intention identification are central topics
 in modern query understanding and recommendation systems. In this paper, we

@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024evoking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.05326"}
-tags: ['Reinforcement Learning', 'Uncategorized']
+tags: ['Reinforcement Learning']
 ---
 Aspect Sentiment Understanding (ASU) in interactive scenarios (e.g.,
 Question-Answering and Dialogue) has attracted ever-more interest in recent

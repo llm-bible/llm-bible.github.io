@@ -8,7 +8,7 @@ bibkey: zhang2023cumulative
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2308.04371v6"}
   - {name: "Code", url: "https://github.com/iiis-ai/cumulative-reasoning"}
-tags: ['Has Code', 'RAG', 'Uncategorized']
+tags: ['Has Code', 'RAG']
 ---
 Despite the recent advancements in language models (LMs), their ability to
 solve complex problems remains limited. This paper introduces Cumulative

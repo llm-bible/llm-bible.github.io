@@ -7,7 +7,7 @@ year: 2024
 bibkey: ye2024incorporating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13249"}
-tags: ['Efficiency And Optimization', 'Model Architecture', 'Prompting', 'RAG', 'Security', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Model Architecture', 'Prompting', 'RAG', 'Security', 'Tools', 'Training Techniques']
 ---
 Retrieval augmented generation (RAG) has been applied in many scenarios to
 augment large language models (LLMs) with external documents provided by

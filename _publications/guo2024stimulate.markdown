@@ -7,7 +7,7 @@ year: 2024
 bibkey: guo2024stimulate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.01923"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Tools', 'Training Techniques']
 ---
 Knowledge base question generation (KBQG) aims to generate natural language
 questions from a set of triplet facts extracted from KB. Existing methods have

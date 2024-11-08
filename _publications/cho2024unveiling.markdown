@@ -7,7 +7,7 @@ year: 2024
 bibkey: cho2024unveiling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.09717"}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Training Techniques']
 ---
 Many recent studies endeavor to improve open-source language models through
 imitation learning, and re-training on the synthetic instruction data from

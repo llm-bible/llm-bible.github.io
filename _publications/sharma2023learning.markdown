@@ -7,7 +7,7 @@ year: 2023
 bibkey: sharma2023learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.08246"}
-tags: ['Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Tools', 'Training Techniques']
 ---
 The field of Math-NLP has witnessed significant growth in recent years,
 motivated by the desire to expand LLM performance to the learning of

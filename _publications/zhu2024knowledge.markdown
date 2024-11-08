@@ -8,7 +8,7 @@ bibkey: zhu2024knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.03101"}
   - {name: "Code", url: "https://github.com/zjunlp/KnowAgent"}
-tags: ['Agentic', 'Has Code', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Agentic', 'Has Code', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have demonstrated great potential in complex
 reasoning tasks, yet they fall short when tackling more sophisticated

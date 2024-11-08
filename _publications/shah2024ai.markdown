@@ -7,7 +7,7 @@ year: 2024
 bibkey: shah2024ai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.21009"}
-tags: ['Efficiency And Optimization', 'Prompting', 'RAG', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Prompting', 'RAG', 'Tools', 'Training Techniques']
 ---
 Current LLM training positions mathematical reasoning as a core capability.
 With publicly available sources fully tapped, there is unmet demand for diverse

@@ -8,7 +8,7 @@ bibkey: wu2024mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.19167"}
   - {name: "Code", url: "https://github.com/LibroWu/SelF-Reasoner"}
-tags: ['Has Code', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Has Code', 'RAG', 'Reinforcement Learning']
 ---
 Large language models have manifested remarkable capabilities by leveraging
 chain-of-thought (CoT) reasoning techniques to solve intricate questions

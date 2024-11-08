@@ -7,7 +7,7 @@ year: 2022
 bibkey: heck2022robust
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2202.03354"}
-tags: ['Attention Mechanism', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques']
 ---
 Generalising dialogue state tracking (DST) to new data is especially
 challenging due to the strong reliance on abundant and fine-grained supervision

@@ -7,7 +7,7 @@ year: 2024
 bibkey: takase2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.16508"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 This paper empirically investigates the relationship between subword
 vocabulary size and the performance of large language models (LLMs) to provide

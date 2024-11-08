@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024stealthy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14836"}
-tags: ['Reinforcement Learning', 'Security', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Security', 'Tools', 'Training Techniques']
 ---
 Recently, the powerful large language models (LLMs) have been instrumental in
 propelling the progress of recommender systems (RS). However, while these

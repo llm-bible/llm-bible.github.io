@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024uncovering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.12038"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Responsible AI', 'Security', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Responsible AI', 'Security', 'Tools', 'Training Techniques']
 ---
 Despite careful safety alignment, current large language models (LLMs) remain
 vulnerable to various attacks. To further unveil the safety risks of LLMs, we

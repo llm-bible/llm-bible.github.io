@@ -7,7 +7,7 @@ year: 2024
 bibkey: han2024compound
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10847"}
-tags: ['Efficiency And Optimization', 'Prompting', 'Reinforcement Learning', 'Responsible AI', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 We introduce TorchOpera, a compound AI system for enhancing the safety and
 quality of prompts and responses for Large Language Models. TorchOpera ensures

@@ -7,7 +7,7 @@ year: 2024
 bibkey: cho2024pragmatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.06673"}
-tags: ['BERT', 'GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['BERT', 'GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning']
 ---
 This study investigates how Large Language Models (LLMs), particularly BERT
 (Devlin et al., 2019) and GPT-2 (Radford et al., 2019), engage in pragmatic

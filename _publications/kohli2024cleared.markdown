@@ -7,7 +7,7 @@ year: 2024
 bibkey: kohli2024cleared
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.04237"}
-tags: ['Agentic', 'Applications', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Applications', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Tools']
 ---
 The rapid progress of large language models (LLMs) has seen them excel and
 frequently surpass human performance on standard benchmarks. This has enabled

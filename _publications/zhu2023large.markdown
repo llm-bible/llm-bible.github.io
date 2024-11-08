@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhu2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.07064"}
-tags: ['Prompting', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Prompting', 'Tools', 'Training Techniques']
 ---
 When prompted with a few examples and intermediate steps, large language
 models (LLMs) have demonstrated impressive performance in various reasoning

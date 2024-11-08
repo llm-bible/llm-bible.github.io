@@ -7,7 +7,7 @@ year: 2024
 bibkey: hu2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.06105"}
-tags: ['Attention Mechanism', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Attention Mechanism', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recent studies have shown that Large Language Models (LLMs) have the
 potential to process extremely long text. Many works only evaluate LLMs'

@@ -7,7 +7,7 @@ year: 2021
 bibkey: ye2021few
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2104.08835v2"}
-tags: ['Few Shot', 'RAG', 'Uncategorized']
+tags: ['Few Shot', 'RAG']
 ---
 Humans can learn a new language task efficiently with only few examples, by
 leveraging their knowledge obtained when learning prior tasks. In this paper,

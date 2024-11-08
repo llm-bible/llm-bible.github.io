@@ -7,7 +7,7 @@ year: 2024
 bibkey: lopes2024generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.12969"}
-tags: ['Language Modeling', 'Training Techniques', 'Uncategorized']
+tags: ['Language Modeling', 'Training Techniques']
 ---
 Significant strides have been made in natural language tasks, largely
 attributed to the emergence of powerful large language models (LLMs). These

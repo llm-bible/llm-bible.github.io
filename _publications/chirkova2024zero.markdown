@@ -7,7 +7,7 @@ year: 2024
 bibkey: chirkova2024zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14778"}
-tags: ['Prompting', 'Training Techniques', 'Uncategorized']
+tags: ['Prompting', 'Training Techniques']
 ---
 Instruction tuning (IT) is widely used to teach pretrained large language
 models (LLMs) to follow arbitrary instructions, but is under-studied in

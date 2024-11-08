@@ -7,7 +7,7 @@ year: 2023
 bibkey: ivison2023camels
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.10702"}
-tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Since the release of T\"ULU [Wang et al., 2023b], open resources for
 instruction tuning have developed quickly, from better base models to new

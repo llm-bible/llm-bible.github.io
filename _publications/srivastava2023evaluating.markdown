@@ -7,7 +7,7 @@ year: 2023
 bibkey: srivastava2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.05680"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Chatbots, the common moniker for collaborative assistants, are Artificial
 Intelligence (AI) software that enables people to naturally interact with them

@@ -7,7 +7,7 @@ year: 2024
 bibkey: gu2024survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.05783"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning', 'Responsible AI', 'Survey Paper', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning', 'Responsible AI', 'Survey Paper', 'Training Techniques']
 ---
 In recent years, generative AI (GenAI), like large language models and
 text-to-image models, has received significant attention across various

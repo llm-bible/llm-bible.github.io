@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.17022"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 Large language model (LLM)-based evaluation pipelines have demonstrated their
 capability to robustly evaluate machine-generated text. Extending this

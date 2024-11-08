@@ -8,7 +8,7 @@ bibkey: ye2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.08326"}
   - {name: "Code", url: "https://github.com/Junjie-Ye/RoTBench"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Tools', 'Training Techniques']
 ---
 Tool learning has generated widespread interest as a vital means of
 interaction between Large Language Models (LLMs) and the physical world.

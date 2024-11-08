@@ -7,7 +7,7 @@ year: 2024
 bibkey: fore2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.15804"}
-tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Tools']
 ---
 In this preliminary study, we investigate a GPT-driven intent-based reasoning
 approach to streamline tool selection for large language models (LLMs) aimed at

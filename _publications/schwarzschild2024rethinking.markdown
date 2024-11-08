@@ -7,7 +7,7 @@ year: 2024
 bibkey: schwarzschild2024rethinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.15146"}
-tags: ['Prompting', 'Security', 'Training Techniques', 'Uncategorized']
+tags: ['Prompting', 'Security', 'Training Techniques']
 ---
 Large language models (LLMs) trained on web-scale datasets raise substantial
 concerns regarding permissible data usage. One major question is whether these

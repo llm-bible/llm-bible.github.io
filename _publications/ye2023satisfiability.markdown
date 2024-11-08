@@ -7,7 +7,7 @@ year: 2023
 bibkey: ye2023satisfiability
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.09656"}
-tags: ['Language Modeling', 'Prompting', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['Language Modeling', 'Prompting', 'RAG', 'Training Techniques']
 ---
 Prior work has combined chain-of-thought prompting in large language models
 (LLMs) with programmatic representations to perform effective and transparent

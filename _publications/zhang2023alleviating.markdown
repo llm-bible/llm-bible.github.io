@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023alleviating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.15710"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 Despite their impressive capabilities, large language models (LLMs) have been
 observed to generate responses that include inaccurate or fabricated

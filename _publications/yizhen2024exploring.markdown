@@ -7,7 +7,7 @@ year: 2024
 bibkey: yizhen2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.09164"}
-tags: ['Few Shot', 'GPT', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['Few Shot', 'GPT', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'RAG']
 ---
 No previous work has studied the performance of Large Language Models (LLMs)
 in the context of Traditional Chinese Medicine (TCM), an essential and distinct

@@ -8,7 +8,7 @@ bibkey: faisal2024data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.08092"}
   - {name: "Code", url: "https://github.com/ffaisal93/dialect_copa"}
-tags: ['BERT', 'Has Code', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['BERT', 'Has Code', 'Model Architecture', 'RAG', 'Reinforcement Learning']
 ---
 This report presents GMUNLP's participation to the Dialect-Copa shared task
 at VarDial 2024, which focuses on evaluating the commonsense reasoning

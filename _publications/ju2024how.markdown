@@ -8,7 +8,7 @@ bibkey: ju2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.16061"}
   - {name: "Code", url: "https://github.com/Jometeorie/probing_llama"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'RAG', 'Reinforcement Learning']
 ---
 Previous work has showcased the intriguing capability of large language
 models (LLMs) in retrieving facts and processing context knowledge. However,

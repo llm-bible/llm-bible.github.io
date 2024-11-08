@@ -7,7 +7,7 @@ year: 2024
 bibkey: lv2024unleashing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.08438"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Survey Paper', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Survey Paper']
 ---
 Cognitive dynamics are pivotal to advance human understanding of the world.
 Recent advancements in large language models (LLMs) reveal their potential for

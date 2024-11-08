@@ -7,7 +7,7 @@ year: 2024
 bibkey: barandiaran2024transforming
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.10735"}
-tags: ['Agentic', 'Attention Mechanism', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Agentic', 'Attention Mechanism', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 This paper investigates the ontological characterization of Large Language
 Models (LLMs) like ChatGPT. Between inflationary and deflationary accounts, we

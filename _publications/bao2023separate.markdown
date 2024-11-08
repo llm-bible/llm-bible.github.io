@@ -7,7 +7,7 @@ year: 2023
 bibkey: bao2023separate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.06712"}
-tags: ['Attention Mechanism', 'Merging', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Attention Mechanism', 'Merging', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Despite recent significant strides achieved by diffusion-based Text-to-Image
 (T2I) models, current systems are still less capable of ensuring decent

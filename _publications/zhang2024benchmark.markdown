@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024benchmark
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10104"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 Recent advancements in large language models (LLMs) and multi-modal models
 (MMs) have demonstrated their remarkable capabilities in problem-solving. Yet,

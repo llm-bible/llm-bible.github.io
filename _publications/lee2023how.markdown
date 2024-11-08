@@ -7,7 +7,7 @@ year: 2023
 bibkey: lee2023how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09069"}
-tags: ['Applications', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Training Techniques']
 ---
 To reduce issues like hallucinations and lack of control in Large Language
 Models (LLMs), a common method is to generate responses by grounding on

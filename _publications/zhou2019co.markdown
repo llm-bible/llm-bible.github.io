@@ -7,7 +7,7 @@ year: 2019
 bibkey: zhou2019co
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.08648"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture']
 ---
 In reading comprehension, generating sentence-level distractors is a
 significant task, which requires a deep understanding of the article and

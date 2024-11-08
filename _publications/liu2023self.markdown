@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09603"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 In a plethora of recent work, large language models (LLMs) demonstrated
 impressive reasoning ability, but many proposed downstream reasoning tasks

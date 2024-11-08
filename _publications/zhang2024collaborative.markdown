@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024collaborative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.01300"}
-tags: ['RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['RAG', 'Reinforcement Learning', 'Tools']
 ---
 Comprehensively understanding and accurately predicting the performance of
 large language models across diverse downstream tasks has emerged as a pivotal

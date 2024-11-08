@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024unveiling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.19740"}
-tags: ['GPT', 'Model Architecture', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Tools']
 ---
 Expert-designed close-ended benchmarks serve as vital tools in assessing the
 knowledge capacity of large language models (LLMs). Despite their widespread

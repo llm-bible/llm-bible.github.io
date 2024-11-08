@@ -7,7 +7,7 @@ year: 2024
 bibkey: bolton2024framework
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.14578"}
-tags: ['Applications', 'Prompting', 'Reinforcement Learning', 'Security', 'Tools', 'Uncategorized']
+tags: ['Applications', 'Prompting', 'Reinforcement Learning', 'Security', 'Tools']
 ---
 Large Language Models (LLMs) increasingly support applications in a wide
 range of domains, some with potential high societal impact such as biomedicine,

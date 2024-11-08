@@ -7,7 +7,7 @@ year: 2024
 bibkey: sonkar2024regressive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.15156"}
-tags: ['Fine Tuning', 'Training Techniques', 'Uncategorized']
+tags: ['Fine Tuning', 'Training Techniques']
 ---
 This paper presents a novel exploration into the regressive side effects of
 training Large Language Models (LLMs) to mimic student misconceptions for

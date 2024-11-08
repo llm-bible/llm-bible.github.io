@@ -7,7 +7,7 @@ year: 2024
 bibkey: cho2024kv
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.05329"}
-tags: ['Attention Mechanism', 'Large Scale Training', 'Model Architecture', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['Attention Mechanism', 'Large Scale Training', 'Model Architecture', 'Prompting', 'RAG']
 ---
 Large Language Model or LLM inference has two phases, the prompt (or prefill)
 phase to output the first token and the extension (or decoding) phase to the

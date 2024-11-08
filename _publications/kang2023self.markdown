@@ -7,7 +7,7 @@ year: 2023
 bibkey: kang2023self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.00160"}
-tags: ['RAG', 'Training Techniques', 'Uncategorized']
+tags: ['RAG', 'Training Techniques']
 ---
 Recent works have demonstrated the effectiveness of self-alignment in which a
 large language model is aligned to follow general instructions using

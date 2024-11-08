@@ -7,7 +7,7 @@ year: 2023
 bibkey: tang2023chain
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2306.00550v1"}
-tags: ['Prompting', 'Uncategorized']
+tags: ['Prompting']
 ---
 Recently, Large Language Models (LLMs) have demonstrated remarkable
 capabilities. Chain-of-Thought (CoT) has been proposed as a way of assisting

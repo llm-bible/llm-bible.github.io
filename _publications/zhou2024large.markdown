@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhou2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.00869"}
-tags: ['Responsible AI', 'Security', 'Uncategorized']
+tags: ['Responsible AI', 'Security']
 ---
 We find that language models have difficulties generating fallacious and
 deceptive reasoning. When asked to generate deceptive outputs, language models

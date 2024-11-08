@@ -8,7 +8,7 @@ bibkey: huang2023recommender
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2308.16505v3"}
   - {name: "Code", url: "https://aka.ms/recagent"}
-tags: ['Agentic', 'Has Code', 'Interpretability And Explainability', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Has Code', 'Interpretability And Explainability', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 Recommender models excel at providing domain-specific item recommendations by
 leveraging extensive user behavior data. Despite their ability to act as

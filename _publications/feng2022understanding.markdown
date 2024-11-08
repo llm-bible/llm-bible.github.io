@@ -7,7 +7,7 @@ year: 2022
 bibkey: feng2022understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.03696"}
-tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Security', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Security']
 ---
 In this paper, we make the first attempt to understand and test potential
 computation efficiency robustness in state-of-the-art LLMs. By analyzing the

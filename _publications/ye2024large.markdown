@@ -8,7 +8,7 @@ bibkey: ye2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01145"}
   - {name: "Code", url: "https://github.com/ai4co/LLM-as-HH"}
-tags: ['Efficiency And Optimization', 'Has Code', 'Merging', 'RAG', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Has Code', 'Merging', 'RAG']
 ---
 The omnipresence of NP-hard combinatorial optimization problems (COPs)
 compels domain experts to engage in trial-and-error heuristic design. The

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024finetuning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.07739"}
-tags: ['Tools', 'Uncategorized']
+tags: ['Tools']
 ---
 Large language models (LLMs) struggle to consistently generate UI code that
 compiles and produces visually relevant designs. Existing approaches to improve

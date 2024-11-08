@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.09363"}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Training Techniques']
 ---
 Scoring rules evaluate probabilistic forecasts of an unknown state against
 the realized state and are a fundamental building block in the incentivized

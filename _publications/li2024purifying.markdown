@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024purifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14845"}
-tags: ['Merging', 'Training Techniques', 'Uncategorized']
+tags: ['Merging', 'Training Techniques']
 ---
 The emerging success of large language models (LLMs) heavily relies on
 collecting abundant training data from external (untrusted) sources. Despite

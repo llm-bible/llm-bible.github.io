@@ -7,7 +7,7 @@ year: 2024
 bibkey: mordechai2024generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.10626"}
-tags: ['Tools', 'Uncategorized']
+tags: ['Tools']
 ---
 Current Text-to-Code models demonstrate impressive capabilities in generating
 executable code from natural language snippets. However, current studies focus

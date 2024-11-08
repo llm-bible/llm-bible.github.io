@@ -7,7 +7,7 @@ year: 2024
 bibkey: do2024facilitating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.20434"}
-tags: ['Uncategorized']
+tags: []
 ---
 While humans increasingly rely on large language models (LLMs), they are
 susceptible to generating inaccurate or false information, also known as

@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024relating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.17963"}
-tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 Large language models (LLMs) have demonstrated impressive versatility across
 numerous tasks, yet their generalization capabilities remain poorly understood.

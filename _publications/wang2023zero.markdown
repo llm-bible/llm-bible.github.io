@@ -8,7 +8,7 @@ bibkey: wang2023zero
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2304.03153v1"}
   - {name: "Code", url: "https://github.com/AGI-Edgerunners/LLM-Next-Item-Rec"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large language models (LLMs) have achieved impressive zero-shot performance
 in various natural language processing (NLP) tasks, demonstrating their

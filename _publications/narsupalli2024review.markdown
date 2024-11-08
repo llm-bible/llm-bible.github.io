@@ -7,7 +7,7 @@ year: 2024
 bibkey: narsupalli2024review
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12877"}
-tags: ['Agentic', 'Fine Tuning', 'GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Survey Paper', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Fine Tuning', 'GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Survey Paper', 'Tools']
 ---
 Assessing the quality of Natural Language Generation (NLG) outputs, such as
 those produced by large language models (LLMs), poses significant challenges.

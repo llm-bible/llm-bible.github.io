@@ -7,7 +7,7 @@ year: 2018
 bibkey: shekhar2018beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1809.03408"}
-tags: ['Model Architecture', 'RAG', 'Uncategorized']
+tags: ['Model Architecture', 'RAG']
 ---
 We propose a grounded dialogue state encoder which addresses a foundational
 issue on how to integrate visual grounding with dialogue system components. As

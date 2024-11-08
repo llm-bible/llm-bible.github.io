@@ -8,7 +8,7 @@ bibkey: naeini2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.11167"}
   - {name: "Code", url: "https://github.com/TaatiTeam/OCW"}
-tags: ['Has Code', 'Merging', 'RAG', 'Uncategorized']
+tags: ['Has Code', 'Merging', 'RAG']
 ---
 The quest for human imitative AI has been an enduring topic in AI research
 since its inception. The technical evolution and emerging capabilities of the

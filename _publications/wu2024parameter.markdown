@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024parameter
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.02731"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) have demonstrated considerable proficiency in
 general natural language processing (NLP) tasks. Instruction tuning, a

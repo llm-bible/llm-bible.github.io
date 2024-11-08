@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024red
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.16667"}
-tags: ['Agentic', 'Applications', 'Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Responsible AI', 'Security', 'Uncategorized']
+tags: ['Agentic', 'Applications', 'Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Responsible AI', 'Security']
 ---
 Recently, advanced Large Language Models (LLMs) such as GPT-4 have been
 integrated into many real-world applications like Code Copilot. These

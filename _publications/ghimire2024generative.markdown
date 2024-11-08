@@ -7,7 +7,7 @@ year: 2024
 bibkey: ghimire2024generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.15586"}
-tags: ['Survey Paper', 'Tools', 'Uncategorized']
+tags: ['Survey Paper', 'Tools']
 ---
 The rapid advancement of artificial intelligence (AI) and the expanding
 integration of large language models (LLMs) have ignited a debate about their

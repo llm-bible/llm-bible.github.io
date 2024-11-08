@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03007"}
-tags: ['Applications', 'Fine Tuning', 'Prompting', 'Reinforcement Learning', 'Security', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Fine Tuning', 'Prompting', 'Reinforcement Learning', 'Security', 'Tools', 'Training Techniques']
 ---
 Tool learning methods have enhanced the ability of large language models
 (LLMs) to interact with real-world applications. Many existing works fine-tune

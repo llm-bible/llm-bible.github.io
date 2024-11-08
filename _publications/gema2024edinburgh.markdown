@@ -7,7 +7,7 @@ year: 2024
 bibkey: gema2024edinburgh
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.18028"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 The MEDIQA-CORR 2024 shared task aims to assess the ability of Large Language
 Models (LLMs) to identify and correct medical errors in clinical notes. In this

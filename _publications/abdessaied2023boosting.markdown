@@ -7,7 +7,7 @@ year: 2023
 bibkey: abdessaied2023boosting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.16590"}
-tags: ['Attention Mechanism', 'BERT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Attention Mechanism', 'BERT', 'Model Architecture', 'Reinforcement Learning']
 ---
 We propose \\(\mathbb\{VD\}\\)-\\(\mathbb\{GR\}\\) - a novel visual dialog model that
 combines pre-trained language models (LMs) with graph neural networks (GNNs).

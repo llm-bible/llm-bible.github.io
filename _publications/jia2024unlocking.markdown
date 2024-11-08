@@ -8,7 +8,7 @@ bibkey: jia2024unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.18239"}
   - {name: "Code", url: "https://github.com/OPTML-Group/SOUL"}
-tags: ['Efficiency And Optimization', 'Has Code', 'Tools', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Has Code', 'Tools']
 ---
 Large Language Models (LLMs) have highlighted the necessity of effective
 unlearning mechanisms to comply with data regulations and ethical AI practices.

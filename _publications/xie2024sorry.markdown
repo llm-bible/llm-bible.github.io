@@ -7,7 +7,7 @@ year: 2024
 bibkey: xie2024sorry
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14598"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Responsible AI', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 Evaluating aligned large language models' (LLMs) ability to recognize and
 reject unsafe user requests is crucial for safe, policy-compliant deployments.

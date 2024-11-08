@@ -7,7 +7,7 @@ year: 2024
 bibkey: khandelwal2024do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.02135"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 This paper explores the moral judgment and moral reasoning abilities
 exhibited by Large Language Models (LLMs) across languages through the Defining

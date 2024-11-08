@@ -7,7 +7,7 @@ year: 2021
 bibkey: wen2021variable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.03229"}
-tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Model Architecture', 'RAG', 'Uncategorized']
+tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Model Architecture', 'RAG']
 ---
 Existing models on Machine Reading Comprehension (MRC) require complex model
 architecture for effectively modeling long texts with paragraph representation

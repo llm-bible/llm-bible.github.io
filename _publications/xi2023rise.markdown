@@ -8,7 +8,7 @@ bibkey: xi2023rise
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2309.07864v3"}
   - {name: "Code", url: "https://github.com/WooooDyy/LLM-Agent-Paper-List"}
-tags: ['Agentic', 'Applications', 'Has Code', 'RAG', 'Survey Paper', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Agentic', 'Applications', 'Has Code', 'RAG', 'Survey Paper', 'Tools', 'Training Techniques']
 ---
 For a long time, humanity has pursued artificial intelligence (AI) equivalent
 to or surpassing the human level, with AI agents considered a promising vehicle

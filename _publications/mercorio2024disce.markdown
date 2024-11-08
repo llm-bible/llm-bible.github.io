@@ -7,7 +7,7 @@ year: 2024
 bibkey: mercorio2024disce
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.17535"}
-tags: ['Applications', 'Uncategorized']
+tags: ['Applications']
 ---
 Recent advancements in Large Language Models (LLMs) have significantly
 enhanced their ability to generate and manipulate human language, highlighting

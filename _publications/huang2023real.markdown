@@ -7,7 +7,7 @@ year: 2023
 bibkey: huang2023real
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.17838"}
-tags: ['Security', 'Uncategorized']
+tags: ['Security']
 ---
 We introduce a novel method for real-time animation control and generation on
 rigged models using natural language input. First, we embed a large language

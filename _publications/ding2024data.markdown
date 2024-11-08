@@ -7,7 +7,7 @@ year: 2024
 bibkey: ding2024data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.02990"}
-tags: ['Fine Tuning', 'Reinforcement Learning', 'Survey Paper', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Fine Tuning', 'Reinforcement Learning', 'Survey Paper', 'Tools', 'Training Techniques']
 ---
 In the rapidly evolving field of large language models (LLMs), data
 augmentation (DA) has emerged as a pivotal technique for enhancing model

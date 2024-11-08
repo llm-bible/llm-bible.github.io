@@ -7,7 +7,7 @@ year: 2023
 bibkey: cao2023automated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.00259"}
-tags: ['Applications', 'Uncategorized']
+tags: ['Applications']
 ---
 While Large language models (LLMs) have garnered widespread applications
 across various domains due to their powerful language understanding and

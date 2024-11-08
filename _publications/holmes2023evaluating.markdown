@@ -7,7 +7,7 @@ year: 2023
 bibkey: holmes2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.01938"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG']
 ---
 We present the first study to investigate Large Language Models (LLMs) in
 answering radiation oncology physics questions. Because popular exams like AP

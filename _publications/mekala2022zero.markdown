@@ -7,7 +7,7 @@ year: 2022
 bibkey: mekala2022zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.10815"}
-tags: ['Prompting', 'RAG', 'Uncategorized']
+tags: ['Prompting', 'RAG']
 ---
 We explore the use of large language models (LLMs) for zero-shot semantic
 parsing. Semantic parsing involves mapping natural language utterances to

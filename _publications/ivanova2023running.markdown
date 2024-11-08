@@ -7,7 +7,7 @@ year: 2023
 bibkey: ivanova2023running
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.01276"}
-tags: ['Prompting', 'Tools', 'Uncategorized']
+tags: ['Prompting', 'Tools']
 ---
 In this paper, I describe methodological considerations for studies that aim
 to evaluate the cognitive capacities of large language models (LLMs) using

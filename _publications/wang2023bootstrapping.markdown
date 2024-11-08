@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023bootstrapping
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.00916"}
-tags: ['Prompting', 'Training Techniques', 'Uncategorized']
+tags: ['Prompting', 'Training Techniques']
 ---
 The emergence of large language models (LLMs) has sparked significant
 interest in extending their remarkable language capabilities to speech.

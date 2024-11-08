@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024benchmark
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.02962"}
-tags: ['RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['RAG', 'Reinforcement Learning']
 ---
 Tabular data, as a crucial form of data representation, exists in diverse
 formats on the Web. When confronted with complex and irregular tables, manual

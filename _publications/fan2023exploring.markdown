@@ -7,7 +7,7 @@ year: 2023
 bibkey: fan2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15317"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting']
 ---
 In this paper, we explore the application of large language models (LLMs) for
 generating code-tracing questions in introductory programming courses. We

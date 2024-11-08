@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.00059"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 The complexity of large language model (LLM) serving workloads has
 substantially increased due to the integration with external tool invocations,

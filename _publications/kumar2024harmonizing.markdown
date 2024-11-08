@@ -7,7 +7,7 @@ year: 2024
 bibkey: kumar2024harmonizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.12995"}
-tags: ['Attention Mechanism', 'Merging', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Attention Mechanism', 'Merging', 'Model Architecture', 'Reinforcement Learning']
 ---
 Code-mixing, the blending of multiple languages within a single conversation,
 introduces a distinctive challenge, particularly in the context of response

@@ -10,7 +10,7 @@ additional_links:
   - {name: "Code", url: "https://github.com/agiresearch/CoRE,"}
   - {name: "Code", url: "https://github.com/agiresearch/OpenAGI,"}
   - {name: "Code", url: "https://github.com/agiresearch/AIOS"}
-tags: ['Agentic', 'Has Code', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Has Code', 'Tools']
 ---
 Since their inception, programming languages have trended towards greater
 readability and lower barriers for programmers. Following this trend, natural

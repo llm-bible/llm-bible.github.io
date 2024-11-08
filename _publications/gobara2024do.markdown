@@ -7,7 +7,7 @@ year: 2024
 bibkey: gobara2024do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14453"}
-tags: ['Fine Tuning', 'Uncategorized']
+tags: ['Fine Tuning']
 ---
 Education that suits the individual learning level is necessary to improve
 students' understanding. The first step in achieving this purpose by using

@@ -7,7 +7,7 @@ year: 2023
 bibkey: sun2023prompting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14564"}
-tags: ['Few Shot', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Few Shot', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 Strategies such as chain-of-thought prompting improve the performance of
 large language models (LLMs) on complex reasoning tasks by decomposing input

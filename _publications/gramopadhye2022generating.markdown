@@ -8,7 +8,7 @@ bibkey: gramopadhye2022generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.04964"}
   - {name: "Code", url: "https://github.com/hri-ironlab/scene_aware_language_planner"}
-tags: ['Agentic', 'Has Code', 'Uncategorized']
+tags: ['Agentic', 'Has Code']
 ---
 Large Language Models (LLMs) trained using massive text datasets have
 recently shown promise in generating action plans for robotic agents from high

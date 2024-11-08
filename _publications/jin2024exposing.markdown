@@ -7,7 +7,7 @@ year: 2024
 bibkey: jin2024exposing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01706"}
-tags: ['Efficiency And Optimization', 'Prompting', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Prompting', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large Language Model (LLM) alignment aims to ensure that LLM outputs match
 with human values. Researchers have demonstrated the severity of alignment

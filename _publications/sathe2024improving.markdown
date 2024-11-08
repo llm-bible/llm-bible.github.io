@@ -7,7 +7,7 @@ year: 2024
 bibkey: sathe2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03678"}
-tags: ['RAG', 'Tokenization', 'Training Techniques', 'Uncategorized']
+tags: ['RAG', 'Tokenization', 'Training Techniques']
 ---
 Prior research has demonstrated noticeable performance gains through the use
 of probabilistic tokenizations, an approach that involves employing multiple

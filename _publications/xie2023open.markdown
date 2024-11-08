@@ -7,7 +7,7 @@ year: 2023
 bibkey: xie2023open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.10634"}
-tags: ['Agentic', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 Language agents show potential in being capable of utilizing natural language
 for varied and intricate tasks in diverse environments, particularly when built

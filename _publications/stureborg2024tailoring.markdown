@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.10861"}
   - {name: "Code", url: "https://github.com/rickardstureborg/tailor-cgo"}
   - {name: "Code", url: "https://huggingface.co/datasets/DukeNLP/tailor-cgo"}
-tags: ['BERT', 'GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['BERT', 'GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
 ---
 One way to personalize chatbot interactions is by establishing common ground
 with the intended reader. A domain where establishing mutual understanding

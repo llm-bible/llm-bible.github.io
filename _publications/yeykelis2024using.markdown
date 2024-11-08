@@ -8,7 +8,7 @@ bibkey: yeykelis2024using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.16073"}
   - {name: "Code", url: "https://viewpoints.ai/),"}
-tags: ['Has Code', 'Prompting', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Has Code', 'Prompting', 'Reinforcement Learning', 'Tools']
 ---
 This report analyzes the potential for large language models (LLMs) to
 expedite accurate replication of published message effects studies. We tested

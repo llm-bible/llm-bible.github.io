@@ -7,7 +7,7 @@ year: 2024
 bibkey: pan2024attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.04992"}
-tags: ['Attention Mechanism', 'Model Architecture', 'RAG', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'RAG']
 ---
 The widespread of Large Language Models (LLMs) marks a significant milestone
 in generative AI. Nevertheless, the increasing context length and batch size in

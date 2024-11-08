@@ -7,7 +7,7 @@ year: 2024
 bibkey: masala2024recipe
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.18266"}
-tags: ['RAG', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 In recent years, Large Language Models (LLMs) have achieved almost human-like
 performance on various tasks. While some LLMs have been trained on multilingual

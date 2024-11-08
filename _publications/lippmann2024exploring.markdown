@@ -7,7 +7,7 @@ year: 2024
 bibkey: lippmann2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.17860"}
-tags: ['Security', 'Training Techniques', 'Uncategorized']
+tags: ['Security', 'Training Techniques']
 ---
 Natural Language Processing (NLP) models optimized for predictive performance
 often make high confidence errors and suffer from vulnerability to adversarial

@@ -7,7 +7,7 @@ year: 2024
 bibkey: yerukola2024is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.08760"}
-tags: ['RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['RAG', 'Reinforcement Learning']
 ---
 Humans often express their communicative intents indirectly or non-literally,
 which requires their interlocutors -- human or AI -- to understand beyond the

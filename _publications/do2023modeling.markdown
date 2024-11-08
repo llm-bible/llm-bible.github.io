@@ -7,7 +7,7 @@ year: 2023
 bibkey: do2023modeling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.03088"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 Conversational Question Generation (CQG) is a critical task for machines to
 assist humans in fulfilling their information needs through conversations. The

@@ -8,7 +8,7 @@ bibkey: robey2023defending
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.03684"}
   - {name: "Code", url: "https://github.com/arobey1/smooth-llm"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Security', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Security']
 ---
 Despite efforts to align large language models (LLMs) with human intentions,
 widely-used LLMs such as GPT, Llama, and Claude are susceptible to jailbreaking

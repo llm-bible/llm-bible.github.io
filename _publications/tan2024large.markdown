@@ -7,7 +7,7 @@ year: 2024
 bibkey: tan2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13446"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Survey Paper', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Survey Paper', 'Training Techniques']
 ---
 Data annotation generally refers to the labeling or generating of raw data
 with relevant information, which could be used for improving the efficacy of

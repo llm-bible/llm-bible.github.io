@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024transferring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.19597"}
-tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Uncategorized']
+tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques']
 ---
 The implications of backdoor attacks on English-centric large language models
 (LLMs) have been widely examined - such attacks can be achieved by embedding

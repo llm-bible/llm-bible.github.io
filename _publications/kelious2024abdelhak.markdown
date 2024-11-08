@@ -7,7 +7,7 @@ year: 2024
 bibkey: kelious2024abdelhak
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.00809"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 This study introduces a dedicated model aimed at solving the BRAINTEASER task
 9 , a novel challenge designed to assess models lateral thinking capabilities

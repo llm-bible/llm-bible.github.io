@@ -8,7 +8,7 @@ bibkey: xu2024faithful
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.18357"}
   - {name: "Code", url: "https://github.com/Aiden0526/SymbCoT"}
-tags: ['Efficiency And Optimization', 'Has Code', 'Prompting', 'Tools', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Has Code', 'Prompting', 'Tools']
 ---
 While the recent Chain-of-Thought (CoT) technique enhances the reasoning
 ability of large language models (LLMs) with the theory of mind, it might still

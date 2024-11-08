@@ -8,7 +8,7 @@ bibkey: yang2024aqa
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.09404"}
   - {name: "Code", url: "https://github.com/UCSC-VLAA/AQA-Bench"}
-tags: ['Few Shot', 'GPT', 'Has Code', 'Model Architecture', 'Uncategorized']
+tags: ['Few Shot', 'GPT', 'Has Code', 'Model Architecture']
 ---
 This paper introduces AQA-Bench, a novel benchmark to assess the sequential
 reasoning capabilities of large language models (LLMs) in algorithmic contexts,

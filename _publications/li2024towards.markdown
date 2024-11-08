@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.18915"}
-tags: ['Uncategorized']
+tags: []
 ---
 Large language models (LLMs) suffer from serious unfaithful chain-of-thought
 (CoT) issues. Previous work attempts to measure and explain it but lacks

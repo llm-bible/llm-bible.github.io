@@ -7,7 +7,7 @@ year: 2024
 bibkey: song2024code
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13013"}
-tags: ['Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 The programming skill is one crucial ability for Large Language Models
 (LLMs), necessitating a deep understanding of programming languages (PLs) and

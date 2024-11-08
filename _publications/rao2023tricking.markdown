@@ -7,7 +7,7 @@ year: 2023
 bibkey: rao2023tricking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14965"}
-tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'Prompting', 'Security', 'Survey Paper', 'Uncategorized']
+tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'Prompting', 'Security', 'Survey Paper']
 ---
 Recent explorations with commercial Large Language Models (LLMs) have shown
 that non-expert users can jailbreak LLMs by simply manipulating their prompts;

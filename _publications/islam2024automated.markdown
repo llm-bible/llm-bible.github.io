@@ -7,7 +7,7 @@ year: 2024
 bibkey: islam2024automated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.05346"}
-tags: ['Agentic', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Tools']
 ---
 Data-driven storytelling is a powerful method for conveying insights by
 combining narrative techniques with visualizations and text. These stories

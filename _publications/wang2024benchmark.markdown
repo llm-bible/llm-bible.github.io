@@ -8,7 +8,7 @@ bibkey: wang2024benchmark
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11443"}
   - {name: "Code", url: "https://github.com/NanshineLoong/Self-Evolving-Benchmark)"}
-tags: ['Agentic', 'Has Code', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Has Code', 'Tools']
 ---
 This paper presents a benchmark self-evolving framework to dynamically
 evaluate rapidly advancing Large Language Models (LLMs), aiming for a more

@@ -7,7 +7,7 @@ year: 2021
 bibkey: winata2021language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.07684"}
-tags: ['Few Shot', 'GPT', 'Model Architecture', 'Uncategorized']
+tags: ['Few Shot', 'GPT', 'Model Architecture']
 ---
 General-purpose language models have demonstrated impressive capabilities,
 performing on par with state-of-the-art approaches on a range of downstream

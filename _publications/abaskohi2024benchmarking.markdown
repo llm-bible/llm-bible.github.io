@@ -7,7 +7,7 @@ year: 2024
 bibkey: abaskohi2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.02403"}
-tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 This paper explores the efficacy of large language models (LLMs) for Persian.
 While ChatGPT and consequent LLMs have shown remarkable performance in English,

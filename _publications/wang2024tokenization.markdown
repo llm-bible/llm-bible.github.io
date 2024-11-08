@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024tokenization
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.17067"}
-tags: ['GPT', 'Model Architecture', 'Security', 'Tokenization', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Security', 'Tokenization']
 ---
 Large Language Models (LLMs) have shown remarkable capabilities in language
 understanding and generation. Nonetheless, it was also witnessed that LLMs tend

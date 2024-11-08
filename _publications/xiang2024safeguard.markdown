@@ -7,7 +7,7 @@ year: 2024
 bibkey: xiang2024safeguard
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.09187"}
-tags: ['Agentic', 'Applications', 'Responsible AI', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Agentic', 'Applications', 'Responsible AI', 'Tools', 'Training Techniques']
 ---
 The rapid advancement of large language models (LLMs) has catalyzed the
 deployment of LLM-powered agents across numerous applications, raising new

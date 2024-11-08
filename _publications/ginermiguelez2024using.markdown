@@ -7,7 +7,7 @@ year: 2024
 bibkey: ginermiguelez2024using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.15320"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting']
 ---
 Recent regulatory initiatives like the European AI Act and relevant voices in
 the Machine Learning (ML) community stress the need to describe datasets along

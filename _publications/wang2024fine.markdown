@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.15631"}
-tags: ['Prompting', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Prompting', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 This work studies improving large language model (LLM) generations at
 inference time by mitigating fact-conflicting hallucinations. Particularly, we

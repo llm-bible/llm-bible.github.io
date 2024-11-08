@@ -7,7 +7,7 @@ year: 2024
 bibkey: lacava2024open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.07115"}
-tags: ['Agentic', 'Prompting', 'Uncategorized']
+tags: ['Agentic', 'Prompting']
 ---
 The emergence of unveiling human-like behaviors in Large Language Models
 (LLMs) has led to a closer connection between NLP and human psychology.

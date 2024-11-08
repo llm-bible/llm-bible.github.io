@@ -7,7 +7,7 @@ year: 2024
 bibkey: ahn2024recursive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.02648"}
-tags: ['Prompting', 'Uncategorized']
+tags: ['Prompting']
 ---
 Large Language Models (LLMs) frequently struggle with complex reasoning
 tasks, failing to construct logically sound steps towards the solution. In

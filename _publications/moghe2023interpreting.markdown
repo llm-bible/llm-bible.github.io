@@ -7,7 +7,7 @@ year: 2023
 bibkey: moghe2023interpreting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09796"}
-tags: ['Prompting', 'Tools', 'Uncategorized']
+tags: ['Prompting', 'Tools']
 ---
 Users of natural language interfaces, generally powered by Large Language
 Models (LLMs),often must repeat their preferences each time they make a similar

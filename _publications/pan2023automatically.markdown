@@ -7,7 +7,7 @@ year: 2023
 bibkey: pan2023automatically
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.03188"}
-tags: ['Applications', 'Merging', 'Prompting', 'RAG', 'Survey Paper', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Merging', 'Prompting', 'RAG', 'Survey Paper', 'Training Techniques']
 ---
 Large language models (LLMs) have demonstrated remarkable performance across
 a wide array of NLP tasks. However, their efficacy is undermined by undesired

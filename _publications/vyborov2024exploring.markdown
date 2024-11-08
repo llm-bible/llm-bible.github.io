@@ -7,7 +7,7 @@ year: 2024
 bibkey: vyborov2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.08582"}
-tags: ['Fine Tuning', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['Fine Tuning', 'Prompting', 'RAG']
 ---
 There are various methods for adapting LLMs to different domains. The most
 common methods are prompting, finetuning, and RAG. In this work, we explore the

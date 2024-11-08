@@ -7,7 +7,7 @@ year: 2024
 bibkey: sarkar2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.16577"}
-tags: ['Model Architecture', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Model Architecture', 'Tools', 'Training Techniques']
 ---
 Large Language Models (LLMs) have demonstrated remarkable language
 understanding and generation capabilities. However, training, deploying, and

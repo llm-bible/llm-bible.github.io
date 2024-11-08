@@ -7,7 +7,7 @@ year: 2023
 bibkey: depaoli2023writing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.18099"}
-tags: ['GPT', 'Model Architecture', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Tools']
 ---
 The goal of this paper is establishing if we can satisfactorily perform a
 Thematic Analysis (TA) of semi-structured interviews using a Large Language

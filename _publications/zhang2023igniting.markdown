@@ -8,7 +8,7 @@ bibkey: zhang2023igniting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.11797"}
   - {name: "Code", url: "https://github.com/Zoeyyao27/CoT-Igniting-Agent"}
-tags: ['Agentic', 'Efficiency And Optimization', 'Fine Tuning', 'Has Code', 'Interpretability And Explainability', 'RAG', 'Responsible AI', 'Survey Paper', 'Uncategorized']
+tags: ['Agentic', 'Efficiency And Optimization', 'Fine Tuning', 'Has Code', 'Interpretability And Explainability', 'RAG', 'Responsible AI', 'Survey Paper']
 ---
 Large language models (LLMs) have dramatically enhanced the field of language
 intelligence, as demonstrably evidenced by their formidable empirical

@@ -7,7 +7,7 @@ year: 2023
 bibkey: asher2023limits
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.12213"}
-tags: ['Uncategorized']
+tags: []
 ---
 With the advent of large language models (LLMs), the trend in NLP has been to
 train LLMs on vast amounts of data to solve diverse language understanding and

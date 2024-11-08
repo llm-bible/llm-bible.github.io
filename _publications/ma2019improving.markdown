@@ -7,7 +7,7 @@ year: 2019
 bibkey: ma2019improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1912.00879"}
-tags: ['Merging', 'RAG', 'Uncategorized']
+tags: ['Merging', 'RAG']
 ---
 Taking an answer and its context as input, sequence-to-sequence models have
 made considerable progress on question generation. However, we observe that

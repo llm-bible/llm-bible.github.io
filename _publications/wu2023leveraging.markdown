@@ -7,7 +7,7 @@ year: 2023
 bibkey: wu2023leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.16639"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 Problematic smartphone use negatively affects physical and mental health.
 Despite the wide range of prior research, existing persuasive techniques are

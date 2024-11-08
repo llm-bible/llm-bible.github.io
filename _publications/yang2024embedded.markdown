@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024embedded
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.08189"}
-tags: ['Attention Mechanism', 'BERT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Attention Mechanism', 'BERT', 'Model Architecture', 'RAG', 'Reinforcement Learning']
 ---
 We investigate automatic interlinear glossing in low-resource settings. We
 augment a hard-attentional neural model with embedded translation information

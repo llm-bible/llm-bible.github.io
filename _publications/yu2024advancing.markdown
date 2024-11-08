@@ -7,7 +7,7 @@ year: 2024
 bibkey: yu2024advancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.09391"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG', 'Training Techniques']
 ---
 Chemistry plays a crucial role in many domains, such as drug discovery and
 material science. While large language models (LLMs) such as GPT-4 exhibit

@@ -7,7 +7,7 @@ year: 2024
 bibkey: oh2024does
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00352"}
-tags: ['Reinforcement Learning', 'Uncategorized']
+tags: ['Reinforcement Learning']
 ---
 Large Language Models (LLMs) have shown remarkable progress, but their
 real-world application necessitates reliable calibration. This study conducts a

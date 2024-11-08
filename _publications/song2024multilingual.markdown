@@ -7,7 +7,7 @@ year: 2024
 bibkey: song2024multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.07342"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Responsible AI', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Responsible AI']
 ---
 As safety remains a crucial concern throughout the development lifecycle of
 Large Language Models (LLMs), researchers and industrial practitioners have

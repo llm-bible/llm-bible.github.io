@@ -7,7 +7,7 @@ year: 2023
 bibkey: bowman2023eight
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.00612"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Survey Paper', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Survey Paper']
 ---
 The widespread public deployment of large language models (LLMs) in recent
 months has prompted a wave of new attention and engagement from advocates,

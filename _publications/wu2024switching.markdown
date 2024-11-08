@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024switching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.11780"}
-tags: ['Applications', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have exhibited impressive capabilities in
 various domains, particularly in general language understanding. However these

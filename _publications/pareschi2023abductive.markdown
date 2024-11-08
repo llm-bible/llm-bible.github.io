@@ -7,7 +7,7 @@ year: 2023
 bibkey: pareschi2023abductive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.10250"}
-tags: ['Applications', 'GPT', 'Interpretability And Explainability', 'Model Architecture', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Interpretability And Explainability', 'Model Architecture']
 ---
 This study evaluates the GPT-4 Large Language Model's abductive reasoning in
 complex fields like medical diagnostics, criminology, and cosmology. Using an

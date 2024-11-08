@@ -8,7 +8,7 @@ bibkey: lei2023aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.10947"}
   - {name: "Code", url: "https://github.com/microsoft/RecAI"}
-tags: ['Fine Tuning', 'Has Code', 'Interpretability And Explainability', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Fine Tuning', 'Has Code', 'Interpretability And Explainability', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Recommender systems are widely used in online services, with embedding-based
 models being particularly popular due to their expressiveness in representing

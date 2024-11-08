@@ -7,7 +7,7 @@ year: 2024
 bibkey: madge2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.08392"}
-tags: ['Agentic', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Reinforcement Learning', 'Tools']
 ---
 In this work we examine the use of Large Language Models (LLMs) in the
 challenging setting of acting as a Minecraft agent. We apply and evaluate LLMs

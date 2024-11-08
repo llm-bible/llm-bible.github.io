@@ -7,7 +7,7 @@ year: 2023
 bibkey: suzuki2023from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.03412"}
-tags: ['Fine Tuning', 'Uncategorized']
+tags: ['Fine Tuning']
 ---
 Instruction tuning is essential for large language models (LLMs) to become
 interactive. While many instruction tuning datasets exist in English, there is

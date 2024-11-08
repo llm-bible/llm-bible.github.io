@@ -7,7 +7,7 @@ year: 2023
 bibkey: kim2023interactive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.13633"}
-tags: ['Applications', 'Prompting', 'Uncategorized']
+tags: ['Applications', 'Prompting']
 ---
 By simply composing prompts, developers can prototype novel generative
 applications with Large Language Models (LLMs). To refine prototypes into

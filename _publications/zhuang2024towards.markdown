@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhuang2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.16671"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG']
 ---
 Structured data sources, such as tables, graphs, and databases, are
 ubiquitous knowledge sources. Despite the demonstrated capabilities of large

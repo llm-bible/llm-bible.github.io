@@ -7,7 +7,7 @@ year: 2023
 bibkey: yuan2023evolving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.17257"}
-tags: ['GPT', 'Model Architecture', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Tools']
 ---
 With the rapid development of large language models, AI assistants like
 ChatGPT have widely entered people's works and lives. In this paper, we present

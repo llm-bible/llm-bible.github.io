@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024simulating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.09682"}
-tags: ['Applications', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['Applications', 'Prompting', 'RAG']
 ---
 Prevailing large language models (LLMs) are capable of human responses
 simulation through its unprecedented content generation and reasoning

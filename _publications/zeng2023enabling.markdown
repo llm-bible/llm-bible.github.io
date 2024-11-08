@@ -8,7 +8,7 @@ bibkey: zeng2023enabling
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2310.12823v2"}
   - {name: "Code", url: "https://github.com/THUDM/AgentTuning,"}
-tags: ['Agentic', 'Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Agentic', 'Fine Tuning', 'GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Open large language models (LLMs) with great performance in various tasks
 have significantly advanced the development of LLMs. However, they are far

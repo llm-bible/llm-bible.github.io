@@ -7,7 +7,7 @@ year: 2023
 bibkey: nitze2023future
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.06160"}
-tags: ['Efficiency And Optimization', 'Uncategorized']
+tags: ['Efficiency And Optimization']
 ---
 This study explores the impact of Large Language Models (LLMs) in higher
 education, focusing on an automated oral examination simulation using a

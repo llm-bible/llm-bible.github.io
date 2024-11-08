@@ -7,7 +7,7 @@ year: 2024
 bibkey: wei2024opdai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.12913"}
-tags: ['Few Shot', 'GPT', 'Model Architecture', 'Prompting', 'Training Techniques', 'Uncategorized']
+tags: ['Few Shot', 'GPT', 'Model Architecture', 'Prompting', 'Training Techniques']
 ---
 This paper mainly describes a unified system for hallucination detection of
 LLMs, which wins the second prize in the model-agnostic track of the

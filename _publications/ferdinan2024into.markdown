@@ -7,7 +7,7 @@ year: 2024
 bibkey: ferdinan2024into
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.09147"}
-tags: ['Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Tools', 'Training Techniques']
 ---
 We address the main problem of self-learning LLM: the question of what to
 learn. We propose a self-learning LLM framework that enables an LLM to

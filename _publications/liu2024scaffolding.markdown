@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024scaffolding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.03429"}
-tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 Intelligent tutoring systems (ITSs) that imitate human tutors and aim to
 provide immediate and customized instructions or feedback to learners have

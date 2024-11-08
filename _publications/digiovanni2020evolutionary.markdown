@@ -7,7 +7,7 @@ year: 2020
 bibkey: digiovanni2020evolutionary
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.05736"}
-tags: ['BERT', 'Model Architecture', 'Security', 'Training Techniques', 'Uncategorized']
+tags: ['BERT', 'Model Architecture', 'Security', 'Training Techniques']
 ---
 Large pre-trained language representation models (LMs) have recently
 collected a huge number of successes in many NLP tasks.

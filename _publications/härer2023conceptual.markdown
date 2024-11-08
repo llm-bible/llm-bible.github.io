@@ -7,7 +7,7 @@ year: 2023
 bibkey: härer2023conceptual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.07605"}
-tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 Large Language Models (LLMs) recently demonstrated capabilities for
 generating source code in common programming languages. Additionally,

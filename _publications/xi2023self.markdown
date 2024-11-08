@@ -8,7 +8,7 @@ bibkey: xi2023self
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.14497v2"}
   - {name: "Code", url: "https://github.com/WooooDyy/Self-Polish"}
-tags: ['Has Code', 'Prompting', 'Reinforcement Learning', 'Security', 'Uncategorized']
+tags: ['Has Code', 'Prompting', 'Reinforcement Learning', 'Security']
 ---
 To enhance the multi-step reasoning capabilities of large language models,
 researchers have extensively explored prompting methods, notably the

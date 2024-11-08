@@ -7,7 +7,7 @@ year: 2024
 bibkey: ziche2024case
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.17478"}
-tags: ['RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['RAG', 'Reinforcement Learning']
 ---
 We investigate the potential of using Large Language Models (LLM) to support
 process model creation in organizational contexts. Specifically, we carry out a

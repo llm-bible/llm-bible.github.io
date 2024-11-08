@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024superclue
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.11819"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 We introduce SuperCLUE-Math6(SC-Math6), a new benchmark dataset to evaluate
 the mathematical reasoning abilities of Chinese language models. SC-Math6 is

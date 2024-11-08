@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024probing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.03301"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG', 'Training Techniques']
 ---
 Scalar adjectives pertain to various domain scales and vary in intensity
 within each scale (e.g. certain is more intense than likely on the likelihood

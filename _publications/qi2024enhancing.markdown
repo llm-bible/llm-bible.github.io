@@ -7,7 +7,7 @@ year: 2024
 bibkey: qi2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.16586"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recent advancements in natural language processing, particularly with large
 language models (LLMs) like GPT-4, have significantly enhanced dialogue

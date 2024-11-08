@@ -7,7 +7,7 @@ year: 2024
 bibkey: thaker2024guardrail
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.03329"}
-tags: ['Prompting', 'Uncategorized']
+tags: ['Prompting']
 ---
 Recent work has demonstrated that finetuning is a promising approach to
 'unlearn' concepts from large language models. However, finetuning can be

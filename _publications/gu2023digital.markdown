@@ -7,7 +7,7 @@ year: 2023
 bibkey: gu2023digital
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09613"}
-tags: ['Interpretability And Explainability', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Interpretability And Explainability', 'Reinforcement Learning', 'Tools']
 ---
 While LLMs can provide reasoned explanations along with their answers, the
 nature and quality of those explanations are still poorly understood. In

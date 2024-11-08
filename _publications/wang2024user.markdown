@@ -8,7 +8,7 @@ bibkey: wang2024user
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.13940"}
   - {name: "Code", url: "https://github.com/Alice1998/URS"}
-tags: ['Applications', 'Has Code', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Applications', 'Has Code', 'Reinforcement Learning', 'Tools']
 ---
 Large Language Models (LLMs) are essential tools to collaborate with users on
 different tasks. Evaluating their performance to serve users' needs in

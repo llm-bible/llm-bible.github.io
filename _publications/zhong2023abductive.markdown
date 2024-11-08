@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhong2023abductive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.11107"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 Large language models (LLMs) such as ChatGPT have recently demonstrated
 significant potential in mathematical abilities, providing valuable reasoning

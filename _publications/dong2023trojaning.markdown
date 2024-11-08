@@ -7,7 +7,7 @@ year: 2023
 bibkey: dong2023trojaning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.00374"}
-tags: ['Agentic', 'Attention Mechanism', 'Merging', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Security', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Agentic', 'Attention Mechanism', 'Merging', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Security', 'Tools', 'Training Techniques']
 ---
 Open-source Large Language Models (LLMs) have recently gained popularity
 because of their comparable performance to proprietary LLMs. To efficiently

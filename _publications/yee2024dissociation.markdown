@@ -7,7 +7,7 @@ year: 2024
 bibkey: yee2024dissociation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.15092"}
-tags: ['Interpretability And Explainability', 'Uncategorized']
+tags: ['Interpretability And Explainability']
 ---
 Large language models (LLMs) often improve their performance in downstream
 tasks when they generate Chain of Thought reasoning text before producing an

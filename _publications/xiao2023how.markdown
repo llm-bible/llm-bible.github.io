@@ -7,7 +7,7 @@ year: 2023
 bibkey: xiao2023how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.17115"}
-tags: ['Reinforcement Learning', 'Security', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Security']
 ---
 In recent years, AI has demonstrated remarkable capabilities in simulating
 human behaviors, particularly those implemented with large language models

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024boosting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.08785"}
-tags: ['GPT', 'Model Architecture', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Tools']
 ---
 Do current large language models (LLMs) better solve graph reasoning and
 generation tasks with parameter updates? In this paper, we propose

@@ -7,7 +7,7 @@ year: 2023
 bibkey: huang2023survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.05232"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning', 'Survey Paper', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning', 'Survey Paper']
 ---
 The emergence of large language models (LLMs) has marked a significant
 breakthrough in natural language processing (NLP), leading to remarkable

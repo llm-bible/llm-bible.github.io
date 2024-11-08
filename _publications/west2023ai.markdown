@@ -7,7 +7,7 @@ year: 2023
 bibkey: west2023ai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.01067"}
-tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Prompting', 'Tools', 'Uncategorized']
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Prompting', 'Tools']
 ---
 ChatGPT is a groundbreaking ``chatbot"--an AI interface built on a large
 language model that was trained on an enormous corpus of human text to emulate

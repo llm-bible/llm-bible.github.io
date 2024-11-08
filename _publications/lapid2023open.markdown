@@ -7,7 +7,7 @@ year: 2023
 bibkey: lapid2023open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.01446"}
-tags: ['Ethics And Bias', 'Model Architecture', 'Prompting', 'Responsible AI', 'Security', 'Uncategorized']
+tags: ['Ethics And Bias', 'Model Architecture', 'Prompting', 'Responsible AI', 'Security']
 ---
 Large language models (LLMs), designed to provide helpful and safe responses,
 often rely on alignment techniques to align with user intent and social

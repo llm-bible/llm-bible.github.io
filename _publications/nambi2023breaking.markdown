@@ -7,7 +7,7 @@ year: 2023
 bibkey: nambi2023breaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.17740"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting']
 ---
 Large language models (LLMs) are at the forefront of transforming numerous
 domains globally. However, their inclusivity and effectiveness remain limited

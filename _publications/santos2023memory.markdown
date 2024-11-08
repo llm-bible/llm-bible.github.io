@@ -7,7 +7,7 @@ year: 2023
 bibkey: santos2023memory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.10768"}
-tags: ['Uncategorized']
+tags: []
 ---
 Scaling up the number of parameters of language models has proven to be an
 effective approach to improve performance. For dense models, increasing model

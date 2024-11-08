@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024character
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.12138"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 Can Large Language Models substitute humans in making important decisions?
 Recent research has unveiled the potential of LLMs to role-play assigned

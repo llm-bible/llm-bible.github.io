@@ -7,7 +7,7 @@ year: 2023
 bibkey: sodani2023llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.11688"}
-tags: ['Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 While large language models (LLMs) have demonstrated impressive performance
 in question-answering tasks, their performance is limited when the questions

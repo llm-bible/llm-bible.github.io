@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024getting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13816"}
-tags: ['Fine Tuning', 'Interpretability And Explainability', 'RAG', 'Uncategorized']
+tags: ['Fine Tuning', 'Interpretability And Explainability', 'RAG']
 ---
 Recently, Large Language Models (LLMs) have shown impressive language
 capabilities. While most of the existing LLMs have very unbalanced performance

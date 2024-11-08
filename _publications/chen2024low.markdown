@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024low
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14319"}
-tags: ['Prompting', 'RAG', 'Tools', 'Uncategorized']
+tags: ['Prompting', 'RAG', 'Tools']
 ---
 In this paper, we introduce a novel low-latency inference framework for large
 language models (LLMs) inference which enables LLMs to perform inferences with

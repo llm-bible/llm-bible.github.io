@@ -7,7 +7,7 @@ year: 2023
 bibkey: imani2023comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.13230"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Tools']
 ---
 In this paper, we introduce DiversiGATE, a unified framework that
 consolidates diverse methodologies for LLM verification. The proposed framework

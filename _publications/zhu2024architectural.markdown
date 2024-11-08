@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024architectural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.09205"}
-tags: ['Uncategorized']
+tags: []
 ---
 The development of a large language model (LLM) infrastructure is a pivotal
 undertaking in artificial intelligence. This paper explores the intricate

@@ -7,7 +7,7 @@ year: 2019
 bibkey: qiu2019generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.03401"}
-tags: ['Reinforcement Learning', 'Uncategorized']
+tags: ['Reinforcement Learning']
 ---
 The neural seq2seq based question generation (QG) is prone to generating
 generic and undiversified questions that are poorly relevant to the given

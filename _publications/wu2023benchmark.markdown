@@ -7,7 +7,7 @@ year: 2023
 bibkey: wu2023benchmark
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.01557"}
-tags: ['Agentic', 'Uncategorized']
+tags: ['Agentic']
 ---
 Recent large language models (LLMs) have demonstrated great potential toward
 intelligent agents and next-gen automation, but there currently lacks a

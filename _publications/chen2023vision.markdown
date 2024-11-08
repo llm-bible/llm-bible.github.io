@@ -8,7 +8,7 @@ bibkey: chen2023vision
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.15820"}
   - {name: "Code", url: "https://github.com/WebVLN/WebVLN"}
-tags: ['Agentic', 'Attention Mechanism', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Agentic', 'Attention Mechanism', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
 ---
 Vision-and-Language Navigation (VLN) task aims to enable AI agents to
 accurately understand and follow natural language instructions to navigate

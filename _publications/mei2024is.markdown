@@ -7,7 +7,7 @@ year: 2024
 bibkey: mei2024is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11668"}
-tags: ['Prompting', 'Responsible AI', 'Tools', 'Uncategorized']
+tags: ['Prompting', 'Responsible AI', 'Tools']
 ---
 "Jailbreak" is a major safety concern of Large Language Models (LLMs), which
 occurs when malicious prompts lead LLMs to produce harmful outputs, raising

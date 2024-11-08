@@ -7,7 +7,7 @@ year: 2023
 bibkey: levinstein2023still
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.00175"}
-tags: ['Uncategorized']
+tags: []
 ---
 We consider the questions of whether or not large language models (LLMs) have
 beliefs, and, if they do, how we might measure them. First, we evaluate two

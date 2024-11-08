@@ -7,7 +7,7 @@ year: 2024
 bibkey: ghanim2024jailbreaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.18725"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Responsible AI', 'Security', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Responsible AI', 'Security', 'Tools', 'Training Techniques']
 ---
 This study identifies the potential vulnerabilities of Large Language Models
 (LLMs) to 'jailbreak' attacks, specifically focusing on the Arabic language and

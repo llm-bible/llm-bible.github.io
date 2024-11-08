@@ -7,7 +7,7 @@ year: 2023
 bibkey: sharma2023performance
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.00112"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Tools']
 ---
 Artificial intelligence is gaining traction in more ways than ever before.
 The popularity of language models and AI-based businesses has soared since

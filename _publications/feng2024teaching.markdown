@@ -7,7 +7,7 @@ year: 2024
 bibkey: feng2024teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.15948"}
-tags: ['Language Modeling', 'Uncategorized']
+tags: ['Language Modeling']
 ---
 Multilingual LLMs often have knowledge disparities across languages, with
 larger gaps in under-resourced languages. Teaching LLMs to abstain in the face

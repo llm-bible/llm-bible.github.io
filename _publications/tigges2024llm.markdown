@@ -7,7 +7,7 @@ year: 2024
 bibkey: tigges2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.10827"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Most currently deployed large language models (LLMs) undergo continuous
 training or additional finetuning. By contrast, most research into LLMs'

@@ -7,7 +7,7 @@ year: 2022
 bibkey: sarsa2022automatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.11861"}
-tags: ['Interpretability And Explainability', 'Tools', 'Uncategorized']
+tags: ['Interpretability And Explainability', 'Tools']
 ---
 This article explores the natural language generation capabilities of large
 language models with application to the production of two types of learning

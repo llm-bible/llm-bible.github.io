@@ -7,7 +7,7 @@ year: 2023
 bibkey: chakraborty2023empirical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.06592"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting']
 ---
 ChatGPT has recently emerged as a powerful tool for performing diverse NLP
 tasks. However, ChatGPT has been criticized for generating nonfactual

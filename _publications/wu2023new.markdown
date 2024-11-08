@@ -7,7 +7,7 @@ year: 2023
 bibkey: wu2023new
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.03293"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 Large Language Models (LLMs), such as ChatGPT, have recently been applied to
 various NLP tasks due to its open-domain generation capabilities. However,

@@ -7,7 +7,7 @@ year: 2022
 bibkey: trott2022do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.01515"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Humans can attribute beliefs to others. However, it is unknown to what extent
 this ability results from an innate biological endowment or from experience

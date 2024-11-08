@@ -7,7 +7,7 @@ year: 2024
 bibkey: gao2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.08937"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Tools']
 ---
 To improve the performance of large language models (LLMs), researchers have
 explored providing LLMs with textual task-solving experience via prompts.

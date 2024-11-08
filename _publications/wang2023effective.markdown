@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023effective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.01415"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 At the beginning era of large language model, it is quite critical to
 generate a high-quality financial dataset to fine-tune a large language model

@@ -8,7 +8,7 @@ bibkey: lin2023open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.04026"}
   - {name: "Code", url: "https://agentsims.com"}
-tags: ['Agentic', 'GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Agentic', 'GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
 ---
 With ChatGPT-like large language models (LLM) prevailing in the community,
 how to evaluate the ability of LLMs is an open question. Existing evaluation

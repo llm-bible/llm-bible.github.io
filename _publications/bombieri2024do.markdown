@@ -7,7 +7,7 @@ year: 2024
 bibkey: bombieri2024do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.14931"}
-tags: ['Model Architecture', 'Prompting', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Model Architecture', 'Prompting', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large language models (LLMs) have recently revolutionized automated text
 understanding and generation. The performance of these models relies on the

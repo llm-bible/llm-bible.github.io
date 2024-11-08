@@ -8,7 +8,7 @@ bibkey: hu2024reference
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.14486"}
   - {name: "Code", url: "https://github.com/amazon-science/RefChecker"}
-tags: ['Applications', 'Has Code', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Applications', 'Has Code', 'Reinforcement Learning', 'Tools']
 ---
 Large Language Models (LLMs) have shown impressive capabilities but also a
 concerning tendency to hallucinate. This paper presents RefChecker, a framework

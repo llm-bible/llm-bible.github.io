@@ -8,7 +8,7 @@ bibkey: zhang2024intention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.06561"}
   - {name: "Code", url: "https://github.com/alphadl/SafeLLM_with_IntentionAnalysis"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Responsible AI', 'Security', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Responsible AI', 'Security']
 ---
 Aligning large language models (LLMs) with human values, particularly in the
 face of complex and stealthy jailbreak attacks, presents a formidable

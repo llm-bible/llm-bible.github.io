@@ -7,7 +7,7 @@ year: 2023
 bibkey: sainz2023annotation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.03668"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 Large Language Models (LLMs) combined with instruction tuning have made
 significant progress when generalizing to unseen tasks. However, they have been

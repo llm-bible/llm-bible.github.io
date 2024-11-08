@@ -7,7 +7,7 @@ year: 2022
 bibkey: mckee2022chatbots
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.11126"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Security', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Security', 'Tools']
 ---
 Question-and-answer formats provide a novel experimental platform for
 investigating cybersecurity questions. Unlike previous chatbots, the latest

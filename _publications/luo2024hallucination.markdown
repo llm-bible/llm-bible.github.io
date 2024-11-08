@@ -7,7 +7,7 @@ year: 2024
 bibkey: luo2024hallucination
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.08358"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Survey Paper', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Survey Paper']
 ---
 Large language models (LLMs), including ChatGPT, Bard, and Llama, have
 achieved remarkable successes over the last two years in a range of different

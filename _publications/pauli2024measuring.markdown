@@ -7,7 +7,7 @@ year: 2024
 bibkey: pauli2024measuring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.17753"}
-tags: ['Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Prompting', 'Reinforcement Learning']
 ---
 We are exposed to much information trying to influence us, such as teaser
 messages, debates, politically framed news, and propaganda - all of which use

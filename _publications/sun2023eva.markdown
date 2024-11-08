@@ -8,7 +8,7 @@ bibkey: sun2023eva
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.15389"}
   - {name: "Code", url: "https://github.com/baaivision/EVA/tree/master/EVA-CLIP"}
-tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Has Code', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Has Code', 'Model Architecture', 'Training Techniques']
 ---
 Contrastive language-image pre-training, CLIP for short, has gained
 increasing attention for its potential in various scenarios. In this paper, we

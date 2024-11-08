@@ -7,7 +7,7 @@ year: 2023
 bibkey: sprague2023testing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.16049"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 While large language models (LLMs) equipped with techniques like
 chain-of-thought prompting have demonstrated impressive capabilities, they

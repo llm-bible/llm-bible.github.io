@@ -7,7 +7,7 @@ year: 2023
 bibkey: jacob2023emergent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.10903"}
-tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'Tools', 'Uncategorized']
+tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'Tools']
 ---
 The rapid proliferation of ChatGPT has incited debates regarding its impact
 on human writing. Amid concerns about declining writing standards, this study

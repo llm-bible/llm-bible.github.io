@@ -7,7 +7,7 @@ year: 2024
 bibkey: cao2024retaining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02376"}
-tags: ['RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['RAG', 'Reinforcement Learning']
 ---
 The growing popularity of Large Language Models has sparked interest in
 context compression for Large Language Models (LLMs). However, the performance

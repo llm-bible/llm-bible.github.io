@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024unlearning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.09179"}
-tags: ['Efficiency And Optimization', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 The compelling goal of eradicating undesirable data behaviors, while
 preserving usual model functioning, underscores the significance of machine

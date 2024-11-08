@@ -8,7 +8,7 @@ bibkey: wang2023plan
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2302.01560v3"}
   - {name: "Code", url: "https://github.com/CraftJarvis/MC-Planner"}
-tags: ['Agentic', 'Fine Tuning', 'Has Code', 'Interpretability And Explainability', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Agentic', 'Fine Tuning', 'Has Code', 'Interpretability And Explainability', 'Reinforcement Learning']
 ---
 We investigate the challenge of task planning for multi-task embodied agents
 in open-world environments. Two main difficulties are identified: 1) executing

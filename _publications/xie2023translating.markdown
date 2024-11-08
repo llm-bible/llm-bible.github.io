@@ -7,7 +7,7 @@ year: 2023
 bibkey: xie2023translating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.05128"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG']
 ---
 Recent large language models (LLMs) have demonstrated remarkable performance
 on a variety of natural language processing (NLP) tasks, leading to intense

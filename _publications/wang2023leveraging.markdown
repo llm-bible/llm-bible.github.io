@@ -8,7 +8,7 @@ bibkey: wang2023leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.05269"}
   - {name: "Code", url: "https://github.com/Agentic-Learning-AI-Lab/lifelong-memory"}
-tags: ['Agentic', 'Has Code', 'Interpretability And Explainability', 'RAG', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Has Code', 'Interpretability And Explainability', 'RAG', 'Tools']
 ---
 In this paper we introduce LifelongMemory, a new framework for accessing
 long-form egocentric videographic memory through natural language question

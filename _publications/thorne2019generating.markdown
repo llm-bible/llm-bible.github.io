@@ -7,7 +7,7 @@ year: 2019
 bibkey: thorne2019generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1904.10717"}
-tags: ['Attention Mechanism', 'Interpretability And Explainability', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Interpretability And Explainability', 'Model Architecture', 'Training Techniques']
 ---
 The task of Natural Language Inference (NLI) is widely modeled as supervised
 sentence pair classification. While there has been a lot of work recently on

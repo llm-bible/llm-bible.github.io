@@ -8,7 +8,7 @@ bibkey: akter2023look
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.11444"}
   - {name: "Code", url: "https://github.com/neulab/gemini-benchmark"}
-tags: ['Agentic', 'Fine Tuning', 'GPT', 'Has Code', 'Interpretability And Explainability', 'Model Architecture', 'Uncategorized']
+tags: ['Agentic', 'Fine Tuning', 'GPT', 'Has Code', 'Interpretability And Explainability', 'Model Architecture']
 ---
 The recently released Google Gemini class of models are the first to
 comprehensively report results that rival the OpenAI GPT series across a wide

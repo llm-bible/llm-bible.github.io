@@ -7,7 +7,7 @@ year: 2024
 bibkey: xia2024selecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.04333"}
-tags: ['Applications', 'Few Shot', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Few Shot', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Instruction tuning has unlocked powerful capabilities in large language
 models (LLMs), effectively using combined datasets to develop generalpurpose

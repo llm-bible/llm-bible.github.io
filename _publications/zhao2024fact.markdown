@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024fact
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17124"}
-tags: ['Prompting', 'Uncategorized']
+tags: ['Prompting']
 ---
 For a LLM to be trustworthy, its confidence level should be well-calibrated
 with its actual performance. While it is now common sense that LLM performances

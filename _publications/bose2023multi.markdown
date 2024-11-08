@@ -7,7 +7,7 @@ year: 2023
 bibkey: bose2023multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.09251"}
-tags: ['Prompting', 'RAG', 'Uncategorized']
+tags: ['Prompting', 'RAG']
 ---
 Large-scale foundation models, such as CLIP, have demonstrated impressive
 zero-shot generalization performance on downstream tasks, leveraging

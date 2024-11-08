@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00557"}
-tags: ['Efficiency And Optimization', 'Prompting', 'RAG', 'Reinforcement Learning', 'TACL', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Prompting', 'RAG', 'Reinforcement Learning', 'TACL', 'Tools', 'Training Techniques']
 ---
 Equipped with the capability to call functions, modern large language models
 (LLMs) can leverage external tools for addressing a range of tasks unattainable

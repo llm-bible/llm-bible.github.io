@@ -7,7 +7,7 @@ year: 2022
 bibkey: setzler2022recursive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2201.11766"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 Compositional generalization is a troubling blind spot for neural language
 models. Recent efforts have presented techniques for improving a model's

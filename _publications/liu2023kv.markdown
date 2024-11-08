@@ -8,7 +8,7 @@ bibkey: liu2023kv
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.07240"}
   - {name: "Code", url: "https://github.com/UChi-JCL/CacheGen"}
-tags: ['Has Code', 'RAG', 'Uncategorized']
+tags: ['Has Code', 'RAG']
 ---
 As large language models (LLMs) take on complex tasks, their inputs are
 supplemented with longer contexts that incorporate domain knowledge. Yet using

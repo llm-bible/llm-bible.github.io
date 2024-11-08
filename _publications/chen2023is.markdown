@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.04333"}
-tags: ['Reinforcement Learning', 'Uncategorized']
+tags: ['Reinforcement Learning']
 ---
 This paper presents an in-depth analysis of Large Language Models (LLMs),
 focusing on LLaMA, a prominent open-source foundational model in natural

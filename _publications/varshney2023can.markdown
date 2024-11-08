@@ -8,7 +8,7 @@ bibkey: varshney2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.12096"}
   - {name: "Code", url: "https://github.com/nrjvarshney/break_the_common_assumptions"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Pre-training on large corpora of text enables the language models to acquire
 a vast amount of factual and commonsense knowledge which allows them to achieve

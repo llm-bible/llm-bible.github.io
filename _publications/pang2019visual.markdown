@@ -7,7 +7,7 @@ year: 2019
 bibkey: pang2019visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.07928"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
 ---
 GuessWhat?! is a visual dialogue task between a guesser and an oracle. The
 guesser aims to locate an object supposed by the oracle oneself in an image by

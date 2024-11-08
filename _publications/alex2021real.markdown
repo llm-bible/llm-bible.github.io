@@ -7,7 +7,7 @@ year: 2021
 bibkey: alex2021real
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.14076"}
-tags: ['Few Shot', 'GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Few Shot', 'GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning']
 ---
 Large pre-trained language models have shown promise for few-shot learning,
 completing text-based tasks given only a few task-specific examples. Will

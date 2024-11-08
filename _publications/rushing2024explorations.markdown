@@ -7,7 +7,7 @@ year: 2024
 bibkey: rushing2024explorations
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.15390"}
-tags: ['Attention Mechanism', 'Fine Tuning', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Fine Tuning', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'Tools', 'Training Techniques']
 ---
 Prior interpretability research studying narrow distributions has
 preliminarily identified self-repair, a phenomena where if components in large

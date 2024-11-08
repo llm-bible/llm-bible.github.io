@@ -7,7 +7,7 @@ year: 2024
 bibkey: ulmer2024calibrating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.05973"}
-tags: ['Applications', 'Responsible AI', 'Uncategorized']
+tags: ['Applications', 'Responsible AI']
 ---
 As large language models (LLMs) are increasingly deployed in user-facing
 applications, building trust and maintaining safety by accurately quantifying a

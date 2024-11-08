@@ -7,7 +7,7 @@ year: 2024
 bibkey: scaria2024automated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.04394"}
-tags: ['Prompting', 'Uncategorized']
+tags: ['Prompting']
 ---
 Developing questions that are pedagogically sound, relevant, and promote
 learning is a challenging and time-consuming task for educators. Modern-day

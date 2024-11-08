@@ -7,7 +7,7 @@ year: 2023
 bibkey: leivada2023sentence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.00109"}
-tags: ['Applications', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Applications', 'Reinforcement Learning', 'Tools']
 ---
 Modern Artificial Intelligence applications show great potential for
 language-related tasks that rely on next-word prediction. The current

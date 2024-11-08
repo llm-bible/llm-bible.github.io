@@ -8,7 +8,7 @@ bibkey: louie2024roleplay
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.00870"}
   - {name: "Code", url: "https://roleplay-doh.github.io/"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning']
 ---
 Recent works leverage LLMs to roleplay realistic social scenarios, aiding
 novices in practicing their social skills. However, simulating sensitive

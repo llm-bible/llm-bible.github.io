@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.02788"}
-tags: ['Applications', 'Attention Mechanism', 'Interpretability And Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Attention Mechanism', 'Interpretability And Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 While exploring visual scenes, humans' scanpaths are driven by their
 underlying attention processes. Understanding visual scanpaths is essential for

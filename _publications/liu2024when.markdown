@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024when
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.06816"}
-tags: ['GPT', 'Model Architecture', 'Survey Paper', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Survey Paper']
 ---
 ChatGPT has been evidenced to enhance human performance in creative tasks.
 Yet, it is still unclear if this boosting effect sustains with and without

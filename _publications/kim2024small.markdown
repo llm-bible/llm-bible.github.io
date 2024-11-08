@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024small
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.00376"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Security', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG', 'Security']
 ---
 While recent advancements in commercial large language models (LM) have shown
 promising results in medical tasks, their closed-source nature poses

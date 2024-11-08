@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.13066"}
-tags: ['RAG', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['RAG', 'Tools', 'Training Techniques']
 ---
 Simulated Patients (SPs) play a crucial role in clinical medical education by
 providing realistic scenarios for student practice. However, the high cost of

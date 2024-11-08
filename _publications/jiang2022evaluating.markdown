@@ -7,7 +7,7 @@ year: 2022
 bibkey: jiang2022evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.07550"}
-tags: ['Prompting', 'RAG', 'Uncategorized']
+tags: ['Prompting', 'RAG']
 ---
 Standardized and quantified evaluation of machine behaviors is a crux of
 understanding LLMs. In this study, we draw inspiration from psychometric

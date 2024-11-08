@@ -7,7 +7,7 @@ year: 2024
 bibkey: ning2024peer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01830"}
-tags: ['Efficiency And Optimization', 'Survey Paper', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Survey Paper']
 ---
 Existing large language models (LLMs) evaluation methods typically focus on
 testing the performance on some closed-environment and domain-specific

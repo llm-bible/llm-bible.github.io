@@ -7,7 +7,7 @@ year: 2023
 bibkey: larsen2023creating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.12203"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Tools']
 ---
 The proliferation of Large Language Models (LLMs), such as ChatGPT, has
 raised concerns about their potential impact on academic integrity, prompting

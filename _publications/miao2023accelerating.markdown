@@ -8,7 +8,7 @@ bibkey: miao2023accelerating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.09781"}
   - {name: "Code", url: "https://github.com/flexflow/FlexFlow/"}
-tags: ['Has Code', 'RAG', 'Uncategorized']
+tags: ['Has Code', 'RAG']
 ---
 This paper introduces SpecInfer, a system that accelerates generative large
 language model (LLM) serving with tree-based speculative inference and

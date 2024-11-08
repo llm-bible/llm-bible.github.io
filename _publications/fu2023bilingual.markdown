@@ -7,7 +7,7 @@ year: 2023
 bibkey: fu2023bilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.01940"}
-tags: ['Applications', 'Attention Mechanism', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'Attention Mechanism', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 With the emergence of Large Language Models (LLMs), there has been a
 significant improvement in the programming capabilities of models, attracting

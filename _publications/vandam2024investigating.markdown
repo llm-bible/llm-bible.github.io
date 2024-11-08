@@ -8,7 +8,7 @@ bibkey: vandam2024investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.15185"}
   - {name: "Code", url: "https://github.com/AISE-TUDelft/HaskellCCEval)"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Language model-based code completion models have quickly grown in use,
 helping thousands of developers write code in many different programming

@@ -7,7 +7,7 @@ year: 2024
 bibkey: liao2024look
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.15764"}
-tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting']
 ---
 Large language models (LLMs) still grapple with complex tasks like
 mathematical reasoning. Despite significant efforts invested in improving

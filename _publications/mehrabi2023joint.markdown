@@ -7,7 +7,7 @@ year: 2023
 bibkey: mehrabi2023joint
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09473"}
-tags: ['Applications', 'Attention Mechanism', 'Model Architecture', 'Prompting', 'RAG', 'Responsible AI', 'Security', 'Tools', 'Uncategorized']
+tags: ['Applications', 'Attention Mechanism', 'Model Architecture', 'Prompting', 'RAG', 'Responsible AI', 'Security', 'Tools']
 ---
 With the recent surge of language models in different applications, attention
 to safety and robustness of these models has gained significant importance.

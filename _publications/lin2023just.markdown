@@ -7,7 +7,7 @@ year: 2023
 bibkey: lin2023just
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.08154"}
-tags: ['Efficiency And Optimization', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Prompting', 'RAG']
 ---
 Although chain-of-thought (CoT) prompting combined with language models has
 achieved encouraging results on complex reasoning tasks, the naive greedy

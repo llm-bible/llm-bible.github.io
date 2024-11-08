@@ -7,7 +7,7 @@ year: 2021
 bibkey: yang2021training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.07307"}
-tags: ['BERT', 'Model Architecture', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['BERT', 'Model Architecture', 'Tools', 'Training Techniques']
 ---
 Numerical reasoning over text (NRoT) presents unique challenges that are not
 well addressed by existing pre-training objectives. We explore five sequential

@@ -7,7 +7,7 @@ year: 2024
 bibkey: geisler2024attacking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.09154"}
-tags: ['Efficiency And Optimization', 'Prompting', 'Security', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Prompting', 'Security', 'Training Techniques']
 ---
 Current LLM alignment methods are readily broken through specifically crafted
 adversarial prompts. While crafting adversarial prompts using discrete

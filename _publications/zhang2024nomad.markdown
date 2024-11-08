@@ -8,7 +8,7 @@ bibkey: zhang2024nomad
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.01273"}
   - {name: "Code", url: "https://github.com/tonyzhang617/nomad-dist"}
-tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'RAG', 'Uncategorized']
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'RAG']
 ---
 Large language model inference on Central Processing Units (CPU) is
 challenging due to the vast quantities of expensive Multiply-Add (MAD) matrix

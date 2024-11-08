@@ -7,7 +7,7 @@ year: 2023
 bibkey: slack2023learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.13188"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Acquiring high-quality data is often a significant challenge in training
 machine learning (ML) models for tabular prediction, particularly in

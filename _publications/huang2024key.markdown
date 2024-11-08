@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024key
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.02333"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques']
 ---
 Large language models (LLMs) have shown great potential in complex reasoning
 tasks, yet their performance is often hampered by the scarcity of high-quality

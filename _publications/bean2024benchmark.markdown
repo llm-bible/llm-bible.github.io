@@ -7,7 +7,7 @@ year: 2024
 bibkey: bean2024benchmark
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.06196"}
-tags: ['Reinforcement Learning', 'Uncategorized']
+tags: ['Reinforcement Learning']
 ---
 In this paper, we present the LingOly benchmark, a novel benchmark for
 advanced reasoning abilities in large language models. Using challenging

@@ -8,7 +8,7 @@ bibkey: bambhaniya2024demystifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.01698"}
   - {name: "Code", url: "https://github.com/abhibambhaniya/GenZ-LLM-Analyzer"}
-tags: ['Applications', 'GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 Large language models (LLMs) have shown remarkable performance across a wide
 range of applications, often outperforming human experts. However, deploying

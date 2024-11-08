@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14273"}
-tags: ['Efficiency And Optimization', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large language models (LLMs) have demonstrated remarkable proficiency in
 understanding and generating responses to complex queries through large-scale

@@ -7,7 +7,7 @@ year: 2024
 bibkey: urlana2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14558"}
-tags: ['Applications', 'RAG', 'Reinforcement Learning', 'Survey Paper', 'TACL', 'Uncategorized']
+tags: ['Applications', 'RAG', 'Reinforcement Learning', 'Survey Paper', 'TACL']
 ---
 Large language models (LLMs) have become the secret ingredient driving
 numerous industrial applications, showcasing their remarkable versatility

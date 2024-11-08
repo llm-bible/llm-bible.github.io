@@ -7,7 +7,7 @@ year: 2024
 bibkey: hazra2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.07215"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 Large Language Models (LLMs) are said to possess advanced reasoning
 abilities. However, some skepticism exists as recent works show how LLMs often

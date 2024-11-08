@@ -7,7 +7,7 @@ year: 2024
 bibkey: choi2024when
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.13028"}
-tags: ['Applications', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 This paper presents the LLM-ADE framework, a novel methodology for continued
 pre-training of large language models (LLMs) that addresses the challenges of

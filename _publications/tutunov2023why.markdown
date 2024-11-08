@@ -7,7 +7,7 @@ year: 2023
 bibkey: tutunov2023why
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.13571"}
-tags: ['Prompting', 'Tools', 'Uncategorized']
+tags: ['Prompting', 'Tools']
 ---
 This paper delves into the capabilities of large language models (LLMs),
 specifically focusing on advancing the theoretical comprehension of

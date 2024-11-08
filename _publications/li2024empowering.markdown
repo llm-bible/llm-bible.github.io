@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024empowering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.17642"}
-tags: ['Few Shot', 'Uncategorized']
+tags: ['Few Shot']
 ---
 With the capabilities of understanding and executing natural language
 instructions, Large language models (LLMs) can potentially act as a powerful

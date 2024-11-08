@@ -7,7 +7,7 @@ year: 2024
 bibkey: deng2024cognidual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.03381"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'Tools', 'Training Techniques']
 ---
 Cognitive psychology investigates perception, attention, memory, language,
 problem-solving, decision-making, and reasoning. Kahneman's dual-system theory

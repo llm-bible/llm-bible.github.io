@@ -7,7 +7,7 @@ year: 2024
 bibkey: dougrezlewis2024assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10735"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 The reasoning capabilities of LLMs are currently hotly debated. We examine
 the issue from the perspective of claim/rumour verification. We propose the

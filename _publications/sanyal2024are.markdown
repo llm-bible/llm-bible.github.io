@@ -7,7 +7,7 @@ year: 2024
 bibkey: sanyal2024are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.03686"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG', 'Training Techniques']
 ---
 Making inferences in text comprehension to understand the meaning is
 essential in language processing. This work studies the entailment verification

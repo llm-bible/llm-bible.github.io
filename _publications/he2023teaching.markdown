@@ -7,7 +7,7 @@ year: 2023
 bibkey: he2023teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.19019"}
-tags: ['Language Modeling', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Language Modeling', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) exhibit impressive reasoning and data
 augmentation capabilities in various NLP tasks. However, what about small

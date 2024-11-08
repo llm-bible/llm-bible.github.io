@@ -7,7 +7,7 @@ year: 2020
 bibkey: li2020seqgensql
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2011.03836"}
-tags: ['Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 We explore using T5 (Raffel et al. (2019)) to directly translate natural
 language questions into SQL statements. General purpose natural language that

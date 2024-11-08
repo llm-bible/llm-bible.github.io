@@ -7,7 +7,7 @@ year: 2019
 bibkey: jiang2019improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1902.09191"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 Sequence-to-Sequence (Seq2Seq) models have achieved encouraging performance
 on the dialogue response generation task. However, existing Seq2Seq-based

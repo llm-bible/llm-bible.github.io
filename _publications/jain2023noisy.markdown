@@ -7,7 +7,7 @@ year: 2023
 bibkey: jain2023noisy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05914"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 We show that language model finetuning can be improved, sometimes
 dramatically, with a simple augmentation. NEFTune adds noise to the embedding

@@ -7,7 +7,7 @@ year: 2024
 bibkey: shaham2024multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.01854"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 As instruction-tuned large language models (LLMs) gain global adoption, their
 ability to follow instructions in multiple languages becomes increasingly

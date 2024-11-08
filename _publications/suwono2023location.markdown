@@ -7,7 +7,7 @@ year: 2023
 bibkey: suwono2023location
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15129"}
-tags: ['BERT', 'GPT', 'Model Architecture', 'RAG', 'Uncategorized']
+tags: ['BERT', 'GPT', 'Model Architecture', 'RAG']
 ---
 This work introduces a novel task, location-aware visual question generation
 (LocaVQG), which aims to generate engaging questions from data relevant to a

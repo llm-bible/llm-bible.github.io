@@ -7,7 +7,7 @@ year: 2023
 bibkey: yin2023exchange
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.01823"}
-tags: ['Tools', 'Uncategorized']
+tags: ['Tools']
 ---
 Large Language Models (LLMs) have recently made significant strides in
 complex reasoning tasks through the Chain-of-Thought technique. Despite this

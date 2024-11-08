@@ -7,7 +7,7 @@ year: 2019
 bibkey: si2019what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.12391"}
-tags: ['BERT', 'Model Architecture', 'Security', 'Training Techniques', 'Uncategorized']
+tags: ['BERT', 'Model Architecture', 'Security', 'Training Techniques']
 ---
 Multiple-Choice Reading Comprehension (MCRC) requires the model to read the
 passage and question, and select the correct answer among the given options.

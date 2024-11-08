@@ -7,7 +7,7 @@ year: 2024
 bibkey: brigham2024breaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13706"}
-tags: ['Prompting', 'Uncategorized']
+tags: ['Prompting']
 ---
 Journalists are among the many users of large language models (LLMs). To
 better understand the journalist-AI interactions, we conduct a study of LLM

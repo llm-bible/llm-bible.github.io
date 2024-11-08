@@ -7,7 +7,7 @@ year: 2024
 bibkey: säuberli2024automatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.07720"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Reading comprehension tests are used in a variety of applications, reaching
 from education to assessing the comprehensibility of simplified texts. However,

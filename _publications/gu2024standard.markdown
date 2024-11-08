@@ -7,7 +7,7 @@ year: 2024
 bibkey: gu2024standard
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.08446"}
-tags: ['Prompting', 'Reinforcement Learning', 'Survey Paper', 'Uncategorized']
+tags: ['Prompting', 'Reinforcement Learning', 'Survey Paper']
 ---
 Progress in AI is often demonstrated by new models claiming improved
 performance on tasks measuring model capabilities. Evaluating language models

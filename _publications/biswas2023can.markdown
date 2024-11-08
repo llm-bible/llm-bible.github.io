@@ -7,7 +7,7 @@ year: 2023
 bibkey: biswas2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.12006"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 The advanced large language model (LLM) ChatGPT has shown its potential in
 different domains and remains unbeaten due to its characteristics compared to

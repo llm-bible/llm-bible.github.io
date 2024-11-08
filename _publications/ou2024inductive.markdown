@@ -7,7 +7,7 @@ year: 2024
 bibkey: ou2024inductive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.11095"}
-tags: ['Uncategorized']
+tags: []
 ---
 Aligning large language models (LLMs) with human expectations requires
 high-quality instructional dialogues, which can be achieved by raising diverse,

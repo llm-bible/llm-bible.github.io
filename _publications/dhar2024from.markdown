@@ -7,7 +7,7 @@ year: 2024
 bibkey: dhar2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.13419"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) are very performant connectionist systems, but
 do they exhibit more compositionality? More importantly, is that part of why

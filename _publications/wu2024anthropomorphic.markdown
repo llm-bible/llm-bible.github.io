@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024anthropomorphic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13803"}
-tags: ['Agentic', 'Reinforcement Learning', 'Survey Paper', 'Uncategorized']
+tags: ['Agentic', 'Reinforcement Learning', 'Survey Paper']
 ---
 A longstanding challenge in mental well-being support is the reluctance of
 people to adopt psychologically beneficial activities, often due to lack of

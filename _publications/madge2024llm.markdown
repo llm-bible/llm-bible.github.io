@@ -7,7 +7,7 @@ year: 2024
 bibkey: madge2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12734"}
-tags: ['Agentic', 'Uncategorized']
+tags: ['Agentic']
 ---
 In this work we proposing adapting the Minecraft builder task into an LLM
 benchmark suitable for evaluating LLM ability in spatially orientated tasks,

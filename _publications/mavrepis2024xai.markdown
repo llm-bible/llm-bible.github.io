@@ -7,7 +7,7 @@ year: 2024
 bibkey: mavrepis2024xai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.13110"}
-tags: ['Applications', 'GPT', 'Interpretability And Explainability', 'Model Architecture', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Interpretability And Explainability', 'Model Architecture']
 ---
 The field of Explainable Artificial Intelligence (XAI) often focuses on users
 with a strong technical background, making it challenging for non-experts to

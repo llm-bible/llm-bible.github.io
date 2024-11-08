@@ -7,7 +7,7 @@ year: 2024
 bibkey: choi2024lota
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.08178"}
-tags: ['Agentic', 'Attention Mechanism', 'Fine Tuning', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['Agentic', 'Attention Mechanism', 'Fine Tuning', 'Model Architecture', 'Prompting']
 ---
 Large language models (LLMs) have recently received considerable attention as
 alternative solutions for task planning. However, comparing the performance of

@@ -7,7 +7,7 @@ year: 2023
 bibkey: moskvichev2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.13877"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning']
 ---
 We propose a new large-scale (nearly a million questions) ultra-long-context
 (more than 50,000 words average document length) reading comprehension dataset.

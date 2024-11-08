@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024better
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.00126"}
-tags: ['Tools', 'Uncategorized']
+tags: ['Tools']
 ---
 Large language models (LLMs) are primarily evaluated by overall performance
 on various text understanding and generation tasks. However, such a paradigm

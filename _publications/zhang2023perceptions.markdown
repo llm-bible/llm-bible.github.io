@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023perceptions
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.11567"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Survey Paper', 'Tools', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Survey Paper', 'Tools']
 ---
 The rapid evolution of artificial intelligence (AI), specifically large
 language models (LLMs), has opened opportunities for various educational

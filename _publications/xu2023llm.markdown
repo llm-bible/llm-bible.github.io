@@ -7,7 +7,7 @@ year: 2023
 bibkey: xu2023llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.13345"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting', 'Responsible AI', 'Security', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting', 'Responsible AI', 'Security']
 ---
 The wide-ranging applications of large language models (LLMs), especially in
 safety-critical domains, necessitate the proper evaluation of the LLM's

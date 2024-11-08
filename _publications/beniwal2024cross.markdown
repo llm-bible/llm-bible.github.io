@@ -8,7 +8,7 @@ bibkey: beniwal2024cross
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.10521"}
   - {name: "Code", url: "https://github.com/lingo-iitgn/XME"}
-tags: ['BERT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['BERT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 The training of large language models (LLMs) necessitates substantial data
 and computational resources, and updating outdated LLMs entails significant

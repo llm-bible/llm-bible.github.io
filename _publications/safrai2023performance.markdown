@@ -7,7 +7,7 @@ year: 2023
 bibkey: safrai2023performance
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.08625"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Tools']
 ---
 As Large Language Models (LLMs) are predictive models building their response
 based on the words in the prompts, there is a risk that small talk and

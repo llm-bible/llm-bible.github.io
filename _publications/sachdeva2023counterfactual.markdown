@@ -7,7 +7,7 @@ year: 2023
 bibkey: sachdeva2023counterfactual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.07822"}
-tags: ['Interpretability And Explainability', 'Prompting', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Interpretability And Explainability', 'Prompting', 'Reinforcement Learning', 'Training Techniques']
 ---
 In recent years, large language models (LLMs) have shown remarkable
 capabilities at scale, particularly at generating text conditioned on a prompt.

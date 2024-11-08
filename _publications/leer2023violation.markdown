@@ -7,7 +7,7 @@ year: 2023
 bibkey: leer2023violation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.06983"}
-tags: ['Agentic', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 Recent research shows that Large Language Models (LLMs) exhibit a compelling
 level of proficiency in Theory of Mind (ToM) tasks. This ability to impute

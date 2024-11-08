@@ -8,7 +8,7 @@ bibkey: ye2023investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.14691"}
   - {name: "Code", url: "https://github.com/seonghyeonye/TAPP"}
-tags: ['Has Code', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['Has Code', 'Prompting', 'RAG']
 ---
 In this paper, we present our finding that prepending a Task-Agnostic Prefix
 Prompt (TAPP) to the input improves the instruction-following ability of

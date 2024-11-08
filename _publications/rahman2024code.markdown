@@ -7,7 +7,7 @@ year: 2024
 bibkey: rahman2024code
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.04831"}
-tags: ['Model Architecture', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['Model Architecture', 'Prompting', 'RAG']
 ---
 Generative models such as large language models are extensively used as code
 copilots and for whole program generation. However, the programs they generate

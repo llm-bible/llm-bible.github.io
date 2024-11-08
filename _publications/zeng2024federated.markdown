@@ -7,7 +7,7 @@ year: 2024
 bibkey: zeng2024federated
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2403.04256v1"}
-tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 Federated Recommendation (FR) emerges as a novel paradigm that enables
 privacy-preserving recommendations. However, traditional FR systems usually

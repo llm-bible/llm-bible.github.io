@@ -8,7 +8,7 @@ bibkey: mo2024contextual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.05013"}
   - {name: "Code", url: "https://github.com/fengranMark/CHIQ"}
-tags: ['Has Code', 'RAG', 'Uncategorized']
+tags: ['Has Code', 'RAG']
 ---
 In this paper, we study how open-source large language models (LLMs) can be
 effectively deployed for improving query rewriting in conversational search,

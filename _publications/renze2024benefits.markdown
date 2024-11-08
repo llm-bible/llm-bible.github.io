@@ -7,7 +7,7 @@ year: 2024
 bibkey: renze2024benefits
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.05618"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG']
 ---
 In this paper, we introduce Concise Chain-of-Thought (CCoT) prompting. We
 compared standard CoT and CCoT prompts to see how conciseness impacts response

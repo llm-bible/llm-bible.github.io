@@ -7,7 +7,7 @@ year: 2023
 bibkey: vanderbruggen2023structured
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.10196"}
-tags: ['Attention Mechanism', 'Model Architecture', 'RAG', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'RAG']
 ---
 In recent months, Language Models (LMs) have become a part of daily
 discourse, with focus on OpenAI and the potential of Artificial General

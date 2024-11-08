@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024unveiling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.03247"}
-tags: ['Prompting', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Prompting', 'RAG', 'Reinforcement Learning']
 ---
 In this paper, we investigate whether Large Language Models (LLMs) actively
 recall or retrieve their internal repositories of factual knowledge when faced

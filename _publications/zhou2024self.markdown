@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhou2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.03620"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Prompting', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Prompting', 'Tools']
 ---
 We introduce SELF-DISCOVER, a general framework for LLMs to self-discover the
 task-intrinsic reasoning structures to tackle complex reasoning problems that

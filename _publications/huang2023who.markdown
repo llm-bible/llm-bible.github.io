@@ -8,7 +8,7 @@ bibkey: huang2023who
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.01386"}
   - {name: "Code", url: "https://github.com/CUHK-ARISE/PsychoBench"}
-tags: ['Agentic', 'Applications', 'GPT', 'Has Code', 'Model Architecture', 'Responsible AI', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Applications', 'GPT', 'Has Code', 'Model Architecture', 'Responsible AI', 'Tools']
 ---
 Large Language Models (LLMs) have recently showcased their remarkable
 capacities, not only in natural language processing tasks but also across

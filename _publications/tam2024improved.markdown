@@ -7,7 +7,7 @@ year: 2024
 bibkey: tam2024improved
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.01858"}
-tags: ['RAG', 'Reinforcement Learning', 'Tokenization', 'Uncategorized']
+tags: ['RAG', 'Reinforcement Learning', 'Tokenization']
 ---
 We present TMMLU+, a new benchmark designed for Traditional Chinese language
 understanding. TMMLU+ is a multi-choice question-answering dataset with 66

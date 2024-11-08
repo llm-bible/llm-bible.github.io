@@ -7,7 +7,7 @@ year: 2023
 bibkey: mo2023generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.15645"}
-tags: ['Merging', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Merging', 'Tools', 'Training Techniques']
 ---
 In conversational search, the user's real search intent for the current turn
 is dependent on the previous conversation history. It is challenging to

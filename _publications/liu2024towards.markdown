@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14434"}
-tags: ['Reinforcement Learning', 'Uncategorized']
+tags: ['Reinforcement Learning']
 ---
 In the era of large language models (LLMs), building multilingual large
 language models (MLLMs) that can serve users worldwide holds great

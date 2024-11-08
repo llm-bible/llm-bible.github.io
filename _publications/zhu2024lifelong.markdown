@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024lifelong
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.03533"}
-tags: ['Efficiency And Optimization', 'Fine Tuning', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Fine Tuning', 'Reinforcement Learning', 'Training Techniques']
 ---
 We primarily focus on the field of large language models (LLMs) for
 recommendation, which has been actively explored recently and poses a

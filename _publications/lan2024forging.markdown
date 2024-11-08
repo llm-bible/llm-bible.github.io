@@ -7,7 +7,7 @@ year: 2024
 bibkey: lan2024forging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.00839"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Training Techniques']
 ---
 Pre-trained Language Models (PLMs) have shown impressive results in various
 Natural Language Generation (NLG) tasks, such as powering chatbots and

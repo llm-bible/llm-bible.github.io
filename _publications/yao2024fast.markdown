@@ -7,7 +7,7 @@ year: 2024
 bibkey: yao2024fast
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.16444"}
-tags: ['Attention Mechanism', 'Merging', 'Model Architecture', 'RAG', 'Uncategorized']
+tags: ['Attention Mechanism', 'Merging', 'Model Architecture', 'RAG']
 ---
 Large language models (LLMs) often incorporate multiple text chunks in their
 inputs to provide the necessary contexts. To speed up the prefill of the long

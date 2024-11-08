@@ -7,7 +7,7 @@ year: 2024
 bibkey: chan2024scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.20094"}
-tags: ['Applications', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Applications', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 We propose a novel persona-driven data synthesis methodology that leverages
 various perspectives within a large language model (LLM) to create diverse

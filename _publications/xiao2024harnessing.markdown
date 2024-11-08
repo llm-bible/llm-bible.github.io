@@ -7,7 +7,7 @@ year: 2024
 bibkey: xiao2024harnessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.05574"}
-tags: ['Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Large Language Models (LLMs) can play a vital role in psychotherapy by
 adeptly handling the crucial task of cognitive reframing and overcoming

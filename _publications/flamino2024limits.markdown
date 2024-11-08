@@ -7,7 +7,7 @@ year: 2024
 bibkey: flamino2024limits
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.06049"}
-tags: ['Agentic', 'Uncategorized']
+tags: ['Agentic']
 ---
 Large Language Models (LLMs) have shown remarkable promise in their ability
 to interact proficiently with humans. Subsequently, their potential use as

@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.14646"}
-tags: ['Prompting', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Prompting', 'Tools', 'Training Techniques']
 ---
 Code translation tools (transpilers) are developed for automatic
 source-to-source translation. Although learning-based transpilers have shown

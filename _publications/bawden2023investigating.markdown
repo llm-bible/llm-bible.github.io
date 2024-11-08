@@ -7,7 +7,7 @@ year: 2023
 bibkey: bawden2023investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.01911"}
-tags: ['Few Shot', 'Prompting', 'Uncategorized']
+tags: ['Few Shot', 'Prompting']
 ---
 The NLP community recently saw the release of a new large open-access
 multilingual language model, BLOOM (BigScience et al., 2022) covering 46

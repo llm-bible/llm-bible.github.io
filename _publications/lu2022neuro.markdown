@@ -7,7 +7,7 @@ year: 2022
 bibkey: lu2022neuro
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.02928"}
-tags: ['Prompting', 'Training Techniques', 'Uncategorized']
+tags: ['Prompting', 'Training Techniques']
 ---
 Procedural planning aims to implement complex high-level goals by
 decomposition into sequential simpler low-level steps. Although procedural

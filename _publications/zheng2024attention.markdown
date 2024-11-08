@@ -8,7 +8,7 @@ bibkey: zheng2024attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.03752"}
   - {name: "Code", url: "https://github.com/IAAR-Shanghai/Awesome-Attention-Heads"}
-tags: ['Attention Mechanism', 'GPT', 'Has Code', 'Interpretability And Explainability', 'Model Architecture', 'Reinforcement Learning', 'Survey Paper', 'Tools', 'Uncategorized']
+tags: ['Attention Mechanism', 'GPT', 'Has Code', 'Interpretability And Explainability', 'Model Architecture', 'Reinforcement Learning', 'Survey Paper', 'Tools']
 ---
 Since the advent of ChatGPT, Large Language Models (LLMs) have excelled in
 various tasks but remain largely as black-box systems. Consequently, their

@@ -8,7 +8,7 @@ bibkey: li2023generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05470"}
   - {name: "Code", url: "https://github.com/GAIR-NLP/auto-j"}
-tags: ['Has Code', 'Interpretability And Explainability', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Has Code', 'Interpretability And Explainability', 'Reinforcement Learning', 'Tools']
 ---
 The rapid development of Large Language Models (LLMs) has substantially
 expanded the range of tasks they can address. In the field of Natural Language

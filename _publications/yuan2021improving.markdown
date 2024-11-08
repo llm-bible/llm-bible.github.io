@@ -7,7 +7,7 @@ year: 2021
 bibkey: yuan2021improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.14031"}
-tags: ['Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 Most sequential recommendation models capture the features of consecutive
 items in a user-item interaction history. Though effective, their

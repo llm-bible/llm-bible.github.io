@@ -7,7 +7,7 @@ year: 2024
 bibkey: moore2024base
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11634"}
-tags: ['Prompting', 'Uncategorized']
+tags: ['Prompting']
 ---
 Cloze testing is a common method for measuring the behavior of large language
 models on a number of benchmark tasks. Using the MMLU dataset, we show that the

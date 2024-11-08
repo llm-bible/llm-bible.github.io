@@ -8,7 +8,7 @@ bibkey: du2024revisiting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.15052"}
   - {name: "Code", url: "https://github.com/apple/axlearn"}
-tags: ['Has Code', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Has Code', 'Reinforcement Learning', 'Training Techniques']
 ---
 Mixture-of-Experts (MoE) enjoys performance gain by increasing model capacity
 while keeping computation cost constant. When comparing MoE to dense models,

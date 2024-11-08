@@ -7,7 +7,7 @@ year: 2023
 bibkey: khuong2023auto
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.04480"}
-tags: ['Prompting', 'Reinforcement Learning', 'Responsible AI', 'Survey Paper', 'Tools', 'Uncategorized']
+tags: ['Prompting', 'Reinforcement Learning', 'Responsible AI', 'Survey Paper', 'Tools']
 ---
 We present a novel platform for evaluating the capability of Large Language
 Models (LLMs) to autonomously compose and critique survey papers spanning a

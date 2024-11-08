@@ -7,7 +7,7 @@ year: 2023
 bibkey: yao2023backdoor
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.12439"}
-tags: ['Prompting', 'Security', 'Uncategorized']
+tags: ['Prompting', 'Security']
 ---
 Prompts have significantly improved the performance of pretrained Large
 Language Models (LLMs) on various downstream tasks recently, making them

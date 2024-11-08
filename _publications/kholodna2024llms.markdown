@@ -7,7 +7,7 @@ year: 2024
 bibkey: kholodna2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.02261"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques']
 ---
 Low-resource languages face significant barriers in AI development due to
 limited linguistic resources and expertise for data labeling, rendering them

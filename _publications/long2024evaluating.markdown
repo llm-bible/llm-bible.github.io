@@ -7,7 +7,7 @@ year: 2024
 bibkey: long2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.02380"}
-tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture']
 ---
 This study explores the application of Large Language Models (LLMs),
 specifically GPT-4, in the analysis of classroom dialogue, a crucial research

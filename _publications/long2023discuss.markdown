@@ -7,7 +7,7 @@ year: 2023
 bibkey: long2023discuss
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.11382"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Tools']
 ---
 Visual language navigation (VLN) is an embodied task demanding a wide range
 of skills encompassing understanding, perception, and planning. For such a

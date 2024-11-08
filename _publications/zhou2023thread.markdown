@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhou2023thread
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.08734"}
-tags: ['Prompting', 'Uncategorized']
+tags: ['Prompting']
 ---
 Large Language Models (LLMs) have ushered in a transformative era in the
 field of natural language processing, excelling in tasks related to text

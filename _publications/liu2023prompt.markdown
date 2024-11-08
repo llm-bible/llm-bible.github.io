@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.10463"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 In the evolving field of personalized news recommendation, understanding the
 semantics of the underlying data is crucial. Large Language Models (LLMs) like

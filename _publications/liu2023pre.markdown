@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023pre
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2302.03735v3"}
-tags: ['Efficiency And Optimization', 'Prompting', 'Survey Paper', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Prompting', 'Survey Paper', 'Training Techniques']
 ---
 The emergence of Pre-trained Language Models (PLMs) has achieved tremendous
 success in the field of Natural Language Processing (NLP) by learning universal

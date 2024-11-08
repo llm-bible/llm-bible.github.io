@@ -8,7 +8,7 @@ bibkey: jiang2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.05268"}
   - {name: "Code", url: "https://github.com/JIANGJiaXiu/MC-2"}
-tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Has Code', 'Model Architecture', 'Prompting', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Has Code', 'Model Architecture', 'Prompting', 'Training Techniques']
 ---
 Customized text-to-image generation aims to synthesize instantiations of
 user-specified concepts and has achieved unprecedented progress in handling

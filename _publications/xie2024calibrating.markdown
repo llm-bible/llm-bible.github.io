@@ -7,7 +7,7 @@ year: 2024
 bibkey: xie2024calibrating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.18711"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated impressive capabilities in
 various reasoning tasks, aided by techniques like chain-of-thought (CoT)

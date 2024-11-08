@@ -7,7 +7,7 @@ year: 2023
 bibkey: cho2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09243"}
-tags: ['Fine Tuning', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Fine Tuning', 'Reinforcement Learning', 'Tools']
 ---
 This study investigates the efficacy of Large Language Models (LLMs) in
 interactive language therapy for high-functioning autistic adolescents. With

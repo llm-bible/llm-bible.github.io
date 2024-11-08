@@ -7,7 +7,7 @@ year: 2023
 bibkey: jakesch2023co
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.00560"}
-tags: ['GPT', 'Model Architecture', 'Survey Paper', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Survey Paper']
 ---
 If large language models like GPT-3 preferably produce a particular point of
 view, they may influence people's opinions on an unknown scale. This study

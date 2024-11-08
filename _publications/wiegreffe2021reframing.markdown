@@ -7,7 +7,7 @@ year: 2021
 bibkey: wiegreffe2021reframing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.08674"}
-tags: ['Few Shot', 'GPT', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Few Shot', 'GPT', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models are increasingly capable of generating fluent-appearing
 text with relatively little task-specific supervision. But can these models

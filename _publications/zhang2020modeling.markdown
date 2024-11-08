@@ -7,7 +7,7 @@ year: 2020
 bibkey: zhang2020modeling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2009.12735"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'Training Techniques']
 ---
 Topic drift is a common phenomenon in multi-turn dialogue. Therefore, an
 ideal dialogue generation models should be able to capture the topic

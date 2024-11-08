@@ -7,7 +7,7 @@ year: 2024
 bibkey: ali2024prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.00489"}
-tags: ['Interpretability And Explainability', 'Prompting', 'RAG', 'Tools', 'Uncategorized']
+tags: ['Interpretability And Explainability', 'Prompting', 'RAG', 'Tools']
 ---
 Large language models (LLMs) have shown exceptional abilities for multiple
 different natural language processing tasks. While prompting is a crucial tool

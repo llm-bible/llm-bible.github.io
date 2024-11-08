@@ -7,7 +7,7 @@ year: 2023
 bibkey: shah2023human
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.10782"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) do not differentially represent numbers, which
 are pervasive in text. In contrast, neuroscience research has identified

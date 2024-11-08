@@ -7,7 +7,7 @@ year: 2023
 bibkey: gulati2023efficacy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.14423"}
-tags: ['BERT', 'GPT', 'Model Architecture', 'Uncategorized']
+tags: ['BERT', 'GPT', 'Model Architecture']
 ---
 Large "instruction-tuned" language models (i.e., finetuned to respond to
 instructions) have demonstrated a remarkable ability to generalize zero-shot to

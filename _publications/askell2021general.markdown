@@ -7,7 +7,7 @@ year: 2021
 bibkey: askell2021general
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2112.00861v3"}
-tags: ['Efficiency And Optimization', 'Prompting', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Prompting', 'Reinforcement Learning', 'Training Techniques']
 ---
 Given the broad capabilities of large language models, it should be possible
 to work towards a general-purpose, text-based assistant that is aligned with

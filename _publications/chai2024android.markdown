@@ -7,7 +7,7 @@ year: 2024
 bibkey: chai2024android
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.17490"}
-tags: ['Agentic', 'Applications', 'Attention Mechanism', 'Model Architecture', 'RAG', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Applications', 'Attention Mechanism', 'Model Architecture', 'RAG', 'Tools']
 ---
 AI agents have drawn increasing attention mostly on their ability to perceive
 environments, understand tasks, and autonomously achieve goals. To advance

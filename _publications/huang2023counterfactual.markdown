@@ -8,7 +8,7 @@ bibkey: huang2023counterfactual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.17438"}
   - {name: "Code", url: "https://github.com/Eleanor-H/CLOMO"}
-tags: ['Has Code', 'Uncategorized']
+tags: ['Has Code']
 ---
 In this study, we delve into the realm of counterfactual reasoning
 capabilities of large language models (LLMs). Our primary objective is to

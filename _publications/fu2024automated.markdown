@@ -7,7 +7,7 @@ year: 2024
 bibkey: fu2024automated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.08978"}
-tags: ['Agentic', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 The primary limitation of large language models (LLMs) is their restricted
 understanding of the world. This poses significant difficulties for LLM-based

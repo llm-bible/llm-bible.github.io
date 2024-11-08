@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhou2023building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.09672"}
-tags: ['Uncategorized']
+tags: []
 ---
 Visual programming provides beginner-level programmers with a coding-free
 experience to build their customized pipelines. Existing systems require users

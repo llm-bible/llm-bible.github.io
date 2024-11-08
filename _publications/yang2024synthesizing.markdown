@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024synthesizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.03256"}
-tags: ['Prompting', 'Uncategorized']
+tags: ['Prompting']
 ---
 The capability gap between open-source and closed-source large language
 models (LLMs) remains a challenge in text-to-SQL tasks. In this paper, we

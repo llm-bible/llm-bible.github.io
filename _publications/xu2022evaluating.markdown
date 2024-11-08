@@ -7,7 +7,7 @@ year: 2022
 bibkey: xu2022evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.13673"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'Training Techniques']
 ---
 Parameter efficient learning methods (PERMs) have recently gained significant
 attention as they provide an efficient way for pre-trained language models

@@ -7,7 +7,7 @@ year: 2022
 bibkey: won2022scaling
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2210.11416v5"}
-tags: ['Few Shot', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['Few Shot', 'Prompting', 'RAG']
 ---
 Finetuning language models on a collection of datasets phrased as
 instructions has been shown to improve model performance and generalization to

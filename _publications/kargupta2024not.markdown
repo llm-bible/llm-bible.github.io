@@ -8,7 +8,7 @@ bibkey: kargupta2024not
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11709"}
   - {name: "Code", url: "http://github.com/agarwalishika/TreeInstruct"}
-tags: ['Agentic', 'Has Code', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Agentic', 'Has Code', 'RAG', 'Reinforcement Learning']
 ---
 Socratic questioning is an effective teaching strategy, encouraging critical
 thinking and problem-solving. The conversational capabilities of large language

@@ -7,7 +7,7 @@ year: 2024
 bibkey: prabhakar2024deciphering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.01687"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Training Techniques']
 ---
 Chain-of-Thought (CoT) prompting has been shown to enhance the multi-step
 reasoning capabilities of Large Language Models (LLMs). However, debates

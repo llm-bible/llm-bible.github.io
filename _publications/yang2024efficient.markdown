@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.08334"}
-tags: ['Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Tools', 'Training Techniques']
 ---
 It is extremely memory-hungry to train Large Language Models (LLM). To solve
 this problem, existing work exploits the combination of CPU and GPU for the

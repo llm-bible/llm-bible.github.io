@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12784"}
-tags: ['GPT', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'Tools']
 ---
 The rapid development of large language models (LLMs) has shown promising
 practical results. However, their low interpretability often leads to errors in

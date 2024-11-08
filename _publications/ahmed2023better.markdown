@@ -7,7 +7,7 @@ year: 2023
 bibkey: ahmed2023better
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.00108"}
-tags: ['Few Shot', 'Interpretability And Explainability', 'Prompting', 'Uncategorized']
+tags: ['Few Shot', 'Interpretability And Explainability', 'Prompting']
 ---
 Large Language models (LLMs) can be induced to solve non-trivial problems
 with "few-shot" prompts including illustrative problem-solution examples. Now

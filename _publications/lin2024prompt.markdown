@@ -8,7 +8,7 @@ bibkey: lin2024prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.05868"}
   - {name: "Code", url: "https://github.com/agiresearch/EmojiCrypt"}
-tags: ['Applications', 'GPT', 'Has Code', 'Model Architecture', 'Prompting', 'RAG', 'Security', 'Tools', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Has Code', 'Model Architecture', 'Prompting', 'RAG', 'Security', 'Tools']
 ---
 Cloud-based large language models (LLMs) such as ChatGPT have increasingly
 become integral to daily operations, serving as vital tools across various

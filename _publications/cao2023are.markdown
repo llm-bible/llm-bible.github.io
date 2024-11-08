@@ -7,7 +7,7 @@ year: 2023
 bibkey: cao2023are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.17355"}
-tags: ['Attention Mechanism', 'Fine Tuning', 'Model Architecture', 'Uncategorized']
+tags: ['Attention Mechanism', 'Fine Tuning', 'Model Architecture']
 ---
 Recently, Large Language Models (LLMs) have drawn significant attention due
 to their outstanding reasoning capabilities and extensive knowledge repository,

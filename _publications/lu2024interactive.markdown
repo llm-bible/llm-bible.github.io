@@ -8,7 +8,7 @@ bibkey: lu2024interactive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.04682"}
   - {name: "Code", url: "https://github.com/apple/ToolSandbox"}
-tags: ['Has Code', 'Prompting', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Has Code', 'Prompting', 'Reinforcement Learning', 'Tools']
 ---
 Recent large language models (LLMs) advancements sparked a growing research
 interest in tool assisted LLMs solving real-world challenges, which calls for

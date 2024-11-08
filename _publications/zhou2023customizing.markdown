@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhou2023customizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.16832"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Training Techniques']
 ---
 In this paper, we present CharacterGLM, a series of models built upon
 ChatGLM, with model sizes ranging from 6B to 66B parameters. Our CharacterGLM

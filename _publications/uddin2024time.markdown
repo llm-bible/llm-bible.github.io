@@ -7,7 +7,7 @@ year: 2024
 bibkey: uddin2024time
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03525"}
-tags: ['Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 This paper introduces UnSeenTimeQA, a novel time-sensitive question-answering
 (TSQA) benchmark that diverges from traditional TSQA benchmarks by avoiding

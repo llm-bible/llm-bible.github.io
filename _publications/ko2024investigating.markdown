@@ -7,7 +7,7 @@ year: 2024
 bibkey: ko2024investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.19502"}
-tags: ['RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['RAG', 'Reinforcement Learning']
 ---
 Despite significant advancements, there is a limited understanding of how
 large language models (LLMs) utilize knowledge for reasoning. To address this,

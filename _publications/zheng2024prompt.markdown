@@ -7,7 +7,7 @@ year: 2024
 bibkey: zheng2024prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.18018"}
-tags: ['Efficiency And Optimization', 'Prompting', 'Reinforcement Learning', 'Responsible AI', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Prompting', 'Reinforcement Learning', 'Responsible AI']
 ---
 Prepending model inputs with safety prompts is a common practice for
 safeguarding large language models (LLMs) against queries with harmful intents.

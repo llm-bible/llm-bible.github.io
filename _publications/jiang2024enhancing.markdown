@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.10615"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Prompting', 'Security', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'Prompting', 'Security']
 ---
 In recent years, Large language models (LLMs) have garnered significant
 attention due to their superior performance in complex reasoning tasks.

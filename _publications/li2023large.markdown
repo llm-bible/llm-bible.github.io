@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023large
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2309.01157v2"}
-tags: ['Merging', 'RAG', 'Survey Paper', 'Uncategorized']
+tags: ['Merging', 'RAG', 'Survey Paper']
 ---
 Large language models (LLM) not only have revolutionized the field of natural
 language processing (NLP) but also have the potential to reshape many other

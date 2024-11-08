@@ -7,7 +7,7 @@ year: 2023
 bibkey: ye2023language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.06688"}
-tags: ['Uncategorized']
+tags: []
 ---
 Multilingual transfer ability, which reflects how well the models fine-tuned
 on one source language can be applied to other languages, has been well studied

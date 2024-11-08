@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13764"}
-tags: ['Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Large Language Models (LLMs) have shown superior capability to solve
 reasoning problems with programs. While being a promising direction, most of

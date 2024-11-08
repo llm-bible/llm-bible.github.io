@@ -7,7 +7,7 @@ year: 2024
 bibkey: yugeswardeenoo2024question
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03624"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting']
 ---
 Although LLMs have the potential to transform many fields, they still
 underperform humans in reasoning tasks. Existing methods induce the model to

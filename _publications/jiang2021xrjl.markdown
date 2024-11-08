@@ -7,7 +7,7 @@ year: 2021
 bibkey: jiang2021xrjl
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2103.16102"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture']
 ---
 This paper presents our submitted system to SemEval 2021 Task 4: Reading
 Comprehension of Abstract Meaning. Our system uses a large pre-trained language

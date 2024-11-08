@@ -7,7 +7,7 @@ year: 2024
 bibkey: mohammadshahi2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.13979"}
-tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning']
 ---
 Developing foundational large language models (LLMs) is becoming increasingly
 costly and inefficient. Also, closed-source and larger open-source models

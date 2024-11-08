@@ -8,7 +8,7 @@ bibkey: chen2024enhance
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.18825"}
   - {name: "Code", url: "https://anonymous.4open.science/r/CIKM_Code_Repo-E6F5/README.md"}
-tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Prompting']
 ---
 Large language models have been flourishing in the natural language
 processing (NLP) domain, and their potential for recommendation has been paid

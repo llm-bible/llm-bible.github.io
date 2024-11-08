@@ -7,7 +7,7 @@ year: 2019
 bibkey: jing2019bilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.05040"}
-tags: ['BERT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['BERT', 'Model Architecture', 'RAG', 'Reinforcement Learning']
 ---
 This paper presents BiPaR, a bilingual parallel novel-style machine reading
 comprehension (MRC) dataset, developed to support multilingual and

@@ -7,7 +7,7 @@ year: 2023
 bibkey: hassan2023chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.13657"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 The rise of big data has amplified the need for efficient, user-friendly
 automated machine learning (AutoML) tools. However, the intricacy of

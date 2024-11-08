@@ -7,7 +7,7 @@ year: 2023
 bibkey: ye2023large
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2301.13808v3"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 Table-based reasoning has shown remarkable progress in combining deep models
 with discrete reasoning, which requires reasoning over both free-form natural

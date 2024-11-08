@@ -7,7 +7,7 @@ year: 2024
 bibkey: zheng2024mistral
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.08657"}
-tags: ['GPT', 'Merging', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Merging', 'Model Architecture', 'Reinforcement Learning']
 ---
 Despite the advances in Large Language Models (LLMs), exemplified by models
 like GPT-4 and Claude, smaller-scale LLMs such as Llama and Mistral often

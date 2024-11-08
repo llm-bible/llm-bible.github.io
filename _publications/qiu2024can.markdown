@@ -7,7 +7,7 @@ year: 2024
 bibkey: qiu2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.08313"}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Training Techniques']
 ---
 Assessing the capabilities of large language models (LLMs) is often
 challenging, in part, because it is hard to find tasks to which they have not

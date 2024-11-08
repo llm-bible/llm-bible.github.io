@@ -7,7 +7,7 @@ year: 2024
 bibkey: hao2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.04237"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large language models (LLMs) can be abused at scale to create non-factual
 content and spread disinformation. Detecting LLM-generated content is essential

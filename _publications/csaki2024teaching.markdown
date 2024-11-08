@@ -7,7 +7,7 @@ year: 2024
 bibkey: csaki2024teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.05829"}
-tags: ['Efficiency And Optimization', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Reinforcement Learning']
 ---
 Despite the widespread availability of LLMs, there remains a substantial gap
 in their capabilities and availability across diverse languages. One approach

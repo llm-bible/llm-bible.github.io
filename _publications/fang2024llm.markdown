@@ -7,7 +7,7 @@ year: 2024
 bibkey: fang2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.08067"}
-tags: ['Tools', 'Uncategorized']
+tags: ['Tools']
 ---
 The Wizard of Oz (WoZ) method is a widely adopted research approach where a
 human Wizard ``role-plays'' a not readily available technology and interacts

@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023gradient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.12507"}
-tags: ['BERT', 'GPT', 'Model Architecture', 'Security', 'Uncategorized']
+tags: ['BERT', 'GPT', 'Model Architecture', 'Security']
 ---
 In this paper, we study the problem of generating obstinate (over-stability)
 adversarial examples by word substitution in NLP, where input text is

@@ -7,7 +7,7 @@ year: 2024
 bibkey: niu2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.17026"}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Training Techniques']
 ---
 Training emotion recognition models has relied heavily on human annotated
 data, which present diversity, quality, and cost challenges. In this paper, we

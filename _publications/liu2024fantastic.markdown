@@ -8,7 +8,7 @@ bibkey: liu2024fantastic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.01509"}
   - {name: "Code", url: "https://github.com/RyanLiut/LLM_LexSem"}
-tags: ['BERT', 'Has Code', 'Language Modeling', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['BERT', 'Has Code', 'Language Modeling', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models have achieved remarkable success in general language
 understanding tasks. However, as a family of generative methods with the

@@ -7,7 +7,7 @@ year: 2023
 bibkey: shi2023personalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.03411"}
-tags: ['Uncategorized']
+tags: []
 ---
 Recent advances in personalized image generation allow a pre-trained
 text-to-image model to learn a new concept from a set of images. However,

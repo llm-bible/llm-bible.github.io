@@ -7,7 +7,7 @@ year: 2024
 bibkey: hong2024hallucinations
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.05904"}
-tags: ['Applications', 'Uncategorized']
+tags: ['Applications']
 ---
 Large Language Models (LLMs) have transformed the Natural Language Processing
 (NLP) landscape with their remarkable ability to understand and generate

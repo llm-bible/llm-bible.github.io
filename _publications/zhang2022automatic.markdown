@@ -8,7 +8,7 @@ bibkey: zhang2022automatic
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2210.03493v1"}
   - {name: "Code", url: "https://github.com/amazon-research/auto-cot"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Prompting', 'RAG']
 ---
 Large language models (LLMs) can perform complex reasoning by generating
 intermediate reasoning steps. Providing these steps for prompting

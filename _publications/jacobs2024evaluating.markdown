@@ -7,7 +7,7 @@ year: 2024
 bibkey: jacobs2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.09744"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 This study investigates the application of large language models,
 specifically GPT-4, to enhance programming education. The research outlines the

@@ -7,7 +7,7 @@ year: 2023
 bibkey: rogers2023key
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.07120"}
-tags: ['Uncategorized']
+tags: []
 ---
 Much of the recent discourse within the ML community has been centered around
 Large Language Models (LLMs), their functionality and potential -- yet not only

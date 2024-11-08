@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024guiding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.00554"}
-tags: ['Uncategorized']
+tags: []
 ---
 Instruction-tuned large language models (LLMs) are capable of generating
 stories in response to open-ended user requests, but the resulting stories tend

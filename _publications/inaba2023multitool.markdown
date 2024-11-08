@@ -7,7 +7,7 @@ year: 2023
 bibkey: inaba2023multitool
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.16896"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Tools']
 ---
 Large language models (LLMs) have achieved impressive performance on various
 reasoning tasks. To further improve the performance, we propose MultiTool-CoT,

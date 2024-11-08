@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.09003"}
   - {name: "Code", url: "https://huggingface.co/datasets/Vivacem/MMIQC"}
   - {name: "Code", url: "https://github.com/iiis-ai/IterativeQuestionComposing"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Tools']
 ---
 Despite the advancements in large language models (LLMs) for mathematical
 reasoning, solving competition-level math problems remains a significant

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.10471"}
-tags: ['Tools', 'Uncategorized']
+tags: ['Tools']
 ---
 How to edit the knowledge in multi-step reasoning has become the major
 challenge in the knowledge editing (KE) of large language models (LLMs). The

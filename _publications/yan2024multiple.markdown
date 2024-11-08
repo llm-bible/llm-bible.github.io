@@ -7,7 +7,7 @@ year: 2024
 bibkey: yan2024multiple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14963"}
-tags: ['Agentic', 'Efficiency And Optimization', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Agentic', 'Efficiency And Optimization', 'RAG', 'Reinforcement Learning']
 ---
 While Large language models (LLMs) have the capability to iteratively reflect
 on their own outputs, recent studies have observed their struggles with

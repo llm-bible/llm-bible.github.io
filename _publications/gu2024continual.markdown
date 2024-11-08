@@ -7,7 +7,7 @@ year: 2024
 bibkey: gu2024continual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.03166"}
-tags: ['Agentic', 'Efficiency And Optimization', 'Few Shot', 'Fine Tuning', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Efficiency And Optimization', 'Few Shot', 'Fine Tuning', 'Reinforcement Learning', 'Tools']
 ---
 Continual and interactive robot learning is a challenging problem as the
 robot is present with human users who expect the robot to learn novel skills to

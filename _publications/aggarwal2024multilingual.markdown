@@ -7,7 +7,7 @@ year: 2024
 bibkey: aggarwal2024multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.07598"}
-tags: ['Uncategorized']
+tags: []
 ---
 Parameter Efficient Finetuning (PEFT) has emerged as a viable solution for
 improving the performance of Large Language Models (LLMs) without requiring

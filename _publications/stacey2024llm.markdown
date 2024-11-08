@@ -7,7 +7,7 @@ year: 2024
 bibkey: stacey2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.00462"}
-tags: ['RAG', 'Survey Paper', 'Tools', 'Uncategorized']
+tags: ['RAG', 'Survey Paper', 'Tools']
 ---
 Spurred by recent advances in Large Language Models (LLMs), virtual
 assistants are poised to take a leap forward in terms of their dialogue

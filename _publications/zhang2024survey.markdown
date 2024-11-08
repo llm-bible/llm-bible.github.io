@@ -8,7 +8,7 @@ bibkey: zhang2024survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.13501"}
   - {name: "Code", url: "https://github.com/nuster1128/LLM_Agent_Memory_Survey"}
-tags: ['Agentic', 'Applications', 'Attention Mechanism', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Survey Paper', 'Uncategorized']
+tags: ['Agentic', 'Applications', 'Attention Mechanism', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Survey Paper']
 ---
 Large language model (LLM) based agents have recently attracted much
 attention from the research and industry communities. Compared with original

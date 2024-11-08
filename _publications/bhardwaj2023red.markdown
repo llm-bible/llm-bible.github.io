@@ -7,7 +7,7 @@ year: 2023
 bibkey: bhardwaj2023red
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.09662"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Responsible AI', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Responsible AI']
 ---
 Larger language models (LLMs) have taken the world by storm with their
 massive multi-tasking capabilities simply by optimizing over a next-word

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhou2024merging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11385"}
-tags: ['Efficiency And Optimization', 'Fine Tuning', 'GPT', 'Merging', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Fine Tuning', 'GPT', 'Merging', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques']
 ---
 The advent of large language models (LLMs) like GPT-4 has catalyzed the
 exploration of multi-task learning (MTL), in which a single model demonstrates

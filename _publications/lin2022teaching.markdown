@@ -7,7 +7,7 @@ year: 2022
 bibkey: lin2022teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.14334"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 We show that a GPT-3 model can learn to express uncertainty about its own
 answers in natural language -- without use of model logits. When given a

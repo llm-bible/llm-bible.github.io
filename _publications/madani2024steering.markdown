@@ -7,7 +7,7 @@ year: 2024
 bibkey: madani2024steering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10453"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 In this study, we address the challenge of consistently following emotional
 support strategies in long conversations by large language models (LLMs). We

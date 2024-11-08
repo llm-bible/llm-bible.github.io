@@ -7,7 +7,7 @@ year: 2024
 bibkey: lai2024multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02301"}
-tags: ['Fine Tuning', 'Uncategorized']
+tags: ['Fine Tuning']
 ---
 Large language models (LLMs) with Chain-of-thought (CoT) have recently
 emerged as a powerful technique for eliciting reasoning to improve various

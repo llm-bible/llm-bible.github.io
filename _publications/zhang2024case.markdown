@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024case
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.09967"}
-tags: ['Applications', 'Uncategorized']
+tags: ['Applications']
 ---
 Large Language Models (LLMs) excel in generating personalized content and
 facilitating interactive dialogues, showcasing their remarkable aptitude for a

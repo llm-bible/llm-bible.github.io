@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023shadow
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.02949"}
-tags: ['Applications', 'Prompting', 'Responsible AI', 'Security', 'Uncategorized']
+tags: ['Applications', 'Prompting', 'Responsible AI', 'Security']
 ---
 Warning: This paper contains examples of harmful language, and reader
 discretion is recommended. The increasing open release of powerful large

@@ -7,7 +7,7 @@ year: 2024
 bibkey: mahdavi2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12979"}
-tags: ['Agentic', 'Fine Tuning', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['Agentic', 'Fine Tuning', 'GPT', 'Model Architecture', 'Prompting', 'RAG']
 ---
 Large Language Models (LLMs) have shown remarkable performance in various
 natural language tasks, but they often struggle with planning problems that

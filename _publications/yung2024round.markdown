@@ -8,7 +8,7 @@ bibkey: yung2024round
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13517"}
   - {name: "Code", url: "https://github.com/Cancanxxx/Round_Trip_Translation_Defence"}
-tags: ['Has Code', 'Prompting', 'Security', 'Uncategorized']
+tags: ['Has Code', 'Prompting', 'Security']
 ---
 Large language models (LLMs) are susceptible to social-engineered attacks
 that are human-interpretable but require a high level of comprehension for LLMs

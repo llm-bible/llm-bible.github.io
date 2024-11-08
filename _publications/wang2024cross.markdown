@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024cross
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.07123"}
-tags: ['GPT', 'Interpretability And Explainability', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Interpretability And Explainability', 'Model Architecture', 'Training Techniques']
 ---
 Natural language explanations (NLEs) are vital for elucidating the reasoning
 behind large language model (LLM) decisions. Many techniques have been

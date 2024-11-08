@@ -7,7 +7,7 @@ year: 2023
 bibkey: dai2023leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.13007"}
-tags: ['Few Shot', 'GPT', 'Model Architecture', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['Few Shot', 'GPT', 'Model Architecture', 'RAG', 'Training Techniques']
 ---
 Text data augmentation is an effective strategy for overcoming the challenge
 of limited sample sizes in many natural language processing (NLP) tasks. This

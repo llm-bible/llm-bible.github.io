@@ -7,7 +7,7 @@ year: 2023
 bibkey: lyu2023llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.15780"}
-tags: ['Applications', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'Prompting', 'Reinforcement Learning']
 ---
 Text-based recommendation holds a wide range of practical applications due to
 its versatility, as textual descriptions can represent nearly any type of item.

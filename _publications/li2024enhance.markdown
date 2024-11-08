@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024enhance
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.11869"}
-tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'Security', 'Uncategorized']
+tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'Security']
 ---
 Large language models (LLMs) require model editing to efficiently update
 specific knowledge within them and avoid factual errors. Most model editing

@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024one
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.05581"}
-tags: ['Uncategorized']
+tags: []
 ---
 As Large Language Models (LLMs) are nondeterministic, the same input can
 generate different outputs, some of which may be incorrect or hallucinated. If

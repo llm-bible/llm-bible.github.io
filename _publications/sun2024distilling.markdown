@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024distilling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11156"}
-tags: ['Interpretability And Explainability', 'Prompting', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Interpretability And Explainability', 'Prompting', 'Tools', 'Training Techniques']
 ---
 Sequential recommendation (SR) tasks enhance recommendation accuracy by
 capturing the connection between users' past interactions and their changing

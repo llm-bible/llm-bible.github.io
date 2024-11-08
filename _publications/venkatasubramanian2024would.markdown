@@ -7,7 +7,7 @@ year: 2024
 bibkey: venkatasubramanian2024would
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.06870"}
-tags: ['Applications', 'Interpretability And Explainability', 'Uncategorized']
+tags: ['Applications', 'Interpretability And Explainability']
 ---
 Large Language Models (LLMs) are often criticized for lacking true
 "understanding" and the ability to "reason" with their knowledge, being seen

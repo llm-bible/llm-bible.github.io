@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024personality
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.06762"}
-tags: ['Efficiency And Optimization', 'RAG', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'RAG', 'Tools', 'Training Techniques']
 ---
 Intelligent Tutoring Systems (ITSs) can provide personalized and self-paced
 learning experience. The emergence of large language models (LLMs) further

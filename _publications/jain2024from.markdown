@@ -7,7 +7,7 @@ year: 2024
 bibkey: jain2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.00361"}
-tags: ['Prompting', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Prompting', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 We present RICHES, a novel approach that interleaves retrieval with sequence
 generation tasks. RICHES offers an alternative to conventional RAG systems by

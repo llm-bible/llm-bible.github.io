@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.09853"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 The Turing test examines whether AIs can exhibit human-like behaviour in
 natural language conversations. Traditional Turing tests adopt a rigid dialogue

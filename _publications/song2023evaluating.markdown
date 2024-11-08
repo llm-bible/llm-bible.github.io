@@ -7,7 +7,7 @@ year: 2023
 bibkey: song2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.15630"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting']
 ---
 Recent developments in large language models (LLMs) have shown promise in
 enhancing the capabilities of natural language processing (NLP). Despite these

@@ -7,7 +7,7 @@ year: 2024
 bibkey: huutien2024effects
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.06223"}
-tags: ['Interpretability And Explainability', 'Reinforcement Learning', 'Security', 'Uncategorized']
+tags: ['Interpretability And Explainability', 'Reinforcement Learning', 'Security']
 ---
 Representation Misdirection for Unlearning (RMU), which steers model
 representation in the intermediate layer to a target random representation, is

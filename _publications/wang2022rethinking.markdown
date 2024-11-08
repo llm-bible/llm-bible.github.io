@@ -7,7 +7,7 @@ year: 2022
 bibkey: wang2022rethinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2208.10251"}
-tags: ['Attention Mechanism', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Security', 'Tools', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Security', 'Tools']
 ---
 Although pre-trained language models (PrLMs) have achieved significant
 success, recent studies demonstrate that PrLMs are vulnerable to adversarial

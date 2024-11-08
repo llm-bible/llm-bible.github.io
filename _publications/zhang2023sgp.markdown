@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023sgp
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.09067"}
-tags: ['Few Shot', 'Prompting', 'Training Techniques', 'Uncategorized']
+tags: ['Few Shot', 'Prompting', 'Training Techniques']
 ---
 Building end-to-end task bots and maintaining their integration with new
 functionalities using minimal human efforts is a long-standing challenge in

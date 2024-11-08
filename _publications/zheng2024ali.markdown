@@ -8,7 +8,7 @@ bibkey: zheng2024ali
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.14125"}
   - {name: "Code", url: "https://github.com/SophieZheng998/ALI-Agent.git"}
-tags: ['Agentic', 'Applications', 'Has Code', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Applications', 'Has Code', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 Large Language Models (LLMs) can elicit unintended and even harmful content
 when misaligned with human values, posing severe risks to users and society. To

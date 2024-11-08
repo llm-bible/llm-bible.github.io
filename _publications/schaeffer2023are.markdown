@@ -7,7 +7,7 @@ year: 2023
 bibkey: schaeffer2023are
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2304.15004v2"}
-tags: ['GPT', 'Interpretability And Explainability', 'Model Architecture', 'RAG', 'Survey Paper', 'Uncategorized']
+tags: ['GPT', 'Interpretability And Explainability', 'Model Architecture', 'RAG', 'Survey Paper']
 ---
 Recent work claims that large language models display emergent abilities,
 abilities not present in smaller-scale models that are present in larger-scale

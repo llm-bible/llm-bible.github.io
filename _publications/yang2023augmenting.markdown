@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023augmenting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.18098"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large language models (LLMs) demonstrate promising translation performance
 among various natural languages. However, many LLMs especially the open-sourced

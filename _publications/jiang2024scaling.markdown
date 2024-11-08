@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.15627"}
-tags: ['Efficiency And Optimization', 'RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 We present the design, implementation and engineering experience in building
 and deploying MegaScale, a production system for training large language models

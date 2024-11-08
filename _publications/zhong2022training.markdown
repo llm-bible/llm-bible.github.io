@@ -7,7 +7,7 @@ year: 2022
 bibkey: zhong2022training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.12674"}
-tags: ['Language Modeling', 'Model Architecture', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['Language Modeling', 'Model Architecture', 'RAG', 'Training Techniques']
 ---
 Recent work has improved language models (LMs) remarkably by equipping them
 with a non-parametric memory component. However, most existing approaches only

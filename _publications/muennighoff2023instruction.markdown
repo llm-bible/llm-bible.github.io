@@ -8,7 +8,7 @@ bibkey: muennighoff2023instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.07124"}
   - {name: "Code", url: "https://github.com/bigcode-project/octopack"}
-tags: ['Has Code', 'Interpretability And Explainability', 'RAG', 'Uncategorized']
+tags: ['Has Code', 'Interpretability And Explainability', 'RAG']
 ---
 Finetuning large language models (LLMs) on instructions leads to vast
 performance improvements on natural language tasks. We apply instruction tuning

@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02368"}
-tags: ['Efficiency And Optimization', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 Large language models (LLMs) have achieved remarkable progress in the field
 of natural language processing (NLP), demonstrating remarkable abilities in

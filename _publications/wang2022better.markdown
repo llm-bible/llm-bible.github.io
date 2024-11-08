@@ -7,7 +7,7 @@ year: 2022
 bibkey: wang2022better
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.13921"}
-tags: ['BERT', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Security', 'Uncategorized']
+tags: ['BERT', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Security']
 ---
 Existing metrics for assessing question generation not only require costly
 human reference but also fail to take into account the input context of

@@ -7,7 +7,7 @@ year: 2023
 bibkey: tann2023using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.10443"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Security', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Security']
 ---
 The assessment of cybersecurity Capture-The-Flag (CTF) exercises involves
 participants finding text strings or ``flags'' by exploiting system

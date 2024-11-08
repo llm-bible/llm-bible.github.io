@@ -7,7 +7,7 @@ year: 2024
 bibkey: bendale2024scalable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.06694"}
-tags: ['Applications', 'Efficiency And Optimization', 'Fairness', 'GPT', 'Model Architecture', 'Tools', 'Uncategorized']
+tags: ['Applications', 'Efficiency And Optimization', 'Fairness', 'GPT', 'Model Architecture', 'Tools']
 ---
 In this paper, we introduce SUTRA, multilingual Large Language Model
 architecture capable of understanding, reasoning, and generating text in over

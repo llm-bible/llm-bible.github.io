@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhong2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.10198"}
-tags: ['Attention Mechanism', 'BERT', 'GPT', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['Attention Mechanism', 'BERT', 'GPT', 'Model Architecture', 'Prompting']
 ---
 Recently, ChatGPT has attracted great attention, as it can generate fluent
 and high-quality responses to human inquiries. Several prior studies have shown

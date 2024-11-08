@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.18331"}
-tags: ['Agentic', 'Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting', 'Tools']
 ---
 Large Language Models (LLMs) have emerged as promising agents for web
 navigation tasks, interpreting objectives and interacting with web pages.

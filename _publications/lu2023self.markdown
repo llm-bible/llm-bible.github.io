@@ -7,7 +7,7 @@ year: 2023
 bibkey: lu2023self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.00533"}
-tags: ['Tools', 'Uncategorized']
+tags: ['Tools']
 ---
 Large Language Models (LLMs) have demonstrated remarkable versatility across
 various domains. To further advance LLMs, we propose 'SELF' (Self-Evolution

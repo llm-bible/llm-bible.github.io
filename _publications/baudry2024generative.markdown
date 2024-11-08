@@ -7,7 +7,7 @@ year: 2024
 bibkey: baudry2024generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.17626"}
-tags: ['Prompting', 'Uncategorized']
+tags: ['Prompting']
 ---
 Generating fake data is an essential dimension of modern software testing, as
 demonstrated by the number and significance of data faking libraries. Yet,

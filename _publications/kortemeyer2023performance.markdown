@@ -7,7 +7,7 @@ year: 2023
 bibkey: kortemeyer2023performance
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.09338"}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Training Techniques']
 ---
 Automated Short Answer Grading (ASAG) has been an active area of
 machine-learning research for over a decade. It promises to let educators grade

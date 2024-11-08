@@ -7,7 +7,7 @@ year: 2024
 bibkey: golany2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.01121"}
-tags: ['Uncategorized']
+tags: []
 ---
 Automating data generation with Large Language Models (LLMs) has become
 increasingly popular. In this work, we investigate the feasibility and

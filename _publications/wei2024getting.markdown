@@ -7,7 +7,7 @@ year: 2024
 bibkey: wei2024getting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.17404"}
-tags: ['Reinforcement Learning', 'Uncategorized']
+tags: ['Reinforcement Learning']
 ---
 Over the past decade, app store (AppStore)-inspired requirements elicitation
 has proven to be highly beneficial. Developers often explore competitors' apps

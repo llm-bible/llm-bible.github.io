@@ -7,7 +7,7 @@ year: 2023
 bibkey: fu2023from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.03976"}
-tags: ['Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Tools']
 ---
 In the rapidly evolving landscape of AI-mediated communication (AIMC), tools
 powered by Large Language Models (LLMs) are becoming integral to interpersonal

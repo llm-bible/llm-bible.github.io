@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.12847"}
-tags: ['Fine Tuning', 'Training Techniques', 'Uncategorized']
+tags: ['Fine Tuning', 'Training Techniques']
 ---
 In order for large language model (LLM)-based assistants to effectively adapt
 to evolving information needs, it must be possible to update their factual

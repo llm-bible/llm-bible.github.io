@@ -7,7 +7,7 @@ year: 2024
 bibkey: howe2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.18213"}
-tags: ['Prompting', 'Security', 'Training Techniques', 'Uncategorized']
+tags: ['Prompting', 'Security', 'Training Techniques']
 ---
 Language model capabilities predictably improve from scaling a model's size
 and training data. Motivated by this, increasingly large language models have

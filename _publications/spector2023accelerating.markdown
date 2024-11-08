@@ -7,7 +7,7 @@ year: 2023
 bibkey: spector2023accelerating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.04623"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 Recent advances with large language models (LLM) illustrate their diverse
 capabilities. We propose a novel algorithm, staged speculative decoding, to

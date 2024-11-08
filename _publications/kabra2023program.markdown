@@ -7,7 +7,7 @@ year: 2023
 bibkey: kabra2023program
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09553"}
-tags: ['Prompting', 'Uncategorized']
+tags: ['Prompting']
 ---
 Prior work shows that program-aided reasoning, in which large language models
 (LLMs) are combined with programs written in programming languages such as

@@ -7,7 +7,7 @@ year: 2023
 bibkey: roest2023next
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.10055"}
-tags: ['Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Prompting', 'Reinforcement Learning']
 ---
 Large Language Models possess skills such as answering questions, writing
 essays or solving programming exercises. Since these models are easily

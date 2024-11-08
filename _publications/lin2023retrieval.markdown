@@ -8,7 +8,7 @@ bibkey: lin2023retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.11131"}
   - {name: "Code", url: "https://github.com/LaVieEnRose365/ReLLa"}
-tags: ['Attention Mechanism', 'Few Shot', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Few Shot', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 With large language models (LLMs) achieving remarkable breakthroughs in
 natural language processing (NLP) domains, LLM-enhanced recommender systems

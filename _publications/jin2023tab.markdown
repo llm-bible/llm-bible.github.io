@@ -7,7 +7,7 @@ year: 2023
 bibkey: jin2023tab
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.17812v1"}
-tags: ['Few Shot', 'Prompting', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Few Shot', 'Prompting', 'RAG', 'Reinforcement Learning']
 ---
 The chain-of-though (CoT) prompting methods were successful in various
 natural language processing (NLP) tasks thanks to their ability to unveil the

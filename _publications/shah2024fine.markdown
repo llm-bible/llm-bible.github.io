@@ -7,7 +7,7 @@ year: 2024
 bibkey: shah2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.07162"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 Analyzing user reviews for sentiment towards app features can provide
 valuable insights into users' perceptions of app functionality and their

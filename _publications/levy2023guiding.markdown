@@ -7,7 +7,7 @@ year: 2023
 bibkey: levy2023guiding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.18360"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Tools', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Tools']
 ---
 Recent applications of LLMs in Machine Reading Comprehension (MRC) systems
 have shown impressive results, but the use of shortcuts, mechanisms triggered

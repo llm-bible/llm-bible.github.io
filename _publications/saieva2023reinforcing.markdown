@@ -7,7 +7,7 @@ year: 2023
 bibkey: saieva2023reinforcing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.03843"}
-tags: ['Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['Model Architecture', 'Training Techniques']
 ---
 This paper introduces a novel code-to-code search technique that enhances the
 performance of Large Language Models (LLMs) by including both static and

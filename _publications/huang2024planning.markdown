@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024planning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.00450"}
-tags: ['Applications', 'Tools', 'Uncategorized']
+tags: ['Applications', 'Tools']
 ---
 Recent advancements in integrating external tools with Large Language Models
 (LLMs) have opened new frontiers, with applications in mathematical reasoning,

@@ -7,7 +7,7 @@ year: 2023
 bibkey: bärmann2023incremental
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.04316"}
-tags: ['Model Architecture', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Natural-language dialog is key for intuitive human-robot interaction. It can
 be used not only to express humans' intents, but also to communicate

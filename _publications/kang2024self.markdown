@@ -7,7 +7,7 @@ year: 2024
 bibkey: kang2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12034"}
-tags: ['Interpretability And Explainability', 'Merging', 'RAG', 'Uncategorized']
+tags: ['Interpretability And Explainability', 'Merging', 'RAG']
 ---
 We present Self-MoE, an approach that transforms a monolithic LLM into a
 compositional, modular system of self-specialized experts, named MiXSE (MiXture

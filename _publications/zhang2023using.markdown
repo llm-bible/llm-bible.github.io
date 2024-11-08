@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.04535"}
-tags: ['Efficiency And Optimization', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 Test stimuli generation has been a crucial but labor-intensive task in
 hardware design verification. In this paper, we revolutionize this process by

@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024crayon
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11248"}
-tags: ['Fine Tuning', 'Prompting', 'Uncategorized']
+tags: ['Fine Tuning', 'Prompting']
 ---
 The remarkable success of Large Language Models (LLMs) and instruction tuning
 drives the evolution of Vision Language Models (VLMs) towards a versatile

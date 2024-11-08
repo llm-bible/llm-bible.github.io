@@ -7,7 +7,7 @@ year: 2024
 bibkey: sweetser2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.02613"}
-tags: ['Reinforcement Learning', 'Survey Paper', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Survey Paper']
 ---
 Large language models (LLMs) hold interesting potential for the design,
 development, and research of video games. Building on the decades of prior

@@ -8,7 +8,7 @@ bibkey: lu2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.06373"}
   - {name: "Code", url: "https://github.com/lawraa/LLM-Discussion"}
-tags: ['Has Code', 'Tools', 'Uncategorized']
+tags: ['Has Code', 'Tools']
 ---
 Large language models (LLMs) have shown exceptional proficiency in natural
 language processing but often fall short of generating creative and original

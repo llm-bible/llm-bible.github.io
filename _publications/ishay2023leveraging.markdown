@@ -7,7 +7,7 @@ year: 2023
 bibkey: ishay2023leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.07699"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG']
 ---
 Large language models (LLMs), such as GPT-3 and GPT-4, have demonstrated
 exceptional performance in various natural language processing tasks and have

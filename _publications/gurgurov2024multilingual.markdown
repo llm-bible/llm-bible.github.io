@@ -7,7 +7,7 @@ year: 2024
 bibkey: gurgurov2024multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10602"}
-tags: ['BERT', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tokenization', 'Training Techniques', 'Uncategorized']
+tags: ['BERT', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tokenization', 'Training Techniques']
 ---
 Multilingual Large Language Models (LLMs) have gained large popularity among
 Natural Language Processing (NLP) researchers and practitioners. These models,

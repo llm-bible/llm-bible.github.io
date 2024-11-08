@@ -7,7 +7,7 @@ year: 2024
 bibkey: kaur2024instruct
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.14774"}
-tags: ['Fine Tuning', 'Prompting', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Fine Tuning', 'Prompting', 'RAG', 'Reinforcement Learning']
 ---
 We introduce Instruct-SkillMix, an automated approach for creating diverse,
 high quality SFT data. The Instruct-SkillMix pipeline involves two stages, each

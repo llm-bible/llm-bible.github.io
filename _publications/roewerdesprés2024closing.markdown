@@ -7,7 +7,7 @@ year: 2024
 bibkey: roewerdesprés2024closing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02804"}
-tags: ['GPT', 'Model Architecture', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Tools']
 ---
 We present \\(\texttt\{ACCORD\}\\), a framework and benchmark suite for
 disentangling the commonsense grounding and reasoning abilities of large

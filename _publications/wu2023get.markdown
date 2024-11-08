@@ -7,7 +7,7 @@ year: 2023
 bibkey: wu2023get
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.06867"}
-tags: ['Prompting', 'RAG', 'Uncategorized']
+tags: ['Prompting', 'RAG']
 ---
 Chain-of-Thought (CoT) prompting methods have enabled large language models
 (LLMs) to generate reasoning paths and solve math word problems (MWPs).

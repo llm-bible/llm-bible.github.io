@@ -7,7 +7,7 @@ year: 2020
 bibkey: tu2020empirical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2007.06778"}
-tags: ['BERT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Uncategorized']
+tags: ['BERT', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 Recent work has shown that pre-trained language models such as BERT improve
 robustness to spurious correlations in the dataset. Intrigued by these results,

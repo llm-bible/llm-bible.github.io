@@ -7,7 +7,7 @@ year: 2023
 bibkey: wan2023poisoning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.00944"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG']
 ---
 Instruction-tuned LMs such as ChatGPT, FLAN, and InstructGPT are finetuned on
 datasets that contain user-submitted examples, e.g., FLAN aggregates numerous

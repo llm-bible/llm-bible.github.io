@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.20015"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 Tool-augmented large language models (LLMs) are rapidly being integrated into
 real-world applications. Due to the lack of benchmarks, the community still

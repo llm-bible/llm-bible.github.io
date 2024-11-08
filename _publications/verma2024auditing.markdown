@@ -7,7 +7,7 @@ year: 2024
 bibkey: verma2024auditing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.08498"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 We audited large language models (LLMs) for their ability to create
 evidence-based and stylistic counter-arguments to posts from the Reddit

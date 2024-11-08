@@ -7,7 +7,7 @@ year: 2023
 bibkey: cassano2023knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.09895"}
-tags: ['Merging', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['Merging', 'RAG', 'Training Techniques']
 ---
 Over the past few years, Large Language Models of Code (Code LLMs) have
 started to have a significant impact on programming practice. Code LLMs are

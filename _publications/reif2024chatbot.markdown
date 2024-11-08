@@ -7,7 +7,7 @@ year: 2024
 bibkey: reif2024chatbot
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.00800"}
-tags: ['Uncategorized']
+tags: []
 ---
 The following contribution introduces a concept that employs Large Language
 Models (LLMs) and a chatbot interface to enhance SPARQL query generation for

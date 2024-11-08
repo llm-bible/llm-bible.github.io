@@ -8,7 +8,7 @@ bibkey: xu2024bag
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.09324"}
   - {name: "Code", url: "https://github.com/usail-hkust/Bag_of_Tricks_for_LLM_Jailbreaking"}
-tags: ['Fine Tuning', 'Has Code', 'Prompting', 'RAG', 'Reinforcement Learning', 'Security', 'Tools', 'Uncategorized']
+tags: ['Fine Tuning', 'Has Code', 'Prompting', 'RAG', 'Reinforcement Learning', 'Security', 'Tools']
 ---
 Although Large Language Models (LLMs) have demonstrated significant
 capabilities in executing complex tasks in a zero-shot manner, they are

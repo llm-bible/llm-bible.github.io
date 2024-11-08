@@ -7,7 +7,7 @@ year: 2024
 bibkey: rescala2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.00750"}
-tags: ['Tools', 'Uncategorized']
+tags: ['Tools']
 ---
 The remarkable and ever-increasing capabilities of Large Language Models
 (LLMs) have raised concerns about their potential misuse for creating

@@ -7,7 +7,7 @@ year: 2023
 bibkey: dagan2023learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.11845"}
-tags: ['Uncategorized']
+tags: []
 ---
 Large Language Models (LLMs) handle physical commonsense information
 inadequately. As a result of being trained in a disembodied setting, LLMs often

@@ -7,7 +7,7 @@ year: 2024
 bibkey: fierro2024does
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.15206"}
-tags: ['Uncategorized']
+tags: []
 ---
 The purpose of instruction tuning is enabling zero-shot performance, but
 instruction tuning has also been shown to improve chain-of-thought reasoning

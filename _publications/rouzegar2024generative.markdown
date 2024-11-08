@@ -7,7 +7,7 @@ year: 2024
 bibkey: rouzegar2024generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13903"}
-tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 This study investigates how LLMs, specifically GPT-3.5 and GPT-4, can develop
 tailored questions for Grade 9 math, aligning with active learning principles.

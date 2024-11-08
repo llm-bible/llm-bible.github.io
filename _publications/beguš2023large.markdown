@@ -7,7 +7,7 @@ year: 2023
 bibkey: beguš2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.00948"}
-tags: ['GPT', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['GPT', 'Interpretability And Explainability', 'Model Architecture', 'Prompting']
 ---
 The performance of large language models (LLMs) has recently improved to the
 point where the models can perform well on many language tasks. We show here

@@ -7,7 +7,7 @@ year: 2023
 bibkey: guan2023intelligent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.06677"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Model Architecture', 'Reinforcement Learning']
 ---
 While intelligent virtual assistants like Siri, Alexa, and Google Assistant
 have become ubiquitous in modern life, they still face limitations in their

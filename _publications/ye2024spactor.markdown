@@ -7,7 +7,7 @@ year: 2024
 bibkey: ye2024spactor
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.13160"}
-tags: ['Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['Model Architecture', 'Training Techniques']
 ---
 Pre-training large language models is known to be extremely resource
 intensive and often times inefficient, under-utilizing the information

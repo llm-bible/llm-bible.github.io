@@ -8,7 +8,7 @@ bibkey: zhong2023seeking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.11451"}
   - {name: "Code", url: "https://maszhongming.github.io/ParaKnowTransfer"}
-tags: ['Fine Tuning', 'Has Code', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Fine Tuning', 'Has Code', 'Merging', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large Language Models (LLMs) inherently encode a wealth of knowledge within
 their parameters through pre-training on extensive corpora. While prior

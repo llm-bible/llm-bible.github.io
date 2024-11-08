@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024inference
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13990"}
-tags: ['Applications', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Training Techniques']
 ---
 The training process of large language models (LLMs) often involves varying
 degrees of test data contamination. Although current LLMs are achieving

@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024half
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.10056"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 Instruction tuning for large language models (LLMs) can drive them to produce
 results consistent with human goals in specific downstream tasks. However, the

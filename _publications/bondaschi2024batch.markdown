@@ -7,7 +7,7 @@ year: 2024
 bibkey: bondaschi2024batch
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.03901"}
-tags: ['RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['RAG', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have recently gained much popularity due to
 their surprising ability at generating human-like English sentences. LLMs are

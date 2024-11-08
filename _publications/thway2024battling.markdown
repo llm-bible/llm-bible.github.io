@@ -7,7 +7,7 @@ year: 2024
 bibkey: thway2024battling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.07796"}
-tags: ['RAG', 'Tools', 'Uncategorized']
+tags: ['RAG', 'Tools']
 ---
 Generative artificial intelligence (GenAI) and large language models (LLMs)
 have simultaneously opened new avenues for enhancing human learning and

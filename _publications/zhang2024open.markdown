@@ -8,7 +8,7 @@ bibkey: zhang2024open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.02385"}
   - {name: "Code", url: "https://github.com/jzhang38/TinyLlama"}
-tags: ['Attention Mechanism', 'Efficiency And Optimization', 'GPT', 'Has Code', 'Model Architecture', 'RAG', 'Uncategorized']
+tags: ['Attention Mechanism', 'Efficiency And Optimization', 'GPT', 'Has Code', 'Model Architecture', 'RAG']
 ---
 We present TinyLlama, a compact 1.1B language model pretrained on around 1
 trillion tokens for approximately 3 epochs. Building on the architecture and

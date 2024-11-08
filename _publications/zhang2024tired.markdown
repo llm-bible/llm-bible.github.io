@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024tired
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.00702"}
-tags: ['Efficiency And Optimization', 'Interpretability And Explainability', 'Tools', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Interpretability And Explainability', 'Tools']
 ---
 Recommender systems aim to predict user interest based on historical
 behavioral data. They are mainly designed in sequential pipelines, requiring

@@ -8,7 +8,7 @@ bibkey: pereira2022multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.09656"}
   - {name: "Code", url: "https://github.com/neuralmind-ai/visconde"}
-tags: ['Few Shot', 'GPT', 'Has Code', 'Interpretability And Explainability', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Few Shot', 'GPT', 'Has Code', 'Interpretability And Explainability', 'Model Architecture', 'Reinforcement Learning']
 ---
 This paper proposes a question-answering system that can answer questions
 whose supporting evidence is spread over multiple (potentially long) documents.

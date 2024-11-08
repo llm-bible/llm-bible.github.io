@@ -7,7 +7,7 @@ year: 2016
 bibkey: le2016lstm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1605.01652"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture']
 ---
 We introduce an LSTM-based method for dynamically integrating several
 word-prediction experts to obtain a conditional language model which can be

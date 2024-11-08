@@ -7,7 +7,7 @@ year: 2023
 bibkey: ruan2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.03427"}
-tags: ['Agentic', 'Applications', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Applications', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 With recent advancements in natural language processing, Large Language
 Models (LLMs) have emerged as powerful tools for various real-world

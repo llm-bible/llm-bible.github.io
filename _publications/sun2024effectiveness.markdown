@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024effectiveness
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.15963"}
-tags: ['GPT', 'Interpretability And Explainability', 'Model Architecture', 'Survey Paper', 'Uncategorized']
+tags: ['GPT', 'Interpretability And Explainability', 'Model Architecture', 'Survey Paper']
 ---
 Electronic health records contain detailed information about the medical
 condition of patients, but they are difficult for patients to understand even

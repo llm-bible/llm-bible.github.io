@@ -7,7 +7,7 @@ year: 2024
 bibkey: hasan2024do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.02237"}
-tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have garnered significant interest in natural
 language processing (NLP), particularly their remarkable performance in various

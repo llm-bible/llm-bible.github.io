@@ -8,7 +8,7 @@ bibkey: wu2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.03302"}
   - {name: "Code", url: "https://github.com/Di-viner/LLM-Robustness-to-Irrelevant-Information"}
-tags: ['Has Code', 'RAG', 'Security', 'Tools', 'Uncategorized']
+tags: ['Has Code', 'RAG', 'Security', 'Tools']
 ---
 By leveraging the retrieval of information from external knowledge databases,
 Large Language Models (LLMs) exhibit enhanced capabilities for accomplishing

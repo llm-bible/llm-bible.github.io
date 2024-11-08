@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024dpp
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.00292"}
-tags: ['Efficiency And Optimization', 'Prompting', 'Security', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Prompting', 'Security']
 ---
 Language models risk generating mindless and offensive content, which hinders
 their safe deployment. Therefore, it is crucial to discover and modify

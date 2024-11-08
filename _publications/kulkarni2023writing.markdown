@@ -7,7 +7,7 @@ year: 2023
 bibkey: kulkarni2023writing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.16275"}
-tags: ['Uncategorized']
+tags: []
 ---
 Intelligent writing assistants powered by large language models (LLMs) are
 more popular today than ever before, but their further widespread adoption is

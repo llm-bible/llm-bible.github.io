@@ -7,7 +7,7 @@ year: 2023
 bibkey: shen2023storygpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.02252"}
-tags: ['Attention Mechanism', 'GPT', 'Merging', 'Model Architecture', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['Attention Mechanism', 'GPT', 'Merging', 'Model Architecture', 'Prompting', 'RAG']
 ---
 Recent generative models have demonstrated impressive capabilities in
 generating realistic and visually pleasing images grounded on textual prompts.

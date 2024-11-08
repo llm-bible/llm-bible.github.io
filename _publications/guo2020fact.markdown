@@ -7,7 +7,7 @@ year: 2020
 bibkey: guo2020fact
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2001.11383"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 Sentence Split and Rephrase aims to break down a complex sentence into
 several simple sentences with its meaning preserved. Previous studies tend to

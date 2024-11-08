@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024refining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.09621"}
-tags: ['Efficiency And Optimization', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Training Techniques']
 ---
 Packing and shuffling tokens is a common practice in training auto-regressive
 language models (LMs) to prevent overfitting and improve efficiency. Typically

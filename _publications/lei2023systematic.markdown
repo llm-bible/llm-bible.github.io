@@ -7,7 +7,7 @@ year: 2023
 bibkey: lei2023systematic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15147"}
-tags: ['Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Tools']
 ---
 The rapid development of Large Language Models (LLMs) has led to great
 strides in model capabilities like long-context understanding and reasoning.

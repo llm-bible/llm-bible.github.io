@@ -7,7 +7,7 @@ year: 2011
 bibkey: collobert2011natural
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/1103.0398v1"}
-tags: ['Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['Model Architecture', 'Training Techniques']
 ---
 We propose a unified neural network architecture and learning algorithm that
 can be applied to various natural language processing tasks including:

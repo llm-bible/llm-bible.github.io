@@ -7,7 +7,7 @@ year: 2024
 bibkey: chan2024conversational
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.04681"}
-tags: ['Survey Paper', 'Uncategorized']
+tags: ['Survey Paper']
 ---
 This study examines the impact of AI on human false memories -- recollections
 of events that did not occur or deviate from actual occurrences. It explores

@@ -7,7 +7,7 @@ year: 2023
 bibkey: cui2023drive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.08034"}
-tags: ['Merging', 'Prompting', 'RAG', 'Reinforcement Learning', 'Responsible AI', 'Tools', 'Uncategorized']
+tags: ['Merging', 'Prompting', 'RAG', 'Reinforcement Learning', 'Responsible AI', 'Tools']
 ---
 The fusion of human-centric design and artificial intelligence (AI)
 capabilities has opened up new possibilities for next-generation autonomous

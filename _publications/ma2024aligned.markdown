@@ -7,7 +7,7 @@ year: 2024
 bibkey: ma2024aligned
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.03851"}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Training Techniques']
 ---
 Recently, there has been a surge in the popularity of pre trained large
 language models (LLMs) (such as GPT-4), sweeping across the entire Natural

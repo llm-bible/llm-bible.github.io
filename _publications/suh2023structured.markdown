@@ -7,7 +7,7 @@ year: 2023
 bibkey: suh2023structured
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.12953"}
-tags: ['Fine Tuning', 'Tools', 'Uncategorized']
+tags: ['Fine Tuning', 'Tools']
 ---
 Thanks to their generative capabilities, large language models (LLMs) have
 become an invaluable tool for creative processes. These models have the

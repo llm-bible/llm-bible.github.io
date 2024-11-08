@@ -7,7 +7,7 @@ year: 2024
 bibkey: shang2024synergy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.02563"}
-tags: ['RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 Large language models (LLMs) have shown impressive emergent abilities in a
 wide range of tasks, but the associated expensive API cost greatly limits the

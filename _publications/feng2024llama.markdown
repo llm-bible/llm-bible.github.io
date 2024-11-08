@@ -7,7 +7,7 @@ year: 2024
 bibkey: feng2024llama
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.06714"}
-tags: ['BERT', 'Model Architecture', 'RAG', 'Tools', 'Uncategorized']
+tags: ['BERT', 'Model Architecture', 'RAG', 'Tools']
 ---
 Recent advancements in Natural Language Processing (NLP) have seen
 Large-scale Language Models (LLMs) excel at producing high-quality text for

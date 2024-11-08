@@ -8,7 +8,7 @@ bibkey: ye2024unveiling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10753"}
   - {name: "Code", url: "https://github.com/Junjie-Ye/ToolSword"}
-tags: ['GPT', 'Has Code', 'Merging', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Responsible AI', 'Security', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Merging', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Responsible AI', 'Security', 'Tools']
 ---
 Tool learning is widely acknowledged as a foundational approach or deploying
 large language models (LLMs) in real-world scenarios. While current research

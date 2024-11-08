@@ -7,7 +7,7 @@ year: 2024
 bibkey: chiang2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.05216"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Using large language models (LLMs) for automatic evaluation has become an
 important evaluation method in NLP research. However, it is unclear whether

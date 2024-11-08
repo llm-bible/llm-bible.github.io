@@ -7,7 +7,7 @@ year: 2023
 bibkey: tsai2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.02868"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning']
 ---
 Large language models (LLMs) such as ChatGPT and GPT-4 have recently
 demonstrated their remarkable abilities of communicating with human users. In

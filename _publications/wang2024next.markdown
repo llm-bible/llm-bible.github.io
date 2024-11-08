@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024next
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.04898"}
-tags: ['Interpretability And Explainability', 'RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Interpretability And Explainability', 'RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 Recently, various Large Language Models (LLMs) evaluation datasets have
 emerged, but most of them have issues with distorted rankings and difficulty in

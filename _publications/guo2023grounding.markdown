@@ -8,7 +8,7 @@ bibkey: guo2023grounding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.00329"}
   - {name: "Code", url: "https://sites.google.com/view/doremi-paper"}
-tags: ['Has Code', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Has Code', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 Large language models (LLMs) encode a vast amount of semantic knowledge and
 possess remarkable understanding and reasoning capabilities. Previous work has

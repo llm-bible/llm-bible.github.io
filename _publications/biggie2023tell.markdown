@@ -7,7 +7,7 @@ year: 2023
 bibkey: biggie2023tell
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.09523"}
-tags: ['Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Humans have the remarkable ability to navigate through unfamiliar
 environments by solely relying on our prior knowledge and descriptions of the

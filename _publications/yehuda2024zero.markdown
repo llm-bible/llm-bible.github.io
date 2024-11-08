@@ -7,7 +7,7 @@ year: 2024
 bibkey: yehuda2024zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.02889"}
-tags: ['Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Despite the many advances of Large Language Models (LLMs) and their
 unprecedented rapid evolution, their impact and integration into every facet of

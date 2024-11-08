@@ -7,7 +7,7 @@ year: 2024
 bibkey: horiguchi2024evolution
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00993"}
-tags: ['Agentic', 'RAG', 'Uncategorized']
+tags: ['Agentic', 'RAG']
 ---
 Recent advancements in Large Language Models (LLMs) have spurred a surge of
 interest in leveraging these models for game-theoretical simulations, where

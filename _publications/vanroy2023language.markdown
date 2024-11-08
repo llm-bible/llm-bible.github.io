@@ -7,7 +7,7 @@ year: 2023
 bibkey: vanroy2023language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.12852"}
-tags: ['Tools', 'Uncategorized']
+tags: ['Tools']
 ---
 Despite the rapid expansion of types of large language models, there remains
 a notable gap in models specifically designed for the Dutch language. This gap

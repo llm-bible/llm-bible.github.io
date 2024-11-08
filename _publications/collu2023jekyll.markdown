@@ -7,7 +7,7 @@ year: 2023
 bibkey: collu2023jekyll
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.03853"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Responsible AI', 'Security', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Responsible AI', 'Security', 'Training Techniques']
 ---
 Recently, we have witnessed a rise in the use of Large Language Models
 (LLMs), especially in applications like chatbot assistants. Safety mechanisms

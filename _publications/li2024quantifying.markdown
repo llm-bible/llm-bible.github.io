@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024quantifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.11553"}
-tags: ['Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 The development of Large Language Models (LLMs) relies on extensive text
 corpora, which are often unevenly distributed across languages. This imbalance

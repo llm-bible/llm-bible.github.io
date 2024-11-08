@@ -8,7 +8,7 @@ bibkey: chen2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.18439"}
   - {name: "Code", url: "https://github.com/thunlp/AutoForm"}
-tags: ['Agentic', 'Efficiency And Optimization', 'Has Code', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Agentic', 'Efficiency And Optimization', 'Has Code', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Natural language (NL) has long been the predominant format for human
 cognition and communication, and by extension, has been similarly pivotal in

@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023critic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.04592"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG']
 ---
 As large language models improve, there is increasing interest in techniques
 that leverage these models' capabilities to refine their own outputs. In this

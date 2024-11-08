@@ -7,7 +7,7 @@ year: 2024
 bibkey: urlana2024no
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.01444"}
-tags: ['Applications', 'Merging', 'RAG', 'Uncategorized']
+tags: ['Applications', 'Merging', 'RAG']
 ---
 Large language models (LLMs) are playing a pivotal role in deploying
 strategic use cases across a range of organizations, from large pan-continental

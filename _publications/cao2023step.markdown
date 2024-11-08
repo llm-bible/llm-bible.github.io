@@ -8,7 +8,7 @@ bibkey: cao2023step
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.07491"}
   - {name: "Code", url: "https://github.com/alkaidpku/DQ-ToolQA"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Tools']
 ---
 While large language models exhibit remarkable performance in the Question
 Answering task, they are susceptible to hallucinations. Challenges arise when

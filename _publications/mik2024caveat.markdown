@@ -7,7 +7,7 @@ year: 2024
 bibkey: mik2024caveat
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.09163"}
-tags: ['Reinforcement Learning', 'Uncategorized']
+tags: ['Reinforcement Learning']
 ---
 The current fascination with large language models, or LLMs, derives from the
 fact that many users lack the expertise to evaluate the quality of the

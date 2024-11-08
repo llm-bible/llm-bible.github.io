@@ -7,7 +7,7 @@ year: 2024
 bibkey: shao2024visual
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2403.16999v2"}
-tags: ['Interpretability And Explainability', 'Tools', 'Uncategorized']
+tags: ['Interpretability And Explainability', 'Tools']
 ---
 Multi-Modal Large Language Models (MLLMs) have demonstrated impressive
 performance in various VQA tasks. However, they often lack interpretability and

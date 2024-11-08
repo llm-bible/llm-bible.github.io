@@ -7,7 +7,7 @@ year: 2024
 bibkey: shen2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.08819"}
-tags: ['Applications', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'Reinforcement Learning']
 ---
 We consider the issue of calibration in large language models (LLM). Recent
 studies have found that common interventions such as instruction tuning often

@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023hypothesis
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.05660"}
-tags: ['Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Prompting', 'Reinforcement Learning']
 ---
 Inductive reasoning is a core problem-solving capacity: humans can identify
 underlying principles from a few examples, which robustly generalize to novel

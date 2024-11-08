@@ -7,7 +7,7 @@ year: 2023
 bibkey: guo2023connecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.08532"}
-tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Tools', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Tools']
 ---
 Large Language Models (LLMs) excel in various tasks, but they rely on
 carefully crafted prompts that often demand substantial human effort. To

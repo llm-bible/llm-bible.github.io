@@ -7,7 +7,7 @@ year: 2023
 bibkey: fu2023misusing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.03185"}
-tags: ['Prompting', 'Reinforcement Learning', 'Security', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Prompting', 'Reinforcement Learning', 'Security', 'Tools', 'Training Techniques']
 ---
 Large Language Models (LLMs) are being enhanced with the ability to use tools
 and to process multiple modalities. These new capabilities bring new benefits

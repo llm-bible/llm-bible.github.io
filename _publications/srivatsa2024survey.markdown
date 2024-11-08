@@ -7,7 +7,7 @@ year: 2024
 bibkey: srivatsa2024survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.00227"}
-tags: ['Survey Paper', 'Tools', 'Uncategorized']
+tags: ['Survey Paper', 'Tools']
 ---
 Infrastructure as Code (IaC) is a revolutionary approach which has gained
 significant prominence in the Industry. IaC manages and provisions IT

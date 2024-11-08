@@ -7,7 +7,7 @@ year: 2024
 bibkey: yuan2024continued
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.09057"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 LLMs are revolutionizing NLP tasks. However, the use of the most advanced
 LLMs, such as GPT-4, is often prohibitively expensive for most specialized

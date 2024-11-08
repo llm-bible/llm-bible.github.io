@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhan2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.01288"}
-tags: ['Reinforcement Learning', 'Uncategorized']
+tags: ['Reinforcement Learning']
 ---
 Large language models (LLMs) have offered new opportunities for emotional
 support, and recent work has shown that they can produce empathic responses to

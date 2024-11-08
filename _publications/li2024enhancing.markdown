@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.09671"}
-tags: ['Prompting', 'Security', 'Tools', 'Uncategorized']
+tags: ['Prompting', 'Security', 'Tools']
 ---
 In recent years, LLM has demonstrated remarkable proficiency in comprehending
 and generating natural language, with a growing prevalence in the domain of

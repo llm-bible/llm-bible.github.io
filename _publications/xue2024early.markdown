@@ -7,7 +7,7 @@ year: 2024
 bibkey: xue2024early
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01739"}
-tags: ['Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 To help the open-source community have a better understanding of
 Mixture-of-Experts (MoE) based large language models (LLMs), we train and

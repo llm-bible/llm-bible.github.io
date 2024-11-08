@@ -8,7 +8,7 @@ bibkey: guo2024ds
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17453"}
   - {name: "Code", url: "https://github.com/guosyjlu/DS-Agent"}
-tags: ['Agentic', 'GPT', 'Has Code', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Agentic', 'GPT', 'Has Code', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques']
 ---
 In this work, we investigate the potential of large language models (LLMs)
 based agents to automate data science tasks, with the goal of comprehending

@@ -7,7 +7,7 @@ year: 2023
 bibkey: huang2023comparing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.04059"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG']
 ---
 Automated coaching messages for weight control can save time and costs, but
 their repetitive, generic nature may limit their effectiveness compared to

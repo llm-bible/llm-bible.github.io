@@ -7,7 +7,7 @@ year: 2024
 bibkey: obrien2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.08225"}
-tags: ['BERT', 'Model Architecture', 'RAG', 'Security', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['BERT', 'Model Architecture', 'RAG', 'Security', 'Tools', 'Training Techniques']
 ---
 Machine learning models for text classification often excel on
 in-distribution (ID) data but struggle with unseen out-of-distribution (OOD)

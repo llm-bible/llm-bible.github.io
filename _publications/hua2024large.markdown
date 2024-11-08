@@ -7,7 +7,7 @@ year: 2024
 bibkey: hua2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.02984"}
-tags: ['Applications', 'Merging', 'Security', 'Survey Paper', 'Tools', 'Uncategorized']
+tags: ['Applications', 'Merging', 'Security', 'Survey Paper', 'Tools']
 ---
 The integration of large language models (LLMs) in mental health care is an
 emerging field. There is a need to systematically review the application

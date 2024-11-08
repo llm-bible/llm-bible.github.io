@@ -7,7 +7,7 @@ year: 2023
 bibkey: xiong2023rationale
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.06547"}
-tags: ['Interpretability And Explainability', 'Merging', 'Security', 'Uncategorized']
+tags: ['Interpretability And Explainability', 'Merging', 'Security']
 ---
 Continual relation extraction (CRE) aims to solve the problem of catastrophic
 forgetting when learning a sequence of newly emerging relations. Recent CRE

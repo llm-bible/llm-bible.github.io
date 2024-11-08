@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.15172"}
   - {name: "Code", url: "https://github.com/neuralmind-ai/coliee"}
   - {name: "Code", url: "https://neuralsearchx.neuralmind.ai,"}
-tags: ['Applications', 'Few Shot', 'GPT', 'Has Code', 'Merging', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Few Shot', 'GPT', 'Has Code', 'Merging', 'Model Architecture', 'Training Techniques']
 ---
 Recent work has shown that language models scaled to billions of parameters,
 such as GPT-3, perform remarkably well in zero-shot and few-shot scenarios. In

@@ -7,7 +7,7 @@ year: 2024
 bibkey: pordanesh2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.06637"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Security', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Security']
 ---
 This study investigates the capabilities of Large Language Models (LLMs),
 specifically GPT-4, in the context of Binary Reverse Engineering (RE).

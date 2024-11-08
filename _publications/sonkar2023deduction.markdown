@@ -7,7 +7,7 @@ year: 2023
 bibkey: sonkar2023deduction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14507"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 We explore whether Large Language Models (LLMs) are capable of logical
 reasoning with distorted facts, which we call Deduction under Perturbed

@@ -7,7 +7,7 @@ year: 2022
 bibkey: collins2022benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.05718"}
-tags: ['Interpretability And Explainability', 'Uncategorized']
+tags: ['Interpretability And Explainability']
 ---
 Human language offers a powerful window into our thoughts -- we tell stories,
 give explanations, and express our beliefs and goals through words. Abundant

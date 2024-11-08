@@ -7,7 +7,7 @@ year: 2023
 bibkey: grinbaum2023dual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.07882"}
-tags: ['Responsible AI', 'Tools', 'Uncategorized']
+tags: ['Responsible AI', 'Tools']
 ---
 We suggest the implementation of the Dual Use Research of Concern (DURC)
 framework, originally designed for life sciences, to the domain of generative

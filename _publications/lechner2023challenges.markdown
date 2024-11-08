@@ -7,7 +7,7 @@ year: 2023
 bibkey: lechner2023challenges
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.14641"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Uncategorized']
+tags: ['Agentic', 'GPT', 'Model Architecture']
 ---
 The potential to provide patients with faster information access while
 allowing medical specialists to concentrate on critical tasks makes medical

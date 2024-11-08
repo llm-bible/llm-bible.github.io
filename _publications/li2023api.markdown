@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023api
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.08244"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'TACL', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG', 'TACL', 'Tools', 'Training Techniques']
 ---
 Recent research has demonstrated that Large Language Models (LLMs) can
 enhance their capabilities by utilizing external tools. However, three pivotal

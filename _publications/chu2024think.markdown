@@ -8,7 +8,7 @@ bibkey: chu2024think
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.07355"}
   - {name: "Code", url: "https://github.com/BBeeChu/InteractEval.git"}
-tags: ['Has Code', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Has Code', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 This study introduces \textbf\{InteractEval\}, a framework that integrates
 human expertise and Large Language Models (LLMs) using the Think-Aloud (TA)

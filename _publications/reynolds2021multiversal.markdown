@@ -7,7 +7,7 @@ year: 2021
 bibkey: reynolds2021multiversal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2102.06391"}
-tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 The virtuosity of language models like GPT-3 opens a new world of possibility
 for human-AI collaboration in writing. In this paper, we present a framework in

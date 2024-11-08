@@ -7,7 +7,7 @@ year: 2023
 bibkey: verma2023emulating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.11266"}
-tags: ['GPT', 'Model Architecture', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Tools']
 ---
 In response to the pressing need for advanced clinical problem-solving tools
 in healthcare, we introduce BooksMed, a novel framework based on a Large

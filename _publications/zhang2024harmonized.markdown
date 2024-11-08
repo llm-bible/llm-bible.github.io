@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024harmonized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.15766"}
-tags: ['Attention Mechanism', 'Model Architecture', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'RAG', 'Training Techniques']
 ---
 Speculative sampling has proven to be an effective solution to accelerate
 decoding from large language models, where the acceptance rate significantly

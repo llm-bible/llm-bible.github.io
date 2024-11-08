@@ -8,7 +8,7 @@ bibkey: sharma2024dsl
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11755"}
   - {name: "Code", url: "https://prompt-compiler.github.io/SPML/"}
-tags: ['Applications', 'GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Security', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Has Code', 'Model Architecture', 'Prompting', 'Security']
 ---
 Large language models (LLMs) have profoundly transformed natural language
 applications, with a growing reliance on instruction-based definitions for

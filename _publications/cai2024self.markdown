@@ -7,7 +7,7 @@ year: 2024
 bibkey: cai2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02721"}
-tags: ['Efficiency And Optimization', 'Uncategorized']
+tags: ['Efficiency And Optimization']
 ---
 We propose Self-Control, a novel method utilizing suffix gradients to control
 the behavior of large language models (LLMs) without explicit human

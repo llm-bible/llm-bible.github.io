@@ -8,7 +8,7 @@ bibkey: chern2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.16788"}
   - {name: "Code", url: "https://github.com/GAIR-NLP/scaleeval"}
-tags: ['Agentic', 'Has Code', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Has Code', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 Despite the utility of Large Language Models (LLMs) across a wide range of
 tasks and scenarios, developing a method for reliably evaluating LLMs across

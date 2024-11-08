@@ -7,7 +7,7 @@ year: 2023
 bibkey: qin2023tool
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2304.08354v3"}
-tags: ['Efficiency And Optimization', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Reinforcement Learning', 'Tools']
 ---
 Humans possess an extraordinary ability to create and utilize tools, allowing
 them to overcome physical limitations and explore new frontiers. With the

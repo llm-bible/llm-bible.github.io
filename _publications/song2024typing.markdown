@@ -7,7 +7,7 @@ year: 2024
 bibkey: song2024typing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.14362"}
-tags: ['Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Tools']
 ---
 People experiencing severe distress increasingly use Large Language Model
 (LLM) chatbots as mental health support tools. Discussions on social media have

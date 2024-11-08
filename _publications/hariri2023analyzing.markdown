@@ -7,7 +7,7 @@ year: 2023
 bibkey: hariri2023analyzing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.02518"}
-tags: ['GPT', 'Model Architecture', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Tools']
 ---
 The article aims to analyze the performance of ChatGPT, a large language
 model developed by OpenAI, in the context of cardiology and vascular

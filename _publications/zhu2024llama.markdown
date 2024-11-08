@@ -8,7 +8,7 @@ bibkey: zhu2024llama
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.16554"}
   - {name: "Code", url: "https://github.com/pjlab-sys4nlp/llama-moe"}
-tags: ['Has Code', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Has Code', 'Tools', 'Training Techniques']
 ---
 Mixture-of-Experts (MoE) has gained increasing popularity as a promising
 framework for scaling up large language models (LLMs). However, training MoE

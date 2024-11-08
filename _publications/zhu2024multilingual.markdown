@@ -8,7 +8,7 @@ bibkey: zhu2024multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.10795"}
   - {name: "Code", url: "https://github.com/NJUNLP/SkipLayerCD"}
-tags: ['Has Code', 'Interpretability And Explainability', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Has Code', 'Interpretability And Explainability', 'Reinforcement Learning']
 ---
 Decoding by contrasting layers (DoLa), is designed to improve the generation
 quality of large language models (LLMs) by contrasting the prediction

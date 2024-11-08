@@ -7,7 +7,7 @@ year: 2024
 bibkey: upadhayay2024sandwich
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.07242"}
-tags: ['GPT', 'Model Architecture', 'Responsible AI', 'Security', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Responsible AI', 'Security', 'Training Techniques']
 ---
 Large Language Models (LLMs) are increasingly being developed and applied,
 but their widespread use faces challenges. These include aligning LLMs'

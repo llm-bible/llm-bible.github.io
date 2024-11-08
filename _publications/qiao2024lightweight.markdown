@@ -7,7 +7,7 @@ year: 2024
 bibkey: qiao2024lightweight
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13840"}
-tags: ['Interpretability And Explainability', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Interpretability And Explainability', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 Traditional session-based recommendation (SBR) utilizes session behavior
 sequences from anonymous users for recommendation. Although this strategy is

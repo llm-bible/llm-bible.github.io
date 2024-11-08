@@ -7,7 +7,7 @@ year: 2023
 bibkey: capra2023how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.03826"}
-tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Fine Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 Generative AI tools such as chatGPT are poised to change the way people
 engage with online information. Recently, Microsoft announced their "new Bing"

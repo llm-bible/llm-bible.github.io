@@ -7,7 +7,7 @@ year: 2023
 bibkey: wu2023toward
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.04557"}
-tags: ['Efficiency And Optimization', 'Security', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Security', 'Training Techniques']
 ---
 Beyond the success story of adversarial training (AT) in the recent text
 domain on top of pre-trained language models (PLMs), our empirical study

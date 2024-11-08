@@ -7,7 +7,7 @@ year: 2024
 bibkey: hu2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.00764"}
-tags: ['Agentic', 'Attention Mechanism', 'Fine Tuning', 'GPT', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Agentic', 'Attention Mechanism', 'Fine Tuning', 'GPT', 'Model Architecture', 'RAG', 'Tools', 'Training Techniques']
 ---
 Large Language Model (LLM) based agents have garnered significant attention
 and are becoming increasingly popular. Furthermore, planning ability is a

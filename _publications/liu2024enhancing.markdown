@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.16434"}
-tags: ['Attention Mechanism', 'BERT', 'GPT', 'Model Architecture', 'Uncategorized']
+tags: ['Attention Mechanism', 'BERT', 'GPT', 'Model Architecture']
 ---
 When reading long-form text, human cognition is complex and structurized.
 While large language models (LLMs) process input contexts through a causal and

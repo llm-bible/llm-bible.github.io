@@ -7,7 +7,7 @@ year: 2023
 bibkey: santu2023general
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.11430"}
-tags: ['Prompting', 'Uncategorized']
+tags: ['Prompting']
 ---
 While LLMs have shown great success in understanding and generating text in
 traditional conversational settings, their potential for performing ill-defined

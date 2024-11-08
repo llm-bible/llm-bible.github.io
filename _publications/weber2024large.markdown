@@ -7,7 +7,7 @@ year: 2024
 bibkey: weber2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.07732"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Prompting']
 ---
 Large Language Models (LLMs) offer numerous applications, the full extent of
 which is not yet understood. This paper investigates if LLMs can be applied for

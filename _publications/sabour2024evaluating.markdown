@@ -8,7 +8,7 @@ bibkey: sabour2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.12071"}
   - {name: "Code", url: "https://github.com/Sahandfer/EmoBench"}
-tags: ['Has Code', 'RAG', 'Uncategorized']
+tags: ['Has Code', 'RAG']
 ---
 Recent advances in Large Language Models (LLMs) have highlighted the need for
 robust, comprehensive, and challenging benchmarks. Yet, research on evaluating

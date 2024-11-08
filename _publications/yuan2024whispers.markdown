@@ -7,7 +7,7 @@ year: 2024
 bibkey: yuan2024whispers
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.19103"}
-tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large Language Models (LLMs) have shown impressive capabilities but still
 suffer from the issue of hallucinations. A significant type of this issue is

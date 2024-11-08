@@ -8,7 +8,7 @@ bibkey: juneja2024simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.02255"}
   - {name: "Code", url: "https://github.com/LCS2-IIITD/Language_Model_Multiplex)"}
-tags: ['Has Code', 'Security', 'Uncategorized']
+tags: ['Has Code', 'Security']
 ---
 Despite demonstrating emergent reasoning abilities, Large Language Models
 (LLMS) often lose track of complex, multi-step reasoning. Existing studies show

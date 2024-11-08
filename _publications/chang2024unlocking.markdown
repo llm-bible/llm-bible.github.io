@@ -7,7 +7,7 @@ year: 2024
 bibkey: chang2024unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.01007"}
-tags: ['Fine Tuning', 'Security', 'Uncategorized']
+tags: ['Fine Tuning', 'Security']
 ---
 This booklet, "Unlocking the Wisdom of Large Language Models," serves as an
 introduction to the comprehensive work "The Path to Artificial General

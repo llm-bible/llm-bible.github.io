@@ -7,7 +7,7 @@ year: 2019
 bibkey: zhou2019question
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.00140"}
-tags: ['Uncategorized']
+tags: []
 ---
 Question generation is a challenging task which aims to ask a question based
 on an answer and relevant context. The existing works suffer from the

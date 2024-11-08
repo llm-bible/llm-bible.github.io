@@ -7,7 +7,7 @@ year: 2024
 bibkey: huynh2024prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12593"}
-tags: ['Prompting', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['Prompting', 'RAG', 'Training Techniques']
 ---
 Differentiable Search Index (DSI) utilizes Pre-trained Language Models (PLMs)
 for efficient document retrieval without relying on external indexes. However,

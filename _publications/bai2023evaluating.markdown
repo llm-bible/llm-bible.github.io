@@ -7,7 +7,7 @@ year: 2023
 bibkey: bai2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.09725"}
-tags: ['Fine Tuning', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Fine Tuning', 'Reinforcement Learning', 'Tools']
 ---
 Large language models (LLMs) demonstrate remarkable performance on
 knowledge-intensive tasks, suggesting that real-world knowledge is encoded in

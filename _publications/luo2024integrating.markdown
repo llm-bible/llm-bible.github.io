@@ -7,7 +7,7 @@ year: 2024
 bibkey: luo2024integrating
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2401.13870v1"}
-tags: ['Prompting', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Prompting', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 Conventional recommendation methods have achieved notable advancements by
 harnessing collaborative or sequential information from user behavior.

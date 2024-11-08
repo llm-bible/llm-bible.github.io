@@ -8,7 +8,7 @@ bibkey: cahyawijaya2023high
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.13627"}
   - {name: "Code", url: "https://github.com/HLTCHKUST/InstructAlign"}
-tags: ['Has Code', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Has Code', 'Reinforcement Learning']
 ---
 Large language models (LLMs) that are tuned with instructions have
 demonstrated remarkable capabilities in various tasks and languages. However,

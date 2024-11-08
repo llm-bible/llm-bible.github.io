@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024glitch
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.09894"}
-tags: ['Survey Paper', 'Tokenization', 'Uncategorized']
+tags: ['Survey Paper', 'Tokenization']
 ---
 With the expanding application of Large Language Models (LLMs) in various
 domains, it becomes imperative to comprehensively investigate their unforeseen

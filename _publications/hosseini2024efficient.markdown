@@ -7,7 +7,7 @@ year: 2024
 bibkey: hosseini2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.01866"}
-tags: ['GPT', 'Model Architecture', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Tools']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 comprehending and analyzing lengthy sequential inputs, owing to their extensive

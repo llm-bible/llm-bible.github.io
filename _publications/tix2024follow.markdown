@@ -7,7 +7,7 @@ year: 2024
 bibkey: tix2024follow
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12017"}
-tags: ['Reinforcement Learning', 'Uncategorized']
+tags: ['Reinforcement Learning']
 ---
 This study investigates the impact of Large Language Models (LLMs) generating
 follow-up questions in response to user requests for short (1-page) text

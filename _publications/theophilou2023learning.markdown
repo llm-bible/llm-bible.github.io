@@ -7,7 +7,7 @@ year: 2023
 bibkey: theophilou2023learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.01540"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG']
 ---
 Artificial intelligence's (AI) progress holds great promise in tackling
 pressing societal concerns such as health and climate. Large Language Models

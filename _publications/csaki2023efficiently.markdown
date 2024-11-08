@@ -7,7 +7,7 @@ year: 2023
 bibkey: csaki2023efficiently
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.05741"}
-tags: ['Efficiency And Optimization', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Training Techniques']
 ---
 Recent large language models (LLM) exhibit sub-optimal performance on
 low-resource languages, as the training data of these models is usually

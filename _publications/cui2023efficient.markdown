@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.08177"}
   - {name: "Code", url: "https://github.com/ymcui/Chinese-LLaMA-Alpaca"}
   - {name: "Code", url: "https://github.com/ymcui/Chinese-LLaMA-Alpaca-2"}
-tags: ['Efficiency And Optimization', 'GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'TACL', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'TACL', 'Training Techniques']
 ---
 Large Language Models (LLMs), such as ChatGPT and GPT-4, have dramatically
 transformed natural language processing research and shown promising strides

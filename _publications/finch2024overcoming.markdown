@@ -7,7 +7,7 @@ year: 2024
 bibkey: finch2024overcoming
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.15471"}
-tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Training Techniques']
 ---
 Mastering commonsense understanding and reasoning is a pivotal skill
 essential for conducting engaging conversations. While there have been several

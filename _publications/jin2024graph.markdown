@@ -8,7 +8,7 @@ bibkey: jin2024graph
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.07103"}
   - {name: "Code", url: "https://github.com/PeterGriffinJin/Graph-CoT"}
-tags: ['Has Code', 'RAG', 'Tools', 'Uncategorized']
+tags: ['Has Code', 'RAG', 'Tools']
 ---
 Large language models (LLMs), while exhibiting exceptional performance,
 suffer from hallucinations, especially on knowledge-intensive tasks. Existing

@@ -8,7 +8,7 @@ bibkey: liu2024open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13524"}
   - {name: "Code", url: "https://github.com/blcuicall/OMGEval"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
 ---
 Modern large language models (LLMs) should generally benefit individuals from
 various cultural backgrounds around the world. However, most recent advanced

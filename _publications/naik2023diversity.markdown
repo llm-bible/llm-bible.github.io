@@ -7,7 +7,7 @@ year: 2023
 bibkey: naik2023diversity
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.07088"}
-tags: ['Prompting', 'RAG', 'Uncategorized']
+tags: ['Prompting', 'RAG']
 ---
 Large language models (LLMs) are documented to struggle in settings that
 require complex reasoning. Nevertheless, instructing the model to break down

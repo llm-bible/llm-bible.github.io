@@ -7,7 +7,7 @@ year: 2023
 bibkey: xie2023empirical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.10035"}
-tags: ['Efficiency And Optimization', 'Few Shot', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Few Shot', 'GPT', 'Model Architecture', 'Prompting', 'RAG']
 ---
 Large language models (LLMs) exhibited powerful capability in various natural
 language processing tasks. This work focuses on exploring LLM performance on

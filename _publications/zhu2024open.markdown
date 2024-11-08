@@ -8,7 +8,7 @@ bibkey: zhu2024open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.19853"}
   - {name: "Code", url: "https://github.com/RUC-GSAI/YuLan-Chat"}
-tags: ['Applications', 'Fine Tuning', 'Has Code', 'RAG', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Fine Tuning', 'Has Code', 'RAG', 'Tools', 'Training Techniques']
 ---
 Large language models (LLMs) have become the foundation of many applications,
 leveraging their extensive capabilities in processing and understanding natural

@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023principled
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.11135"}
-tags: ['Tools', 'Uncategorized']
+tags: ['Tools']
 ---
 Large Language Models (LLMs) are versatile, yet they often falter in tasks
 requiring deep and reliable reasoning due to issues like hallucinations,

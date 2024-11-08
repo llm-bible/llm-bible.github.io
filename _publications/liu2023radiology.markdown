@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023radiology
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.08666"}
-tags: ['GPT', 'Merging', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Merging', 'Model Architecture']
 ---
 We introduce Radiology-GPT, a large language model for radiology. Using an
 instruction tuning approach on an extensive dataset of radiology domain

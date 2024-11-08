@@ -7,7 +7,7 @@ year: 2024
 bibkey: lynch2024eight
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.16835"}
-tags: ['Security', 'Survey Paper', 'Uncategorized']
+tags: ['Security', 'Survey Paper']
 ---
 Machine unlearning can be useful for removing harmful capabilities and
 memorized text from large language models (LLMs), but there are not yet

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024goal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.07234"}
-tags: ['Prompting', 'Reinforcement Learning', 'Security', 'Uncategorized']
+tags: ['Prompting', 'Reinforcement Learning', 'Security']
 ---
 Current large language models (LLMs) provide a strong foundation for
 large-scale user-oriented natural language tasks. A large number of users can

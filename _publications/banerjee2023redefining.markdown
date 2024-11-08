@@ -7,7 +7,7 @@ year: 2023
 bibkey: banerjee2023redefining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.05626"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 In this paper, we delve into the advancement of domain-specific Large
 Language Models (LLMs) with a focus on their application in software

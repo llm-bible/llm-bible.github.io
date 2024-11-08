@@ -7,7 +7,7 @@ year: 2023
 bibkey: ding2023harnessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.10706"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 To explore how humans can best leverage LLMs for writing and how interacting
 with these models affects feelings of ownership and trust in the writing

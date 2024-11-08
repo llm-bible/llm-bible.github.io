@@ -7,7 +7,7 @@ year: 2022
 bibkey: chakrabarty2022help
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2210.13669v1"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Recent work in training large language models (LLMs) to follow natural
 language instructions has opened up exciting opportunities for natural language

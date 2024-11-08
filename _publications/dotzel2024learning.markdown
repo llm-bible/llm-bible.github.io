@@ -8,7 +8,7 @@ bibkey: dotzel2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.03103"}
   - {name: "Code", url: "https://github.com/cornell-zhang/llm-datatypes"}
-tags: ['Applications', 'Efficiency And Optimization', 'Has Code', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'Efficiency And Optimization', 'Has Code', 'RAG', 'Reinforcement Learning']
 ---
 The increasing size of large language models (LLMs) traditionally requires
 low-precision integer formats to meet strict latency and power demands. Yet

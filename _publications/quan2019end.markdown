@@ -7,7 +7,7 @@ year: 2019
 bibkey: quan2019end
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.12086"}
-tags: ['RAG', 'Tools', 'Uncategorized']
+tags: ['RAG', 'Tools']
 ---
 Ellipsis and co-reference are common and ubiquitous especially in multi-turn
 dialogues. In this paper, we treat the resolution of ellipsis and co-reference

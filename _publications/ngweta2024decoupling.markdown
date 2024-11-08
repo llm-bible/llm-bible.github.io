@@ -7,7 +7,7 @@ year: 2024
 bibkey: ngweta2024decoupling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.04224"}
-tags: ['Applications', 'Prompting', 'Responsible AI', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Prompting', 'Responsible AI', 'Training Techniques']
 ---
 Large Language Models (LLMs) need to be aligned with human expectations to
 ensure their safety and utility in most applications. Alignment is challenging,

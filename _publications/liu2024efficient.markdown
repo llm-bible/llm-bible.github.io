@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.06951"}
-tags: ['Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Typically, training LLMs with long context sizes is computationally
 expensive, requiring extensive training hours and GPU resources. Existing

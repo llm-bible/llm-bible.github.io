@@ -8,7 +8,7 @@ bibkey: zhang2024boosting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.01229"}
   - {name: "Code", url: "https://github.com/weizeming/momentum-attack-llm"}
-tags: ['Efficiency And Optimization', 'Has Code', 'Prompting', 'Security', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'Has Code', 'Prompting', 'Security']
 ---
 Large Language Models (LLMs) have achieved remarkable success across diverse
 tasks, yet they remain vulnerable to adversarial attacks, notably the

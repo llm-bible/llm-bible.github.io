@@ -7,7 +7,7 @@ year: 2024
 bibkey: xi2024play
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.16378"}
-tags: ['Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 The rise of large language models (LLMs) has opened new opportunities in
 Recommender Systems (RSs) by enhancing user behavior modeling and content

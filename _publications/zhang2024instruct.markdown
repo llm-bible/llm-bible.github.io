@@ -8,7 +8,7 @@ bibkey: zhang2024instruct
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.07296"}
   - {name: "Code", url: "https://github.com/bonbon-rj/InstructDriver"}
-tags: ['Has Code', 'Interpretability And Explainability', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Has Code', 'Interpretability And Explainability', 'Reinforcement Learning']
 ---
 Motion planning in complex scenarios is the core challenge in autonomous
 driving. Conventional methods apply predefined rules or learn from driving data

@@ -7,7 +7,7 @@ year: 2024
 bibkey: brahman2024art
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12043"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Training Techniques']
 ---
 Chat-based language models are designed to be helpful, yet they should not
 comply with every user request. While most existing work primarily focuses on

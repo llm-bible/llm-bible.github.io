@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024controllable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.00361"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 Data augmentation (DA) is crucial to mitigate model training instability and
 over-fitting problems in low-resource open-domain dialogue generation. However,

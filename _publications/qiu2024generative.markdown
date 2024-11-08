@@ -7,7 +7,7 @@ year: 2024
 bibkey: qiu2024generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.10722"}
-tags: ['Applications', 'Efficiency And Optimization', 'Merging', 'RAG', 'Security', 'Uncategorized']
+tags: ['Applications', 'Efficiency And Optimization', 'Merging', 'RAG', 'Security']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities. Their
 powerful generative abilities enable flexible responses based on various

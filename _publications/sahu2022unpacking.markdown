@@ -7,7 +7,7 @@ year: 2022
 bibkey: sahu2022unpacking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.15093"}
-tags: ['Prompting', 'Uncategorized']
+tags: ['Prompting']
 ---
 If a Large Language Model (LLM) answers "yes" to the question "Are mountains
 tall?" then does it know what a mountain is? Can you rely on it responding

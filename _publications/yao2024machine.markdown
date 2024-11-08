@@ -7,7 +7,7 @@ year: 2024
 bibkey: yao2024machine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.15159"}
-tags: ['Ethics And Bias', 'Responsible AI', 'Security', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Ethics And Bias', 'Responsible AI', 'Security', 'Tools', 'Training Techniques']
 ---
 This study investigates the concept of the `right to be forgotten' within the
 context of large language models (LLMs). We explore machine unlearning as a

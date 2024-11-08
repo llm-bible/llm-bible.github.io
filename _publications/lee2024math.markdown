@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024math
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.00864"}
-tags: ['Efficiency And Optimization', 'Uncategorized']
+tags: ['Efficiency And Optimization']
 ---
 Multiple choice questions (MCQs) are a popular method for evaluating
 students' knowledge due to their efficiency in administration and grading.

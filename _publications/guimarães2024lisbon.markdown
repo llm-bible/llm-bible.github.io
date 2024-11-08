@@ -7,7 +7,7 @@ year: 2024
 bibkey: guimarães2024lisbon
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.03127"}
-tags: ['Prompting', 'Training Techniques', 'Uncategorized']
+tags: ['Prompting', 'Training Techniques']
 ---
 This paper describes our approach to the SemEval-2024 safe biomedical Natural
 Language Inference for Clinical Trials (NLI4CT) task, which concerns

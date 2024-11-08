@@ -7,7 +7,7 @@ year: 2023
 bibkey: macina2023opportunities
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.09919"}
-tags: ['Reinforcement Learning', 'Uncategorized']
+tags: ['Reinforcement Learning']
 ---
 Designing dialog tutors has been challenging as it involves modeling the
 diverse and complex pedagogical strategies employed by human tutors. Although

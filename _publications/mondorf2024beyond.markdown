@@ -7,7 +7,7 @@ year: 2024
 bibkey: mondorf2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.01869"}
-tags: ['Survey Paper', 'Training Techniques', 'Uncategorized']
+tags: ['Survey Paper', 'Training Techniques']
 ---
 Large language models (LLMs) have recently shown impressive performance on
 tasks involving reasoning, leading to a lively debate on whether these models

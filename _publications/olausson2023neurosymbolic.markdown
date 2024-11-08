@@ -8,7 +8,7 @@ bibkey: olausson2023neurosymbolic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15164"}
   - {name: "Code", url: "https://github.com/benlipkin/linc"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning']
 ---
 Logical reasoning, i.e., deductively inferring the truth value of a
 conclusion from a set of premises, is an important task for artificial

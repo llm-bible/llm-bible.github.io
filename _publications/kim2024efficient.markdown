@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14714"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 This report introduces \texttt\{EEVE-Korean-v1.0\}, a Korean adaptation of
 large language models that exhibit remarkable capabilities across English and

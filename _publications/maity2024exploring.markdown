@@ -7,7 +7,7 @@ year: 2024
 bibkey: maity2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.11579"}
-tags: ['Applications', 'Efficiency And Optimization', 'Fine Tuning', 'Merging', 'Prompting', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Applications', 'Efficiency And Optimization', 'Fine Tuning', 'Merging', 'Prompting', 'Reinforcement Learning', 'Tools']
 ---
 In the era of generative artificial intelligence (AI), the fusion of large
 language models (LLMs) offers unprecedented opportunities for innovation in the

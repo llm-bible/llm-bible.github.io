@@ -7,7 +7,7 @@ year: 2023
 bibkey: alizadeh2023llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.11514"}
-tags: ['Tools', 'Uncategorized']
+tags: ['Tools']
 ---
 Large language models (LLMs) are central to modern natural language
 processing, delivering exceptional performance in various tasks. However, their

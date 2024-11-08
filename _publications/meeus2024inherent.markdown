@@ -7,7 +7,7 @@ year: 2024
 bibkey: meeus2024inherent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.17975"}
-tags: ['Reinforcement Learning', 'Security', 'Training Techniques', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Security', 'Training Techniques']
 ---
 Large Language Models (LLMs) are often trained on vast amounts of undisclosed
 data, motivating the development of post-hoc Membership Inference Attacks

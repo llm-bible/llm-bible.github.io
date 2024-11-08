@@ -7,7 +7,7 @@ year: 2024
 bibkey: tao2024chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.18121"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 Recent advances in interactive large language models like ChatGPT have
 revolutionized various domains; however, their behavior in natural and

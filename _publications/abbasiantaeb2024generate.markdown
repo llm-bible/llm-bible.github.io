@@ -7,7 +7,7 @@ year: 2024
 bibkey: abbasiantaeb2024generate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.19302"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 CIS is a prominent area in IR which focuses on developing interactive
 knowledge assistants. These systems must adeptly comprehend the user's

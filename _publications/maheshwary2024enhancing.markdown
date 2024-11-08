@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.16783"}
   - {name: "Code", url: "https://github.com/ServiceNow/M2Lingual,"}
   - {name: "Code", url: "https://huggingface.co/datasets/ServiceNow-AI/"}
-tags: ['Has Code', 'Training Techniques', 'Uncategorized']
+tags: ['Has Code', 'Training Techniques']
 ---
 Instruction finetuning (IFT) is critical for aligning Large Language Models
 (LLMs) to follow instructions. While many effective IFT datasets have been

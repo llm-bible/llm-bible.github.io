@@ -7,7 +7,7 @@ year: 2023
 bibkey: agrawal2023are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.12810"}
-tags: ['Reinforcement Learning', 'Uncategorized']
+tags: ['Reinforcement Learning']
 ---
 The potential of large language models (LLMs) to reason like humans has been
 a highly contested topic in Machine Learning communities. However, the

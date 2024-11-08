@@ -7,7 +7,7 @@ year: 2024
 bibkey: rawte2024come
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.18976"}
-tags: ['Prompting', 'Uncategorized']
+tags: ['Prompting']
 ---
 Hallucination has emerged as the most vulnerable aspect of contemporary Large
 Language Models (LLMs). In this paper, we introduce the Sorry, Come Again (SCA)

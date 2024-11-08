@@ -7,7 +7,7 @@ year: 2023
 bibkey: chang2023how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14019"}
-tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting', 'Tools', 'Training Techniques']
 ---
 As large language models (LLMs) like ChatGPT exhibited unprecedented machine
 intelligence, it also shows great performance in assisting hardware engineers

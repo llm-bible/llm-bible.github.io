@@ -7,7 +7,7 @@ year: 2021
 bibkey: schucher2021power
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.08525"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Training Techniques']
 ---
 Prompt tuning has recently emerged as an effective method for adapting
 pre-trained language models to a number of language understanding and

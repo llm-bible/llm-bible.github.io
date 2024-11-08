@@ -7,7 +7,7 @@ year: 2023
 bibkey: dang2023choice
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.03199"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting']
 ---
 We propose a conceptual perspective on prompts for Large Language Models
 (LLMs) that distinguishes between (1) diegetic prompts (part of the narrative,

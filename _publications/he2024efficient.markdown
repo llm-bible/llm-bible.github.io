@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.18057"}
-tags: ['Applications', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large Language Models(LLMs) have had a profound impact on AI applications,
 particularly in the domains of long-text comprehension and generation. KV Cache

@@ -7,7 +7,7 @@ year: 2024
 bibkey: hu2024wise
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10987"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG', 'Training Techniques']
 ---
 Knowledge editing aims to rectify inaccuracies in large language models
 (LLMs) without costly retraining for outdated or erroneous knowledge. However,

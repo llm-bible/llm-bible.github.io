@@ -8,7 +8,7 @@ bibkey: he2024zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11721"}
   - {name: "Code", url: "https://github.com/HBX-hbx/dynamics_of_zero-shot_generalization"}
-tags: ['Has Code', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Has Code', 'Reinforcement Learning', 'Training Techniques']
 ---
 Understanding alignment techniques begins with comprehending zero-shot
 generalization brought by instruction tuning, but little of the mechanism has

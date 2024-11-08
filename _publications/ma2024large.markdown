@@ -7,7 +7,7 @@ year: 2024
 bibkey: ma2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.19346"}
-tags: ['Prompting', 'Uncategorized']
+tags: ['Prompting']
 ---
 Large language models (LLMs) demonstrate substantial capabilities in solving
 math problems. However, they tend to produce hallucinations when given

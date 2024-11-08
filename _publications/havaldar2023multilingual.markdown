@@ -7,7 +7,7 @@ year: 2023
 bibkey: havaldar2023multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.01370"}
-tags: ['BERT', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['BERT', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning']
 ---
 Emotions are experienced and expressed differently across the world. In order
 to use Large Language Models (LMs) for multilingual tasks that require

@@ -7,7 +7,7 @@ year: 2023
 bibkey: nasr2023scalable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.17035"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques']
 ---
 This paper studies extractable memorization: training data that an adversary
 can efficiently extract by querying a machine learning model without prior

@@ -7,7 +7,7 @@ year: 2024
 bibkey: gao2024practical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.10223"}
-tags: ['Fine Tuning', 'Merging', 'Reinforcement Learning', 'Security', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Fine Tuning', 'Merging', 'Reinforcement Learning', 'Security', 'Tools', 'Training Techniques']
 ---
 While LLMs have demonstrated impressive performance across various domains
 and tasks, their security issues have become increasingly severe. Machine

@@ -8,7 +8,7 @@ bibkey: sheng2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.03290"}
   - {name: "Code", url: "https://github.com/mail-ecnu/Text-Gym-Agents"}
-tags: ['Agentic', 'Few Shot', 'Has Code', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Few Shot', 'Has Code', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 The formidable capacity for zero- or few-shot decision-making in language
 agents encourages us to pose a compelling question: Can language agents be

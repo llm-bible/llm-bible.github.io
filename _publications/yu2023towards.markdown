@@ -7,7 +7,7 @@ year: 2023
 bibkey: yu2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.04959"}
-tags: ['Applications', 'Merging', 'Prompting', 'Survey Paper', 'Uncategorized']
+tags: ['Applications', 'Merging', 'Prompting', 'Survey Paper']
 ---
 Chain-of-Thought (CoT), a step-wise and coherent reasoning chain, shows its
 impressive strength when used as a prompting strategy for large language models

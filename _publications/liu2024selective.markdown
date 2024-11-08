@@ -8,7 +8,7 @@ bibkey: liu2024selective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.16705"}
   - {name: "Code", url: "https://github.com/Blue-Raincoat/SelectIT"}
-tags: ['GPT', 'Has Code', 'Model Architecture', 'Security', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Security', 'Tools']
 ---
 Instruction tuning (IT) is crucial to tailoring large language models (LLMs)
 towards human-centric interactions. Recent advancements have shown that the

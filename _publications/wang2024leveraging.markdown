@@ -8,7 +8,7 @@ bibkey: wang2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.02814"}
   - {name: "Code", url: "https://github.com/wangxu0820/NegativePrompt"}
-tags: ['Applications', 'Attention Mechanism', 'GPT', 'Has Code', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'Attention Mechanism', 'GPT', 'Has Code', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have become integral to a wide spectrum of
 applications, ranging from traditional computing tasks to advanced artificial

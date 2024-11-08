@@ -8,7 +8,7 @@ bibkey: tenney2024interactive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.07498"}
   - {name: "Code", url: "http://goo.gle/sequence-salience"}
-tags: ['Few Shot', 'Has Code', 'Interpretability And Explainability', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Few Shot', 'Has Code', 'Interpretability And Explainability', 'Prompting', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 We present Sequence Salience, a visual tool for interactive prompt debugging
 with input salience methods. Sequence Salience builds on widely used salience

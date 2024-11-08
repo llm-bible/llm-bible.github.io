@@ -7,7 +7,7 @@ year: 2024
 bibkey: lu2024every
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13748"}
-tags: ['Responsible AI', 'Training Techniques', 'Uncategorized']
+tags: ['Responsible AI', 'Training Techniques']
 ---
 This paper investigates the propagation of harmful information in
 multilingual large language models (LLMs) and evaluates the efficacy of various

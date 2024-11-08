@@ -7,7 +7,7 @@ year: 2023
 bibkey: bhargava2023efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.06245"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 As large dialogue models become commonplace in practice, the problems
 surrounding high compute requirements for training, inference and larger memory

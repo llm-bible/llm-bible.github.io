@@ -7,7 +7,7 @@ year: 2024
 bibkey: chalkidis2024llama
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.13592"}
-tags: ['Reinforcement Learning', 'Uncategorized']
+tags: ['Reinforcement Learning']
 ---
 Instruction-finetuned Large Language Models inherit clear political leanings
 that have been shown to influence downstream task performance. We expand this

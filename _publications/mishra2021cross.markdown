@@ -7,7 +7,7 @@ year: 2021
 bibkey: mishra2021cross
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2104.08773v4"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 Humans (e.g., crowdworkers) have a remarkable ability in solving different
 tasks, by simply reading textual instructions that define them and looking at a

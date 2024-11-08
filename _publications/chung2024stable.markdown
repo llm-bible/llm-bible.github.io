@@ -7,7 +7,7 @@ year: 2024
 bibkey: chung2024stable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.07787"}
-tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Stable pre-training is essential for achieving better-performing language
 models. However, tracking pre-training stability by calculating gradient

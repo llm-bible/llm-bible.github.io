@@ -8,7 +8,7 @@ bibkey: cheng2022binding
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2210.02875v2"}
   - {name: "Code", url: "https://github.com/HKUNLP/Binder"}
-tags: ['GPT', 'Has Code', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Security', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Has Code', 'Interpretability And Explainability', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Security', 'Tools', 'Training Techniques']
 ---
 Though end-to-end neural approaches have recently been dominating NLP tasks
 in both performance and ease-of-use, they lack interpretability and robustness.

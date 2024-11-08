@@ -7,7 +7,7 @@ year: 2023
 bibkey: yao2023from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.12014"}
-tags: ['Reinforcement Learning', 'Survey Paper', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Survey Paper']
 ---
 Big models, exemplified by Large Language Models (LLMs), are models typically
 pre-trained on massive data and comprised of enormous parameters, which not

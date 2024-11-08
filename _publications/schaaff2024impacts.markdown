@@ -7,7 +7,7 @@ year: 2024
 bibkey: schaaff2024impacts
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.03945"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 Large Language Models (LLMs) are increasingly being used in learning
 environments to support teaching-be it as learning companions or as tutors.

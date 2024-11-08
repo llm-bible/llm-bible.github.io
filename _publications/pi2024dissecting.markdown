@@ -7,7 +7,7 @@ year: 2024
 bibkey: pi2024dissecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14737"}
-tags: ['Uncategorized']
+tags: []
 ---
 Recent empirical results have sparked a debate about whether or not Large
 Language Models (LLMs) are capable of Theory of Mind (ToM). While some have

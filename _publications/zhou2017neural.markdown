@@ -7,7 +7,7 @@ year: 2017
 bibkey: zhou2017neural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1704.01792"}
-tags: ['Uncategorized']
+tags: []
 ---
 Automatic question generation aims to generate questions from a text passage
 where the generated questions can be answered by certain sub-spans of the given

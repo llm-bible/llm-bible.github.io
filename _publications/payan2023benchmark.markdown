@@ -7,7 +7,7 @@ year: 2023
 bibkey: payan2023benchmark
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.14495"}
-tags: ['Few Shot', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Tools', 'Uncategorized']
+tags: ['Few Shot', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Tools']
 ---
 With the evolution of Large Language Models (LLMs) we can solve increasingly
 more complex NLP tasks across various domains, including spreadsheets. This

@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023trust
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.16339"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Training Techniques']
 ---
 Large Language Models (LLMs) have demonstrated exceptional natural language
 understanding abilities and have excelled in a variety of natural language

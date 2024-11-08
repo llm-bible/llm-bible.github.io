@@ -8,7 +8,7 @@ bibkey: yang2024crafting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.17962"}
   - {name: "Code", url: "https://github.com/Bernard-Yang/SimsChat"}
-tags: ['Agentic', 'Has Code', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Agentic', 'Has Code', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 Large Language Models (LLMs) demonstrate a remarkable ability to comprehend
 human instructions and generate high-quality text. This capability allows LLMs

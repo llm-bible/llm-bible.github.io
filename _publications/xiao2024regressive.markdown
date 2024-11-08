@@ -7,7 +7,7 @@ year: 2024
 bibkey: xiao2024regressive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.00263"}
-tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Model Architecture', 'Training Techniques']
 ---
 Large language models (LLMs) suffer from low efficiency as the mismatch
 between the requirement of auto-regressive decoding and the design of most

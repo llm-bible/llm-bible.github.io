@@ -7,7 +7,7 @@ year: 2023
 bibkey: yuan2023beneath
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.12660"}
-tags: ['Attention Mechanism', 'Fine Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Attention Mechanism', 'Fine Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 The vital role of analogical reasoning in human cognition allows us to grasp
 novel concepts by linking them with familiar ones through shared relational

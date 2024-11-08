@@ -7,7 +7,7 @@ year: 2024
 bibkey: wertheimer2024accelerating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.19124"}
-tags: ['Training Techniques', 'Uncategorized']
+tags: ['Training Techniques']
 ---
 This technical report describes the design and training of novel speculative
 decoding draft models, for accelerating the inference speeds of large language

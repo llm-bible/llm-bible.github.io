@@ -8,7 +8,7 @@ bibkey: bi2023when
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.15452"}
   - {name: "Code", url: "https://github.com/zjunlp/EasyInstruct"}
-tags: ['Has Code', 'Prompting', 'Tools', 'Uncategorized']
+tags: ['Has Code', 'Prompting', 'Tools']
 ---
 In the realm of embodied artificial intelligence, the reasoning capabilities
 of Large Language Models (LLMs) play a pivotal role. Although there are

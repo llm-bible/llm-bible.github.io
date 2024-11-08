@@ -7,7 +7,7 @@ year: 2023
 bibkey: jha2023less
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.13133"}
-tags: ['Tools', 'Uncategorized']
+tags: ['Tools']
 ---
 Large Language Models are traditionally finetuned on large instruction
 datasets. However recent studies suggest that small, high-quality datasets can

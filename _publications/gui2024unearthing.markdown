@@ -7,7 +7,7 @@ year: 2024
 bibkey: gui2024unearthing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14710"}
-tags: ['RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['RAG', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) demonstrate remarkable potential across various
 domains; however, they exhibit a significant performance gap in Information

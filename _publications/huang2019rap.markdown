@@ -7,7 +7,7 @@ year: 2019
 bibkey: huang2019rap
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1903.08905"}
-tags: ['Attention Mechanism', 'Merging', 'Model Architecture', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Attention Mechanism', 'Merging', 'Model Architecture', 'Reinforcement Learning', 'Tools']
 ---
 The response selection has been an emerging research topic due to the growing
 interest in dialogue modeling, where the goal of the task is to select an

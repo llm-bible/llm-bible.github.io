@@ -8,7 +8,7 @@ bibkey: shen2024rapid
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.05467"}
   - {name: "Code", url: "https://github.com/SolidShen/RIPPLE_official/tree/official"}
-tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Has Code', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Responsible AI', 'Security', 'TACL', 'Tools', 'Uncategorized']
+tags: ['Attention Mechanism', 'Efficiency And Optimization', 'Has Code', 'Model Architecture', 'Prompting', 'RAG', 'Reinforcement Learning', 'Responsible AI', 'Security', 'TACL', 'Tools']
 ---
 Large Language Models (LLMs) have become prevalent across diverse sectors,
 transforming human life with their extraordinary reasoning and comprehension

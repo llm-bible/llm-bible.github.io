@@ -7,7 +7,7 @@ year: 2024
 bibkey: levy2024same
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14848"}
-tags: ['Tools', 'Uncategorized']
+tags: ['Tools']
 ---
 This paper explores the impact of extending input lengths on the capabilities
 of Large Language Models (LLMs). Despite LLMs advancements in recent times,

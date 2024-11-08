@@ -7,7 +7,7 @@ year: 2023
 bibkey: stapleton2023seeing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.03097"}
-tags: ['Applications', 'GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large generative AI models (GMs) like GPT and DALL-E are trained to generate
 content for general, wide-ranging purposes. GM content filters are generalized

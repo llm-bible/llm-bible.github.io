@@ -7,7 +7,7 @@ year: 2023
 bibkey: lyu2023translating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.09038"}
-tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Prompting', 'RAG', 'Uncategorized']
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Prompting', 'RAG']
 ---
 The large language model called ChatGPT has drawn extensively attention
 because of its human-like expression and reasoning abilities. In this study, we

@@ -7,7 +7,7 @@ year: 2024
 bibkey: sadallah2024are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.12094"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 Cryptic crosswords are puzzles that rely not only on general knowledge but
 also on the solver's ability to manipulate language on different levels and

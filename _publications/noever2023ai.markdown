@@ -7,7 +7,7 @@ year: 2023
 bibkey: noever2023ai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.07326"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 The research explores the steerability of Large Language Models (LLMs),
 particularly OpenAI's ChatGPT iterations. By employing a behavioral psychology

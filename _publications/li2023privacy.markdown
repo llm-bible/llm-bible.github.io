@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023privacy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.10383"}
-tags: ['Fine Tuning', 'Responsible AI', 'Security', 'Uncategorized']
+tags: ['Fine Tuning', 'Responsible AI', 'Security']
 ---
 The advancement of large language models (LLMs) has significantly enhanced
 the ability to effectively tackle various downstream NLP tasks and unify these

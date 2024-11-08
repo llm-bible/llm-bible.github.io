@@ -8,7 +8,7 @@ bibkey: sadeq2024mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.17260"}
   - {name: "Code", url: "https://github.com/NafisSadeq/rolefact.git"}
-tags: ['Agentic', 'Applications', 'Has Code', 'Reinforcement Learning', 'Security', 'Uncategorized']
+tags: ['Agentic', 'Applications', 'Has Code', 'Reinforcement Learning', 'Security']
 ---
 Role-playing has wide-ranging applications in customer support, embodied
 agents, computational social science, etc. The influence of parametric world

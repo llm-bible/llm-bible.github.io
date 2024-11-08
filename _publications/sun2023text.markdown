@@ -7,7 +7,7 @@ year: 2023
 bibkey: sun2023text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.08241"}
-tags: ['Few Shot', 'Prompting', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Few Shot', 'Prompting', 'Reinforcement Learning']
 ---
 This work summarizes two ways to accomplish Time-Series (TS) tasks in today's
 Large Language Model (LLM) context: LLM-for-TS (model-centric) designs and

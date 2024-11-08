@@ -8,7 +8,7 @@ bibkey: oswald2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.06650"}
   - {name: "Code", url: "https://github.com/IBM/NL2PDDL"}
-tags: ['Has Code', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Has Code', 'Reinforcement Learning', 'Tools']
 ---
 Developing domain models is one of the few remaining places that require
 manual human labor in AI planning. Thus, in order to make planning more

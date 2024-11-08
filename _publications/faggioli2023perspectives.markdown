@@ -7,7 +7,7 @@ year: 2023
 bibkey: faggioli2023perspectives
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.09161"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 When asked, large language models (LLMs) like ChatGPT claim that they can
 assist with relevance judgments but it is not clear whether automated judgments

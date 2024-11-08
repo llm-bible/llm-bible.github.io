@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024automated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.02078"}
-tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Efficiency And Optimization', 'GPT', 'Model Architecture', 'Prompting', 'Reinforcement Learning', 'Training Techniques']
 ---
 A common way of assessing language learners' mastery of vocabulary is via
 multiple-choice cloze (i.e., fill-in-the-blank) questions. But the creation of

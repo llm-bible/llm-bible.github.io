@@ -7,7 +7,7 @@ year: 2023
 bibkey: koike2023how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.08369"}
-tags: ['Prompting', 'Uncategorized']
+tags: ['Prompting']
 ---
 To combat the misuse of Large Language Models (LLMs), many recent studies
 have presented LLM-generated-text detectors with promising performance. When

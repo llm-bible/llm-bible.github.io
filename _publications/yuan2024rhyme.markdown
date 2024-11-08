@@ -7,7 +7,7 @@ year: 2024
 bibkey: yuan2024rhyme
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.10130"}
-tags: ['GPT', 'Model Architecture', 'Uncategorized']
+tags: ['GPT', 'Model Architecture']
 ---
 Neural language representation models such as GPT, pre-trained on large-scale
 corpora, can effectively capture rich semantic patterns from plain text and be

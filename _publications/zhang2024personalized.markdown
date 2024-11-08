@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024personalized
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2402.10555v2"}
-tags: ['Attention Mechanism', 'Model Architecture', 'RAG', 'Tools', 'Uncategorized']
+tags: ['Attention Mechanism', 'Model Architecture', 'RAG', 'Tools']
 ---
 Leveraging users' long engagement histories is essential for personalized
 content recommendations. The success of pretrained language models (PLMs) in

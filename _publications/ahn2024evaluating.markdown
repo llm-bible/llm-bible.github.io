@@ -7,7 +7,7 @@ year: 2024
 bibkey: ahn2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.18027"}
-tags: ['Agentic', 'GPT', 'Model Architecture', 'Uncategorized']
+tags: ['Agentic', 'GPT', 'Model Architecture']
 ---
 While Large Language Models (LLMs) can serve as agents to simulate human
 behaviors (i.e., role-playing agents), we emphasize the importance of

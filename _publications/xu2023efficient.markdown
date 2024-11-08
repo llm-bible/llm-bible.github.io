@@ -7,7 +7,7 @@ year: 2023
 bibkey: xu2023efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.00526"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG']
 ---
 High-dimensional token embeddings underpin Large Language Models (LLMs), as
 they can capture subtle semantic information and significantly enhance the

@@ -7,7 +7,7 @@ year: 2024
 bibkey: hazra2024sowing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.10647"}
-tags: ['Reinforcement Learning', 'Responsible AI', 'Security', 'Tools', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Responsible AI', 'Security', 'Tools']
 ---
 In the rapidly advancing field of artificial intelligence, the concept of
 Red-Teaming or Jailbreaking large language models (LLMs) has emerged as a

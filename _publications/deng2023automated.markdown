@@ -7,7 +7,7 @@ year: 2023
 bibkey: deng2023automated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.08715"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Security', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'RAG', 'Security', 'Tools']
 ---
 Large Language Models (LLMs) have revolutionized Artificial Intelligence (AI)
 services due to their exceptional proficiency in understanding and generating

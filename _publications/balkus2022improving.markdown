@@ -7,7 +7,7 @@ year: 2022
 bibkey: balkus2022improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.10981"}
-tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 GPT-3 is a large-scale natural language model developed by OpenAI that can
 perform many different tasks, including topic classification. Although

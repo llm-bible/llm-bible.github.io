@@ -7,7 +7,7 @@ year: 2024
 bibkey: vats2024exploring
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2402.18590v3"}
-tags: ['Prompting', 'RAG', 'Tools', 'Uncategorized']
+tags: ['Prompting', 'RAG', 'Tools']
 ---
 The paper underscores the significance of Large Language Models (LLMs) in
 reshaping recommender systems, attributing their value to unique reasoning

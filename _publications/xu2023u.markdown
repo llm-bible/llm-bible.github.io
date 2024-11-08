@@ -8,7 +8,7 @@ bibkey: xu2023u
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.05348"}
   - {name: "Code", url: "https://github.com/OPPOMKLab/u-LLaVA"}
-tags: ['Has Code', 'RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques', 'Uncategorized']
+tags: ['Has Code', 'RAG', 'Reinforcement Learning', 'Tools', 'Training Techniques']
 ---
 Recent advancements in multi-modal large language models (MLLMs) have led to
 substantial improvements in visual understanding, primarily driven by

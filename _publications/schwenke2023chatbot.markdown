@@ -7,7 +7,7 @@ year: 2023
 bibkey: schwenke2023chatbot
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.10729"}
-tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 The release of the large language model based chatbot ChatGPT in November
 2022 has brought considerable attention to the subject of artificial

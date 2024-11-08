@@ -7,7 +7,7 @@ year: 2024
 bibkey: prabhu2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.08869"}
-tags: ['Prompting', 'Uncategorized']
+tags: ['Prompting']
 ---
 Self-ensembling techniques with diverse reasoning paths such as
 Self-Consistency have demonstrated remarkable performance gains in text

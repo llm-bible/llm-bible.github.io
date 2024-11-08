@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024intelligent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13024"}
-tags: ['GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 This study explores the integration of the ChatGPT API with GPT-4 model and
 Microsoft Copilot Studio on the Microsoft Teams platform to develop an

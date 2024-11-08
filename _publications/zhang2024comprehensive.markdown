@@ -8,7 +8,7 @@ bibkey: zhang2024comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.01122"}
   - {name: "Code", url: "https://github.com/PKU-Baichuan-MLSystemLab/CFBench"}
-tags: ['Applications', 'Has Code', 'RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Applications', 'Has Code', 'RAG', 'Reinforcement Learning', 'Tools']
 ---
 The adeptness of Large Language Models (LLMs) in comprehending and following
 natural language instructions is critical for their deployment in sophisticated

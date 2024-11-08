@@ -7,7 +7,7 @@ year: 2024
 bibkey: zeng2024unleashing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.00557"}
-tags: ['Reinforcement Learning', 'Training Techniques', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Training Techniques']
 ---
 Language models pre-trained on general text have achieved impressive results
 in diverse fields. Yet, the distinct linguistic characteristics of

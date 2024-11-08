@@ -7,7 +7,7 @@ year: 2024
 bibkey: jabarian2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12032"}
-tags: ['RAG', 'Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['RAG', 'Reinforcement Learning', 'Tools']
 ---
 In this article, we explore the transformative potential of integrating
 generative AI, particularly Large Language Models (LLMs), into behavioral and

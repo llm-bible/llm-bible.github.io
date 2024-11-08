@@ -8,7 +8,7 @@ bibkey: kamahori2024cpu
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.07033"}
   - {name: "Code", url: "https://github.com/efeslab/fiddler"}
-tags: ['Has Code', 'Model Architecture', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Has Code', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) based on Mixture-of-Experts (MoE) architecture
 are showing promising performance on various tasks. However, running them on

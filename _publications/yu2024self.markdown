@@ -7,7 +7,7 @@ year: 2024
 bibkey: yu2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.15565"}
-tags: ['Prompting', 'RAG', 'Training Techniques', 'Uncategorized']
+tags: ['Prompting', 'RAG', 'Training Techniques']
 ---
 There is a growing trend of teaching large language models (LLMs) to solve
 mathematical problems through coding. Existing studies primarily focus on

@@ -7,7 +7,7 @@ year: 2023
 bibkey: bhat2023approach
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.02822"}
-tags: ['Reinforcement Learning', 'Tools', 'Uncategorized']
+tags: ['Reinforcement Learning', 'Tools']
 ---
 Despite the potential of Large Language Models (LLMs) as writing assistants,
 they are plagued by issues like coherence and fluency of the model output,

@@ -8,7 +8,7 @@ bibkey: xiao2023lm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.13534"}
   - {name: "Code", url: "https://github.com/FlagOpen/FlagEmbedding/tree/master/LM_Cocktail"}
-tags: ['Applications', 'Has Code', 'Merging', 'RAG', 'Reinforcement Learning', 'Uncategorized']
+tags: ['Applications', 'Has Code', 'Merging', 'RAG', 'Reinforcement Learning']
 ---
 The pre-trained language models are continually fine-tuned to better support
 downstream applications. However, this operation may result in significant

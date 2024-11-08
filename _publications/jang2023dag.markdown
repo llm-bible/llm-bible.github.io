@@ -7,7 +7,7 @@ year: 2023
 bibkey: jang2023dag
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.13784"}
-tags: ['Language Modeling', 'Uncategorized']
+tags: ['Language Modeling']
 ---
 This paper presents the DaG LLM (David and Goliath Large Language Model), a
 language model specialized for Korean and fine-tuned through Instruction Tuning

@@ -7,7 +7,7 @@ year: 2023
 bibkey: nguyen2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.12059"}
-tags: ['Few Shot', 'GPT', 'Model Architecture', 'Uncategorized']
+tags: ['Few Shot', 'GPT', 'Model Architecture']
 ---
 In this paper, we evaluate the ability of large language models (LLMs) to
 perform multiple choice symbol binding (MCSB) for multiple choice question

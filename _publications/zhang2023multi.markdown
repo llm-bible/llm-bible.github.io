@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.14353"}
-tags: ['RAG', 'Uncategorized']
+tags: ['RAG']
 ---
 The unprecedented performance of large language models (LLMs) requires
 comprehensive and accurate evaluation. We argue that for LLMs evaluation,

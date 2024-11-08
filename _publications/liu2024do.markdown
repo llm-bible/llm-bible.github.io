@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.02370"}
-tags: ['Applications', 'Model Architecture', 'Training Techniques', 'Uncategorized']
+tags: ['Applications', 'Model Architecture', 'Training Techniques']
 ---
 Large Language Models (LLMs) have recently displayed their extraordinary
 capabilities in language understanding. However, how to comprehensively assess

@@ -7,7 +7,7 @@ year: 2023
 bibkey: huang2023enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.17272"}
-tags: ['GPT', 'Model Architecture', 'Prompting', 'Tools', 'Uncategorized']
+tags: ['GPT', 'Model Architecture', 'Prompting', 'Tools']
 ---
 Large language models (LLMs) have exhibited remarkable ability in code
 generation. However, generating the correct solution in a single attempt still

@@ -8,7 +8,7 @@ bibkey: ma2023open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.04372"}
   - {name: "Code", url: "https://github.com/PurdueDigitalTwin/LaMPilot"}
-tags: ['Has Code', 'RAG', 'Tools', 'Uncategorized']
+tags: ['Has Code', 'RAG', 'Tools']
 ---
 Autonomous driving (AD) has made significant strides in recent years.
 However, existing frameworks struggle to interpret and execute spontaneous user
