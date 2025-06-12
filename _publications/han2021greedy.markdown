@@ -1,0 +1,26 @@
+---
+layout: publication
+title: 'Greedy Gradient Ensemble For Robust Visual Question Answering'
+authors: Han Xinzhe, Wang Shuhui, Su Chi, Huang Qingming, Tian Qi
+conference: "Arxiv"
+year: 2021
+citations: 64
+bibkey: han2021greedy
+additional_links:
+  - {name: "Paper", url: "https://arxiv.org/abs/2107.12651"}
+tags: ['Model Architecture', 'Tools', 'Attention Mechanism', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability']
+---
+Language bias is a critical issue in Visual Question Answering (VQA), where
+models often exploit dataset biases for the final decision without considering
+the image information. As a result, they suffer from performance drop on
+out-of-distribution data and inadequate visual explanation. Based on
+experimental analysis for existing robust VQA methods, we stress the language
+bias in VQA that comes from two aspects, i.e., distribution bias and shortcut
+bias. We further propose a new de-bias framework, Greedy Gradient Ensemble
+(GGE), which combines multiple biased models for unbiased base model learning.
+With the greedy strategy, GGE forces the biased models to over-fit the biased
+data distribution in priority, thus makes the base model pay more attention to
+examples that are hard to solve by biased models. The experiments demonstrate
+that our method makes better use of visual information and achieves
+state-of-the-art performance on diagnosing dataset VQA-CP without using extra
+annotations.
