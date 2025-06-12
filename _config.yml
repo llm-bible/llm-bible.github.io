@@ -14,7 +14,5 @@ plugins_dir:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-exclude:
-  - _publications/template  
 sass:
     style: compressed
